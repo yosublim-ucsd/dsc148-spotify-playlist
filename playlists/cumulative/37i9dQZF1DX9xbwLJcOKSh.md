@@ -4,7 +4,7 @@
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-117 songs - 8 hr 21 min
+118 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [THUNDERBIRD](https://open.spotify.com/track/2OujnD7bikTNQ9xtETVSeg) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [UNDER:COVER](https://open.spotify.com/album/3znmLzx9wimdLrSnu1MD5R) | 5:18 | 2022-02-28 | 2022-07-29 |
 | [Trigger](https://open.spotify.com/track/1oCMgEq64rcOTOEvyTraY7) | [Yuuki Ozaki](https://open.spotify.com/artist/6I5wmN6pwiACzmS70UhbHy) | [残響のテロル オリジナル・サウンドトラック 2 \-crystalized\-](https://open.spotify.com/album/5JhONeB41irLN6oHc1r3I6) | 5:04 | 2022-02-28 | 2022-07-29 |
 | [Trigger](https://open.spotify.com/track/0WzS0gRcots1x2LscMkpNX) | [Yuuki Ozaki](https://open.spotify.com/artist/6I5wmN6pwiACzmS70UhbHy) | [Trigger](https://open.spotify.com/album/0ztjPLsdtp9GJZunoiFEaO) | 5:07 | 2022-02-28 |  |
-| [Tsuki No Mayu](https://open.spotify.com/track/2GQRL3sE4eYy1dzJTI2AUF) | [Aki Okui](https://open.spotify.com/artist/5V9gHCDTCN8JXJo0g9FXjy) | [TURN A GUNDAM Original Motion Picture Soundtrack Ⅲ \- Cocoa](https://open.spotify.com/album/7x9edL2oWovJZsjIJUdRbz) | 5:38 | 2023-04-11 |  |
+| [Tsuki no Mayu](https://open.spotify.com/track/0drOFJvHxIMeFHd22GFWAH) | [Aki Okui](https://open.spotify.com/artist/5V9gHCDTCN8JXJo0g9FXjy) | [Tsuki no Mayu](https://open.spotify.com/album/0j8BKcPzD7w4TIrw9lD4AT) | 5:38 | 2023-04-11 |  |
+| [Tsuki No Mayu](https://open.spotify.com/track/2GQRL3sE4eYy1dzJTI2AUF) | [Aki Okui](https://open.spotify.com/artist/5V9gHCDTCN8JXJo0g9FXjy) | [TURN A GUNDAM Original Motion Picture Soundtrack Ⅲ \- Cocoa](https://open.spotify.com/album/7x9edL2oWovJZsjIJUdRbz) | 5:38 | 2023-04-11 | 2023-06-24 |
 | [UN SOFFIO DI VENTO](https://open.spotify.com/track/5l4P0kmJaBMk21x0cHBqym) | [ILA](https://open.spotify.com/artist/23e32slD0osGFsUpLUgxXR) | [YOKO KANNO produce Cyber Bicci](https://open.spotify.com/album/2QmOaMj4JwDkZOhveFu0RY) | 3:00 | 2022-02-28 |  |
 | [VOICES](https://open.spotify.com/track/2DQWxHJ8ei69pVs2U48w65) | [新居昭乃](https://open.spotify.com/artist/6Pp5qIsQ8kTUlFkK8dy2Ff) | [空の森\(BEST ALBUM\)](https://open.spotify.com/album/1Q4GRwR0Lg1gENqvcBEOaJ) | 3:54 | 2022-02-28 |  |
 | [VOICES](https://open.spotify.com/track/2NSrTzRrXOreAKQUyas96k) | [新居昭乃](https://open.spotify.com/artist/6Pp5qIsQ8kTUlFkK8dy2Ff) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 3:54 | 2022-02-28 | 2022-07-29 |

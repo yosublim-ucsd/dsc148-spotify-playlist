@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Aisi Woh Baarish",
+        "url": "https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187553,
+      "name": "Aisi Woh Baarish",
+      "url": "https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF"
+    },
+    {
+      "album": {
         "name": "Alakananda (Hindi version)",
         "url": "https://open.spotify.com/album/7k4VojLUcZq9onaU2X4dMC"
       },
@@ -2398,7 +2416,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 161666,
       "name": "Khushiyon Ke Pal",
       "url": "https://open.spotify.com/track/3chiE90csYmQ8UIZvuT9gH"
@@ -3410,10 +3428,32 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 430967,
       "name": "Piharva",
       "url": "https://open.spotify.com/track/4i4PJCJ0DYyUfXVHLS4fYU"
+    },
+    {
+      "album": {
+        "name": "Piya Ki Najariya",
+        "url": "https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0"
+      },
+      "artists": [
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        },
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194596,
+      "name": "Piya Ki Najariya",
+      "url": "https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-168 songs - 11 hr 14 min
+169 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Dependent](https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c) | [Dependent](https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny) | 3:12 | 2022-10-10 |  |
 | [Distant Stars](https://open.spotify.com/track/4Wtytfcgk9Giy8Hea4DG1i) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Distant Stars](https://open.spotify.com/album/2Wv7iYzGIQwUGLuZBUbkGR) | 3:19 | 2022-08-05 |  |
 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 | 2022-08-05 |  |
-| [Doodling Radar](https://open.spotify.com/track/335ANcnuKDzAuvQvGoklAh) | [Paco Salazar](https://open.spotify.com/artist/5Syv7DIBildXX75Q22tu74) | [Male Beige Reality](https://open.spotify.com/album/2lIY4Vw9rUNu7GwsrLXbrB) | 8:30 | 2022-08-05 |  |
+| [Doodling Radar](https://open.spotify.com/track/335ANcnuKDzAuvQvGoklAh) | [Paco Salazar](https://open.spotify.com/artist/5Syv7DIBildXX75Q22tu74) | [Male Beige Reality](https://open.spotify.com/album/2lIY4Vw9rUNu7GwsrLXbrB) | 8:30 | 2022-08-05 | 2023-06-24 |
 | [Dragged by the Hand](https://open.spotify.com/track/5f8sbbWtGlVnMq7NdZSllo) | [Mutes](https://open.spotify.com/artist/52mqrsNlDf6CVhB6XJ6LHf) | [Dreams of Being Cornered](https://open.spotify.com/album/6zMCRZbdkAeiJTE3tZSmja) | 3:06 | 2022-08-11 |  |
 | [Dream Shape](https://open.spotify.com/track/0G8gq218iW1AgI2EsXVnVW) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Dream Shape](https://open.spotify.com/album/2vKKxQuD4CeJ9NlMxYhe0b) | 2:44 | 2022-09-08 |  |
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2022-09-08 |  |
@@ -151,6 +151,7 @@
 | [Sun](https://open.spotify.com/track/3FveIpZMWBnwKSGyOHAEAa) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [Space Station Earth](https://open.spotify.com/album/4Y5aaWrAo2QpEkYhDWZx2B) | 2:17 | 2022-08-05 |  |
 | [Sun, Moon, Stars](https://open.spotify.com/track/73se7XAwwdg3LXE9UIqqXh) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Sun, Moon, Stars](https://open.spotify.com/album/7dNZEitMscif4pihF92VLy) | 3:41 | 2022-08-05 |  |
 | [Sunlight](https://open.spotify.com/track/5BHNGD7hUrdCwlsicEKE5y) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Possible Worlds](https://open.spotify.com/album/0siXjye1POJhBOMSOeNCK7) | 3:12 | 2022-10-14 |  |
+| [Take a Breath](https://open.spotify.com/track/7CqORTYCiP3rsZI0nbcK62) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Take a Breath](https://open.spotify.com/album/4ymI27jddmaOZlhEGjUGR2) | 5:33 | 2023-06-23 |  |
 | [Tender](https://open.spotify.com/track/2rDZsXn2IhQZaLDAf4ZCWN) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tender](https://open.spotify.com/album/0gbPQkpTglj3YRSXVCIfcE) | 2:34 | 2022-12-20 |  |
 | [Terra della straniera](https://open.spotify.com/track/6EGfGeXcbqVib95Q7JTv1E) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Terra della straniera](https://open.spotify.com/album/7hxO8Wb6TL4Nuov5xOToJc) | 2:49 | 2022-08-05 |  |
 | [textutei](https://open.spotify.com/track/06gAB4UN4qeGL7b3i7mrVL) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Tunagari](https://open.spotify.com/album/1xzs1L61WXbixohWTcH8kB) | 3:02 | 2023-05-26 |  |

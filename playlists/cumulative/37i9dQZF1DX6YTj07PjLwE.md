@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-642 songs - 1 day 23 hr 5 min
+643 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Desperate Andy](https://open.spotify.com/track/5uF13htfgQxdBpNtpaqUBT) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:44 | 2022-04-28 | 2022-07-18 |
 | [Desperately Wanting](https://open.spotify.com/track/7GuLQiPvQbfzP0kqcvgIQQ) | [Better Than Ezra](https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX) | [Friction Baby](https://open.spotify.com/album/7aVHqEFKpPIKmrniwwViom) | 4:37 | 2022-04-28 |  |
 | [Devils Haircut](https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7) | 3:12 | 2022-04-28 | 2022-07-29 |
+| [Devils Haircut](https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 3:15 | 2023-01-18 |  |
 | [Dirty Eyes \- Demo](https://open.spotify.com/track/7wuBWouiEMxc44t5EqK5y5) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Bonfire](https://open.spotify.com/album/4zc05VOEyUmG4YTze8tMnZ) | 3:21 | 2022-04-28 | 2022-07-29 |
 | [Discotheque](https://open.spotify.com/track/3IrhUrZKAkJ8LsFtH71fOT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 5:18 | 2022-04-28 | 2022-07-29 |
 | [Distant Sun](https://open.spotify.com/track/4oh6NKtMdiXIhgGGQBR09b) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Together Alone](https://open.spotify.com/album/7bzJtH0rm6rcgmWiKyIVxK) | 3:49 | 2022-04-28 |  |
@@ -267,7 +268,7 @@
 | [Iris](https://open.spotify.com/track/7d9NhEPJ2x0taAJwdcNet7) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:59 | 2022-04-28 | 2022-07-29 |
 | [Irresponsible Hate Anthem](https://open.spotify.com/track/7wyVuNCEr1j8NfG1vwMXZp) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Antichrist Superstar](https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB) | 4:17 | 2022-04-28 | 2022-05-25 |
 | [Is Your Mama Gonna Miss Ya?](https://open.spotify.com/track/4x6wy9GPwb5QAqyZwLcZY9) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 4:40 | 2022-04-28 | 2022-05-24 |
-| [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 | 2022-04-28 |  |
+| [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 | 2022-04-28 | 2023-06-24 |
 | [It \('s A Monster\)](https://open.spotify.com/track/4HHi7n6fwSUJSGlqvfPGKA) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz) | 4:24 | 2022-04-28 | 2022-07-27 |
 | [It's A Shame About Ray \- Remastered](https://open.spotify.com/track/0ccE7u6mHbB1LaSc1ZIQWm) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:07 | 2022-04-28 | 2022-07-29 |
 | [It's Good To Be King](https://open.spotify.com/track/1c0flvMImhKMuiZIc0VzEb) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 5:10 | 2022-04-28 | 2022-07-27 |

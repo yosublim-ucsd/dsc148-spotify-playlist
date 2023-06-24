@@ -2510,10 +2510,28 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 150285,
       "name": "Cute",
       "url": "https://open.spotify.com/track/2f2OQavOesTjuHypoXO5iz"
+    },
+    {
+      "album": {
+        "name": "Dear Diary (Deluxe)",
+        "url": "https://open.spotify.com/album/5X2ftGdNX9p4ih4N9rKbEu"
+      },
+      "artists": [
+        {
+          "name": "Alex Sloane",
+          "url": "https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150285,
+      "name": "Cute",
+      "url": "https://open.spotify.com/track/5HJMk6YC3G3nNkTxak0MRd"
     },
     {
       "album": {

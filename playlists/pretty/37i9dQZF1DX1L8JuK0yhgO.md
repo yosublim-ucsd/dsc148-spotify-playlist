@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,187 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,190 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 14 | [DOSHABURI](https://open.spotify.com/track/3mYO2S7o4kpIXVnhtYHhLL) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI](https://open.spotify.com/album/61bA17oFLiO0GB2hVLJnUp) | 2:41 |
 | 15 | [Life won't wait](https://open.spotify.com/track/2LxwNRR1P5ReIsicuBI4bC) | [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Life won't wait](https://open.spotify.com/album/0N0Masa8LQarL8QRd40VbE) | 2:59 |
 | 16 | [Taste Test](https://open.spotify.com/track/2x12XCv44UVbmLmqalUtkU) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [Taste Test](https://open.spotify.com/album/1xPmIPzmcWkclEgCZUzQ0P) | 3:59 |
-| 17 | [GIMME CHOCOLATE](https://open.spotify.com/track/0lGBaiG65lMgCKCZiVWOBl) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ), [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK) | [GIMME CHOCOLATE](https://open.spotify.com/album/0jLvz16yK000jBKHatkcK1) | 2:20 |
+| 17 | [GIMME CHOCOLATE](https://open.spotify.com/track/6K6soUEbIuEBaPKRrhcNqd) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ), [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK) | [GIMME CHOCOLATE](https://open.spotify.com/album/7ixdeBMQrnAO04Ilx4cLK4) | 2:20 |
 | 18 | [Fly away](https://open.spotify.com/track/3yr1N8hHgz41QAq27tPKC6) | [doc flawless](https://open.spotify.com/artist/7kQqFUxkHeDyqYlDDUtLvR), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [Fly away](https://open.spotify.com/album/2W3u3ibJoMwS8BC4exnxlN) | 4:37 |
 | 19 | [Sweet Emotion](https://open.spotify.com/track/31MnZtGvaYf25rJP7fGa7L) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [23](https://open.spotify.com/album/0aw79q4Sjun33WdYZCtrev) | 3:28 |
 | 20 | [1MILLION](https://open.spotify.com/track/5dzeeb2PFIJgLVhTbUoK2j) | [Bay](https://open.spotify.com/artist/1Rj89J8xQASl3odSKZ6yFy), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [1MILLION](https://open.spotify.com/album/1QsL1dAMncxCslzcUmuaLH) | 1:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [summer/star](https://open.spotify.com/track/4MtycMcuU0dKoZhj2NgmhJ) | [Saren](https://open.spotify.com/artist/5tbzr5nor6qJPUEryD7oZK) | [summer/star](https://open.spotify.com/album/3RTTrGSss2zn0bZjq05WfK) | 1:40 |
 | 60 | [Drugs](https://open.spotify.com/track/01g974Te4DzVGimxFmv0B0) | [RY0N4](https://open.spotify.com/artist/3krxQ7NwEXM0Ba8Dzsln2g) | [Drugs](https://open.spotify.com/album/2jGY1bc5vXDXgzICPue6KT) | 2:13 |
 
-Snapshot ID: `MCw4NjY5NDM2MGZkMDUwOGU4ZTk2Mzg0NmEzOWM5YzgxZWU1ZDZjMzIz`
+Snapshot ID: `MCw4YWEzNmRlMjcxMDNjZGY3MzNmNzBjOTJmOGIyMzE3NWY3Njc3YTQw`

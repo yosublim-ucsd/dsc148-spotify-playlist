@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-902 songs - 2 day 2 hr 16 min
+903 songs - 2 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [Garbage Pale Kids](https://open.spotify.com/track/73pz1RTwUBpKO286c9zhzT) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:48 | 2023-03-26 | 2023-04-04 |
 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 | 2023-04-09 | 2023-04-17 |
 | [GET BACK](https://open.spotify.com/track/02z4mnaMcD7p3HHW5CqluB) | [TEITO](https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm), [Donatello](https://open.spotify.com/artist/3KDD4QJCRWBrOhGcUIc96y) | [GET BACK](https://open.spotify.com/album/1fsp2zQjCg5rlYfzeaoi21) | 3:15 | 2023-03-26 | 2023-04-04 |
-| [GIMME CHOCOLATE](https://open.spotify.com/track/0lGBaiG65lMgCKCZiVWOBl) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ), [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK) | [GIMME CHOCOLATE](https://open.spotify.com/album/0jLvz16yK000jBKHatkcK1) | 2:20 | 2023-06-18 |  |
+| [GIMME CHOCOLATE](https://open.spotify.com/track/0lGBaiG65lMgCKCZiVWOBl) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ), [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK) | [GIMME CHOCOLATE](https://open.spotify.com/album/0jLvz16yK000jBKHatkcK1) | 2:20 | 2023-06-18 | 2023-06-24 |
+| [GIMME CHOCOLATE](https://open.spotify.com/track/6K6soUEbIuEBaPKRrhcNqd) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ), [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK) | [GIMME CHOCOLATE](https://open.spotify.com/album/7ixdeBMQrnAO04Ilx4cLK4) | 2:20 | 2023-06-18 |  |
 | [GLORY DAYS](https://open.spotify.com/track/6N3fN0ol2DP3MpEipLZcaT) | [TORAUMA](https://open.spotify.com/artist/7GMarWA8YCRXDfR4ETdU3U), [Disry](https://open.spotify.com/artist/5qmW14Dd8YrKRgANRFHuAw) | [GLORY DAYS](https://open.spotify.com/album/6Gnj1TbDes5HhaQGw5V70n) | 4:12 | 2023-05-01 | 2023-05-08 |
 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-04-23 | 2023-05-02 |
 | [GO!!!](https://open.spotify.com/track/3QCKHsZP0BNvkNzTNdLkIz) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR) | [GO!!!](https://open.spotify.com/album/1PK7pBIY5D5PesOY6WfM3q) | 2:42 | 2023-04-03 | 2023-04-10 |

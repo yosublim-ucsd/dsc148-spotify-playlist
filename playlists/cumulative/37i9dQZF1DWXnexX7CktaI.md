@@ -2,7 +2,7 @@
 
 ### [Gold Edition](https://open.spotify.com/playlist/37i9dQZF1DWXnexX7CktaI)
 
-> Still in rotation\. Cover: Sade
+> Still in rotation\. Cover: Miguel
 
 150 songs - 9 hr 12 min
 

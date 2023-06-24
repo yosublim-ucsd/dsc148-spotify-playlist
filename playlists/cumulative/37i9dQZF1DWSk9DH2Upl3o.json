@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Al's Anti-Gravity Machine",
+        "url": "https://open.spotify.com/album/0TN1UurxGH43ylMYPM75go"
+      },
+      "artists": [
+        {
+          "name": "Tommy Kaelin",
+          "url": "https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267819,
+      "name": "Al's Anti-Gravity Machine",
+      "url": "https://open.spotify.com/track/4Jg2oiJRQuzEcSpKqLxYvR"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/2aFgqnVwmGCfQnhXODX0os"
       },
@@ -501,6 +519,28 @@
     },
     {
       "album": {
+        "name": "East West (Tchad Blake Remix)",
+        "url": "https://open.spotify.com/album/2yyye28bQHerBTQIw0c44D"
+      },
+      "artists": [
+        {
+          "name": "The Third Mind",
+          "url": "https://open.spotify.com/artist/1LkLIVstA1IoipK1nx0RAD"
+        },
+        {
+          "name": "Tchad Blake",
+          "url": "https://open.spotify.com/artist/0CL5kQ3kBjgge3GQtIJAyp"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1023626,
+      "name": "East West - Tchad Blake Remix",
+      "url": "https://open.spotify.com/track/4EfV0VgqqgSyoXx0LaGT1H"
+    },
+    {
+      "album": {
         "name": "Spafford",
         "url": "https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05"
       },
@@ -829,6 +869,24 @@
     },
     {
       "album": {
+        "name": "High In The 90\u2019s",
+        "url": "https://open.spotify.com/album/3U5PdbP4s7RCU9tEbZrrx4"
+      },
+      "artists": [
+        {
+          "name": "Stone Wheels",
+          "url": "https://open.spotify.com/artist/73F831It0zfAR0efIa12dq"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270733,
+      "name": "High In The 90\u2019s",
+      "url": "https://open.spotify.com/track/77vlcd4Sot8FC2k5HaFppl"
+    },
+    {
+      "album": {
         "name": "Hot Damn",
         "url": "https://open.spotify.com/album/2DeHT9aqcZ7KSWvx6sEDVN"
       },
@@ -1110,7 +1168,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 259826,
       "name": "Keep Your Hands to Yourself",
       "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
@@ -1146,7 +1204,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 579373,
       "name": "Kitty Chaser (Explosions)",
       "url": "https://open.spotify.com/track/31prZotiPV46jh06xCTop4"
@@ -1333,6 +1391,40 @@
     },
     {
       "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/4A4ovKPnaakHcRxksFMFMi"
+      },
+      "artists": [
+        {
+          "name": "Space Owl",
+          "url": "https://open.spotify.com/artist/5BSAR7n5jEDO6XUBodH7qG"
+        },
+        {
+          "name": "Ari Joshua",
+          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
+        },
+        {
+          "name": "Bob Lovelace",
+          "url": "https://open.spotify.com/artist/6VFjf95afawayBKTfJFkyT"
+        },
+        {
+          "name": "John Ewing",
+          "url": "https://open.spotify.com/artist/2LpxqQxZZQyq6Ycp9t1HJf"
+        },
+        {
+          "name": "David Appelbaum",
+          "url": "https://open.spotify.com/artist/65sIM68yHAbuFn8cZztqnP"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416320,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/03onfUgdnPT4p2XoxUdH95"
+    },
+    {
+      "album": {
         "name": "Movin On",
         "url": "https://open.spotify.com/album/7BsxRZOWTBTevA6Pm0JmQy"
       },
@@ -1474,6 +1566,24 @@
       "duration_ms": 462830,
       "name": "Off Leash",
       "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
+    },
+    {
+      "album": {
+        "name": "On and On",
+        "url": "https://open.spotify.com/album/2eG0rnrlN26Bau8qgf1eKg"
+      },
+      "artists": [
+        {
+          "name": "Mike Stewart Theory",
+          "url": "https://open.spotify.com/artist/7dXeiG15ERvFe3ojvuz3Wr"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286119,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/24DTU2rSsVkiehF2bxUKRL"
     },
     {
       "album": {
@@ -2026,7 +2136,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 454328,
       "name": "Tallulah",
       "url": "https://open.spotify.com/track/0uaVXrLlbi6d9JMQEUuzH8"
@@ -2282,7 +2392,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 321688,
       "name": "Time Dilates",
       "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
@@ -2432,7 +2542,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 160157,
       "name": "Waltz of a Thousand Stars",
       "url": "https://open.spotify.com/track/7t81QaJ5tYzJVbX17Damcc"

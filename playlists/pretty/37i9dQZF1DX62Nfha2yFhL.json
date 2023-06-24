@@ -1,13 +1,33 @@
 {
   "description": "every day grooves for a laid back day.",
-  "num_followers": 884713,
+  "num_followers": 884831,
   "original_name": "Soul Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTU1YWUyNDA0ZDg1ZGYyY2VkMjgzYmI5ZTMyMmQ3MDA3YzI0NjIz",
+  "snapshot_id": "MCxlYjI0ZjAyYTYzNzNlN2IxZmFhYWIwNGM2NWIwNDA0OTNjOWE4NTUy",
   "tracks": [
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/3zX6aqDhWfDApsWDJHak43"
+      },
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Jack Splash",
+          "url": "https://open.spotify.com/artist/0FWhHIfPV3MjJbmdMws8Tn"
+        }
+      ],
+      "duration_ms": 230315,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/2VgRXLLrZdM334OX0YCLKa"
+    },
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
@@ -48,7 +68,7 @@
           "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
         }
       ],
-      "duration_ms": 186873,
+      "duration_ms": 186967,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
     },

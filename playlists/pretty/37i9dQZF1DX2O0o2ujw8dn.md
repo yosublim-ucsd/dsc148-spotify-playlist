@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2O0o2ujw8dn.md) - [plain]
 
 > Listen to the soundtracks of the drama BXXCH x RICH\. \(드라마 청담국제고등학교의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,176 likes - 26 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,376 likes - 26 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2O0o2ujw8dn.md) - [plain]
 | 25 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 |
 | 26 | [ACT!VE VOLCANO \(Feat\. Tabber\)](https://open.spotify.com/track/3rFsv0HmPQyh6WEbb8T4Ar) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [SYNDROMEZ](https://open.spotify.com/album/5FXgrFAzwOOZpT3KBhgfxy) | 4:06 |
 
-Snapshot ID: `MCw3N2U0MzZhZGZmM2JmODNmZGZjNGUwYWZjNGEyZmM2MzYxZjkzMTI1`
+Snapshot ID: `MCxjYWZhOGFmNzVhMDcyMzlhZjRhNjVlOTIxNDg5Y2FjMWU2NmEyZTdl`

@@ -1,13 +1,29 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 100684,
+  "num_followers": 100694,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTcyNWVmOTFkOTlmNjg5ZDg5YmE0MzVhOTBiYTNlYmY4ZGIzMzJk",
+  "snapshot_id": "MCwwMWE1ODRiMWFjNTJiNzM2YzcyNDQ1ZWFiZWNmNzMxMjk1MDM3YmFk",
   "tracks": [
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Escape (The Pi\u00f1a Colada Song)",
+        "url": "https://open.spotify.com/album/4BRCQ0PIitcwgK72XEnQnu"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 224824,
+      "name": "Escape (The Pi\u00f1a Colada Song)",
+      "url": "https://open.spotify.com/track/5Q9y6VbwQ5PvvnfAJJ8R1K"
+    },
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
@@ -27,6 +43,58 @@
       "duration_ms": 303010,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/5UuG19x0mUEFDWdF1LFAMy"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/0HJ66d00qIbzGfSdYzm7aF"
+      },
+      "artists": [
+        {
+          "name": "Hyannis Sound",
+          "url": "https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p"
+        }
+      ],
+      "duration_ms": 298677,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/64UPsFzqtbrjB1BqRyXPkj"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "I Just Called To Say I Love You",
+        "url": "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        }
+      ],
+      "duration_ms": 178376,
+      "name": "Sensitive (feat. Scott Hoying)",
+      "url": "https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -89,58 +157,6 @@
       "url": "https://open.spotify.com/track/5UZhZYORv7FLXKIXC5HVNM"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Scott Hoying",
-          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
-        }
-      ],
-      "duration_ms": 178376,
-      "name": "Sensitive (feat. Scott Hoying)",
-      "url": "https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "I Just Called To Say I Love You",
-        "url": "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo"
-    },
-    {
-      "added_at": "2023-05-03 13:16:53",
-      "album": {
-        "name": "METAPHYSICAL",
-        "url": "https://open.spotify.com/album/3tw6ZNVEBFRGKNMq8QVzpy"
-      },
-      "artists": [
-        {
-          "name": "Prismatics",
-          "url": "https://open.spotify.com/artist/5Gc2jMj1lDWqHtouLqHk9D"
-        }
-      ],
-      "duration_ms": 257049,
-      "name": "Denim Jacket",
-      "url": "https://open.spotify.com/track/6m80tQrXe25WOb1mS0Y8yN"
-    },
-    {
       "added_at": "2023-05-03 13:16:53",
       "album": {
         "name": "Delta Dawn",
@@ -159,6 +175,22 @@
       "duration_ms": 197010,
       "name": "Delta Dawn",
       "url": "https://open.spotify.com/track/1sBbXkYUzsTnWfuzG0zeaf"
+    },
+    {
+      "added_at": "2023-05-03 13:16:53",
+      "album": {
+        "name": "METAPHYSICAL",
+        "url": "https://open.spotify.com/album/3tw6ZNVEBFRGKNMq8QVzpy"
+      },
+      "artists": [
+        {
+          "name": "Prismatics",
+          "url": "https://open.spotify.com/artist/5Gc2jMj1lDWqHtouLqHk9D"
+        }
+      ],
+      "duration_ms": 257049,
+      "name": "Denim Jacket",
+      "url": "https://open.spotify.com/track/6m80tQrXe25WOb1mS0Y8yN"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -191,6 +223,22 @@
       "duration_ms": 273360,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/5bSagD6vNMzqacmO0xFNx4"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "PTX, Vol. 1",
+        "url": "https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 199360,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -273,6 +321,26 @@
       "url": "https://open.spotify.com/track/6ubO6MOkkPoKWCy7P16suW"
     },
     {
+      "added_at": "2023-03-17 04:01:00",
+      "album": {
+        "name": "Rainbow Connection",
+        "url": "https://open.spotify.com/album/7CDjdUGE1ZkYt71Bs5TP1t"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        },
+        {
+          "name": "Kermit the Frog",
+          "url": "https://open.spotify.com/artist/1PGjAoXiKP1Hcx788WVFx9"
+        }
+      ],
+      "duration_ms": 190671,
+      "name": "Rainbow Connection",
+      "url": "https://open.spotify.com/track/3s98cE1iaE8OND01s9ZiJh"
+    },
+    {
       "added_at": "2023-05-03 13:16:53",
       "album": {
         "name": "SUPERNOVA",
@@ -353,22 +421,6 @@
       "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "PTX, Vol. 1",
-        "url": "https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 199360,
-      "name": "Somebody That I Used to Know",
-      "url": "https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr"
-    },
-    {
       "added_at": "2023-05-03 13:16:53",
       "album": {
         "name": "Jealous",
@@ -399,6 +451,26 @@
       "duration_ms": 276526,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Glee: The Music, Volume 4",
+        "url": "https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        },
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        }
+      ],
+      "duration_ms": 220386,
+      "name": "Teenage Dream (feat. Darren Criss)",
+      "url": "https://open.spotify.com/track/0nzvwCXs0X3SGPhyGdb7Cp"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -641,26 +713,6 @@
       "url": "https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7"
     },
     {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Rainbow Connection",
-        "url": "https://open.spotify.com/album/7CDjdUGE1ZkYt71Bs5TP1t"
-      },
-      "artists": [
-        {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
-        },
-        {
-          "name": "Kermit the Frog",
-          "url": "https://open.spotify.com/artist/1PGjAoXiKP1Hcx788WVFx9"
-        }
-      ],
-      "duration_ms": 190671,
-      "name": "Rainbow Connection",
-      "url": "https://open.spotify.com/track/3s98cE1iaE8OND01s9ZiJh"
-    },
-    {
       "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Covers, Vol. III",
@@ -879,42 +931,6 @@
       "duration_ms": 162800,
       "name": "How Far I'll Go",
       "url": "https://open.spotify.com/track/5TRugjx4cKvypzIe4QRk1c"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "The Quarterback",
-        "url": "https://open.spotify.com/album/5K2lqUwpSHseCoCfBcvlcV"
-      },
-      "artists": [
-        {
-          "name": "Glee Cast",
-          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "If I Die Young (Glee Cast Version)",
-      "url": "https://open.spotify.com/track/1REX2q4Fverp8zH7KuSeZC"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Glee: The Music, Volume 4",
-        "url": "https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI"
-      },
-      "artists": [
-        {
-          "name": "Glee Cast",
-          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
-        },
-        {
-          "name": "Darren Criss",
-          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
-        }
-      ],
-      "duration_ms": 220386,
-      "name": "Teenage Dream (feat. Darren Criss)",
-      "url": "https://open.spotify.com/track/0nzvwCXs0X3SGPhyGdb7Cp"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1171,22 +1187,6 @@
       "duration_ms": 176813,
       "name": "Landslide - Studio Version",
       "url": "https://open.spotify.com/track/0JEhzXDgrRJmZFGqQ4U2ME"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Morning Warriors",
-        "url": "https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs"
-      },
-      "artists": [
-        {
-          "name": "Hullabahoos",
-          "url": "https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT"
     },
     {
       "added_at": "2023-01-13 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Soui Uno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,349 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,388 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 92 | [Román](https://open.spotify.com/track/3dZgq59mteQDkpsj9rFF7O) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Román](https://open.spotify.com/album/3xfN6Yf5GGJsn3yEaoNnWh) | 3:58 |
 | 93 | [Shorty](https://open.spotify.com/track/3Fekr3gkWmX25J2m4aVNaC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:25 |
 | 94 | [Basura](https://open.spotify.com/track/09OoZ39K2iLBlEsuawWOPR) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Basura](https://open.spotify.com/album/6kwxc1F1cA0zxjm3ETNi7p) | 2:20 |
-| 95 | [Sucio](https://open.spotify.com/track/1aNJgaL6fmvMLWzOMld92r) | [Socio](https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Para la Envidia](https://open.spotify.com/album/60NVjjROURwC1Vbe5r9FBM) | 4:35 |
+| 95 | [Sucio](https://open.spotify.com/track/02sz23KvVaBWsgtWAzZChM) | [Socio](https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Para La Envidia](https://open.spotify.com/album/7uvrUI2nKiAtVxBE5zCzjx) | 4:35 |
 | 96 | [Familia](https://open.spotify.com/track/44QmE5ujaF7M96CeJNGenk) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Familia](https://open.spotify.com/album/6PQv6xBgadgMfa6vx0rphw) | 3:46 |
 | 97 | [Perdón Mamá](https://open.spotify.com/track/3V46IccwqEAOPKdZQTDVZM) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Dellalowla](https://open.spotify.com/artist/2Sg5Om9W4VXXIBC0wzObrH) | [Perdón Mamá](https://open.spotify.com/album/4e7jDqn0YTMNc4gQdVwUgM) | 2:32 |
 | 98 | [Con Billetes](https://open.spotify.com/track/4eOyMYj0HtblAavJTRtkUC) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 4:21 |
 | 99 | [XL](https://open.spotify.com/track/0cb9ckfF5AZQynYVTKg06v) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L) | [XL](https://open.spotify.com/album/5DGbD9cul3TZcq8NPzhhbe) | 2:54 |
 | 100 | [Paquetes](https://open.spotify.com/track/63iJSDSeiTbJhDbo60jVOe) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Paquetes](https://open.spotify.com/album/2yPAPnynCHDjYi69UF1UUI) | 2:51 |
 
-Snapshot ID: `MCxhM2NiYmFhYjFhZjcxYjAyYTFkM2M4MDQxZjQxYzA2MjIwNjg3MjVi`
+Snapshot ID: `MCw5MGEzMWVlMTZmNjdhZDAzNzYxM2FhZTVmMTA5ZDNkZDg2ZTRhZjEz`

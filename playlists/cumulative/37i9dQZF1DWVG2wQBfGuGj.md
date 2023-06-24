@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-169 songs - 8 hr 56 min
+173 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [C'est la vie](https://open.spotify.com/track/6pa0AGTLAWRTclXoforij1) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [C'est la vie](https://open.spotify.com/album/6lcv0jcRTZQfcHBCrzJnpf) | 2:02 | 2023-05-05 |  |
 | [Cala Pada](https://open.spotify.com/track/1A7y3IaHjjnPXB536LnPuq) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Cala Pada](https://open.spotify.com/album/6vkTL2R6ws7QMOxyfN6yc2) | 2:40 | 2023-05-05 |  |
 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2023-05-05 |  |
+| [Catch Me If I Fall](https://open.spotify.com/track/3bYLZXk4Vu07bOjIhOlWvF) | [Leon Cox](https://open.spotify.com/artist/3AL3ufihLodtdojR6lnpKz) | [Dumb Love](https://open.spotify.com/album/5R0zpwam34VSlLyjvn0Amr) | 2:21 | 2023-06-23 |  |
 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 | 2023-05-05 |  |
 | [Ceylon Drift](https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Ceylon Drift / Vindby](https://open.spotify.com/album/7vF85ASpc9O6Wq2h7vDadA) | 2:51 | 2023-05-05 |  |
 | [champagne and kisses](https://open.spotify.com/track/4UKnKyvCDI9QhMD2jRC0ma) | [far away mei](https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe) | [champagne and kisses](https://open.spotify.com/album/5iFj47fk9OPPC1kw4eI9ul) | 4:01 | 2023-05-05 |  |
@@ -95,6 +96,7 @@
 | [lemon fizz](https://open.spotify.com/track/4s28VI3QU9kRBKY5ssorlP) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [lemon fizz](https://open.spotify.com/album/1m3oksAD7JdxrYonH8fK13) | 3:14 | 2023-05-05 |  |
 | [Lemons](https://open.spotify.com/track/11IzqMJ35o5H3MxMEk6vyo) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Lemons](https://open.spotify.com/album/3UpVqSPtkUCsfILr2H2t9C) | 3:05 | 2023-05-05 |  |
 | [Lilac Luster](https://open.spotify.com/track/5CBIJIcjgIhkzyIMWVXSeh) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [Lilac Luster](https://open.spotify.com/album/4lhzopVjTgDpOXIaIlzvLH) | 2:56 | 2023-05-05 |  |
+| [Lobster Bib](https://open.spotify.com/track/0aRC0W5zVWricDxM2s98La) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Lobster Bib](https://open.spotify.com/album/3L6WszZQcbzwxzjnaIsxwn) | 2:57 | 2023-06-23 |  |
 | [Love Nature](https://open.spotify.com/track/1JE7EFjo1lHCLtp8BWJXi3) | [Rafo](https://open.spotify.com/artist/2fXvZQ7WRpcQlcVOgHIkG6) | [Love Nature](https://open.spotify.com/album/4sCJ1lgSBqUS5FsYVdFgXM) | 6:40 | 2023-05-05 |  |
 | [magnetic shackles](https://open.spotify.com/track/6rFoIQHPEjMXJTnqhR5mT2) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [magnetic shackles](https://open.spotify.com/album/6MEO20fU2q7OzG3syiBHzX) | 2:52 | 2023-05-05 |  |
 | [making out](https://open.spotify.com/track/31sRAMv4XlnUbvDTFvXJSP) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [making out](https://open.spotify.com/album/3jR4vqdsNHihUfn0kf6h8j) | 2:42 | 2023-05-05 |  |
@@ -104,6 +106,7 @@
 | [Milkyway](https://open.spotify.com/track/528FLI8KzcnKoedVS3o6WG) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Milkyway](https://open.spotify.com/album/2NRFUBYuVipEU8fClh8MvB) | 3:07 | 2023-05-05 |  |
 | [Missing U](https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5) | [Baijings](https://open.spotify.com/artist/5qUY5l2lSFJgCuBFaXeikk) | [Missing U](https://open.spotify.com/album/1QkwzQ8GWWwhDwWc7XQZEP) | 2:18 | 2023-05-05 |  |
 | [misty mind](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [misty mind](https://open.spotify.com/album/0s05LnnEMwRsijxcg3nClv) | 2:23 | 2023-05-05 |  |
+| [Mr\. Panucci](https://open.spotify.com/track/7hfOaefFJ0qzZw2NcEqA4z) | [Elliot Horizon](https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O) | [Mr\. Panucci](https://open.spotify.com/album/0IhLZK0AiG2k9S0arqumQO) | 2:33 | 2023-06-23 |  |
 | [my only](https://open.spotify.com/track/0PuEySwuDjWltm1hJfDLf9) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [my only](https://open.spotify.com/album/2nyllF9zZIJQYDFBAubiqk) | 2:41 | 2023-05-05 |  |
 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 | 2023-05-05 |  |
 | [Need It](https://open.spotify.com/track/1Y6DPnG7RT8sUmIi71mXEC) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [And On We Go](https://open.spotify.com/album/4hZjRkw1GMLOgRKmiHYAJg) | 3:35 | 2023-05-05 |  |
@@ -133,6 +136,7 @@
 | [Shadowdoom](https://open.spotify.com/track/0AGSlvLptBUmNxqo2HBTdC) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Shadowdoom](https://open.spotify.com/album/5KOlOg5drL7dCfcqGt9ftV) | 2:25 | 2023-05-05 |  |
 | [Shizaru](https://open.spotify.com/track/2vi8nrpy6kb7rJ1ZMN3Ces) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shizaru](https://open.spotify.com/album/6lITOJOFvq5HUGwWIBIe3r) | 2:22 | 2023-05-05 |  |
 | [Silent Disco](https://open.spotify.com/track/6H3SzstyOzWqARoQZlasw8) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Silent Disco](https://open.spotify.com/album/3w9dVgv92GiOLGbOS7QqyS) | 2:45 | 2023-05-22 |  |
+| [Skinny Dipping](https://open.spotify.com/track/77q1BdpiRYAByg8GonYX77) | [Dentity](https://open.spotify.com/artist/7nOhCBrrYam26cWsDpM3t1) | [Skinny Dipping](https://open.spotify.com/album/1YuR5tcmMmKP2GuqW0iyYM) | 2:23 | 2023-06-23 |  |
 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 | 2023-05-05 |  |
 | [Snap To Your Beat](https://open.spotify.com/track/2apcf7znOGO6gMjVtaatQv) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Princess King](https://open.spotify.com/album/3FbV4oMCVanCAOTSm9WhBV) | 3:07 | 2023-05-05 |  |
 | [SoHo](https://open.spotify.com/track/3cKaYYc6998KpaDoxjUumR) | [Mode Donna](https://open.spotify.com/artist/4EVClNgwLk38PorSOhui9R) | [SoHo](https://open.spotify.com/album/3dZBiHAg8DsRtljFIcPTfe) | 2:56 | 2023-05-26 |  |

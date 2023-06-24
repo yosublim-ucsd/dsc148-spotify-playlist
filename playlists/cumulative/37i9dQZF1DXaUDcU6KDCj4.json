@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Tr\u00e9 Burt",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Hozier",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "A Turning of the Tide",
+        "url": "https://open.spotify.com/album/6yWDqqPbrGvp7KA8MZ16DJ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "A Turning of the Tide",
+      "url": "https://open.spotify.com/track/6Js59cJ15vZab28V8931L1"
+    },
+    {
+      "album": {
         "name": "A.M. RADIO",
         "url": "https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz"
       },
@@ -612,7 +630,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 185624,
       "name": "Ain\u2019t So Easy",
       "url": "https://open.spotify.com/track/0ze5rRNTcENtHHRYImTfY7"
@@ -684,10 +702,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 228690,
       "name": "Alco",
       "url": "https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po"
+    },
+    {
+      "album": {
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/0droeYyfKnUhibBUjO8EiX"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/1Me8aSWMdGwUfsRLjVcxea"
     },
     {
       "album": {
@@ -5628,7 +5664,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 201146,
       "name": "Evelyn",
       "url": "https://open.spotify.com/track/0C0YCeV0rYv315z8twysDt"
@@ -6460,7 +6496,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 289579,
       "name": "Flowers On My Bedside",
       "url": "https://open.spotify.com/track/5ihEkOIEpylssy0dur6U6w"
@@ -7180,7 +7216,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 206103,
       "name": "God Above",
       "url": "https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ"
@@ -7855,6 +7891,24 @@
     },
     {
       "album": {
+        "name": "hazelton b/w liner",
+        "url": "https://open.spotify.com/album/4yZTMsfnWIfMgzkfcazTks"
+      },
+      "artists": [
+        {
+          "name": "Justin Vernon",
+          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "hazelton",
+      "url": "https://open.spotify.com/track/7lGVePePvWGNUviBUICQQj"
+    },
+    {
+      "album": {
         "name": "He Needs Me",
         "url": "https://open.spotify.com/album/3Z19tYTmNnjhXaeNB3a8Sh"
       },
@@ -8008,6 +8062,24 @@
       "duration_ms": 230827,
       "name": "Heaven Isn't Long for You",
       "url": "https://open.spotify.com/track/2PLp956ZkCJJpACzY4dj57"
+    },
+    {
+      "album": {
+        "name": "First Loves",
+        "url": "https://open.spotify.com/album/2KSGfv7hOKQz1eld08fkBb"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256493,
+      "name": "Helen of Hammersmith Bridge",
+      "url": "https://open.spotify.com/track/3NGgTwc729hicuKpErwASC"
     },
     {
       "album": {
@@ -9216,7 +9288,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 230521,
       "name": "I Don't Think of You",
       "url": "https://open.spotify.com/track/0v0cFLpEnUR220NYi2Gip0"
@@ -9462,7 +9534,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 153587,
       "name": "I Learned It From You",
       "url": "https://open.spotify.com/track/7ql0WocSngQ8H7JchqPAG5"
@@ -10653,6 +10725,24 @@
     },
     {
       "album": {
+        "name": "Juniper",
+        "url": "https://open.spotify.com/album/5UobQNXN2IkYcxHnl7kBNz"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179833,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/5KCJwfDSLNKW4BhDMHvViV"
+    },
+    {
+      "album": {
         "name": "Junk Life",
         "url": "https://open.spotify.com/album/4mdjWr3GskXWD9bYvWxswN"
       },
@@ -11314,7 +11404,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 281560,
       "name": "Let There Be Music",
       "url": "https://open.spotify.com/track/6OOIjOmSIIOn6wb06ynh2e"
@@ -11984,7 +12074,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 215280,
       "name": "Looking For Love",
       "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
@@ -12847,6 +12937,28 @@
     },
     {
       "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/5TvqtSnghTKtTN42h6AW1N"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        },
+        {
+          "name": "Willie Watson",
+          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300016,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/2GMRJPivUIJiGLkmpWwH2O"
+    },
+    {
+      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
@@ -13580,7 +13692,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 222961,
       "name": "new kerrang",
       "url": "https://open.spotify.com/track/1HXNhR7ZZsFPhwUbTQXtrd"
@@ -15589,6 +15701,24 @@
     },
     {
       "album": {
+        "name": "Quiet Flame",
+        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242153,
+      "name": "Pull the Moon",
+      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
+    },
+    {
+      "album": {
         "name": "Puppy and a Truck",
         "url": "https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl"
       },
@@ -15878,6 +16008,24 @@
     {
       "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/6XmEw0tPkRMjZBckdeLnHQ"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158619,
+      "name": "Ready or Not (Demo)",
+      "url": "https://open.spotify.com/track/4TgC1u16RIy0OCt1kuJKs4"
+    },
+    {
+      "album": {
+        "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
       "artists": [
@@ -16048,6 +16196,24 @@
       "duration_ms": 258971,
       "name": "Reflections on a Grey Dawn (feat. Dustin O'Halloran)",
       "url": "https://open.spotify.com/track/7L8PyLWwV31eqS103InLpy"
+    },
+    {
+      "album": {
+        "name": "Every Day Like the Last",
+        "url": "https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL"
+      },
+      "artists": [
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248415,
+      "name": "Repeat (If You Remind Me)",
+      "url": "https://open.spotify.com/track/32RZLjdJOaDxZn3ptleU5o"
     },
     {
       "album": {
@@ -16748,7 +16914,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 187763,
       "name": "Season 4 Theme Song (feat. Lera Lynn)",
       "url": "https://open.spotify.com/track/2kWeKkIXKFOg9mH3FB43kW"
@@ -17164,7 +17330,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 239524,
       "name": "Silver Sunset",
       "url": "https://open.spotify.com/track/4MZZeqFKY3iJyMUthwr7aC"
@@ -18149,6 +18315,28 @@
     },
     {
       "album": {
+        "name": "Strong Swimmer (Duet)",
+        "url": "https://open.spotify.com/album/3keiK30tDnYStiY0BPQEAB"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187422,
+      "name": "Strong Swimmer - Duet",
+      "url": "https://open.spotify.com/track/7pb95dEU3dbzOVPsutghXg"
+    },
+    {
+      "album": {
         "name": "Stuck In A Room",
         "url": "https://open.spotify.com/album/1Hus5kgGEybS8diRKiKWVb"
       },
@@ -18370,7 +18558,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 190004,
       "name": "supernatural thing",
       "url": "https://open.spotify.com/track/0Jp7KkwghEAMIWFGsyDv4A"
@@ -20053,6 +20241,24 @@
     },
     {
       "album": {
+        "name": "There Is No Now",
+        "url": "https://open.spotify.com/album/643N5j1VgfWwWjmN0x8eaK"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139733,
+      "name": "There Is No Now",
+      "url": "https://open.spotify.com/track/0ZuqHAy3t1HMFwW0eEDuWk"
+    },
+    {
+      "album": {
         "name": "There\u2019s Always Room (Alternate Version)",
         "url": "https://open.spotify.com/album/5dDPGM1qxyHQnSFuiPWeyA"
       },
@@ -20810,10 +21016,32 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 292146,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/3ckJWEhX7Zi7dvoC2iCHkR"
+    },
+    {
+      "album": {
+        "name": "too young to die",
+        "url": "https://open.spotify.com/album/5DLCp3qcsA7efiT5lOudqU"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274720,
+      "name": "too young to die",
+      "url": "https://open.spotify.com/track/6rPTq5ct9hsJqGzDSTWDnk"
     },
     {
       "album": {
@@ -20980,6 +21208,24 @@
       "duration_ms": 302322,
       "name": "Tuesday Grey",
       "url": "https://open.spotify.com/track/7vDPE6NEKI7M8XqkVVXm1B"
+    },
+    {
+      "album": {
+        "name": "Tunnel Through A Mountain",
+        "url": "https://open.spotify.com/album/7qfJ3iocC29e2LXpebMEfV"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3xima Parada",
+          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201151,
+      "name": "Tunnel Through A Mountain",
+      "url": "https://open.spotify.com/track/15FsnkSdFzwC9Zas3pKHol"
     },
     {
       "album": {
@@ -21194,6 +21440,24 @@
       "duration_ms": 375813,
       "name": "Underlands",
       "url": "https://open.spotify.com/track/1qhjnS2Z8W9xYextJvUdrA"
+    },
+    {
+      "album": {
+        "name": "Unknown / Nth",
+        "url": "https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280106,
+      "name": "Unknown / Nth",
+      "url": "https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh"
     },
     {
       "album": {
@@ -22297,6 +22561,24 @@
     },
     {
       "album": {
+        "name": "Where My Wild Things Are",
+        "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237781,
+      "name": "Where My Wild Things Are",
+      "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
+    },
+    {
+      "album": {
         "name": "Where The Rocks Are",
         "url": "https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo"
       },
@@ -22624,7 +22906,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 269800,
       "name": "Willow",
       "url": "https://open.spotify.com/track/4ERM0QdLgq9HvZ7zUsiimB"

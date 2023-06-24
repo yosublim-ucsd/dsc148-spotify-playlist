@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": " \u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u063a\u0628 \u0639\u0644\u0627\u0645\u0629",
+  "description": " \u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7?si=Y2MD7VxxSWO-YUyBY-DseQ\">\u0631\u0627\u063a\u0628 \u0639\u0644\u0627\u0645\u0629 </a>",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "tracks": [
     {
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 290909,
       "name": "Saaban Aleky",
       "url": "https://open.spotify.com/track/1PvZPBCLn5pvAGec12ZlDV"
@@ -2854,6 +2854,24 @@
       "duration_ms": 161142,
       "name": "Zee3",
       "url": "https://open.spotify.com/track/5CTXFh5o4qpiXZeM1jxTBk"
+    },
+    {
+      "album": {
+        "name": "\u0627\u062e\u062a\u064a\u0627\u0631\u0627\u062a\u064a (\u0645\u0646 \u0641\u064a\u0644\u0645 \u0645\u0633\u062a\u0631 \u0625\u0643\u0633)",
+        "url": "https://open.spotify.com/album/1RJUtPJMzR9NYADVQwStNT"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "\u0627\u062e\u062a\u064a\u0627\u0631\u0627\u062a\u064a - \u0645\u0646 \u0641\u064a\u0644\u0645 \u0645\u0633\u062a\u0631 \u0625\u0643\u0633",
+      "url": "https://open.spotify.com/track/3ilp9U50Ak4CKkS7jdCY4L"
     },
     {
       "album": {
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 264228,
       "name": "\u0642\u0635\u0627\u062f \u0639\u064a\u0646\u0649",
       "url": "https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8"
@@ -3712,6 +3730,24 @@
       "duration_ms": 284656,
       "name": "\u0647\u062f\u064a \u0641\u064a \u0642\u0644\u0628\u0643 \u0637\u0644\u0642\u0647 ( \u0644\u0648 \u0639\u0648\u0632\u062a \u062a\u0643\u0644\u0645\u0646\u064a )",
       "url": "https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT"
+    },
+    {
+      "album": {
+        "name": "\u0647\u0631\u0645\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629 (\u0645\u0646 \u0641\u064a\u0644\u0645 \u062a\u0627\u062c)",
+        "url": "https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "\u0647\u0631\u0645\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u062a\u0627\u062c",
+      "url": "https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg"
     },
     {
       "album": {

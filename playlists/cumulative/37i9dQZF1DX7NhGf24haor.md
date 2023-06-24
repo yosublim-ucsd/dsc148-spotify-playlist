@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7NhGf24haor.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7NhGf24haor) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7NhGf24haor)
 
-### [Hardstyle Adrenaline! 2023](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
+### [Hardstyle Adrenaline! x Defqon.1](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
 > Takeover by Defqon.1! Get ready for the festival!
 
-440 songs - 1 day 0 hr 7 min
+441 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Broken Halo](https://open.spotify.com/track/5sLngIxGJ5QFnYDnDzCYnT) | [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Broken Halo \(feat\. Nino Lucarelli\)](https://open.spotify.com/album/3PP07ls7AuqWr3aIJKjtmv) | 5:15 | 2022-12-08 | 2023-02-24 |
 | [Brothers by Blade](https://open.spotify.com/track/5tNPQ5KQPdE5ZJFOKK3ojR) | [Neolux](https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ) | [Brothers by Blade](https://open.spotify.com/album/1aIB9ydxgzx6NuBZi9GHLS) | 3:48 | 2022-12-08 | 2022-12-24 |
 | [Brothers In Crime](https://open.spotify.com/track/7lsGVMgnHW4FFy8fsQd87d) | [Frequencerz](https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s), [Max Alexander](https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH), [MC Synergy](https://open.spotify.com/artist/1FLdd3d0lSuFCmD2RSC2pH) | [Brothers In Crime](https://open.spotify.com/album/0EwxpHfRUzuyhis7HK2pXj) | 3:51 | 2023-06-18 |  |
-| [Brutal X](https://open.spotify.com/track/1eRkCRej0qKa0z4gHxMc3R) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Brutal X](https://open.spotify.com/album/4rsB0wKx8FDBW9Fdgsu9Bq) | 4:28 | 2023-06-22 |  |
+| [Brutal X](https://open.spotify.com/track/1eRkCRej0qKa0z4gHxMc3R) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Brutal X](https://open.spotify.com/album/4rsB0wKx8FDBW9Fdgsu9Bq) | 4:28 | 2023-06-22 | 2023-06-24 |
 | [Burn It Down](https://open.spotify.com/track/7Bh0sxD0BTkq0PtexKICB3) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Burn It Down](https://open.spotify.com/album/6vRb3xiVIvUN7VunCfQ3aQ) | 2:51 | 2023-01-12 | 2023-04-07 |
 | [Burning Love](https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Critical Mass](https://open.spotify.com/artist/5anwTbhEWgbOnZUs2GbuB9) | [Burning Love](https://open.spotify.com/album/4QtKtnuiJlNiChWgdam1gP) | 3:39 | 2022-12-08 | 2023-02-10 |
 | [Carry On](https://open.spotify.com/track/1cV1UP1QRnCOZcAlRTPJxM) | [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [Carry On](https://open.spotify.com/album/24KSJMqOVqscu18lS9KB4o) | 2:34 | 2023-01-12 | 2023-04-21 |
@@ -204,6 +204,7 @@
 | [Klabautermann](https://open.spotify.com/track/47NBYCgCQaSElp8uo5mbxH) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Klabautermann](https://open.spotify.com/album/5fLCMg2nKX8qyyaXLDbxPr) | 3:01 | 2023-04-27 | 2023-06-19 |
 | [La Colegiala](https://open.spotify.com/track/2cyxZcDi7HB48T8mYZViLv) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [La Colegiala](https://open.spotify.com/album/5St2aiydKvThR9AR0fHSpO) | 3:23 | 2022-12-08 | 2022-12-16 |
 | [La Danse](https://open.spotify.com/track/0NkOrQXPqhUe7tIfjenEIi) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [La Danse](https://open.spotify.com/album/7A6UFmhuy01DsjNIMckhPl) | 4:08 | 2022-12-15 | 2023-03-31 |
+| [Ladada \(Mes Derniers Mots\) \- Sound Rush Remix](https://open.spotify.com/track/5ysw24SsAfqTqpdQjOFqmc) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Ladada \(Remixes\)](https://open.spotify.com/album/6tCLqWJYxVJFddtwZXXK4R) | 2:48 | 2023-06-23 |  |
 | [Lambada \(Your Love\)](https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Lambada \(Your Love\)](https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6) | 4:26 | 2022-12-08 | 2022-12-16 |
 | [Let Go](https://open.spotify.com/track/2n4ddu9TEIPoL3IQP88uk6) | [Envine](https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi), [REKALL](https://open.spotify.com/artist/6I21Q5XZwxPffqsQ9PXjsp), [Myke](https://open.spotify.com/artist/4MQJh64qUPAmGoeW7sL1OY) | [Let Go](https://open.spotify.com/album/4GgXak6TYk4IMUTFq7dZD3) | 2:47 | 2022-12-08 | 2023-02-24 |
 | [LFG PSYCHO](https://open.spotify.com/track/0MwEcodV2ILJPeUWf72761) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [MC Stretch](https://open.spotify.com/artist/6oIpax63yT9ajyekkcqv0L) | [LFG PSYCHO](https://open.spotify.com/album/5VVH5IaththpLVYI3QsRgm) | 2:39 | 2023-06-01 | 2023-06-19 |

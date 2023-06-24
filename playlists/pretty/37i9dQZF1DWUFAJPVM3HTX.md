@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: CARI\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,788 likes - 320 songs - 16 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,925 likes - 320 songs - 16 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,7 +289,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 279 | [Friend of Mine](https://open.spotify.com/track/1VMAVDh0ji7G2XcD6bT0EW) | [Tiyon](https://open.spotify.com/artist/4Jzbgqn0pgIJvRL6uDq3RN) | [Friend of Mine](https://open.spotify.com/album/2rdn4MNvL4rif0T36fZ4Ul) | 3:16 |
 | 280 | [On My Time](https://open.spotify.com/track/5q0LsBjcOWtJJHmSSLSAKo) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [On My Time](https://open.spotify.com/album/1nh4koTLenIKkWoZN6k11M) | 2:51 |
 | 281 | [Stay In](https://open.spotify.com/track/1zguA9SkgWEw0UlluZ47XY) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [NAPPY HOUR](https://open.spotify.com/album/3d3YIlB6djFxlcLq8hlYlG) | 3:35 |
-| 282 | [Last Thing](https://open.spotify.com/track/3wzSq2AgKp3KXVrAO6yj8h) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/0OZATi1efmtpFw6d7ivEzf) | 2:42 |
+| 282 | [Last Thing](https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX) | 2:42 |
 | 283 | [Back In Time](https://open.spotify.com/track/6F7Fm3rwncbAkK76L3OnYF) | [Treyfromnextdoor](https://open.spotify.com/artist/56w4SAwcbNpdLqKwF9FVBw), [Shade Jenifer](https://open.spotify.com/artist/0H4RQd6VmuhhYVIDYUhjDy) | [Back In Time](https://open.spotify.com/album/7ooQS7k1rZDDhjY4gZaSDS) | 2:23 |
 | 284 | [BONNIE](https://open.spotify.com/track/5AFpQpvqjkhxyPZHH5fjiT) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [BONNIE](https://open.spotify.com/album/7506c1Q7NJXBhl7aKhCESp) | 3:40 |
 | 285 | [Born 2 Fly](https://open.spotify.com/track/1xCWIOU851n2VKbVeu6Tn3) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Born 2 Fly](https://open.spotify.com/album/7DFiVGxW8VmOMuS9ob0aDz) | 3:37 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 319 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |
 | 320 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 |
 
-Snapshot ID: `MCxjOTgyZDI5NWFkNWY4NWQ5N2ZhZDE4NmRmM2Y3N2E1ZWYxZGU3YWEw`
+Snapshot ID: `MCw4NTgwMjIyNzIxYTI5NjlkYzI3MzFiZmY3YmU3YWQyZWYwNDViYzcy`

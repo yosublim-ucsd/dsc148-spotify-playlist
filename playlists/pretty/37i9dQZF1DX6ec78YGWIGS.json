@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Feat. Marshmello & Tiago PZK",
-  "num_followers": 501139,
+  "num_followers": 501394,
   "original_name": "POP FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjhlMjM1NzA1MDFmMjZjOTYxNjNhZTIyMDg0NWQ3NTQ4ODczYWNi",
+  "snapshot_id": "MCwyOGMwZGI3MmZkZWFmYmU0YjY1NmRiOTU2MGI3YmU5YTE5YjM3ODBi",
   "tracks": [
     {
       "added_at": "2023-06-23 00:00:00",
@@ -71,6 +71,26 @@
       "duration_ms": 338000,
       "name": "Los del Espacio",
       "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"
+    },
+    {
+      "added_at": "2023-06-23 00:00:00",
+      "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     },
     {
       "added_at": "2023-06-23 00:00:00",

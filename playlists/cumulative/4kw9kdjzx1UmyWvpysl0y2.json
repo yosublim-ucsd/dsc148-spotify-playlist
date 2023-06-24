@@ -5566,7 +5566,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 213488,
       "name": "Mindbreak",
       "url": "https://open.spotify.com/track/6EP8jgwI9FS3qEEfNC6idl"
@@ -7499,6 +7499,28 @@
     },
     {
       "album": {
+        "name": "Safer Place / Work My Body",
+        "url": "https://open.spotify.com/album/473D1rbKmLyh3LtP92FHzs"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        },
+        {
+          "name": "LUX",
+          "url": "https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Safer Place",
+      "url": "https://open.spotify.com/track/3bEcHt8DDUMvK67yrd35Qy"
+    },
+    {
+      "album": {
         "name": "Saganaki",
         "url": "https://open.spotify.com/album/6i0N9UHCiTXb8bRI7aKQob"
       },
@@ -8726,7 +8748,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 181000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj"
@@ -8950,6 +8972,28 @@
       "duration_ms": 232000,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/0ERuTf3ipLWdRfemvFmIrZ"
+    },
+    {
+      "album": {
+        "name": "The Outlines",
+        "url": "https://open.spotify.com/album/2781rPnBLyPrsaH2taH7nM"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253793,
+      "name": "The Outlines",
+      "url": "https://open.spotify.com/track/3xcvdCimYBj7FnpErd45vy"
     },
     {
       "album": {

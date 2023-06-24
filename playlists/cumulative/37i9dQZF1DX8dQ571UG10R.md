@@ -4,12 +4,13 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-72 songs - 4 hr 56 min
+73 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Akatsuki Gang](https://open.spotify.com/track/6Q0UgUQaE8IdAwju7lUbk5) | [Geekmusik](https://open.spotify.com/artist/3kzjMNNmKlPwI0FvPQJzps), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu), [TK Raps](https://open.spotify.com/artist/1KeEGKVJWq67DtXPZFh2mq), [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Tauz](https://open.spotify.com/artist/2fbeD4DgpQGFbowONHP6uj), [VG Beats](https://open.spotify.com/artist/4Bh0y5G503CoxJazUbgKxY), [Jag](https://open.spotify.com/artist/7I5OqFRkQwd3JJvUrCYK5k), [Marck](https://open.spotify.com/artist/6rU9HFzoXT80f6ITVEgDsb) | [Akatsuki Gang](https://open.spotify.com/album/2letRy6PxriThU7pGxNfeB) | 6:38 | 2022-02-22 | 2023-04-01 |
 | [Amor Complicado](https://open.spotify.com/track/1fiaPgQcrNhNPYdFouflft) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Amor Complicado](https://open.spotify.com/album/11Nr9YVEykejmmWdaz6eJa) | 4:03 | 2022-02-22 | 2023-05-27 |
+| [Bbay](https://open.spotify.com/track/12U9gfj6mqCY7HO1HiZYIw) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Baby](https://open.spotify.com/album/5IruRk9n5F8C986iA5JGg2) | 4:11 | 2023-06-23 |  |
 | [Chainsaw Man](https://open.spotify.com/track/3AF9WkqyCw1U6Vlalt3pQ5) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Chainsaw Man](https://open.spotify.com/album/5c5TZZCOaiwyBO479W12a2) | 3:19 | 2023-06-02 |  |
 | [Chamas Azuis](https://open.spotify.com/track/5PUhWvFvj8Hx1pwe0A0wGA) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [808 Ander](https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk) | [Chamas Azuis](https://open.spotify.com/album/6jydQD6FUMLFJTFVKwpfbg) | 3:42 | 2022-02-22 |  |
 | [Chuva de Kunai](https://open.spotify.com/track/4usBkW8CT7JWQeKKFOrzmX) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/6Ws7SAfsSmqkGGCjhX3LUk) | 3:19 | 2023-06-02 |  |
@@ -78,7 +79,7 @@
 | [Tipo Tobi](https://open.spotify.com/track/45vigZiVUySqgsMXqxhtvp) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Tobi](https://open.spotify.com/album/5ufXwSFcC7e6DcromjzEBc) | 3:24 | 2022-02-22 |  |
 | [Tipo Tobirama](https://open.spotify.com/track/4dmCXfDP4alC1JfQM3XB2h) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Tobirama](https://open.spotify.com/album/1dAqa80c24lQQyj0sdObb7) | 2:40 | 2022-02-22 |  |
 | [Tripulação](https://open.spotify.com/track/2N9AvwuptNKvpF1BM5vl7E) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Tripulação](https://open.spotify.com/album/5czSNphndXvBgjXWz102vt) | 2:29 | 2022-05-27 |  |
-| [União Otaku](https://open.spotify.com/track/4O2QJmD4iRshtmNwPhnAXg) | [Byakuran](https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR) | [União Otaku](https://open.spotify.com/album/5b8AZgNHUnSisyN2BaJeUz) | 2:19 | 2022-02-22 |  |
+| [União Otaku](https://open.spotify.com/track/4O2QJmD4iRshtmNwPhnAXg) | [Byakuran](https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR) | [União Otaku](https://open.spotify.com/album/5b8AZgNHUnSisyN2BaJeUz) | 2:19 | 2022-02-22 | 2023-06-24 |
 | [Vibe Zabuza](https://open.spotify.com/track/3HWBHERbMiilhipGquIuuE) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Vibe Zabuza](https://open.spotify.com/album/45rh16gGALDIn93TdurKkg) | 3:35 | 2022-02-22 |  |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

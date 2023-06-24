@@ -2923,6 +2923,28 @@
     },
     {
       "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/52chGdpRUEAu29jmJsaMSR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Bobbie Nelson",
+          "url": "https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167291,
+      "name": "Waltz Across Texas",
+      "url": "https://open.spotify.com/track/5drS8Hv8Q8fufYOn9km0UT"
+    },
+    {
+      "album": {
         "name": "We Are Here",
         "url": "https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd"
       },

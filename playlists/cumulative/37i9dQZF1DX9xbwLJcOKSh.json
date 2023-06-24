@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Tsuki no Mayu",
+        "url": "https://open.spotify.com/album/0j8BKcPzD7w4TIrw9lD4AT"
+      },
+      "artists": [
+        {
+          "name": "Aki Okui",
+          "url": "https://open.spotify.com/artist/5V9gHCDTCN8JXJo0g9FXjy"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338453,
+      "name": "Tsuki no Mayu",
+      "url": "https://open.spotify.com/track/0drOFJvHxIMeFHd22GFWAH"
+    },
+    {
+      "album": {
         "name": "TURN A GUNDAM Original Motion Picture Soundtrack \u2162 - Cocoa",
         "url": "https://open.spotify.com/album/7x9edL2oWovJZsjIJUdRbz"
       },
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 338600,
       "name": "Tsuki No Mayu",
       "url": "https://open.spotify.com/track/2GQRL3sE4eYy1dzJTI2AUF"

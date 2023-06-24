@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-203 songs - 14 hr 14 min
+204 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Come Back Down](https://open.spotify.com/track/5TiLs9x1VjxxE3rwP3HdL2) | [Talia Keys](https://open.spotify.com/artist/4iHUosZ808WyllYm9bMaqX) | [Come Back Down](https://open.spotify.com/album/3okZtkZ8GIXDc1AfrTnjRY) | 4:12 | 2022-03-11 |  |
 | [Confident \(feat\. The MB's\)](https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6) | [Cliff Beach](https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z), [The MB's](https://open.spotify.com/artist/4adlPXwO2sPi7h6Rgz3krz) | [Confident \(feat\. The MB's\)](https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn) | 3:19 | 2020-10-30 | 2022-04-09 |
 | [Cool \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/2NV8520xo3iYrpD8wv4Sxy) | [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [Cool \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/0CnL6CPos3VkeqKRaR9Uwp) | 2:54 | 2022-07-01 |  |
-| [Cosmic Day \- 2020 Remaster](https://open.spotify.com/track/5C0ntapk5jYYNBYkRiUWBB) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times \(Super Deluxe Edition\)](https://open.spotify.com/album/0TQG9HCLZGushGzSwvtxC1) | 5:39 | 2020-10-30 |  |
+| [Cosmic Day \- 2020 Remaster](https://open.spotify.com/track/5C0ntapk5jYYNBYkRiUWBB) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times \(Super Deluxe Edition\)](https://open.spotify.com/album/0TQG9HCLZGushGzSwvtxC1) | 5:39 | 2020-10-30 | 2023-06-24 |
 | [Cosmic Day \- 2020 Remaster](https://open.spotify.com/track/5PaBbJtAzd7dl3RMk6ezer) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Witness 4 The Prosecution \(Version 2\) \[2020 Remaster\]](https://open.spotify.com/album/6ZkYNos93hJHHdpaZfTJPL) | 5:39 | 2020-10-30 | 2022-07-29 |
 | [Cross The Track](https://open.spotify.com/track/0E02hR1cBcwaGhZBKboKts) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Cross The Track](https://open.spotify.com/album/4H9YUJMatjxYWbfypAosLU) | 5:05 | 2020-10-30 | 2022-07-29 |
 | [Cross The Track](https://open.spotify.com/track/5GpVsLkTn20sUOjiFKKlCT) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH) | 5:05 | 2020-10-30 |  |
@@ -187,6 +187,7 @@
 | [Vodka & Tonic](https://open.spotify.com/track/0EzHA0WMp6WkyVjSbHK1ul) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Vodka & Tonic](https://open.spotify.com/album/4PjqWdyFYyPxBwN789OLFR) | 3:31 | 2022-02-25 |  |
 | [Wanna Do \(Funk With You\)](https://open.spotify.com/track/7Mg0Lbc0ehV83usNMmZlKi) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [Wanna Do \(Funk With You\)](https://open.spotify.com/album/1bLTjPXpIsnU3WqBwxM5hH) | 3:21 | 2020-10-30 |  |
 | [Watcha Want From Me](https://open.spotify.com/track/1E6CbYhTHxWgRk9ZIH4Gj5) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Watcha Want From Me / Miss Mess](https://open.spotify.com/album/118Ow1hO2UfQbiZjeEPAcj) | 4:28 | 2020-10-30 | 2022-04-09 |
+| [We Are The Party](https://open.spotify.com/track/4hQWcL2ABDLDSL3SCAJMNg) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [We Are The Party](https://open.spotify.com/album/3bNYdxoL97jRVZrGmWEDwZ) | 4:13 | 2023-06-23 |  |
 | [We Can Move](https://open.spotify.com/track/4UdJg615OBpJu6MepS6Hq8) | [Free Youth](https://open.spotify.com/artist/6sam1utI6B6K9ggk8UH0kv) | [We Can Move](https://open.spotify.com/album/2J7KkktKcCxf5lMRFxCZjG) | 6:29 | 2020-10-30 | 2022-04-09 |
 | [We Can Work it Out](https://open.spotify.com/track/7gsAzeAY7SZXcHbfGg9X0J) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [We Can Work it Out](https://open.spotify.com/album/00gL2Gu8zFTvgvmRvq4Ka7) | 3:04 | 2021-07-30 |  |
 | [We Got What You Need](https://open.spotify.com/track/3EeKxDfgZh7O1YyjzgwDTc) | [Matador! Soul Sounds](https://open.spotify.com/artist/30F766ZDjMVs5CZYLzVVsm), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Alan Evans](https://open.spotify.com/artist/6AX7W5WmmO571y95QmDVHo), [Chris Spies](https://open.spotify.com/artist/5JDw5ZB3Br9wCkUjvf91Zp), [Kevin Scot](https://open.spotify.com/artist/0RAyFK98Fpiq9LRoPCSFK7), [Kim Dawson](https://open.spotify.com/artist/2pm78OlCPfYj9Ln9vm4Iug), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [We Got What You Need](https://open.spotify.com/album/03wcr8UKUnHVXoTsszpRzc) | 4:32 | 2020-10-30 | 2022-04-09 |

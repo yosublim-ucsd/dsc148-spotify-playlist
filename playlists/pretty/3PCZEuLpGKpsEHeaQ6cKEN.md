@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Loud Luxury, Bebe Rexha, Two Friends
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,383 likes - 150 songs - 7 hr 49 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,381 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 149 | [Alone](https://open.spotify.com/track/3b28eJuh4eW50jXjPKpf49) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Alone](https://open.spotify.com/album/1uBf6Qwf4RiZkrz6pGHyj1) | 3:58 |
 | 150 | [Overdrive](https://open.spotify.com/track/0Ahobc1CvObnmqpnUx0Jrx) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Overdrive](https://open.spotify.com/album/3T1UpcLsI5HgB74XrwFwe7) | 2:05 |
 
-Snapshot ID: `NTI3MTIsMjU4OTE5MjA4MGZlOGU3YmJmMDM3MGJhMTEyMjAyMTQzODE5Y2IzZg==`
+Snapshot ID: `NTI3MTQsYzI3NTQ4YTE5MjAxZWQ5ODFhNDFhODFhOGQ0ODk5ODQwYjI0MDMyZQ==`

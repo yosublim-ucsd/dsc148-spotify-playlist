@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,028 likes - 105 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,034 likes - 105 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 27 | [念念不忘 \- 电影《念念相忘》主题曲](https://open.spotify.com/track/0HJi9bUARUsxztKT7iHjzo) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [念念不忘 \(电影《念念相忘》主题曲\)](https://open.spotify.com/album/1TSwpFghoNHeSOjfAagTEV) | 4:06 |
 | 28 | [调色盘](https://open.spotify.com/track/6NFGbZZ2nohR9vzjLVZsBa) | [张静汶](https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB) | [调色盘](https://open.spotify.com/album/0ew7Ne3pRUBiLjoQ6kKY76) | 3:34 |
 | 29 | [哭吧 \(feat\. 台北建東JD\)](https://open.spotify.com/track/7zKdpJCdX6keinjVA5lQgx) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [台北建東JD](https://open.spotify.com/artist/0ai0AnxgCE05Gff4IOI2Q3) | [哭吧 \(feat\. 台北建東JD\)](https://open.spotify.com/album/4KIyE6NBUATNNOEIMishOu) | 3:44 |
-| 30 | [Room For Two](https://open.spotify.com/track/2T7RvLmznqgV8WneaoW4EZ) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT), [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [Room For Two](https://open.spotify.com/album/4inR4ojKMWTFd5APWMriZO) | 3:30 |
+| 30 | [Room For Two](https://open.spotify.com/track/2T7RvLmznqgV8WneaoW4EZ) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT), [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [Room For Two](https://open.spotify.com/album/4inR4ojKMWTFd5APWMriZO) | 3:30 |
 | 31 | [光線](https://open.spotify.com/track/5Gb1aiWRWcC9qsuh8T6dcw) | [NAT健豪](https://open.spotify.com/artist/5wvijDYWS37P3B4klR8g1e) | [有光的地方](https://open.spotify.com/album/0N6gQ4AgAuSTIXiIshfTF3) | 4:03 |
 | 32 | [月 \- EMOTIF情绪推广曲](https://open.spotify.com/track/43x939qjuLiRJBKJfDTIXE) | [郁可唯](https://open.spotify.com/artist/4XOgZBMcpRQqKHbE8L9zW1) | [月 \(EMOTIF情绪推广曲\)](https://open.spotify.com/album/1gnQSCG2llfmlVLWSWt1oJ) | 4:10 |
 | 33 | [我等的那個人](https://open.spotify.com/track/36sqsukwpzgDjrBW6fOL2P) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [我等的那個人](https://open.spotify.com/album/654PVYHAOSFYxc83QuQLZu) | 3:58 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 78 | [Slow Motion \- "About Youth" Ending Song](https://open.spotify.com/track/6PO7m2wMAPq2ibOYsj5cnu) | [77Ke 柯棨棋](https://open.spotify.com/artist/2O7SMn3bTBCSb4sNglNkcJ) | [Slow Motion \("About Youth" Ending Song\)](https://open.spotify.com/album/3lhMEwJgXa6oi8yfbR9hrT) | 2:54 |
 | 79 | [卡利斯托](https://open.spotify.com/track/1OXzOnNMDQ24SLsVog2jn3) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [卡利斯托](https://open.spotify.com/album/6wQvQqX4FTkfhz34QzdheW) | 2:31 |
 | 80 | [Let Me Tell You](https://open.spotify.com/track/2jTrgeZe6B8Fbx52ECTc7x) | [NEOSO](https://open.spotify.com/artist/7zAyW4IBReORwCaBXxQfNd) | [Let Me Tell You](https://open.spotify.com/album/7E2CZqo3O0RVeKK1gm7Lld) | 3:24 |
-| 81 | [單身也可以](https://open.spotify.com/track/7CG7wRsJPHpquZXTOJWyr7) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [單身也可以](https://open.spotify.com/album/10UwR0fP6y6kZ0O5CNOM0Q) | 3:28 |
+| 81 | [單身也可以](https://open.spotify.com/track/7CG7wRsJPHpquZXTOJWyr7) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [單身也可以](https://open.spotify.com/album/10UwR0fP6y6kZ0O5CNOM0Q) | 3:28 |
 | 82 | [聽不見的愛情](https://open.spotify.com/track/51KUDLINaiFkOTelnkvGke) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [聽不見的愛情](https://open.spotify.com/album/3Re3xj4rs5hgbS4yFJVbwC) | 5:06 |
 | 83 | [我難過](https://open.spotify.com/track/5yVdIgE1icMOAObV2wMz8b) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [我在身邊](https://open.spotify.com/album/1PomG2eNzyhVPrfoIr0FhF) | 4:52 |
 | 84 | [我多想變成她](https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:47 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [最初的夢想 \(第53屆全國技能競賽主題曲\)](https://open.spotify.com/track/13f2ID8nUBPTjoAArozQBK) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [最初的夢想](https://open.spotify.com/album/2aJDZXIMmmcDacKyY0vZ7o) | 4:13 |
 | 105 | [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 |
 
-Snapshot ID: `MCxlNDY5YmY5ZjlhNjliZjc3OTcyOTQxNmZjODQ0MDVhNmExZjFlNjEy`
+Snapshot ID: `MCxjOGM1ZmNjZmMzZTBkYzRkOTA2ZTg3ZTA4NDFkNWY1OTY4OWEyMTRi`

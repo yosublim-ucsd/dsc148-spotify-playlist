@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: YOVNGCHIMI
 
-546 songs - 1 day 7 hr 4 min
+547 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Costoso](https://open.spotify.com/track/1z0Xyl4kfTnTneEfxX5BlX) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Costoso](https://open.spotify.com/album/1grClcCnC7RSjdiMCWQ2xw) | 2:53 | 2022-01-19 | 2022-05-14 |
 | [Cotidiano](https://open.spotify.com/track/5fhXtKQWLg6pjE4Ca02hgd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Cotidiano](https://open.spotify.com/album/5JXWsZ1nZVLDXfSV4d777m) | 2:12 | 2022-01-19 | 2022-10-08 |
 | [Cotidiano](https://open.spotify.com/track/7G2pomkPBvmMIzT5H7Pt2v) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Cotidiano](https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM) | 2:12 | 2022-10-07 | 2023-01-26 |
+| [Crime](https://open.spotify.com/track/5looKg8bc3CAzkmyxdgRCo) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Crime](https://open.spotify.com/album/01pdI6epcgosnIga9wcDhr) | 3:28 | 2023-06-16 |  |
 | [Cuando Entramos en Acción](https://open.spotify.com/track/1wNN9AHg48S1Ye1KNfgm2J) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Cuando Entramos en Acción](https://open.spotify.com/album/42n7d8yfCOFcXdlD8BFBkg) | 3:02 | 2022-01-06 | 2022-05-14 |
 | [Cuando Toca Toca](https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Cuando Toca Toca](https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj) | 3:04 | 2022-01-19 | 2023-05-27 |
 | [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 | 2022-01-06 | 2022-01-20 |
@@ -463,7 +464,7 @@
 | [Sprite](https://open.spotify.com/track/6ZJclxPNQ7ENAKLanZwQRu) | [Mauco](https://open.spotify.com/artist/3OzESUg9or4TuPNimZD3XC), [Kid Pistola](https://open.spotify.com/artist/3Y2qwY5R2OqefGohE3tMLU), [Elijah King](https://open.spotify.com/artist/4pdqUuVL0DtPf06XU0YkMr) | [Sprite](https://open.spotify.com/album/372LsHUhSFHSI0aPxHUxyX) | 3:37 | 2022-03-09 | 2022-10-08 |
 | [Standard](https://open.spotify.com/track/0G9vVO54iCyJwWth6nrDFT) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:31 | 2023-02-09 | 2023-05-27 |
 | [Standard](https://open.spotify.com/track/6NL2Lo67Xd7Zdnke6eWqa7) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:31 | 2022-12-09 | 2023-02-19 |
-| [Standard](https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Standard](https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev) | 2:32 | 2022-05-13 |  |
+| [Standard](https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Standard](https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev) | 2:32 | 2022-05-13 | 2023-06-24 |
 | [Stripper X](https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Soñando en PR](https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5) | 2:38 | 2022-05-13 | 2023-05-27 |
 | [Stripper X](https://open.spotify.com/track/5UlAeEQEgkT8oVauCfbunJ) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Stripper X](https://open.spotify.com/album/5O3Z3LXXRc6QmdDerBMgaM) | 2:40 | 2023-05-26 |  |
 | [Stupid Love Story](https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Apa y Can](https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx) | 4:42 | 2022-01-06 | 2022-01-20 |

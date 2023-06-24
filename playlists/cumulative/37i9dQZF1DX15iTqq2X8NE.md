@@ -2,7 +2,7 @@
 
 ### [Sudan Sounds](https://open.spotify.com/playlist/37i9dQZF1DX15iTqq2X8NE)
 
-> A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
+> A journey in the modern & old Sudanese sounds.
 
 141 songs - 8 hr 58 min
 

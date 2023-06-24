@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-162 songs - 9 hr 42 min
+163 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Adore You \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/0ovIP1mWermyLY91w6SMnh) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Adore You \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/3JBaruXKMRHbPsnGIwmsaq) | 3:18 | 2021-11-19 |  |
 | [All Of Me](https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/20Et1l6jsJdticffIphZQP) | 3:18 | 2022-07-08 |  |
 | [All Of Me](https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo) | 3:18 | 2021-11-19 | 2022-07-29 |
-| [Anti\-Hero \(arr\. piano\)](https://open.spotify.com/track/4xZP0zYF23dP8JRcqyF2mV) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Anti Hero \(arr\. piano\)](https://open.spotify.com/album/56wtDQM2uL66GbgYQXAlhP) | 3:18 | 2023-03-17 |  |
+| [Anti\-Hero](https://open.spotify.com/track/4QoywwYw4xnKRHOSmbmSQx) | [Dallas String Quartet](https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5) | [Anti\-Hero](https://open.spotify.com/album/4YvpNIX2uxTvY5KXn1QLvg) | 3:16 | 2023-06-23 |  |
+| [Anti\-Hero \(arr\. piano\)](https://open.spotify.com/track/4xZP0zYF23dP8JRcqyF2mV) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Anti Hero \(arr\. piano\)](https://open.spotify.com/album/56wtDQM2uL66GbgYQXAlhP) | 3:18 | 2023-03-17 | 2023-06-24 |
 | [Anyone](https://open.spotify.com/track/0O8dFusnakV9rVLA2S16De) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Anyone](https://open.spotify.com/album/5HaWtTikAqMSJGgaVljsKl) | 3:11 | 2021-11-19 |  |
 | [As It Was](https://open.spotify.com/track/0RsaOIEKB4u4dbZMgs8zXP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [As It Was](https://open.spotify.com/album/1de4PdJI0bgz3j1wd0bW94) | 2:41 | 2022-06-24 |  |
 | [Bad Guy](https://open.spotify.com/track/2FH0jT9o0mz71s7AtMkAa4) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Bad Guy](https://open.spotify.com/album/7jgCENuww6WXc03Gpm3bKe) | 3:11 | 2021-11-19 |  |

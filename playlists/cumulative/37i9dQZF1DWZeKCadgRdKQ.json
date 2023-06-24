@@ -3290,7 +3290,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 180914,
       "name": "Forever Distant",
       "url": "https://open.spotify.com/track/6phzRtzX5AMmgRVhB02Xas"
@@ -4018,6 +4018,24 @@
       "duration_ms": 139720,
       "name": "Horoscopes",
       "url": "https://open.spotify.com/track/6sV8mjqZTDnZA5qMz5RtwF"
+    },
+    {
+      "album": {
+        "name": "Hovering Above",
+        "url": "https://open.spotify.com/album/0uqyAa99z0FdSIY46Xq3Zd"
+      },
+      "artists": [
+        {
+          "name": "Au\u00f0ura",
+          "url": "https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125437,
+      "name": "Hovering Above",
+      "url": "https://open.spotify.com/track/5PousAnbyul3dTZlmGqEs0"
     },
     {
       "album": {

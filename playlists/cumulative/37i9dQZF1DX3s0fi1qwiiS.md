@@ -4,7 +4,7 @@
 
 > Who order Azul?
 
-52 songs - 3 hr 22 min
+53 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Nkao Tempela](https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Nkao Tempela](https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE) | 6:01 | 2022-12-02 |  |
 | [No Kissing Baby](https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:41 | 2022-12-02 |  |
 | [Odo](https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv) | 3:06 | 2022-12-02 |  |
-| [Omo Ada \(feat\. Shatta Wale & Fela Makafui\)](https://open.spotify.com/track/6Oh69XEHxh966heGDz4Yul) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Fela Makafui](https://open.spotify.com/artist/5PcgFn6JlRK9gXsSX7i3h3), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Omo Ada \(feat\. Shatta Wale & Fela Makafui\)](https://open.spotify.com/album/1MW8m6LL9SvHCI3L8fWtQp) | 2:48 | 2022-12-02 |  |
+| [Omo Ada \(Dem Sleep\)](https://open.spotify.com/track/5Bj2UfTbE1NI3ZSpYl8Wbh) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Omo Ada \(Dem Sleep\)](https://open.spotify.com/album/16m64JfCcW9cgPVXsIkM1f) | 2:46 | 2022-12-02 |  |
+| [Omo Ada \(feat\. Shatta Wale & Fela Makafui\)](https://open.spotify.com/track/6Oh69XEHxh966heGDz4Yul) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Fela Makafui](https://open.spotify.com/artist/5PcgFn6JlRK9gXsSX7i3h3), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Omo Ada \(feat\. Shatta Wale & Fela Makafui\)](https://open.spotify.com/album/1MW8m6LL9SvHCI3L8fWtQp) | 2:48 | 2022-12-02 | 2023-06-24 |
 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 | 2022-12-02 |  |
 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 | 2022-12-02 |  |
 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 | 2022-12-02 |  |

@@ -1944,6 +1944,24 @@
     {
       "album": {
         "name": "GG",
+        "url": "https://open.spotify.com/album/4RExhDGZJOKy392lGKzzs1"
+      },
+      "artists": [
+        {
+          "name": "Guchon",
+          "url": "https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288012,
+      "name": "GG",
+      "url": "https://open.spotify.com/track/205HoXBFsEHQPmpYfrbLyC"
+    },
+    {
+      "album": {
+        "name": "GG",
         "url": "https://open.spotify.com/album/3O41fprMUqAzhyRRqBfcLd"
       },
       "artists": [
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 288012,
       "name": "GG",
       "url": "https://open.spotify.com/track/6dFAAU6DldVzAyulnjfRUG"

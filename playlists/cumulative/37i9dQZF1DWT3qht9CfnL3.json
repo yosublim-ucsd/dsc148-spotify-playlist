@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "LOS HOMBRES NO LLORAN",
+        "url": "https://open.spotify.com/album/5SGJO4DtxBUTbwMxP3VRxV"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132146,
+      "name": "LOS HOMBRES NO LLORAN",
+      "url": "https://open.spotify.com/track/4zBe0FyeYWAHZwBCUzefuF"
+    },
+    {
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },

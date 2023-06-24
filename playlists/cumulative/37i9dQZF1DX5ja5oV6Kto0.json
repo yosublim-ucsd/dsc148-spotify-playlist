@@ -887,6 +887,28 @@
     },
     {
       "album": {
+        "name": "BEBE",
+        "url": "https://open.spotify.com/album/6aO0rsFggEt7njGE8LEI5I"
+      },
+      "artists": [
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154411,
+      "name": "BEBE",
+      "url": "https://open.spotify.com/track/32IyzBKQ5GZbPO3Md2cvGP"
+    },
+    {
+      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/3bP6xutBMEXvmVbecXNF6u"
       },
@@ -4218,10 +4240,28 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 162230,
       "name": "Last Thing",
       "url": "https://open.spotify.com/track/3wzSq2AgKp3KXVrAO6yj8h"
+    },
+    {
+      "album": {
+        "name": "Last Thing",
+        "url": "https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162230,
+      "name": "Last Thing",
+      "url": "https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z"
     },
     {
       "album": {
@@ -5102,7 +5142,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 165140,
       "name": "More",
       "url": "https://open.spotify.com/track/3JNVKzukXR36uSyPtWu20O"

@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-267 songs - 12 hr 19 min
+268 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Queen of the Dancehall](https://open.spotify.com/track/2KKUB380LqN4ydVQhdMGFJ) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Queen of the Dancehall](https://open.spotify.com/album/0BAUGuQ5pbGkBBWfIZOEbW) | 2:28 | 2023-04-13 | 2023-06-16 |
 | [Rasta](https://open.spotify.com/track/1BXuekBuG8sIz1OwL8XhD0) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Rasta](https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD) | 2:15 | 2023-03-09 | 2023-04-14 |
 | [Rayi](https://open.spotify.com/track/76YX35vB9aQETqzZQUThpR) | [CRAAZY](https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd), [WAH WAAH](https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Rayi](https://open.spotify.com/album/4hWzXmzOBcbjc6a3QrON66) | 3:12 | 2022-01-27 | 2022-07-01 |
+| [Reach My Heart](https://open.spotify.com/track/1Lcxs10UaWSyWsUNzExxNI) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Reach My Heart](https://open.spotify.com/album/47H8G4fC4jjRM6mvpPwoak) | 2:40 | 2023-06-22 |  |
 | [Real Dawgz](https://open.spotify.com/track/5zpTf2sn6BGjPVLi1pEOvo) | [Goldn.B](https://open.spotify.com/artist/4gGacdwZmUxzVWDOoGMomn) | [Or\(née\)](https://open.spotify.com/album/66i0k01MnJRSOALLcsu99J) | 3:09 | 2022-04-14 | 2022-06-24 |
 | [Regret \- Remix](https://open.spotify.com/track/1p3lY9s5YADOF7PQ3u32Ny) | [Magasco](https://open.spotify.com/artist/19MUAFeICSgiIHN7C452LD), [Mimie](https://open.spotify.com/artist/1KM5rEMK3l9VVXq3XEejqP) | [Regret \(Remix\)](https://open.spotify.com/album/3vsoBAgKjB5rIHBCZvJCfV) | 3:41 | 2023-02-16 | 2023-05-26 |
 | [Reload](https://open.spotify.com/track/67erDOXoomBqQebPnpZayQ) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Reload](https://open.spotify.com/album/0NFillRDfBiGrsAsG9Hd7T) | 2:24 | 2023-01-19 | 2023-03-18 |

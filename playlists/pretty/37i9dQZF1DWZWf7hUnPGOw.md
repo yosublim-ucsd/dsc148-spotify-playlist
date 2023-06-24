@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,374 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,443 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 93 | [Troubles](https://open.spotify.com/track/7kwJKz6246G9HUAREqLAw7) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Eternal Reach](https://open.spotify.com/album/1PB9Z5JcnmNMssRegx6K61) | 6:24 |
 | 94 | [Turn](https://open.spotify.com/track/1qXqofgrpHVmaQRvpjhbHM) | [Ben Wagner](https://open.spotify.com/artist/2XfzkL45NEnGaTUtUOo63D) | [Midwestern Comfort](https://open.spotify.com/album/4rKjsssuMEhPlCrfcbl8mx) | 4:05 |
 | 95 | [I Need Your Love](https://open.spotify.com/track/0hYZEuOjA0u7LLLuOPx3cd) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Cause And Effect \(Deluxe\)](https://open.spotify.com/album/2V3ebysBMSaKfYUcsCWmKX) | 4:11 |
-| 96 | [You Are a Memory](https://open.spotify.com/track/5cWSpmTfItDuppACMrE3I9) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Maps](https://open.spotify.com/album/13fSrslfho3Hi0ZGzEdYoI) | 3:41 |
+| 96 | [You Are a Memory](https://open.spotify.com/track/49fDs1J7JqHlUo6HbX2qJ5) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Maps](https://open.spotify.com/album/7AtDa1mVEmLO2TTAackHv3) | 3:41 |
 | 97 | [Soft Dark Nothing](https://open.spotify.com/track/4SQ6Gk4a6QlPJrov5fD5Uu) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Arcadia](https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye) | 3:17 |
 | 98 | [Every Other Sunday Morning](https://open.spotify.com/track/4oo5Tb8pewuWud1RQW325n) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [From The Wreckage](https://open.spotify.com/album/3IsnebH7a085bEoQKee9UX) | 4:07 |
 | 99 | [Drift Away](https://open.spotify.com/track/11YWR8tzDTR2P4KZ3lAySj) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Throwback Tunes: 70s](https://open.spotify.com/album/5DJHtJpuoj7VidJ447oD8s) | 3:54 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 175 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 176 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCxiNTZlZTcyZjU4ODBiNTE5YjljYmZmOTcwZDQyMmZkNWM2NGU1ZWU0`
+Snapshot ID: `MCwwOTkzMDZiYTBlYTJiOGE4ZmRiNDZlYmMzZDc0M2U2NjA0YjljZmUz`

@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-391 songs - 21 hr 13 min
+392 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Levitating \- Acoustic](https://open.spotify.com/track/4Os3dG99565BnXqMD1JbrR) | [Megan Nicole](https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT) | [Levitating \(Acoustic\)](https://open.spotify.com/album/0SIo3r1UqmssC14q77voTp) | 2:05 | 2022-08-31 | 2022-12-17 |
 | [Lifetime \- Acoustic Version](https://open.spotify.com/track/3tdcEMfuERuOd39eO7UlXK) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [Lifetime \(VIP & Acoustic\)](https://open.spotify.com/album/1Ax5labB08CGc2CDHmyqKF) | 3:07 | 2021-03-11 |  |
 | [Light On \- Acoustic](https://open.spotify.com/track/0jYvXzBclRZWMh3G4Q1zpU) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Light On \- Acoustic](https://open.spotify.com/album/0imzEngLXNZ5hJdqvYtrYC) | 3:29 | 2023-01-04 | 2023-03-10 |
-| [Light Switch \- Acoustic](https://open.spotify.com/track/7ul00JABAebIdiCvJlqsNh) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Fresh Acoustic](https://open.spotify.com/album/6qQCPP6vbF7hNZGdFM7goh) | 3:06 | 2022-10-14 |  |
+| [Light Switch \- Acoustic](https://open.spotify.com/track/7ul00JABAebIdiCvJlqsNh) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Fresh Acoustic](https://open.spotify.com/album/6qQCPP6vbF7hNZGdFM7goh) | 3:06 | 2022-10-14 | 2023-06-24 |
 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 | 2022-08-31 |  |
 | [Lonely \(with benny blanco\) \- Acoustic](https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\) \[Main + Acoustic\]](https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH) | 2:35 | 2021-03-11 |  |
 | [lonely together](https://open.spotify.com/track/1qKOTnd7iewqEKfJxMFcWn) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [lonely together](https://open.spotify.com/album/7CBEGifKjpuEP6MZZzEV1G) | 3:21 | 2023-03-31 |  |
@@ -398,6 +398,7 @@
 | [you broke me first](https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [you broke me first](https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz) | 3:10 | 2022-08-31 | 2023-03-10 |
 | [You Found Me \- Acoustic Version](https://open.spotify.com/track/4CPl20KparXZVf8UZd410n) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [You Found Me \- Acoustic Version](https://open.spotify.com/album/6XW6nHMYq02FA5hRJpRUNN) | 4:19 | 2023-01-04 | 2023-03-10 |
 | [you were good to me](https://open.spotify.com/track/7sLC7SVbmunEgf9WSSNWA5) | [seaiiana](https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps) | [You Were Good To Me](https://open.spotify.com/album/705oyi8ElySBaCbuXQC8hy) | 3:49 | 2023-06-08 | 2023-06-10 |
+| [You'll Never Walk Alone](https://open.spotify.com/track/2eivkicsT39M1pz0A4mfSD) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [You'll Never Walk Alone](https://open.spotify.com/album/7nUJxEfO6ShXWqz4QHCmTg) | 2:41 | 2023-06-22 |  |
 | [Your Song \- Acoustic](https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song \(Acoustic\)](https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ) | 3:01 | 2022-09-30 | 2022-11-26 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

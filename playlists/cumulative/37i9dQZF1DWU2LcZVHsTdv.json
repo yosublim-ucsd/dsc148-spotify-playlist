@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Back To Jesus",
+        "url": "https://open.spotify.com/album/65QXI5NEq8bjTjzbdET0gK"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Back To Jesus",
+      "url": "https://open.spotify.com/track/3W9LnzNx3RPgIJqUrbFHVM"
+    },
+    {
+      "album": {
         "name": "Be A Light",
         "url": "https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2"
       },

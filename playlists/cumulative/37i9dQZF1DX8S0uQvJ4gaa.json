@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Willie Jones",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Ashley Cooke",
   "name": "New Boots",
   "tracks": [
     {
@@ -11665,6 +11665,24 @@
     },
     {
       "album": {
+        "name": "Hey Whiskey",
+        "url": "https://open.spotify.com/album/7bEvOn0bOFcr5eqvchRhOt"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203960,
+      "name": "Hey Whiskey",
+      "url": "https://open.spotify.com/track/2Kw5QYMTLrRV7jpoE8YkMg"
+    },
+    {
+      "album": {
         "name": "Songs About You",
         "url": "https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS"
       },
@@ -15136,7 +15154,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 183644,
       "name": "Last Time Last",
       "url": "https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s"
@@ -16110,6 +16128,24 @@
       "duration_ms": 179973,
       "name": "Looking for You",
       "url": "https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9"
+    },
+    {
+      "album": {
+        "name": "Loose Cannon",
+        "url": "https://open.spotify.com/album/64vwXK5PDLDbuT4dCui4af"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205841,
+      "name": "Loose Cannon",
+      "url": "https://open.spotify.com/track/3sXDgpJTEbjbLnrACFMjo1"
     },
     {
       "album": {
@@ -17184,6 +17220,28 @@
       "duration_ms": 220440,
       "name": "Me Pt. 2",
       "url": "https://open.spotify.com/track/6C4dL9m6mVWPNyIst3o9HU"
+    },
+    {
+      "album": {
+        "name": "mean girl (feat. Colbie Caillat)",
+        "url": "https://open.spotify.com/album/3rw1zkeAmrZvDd60WwAJgj"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205842,
+      "name": "mean girl (feat. Colbie Caillat)",
+      "url": "https://open.spotify.com/track/4BQxMO6PoNJzY410N8YjsT"
     },
     {
       "album": {
@@ -23106,7 +23164,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 193898,
       "name": "Shoot Tequila",
       "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
@@ -23820,6 +23878,24 @@
       "duration_ms": 163706,
       "name": "So Good It Hurts",
       "url": "https://open.spotify.com/track/7cBFDV3NqfAhoLBi7jxjbb"
+    },
+    {
+      "album": {
+        "name": "So Many Summers",
+        "url": "https://open.spotify.com/album/7LJugehkZRhRCm0RwX1j3M"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224837,
+      "name": "So Many Summers",
+      "url": "https://open.spotify.com/track/6fLOf6vy3ZXYqJPAETavUb"
     },
     {
       "album": {
@@ -25423,6 +25499,24 @@
     },
     {
       "album": {
+        "name": "Summer Don't Go",
+        "url": "https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168524,
+      "name": "Summer Don't Go",
+      "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
+    },
+    {
+      "album": {
         "name": "Summer In A Small Town",
         "url": "https://open.spotify.com/album/0JubqhaKGIbLxtG8IUBG95"
       },
@@ -26850,7 +26944,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 174511,
       "name": "The Wolves",
       "url": "https://open.spotify.com/track/2v71B92AHjGB0FgfIB4bch"
@@ -28334,7 +28428,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 177045,
       "name": "Unlove You",
       "url": "https://open.spotify.com/track/1jAzdHn0n2mODt7ZwW9S8N"
@@ -31048,7 +31142,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 189986,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"

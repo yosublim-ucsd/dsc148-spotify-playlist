@@ -4060,24 +4060,6 @@
     {
       "album": {
         "name": "Selling England by the Pound",
-        "url": "https://open.spotify.com/album/1rZGSWC3pMmejDwYG0ZXma"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "date_added": "2022-01-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 570986,
-      "name": "Firth of Fifth",
-      "url": "https://open.spotify.com/track/6UpMG6BDOd5xecMTu5r3sj"
-    },
-    {
-      "album": {
-        "name": "Selling England by the Pound",
         "url": "https://open.spotify.com/album/7xaM3ah9ZO4BjrcFj5vOZe"
       },
       "artists": [
@@ -4092,6 +4074,24 @@
       "duration_ms": 577426,
       "name": "Firth of Fifth",
       "url": "https://open.spotify.com/track/5SiNiJz8QZGJdk7WNvADt1"
+    },
+    {
+      "album": {
+        "name": "Selling England by the Pound (2007 Stereo Mix)",
+        "url": "https://open.spotify.com/album/1rZGSWC3pMmejDwYG0ZXma"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570986,
+      "name": "Firth of Fifth - 2007 Stereo Mix",
+      "url": "https://open.spotify.com/track/6UpMG6BDOd5xecMTu5r3sj"
     },
     {
       "album": {

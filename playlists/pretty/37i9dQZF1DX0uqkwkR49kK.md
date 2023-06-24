@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,865 likes - 50 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,997 likes - 50 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 19 | [The King Will Come](https://open.spotify.com/track/2Lathi1zVEUYJtnyp8BkUW) | [Wishbone Ash](https://open.spotify.com/artist/77zwstbi3x1IxnbDFg6uns) | [Argus \(Expanded Edition\)](https://open.spotify.com/album/7xEluvnbmFtRB5g66CJ2ND) | 7:05 |
 | 20 | [In Exile](https://open.spotify.com/track/0mZIRxmun8Lg6Ec9NpPAmm) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Your Wilderness](https://open.spotify.com/album/7jjzqewWL5T2lj8hU2Z4bG) | 5:10 |
 | 21 | [Dogs](https://open.spotify.com/track/2jvuMDqBK04WvCYYz5qjvG) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 17:05 |
-| 22 | [Dancing with the Moonlit Knight](https://open.spotify.com/track/1a1xoTlWpndO6azw57dKdJ) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Selling England by the Pound](https://open.spotify.com/album/1rZGSWC3pMmejDwYG0ZXma) | 8:00 |
+| 22 | [Dancing with the Moonlit Knight \- 2007 Stereo Mix](https://open.spotify.com/track/1a1xoTlWpndO6azw57dKdJ) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Selling England by the Pound \(2007 Stereo Mix\)](https://open.spotify.com/album/1rZGSWC3pMmejDwYG0ZXma) | 8:00 |
 | 23 | [MacArthur Park](https://open.spotify.com/track/1RefUer3ZJ0dVkELDdVctr) | [Beggars Opera](https://open.spotify.com/artist/1Q1IgVCRwAqQxgcM8a64zP) | [Pathfinder](https://open.spotify.com/album/4vDouPNKFQs5GGCjLuLt9W) | 8:20 |
 | 24 | [Breakthrough](https://open.spotify.com/track/4LwrmHM4m9oGbpMoaS7N1W) | [Atomic Rooster](https://open.spotify.com/artist/6Ix7Hx8Af0jg9X4OfD9sYR) | [In Hearing of Atomic Rooster](https://open.spotify.com/album/4ThQKimTEuqYTCkJMMhWP8) | 6:16 |
-| 25 | [Watcher of the Skies \- New Stereo Mix](https://open.spotify.com/track/0QtL2ONAn6cSamg6vzvGI7) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Foxtrot](https://open.spotify.com/album/3y67YB3vSbaopIg1VoAO1n) | 7:23 |
+| 25 | [Watcher of the Skies \- 2007 Stereo Mix](https://open.spotify.com/track/0QtL2ONAn6cSamg6vzvGI7) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Foxtrot \(2007 Stereo Mix\)](https://open.spotify.com/album/3y67YB3vSbaopIg1VoAO1n) | 7:23 |
 | 26 | [Backstreet Luv](https://open.spotify.com/track/3KHAmvnxOlkVOiELYW4KG9) | [Curved Air](https://open.spotify.com/artist/3UtSTTCQ0EMUQxmsfZ3Px1) | [The Best of Curved Air](https://open.spotify.com/album/7hfA825fDvgS0W95LV5kDy) | 3:38 |
 | 27 | [Moonshake](https://open.spotify.com/track/6ACXIPu0jhLDriV5sjrWtb) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Future Days \(Remastered Version\)](https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w) | 3:02 |
-| 28 | [The Lamb Lies Down on Broadway \- New Stereo Mix](https://open.spotify.com/track/10birs3L6T1PnvDwk4NXuf) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Lamb Lies Down on Broadway \(2007 Stereo Mix\)](https://open.spotify.com/album/49BxISwAbZZfmlhqD6Vh88) | 4:53 |
+| 28 | [The Lamb Lies Down on Broadway \- 2007 Stereo Mix](https://open.spotify.com/track/10birs3L6T1PnvDwk4NXuf) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Lamb Lies Down on Broadway \(2007 Stereo Mix\)](https://open.spotify.com/album/49BxISwAbZZfmlhqD6Vh88) | 4:53 |
 | 29 | [Phasors On Stun](https://open.spotify.com/track/5BY8dGGf3BaJ3isf87Gi8e) | [FM](https://open.spotify.com/artist/0WOZYC6Auxvg8pb6m15Wow) | [Black Noise](https://open.spotify.com/album/0rlAUicBfsAHnq0oUuWYTX) | 3:48 |
 | 30 | [World of the Void](https://open.spotify.com/track/2rYIPIXL0b8oVMvsZAoF1J) | [Kaipa](https://open.spotify.com/artist/2pD2PTwYf1XJQth2hSEmpa) | [Sattyg](https://open.spotify.com/album/32uueAtXcDeYIQ2I26qFo0) | 7:51 |
 | 31 | [Migration](https://open.spotify.com/track/1QYpsiC3a6kg1mrWKZ9PHK) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [The Snow Goose](https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 49 | [Drunkship Of Lanterns](https://open.spotify.com/track/1hWw1UGI5GuowixFmunO9y) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 7:05 |
 | 50 | [The Crowing](https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 6:35 |
 
-Snapshot ID: `MCw2ZmNiMjIwZDRkMjRlMzQ4MjQ3NWUyNzlhNmY5M2MwZjM0MTE3MDI3`
+Snapshot ID: `MCxhOTMyZjg4NWZiMDY4NzEyOTEyMmIwMGFhODg2ZmRhM2NiZWQ0NTg3`

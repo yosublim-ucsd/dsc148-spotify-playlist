@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 293192,
       "name": "Call Jane",
       "url": "https://open.spotify.com/track/2NGRFd7J0PdyDSMXvNsniW"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 301080,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/5yQm4HrLdxmTEQgBN7XFnj"
@@ -2607,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/5RaQIVOLhRalzd3zJAQRkj"
+      },
+      "artists": [
+        {
+          "name": "N\u00d8NAME",
+          "url": "https://open.spotify.com/artist/3Xyn7o6TEZLpA086eLQWNf"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332800,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/014mBk7UpsSkgMXZXqwHNL"
+    },
+    {
+      "album": {
         "name": "DT64",
         "url": "https://open.spotify.com/album/5R39eASkg4TLhHvfi54Wwh"
       },
@@ -3481,6 +3499,24 @@
     },
     {
       "album": {
+        "name": "Sektion 3",
+        "url": "https://open.spotify.com/album/1nGOgACCBlA4Hmrlm8Xkpd"
+      },
+      "artists": [
+        {
+          "name": "In Verruf",
+          "url": "https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369140,
+      "name": "Frei",
+      "url": "https://open.spotify.com/track/3zuaDpUbBX1yepWVGdBYQG"
+    },
+    {
+      "album": {
         "name": "Frequency Differ",
         "url": "https://open.spotify.com/album/03bFwiXnO9uziaWFdN0DyQ"
       },
@@ -3638,6 +3674,24 @@
       "duration_ms": 422016,
       "name": "Gamma (Joyhauser Remix)",
       "url": "https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0"
+    },
+    {
+      "album": {
+        "name": "Getting Close To Me EP",
+        "url": "https://open.spotify.com/album/2xogkX5Sn7hBEQtxMcGju4"
+      },
+      "artists": [
+        {
+          "name": "Zeltak",
+          "url": "https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358022,
+      "name": "Getting Close To Me",
+      "url": "https://open.spotify.com/track/26MST2xhA9lLY7x0FsDC4Z"
     },
     {
       "album": {
@@ -5002,7 +5056,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 317083,
       "name": "Liberty",
       "url": "https://open.spotify.com/track/7ACHeIO3dmqiR2NrD3oTzF"
@@ -5180,6 +5234,24 @@
       "duration_ms": 329188,
       "name": "Luzifer - feat. Ufo361",
       "url": "https://open.spotify.com/track/5UnIFgOpnUaKsukuB66GXg"
+    },
+    {
+      "album": {
+        "name": "In Memoro",
+        "url": "https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399022,
+      "name": "LXR02",
+      "url": "https://open.spotify.com/track/3T8drVfyLMXG9eyOCqJgjb"
     },
     {
       "album": {
@@ -5748,7 +5820,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 394565,
       "name": "Narangi",
       "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
@@ -6764,7 +6836,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 360000,
       "name": "Rave Harder Techno Bass",
       "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
@@ -8368,6 +8440,28 @@
       "duration_ms": 315223,
       "name": "The Curse",
       "url": "https://open.spotify.com/track/3M5F5teshlnR7LM5TQMEzq"
+    },
+    {
+      "album": {
+        "name": "The Cut",
+        "url": "https://open.spotify.com/album/22ylo1GK1Sgr5RPSKYqlFl"
+      },
+      "artists": [
+        {
+          "name": "Slin Bourgh",
+          "url": "https://open.spotify.com/artist/6Okn2ApUQv56TnYTOhCidM"
+        },
+        {
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358617,
+      "name": "The Cut",
+      "url": "https://open.spotify.com/track/5GRWCsi6QkL6n2dsYIxfyo"
     },
     {
       "album": {

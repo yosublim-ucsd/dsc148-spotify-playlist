@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-346 songs - 17 hr 25 min
+347 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A State of Tranquility](https://open.spotify.com/track/4G4T8MVVDD9Tue5EcMGNgt) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [A State of Tranquility](https://open.spotify.com/album/56CEy8rjd1d7G77gdJkdUU) | 2:50 | 2022-07-05 | 2022-07-29 |
 | [A State of Tranquility](https://open.spotify.com/track/5NL7zy2ebxoZcr6lSqZpsb) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [A State of Tranquility](https://open.spotify.com/album/1pu1Z9sU4P0fJ1lGNhT9RS) | 2:50 | 2022-07-05 | 2023-04-07 |
 | [Above Erta](https://open.spotify.com/track/5XodChHSGzXmfhoYyZ7Wjv) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Above Erta](https://open.spotify.com/album/6gv5VjD5c136sDxMod7WiY) | 3:13 | 2022-07-05 |  |
+| [Abrazo Sereno](https://open.spotify.com/track/24SPAIgNceYbCmdrowgkRK) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Melodías Susurrantes](https://open.spotify.com/album/16ArDAGmj2dEQAdAuRD8PW) | 3:39 | 2023-06-23 |  |
 | [After The Rain](https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [After The Rain](https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj) | 3:35 | 2022-09-02 |  |
 | [After The Rain Has Fallen](https://open.spotify.com/track/0j7QCxrWopn9BaCvTY4EF8) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/3LdOpCpXEIiL6SiLd0tAd8) | 2:33 | 2022-07-05 | 2023-03-04 |
 | [Against A Paler Sun](https://open.spotify.com/track/7yLum5NO3S84uFaKRnDbYV) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi) | 2:20 | 2022-07-05 | 2023-03-10 |
@@ -100,7 +101,7 @@
 | [Endelig](https://open.spotify.com/track/3NUwa9esOC8gpVzWVV9xW4) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Endelig](https://open.spotify.com/album/37uRrJ3uV7tAazUMMfTAnR) | 2:39 | 2022-10-14 |  |
 | [Enlightenment](https://open.spotify.com/track/0lj5JJK4tSCNYtwlA9NcwM) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/3LdOpCpXEIiL6SiLd0tAd8) | 2:51 | 2022-07-05 | 2023-06-03 |
 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 | 2022-11-11 |  |
-| [Escape Gravity](https://open.spotify.com/track/02EEnQKOXyFAnNFXNY0WgT) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Escape Gravity](https://open.spotify.com/album/3lqmJ1GGQeMAOEPzkDimlE) | 2:48 | 2022-07-05 |  |
+| [Escape Gravity](https://open.spotify.com/track/02EEnQKOXyFAnNFXNY0WgT) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Escape Gravity](https://open.spotify.com/album/3lqmJ1GGQeMAOEPzkDimlE) | 2:48 | 2022-07-05 | 2023-06-24 |
 | [Escape Gravity](https://open.spotify.com/track/6sOKQOdwB7OrxHh4YmUYHK) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Escape Gravity](https://open.spotify.com/album/1ag3CTxTTyb27yZUXs4BXL) | 2:48 | 2022-07-05 | 2022-07-29 |
 | [Esoteric](https://open.spotify.com/track/4vqWzfK3IIE0HwEbAtcUGk) | [Sirozza](https://open.spotify.com/artist/5wGpeSaToESKYtSW5Is674) | [Esoteric](https://open.spotify.com/album/4HSJhq19oCN0NHVHZUrOb8) | 2:43 | 2023-06-02 |  |
 | [Ethereal Calm](https://open.spotify.com/track/1r8izlg3TidZ7Pb74EJw3v) | [Maria Botican](https://open.spotify.com/artist/02CZQLikIIoZB7rhBk5PvT) | [Blanket is Sweet](https://open.spotify.com/album/6l4kIiEPWiNp6FtiHtto2l) | 3:32 | 2022-10-21 |  |

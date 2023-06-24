@@ -5841,6 +5841,24 @@
     },
     {
       "album": {
+        "name": "it's not about u",
+        "url": "https://open.spotify.com/album/27eBFT50n6XdoOhNE7dpU4"
+      },
+      "artists": [
+        {
+          "name": "Eva Grace",
+          "url": "https://open.spotify.com/artist/67sX3xnatlElE31KHjSWVr"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129015,
+      "name": "it's not about u",
+      "url": "https://open.spotify.com/track/7mvVMUBy9bZI13N7dipRlx"
+    },
+    {
+      "album": {
         "name": "It's Not You, It's Me (Club Mix)",
         "url": "https://open.spotify.com/album/3JddpvK7VnFUVwj1MnvCWF"
       },
@@ -11915,7 +11933,7 @@
     },
     {
       "album": {
-        "name": "Without You (DJ poolboi Remix)",
+        "name": "Without You (dj poolboi remix)",
         "url": "https://open.spotify.com/album/0gQtgroyBbzGSzu3x1vcZT"
       },
       "artists": [
@@ -11932,7 +11950,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186906,
-      "name": "Without You - DJ poolboi Remix",
+      "name": "Without You - dj poolboi remix",
       "url": "https://open.spotify.com/track/2M4vjrQxQUhHx0Lee6gYGj"
     },
     {

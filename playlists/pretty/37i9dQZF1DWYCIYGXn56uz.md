@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Federico Rossi
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,484 likes - 65 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,494 likes - 65 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 64 | [KARMA \(Prod\. JARO\)](https://open.spotify.com/track/03Wz7SdrLcfP0f2waHHWtx) | [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [KARMA \(Prod\. JARO\)](https://open.spotify.com/album/3V2h9lYkkoihli6Ff6GAb6) | 2:20 |
 | 65 | [Fammi morire](https://open.spotify.com/track/1mqMoMzSTXzCFcJiCj1aPs) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Fammi morire](https://open.spotify.com/album/3Cg3jbGc848IssQcMO1Isy) | 2:08 |
 
-Snapshot ID: `MCw5ZjVmNDczZTA3MGQ4NmQ2YTM3YmQ1N2QzMzA0ZDE4ZGZmYTdiYjli`
+Snapshot ID: `MCw3ZWJlMGRjZTgyMDViZDRmODNjNmVlNjlkNmE5NjI3NjhjODllNGRh`

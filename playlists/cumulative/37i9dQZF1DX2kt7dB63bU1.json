@@ -5485,6 +5485,28 @@
     },
     {
       "album": {
+        "name": "In the Wee Small Hours of the Morning (feat. Jacob Collier)",
+        "url": "https://open.spotify.com/album/0TXFSxrFzaxgwn5Fke3WWq"
+      },
+      "artists": [
+        {
+          "name": "s\u00e4je",
+          "url": "https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "In the Wee Small Hours of the Morning (feat. Jacob Collier)",
+      "url": "https://open.spotify.com/track/7xSWHCMlpRJHCGakzH8TYc"
+    },
+    {
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/1VO3BQOW0Rxed77GIGTZwY"
       },
@@ -7515,6 +7537,24 @@
     },
     {
       "album": {
+        "name": "Morning Coffee",
+        "url": "https://open.spotify.com/album/3DG4FpCeVGZQDtQNw1kQqc"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167109,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/38rGDsmxtgLCo6RFkJCNMq"
+    },
+    {
+      "album": {
         "name": "Most of the Time",
         "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
       },
@@ -8356,7 +8396,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 225068,
       "name": "One Night in NY",
       "url": "https://open.spotify.com/track/6fqwMAh10hGQtug0vis0ZY"
@@ -11124,7 +11164,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 273670,
       "name": "These Are the Memories",
       "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
@@ -11171,6 +11211,24 @@
     },
     {
       "album": {
+        "name": "A Seasonal Thing...SPRING",
+        "url": "https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288128,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/18UXGACErp6VwySRavPglK"
+    },
+    {
+      "album": {
         "name": "They Say It's Spring",
         "url": "https://open.spotify.com/album/6kshTowa1Ikhg1rLcHDhPX"
       },
@@ -11182,7 +11240,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 288128,
       "name": "They Say It's Spring",
       "url": "https://open.spotify.com/track/6i5utOAbdSFJL88NeaKTmD"
@@ -11710,7 +11768,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 431280,
       "name": "Until",
       "url": "https://open.spotify.com/track/18yHGQtjDHp1K1HljIoGS6"
@@ -12878,6 +12936,24 @@
       "duration_ms": 404066,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/4IyuCMvAXWnalmM3ItK6OR"
+    },
+    {
+      "album": {
+        "name": "You've Changed (Big Band)",
+        "url": "https://open.spotify.com/album/41RPmDkYKxvoZCGLd73JnP"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236302,
+      "name": "You've Changed - Big Band",
+      "url": "https://open.spotify.com/track/19GyWK5SuwYomTcCjTqAXs"
     },
     {
       "album": {

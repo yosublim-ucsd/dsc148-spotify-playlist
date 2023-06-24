@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 135625,
       "name": "JAGGED EDGE",
       "url": "https://open.spotify.com/track/7vPwL4WkrqMCC3XbummsMo"
@@ -3734,6 +3734,28 @@
       "duration_ms": 178297,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/2QMbye5SS2SJevP3d1cbXm"
+    },
+    {
+      "album": {
+        "name": "Riff",
+        "url": "https://open.spotify.com/album/3bwGHF0tNbrJCulUGi86Ii"
+      },
+      "artists": [
+        {
+          "name": "JG Riff",
+          "url": "https://open.spotify.com/artist/50K3YxeJMeQ0W8aMswmpHE"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0uf7smRWQ6o1brBuCbayKe"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158799,
+      "name": "Lights Off",
+      "url": "https://open.spotify.com/track/62VtvQAt7ImynnZCQN0tOs"
     },
     {
       "album": {

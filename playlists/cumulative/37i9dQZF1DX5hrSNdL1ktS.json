@@ -586,7 +586,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 208153,
       "name": "Calle",
       "url": "https://open.spotify.com/track/4cNeMVW3XTFIT5GciTanz7"
@@ -886,6 +886,24 @@
       "duration_ms": 186832,
       "name": "Cuentas",
       "url": "https://open.spotify.com/track/3ppqrQrrmPwzZCJyePKcAJ"
+    },
+    {
+      "album": {
+        "name": "CULETEO",
+        "url": "https://open.spotify.com/album/7IGufkYRaam4cn196RMR2G"
+      },
+      "artists": [
+        {
+          "name": "Arturo Challa",
+          "url": "https://open.spotify.com/artist/5hbTewixuDJk5PGugClaj6"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133580,
+      "name": "CULETEO",
+      "url": "https://open.spotify.com/track/1elKwtcNQfOs6bmpXRMNgJ"
     },
     {
       "album": {
@@ -1326,6 +1344,32 @@
       "duration_ms": 168487,
       "name": "Emoji de Diabla",
       "url": "https://open.spotify.com/track/5v89Riv1pAuaFxhmlFN7vL"
+    },
+    {
+      "album": {
+        "name": "EN EL GHETTO #2 (Perriando)",
+        "url": "https://open.spotify.com/album/21HFqQ5a6nqncZXYivLvIU"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "EN EL GHETTO #2 (Perriando)",
+      "url": "https://open.spotify.com/track/2nPK7MNs9kYzurlsbJ17vk"
     },
     {
       "album": {
@@ -1792,7 +1836,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 208250,
       "name": "Hipernova",
       "url": "https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb"
@@ -2126,7 +2170,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 184399,
       "name": "La 40",
       "url": "https://open.spotify.com/track/4MJR6A9N05gpesSkufKImJ"
@@ -2446,7 +2490,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 153913,
       "name": "LO SIENTO",
       "url": "https://open.spotify.com/track/3gn4amt8rKlgHI8pNrxFyN"
@@ -2750,7 +2794,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 178389,
       "name": "Maldita Urgencia",
       "url": "https://open.spotify.com/track/5fhriWk2qGy6ZopaKcek6g"
@@ -2916,7 +2960,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 163608,
       "name": "Me Doli\u00f3",
       "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
@@ -3012,7 +3056,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 185493,
       "name": "Me Tientas - Remix",
       "url": "https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe"
@@ -3346,7 +3390,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 302048,
       "name": "Ni Miro (feat. Neutro Shorty)",
       "url": "https://open.spotify.com/track/7E3YhRU66U29zK5L7gT829"
@@ -4061,6 +4105,28 @@
     },
     {
       "album": {
+        "name": "Por qu\u00e9 te demoras",
+        "url": "https://open.spotify.com/album/53BxVaRUgBFZPYG5iKnzQh"
+      },
+      "artists": [
+        {
+          "name": "Selected Music",
+          "url": "https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y"
+        },
+        {
+          "name": "Naity OG",
+          "url": "https://open.spotify.com/artist/1D47r3MM6EJjF5wXg4bgrq"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227158,
+      "name": "Por qu\u00e9 te demoras",
+      "url": "https://open.spotify.com/track/5j8XtymlRNSR3BXFCAXhNr"
+    },
+    {
+      "album": {
         "name": "Prende y Fuma",
         "url": "https://open.spotify.com/album/5LpJAVFzv017KcuUppdoj8"
       },
@@ -4665,6 +4731,24 @@
     },
     {
       "album": {
+        "name": "SI QUIERES PODEMOS VERNOS",
+        "url": "https://open.spotify.com/album/0hpTFjQRxtPiDDytwFgwKg"
+      },
+      "artists": [
+        {
+          "name": "Chris Redd",
+          "url": "https://open.spotify.com/artist/7crFZj2YKqQHpQZuTtt1C6"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "SI QUIERES PODEMOS VERNOS",
+      "url": "https://open.spotify.com/track/74rwg2gzdstLXo8AJOGMik"
+    },
+    {
+      "album": {
         "name": "SI SE DA",
         "url": "https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L"
       },
@@ -4746,6 +4830,28 @@
       "duration_ms": 134893,
       "name": "Solteras",
       "url": "https://open.spotify.com/track/3NNOr3YRkdiYF1Jvfq8Nin"
+    },
+    {
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/4rPbogIWvNR0UbggZPDT4t"
+      },
+      "artists": [
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        },
+        {
+          "name": "Gromm",
+          "url": "https://open.spotify.com/artist/7uWzDWF8wJVCT8Mt2gpN8f"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/6G5oj73kH8E1kFC3rWiELn"
     },
     {
       "album": {
@@ -5148,7 +5254,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 152760,
       "name": "Tranqui",
       "url": "https://open.spotify.com/track/4A8ygVU8Ot3KTW2alLZ8Eq"
@@ -5206,6 +5312,28 @@
       "duration_ms": 172166,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/2JDG7dkRh0Wlsn4FqQXT3Y"
+    },
+    {
+      "album": {
+        "name": "Tuci y Perreo",
+        "url": "https://open.spotify.com/album/1zRFrvhxG6b38nddak0T3N"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142333,
+      "name": "Tuci y Perreo",
+      "url": "https://open.spotify.com/track/2VClOmlW0HlgnRAVdwVmCC"
     },
     {
       "album": {
@@ -5328,6 +5456,28 @@
       "duration_ms": 127264,
       "name": "Uy K Raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "album": {
+        "name": "VAGO",
+        "url": "https://open.spotify.com/album/7FNGqKPIBUGXXfg8Jp3Czp"
+      },
+      "artists": [
+        {
+          "name": "Topanga Hills Mafia",
+          "url": "https://open.spotify.com/artist/3WfmSiKFA7md7VjeJHZ4eX"
+        },
+        {
+          "name": "Sheeno",
+          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "VAGO",
+      "url": "https://open.spotify.com/track/1IVUnFfwdC4FOFGltVLrTy"
     },
     {
       "album": {

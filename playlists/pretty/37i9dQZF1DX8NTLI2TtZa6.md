@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,458,982 likes - 228 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,458,859 likes - 228 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 55 | [Sprial](https://open.spotify.com/track/61wV9acz3uYyXcv4UnjLxc) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Sprial](https://open.spotify.com/album/0cJNpSMDMrJspbp4f3YoK3) | 2:48 |
 | 56 | [Solace](https://open.spotify.com/track/2XpT1bngtM9pHoYEsfoYuu) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Solace](https://open.spotify.com/album/5EUQ58DddJWsBvzcKnjewJ) | 2:04 |
 | 57 | [When It Rains](https://open.spotify.com/track/6nXvoksCAZqI8nEBTSvpfx) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [When It Rains](https://open.spotify.com/album/4uWWYNXiMcwiHIhUakiZT8) | 2:19 |
-| 58 | [La Prima](https://open.spotify.com/track/004dZYROPXhYMdBHqc12h3) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [La Quarta](https://open.spotify.com/album/5W1Cs3s2EGlxCzh1ndEJfX) | 1:38 |
+| 58 | [La Prima](https://open.spotify.com/track/49rfMXXDmIDL7fDovPJ5BR) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [La Quinta](https://open.spotify.com/album/3wBMbtMqIAv0SUA6ab5CMd) | 1:38 |
 | 59 | [Technicolor Dreamscape](https://open.spotify.com/track/3FCvuX0Q89RnHmGsSkZQ5U) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Petit Voyage](https://open.spotify.com/album/3hjU7EeqyluWQwZZgpsi2V) | 3:17 |
 | 60 | [Dovetail](https://open.spotify.com/track/25UlllA0GGWjKK8ndbBk57) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Dovetail](https://open.spotify.com/album/5Ak0Ffw2LmbrMaKPZsqWKJ) | 2:01 |
 | 61 | [Summertime](https://open.spotify.com/track/4WguFQwPxlxTZ9QEWI88qL) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Summertime](https://open.spotify.com/album/05iN5FPzB6OwsNbISjQScb) | 2:03 |
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 227 | [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 |
 | 228 | [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 |
 
-Snapshot ID: `MCxlNzUwMzczYjhhOTMyZGExYWUzOWZlMDYyMzU5MzczNjE3NTI3OTIx`
+Snapshot ID: `MCxiNzg3NDA4Nzc2N2QyOTcyZTRkN2IwYjdkNGM4YzdhZTkyOTcxNWM4`

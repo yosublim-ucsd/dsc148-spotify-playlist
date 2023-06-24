@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Make Them Suffer
 
-700 songs - 1 day 20 hr 4 min
+701 songs - 1 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [A Vigil for the Living](https://open.spotify.com/track/5HRTORbVTL0VsUkpgxY2R8) | [Census](https://open.spotify.com/artist/0o2Xha4B3DDLDiP0J6naoZ) | [A Vigil for the Living](https://open.spotify.com/album/01eDgrFRR4sc96XbSyM9uN) | 3:02 | 2021-12-17 | 2022-01-22 |
 | [A Voice in the Static](https://open.spotify.com/track/7gfIhjwZTZb3T9INCBAUoS) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [A Voice in the Static](https://open.spotify.com/album/6kELyldbrANavkDcj2ISvs) | 3:36 | 2022-07-13 | 2022-07-20 |
 | [A World in Tears](https://open.spotify.com/track/5f2GtU6iYeVHls8sfiBsyn) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [A World in Tears](https://open.spotify.com/album/7IQK6f51JQy46xwc5G6gT9) | 3:45 | 2022-01-28 | 2022-05-06 |
-| [A.D.D](https://open.spotify.com/track/0UsnlmGAFHq4psggQczhjn) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [A.D.D](https://open.spotify.com/album/1Y20qMbygyi2ukEfD05DO6) | 3:37 | 2023-03-24 |  |
+| [A.D.D](https://open.spotify.com/track/0UsnlmGAFHq4psggQczhjn) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [A.D.D](https://open.spotify.com/album/1Y20qMbygyi2ukEfD05DO6) | 3:37 | 2023-03-24 | 2023-06-24 |
+| [A.D.D](https://open.spotify.com/track/7v0Pll0A9YnsiyYpzIRXDy) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 3:37 | 2023-06-02 |  |
 | [A.N.X.I.E.T.Y.](https://open.spotify.com/track/2FlSBOa7In5PcpL5SXFwkW) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [A.N.X.I.E.T.Y.](https://open.spotify.com/album/4Qiu3xzymfFETMN7yEDCP3) | 2:59 | 2023-02-10 |  |
 | [Absolved of The Strings And Stone](https://open.spotify.com/track/7KgjltpLZz7YXOM0LoYBZz) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Absolved of The Strings And Stone](https://open.spotify.com/album/5K7nTqG2racfLQ4TcFRTox) | 3:41 | 2022-07-13 | 2022-07-23 |
 | [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 | 2022-07-08 | 2023-04-22 |

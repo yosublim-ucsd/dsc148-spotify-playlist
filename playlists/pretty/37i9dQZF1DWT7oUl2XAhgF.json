@@ -1,28 +1,64 @@
 {
   "description": "A new take on a classic sound. Cover: Lee Fields\n",
-  "num_followers": 193562,
+  "num_followers": 193724,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmQ4MmM4ODYyOTQ0NmZmODI1Y2M5NThmNzc3OTQ1YTNkMmZlMWZh",
+  "snapshot_id": "MCwxNmNmZmJhYzU1MWYwOWU1ZDU1NzQ3YTFhY2E1NjAwMjI4NGQ5MGNl",
   "tracks": [
     {
-      "added_at": "2023-06-02 04:01:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Waiting on the Sidelines",
-        "url": "https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn"
+        "name": "Back to your Place",
+        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
       },
       "artists": [
         {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
         }
       ],
-      "duration_ms": 249280,
-      "name": "You Can Count On Me",
-      "url": "https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1"
+      "duration_ms": 202826,
+      "name": "Back to your Place",
+      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Sad Hearted Clown",
+        "url": "https://open.spotify.com/album/6Y8dPnHS85nm1OsACr26Pg"
+      },
+      "artists": [
+        {
+          "name": "Cota",
+          "url": "https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM"
+        },
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        }
+      ],
+      "duration_ms": 217226,
+      "name": "Sad Hearted Clown",
+      "url": "https://open.spotify.com/track/2ZsssRULtkfkbo5D2yh6gT"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Slippin",
+        "url": "https://open.spotify.com/album/1MApiUpsUOOlidcLOAjLbq"
+      },
+      "artists": [
+        {
+          "name": "Danni Baylor",
+          "url": "https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Slippin",
+      "url": "https://open.spotify.com/track/5qgYXoxmd6FdGfpmdjsHoj"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -41,20 +77,44 @@
       "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-06-02 04:01:00",
       "album": {
-        "name": "Back to your Place",
-        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
+        "name": "Waiting on the Sidelines",
+        "url": "https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn"
       },
       "artists": [
         {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Back to your Place",
-      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
+      "duration_ms": 249280,
+      "name": "You Can Count On Me",
+      "url": "https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Wish I Said I Love You",
+        "url": "https://open.spotify.com/album/1iWNb3YzSCVxIsOpHk2PQy"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilkins",
+          "url": "https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS"
+        },
+        {
+          "name": "Adonai Melod\u00edas",
+          "url": "https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI"
+        },
+        {
+          "name": "meka maraschino",
+          "url": "https://open.spotify.com/artist/2CF7xMG5rTOrrNotNG49Dn"
+        }
+      ],
+      "duration_ms": 154142,
+      "name": "Wish I Said I Love You",
+      "url": "https://open.spotify.com/track/0J9xmb04HpXvAFC7krKY9m"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -71,6 +131,22 @@
       "duration_ms": 209053,
       "name": "My Oh My",
       "url": "https://open.spotify.com/track/4KO9dF03JTCwvQJdGVqwcG"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "The Nostalgiac",
+        "url": "https://open.spotify.com/album/0HZQqwnq5WDugzJSh4l3fD"
+      },
+      "artists": [
+        {
+          "name": "Joey Dosik",
+          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
+        }
+      ],
+      "duration_ms": 258617,
+      "name": "Making Up Making Love",
+      "url": "https://open.spotify.com/track/7wrmrF5iU0lGSlYkTsaNGW"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -565,42 +641,6 @@
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
     },
     {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "I Like the Way You Love Me",
-        "url": "https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR"
-      },
-      "artists": [
-        {
-          "name": "Cota",
-          "url": "https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM"
-        }
-      ],
-      "duration_ms": 146809,
-      "name": "I Like the Way You Love Me",
-      "url": "https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr"
-    },
-    {
-      "added_at": "2022-05-20 14:55:11",
-      "album": {
-        "name": "Sage Motel",
-        "url": "https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9"
-      },
-      "artists": [
-        {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
-        },
-        {
-          "name": "Kelly Finnigan",
-          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Sage Motel",
-      "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
-    },
-    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Stand For Myself",
@@ -743,22 +783,6 @@
       "duration_ms": 239216,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Sentimental Fool",
-        "url": "https://open.spotify.com/album/3zqyliH82PrgRAkIe6CSA2"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Two Jobs",
-      "url": "https://open.spotify.com/track/1jI7c0jkVql0Gh8b9bG55V"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1343,26 +1367,6 @@
       "duration_ms": 214373,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/7bfn8c7BGfEx5boZBrkBW5"
-    },
-    {
-      "added_at": "2022-02-15 17:48:45",
-      "album": {
-        "name": "Give Me Hope",
-        "url": "https://open.spotify.com/album/60tTpmxbyNd7YFYr8zdkGb"
-      },
-      "artists": [
-        {
-          "name": "J.P. Bimeni",
-          "url": "https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx"
-        },
-        {
-          "name": "The Black Belts",
-          "url": "https://open.spotify.com/artist/0E2ByLJA2G0NMjQg0Dn8ct"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Not In My Name",
-      "url": "https://open.spotify.com/track/4z7lYZSO6VUnqIYJrB8WsT"
     },
     {
       "added_at": "2022-04-29 04:01:00",

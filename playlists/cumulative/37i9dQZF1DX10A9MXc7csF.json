@@ -462,7 +462,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 147445,
       "name": "Al Mirar Su Rostro",
       "url": "https://open.spotify.com/track/3cJFPzd2Crf1LKNL60Ms2C"
@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Bebo Pa Olvidar",
+        "url": "https://open.spotify.com/album/2WJxy0W1ZMF23KqMepzmkV"
+      },
+      "artists": [
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185202,
+      "name": "Bebo Pa Olvidar",
+      "url": "https://open.spotify.com/track/0qYhR1M0ZB1NXnBFQyYxnY"
+    },
+    {
+      "album": {
         "name": "Besame",
         "url": "https://open.spotify.com/album/7vSPTce8LJvIcQGBLs2ARi"
       },
@@ -1028,6 +1046,28 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "album": {
+        "name": "Calibrado",
+        "url": "https://open.spotify.com/album/6kuu3p0fmwiqm81d4M3Rwz"
+      },
+      "artists": [
+        {
+          "name": "David Bernal",
+          "url": "https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS"
+        },
+        {
+          "name": "Sebastian Romero",
+          "url": "https://open.spotify.com/artist/7xsHRG2SdyT7pOgHDW4RZN"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142591,
+      "name": "Calibrado",
+      "url": "https://open.spotify.com/track/0Wkz1MEP9L5aB0lHgkSj0q"
     },
     {
       "album": {
@@ -4320,7 +4360,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 162000,
       "name": "Los 4 De La Tacoma",
       "url": "https://open.spotify.com/track/06s50W6rddsAlUXh8wklLn"
@@ -4364,6 +4404,24 @@
       "duration_ms": 148793,
       "name": "Los Collares",
       "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+    },
+    {
+      "album": {
+        "name": "Los Pajaritos",
+        "url": "https://open.spotify.com/album/7grmYIPShevuNVsvjPPlLp"
+      },
+      "artists": [
+        {
+          "name": "Patricio Valdez",
+          "url": "https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211172,
+      "name": "Los Pajaritos",
+      "url": "https://open.spotify.com/track/1LSft20sUNDb1NORaOIrLh"
     },
     {
       "album": {
@@ -5346,7 +5404,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 175089,
       "name": "Neverita",
       "url": "https://open.spotify.com/track/4QwSuFs54h6NRpbNDFnX6l"
@@ -5757,6 +5815,28 @@
     },
     {
       "album": {
+        "name": "Ojitos Lindos",
+        "url": "https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        },
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165919,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1"
+    },
+    {
+      "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
       },
@@ -5942,6 +6022,28 @@
       "duration_ms": 241647,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/1zRbhGdwBZVDTTvhB7OE0e"
+    },
+    {
+      "album": {
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152050,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
     },
     {
       "album": {
@@ -6810,7 +6912,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 261237,
       "name": "Si No Me Quer\u00edas",
       "url": "https://open.spotify.com/track/4JlPMINuzwPJMmTY24kePX"
@@ -6926,7 +7028,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 180405,
       "name": "Sin Miedo Al Exito",
       "url": "https://open.spotify.com/track/5XaddIXt53XkEFjoDe9oiW"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Hunter Daily",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Meg Smith",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 203250,
       "name": "8 Hours",
       "url": "https://open.spotify.com/track/33LB1jDEoWLlre9K8dTftW"
+    },
+    {
+      "album": {
+        "name": "A Bowl of Unripe Fruit",
+        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202686,
+      "name": "A Bowl of Unripe Fruit",
+      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
     },
     {
       "album": {
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 162000,
       "name": "breakup with a friend",
       "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 145674,
       "name": "Cautiously Optimistic",
       "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
@@ -3795,6 +3813,24 @@
     },
     {
       "album": {
+        "name": "5 Songs for Healing",
+        "url": "https://open.spotify.com/album/6g1hvq78JReIjSIZZCNHLN"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199300,
+      "name": "I Should Just Go To Bed",
+      "url": "https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O"
+    },
+    {
+      "album": {
         "name": "I Wanna Be a Boy",
         "url": "https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw"
       },
@@ -4318,6 +4354,24 @@
       "duration_ms": 290132,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "album": {
+        "name": "Joni",
+        "url": "https://open.spotify.com/album/0HvAo553wbaQJCMuyeZVgr"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230703,
+      "name": "Joni",
+      "url": "https://open.spotify.com/track/1UDFP4KgbKTu0XniQImZfq"
     },
     {
       "album": {
@@ -5938,7 +5992,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 206597,
       "name": "Potential",
       "url": "https://open.spotify.com/track/2OaQb7rx7kkbeDU48ImPyy"
@@ -6046,7 +6100,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 238680,
       "name": "promised",
       "url": "https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ"
@@ -6652,6 +6706,24 @@
       "duration_ms": 230653,
       "name": "She's There",
       "url": "https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/0QTeJJR2WXrNd07TUbbhql"
+      },
+      "artists": [
+        {
+          "name": "Grey Zeigler",
+          "url": "https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5sEuodPxtfU0JZOxOQSnIy"
     },
     {
       "album": {

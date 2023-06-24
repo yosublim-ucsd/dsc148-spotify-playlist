@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Casper
 
-280 songs - 13 hr 47 min
+281 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Er oder Sie oder Du](https://open.spotify.com/track/1ojpWs42lG7y9FlB0xQXPk) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Er oder Sie oder Du](https://open.spotify.com/album/2VG9BbluDZvvYZ3rtfeWqe) | 2:14 | 2023-04-13 |  |
 | [Ewiger Fahrgast](https://open.spotify.com/track/3RXfhZCEVajHZa9lwyPruL) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6), [Lebsanft](https://open.spotify.com/artist/4YIP17o8PviGHVQM3ISOAo) | [Wir Werden Sehen](https://open.spotify.com/album/3qx0YVMoydVJuhLPdyimfH) | 3:06 | 2023-02-02 | 2023-02-24 |
 | [Fahrradstraße](https://open.spotify.com/track/5Vd4NMyFkvegiddZh4njgX) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Fahrradstraße](https://open.spotify.com/album/2QNh6PLdTY5r9c3q2cEo1l) | 2:24 | 2023-06-15 |  |
+| [Fall Für Dich](https://open.spotify.com/track/0MgXzvMM4bq01XgEHMeEhF) | [Iloveakim](https://open.spotify.com/artist/4kC5Fz635iHKsPkif7NcT0) | [Fall Für Dich](https://open.spotify.com/album/0gs7cRaAOIvhJt8oqMyypJ) | 2:33 | 2023-06-23 |  |
 | [Farben](https://open.spotify.com/track/1rtc6E93KWPjsDZmsnI875) | [Ann Can't Talk](https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9) | [Farben](https://open.spotify.com/album/720iPf3MprVFWIerPdiuH9) | 2:56 | 2023-02-02 | 2023-03-10 |
 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 | 2023-05-18 |  |
 | [Fieber](https://open.spotify.com/track/1DvKUXOcuLJT2H75LuAQY7) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 2:17 | 2023-02-13 | 2023-02-15 |

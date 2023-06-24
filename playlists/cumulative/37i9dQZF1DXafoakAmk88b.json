@@ -182,10 +182,28 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 168982,
       "name": "Airforce blue",
       "url": "https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi"
+    },
+    {
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168982,
+      "name": "Airforce blue",
+      "url": "https://open.spotify.com/track/32wMbC70TXnOKBNaH7ogIC"
     },
     {
       "album": {
@@ -946,6 +964,24 @@
     {
       "album": {
         "name": "Carpenter",
+        "url": "https://open.spotify.com/album/0pwDbntwXbFTD1vkDxed74"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Carpenter",
+      "url": "https://open.spotify.com/track/3ulMKoTyiJm8rabbfcXyif"
+    },
+    {
+      "album": {
+        "name": "Carpenter",
         "url": "https://open.spotify.com/album/4xi4w7FjmZVR3UAvmotbAE"
       },
       "artists": [
@@ -956,7 +992,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 199266,
       "name": "Carpenter",
       "url": "https://open.spotify.com/track/51NHBYYoBLDqgp5COax2JC"

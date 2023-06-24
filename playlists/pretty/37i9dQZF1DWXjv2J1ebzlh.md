@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,266 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,326 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -902,11 +902,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 892 | [Dia Ja Manche](https://open.spotify.com/track/7zsFoCTsDuKvH7HUiA1yDi) | [Dionisio Maio](https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/7yYCur0sIPkHz2PE62YHDP) | 4:36 |
 | 893 | [Descarga Bontempi](https://open.spotify.com/track/5KSapajfVyU3CGwnWJiTid) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi) | [Descargando](https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z) | 4:23 |
 | 894 | [Right On](https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 2:47 |
-| 895 | [Bogotá](https://open.spotify.com/track/6YJCSuA4gPFlC3xlhpO5Ee) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Nó na Orelha](https://open.spotify.com/album/2zeWAYgh0WfMhiHwvUV15b) | 4:40 |
+| 895 | [Bogotá](https://open.spotify.com/track/61Jxt8CMOgErUrwIvnJBM5) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Nó na Orelha](https://open.spotify.com/album/35okb1xF4DPilYtWCL9cAI) | 4:40 |
 | 896 | [Bogotá](https://open.spotify.com/track/5UJ1qajLeDdRoBdHig6ipt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y) | 5:29 |
 | 897 | [Watchin' Out](https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ) | [Split Decision Band](https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf) | [Watchin' Out](https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz) | 3:15 |
 | 898 | [Aiulado](https://open.spotify.com/track/1JkKKmP75NOoyLQ0d48lom) | [Baba Sissoko](https://open.spotify.com/artist/4sox56HkYoppCSBF6Trcwl) | [Three Gees](https://open.spotify.com/album/7b0bXiyS0Vvdg75o40cXL4) | 6:33 |
-| 899 | [Calçada](https://open.spotify.com/track/4BKI37hGrod94ofXtVycYL) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/7cfkiCdd6edpUO472ZpOMm) | 3:26 |
+| 899 | [Calçada](https://open.spotify.com/track/1zvpgSygK37GOotGOgT45f) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:26 |
 | 900 | [Un Silbido Amoroso](https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:35 |
 | 901 | [El sabrosito](https://open.spotify.com/track/7Jj7kSb5GZlVHPdVEUKFZc) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK) | [Colombia 45s](https://open.spotify.com/album/0FtvKqe3ypGZTq2OUHjRwD) | 2:32 |
 | 902 | [Yabaal](https://open.spotify.com/track/1npQHlmFEgK2wkXbQcWjia) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 1, Volume 2 & Previously Unreleased Tracks \(Analog Africa No\. 27\)](https://open.spotify.com/album/5SXL2zkX2Ry2cxwirtRNJE) | 5:57 |
@@ -1024,7 +1024,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1014 | [Divizion \- Voilaaa Remix](https://open.spotify.com/track/7lqokOhEThOZilo2YRDAxs) | [Fédia Laguerre](https://open.spotify.com/artist/708IL56mjMc2k3ORhcpxtS), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Divizion](https://open.spotify.com/album/7Hz8KjRyXqpIbRwdiNuSTh) | 5:21 |
 | 1015 | [Quizumba de Rei](https://open.spotify.com/track/6nPN6YqkgRU3bL7FFH0ZXS) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 2:54 |
 | 1016 | [Ay Que Sera Del Sol \- Original](https://open.spotify.com/track/2mDpaQWRfsXtymj7JhVOEE) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Summer Sol](https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn) | 6:30 |
-| 1017 | [Tamcalacatam](https://open.spotify.com/track/2YKCmDFnbaDAZBl0jN9WPd) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K) | [Tibau](https://open.spotify.com/album/7p8X1wJrhRZzO0R3BFyrrJ) | 5:01 |
+| 1017 | [Tamcalacatam](https://open.spotify.com/track/2YKCmDFnbaDAZBl0jN9WPd) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K), [Tibau Tavares](https://open.spotify.com/artist/68nqiiRYrs28v1JAQfM0A9) | [Tibau](https://open.spotify.com/album/7p8X1wJrhRZzO0R3BFyrrJ) | 5:01 |
 | 1018 | [Tierra de Poetas \- Dub Mix](https://open.spotify.com/track/2zN0CtuRn8Xj6mDHKcU5dD) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita \(El Fin del Mundo\), Vol\. II & III](https://open.spotify.com/album/6PxQh3kyXeo5kuWnefYaPZ) | 4:23 |
 | 1019 | [Rondando Tu Esquina](https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 2:38 |
 | 1020 | [Cantarito](https://open.spotify.com/track/5ubvcUYndr5yA09c1OynaB) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Cantarito](https://open.spotify.com/album/3hIoaR2EvrJqX8ZT78kwVb) | 5:24 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxlMmJiODY1MzZhNmQ5MDhlMjc1ZWE0ZmIyZTc2MmQyNTBlNzQwZDNi`
+Snapshot ID: `MCw5YzViY2FhMTAwZWMxZTRhODJkNDQ2NDk0YjYwZmZmNTYyMTA5MDk3`

@@ -360,7 +360,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 295600,
       "name": "Bob Marly",
       "url": "https://open.spotify.com/track/0zGOvZFRuKSe3SasV1TFue"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 397093,
       "name": "Ethiopia",
       "url": "https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z"
@@ -876,6 +876,24 @@
       "duration_ms": 382026,
       "name": "Keteraraw Mado",
       "url": "https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K"
+    },
+    {
+      "album": {
+        "name": "Kochegn",
+        "url": "https://open.spotify.com/album/1YOB2u3doahWCiLxuI0FEO"
+      },
+      "artists": [
+        {
+          "name": "Hewan Gebrewold",
+          "url": "https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250105,
+      "name": "Kochegn",
+      "url": "https://open.spotify.com/track/6Z0S4N9qluFRoYFcjQyV3H"
     },
     {
       "album": {
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 337040,
       "name": "Shegnehush",
       "url": "https://open.spotify.com/track/4bUns4JjV5XAYlSx0i9lYI"
@@ -1304,6 +1322,24 @@
       "duration_ms": 207333,
       "name": "Shemuna",
       "url": "https://open.spotify.com/track/4PrrAmcyo4P6NBivJ8OlZF"
+    },
+    {
+      "album": {
+        "name": "Sherosa",
+        "url": "https://open.spotify.com/album/1oHNRptCAPInR033NI1pfa"
+      },
+      "artists": [
+        {
+          "name": "Dagi D",
+          "url": "https://open.spotify.com/artist/3YOmlimmUHkxvGOKvjHxYp"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Sherosa",
+      "url": "https://open.spotify.com/track/40FlcwnMrGOAaOzWn6kQg9"
     },
     {
       "album": {
@@ -1394,6 +1430,24 @@
       "duration_ms": 295994,
       "name": "Tilobign",
       "url": "https://open.spotify.com/track/57eim2kUA5BYD7m6fdLeDM"
+    },
+    {
+      "album": {
+        "name": "Tiritaye",
+        "url": "https://open.spotify.com/album/1yh4cLMTXqSRqz5G5cGb4v"
+      },
+      "artists": [
+        {
+          "name": "Esubalew Yetayew",
+          "url": "https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Tiritaye",
+      "url": "https://open.spotify.com/track/6yczkZAYHZ1phW2eUd1IDR"
     },
     {
       "album": {

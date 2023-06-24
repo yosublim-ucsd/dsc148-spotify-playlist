@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-722 songs - 1 day 17 hr 18 min
+723 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [Lola](https://open.spotify.com/track/7tTL846SbtFK05waG77G0B) | [iugou](https://open.spotify.com/artist/6TcP3000og43MzgtTbIkvv) | [Lola](https://open.spotify.com/album/7EeHCYJmcrBeCM8eKXWeRa) | 6:21 | 2021-06-16 | 2021-09-22 |
 | [london ting](https://open.spotify.com/track/6ntkRKn539gB5ZM4IhLcDo) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [london ting](https://open.spotify.com/album/1PobQ0VZSMEWnYXniw4AJh) | 2:26 | 2022-11-25 |  |
 | [Lonely Hour](https://open.spotify.com/track/560p69yXiFLwFW8uXQN6uI) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [After Midnyte](https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny) | 3:04 | 2020-04-03\* | 2021-01-05 |
-| [Longe Gone](https://open.spotify.com/track/0OQjCfhFysOkJsikZ9xt5R) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Longe Gone](https://open.spotify.com/album/4UD5Y7m1vQZ4KRpDJAptt0) | 4:03 | 2022-10-07 |  |
+| [Longe Gone](https://open.spotify.com/track/0OQjCfhFysOkJsikZ9xt5R) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Longe Gone](https://open.spotify.com/album/4UD5Y7m1vQZ4KRpDJAptt0) | 4:03 | 2022-10-07 | 2023-06-24 |
 | [Look Who Was Here](https://open.spotify.com/track/1e82eeTd5saBytIIC1rQXO) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [Look Who Was Here](https://open.spotify.com/album/2N8U54PjbL9J5RFbZ7pFCp) | 3:19 | 2023-01-06 |  |
 | [Lost In Space](https://open.spotify.com/track/6xUE9l0MaDYW4NrL8fuL40) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Lost In Space](https://open.spotify.com/album/5nxDCvzrUHYfqLPWZbPnYN) | 3:38 | 2022-09-02 |  |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2021-02-10 | 2022-06-24 |
@@ -572,6 +572,7 @@
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-02-10 | 2022-04-06 |
 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 | 2020-11-19 | 2021-07-08 |
 | [Silence of the lamps](https://open.spotify.com/track/7hIF3UGVczrTuKVazZZ5Kc) | [St\. Haze](https://open.spotify.com/artist/17k09aY5QjffK5L943zumG) | [Silence of the lamps](https://open.spotify.com/album/6FhZ3VbRGNSvMhogLSf3JV) | 2:10 | 2022-10-28 |  |
+| [Sima Deli](https://open.spotify.com/track/6CdVgngqmmLWvbPzPZ596U) | [Stockset](https://open.spotify.com/artist/2GsMlo9UOvZ2YcVoFtTOpt) | [Sima Deli](https://open.spotify.com/album/2ughtucDJA558sqUjSpcNM) | 2:15 | 2023-06-23 |  |
 | [Skates](https://open.spotify.com/track/6Z0TyMJQSNAVJcLuUMVCPp) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Skates](https://open.spotify.com/album/03cXL0nQ5J3J83Xd4bglkE) | 3:00 | 2022-09-02 |  |
 | [skies](https://open.spotify.com/track/7wSCgWpis1zblS4ow4IYLW) | [Setjet](https://open.spotify.com/artist/5blU4gW1Xn3kQ73i2brApA) | [skies](https://open.spotify.com/album/2mrrLqTtqzE0zm8cUQ9Ci7) | 3:24 | 2022-12-09 |  |
 | [skin shimmer](https://open.spotify.com/track/7FRE4xPjkql1KTJJDHQJn5) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [skin shimmer](https://open.spotify.com/album/2DIDzDbyIq8rNX0VbnjCrG) | 2:57 | 2022-11-25 |  |

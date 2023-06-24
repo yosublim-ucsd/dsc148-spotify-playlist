@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Simón Campusano.
+> Todo el sonido indie de Chile\. Foto: Marineros
 
-364 songs - 22 hr 5 min
+367 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A la vez](https://open.spotify.com/track/3kIrn2c1Kg8Gpk8DOCB5XR) | [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ) | [diez de espadas](https://open.spotify.com/album/3Nm1oWNavNYYIf1O2EPsNL) | 3:34 | 2023-02-03 | 2023-05-27 |
 | [A Los Arboles \(feat\. Raag\)](https://open.spotify.com/track/2osY6sjuuMa3UYWWG2naiu) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [Tejido](https://open.spotify.com/album/0DYNKGYbgS5EcX2sftjVgg) | 4:57 | 2022-04-15 | 2022-07-28 |
 | [A Toda Velocidad](https://open.spotify.com/track/556qCMc5Jvqc6i1NVMMJ5b) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [A Toda Velocidad](https://open.spotify.com/album/17mxHCWw5TEPMOhlxp1Pml) | 2:50 | 2022-04-15 | 2023-01-28 |
+| [abracadabra](https://open.spotify.com/track/5Kq1WilU4CfoJBJgHwPtJn) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [xsickboi](https://open.spotify.com/artist/1CSAOVFE6aJkH9RgbNZCvC) | [abracadabra](https://open.spotify.com/album/1apxjXLkQtoN1xZbmpOVQo) | 3:14 | 2023-06-23 |  |
 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 | 2022-04-15 | 2022-12-10 |
 | [Acorde Digital](https://open.spotify.com/track/2XEdOrB5mfev2x96ojOuBG) | [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ) | [Acorde Digital](https://open.spotify.com/album/0b1MFy6848SQsPuGxG7FIO) | 2:48 | 2022-10-07 | 2023-01-28 |
 | [Actitud](https://open.spotify.com/track/11JRqjddI6Znfd0YIeEgF1) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [Actitud](https://open.spotify.com/album/2wkGD4lTmhxNp2hm5yQZzV) | 2:25 | 2022-04-15 | 2022-07-29 |
@@ -23,6 +24,7 @@
 | [Al Norte](https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp) | 2:53 | 2022-08-12 |  |
 | [algo más, algo menos](https://open.spotify.com/track/6XNL7GwuEhXYDgfw1dEtOz) | [Templada](https://open.spotify.com/artist/6WWrWdvZxk9o04pHUwS3Ka) | [Misiva](https://open.spotify.com/album/1RgRGtuZgoIXvzzUwEI31D) | 2:11 | 2022-04-15 | 2022-07-28 |
 | [Altar](https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf) | [Altar](https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx) | 3:55 | 2023-01-20 | 2023-04-25 |
+| [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 | 2023-06-23 |  |
 | [Amatista](https://open.spotify.com/track/5KWGNOFCtfTARv9wuA9d60) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Amatista](https://open.spotify.com/album/7gmY5yKaExOsSURwSFoaM1) | 4:39 | 2022-04-15 | 2022-07-19 |
 | [Amigos Imaginarios](https://open.spotify.com/track/0m7eJFkULhiip0NjjNN9vj) | [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Amigos Imaginarios](https://open.spotify.com/album/1wXNkNVWA8sro1KO5cd6qV) | 3:13 | 2022-04-15 | 2022-07-26 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-04-15 | 2023-01-28 |
@@ -101,7 +103,7 @@
 | [El Camino](https://open.spotify.com/track/4e4QltE1uwSGkkM1nyqK8O) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [El Camino](https://open.spotify.com/album/0kUFCDixMxP2RdNIuz7kJx) | 3:11 | 2022-04-15 | 2022-07-24 |
 | [El Cielo](https://open.spotify.com/track/0b5ixbjiGeIVFVhB7qujge) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [El Cielo](https://open.spotify.com/album/0EKrPET3JFSGFJ5XJYgWn1) | 3:07 | 2022-04-15 | 2022-07-29 |
 | [El Demonio del Mediodía](https://open.spotify.com/track/02ZJgSEEmi7rmJ42gw2j1i) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [El Demonio del Mediodía](https://open.spotify.com/album/59DDXjGG4zx2MGNIJUsDXz) | 2:58 | 2022-04-15 | 2022-12-10 |
-| [El dragón asciende](https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0) | [Los Valentina](https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY) | [Independencia](https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p) | 4:20 | 2022-05-13 |  |
+| [El dragón asciende](https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0) | [Los Valentina](https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY) | [Independencia](https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p) | 4:20 | 2022-05-13 | 2023-06-24 |
 | [El Frío](https://open.spotify.com/track/2uK3du011Ob2Nc6z0rmXpM) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [El Frío](https://open.spotify.com/album/6TvYVBlBD6kTv7rre2qBd0) | 3:26 | 2022-04-15 | 2022-07-24 |
 | [el humo](https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [el humo](https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN) | 4:06 | 2022-04-15 | 2022-12-10 |
 | [El Inmenso Cielo](https://open.spotify.com/track/2OnUqt9pUUGerbyStwrCeL) | [Camilo Abarca](https://open.spotify.com/artist/644EV9yGwVHpKhCI6ZV7NZ), [Félix Volta](https://open.spotify.com/artist/2rjuFxcX4USQYslRzybqpE), [Reina Minerva](https://open.spotify.com/artist/4mbD7hBd7mTozWAOeXyDpk) | [El Inmenso Cielo](https://open.spotify.com/album/2Rn3HqrYkmQBmSG4MoQ90T) | 3:05 | 2022-04-15 | 2022-07-09 |
@@ -134,7 +136,7 @@
 | [Fantasma Encantador](https://open.spotify.com/track/0ZDwUoCh4BBGMo6jEVFWTy) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Fantasma Encantador](https://open.spotify.com/album/2KSnj4HOx7bzl7IjxKQbyQ) | 4:13 | 2022-04-15 | 2022-08-27 |
 | [Fargo](https://open.spotify.com/track/7m2q127NIf7fIsBo6UyYjF) | [Frucola Frappé](https://open.spotify.com/artist/4ZLUNtFI5oNh5xiEew8X2v) | [Fargo](https://open.spotify.com/album/3YunrwATPNb4lg5pXA8tPF) | 2:56 | 2022-04-15 | 2023-01-28 |
 | [Fauna](https://open.spotify.com/track/5psoojvi7byUFe64ualJqY) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Fauna](https://open.spotify.com/album/55jrTHJvi8JRdVUZlInVIq) | 3:55 | 2022-04-15 | 2022-07-27 |
-| [Florecer](https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Florecer](https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK) | 3:00 | 2022-07-08 |  |
+| [Florecer](https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Florecer](https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK) | 3:00 | 2022-07-08 | 2023-06-24 |
 | [formas de volver a casa](https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [formas de volver a casa](https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo) | 2:33 | 2022-10-28 |  |
 | [Frenesí \(Te Perdí\)](https://open.spotify.com/track/4J0ToGvK1ft0siVhKl8PPN) | [Colayuta](https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt) | [Frenesí \(Te Perdí\)](https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC) | 4:05 | 2022-06-10 |  |
 | [Fricativa Velar Sorda](https://open.spotify.com/track/1zH7ZCIvAbjp8wj0Ftj83h) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Fricativa Velar Sorda](https://open.spotify.com/album/1cZZy68qh5SJKjeC6uHLka) | 2:17 | 2022-04-15 | 2022-12-10 |
@@ -218,6 +220,7 @@
 | [NIÑA](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [NIÑA](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 | 2022-05-13 |  |
 | [No Es Tarde](https://open.spotify.com/track/3POg7duhY3fUIi0vJce5Cq) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [No Es Tarde](https://open.spotify.com/album/3Kq5jEJvqx1Mwev62asIzB) | 2:36 | 2022-04-15 | 2022-12-24 |
 | [No hace falta nada](https://open.spotify.com/track/6Fo1epLQ8hWDg6lPRdA43D) | [Diego Adrian](https://open.spotify.com/artist/0fRW8ok5l05BHKpkNBDrxh), [Adrianigual](https://open.spotify.com/artist/1zPEKROH5M1RQz9wJinKPW) | [No hace falta nada](https://open.spotify.com/album/39Jhh7LhDJiJLqYG9K2kYv) | 3:28 | 2022-04-15 | 2022-07-29 |
+| [no hace falta saber](https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [no hace falta saber](https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW) | 2:48 | 2023-06-23 |  |
 | [No Hay Más](https://open.spotify.com/track/0KUtLZlufE6fCFMkz1m4mS) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [No Hay Más](https://open.spotify.com/album/4Llq0EXs525rVvENrZnvaZ) | 2:39 | 2022-10-28 | 2023-01-28 |
 | [No Hay Otra Igual](https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1) | [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [No Hay Otra Igual](https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa) | 2:53 | 2022-07-01 |  |
 | [no quiero verte más u.u](https://open.spotify.com/track/4IsqxBuyMlvpFjZG3KJIsm) | [Poder Fantasma](https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w) | [no quiero verte más u.u](https://open.spotify.com/album/1bKKhG4tlKWSc1xSb5jHru) | 3:03 | 2022-04-15 | 2022-07-27 |
@@ -319,7 +322,7 @@
 | [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 |  |
 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 | 2022-04-15 | 2023-01-28 |
 | [Temores](https://open.spotify.com/track/2qYgmcH5WIBX2RMcGIrVNb) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/4G9dNp2lUbU0jiAmDdVN3e) | 4:14 | 2022-04-15 | 2022-07-22 |
-| [Tenemos que cocinar](https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:39 | 2022-11-11 |  |
+| [Tenemos que cocinar](https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:39 | 2022-11-11 | 2023-06-24 |
 | [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-04-15 | 2022-10-20 |
 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-10-14 |  |
 | [Tercera](https://open.spotify.com/track/38FMeqQyEl8zqvMIbrTU0c) | [Novedades Matutinas](https://open.spotify.com/artist/3mFy5nL1nhpNq2QyNNFWVt) | [Tercera](https://open.spotify.com/album/3TvWm67mHJhkVgzVjcSB9D) | 3:52 | 2022-05-27 | 2022-07-29 |

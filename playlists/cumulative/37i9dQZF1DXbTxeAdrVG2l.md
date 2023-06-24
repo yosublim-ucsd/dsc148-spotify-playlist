@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1990s\. Cover: TLC.
 
-706 songs - 2 day 2 hr 6 min
+707 songs - 2 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Cornflake Girl](https://open.spotify.com/track/1300POeOaj8qho30FRHjgf) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink](https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD) | 5:05 | 2019-07-16 | 2022-04-21 |
 | [Cose della vita](https://open.spotify.com/track/7L93Qjqgh05ZuFflWWyTjN) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Tutte storie](https://open.spotify.com/album/32cQXx1A9Sqmx5fx3ccXJO) | 4:48 | 2020-06-12 | 2022-04-21 |
 | [Cosmic Girl \- Remastered](https://open.spotify.com/track/3nrVwwePAYIRzUNH9ig6mO) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving](https://open.spotify.com/album/39j0mP1Vx1zRKMLMHhybw3) | 4:04 | 2019-06-22 | 2022-04-20 |
-| [Cotton Eye Joe](https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/5DA2dJgKERij9OVWbJDZDj) | 3:14 | 2021-02-15 |  |
+| [Cotton Eye Joe](https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/5DA2dJgKERij9OVWbJDZDj) | 3:14 | 2021-02-15 | 2023-06-24 |
 | [Could I Have This Kiss Forever](https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Enrique](https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci) | 3:55 | 2020-06-12 | 2022-04-20 |
 | [Crash into Me](https://open.spotify.com/track/0cU7itQsrmLK0nggvYc8jM) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [The Best Of What's Around \- Vol.1](https://open.spotify.com/album/1TztLAsB7F7bkpNh7Q9RNX) | 5:16 | 2019-07-17 | 2022-04-17 |
 | [Crazy](https://open.spotify.com/track/2cBGl1Ehr1D9xbqNmraqb4) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:16 | 2019-06-22 | 2022-04-21 |
@@ -522,6 +522,7 @@
 | [Say What You Want](https://open.spotify.com/track/4MIB4aXVS0M0KNVcbQlyOP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [White On Blonde](https://open.spotify.com/album/6jYkl1sYBLOnqcNCeoEMAw) | 3:53 | 2019-06-22 | 2022-07-29 |
 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 | 2019-05-26\* | 2022-07-29 |
 | [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 | 2021-04-29 |  |
+| [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 | 2022-12-22 |  |
 | [Se a Vida E \(That's the Way Life Is\) \- 2018 Remaster](https://open.spotify.com/track/18fr7t1FKDUiOg8DXxiZwL) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Bilingual: Further Listening 1995 \- 1997 \(2018 Remaster\)](https://open.spotify.com/album/6773Yw4SaTVQF7YRCKWycr) | 4:01 | 2019-06-21 | 2019-08-05 |
 | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 4:17 | 2022-06-02 |  |
 | [Self Esteem](https://open.spotify.com/track/6PVMOFV7IjuP7LxulzSA43) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/5SLfrjQtPxbh5Cf1dukV7g) | 4:17 | 2019-07-21 | 2022-04-16 |

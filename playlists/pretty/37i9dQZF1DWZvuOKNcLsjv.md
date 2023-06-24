@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Leigh\-Anne
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,509 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,530 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 19 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
 | 20 | [Underground](https://open.spotify.com/track/5TuNcDzMwrff3qAtQk6fVP) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Underground](https://open.spotify.com/album/65rPk8s8Glj3rJxAa98hZV) | 3:01 |
 | 21 | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA) | 3:00 |
-| 22 | [My Runway feat\. Rei](https://open.spotify.com/track/7MYp7RRk53N7wlA2a4JBDY) | [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ), [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr) | [My Runway feat\. Rei](https://open.spotify.com/album/0ZkpbzgLrOcg1GGAzGhwRc) | 3:56 |
+| 22 | [My Runway feat\. Rei](https://open.spotify.com/track/1Kx9C9RLYNgUzfumjjVPbP) | [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ), [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr) | [Open The Window](https://open.spotify.com/album/0sQk4JtoZASCN2d5nxu8QJ) | 3:56 |
 | 23 | [NOISE](https://open.spotify.com/track/3TOyW6X3gX2X8ollJKfPbz) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [23](https://open.spotify.com/album/0aw79q4Sjun33WdYZCtrev) | 3:13 |
 | 24 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
 | 25 | [BLUE](https://open.spotify.com/track/6KrRLTu0znn13IY3HD6bdr) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [BLUE](https://open.spotify.com/album/5dPtTMKOCj18R2tapTWMDx) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Bubble](https://open.spotify.com/track/2z0GNBjMSx3HJLdRKkBg6S) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [Bubble](https://open.spotify.com/album/6ns8AeeWp3tOmgPQ9EpIW1) | 2:58 |
 | 100 | [Mo ai ni](https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era), [石玺彤](https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd) | [Mo ai ni](https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7) | 2:58 |
 
-Snapshot ID: `MCw0ZmY1YjVhODk0NzVlMDJiODM5NTAwMjBkMTE5YzE5ZWQ0ZTViMDk2`
+Snapshot ID: `MCxkZmEzNGNiNzlhNjMzODc1MmU3MGRlYTQzZGZhZTk2ZmI0MTliNzdm`

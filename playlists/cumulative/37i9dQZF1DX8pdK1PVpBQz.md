@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Immy Owusu Artwork: Isu Kim
 
-2,254 songs - 5 day 4 hr 7 min
+2,256 songs - 5 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1084,6 +1084,7 @@
 | [Kitchenette](https://open.spotify.com/track/2ohOnughvQOvWYcug1aSUW) | [Boycrush](https://open.spotify.com/artist/3lpyPFfTcIbj01tbMmSMBY) | [Kitchenette](https://open.spotify.com/album/2hxYTuLbS1cPN1wfv5dA6I) | 3:52 | 2022-10-12 | 2022-11-24 |
 | [Knock Knock](https://open.spotify.com/track/70dmZtJ2NDuFsPdlQgdnbh) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Knock Knock](https://open.spotify.com/album/52Aj733Z1QNSshBALGbFNP) | 4:01 | 2021-12-28 | 2022-01-13 |
 | [Know my worth](https://open.spotify.com/track/7aJWvpBKNGF9M3bmcrkDVc) | [DENNI](https://open.spotify.com/artist/3pmaKSem7OMEW29eeQ2iKO) | [Know my worth](https://open.spotify.com/album/1W7gxv55j9QUqOX0ZZ9AGf) | 2:58 | 2023-04-12 | 2023-05-11 |
+| [Kool\-Aid](https://open.spotify.com/track/6RZseaq0Avcn1rFXFvw5G5) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [Kool\-Aid](https://open.spotify.com/album/6nox35DswydstEnDGj0FFA) | 3:12 | 2023-06-22 |  |
 | [Kurrajong Hotel](https://open.spotify.com/track/5vsvK1F9URrUepMJvXBdEc) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [Kurrajong Hotel](https://open.spotify.com/album/7dYOfVJO5XIqJEJ276gDZX) | 3:37 | 2022-04-27 | 2022-05-26 |
 | [Kwai Obala](https://open.spotify.com/track/63F54Oqsj35wwm9dDmUsxf) | [Gordon Koang](https://open.spotify.com/artist/4LsJGFIGPI5c0sOeKFtjQ1) | [Kwai Obala](https://open.spotify.com/album/3ASpbfGpazQT2v0BZBGzDT) | 4:12 | 2022-09-21 | 2022-10-05 |
 | [Kyoto Calls](https://open.spotify.com/track/40MEQgahW49bZixaCLqzhQ) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Candy](https://open.spotify.com/album/4RTzOI3X1LMh3q2HVbdUVk) | 4:00 | 2022-11-23 | 2022-12-01 |
@@ -2027,6 +2028,7 @@
 | [Toothache](https://open.spotify.com/track/540x0taY5lHcuL98RoCJ0y) | [Lily Rose](https://open.spotify.com/artist/1veK3g6x2I3qpjtMiCQQV4) | [Toothache](https://open.spotify.com/album/3w9vb8X4mcFyeXK82TRDdo) | 2:58 | 2022-03-23 | 2022-04-07 |
 | [Top](https://open.spotify.com/track/3XriXSvc41mFf0Nt4KBZc5) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [Rico Tonga](https://open.spotify.com/artist/5LApBZfdlukIonWGLzB3Gz) | [Top](https://open.spotify.com/album/0apZvQNi0IfninYMAfAMe7) | 2:23 | 2023-06-14 |  |
 | [TopTen](https://open.spotify.com/track/37XFFtkFLlsQEgvgNcmHMn) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [TopTen](https://open.spotify.com/album/4bJxM3imrjJauArTJw9Ful) | 2:17 | 2022-06-01 | 2022-06-23 |
+| [torment](https://open.spotify.com/track/09vA7M5nXAsqmIHruXuqfK) | [Poppy Tears](https://open.spotify.com/artist/6NFHn7VH6jgV2nVWqW2bsa) | [torment](https://open.spotify.com/album/7CQjaIyrL7Ouh541Y7ZLgc) | 2:09 | 2023-06-22 |  |
 | [Torn](https://open.spotify.com/track/7C46gSLCsIBYRZVywr5Bno) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Torn](https://open.spotify.com/album/4nlkDC4YtliiFhSY9OYEyi) | 3:04 | 2022-10-04 | 2022-11-17 |
 | [TOUR PARTY FREESTYLE](https://open.spotify.com/track/5hdwwOakF2q2EnEgZ7SBAS) | [Jupiter Project](https://open.spotify.com/artist/1wH5LoIgKQmq8VhaoP8FZO) | [TOUR PARTY FREESTYLE](https://open.spotify.com/album/6zz5U6dT3IH2mDmTbwxHS5) | 2:24 | 2023-04-19 | 2023-05-11 |
 | [Toxic Traits](https://open.spotify.com/track/1x3U1l5mI0KK0nrRAmXJlC) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Chances](https://open.spotify.com/album/3ZRC25c6zcwz3RDCWlcpf6) | 3:39 | 2022-03-09 | 2022-03-31 |

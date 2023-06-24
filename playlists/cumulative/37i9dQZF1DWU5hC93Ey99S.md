@@ -4,7 +4,7 @@
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-155 songs - 8 hr 42 min
+158 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [hold on](https://open.spotify.com/track/6lJEvqDWccR6tQdb9jpG4o) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [with friends](https://open.spotify.com/album/0VuZYhSFTWFfRYkdGiG3z6) | 2:01 | 2023-04-27 |  |
 | [HOLD YOU](https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [HOLD YOU](https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi) | 2:54 | 2023-04-13 |  |
 | [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 | 2023-04-13 |  |
+| [Hurricane \- Ryan Case Remix](https://open.spotify.com/track/5146r6RrR2ElhlrGr64Fuq) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Talia Rose](https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T), [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn) | [Hurricane \(Ryan Case Remix\)](https://open.spotify.com/album/6J62BG8YytAQ5zhRgOEb61) | 2:54 | 2023-06-22 |  |
 | [I CAN'T STOP](https://open.spotify.com/track/3rc030o1DJ1ILNdMPZoS7W) | [ASTRO](https://open.spotify.com/artist/5kZk6YdVhp9mtEyzhDxRqj) | [I CAN'T STOP](https://open.spotify.com/album/7j6c2keRodBMXiZExqLaQm) | 3:06 | 2023-05-26 |  |
 | [I Know](https://open.spotify.com/track/1q5BcbGvoE0AhCk9CR9HeX) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT) | [Rollercoaster](https://open.spotify.com/album/4ePx0TFE05UMh5YCAo8niw) | 2:19 | 2023-06-08 |  |
 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 | 2023-04-13 |  |
@@ -72,6 +73,7 @@
 | [Insomnia](https://open.spotify.com/track/3GE9ogfnPuuc2YkdCHsqHF) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Insomnia](https://open.spotify.com/album/6WYfJKnEghNhELzi7bhenR) | 3:06 | 2023-04-13 |  |
 | [Isolate \- Jacana People Remix](https://open.spotify.com/track/4gaVbud6ZqzIgse5t5kzYw) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Isolate \(Jacana People Remix\)](https://open.spotify.com/album/1De74ejTitVpfGKijS6SIP) | 4:04 | 2023-04-27 |  |
 | [just alone](https://open.spotify.com/track/2TNgS6N47IpQFqPLR24Phy) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [just alone](https://open.spotify.com/album/7gODujaTUC04p5AxjEkyM8) | 2:26 | 2023-05-11 |  |
+| [Just Doin' Me](https://open.spotify.com/track/3k7w2iFmezR29eFEM11AV9) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 3:39 | 2023-06-22 |  |
 | [Keep You As A Memory \- Disco Lines Remix](https://open.spotify.com/track/6DJw57OGSrunErUHTurP0K) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Keep You As A Memory \(Disco Lines Remix\)](https://open.spotify.com/album/3KIo8fRmpODr82I90l3XcC) | 3:58 | 2023-05-11 |  |
 | [KIDS](https://open.spotify.com/track/6NQbvueqSRWgHOailFx7th) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [KIDS](https://open.spotify.com/album/2hLLfjFvg3ya7scVAfQjrE) | 3:05 | 2023-06-08 |  |
 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY) | 2:30 | 2023-04-13 |  |
@@ -148,6 +150,7 @@
 | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/track/41tVFPYF12LM42hypwG1Dz) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/album/1RQq3Vx56aNEnKHI1XXnkT) | 3:27 | 2023-04-27 |  |
 | [up all night](https://open.spotify.com/track/1McYEltUcrkVnR6G547NDT) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [up all night](https://open.spotify.com/album/700Q6CYdEBvPoT9Q2gIEdi) | 3:21 | 2023-05-26 |  |
 | [Wait For Me](https://open.spotify.com/track/66U3OYYcVEdJo3HIzlRyzd) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Love Disc](https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X) | 3:25 | 2023-06-22 |  |
+| [Want U](https://open.spotify.com/track/2Mq6Gnoh4gomERaXGiwEYB) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 4:39 | 2023-06-22 |  |
 | [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 | 2023-04-13 |  |
 | [Wasted On You](https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 4:23 | 2023-04-13 |  |
 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 | 2023-04-13 |  |

@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,095 songs - 5 day 21 hr 15 min
+2,097 songs - 5 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,8 @@
 | [Bo Terra Cabo Verde](https://open.spotify.com/track/4JnlDW4Y1rSlmhofxkmBs0) | [Cabo Verde Band](https://open.spotify.com/artist/7lvDu4dHRrvRaT3PG94fvC) | [Radio Verde \(Compiled by Arp Frique & Americo Brito\)](https://open.spotify.com/album/1rNRvenOKQOzgjXme9O6s9) | 3:12 | 2022-07-27 |  |
 | [Bobeira](https://open.spotify.com/track/7ED2864nexnRieEPm5nnjI) | [Edson Frederico](https://open.spotify.com/artist/1UJ8FzXQBzeiDFmOod5zwv) | [Brazilian Beats 5 \(Mr\. Bongo presents\)](https://open.spotify.com/album/1gcFtUi6c9HS6owW3HCDYN) | 3:09 | 2022-06-09 |  |
 | [Bogotá](https://open.spotify.com/track/1MGVjiEwt1k2teNPXZZUiN) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Nó Na Orelha](https://open.spotify.com/album/7IvunPzNvVYEPLItULuMQk) | 4:39 | 2022-06-09 | 2022-07-29 |
-| [Bogotá](https://open.spotify.com/track/6YJCSuA4gPFlC3xlhpO5Ee) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Nó na Orelha](https://open.spotify.com/album/2zeWAYgh0WfMhiHwvUV15b) | 4:40 | 2022-07-27 |  |
+| [Bogotá](https://open.spotify.com/track/61Jxt8CMOgErUrwIvnJBM5) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Nó na Orelha](https://open.spotify.com/album/35okb1xF4DPilYtWCL9cAI) | 4:40 | 2023-06-20 |  |
+| [Bogotá](https://open.spotify.com/track/6YJCSuA4gPFlC3xlhpO5Ee) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Nó na Orelha](https://open.spotify.com/album/2zeWAYgh0WfMhiHwvUV15b) | 4:40 | 2022-07-27 | 2023-06-24 |
 | [Bogotá](https://open.spotify.com/track/1wmm29eAAawSZPuRn7lehb) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/0y7GV4jRQOaWiN4sH0SPW5) | 5:29 | 2022-06-09 | 2022-07-29 |
 | [Bogotá](https://open.spotify.com/track/2920QHxlieGAsZBj1CgAVA) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 5:29 | 2022-07-27 | 2023-04-30 |
 | [Bogotá](https://open.spotify.com/track/5UJ1qajLeDdRoBdHig6ipt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y) | 5:29 | 2023-03-17 |  |
@@ -330,7 +331,8 @@
 | [Calypso Blues](https://open.spotify.com/track/6s0t55KTpnYhhfgsjZr480) | [Zilla Mays](https://open.spotify.com/artist/5A4Z1PUOEu63H9i1RHYN9h) | [Rhythm 'n Boogaloo](https://open.spotify.com/album/55Ln8bi2mtPsf2AbCTtMJy) | 2:51 | 2022-07-27 |  |
 | [Calypso Blues](https://open.spotify.com/track/2snp1kxxBehioucmM5F86b) | [Zilla Mays](https://open.spotify.com/artist/5A4Z1PUOEu63H9i1RHYN9h) | [Calypso Blues](https://open.spotify.com/album/4T99YL6Y042HWX3zg95qeu) | 2:51 | 2022-07-12 | 2022-07-29 |
 | [Calçada](https://open.spotify.com/track/7ozcsytYkJTRxtU1vFjL4i) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT) | 3:26 | 2022-06-09 | 2022-07-29 |
-| [Calçada](https://open.spotify.com/track/4BKI37hGrod94ofXtVycYL) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/7cfkiCdd6edpUO472ZpOMm) | 3:26 | 2022-07-27 |  |
+| [Calçada](https://open.spotify.com/track/1zvpgSygK37GOotGOgT45f) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:26 | 2023-06-20 |  |
+| [Calçada](https://open.spotify.com/track/4BKI37hGrod94ofXtVycYL) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/7cfkiCdd6edpUO472ZpOMm) | 3:26 | 2022-07-27 | 2023-06-24 |
 | [Canción De Aplauso](https://open.spotify.com/track/1NLncVIqBtTOK5CaGCB2px) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [De La Canción](https://open.spotify.com/album/6QJJBjOtD7PDqQ0r61VThE) | 3:06 | 2022-09-29 | 2023-04-30 |
 | [Canción De Aplauso](https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [De La Canción](https://open.spotify.com/album/34uQVGKZI1DNPvBYiwHbch) | 3:06 | 2023-03-17 |  |
 | [Canción De Aplauso](https://open.spotify.com/track/4eVBV2LHIfCVvth13sx64e) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [De La Canción](https://open.spotify.com/album/67kuNzS9jNxABC94CPx3O8) | 3:06 | 2022-06-09 | 2022-10-13 |
@@ -1806,7 +1808,7 @@
 | [Tambourinis cocktail](https://open.spotify.com/track/73MU81CQkcgubP2CkqnRPa) | [Kélétigui et ses Tambourinis](https://open.spotify.com/artist/16BMfvnMLTwlyjxXolrIWr) | [Syliphone discothèque 70: Guinée](https://open.spotify.com/album/1ZHT4y3sWD3diDwyeDUUk0) | 4:28 | 2022-10-31 | 2022-11-13 |
 | [Tambó Tambó](https://open.spotify.com/track/5XSGWSVECe9FpqXEtPUCBQ) | [Andres Landero](https://open.spotify.com/artist/3RjXjc2b1ndP71qSzdUTlt) | [Yo Amanecí](https://open.spotify.com/album/5Fnv9buNsvcoUmkx1pLTOZ) | 3:27 | 2022-06-09 |  |
 | [Tamcalacatam](https://open.spotify.com/track/2UOvZGAWmgSNhQg0fYnTWM) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K) | [Tibau](https://open.spotify.com/album/2TyfT8njOQvrMMT5TQY0JF) | 5:01 | 2022-06-09 | 2022-07-29 |
-| [Tamcalacatam](https://open.spotify.com/track/2YKCmDFnbaDAZBl0jN9WPd) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K) | [Tibau](https://open.spotify.com/album/7p8X1wJrhRZzO0R3BFyrrJ) | 5:01 | 2022-07-27 |  |
+| [Tamcalacatam](https://open.spotify.com/track/2YKCmDFnbaDAZBl0jN9WPd) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K), [Tibau Tavares](https://open.spotify.com/artist/68nqiiRYrs28v1JAQfM0A9) | [Tibau](https://open.spotify.com/album/7p8X1wJrhRZzO0R3BFyrrJ) | 5:01 | 2022-07-27 |  |
 | [Tameghra](https://open.spotify.com/track/1JpcX6nSFhLXsXDJSOriCC) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/6wR1PTOSJRYZeo7zdWWWgD) | 5:18 | 2022-07-12 | 2022-11-20 |
 | [Tameghra](https://open.spotify.com/track/1V1iLb59WEDGTLT0BTSjc5) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW) | 5:18 | 2022-10-31 | 2022-12-17 |
 | [Tamiditine](https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:39 | 2022-06-09 |  |

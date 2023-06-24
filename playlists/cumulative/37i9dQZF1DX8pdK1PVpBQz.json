@@ -20353,6 +20353,24 @@
     },
     {
       "album": {
+        "name": "Kool-Aid",
+        "url": "https://open.spotify.com/album/6nox35DswydstEnDGj0FFA"
+      },
+      "artists": [
+        {
+          "name": "Baby Lane",
+          "url": "https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Kool-Aid",
+      "url": "https://open.spotify.com/track/6RZseaq0Avcn1rFXFvw5G5"
+    },
+    {
+      "album": {
         "name": "Kurrajong Hotel",
         "url": "https://open.spotify.com/album/7dYOfVJO5XIqJEJ276gDZX"
       },
@@ -38164,6 +38182,24 @@
       "duration_ms": 137147,
       "name": "TopTen",
       "url": "https://open.spotify.com/track/37XFFtkFLlsQEgvgNcmHMn"
+    },
+    {
+      "album": {
+        "name": "torment",
+        "url": "https://open.spotify.com/album/7CQjaIyrL7Ouh541Y7ZLgc"
+      },
+      "artists": [
+        {
+          "name": "Poppy Tears",
+          "url": "https://open.spotify.com/artist/6NFHn7VH6jgV2nVWqW2bsa"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129341,
+      "name": "torment",
+      "url": "https://open.spotify.com/track/09vA7M5nXAsqmIHruXuqfK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- AvoidRafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,585 likes - 81 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,641 likes - 81 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 31 | [Provu](https://open.spotify.com/track/4IJ1xoz8M9omBst9dd9IKH) | [Abirbhaab](https://open.spotify.com/artist/60DzpTSQlf934knmD0jkdr) | [Provu](https://open.spotify.com/album/65CBawaHaqasNGO8BBMbm8) | 4:46 |
 | 32 | [Bose Aachhi \(Bose Aachhi Eka\)](https://open.spotify.com/track/4PIrHcNo9aVhKrlk9hPOLG) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 6:39 |
 | 33 | [Taray Taray](https://open.spotify.com/track/3Ty0K7mafgndKVXhYrDb1x) | [Nogor Baul James](https://open.spotify.com/artist/33HfLLFWgE1OFdOINScjrS) | [Best of James](https://open.spotify.com/album/1sKH2wZXCbi7TSArR9rSdc) | 5:33 |
-| 34 | [Rupkotha](https://open.spotify.com/track/3GTo0Zn1308jwz2q2EwYEB) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/3OXzR6q3oubuiAm90kJAYI) | 6:37 |
+| 34 | [Rupkotha](https://open.spotify.com/track/1RESTN39VEH6lAq8H1D2Ud) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ) | 6:37 |
 | 35 | [Confusion](https://open.spotify.com/track/6NUIyfilS2SAUK5yvWx1DG) | [Bangla Five](https://open.spotify.com/artist/2mt61gxTSTC56E4wgosOIj) | [Confusion](https://open.spotify.com/album/2c2xtzOyPOkEoou45o1tYc) | 4:53 |
 | 36 | [Bondho Janala](https://open.spotify.com/track/5BJBaI4bpWHmiXqFadEpkM) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Bondho Janala](https://open.spotify.com/album/0ajkgxObOuVNXMzVEcvinC) | 4:03 |
 | 37 | [Cholo Arekbar Uri](https://open.spotify.com/track/6BnrcE0vfX8ZcjpcXxRaoo) | [AvoidRafa](https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB) | [Bhaar](https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8) | 4:43 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 77 | [Bhoboghure 2022](https://open.spotify.com/track/61g0LfYhsMLvrz6DXlLIek) | [Cryptic Fate](https://open.spotify.com/artist/7tJID3D9UVKLpJSleVaM0b) | [Bhoboghure 2022](https://open.spotify.com/album/0u8JsU2k3GaMyJwsFQHUds) | 4:38 |
 | 78 | [Anath](https://open.spotify.com/track/0DCWyFL9SxBjSfLMhj8471) | [Avash](https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd) | [Anath](https://open.spotify.com/album/42V5qp9Z9SSpws2sZftzw5) | 5:19 |
 | 79 | [Shopnodeb](https://open.spotify.com/track/7rLLcr577CpTL34NEfHOFh) | [Vibe](https://open.spotify.com/artist/1UHTxsYsUI0GZJauVJzg9j) | [Chena Jogot](https://open.spotify.com/album/3KCkMexT4RWfYZAOWMqPHP) | 3:37 |
-| 80 | [Purnata](https://open.spotify.com/track/1Hu5kkx4WAnpsmYJClkjQX) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/3OXzR6q3oubuiAm90kJAYI) | 5:59 |
+| 80 | [Purnota](https://open.spotify.com/track/67RmLSjDk4AWMYUxn6J7R1) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ) | 5:59 |
 | 81 | [Jhornar Moto Chonchol](https://open.spotify.com/track/7cvpKBUE9F3GVLEuZxZECM) | [Dreek](https://open.spotify.com/artist/28tTpWnB5Cg33acyjyY8iV) | [Dreek Singles](https://open.spotify.com/album/1jHm7l2DTG2VDoFvqnGo5I) | 5:09 |
 
-Snapshot ID: `MCxiZGY4YzEzODM3NjFhZTU0MzBiOGQzZWFlNDA2YzYxYTJhY2M3MmMw`
+Snapshot ID: `MCxkNWU4OWZjOWQwMWFjZGJhOGIwNDk5YjY5MDBhODg1YmQ4MTM4NGJj`

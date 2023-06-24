@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Slowdive on cover.",
-  "num_followers": 80166,
+  "num_followers": 80533,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGIxYzg1ODgyNTU5NWNmOGQxZWQ5NTA2Njk2YTlmMjE1NTQ2MWVl",
+  "snapshot_id": "MCw2ZmJhOGZhZDk3NjA5ZGE3MjlmNTA1OTY4MmY1NGEyOWY0OTQxODFk",
   "tracks": [
     {
       "added_at": "2023-06-20 17:08:59",
@@ -57,6 +57,54 @@
       "url": "https://open.spotify.com/track/7xXFPKo0us7h8kHCKV9S9B"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "What Does Moon Think",
+        "url": "https://open.spotify.com/album/1xuR0TZ9uoVRPIWHqj7hu8"
+      },
+      "artists": [
+        {
+          "name": "SIZ",
+          "url": "https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "What Does Moon Think",
+      "url": "https://open.spotify.com/track/7L25MDmLQynJSzLm8hlj16"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Tape Rewind",
+        "url": "https://open.spotify.com/album/7mu5COJ6aA9nFtAyIPTqpk"
+      },
+      "artists": [
+        {
+          "name": "Film School",
+          "url": "https://open.spotify.com/artist/3Q5JOuj2Zs59ujPp1njIWS"
+        }
+      ],
+      "duration_ms": 241278,
+      "name": "Tape Rewind",
+      "url": "https://open.spotify.com/track/7E8IhD7CFlw6xcTv0bfeDa"
+    },
+    {
+      "added_at": "2023-05-22 15:58:33",
+      "album": {
+        "name": "Everything at Once",
+        "url": "https://open.spotify.com/album/5TBEBYAXEMrIKMBZKxGyYl"
+      },
+      "artists": [
+        {
+          "name": "Cathedral Bells",
+          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Everything at Once",
+      "url": "https://open.spotify.com/track/4irUbLOpLME1weJjG6hoEJ"
+    },
+    {
       "added_at": "2023-06-20 17:08:59",
       "album": {
         "name": "dark out",
@@ -71,6 +119,22 @@
       "duration_ms": 145696,
       "name": "dark out",
       "url": "https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "her distortion",
+        "url": "https://open.spotify.com/album/6wB6nhvNeSWUUjv0gWszLE"
+      },
+      "artists": [
+        {
+          "name": "x\u00f3jira",
+          "url": "https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2"
+        }
+      ],
+      "duration_ms": 195062,
+      "name": "her distortion",
+      "url": "https://open.spotify.com/track/3ZspmUmIrhadEBXCK2kM9Q"
     },
     {
       "added_at": "2023-06-07 17:01:15",
@@ -105,20 +169,52 @@
       "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
-      "added_at": "2023-05-22 15:58:33",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Everything at Once",
-        "url": "https://open.spotify.com/album/5TBEBYAXEMrIKMBZKxGyYl"
+        "name": "Wait to Pleasure (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2WSCMIIjNRdYTGvko0E6xS"
       },
       "artists": [
         {
-          "name": "Cathedral Bells",
-          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Everything at Once",
-      "url": "https://open.spotify.com/track/4irUbLOpLME1weJjG6hoEJ"
+      "duration_ms": 369278,
+      "name": "Beauty - Bonus Track",
+      "url": "https://open.spotify.com/track/3uROaybnOXpcvQrv47ChcN"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Luck You Had",
+        "url": "https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "The Luck You Had",
+      "url": "https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb"
+    },
+    {
+      "added_at": "2023-05-25 03:01:47",
+      "album": {
+        "name": "Overkill",
+        "url": "https://open.spotify.com/album/0fwN6Jbr64cWigx8H1naNc"
+      },
+      "artists": [
+        {
+          "name": "bosses",
+          "url": "https://open.spotify.com/artist/5RXw4AOgoIM7BVTH3axA3Z"
+        }
+      ],
+      "duration_ms": 285622,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/0lfTM5zpxZmwWiCt9f8FJq"
     },
     {
       "added_at": "2023-06-02 01:50:10",
@@ -137,20 +233,20 @@
       "url": "https://open.spotify.com/track/0XyBzQ0hOpfmXSjG2CwIqk"
     },
     {
-      "added_at": "2023-06-20 17:08:59",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6A6CGSfKoccrpb1ffz7uRj"
+        "name": "bleed",
+        "url": "https://open.spotify.com/album/5g7nVEocQGj2yBKJcWVgIX"
       },
       "artists": [
         {
-          "name": "Slow Joy",
-          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/66JAiAww71cy0rv3c8567D"
+      "duration_ms": 177236,
+      "name": "bleed",
+      "url": "https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2"
     },
     {
       "added_at": "2023-05-22 17:30:02",
@@ -167,6 +263,38 @@
       "duration_ms": 208912,
       "name": "changer",
       "url": "https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3N1aePkaiRx1sgcvviZmBX"
+      },
+      "artists": [
+        {
+          "name": "Sword II",
+          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
+        }
+      ],
+      "duration_ms": 206974,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/2BEqWfZNSG8LF2YOXzcdW6"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "do you remember",
+        "url": "https://open.spotify.com/album/32pIJshmDwpFGXsCEacwTC"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "duration_ms": 147716,
+      "name": "do you remember",
+      "url": "https://open.spotify.com/track/6KJhZ4BtNLf3CltLYF6iaT"
     },
     {
       "added_at": "2023-06-20 17:08:59",
@@ -201,20 +329,20 @@
       "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
     },
     {
-      "added_at": "2023-05-25 03:01:47",
+      "added_at": "2023-02-17 03:32:14",
       "album": {
-        "name": "Overkill",
-        "url": "https://open.spotify.com/album/0fwN6Jbr64cWigx8H1naNc"
+        "name": "Someone2Me",
+        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
       },
       "artists": [
         {
-          "name": "Bosses",
-          "url": "https://open.spotify.com/artist/5RXw4AOgoIM7BVTH3axA3Z"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 285622,
-      "name": "Overkill",
-      "url": "https://open.spotify.com/track/0lfTM5zpxZmwWiCt9f8FJq"
+      "duration_ms": 226471,
+      "name": "Someone2Me",
+      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
     },
     {
       "added_at": "2023-05-09 01:15:11",
@@ -247,6 +375,22 @@
       "duration_ms": 138501,
       "name": "chxse",
       "url": "https://open.spotify.com/track/0Qf7UUVntrkZvBK0lzmxOu"
+    },
+    {
+      "added_at": "2023-06-20 17:08:59",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6A6CGSfKoccrpb1ffz7uRj"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/66JAiAww71cy0rv3c8567D"
     },
     {
       "added_at": "2023-05-09 01:15:11",
@@ -303,6 +447,22 @@
       "duration_ms": 225888,
       "name": "my only fantasy",
       "url": "https://open.spotify.com/track/2OumTMESFfTTtZmESGHFYf"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "iwantuall4me",
+        "url": "https://open.spotify.com/album/4KZ5IYrCfL2R2vNX3wga8F"
+      },
+      "artists": [
+        {
+          "name": "Estrada",
+          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
+        }
+      ],
+      "duration_ms": 238257,
+      "name": "iwantuall4me",
+      "url": "https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF"
     },
     {
       "added_at": "2023-06-20 17:08:59",
@@ -389,20 +549,20 @@
       "url": "https://open.spotify.com/track/6WVvlRjBgIkpK29xDRm9VG"
     },
     {
-      "added_at": "2023-02-17 03:32:14",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Someone2Me",
-        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
+        "name": "do you remember...",
+        "url": "https://open.spotify.com/album/2iSj6baQQWIv880vQBucQl"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Ka$tro",
+          "url": "https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ"
         }
       ],
-      "duration_ms": 226471,
-      "name": "Someone2Me",
-      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
+      "duration_ms": 208831,
+      "name": "do you remember...",
+      "url": "https://open.spotify.com/track/701DOYFNMoGM1AaFXHVR95"
     },
     {
       "added_at": "2023-04-14 23:09:55",
@@ -437,6 +597,22 @@
       "url": "https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe"
     },
     {
+      "added_at": "2023-03-13 22:23:31",
+      "album": {
+        "name": "Lovers From The Past",
+        "url": "https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "Lovers From The Past",
+      "url": "https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr"
+    },
+    {
       "added_at": "2023-05-25 23:40:09",
       "album": {
         "name": "Everything at Once",
@@ -451,22 +627,6 @@
       "duration_ms": 277058,
       "name": "All Under The Sky",
       "url": "https://open.spotify.com/track/7wyECc1POvxhV7CPnteNSu"
-    },
-    {
-      "added_at": "2023-06-20 17:08:59",
-      "album": {
-        "name": "Heaven Inches Away",
-        "url": "https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ"
-      },
-      "artists": [
-        {
-          "name": "Soft Blue Shimmer",
-          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
     },
     {
       "added_at": "2023-06-02 01:50:10",
@@ -525,6 +685,22 @@
       "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "luminous",
+        "url": "https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V"
+      },
+      "artists": [
+        {
+          "name": "ART-SCHOOL",
+          "url": "https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT"
+        }
+      ],
+      "duration_ms": 220580,
+      "name": "Bug",
+      "url": "https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH"
+    },
+    {
       "added_at": "2023-05-09 01:15:11",
       "album": {
         "name": "Dopamine Loop",
@@ -571,22 +747,6 @@
       "duration_ms": 194181,
       "name": "Heaven in Your Head",
       "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
-    },
-    {
-      "added_at": "2023-03-13 22:23:31",
-      "album": {
-        "name": "Lovers From The Past",
-        "url": "https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "Lovers From The Past",
-      "url": "https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr"
     },
     {
       "added_at": "2023-01-12 03:12:54",
@@ -783,22 +943,6 @@
       "duration_ms": 242439,
       "name": "Tears",
       "url": "https://open.spotify.com/track/2dNOg4we0JnbP1UzWzsGPS"
-    },
-    {
-      "added_at": "2023-01-04 01:36:17",
-      "album": {
-        "name": "Urban Twilight (Remaster)",
-        "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
-      },
-      "artists": [
-        {
-          "name": "Oeil",
-          "url": "https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7"
-        }
-      ],
-      "duration_ms": 230197,
-      "name": "Strawberry Cream",
-      "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
     },
     {
       "added_at": "2023-04-14 23:09:55",
@@ -1009,22 +1153,6 @@
       "url": "https://open.spotify.com/track/47PWH8PEvoWpYJ6AkzoSyu"
     },
     {
-      "added_at": "2023-01-04 01:36:17",
-      "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/4jGKbW0UlcM89NRPVHDrwD"
-      },
-      "artists": [
-        {
-          "name": "Westkust",
-          "url": "https://open.spotify.com/artist/6YXQAg2YzoPVppbDK7elYj"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/7yqgtjcAV9TDDANthelCoU"
-    },
-    {
       "added_at": "2023-02-17 03:32:14",
       "album": {
         "name": "Here at All",
@@ -1055,22 +1183,6 @@
       "duration_ms": 112400,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
-    },
-    {
-      "added_at": "2023-01-04 01:36:17",
-      "album": {
-        "name": "Devour",
-        "url": "https://open.spotify.com/album/6xhZzuX1veVEVGCTxsLMaM"
-      },
-      "artists": [
-        {
-          "name": "Star Horse",
-          "url": "https://open.spotify.com/artist/1zC23cF77Lj7ukFsy19nor"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Last Night's Haze",
-      "url": "https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV"
     },
     {
       "added_at": "2023-02-17 03:32:14",
@@ -1119,22 +1231,6 @@
       "duration_ms": 267491,
       "name": "flutter",
       "url": "https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp"
-    },
-    {
-      "added_at": "2022-12-14 00:00:00",
-      "album": {
-        "name": "Love Lives in the Body",
-        "url": "https://open.spotify.com/album/4gCNGW6u3kNtr0u5fxgUmq"
-      },
-      "artists": [
-        {
-          "name": "Soft Blue Shimmer",
-          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
-        }
-      ],
-      "duration_ms": 285900,
-      "name": "Prism of Feeling",
-      "url": "https://open.spotify.com/track/4jAx1BnnLRfvkODzP4Ieo9"
     },
     {
       "added_at": "2023-02-17 03:32:14",
@@ -1253,22 +1349,6 @@
       "url": "https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM"
     },
     {
-      "added_at": "2023-01-04 01:36:17",
-      "album": {
-        "name": "Wait to Pleasure",
-        "url": "https://open.spotify.com/album/20MccL4zJLdiQWg2TGqSB0"
-      },
-      "artists": [
-        {
-          "name": "No Joy",
-          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
-        }
-      ],
-      "duration_ms": 206023,
-      "name": "Hare Tarot Lies",
-      "url": "https://open.spotify.com/track/25qfsWGlqPa0o0xNQsZDJR"
-    },
-    {
       "added_at": "2023-02-17 03:32:14",
       "album": {
         "name": "bb",
@@ -1283,22 +1363,6 @@
       "duration_ms": 161225,
       "name": "bb",
       "url": "https://open.spotify.com/track/0BwlbW42QQj8xHABX53WVi"
-    },
-    {
-      "added_at": "2023-01-04 01:36:17",
-      "album": {
-        "name": "Mindfullness",
-        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
-      },
-      "artists": [
-        {
-          "name": "Flyying Colours",
-          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "Long Holiday",
-      "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
     },
     {
       "added_at": "2023-02-17 03:32:14",
@@ -1467,22 +1531,6 @@
       "duration_ms": 232043,
       "name": "Tired",
       "url": "https://open.spotify.com/track/4RmzqFbi61rwMfGlz2GWaC"
-    },
-    {
-      "added_at": "2023-01-04 01:36:17",
-      "album": {
-        "name": "Pearl Diver",
-        "url": "https://open.spotify.com/album/2V3Gv2e1YvJ10MpJnWi2xm"
-      },
-      "artists": [
-        {
-          "name": "Malory",
-          "url": "https://open.spotify.com/artist/7ji9U2zsOcJjxpVFJyXV48"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Dragon In You",
-      "url": "https://open.spotify.com/track/6IQdIQ0jzbUGGrAFUnq4RQ"
     },
     {
       "added_at": "2023-02-17 03:32:14",

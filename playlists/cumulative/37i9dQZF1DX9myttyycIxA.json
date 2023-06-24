@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: feeble little horse",
+  "description": "Underground indie rock gems. Cover: Geese",
   "name": "undercurrents",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 192477,
       "name": "27",
       "url": "https://open.spotify.com/track/1GXKnG7uoUr4RacaxE3e8m"
+    },
+    {
+      "album": {
+        "name": "3D Country",
+        "url": "https://open.spotify.com/album/3453dOJZDbTPog3TyLklI4"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313577,
+      "name": "3D Country",
+      "url": "https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr"
     },
     {
       "album": {
@@ -4971,6 +4989,24 @@
     },
     {
       "album": {
+        "name": "Easier To Run",
+        "url": "https://open.spotify.com/album/5ZnaCRCRmkX7YtCzqmSKsi"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186873,
+      "name": "Easier To Run",
+      "url": "https://open.spotify.com/track/5yKYejprpKJ7LaK23LL53q"
+    },
+    {
+      "album": {
         "name": "Eastern Ave",
         "url": "https://open.spotify.com/album/1LmWeZnQSDVz1qReWHDmgF"
       },
@@ -7985,6 +8021,24 @@
     },
     {
       "album": {
+        "name": "Hot Things",
+        "url": "https://open.spotify.com/album/0KN38aCbmazAlM73rAnpyq"
+      },
+      "artists": [
+        {
+          "name": "Joiner",
+          "url": "https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258825,
+      "name": "Hot Things",
+      "url": "https://open.spotify.com/track/2KjkXKhalXNzDgO8QOqIzu"
+    },
+    {
+      "album": {
         "name": "Housekeys",
         "url": "https://open.spotify.com/album/0NE4GXtHwL82n1NVKQa23k"
       },
@@ -8970,6 +9024,24 @@
       "duration_ms": 221238,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt"
+    },
+    {
+      "album": {
+        "name": "Independence Day",
+        "url": "https://open.spotify.com/album/7rX6PD6nLirujJOppgwWMU"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219049,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/140upcUj9NvEdv19PK4dHc"
     },
     {
       "album": {
@@ -17884,7 +17956,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 244022,
       "name": "You don't even know who I am",
       "url": "https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG"

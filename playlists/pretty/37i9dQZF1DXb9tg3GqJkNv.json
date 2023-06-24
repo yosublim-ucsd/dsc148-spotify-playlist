@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Smiley",
-  "num_followers": 5508,
+  "num_followers": 5528,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTQ1Y2MzMzdlYTM4ZWQzNDY1Y2QzNGJhNWQ2YzUyMjRhY2M5NjBl",
+  "snapshot_id": "MCw0Njc1M2ZhNDMyMmE4M2RkYWUyNjVjMzQ3M2ZkNTUzZjBiODg1MDU3",
   "tracks": [
     {
       "added_at": "2023-06-22 21:08:37",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-06-22 21:08:37",
       "album": {
+        "name": "Bionic Man",
+        "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
+      },
+      "artists": [
+        {
+          "name": "BVB",
+          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+        },
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bionic Man",
+      "url": "https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS"
+    },
+    {
+      "added_at": "2023-06-22 21:08:37",
+      "album": {
         "name": "All Aces",
         "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 149042,
       "name": "NIGHTFALL (feat. Dro Kenji)",
       "url": "https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm"
-    },
-    {
-      "added_at": "2023-06-22 21:08:37",
-      "album": {
-        "name": "Bionic Man",
-        "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
-      },
-      "artists": [
-        {
-          "name": "BVB",
-          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
-        },
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bionic Man",
-      "url": "https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS"
     },
     {
       "added_at": "2023-06-22 21:08:37",

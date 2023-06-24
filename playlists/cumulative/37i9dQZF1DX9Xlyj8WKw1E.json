@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Midwest music breaking waves. Cover, Lil Durk",
+  "description": "Midwest music breaking waves. Cover: Doe Boy",
   "name": "Ripple Effect:  Midwest",
   "tracks": [
     {
@@ -614,6 +614,28 @@
       "duration_ms": 252631,
       "name": "ATLANTIS (feat. Chief Keef)",
       "url": "https://open.spotify.com/track/61KJmkiPBcNr5oLzDNTUt2"
+    },
+    {
+      "album": {
+        "name": "We Eat The Most (Reloaded)",
+        "url": "https://open.spotify.com/album/1MaaGLGGQIGmx5vvkBd94N"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171616,
+      "name": "B'CUZ (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5pstZ7KHUx6D592m741J9V"
     },
     {
       "album": {
@@ -1476,7 +1498,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 132030,
       "name": "Changes - Sped Up",
       "url": "https://open.spotify.com/track/1VObZqOx2tlK5WgItrL10x"
@@ -1582,6 +1604,28 @@
       "duration_ms": 166097,
       "name": "Close friends",
       "url": "https://open.spotify.com/track/32F5kTZn5QRuxL1BnnX913"
+    },
+    {
+      "album": {
+        "name": "BEEZY",
+        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158381,
+      "name": "CLOUT CHASE (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/1rNJ4bEN1Tad000pRt8XJS"
     },
     {
       "album": {
@@ -2100,7 +2144,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 153506,
       "name": "DON'T DATE RAPPERS.",
       "url": "https://open.spotify.com/track/3B6VHs9p74RcKpKQOHGaY4"
@@ -2985,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "ghosted",
+        "url": "https://open.spotify.com/album/0y1TnzdpdOewAy4z1sh937"
+      },
+      "artists": [
+        {
+          "name": "Ausar",
+          "url": "https://open.spotify.com/artist/3ahvdZBrfKOLdDLr1eNXTg"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258846,
+      "name": "ghosted",
+      "url": "https://open.spotify.com/track/3gC74awANsa3oPoA6eqNBI"
+    },
+    {
+      "album": {
         "name": "Gimme Space",
         "url": "https://open.spotify.com/album/0RyYJfNhL4YifaGnvo9qQO"
       },
@@ -3214,7 +3276,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 153198,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/5e2jIB5KT9kmTDCBzAmvQr"
@@ -3346,6 +3408,28 @@
       "duration_ms": 242183,
       "name": "Hachi-Roku",
       "url": "https://open.spotify.com/track/6VFPeWZx43yK2NbJDvg2Ya"
+    },
+    {
+      "album": {
+        "name": "Had To Ask (feat. Babyface Ray)",
+        "url": "https://open.spotify.com/album/5pkRLJesMpChyAZd4iENYJ"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156765,
+      "name": "Had To Ask (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/51swI5WeqofTGcTHXXmP5v"
     },
     {
       "album": {
@@ -3900,10 +3984,36 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 172035,
       "name": "I'm Geekin (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i"
+    },
+    {
+      "album": {
+        "name": "I'm Geekin (feat. NLE Choppa & BIA) [Remix]",
+        "url": "https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189026,
+      "name": "I'm Geekin (feat. NLE Choppa & BIA) - Remix",
+      "url": "https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc"
     },
     {
       "album": {
@@ -4428,7 +4538,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 234352,
       "name": "KRZY TRAIN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6SroqZFR8fPAcvhteW5y9W"
@@ -4887,6 +4997,24 @@
     },
     {
       "album": {
+        "name": "Love Is Long",
+        "url": "https://open.spotify.com/album/7bJxRFnNk4H4jhrKjBfbTM"
+      },
+      "artists": [
+        {
+          "name": "Ebony Loren",
+          "url": "https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199627,
+      "name": "Love Is Long",
+      "url": "https://open.spotify.com/track/3AzDKKpGEnIY8roLn07foy"
+    },
+    {
+      "album": {
         "name": "Love You Toni",
         "url": "https://open.spotify.com/album/0g5EillRWUeD155z5Fa0cO"
       },
@@ -4992,7 +5120,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 126985,
       "name": "Master P",
       "url": "https://open.spotify.com/track/66QEvziDynXCQhumzW535m"
@@ -5389,6 +5517,28 @@
     },
     {
       "album": {
+        "name": "NECK TAT",
+        "url": "https://open.spotify.com/album/01QZw9AcDKefG2gMTHET9F"
+      },
+      "artists": [
+        {
+          "name": "Freddy Got Magic Supa Bwe",
+          "url": "https://open.spotify.com/artist/5QZEw4oqiQ98Ygqgu8dJ8i"
+        },
+        {
+          "name": "Supa Bwe",
+          "url": "https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149553,
+      "name": "NECK TAT",
+      "url": "https://open.spotify.com/track/4uc2kcLYBb7pOU99qEDLBR"
+    },
+    {
+      "album": {
         "name": "Never Know",
         "url": "https://open.spotify.com/album/6KyAZhtaaOra6CPXhJUpnb"
       },
@@ -5638,7 +5788,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 168769,
       "name": "Nope Shemix",
       "url": "https://open.spotify.com/track/39fyKFM1q92YzWTQiDFF47"
@@ -6126,7 +6276,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 253738,
       "name": "Pelle Coat",
       "url": "https://open.spotify.com/track/6KlqjCLNImX7W9zYt2Xa7D"
@@ -6908,7 +7058,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 165431,
       "name": "Sad & Alone",
       "url": "https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B"
@@ -7169,6 +7319,24 @@
     },
     {
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "album": {
         "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
         "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
       },
@@ -7330,7 +7498,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 178607,
       "name": "SOFT SERVE",
       "url": "https://open.spotify.com/track/5zmOn4aCoIU5fSVBlfHSEK"
@@ -8189,6 +8357,28 @@
     },
     {
       "album": {
+        "name": "Took My Breath Away (feat. Skye Morales)",
+        "url": "https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Skye Morales",
+          "url": "https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "Took My Breath Away (feat. Skye Morales)",
+      "url": "https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu"
       },
@@ -8295,6 +8485,36 @@
     },
     {
       "album": {
+        "name": "BEEZY",
+        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "TRY & SEE (feat. Future, G Herbo & Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh"
+    },
+    {
+      "album": {
         "name": "Tryna Go Viral",
         "url": "https://open.spotify.com/album/1ZoDqEnCRfnAnC3Xn5I904"
       },
@@ -8394,7 +8614,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 147279,
       "name": "Understand",
       "url": "https://open.spotify.com/track/1aKyApcbcGtaGNaozMJmdV"
@@ -8442,6 +8662,28 @@
       "duration_ms": 145617,
       "name": "UNIFIED",
       "url": "https://open.spotify.com/track/4DW8dS3i7dbSbmDDC2XwKn"
+    },
+    {
+      "album": {
+        "name": "VANILLA SKY",
+        "url": "https://open.spotify.com/album/0Q1Oq2UYx98D3YZEgWhBEe"
+      },
+      "artists": [
+        {
+          "name": "Joseph Chilliams",
+          "url": "https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi"
+        },
+        {
+          "name": "Al\u00e9 Araya",
+          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210525,
+      "name": "VANILLA SKY",
+      "url": "https://open.spotify.com/track/1dqvtaRSnRuD7DkE4onbPV"
     },
     {
       "album": {

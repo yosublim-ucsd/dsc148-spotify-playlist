@@ -4,7 +4,7 @@
 
 > Rock with a Drop Cover: SLANDER, blackbear & Bring Me The Horizon \\m/
 
-309 songs - 17 hr 41 min
+310 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Dynamo](https://open.spotify.com/track/7A0T48jL3L6IjqUDku4QWc) | [Puppet](https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O) | [Monstercat Instinct Vol\. 1](https://open.spotify.com/album/5Pk3QLxMsbaj3vwxffAG3X) | 3:59 | 2021-12-10 | 2022-01-29 |
 | [Electric Eye \- Single Edit](https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Electric Eye](https://open.spotify.com/album/0wOIF81jYqP2a77QPJVbf3) | 2:45 | 2022-07-15 | 2022-12-06 |
 | [Electric Life](https://open.spotify.com/track/6a71f53jA3MQY1TomocVYD) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [ANALOG](https://open.spotify.com/album/4Z1gPMu3kxL1P8rMGHc5ZX) | 3:06 | 2022-12-12 | 2023-03-22 |
+| [Embers](https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Raven Gray](https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr) | [Embers](https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn) | 3:09 | 2023-06-23 |  |
 | [Emotion Sickness](https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:22 | 2022-06-24 |  |
 | [Emotion Sickness](https://open.spotify.com/track/0KOVdfvvDujqNvK7h43PZ1) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Emotion Sickness](https://open.spotify.com/album/7wxZ1xnjbPodzxj3uOxwAe) | 3:22 | 2022-02-18 | 2022-08-03 |
 | [Enemy Brain](https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Enemy Brain Entertainment Suite](https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b) | 4:11 | 2023-02-17 |  |
@@ -114,7 +115,7 @@
 | [Feel Something \(With I Prevail\)](https://open.spotify.com/track/5dAtKXyrQoQW054LZqJ5dP) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Feel Something \(With I Prevail\)](https://open.spotify.com/album/0oNatPfTF5GM7KnSQ2hRPG) | 3:41 | 2021-12-10 | 2023-03-04 |
 | [Fighter](https://open.spotify.com/track/0wuGHHsJVLVkULt8hUgTFa) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Fighter](https://open.spotify.com/album/0xq3KVLWzl2BYEVjYfqwbr) | 2:25 | 2021-12-10 | 2022-06-24 |
 | [Fighting Gravity \- The Forgotten Remix](https://open.spotify.com/track/3ZAfrkXwfVm2FhgBr4rRQ3) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t) | [Fighting Gravity](https://open.spotify.com/album/6US71PNDQXGAqL4tynBCuX) | 3:03 | 2022-09-09 | 2022-12-28 |
-| [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 | 2022-01-07 |  |
+| [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 | 2022-01-07 | 2023-06-24 |
 | [find u.](https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [find u.](https://open.spotify.com/album/7oyVNWpF6kzHgmDrkoWZK8) | 3:21 | 2022-01-07 | 2022-06-25 |
 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 | 2021-12-10 | 2022-02-26 |
 | [First Time \(feat\. iann dior\) \- Kayzo Remix](https://open.spotify.com/track/1itZR2BxnrhSPFM0sYzvR7) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time \(feat\. iann dior\) \[Kayzo Remix\]](https://open.spotify.com/album/3a4xSxCoIcBhFPCTRtgGSo) | 2:46 | 2021-12-10 | 2022-07-29 |

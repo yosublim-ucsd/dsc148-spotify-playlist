@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Juliet; thiết kế: Isu Kim
 
-1,043 songs - 2 day 13 hr 19 min
+1,044 songs - 2 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Ngây Ngô Tình Yêu Đầu Đời](https://open.spotify.com/track/56J6ygHtKGfeeUdYlExjpO) | [DAY](https://open.spotify.com/artist/114BKkVUhX67beIiVYHPZm), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Ngây Ngô Tình Yêu Đầu Đời](https://open.spotify.com/album/2aoS50dVrBzYcfnSrYkG1L) | 4:31 | 2022-07-20 | 2022-08-14 |
 | [Ngã Người Ra Sau](https://open.spotify.com/track/4aZvbVKoj7ykuKaftyDEbQ) | [Tylr Without E](https://open.spotify.com/artist/0AchXzEWwA0gdl4NgDilRa) | [Ngã Người Ra Sau](https://open.spotify.com/album/12L2FzSIpuvs4gixx4So08) | 2:38 | 2023-01-24 | 2023-02-16 |
 | [Ngã Tư Đường](https://open.spotify.com/track/2CqE5jJKMUPLC0XdLilfE2) | [Jay Kem](https://open.spotify.com/artist/6IH78hLLFihKFpzYkqa3Bk), [Rick](https://open.spotify.com/artist/67ALlp3JvqTr0Ws7OrWIVH) | [Ngã Tư Đường](https://open.spotify.com/album/5zjqCFT6sLYSKP9siOXHMa) | 3:28 | 2022-05-11 | 2022-06-10 |
+| [Người chơi hệ Luỵ](https://open.spotify.com/track/036FHmoen4wOab5ar9v7X8) | [Pittu Quyên](https://open.spotify.com/artist/7v0H5ceG2DByd6XBYSt9Hm) | [Người chơi hệ Luỵ](https://open.spotify.com/album/6wTqLVLWQ50iYgwWv0xWMh) | 3:12 | 2023-06-22 |  |
 | [Người Em Từng Yêu](https://open.spotify.com/track/3BvH8QUXGFdPeFkQnHZILp) | [Ngân Ngân](https://open.spotify.com/artist/2izEAv3IwzOiqLlPT0OZeF) | [Người Em Từng Yêu](https://open.spotify.com/album/0jw6fnDYYS4U3QaQW3QZ2X) | 3:52 | 2023-01-30 | 2023-03-25 |
 | [Người Mình Thương Thành Người Từng Thương](https://open.spotify.com/track/343Evi2l3pQ48UnpA9REPK) | [Thái Tuyết Trâm](https://open.spotify.com/artist/6VaHKM9MMuOzRaZovKL8Bk) | [Người Mình Thương Thành Người Từng Thương](https://open.spotify.com/album/5mXUg02AvvrelVgQEOqFeT) | 4:40 | 2022-01-14 | 2022-05-05 |
 | [Người Qua Đường](https://open.spotify.com/track/2IdpFFQWSIly1dEDlCM1ep) | [Đoàn Khánh Linh](https://open.spotify.com/artist/5Ccao0aC8Xkw93XHgdaupq) | [Người Qua Đường](https://open.spotify.com/album/4jC28aTyYbm4RPjNTn4v1n) | 4:51 | 2023-05-01 | 2023-05-20 |

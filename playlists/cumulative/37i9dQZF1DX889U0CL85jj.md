@@ -4,7 +4,7 @@
 
 > Just chill.
 
-525 songs - 1 day 6 hr 14 min
+526 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 | 2023-01-27 |  |
 | [How It Was](https://open.spotify.com/track/2chYHCTlDhpNfZIPzgZ9dS) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [How It Was](https://open.spotify.com/album/0CgN4X2knXtH8trDKPVd5W) | 3:09 | 2020-06-12 | 2022-07-29 |
 | [How It Was](https://open.spotify.com/track/45dU8v0zOoOztRfRHdjvNk) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [A Few Brief Moments](https://open.spotify.com/album/7l546OR4pOy6BebdJBtALd) | 3:09 | 2022-06-10 | 2022-09-28 |
-| [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-07 |  |
+| [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-07 | 2023-06-24 |
 | [Human Nature](https://open.spotify.com/track/6vtgPYtS3TuQko4T4NCsc1) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Human Nature](https://open.spotify.com/album/6FwTL3AtmfzvHwSkX0QLDE) | 4:19 | 2020-06-12 | 2022-07-16 |
 | [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 2:12 | 2022-06-10 | 2023-04-22 |
 | [I Can't Help](https://open.spotify.com/track/1sjXaEmqj5cRMns8rWYnKe) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Flash](https://open.spotify.com/album/5WXHkvPDK5F7MRd8ia0DOo) | 2:01 | 2022-06-10 | 2022-09-30 |
@@ -372,6 +372,7 @@
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-12 |  |
 | [Rollercoaster](https://open.spotify.com/track/5OhomqpJfFUOzzHCPGZgVQ) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Discovery](https://open.spotify.com/album/2RDHn2HkNUiMwAJh4jgAIU) | 2:41 | 2020-03-26 | 2022-01-22 |
 | [Rose Pink Cadillac \- LARRY PINK THE HUMAN Remix](https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [Rose Pink Cadillac \(LARRY PINK THE HUMAN Remix\)](https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP) | 4:10 | 2022-09-02 |  |
+| [Rudimentary Science](https://open.spotify.com/track/4MAKdWgUGdUBFxguTvNLD7) | [Crash Richard](https://open.spotify.com/artist/4CeM6k6L6z36r0xhteyfXF) | [Rudimentary Science](https://open.spotify.com/album/6zjnBOtwRlAYeamA1KLhYf) | 2:44 | 2023-06-24 |  |
 | [Run To The Moon](https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Run To The Moon](https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs) | 3:45 | 2023-04-28 |  |
 | [Running](https://open.spotify.com/track/5tdGQTaRKo0bgBFZjAqn2l) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Running](https://open.spotify.com/album/7FV8an2r9aQwCDIS0ItDEz) | 4:10 | 2022-11-11 | 2023-02-11 |
 | [Running](https://open.spotify.com/track/32ehY1sbKp8U3wGkV6SkOq) | [Varju](https://open.spotify.com/artist/5uCNbWBRebH8Si8AzJ5gIT) | [Running](https://open.spotify.com/album/39PTtOlBG3eP8mD50m1SUV) | 2:56 | 2023-05-22 |  |

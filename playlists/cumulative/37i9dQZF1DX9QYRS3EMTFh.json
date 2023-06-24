@@ -4189,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Reach My Heart",
+        "url": "https://open.spotify.com/album/47H8G4fC4jjRM6mvpPwoak"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Reach My Heart",
+      "url": "https://open.spotify.com/track/1Lcxs10UaWSyWsUNzExxNI"
+    },
+    {
+      "album": {
         "name": "Or(n\u00e9e)",
         "url": "https://open.spotify.com/album/66i0k01MnJRSOALLcsu99J"
       },

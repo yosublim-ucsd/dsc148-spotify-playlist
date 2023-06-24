@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 58674,
+  "num_followers": 58766,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGNkYmQzNWIwZjQ0ODVkZjk5MmJmZGYwZTFkMTEwZDUyZjVhN2Y4",
+  "snapshot_id": "MCw3YmMyY2ExYmNiNTQ0MTMxNzQ3NGQ0ODc4NjkyMzE0ZWM2MWYyOTJj",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "La Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg"
+        "name": "Grandes \u00c9xitos 2010s",
+        "url": "https://open.spotify.com/album/3TDsEMQcWHFEtk8zG9BefQ"
       },
       "artists": [
         {
-          "name": "Maria Dolores Pradera",
-          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
-        },
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+          "name": "Pastora Soler",
+          "url": "https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM"
         }
       ],
-      "duration_ms": 226506,
-      "name": "Lagrimas Negras (with Diego \"El Cigala\")",
-      "url": "https://open.spotify.com/track/6jBq3phksLooRylCPSxzGb"
+      "duration_ms": 184013,
+      "name": "Qu\u00e9date conmigo (Eurovisi\u00f3n)",
+      "url": "https://open.spotify.com/track/5w4aMsqHAoxgx3M1mXA1TS"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1115,18 +1111,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos 2010s",
-        "url": "https://open.spotify.com/album/3TDsEMQcWHFEtk8zG9BefQ"
+        "name": "La Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg"
       },
       "artists": [
         {
-          "name": "Pastora Soler",
-          "url": "https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM"
+          "name": "Maria Dolores Pradera",
+          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
         }
       ],
-      "duration_ms": 184013,
-      "name": "Qu\u00e9date conmigo (Eurovisi\u00f3n)",
-      "url": "https://open.spotify.com/track/5w4aMsqHAoxgx3M1mXA1TS"
+      "duration_ms": 226506,
+      "name": "Lagrimas Negras (with Diego \"El Cigala\")",
+      "url": "https://open.spotify.com/track/6jBq3phksLooRylCPSxzGb"
     },
     {
       "added_at": "2022-11-03 23:00:00",

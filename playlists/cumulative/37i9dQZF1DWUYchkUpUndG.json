@@ -2793,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/3TA1TYQsD60BuCPTX9e4Cg"
+      },
+      "artists": [
+        {
+          "name": "RapNotic",
+          "url": "https://open.spotify.com/artist/3xe4vjkxwUIJZSo9RialY4"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Portrait",
+      "url": "https://open.spotify.com/track/38aaA1lbMTzngn85dhJevO"
+    },
+    {
+      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },

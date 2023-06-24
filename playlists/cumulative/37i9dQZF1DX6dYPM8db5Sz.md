@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB?si=T5gwpdDoS6CXedMMets1sQ">Nasrene</a>
 
-369 songs - 21 hr 32 min
+371 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Outside](https://open.spotify.com/track/4vnWq7kLc1RSUNJzcNDyE1) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Outside](https://open.spotify.com/album/773Dc2aCKe3fhZ4QrOxqwA) | 4:16 | 2022-12-15 | 2023-02-24 |
 | [Over It](https://open.spotify.com/track/6xhxc0Z25bPsFX6TReNtOc) | [Kloudink](https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P) | [Over It](https://open.spotify.com/album/253aXlpWUfWcsBYHCIfEuS) | 4:17 | 2023-04-14 | 2023-06-23 |
 | [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 | 2022-10-06 | 2022-11-18 |
+| [Parasite](https://open.spotify.com/track/4q7Ta95N485EjD1fPXOkZ7) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Parasite](https://open.spotify.com/album/5hn6dLSrvICNwLyHrLY2gw) | 2:26 | 2023-06-22 |  |
 | [Picasso's Concept](https://open.spotify.com/track/6Ufmq069l9bhk6TGg5Uw6G) | [MELLE](https://open.spotify.com/artist/4Xsikt3RZsWMRwsRa2DnVD) | [Picasso's Concept](https://open.spotify.com/album/6umdXya30JzYnahewihJb6) | 4:04 | 2023-04-14 | 2023-06-23 |
 | [pink & blue](https://open.spotify.com/track/0fVfYsnBOunr5mX1mViBQt) | [gerald kent](https://open.spotify.com/artist/4deC9GQfMqj9MpuG0jA2un) | [façade](https://open.spotify.com/album/79vl4afRpt6VNGoHRFaUfP) | 3:14 | 2023-01-26 | 2023-03-18 |
 | [PITY PARTY](https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [PITY PARTY](https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8) | 2:27 | 2022-09-22 | 2022-10-07 |
@@ -343,7 +344,8 @@
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2023-01-12 | 2023-01-28 |
 | [Twenty Something](https://open.spotify.com/track/1jMqL6sQYKVaJ1DfXECkmY) | [The Incidentals](https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS) | [Twenty Something](https://open.spotify.com/album/4Me8Wnt5UDDvoPZVCRixNN) | 4:13 | 2022-08-18 | 2022-10-21 |
 | [ukuthanda wena](https://open.spotify.com/track/6z4w4hAbwUm5nGz03AuiVd) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [ukuthanda wena](https://open.spotify.com/album/34EfitSWSsf04PbFF4qE39) | 4:07 | 2023-03-02 | 2023-05-06 |
-| [Unknown / Nth](https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/1VNpBzbjtkEhAwa3vGelHP) | 4:40 | 2023-06-22 |  |
+| [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 | 2023-06-22 |  |
+| [Unknown / Nth](https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/1VNpBzbjtkEhAwa3vGelHP) | 4:40 | 2023-06-22 | 2023-06-24 |
 | [Vertical Desire](https://open.spotify.com/track/004EPXxI0M2iIyzYpmOsHd) | [Valeska Muller](https://open.spotify.com/artist/59GvGMxO2jrof8XlegqK7m) | [Vertical Desire](https://open.spotify.com/album/4sI3ArQA04AgCOHi7FFcOq) | 2:54 | 2023-05-25 |  |
 | [vibe again](https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [vibe again](https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x) | 3:24 | 2023-05-18 |  |
 | [Vonkel](https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2) | [Mymymy](https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf) | [Vonkel](https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX) | 4:06 | 2022-12-08 | 2023-01-13 |

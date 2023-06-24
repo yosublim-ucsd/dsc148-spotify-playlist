@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring wilo wilde
 
-638 songs - 1 day 12 hr 23 min
+639 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [is that love holding strong](https://open.spotify.com/track/1HECJhuE1ddmF6jdtxeV2n) | [hhunter](https://open.spotify.com/artist/5KH7MeHHmovSJL3Muoeqiw) | [is that love holding strong / sweaty \(in da club\)](https://open.spotify.com/album/5GzulgNQkYDtXx0IIxri8Q) | 3:39 | 2023-03-17 |  |
 | [It's All Gone \- R U Init? Remix](https://open.spotify.com/track/3Vwe6D2wpu3KNciSMZnypy) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [R U Init](https://open.spotify.com/artist/1gXNjHPJXM6LCgzxBDen5e) | [It's All Gone \(R U Init? Remix\)](https://open.spotify.com/album/1YgW3TgqMdncztUYAH3QQJ) | 4:27 | 2021-12-17 | 2022-04-15 |
 | [It's Alright](https://open.spotify.com/track/4Bmk7CoGZWB4baz6Zqo3fK) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [It's Alright](https://open.spotify.com/album/1Agh9HDns2chodEFH14mh8) | 4:05 | 2022-04-22 | 2023-06-23 |
+| [it's not about u](https://open.spotify.com/track/7mvVMUBy9bZI13N7dipRlx) | [Eva Grace](https://open.spotify.com/artist/67sX3xnatlElE31KHjSWVr) | [it's not about u](https://open.spotify.com/album/27eBFT50n6XdoOhNE7dpU4) | 2:09 | 2023-06-22 |  |
 | [It’s Not You, It’s Me \- Club Mix](https://open.spotify.com/track/2CKrEKGMFoPzagBkhocFKW) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [It's Not You, It's Me \(Club Mix\)](https://open.spotify.com/album/3JddpvK7VnFUVwj1MnvCWF) | 3:44 | 2021-07-30 | 2022-03-05 |
 | [Jaws](https://open.spotify.com/track/17TCTYGxieVPS1TBTUdQkc) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Jaws](https://open.spotify.com/album/0rdaz3LaQsaibiVA6iGtkn) | 3:20 | 2022-09-30 | 2023-05-26 |
 | [Jennifer](https://open.spotify.com/track/3YlUuMG4Guve8SxlxYqJ2W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Jennifer](https://open.spotify.com/album/4IluqHZGQUxXellf1ycOYt) | 2:34 | 2021-07-23 | 2022-02-05 |
@@ -629,7 +630,7 @@
 | [Wishing You Well](https://open.spotify.com/track/3AMuesulUPLaZQWYS8AC2C) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wishing You Well](https://open.spotify.com/album/55ntFfC45EacYBLio8pIn0) | 3:00 | 2022-01-07 | 2022-03-12 |
 | [WITHOUT WAVES / 消える](https://open.spotify.com/track/3hEnEWE3B02pEz8kr3wIup) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Golin](https://open.spotify.com/artist/02c7cpyK3byoTQcHtxHWHS) | [WITHOUT WAVES / 消える](https://open.spotify.com/album/0AUcETUa8kMZjKThGaDsog) | 2:48 | 2022-04-15 | 2022-04-29 |
 | [Without You](https://open.spotify.com/track/6zvutAcF7S2uJyNWVYeyk8) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Without You](https://open.spotify.com/album/5HzikeJkDjre6mvkabWM1g) | 3:17 | 2023-01-20 | 2023-03-04 |
-| [Without You \- DJ poolboi Remix](https://open.spotify.com/track/2M4vjrQxQUhHx0Lee6gYGj) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [Without You \(DJ poolboi Remix\)](https://open.spotify.com/album/0gQtgroyBbzGSzu3x1vcZT) | 3:06 | 2023-06-07 |  |
+| [Without You \- dj poolboi remix](https://open.spotify.com/track/2M4vjrQxQUhHx0Lee6gYGj) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [Without You \(dj poolboi remix\)](https://open.spotify.com/album/0gQtgroyBbzGSzu3x1vcZT) | 3:06 | 2023-06-07 |  |
 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 | 2022-08-05 | 2022-11-12 |
 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 | 2022-04-22 | 2022-09-03 |
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2021-10-01 | 2022-04-16 |

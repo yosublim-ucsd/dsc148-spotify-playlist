@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: IDK
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,164 likes - 52 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,176 likes - 52 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 2 | [Salty \(feat\. NLE Choppa\)](https://open.spotify.com/track/31KvrVQ0pwEhlksDrqFUXH) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Salty \(feat\. NLE Choppa\)](https://open.spotify.com/album/5sk6uA82quf0esflFxvf60) | 1:45 |
 | 3 | [LIGHTS PLEASE \(feat\. Pusha T & CHASE B\)](https://open.spotify.com/track/7zBgZ7dhwTHx0WvttNExT2) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [LIGHTS PLEASE \(feat\. Pusha T & CHASE B\)](https://open.spotify.com/album/7hnP8oZmQWbbxUIMPp0MBq) | 2:51 |
 | 4 | [Chemical Warfare](https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [The Postlude](https://open.spotify.com/album/4QX19K0eMkfCtrxRcbFpU0) | 2:06 |
-| 5 | [JAGGED EDGE](https://open.spotify.com/track/7vPwL4WkrqMCC3XbummsMo) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [SHITUMSS](https://open.spotify.com/album/2ZGsgclVau99YKe4WdtR67) | 2:15 |
+| 5 | [Lights Off](https://open.spotify.com/track/62VtvQAt7ImynnZCQN0tOs) | [JG Riff](https://open.spotify.com/artist/50K3YxeJMeQ0W8aMswmpHE), [Joony](https://open.spotify.com/artist/0uf7smRWQ6o1brBuCbayKe) | [Riff](https://open.spotify.com/album/3bwGHF0tNbrJCulUGi86Ii) | 2:38 |
 | 6 | [Call](https://open.spotify.com/track/743RarKaAOMYFjGkZ44Mct) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:56 |
 | 7 | [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 |
 | 8 | [Lap Dog](https://open.spotify.com/track/4G9Wm2K0ouXMaOKvwmwEu7) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Lap Dog](https://open.spotify.com/album/6PnPivCtFsebDf8cnh73WM) | 3:09 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 51 | [So Be It](https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:09 |
 | 52 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 
-Snapshot ID: `MCw5OGVjMDBhZWJmZmQ3YTVlMTBmNWFlZjVjY2JhYjZiNDk5Yzk3Yzcw`
+Snapshot ID: `MCw2NDE4Y2I4NWVkNmI0NjdjMWQ4ZjE4MjYzOGI4NDFlOTRiMmFlZGZh`

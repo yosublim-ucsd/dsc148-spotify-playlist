@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Angel White\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,661 likes - 135 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,669 likes - 135 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 134 | [Shining](https://open.spotify.com/track/7lzQIMpOQtYmKwDS7hT7jo) | [Sinjin Jaguar](https://open.spotify.com/artist/3kxIrFOm5ppe9IhFw8y3pq) | [Shining](https://open.spotify.com/album/2OJfJTxU3RbRjrAaEwGsGS) | 3:10 |
 | 135 | [What I Mean](https://open.spotify.com/track/4d8mcBvjLz42u6STajUAWa) | [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [What I Mean](https://open.spotify.com/album/3LlJOvmblKinCavJwP6RWY) | 4:40 |
 
-Snapshot ID: `MCxhMzJmNTViYzAwYzg3NDE2ZDcxNGJiM2U3YTI1Y2QyYWNmMWU4MzM0`
+Snapshot ID: `MCw4OTIxNTMxMWJmMTFkNDE2NWYzNWYxOWIxMDRlODAxYTJmZmYyYzNl`

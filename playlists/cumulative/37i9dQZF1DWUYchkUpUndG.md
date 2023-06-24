@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=F5cGlo7CQ6ycJg\-zCr9\-Lg">Onos</a>
 
-185 songs - 15 hr 15 min
+186 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [OPEN UP YOUR BIBLE](https://open.spotify.com/track/3gWma2IFJpjBc2oqpImOIO) | [H4ZE](https://open.spotify.com/artist/7KTj22FQCwGE0ZtVhRmRsK) | [OPEN UP YOUR BIBLE](https://open.spotify.com/album/1F0lo78MSrihv4M48GBfWY) | 2:22 | 2023-05-26 | 2023-06-09 |
 | [Otuekong](https://open.spotify.com/track/4lzQbfxgryATPaKUKxK7c5) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW) | [Otuekong](https://open.spotify.com/album/5WC7MQ7twruvfZeLn0EoHg) | 5:42 | 2023-06-23 |  |
 | [Over Do](https://open.spotify.com/track/0fzFmrC0PyypWGBpLplUgC) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS) | [Over Do](https://open.spotify.com/album/4SMc8MSi1ZxN8uto4g8lXC) | 3:09 | 2023-05-26 | 2023-06-09 |
+| [Portrait](https://open.spotify.com/track/38aaA1lbMTzngn85dhJevO) | [RapNotic](https://open.spotify.com/artist/3xe4vjkxwUIJZSo9RialY4) | [Portrait](https://open.spotify.com/album/3TA1TYQsD60BuCPTX9e4Cg) | 3:01 | 2023-06-23 |  |
 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 | 2023-06-09 |  |
 | [Preternatural](https://open.spotify.com/track/476H6f3OLPNIj4poNBzdDk) | [Obed Flames](https://open.spotify.com/artist/3zcRPJjUIXHBPa2QEUgEtr), [MOF](https://open.spotify.com/artist/0WAabvKqQjPexI9UlQZ8sk) | [Preternatural](https://open.spotify.com/album/12q44NPwGwislzlHQyBjOv) | 3:44 | 2023-06-16 |  |
 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 | 2023-06-09 | 2023-06-23 |

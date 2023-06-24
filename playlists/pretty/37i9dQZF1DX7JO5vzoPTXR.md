@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:63yrD80RY3RNEM2YDpUpO8">Melanie Martinez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,127 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,148 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 4 | [Holy Smoke](https://open.spotify.com/track/4Ifdha3iJEN5jxssnPu8yb) | [Nicki Wells](https://open.spotify.com/artist/0z6TVKyjgXLDIY0FSIIDUv) | [Holy Smoke](https://open.spotify.com/album/1BYqJA4GhN9ooObuX9mJwQ) | 5:16 |
 | 5 | [Breathe](https://open.spotify.com/track/5IcYNaZuJdwX6edlQkNCI6) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Breathe](https://open.spotify.com/album/0LMqMuEwlwH98g8KXaJUZG) | 3:07 |
 | 6 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 |
-| 7 | [Cute](https://open.spotify.com/track/2f2OQavOesTjuHypoXO5iz) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Cute](https://open.spotify.com/album/36b2oX1CU6uNI1UkzdgbYs) | 2:30 |
+| 7 | [Cute](https://open.spotify.com/track/5HJMk6YC3G3nNkTxak0MRd) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Dear Diary \(Deluxe\)](https://open.spotify.com/album/5X2ftGdNX9p4ih4N9rKbEu) | 2:30 |
 | 8 | [Bad Blood](https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Bad Blood](https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz) | 2:45 |
 | 9 | [The Last Song](https://open.spotify.com/track/7KsgocRFvvODH3K0ZHLHL4) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [The Last Songs I'll Write About You](https://open.spotify.com/album/1koaS0Hs1AGtDrGprHOqCf) | 4:09 |
 | 10 | [Tired Of Us](https://open.spotify.com/track/278EbuNA3ALAdS3PhQfn71) | [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Tired Of Us](https://open.spotify.com/album/1AhqgRVajnIituouxM5wCe) | 1:50 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [House of Dal](https://open.spotify.com/track/4psFTXt6MSnrYTAiOYiwGg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:26 |
 | 40 | [by now \(stripped\)](https://open.spotify.com/track/6LKV2gxEJe3au9CHJ8RNGB) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [by now \(stripped\)](https://open.spotify.com/album/3BftCzF7UsLbiSybzliInD) | 2:56 |
 
-Snapshot ID: `MCw3OTRlYTUzNDZmNjQ1YmQ4YjAwNWFmNmIyZmI0ZTBmN2JlNWUzMjUz`
+Snapshot ID: `MCw2MDYwNmUxMGRiZjI2ZDExZDQ4MjJiZjg5OGEwNTY0MDFjYmRiNWQ0`

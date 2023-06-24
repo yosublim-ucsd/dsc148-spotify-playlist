@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-150 songs - 8 hr 2 min
+152 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Don't Stop The Music](https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 3:04 | 2021-12-24 |  |
 | [Don't Stop The Music](https://open.spotify.com/track/5POcQCBI2uqf3a2179ch57) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Pitch Perfect Soundtrack](https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2) | 3:05 | 2021-12-24 | 2022-07-29 |
 | [Erase Me](https://open.spotify.com/track/5ACHI9SsKvZXiBY3sUqGKd) | [Distilled Harmony](https://open.spotify.com/artist/2oYLwmWHaHrK4suIVZh8SU) | [Mirage](https://open.spotify.com/album/2JiSCBhXuT7wpFHAVqkqyt) | 3:17 | 2023-06-02 |  |
+| [Escape \(The Piña Colada Song\)](https://open.spotify.com/track/5Q9y6VbwQ5PvvnfAJJ8R1K) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Escape \(The Piña Colada Song\)](https://open.spotify.com/album/4BRCQ0PIitcwgK72XEnQnu) | 3:44 | 2023-06-23 |  |
 | [F\*\*k You](https://open.spotify.com/track/7A2JJ6L13W5WTdi2NCyn6R) | [The Sockapellas](https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 1:12 | 2021-12-24 | 2022-11-13 |
 | [F\*\*k You](https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH) | [The Sockapellas](https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:12 | 2021-12-24 |  |
 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 | 2021-12-24 | 2023-05-04 |
@@ -68,6 +69,7 @@
 | [Happy Now](https://open.spotify.com/track/4LDuSfbXupGKg6RpkgTAij) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Happy Now](https://open.spotify.com/album/5JmZwvs3mfGduPjumjiFvB) | 3:26 | 2021-12-24 | 2023-06-03 |
 | [Heart to Heart](https://open.spotify.com/track/3PuyxXYV56lFfak4aHgKKQ) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Heart to Heart](https://open.spotify.com/album/610eR17cWXL3ACEeRSD7bK) | 4:00 | 2023-03-10 | 2023-06-03 |
 | [Hey, Soul Sister](https://open.spotify.com/track/1elnKQDjuN3au2uTjye8nK) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [The Sing\-Off: Season 2 \- Episode 2 \- Big Hits](https://open.spotify.com/album/56qpqJyayutGaYKUOJoNHB) | 1:50 | 2021-12-24 |  |
+| [Higher Love](https://open.spotify.com/track/64UPsFzqtbrjB1BqRyXPkj) | [Hyannis Sound](https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p) | [Higher Love](https://open.spotify.com/album/0HJ66d00qIbzGfSdYzm7aF) | 4:58 | 2023-06-23 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/5bSagD6vNMzqacmO0xFNx4) | [Oxford Out Of The Blue](https://open.spotify.com/artist/4qleUPvfVlB1Sg0ONKbhPB) | [In Our Element](https://open.spotify.com/album/6ZFCEw0KxX2XiOkIUTBW4k) | 4:33 | 2023-03-10 |  |
 | [How Far I'll Go](https://open.spotify.com/track/5TRugjx4cKvypzIe4QRk1c) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [DCappella](https://open.spotify.com/album/5cCVD8FsgUWJso4Do9A38K) | 2:42 | 2021-12-24 |  |
 | [I Hear a Symphony](https://open.spotify.com/track/1C6y03sNhrxb9AuQxrbFFx) | [Toccatatones](https://open.spotify.com/artist/42eRgngp8gPI2awgmGGdtv) | [Beam in the Night](https://open.spotify.com/album/02R0qzNaLVnaeZDVWCjfLo) | 3:27 | 2023-05-03 |  |
@@ -78,7 +80,7 @@
 | [I'll Make a Man Out of You](https://open.spotify.com/track/1jlSXth3CCNaXeioY1tRM4) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [I'll Make a Man Out of You](https://open.spotify.com/album/7IgXsMHASdQNVafRfOJude) | 3:08 | 2021-12-24 | 2023-05-04 |
 | [I'm Yours / Over The Rainbow / One Love \(People Get Ready\) / Three Little Birds \- Live](https://open.spotify.com/track/0k9x2297BLH1KQVtK9i8Sf) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The 25th Anniversary Celebration \(Live\)](https://open.spotify.com/album/4gwjU8SKnXr4ygkm17kSwI) | 3:30 | 2023-03-08 |  |
 | [I'm Yours / Somewhere over the Rainbow \- EP Version](https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack](https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj) | 3:34 | 2021-12-24 |  |
-| [If I Die Young \(Glee Cast Version\)](https://open.spotify.com/track/1REX2q4Fverp8zH7KuSeZC) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [The Quarterback](https://open.spotify.com/album/5K2lqUwpSHseCoCfBcvlcV) | 3:41 | 2021-12-24 |  |
+| [If I Die Young \(Glee Cast Version\)](https://open.spotify.com/track/1REX2q4Fverp8zH7KuSeZC) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [The Quarterback](https://open.spotify.com/album/5K2lqUwpSHseCoCfBcvlcV) | 3:41 | 2021-12-24 | 2023-06-24 |
 | [If I Were a Boy](https://open.spotify.com/track/6nbjZ2Jl8yjSZ964YDeRLy) | [The Backbeats](https://open.spotify.com/artist/1TWhzhx3y8ifsErYrlcERr) | [The Sing\-Off: Season 2 \- Episode 1 \- Signature Songs](https://open.spotify.com/album/6KeN5XF72ovrGKrKYNyAq4) | 1:49 | 2021-12-24 |  |
 | [Jealous](https://open.spotify.com/track/7lawnWP2oHSP7vC3Io4unA) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Jealous](https://open.spotify.com/album/7oCU6KkQCOyVoOc3aR3TXe) | 5:29 | 2023-05-03 |  |
 | [Karma](https://open.spotify.com/track/7l7g31cmNrt1XSnB7x5jWb) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Thrill of the Chase](https://open.spotify.com/album/0sgpLKLyqxMrhUIB13wNtO) | 3:03 | 2023-01-13 |  |
@@ -106,7 +108,7 @@
 | [Party In The U.S.A.](https://open.spotify.com/track/1est72o2prNA80flC5ncoN) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect Soundtrack](https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2) | 1:03 | 2021-12-24 | 2022-07-29 |
 | [Problem](https://open.spotify.com/track/3H3uzC93i5XXChUev0wHI8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Problem](https://open.spotify.com/album/11tXKKKp6WelxkqSpNUQLW) | 2:30 | 2021-12-24 | 2022-07-03 |
 | [Problem \(Ariana Grande Cover\)](https://open.spotify.com/track/5wHUvSe3ALlFfp8VsWmvIA) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) | 2:28 | 2021-12-24 |  |
-| [Pumped Up Kicks](https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Morning Warriors](https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs) | 3:53 | 2021-12-24 |  |
+| [Pumped Up Kicks](https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Morning Warriors](https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs) | 3:53 | 2021-12-24 | 2023-06-24 |
 | [Radioactive](https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [PTX](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) | 3:46 | 2021-12-24 | 2023-05-04 |
 | [Radioactive](https://open.spotify.com/track/6vGVf8K3ri7VfkCj6PtZRy) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Radioactive](https://open.spotify.com/album/67vgL4RvpcGY0nooDOK6zW) | 3:48 | 2021-12-24 | 2022-07-25 |
 | [Radioactive](https://open.spotify.com/track/6BD0x5rIhqscFOg4u3Y2I9) | [The Michigan G\-Men](https://open.spotify.com/artist/0p4IV6lgprujWIzDZ7mkW7) | [The GP](https://open.spotify.com/album/7EyFTJ9y1YcXA5S3WFwWeO) | 3:04 | 2022-12-09 |  |

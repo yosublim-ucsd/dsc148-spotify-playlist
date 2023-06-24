@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: King the Land\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 킹더랜드\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,134 likes - 111 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,316 likes - 111 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 19 | [Angel Wings](https://open.spotify.com/track/058dHJKd8AoHDyohFmX5Y2) | [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [Oh! Youngsim Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3JhHfGvSnOfWxYSEop0jrp) | 3:21 |
 | 20 | [To You](https://open.spotify.com/track/2V0Rr5qfC2Tx3bv5mEi5I0) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/4jAKv0TrDi4ki5cJbMVsIN) | 3:12 |
 | 21 | [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 |
-| 22 | [i can’t wait too long](https://open.spotify.com/track/4Uk6TLwgOaFrNLDD2dacJ8) | [HAMIN\(BXB\)](https://open.spotify.com/artist/00eWh6l16At6mJJmVCxCzV), [HYUNWOO\(BXB\)](https://open.spotify.com/artist/5udPWCzjoVBRkSvS1BVRsQ), [XIWOO\(BXB\)](https://open.spotify.com/artist/3lnmSpd1NHM56xKRFEAC3Q) | [Love Mate OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/1SkOPkJpNQaRWeAKFfsd1l) | 3:34 |
+| 22 | [i can’t wait too long](https://open.spotify.com/track/4Uk6TLwgOaFrNLDD2dacJ8) | [HAMIN\(BXB\)](https://open.spotify.com/artist/00eWh6l16At6mJJmVCxCzV), [HYUNWOO\(BXB\)](https://open.spotify.com/artist/5udPWCzjoVBRkSvS1BVRsQ), [SIWOO\(BXB\)](https://open.spotify.com/artist/3Q1C7X0Pi8cvM9cilyu0Tf) | [Love Mate OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/1SkOPkJpNQaRWeAKFfsd1l) | 3:34 |
 | 23 | [Wind Song](https://open.spotify.com/track/1SHozMlsPJKL6XJM5Uami7) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Tale of the Nine Tailed 1938, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3ftcuflXLP4SaSoUb1GwM5) | 4:11 |
 | 24 | [A Tale of Hoteliers \(Original Television Soundtrack\) Pt.4 \- Stay with me](https://open.spotify.com/track/0OTMfsNFRxA27AfyUre2wZ) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [A Tale of Hoteliers \(Original Television Soundtrack\) Pt.4 \- Stay with me](https://open.spotify.com/album/4skqO4SJpz0UckQ1AOqgXx) | 3:55 |
 | 25 | [Love is Here](https://open.spotify.com/track/57UqGZaCQFFLUbUZD0ejwx) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Romance by Romance \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/1BsfDfeRXtpZiKwtamHtvy) | 3:33 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 110 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
 | 111 | [Cut Off Love](https://open.spotify.com/track/4lglCj1GMpK8qQvyT5se1w) | [Kim Dong Hyun](https://open.spotify.com/artist/6Qbssl8FMIgmc7CLglJ9EE) | [Red Balloon OST Part.5](https://open.spotify.com/album/2BMfj8pXtoZl17MRjSAeXG) | 3:12 |
 
-Snapshot ID: `MCwyMmNjZWY1Mzg1NDU4ZjlkMzg0MzA3MjdjMjU5ZTQ2MWIxYmQ0NjRm`
+Snapshot ID: `MCw1YjBmMzgwZDdlZjI1ZjM2MmJlN2Q2NzEzYTZlMjA5MWVkNTk5ZTA4`

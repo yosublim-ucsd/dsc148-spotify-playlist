@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Malito Malozo & King Savagge.",
+  "description": "Este Flow tiene otro Flow. Foto: Standly.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "BOLSILLOS LLENOS",
+        "url": "https://open.spotify.com/album/1mYlEOkktDh2b5OFPJUKho"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173183,
+      "name": "BOLSILLOS LLENOS",
+      "url": "https://open.spotify.com/track/5ck6Qiv31gccN2i8ZjiBPY"
+    },
+    {
+      "album": {
         "name": "Bon Appetit",
         "url": "https://open.spotify.com/album/2mQ4nDpCf6yBkq7ujjZ2Re"
       },
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 171428,
       "name": "Dime",
       "url": "https://open.spotify.com/track/2J9H3nKH2LFfR38WdX6Zue"
@@ -2006,6 +2024,28 @@
       "duration_ms": 278948,
       "name": "D\u00e9jate Llevar",
       "url": "https://open.spotify.com/track/3kvManjVdxgUUnNE2fAhGU"
+    },
+    {
+      "album": {
+        "name": "EL AMOR DE TU VIDA",
+        "url": "https://open.spotify.com/album/4xar1X3zTK8oN2eq5yfQKE"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177245,
+      "name": "EL AMOR DE TU VIDA",
+      "url": "https://open.spotify.com/track/3MBzcfMRsUvA97JDiB7zN0"
     },
     {
       "album": {
@@ -2366,7 +2406,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 165500,
       "name": "Esper\u00e1ndote",
       "url": "https://open.spotify.com/track/4jPODA8fUJCYAMCD380ETZ"
@@ -2958,6 +2998,24 @@
       "duration_ms": 229728,
       "name": "Ganas de Verte",
       "url": "https://open.spotify.com/track/0nE78Bc5Azu5kWum01TmKR"
+    },
+    {
+      "album": {
+        "name": "Gata Fina",
+        "url": "https://open.spotify.com/album/0R0dq32OTL4WOAeJPV4wjZ"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149240,
+      "name": "Gata Fina",
+      "url": "https://open.spotify.com/track/0mg7np5j5drK63ViaNw5f3"
     },
     {
       "album": {
@@ -4177,6 +4235,28 @@
     },
     {
       "album": {
+        "name": "Los Mala Fama",
+        "url": "https://open.spotify.com/album/3OgzrfFl8XjHkdQv1zL9Il"
+      },
+      "artists": [
+        {
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236086,
+      "name": "Los Mala Fama",
+      "url": "https://open.spotify.com/track/1MHWMMySqZl4qLPEV1e7XN"
+    },
+    {
+      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7"
       },
@@ -4682,7 +4762,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 221136,
       "name": "Me Siento Solo",
       "url": "https://open.spotify.com/track/2kdkKfWMiwZ2U2ypUusrXj"
@@ -4824,7 +4904,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 183986,
       "name": "Mi Facha",
       "url": "https://open.spotify.com/track/62gh30MVB1SeMdwcLc0JSy"
@@ -5064,6 +5144,68 @@
       "duration_ms": 197663,
       "name": "Mini Mini",
       "url": "https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3"
+    },
+    {
+      "album": {
+        "name": "Mini Mini (feat. Jairo Vera, Sayian Jimmy, Balbi El Chamako, Son Gotten, El BAI, Galee Galee, Nysix Music, El Goldo De Las Conec) [Remix]",
+        "url": "https://open.spotify.com/album/0lRSTjW7hkZAyhCNI1551P"
+      },
+      "artists": [
+        {
+          "name": "Punto40",
+          "url": "https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Son Gotten",
+          "url": "https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox"
+        },
+        {
+          "name": "El Bai",
+          "url": "https://open.spotify.com/artist/1E1fdogqJM1vTf6Snq0Nob"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "El Goldo De Las Conec",
+          "url": "https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr"
+        },
+        {
+          "name": "Prod Pardo",
+          "url": "https://open.spotify.com/artist/2FsoNNlvczxMQp3MpZ8K7F"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426122,
+      "name": "Mini Mini (feat. Jairo Vera, Sayian Jimmy, Balbi El Chamako, Son Gotten, El BAI, Galee Galee, Nysix Music, El Goldo De Las Conec) - Remix",
+      "url": "https://open.spotify.com/track/5cwOXOjxIFWphBLtNtVh6S"
     },
     {
       "album": {
@@ -7016,7 +7158,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 206037,
       "name": "Que linda te ves",
       "url": "https://open.spotify.com/track/78tQ4lNLFaF0Zky1mm8aqO"
@@ -7142,7 +7284,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 411826,
       "name": "Quiere Lo Mismo Que Yo - Remix",
       "url": "https://open.spotify.com/track/7kP9Sq1iSaMc8o7FcWOVZo"
@@ -7946,6 +8088,24 @@
       "duration_ms": 237355,
       "name": "Solos",
       "url": "https://open.spotify.com/track/1AF9s7uWrrBtS7n7zX50er"
+    },
+    {
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/6jpyaryWeZBONfRK2ROv6l"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227129,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/4M2zTsuNHFkxg4CNafKclc"
     },
     {
       "album": {

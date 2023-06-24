@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: allen&elle Artwork: Isu Kim
 
-1,356 songs - 3 day 8 hr 53 min
+1,357 songs - 3 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1067,6 +1067,7 @@
 | [say goodbye](https://open.spotify.com/track/0c9b0Cqvy3lvrgqC0138xf) | [Julia Gutz](https://open.spotify.com/artist/3eXenhS9a6brWVTCUxNBig) | [say goodbye](https://open.spotify.com/album/0fqTr1SingmPuNMJ5Fp6H8) | 3:01 | 2022-07-28 | 2022-09-09 |
 | [SAYAW](https://open.spotify.com/track/6Bj2hZtlVV3Q2X0HgZJw0k) | [Mazeboiii](https://open.spotify.com/artist/3DFM7ya81iULbYzrxvXzo2), [Jeo$ Giftmerc](https://open.spotify.com/artist/7eis0nkDtxnpVDFByjRQiW), [BJ Esporma](https://open.spotify.com/artist/5RT5e3yj9Ap4eAJ3iMyXS5) | [SAYAW](https://open.spotify.com/album/1VBn3hRR98XutpwZhsriF8) | 3:18 | 2022-07-07 | 2022-08-27 |
 | [Sayo \- Live](https://open.spotify.com/track/2i1f6kHRmU2rvle5FvvZpB) | [I.V.X.N](https://open.spotify.com/artist/2OCTaDYhI6ZqXmplfXdtmw) | [Sayo \(Live\)](https://open.spotify.com/album/1Rvwyzo7w6tcWjOd5C7w9K) | 4:17 | 2023-03-16 | 2023-04-07 |
+| [Sayun Ra](https://open.spotify.com/track/2BL6LQjOSqFWnOTRvGGEeA) | [Ace P](https://open.spotify.com/artist/5tfXFW91zvyONYtXu3ZPPT) | [Sayun Ra](https://open.spotify.com/album/0EQgOBwtwoOVPjPKJ7FA3k) | 3:00 | 2023-06-22 |  |
 | [Sa’Yong Piling](https://open.spotify.com/track/46sQZkM5vKrpkOtHTGaA2I) | [Von Lucero](https://open.spotify.com/artist/4F87JbbPHYAjW97YGRbSQF) | [Sa’Yong Piling](https://open.spotify.com/album/2UJGV6O0mNpmmrtaDSq2sR) | 4:04 | 2022-02-17 | 2022-04-01 |
 | [Seas N U](https://open.spotify.com/track/68O9fpr23kBNaqtnMNkPzR) | [Project: Romeo](https://open.spotify.com/artist/3Y4E0sWmWrd7930e3F3I55) | [Seas N U](https://open.spotify.com/album/3ghvSHWLO2R5XKObBdjNtZ) | 3:03 | 2022-02-03 | 2022-02-11 |
 | [Seasons](https://open.spotify.com/track/5NcwnwioRmOc5z4t6SIWKE) | [ACE$](https://open.spotify.com/artist/4JJnEFAIo6EiPMfmDVeQtS) | [Seasons](https://open.spotify.com/album/0GdphgORcZ2f47orNdp5Ni) | 4:21 | 2022-10-13 | 2022-12-01 |
@@ -1079,7 +1080,7 @@
 | [Señorita](https://open.spotify.com/track/6dFDLyAzxGPHGpKgfT7A2N) | [Blanc](https://open.spotify.com/artist/7FB2iGAjYYDgzI8t3ERWHc), [Lorenz](https://open.spotify.com/artist/0aBNR1Vsft6GIUTZuN2ePy) | [Señorita](https://open.spotify.com/album/4Z8e9av2ugNYh7zabBaBwy) | 2:38 | 2023-03-30 | 2023-04-21 |
 | [Shaba Shaba](https://open.spotify.com/track/0XSftb652sRxZTz6rafgIU) | [YGIG](https://open.spotify.com/artist/04mJjT5cUTgh48V42KlL1U) | [Shaba Shaba](https://open.spotify.com/album/0ysoZSQ1OlXLlIbxWBPBH5) | 3:05 | 2022-11-24 | 2022-12-01 |
 | [Shaba Shaba](https://open.spotify.com/track/7iGxw1v7pjyV7ItuLcMxQa) | [YGIG](https://open.spotify.com/artist/04mJjT5cUTgh48V42KlL1U) | [Shaba Shaba](https://open.spotify.com/album/7k6rO7aOLlEQRzKgV6MibC) | 3:05 | 2023-01-12 | 2023-02-10 |
-| [She a stunna](https://open.spotify.com/track/0R0i53rxHtKAwyjHuthAoG) | [kiddotin](https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL) | [She a stunna](https://open.spotify.com/album/2QdhFnjvJC2Nx8shHPjUkv) | 2:58 | 2023-06-22 |  |
+| [She a Stunna](https://open.spotify.com/track/0R0i53rxHtKAwyjHuthAoG) | [kiddotin](https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL) | [She a Stunna](https://open.spotify.com/album/2QdhFnjvJC2Nx8shHPjUkv) | 2:58 | 2023-06-22 |  |
 | [She's Electric](https://open.spotify.com/track/0LwTV9ZhRtJIlnArt1Ac4z) | [The 12/21](https://open.spotify.com/artist/4nM97dII7qHxrZKU0IjKYE) | [She's Electric](https://open.spotify.com/album/2UAWaHWqQr7VOKv4mk8kHs) | 3:06 | 2022-11-30 | 2023-01-13 |
 | [Shell](https://open.spotify.com/track/5wVm0ptPnDqmUnyQCuYRwo) | [Toots](https://open.spotify.com/artist/2vG7Gc8oR9AEARU3bPzsiZ) | [Shell](https://open.spotify.com/album/1WAJhnPgISasJJu2FdMCTA) | 4:05 | 2023-06-01 | 2023-06-16 |
 | [Shine](https://open.spotify.com/track/5KYK5m6KdA86XpCjea0IGK) | [Dence Unwired](https://open.spotify.com/artist/28qfHGjXzjVqBQRr02u07O) | [Shine](https://open.spotify.com/album/2jCOALIZfo1dEkUeMF2Bfs) | 3:22 | 2022-03-24 | 2022-04-01 |

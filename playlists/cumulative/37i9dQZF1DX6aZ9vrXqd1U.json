@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "AFTER ALL",
+        "url": "https://open.spotify.com/album/2rz5aACagypyxXTq6X8g07"
+      },
+      "artists": [
+        {
+          "name": "Donna Burke",
+          "url": "https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255440,
+      "name": "AFTER ALL",
+      "url": "https://open.spotify.com/track/5MaskUiW0XdWIgDLdZKnnW"
+    },
+    {
+      "album": {
         "name": "TURN A GUNDAM the Movie Original Motion Picture Soundtrack - Wakusei No Gogo,Bokuraha Kiss Wo Shita",
         "url": "https://open.spotify.com/album/6yB5cU0jmTsDM5rjQWRjI1"
       },
@@ -100,7 +118,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 256466,
       "name": "After All",
       "url": "https://open.spotify.com/track/3ZoYbnjWUpnbmGSLJknOQk"
@@ -2258,10 +2276,28 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 243826,
       "name": "Planet Zone",
       "url": "https://open.spotify.com/track/1vCrSGsxSeIvj252PmUzFo"
+    },
+    {
+      "album": {
+        "name": "Planet Zone",
+        "url": "https://open.spotify.com/album/2Fq1FPNCcXcjkrL2H8EtZD"
+      },
+      "artists": [
+        {
+          "name": "Risa Yuuki",
+          "url": "https://open.spotify.com/artist/5mEeL62aHJl7ETL1uAVsQk"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244093,
+      "name": "Planet Zone",
+      "url": "https://open.spotify.com/track/1XgeXpAjtaIzgGj7yp9Xsr"
     },
     {
       "album": {

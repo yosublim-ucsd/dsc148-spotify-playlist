@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Izzy\-S
+> Le meilleur du hip\-hop québécois\. Photo: Yes Mccan
 
-431 songs - 22 hr 6 min
+433 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [CREED](https://open.spotify.com/track/4VHJDnAK9d9XjhIHuGjib6) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:02 | 2022-09-02 | 2023-03-11 |
 | [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 | 2022-08-05 |  |
 | [Dandan](https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dandan](https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL) | 3:17 | 2022-07-22 | 2023-04-22 |
+| [Danger](https://open.spotify.com/track/4JdgWyLRVKbc1GIt6lQq65) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Danger](https://open.spotify.com/album/2lPUIS3WxptrQYXAmJTAoD) | 3:04 | 2023-06-23 |  |
 | [Dangerous](https://open.spotify.com/track/5i3geg5F4TESsafrZe66tv) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 3:41 | 2022-07-22 | 2023-04-22 |
 | [Dans l'sang](https://open.spotify.com/track/4ZjKF8kfJ54qtEPilgOsFQ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Dans l'sang](https://open.spotify.com/album/7pN2Cid4yCMJBN5ZmPNkYU) | 4:13 | 2022-01-07 | 2022-05-28 |
 | [Dans le futur](https://open.spotify.com/track/6XTgW6NZDwECU4ZMgEyoto) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Dans Le Futur](https://open.spotify.com/album/4EvjCGOF7KhSbYhO99H3qG) | 3:35 | 2022-12-23 |  |
@@ -156,7 +157,7 @@
 | [EUPHORIE](https://open.spotify.com/track/1Xzm0Uc9mKBLjfdix4DFUw) | [Brayden](https://open.spotify.com/artist/0A7yFF4dpVIW3M7w4V1ylZ) | [EUPHORIE](https://open.spotify.com/album/0rRakCKxg4hLlnZwXdSrPM) | 2:33 | 2023-04-21 | 2023-06-03 |
 | [EV2](https://open.spotify.com/track/2RUJJtbGdliDKtsQpw6zDW) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Mauvais Ange](https://open.spotify.com/album/1dUgspOSlYWQT0WSJBdvYU) | 4:42 | 2022-12-09 |  |
 | [Everyday](https://open.spotify.com/track/4WR4dZYoPWv0TScswcpp9E) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Everyday](https://open.spotify.com/album/6ISTSCjQij4VteTbrlpTQ9) | 2:49 | 2022-09-16 | 2022-10-22 |
-| [Exito](https://open.spotify.com/track/3uCTdxg9623rUH7kT9dOCu) | [Ô\-lit](https://open.spotify.com/artist/5lo3DSr7YufiuRYqbazv0O), [Paranoize](https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA) | [Exito](https://open.spotify.com/album/2kbAMZAA8u4zdREKzkOzNR) | 4:26 | 2023-04-14 |  |
+| [Exito](https://open.spotify.com/track/3uCTdxg9623rUH7kT9dOCu) | [Ô\-lit](https://open.spotify.com/artist/5lo3DSr7YufiuRYqbazv0O), [Paranoize](https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA) | [Exito](https://open.spotify.com/album/2kbAMZAA8u4zdREKzkOzNR) | 4:26 | 2023-04-14 | 2023-06-24 |
 | [Fais PT](https://open.spotify.com/track/4I3BHwCCXqstiDXU49qziN) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Fais PT](https://open.spotify.com/album/0z1CIAY5XS6nSRc8FuF7Jd) | 3:11 | 2022-06-10 | 2022-07-23 |
 | [Fermer les yeux](https://open.spotify.com/track/0xs9ReaxZUWqp7rO4Ys4cx) | [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD) | [Fermer les yeux](https://open.spotify.com/album/3jNarx37j97nl8l2vOxEg5) | 3:02 | 2022-09-16 | 2022-10-01 |
 | [Fight](https://open.spotify.com/track/5WjHjAeBWHniHdw7OvhOE7) | [BTR](https://open.spotify.com/artist/1SxEm2yckFWe8jSWNC7dED) | [Fight](https://open.spotify.com/album/2nE1hTvqAX2V96uMkfcP6R) | 3:16 | 2022-02-04 | 2022-07-30 |
@@ -197,7 +198,7 @@
 | [Hit Me Up](https://open.spotify.com/track/4HN6EqlbPwlAJWAUIWnYsC) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Hit Me Up](https://open.spotify.com/album/18UDNQmWIoRzpgp3GROLcr) | 3:13 | 2022-11-18 | 2022-12-03 |
 | [Hold it down](https://open.spotify.com/track/31CvdrRgCvWY3QpgJW7h9F) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Hold it down](https://open.spotify.com/album/1W30EfvKo5lbKhBcsooDD8) | 3:04 | 2022-11-25 | 2023-04-15 |
 | [Hold Up](https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 3:33 | 2022-05-20 | 2023-04-09 |
-| [Holla](https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Holla](https://open.spotify.com/album/5C9ivT1fN9yRG73t18040F) | 2:52 | 2023-03-17 |  |
+| [Holla](https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Holla](https://open.spotify.com/album/5C9ivT1fN9yRG73t18040F) | 2:52 | 2023-03-17 | 2023-06-24 |
 | [Hometown](https://open.spotify.com/track/2FYr6FPlyM0vl8gk562gnj) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hometown](https://open.spotify.com/album/4lOidpIuRkvmFRDPiCXcMy) | 3:43 | 2022-11-11 |  |
 | [Homme de pluie](https://open.spotify.com/track/0sUtLK6x9rryNtWy1bwnSb) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Homme de pluie](https://open.spotify.com/album/6viPgfyEaKsVu3QoGiJkiC) | 3:04 | 2022-07-29 | 2022-08-27 |
 | [Hommes de lettres](https://open.spotify.com/track/0on7ZmcKPbH7ZyT3eaneQo) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Home Run](https://open.spotify.com/album/2r4bTB0FAzdzUakL7yopqV) | 4:03 | 2022-01-07 | 2022-03-18 |
@@ -258,6 +259,7 @@
 | [Mal au coeur](https://open.spotify.com/track/4pM6aTuzZvjWAM1rV5aTsn) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Mal au coeur](https://open.spotify.com/album/1a3Wpn0NDPrEoerucPrsg9) | 2:19 | 2022-02-04 | 2022-06-11 |
 | [Malsain et sauf](https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Malsain et sauf](https://open.spotify.com/album/32GEpdgSryJ1QSRsvN4EiN) | 3:14 | 2023-02-03 | 2023-03-18 |
 | [Manny](https://open.spotify.com/track/2Qw5seczc3eGdzoOuEv9L8) | [Vaï](https://open.spotify.com/artist/6IjtuYp9QWhZbWaddsGQ7y) | [Victor Alpha India](https://open.spotify.com/album/7qnEzD68cXQgiAloqkCfYH) | 2:33 | 2022-01-07 | 2022-03-26 |
+| [Many Men](https://open.spotify.com/track/5Hknkme6xbFMFZSznFQmUx) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Many Men](https://open.spotify.com/album/7fJ0Kv2ZFAr56IeVm3CRla) | 2:42 | 2023-06-23 |  |
 | [Marrakech](https://open.spotify.com/track/3Imu0WHSlEWiv4fZngTD2l) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9) | [Marrakech](https://open.spotify.com/album/7b4wIbfPAoDOXsBLYEzki2) | 3:31 | 2022-01-21 | 2022-04-29 |
 | [Matusalem](https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:42 | 2022-06-10 | 2023-03-11 |
 | [Mauvaise Humeur](https://open.spotify.com/track/53eakKGFwVXIrpqoN7mFat) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Gate to RLLNR](https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab) | 2:26 | 2022-02-18 | 2022-10-01 |

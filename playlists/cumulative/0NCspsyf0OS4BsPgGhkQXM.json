@@ -5517,6 +5517,24 @@
     },
     {
       "album": {
+        "name": "go stupid",
+        "url": "https://open.spotify.com/album/45VF5as9wTtvUqm9aQlsnX"
+      },
+      "artists": [
+        {
+          "name": "speedboys",
+          "url": "https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "go stupid",
+      "url": "https://open.spotify.com/track/5Gr9ZFziWdfWorkTEGpWpa"
+    },
+    {
+      "album": {
         "name": "GOD MODE",
         "url": "https://open.spotify.com/album/2fGV380xMDnEvY1WHH9tSy"
       },
@@ -13714,6 +13732,24 @@
       "duration_ms": 123881,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/4qZYebAsenZ7Su6fAkAmMh"
+    },
+    {
+      "album": {
+        "name": "sweater weather",
+        "url": "https://open.spotify.com/album/7bGDPdEyxICCJoleipribU"
+      },
+      "artists": [
+        {
+          "name": "speedboys",
+          "url": "https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122937,
+      "name": "sweater weather",
+      "url": "https://open.spotify.com/track/2zgyslOLMf0WKPzNq4EH0p"
     },
     {
       "album": {

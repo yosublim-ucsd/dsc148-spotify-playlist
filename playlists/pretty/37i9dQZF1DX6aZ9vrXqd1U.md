@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,471 likes - 127 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,523 likes - 127 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,14 +89,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 79 | [罠](https://open.spotify.com/track/1flOkQIJUm6j8XluuFEJCy) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [BEST THE BACK HORN](https://open.spotify.com/album/0yaafXyRahYiHyT69hiP3v) | 4:22 |
 | 80 | [宇宙の彼方で](https://open.spotify.com/track/6x1bX99bVUhBbhzH3gLO8Z) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [宇宙の彼方で](https://open.spotify.com/album/4lv8NOmvqjKAfF1lEDxrCf) | 5:35 |
 | 81 | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/track/1jGRCbz8D1prxGRbSy4Xir) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [AYA](https://open.spotify.com/artist/5XboRZlTHep5d4fC6AmZkW) | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/album/4ADBrrYkMVaEBe4IP4Jqcl) | 5:24 |
-| 82 | [After All](https://open.spotify.com/track/3ZoYbnjWUpnbmGSLJknOQk) | [Donna Burke](https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR) | [TURN A GUNDAM the Movie Original Motion Picture Soundtrack \- Wakusei No Gogo,Bokuraha Kiss Wo Shita](https://open.spotify.com/album/6yB5cU0jmTsDM5rjQWRjI1) | 4:16 |
+| 82 | [AFTER ALL](https://open.spotify.com/track/5MaskUiW0XdWIgDLdZKnnW) | [Donna Burke](https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR) | [AFTER ALL](https://open.spotify.com/album/2rz5aACagypyxXTq6X8g07) | 4:15 |
 | 83 | [Toi Kioku](https://open.spotify.com/track/7D9OcT1srZnAIW1rI4kAYZ) | [Megumi Shiina](https://open.spotify.com/artist/6gp9jw7DuN6VFhpYoZzu4X) | [Toi Kioku](https://open.spotify.com/album/29VSyq9u2D3j1R1shmlc8V) | 4:14 |
 | 84 | [vestige \-ヴェスティージ\-](https://open.spotify.com/track/3HP9BI6rFPO41uSNVnTnjv) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [CLOUD NINE](https://open.spotify.com/album/6TSLuI1wZYcXkpQcymNWjW) | 5:24 |
 | 85 | [Konnamonjanai!](https://open.spotify.com/track/0xS3OLnaXWCkYz2EwMtPXe) | [Shoichiro Hirata](https://open.spotify.com/artist/6mqQmt5cpLJNo7UD48Gy7E) | [Konnamonjanai!](https://open.spotify.com/album/5yUOHFHQryOMNVHzJN33cz) | 4:11 |
 | 86 | [WINNERS FOREVER \~Shorisha\-yo\~](https://open.spotify.com/track/10Ut2frwiawvm9PviuikNi) | [infix](https://open.spotify.com/artist/4VPp8N09a28R2ssRz8FQne) | [WINNERS FOREVER \~Shorisha\-yo\~](https://open.spotify.com/album/0aFfO1ufGHdqu8cLD063lA) | 3:44 |
 | 87 | [STAND UP TO THE VICTORY \~TO THE VICTORY\~](https://open.spotify.com/track/4H8Gnxc2UAzw7BVcZPJxR7) | [Tomohisa Kawazoe](https://open.spotify.com/artist/3BO6d3Nf4KuNeolA5f2N6P) | [STAND UP TO THE VICTORY \~TO THE VICTORY\~](https://open.spotify.com/album/0HrbtaAUY8zVKupEhY799D) | 4:35 |
 | 88 | [Don't Stop!Carry On!](https://open.spotify.com/track/24xNsj7P4uVRiibGBLJ2Np) | [RD](https://open.spotify.com/artist/4g7EG9jvj6IkGitrD2i5uH) | [Don't Stop!Carry On!](https://open.spotify.com/album/2ZRE2cQDCWOlqvsW8Gczpl) | 3:30 |
-| 89 | [Planet Zone](https://open.spotify.com/track/1vCrSGsxSeIvj252PmUzFo) | [Risa Yuuki](https://open.spotify.com/artist/5mEeL62aHJl7ETL1uAVsQk) | [MOBILE SUIT SD GUNDAM Take Me Out to the Colony](https://open.spotify.com/album/4Rx1w76XW7L9I0MfYyiVZ8) | 4:03 |
+| 89 | [Planet Zone](https://open.spotify.com/track/1XgeXpAjtaIzgGj7yp9Xsr) | [Risa Yuuki](https://open.spotify.com/artist/5mEeL62aHJl7ETL1uAVsQk) | [Planet Zone](https://open.spotify.com/album/2Fq1FPNCcXcjkrL2H8EtZD) | 4:04 |
 | 90 | [sharp ♯](https://open.spotify.com/track/5GvQzJ462BgEdnZvUdhclb) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/0ZRPPgS3QfIdJbOEqFleo0) | 3:39 |
 | 91 | [StarRingChild](https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Midnight Sun](https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse) | 5:28 |
 | 92 | [SOLDIER \-Kanashimi no Uta\-](https://open.spotify.com/track/0LwR9BsNrewCBnX7qfesG3) | [CHINO](https://open.spotify.com/artist/62YQvnQlYEA0cD41aqLycV) | [SOLDIER \- Kanashimi no Uta\-](https://open.spotify.com/album/70nEeUH4rJLclKz8Dqcquu) | 4:15 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 126 | [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 |
 | 127 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MCxiMTFiMGJkODAwYWFiYTM0ZWI2ZDE0MTY5MjJlYzJjN2NlMTFiMzI0`
+Snapshot ID: `MCwxOWRlM2E0OGM5NGVhMGNhMTcyNDQxOTdmYzNlNzI5YTI4MWFhZTAy`

@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 186836,
       "name": "Mediterranean Birds On A Monday",
       "url": "https://open.spotify.com/track/7rtawKJ0h5CDkLka8mH4Rr"
@@ -650,6 +650,24 @@
       "duration_ms": 271200,
       "name": "Morning in the Mist",
       "url": "https://open.spotify.com/track/0mmPcIKxcOliobshml5PAM"
+    },
+    {
+      "album": {
+        "name": "Nature Spa",
+        "url": "https://open.spotify.com/album/1TOe8ijERlKamh7aFB2ZJz"
+      },
+      "artists": [
+        {
+          "name": "Mindwhisper",
+          "url": "https://open.spotify.com/artist/5BX3dSELFDJypM7828gUaL"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Nature Spa",
+      "url": "https://open.spotify.com/track/58U9Vz4WItLGFOK2H5Nza6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: Dead Pony
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,241 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,240 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 66 | [Joking](https://open.spotify.com/track/35BYpnQaIjTxdNmDlj27QD) | [Ben Kidson](https://open.spotify.com/artist/0byPxKkZ5TBvzQKL6NjqOq) | [Joking](https://open.spotify.com/album/7Mwt5rqTBTIl6qZSOAvK0N) | 3:21 |
 | 67 | [No Constraint](https://open.spotify.com/track/48x8I9dFZjWn7bJf5j2nnT) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [No Constraint](https://open.spotify.com/album/1asjlY8VeCEXNOuBHS3bhh) | 3:02 |
 | 68 | [Whatever Helps You Sleep](https://open.spotify.com/track/54REUcGs6ZgGNe5qV9oiNr) | [KHARTOUM](https://open.spotify.com/artist/4hYvirqM4pHCsklzddaMsM) | [Whatever Helps You Sleep](https://open.spotify.com/album/5mhvUUmhAWAo5niRe6kaAH) | 2:34 |
-| 69 | [Neighbours](https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Neighbours](https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX) | 2:51 |
+| 69 | [Neighbours](https://open.spotify.com/track/0RZccITVM6wJyTUDkRCKul) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [The Dead Hotel \- EP](https://open.spotify.com/album/4KsLC3kybcrCAHhHBHgiMZ) | 2:51 |
 | 70 | [Faded](https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Faded](https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR) | 3:10 |
 | 71 | [3 Pints](https://open.spotify.com/track/4wGgBmAL1y5F2mnaogC3kB) | [the big sad](https://open.spotify.com/artist/2xfAVL8ZxOxXdCeD4SrY3D) | [3 Pints](https://open.spotify.com/album/5lY91fkQLEuwoiHw3l2dbo) | 3:12 |
 | 72 | [K.K.O](https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [K.K.O](https://open.spotify.com/album/6QMZWUgeNUjAqwaxgFsPFm) | 1:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 84 | [Show Me The Way You Love](https://open.spotify.com/track/0IlTOMZmU9vAvNGgsaV9TG) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Show Me The Way You Love](https://open.spotify.com/album/7vBSj21hnnMEu0TCoisNUx) | 2:50 |
 | 85 | [MOTION SICKNESS!!](https://open.spotify.com/track/0g5P7TjeGuIjNv308nX1PW) | [Abi Rose Kelly](https://open.spotify.com/artist/3K9fu0H0EZDRjNg9TKXWQ6) | [MOTION SICKNESS!!](https://open.spotify.com/album/691SIoZqqRX7RqgpZIcdmt) | 2:17 |
 
-Snapshot ID: `MCw1NjRjNjE3NDNlMGFiYTg5YmI0YTU4YjBlMGUwNzdkNzU5YzkxMzRl`
+Snapshot ID: `MCw5YjA1YTZhN2M0MzA5OTEwMzhjNzNhMmJlOTM1Zjk5MGE3ZjZmYjQ2`

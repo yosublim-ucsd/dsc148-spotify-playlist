@@ -4,7 +4,7 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-74 songs - 6 hr 13 min
+75 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [High](https://open.spotify.com/track/3e7ELUxL2d1RFWrSEMsme9) | [Matt View](https://open.spotify.com/artist/4uMpmqIDOviQTm05ktVtqC) | [Kintsugi](https://open.spotify.com/album/06V5ORG9IYfTKuuJdY6GPF) | 4:38 | 2023-03-09 |  |
 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 | 2023-02-24 |  |
 | [Inner Echo](https://open.spotify.com/track/1tGwB0G7VOshhAyOQYaNbe) | [Mojoman](https://open.spotify.com/artist/2t7SxDJO8xs6RskGSLYwad) | [Inner Echo/ Thrive Pattern VIP](https://open.spotify.com/album/0X5CFT37lTT3nWkVlJBY37) | 7:29 | 2022-11-30 |  |
-| [Into the Motion](https://open.spotify.com/track/2oIOO3ZNR9yZ6zE20vrFZJ) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Glass / Into the Motion \(Extended Play\)](https://open.spotify.com/album/5mN40loDSsFN5uOFldIEDi) | 5:31 | 2022-11-30 |  |
+| [Into the Motion](https://open.spotify.com/track/2oIOO3ZNR9yZ6zE20vrFZJ) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Glass / Into the Motion \(Extended Play\)](https://open.spotify.com/album/5mN40loDSsFN5uOFldIEDi) | 5:31 | 2022-11-30 | 2023-06-24 |
+| [Into the Motion](https://open.spotify.com/track/5tNE96eG01TDmBBlorv6gh) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Into the Motion](https://open.spotify.com/album/03ko03ArgYlgOqLJFGciZP) | 5:31 | 2023-02-14 |  |
 | [Is This Real \- Zero T Remix](https://open.spotify.com/track/2ODdEGZJBLq3MtuYyLacDn) | [Artificial Intelligence](https://open.spotify.com/artist/3dfQn1ijJNptfREJB2rRd2), [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [Timeline Remixed \- EP](https://open.spotify.com/album/3TRNq1aSAYrX2lVaWPGKMv) | 4:51 | 2022-11-30 |  |
 | [Jupiter](https://open.spotify.com/track/2u3Ln93YC9XUBaQilS5cHX) | [Motiv](https://open.spotify.com/artist/1hpBWbyRpkKGeNF5W3a7vp) | [Gravity EP](https://open.spotify.com/album/6lciQeurzsMn9F6xq2JoKm) | 4:36 | 2022-11-30 |  |
 | [Kamba & Fumi](https://open.spotify.com/track/4cHkaFkgYN3CH4lSexbOEs) | [Coffee Shop Jungle](https://open.spotify.com/artist/58S1DXVCgmfu5kf5seAuVM) | [Kamba & Fumi](https://open.spotify.com/album/6OnQdXtU4hrYon5b1ya8fZ) | 2:13 | 2023-01-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 75944,
+  "num_followers": 75948,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjU0MTZiNDY1ZDNlMjk5MDA5MGZkZjEwOGQ2YTdlMjI2ZTFmMjlk",
+  "snapshot_id": "MCxmMTNjOWFkYTU3YTUyMDA5YzhhZTEwYzVhODhlODliODBlMWZlNWQ2",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/1uEZKBOIS31DVpOb0pSBWa"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 140880,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/0IH3SHrsRJtmi2QTCrd1nU"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "f.e.a.r.",
         "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 161561,
       "name": "pity party (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/1uEZKBOIS31DVpOb0pSBWa"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 140880,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/0IH3SHrsRJtmi2QTCrd1nU"
     },
     {
       "added_at": "2022-11-15 00:54:21",

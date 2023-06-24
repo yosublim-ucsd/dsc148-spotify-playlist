@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "All I See (Alternate Verisons)",
+        "url": "https://open.spotify.com/album/0WYegk86ZiH5suKPVVvwnR"
+      },
+      "artists": [
+        {
+          "name": "Bryant EDT",
+          "url": "https://open.spotify.com/artist/70B605jj3MrgH5bxdGD7Or"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118811,
+      "name": "All I See",
+      "url": "https://open.spotify.com/track/5sjtgoS0S1aCzARhyCDWjR"
+    },
+    {
+      "album": {
         "name": "All me want",
         "url": "https://open.spotify.com/album/6jvig8XxQpR6CiA44lASt4"
       },

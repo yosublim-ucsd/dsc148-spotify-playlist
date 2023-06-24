@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1368172,
+  "num_followers": 1368755,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDc0ZWE4NTcyODI1MzZkZjcwZmQ3NzNlM2NhNzVmZmMzNjg5MDUy",
+  "snapshot_id": "MCw0ZWU0NjVhYTE0ZGU3YjE5YmM2MTcwZjJiM2FiMjcwOTZjNmY5NmM4",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 283040,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/62h4GYm6aTqS0dsfJtKYIX"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Guetta Blaster",
         "url": "https://open.spotify.com/album/2YKWh8IkQkekPgg5RIEtOn"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 283040,
-      "name": "I Remember",
-      "url": "https://open.spotify.com/track/62h4GYm6aTqS0dsfJtKYIX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 237293,
-      "name": "Move For me",
-      "url": "https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 218586,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/2rVa6UVT2f95l3bGcMGCWQ"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 237293,
+      "name": "Move For me",
+      "url": "https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Missing (Remixes)",
+        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Missing - Todd Terry Remix Radio Edit",
+      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "The Sound of Goodbye, Pt. 2",
         "url": "https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP"
       },
@@ -1139,22 +1159,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Missing (Remixes)",
-        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
       "artists": [
         {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+          "name": "Olive",
+          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
         },
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "Black Olive",
+          "url": "https://open.spotify.com/artist/4FZW0LqOJ7ZJKdNMrWykO6"
         }
       ],
-      "duration_ms": 233160,
-      "name": "Missing - Todd Terry Remix Radio Edit",
-      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
+      "duration_ms": 250440,
+      "name": "You're Not Alone - Radio Edit",
+      "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1175,26 +1195,6 @@
       "duration_ms": 255186,
       "name": "With Every Heartbeat",
       "url": "https://open.spotify.com/track/53SqGkNJAYLss9AgbduTqQ"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "90s 100 Hits",
-        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
-      },
-      "artists": [
-        {
-          "name": "Olive",
-          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
-        },
-        {
-          "name": "Black Olive",
-          "url": "https://open.spotify.com/artist/4FZW0LqOJ7ZJKdNMrWykO6"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "You're Not Alone - Radio Edit",
-      "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/2ERvgVHv284kvtfmYurONA"
+      },
+      "artists": [
+        {
+          "name": "Flanders",
+          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
+        },
+        {
+          "name": "Callea",
+          "url": "https://open.spotify.com/artist/0R997cLHnPhLmoUnPpXfPg"
+        }
+      ],
+      "duration_ms": 220238,
+      "name": "Behind - Callea Radio Mix",
+      "url": "https://open.spotify.com/track/58ma0p0GQqxfbe5vNFraUs"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/2ox4UcntoWsFQL5RDPKFUF"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 220640,
       "name": "Everytime We Touch (with Steve Angello & Sebastian Ingrosso)",
       "url": "https://open.spotify.com/track/7nuPjNAEL3qcEUcZre7rJF"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/2ERvgVHv284kvtfmYurONA"
-      },
-      "artists": [
-        {
-          "name": "Flanders",
-          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
-        },
-        {
-          "name": "Callea",
-          "url": "https://open.spotify.com/artist/0R997cLHnPhLmoUnPpXfPg"
-        }
-      ],
-      "duration_ms": 220238,
-      "name": "Behind - Callea Radio Mix",
-      "url": "https://open.spotify.com/track/58ma0p0GQqxfbe5vNFraUs"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Don't Stop!",
-        "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 163004,
-      "name": "Don't Stop! - X-Cabs Radio Edit",
-      "url": "https://open.spotify.com/track/2U8kSj6bS0IUdMD8JSxOm3"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Strange Condition",
         "url": "https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI"
       },
@@ -1831,18 +1815,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
+        "name": "Don't Stop!",
+        "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
       },
       "artists": [
         {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
         }
       ],
-      "duration_ms": 168793,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu"
+      "duration_ms": 163004,
+      "name": "Don't Stop! - X-Cabs Radio Edit",
+      "url": "https://open.spotify.com/track/2U8kSj6bS0IUdMD8JSxOm3"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1859,6 +1843,22 @@
       "duration_ms": 354613,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3BBioBvGxikn3mVT2hhrEm"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 168793,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu"
     },
     {
       "added_at": "2023-03-22 14:00:00",

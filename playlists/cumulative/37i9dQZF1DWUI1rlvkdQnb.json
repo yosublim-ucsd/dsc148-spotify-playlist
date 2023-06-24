@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/0DtDk3ENvhd5iZsTOqgAF2"
+      },
+      "artists": [
+        {
+          "name": "Ozo Nakuru",
+          "url": "https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/2epHEGzdynPsNt6AXiBnC7"
+    },
+    {
+      "album": {
         "name": "Sleepy Game",
         "url": "https://open.spotify.com/album/1eO0MT1eCOMz2jsYBALHEs"
       },

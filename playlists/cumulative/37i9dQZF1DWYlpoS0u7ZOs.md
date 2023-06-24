@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: Dead Pony
 
-178 songs - 9 hr 23 min
+179 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [MOTION SICKNESS!!](https://open.spotify.com/track/2ptIS5c0dq8MJlAelarYq5) | [Abi Rose Kelly](https://open.spotify.com/artist/3K9fu0H0EZDRjNg9TKXWQ6) | [MOTION SICKNESS!!](https://open.spotify.com/album/4OYBMMpF6R3OagG6vGcj5g) | 2:17 | 2023-02-17 | 2023-03-04 |
 | [My Perfect](https://open.spotify.com/track/4wd0skBSF7oBUOeULBeitG) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [My Perfect](https://open.spotify.com/album/1mcKvwXKx1OIUHBOAuyQl7) | 3:12 | 2023-01-13 | 2023-03-25 |
 | [National Anthem](https://open.spotify.com/track/2UAGD9GfTHpJn3JqM8Aa4h) | [CLARENCE & THE MODERN LIFE](https://open.spotify.com/artist/0MiuRwwqb3aTIrhUolEMVP) | [National Anthem](https://open.spotify.com/album/7v8P6o5HvlT9nTGPvn7hsz) | 2:54 | 2023-03-24 |  |
-| [Neighbours](https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Neighbours](https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX) | 2:51 | 2023-01-13 |  |
+| [Neighbours](https://open.spotify.com/track/0RZccITVM6wJyTUDkRCKul) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [The Dead Hotel \- EP](https://open.spotify.com/album/4KsLC3kybcrCAHhHBHgiMZ) | 2:51 | 2023-06-08 |  |
+| [Neighbours](https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Neighbours](https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX) | 2:51 | 2023-01-13 | 2023-06-24 |
 | [Nightlife](https://open.spotify.com/track/6b2mRkThwyuVlw9IYW7aST) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Nightlife](https://open.spotify.com/album/4ZpE0RfPiMkohY2AHZoUHe) | 3:19 | 2023-03-24 |  |
 | [No Constraint](https://open.spotify.com/track/48x8I9dFZjWn7bJf5j2nnT) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [No Constraint](https://open.spotify.com/album/1asjlY8VeCEXNOuBHS3bhh) | 3:02 | 2023-03-03 |  |
 | [Nostalgia \(ft\. Patty Walters\)](https://open.spotify.com/track/7urqfz7paOyKHayDEa7uGC) | [Bleak Soul](https://open.spotify.com/artist/2iMxVnS6Ovd7R0C5kHdo6p), [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Nostalgia](https://open.spotify.com/album/6K6oiAZS3oOlH9VEAIbL2U) | 3:18 | 2023-03-17 | 2023-04-22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Zeina, Smeels",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ghostly Kisses",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 214640,
       "name": "amnezia",
       "url": "https://open.spotify.com/track/223sTsABqhXPsTAXVF4EGL"
@@ -2946,7 +2946,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 135480,
       "name": "Banque de Beats Mondiale",
       "url": "https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn"
@@ -4072,7 +4072,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 134260,
       "name": "BRILLES",
       "url": "https://open.spotify.com/track/4CAGAkTcc1jUWP7COxfzFb"
@@ -5404,7 +5404,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 140649,
       "name": "Ce soir - j'suis dans ma t\u00eate",
       "url": "https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O"
@@ -6348,7 +6348,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 146273,
       "name": "Coeur Automatique",
       "url": "https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW"
@@ -6726,6 +6726,24 @@
       "duration_ms": 168200,
       "name": "Comme un oiseau",
       "url": "https://open.spotify.com/track/4cSvVZdMWCPkGmmCjneYDu"
+    },
+    {
+      "album": {
+        "name": "Comme un saule",
+        "url": "https://open.spotify.com/album/75l2H4yE3KjVWhyigNUdgo"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186713,
+      "name": "Comme un saule",
+      "url": "https://open.spotify.com/track/1eAMh00UJJx2sj4FDylYBl"
     },
     {
       "album": {
@@ -7707,6 +7725,28 @@
     },
     {
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2lPUIS3WxptrQYXAmJTAoD"
+      },
+      "artists": [
+        {
+          "name": "Guessmi",
+          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/4JdgWyLRVKbc1GIt6lQq65"
+    },
+    {
+      "album": {
         "name": "La route est longue jusqu'au top",
         "url": "https://open.spotify.com/album/6MC5y0S4KXafxGhM2Bk2Mm"
       },
@@ -8222,6 +8262,28 @@
       "duration_ms": 210000,
       "name": "Dernier Etage",
       "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
+    },
+    {
+      "album": {
+        "name": "Derni\u00e8re danse",
+        "url": "https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191773,
+      "name": "Derni\u00e8re danse",
+      "url": "https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl"
     },
     {
       "album": {
@@ -9750,7 +9812,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 164100,
       "name": "Elastiqu\u00e9",
       "url": "https://open.spotify.com/track/7F5HJiph7AkAozWdKDF0F5"
@@ -10577,6 +10639,24 @@
     },
     {
       "album": {
+        "name": "Et si ?",
+        "url": "https://open.spotify.com/album/7cmRDU8mSCgoZKEC8nmr9f"
+      },
+      "artists": [
+        {
+          "name": "Krisy",
+          "url": "https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Et si ?",
+      "url": "https://open.spotify.com/track/59Ej6X1MZD00tL8roBI9hx"
+    },
+    {
+      "album": {
         "name": "FLUXUS POP",
         "url": "https://open.spotify.com/album/3gZFUIX32H0d5GQiU4X4Xv"
       },
@@ -10868,7 +10948,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 189708,
       "name": "Eyes contact (feat. Franglish)",
       "url": "https://open.spotify.com/track/3OqZ59YSwGBoC9s3ARWJd7"
@@ -12104,7 +12184,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 114182,
       "name": "Freestyle LVL UP 1",
       "url": "https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY"
@@ -14709,6 +14789,24 @@
     },
     {
       "album": {
+        "name": "J'aime pas sortir",
+        "url": "https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C"
+      },
+      "artists": [
+        {
+          "name": "Alice et Moi",
+          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "J'aime pas sortir",
+      "url": "https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m"
+    },
+    {
+      "album": {
         "name": "J'aime quand on danse (tes mains sur mes hanches)",
         "url": "https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV"
       },
@@ -14796,7 +14894,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 174306,
       "name": "J'avais besoin d'un p\u00e8re - Bonus Track",
       "url": "https://open.spotify.com/track/3fJoBa767U2glkVFs8kPD6"
@@ -16490,7 +16588,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 210666,
       "name": "Kisakiin 2",
       "url": "https://open.spotify.com/track/5Ky2DYvP6eghOlMKDBrf0Z"
@@ -19217,6 +19315,24 @@
     },
     {
       "album": {
+        "name": "Le stade",
+        "url": "https://open.spotify.com/album/6SWRSgHDlJtI5RnzTQewpu"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143055,
+      "name": "Le stade",
+      "url": "https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq"
+    },
+    {
+      "album": {
         "name": "Le surf",
         "url": "https://open.spotify.com/album/7qDNHLtyWSqTnE1OagCo9A"
       },
@@ -20944,7 +21060,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 190973,
       "name": "M'enfer",
       "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
@@ -21252,6 +21368,28 @@
       "duration_ms": 151413,
       "name": "Ma Way",
       "url": "https://open.spotify.com/track/5YUmEBCcg6hu8lpNegrZ7n"
+    },
+    {
+      "album": {
+        "name": "Macabre",
+        "url": "https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us"
+      },
+      "artists": [
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208841,
+      "name": "Macabre",
+      "url": "https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX"
     },
     {
       "album": {
@@ -21650,6 +21788,24 @@
       "duration_ms": 193613,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/1YqIQZ4ajL7fVdz2wCax07"
+    },
+    {
+      "album": {
+        "name": "Many Men",
+        "url": "https://open.spotify.com/album/7fJ0Kv2ZFAr56IeVm3CRla"
+      },
+      "artists": [
+        {
+          "name": "Yes Mccan",
+          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162649,
+      "name": "Many Men",
+      "url": "https://open.spotify.com/track/5Hknkme6xbFMFZSznFQmUx"
     },
     {
       "album": {
@@ -23038,6 +23194,24 @@
       "duration_ms": 201000,
       "name": "Mort de peur",
       "url": "https://open.spotify.com/track/5BrSdlZO7iZygt6og7ZRoS"
+    },
+    {
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46"
+      },
+      "artists": [
+        {
+          "name": "Ehla",
+          "url": "https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "Mortel",
+      "url": "https://open.spotify.com/track/77nU8wDRYGuoIt6ryY49pz"
     },
     {
       "album": {
@@ -25952,7 +26126,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 157893,
       "name": "Pena Duro",
       "url": "https://open.spotify.com/track/0Bqj2Umn6ft60B2pWXKnLF"
@@ -27460,7 +27634,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 155571,
       "name": "Pretty Girl Era - Version Fran\u00e7aise",
       "url": "https://open.spotify.com/track/7czZJ0oMOdf5doqecs0CSi"
@@ -28514,7 +28688,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 160397,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/6oGaLU39gAzlsWDjj7EKaS"
@@ -29034,7 +29208,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 227745,
       "name": "Risques & Hustle",
       "url": "https://open.spotify.com/track/7nuQktBOm9j5mRox45CRKu"
@@ -29280,7 +29454,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 156756,
       "name": "Ros\u00e9",
       "url": "https://open.spotify.com/track/6xGagAOYdYmSZrBRIDoREc"
@@ -29650,7 +29824,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 219818,
       "name": "R\u00eaver \u00e9veill\u00e9",
       "url": "https://open.spotify.com/track/40fvGOkdmC6pzS6bT2yKX1"
@@ -30202,7 +30376,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 230953,
       "name": "Sauvetage",
       "url": "https://open.spotify.com/track/6yI6rMrzserdWx6h74mkf1"
@@ -36316,7 +36490,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 148717,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-766 songs - 1 day 17 hr 43 min
+768 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Go Off](https://open.spotify.com/track/7peXYPvAVHw77scTuY5TWL) | [Haterade](https://open.spotify.com/artist/57mNUYCvfPsEKFMrA678JH), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:05 | 2022-06-16 | 2023-02-22 |
 | [Go on Then, Love](https://open.spotify.com/track/4QlkNEiOQGYcc9t2q2EgEE) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:21 | 2022-03-08 | 2022-06-04 |
 | [Go On Then, Love \- ODEA Remix](https://open.spotify.com/track/20H50sMwMszFJ9cEGaDJUI) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [ODEA](https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:08 | 2022-08-07 |  |
+| [go stupid](https://open.spotify.com/track/5Gr9ZFziWdfWorkTEGpWpa) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [go stupid](https://open.spotify.com/album/45VF5as9wTtvUqm9aQlsnX) | 2:37 | 2023-06-23 |  |
 | [GOD MODE](https://open.spotify.com/track/7LMsQq4Y3quAQlY5NBOH3E) | [6SIXSIX](https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2) | [GOD MODE](https://open.spotify.com/album/2fGV380xMDnEvY1WHH9tSy) | 3:08 | 2022-12-02 | 2023-01-28 |
 | [Gold](https://open.spotify.com/track/6aZzok123rnnw99xgYwsz7) | [DRK\-LVL](https://open.spotify.com/artist/2n2ti1Du4TpAMhDIXIWomu) | [Gold](https://open.spotify.com/album/7m1UWpRO8FV5fDqTXPnmqe) | 2:39 | 2022-08-05 | 2022-09-07 |
 | [Golden Ticket](https://open.spotify.com/track/66Uf5wWeuWHCodwoFy1uXX) | [Matstubs](https://open.spotify.com/artist/0chxndMxE0AhAeYED1Ay9d), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:04 | 2022-06-16 | 2023-02-22 |
@@ -640,6 +641,7 @@
 | [Summertime Sadness](https://open.spotify.com/track/6dzgD9TYa77Um3BNhRRp3i) | [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Alis Shuka](https://open.spotify.com/artist/7DGb3jb4ac27QqsGIbRTBK) | [Summertime Sadness](https://open.spotify.com/album/69p0OH85hry9j5rzF6eem4) | 2:46 | 2023-03-31 | 2023-06-03 |
 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m) | 2:47 | 2023-02-21 |  |
 | [Sweat](https://open.spotify.com/track/4qZYebAsenZ7Su6fAkAmMh) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [ERVIS](https://open.spotify.com/artist/2SASbxZSgWPzlQ6iFyRx0d) | [Sweat](https://open.spotify.com/album/6iovaxHlE2iDacVh60ADqZ) | 2:03 | 2022-08-17 | 2022-10-08 |
+| [sweater weather](https://open.spotify.com/track/2zgyslOLMf0WKPzNq4EH0p) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [sweater weather](https://open.spotify.com/album/7bGDPdEyxICCJoleipribU) | 2:02 | 2023-06-23 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/0iRfffwrWG4TfNc65SpxDm) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Invisible](https://open.spotify.com/artist/6GRKwhGojrzpj0486YlBA9), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9) | [Sweet Child O' Mine](https://open.spotify.com/album/3wNyS2c2RRJVSqSsUYqzmj) | 2:43 | 2022-04-01 | 2022-04-30 |
 | [Sweet Revenge](https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [ELLIS!](https://open.spotify.com/artist/3GPPLSi7KokwrVlLlTMYgC), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Sweet Revenge](https://open.spotify.com/album/3RMPCBY2FEhdVWlxzsaacc) | 3:48 | 2022-06-17 | 2022-11-24 |
 | [Symptoms](https://open.spotify.com/track/4inYiXI3aHvJMK9LGRDsKa) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Symptoms](https://open.spotify.com/album/1v3mYCjOi9vVeu5gl1Ygs7) | 2:28 | 2022-11-04 |  |

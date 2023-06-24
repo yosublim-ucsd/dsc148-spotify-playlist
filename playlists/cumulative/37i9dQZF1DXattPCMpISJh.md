@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-205 songs - 12 hr 57 min
+206 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Faces](https://open.spotify.com/track/5iWVOFjMWtDUx01SFIbQ61) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Faces](https://open.spotify.com/album/7FyL9XkXtnwJJREWDdcm0B) | 2:21 | 2022-03-11 | 2022-10-18 |
 | [Faces](https://open.spotify.com/track/7xJXzykZkjJLdIjTws8Piu) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Comedown](https://open.spotify.com/album/6dMQpXeo2FcdgPEItBtbGp) | 2:21 | 2022-03-11 | 2022-11-13 |
 | [Fall For You](https://open.spotify.com/track/3zfBJlugaINCF6UyRiVg2J) | [David Hansen](https://open.spotify.com/artist/2Wm55svxm4cvVLWwHtZN5E), [Jimmy Rivler](https://open.spotify.com/artist/2VcGBf5YDWgKpQedSvx58i) | [Fall For You](https://open.spotify.com/album/2HddKmvwQaapR7OiIOqS8Q) | 2:55 | 2022-06-03 |  |
+| [Feel Good Too](https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:59 | 2023-06-23 |  |
 | [Feel So Good](https://open.spotify.com/track/6Zoi8MTQJ5UZ28Xra0FAAn) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Feel So Good](https://open.spotify.com/album/4Y0TmKELuNPjdLFNAEC4An) | 3:27 | 2022-02-11 | 2023-01-06 |
 | [Feel The Groove](https://open.spotify.com/track/0wjJfVH7DCVSeOXxkpFNNE) | [Seb Skalski](https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Feel The Groove](https://open.spotify.com/album/7bOqJYBRGtDpx0NV5yuizR) | 4:43 | 2023-05-19 |  |
 | [Fired Up](https://open.spotify.com/track/48zryrs6OiRWxFdwCItDG0) | [Archie Versace](https://open.spotify.com/artist/6S3CbwXLm1waxap3VZW24x), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB) | [Fired Up](https://open.spotify.com/album/0AVxyhn8k58OuIK8xz4bsT) | 2:58 | 2023-01-13 |  |
@@ -92,7 +93,7 @@
 | [I Found Love](https://open.spotify.com/track/4ZABvHWz0DV9YoHEs7s4ha) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le) | [I Found Love](https://open.spotify.com/album/24YwbsdnQ76zJHuUKBDM9t) | 7:31 | 2023-02-10 | 2023-04-29 |
 | [I Found Love \- Sophie Lloyd Remix \- Extended Mix](https://open.spotify.com/track/3ZQzvmQyG7T0UAlrotKwI8) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le), [Sophie Lloyd](https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF) | [I Found More Love \(Sophie Lloyd Remix \- Extended\)](https://open.spotify.com/album/5mqePSgQ6PqiB2nExt0Y5i) | 8:48 | 2023-04-07 |  |
 | [I Like The Music \(That You Play\) \- Club Vocal](https://open.spotify.com/track/6DucX5qCUh5EKCzYF8x8r2) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo), [Chatobaron](https://open.spotify.com/artist/0LslH1cGQAi9LcdHz8nfuc) | [I Like \(The Music that You Play\)](https://open.spotify.com/album/4l9xaowTpYHv7iqXBnUlnE) | 7:25 | 2023-04-07 |  |
-| [I Ran \(So Far Away\) \- Liongold Remix](https://open.spotify.com/track/3wj9rjR2F7kxkZFuNkuj28) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9), [Liongold](https://open.spotify.com/artist/1QzMZ0QwJRo3LJ474BiODq) | [I Ran \(So Far Away\) \[The Liongold Remixes\]](https://open.spotify.com/album/6QPjxeuvnjre45AeuEA6iy) | 3:07 | 2022-09-16 |  |
+| [I Ran \(So Far Away\) \- Liongold Remix](https://open.spotify.com/track/3wj9rjR2F7kxkZFuNkuj28) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9), [Liongold](https://open.spotify.com/artist/1QzMZ0QwJRo3LJ474BiODq) | [I Ran \(So Far Away\) \[The Liongold Remixes\]](https://open.spotify.com/album/6QPjxeuvnjre45AeuEA6iy) | 3:07 | 2022-09-16 | 2023-06-24 |
 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 | 2022-03-11 |  |
 | [I Won't Walk Away](https://open.spotify.com/track/1s3v94X2Y4GSAetgiWZxx4) | [Samantha LaPorta](https://open.spotify.com/artist/0PT3uYshYiUCfK0jxYKMqb) | [I Won't Walk Away](https://open.spotify.com/album/24ntKGAFS4II7wLzkhrIba) | 3:03 | 2021-10-29 |  |
 | [I'm Ready](https://open.spotify.com/track/04TdG6iigOntS4dyQHuxwY) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Zorina](https://open.spotify.com/artist/72olVPy3d6dn6ELACg30UG) | [I'm Ready](https://open.spotify.com/album/2JkxOn5bY1Uamzo82VpHCD) | 2:58 | 2023-03-17 |  |

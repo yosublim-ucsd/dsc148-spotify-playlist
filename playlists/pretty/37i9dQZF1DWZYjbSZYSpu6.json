@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: SOLE, Sung Si Kyung)",
-  "num_followers": 389546,
+  "num_followers": 389577,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWUxMGM2NWY5ZTZjOWUyM2VmODdjOWMzOWI1YTBjN2JiYmMxNjdh",
+  "snapshot_id": "MCxlZjFhODY3YWIxM2Q2NTVmZTJmYmE5MWViYzI5ZjUzMjc1NzEzZWJm",
   "tracks": [
     {
       "added_at": "2023-05-02 06:11:26",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-05-02 06:11:26",
       "album": {
-        "name": "Ghosting",
-        "url": "https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo"
-      },
-      "artists": [
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Ghosting (Prod. CODE KUNST)",
-      "url": "https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub"
-    },
-    {
-      "added_at": "2023-05-02 06:11:26",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 195942,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
+    },
+    {
+      "added_at": "2023-05-02 06:11:26",
+      "album": {
+        "name": "Ghosting",
+        "url": "https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Ghosting (Prod. CODE KUNST)",
+      "url": "https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub"
     },
     {
       "added_at": "2023-05-02 06:11:26",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-05-02 06:11:26",
       "album": {
-        "name": "I Wanna Be - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
-      },
-      "artists": [
-        {
-          "name": "KEY",
-          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
-        },
-        {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
-        }
-      ],
-      "duration_ms": 193263,
-      "name": "I Wanna Be",
-      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
-    },
-    {
-      "added_at": "2023-05-02 06:11:26",
-      "album": {
         "name": "Waves (feat. Simon Dominic & Jamie)",
         "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 164920,
       "name": "Waves (feat. Simon Dominic & Jamie)",
       "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
+    },
+    {
+      "added_at": "2023-05-02 06:11:26",
+      "album": {
+        "name": "I Wanna Be - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        },
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "duration_ms": 193263,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
     },
     {
       "added_at": "2023-05-02 06:11:26",

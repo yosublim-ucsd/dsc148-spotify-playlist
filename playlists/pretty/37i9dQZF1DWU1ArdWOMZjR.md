@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1ArdWOMZjR.md) - [plain]
 
 > Wake me up before you go\-go! Check out Wham!'s top tracks ahead of their documentary, coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,241 likes - 20 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,256 likes - 20 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1ArdWOMZjR.md) - [plain]
 | 19 | [Love Machine](https://open.spotify.com/track/2qHHA5L0SLcJL0ojfWFdSk) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 3:22 |
 | 20 | [Last Christmas \- Remastered](https://open.spotify.com/track/6wn2nmFn3wDuiMldRiuRuL) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:27 |
 
-Snapshot ID: `MCxjNjc2ZTZlM2U4ODQ2ZjJlNDNlZjQxODUyZmI2NDgxNzBkYzYzMDcw`
+Snapshot ID: `MCw2Njc0MDcyYjJlYTY2NGU5ZGM4NGFhODIwODE0NTc2NmYyNDM1MTQx`

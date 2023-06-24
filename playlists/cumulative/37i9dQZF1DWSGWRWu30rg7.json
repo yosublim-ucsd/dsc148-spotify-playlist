@@ -19569,6 +19569,24 @@
     },
     {
       "album": {
+        "name": "Let's Do It For Love",
+        "url": "https://open.spotify.com/album/5WdY3sT3eq3Blx5vAw1V5v"
+      },
+      "artists": [
+        {
+          "name": "TERUNA",
+          "url": "https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327344,
+      "name": "Let's Do It For Love",
+      "url": "https://open.spotify.com/track/2tXHRbM4JOyHhyOteDmSjM"
+    },
+    {
+      "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/1gzNkuYj8ifst89KlRiDSC"
       },

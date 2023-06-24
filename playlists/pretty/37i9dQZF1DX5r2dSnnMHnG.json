@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmE2MGM3NDc5NjJkYTAwOWQ0OWY3ZTgzZjBiMGFkYTk1M2EwYjQ2",
+  "snapshot_id": "MCwwODE5N2NjNjZkZDE2ZGU1NzExOTEzNDVjNzFiYzZhZTRmY2FmMzk1",
   "tracks": [
     {
       "added_at": "2023-05-05 08:11:36",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "The Crush Of Spring OST Special Track",
-        "url": "https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT"
+        "name": "SLATE",
+        "url": "https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv"
       },
       "artists": [
         {
-          "name": "MJ",
-          "url": "https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa"
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
         }
       ],
-      "duration_ms": 190522,
-      "name": "Walking In The Memory",
-      "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
+      "duration_ms": 232227,
+      "name": "Paint On Spring - Remastering",
+      "url": "https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI"
     },
     {
       "added_at": "2023-05-05 08:11:36",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "SLATE",
-        "url": "https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv"
+        "name": "The Crush Of Spring OST Special Track",
+        "url": "https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT"
       },
       "artists": [
         {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+          "name": "MJ",
+          "url": "https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa"
         }
       ],
-      "duration_ms": 232227,
-      "name": "Paint On Spring - Remastering",
-      "url": "https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI"
+      "duration_ms": 190522,
+      "name": "Walking In The Memory",
+      "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
     },
     {
       "added_at": "2023-05-05 08:11:36",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "I Say Ya! You Say Yeah!",
-        "url": "https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN"
-      },
-      "artists": [
-        {
-          "name": "Yun DDanDDan",
-          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
-        },
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 230293,
-      "name": "I Say Ya! You Say Yeah! (feat. Kyoung Seo)",
-      "url": "https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F"
-    },
-    {
-      "added_at": "2023-05-05 08:11:36",
-      "album": {
         "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
         "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
       },
@@ -1091,18 +1071,22 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
+        "name": "I Say Ya! You Say Yeah!",
+        "url": "https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN"
       },
       "artists": [
         {
-          "name": "\ubc15\uc9c0\uc6d0",
-          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+        },
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
         }
       ],
-      "duration_ms": 203386,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
+      "duration_ms": 230293,
+      "name": "I Say Ya! You Say Yeah! (feat. Kyoung Seo)",
+      "url": "https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F"
     },
     {
       "added_at": "2023-05-05 08:11:36",
@@ -1119,6 +1103,22 @@
       "duration_ms": 202823,
       "name": "Mini Stewardess",
       "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
+    },
+    {
+      "added_at": "2023-05-05 08:11:36",
+      "album": {
+        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc9c0\uc6d0",
+          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
+        }
+      ],
+      "duration_ms": 203386,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
       "added_at": "2023-05-05 08:11:36",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "\uc6d0 Wish",
-        "url": "https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7"
-      },
-      "artists": [
-        {
-          "name": "WISUE",
-          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
-        }
-      ],
-      "duration_ms": 191872,
-      "name": "\uc6d0 Wish",
-      "url": "https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw"
-    },
-    {
-      "added_at": "2023-05-05 08:11:36",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/0tDeLi5d4txzT6vjTiaFU5"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 153506,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/40TJl2hLf6Sr7K1a2SkkVA"
+    },
+    {
+      "added_at": "2023-05-05 08:11:36",
+      "album": {
+        "name": "\uc6d0 Wish",
+        "url": "https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "duration_ms": 191872,
+      "name": "\uc6d0 Wish",
+      "url": "https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw"
     },
     {
       "added_at": "2023-05-05 08:11:36",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Feeling Good - 2019 Ver",
-      "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
-    },
-    {
-      "added_at": "2023-05-05 08:11:36",
-      "album": {
         "name": "Heart in Motion",
         "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
       },
@@ -1295,18 +1279,34 @@
     {
       "added_at": "2023-05-05 08:11:36",
       "album": {
-        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
       },
       "artists": [
         {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
         }
       ],
-      "duration_ms": 222173,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
+      "duration_ms": 162266,
+      "name": "Feeling Good - 2019 Ver",
+      "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
+    },
+    {
+      "added_at": "2023-05-05 08:11:36",
+      "album": {
+        "name": "Fling at Convenience Store (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU"
+      },
+      "artists": [
+        {
+          "name": "KIM DONG HYUN",
+          "url": "https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU"
+        }
+      ],
+      "duration_ms": 223629,
+      "name": "SOME",
+      "url": "https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

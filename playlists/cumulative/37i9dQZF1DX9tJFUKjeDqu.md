@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-129 songs - 8 hr 14 min
+130 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Lenny](https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:57 | 2022-04-15 |  |
 | [Lenny](https://open.spotify.com/track/1hTcUTeQTIPXK3d91BLVof) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 2](https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1) | 4:57 | 2022-04-15 | 2022-06-15 |
 | [Linda](https://open.spotify.com/track/12psIyrsp6DXHqzkkweac1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-04-15 |  |
+| [Little Wing](https://open.spotify.com/track/5108X2u7A5haUtghBXBOJL) | [Brooklyn Casey](https://open.spotify.com/artist/7vdPBmEFfs7UdQIF7j1rhJ) | [Little Wing](https://open.spotify.com/album/1j5ZyGDzl6VD8QMIKLkPhd) | 2:48 | 2023-06-23 |  |
 | [Marje's Melody](https://open.spotify.com/track/3ZewawA5h2yP6RvhWlBdFq) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [Good News](https://open.spotify.com/album/00gjkhEHHnrATP8ORz4C2G) | 6:45 | 2022-04-15 | 2022-07-29 |
 | [Marje's Melody](https://open.spotify.com/track/36SpII7Y7MzXhuQe5Xu097) | [Ronnie EarlThe Broadcasters](https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF) | [Good News](https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63) | 6:45 | 2022-07-08 |  |
 | [Met my Love in Baton Rouge](https://open.spotify.com/track/5oj8xhZdu8TgqYIBWgw3Qm) | [Lada](https://open.spotify.com/artist/4GerVbgFLWZCwwnz6tE1EN) | [Don't Be Fooled](https://open.spotify.com/album/1ziVR6or0rA1lj4cbMxjQy) | 2:10 | 2023-01-06 |  |

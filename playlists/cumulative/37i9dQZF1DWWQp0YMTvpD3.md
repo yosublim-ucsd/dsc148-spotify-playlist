@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-333 songs - 16 hr 42 min
+334 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Spirals](https://open.spotify.com/track/2iLCFMUPpBkrluLl55RxI6) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Drine](https://open.spotify.com/album/2gDEjivLQAHFzY7OdUgy5n) | 3:58 | 2022-02-11 |  |
 | [stand me](https://open.spotify.com/track/3iKh3jXoEIkgF2kIMVAlCX) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [stand me](https://open.spotify.com/album/7oIs0cixveS2hwbI6rWOp3) | 2:58 | 2022-09-23 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2022-02-11 |  |
-| [Sthlm Snow](https://open.spotify.com/track/1hFH9RtFSBOYtaySQk7wlf) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Sthlm Snow](https://open.spotify.com/album/6Qe5tKlNTIeTg0bQNASLme) | 3:21 | 2023-01-13 |  |
+| [Sthlm Snow](https://open.spotify.com/track/1hFH9RtFSBOYtaySQk7wlf) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Sthlm Snow](https://open.spotify.com/album/6Qe5tKlNTIeTg0bQNASLme) | 3:21 | 2023-01-13 | 2023-06-24 |
 | [Stick with U](https://open.spotify.com/track/4MFfg6PS5YYsWaOHeUlPyF) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick with U](https://open.spotify.com/album/4zSaVRNtwB0eNCkqwBdDnK) | 2:44 | 2022-07-29 | 2023-02-04 |
 | [Stick With U](https://open.spotify.com/track/2JquddjybdDlgVbOddsp3B) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick With U](https://open.spotify.com/album/6D65CQ4A2LiCHY4HiZbP66) | 2:44 | 2022-02-11 | 2022-07-29 |
 | [Still Need People](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Still Need People](https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9) | 3:02 | 2022-02-11 | 2022-07-15 |
@@ -262,6 +262,7 @@
 | [sugar rush](https://open.spotify.com/track/5IeQiI1wQxEbvYVdZfTCis) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [airmiles](https://open.spotify.com/album/4J2igpgIKa2ttlwZ5yCWGn) | 3:07 | 2022-10-28 |  |
 | [Summer Daze](https://open.spotify.com/track/6IicRTrwqlLmP0d3s5cFra) | [Kev Twine](https://open.spotify.com/artist/00LMt4rvi6xkahRJ8UVKDU) | [Summer Daze](https://open.spotify.com/album/7IMNPhTvyJ524UefN6aTQW) | 2:19 | 2022-02-12 |  |
 | [Summer Haze](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Summer Haze](https://open.spotify.com/album/6QY9bO1j7bH2cI0BtMA4yV) | 3:28 | 2022-06-17 |  |
+| [Summer Youth](https://open.spotify.com/track/2nj2H3Eq1BhxBkJIomPlIZ) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Summer Youth](https://open.spotify.com/album/4HpLAXUjv7qQiDkYRb0LFH) | 2:37 | 2023-06-23 |  |
 | [Summerbreeze](https://open.spotify.com/track/1KXFkPjqBiOJzm8lk2Zrjz) | [Mative](https://open.spotify.com/artist/2HqeAlknsWkZNva1RsII8U) | [Summerbreeze](https://open.spotify.com/album/6zgDETRt2rzi2tOQwQZ6jV) | 1:50 | 2022-02-11 |  |
 | [Sun Meets Moon](https://open.spotify.com/track/3gEAPIikCAa8ch4IT1mmwe) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Sun Meets Moon](https://open.spotify.com/album/0CLlGhAKoLPlaHGkY6ttrv) | 2:38 | 2021-10-26 | 2022-02-12 |
 | [sunday afternoon tea](https://open.spotify.com/track/6dFt13csMtXDuLqjZdEqk7) | [moves like silk](https://open.spotify.com/artist/736t4hEChUnLa5ww5kpRWB) | [sunday afternoon tea](https://open.spotify.com/album/5F3u2s9zK0InbrDTAEmeIX) | 2:20 | 2021-10-12 | 2022-02-12 |

@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-86 songs - 4 hr 49 min
+87 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Startschot](https://open.spotify.com/track/5TYnWTit6kBSCJ3AfFZtJv) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Startschot](https://open.spotify.com/album/4pyUTzR03zB3F8cVmThH4H) | 3:59 | 2023-02-23 |  |
 | [Staying](https://open.spotify.com/track/4CKdLLyc4cu5oKFuflIX6b) | [Opera Alaska](https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx) | [Staying](https://open.spotify.com/album/4bgpK9yRrpcB2NGO7CDRav) | 3:19 | 2023-02-23 | 2023-04-01 |
 | [Step by Step](https://open.spotify.com/track/6VqudE83bSLJyorHfESAEw) | [EUT](https://open.spotify.com/artist/41doMenKZkgW8DUwH3WwV5) | [Step by Step](https://open.spotify.com/album/3H3mpuzo9kD19lsgg7MfBV) | 4:07 | 2023-02-23 |  |
-| [Stormy Weather](https://open.spotify.com/track/4KNEcjjLAk3cuIlYAtpODF) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [U](https://open.spotify.com/album/60WgNanjZ9t0usk1svK47C) | 3:44 | 2023-02-23 |  |
+| [Stormy Weather](https://open.spotify.com/track/4KNEcjjLAk3cuIlYAtpODF) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [U](https://open.spotify.com/album/60WgNanjZ9t0usk1svK47C) | 3:44 | 2023-02-23 | 2023-06-24 |
 | [Suicide Club](https://open.spotify.com/track/0pnED1pCTIMwyyeAEoux2g) | [GIAN](https://open.spotify.com/artist/5T9IzVTXZRCWuaEZzInXP3), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Suicide Club](https://open.spotify.com/album/1NiAQnXZVBbldqwJDv5GAe) | 3:00 | 2023-02-23 | 2023-05-26 |
 | [Take It In](https://open.spotify.com/track/30vIfB5gtZGGFg97dEjOEe) | [Myrwood](https://open.spotify.com/artist/1fy4Uo845NnAgRroPZk3LD) | [Take It In](https://open.spotify.com/album/5qdadtcVVOMgJIAYJKlOP4) | 3:32 | 2023-02-23 |  |
 | [The Edge](https://open.spotify.com/track/6qz0vy1Vmlk0CkcIZVfDe6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [The Edge](https://open.spotify.com/album/4xBRWqgv6LwgOO15guGN5Z) | 4:07 | 2023-02-23 | 2023-04-01 |
@@ -84,6 +84,7 @@
 | [Vanavond](https://open.spotify.com/track/5bNXaDNh0p6qQk1CWs9tVO) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [Vanavond](https://open.spotify.com/album/5PpFQHdoDf04BYHH29Rtwy) | 2:34 | 2023-02-23 |  |
 | [VERFBOMMENVERF](https://open.spotify.com/track/5a8XU0IawHs3qtkET6LiK0) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [VERFBOMMENVERF](https://open.spotify.com/album/7aKZV7ORfgsplHnJfchgTf) | 2:30 | 2023-05-25 |  |
 | [Verloren Tijd](https://open.spotify.com/track/4M8HWpd7FGfbyOpVmlwX4n) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Verloren Tijd](https://open.spotify.com/album/24oUDWENsdExX80f3CClSJ) | 3:46 | 2023-02-23 | 2023-03-18 |
+| [Vijver](https://open.spotify.com/track/0nxo2TJxgC0hd8wMvlzXon) | [Wolfskers](https://open.spotify.com/artist/3DGVNPZVfaueCYe9OP9I1M) | [Vijver](https://open.spotify.com/album/10i1NxqMsxbSPqjosPb6AG) | 3:20 | 2023-06-23 |  |
 | [Voor Mij](https://open.spotify.com/track/7pzkGhxM5Y99vKROli3Tpc) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:35 | 2023-02-23 | 2023-06-09 |
 | [Waarheid](https://open.spotify.com/track/4RhNIEtjdzHG2tMZxdNtnp) | [Cassandra Onck](https://open.spotify.com/artist/7I8XQUz2YhHaF41tpOpwbW) | [Fractalnoia](https://open.spotify.com/album/5b5IyYzwJEOoJ6mh5PY5sq) | 3:31 | 2023-03-16 |  |
 | [Waarom /2](https://open.spotify.com/track/1BjpwQcgj54IukIeD9eMEs) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Waarom /2](https://open.spotify.com/album/2BIesNOHRfDIy0moaQc3gD) | 3:19 | 2023-02-23 | 2023-05-26 |

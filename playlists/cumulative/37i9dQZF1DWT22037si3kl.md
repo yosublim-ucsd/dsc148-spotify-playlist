@@ -2,9 +2,9 @@
 
 ### [O Drip](https://open.spotify.com/playlist/37i9dQZF1DWT22037si3kl)
 
-> Chique e confortável como a realeza do Trap\. Foto: Tz da Coronel
+> Chique e confortável como a realeza do Trap\. Foto: Major RD
 
-225 songs - 11 hr 16 min
+226 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Nascido Pra Ser Rei](https://open.spotify.com/track/4ToiWhiO0NHjhaBjFz4JDf) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [nvhuel](https://open.spotify.com/artist/1FwW77wjo2Ri4RDWIXsLen) | [Nascido Pra Ser Rei](https://open.spotify.com/album/6Rq6eAjewxn9UFtx2EHTjn) | 3:03 | 2022-03-18 | 2022-04-29 |
 | [Negrão Demais](https://open.spotify.com/track/7AGJTioC8QBnGWJlhxHXuq) | [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Negrão Demais](https://open.spotify.com/album/6mrxtUYxFHtDSkwZlP4GDW) | 2:32 | 2022-03-18 | 2022-03-26 |
 | [Nike Bolha](https://open.spotify.com/track/4ZUZ08cPAVeWBVBFjT61Gh) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Nike Bolha](https://open.spotify.com/album/09RMU8rZLSzxwm1Hc9MMaR) | 2:11 | 2022-04-18 | 2022-05-20 |
+| [No Bank's](https://open.spotify.com/track/4Wwm8sCBEBuVYie9jiFvx9) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [No Bank's](https://open.spotify.com/album/07QrmBl9FqFiDYUd1jY4C8) | 3:08 | 2023-06-23 |  |
 | [No Love](https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [No Love](https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo) | 3:00 | 2023-05-12 |  |
 | [No Love](https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [No Love](https://open.spotify.com/album/50GSItNqYJip64TPybq3A4) | 3:00 | 2022-09-05 | 2023-05-20 |
 | [NO WAY](https://open.spotify.com/track/7wprYFS7O5GZC3EOeDS8ce) | [NN3RD](https://open.spotify.com/artist/1Z03arRtzZ9BC49yiCQ839), [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [NO WAY](https://open.spotify.com/album/0huWAe5IoXvu2oP1VZEf1L) | 2:06 | 2023-04-14 | 2023-04-22 |
@@ -194,7 +195,7 @@
 | [Royal Salute](https://open.spotify.com/track/3v9Pr9ha7UezSYZAlpOx8o) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Royal Salute](https://open.spotify.com/album/4ytptXvi8DRm1jbXwoklwH) | 4:39 | 2022-03-18 | 2023-04-19 |
 | [Santa Fé](https://open.spotify.com/track/5EYTdBSpwwdKjfswFez9xI) | [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [Nenz](https://open.spotify.com/artist/1wYaQmaQqve7ig9GK8sO9Y), [Vilãodubeat](https://open.spotify.com/artist/1QgZKfMoBYqm2LIArWWJ9W) | [Santa Fé](https://open.spotify.com/album/3NeXJUqKg4iFpz3gGQQET6) | 2:49 | 2022-08-26 | 2022-09-03 |
 | [Se Segura](https://open.spotify.com/track/5DAUCc5kXbwt5q9wTyCN04) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [Se Segura](https://open.spotify.com/album/2DCkq6Wsu2n1rybMf7cGfU) | 2:18 | 2022-09-17 | 2022-10-08 |
-| [SEMPRE TRAVADO](https://open.spotify.com/track/3mYblXOntVWfzRccFzQemi) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A) | [SEMPRE TRAVADO](https://open.spotify.com/album/1FRMcQix0gOchwfR1Y2LBF) | 1:45 | 2023-05-12 |  |
+| [SEMPRE TRAVADO](https://open.spotify.com/track/3mYblXOntVWfzRccFzQemi) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A) | [SEMPRE TRAVADO](https://open.spotify.com/album/1FRMcQix0gOchwfR1Y2LBF) | 1:45 | 2023-05-12 | 2023-06-24 |
 | [Sereno](https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Did Brock](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Sereno](https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ) | 2:16 | 2023-06-02 |  |
 | [Seu Namorado é Playboy](https://open.spotify.com/track/73JahDSn0kwEHFZtJzYXf0) | [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Nord Gang](https://open.spotify.com/artist/5i1hyePuUBJf1Yxv5V5WqA) | [Seu Namorado é Playboy](https://open.spotify.com/album/57bzWfU1i2nCCEzAord7Kz) | 2:39 | 2023-06-02 |  |
 | [Silenciador](https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Silenciador](https://open.spotify.com/album/0R7Z7BN0utY3V8e1MOWmxM) | 2:44 | 2022-11-25 | 2023-06-03 |

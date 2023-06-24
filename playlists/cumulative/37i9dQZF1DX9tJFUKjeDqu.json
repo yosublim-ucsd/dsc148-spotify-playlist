@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/1j5ZyGDzl6VD8QMIKLkPhd"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Casey",
+          "url": "https://open.spotify.com/artist/7vdPBmEFfs7UdQIF7j1rhJ"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168964,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/5108X2u7A5haUtghBXBOJL"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/00gjkhEHHnrATP8ORz4C2G"
       },

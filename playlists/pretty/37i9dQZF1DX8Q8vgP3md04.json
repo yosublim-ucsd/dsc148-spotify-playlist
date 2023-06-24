@@ -1,18 +1,18 @@
 {
   "description": "Hit music from Ethiopia's finest.",
-  "num_followers": 16161,
+  "num_followers": 16174,
   "original_name": "Ethio-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTYwNjVjMTRlNTk1YTAxN2UxZDU1ZWE0ZTMxMGMxZTgzYjcyZmM5",
+  "snapshot_id": "MCw0NDVjM2E4MGRlMjFlNGM3YWU2MTVkMTE1Zjk3ODNjODk5NjliMjkw",
   "tracks": [
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
-        "name": "Bayish",
-        "url": "https://open.spotify.com/album/1O5cvXeKsXahndfs5KDAnA"
+        "name": "Sherosa",
+        "url": "https://open.spotify.com/album/1oHNRptCAPInR033NI1pfa"
       },
       "artists": [
         {
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/3YOmlimmUHkxvGOKvjHxYp"
         }
       ],
-      "duration_ms": 245934,
-      "name": "Bayish",
-      "url": "https://open.spotify.com/track/576KoTxxx3Ap5jOMU9AO0T"
+      "duration_ms": 208000,
+      "name": "Sherosa",
+      "url": "https://open.spotify.com/track/40FlcwnMrGOAaOzWn6kQg9"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Darm Yelat",
         "url": "https://open.spotify.com/album/5WbVCGdmMmWVjCbR64FghT"
@@ -41,7 +41,39 @@
       "url": "https://open.spotify.com/track/6SVoDXBSU1eZKRdokV2yaT"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
+      "album": {
+        "name": "DEJARME LLEVAR",
+        "url": "https://open.spotify.com/album/0ZOP15lhHm3J6hdNPhu23A"
+      },
+      "artists": [
+        {
+          "name": "Nadlyn",
+          "url": "https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "DEJARME LLEVAR",
+      "url": "https://open.spotify.com/track/0TCzFRMCWyMbu9kkwpEtak"
+    },
+    {
+      "added_at": "2023-06-23 12:27:03",
+      "album": {
+        "name": "Tiritaye",
+        "url": "https://open.spotify.com/album/1yh4cLMTXqSRqz5G5cGb4v"
+      },
+      "artists": [
+        {
+          "name": "Esubalew Yetayew",
+          "url": "https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Tiritaye",
+      "url": "https://open.spotify.com/track/6yczkZAYHZ1phW2eUd1IDR"
+    },
+    {
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Qitsbet",
         "url": "https://open.spotify.com/album/0Cml7FJiuQWF4aaPrhBV5Y"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/5fMFrjOkltUkTKPlV7qtRM"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Baby I Like You",
         "url": "https://open.spotify.com/album/7CqSOctRr8f69vJ0tf6Guf"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/2vHxbqyjmmWJbjXwA5vemN"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Tewedaj, Vol. 1",
         "url": "https://open.spotify.com/album/6xDnveRco4B2JmHZdJeV6W"
@@ -89,23 +121,7 @@
       "url": "https://open.spotify.com/track/4FHNogeGpRbEFRlLCqw1GH"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
-      "album": {
-        "name": "YOU GOT ME LIKE",
-        "url": "https://open.spotify.com/album/61ocn0mmY1LmggaCxqq89M"
-      },
-      "artists": [
-        {
-          "name": "Nadlyn",
-          "url": "https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "YOU GOT ME LIKE",
-      "url": "https://open.spotify.com/track/33irahuIeYwrWIwdB515O9"
-    },
-    {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Eregnaye",
         "url": "https://open.spotify.com/album/5txMikXdaVUvDjzmOAuMe9"
@@ -125,7 +141,23 @@
       "url": "https://open.spotify.com/track/7ypVDpwS7wfIss9W8F3kZK"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
+      "album": {
+        "name": "Kochegn",
+        "url": "https://open.spotify.com/album/1YOB2u3doahWCiLxuI0FEO"
+      },
+      "artists": [
+        {
+          "name": "Hewan Gebrewold",
+          "url": "https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE"
+        }
+      ],
+      "duration_ms": 250105,
+      "name": "Kochegn",
+      "url": "https://open.spotify.com/track/6Z0S4N9qluFRoYFcjQyV3H"
+    },
+    {
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Asira Andu Getsoche",
         "url": "https://open.spotify.com/album/27bquKGjQcjSFpBk5ybE3H"
@@ -141,23 +173,23 @@
       "url": "https://open.spotify.com/track/1ndWXkJUryhxsTjyMWL58l"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
-        "name": "DEJARME LLEVAR",
-        "url": "https://open.spotify.com/album/0ZOP15lhHm3J6hdNPhu23A"
+        "name": "Bayish",
+        "url": "https://open.spotify.com/album/1O5cvXeKsXahndfs5KDAnA"
       },
       "artists": [
         {
-          "name": "Nadlyn",
-          "url": "https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X"
+          "name": "Dagi D",
+          "url": "https://open.spotify.com/artist/3YOmlimmUHkxvGOKvjHxYp"
         }
       ],
-      "duration_ms": 173000,
-      "name": "DEJARME LLEVAR",
-      "url": "https://open.spotify.com/track/0TCzFRMCWyMbu9kkwpEtak"
+      "duration_ms": 245934,
+      "name": "Bayish",
+      "url": "https://open.spotify.com/track/576KoTxxx3Ap5jOMU9AO0T"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE"
@@ -173,7 +205,7 @@
       "url": "https://open.spotify.com/track/2bvCPqlkiQGOUntCvgy1JR"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Wegegta",
         "url": "https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R"
@@ -189,7 +221,7 @@
       "url": "https://open.spotify.com/track/63CHnczvavEof74GIzfmp5"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Vol \u136b",
         "url": "https://open.spotify.com/album/7yRKIIpvDsYHAseBHnon8z"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/4bmybzAerSejzAKr5KTJCj"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Alena",
         "url": "https://open.spotify.com/album/0IlHmRP1rWcPy2oSwrroz0"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/2L4yROkUCTqOxGAE7i6kst"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Bel Jalo",
         "url": "https://open.spotify.com/album/0sjuqGgb39JZ2CQf29uIfg"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/06ieYukIv45hDz1gaGQCUP"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Lageba New",
         "url": "https://open.spotify.com/album/1cLOZ7hjPx1d5qWUK1ImXY"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/3dUwM1SPDO9WtawRzN1otb"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Lerasih New",
         "url": "https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv"
@@ -269,23 +301,7 @@
       "url": "https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
-      "album": {
-        "name": "Chaw Tilina",
-        "url": "https://open.spotify.com/album/2lN05SxdWxOx6sfhP0vTDQ"
-      },
-      "artists": [
-        {
-          "name": "Esubalew Yetayew",
-          "url": "https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Chaw Tilina",
-      "url": "https://open.spotify.com/track/5imDrGjz7SeqJadNh8Iryl"
-    },
-    {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Debdabew",
         "url": "https://open.spotify.com/album/6EnCinWmYu4RLO4hHfK593"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/3SZkTKou5arG4fI4O2krPE"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Aynama",
         "url": "https://open.spotify.com/album/2UG2pd1aBEDIFetK9Gm9na"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/6gf5wTdci9QTxjJfc8UDlf"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Maalan Jira",
         "url": "https://open.spotify.com/album/3QNhcBBhUy4FqN1wHnfRE5"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/3X7RnmGwyfOy2Qr5nn1u1i"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Nahom's Favorite, Vol. 16",
         "url": "https://open.spotify.com/album/3ef6vyNLF0MGhFSZvLcXcL"
@@ -357,7 +373,23 @@
       "url": "https://open.spotify.com/track/35RzQeM58TA744ln3HaRDA"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
+      "album": {
+        "name": "YOU GOT ME LIKE",
+        "url": "https://open.spotify.com/album/61ocn0mmY1LmggaCxqq89M"
+      },
+      "artists": [
+        {
+          "name": "Nadlyn",
+          "url": "https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "YOU GOT ME LIKE",
+      "url": "https://open.spotify.com/track/33irahuIeYwrWIwdB515O9"
+    },
+    {
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Vol. \u136a",
         "url": "https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/71DGTsCqCWt63Rb6KZ4mUL"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Hewan",
         "url": "https://open.spotify.com/album/7wBjOh16t8N52X8jUngcxD"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/4PrrAmcyo4P6NBivJ8OlZF"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Jegna",
         "url": "https://open.spotify.com/album/0t3z1KzzscbB49f6U3btUQ"
@@ -405,7 +437,23 @@
       "url": "https://open.spotify.com/track/6iQkqugtqS7wC5FWOTlQ98"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
+      "album": {
+        "name": "Chaw Tilina",
+        "url": "https://open.spotify.com/album/2lN05SxdWxOx6sfhP0vTDQ"
+      },
+      "artists": [
+        {
+          "name": "Esubalew Yetayew",
+          "url": "https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Chaw Tilina",
+      "url": "https://open.spotify.com/track/5imDrGjz7SeqJadNh8Iryl"
+    },
+    {
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Arada, Vol. 2",
         "url": "https://open.spotify.com/album/553m78LUWrXYmYPoGF18La"
@@ -433,7 +481,7 @@
       "url": "https://open.spotify.com/track/5WUkmyLtLykEzctv4HRr7Z"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Ethiopia",
         "url": "https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ"
@@ -449,7 +497,7 @@
       "url": "https://open.spotify.com/track/7aRNqr3q0Cg064SNLUpX37"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Wegegta",
         "url": "https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R"
@@ -465,7 +513,7 @@
       "url": "https://open.spotify.com/track/6DJRq42LKg4I0z0BWFPQZA"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "To Know Without Knowing",
         "url": "https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX"
@@ -485,7 +533,7 @@
       "url": "https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Live In Paris",
         "url": "https://open.spotify.com/album/7hRfo6CmgWCk8ekWnG2zpR"
@@ -501,7 +549,7 @@
       "url": "https://open.spotify.com/track/5Ib3C5Pwn5vVGjONPEjlJg"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Vol. \u136a",
         "url": "https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf"
@@ -517,7 +565,7 @@
       "url": "https://open.spotify.com/track/3cREJgXBNWJUh86DXq8T1M"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Nahiom Favorites, Vol. 19",
         "url": "https://open.spotify.com/album/4DfZwvE1S6ZimCJ7dEYwXg"
@@ -533,7 +581,7 @@
       "url": "https://open.spotify.com/track/784q54gDzR98Mfd56z56OF"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Ende Kal",
         "url": "https://open.spotify.com/album/1b6gLk9kr3bObvC0u7R9Vo"
@@ -549,7 +597,7 @@
       "url": "https://open.spotify.com/track/5nUbqoz7j9btdIZkkuJL5a"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Andiken",
         "url": "https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf"
@@ -565,7 +613,7 @@
       "url": "https://open.spotify.com/track/1o7uMGTxPvKVsS8H5g8kEw"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Gerager",
         "url": "https://open.spotify.com/album/5NpaDCWohCCTFJL4iWWtFa"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/1JU3NgOVMalFQ64EDh8ljr"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Lambang Cinta",
         "url": "https://open.spotify.com/album/3GAZG0wCgrnV3zUYTMgScm"
@@ -601,7 +649,7 @@
       "url": "https://open.spotify.com/track/6NR2ym3cncgTXZRgMEadEX"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Rega",
         "url": "https://open.spotify.com/album/6V0xmnyjX86ZfvuUTVKaLB"
@@ -625,7 +673,7 @@
       "url": "https://open.spotify.com/track/5srRfLAfga930OVMWupdB7"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Fikir Beamargna",
         "url": "https://open.spotify.com/album/0rYlsn4ivsz2EMPtv4S66x"
@@ -641,7 +689,7 @@
       "url": "https://open.spotify.com/track/3u0vFUuILcUmhQXUzBHt7F"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Arifzefen Singles Collection, Vol. I",
         "url": "https://open.spotify.com/album/7uiQJEWNzZt6puyMWX2J2d"
@@ -657,7 +705,7 @@
       "url": "https://open.spotify.com/track/5xgAoUsx0TV1bbYzTpxvgj"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Ethiopia",
         "url": "https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ"
@@ -673,7 +721,7 @@
       "url": "https://open.spotify.com/track/00T2SlsSVzJSVYMmbAiclO"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Kal Bekal",
         "url": "https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l"
@@ -689,7 +737,7 @@
       "url": "https://open.spotify.com/track/7bTnPv7Wi0rLvgWvC6uxvo"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Andiken",
         "url": "https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf"
@@ -705,7 +753,7 @@
       "url": "https://open.spotify.com/track/0YMIDzzUtGmPVGMhBXDkzB"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Tikur Anbessa",
         "url": "https://open.spotify.com/album/00p6FsZcNMhNMjJu3cc5p8"
@@ -721,7 +769,7 @@
       "url": "https://open.spotify.com/track/4UISxp6gvMxGkjQfFbonuC"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Sidist (VI)",
         "url": "https://open.spotify.com/album/25lSM4Kr3XmfZPALspAiNH"
@@ -737,7 +785,7 @@
       "url": "https://open.spotify.com/track/0ZM9wgVnliFhDKdNdND349"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Vol. \u136a",
         "url": "https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf"
@@ -753,7 +801,7 @@
       "url": "https://open.spotify.com/track/3OADWQ0NN2leWsq7nWOcdi"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Lerasih New",
         "url": "https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv"
@@ -769,7 +817,7 @@
       "url": "https://open.spotify.com/track/2p3jtfV6Zq0aegDj1Mpbm8"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "'Sey",
         "url": "https://open.spotify.com/album/2n1YBeI82wlaiLQkg1POZ0"
@@ -785,7 +833,7 @@
       "url": "https://open.spotify.com/track/6q26FbrCmwzSr869JeYXaT"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Tilobign",
         "url": "https://open.spotify.com/album/0r806TJjYUw4g4d5LEoSh9"
@@ -801,7 +849,7 @@
       "url": "https://open.spotify.com/track/57eim2kUA5BYD7m6fdLeDM"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Mengedegna",
         "url": "https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3"
@@ -817,7 +865,7 @@
       "url": "https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Hidden Beauty",
         "url": "https://open.spotify.com/album/2HPUUWewF1dWh0IXbP6LUh"
@@ -833,7 +881,7 @@
       "url": "https://open.spotify.com/track/2UMLCweE5NvY4sdeJCaFFX"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Yeaddis Ken Tsehay",
         "url": "https://open.spotify.com/album/77Nr43rl51Q1PsN78MlhCF"
@@ -849,7 +897,7 @@
       "url": "https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Kanchiga New",
         "url": "https://open.spotify.com/album/2m9twp71nnWlbmv7elggTA"
@@ -869,7 +917,7 @@
       "url": "https://open.spotify.com/track/2ccPSIfmf9PmTkyywfeRRj"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Eshi Kezias",
         "url": "https://open.spotify.com/album/6hpPy3EejdGmw28IgZdCE9"
@@ -885,7 +933,7 @@
       "url": "https://open.spotify.com/track/0Y9G7e3yCzIaNEjDW6i83A"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Welday Weni",
         "url": "https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z"
@@ -901,7 +949,7 @@
       "url": "https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Yene Zema",
         "url": "https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf"
@@ -917,7 +965,7 @@
       "url": "https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Sew, Pt. 1 Mot",
         "url": "https://open.spotify.com/album/7bM7TdqRgpuDGl15zjFPet"
@@ -933,23 +981,7 @@
       "url": "https://open.spotify.com/track/4UuPQugjrx9pQyEmfOeLrs"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
-      "album": {
-        "name": "Nahom Favorite, Vol. 14 (Best Collections)",
-        "url": "https://open.spotify.com/album/3M5gXrIX9VhqPfsvfOHI51"
-      },
-      "artists": [
-        {
-          "name": "Natti Haile",
-          "url": "https://open.spotify.com/artist/7wqwO7cnVqGdHenEADW9k2"
-        }
-      ],
-      "duration_ms": 295600,
-      "name": "Bob Marly",
-      "url": "https://open.spotify.com/track/0zGOvZFRuKSe3SasV1TFue"
-    },
-    {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Studio 30 Volume 1",
         "url": "https://open.spotify.com/album/3BGMxmK1XEj84UosGYTk61"
@@ -965,23 +997,7 @@
       "url": "https://open.spotify.com/track/1wmNXWGVkLxaJNYWNV8oq5"
     },
     {
-      "added_at": "2023-05-19 07:24:54",
-      "album": {
-        "name": "Teddy",
-        "url": "https://open.spotify.com/album/5h1VNzRDbt6hayX9hgHuf8"
-      },
-      "artists": [
-        {
-          "name": "Theodros Kassahun",
-          "url": "https://open.spotify.com/artist/2CMA5fXRHJUfaokzsmGucv"
-        }
-      ],
-      "duration_ms": 337040,
-      "name": "Shegnehush",
-      "url": "https://open.spotify.com/track/4bUns4JjV5XAYlSx0i9lYI"
-    },
-    {
-      "added_at": "2023-05-19 07:24:54",
+      "added_at": "2023-06-23 12:27:03",
       "album": {
         "name": "Atiyo",
         "url": "https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV"
@@ -995,22 +1011,6 @@
       "duration_ms": 290843,
       "name": "Atiyo",
       "url": "https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j"
-    },
-    {
-      "added_at": "2023-05-19 07:24:54",
-      "album": {
-        "name": "Ethiopia",
-        "url": "https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ"
-      },
-      "artists": [
-        {
-          "name": "Teddy Afro",
-          "url": "https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p"
-        }
-      ],
-      "duration_ms": 397093,
-      "name": "Ethiopia",
-      "url": "https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z"
     }
   ],
   "unique_name": "Ethio-Pop",

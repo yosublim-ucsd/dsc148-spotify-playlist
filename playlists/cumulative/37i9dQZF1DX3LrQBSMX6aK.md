@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-85 songs - 20 hr 27 min
+86 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,13 +31,14 @@
 | [Jagadodharana \(Kadri Gopalnath\-Sax\)](https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp) | [Vadya Sangamam](https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or) | [Vadya Sangamam](https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo) | 7:26 | 2021-12-07 | 2022-12-10 |
 | [Kaliyugavaradana](https://open.spotify.com/track/27YrqgpUZ0xWwGW5TSy11W) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Rama Sreerama](https://open.spotify.com/album/6GYoGq7MnyEe3CyTA7lEw0) | 4:44 | 2021-12-07 | 2022-07-29 |
 | [Kaliyugavaradana](https://open.spotify.com/track/7JiPoVDTmteJ0USnow2C1p) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Rama Sreerama](https://open.spotify.com/album/3l9Iy9Fae5OinuELBH1gCq) | 4:44 | 2022-07-26 | 2023-01-16 |
-| [Mangal Bhairav\-Jod](https://open.spotify.com/track/2pPM04AXTJX2PPkYiOrKXc) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx) | [Prabhat Sagar](https://open.spotify.com/album/42DZZlRvrsRP2MkzHoabLy) | 9:52 | 2022-12-09 |  |
+| [Mangal Bhairav\-Jod](https://open.spotify.com/track/2pPM04AXTJX2PPkYiOrKXc) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx) | [Prabhat Sagar](https://open.spotify.com/album/42DZZlRvrsRP2MkzHoabLy) | 9:52 | 2022-12-09 | 2023-06-24 |
 | [Meevalla](https://open.spotify.com/track/0qgq1JUHLMv2K6YJdt959l) | [E\. Gayathri](https://open.spotify.com/artist/0L2KwWWDMeKwkYDlGWJw0B) | [Veena \(Carnatic Classical\) Vol\. 2](https://open.spotify.com/album/0tsVdUojduaZzkaCPBEWlZ) | 3:24 | 2021-12-07 | 2023-04-17 |
 | [Mohanam](https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Mohanam](https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp) | 5:59 | 2023-01-20 |  |
 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 | 2021-12-07 |  |
 | [Nazariya Lag Jayegi](https://open.spotify.com/track/0iHfz3tCIDU323Z6oER2eF) | [Marina Ahmad](https://open.spotify.com/artist/2pGXU7y3nnjxjK2nvq7Bae) | [Nazariya Lag Jayegi](https://open.spotify.com/album/1FCH4k508ltzrqzS76BRkU) | 11:52 | 2023-06-16 |  |
 | [Om Namah Shivay](https://open.spotify.com/track/2S2Z0ll0OMa16uBT5UDvIa) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0), [Sanjeev Abhyankar](https://open.spotify.com/artist/70napPWBnaiRereRVDhyB1) | [Spiritual Legacy](https://open.spotify.com/album/1k4ohi81faehwtDi0lYfFp) | 8:36 | 2021-12-07 |  |
 | [Palna Jhule Nandlal](https://open.spotify.com/track/68bndjlqZTrbOa5qhts7ev) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Palna Jhule Nandlal](https://open.spotify.com/album/6a29FaR1tsnkxOqEMFWg97) | 7:14 | 2021-12-07 |  |
+| [Raag Bhairavi \- Sade Naal Gallan Kar Ke Chala](https://open.spotify.com/track/3bpF81PskvK8ZipzVZX3Qo) | [Sunanda Sharma](https://open.spotify.com/artist/1O1GPLg0gh9tsP7SfejbTW) | [Sade Naal Gallan Kar Ke Chala](https://open.spotify.com/album/1J7la2FJX8KybefgeesihR) | 6:18 | 2023-06-23 |  |
 | [Raag Hansdhwani Alap](https://open.spotify.com/track/7BJmfkCvVytUurjcApEbHg) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Shubhabrata Saha](https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU) | [Raag Hansdhwani](https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG) | 4:27 | 2023-01-09 |  |
 | [Raag Hansdhwani Gat in Matta Taal](https://open.spotify.com/track/1hrJRx256v2UR6maarb8gT) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Shubhabrata Saha](https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU) | [Raag Hansdhwani](https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG) | 9:29 | 2023-01-09 |  |
 | [Raag Hansdhwani Jod and Jhalla](https://open.spotify.com/track/7Ms7N8GxU46EsS57GECJu0) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Shubhabrata Saha](https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU) | [Raag Hansdhwani](https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG) | 5:36 | 2023-01-09 | 2023-05-10 |

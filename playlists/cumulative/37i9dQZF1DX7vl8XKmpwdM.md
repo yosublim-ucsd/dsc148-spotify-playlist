@@ -2,7 +2,7 @@
 
 ### [Latest Dance Tamil](https://open.spotify.com/playlist/37i9dQZF1DX7vl8XKmpwdM)
 
-> Dance Machi Dance<br/>Cover : Pathu Thala
+> Dance Machi Dance<br/>Cover : Leo
 
 104 songs - 6 hr 13 min
 

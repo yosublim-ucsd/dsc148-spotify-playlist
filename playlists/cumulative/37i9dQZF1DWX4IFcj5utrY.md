@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd?si=WJ19v7c4SZWPkIPaLo636Q">El Mukuka</a>
 
-849 songs - 3 day 6 hr 0 min
+850 songs - 3 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [Falling](https://open.spotify.com/track/1SKful9KuNbT6FJCWmJCXO) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Falling](https://open.spotify.com/album/1D6lNWWWhQDvBL7Qecso46) | 4:24 | 2023-06-16 |  |
 | [Falling \- Radio Mix](https://open.spotify.com/track/3RCSlLil6tsbwjydsBNZxf) | [Mark Stent](https://open.spotify.com/artist/2whiBQzZUS6fMkfOCqzXWS), [Hanco](https://open.spotify.com/artist/38XgRaHRNuwoy8DfI9Puy0) | [Falling](https://open.spotify.com/album/3ri2yz8dKPyEjLuy7DvqAx) | 3:02 | 2022-07-07 | 2022-07-15 |
 | [FarJen](https://open.spotify.com/track/5yU6Bn60UZwbe1l70bm6y9) | [Afro Carrib](https://open.spotify.com/artist/3SbrfODvyTbfh5XBOB380J) | [FarJen](https://open.spotify.com/album/4LSndFvIF2Yz4IvdPrzBYg) | 5:50 | 2022-01-20 | 2022-01-28 |
-| [Fearless](https://open.spotify.com/track/5oIL5ZyL1G5EA0000sHCRr) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Music Theory](https://open.spotify.com/album/7JjSLk4F2IRnWFq1msHPjc) | 5:13 | 2023-06-16 |  |
+| [Fearless](https://open.spotify.com/track/0tfdDeXSC3qMFwKaf4XTHE) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Music Theory](https://open.spotify.com/album/4wGrAgMdErbpvyD1n81feB) | 5:13 | 2023-06-23 |  |
+| [Fearless](https://open.spotify.com/track/5oIL5ZyL1G5EA0000sHCRr) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Music Theory](https://open.spotify.com/album/7JjSLk4F2IRnWFq1msHPjc) | 5:13 | 2023-06-16 | 2023-06-24 |
 | [Feeling](https://open.spotify.com/track/42JdN5sBkvSd2xAWEecbRB) | [John Lundun](https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk), [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC) | [14:20](https://open.spotify.com/album/05z59KseTvkyP9tsEE6lvl) | 4:21 | 2022-04-14 | 2022-06-03 |
 | [Feeling Good \- PAUZA Radio Edit](https://open.spotify.com/track/5oNSpfaT705A7eciOOdNk1) | [The Angels](https://open.spotify.com/artist/2pVGLwnxVTzWK6fdTzwVSz), [Shrii](https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Feeling Good \(Pauza Remix\)](https://open.spotify.com/album/7EOBTLrvjTNFnD5Oil88v1) | 3:53 | 2022-12-31 | 2023-01-20 |
 | [Feelings](https://open.spotify.com/track/6K87itLS0K3aUYLVIlxQdX) | [ADJUMA](https://open.spotify.com/artist/5BDQAVSa4c1UsvXlmufpio), [Laise Sanches](https://open.spotify.com/artist/2Me0AHsFcxnAbhQngtK621) | [Feelings](https://open.spotify.com/album/3puyriMFd361JmJR7PnaVh) | 6:38 | 2022-10-13 | 2022-11-08 |

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Mac Miller)",
-  "num_followers": 429352,
+  "num_followers": 429467,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTM1ZDBlM2Y4OTFlYTljZmJlYjg1MGE0MGJlODgwNzIzZDNiNWJl",
+  "snapshot_id": "MCw0OWU4ZTZmMGNkYWFlNDZlMGQ1MzVhMmQxNjUxZmFjNGIyNTE3MGYw",
   "tracks": [
     {
       "added_at": "2023-06-22 15:00:00",
@@ -47,6 +47,30 @@
       "duration_ms": 188290,
       "name": "Sittin' On Top Of The World (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95"
+    },
+    {
+      "added_at": "2023-06-22 15:00:00",
+      "album": {
+        "name": "Barbie World (with Aqua) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 109750,
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
       "added_at": "2023-06-22 15:00:00",
@@ -187,8 +211,8 @@
     {
       "added_at": "2023-06-22 15:00:00",
       "album": {
-        "name": "Rock Climbing (feat. M Huncho)",
-        "url": "https://open.spotify.com/album/61QZyI28o1QJs14AQAMRz6"
+        "name": "High Profile",
+        "url": "https://open.spotify.com/album/3FbUUs5VxCKExl9DPTBFf6"
       },
       "artists": [
         {
@@ -202,7 +226,7 @@
       ],
       "duration_ms": 170078,
       "name": "Rock Climbing (feat. M Huncho)",
-      "url": "https://open.spotify.com/track/2JXcBRbr4jXx08ANlQSNro"
+      "url": "https://open.spotify.com/track/0Mkn2M0bfkt1kBlJA1Z9tw"
     },
     {
       "added_at": "2023-06-22 15:00:00",
@@ -335,6 +359,22 @@
       "duration_ms": 165417,
       "name": "Extendo",
       "url": "https://open.spotify.com/track/2KXwDwaXZtQ35DrNmdQ2wh"
+    },
+    {
+      "added_at": "2023-06-22 15:00:00",
+      "album": {
+        "name": "Robberies",
+        "url": "https://open.spotify.com/album/2TTGhSL8VlgeoPac0G4aK0"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        }
+      ],
+      "duration_ms": 128567,
+      "name": "Robberies",
+      "url": "https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb"
     },
     {
       "added_at": "2023-06-22 15:00:00",

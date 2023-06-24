@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-310 songs - 15 hr 25 min
+311 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Kama](https://open.spotify.com/track/1SCV472JdWgdTVieHOEale) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Kama](https://open.spotify.com/album/5NNGEQOYsonnzf3fwEiwj3) | 3:40 | 2023-04-06 |  |
 | [Kinship](https://open.spotify.com/track/0lZYIXIXkyzwyCWptYemZH) | [Spring Euphemia](https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik) | [Kinship](https://open.spotify.com/album/2oZqK64LsvmZLtaw3mcA8B) | 3:02 | 2023-04-06 |  |
 | [Kissing the Ambience](https://open.spotify.com/track/3ge3sVwiK7csDa3QKb9Xqm) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Kissing the Ambience](https://open.spotify.com/album/5POHqBiKAdGSvvLtIE8AZP) | 3:06 | 2023-04-06 |  |
+| [Kujtimet](https://open.spotify.com/track/283VpOIFxubROj0o6mHD83) | [Qetesia](https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM) | [Kujtimet](https://open.spotify.com/album/0XDfEjLWDo0Sv1KsQnROmp) | 2:15 | 2023-06-23 |  |
 | [Lake Huron](https://open.spotify.com/track/2ozO03f0aVld5piFvRTN9i) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Austafjord / Lake Huron](https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa) | 3:15 | 2023-04-06 |  |
 | [Libre](https://open.spotify.com/track/0BCjtbFNaEJwVTIaho8CKp) | [Jovian Findlay](https://open.spotify.com/artist/5sG1B4jyp6nDdgZZlQW3O5) | [Libre](https://open.spotify.com/album/0m0XWF4ACGQ9a5AUvsrIaY) | 2:33 | 2023-04-06 |  |
 | [Light Sleeper](https://open.spotify.com/track/7eknTLiUUbGspdGNAfCxaz) | [Minja Nielsen](https://open.spotify.com/artist/3jlEJrMzCUENPaNM3IZsBo) | [Light Sleeper](https://open.spotify.com/album/4o6N8l3kLDS42Hh0IsEGH0) | 2:34 | 2023-04-06 |  |

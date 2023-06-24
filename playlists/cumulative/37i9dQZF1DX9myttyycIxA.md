@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: feeble little horse
+> Underground indie rock gems\. Cover: Geese
 
-990 songs - 2 day 8 hr 24 min
+994 songs - 2 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-06-17 | 2022-07-23 |
 | [2007](https://open.spotify.com/track/35WkfsT6kxdnKVntvIoLt8) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [2007](https://open.spotify.com/album/2D15Km6lpwSzUnRCYj8sfV) | 4:09 | 2022-09-16 | 2022-10-15 |
 | [27](https://open.spotify.com/track/1GXKnG7uoUr4RacaxE3e8m) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [27 / Hologram](https://open.spotify.com/album/4jsoh2EPJ5Jyo1xJSzepCu) | 3:12 | 2022-11-17 | 2023-03-04 |
+| [3D Country](https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/3453dOJZDbTPog3TyLklI4) | 5:13 | 2023-06-23 |  |
 | [4th of July](https://open.spotify.com/track/0rT9phb5EseNLh1Et7fkkJ) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 2:56 | 2023-06-15 |  |
 | [4th of July](https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [4th of July](https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0) | 2:56 | 2023-01-27 | 2023-04-01 |
 | [9/10](https://open.spotify.com/track/3oVJlt8KOIh6soEBp0DSuR) | [Keyboard Dog](https://open.spotify.com/artist/2nF1Bu7mDkYoeEYt02OU8z) | [9/10](https://open.spotify.com/album/6s5QGDRXgsjaEAcQsaEJh6) | 3:23 | 2022-04-01 | 2022-05-13 |
@@ -279,6 +280,7 @@
 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 | 2023-03-17 | 2023-06-16 |
 | [Dust Bunny](https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Dust Bunny](https://open.spotify.com/album/4Bmym3tMCYlY08OIpYQAb3) | 3:06 | 2022-07-01 | 2022-09-29 |
 | [Dyed in Wool](https://open.spotify.com/track/3PUyH5cJPUOMzg2DA6rZfT) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Forest People](https://open.spotify.com/album/6hWXpfnGb3ZCoIBQm3yTAk) | 3:39 | 2023-05-19 | 2023-06-16 |
+| [Easier To Run](https://open.spotify.com/track/5yKYejprpKJ7LaK23LL53q) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Easier To Run](https://open.spotify.com/album/5ZnaCRCRmkX7YtCzqmSKsi) | 3:06 | 2023-06-23 |  |
 | [Eastern Ave](https://open.spotify.com/track/36TAPA4t0xNIom74YqvFHe) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Eastern Ave](https://open.spotify.com/album/1LmWeZnQSDVz1qReWHDmgF) | 3:36 | 2023-04-14 | 2023-06-16 |
 | [Easy](https://open.spotify.com/track/4VHd2JFgcpgYOvJWP2D1aX) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Easy](https://open.spotify.com/album/2NjGLwVlQxVHSHNGSJMTMh) | 3:23 | 2021-04-30 | 2022-04-19 |
 | [Eat Men Eat](https://open.spotify.com/track/5CrlTDGXntzNChfVDW2Gbq) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Eat Men Eat](https://open.spotify.com/album/4sKsXkwWFXfXMsMVO7y4l4) | 3:08 | 2022-06-17 | 2022-06-25 |
@@ -444,6 +446,7 @@
 | [Honeysuckle](https://open.spotify.com/track/6umIKY6aZA3sT1TUJJ5mMv) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Honeysuckle](https://open.spotify.com/album/3H8BHWmccvd9NwpziIUEHU) | 3:43 | 2021-03-05 | 2022-04-14 |
 | [Hot and Clumsy](https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Hot and Clumsy](https://open.spotify.com/album/4mVZsDCMoexn0hrJxFy9f6) | 4:31 | 2023-01-06 | 2023-06-16 |
 | [Hot Rotten Grass Smell](https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 1:35 | 2023-04-11 | 2023-06-10 |
+| [Hot Things](https://open.spotify.com/track/2KjkXKhalXNzDgO8QOqIzu) | [Joiner](https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d) | [Hot Things](https://open.spotify.com/album/0KN38aCbmazAlM73rAnpyq) | 4:18 | 2023-06-23 |  |
 | [Housekeys](https://open.spotify.com/track/1qjSdzpCDpXhWqVtUlaFSM) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Housekeys](https://open.spotify.com/album/0NE4GXtHwL82n1NVKQa23k) | 3:44 | 2021-06-25 | 2022-03-27 |
 | [How Are You](https://open.spotify.com/track/0qEHThgZt3tBipnvHL5PYt) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [How Are You](https://open.spotify.com/album/3Pm1iQG3ktEPMacNr1Qqu1) | 4:33 | 2021-04-02 | 2022-04-29 |
 | [How It Ends](https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24) | 3:07 | 2022-09-23 | 2023-03-04 |
@@ -498,6 +501,7 @@
 | [In the Comedown](https://open.spotify.com/track/2vENYDPVrXnCR6wkd3SIzB) | [Divine Sweater](https://open.spotify.com/artist/6QhdyISn8fmch9ULKyqUoH) | [In the Comedown](https://open.spotify.com/album/4s1zdTSI8xJKIYfOiEvKPZ) | 3:02 | 2023-04-28 | 2023-06-10 |
 | [In the Meantime](https://open.spotify.com/track/7Mrb9CEAmEtPUaet43XZCw) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [In the Meantime](https://open.spotify.com/album/5v70tpqXr8diSOsABLEJAq) | 3:46 | 2021-03-05 | 2022-04-14 |
 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 | 2022-04-29 | 2022-07-09 |
+| [Independence Day](https://open.spotify.com/track/140upcUj9NvEdv19PK4dHc) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Independence Day](https://open.spotify.com/album/7rX6PD6nLirujJOppgwWMU) | 3:39 | 2023-06-23 |  |
 | [Indie Girls](https://open.spotify.com/track/5mvCGhJTcJAGAhJiC1m7AO) | [The Real Zebos](https://open.spotify.com/artist/2yx6tPwcJtU5oz7vXAWov7) | [no style](https://open.spotify.com/album/2IXUZFnQKFHHy7scpfKJc1) | 4:04 | 2022-09-30 | 2022-10-08 |
 | [Indie Girls](https://open.spotify.com/track/73TENcqZwgGMDRxqR3sZMl) | [The Real Zebos](https://open.spotify.com/artist/2yx6tPwcJtU5oz7vXAWov7) | [Indie Girls](https://open.spotify.com/album/4qwnOdmtEffELjDXVPWNc4) | 4:04 | 2022-08-26 | 2022-10-08 |
 | [Indiesong](https://open.spotify.com/track/4EM4LPdfjwZ3WPpEjVeCx9) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Indiesong](https://open.spotify.com/album/4pKzAxlXMySMRtrgqIOGnn) | 2:33 | 2022-04-01 | 2022-05-19 |
@@ -984,7 +988,7 @@
 | [Yet Another Window](https://open.spotify.com/track/6VWFRKxB4s0hH5lnY3FyZS) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Red Ladder](https://open.spotify.com/album/4Pi5ycF17d2dKxZuG1FPbn) | 2:54 | 2022-11-17 | 2022-12-17 |
 | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/track/5MUBfoCUmCLpGgqvvi3ool) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 3:22 | 2021-08-13 | 2022-04-27 |
 | [You are my House](https://open.spotify.com/track/5OP4YDqfuksol3eFGxhgvr) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Quiet the Room](https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE) | 3:08 | 2022-10-14 | 2023-01-18 |
-| [You don't even know who I am](https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [You don't even know who I am](https://open.spotify.com/album/119JYB6WfmQedqfjFBwgnl) | 4:04 | 2023-06-09 | 2023-06-16 |
+| [You don't even know who I am](https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [You don't even know who I am](https://open.spotify.com/album/119JYB6WfmQedqfjFBwgnl) | 4:04 | 2023-06-09 |  |
 | [You Follow Me Around](https://open.spotify.com/track/39O3wOayzkkTy0aqmqtTbp) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [Night Terrors](https://open.spotify.com/album/5UvoKdunC7lYfT8w1ZV7Jj) | 3:30 | 2022-10-21 | 2022-12-15 |
 | [You Follow Me Around](https://open.spotify.com/track/3PpvZqgohg0VaNiGDUMWEO) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/0rHEklUS6vtFMvCIdblQaI) | 3:30 | 2022-08-05 | 2022-11-13 |
 | [You Follow Me Around](https://open.spotify.com/track/6TFGjO5tVnsRw2ChX7vRoW) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/6ZtLLPauGWJcMjuHBd8Ky6) | 3:30 | 2022-08-05 | 2022-10-19 |

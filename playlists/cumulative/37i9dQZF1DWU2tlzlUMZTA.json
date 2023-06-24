@@ -463,6 +463,36 @@
     },
     {
       "album": {
+        "name": "Tiku Weds Sheru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ"
+      },
+      "artists": [
+        {
+          "name": "Gaurav Chatterji",
+          "url": "https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT"
+        },
+        {
+          "name": "Nihal Shetty",
+          "url": "https://open.spotify.com/artist/49ApJ981RngiSpTGiZdrwd"
+        },
+        {
+          "name": "Debanjali B Joshi",
+          "url": "https://open.spotify.com/artist/4h4AVggCiQMvEwddTyjxlD"
+        },
+        {
+          "name": "Shellee",
+          "url": "https://open.spotify.com/artist/24t83KaFZJjxJQIlGcUR0O"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156705,
+      "name": "DNA Bhaukali",
+      "url": "https://open.spotify.com/track/27OFRkLUNAQr1ZtpfBjg1P"
+    },
+    {
+      "album": {
         "name": "Garmi (From \"Street Dancer 3D\")",
         "url": "https://open.spotify.com/album/6NYmsKroUtthf1XpzGSCx7"
       },

@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-437 songs - 19 hr 32 min
+438 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Suuuper Wet](https://open.spotify.com/track/5gu2fJbwjd39hSP9vz6dYt) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [Suuuper Wet](https://open.spotify.com/album/45ccYmXx1vOVKVi5FUyycr) | 1:59 | 2022-11-25 |  |
 | [synthetic](https://open.spotify.com/track/08kj1mLiwnc4X4S2gC6HYO) | [dillyphone](https://open.spotify.com/artist/3MjBxFThZFerMrfiHYl5kT) | [synthetic](https://open.spotify.com/album/5FLvrmW24QH7cCM8Xj7dNY) | 2:31 | 2023-05-05 |  |
 | [T T T](https://open.spotify.com/track/6ViihlNChcSkC2L4MoGEJ7) | [Flite Crew](https://open.spotify.com/artist/4VglloPs1MLbkV0TAyGZzP) | [Wiktoria](https://open.spotify.com/album/7hXi2g38I1GwsArIAy8iHE) | 2:18 | 2022-04-05 | 2023-04-07 |
+| [Take a Breather](https://open.spotify.com/track/6rZT5UZgYh6j57HgTZbK8x) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Take a Breather](https://open.spotify.com/album/5HumVeclR4kLqN2oy38KPk) | 2:32 | 2023-06-23 |  |
 | [Teardrops](https://open.spotify.com/track/1bEbG97rrg2dwJvoZmvvRc) | [Cluster](https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN) | [Teardrops](https://open.spotify.com/album/4VgzapVUrLeXYUD2VXdf5d) | 1:54 | 2023-01-20 |  |
 | [The catch](https://open.spotify.com/track/2oDUcv2j140hzwPeZUKMWn) | [Naken.](https://open.spotify.com/artist/6MASa6n2anhamIe2oJnD4v) | [The catch](https://open.spotify.com/album/0SRmSvP5j5iRF4SMYwY2dC) | 1:51 | 2022-04-15 |  |
 | [The Dome](https://open.spotify.com/track/5wH6kAf9biVp1MSGuHku3v) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [The Dome](https://open.spotify.com/album/7DkFLfITAjSI3fRzKcWr2T) | 2:06 | 2023-05-22 |  |

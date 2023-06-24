@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Yellow Peril",
+        "url": "https://open.spotify.com/album/1oZfzj1CP6GqTps0pMqBPV"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216493,
+      "name": "Duck N\u2019 Dodge",
+      "url": "https://open.spotify.com/track/6pGmdibZoXSNbU4n9QX1lB"
+    },
+    {
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/6YYarhAfY1nBoYsDichIts"
       },

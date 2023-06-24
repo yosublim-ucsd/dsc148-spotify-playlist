@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Hevo 84
 
-334 songs - 18 hr 51 min
+335 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Mãe](https://open.spotify.com/track/4p7tg4WcsnDWxl4IGIBxKR) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Mãe](https://open.spotify.com/album/161ge9q4WPISTLr51Gmg6U) | 3:26 | 2023-05-12 |  |
 | [Mísseis Democráticos](https://open.spotify.com/track/4mNJF5gd4XRfJQrjrDevgd) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Mísseis Democráticos](https://open.spotify.com/album/15tJAU7yaz4lUqDyi56TUB) | 2:38 | 2022-07-01 | 2022-07-30 |
 | [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 | 2023-05-06 |
+| [Nada Se Compara](https://open.spotify.com/track/6ez3XirMlH7Hjo87z8M43P) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 2](https://open.spotify.com/album/1NnA13zzShAeTleK4sU1OY) | 3:16 | 2023-06-23 |  |
 | [Nada Voltará a Ser](https://open.spotify.com/track/53LY3OhPy0fbKqkOZZQ70Y) | [SÖMA](https://open.spotify.com/artist/7gdkQxIeATNsxEnbYYzSEc), [Clemente Tadeu](https://open.spotify.com/artist/6j16i15qN0X51i8afDnEFk) | [Nada Voltará a Ser](https://open.spotify.com/album/3RGpCejGAh93zSjAh88knx) | 3:41 | 2023-01-20 |  |
 | [Namorade](https://open.spotify.com/track/41kJiYsXVP6po4yrkfbc3K) | [Velhas Virgens](https://open.spotify.com/artist/1NG0y4OWAFilBtNB2Ey9jK) | [Namorade](https://open.spotify.com/album/0bm7sKgv6UxeAoYGlS3LtS) | 2:12 | 2022-06-03 | 2022-06-11 |
 | [Narciso](https://open.spotify.com/track/5enX4FkpRF6nRBl3Z8eKe6) | [Wander B.](https://open.spotify.com/artist/5ZFZFNtxUpjBuLM2u2Tayu) | [Narciso](https://open.spotify.com/album/4FLsDOobhQ9xRjNgyYHcFd) | 2:43 | 2023-05-26 |  |
@@ -236,7 +237,7 @@
 | [Para Todos Os Garotos Que Eu Já Matei](https://open.spotify.com/track/0YxoElqRCPLeIzWW34DWA5) | [Lia](https://open.spotify.com/artist/03sopzsMsDAuj5U0hSFvS3) | [Para Todos Os Garotos Que Eu Já Matei](https://open.spotify.com/album/33WgImZgWqrsiMiizY1cJ2) | 2:41 | 2022-02-04 | 2022-07-29 |
 | [Para Todos os Garotos Que Eu Já Matei](https://open.spotify.com/track/5OdYRGQRdN0ZtuD58yOett) | [lia suspira](https://open.spotify.com/artist/1dcS0XcfidYHAYJ5zGUMvr) | [Meu Quarto](https://open.spotify.com/album/4vsxLGhqhPDraVkE4HMGrq) | 2:41 | 2022-11-11 | 2022-11-13 |
 | [Para Todos os Garotos Que Eu Já Matei](https://open.spotify.com/track/6lgVeRqNEqBRsdQr8MKW7P) | [lia suspira](https://open.spotify.com/artist/1dcS0XcfidYHAYJ5zGUMvr) | [Para Todos os Garotos Que Eu Já Matei](https://open.spotify.com/album/0Q8jEA0Z3dJDJDIBbibA2Q) | 2:41 | 2022-07-15 | 2023-01-28 |
-| [Paradoxo](https://open.spotify.com/track/0KVO2HuQO24yNo7zLjeO8Z) | [Lado Brasil](https://open.spotify.com/artist/6OM33pkNXRD2UglPgDUu9z) | [Paradoxo](https://open.spotify.com/album/4omX4iA6T5O5TB0Nhy51Li) | 3:35 | 2023-05-19 |  |
+| [Paradoxo](https://open.spotify.com/track/0KVO2HuQO24yNo7zLjeO8Z) | [Lado Brasil](https://open.spotify.com/artist/6OM33pkNXRD2UglPgDUu9z) | [Paradoxo](https://open.spotify.com/album/4omX4iA6T5O5TB0Nhy51Li) | 3:35 | 2023-05-19 | 2023-06-24 |
 | [Paranoia Gigante](https://open.spotify.com/track/0tt3xMFyE29zsNT0GIWKB0) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z) | [Paranoia Gigante](https://open.spotify.com/album/2rFlV9QEHKscbrr8HbKRTO) | 2:22 | 2022-01-14 | 2022-03-18 |
 | [Partido](https://open.spotify.com/track/3PJLp4egjTYexNyFbG5doI) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG) | [Partido](https://open.spotify.com/album/5BeuqWG61r5jImQSa34KdA) | 3:49 | 2022-10-28 | 2023-05-20 |
 | [Passageira](https://open.spotify.com/track/4mkYd2T8dbLG6KtyT7Zh9F) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Passageira](https://open.spotify.com/album/7FPnMFyWc8gw6doOkUVmly) | 3:48 | 2022-05-20 | 2022-07-09 |

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-534 songs - 22 hr 42 min
+536 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Elements](https://open.spotify.com/track/2QW3U3MpayM3QMk67Ut99J) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Elements](https://open.spotify.com/album/5OXc7jNILuDvrrt5JrNgLH) | 3:12 | 2021-11-10 | 2022-09-09 |
 | [Encapsulation](https://open.spotify.com/track/6luvhGwShtZChuy2LuiWFn) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Knit](https://open.spotify.com/album/5bpPypgoPOTNFfPMDqkjwz) | 2:44 | 2022-06-17 | 2022-07-15 |
 | [Endless Road](https://open.spotify.com/track/1Kqx9kj7twQEexWCa4WHUZ) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu) | [Endless Road](https://open.spotify.com/album/04YdOVml7kXJN985zOOHPX) | 2:22 | 2022-06-17 |  |
+| [enveloped in light w/ renkon](https://open.spotify.com/track/7K98Miow57rmGvCHzhQjoY) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [mountain](https://open.spotify.com/album/62TTDigv36E1PWu2G51zqB) | 3:09 | 2023-06-23 |  |
 | [Escape](https://open.spotify.com/track/3FEMzs5uAomMdS2i24VCD9) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Escape](https://open.spotify.com/album/5AoBGsllGk1254c2UqTS2E) | 2:13 | 2022-11-25 |  |
 | [Estrellas Viejas](https://open.spotify.com/track/6vGxiIvhKlcrzOWwHM71Cl) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Cielo Infinito](https://open.spotify.com/album/3xgVtYCFkw8c97AFCXqzqH) | 4:01 | 2021-11-10 | 2022-01-22 |
 | [Estuary](https://open.spotify.com/track/0uvXmStLwVQFAnhP6YD9TR) | [Post Op](https://open.spotify.com/artist/2QLZFqNC0yRXuhZi3VvOqS) | [Estuary](https://open.spotify.com/album/4RHtv2ncUKuH3TVzbLFtB8) | 3:13 | 2021-11-10 | 2022-06-10 |
@@ -513,6 +514,7 @@
 | [Vacay lets gooo](https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Vacay lets gooo](https://open.spotify.com/album/5xUrXJ3vZ3biL78DOEabhH) | 2:01 | 2022-05-20 |  |
 | [Vegetable Potion](https://open.spotify.com/track/5IaPHmM1d2l7WH2PXrkSor) | [Bring Your Vest](https://open.spotify.com/artist/3cCwLIIuTQy9USf5NyVKH3) | [Vegetable Potion](https://open.spotify.com/album/0e2Cyivw8FxGN1GCqbl3hU) | 2:03 | 2021-11-10 | 2022-08-20 |
 | [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 3:24 | 2022-01-21 |  |
+| [Ventur](https://open.spotify.com/track/3I4VGcGozyKvr1PdM6lcrv) | [LXXXVII](https://open.spotify.com/artist/311w5PIT9AJHKLoVXGxboO) | [Adonis](https://open.spotify.com/album/2mtgtqsG6hjWnXEphM32P1) | 2:35 | 2023-06-23 |  |
 | [Venus Vacuum](https://open.spotify.com/track/0HymQuVijWULNPUvTgZmbx) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 1:54 | 2021-11-10 | 2022-07-08 |
 | [views](https://open.spotify.com/track/08mTqFMEMurVe2oEHOvLlo) | [riddim bound](https://open.spotify.com/artist/6XUR7Q1okdrm17EvNv9NKe) | [views](https://open.spotify.com/album/6tWK51CJJbUAsf1GZufE1R) | 2:12 | 2022-06-03 | 2023-01-13 |
 | [Views from Yamashita Park](https://open.spotify.com/track/08GrJ04y6DrNm6t1OZ7a7N) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/0CAD18JM3by6WU8WYPOMIC) | 1:40 | 2021-11-10 | 2022-07-29 |

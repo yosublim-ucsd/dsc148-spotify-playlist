@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Can\u00e7\u00e3o & Louvor",
+  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Suellen Brum",
   "name": "Louvores Pentecostais",
   "tracks": [
+    {
+      "album": {
+        "name": "A Igreja Vai Rompendo",
+        "url": "https://open.spotify.com/album/1t27h2udoKp1zAmS4HBTFe"
+      },
+      "artists": [
+        {
+          "name": "Eliane Silva",
+          "url": "https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375584,
+      "name": "A Igreja Vai Rompendo",
+      "url": "https://open.spotify.com/track/4dgefmixhra06k2ugKL33e"
+    },
     {
       "album": {
         "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
@@ -622,7 +640,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 262250,
       "name": "Deus Vai Te Honrar",
       "url": "https://open.spotify.com/track/2LUxOHDMLlfkhupqcg8eJn"
@@ -1121,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Gerando Intimidade",
+        "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
+      },
+      "artists": [
+        {
+          "name": "Jana de Paula",
+          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254754,
+      "name": "Gerando Intimidade",
+      "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
+    },
+    {
+      "album": {
         "name": "Gera\u00e7\u00e3o de Adoradores",
         "url": "https://open.spotify.com/album/75xZtcm18mmxvcM1iamY9G"
       },
@@ -1234,7 +1270,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 310057,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0"
@@ -1353,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Marcas da Dor",
+        "url": "https://open.spotify.com/album/0Z9pMXe3ViuOtPmLIxMWtN"
+      },
+      "artists": [
+        {
+          "name": "Miriam dos Passos",
+          "url": "https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403262,
+      "name": "Marcas da Dor",
+      "url": "https://open.spotify.com/track/0n3kpiCcgLLZpuiKy0CBeC"
+    },
+    {
+      "album": {
         "name": "Me Ajuda Deus",
         "url": "https://open.spotify.com/album/1f8pXGg6sm3ZpqzjdJe6fN"
       },
@@ -1400,7 +1454,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 432666,
       "name": "Meu Perfume - Ao Vivo",
       "url": "https://open.spotify.com/track/4CvqtrYo12Nmyd0j88LJbq"
@@ -1440,7 +1494,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 292275,
       "name": "Mulheres de F\u00e9",
       "url": "https://open.spotify.com/track/5H3fUs5bt81ka7i8dZWQbx"
@@ -1759,6 +1813,28 @@
     },
     {
       "album": {
+        "name": "O Menor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6giUIvYzvLaogQc2jvomCi"
+      },
+      "artists": [
+        {
+          "name": "Thalita Roberta",
+          "url": "https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc"
+        },
+        {
+          "name": "Polyana Martins",
+          "url": "https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322746,
+      "name": "O Menor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/27sYTbQbEEqhgEFKuDyxlj"
+    },
+    {
+      "album": {
         "name": "O M\u00ednimo de Mim",
         "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
       },
@@ -1914,7 +1990,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 356624,
       "name": "Pai",
       "url": "https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D"
@@ -2012,7 +2088,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 335620,
       "name": "Porto Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/4ph4whtySo49oD5BScMSdT"
@@ -2078,6 +2154,24 @@
       "duration_ms": 272697,
       "name": "Prossiga (feat. Midian Lima)",
       "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
+    },
+    {
+      "album": {
+        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408796,
+      "name": "Que Deus \u00c9 Esse - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
     },
     {
       "album": {
@@ -2184,6 +2278,28 @@
       "duration_ms": 337173,
       "name": "Quero-Quero",
       "url": "https://open.spotify.com/track/3qPQ2dkC5GQDAd2QoMHDTj"
+    },
+    {
+      "album": {
+        "name": "Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231754,
+      "name": "Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
     },
     {
       "album": {

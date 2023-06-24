@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Standly & Salastkbron.",
+  "description": "Flow sudamericano con  Despu\u00e9s de la fiesta & Salastkbron.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -56,10 +56,32 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 137100,
       "name": "+ SINCERO",
       "url": "https://open.spotify.com/track/2wRoKIerlhzPSbeIVvSB2J"
+    },
+    {
+      "album": {
+        "name": "Antes de Ameri",
+        "url": "https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114053,
+      "name": "01 dE ENEro",
+      "url": "https://open.spotify.com/track/5KqaqJGPWgSJKVzDfmx2Mf"
     },
     {
       "album": {
@@ -280,6 +302,28 @@
       "duration_ms": 165214,
       "name": "22",
       "url": "https://open.spotify.com/track/15j9Oz1EILhR0LWwERTZ05"
+    },
+    {
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/2gXsmmJZzqR16yos2xT4RE"
+      },
+      "artists": [
+        {
+          "name": "Heskasie",
+          "url": "https://open.spotify.com/artist/1AWTPuhUEecFVkKhOLbIwG"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "23",
+      "url": "https://open.spotify.com/track/148ZvOBm2fT0aASQ0gW6ts"
     },
     {
       "album": {
@@ -1152,7 +1196,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 224400,
       "name": "Ambici\u00f3n",
       "url": "https://open.spotify.com/track/3qUrm7bzZbweXp3PhjnT39"
@@ -2005,6 +2049,28 @@
     },
     {
       "album": {
+        "name": "BESITO D3",
+        "url": "https://open.spotify.com/album/1vYY2CumIJ3tmbbgP4mUi8"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193658,
+      "name": "BESITO D3",
+      "url": "https://open.spotify.com/track/6zTE8oQZCAyVg2DQjxkdKa"
+    },
+    {
+      "album": {
         "name": "Beso de 3",
         "url": "https://open.spotify.com/album/0M7gEqM3GR1wrXvptaHT5D"
       },
@@ -2204,6 +2270,28 @@
       "duration_ms": 181750,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/2QSTNCW51cpgyFqahUxNGe"
+    },
+    {
+      "album": {
+        "name": "Bla",
+        "url": "https://open.spotify.com/album/6kFEaWWaU8j8LslrPMtMUB"
+      },
+      "artists": [
+        {
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        },
+        {
+          "name": "Bdilla",
+          "url": "https://open.spotify.com/artist/25AdttfBeDkaglOlR4WdBo"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179478,
+      "name": "Bla",
+      "url": "https://open.spotify.com/track/6XD2MtoHHVVjyF748XHS8U"
     },
     {
       "album": {
@@ -3010,6 +3098,40 @@
       "duration_ms": 287338,
       "name": "Chocolate (feat. JeizonTyago)",
       "url": "https://open.spotify.com/track/7A4Yv2Ub99FtBrBNSvxvPZ"
+    },
+    {
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/6dPFjhL6OqHcBXmZHYUxDF"
+      },
+      "artists": [
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Omniverso",
+          "url": "https://open.spotify.com/artist/1CkMPmXSMTW9uQDrdQEwp8"
+        },
+        {
+          "name": "TOMASYDAS",
+          "url": "https://open.spotify.com/artist/5Mh5DCLgIgQz5QhFLkACOU"
+        },
+        {
+          "name": "Wesbrukk",
+          "url": "https://open.spotify.com/artist/38VON4fCtON0PeWjKBnciI"
+        },
+        {
+          "name": "Felino Sibari",
+          "url": "https://open.spotify.com/artist/1SlYNPjfBa1hc30kQhaz2S"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307096,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/0QubxhjtWnQHAOH1TQSRsC"
     },
     {
       "album": {
@@ -4460,6 +4582,28 @@
       "duration_ms": 281379,
       "name": "Desakata",
       "url": "https://open.spotify.com/track/246GKWn36D8IG0MLQAxwyN"
+    },
+    {
+      "album": {
+        "name": "Deseo",
+        "url": "https://open.spotify.com/album/3SEImr1IJWKC5ZQC4Bz0OG"
+      },
+      "artists": [
+        {
+          "name": "Romeo El Santo",
+          "url": "https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT"
+        },
+        {
+          "name": "Tomm",
+          "url": "https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236417,
+      "name": "Deseo",
+      "url": "https://open.spotify.com/track/3m5GNXrG2lD855oNa1WiYw"
     },
     {
       "album": {
@@ -8300,7 +8444,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 139518,
       "name": "La Chain",
       "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
@@ -13404,7 +13548,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 235932,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf"
@@ -15652,7 +15796,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 220631,
       "name": "Sali\u00f3 De Noche",
       "url": "https://open.spotify.com/track/15r68Um6LBYYBGUEEkqRkB"
@@ -15926,7 +16070,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 197792,
       "name": "SEXTIME",
       "url": "https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr"
@@ -16124,7 +16268,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 225600,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/3FUihj0FmpYI4v3SbBVVfl"
@@ -17642,7 +17786,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 146815,
       "name": "TOP 5",
       "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
@@ -18653,6 +18797,24 @@
     },
     {
       "album": {
+        "name": "Utop\u00eda",
+        "url": "https://open.spotify.com/album/17vt7MtvzYakNK5IJoAzYg"
+      },
+      "artists": [
+        {
+          "name": "Francis",
+          "url": "https://open.spotify.com/artist/1rYxAChaqdLJTXdfRdaCHv"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Utop\u00eda",
+      "url": "https://open.spotify.com/track/2moLaWZOe1FkYhRAg945SD"
+    },
+    {
+      "album": {
         "name": "V16",
         "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
       },
@@ -19364,6 +19526,28 @@
       "duration_ms": 159428,
       "name": "XXX",
       "url": "https://open.spotify.com/track/1GwLqaYQ5Tskx376CNFnpX"
+    },
+    {
+      "album": {
+        "name": "Y ustedes?",
+        "url": "https://open.spotify.com/album/12Z8itqVuIXECLPRwceAYd"
+      },
+      "artists": [
+        {
+          "name": "Despu\u00e9s de la fiesta",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133403,
+      "name": "Y ustedes?",
+      "url": "https://open.spotify.com/track/6UdKndtKQUPWeYNkcUbikU"
     },
     {
       "album": {

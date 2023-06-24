@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 73788,
+  "num_followers": 73849,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGViNjU2NmQ3NzYzMzExZGFhNDI1NTVkODRiYWFmZjIwMjZjMGYw",
+  "snapshot_id": "MCwwZThiODBmOWNjN2IwMjgzYzk5MDUyMGVjNGU5NzdhMzhiZjczMmQ5",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -435,18 +435,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "South Of I-10",
-        "url": "https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO"
+        "name": "An Anthology",
+        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
       },
       "artists": [
         {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Duane Allman",
+          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
         }
       ],
-      "duration_ms": 380266,
-      "name": "Congo Square",
-      "url": "https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6"
+      "duration_ms": 232507,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -483,22 +487,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "An Anthology",
-        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
+        "name": "South Of I-10",
+        "url": "https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Duane Allman",
-          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
         }
       ],
-      "duration_ms": 232507,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+      "duration_ms": 380266,
+      "name": "Congo Square",
+      "url": "https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6"
     },
     {
       "added_at": "2023-01-16 21:05:55",

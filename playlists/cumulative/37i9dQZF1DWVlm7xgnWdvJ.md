@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-110 songs - 10 hr 30 min
+112 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Crossing Paths](https://open.spotify.com/track/5lXOqXFHGPEPvzWVcK97fD) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Daybreak](https://open.spotify.com/album/2fl52wlcdpihJq265RoeYq) | 4:04 | 2022-12-20 |  |
 | [Dansakoni](https://open.spotify.com/track/5OtZ6fidRTpFZu0IzI0RVw) | [Peter Power](https://open.spotify.com/artist/5l5RxxtywxwYKaKJrl5Vrh) | [Afro Damba](https://open.spotify.com/album/3nwO2bf9tdn6fWqxNr3Age) | 6:28 | 2023-06-08 |  |
 | [Delirio Italiano](https://open.spotify.com/track/09OTP1T8pPFo03aTMZQuft) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Toy Tonics Top Tracks Vol\. 7](https://open.spotify.com/album/7jrWpxkaSYFBmMhmS3GS2D) | 3:52 | 2022-12-20 | 2023-06-21 |
+| [Desperado](https://open.spotify.com/track/5QiiRVrLieGw72JbMJEY2M) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Mumia](https://open.spotify.com/album/1aB0Ng7QwJalzAkNdMefk1) | 6:36 | 2023-06-23 |  |
 | [Disco](https://open.spotify.com/track/2ePYAMkoIu8lkTyN1ngG0c) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Disco](https://open.spotify.com/album/7bUf9JVedA84u4nEuqhiDB) | 4:53 | 2022-12-20 |  |
 | [Don't U Ever Change](https://open.spotify.com/track/1eXxOVrE84C4NNT1lkeqNu) | [Danilo & Pablo](https://open.spotify.com/artist/78XlyXdHJ4WHvXAjI6hKAO), [Ahmad Larnes](https://open.spotify.com/artist/13lG8fghcfmDvJ3uZYemc8) | [Mcde Recordings Best of \(2008\-2018\)](https://open.spotify.com/album/1mTypifXwQWC97TULc7smR) | 8:08 | 2022-12-20 | 2023-06-21 |
 | [Doudou \- Edit](https://open.spotify.com/track/5njtAeRrYhEVvl9ZzXpqjY) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Doudou \(Edit\)](https://open.spotify.com/album/3X8cilpO1M2PFGWGfr2kYG) | 5:32 | 2022-12-20 |  |
@@ -59,6 +60,7 @@
 | [Je ne bois pas beaucoup](https://open.spotify.com/track/72nCkeEDv7znNYkz9jUrh4) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Je ne bois pas beaucoup](https://open.spotify.com/album/18AF4OmCJ4cNCejKGA7wO3) | 4:58 | 2022-12-20 |  |
 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 | 2022-12-20 |  |
 | [Kaga Bole Mera \- Turbotito & Ragz Rework](https://open.spotify.com/track/5TZpfuDzrxy0wehfZrWakN) | [Arundhati Bhaumik](https://open.spotify.com/artist/5lBkGTwZlXHNNKJWsCMPrp), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Ragz](https://open.spotify.com/artist/4YyUBP46T7GxKP0UfqiTSn) | [Pi Pi \(Turbotito & Ragz Rework Radio Edit\)](https://open.spotify.com/album/7qe7sOPs1nRTgxjrhbvfQq) | 5:41 | 2022-12-20 |  |
+| [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 | 2023-06-23 |  |
 | [La disquette](https://open.spotify.com/track/0X8OzXCOAGldwWzl7lcd62) | [Lumoon](https://open.spotify.com/artist/0yef6VSNvf1atgoH0Vv5aR), [Rob!n](https://open.spotify.com/artist/1YJp6laoD5gLNFt4iksPMu) | [La disquette](https://open.spotify.com/album/5ixTN6mFe4jAoiAX7WlNJR) | 5:07 | 2022-12-20 |  |
 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 | 2022-12-20 |  |
 | [La Piragua](https://open.spotify.com/track/41sfxCghJlbnWnql4QEfl7) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 8:38 | 2022-12-20 |  |

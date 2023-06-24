@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Nicki Nicole en portada. ",
+  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. John C en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "Akapellah Hotline: Cobuz & Bustta",
+        "url": "https://open.spotify.com/album/1B0ue14v9AHXSYloaqeMDM"
+      },
+      "artists": [
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Akapellah Hotline: Cobuz & Bustta",
+      "url": "https://open.spotify.com/track/2WXPCiwCzoH71JESAImTKE"
+    },
+    {
+      "album": {
         "name": "Almas Benditas",
         "url": "https://open.spotify.com/album/2dr3uDKeRGlwyePqf44aKp"
       },
@@ -440,6 +462,24 @@
       "duration_ms": 188604,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N"
+    },
+    {
+      "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/6F8ccFAxXnQ9RPiQo0aPn9"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201698,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/69vGl5T8eNegQYemljEFWX"
     },
     {
       "album": {
@@ -1202,7 +1242,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 143935,
       "name": "DISPARA ***",
       "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
@@ -2938,6 +2978,28 @@
       "duration_ms": 200253,
       "name": "Pap\u00e1",
       "url": "https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG"
+    },
+    {
+      "album": {
+        "name": "PASAR EL ROLO",
+        "url": "https://open.spotify.com/album/6BaTUVSblCrSozjzwQIBkb"
+      },
+      "artists": [
+        {
+          "name": "Lopes",
+          "url": "https://open.spotify.com/artist/2C1KWrmE57M3riWQArK4kz"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "PASAR EL ROLO",
+      "url": "https://open.spotify.com/track/0TFQ7UThwlokHls2vxTxb2"
     },
     {
       "album": {

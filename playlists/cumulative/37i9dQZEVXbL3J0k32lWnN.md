@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,128 songs - 2 day 10 hr 44 min
+1,129 songs - 2 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,7 +943,7 @@
 | [Spørgsmål \(feat\. Gilli & Lamin\)](https://open.spotify.com/track/3lCI7M5mWqRCehrT7qiEI8) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Spørgsmål \(feat\. Gilli & Lamin\)](https://open.spotify.com/album/1ZIMkrh5gM972Y2eSZP4W7) | 3:32 | 2023-02-11 | 2023-03-12 |
 | [Spørgsmål \(feat\. Gilli & Lamin\)](https://open.spotify.com/track/54U7i6gFHvyk8y4j8gTTor) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Dit Liv Dit Valg](https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4) | 3:32 | 2023-03-11 | 2023-04-09 |
 | [Stable \(feat\. Artigeardit & Lamin\)](https://open.spotify.com/track/6Zw7r9dPtbX0D1CcIS8caf) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [CSKI VOL\. 2](https://open.spotify.com/album/0ssgEUHadlWTWQIGXuWZ5j) | 2:58 | 2022-02-05 | 2022-05-22 |
-| [Stadig? Selvfølgelig!](https://open.spotify.com/track/6vf6BcbLMlBsUYqW4PVWAS) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Stadig? Selvfølgelig!](https://open.spotify.com/album/6rvNSd2P5nsrNtFBc6K6Cn) | 2:26 | 2023-06-10 |  |
+| [Stadig? Selvfølgelig!](https://open.spotify.com/track/6vf6BcbLMlBsUYqW4PVWAS) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Stadig? Selvfølgelig!](https://open.spotify.com/album/6rvNSd2P5nsrNtFBc6K6Cn) | 2:26 | 2023-06-10 | 2023-06-24 |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-24 | 2022-11-21 |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-08 | 2022-05-15 |
 | [Starry Eyes](https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 2:28 | 2022-01-08 | 2022-01-10 |
@@ -1068,6 +1068,7 @@
 | [Verden Vågner \(feat\. Saveus\)](https://open.spotify.com/track/2rfl7SRwfel3gNhXBmL60u) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 2:36 | 2022-10-18 |  |
 | [Verden Vågner \(feat\. Saveus\)](https://open.spotify.com/track/68hfwJTb55iNmWmYAEfTe3) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Verden Vågner \(feat\. Saveus\)](https://open.spotify.com/album/4IWhZd1ZLkhkkDFm7CliNq) | 2:36 | 2022-10-09 | 2022-10-16 |
 | [Vi 1](https://open.spotify.com/track/3ZsAluSu04Fd3LVZzLtv2B) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Vi 1](https://open.spotify.com/album/5gcqWehKcOuiyVSjk3D1k8) | 2:49 | 2023-06-03 |  |
+| [vi ku' blive](https://open.spotify.com/track/1B6jWZtTp6od8DQBQ9l8Ji) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [vi ku' blive](https://open.spotify.com/album/0vgn9MyoQ9YfNPHV3vAIc9) | 3:27 | 2023-06-23 |  |
 | [Vi Ta'r Guldet Med Hjem](https://open.spotify.com/track/6RazLJaAtjvIbtOsfmejv2) | [8Ball](https://open.spotify.com/artist/6g2VFISr826urqgxtD0uXX) | [Vi Ta'r Guldet Med Hjem](https://open.spotify.com/album/3NgTNbyIXVNCA8miXpbBXD) | 3:21 | 2021-07-09 | 2021-07-10 |
 | [Vi Vandt I Dag](https://open.spotify.com/track/3tHFe0HGcuTo6wTHO4faij) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr), [Landsholdet](https://open.spotify.com/artist/3pUk1ndVKDCVrXXUhVONOf) | [Vi Vandt I Dag](https://open.spotify.com/album/2HsbbqPnSUZ6IElrDhFIO3) | 3:21 | 2021-06-14 | 2021-07-10 |
 | [VI VARME](https://open.spotify.com/track/3tOSaJiCUTFhSzWG3GoF2S) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [VI VARME](https://open.spotify.com/album/4DQATe1XrogEwkfbWONkgd) | 3:07 | 2022-07-02 | 2022-07-17 |

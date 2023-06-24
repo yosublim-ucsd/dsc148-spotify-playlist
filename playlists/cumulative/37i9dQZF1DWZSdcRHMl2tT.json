@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 173217,
       "name": "Afterbeach",
       "url": "https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 212847,
       "name": "Cassette Tape",
       "url": "https://open.spotify.com/track/34vL3tUAnlevnJR0NyiEkB"
@@ -2160,7 +2160,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 207500,
       "name": "Following the trail",
       "url": "https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD"
@@ -3695,6 +3695,24 @@
     },
     {
       "album": {
+        "name": "memories",
+        "url": "https://open.spotify.com/album/66DpYlVTOSTKtf71XIWHho"
+      },
+      "artists": [
+        {
+          "name": "Mandoja",
+          "url": "https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200727,
+      "name": "memories",
+      "url": "https://open.spotify.com/track/455yDW2mMq8DMrDN9G6SRf"
+    },
+    {
+      "album": {
         "name": "Midsommar",
         "url": "https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w"
       },
@@ -3970,6 +3988,24 @@
       "duration_ms": 227171,
       "name": "New Jade",
       "url": "https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq"
+    },
+    {
+      "album": {
+        "name": "Next To Me",
+        "url": "https://open.spotify.com/album/0rQjy8jVtUlzjp7D6lUWbg"
+      },
+      "artists": [
+        {
+          "name": "Soul to Speak",
+          "url": "https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142173,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/3zLvAsYtkRFNEHS4Z4Oe87"
     },
     {
       "album": {
@@ -5300,6 +5336,24 @@
       "duration_ms": 170000,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/76sSclBbZk7dmGAqsHIbhx"
+    },
+    {
+      "album": {
+        "name": "Sima Deli",
+        "url": "https://open.spotify.com/album/2ughtucDJA558sqUjSpcNM"
+      },
+      "artists": [
+        {
+          "name": "Stockset",
+          "url": "https://open.spotify.com/artist/2GsMlo9UOvZ2YcVoFtTOpt"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "Sima Deli",
+      "url": "https://open.spotify.com/track/6CdVgngqmmLWvbPzPZ596U"
     },
     {
       "album": {

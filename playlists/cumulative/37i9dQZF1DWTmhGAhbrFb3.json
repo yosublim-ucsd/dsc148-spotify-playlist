@@ -2741,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Kujtimet",
+        "url": "https://open.spotify.com/album/0XDfEjLWDo0Sv1KsQnROmp"
+      },
+      "artists": [
+        {
+          "name": "Qetesia",
+          "url": "https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Kujtimet",
+      "url": "https://open.spotify.com/track/283VpOIFxubROj0o6mHD83"
+    },
+    {
+      "album": {
         "name": "Austafjord / Lake Huron",
         "url": "https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa"
       },

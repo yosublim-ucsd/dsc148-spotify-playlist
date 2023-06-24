@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9?si=vrQCaeC_Rpub8xqwfSkARA\">Christine D'Clario</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4?si=ffbce48b7773449e\">Evan Craft</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -199,6 +199,28 @@
     },
     {
       "album": {
+        "name": "Menos Es Mas",
+        "url": "https://open.spotify.com/album/3Jiq4jhArwNnjY66T4xDqa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Grupo Grace",
+          "url": "https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Abba Padre",
+      "url": "https://open.spotify.com/track/31tJ4vhFrFdmQ1ZOHKaYH5"
+    },
+    {
+      "album": {
         "name": "Acepta",
         "url": "https://open.spotify.com/album/0VHRc2YBKViwWXQffw7Qpb"
       },
@@ -364,6 +386,28 @@
       "duration_ms": 431583,
       "name": "Ahora Respirar\u00e9",
       "url": "https://open.spotify.com/track/6C8cDCc7ZeBMsLXx7anbXI"
+    },
+    {
+      "album": {
+        "name": "La Casa Apost\u00f3lica del Esp\u00edritu Santo \u2013 New Wine",
+        "url": "https://open.spotify.com/album/5Esqf4d4jkOA5LR7Z9TAMW"
+      },
+      "artists": [
+        {
+          "name": "Vino Nuevo",
+          "url": "https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX"
+        },
+        {
+          "name": "Canciones Cristianas",
+          "url": "https://open.spotify.com/artist/49DuLm2HzOCTqyZg6nmJN9"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240240,
+      "name": "Al Dios Alt\u00edsimo",
+      "url": "https://open.spotify.com/track/61NBtUadx9dLBw2Q3ezcAC"
     },
     {
       "album": {
@@ -1040,7 +1084,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 224532,
       "name": "Bebo de Ti",
       "url": "https://open.spotify.com/track/5Uf2MoFiWWhPjdYWpGbbck"
@@ -1150,6 +1194,24 @@
       "duration_ms": 321697,
       "name": "Brilla Tu Amor",
       "url": "https://open.spotify.com/track/59huk4RfMDJiRfgYaicID9"
+    },
+    {
+      "album": {
+        "name": "Buen Hermano",
+        "url": "https://open.spotify.com/album/4ckk3QCnfEe8GPUqlZzh7k"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176823,
+      "name": "Buen Hermano",
+      "url": "https://open.spotify.com/track/7BhxZtYIK0PYIhH9D0sSij"
     },
     {
       "album": {
@@ -1372,6 +1434,28 @@
       "duration_ms": 159531,
       "name": "Champion",
       "url": "https://open.spotify.com/track/05Nv9lIMEtxcKuFoIC3C23"
+    },
+    {
+      "album": {
+        "name": "CICATRICES",
+        "url": "https://open.spotify.com/album/4o0231wiUwMNR3movn9RbR"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180015,
+      "name": "CICATRICES",
+      "url": "https://open.spotify.com/track/7hr0OyJzcvtkyNxrjlzFUS"
     },
     {
       "album": {
@@ -3204,7 +3288,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 159508,
       "name": "ETERNOS",
       "url": "https://open.spotify.com/track/4vV0X2mXpAzJtQYSReDhsO"
@@ -5332,7 +5416,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 180173,
       "name": "Nada",
       "url": "https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG"
@@ -7064,7 +7148,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 464553,
       "name": "Simple Adoraci\u00f3n (feat. Laila Olivera & Johnny Pe\u00f1a)",
       "url": "https://open.spotify.com/track/0wYot44AfBl47H4dHb9CIF"
@@ -8853,7 +8937,7 @@
     },
     {
       "album": {
-        "name": "Yo Soy Tu Amado (I Am Your Beloved)",
+        "name": "Yo Soy Tu Amado",
         "url": "https://open.spotify.com/album/2ytlwM7GCfbSuFWrpxVjCS"
       },
       "artists": [
@@ -8874,7 +8958,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 515314,
-      "name": "Yo Soy Tu Amado (I Am Your Beloved)",
+      "name": "Yo Soy Tu Amado",
       "url": "https://open.spotify.com/track/2C9fMUl9vXTU8aEwmFwGrI"
     },
     {

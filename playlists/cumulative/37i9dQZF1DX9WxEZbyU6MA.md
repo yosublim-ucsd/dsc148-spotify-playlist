@@ -4,7 +4,7 @@
 
 > Relax to the calming sounds of choral music.
 
-101 songs - 7 hr 46 min
+102 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Benedictus](https://open.spotify.com/track/26SmzgTzdqFjLbSm5BpKL4) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Christian Forshaw](https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ) | [Work from Home with Chilled Choir](https://open.spotify.com/album/3k5bWKITwAZF4dsbG5Zi2E) | 3:10 | 2022-11-10 | 2022-11-13 |
 | [Benedictus](https://open.spotify.com/track/3GftQi9BSdBKZi44EGoblh) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Christian Forshaw](https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ) | [Eventide](https://open.spotify.com/album/7hi6p3cpL6WtcpoaAGcMYS) | 3:10 | 2022-07-22 |  |
 | [Blessing](https://open.spotify.com/track/685wxE2HRynbFNcyclZRmR) | [Paul Mealor](https://open.spotify.com/artist/18B9HFuIuZ5LOk8vWtaxsG), [Voce](https://open.spotify.com/artist/3TzXmu7YvW0mRzyEVPKrXA), [Mark Singleton](https://open.spotify.com/artist/22skYazgobfyYKseDmWkud) | [Blessing](https://open.spotify.com/album/13ff0Bw57GkN0mYj6XYtl2) | 3:56 | 2021-07-21 |  |
+| [D.983/4, Op\. 17: Die Nacht](https://open.spotify.com/track/0GEsTzfGNpGu1LWSdQBEWY) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Sonat Vox](https://open.spotify.com/artist/1TuXJ3JKJFeEa2yHoIWFnj), [Justus Merkel](https://open.spotify.com/artist/4aCcbmr9IbYeTeQbhIUC3Z) | [Die Nacht](https://open.spotify.com/album/6DfBAR22IlyoTMZQIDyWDK) | 3:50 | 2023-06-23 |  |
 | [Even When He is Silent](https://open.spotify.com/track/4rvN3alz5GV8BSfCigHeYI) | [Kim André Arnesen](https://open.spotify.com/artist/0r4gb9UyreyNbVy7y6JB2H), [Tove Ramlo\-Ystad](https://open.spotify.com/artist/3lKVZDzhvdZX8KsWfPpQnX), [Cantus](https://open.spotify.com/artist/13tmEptE5NPMTxY29lVoEf) | [SPES](https://open.spotify.com/album/5LnknYLYDU0bqn5nrrBKvo) | 4:23 | 2021-07-21 |  |
 | [Four Song of Love: No\. 1, Let Him Kiss Me](https://open.spotify.com/track/6F7PdZPCLvFyKBX8hnsgPK) | [Sven\-David Sandström](https://open.spotify.com/artist/00AUnQaXE6XTTZvr7kgNHb), [Sofia Vokalensemble](https://open.spotify.com/artist/77VcFcxShb5YeMsMy5SD4N), [Bengt Ollen](https://open.spotify.com/artist/1479Z2Z29s3qCgDU1W4DAb) | [Förvårskväll \(One early spring evening\)](https://open.spotify.com/album/65Jb4f19BVGLfUUi9xahfB) | 2:10 | 2021-07-21 | 2022-07-29 |
 | [Gloria: I'll Make Music](https://open.spotify.com/track/2VrdQtoHpciCTaylo2sylO) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [Polyphony](https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na), [Stephen Layton](https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o) | [Karl Jenkins: Motets](https://open.spotify.com/album/5RLRyOKImXIUHpdVdAOuO9) | 4:39 | 2021-07-21 | 2022-07-29 |

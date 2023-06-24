@@ -186,6 +186,24 @@
     {
       "album": {
         "name": "Ana Keda",
+        "url": "https://open.spotify.com/album/5qW9f6PWnW4GD48vAVqPD2"
+      },
+      "artists": [
+        {
+          "name": "Loai",
+          "url": "https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272640,
+      "name": "Ah Ya Aini",
+      "url": "https://open.spotify.com/track/6V5xA92ndp9tGV5zdvIALP"
+    },
+    {
+      "album": {
+        "name": "Ana Keda",
         "url": "https://open.spotify.com/album/4Mb5BzRO2yegDi39yxjLmi"
       },
       "artists": [
@@ -196,7 +214,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 288626,
       "name": "Ah Ya Aini Ya Leil (Radio Edit)",
       "url": "https://open.spotify.com/track/0dLk70DrxJj8vcjKnjh1GR"

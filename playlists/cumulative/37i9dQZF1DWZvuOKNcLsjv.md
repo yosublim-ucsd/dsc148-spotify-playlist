@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Leigh\-Anne
 
-1,258 songs - 3 day 1 hr 38 min
+1,259 songs - 3 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,7 +614,8 @@
 | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/track/2ii4OMvYuKkRe7o4Xy68RH) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [The Runaway Club](https://open.spotify.com/artist/6tVdbeBMatYt5AZcmj8DnN) | [My Life \(feat\. The Runaway Club\)](https://open.spotify.com/album/0bSFvNT802a9GwaSwXRL0O) | 2:20 | 2023-02-05 | 2023-02-27 |
 | [MY NAME](https://open.spotify.com/track/0uUnwZF9EQ7nIY3vJe1EWc) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [MY NAME](https://open.spotify.com/album/64aZooeuvhT2AlL0vVwUoI) | 2:45 | 2023-04-23 | 2023-05-01 |
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-03-26 | 2023-04-10 |
-| [My Runway feat\. Rei](https://open.spotify.com/track/7MYp7RRk53N7wlA2a4JBDY) | [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ), [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr) | [My Runway feat\. Rei](https://open.spotify.com/album/0ZkpbzgLrOcg1GGAzGhwRc) | 3:56 | 2023-06-18 |  |
+| [My Runway feat\. Rei](https://open.spotify.com/track/1Kx9C9RLYNgUzfumjjVPbP) | [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ), [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr) | [Open The Window](https://open.spotify.com/album/0sQk4JtoZASCN2d5nxu8QJ) | 3:56 | 2023-06-18 |  |
+| [My Runway feat\. Rei](https://open.spotify.com/track/7MYp7RRk53N7wlA2a4JBDY) | [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ), [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr) | [My Runway feat\. Rei](https://open.spotify.com/album/0ZkpbzgLrOcg1GGAzGhwRc) | 3:56 | 2023-06-18 | 2023-06-24 |
 | [My Stupid Heart \(with Lauv\)](https://open.spotify.com/track/1SVOLTmC627fn0XY9ltvx2) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [My Stupid Heart \(with Lauv\)](https://open.spotify.com/album/6yT57VsTlEjkZz6539dA8i) | 2:40 | 2023-03-05 | 2023-04-17 |
 | [N](https://open.spotify.com/track/3YoXxt7W9LTefFCUx8wSbS) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [N](https://open.spotify.com/album/62Uf86QDEeOJR3fsOBF1Xr) | 2:50 | 2023-04-23 | 2023-05-08 |
 | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 | 2023-05-14 | 2023-05-23 |

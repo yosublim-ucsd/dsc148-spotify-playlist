@@ -5782,10 +5782,32 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 140224,
       "name": "GIMME CHOCOLATE",
       "url": "https://open.spotify.com/track/0lGBaiG65lMgCKCZiVWOBl"
+    },
+    {
+      "album": {
+        "name": "GIMME CHOCOLATE",
+        "url": "https://open.spotify.com/album/7ixdeBMQrnAO04Ilx4cLK4"
+      },
+      "artists": [
+        {
+          "name": "m-al",
+          "url": "https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ"
+        },
+        {
+          "name": "906 / Nine-O-Six",
+          "url": "https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140224,
+      "name": "GIMME CHOCOLATE",
+      "url": "https://open.spotify.com/track/6K6soUEbIuEBaPKRrhcNqd"
     },
     {
       "album": {

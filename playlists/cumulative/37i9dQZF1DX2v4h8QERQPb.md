@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Soui Uno.
 
-207 songs - 10 hr 40 min
+208 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Sin Drama](https://open.spotify.com/track/12GYDIfcTO5fEbWuU9kgCZ) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [La Melodía](https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc) | 2:51 | 2022-10-27 |  |
 | [SOLO POR VOS](https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Solo por Vos](https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE) | 3:19 | 2021-11-26 | 2022-05-13 |
 | [Solo Una Vez](https://open.spotify.com/track/1wUJbeagQnmOvjAyCvaDVh) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Solo Una Vez](https://open.spotify.com/album/3USzAg1agnRtKFFT9lA4oF) | 3:25 | 2021-11-26 | 2022-04-12 |
-| [Sucio](https://open.spotify.com/track/1aNJgaL6fmvMLWzOMld92r) | [Socio](https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Para la Envidia](https://open.spotify.com/album/60NVjjROURwC1Vbe5r9FBM) | 4:35 | 2022-04-11 |  |
+| [Sucio](https://open.spotify.com/track/02sz23KvVaBWsgtWAzZChM) | [Socio](https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Para La Envidia](https://open.spotify.com/album/7uvrUI2nKiAtVxBE5zCzjx) | 4:35 | 2023-06-16 |  |
+| [Sucio](https://open.spotify.com/track/1aNJgaL6fmvMLWzOMld92r) | [Socio](https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Para la Envidia](https://open.spotify.com/album/60NVjjROURwC1Vbe5r9FBM) | 4:35 | 2022-04-11 | 2023-06-24 |
 | [Sábado 17](https://open.spotify.com/track/0xHm4ExZUFocJRcNNxseXm) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [DJ Mokson](https://open.spotify.com/artist/5EWq7WkbPxlA3MbfBs8a6F) | [Sábado 17](https://open.spotify.com/album/1G2WTn4rBAsAxToZn8F7t1) | 3:23 | 2022-03-11 | 2022-04-12 |
 | [Tardes Grises](https://open.spotify.com/track/1CzN58609yKsgo4Z9ba4cl) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Me Sueltan los Ángeles](https://open.spotify.com/album/1n9DVp6idZvlp6qGlat1Rp) | 3:26 | 2022-11-07 | 2022-11-13 |
 | [Tardes Grises](https://open.spotify.com/track/1EmehmbURkCcxpHcxcXgDP) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Tardes Grises](https://open.spotify.com/album/1U4x0z1gk3pho14X7PFwRB) | 3:26 | 2022-06-10 |  |

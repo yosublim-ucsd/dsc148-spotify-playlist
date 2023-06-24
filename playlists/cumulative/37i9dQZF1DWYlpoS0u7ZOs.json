@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "The Dead Hotel - EP",
+        "url": "https://open.spotify.com/album/4KsLC3kybcrCAHhHBHgiMZ"
+      },
+      "artists": [
+        {
+          "name": "King No-One",
+          "url": "https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171010,
+      "name": "Neighbours",
+      "url": "https://open.spotify.com/track/0RZccITVM6wJyTUDkRCKul"
+    },
+    {
+      "album": {
         "name": "Neighbours",
         "url": "https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX"
       },
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 171010,
       "name": "Neighbours",
       "url": "https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj"

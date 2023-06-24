@@ -4,7 +4,7 @@
 
 > Did you fall for a shooting star? Cover: Train
 
-50 songs - 3 hr 14 min
+51 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 | 2023-06-08 |  |
 | [Pictures Of You](https://open.spotify.com/track/6V4y4uuMAxe2EYDIWNToaH) | [The Last Goodnight](https://open.spotify.com/artist/4UrGiQXrpB2CmzVGVFtH5E) | [Pictures Of You](https://open.spotify.com/album/4EVjjpQd3Qw6tWIHgII6Rq) | 3:10 | 2023-06-08 |  |
 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 | 2023-06-08 |  |
-| [Save Me From Myself](https://open.spotify.com/track/1g4HstMvCpNreiZFbmTN22) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Save Me From Myself \(Remix\)](https://open.spotify.com/album/2D3KkMUnAi7tD1G92RwKV9) | 3:16 | 2023-06-08 |  |
+| [Run All Night](https://open.spotify.com/track/3NpnBHI6qEyauHYfrQqg1w) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Run All Night](https://open.spotify.com/album/047z4hEbghpi0VImdQ8JgS) | 4:50 | 2023-06-23 |  |
+| [Save Me From Myself](https://open.spotify.com/track/1g4HstMvCpNreiZFbmTN22) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Save Me From Myself \(Remix\)](https://open.spotify.com/album/2D3KkMUnAi7tD1G92RwKV9) | 3:16 | 2023-06-08 | 2023-06-24 |
 | [Screaming Infidelities](https://open.spotify.com/track/1VViTGNqiNV8zwe3b3tE09) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [The Places You Have Come to Fear the Most](https://open.spotify.com/album/2b6f60fUMb0wSWWyFXBLfv) | 3:46 | 2023-06-08 |  |
 | [Sleepwalker](https://open.spotify.com/track/5szl1EdOw3CuvItkpGuDHk) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Breach](https://open.spotify.com/album/0NkjpLDsYnqAdfEre7EHNL) | 3:31 | 2023-06-08 |  |
 | [Still Fighting It](https://open.spotify.com/track/0f9fM6DdpJM79NQ1XbHcjJ) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Rockin' The Suburbs](https://open.spotify.com/album/4FtOLTQqwnxpaABrJWYdBy) | 4:25 | 2023-06-08 |  |

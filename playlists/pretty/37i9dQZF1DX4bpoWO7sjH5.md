@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,919 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,917 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 53 | [Tú Eres la Luz Noche de Paz \(Bonus Track\) \[Live\]](https://open.spotify.com/track/0XC0bvJGIGki2iMVemR0Zw) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [Navidad, Vol\. 3](https://open.spotify.com/album/51QldFAn1JAiP70Zxg2FAw) | 3:27 |
 | 54 | [La Estrella](https://open.spotify.com/track/2bAOPA1ys7TqGTreNb8icO) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [La Estrella](https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze) | 3:41 |
 | 55 | [Mi Salvador](https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ) | [Familia Emanuel Worship](https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak) | [Mi Salvador](https://open.spotify.com/album/15fXyLAMiUG3B9pnZ20Xfa) | 4:07 |
-| 56 | [V I D A \- \(Acústico\)](https://open.spotify.com/track/2woLdfukowEU7QsR9LuVGJ) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Es Navidad](https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK) | 2:47 |
-| 57 | [Voy Subiendo \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2KzMozFxhwriwfEU2GQNah) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Navidades Hasta Que Amanezca](https://open.spotify.com/album/16mF2UdEgV0WB0PziDdPhS) | 4:14 |
-| 58 | [Dios Con Nosotros](https://open.spotify.com/track/6ouy9GxN9kxSMGtWbCSEbn) | [Damaris Fraire](https://open.spotify.com/artist/7zgMLLbT4cYJ46Yos8gUQC) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 4:23 |
+| 56 | [Dios Con Nosotros](https://open.spotify.com/track/6ouy9GxN9kxSMGtWbCSEbn) | [Damaris Fraire](https://open.spotify.com/artist/7zgMLLbT4cYJ46Yos8gUQC) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 4:23 |
+| 57 | [V I D A \- \(Acústico\)](https://open.spotify.com/track/2woLdfukowEU7QsR9LuVGJ) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Es Navidad](https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK) | 2:47 |
+| 58 | [Voy Subiendo \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2KzMozFxhwriwfEU2GQNah) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Navidades Hasta Que Amanezca](https://open.spotify.com/album/16mF2UdEgV0WB0PziDdPhS) | 4:14 |
 | 59 | [El Regalo Celestial](https://open.spotify.com/track/24Mxt8HITs6bxAEBgDqbt2) | [Yoly Rodríguez](https://open.spotify.com/artist/0I42d8NmR5IXaMcI1sf9Sq) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:04 |
 | 60 | [Esta Navidad](https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy) | [Alejandra Miguez](https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6) | [Esta Navidad](https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt) | 3:01 |
 | 61 | [Mi Navidad](https://open.spotify.com/track/64qQzNoR6WrZbG9KtaxBg9) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Mi Navidad](https://open.spotify.com/album/2Bqepx8hJWH9jySZciy8iu) | 3:03 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 89 | [Ya Llegó La Navidad](https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Llegó La Navidad](https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya) | 3:12 |
 | 90 | [Cristianos Vayamos](https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Cristianos Vayamos](https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj) | 3:47 |
 | 91 | [Feliz Navidad](https://open.spotify.com/track/7jqWEJ1ntANspPX7rgUObr) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Christmas](https://open.spotify.com/album/1WrFOvNRLq3A6NqpL9yfEn) | 3:03 |
-| 92 | [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 |
-| 93 | [Llegó Navidad](https://open.spotify.com/track/6u5Uau6qr8FIIPHKyWJ763) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [En Navidad](https://open.spotify.com/album/0ugGqIg0MlPul2TpV30jlp) | 4:06 |
-| 94 | [Medley:Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad](https://open.spotify.com/track/4Sc2oDapkEzWluxUuSZo7n) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 4:23 |
-| 95 | [Noche de Paz](https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Noche de Paz](https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj) | 4:46 |
+| 92 | [Medley:Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad](https://open.spotify.com/track/4Sc2oDapkEzWluxUuSZo7n) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 4:23 |
+| 93 | [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 |
+| 94 | [Noche de Paz](https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Noche de Paz](https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj) | 4:46 |
+| 95 | [Llegó Navidad](https://open.spotify.com/track/6u5Uau6qr8FIIPHKyWJ763) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [En Navidad](https://open.spotify.com/album/0ugGqIg0MlPul2TpV30jlp) | 4:06 |
 | 96 | [A Son De Plena](https://open.spotify.com/track/6nVFWi33swDnsDljPodGlB) | [Lourdes Toledo](https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3) | [Un Le Lo Lai Diferente](https://open.spotify.com/album/7osJw3KtfYRtw2eItlqC4h) | 3:45 |
 | 97 | [Navidad Perfecta](https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Nació en Mi Corazón](https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18) | 3:35 |
 | 98 | [Plena Que Adora a Dios](https://open.spotify.com/track/4rBxK37YIwtn2vonTCDL93) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5) | [Plena Que Se Pega](https://open.spotify.com/album/7H8NRCZHATz2fUK7KxD9Um) | 3:28 |
-| 99 | [Vístete](https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Pa'que Mi Pueblo Cante](https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR) | 3:29 |
-| 100 | [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 |
+| 99 | [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 |
+| 100 | [Vístete](https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Pa'que Mi Pueblo Cante](https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR) | 3:29 |
 
-Snapshot ID: `MCwwMjRlNWRiYTI0NDExYzA4MThhNDQ4OGY5ZjYxNDljZDJhY2VhZDE5`
+Snapshot ID: `MCxkNWMwMWUzMzEzYzdjYmM1ZGU1MTBhYzI0YzVhOWJlY2ExNjYwNDYx`

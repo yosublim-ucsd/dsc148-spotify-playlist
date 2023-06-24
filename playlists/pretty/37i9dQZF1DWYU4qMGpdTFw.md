@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 
 > ¡Cerveza, Sudor y Garage hasta la muerte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 176 likes - 66 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 182 likes - 66 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 | 23 | [Nena Zombie](https://open.spotify.com/track/5CgWKWktidzsEO9mX9Gl4j) | [Los Cuchillos](https://open.spotify.com/artist/1A03GmlINp7oMDPNu3YqjN) | [Monstronautas de la Era Atomica](https://open.spotify.com/album/19lVQINmgSd4hlZcMbeuVp) | 3:49 |
 | 24 | [Ajolote](https://open.spotify.com/track/4fUyzWW2pgqd8f3sJQg5ce) | [Los Honey Rockets](https://open.spotify.com/artist/1HzepbZEfm93lQXjFFfXq1) | [Asco en el Escenario](https://open.spotify.com/album/4eRBqjr2N7tRgPojNauSuk) | 2:54 |
 | 25 | [El Garaqge de Ginna Monster](https://open.spotify.com/track/1bf4TNiNJZ12uUk08px8PM) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [4](https://open.spotify.com/album/0WtYJpkdfN9g0rEGcgL55a) | 3:00 |
-| 26 | [Delincuente](https://open.spotify.com/track/5GgzofR27LCAPrYhSV1rqA) | [Wau y Los Arrrghs](https://open.spotify.com/artist/18sEZUb8uCyBOtOmvxbiXj) | [¡¡¡Viven!!!](https://open.spotify.com/album/1O3rrFEc39bmYhKF3hWUgq) | 2:02 |
+| 26 | [Delincuente](https://open.spotify.com/track/5GgzofR27LCAPrYhSV1rqA) | [Wau y Los Arrrghs!!!](https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh) | [¡¡¡Viven!!!](https://open.spotify.com/album/1O3rrFEc39bmYhKF3hWUgq) | 2:02 |
 | 27 | [Qué cabrón](https://open.spotify.com/track/5z3sA2PvmqV3CL0iD2gLNH) | [Los Headaches](https://open.spotify.com/artist/6YjUeyK58SGiT9lFuYQVnj) | [Qué cabrón](https://open.spotify.com/album/3CB8MbmGIXrzxxQ5sTfHTV) | 2:58 |
 | 28 | [Jodidamente Loco](https://open.spotify.com/track/1G3o4H3mXlGERhmCnChwnS) | [Los Bengala](https://open.spotify.com/artist/5aaHaDy8RxAsa3S0SB8pxW) | [Incluso Festivos](https://open.spotify.com/album/3m0hPsE270rOsdEIMWsBfS) | 1:53 |
 | 29 | [El Rock Nacio Conmigo](https://open.spotify.com/track/33UNvcod6bwL2pzPBl6BlV) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:06 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 | 65 | [Alpaca](https://open.spotify.com/track/1aKLAx0q6575E5EjhSIgMl) | [Deathorcist](https://open.spotify.com/artist/5TNeUEygdPYbGmqHsSfoGk) | [Alpaca](https://open.spotify.com/album/3ymomE4E1aESx1hiUg5lyt) | 4:06 |
 | 66 | [Get Up!](https://open.spotify.com/track/3MAvDDp5U2EOBA6kQCTZPv) | [TRASH DAY](https://open.spotify.com/artist/7atgGb1JGbFC3OGbuQDYiF) | [Get Up!](https://open.spotify.com/album/10Hq07ay4eXDwaNwwyiMQ2) | 2:53 |
 
-Snapshot ID: `MCxhZTBlZDEwN2EyMzJjYTIwOWIwZTcwZWRjY2M2ZjI2NDhhMTU2Njg0`
+Snapshot ID: `MCw5ZTg3Y2Y4MzRhOTE4MGMwMjRmNmEyMGFhNTk0YWYyZjQ3ZDUyY2I1`

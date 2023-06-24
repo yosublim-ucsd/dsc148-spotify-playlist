@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 221125,
       "name": "Carolina Blue",
       "url": "https://open.spotify.com/track/76JB6oI3TtAfumq8n6nWie"
@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 178848,
       "name": "Dancin' With The Devil",
       "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
@@ -2190,6 +2190,24 @@
       "duration_ms": 227669,
       "name": "Drink to That",
       "url": "https://open.spotify.com/track/5bS0EQrItTRmdNCAmdTIpG"
+    },
+    {
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/1zkuFL6IoUYXDZDyCyjot8"
+      },
+      "artists": [
+        {
+          "name": "Jay Statham",
+          "url": "https://open.spotify.com/artist/4cf5GKzX208ouwqBzyaWu2"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193872,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/30OdCACTnFCX3JeYfE6rva"
     },
     {
       "album": {
@@ -3357,6 +3375,24 @@
     },
     {
       "album": {
+        "name": "Hell of a Life",
+        "url": "https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT"
+      },
+      "artists": [
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195401,
+      "name": "Hell of a Life",
+      "url": "https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz"
+    },
+    {
+      "album": {
         "name": "Hellbent For Leather",
         "url": "https://open.spotify.com/album/6Bx6xAWeQLPPnfMP9tiE3z"
       },
@@ -4212,7 +4248,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 213759,
       "name": "Keep up with a Cowgirl",
       "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
@@ -4934,6 +4970,24 @@
       "duration_ms": 221400,
       "name": "My Mistake",
       "url": "https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g"
+    },
+    {
+      "album": {
+        "name": "My Old Man and Jesus",
+        "url": "https://open.spotify.com/album/1ck49Jsp0ZNzWyPdWUFWif"
+      },
+      "artists": [
+        {
+          "name": "Casey Daniels Band",
+          "url": "https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206940,
+      "name": "My Old Man and Jesus",
+      "url": "https://open.spotify.com/track/3dm2tAOVyFavpTXVir5sGL"
     },
     {
       "album": {

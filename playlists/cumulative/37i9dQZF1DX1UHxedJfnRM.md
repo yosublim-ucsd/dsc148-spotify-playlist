@@ -2,9 +2,9 @@
 
 ### [Pura Salsa](https://open.spotify.com/playlist/37i9dQZF1DX1UHxedJfnRM)
 
-> Los temas más sabrosos del momento suenan aquí\. Foto: Septeto Acarey
+> Los temas más sabrosos del momento suenan aquí\. Foto: Tito Nieves, Gilberto Santa Rosa
 
-135 songs - 10 hr 1 min
+136 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Escúchame Mi Amor](https://open.spotify.com/track/4hKA20qV4pbFRsvetaiI6F) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP) | [Escúchame Mi Amor](https://open.spotify.com/album/0ShEn9YT8mKbikES8Bbczq) | 3:45 | 2022-05-13 | 2022-05-28 |
 | [Escúchame Mi Amor \- \(Versión Salsa\)](https://open.spotify.com/track/3ls8JeVnVqZjgxBUQ6dFmN) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP) | [Escúchame Mi Amor](https://open.spotify.com/album/2JLsZ8rCJFCnjNIkepUej0) | 3:45 | 2022-05-27 |  |
 | [Ese Hombre](https://open.spotify.com/track/0j91VTv3PrBm4qtHSnzjqw) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Ese Hombre](https://open.spotify.com/album/7sBMGYMGE2bJLQwjoc2o0c) | 4:36 | 2022-11-11 |  |
-| [Fabricando Fantasías](https://open.spotify.com/track/5wtobh7w5HnPnZse4dRd8s) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Fabricando Fantasías](https://open.spotify.com/album/4FKwqeMsUmUsNCS2EXtjZJ) | 3:57 | 2023-02-03 |  |
+| [Fabricando Fantasías](https://open.spotify.com/track/5wtobh7w5HnPnZse4dRd8s) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Fabricando Fantasías](https://open.spotify.com/album/4FKwqeMsUmUsNCS2EXtjZJ) | 3:57 | 2023-02-03 | 2023-06-24 |
 | [FOR SALE](https://open.spotify.com/track/68Pz7iMzCrCoHQcocNwvAi) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [FOR SALE](https://open.spotify.com/album/4MYIOezZeoePIZ8LAS084W) | 4:43 | 2022-07-08 | 2022-08-13 |
 | [FOR SALE](https://open.spotify.com/track/0ZQuLDHTb6xo5y8UQb2T9X) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Debut y Segunda Tanda \(Deluxe\)](https://open.spotify.com/album/4uBIS6rAEZQX8NCDgoLKq2) | 4:18 | 2022-10-28 | 2023-02-04 |
 | [Frágil](https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764) | [Reynier Perez](https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd), [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Enamórate Bailando](https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y) | 4:36 | 2022-05-13 |  |
@@ -122,6 +122,7 @@
 | [Sincero \(Versión Salsa\)](https://open.spotify.com/track/5Zqw6aZ5zqVcpo1D9rFxhD) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/4VeUVQDF5zX4oyELx7ewIA) | 3:05 | 2023-04-27 | 2023-06-20 |
 | [Sincero \- Versión Salsa](https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG) | 3:05 | 2022-05-13 | 2023-05-11 |
 | [Sobrio](https://open.spotify.com/track/29GaFL3B4650i21U2rbC6h) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Sobrio](https://open.spotify.com/album/3dlegWqWB5ChqSrQKLiR6h) | 4:11 | 2022-05-13 |  |
+| [Soy](https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Soy](https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL) | 4:23 | 2023-06-23 |  |
 | [Te Dejo Libre](https://open.spotify.com/track/2RFF5DiKhaHPGha0YhUtRb) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Dejo Libre](https://open.spotify.com/album/5Vq3L6xD3iDFJ9iCrZofxt) | 3:56 | 2022-07-15 | 2022-09-20 |
 | [Te Dejo Libre](https://open.spotify.com/track/4fBugAURiDBsuyDPCUaAL6) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Dejo Libre](https://open.spotify.com/album/3lYizfZAUZhaVDtLUM8tHk) | 3:56 | 2022-05-13 | 2022-10-08 |
 | [Te Equivocaste Conmigo](https://open.spotify.com/track/5fIZ0ju08y3plRtjM3SS84) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Te Equivocaste Conmigo](https://open.spotify.com/album/6rirUeOxzeulvnkmTvQAwo) | 4:09 | 2022-05-13 |  |

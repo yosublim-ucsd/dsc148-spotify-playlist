@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 218566,
       "name": "100k",
       "url": "https://open.spotify.com/track/2T8tVm411Axkxd8OfOB7sN"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 117251,
       "name": "ARSONIST",
       "url": "https://open.spotify.com/track/453AV9QfN8EfxufyAtX5P2"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 156774,
       "name": "As The World Turns",
       "url": "https://open.spotify.com/track/77DDuCXiHl6rsnCoC4t5RT"
@@ -1210,6 +1210,24 @@
       "duration_ms": 198482,
       "name": "BLACK PEARLS (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS"
+    },
+    {
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135613,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX"
     },
     {
       "album": {
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
@@ -3684,7 +3702,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 201733,
       "name": "Griffith Park",
       "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
@@ -3800,7 +3818,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 155586,
       "name": "HEADFIRST",
       "url": "https://open.spotify.com/track/6VTu7pyGA19UvQ0hCNiBaq"
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 206912,
       "name": "Hurry",
       "url": "https://open.spotify.com/track/3xEXJtBBatwc3zVTjHBFA4"
@@ -4452,6 +4470,24 @@
       "duration_ms": 131083,
       "name": "In N Out (feat. TheHxliday & Rico Nasty)",
       "url": "https://open.spotify.com/track/0RcKrEJIn4OhDGsaTW7g9K"
+    },
+    {
+      "album": {
+        "name": "Holy Smokes!",
+        "url": "https://open.spotify.com/album/7CfSUHEBCbDbwjVy8eevFG"
+      },
+      "artists": [
+        {
+          "name": "Hudi",
+          "url": "https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135757,
+      "name": "In the Cut",
+      "url": "https://open.spotify.com/track/4wGRRrz95y8fqUvsnKCGZH"
     },
     {
       "album": {
@@ -4982,6 +5018,24 @@
       "duration_ms": 144147,
       "name": "LOLSMH II",
       "url": "https://open.spotify.com/track/4yg2dkVMQX7HIqiM7c0iEZ"
+    },
+    {
+      "album": {
+        "name": "ours & we (demo)",
+        "url": "https://open.spotify.com/album/0B5MgreNOJ2BIVmDpgZ3mW"
+      },
+      "artists": [
+        {
+          "name": "Carter Ace",
+          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76548,
+      "name": "lonely, i can tell - demo",
+      "url": "https://open.spotify.com/track/1xux4JxVu58FauqmthNWs9"
     },
     {
       "album": {
@@ -5596,6 +5650,24 @@
       "duration_ms": 159155,
       "name": "Mount Olympus",
       "url": "https://open.spotify.com/track/51iOn6LKdI9QWW04Db4H5E"
+    },
+    {
+      "album": {
+        "name": "Moving W Grace",
+        "url": "https://open.spotify.com/album/4RJOAv8cAhwnxP9hnopxD7"
+      },
+      "artists": [
+        {
+          "name": "Your Stepdad",
+          "url": "https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145022,
+      "name": "Moving W Grace",
+      "url": "https://open.spotify.com/track/44VReTCmHtlKNsoopdydC5"
     },
     {
       "album": {
@@ -6285,6 +6357,24 @@
     },
     {
       "album": {
+        "name": "Oxenfree",
+        "url": "https://open.spotify.com/album/1T2fsN4A8MiZaYewMolplD"
+      },
+      "artists": [
+        {
+          "name": "Father",
+          "url": "https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Oxenfree",
+      "url": "https://open.spotify.com/track/4vpnTB0gyoj5QxZKmEiC7w"
+    },
+    {
+      "album": {
         "name": "Pack a Lunch (with Redman)",
         "url": "https://open.spotify.com/album/0oBGB7dCr9DSoVcRpY8qfz"
       },
@@ -6446,6 +6536,28 @@
       "duration_ms": 190838,
       "name": "Peso",
       "url": "https://open.spotify.com/track/6oqRowe5lMSV62jZwar1VO"
+    },
+    {
+      "album": {
+        "name": "BAD SON",
+        "url": "https://open.spotify.com/album/2ykrqWTfqZ1ltn6n0ooFIf"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        },
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186957,
+      "name": "PETTY (feat. TiaCorine)",
+      "url": "https://open.spotify.com/track/4WAwwhUc54CHYksDvVP8Zt"
     },
     {
       "album": {
@@ -6738,6 +6850,24 @@
       "duration_ms": 236032,
       "name": "Provolone & Heroin (Feat. Freddie Dredd)",
       "url": "https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH"
+    },
+    {
+      "album": {
+        "name": "The Foggie Pound 3",
+        "url": "https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr"
+      },
+      "artists": [
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171346,
+      "name": "Psalm 62",
+      "url": "https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp"
     },
     {
       "album": {
@@ -7722,7 +7852,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
@@ -8739,6 +8869,28 @@
     },
     {
       "album": {
+        "name": "TOOLIE BEAM",
+        "url": "https://open.spotify.com/album/0hnk0FclQcfKpAbKc9Qsxv"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155555,
+      "name": "TOOLIE BEAM",
+      "url": "https://open.spotify.com/track/6wjR1iV0PmJRBJGsRyukSY"
+    },
+    {
+      "album": {
         "name": "Top Bitch!",
         "url": "https://open.spotify.com/album/5FUEmDM0jXct34ZmhfTJYA"
       },
@@ -9118,7 +9270,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 161500,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/6y1jpW735dAaH4nzkoo8Qy"
@@ -9386,6 +9538,24 @@
       "duration_ms": 145373,
       "name": "White Walls",
       "url": "https://open.spotify.com/track/292x0LG03veq1YIbcETPbO"
+    },
+    {
+      "album": {
+        "name": "who?",
+        "url": "https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149565,
+      "name": "who?",
+      "url": "https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ"
     },
     {
       "album": {

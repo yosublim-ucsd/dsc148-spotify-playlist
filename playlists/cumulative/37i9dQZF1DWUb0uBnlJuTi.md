@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-324 songs - 1 day 0 hr 53 min
+325 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Pluto](https://open.spotify.com/track/66BTQQnzdtn921AG13dO6D) | [Apollo Suns](https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW) | [Pluto](https://open.spotify.com/album/2KhSWuSSxItYsUYIXbhyyq) | 4:17 | 2023-05-12 |  |
 | [Poignant Pelican](https://open.spotify.com/track/34gehm6RkffvxOQFYSOdqg) | [Liquid Saloon](https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G), [Roi Avivi](https://open.spotify.com/artist/7ATBMWBycBfPqBtrgxeWpT) | [Poignant Pelican](https://open.spotify.com/album/3jtxdWWRN8H7klNo41Zsa0) | 5:17 | 2022-05-20 | 2023-04-30 |
 | [Poignant Pelican](https://open.spotify.com/track/4WalV8X8XtEx8qlBi1nxxn) | [Liquid Saloon](https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G), [Roi Avivi](https://open.spotify.com/artist/7ATBMWBycBfPqBtrgxeWpT) | [Took A Second](https://open.spotify.com/album/03A32BylFfpvDVvAi02KgT) | 5:17 | 2022-05-27 |  |
-| [Point Of Junction](https://open.spotify.com/track/1YCTwUfFcNVMQhzippLhjJ) | [Pop Workshop](https://open.spotify.com/artist/3DbmbwovHNQ3TU3N9BZ67K) | [Vol\. 1](https://open.spotify.com/album/1B8mzLQ2ZjKk1OH4HfAVQ6) | 7:23 | 2021-02-27 |  |
+| [Point Of Junction](https://open.spotify.com/track/1YCTwUfFcNVMQhzippLhjJ) | [Pop Workshop](https://open.spotify.com/artist/3DbmbwovHNQ3TU3N9BZ67K) | [Vol\. 1](https://open.spotify.com/album/1B8mzLQ2ZjKk1OH4HfAVQ6) | 7:23 | 2021-02-27 | 2023-06-24 |
 | [Pontiac](https://open.spotify.com/track/7i1K6szPqqpK5rdASM5c23) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Pontiac](https://open.spotify.com/album/0X300GKcM8rN5cON7xrDVb) | 3:44 | 2021-06-25 |  |
 | [Popping](https://open.spotify.com/track/1TfrVFnOTvA30x5BKxEA6O) | [Stu Gardner](https://open.spotify.com/artist/0gJHfKGAPwJYziuE4cjhpd) | [The Two Block Hero](https://open.spotify.com/album/7afOK9Qn6i8xCkUHpGh204) | 3:38 | 2020-10-09 | 2022-04-18 |
 | [Presente Grego](https://open.spotify.com/track/2pqSHDltuqxI0C1X04OJ6f) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf) | [Mutual Attraction Vol\. 2](https://open.spotify.com/album/2wso8mfKhfX29LzZzXhqkZ) | 3:13 | 2021-06-11 | 2022-07-29 |
@@ -219,6 +219,7 @@
 | [Running In Fear From Imaginary Assailants](https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [John Ellis](https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR), [Derrek Phillips](https://open.spotify.com/artist/3dhabMNHFdgZdE0dnxA75x) | [Friends Seen and Unseen \(2022 Remaster\)](https://open.spotify.com/album/1rkhwQMkBsVhPjrw26Gfrm) | 3:42 | 2022-11-11 |  |
 | [Rush Hour](https://open.spotify.com/track/4gZQtkTRTa1iYd58pBDTOw) | [Phoenician Blinds](https://open.spotify.com/artist/7h8xpeKN3WG7fHgj8pc7SW) | [Rush Hour](https://open.spotify.com/album/2LIUUx08Dw3IFqtDWCmTeE) | 4:12 | 2020-10-09 |  |
 | [Rushing](https://open.spotify.com/track/4ttyuisGzPrVAAfAeTmbXC) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Rushing](https://open.spotify.com/album/2xE5eptuLVhx3nBoT8D7Md) | 3:12 | 2022-04-08 | 2022-07-24 |
+| [Safely Far](https://open.spotify.com/track/5zOImk9SuJVNISeMUd1m3y) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Safely Far](https://open.spotify.com/album/66MMnVPMTFD2yRIApV7CDn) | 3:05 | 2023-06-23 |  |
 | [Sanchez](https://open.spotify.com/track/75pHHXVMycJIX961oCotoW) | [Tabloid](https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG) | [Open Mind](https://open.spotify.com/album/44QNn43CMkEyzWvbr1lW8v) | 4:44 | 2023-02-10 |  |
 | [Sassy](https://open.spotify.com/track/6Fxil4EHqnMgQPGElnuYzb) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Sassy](https://open.spotify.com/album/56ai2OAbYKk4sigSaWJhn3) | 4:18 | 2021-06-04 | 2022-09-26 |
 | [Saturday Morning](https://open.spotify.com/track/72KvdSoiLLrbTmeuh8wNsw) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [David D.R\. Robbins](https://open.spotify.com/artist/6djNiYf7SqY2NMGCG7zTyc) | [Saturday Morning](https://open.spotify.com/album/74ICzRbSJUOgMZ773OrEud) | 2:29 | 2022-04-29 |  |

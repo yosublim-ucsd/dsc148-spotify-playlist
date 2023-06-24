@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,233 likes - 95 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,329 likes - 95 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 63 | [Ainay](https://open.spotify.com/track/6f9D7nVZVcMJvCuqVvD5LE) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Tehzeeb Hafi](https://open.spotify.com/artist/2XZWheJXPLb99FDdImPP2o) | [Ainay](https://open.spotify.com/album/72zheRsnYxLWNuHv6dHXiL) | 5:28 |
 | 64 | [Husn E Haqiqi](https://open.spotify.com/track/1Yi1XZNXOGk49Eh8WI5FGG) | [Darvesh](https://open.spotify.com/artist/1mPsFzgP5Zg6gdnfyKWMyJ) | [Husn E Haqiqi](https://open.spotify.com/album/402uZx2nCUK3MWpvqrVNxW) | 6:39 |
 | 65 | [Man Kunto Maula](https://open.spotify.com/track/7yFs95J0gZt15FjC4ylJVj) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Man Kunto Maula](https://open.spotify.com/album/4aDtJNM4kem6tl4CeR7YAt) | 9:28 |
-| 66 | [Haq Ali](https://open.spotify.com/track/4KdVxITCH0jol5Dbq2x68H) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Haq Ali](https://open.spotify.com/album/0FJlpw4MuPuYh2STnJVHt7) | 6:47 |
+| 66 | [Haq Ali](https://open.spotify.com/track/4VCOs89feJNdL22cDoeFoc) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Blue Productions](https://open.spotify.com/artist/15jUoEypsDlzTmh1eVJP6X), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Bhoomi 2020](https://open.spotify.com/album/73G9NzlCUCFr88RHxJuQPQ) | 6:47 |
 | 67 | [Rangrez](https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 8:57 |
 | 68 | [Rasta Bhool Gaye](https://open.spotify.com/track/0mARMftPGcPABcF5YRF6tj) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [VASL](https://open.spotify.com/album/6OAH2QoJXw1yE4N7sH7v3W) | 4:08 |
 | 69 | [Ajab Shaan](https://open.spotify.com/track/4CZISmbEjlxmS2AZU5PicM) | [Junaid Ahmad](https://open.spotify.com/artist/2bj8wu4yydN6N6ocVCRmJz), [Ayashi Music](https://open.spotify.com/artist/6q92ahsRTNAvLM9Joys95s) | [Ajab Shaan](https://open.spotify.com/album/027Hm6R2LDBLuQ7UoH54qY) | 4:16 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 94 | [Haji Peer](https://open.spotify.com/track/2gzhifaV7Dz7BsTFstmZOA) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908) | [Haji Peer](https://open.spotify.com/album/52tfxa4ThDUFALfmS7HcZR) | 4:11 |
 | 95 | [Rang Le](https://open.spotify.com/track/6BW7qbuZba3CoEr1OahhUo) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rang Le](https://open.spotify.com/album/2OC8Tg8Z4F583hxAyb64tt) | 3:33 |
 
-Snapshot ID: `MCxjODNkYThmODMwODA1ZGI3MTkwYjZlYWIzOWVjODkxMjI3Y2ViN2Ji`
+Snapshot ID: `MCwyNmMzNmQ1ZGM4Mjc4MTFiMTIzMmNlNWI2ZDFjZGMxMjRjZWQ2ZjZm`

@@ -4,7 +4,7 @@
 
 > every day grooves for a laid back day.
 
-132 songs - 7 hr 46 min
+133 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 | 2023-05-26 |  |
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-09 |  |
 | [Security Code](https://open.spotify.com/track/2ZOIl2JPKxTKNqJboeSrWd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Joanna Teters](https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 3:35 | 2023-03-10 |  |
+| [Serious](https://open.spotify.com/track/2VgRXLLrZdM334OX0YCLKa) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Jack Splash](https://open.spotify.com/artist/0FWhHIfPV3MjJbmdMws8Tn) | [Serious](https://open.spotify.com/album/3zX6aqDhWfDApsWDJHak43) | 3:50 | 2023-06-23 |  |
 | [Settling Down](https://open.spotify.com/track/3uWN2ZgglpRGuFvuC4fCEx) | [Vahn Black](https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7), [Trunino Lowe](https://open.spotify.com/artist/6hCfWoTzVIsoS5bdnRL0JC) | [Petrichor](https://open.spotify.com/album/7DhML0tk9Cu7G9PXuZd4RV) | 6:15 | 2023-06-16 |  |
 | [Shibuya \(feat\. Syd\)](https://open.spotify.com/track/5G7602PyF33hYDi4utEpoZ) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Shibuya](https://open.spotify.com/album/5COwxcrDHpm6t439Cuba4p) | 2:24 | 2021-10-22 |  |
 | [Sign And Signal](https://open.spotify.com/track/1QpPefY7AVM2Y67CGROj39) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:22 | 2023-03-03 |  |

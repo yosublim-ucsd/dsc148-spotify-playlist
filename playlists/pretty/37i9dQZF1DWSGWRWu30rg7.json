@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Rizwan Fadilah",
-  "num_followers": 62819,
+  "num_followers": 62887,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzU3N2YyNmQyM2NkMzNlMTczNjBkYmUyZDA3YTJlZWQ1MTkxYjE0",
+  "snapshot_id": "MCxmZDBhYzgzOWM5NGU5Yzc2NzRjMWRmYWJjMzZjMDZmOWU0MmYyNGI5",
   "tracks": [
     {
       "added_at": "2023-06-22 17:00:00",
@@ -771,6 +771,22 @@
       "duration_ms": 241937,
       "name": "Manusia Bisa Apa",
       "url": "https://open.spotify.com/track/4kUsvXstOIw9WdopUuQbHx"
+    },
+    {
+      "added_at": "2023-06-22 17:00:00",
+      "album": {
+        "name": "Let's Do It For Love",
+        "url": "https://open.spotify.com/album/5WdY3sT3eq3Blx5vAw1V5v"
+      },
+      "artists": [
+        {
+          "name": "TERUNA",
+          "url": "https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL"
+        }
+      ],
+      "duration_ms": 327344,
+      "name": "Let's Do It For Love",
+      "url": "https://open.spotify.com/track/2tXHRbM4JOyHhyOteDmSjM"
     },
     {
       "added_at": "2023-06-22 17:00:00",

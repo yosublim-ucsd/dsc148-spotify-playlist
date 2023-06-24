@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Chasin' Indigo",
+        "url": "https://open.spotify.com/album/0Ge1b3uTSaGygoWx4wupht"
+      },
+      "artists": [
+        {
+          "name": "Carley Arrowood",
+          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Chasin' Indigo",
+      "url": "https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ"
+    },
+    {
+      "album": {
         "name": "Weighted Mind",
         "url": "https://open.spotify.com/album/1Nhg69P4YB6wBXuP6Kmhbe"
       },
@@ -852,6 +870,28 @@
       "duration_ms": 168853,
       "name": "Losing You Blues",
       "url": "https://open.spotify.com/track/2TQjjGL6RPO1X0Yl3yrW9Y"
+    },
+    {
+      "album": {
+        "name": "Love Train",
+        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
+      },
+      "artists": [
+        {
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Rebecca Lynn Howard",
+          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209391,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
     },
     {
       "album": {

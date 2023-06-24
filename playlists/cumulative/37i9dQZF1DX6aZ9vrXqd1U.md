@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-263 songs - 19 hr 0 min
+265 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/19jryDqhWoCZeDRDY5bCFK) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 4:53 | 2022-07-27 | 2022-07-29 |
 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 | 2022-12-06 |  |
 | [AFTER ALL](https://open.spotify.com/track/1sL49SqeRgfUxvVjP5Bm65) | [Donna Burke](https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR) | [AFTER ALL](https://open.spotify.com/album/7kZY7Et5C6TFM21t9Z4W43) | 4:15 | 2022-07-27 | 2023-06-23 |
-| [After All](https://open.spotify.com/track/3ZoYbnjWUpnbmGSLJknOQk) | [Donna Burke](https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR) | [TURN A GUNDAM the Movie Original Motion Picture Soundtrack \- Wakusei No Gogo,Bokuraha Kiss Wo Shita](https://open.spotify.com/album/6yB5cU0jmTsDM5rjQWRjI1) | 4:16 | 2023-06-19 |  |
+| [AFTER ALL](https://open.spotify.com/track/5MaskUiW0XdWIgDLdZKnnW) | [Donna Burke](https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR) | [AFTER ALL](https://open.spotify.com/album/2rz5aACagypyxXTq6X8g07) | 4:15 | 2023-06-19 |  |
+| [After All](https://open.spotify.com/track/3ZoYbnjWUpnbmGSLJknOQk) | [Donna Burke](https://open.spotify.com/artist/6EhrRmObU0r0A8dzkRShpR) | [TURN A GUNDAM the Movie Original Motion Picture Soundtrack \- Wakusei No Gogo,Bokuraha Kiss Wo Shita](https://open.spotify.com/album/6yB5cU0jmTsDM5rjQWRjI1) | 4:16 | 2023-06-19 | 2023-06-24 |
 | [Ai Senshi](https://open.spotify.com/track/1H69lVwtjpEUB8nAyeahfy) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Ai Senshi](https://open.spotify.com/album/7ElpBzSDigXgsFhCgxS2mm) | 3:51 | 2023-04-21 |  |
 | [Ash Like Snow](https://open.spotify.com/track/2S4AVJvIq2okFLmLVFI2xn) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [Ash Like Snow](https://open.spotify.com/album/5ijS7un1EdannSyn9I6l3I) | 4:32 | 2022-10-17 | 2022-11-13 |
 | [Ash Like Snow](https://open.spotify.com/track/4opeH1F0Z1pL0BdZhuWzew) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [Ash Like Snow](https://open.spotify.com/album/1t4Yw7R1k19MPwUm6LpSNq) | 4:32 | 2022-07-27 | 2022-07-29 |
@@ -127,7 +128,8 @@
 | [NO LIMITS ∞](https://open.spotify.com/track/35iykIkD4aX3MpYPpZ0MAm) | [Taja](https://open.spotify.com/artist/5PFmo5RBNN2sekKu6velaE) | [NO LIMITS ∞](https://open.spotify.com/album/0fxlluOSZtzjNUo7EcUtyF) | 4:33 | 2022-07-27 | 2023-06-09 |
 | [NO LIMITS ∞](https://open.spotify.com/track/5iukXVcXeOBDFYska0fmSw) | [Taja](https://open.spotify.com/artist/5PFmo5RBNN2sekKu6velaE) | [NO LIMITS ∞](https://open.spotify.com/album/26ZLH7uvfw1Cs8sHtfdsoD) | 4:33 | 2023-04-21 |  |
 | [Overture](https://open.spotify.com/track/6lO0AqVVEssuoRioBi4dYt) | [Ryota Nozaki](https://open.spotify.com/artist/4dFNO8mIQosWKc3W8Ntme6) | [Mobile Suit Gundam U.C\. Engage Original Motion Picture Soundtrack 2](https://open.spotify.com/album/00pVzhIlsu7gs6ZvtVhyFv) | 3:14 | 2023-03-21 |  |
-| [Planet Zone](https://open.spotify.com/track/1vCrSGsxSeIvj252PmUzFo) | [Risa Yuuki](https://open.spotify.com/artist/5mEeL62aHJl7ETL1uAVsQk) | [MOBILE SUIT SD GUNDAM Take Me Out to the Colony](https://open.spotify.com/album/4Rx1w76XW7L9I0MfYyiVZ8) | 4:03 | 2023-06-19 |  |
+| [Planet Zone](https://open.spotify.com/track/1vCrSGsxSeIvj252PmUzFo) | [Risa Yuuki](https://open.spotify.com/artist/5mEeL62aHJl7ETL1uAVsQk) | [MOBILE SUIT SD GUNDAM Take Me Out to the Colony](https://open.spotify.com/album/4Rx1w76XW7L9I0MfYyiVZ8) | 4:03 | 2023-06-19 | 2023-06-24 |
+| [Planet Zone](https://open.spotify.com/track/1XgeXpAjtaIzgGj7yp9Xsr) | [Risa Yuuki](https://open.spotify.com/artist/5mEeL62aHJl7ETL1uAVsQk) | [Planet Zone](https://open.spotify.com/album/2Fq1FPNCcXcjkrL2H8EtZD) | 4:04 | 2023-06-19 |  |
 | [Planet Zone](https://open.spotify.com/track/1AzDqUGSBTzexgNzzZjg0t) | [結城梨沙](https://open.spotify.com/artist/4dE7mnDgdYAsXY4X9jfoPA) | [Planet Zone](https://open.spotify.com/album/3Km6CvcGjkq6BybVypKQGB) | 4:04 | 2022-07-27 | 2023-06-23 |
 | [Prototype](https://open.spotify.com/track/3QAsiWZa6JQ1Vh4sCBlvcx) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [Prototype](https://open.spotify.com/album/5F1nPVlPoUxlANLGQRcDid) | 5:44 | 2023-04-21 |  |
 | [Prototype](https://open.spotify.com/track/6cyvDIi8JNadYK9RDeHK6O) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [Prototype](https://open.spotify.com/album/4ddgTus7mYgqCchdjmgNPo) | 5:44 | 2022-07-27 | 2023-06-18 |

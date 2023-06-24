@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-541 songs - 1 day 10 hr 27 min
+543 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Mistwalker](https://open.spotify.com/track/29HBY8bz6ut3ePI9VyEtx5) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Mistwalker](https://open.spotify.com/album/6r0JeC4CfopkU0otpIKqTg) | 4:50 | 2020-12-11 | 2021-06-23 |
 | [Moments Of Sundown](https://open.spotify.com/track/1skrQ2EgnDHVciNJRtvL6c) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Moments Of Sundown](https://open.spotify.com/album/0h9MjPvEVqyJYox9mFdCsC) | 4:05 | 2022-07-01 |  |
 | [Mono Lobby](https://open.spotify.com/track/0lYw34oradYt3xu6ypXgA3) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 3:24 | 2020-10-20\* | 2021-07-09 |
+| [Monsieur](https://open.spotify.com/track/1PJkjjYVNjO64a88U65x6m) | [Túnn](https://open.spotify.com/artist/7hfCTHwFBHdujO41a9RPXv) | [Monsieur](https://open.spotify.com/album/0YeuJQDS0j7EBNgrtNsSBr) | 2:58 | 2023-06-23 |  |
 | [Moon](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Moon](https://open.spotify.com/album/3M46ScNsRcUadJs8j5qajr) | 2:56 | 2021-04-15 | 2022-04-06 |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2021-11-10 | 2022-08-05 |
 | [Morgondimma \- Niels Gordon Remix](https://open.spotify.com/track/35XZH4WYCgKUmy1ICJiBsN) | [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Niels Gordon](https://open.spotify.com/artist/7D8a3wjscyQr64cKBJIG50) | [Nattdimma/Morgondimma](https://open.spotify.com/album/1Y8rgQIuxdnmcYNOLMgZyZ) | 4:56 | 2021-06-23 | 2021-08-25 |
@@ -315,6 +316,7 @@
 | [Natural High](https://open.spotify.com/track/0yxyUSZkaQUtIMPoFRo93R) | [Second Act](https://open.spotify.com/artist/7vf7XkMalUVtZK11FcOvU1) | [Natural High](https://open.spotify.com/album/5j7iIwdKPce2lPRAdmlmVS) | 7:16 | 2020-10-20\* | 2020-12-24 |
 | [Neon Love](https://open.spotify.com/track/0c1hYWkQFcp1ZaGvZEQOju) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Neon Love](https://open.spotify.com/album/0QCuvZuYN0e13rpWQlOlbd) | 2:50 | 2023-02-17 |  |
 | [Neptunus](https://open.spotify.com/track/6lXmtXT47uFZ4CQndLQWnO) | [Joel Forsberg](https://open.spotify.com/artist/5L3kqpAo1Qmae2kEmBRU8R) | [Neptunus](https://open.spotify.com/album/4yrK6AaPtUWPAcrwT7fAyh) | 6:43 | 2021-02-24 | 2021-03-25 |
+| [New Angeles](https://open.spotify.com/track/5y0tN7T4fu7fNnHp4RYcpH) | [Arie de Laang](https://open.spotify.com/artist/1T1ukBvUGD5uDGjjYda8k1), [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [New Angeles](https://open.spotify.com/album/4cSf0FF9F9yqMVwmV9vY1A) | 2:21 | 2023-06-23 |  |
 | [New Frontier](https://open.spotify.com/track/6hkZ974ZJcWY6NorsnIFIV) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [New Frontier](https://open.spotify.com/album/3cSuL271dmIfPhrzwbcCvE) | 3:30 | 2020-10-20\* | 2021-03-25 |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2021-06-23 | 2021-10-16 |
 | [Next To You](https://open.spotify.com/track/7CsOoJMd3gFKEJvX7nLhQ8) | [Bending Lights](https://open.spotify.com/artist/6P02YGhZmko2kdalxsmctl) | [Right Direction](https://open.spotify.com/album/1uB1qUZQ7CytxeGELt9QAy) | 3:40 | 2021-02-20 | 2021-05-13 |

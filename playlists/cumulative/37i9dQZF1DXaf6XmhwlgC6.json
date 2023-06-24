@@ -2053,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Ocean Waves",
+        "url": "https://open.spotify.com/album/07IhREwpLxDAuxkUIhSk1Y"
+      },
+      "artists": [
+        {
+          "name": "Ezeiu",
+          "url": "https://open.spotify.com/artist/0Ip9Wm5iefxEQ8GNzx0rri"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Ocean Waves",
+      "url": "https://open.spotify.com/track/0r2KqEOqDSn1bKZSZEVZsq"
+    },
+    {
+      "album": {
         "name": "Oceano Pacifico",
         "url": "https://open.spotify.com/album/5N6N5Ou6qBeow8eoElQa2V"
       },
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 297626,
       "name": "Runeii",
       "url": "https://open.spotify.com/track/4ADboMaZ1PMfK4Np69Zb4K"

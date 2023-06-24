@@ -1,28 +1,28 @@
 {
-  "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 320641,
+  "description": "All eyes on you. Cover: Cody Fry",
+  "num_followers": 320773,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzM5YTlkZDgzODI2ZGFiYTRjZjc0MzkxYWFmM2M4N2U5ZDkzNjY2",
+  "snapshot_id": "MCw4NzNhYjliZDU4OWUyMjU5MTUxNDk0NDM2N2U5YmE5ZjYzNmIwOGU5",
   "tracks": [
     {
-      "added_at": "2023-06-02 15:55:13",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Everyday is the Best Day of My Life",
-        "url": "https://open.spotify.com/album/7jlVqJqJBJ7yewZ31whhjQ"
+        "name": "Waltz For Sweatpants",
+        "url": "https://open.spotify.com/album/79BUAhiwMuRuyRouRwrZ36"
       },
       "artists": [
         {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+          "name": "Cody Fry",
+          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
         }
       ],
-      "duration_ms": 132353,
-      "name": "Everyday is the Best Day of My Life",
-      "url": "https://open.spotify.com/track/4vB1VyZYSSdZYH9QNaSJIa"
+      "duration_ms": 195666,
+      "name": "Waltz For Sweatpants",
+      "url": "https://open.spotify.com/track/5NItQtFp7GdPaOG41vVXCk"
     },
     {
       "added_at": "2023-04-17 19:19:02",
@@ -39,6 +39,22 @@
       "duration_ms": 135693,
       "name": "Christmas Kids",
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+    },
+    {
+      "added_at": "2023-06-02 15:55:13",
+      "album": {
+        "name": "Everyday is the Best Day of My Life",
+        "url": "https://open.spotify.com/album/7jlVqJqJBJ7yewZ31whhjQ"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "duration_ms": 132353,
+      "name": "Everyday is the Best Day of My Life",
+      "url": "https://open.spotify.com/track/4vB1VyZYSSdZYH9QNaSJIa"
     },
     {
       "added_at": "2023-05-21 22:02:57",
@@ -77,6 +93,22 @@
       "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "to love in the 21st century",
+        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "the alternative",
+      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
+    },
+    {
       "added_at": "2023-04-18 18:46:49",
       "album": {
         "name": "Ghost of Chicago",
@@ -107,22 +139,6 @@
       "duration_ms": 155933,
       "name": "Alien Blues",
       "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
-    },
-    {
-      "added_at": "2023-04-17 19:19:02",
-      "album": {
-        "name": "THE INSIDE OUTTAKES",
-        "url": "https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H"
-      },
-      "artists": [
-        {
-          "name": "Bo Burnham",
-          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS"
     },
     {
       "added_at": "2023-06-15 19:26:44",
@@ -171,6 +187,22 @@
       "duration_ms": 278991,
       "name": "Juliet",
       "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
+    },
+    {
+      "added_at": "2023-04-17 19:19:02",
+      "album": {
+        "name": "THE INSIDE OUTTAKES",
+        "url": "https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H"
+      },
+      "artists": [
+        {
+          "name": "Bo Burnham",
+          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS"
     },
     {
       "added_at": "2023-05-19 04:00:00",

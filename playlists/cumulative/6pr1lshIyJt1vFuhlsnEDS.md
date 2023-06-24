@@ -4,7 +4,7 @@
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-93 songs - 8 hr 19 min
+94 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Binary Fusion](https://open.spotify.com/track/58JQX9mgorweze1ZDm4SGL) | [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Binary Fusion](https://open.spotify.com/album/5FgP0FVyAhVkU643BjjPWo) | 3:28 | 2023-05-26 |  |
 | [Bionic Jungle](https://open.spotify.com/track/0FuxLvhDsdGu6XpnxGQrAf) | [Marcal](https://open.spotify.com/artist/6XVtxL4WRwoEqB1BpLel6y) | [Cyber Dystopia](https://open.spotify.com/album/2vsc8k41jsAyDZj4iCkXVD) | 4:58 | 2023-02-11 | 2023-04-23 |
 | [Black Hole](https://open.spotify.com/track/1WA080AK1F8IMH9XXu4XUJ) | [Lautaro Ibañez](https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR), [Mart.in](https://open.spotify.com/artist/6qjm8nOMxSOERNOambLJRg) | [Black Hole](https://open.spotify.com/album/7us8EpEFnMsbKqKMX1Y2PS) | 5:07 | 2023-01-09 | 2023-04-05 |
+| [Black Triangles \(Metodi Hristov Remix\)](https://open.spotify.com/track/649rERDKx5gDY1wiWu3mlx) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Black Triangles \(Metodi Hristov Remix\)](https://open.spotify.com/album/1nxRk5EwgQi6HsonJUL2gP) | 5:44 | 2023-06-22 |  |
 | [Came Here For Love](https://open.spotify.com/track/3SWZ0hpjeYT1BCx0Auqi6l) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [Came Here For Love EP](https://open.spotify.com/album/5nPnubdJCVf8E6vxcbEFOi) | 4:26 | 2022-10-31 |  |
 | [Chroma \- Original Mix](https://open.spotify.com/track/6E0uWZUfkZc4GOp9b5E2fY) | [VINCENT](https://open.spotify.com/artist/6TQAnU4OIrclxdDDXeyFNQ), [MARIUS \(DE\)](https://open.spotify.com/artist/33PchVl2zwuIHf70f6IQia) | [Chroma](https://open.spotify.com/album/7DHJBRwxUp0d6V9drbDHax) | 6:52 | 2023-04-04 | 2023-04-23 |
 | [Chromoly \- Rave Edit](https://open.spotify.com/track/75hnRPQSi3di5xgyD4kYAt) | [Ryan Michael Robbins](https://open.spotify.com/artist/1xmsILg4EMNUiaXjx1N43k), [Jason Johnson \(DE\)](https://open.spotify.com/artist/5sCukU3sm3DGmPwAgEZVDc) | [Chromoly](https://open.spotify.com/album/4uWfYVKUhUNcTLnwX3T4IA) | 6:36 | 2023-04-04 | 2023-04-23 |

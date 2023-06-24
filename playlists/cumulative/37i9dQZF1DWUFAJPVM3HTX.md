@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: CARI\. Updates every Wednesday.
 
-1,411 songs - 3 day 0 hr 49 min
+1,412 songs - 3 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,7 +687,8 @@
 | [LaSenza](https://open.spotify.com/track/4ekb6cQpOOjAGqmFpzu2J6) | [Jordel](https://open.spotify.com/artist/6Wwdgvn4VyRAFwlcJTm92h) | [LaSenza](https://open.spotify.com/album/4vrxfbyeurYiKLySHODPWc) | 2:10 | 2023-05-12 |  |
 | [Last Lovers](https://open.spotify.com/track/0nm8vHgCMhOCWPLnigtMYG) | [Aria Lanelle](https://open.spotify.com/artist/3GZkDM8jEqLih4bOYDBDNT), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Last Lovers](https://open.spotify.com/album/2JkTAYs4d4tZxCoWlej26B) | 4:02 | 2023-06-14 |  |
 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 | 2022-11-30 | 2023-02-11 |
-| [Last Thing](https://open.spotify.com/track/3wzSq2AgKp3KXVrAO6yj8h) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/0OZATi1efmtpFw6d7ivEzf) | 2:42 | 2023-03-17 |  |
+| [Last Thing](https://open.spotify.com/track/3wzSq2AgKp3KXVrAO6yj8h) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/0OZATi1efmtpFw6d7ivEzf) | 2:42 | 2023-03-17 | 2023-06-24 |
+| [Last Thing](https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX) | 2:42 | 2023-03-17 |  |
 | [Late Night](https://open.spotify.com/track/43aQZaucoNw3Uqzp6zWZR6) | [Crystal Caines](https://open.spotify.com/artist/5QNT3OFrqUABwC5aSJkKPd) | [Late Night](https://open.spotify.com/album/0MtU4Xf6lLLLnKMmNGDrBi) | 4:09 | 2022-02-02 | 2022-02-18 |
 | [Layaway Luv](https://open.spotify.com/track/3kEIUmTe5TsWQDa39IrtGS) | [Ariel](https://open.spotify.com/artist/1vMyuVkbyTMmCukJ6fXOlZ) | [Layaway Luv](https://open.spotify.com/album/4H21qBYpywGekMLlSaq8Ln) | 3:26 | 2022-04-27 | 2022-06-10 |
 | [Layin Next to Me](https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Layin Next to Me](https://open.spotify.com/album/1jhFza8pUS6acLiZXNYdJx) | 3:37 | 2023-01-18 | 2023-04-13 |

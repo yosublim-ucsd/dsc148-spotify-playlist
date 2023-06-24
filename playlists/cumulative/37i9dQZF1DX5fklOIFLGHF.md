@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: EMI
 
-276 songs - 18 hr 17 min
+277 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Iluminador](https://open.spotify.com/track/0OHjA32vvt6SplJuExyjYy) | [Socio](https://open.spotify.com/artist/4C7oQCCnEm59KXmNDx8w1l) | [Iluminador](https://open.spotify.com/album/02NrzFWfOi6fwcDGLd2Fat) | 3:16 | 2022-07-01 | 2022-07-24 |
 | [Ilusión](https://open.spotify.com/track/7sxwjqjRzpfXSyLCBrhU25) | [Diego González](https://open.spotify.com/artist/65FeQY2sD1xPBSrhTm4LC9) | [Ilusión](https://open.spotify.com/album/2HugFbm25jbXhGeD2bQwXO) | 3:57 | 2022-07-08 | 2022-07-29 |
 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2022-07-08 |  |
+| [Inadaptados](https://open.spotify.com/track/4meoGqkR1NgVtWuyVk6zhZ) | [Tabaré Cardozo](https://open.spotify.com/artist/5Xm9ynJD7wkdtI5HR2ux9K), [Lu Ferreira](https://open.spotify.com/artist/74TtgycmTAnjCSQeUA6oLQ) | [39 de Febrero](https://open.spotify.com/album/468bG1AvnxwaZtgA8hTMLw) | 3:55 | 2023-06-23 |  |
 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 | 2022-05-20 |  |
 | [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 | 2022-05-20 |  |
 | [Jordan](https://open.spotify.com/track/6EnCaLkLfAO3xQVlZX5Aku) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [El Éxodo](https://open.spotify.com/album/7oZygg8ZInYyhfiEOBE6Ja) | 3:30 | 2022-05-20 | 2022-07-29 |
@@ -179,7 +180,7 @@
 | [Más Allá o Más Acá](https://open.spotify.com/track/0a65V3gxWZ1BB5xC9im6o1) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Relajo Pero Con Orden](https://open.spotify.com/album/7jY3OUqHjakSJU1dV08cba) | 3:07 | 2022-05-20 | 2022-07-29 |
 | [Mírenla](https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:16 | 2022-07-08 |  |
 | [Naufrago](https://open.spotify.com/track/71V8zf39OwEpP54LQp3Bgo) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Surcando](https://open.spotify.com/album/6MI3Mq3LCkXHR01e9hyY7n) | 3:38 | 2022-05-20 | 2022-07-29 |
-| [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 | 2022-05-20 |  |
+| [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 | 2022-05-20 | 2023-06-24 |
 | [No Te Imaginas](https://open.spotify.com/track/6l0ClSGxF3VwZIvxseYERY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [No Te Imaginas](https://open.spotify.com/album/3HVgc5TzbVgLBA77uOevdv) | 3:26 | 2022-05-20 | 2023-01-16 |
 | [Noche de Rock](https://open.spotify.com/track/6PNwXxUpvti9wg6YrAHpYS) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Todo para Ser Feliz](https://open.spotify.com/album/6Fi5vaAjftLNztATYex34a) | 3:12 | 2022-07-01 | 2022-07-29 |
 | [Nos dijimos todo](https://open.spotify.com/track/5i9BN55sSR94Lfdes8seDp) | [Once Tiros](https://open.spotify.com/artist/7w79n5kCkTEaewxNBynvhM) | [Imán](https://open.spotify.com/album/0JVFqH6RjuRpECnOovHqcH) | 3:32 | 2022-05-20 | 2022-07-28 |

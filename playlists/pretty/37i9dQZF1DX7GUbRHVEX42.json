@@ -1,12 +1,12 @@
 {
   "description": "The best current contemporary Reggae. Cover: Buju Banton",
-  "num_followers": 114187,
+  "num_followers": 114293,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2E5Njk4MTM3MTEyZjYzN2E5NWIwYmJhOWI3YmYyNWI1NTQyMDFm",
+  "snapshot_id": "MCxhZGJkMTNiMjU4MTM2ODc2NTQxNmNlZThjOGNhZjBlZGM0YjdjMWJh",
   "tracks": [
     {
       "added_at": "2023-06-09 14:45:48",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Perfectly With You",
-        "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
-      },
-      "artists": [
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Perfectly With You",
-      "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
         "name": "Sky Way",
         "url": "https://open.spotify.com/album/6BMPftU5MJAu7mM2Z5DCrh"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 223000,
       "name": "Sky Way",
       "url": "https://open.spotify.com/track/0VpJsmh0WGBthUjVinfS3k"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Perfectly With You",
+        "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Perfectly With You",
+      "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
-      },
-      "artists": [
-        {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
         "name": "Alert",
         "url": "https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 179861,
       "name": "Alert",
       "url": "https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
     },
     {
       "added_at": "2023-06-09 14:45:48",

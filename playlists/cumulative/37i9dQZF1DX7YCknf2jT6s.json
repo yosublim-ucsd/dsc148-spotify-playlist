@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Butcher Brown",
+  "description": "New jazz for open minds. Cover: Reuben James",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 509298,
       "name": "A Day Without You",
       "url": "https://open.spotify.com/track/4WzBJCHBXcUXAzM48jWy7v"
@@ -490,6 +490,36 @@
       "duration_ms": 162352,
       "name": "Above Us",
       "url": "https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0"
+    },
+    {
+      "album": {
+        "name": "Achilles Heel (Subharmonic Version)",
+        "url": "https://open.spotify.com/album/2NUr8Q6xaNLSqMPFboW9Eg"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Shaina E",
+          "url": "https://open.spotify.com/artist/0V2wqlaYskZSKaKMlDLRZL"
+        },
+        {
+          "name": "Rich Armstrong",
+          "url": "https://open.spotify.com/artist/2FYsg0IZ8NSHCB9h4OiiZs"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264923,
+      "name": "Achilles Heel - Subharmonic Version",
+      "url": "https://open.spotify.com/track/5kOkyjSGWwJCdlu9PuI5Ln"
     },
     {
       "album": {
@@ -752,6 +782,24 @@
       "duration_ms": 267915,
       "name": "Akashic Xronicles",
       "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
+    },
+    {
+      "album": {
+        "name": "Akka-Safad",
+        "url": "https://open.spotify.com/album/1ZyeuEB5sVY0h5na75PeOF"
+      },
+      "artists": [
+        {
+          "name": "Faraj Suleiman",
+          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223426,
+      "name": "Akka-Safad",
+      "url": "https://open.spotify.com/track/29Pk4XB98ecmEFZXKyQNfj"
     },
     {
       "album": {
@@ -1052,7 +1100,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 201410,
       "name": "Always Here",
       "url": "https://open.spotify.com/track/21Y8MSySpubfrs80AInKFb"
@@ -2078,7 +2126,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 211984,
       "name": "Be My Husband",
       "url": "https://open.spotify.com/track/6YcXNQ2cVqr5InpWCmCGZx"
@@ -3165,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Captain Zorg",
+        "url": "https://open.spotify.com/album/0uB8OhslSRXVynDRsNLMTC"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Herman",
+          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "Captain Zorg",
+      "url": "https://open.spotify.com/track/26gg3Q7vbK22k255tZNSum"
+    },
+    {
+      "album": {
         "name": "Next Stop",
         "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
       },
@@ -3246,7 +3312,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 428493,
       "name": "Catching Drift",
       "url": "https://open.spotify.com/track/3IOo4OpLgkqrhGKqY1Fmsx"
@@ -4390,7 +4456,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 153267,
       "name": "Deep Purple",
       "url": "https://open.spotify.com/track/6aoSCsa7Hzl7APKqq7b1PI"
@@ -6578,7 +6644,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 419938,
       "name": "Ghazal - Trio Live",
       "url": "https://open.spotify.com/track/2J6Fzr2KCk3aTdEy7IrB7M"
@@ -6944,7 +7010,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 162061,
       "name": "Growth",
       "url": "https://open.spotify.com/track/15FLV2kByiWpMkLILA2QfL"
@@ -9071,6 +9137,32 @@
     },
     {
       "album": {
+        "name": "Open Spaces (Folk Songs Reimagined)",
+        "url": "https://open.spotify.com/album/1GR2qWrFdhwTK0BDg77ci0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Hersog Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/4kw8f5dfYQrxXDJbKnTYXy"
+        },
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Noah Preminger",
+          "url": "https://open.spotify.com/artist/2WUAJpHBpYwRyY17woH3f0"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507533,
+      "name": "Jib Set",
+      "url": "https://open.spotify.com/track/3h1Pl7YeuxQcwyoa0AR4LW"
+    },
+    {
+      "album": {
         "name": "Zenzile: The Reimagination of Miriam Makeba",
         "url": "https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297"
       },
@@ -10674,6 +10766,24 @@
       "duration_ms": 236054,
       "name": "Make My Way Back Home",
       "url": "https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU"
+    },
+    {
+      "album": {
+        "name": "Mal Du Pays",
+        "url": "https://open.spotify.com/album/3op0FtRorOmmYyVq1vqJsk"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288932,
+      "name": "Mal Du Pays",
+      "url": "https://open.spotify.com/track/4df17Kolv8hrU2GxH42NRg"
     },
     {
       "album": {
@@ -12715,6 +12825,28 @@
     },
     {
       "album": {
+        "name": "Ornette's Clockwork",
+        "url": "https://open.spotify.com/album/57MyVQnykZBOoimi7frYXb"
+      },
+      "artists": [
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jeroen Van Vliet",
+          "url": "https://open.spotify.com/artist/6cxlPIRoScj55Vgv9SQ5QE"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510726,
+      "name": "Ornette's Clockwork",
+      "url": "https://open.spotify.com/track/48SSMsg9ArdZPkPrbUO2as"
+    },
+    {
+      "album": {
         "name": "Other Jewels",
         "url": "https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr"
       },
@@ -12950,10 +13082,36 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 463996,
       "name": "Part IX",
       "url": "https://open.spotify.com/track/2NKMOcg4ghSlEIQMTKHPLP"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/4cP6mSCbTaGDtU8Eprv6cm"
+      },
+      "artists": [
+        {
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Lewis Moody",
+          "url": "https://open.spotify.com/artist/60ybgvKZRtAZz7WxNMpJaV"
+        },
+        {
+          "name": "Benjamin Muralt",
+          "url": "https://open.spotify.com/artist/5cyLdqGfpPgg8uE1ZiCpwP"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192029,
+      "name": "Part VII",
+      "url": "https://open.spotify.com/track/6YBlNOhf1CXD3tBS47AgVx"
     },
     {
       "album": {
@@ -13244,7 +13402,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 214300,
       "name": "Piscis",
       "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
@@ -13548,6 +13706,40 @@
       "duration_ms": 302998,
       "name": "Process Level Event",
       "url": "https://open.spotify.com/track/5xqpc19sWHuS5gaD58DqaO"
+    },
+    {
+      "album": {
+        "name": "Progressions",
+        "url": "https://open.spotify.com/album/1KdzFeU8fkfx9HLStTVsR8"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Terreon Gully",
+          "url": "https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P"
+        },
+        {
+          "name": "Dario Chiazzolino",
+          "url": "https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354507,
+      "name": "Progressions",
+      "url": "https://open.spotify.com/track/08hak5Zyhj0SCGB4Zoajd3"
     },
     {
       "album": {
@@ -20420,6 +20612,24 @@
       "duration_ms": 330088,
       "name": "Why Not?",
       "url": "https://open.spotify.com/track/0mhDVzQgnwtrY1JnDqz7KQ"
+    },
+    {
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6FOuijhx9uJTJkL7XtMkn6"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/0pLNBfL8hIf58lqpFgIhct"
     },
     {
       "album": {

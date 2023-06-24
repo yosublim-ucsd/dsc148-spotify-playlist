@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-98 songs - 6 hr 33 min
+99 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Don't Need It](https://open.spotify.com/track/4DnK27URnJcCULRNDHvm2M) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Field Songs \(Deluxe Edition\)](https://open.spotify.com/album/5udj0c8CJSjywp6SKHsV2x) | 3:33 | 2021-07-30 | 2022-07-29 |
 | [Don't Need It](https://open.spotify.com/track/6NeQt64zijJZbNgFXwvw0I) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Field Songs \(Deluxe Edition\)](https://open.spotify.com/album/0LdlWYQ0uHsrG4YjwtOcnJ) | 3:33 | 2021-07-30 |  |
 | [Dry Dirt \(Stripped\)](https://open.spotify.com/track/7g4fX37Y3lziLMoxrTTGI3) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:34 | 2021-07-30 |  |
+| [Duck N’ Dodge](https://open.spotify.com/track/6pGmdibZoXSNbU4n9QX1lB) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Yellow Peril](https://open.spotify.com/album/1oZfzj1CP6GqTps0pMqBPV) | 3:36 | 2023-06-23 |  |
 | [Forget \- Live from Spotify, NYC](https://open.spotify.com/track/1gpyfbutOl79qgVjMrZQOe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Spotify Sessions](https://open.spotify.com/album/6YYarhAfY1nBoYsDichIts) | 4:38 | 2021-07-30 |  |
 | [Gold](https://open.spotify.com/track/2BEqkiPEzz4tYul7V0SGxW) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Gold](https://open.spotify.com/album/3TO7DNWI1fhBnPtjw0afJ5) | 4:31 | 2021-07-30 |  |
 | [Heaven Bent](https://open.spotify.com/track/0bjTW3zBohWdYy2z1Sf5hJ) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM) | 6:47 | 2021-07-30 |  |

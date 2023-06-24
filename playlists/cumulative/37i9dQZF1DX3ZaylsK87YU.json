@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "The Longing EP No. 3",
+        "url": "https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355320,
+      "name": "Called Me Higher",
+      "url": "https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42"
+    },
+    {
+      "album": {
         "name": "The Longing",
         "url": "https://open.spotify.com/album/5eGkHTfJHgDOsF7KbcZfNc"
       },
@@ -588,32 +606,6 @@
       "duration_ms": 355320,
       "name": "Called Me Higher",
       "url": "https://open.spotify.com/track/3NeKjtQmHU0r34J1hNt0zG"
-    },
-    {
-      "album": {
-        "name": "The Longing EP No. 3",
-        "url": "https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I"
-      },
-      "artists": [
-        {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "date_added": "2021-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 355320,
-      "name": "Called Me Higher",
-      "url": "https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42"
     },
     {
       "album": {

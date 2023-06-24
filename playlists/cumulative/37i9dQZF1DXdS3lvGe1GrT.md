@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Lutalo \| Visual Artist: Bailey Elder
 
-703 songs - 1 day 18 hr 8 min
+704 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [All Our Good Times Are Through](https://open.spotify.com/track/4xEOY3HYYh386FwuLLdYPz) | [David Childers](https://open.spotify.com/artist/3uzU2a5wO3DgVyFJ7HWuo1), [The Serpents](https://open.spotify.com/artist/6800z94Xqipy54xQUrsdP0) | [Melancholy Angel](https://open.spotify.com/album/6sGoUGk21aPgZPy1XGCF6G) | 2:50 | 2023-04-12 | 2023-05-18 |
 | [All the Stars \(Radio Edit\)](https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Shapeshifter](https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ) | 3:48 | 2022-10-12 | 2022-12-01 |
 | [all the time](https://open.spotify.com/track/4F1VPmnGNgqm0IYCQbxZAc) | [Gabi Gamberg](https://open.spotify.com/artist/0SmJXZmNCXrtpeUvzg6UaC) | [Crisis Kit](https://open.spotify.com/album/736yHkGCl5vf9OJ5ARWNvt) | 3:57 | 2023-05-17 |  |
+| [Allergy Season](https://open.spotify.com/track/7iABcQjrZuN8bZaQyYLJcf) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [Allergy Season](https://open.spotify.com/album/4Mz9ZrzR4jm3wwsbIXArvp) | 3:33 | 2023-06-23 |  |
 | [Along for the Ride](https://open.spotify.com/track/6n5QC6I90spAvogzjP0K1f) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Along for the Ride](https://open.spotify.com/album/5zUul6JFofk88lBe5g4S75) | 3:20 | 2022-10-19 | 2022-12-01 |
 | [Already There](https://open.spotify.com/track/4eQgIa4i3nr4ReoujolhCc) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [Already There](https://open.spotify.com/album/0bCJEYkhGu463eI5jGfEVn) | 4:18 | 2023-05-17 |  |
 | [alright](https://open.spotify.com/track/1g8BgGkdXgM9Gukr5DPw4O) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [innerdialogue b\-sides & beluga](https://open.spotify.com/album/3fCKRgQzFkYh5RFgkFEXzO) | 3:01 | 2023-05-03 |  |

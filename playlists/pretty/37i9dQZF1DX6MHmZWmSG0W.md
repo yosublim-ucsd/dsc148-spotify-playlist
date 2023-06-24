@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MHmZWmSG0W.md) - [plain]
 
 > Let <a href="spotify:artist:5PdkRVDASsw6P7QoqRpz0F">Salvatore Ganacci</a>'s uniqueness be heard in this energetic mix filled with his own productions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,313 likes - 21 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,323 likes - 21 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MHmZWmSG0W.md) - [plain]
 | 20 | [Horse \- Mixed](https://open.spotify.com/track/5SwTqtm0Bs0wfjsR5tXf1B) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Horse \(Mixed\)](https://open.spotify.com/album/1kXlZpC8l8YcMlFpA0X0KL) | 2:01 |
 | 21 | [What Makes Us Wonderful \- Mixed](https://open.spotify.com/track/6kp6Y7ot56PbQfeAtuRCyp) | [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7), [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [What Makes Us Wonderful \(Mixed\)](https://open.spotify.com/album/1WAt66q7CGDngTS6TTmdy4) | 4:34 |
 
-Snapshot ID: `MCwzZjlkMmU1MGJhOWU4Njg2NWIxOGQzOGJiYjkwMTZiMjg4NzRkZWMz`
+Snapshot ID: `MCxiMzk4ODNlZjVkYmVkZWEwNmEyY2Y1ZDc1ZWQwMmEzYzM3Y2U5YmY2`

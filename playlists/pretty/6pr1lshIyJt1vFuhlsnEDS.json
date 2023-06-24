@@ -1,13 +1,33 @@
 {
   "description": "<a>https://bit.ly/2WYLxJM </a>",
-  "num_followers": 958,
+  "num_followers": 963,
   "original_name": "THE TECHNO METHOD",
   "owner": {
     "name": "Metodi Hristov",
     "url": "https://open.spotify.com/user/metodihristov"
   },
-  "snapshot_id": "MTQxMSxiOGY2YjE0NmEyMWMwYzA2ZTNjZGEwNmJmN2E0OTYxODNmNDZhYjli",
+  "snapshot_id": "MTQxMyw4NGNkODJhZmVjMjk4OWQ2Njk4YjA5MzEwNTUxYTIzYmRhMDU0MTAz",
   "tracks": [
+    {
+      "added_at": "2023-06-22 22:50:25",
+      "album": {
+        "name": "Black Triangles (Metodi Hristov Remix)",
+        "url": "https://open.spotify.com/album/1nxRk5EwgQi6HsonJUL2gP"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        },
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "duration_ms": 344038,
+      "name": "Black Triangles (Metodi Hristov Remix)",
+      "url": "https://open.spotify.com/track/649rERDKx5gDY1wiWu3mlx"
+    },
     {
       "added_at": "2023-05-30 08:11:59",
       "album": {

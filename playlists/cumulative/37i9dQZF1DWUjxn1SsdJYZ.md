@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Manu Crooks
 
-488 songs - 22 hr 57 min
+489 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [King of My City](https://open.spotify.com/track/4PxcmAe1EDlF8Q0SbvRtCe) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [King of My City](https://open.spotify.com/album/0iafvn1n23ncx4AkNyQrEg) | 2:45 | 2022-03-21 | 2022-05-13 |
 | [Know my worth](https://open.spotify.com/track/7aJWvpBKNGF9M3bmcrkDVc) | [DENNI](https://open.spotify.com/artist/3pmaKSem7OMEW29eeQ2iKO) | [Know my worth](https://open.spotify.com/album/1W7gxv55j9QUqOX0ZZ9AGf) | 2:58 | 2023-04-06 |  |
 | [Knowing My Place](https://open.spotify.com/track/47rTwdDCVoZLQ2MAKFv6Ih) | [360](https://open.spotify.com/artist/3vn7rk7VNMfDhuZNB9sDYP), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR) | [Knowing My Place](https://open.spotify.com/album/4U9t43T1XA8gD01blShlaA) | 2:17 | 2023-02-23 | 2023-06-16 |
+| [Kool\-Aid](https://open.spotify.com/track/6RZseaq0Avcn1rFXFvw5G5) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [Kool\-Aid](https://open.spotify.com/album/6nox35DswydstEnDGj0FFA) | 3:12 | 2023-06-22 |  |
 | [La Fiesta](https://open.spotify.com/track/7qVud7Bjs5syXGRwGgoIz4) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb), [MARIA SIOKE](https://open.spotify.com/artist/758HahCuuTj7WqRyb3vbTR), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs) | [La Fiesta](https://open.spotify.com/album/4312yRlG6ZEGL1nLObRVEM) | 3:32 | 2022-03-21 | 2022-05-06 |
 | [La Vida Loca](https://open.spotify.com/track/4KVh7P5ovX38gjRZIY8nzd) | [VV\-Ace](https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca) | [La Vida Loca](https://open.spotify.com/album/3W0ibdeYmMs462YZNCcUqt) | 2:26 | 2023-02-09 | 2023-06-23 |
 | [Laced Up](https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Laced Up](https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q) | 3:22 | 2023-06-20 |  |

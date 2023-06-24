@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-210 songs - 11 hr 7 min
+211 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 | 2022-05-19 |  |
 | [Nuvem](https://open.spotify.com/track/4PspiFxRshtDPg7hnh0MXp) | [Philó](https://open.spotify.com/artist/4Fa4skLUM0AQbzqOqknYbS) | [Nuvem](https://open.spotify.com/album/4cyJAvQAiqbZSgbQh75Vth) | 2:54 | 2023-04-14 |  |
 | [Ocean Flow Zither \- Mia Doi Todd Remix](https://open.spotify.com/track/09ppgcPGVtmFioqXjHIWJs) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Mia Doi Todd](https://open.spotify.com/artist/1r3efMZ0kcejkPKP8oQZzv) | [Sun Transformations](https://open.spotify.com/album/36tmFK2dtwsUrPWjsjnaEL) | 4:16 | 2022-03-30 | 2022-09-03 |
+| [Ocean Waves](https://open.spotify.com/track/0r2KqEOqDSn1bKZSZEVZsq) | [Ezeiu](https://open.spotify.com/artist/0Ip9Wm5iefxEQ8GNzx0rri) | [Ocean Waves](https://open.spotify.com/album/07IhREwpLxDAuxkUIhSk1Y) | 2:06 | 2023-06-23 |  |
 | [Oceano Pacifico](https://open.spotify.com/track/0qZtk3egr2xB8Yv4D2hbwW) | [Pace Immensa](https://open.spotify.com/artist/5RBcYA1urR2vv2UJLINBHK) | [Oceano Pacifico](https://open.spotify.com/album/5N6N5Ou6qBeow8eoElQa2V) | 2:22 | 2022-11-22 |  |
 | [ouma](https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS) | [Fall Ball](https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3) | [ouma](https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ) | 2:57 | 2022-03-30 | 2022-08-06 |
 | [Parallels](https://open.spotify.com/track/4ujZScjhNsCcDdK5iriHhU) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Parallels](https://open.spotify.com/album/1WEeuWUxTIuVUc3i1lKwFn) | 2:54 | 2022-06-24 |  |
@@ -140,7 +141,7 @@
 | [Riverside](https://open.spotify.com/track/02YiNo9Ltw4N1aIuf7u8c3) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Above The Neon Glow](https://open.spotify.com/album/4qDk81Z78TXyclmv3NSEBm) | 6:40 | 2022-03-30 | 2023-06-17 |
 | [Romanticizing](https://open.spotify.com/track/1PEqJDiicIXyEpby51cMJa) | [Tim Gourolis](https://open.spotify.com/artist/5q8Q9Fa2WPZVwj5VR6XYgp) | [Romanticizing](https://open.spotify.com/album/2JXmi8X9xYCjXkwJyB5x40) | 2:26 | 2023-04-06 |  |
 | [Ruby](https://open.spotify.com/track/1nvnPk9TCEiXr1qtNK1AIa) | [Star Rainbow](https://open.spotify.com/artist/73Px4AaHhSQJlCg7eqggPS) | [Ruby](https://open.spotify.com/album/6NttMwDGTU9pOIZYrK3Z0k) | 3:05 | 2023-04-06 |  |
-| [Runeii](https://open.spotify.com/track/4ADboMaZ1PMfK4Np69Zb4K) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79) | 4:57 | 2022-07-15 |  |
+| [Runeii](https://open.spotify.com/track/4ADboMaZ1PMfK4Np69Zb4K) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79) | 4:57 | 2022-07-15 | 2023-06-24 |
 | [Runeii](https://open.spotify.com/track/1nwGXWalB0Ls4Jm4mGUYkp) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/7vqMpYHIqqWQQc0IVR03ue) | 4:58 | 2022-03-30 | 2022-07-29 |
 | [Sam the Record Man](https://open.spotify.com/track/2VhwPhvVI2KWqPA8bpfiiQ) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Memory Canvas](https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF) | 3:21 | 2022-11-11 |  |
 | [Sands](https://open.spotify.com/track/57sMTer5cdcMyQuEZgNvlT) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Light of Woods](https://open.spotify.com/artist/50GdmfflR0mWUQpStEKuPZ) | [Craters](https://open.spotify.com/album/4OaftzM6C7I9OjBtu6xD5J) | 3:31 | 2023-01-27 |  |

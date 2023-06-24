@@ -1,67 +1,191 @@
 {
-  "description": "Dance and electronic Arabic songs. Cover: Myriam Fares and R3hab.",
-  "num_followers": 45126,
+  "description": "Dance and electronic Arabic songs. Cover: Jad Halal",
+  "num_followers": 45150,
   "original_name": "mint \u0646\u0639\u0646\u0639",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjU2NmY2NWYwZTBjMzQwNDdjOTgyOTM4NGZmZGJhNjRmMTA0YjBm",
+  "snapshot_id": "MCwzZTA2OGI3ODQ5OGMyZDhhZjgxZjM5NTY5YjdkNjcwZWVmYTkzZjA2",
   "tracks": [
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
-        "name": "Goumi (R3HAB MDLBEAST Remix)",
-        "url": "https://open.spotify.com/album/0UQKnfwY5K0f4yE6aJG8lN"
+        "name": "Rafat Rafat",
+        "url": "https://open.spotify.com/album/76PuKGEhebdwJSPxApNDDU"
       },
       "artists": [
         {
-          "name": "Myriam Fares",
-          "url": "https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh"
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Rafat Rafat",
+      "url": "https://open.spotify.com/track/0wxdCmO95St6JnlOLKciql"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Al Jamra",
+        "url": "https://open.spotify.com/album/6rJQ0ixBSIHmoqcQTprEei"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Zeyneb",
+          "url": "https://open.spotify.com/artist/1LJPlbCG6uw4ThxhRqhSmN"
         }
       ],
-      "duration_ms": 194875,
-      "name": "Goumi - R3HAB MDLBEAST Remix",
-      "url": "https://open.spotify.com/track/7zU9vK9isaFQGAOAHecHdS"
+      "duration_ms": 259665,
+      "name": "Al Jamra",
+      "url": "https://open.spotify.com/track/7d9I19WCgH758WL8mLl0Fl"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
-        "name": "Fe Einy",
-        "url": "https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt"
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
       "artists": [
         {
-          "name": "Mohammed Saeed",
-          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 170476,
-      "name": "Fe Einy - Deep House",
-      "url": "https://open.spotify.com/track/3fOFvpwuPppmFHpNm5Rfni"
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
-        "name": "Bnt El Chalabyea",
-        "url": "https://open.spotify.com/album/4zypeoqTlxujSqK0m7GJFK"
+        "name": "Kindir Surprise",
+        "url": "https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM"
       },
       "artists": [
         {
-          "name": "Moe Turk",
-          "url": "https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF"
+          "name": "Aziz Konkrite",
+          "url": "https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok"
         }
       ],
-      "duration_ms": 309612,
-      "name": "Bnt El Chalabyea",
-      "url": "https://open.spotify.com/track/7tqxqX5Ee6AEtyfcLAnQeF"
+      "duration_ms": 288213,
+      "name": "Kindir Suprise",
+      "url": "https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "7 Seconds",
+        "url": "https://open.spotify.com/album/3qR13zIAjDhKtsXquwIJfQ"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+        },
+        {
+          "name": "Pape Diouf",
+          "url": "https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA"
+        }
+      ],
+      "duration_ms": 315380,
+      "name": "7 Seconds",
+      "url": "https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Rush (Moody Jones Remix)",
+        "url": "https://open.spotify.com/album/0IHjPMsQQWcYbiMl9wp9gm"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Moody Jones",
+          "url": "https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz"
+        }
+      ],
+      "duration_ms": 234723,
+      "name": "Rush - Moody Jones Remix",
+      "url": "https://open.spotify.com/track/760wWZ9MSOKKqYjIlmwkDF"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/37abhSU412bkiwXr3ShshM"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        },
+        {
+          "name": "Syon",
+          "url": "https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Ksser Essouk",
+        "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
+      },
+      "artists": [
+        {
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
+        {
+          "name": "Salah Hammadi",
+          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
+        }
+      ],
+      "duration_ms": 326557,
+      "name": "Ksser Essouk",
+      "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
       "album": {
         "name": "Fog Elna Khil (Tyrvnt Remix)",
         "url": "https://open.spotify.com/album/5mL8U6uMNh6qOzwwvYa3cA"
@@ -85,163 +209,87 @@
       "url": "https://open.spotify.com/track/29SkEO4EJVs2Wa5kTps3f9"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
-        "name": "Nensak",
-        "url": "https://open.spotify.com/album/5dHXG3ddMbzOUJAiZrYoqY"
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX"
       },
       "artists": [
         {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "JOS3PH",
-          "url": "https://open.spotify.com/artist/3Ev4Vh7u4hM5XsVkebGPGh"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Les Gout",
+        "url": "https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
         },
         {
-          "name": "Sofiane DMC",
-          "url": "https://open.spotify.com/artist/77FoOrCfbaUzz92uI8U71u"
-        }
-      ],
-      "duration_ms": 222380,
-      "name": "Nensak",
-      "url": "https://open.spotify.com/track/3R6JctpuaSy4oAOq6nJ57U"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Nar",
-        "url": "https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd"
-      },
-      "artists": [
-        {
-          "name": "Salma Rachid",
-          "url": "https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa"
+          "name": "chuala",
+          "url": "https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Party Every Day",
-      "url": "https://open.spotify.com/track/2TMBACl98EE97KJOmjiXG3"
+      "duration_ms": 344000,
+      "name": "Les Gout",
+      "url": "https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
-        "name": "Al Jamra",
-        "url": "https://open.spotify.com/album/6rJQ0ixBSIHmoqcQTprEei"
+        "name": "Anchor Point EP",
+        "url": "https://open.spotify.com/album/1WmE8DAfRSq16Qre7SEV1V"
       },
       "artists": [
         {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+          "name": "Ahmed Spins",
+          "url": "https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV"
         },
         {
-          "name": "Zeyneb",
-          "url": "https://open.spotify.com/artist/1LJPlbCG6uw4ThxhRqhSmN"
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
         }
       ],
-      "duration_ms": 259665,
-      "name": "Al Jamra",
-      "url": "https://open.spotify.com/track/7d9I19WCgH758WL8mLl0Fl"
+      "duration_ms": 328000,
+      "name": "Waves & Wavs",
+      "url": "https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
-        "name": "Omry Maak",
-        "url": "https://open.spotify.com/album/1AqaW9SMNszibKJ78X2Kq9"
+        "name": "Yababa (Tunisian Mix)",
+        "url": "https://open.spotify.com/album/5h73R2jKggJ2O881UkV0Qf"
       },
       "artists": [
         {
-          "name": "A Loop",
-          "url": "https://open.spotify.com/artist/50RtnCeYKbJzZ88uW3vKAq"
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
         }
       ],
-      "duration_ms": 197519,
-      "name": "Omry Maak",
-      "url": "https://open.spotify.com/track/19aRbRcZzJTm1RbJWqMXb7"
+      "duration_ms": 335609,
+      "name": "Yababa - Tunisian Mix",
+      "url": "https://open.spotify.com/track/2RzpXFHgXybMjFCxHtOOnv"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Weyna (Wassim Younes Remix)",
-        "url": "https://open.spotify.com/album/539ieTc3bavENUkGBu4LxJ"
-      },
-      "artists": [
-        {
-          "name": "Mel7em",
-          "url": "https://open.spotify.com/artist/2kA5fHfCu63JFihHuda5Oi"
-        },
-        {
-          "name": "Wassim Younes",
-          "url": "https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn"
-        }
-      ],
-      "duration_ms": 402857,
-      "name": "Weyna - Wassim Younes Remix",
-      "url": "https://open.spotify.com/track/0Tv9RfkmEFwpR2phzJHf1F"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "M3ALLA2 FIKI",
-        "url": "https://open.spotify.com/album/5xfsxvdJIIA28ss6KuRYUJ"
-      },
-      "artists": [
-        {
-          "name": "RABS",
-          "url": "https://open.spotify.com/artist/5NnkfNnEiHdhoSnOetQM1R"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "M3ALLA2 FIKI",
-      "url": "https://open.spotify.com/track/2pD9H91mjZjZKxeFaU44RP"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Ksser Essouk",
-        "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
-      },
-      "artists": [
-        {
-          "name": "Momo Ryuk",
-          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
-        },
-        {
-          "name": "Salah Hammadi",
-          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
-        }
-      ],
-      "duration_ms": 326557,
-      "name": "Ksser Essouk",
-      "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
         "name": "Seret El Hob Remix",
         "url": "https://open.spotify.com/album/6ac2W6mJALSa62m9Rjf8WQ"
@@ -257,27 +305,359 @@
       "url": "https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
-        "name": "Sahra On The Moon",
-        "url": "https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7"
+        "name": "Chromosome",
+        "url": "https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ"
       },
       "artists": [
         {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        },
-        {
-          "name": "Feras Naddaf",
-          "url": "https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b"
+          "name": "Dish Dash",
+          "url": "https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA"
         }
       ],
-      "duration_ms": 159272,
-      "name": "Sahra On The Moon",
-      "url": "https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr"
+      "duration_ms": 197007,
+      "name": "Chromosome - Edit",
+      "url": "https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 198867,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Goumi (R3HAB MDLBEAST Remix)",
+        "url": "https://open.spotify.com/album/0UQKnfwY5K0f4yE6aJG8lN"
+      },
+      "artists": [
+        {
+          "name": "Myriam Fares",
+          "url": "https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 194875,
+      "name": "Goumi - R3HAB MDLBEAST Remix",
+      "url": "https://open.spotify.com/track/7zU9vK9isaFQGAOAHecHdS"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Soul Of Winds",
+        "url": "https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG"
+      },
+      "artists": [
+        {
+          "name": "Omary",
+          "url": "https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs"
+        },
+        {
+          "name": "Kawtar Sadik",
+          "url": "https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb"
+        }
+      ],
+      "duration_ms": 356250,
+      "name": "Maktoub",
+      "url": "https://open.spotify.com/track/3YLQqkq1qr9gecj09ltfcd"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Hasta El Fin",
+        "url": "https://open.spotify.com/album/5D5691C3I70vHqJX9w53qt"
+      },
+      "artists": [
+        {
+          "name": "Max Zotti",
+          "url": "https://open.spotify.com/artist/3po7iOEDHDHM8gnpoe7DY3"
+        },
+        {
+          "name": "Chris Bowl",
+          "url": "https://open.spotify.com/artist/6W2r8LhTkqCheVZ17OVOzV"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Hasta El Fin - Radio Edit",
+      "url": "https://open.spotify.com/track/6lc6OgZpWqwLdvSVOMFQNC"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Upside Down (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "Upside Down (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 163451,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Baglami",
+        "url": "https://open.spotify.com/album/07C07uz3IJt6aixCnd2uvM"
+      },
+      "artists": [
+        {
+          "name": "DJ DALI",
+          "url": "https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS"
+        }
+      ],
+      "duration_ms": 330491,
+      "name": "Baglami",
+      "url": "https://open.spotify.com/track/6ZTOjC8lXAXK5AUw4SRfn1"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Premier Gaou (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Magic System",
+          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        }
+      ],
+      "duration_ms": 222295,
+      "name": "Premier Gaou - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Abu Simbel",
+        "url": "https://open.spotify.com/album/3HVXzuVnuaWJyflpsF8MWj"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        }
+      ],
+      "duration_ms": 226652,
+      "name": "Abu Simbel",
+      "url": "https://open.spotify.com/track/1Y3yJHrBkkfj3GZKv1MVhF"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Heartbreak Fever",
+        "url": "https://open.spotify.com/album/6HmP6py1Q2mpf3e1yq7MCU"
+      },
+      "artists": [
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "duration_ms": 192914,
+      "name": "Heartbreak Fever",
+      "url": "https://open.spotify.com/track/152nakhbemxARzWXu224Hc"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Sah Sah",
+        "url": "https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 171664,
+      "name": "Sah Sah",
+      "url": "https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/1RJyJUZKnRR5NUgMC8d6k6"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Augusto Yepes",
+          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
+        }
+      ],
+      "duration_ms": 383606,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
       "album": {
         "name": "Headlights (feat. KIDDO & Issam Alnajjar) [Radio Edit]",
         "url": "https://open.spotify.com/album/6XZqrGWZ3s06HmcCRziviX"
@@ -305,171 +685,7 @@
       "url": "https://open.spotify.com/track/2gqnO3cvjvBNTYr9dMNZIn"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Mogador",
-        "url": "https://open.spotify.com/album/05yz2wpMI4wJiBwyj7fvQj"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        }
-      ],
-      "duration_ms": 150624,
-      "name": "Mogador",
-      "url": "https://open.spotify.com/track/2FBUQ0rB58kVxpR1xicpJs"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Tangerines",
-        "url": "https://open.spotify.com/album/1gOAS1nyS6NEYJdjvOKQXt"
-      },
-      "artists": [
-        {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Tangerines",
-      "url": "https://open.spotify.com/track/5OqAt7yFGoyAV9PEOAmfa1"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Bel Ahlam (Remix)",
-        "url": "https://open.spotify.com/album/7F8KwU004mAZFkyAzzK4qc"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        },
-        {
-          "name": "Always April",
-          "url": "https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Bel Ahlam (Remix)",
-      "url": "https://open.spotify.com/track/5jonBF1ctoQZ3vkaTN5VIv"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Ya Rababa",
-        "url": "https://open.spotify.com/album/39MFNRuzV8F5JOChDRpBxe"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Toufic Hatem",
-          "url": "https://open.spotify.com/artist/4j9gpKIArRkQI69agEe0YH"
-        }
-      ],
-      "duration_ms": 348305,
-      "name": "Ya Rababa",
-      "url": "https://open.spotify.com/track/0JbbFcObfoamPYxjFO3Bzo"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "ANSAKI",
-        "url": "https://open.spotify.com/album/5vkbZdEJqhnz7wgRfj6srU"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        }
-      ],
-      "duration_ms": 167794,
-      "name": "ANSAKI",
-      "url": "https://open.spotify.com/track/4O3GYFwAk96plrsPBaTOAc"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Yena'al Li",
-        "url": "https://open.spotify.com/album/03q6CZrTFtaSAUDi1xdRhs"
-      },
-      "artists": [
-        {
-          "name": "Wassim Younes",
-          "url": "https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn"
-        },
-        {
-          "name": "Sahraaoui",
-          "url": "https://open.spotify.com/artist/2dTsEuAzvCDqcUVeOt6yff"
-        }
-      ],
-      "duration_ms": 292340,
-      "name": "Yena'al Li",
-      "url": "https://open.spotify.com/track/5HhdXBRK4cI9mVO6Y9G4WT"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Amira",
-        "url": "https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS"
-      },
-      "artists": [
-        {
-          "name": "Wegz",
-          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
-        },
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        }
-      ],
-      "duration_ms": 269231,
-      "name": "Amira",
-      "url": "https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Faqat Ala Bali",
-        "url": "https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P"
-      },
-      "artists": [
-        {
-          "name": "Gharam Electric",
-          "url": "https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7"
-        }
-      ],
-      "duration_ms": 403861,
-      "name": "Faqat Ala Bali",
-      "url": "https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Ya Fatenny",
-        "url": "https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Hamaki",
-          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
-        }
-      ],
-      "duration_ms": 249448,
-      "name": "Wadina Baeid (Bonus Track)",
-      "url": "https://open.spotify.com/track/16FIBzbTBwPvO35SFTG4ql"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
         "name": "Moulayiten",
         "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
@@ -489,103 +705,83 @@
       "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
-        "name": "Ghouroub",
-        "url": "https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V"
+        "name": "Yena'al Li",
+        "url": "https://open.spotify.com/album/03q6CZrTFtaSAUDi1xdRhs"
       },
       "artists": [
         {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+          "name": "Wassim Younes",
+          "url": "https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn"
         },
         {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+          "name": "Sahraaoui",
+          "url": "https://open.spotify.com/artist/2dTsEuAzvCDqcUVeOt6yff"
         }
       ],
-      "duration_ms": 423414,
-      "name": "Ya Dam3i",
-      "url": "https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG"
+      "duration_ms": 292340,
+      "name": "Yena'al Li",
+      "url": "https://open.spotify.com/track/5HhdXBRK4cI9mVO6Y9G4WT"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
-        "name": "Anta",
-        "url": "https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY"
+        "name": "Tangerines",
+        "url": "https://open.spotify.com/album/1gOAS1nyS6NEYJdjvOKQXt"
       },
       "artists": [
         {
-          "name": "Rima Yussef",
-          "url": "https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl"
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Tangerines",
+      "url": "https://open.spotify.com/track/5OqAt7yFGoyAV9PEOAmfa1"
+    },
+    {
+      "added_at": "2023-06-23 17:32:04",
+      "album": {
+        "name": "Bel Ahlam (Remix)",
+        "url": "https://open.spotify.com/album/7F8KwU004mAZFkyAzzK4qc"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
         },
         {
-          "name": "Eljoee",
-          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+          "name": "Always April",
+          "url": "https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Anta",
-      "url": "https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9"
+      "duration_ms": 202666,
+      "name": "Bel Ahlam (Remix)",
+      "url": "https://open.spotify.com/track/5jonBF1ctoQZ3vkaTN5VIv"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/7z5CP8s91o8O6YXvM4qS3p"
+        "name": "Amira",
+        "url": "https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS"
       },
       "artists": [
         {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        }
-      ],
-      "duration_ms": 191490,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/64MF9Kii2EhxNr6pm3kkvm"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Trigue Lycee (Remix)",
-        "url": "https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd"
-      },
-      "artists": [
-        {
-          "name": "Khaled",
-          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
         },
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
         }
       ],
-      "duration_ms": 185192,
-      "name": "Trigue Lycee - Remix",
-      "url": "https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG"
+      "duration_ms": 269231,
+      "name": "Amira",
+      "url": "https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Sah Sah",
-        "url": "https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 171664,
-      "name": "Sah Sah",
-      "url": "https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
         "name": "Ya Ghali",
         "url": "https://open.spotify.com/album/4sYmsgBNSQrOXjV4GqmbHE"
@@ -601,470 +797,10 @@
       "url": "https://open.spotify.com/track/2E2CLOBLGokt6RKbhhIeCn"
     },
     {
-      "added_at": "2023-06-02 07:59:50",
+      "added_at": "2023-06-23 17:32:04",
       "album": {
-        "name": "Challenge",
-        "url": "https://open.spotify.com/album/0i3VC4YjBAhSYFoP7KcPtL"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Sultan Al Murshed",
-          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
-        },
-        {
-          "name": "Big Bo",
-          "url": "https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0"
-        }
-      ],
-      "duration_ms": 114285,
-      "name": "Challenge",
-      "url": "https://open.spotify.com/track/3VuaItBnwM73RM50sfZtoS"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Wesh Gabak",
-        "url": "https://open.spotify.com/album/1XqsRHBc8YU3Ix5jsvBXWK"
-      },
-      "artists": [
-        {
-          "name": "DEEJAY TAMER",
-          "url": "https://open.spotify.com/artist/4NhgtxJKalwNrFHNGmOUeh"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "Wesh Gabak",
-      "url": "https://open.spotify.com/track/7sRWrhHBNDpUyPsjApWqYF"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Hiya Hiya",
-        "url": "https://open.spotify.com/album/79IFajmgcokKaytvnRFomI"
-      },
-      "artists": [
-        {
-          "name": "Eljoee",
-          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 217021,
-      "name": "Hiya Hiya",
-      "url": "https://open.spotify.com/track/0tNpveVnqAXngNFP1MWBXn"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Dum Tak (feat. NASIR)",
-        "url": "https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        },
-        {
-          "name": "NASIR",
-          "url": "https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Dum Tak (feat. NASIR)",
-      "url": "https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Bala Ehsas (Remix)",
-        "url": "https://open.spotify.com/album/7E6xelo6R9ccoBJguBMwPf"
-      },
-      "artists": [
-        {
-          "name": "Salim Assaf",
-          "url": "https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df"
-        },
-        {
-          "name": "Karno Baghdassarian",
-          "url": "https://open.spotify.com/artist/0oOTVy8P8M01l6Pyg4Oz5v"
-        }
-      ],
-      "duration_ms": 229846,
-      "name": "Bala Ehsas - Remix",
-      "url": "https://open.spotify.com/track/7tfqN79YOCofQUGKvdK6gj"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Ghareeb Alay (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/78zVdyVqcYzpQNQWBWVjQv"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "Balti",
-          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 122307,
-      "name": "Ghareeb Alay - R3HAB Remix",
-      "url": "https://open.spotify.com/track/1U2BAJq4kvET6pN9gZnOvv"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "\u0628\u062d\u0628\u0643",
-        "url": "https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 155998,
-      "name": "Habitha Ya Nas - From Bhabak",
-      "url": "https://open.spotify.com/track/3AwmOjkzr9WZUqEewrskM1"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Ohebuka Raghman (Always April Remix)",
-        "url": "https://open.spotify.com/album/2Jy7QVorfZVcjvNXHVMGNo"
-      },
-      "artists": [
-        {
-          "name": "Rima Yussef",
-          "url": "https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl"
-        },
-        {
-          "name": "Always April",
-          "url": "https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "Ohebuka Raghman - Always April Remix",
-      "url": "https://open.spotify.com/track/6TMz1cbXzWFk5WA9oKwNQl"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "FIRAQ",
-        "url": "https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV"
-      },
-      "artists": [
-        {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
-        }
-      ],
-      "duration_ms": 448528,
-      "name": "Ala Moj Al Bahr - Live Album",
-      "url": "https://open.spotify.com/track/3rA7tw0opq9qK1NNh2BwaA"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Heya",
-        "url": "https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v"
-      },
-      "artists": [
-        {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
-        }
-      ],
-      "duration_ms": 239512,
-      "name": "Heya",
-      "url": "https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Hawlo",
-        "url": "https://open.spotify.com/album/22z5UsIINFusXfM9kVYdqr"
-      },
-      "artists": [
-        {
-          "name": "Cheb Mami",
-          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
-        }
-      ],
-      "duration_ms": 286069,
-      "name": "Hawlo",
-      "url": "https://open.spotify.com/track/7AzkW2i75Tu6U5rRzMTPV4"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "El Hawa",
-        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        },
-        {
-          "name": "Hayam Mansour",
-          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
-        }
-      ],
-      "duration_ms": 347855,
-      "name": "El Hawa",
-      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Akhedni Maak",
-        "url": "https://open.spotify.com/album/0ao8ZKXGvdzrvT0MoLM5em"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 155368,
-      "name": "Akhedni Maak",
-      "url": "https://open.spotify.com/track/1Z08bNXzoSDyzyIp8Sf3Pj"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Win",
-        "url": "https://open.spotify.com/album/0GNcDMnCoCbAgdgpKZXflS"
-      },
-      "artists": [
-        {
-          "name": "Halim yousfi",
-          "url": "https://open.spotify.com/artist/6EUe84nUL0UynwPD7ddtgp"
-        },
-        {
-          "name": "Gultrah Sound System",
-          "url": "https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba"
-        },
-        {
-          "name": "Lesstars",
-          "url": "https://open.spotify.com/artist/6QKz2YMVPepGdsvvOqeAg9"
-        }
-      ],
-      "duration_ms": 257872,
-      "name": "Win - Lesstars Remix",
-      "url": "https://open.spotify.com/track/0F9RxNpcbyw0uif75wpqrz"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "FIRAQ",
-        "url": "https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV"
-      },
-      "artists": [
-        {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
-        }
-      ],
-      "duration_ms": 383783,
-      "name": "Mulajia - Live Album",
-      "url": "https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Ya Ghayeb",
-        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
-      },
-      "artists": [
-        {
-          "name": "DJ Maximus",
-          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
-        },
-        {
-          "name": "Bob Zoabi",
-          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
-        }
-      ],
-      "duration_ms": 217211,
-      "name": "Ya Ghayeb",
-      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Ya Rayt (Shkoon Remix)",
-        "url": "https://open.spotify.com/album/5aBPfggkU1oEEA36MJ3yEg"
-      },
-      "artists": [
-        {
-          "name": "Ragheb Alama",
-          "url": "https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7"
-        },
-        {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
-        }
-      ],
-      "duration_ms": 212042,
-      "name": "Ya Rayt - Shkoon Radio Edit",
-      "url": "https://open.spotify.com/track/4dQkzZlY6SKoanDrWGv8WQ"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Malha",
-        "url": "https://open.spotify.com/album/14CyRqR7av8LvM8OfyaBMa"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Douae El Rhiouane",
-          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
-        }
-      ],
-      "duration_ms": 269714,
-      "name": "Malha",
-      "url": "https://open.spotify.com/track/7CbQfLg4og45pK84irlEd7"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "lamma bada yatathana",
-        "url": "https://open.spotify.com/album/276Hm5lY9sd4Rf4hWnjfpU"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Mia-Maria",
-          "url": "https://open.spotify.com/artist/3kzWp3weeysIkcanxwo43n"
-        }
-      ],
-      "duration_ms": 421229,
-      "name": "lamma bada yatathana",
-      "url": "https://open.spotify.com/track/4Pz9TcBWMjH13vMbHItS0v"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Mafeesh Mostaheel - Arrab Remix",
-        "url": "https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW"
-      },
-      "artists": [
-        {
-          "name": "Hassan El Shafei",
-          "url": "https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x"
-        },
-        {
-          "name": "Nicole Saba",
-          "url": "https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w"
-        },
-        {
-          "name": "Abdelbaset Hamouda",
-          "url": "https://open.spotify.com/artist/214and19aAubWpZFKo7bnv"
-        }
-      ],
-      "duration_ms": 518556,
-      "name": "Mafeesh Mostaheel - Arrab Remix",
-      "url": "https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "One More Dance (with Carmen Soliman) [Arabic Version]",
-        "url": "https://open.spotify.com/album/3ETOtpHXlQTP3yKIc2ncAm"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Carmen Soliman",
-          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "One More Dance (with Carmen Soliman) [Arabic Version]",
-      "url": "https://open.spotify.com/track/2j0jeaXrBMb6h0SHIk0TEI"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Ti Ra Ra (Mark Shakedown Remix)",
-        "url": "https://open.spotify.com/album/71gEymvL5E6UHlvGybgMDH"
-      },
-      "artists": [
-        {
-          "name": "Always April",
-          "url": "https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM"
-        },
-        {
-          "name": "Bashaar Al Jawad",
-          "url": "https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W"
-        },
-        {
-          "name": "Mark Shakedown",
-          "url": "https://open.spotify.com/artist/0owA2yBBDFjsmyBi4pgVgo"
-        }
-      ],
-      "duration_ms": 163605,
-      "name": "Ti Ra Ra - Mark Shakedown Remix",
-      "url": "https://open.spotify.com/track/7jXKKQ3PSmxj0sFLnlX0eb"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Laar Ya Laar",
-        "url": "https://open.spotify.com/album/4cpHlMvyOBWGHGAa9sufhw"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 130123,
-      "name": "Laar Ya Laar",
-      "url": "https://open.spotify.com/track/6p1nVQXxuS3bI5jXxwZnnF"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Mn Alby Baghani",
-        "url": "https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7"
+        "name": "Ya Fatenny",
+        "url": "https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj"
       },
       "artists": [
         {
@@ -1072,85 +808,9 @@
           "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
         }
       ],
-      "duration_ms": 290507,
-      "name": "Mn Alby Baghany",
-      "url": "https://open.spotify.com/track/4zViTBjVXkd5eaUsSjrhHv"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Lala Mama",
-        "url": "https://open.spotify.com/album/7CGDfjYxjMl8HT49pNydPG"
-      },
-      "artists": [
-        {
-          "name": "Eljoee",
-          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Lala Mama",
-      "url": "https://open.spotify.com/track/41G8Erys8j0Ijux3HAJ9mp"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Fe Hetta Tanya",
-        "url": "https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Fe Hetta Tanya",
-      "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Mawjou3 Galbi",
-        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        },
-        {
-          "name": "Najwa Farouk",
-          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Mawjou3 Galbi",
-      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
-    },
-    {
-      "added_at": "2023-06-02 07:59:50",
-      "album": {
-        "name": "Elli Baana (RANDALL Remix)",
-        "url": "https://open.spotify.com/album/0nScFV3dpOKHTivxuxAFqg"
-      },
-      "artists": [
-        {
-          "name": "Ragheb Alama",
-          "url": "https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7"
-        },
-        {
-          "name": "RANDALL",
-          "url": "https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Elli Baana",
-      "url": "https://open.spotify.com/track/6mPvxcBg9C5Msy6sJQtLdQ"
+      "duration_ms": 249448,
+      "name": "Wadina Baeid (Bonus Track)",
+      "url": "https://open.spotify.com/track/16FIBzbTBwPvO35SFTG4ql"
     }
   ],
   "unique_name": "mint \u0646\u0639\u0646\u0639",

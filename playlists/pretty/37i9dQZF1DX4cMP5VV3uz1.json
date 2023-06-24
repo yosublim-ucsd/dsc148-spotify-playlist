@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 127394,
+  "num_followers": 127498,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjg1YmI2Njg1NzhiMTc1N2FmOTViZjNmMWIyYzk0ZjdjZGVhMWE3",
+  "snapshot_id": "MCw1N2IzMTMzYTg5NzMwNTU0ZTA2MTAxM2E5NDUzMWUyNWFjNGUxOTc5",
   "tracks": [
     {
       "added_at": "2023-05-19 14:45:56",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Downers (Rework)",
-        "url": "https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk"
-      },
-      "artists": [
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        },
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 181689,
-      "name": "Downers - Rework",
-      "url": "https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 307813,
       "name": "Voodoo People - Pendulum Mix",
       "url": "https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "Downers (Rework)",
+        "url": "https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 181689,
+      "name": "Downers - Rework",
+      "url": "https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7jchd6Tg5YkJqsAsR7hyyY"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "Example",
-          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
-        }
-      ],
-      "duration_ms": 249642,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1c2aEprxW446Ht7ni3ESqL"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr"
       },
@@ -1103,18 +1083,22 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Find My Way Home",
-        "url": "https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7jchd6Tg5YkJqsAsR7hyyY"
       },
       "artists": [
         {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "Example",
+          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
         }
       ],
-      "duration_ms": 258858,
-      "name": "Find My Way Home",
-      "url": "https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG"
+      "duration_ms": 249642,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1c2aEprxW446Ht7ni3ESqL"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -1131,6 +1115,22 @@
       "duration_ms": 247210,
       "name": "Want You",
       "url": "https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "Find My Way Home",
+        "url": "https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 258858,
+      "name": "Find My Way Home",
+      "url": "https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Heartbroken 2022",
-        "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
-      },
-      "artists": [
-        {
-          "name": "T2",
-          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
-        },
-        {
-          "name": "ARPA",
-          "url": "https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd"
-        }
-      ],
-      "duration_ms": 172371,
-      "name": "Heartbroken 2022",
-      "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "Pictures In My Head",
         "url": "https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 258703,
       "name": "Pictures In My Head - High Contrast Remix",
       "url": "https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "Heartbroken 2022",
+        "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
+      },
+      "artists": [
+        {
+          "name": "T2",
+          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+        },
+        {
+          "name": "ARPA",
+          "url": "https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd"
+        }
+      ],
+      "duration_ms": 172371,
+      "name": "Heartbroken 2022",
+      "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
     },
     {
       "added_at": "2023-05-19 14:45:56",

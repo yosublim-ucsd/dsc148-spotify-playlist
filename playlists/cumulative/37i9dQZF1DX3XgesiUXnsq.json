@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 272325,
       "name": "10 Toes (Deluxe)",
       "url": "https://open.spotify.com/track/4zKUQ5tOAOfdAzkvg3zHw4"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 169695,
       "name": "Adventure Time",
       "url": "https://open.spotify.com/track/4QHXOP6YFZ4934kO1ATaEk"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 174971,
       "name": "All Of That",
       "url": "https://open.spotify.com/track/5JRWSUB3WTUfVyzGA0Iym0"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 137139,
       "name": "Ambiance",
       "url": "https://open.spotify.com/track/4E6ywa4T4jflnXe6KeB54G"
@@ -914,6 +914,32 @@
       "duration_ms": 108973,
       "name": "Biggie/Tupac Live Freestyle (Funkmaster Flex & Big Kap Feat. DJ Mister Cee, Notorious B.I.G & Tupac)",
       "url": "https://open.spotify.com/track/2FjvG9IQg242g2LEornfjy"
+    },
+    {
+      "album": {
+        "name": "Black For Green",
+        "url": "https://open.spotify.com/album/7E0vKS0ocrn6O3fuRHrnZC"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Figub Brazlevic",
+          "url": "https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum"
+        },
+        {
+          "name": "THE 6TH LETTER",
+          "url": "https://open.spotify.com/artist/5hM8TO6qnM1N04mPUcsg3V"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Black For Green",
+      "url": "https://open.spotify.com/track/10MHgsXUHZtBL6rBOWSr4S"
     },
     {
       "album": {
@@ -1314,7 +1340,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 252186,
       "name": "C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
       "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
@@ -2061,6 +2087,32 @@
     },
     {
       "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/0uGrHjpQjFttH2ztKbouyb"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150967,
+      "name": "Doomsday (with Juice WRLD & Cordae)",
+      "url": "https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at"
+    },
+    {
+      "album": {
         "name": "DRILL MUSIC IN ZION",
         "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
       },
@@ -2759,7 +2811,7 @@
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 194934,
+      "duration_ms": 194411,
       "name": "Found Love",
       "url": "https://open.spotify.com/track/6tQ5E896MerZcJ9A5kwWMD"
     },
@@ -3665,6 +3717,32 @@
     },
     {
       "album": {
+        "name": "Live From Space",
+        "url": "https://open.spotify.com/album/52Bso9BSusrjWj3SA3bBzM"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265066,
+      "name": "In The Morning (feat. Syd & Thundercat)",
+      "url": "https://open.spotify.com/track/5QaUFqVL3D4IqAQh60xGCT"
+    },
+    {
+      "album": {
         "name": "ARM LEG LEG ARM HEAD",
         "url": "https://open.spotify.com/album/0ZxauQU9qELjqZxar0ovhb"
       },
@@ -3714,6 +3792,36 @@
       "duration_ms": 208946,
       "name": "in your eyes",
       "url": "https://open.spotify.com/track/73HRbponIzYwPXVbuc2yAg"
+    },
+    {
+      "album": {
+        "name": "Chung Shui II",
+        "url": "https://open.spotify.com/album/0UFRwJ6g0EkJKipUxCHKtf"
+      },
+      "artists": [
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        },
+        {
+          "name": "Cotola",
+          "url": "https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        },
+        {
+          "name": "Kyilah",
+          "url": "https://open.spotify.com/artist/6Q6pVOoagCVAsnkHOaHBi4"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189183,
+      "name": "Inhale Exale",
+      "url": "https://open.spotify.com/track/2lxD7mHyVfEbvZv7Z0oZsP"
     },
     {
       "album": {
@@ -3970,6 +4078,24 @@
       "duration_ms": 225000,
       "name": "Johnny P's Caddy",
       "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
+    },
+    {
+      "album": {
+        "name": "Jus Lef Harlem",
+        "url": "https://open.spotify.com/album/1CFw776NnOIjfXrRdyAXkS"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "Jus Lef Harlem",
+      "url": "https://open.spotify.com/track/29Z2GOijUFObjqbRAKGaVG"
     },
     {
       "album": {
@@ -4532,7 +4658,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 218920,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
@@ -5092,6 +5218,24 @@
       "duration_ms": 164631,
       "name": "Nikes on My Feet",
       "url": "https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj"
+    },
+    {
+      "album": {
+        "name": "No Invitation",
+        "url": "https://open.spotify.com/album/4P8XTZ1mpbTuV9Dsycxb6G"
+      },
+      "artists": [
+        {
+          "name": "AKTHESAVIOR",
+          "url": "https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135906,
+      "name": "No Invitation",
+      "url": "https://open.spotify.com/track/2O5Fugk6ePvqzbvKiqUr5n"
     },
     {
       "album": {
@@ -8492,7 +8636,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 188386,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/4xxcd6cnmFfj67AmnaF6tc"
@@ -8536,7 +8680,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 223001,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/3MRZMm2lD2EEIh02JEJOsk"
@@ -8675,6 +8819,24 @@
     },
     {
       "album": {
+        "name": "[ Rorschach ] Part 2",
+        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240680,
+      "name": "X",
+      "url": "https://open.spotify.com/track/3mJnYavSkAneaMiP2B5oLP"
+    },
+    {
+      "album": {
         "name": "Melt My Eyez See Your Future (The Extended Edition)",
         "url": "https://open.spotify.com/album/5eXL40WFKPjdCw0NZrRcJI"
       },
@@ -8738,6 +8900,28 @@
       "duration_ms": 205134,
       "name": "Yellow Diamonds",
       "url": "https://open.spotify.com/track/0VJnARijlKyC0jOvcQlYfE"
+    },
+    {
+      "album": {
+        "name": "Yellowtail Sashimi",
+        "url": "https://open.spotify.com/album/5wfrKW8sf4xT3J1c27mBCr"
+      },
+      "artists": [
+        {
+          "name": "Steelo",
+          "url": "https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149403,
+      "name": "Yellowtail Sashimi",
+      "url": "https://open.spotify.com/track/4vSd2IvCGMOCoZGtRbkhdv"
     },
     {
       "album": {

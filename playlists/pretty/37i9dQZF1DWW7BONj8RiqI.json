@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Destra ",
-  "num_followers": 180622,
+  "num_followers": 180727,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTBmYzQ4ZDFjNjcwM2RkOWQ3ZjY2Yzk2YWI0NzQ5ZTg2Y2YxNTkw",
+  "snapshot_id": "MCw0NzAwNmVjYjI4ZGY5Y2I4MTEzNGQ0MDNmNTliMTFlNzY0NGUyYmE3",
   "tracks": [
     {
       "added_at": "2023-05-15 02:33:18",
@@ -255,22 +255,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "In The Mood",
-        "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
       },
       "artists": [
         {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
         }
       ],
-      "duration_ms": 149496,
-      "name": "Whine & Jumping (feat. Patrice Roberts)",
-      "url": "https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd"
+      "duration_ms": 238493,
+      "name": "Roll It Gal",
+      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -295,18 +291,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+        "name": "Hard Fete",
+        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
       },
       "artists": [
         {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         }
       ],
-      "duration_ms": 238493,
-      "name": "Roll It Gal",
-      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
+      "duration_ms": 230437,
+      "name": "Hard Fete",
+      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -331,22 +327,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Hard Fete",
-        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Hard Fete",
-      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Santorini (Toutouni)",
         "url": "https://open.spotify.com/album/53HA8pTKzXVuedif71ncAP"
       },
@@ -359,6 +339,42 @@
       "duration_ms": 110892,
       "name": "Santorini - Toutouni",
       "url": "https://open.spotify.com/track/0fmLrumawMi4GSc6Am5M22"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Too Real",
+        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Too Real",
+      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 149496,
+      "name": "Whine & Jumping (feat. Patrice Roberts)",
+      "url": "https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -383,22 +399,6 @@
       "duration_ms": 191309,
       "name": "Jub Jub",
       "url": "https://open.spotify.com/track/5tGohHP8EDvVPMPWBs06hM"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Too Real",
-        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Too Real",
-      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Overdue",
+        "url": "https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3"
+      },
+      "artists": [
+        {
+          "name": "Erphaan Alves",
+          "url": "https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w"
+        }
+      ],
+      "duration_ms": 177925,
+      "name": "Overdue",
+      "url": "https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 179520,
       "name": "Savannah Grass",
       "url": "https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Overdue",
-        "url": "https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3"
-      },
-      "artists": [
-        {
-          "name": "Erphaan Alves",
-          "url": "https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w"
-        }
-      ],
-      "duration_ms": 177925,
-      "name": "Overdue",
-      "url": "https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1359,22 +1359,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Feel The Heat",
-        "url": "https://open.spotify.com/album/44TtvNhgHgMAZqZzM16xDK"
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
       },
       "artists": [
         {
-          "name": "Trini Baby",
-          "url": "https://open.spotify.com/artist/5LRyjuJERjmykKDPuqi7xA"
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         },
         {
-          "name": "Tempa",
-          "url": "https://open.spotify.com/artist/6dMXI343YY6u0gwbv0eaS6"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Feel The Heat",
-      "url": "https://open.spotify.com/track/7dlrEY8jBu2zCmfRvs4H1d"
+      "duration_ms": 210210,
+      "name": "Shake Yuh Bum",
+      "url": "https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1395,22 +1395,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+        "name": "Feel The Heat",
+        "url": "https://open.spotify.com/album/44TtvNhgHgMAZqZzM16xDK"
       },
       "artists": [
         {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+          "name": "Trini Baby",
+          "url": "https://open.spotify.com/artist/5LRyjuJERjmykKDPuqi7xA"
         },
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "Tempa",
+          "url": "https://open.spotify.com/artist/6dMXI343YY6u0gwbv0eaS6"
         }
       ],
-      "duration_ms": 210210,
-      "name": "Shake Yuh Bum",
-      "url": "https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2"
+      "duration_ms": 214000,
+      "name": "Feel The Heat",
+      "url": "https://open.spotify.com/track/7dlrEY8jBu2zCmfRvs4H1d"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "In The Mood",
-        "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "Noah Powa",
-          "url": "https://open.spotify.com/artist/6yKN858F7VWik5UyT9geTE"
-        }
-      ],
-      "duration_ms": 166809,
-      "name": "Buddy Bye (feat. Konshens & Noah Powa)",
-      "url": "https://open.spotify.com/track/55clF0PIQvjkXfRqrNI7jS"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Soca Queen",
         "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
       },
@@ -1655,6 +1631,30 @@
       "duration_ms": 169142,
       "name": "DAP (Drink and Party)",
       "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Noah Powa",
+          "url": "https://open.spotify.com/artist/6yKN858F7VWik5UyT9geTE"
+        }
+      ],
+      "duration_ms": 166809,
+      "name": "Buddy Bye (feat. Konshens & Noah Powa)",
+      "url": "https://open.spotify.com/track/55clF0PIQvjkXfRqrNI7jS"
     },
     {
       "added_at": "2023-05-15 02:33:18",

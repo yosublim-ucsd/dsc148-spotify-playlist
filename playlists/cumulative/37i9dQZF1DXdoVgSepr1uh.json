@@ -767,6 +767,28 @@
     },
     {
       "album": {
+        "name": "Deseo",
+        "url": "https://open.spotify.com/album/3SEImr1IJWKC5ZQC4Bz0OG"
+      },
+      "artists": [
+        {
+          "name": "Romeo El Santo",
+          "url": "https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT"
+        },
+        {
+          "name": "Tomm",
+          "url": "https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236417,
+      "name": "Deseo",
+      "url": "https://open.spotify.com/track/3m5GNXrG2lD855oNa1WiYw"
+    },
+    {
+      "album": {
         "name": "Dime D\u00f3nde",
         "url": "https://open.spotify.com/album/2dAGcCM4RdkYzQXih5gg7c"
       },

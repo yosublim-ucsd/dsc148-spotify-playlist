@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd?si=WJ19v7c4SZWPkIPaLo636Q">El Mukuka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,263 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,291 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 26 | [Shiva's Friend](https://open.spotify.com/track/3TVs5j4SehVNEJB6PIx7mD) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Shiva's Friend](https://open.spotify.com/album/7aEl9Jk15e7yo5ICy8SYxV) | 6:44 |
 | 27 | [Kamweretho \- Manoo Remix](https://open.spotify.com/track/0ForXbVtaQVD39eJR0na9r) | [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9), [Manoo](https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz) | [Kamweretho](https://open.spotify.com/album/6A3XXRIToOmGJ4hsFSwWQ1) | 9:59 |
 | 28 | [Jacaranda](https://open.spotify.com/track/5gxbSGshbeAUqLzSsxUKFA) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Jacaranda](https://open.spotify.com/album/20haQolPNjMtxDaN8561KL) | 6:12 |
-| 29 | [Fearless](https://open.spotify.com/track/5oIL5ZyL1G5EA0000sHCRr) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Music Theory](https://open.spotify.com/album/7JjSLk4F2IRnWFq1msHPjc) | 5:13 |
+| 29 | [Fearless](https://open.spotify.com/track/0tfdDeXSC3qMFwKaf4XTHE) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Music Theory](https://open.spotify.com/album/4wGrAgMdErbpvyD1n81feB) | 5:13 |
 | 30 | [Abandonment Issues](https://open.spotify.com/track/5MSpeSGuvcxiQS7Bd8np3q) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Abandonment Issues](https://open.spotify.com/album/2wAQjMXgo3NKIEKZ0YnfCb) | 3:12 |
 | 31 | [Pussy Power \- DESIREE Remix](https://open.spotify.com/track/3p4obn8kIkhvsGSji3CuXM) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Pussy Power \(Desiree Remix\)](https://open.spotify.com/album/1Rhg4uHx4AITp2cOnykPur) | 5:57 |
 | 32 | [Uqobo Lwakho](https://open.spotify.com/track/2hM4EYJKvNMFBbA56D42i6) | [Aso Tandwa](https://open.spotify.com/artist/38sch0FMEpjRV3axogyb4S), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Blaq Note](https://open.spotify.com/artist/4u5gGmVuOz6sxEgG4tbWV4) | [Uqobo Lwakho](https://open.spotify.com/album/0Imc9CK1Kw4iinLoWXQ84P) | 7:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Falling](https://open.spotify.com/track/1SKful9KuNbT6FJCWmJCXO) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Falling](https://open.spotify.com/album/1D6lNWWWhQDvBL7Qecso46) | 4:24 |
 | 50 | [Indlela](https://open.spotify.com/track/20biXVfOt8Fm1Mxo123d5c) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Indlela](https://open.spotify.com/album/4SHct7kn98G7DW5KanqFO2) | 6:08 |
 
-Snapshot ID: `MCxmOWFkOWM3ZDhjZGJhOTdiNDlmYjk0M2ZlMzlhNzI1MGVjOWEwNTNj`
+Snapshot ID: `MCxmY2ZiNDAxNzUwNDJlZTIyOTg2NjJiOThhNGEwYzRhOGFhYjdkNjEw`

@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,708 songs - 3 day 4 hr 41 min
+1,709 songs - 3 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Calhau Cave](https://open.spotify.com/track/7F3mLX9dJzIrdVttVkI9WD) | [Firestore](https://open.spotify.com/artist/6AUfvB5MsOc8lG6voZ2BoA) | [Calhau Cave](https://open.spotify.com/album/13X3FtDMr1C5kLD1lUBkzm) | 4:23 | 2022-03-29 | 2022-04-17 |
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-03-29 | 2022-12-24 |
 | [Calm At Last](https://open.spotify.com/track/1cpsFVBA63bmSjNIhLGvhF) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Calm At Last](https://open.spotify.com/album/6Zqt1z1JPfVCz3lSC2KrtK) | 2:58 | 2021-03-06\* | 2022-04-21 |
+| [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 | 2023-06-20 |  |
 | [Camera Obscura](https://open.spotify.com/track/6cbLWx2NlOs3LvpfR44NPg) | [Jose Carcavelos](https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H) | [Camera Obscura](https://open.spotify.com/album/5tuhTyI3R9LUbF6EH1p5cU) | 2:11 | 2021-04-24 | 2022-04-08 |
 | [Can´t Help Smiling](https://open.spotify.com/track/2iVPty0FBstGSURghngIgo) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Winter Unflorished](https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8) | 2:44 | 2021-03-19 | 2022-07-23 |
 | [Carol Of The Bells](https://open.spotify.com/track/1RNzv8ufhQVyQIt6wYH2UY) | [Sasha Cohn](https://open.spotify.com/artist/7zB6bpjg6Cl3ngSwB3nNvm) | [Weinachten](https://open.spotify.com/album/0vC2jwHlYlIBt0omi48bmm) | 1:48 | 2021-04-26 | 2021-04-27 |
@@ -526,7 +527,7 @@
 | [For the Love of Love](https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [For the Love of Love](https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX) | 2:23 | 2021-03-07 | 2022-04-16 |
 | [For the Love of You](https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [For the Love of You](https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr) | 1:47 | 2023-04-25 |  |
 | [For the Loved Ones](https://open.spotify.com/track/3N3iNOV21wnkiGd48XLas2) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Songs for Inner Peace](https://open.spotify.com/album/3azoT3LX5Lve88W1Q6TfNT) | 3:14 | 2021-03-08 | 2022-03-28 |
-| [for you](https://open.spotify.com/track/7ex04ig5hEOizRLHLGlLO7) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC) | [for you](https://open.spotify.com/album/2gr0kNL6yI98YmoJe3H5AS) | 2:54 | 2023-04-15 |  |
+| [for you](https://open.spotify.com/track/7ex04ig5hEOizRLHLGlLO7) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC) | [for you](https://open.spotify.com/album/2gr0kNL6yI98YmoJe3H5AS) | 2:54 | 2023-04-15 | 2023-06-24 |
 | [For You And Me](https://open.spotify.com/track/2i5G6S8wSEB5MlRSIaNGPK) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Daybreak](https://open.spotify.com/album/59WE3TAONWNejSOH1LEBFW) | 2:50 | 2021-04-29 | 2021-04-30 |
 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 | 2021-04-21 | 2022-07-29 |
 | [Forest Of The Sea](https://open.spotify.com/track/18XxOa8SPu0Y2BdOUQ9JlT) | [Bud Hollister](https://open.spotify.com/artist/2KNnryBXenJY1qfFA1N19F) | [Forest Of The Sea](https://open.spotify.com/album/5kBpYfSfxaxZFkpi78LhqS) | 2:47 | 2022-03-29 | 2022-04-04 |

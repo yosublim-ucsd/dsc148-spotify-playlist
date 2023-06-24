@@ -4,7 +4,7 @@
 
 > eu so qria um quentao um curau e uma barraca do bjo
 
-284 songs - 13 hr 7 min
+285 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Jogadinha do Paqueta](https://open.spotify.com/track/3BCUqGVPvirkRa6g6ipBaF) | [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc), [Dj Kaio VDM](https://open.spotify.com/artist/4Svhvvg0OdFm6zDqMqlTDN) | [Jogadinha do Paqueta](https://open.spotify.com/album/2dFhs1VeEnLYUjBEgd9GZF) | 2:25 | 2023-02-06 |  |
 | [Juliet E Chapelão \(Ao Vivo\)](https://open.spotify.com/track/46oPxSyS5ZZLg0EbqsKW4x) | [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Juliet E Chapelão \(Ao Vivo\)](https://open.spotify.com/album/152845bmhbpKy2v6Nb0l04) | 2:24 | 2022-05-26 | 2022-11-08 |
 | [Já Ouviu Aquele Ditado](https://open.spotify.com/track/2vJCtLLG01jUOtM5p6CTtY) | [MC Fefe Da ZL](https://open.spotify.com/artist/1SMznDhRBFnnUWJvFWXJgQ), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp), [DJ NOVATO](https://open.spotify.com/artist/3Hdc7swmjddSFP8ZQavm43) | [Já Ouviu Aquele Ditado](https://open.spotify.com/album/0Vplc3s8GLCHdJHlBbo9Ru) | 1:59 | 2023-05-08 |  |
-| [Karolina](https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/7neil7gV2W2xRlEmveJfXD) | 2:26 | 2023-06-21 |  |
+| [Karolina](https://open.spotify.com/track/1DUzZHTgtCpw3UOlaCHR9k) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/1z6nTcZk7ak4nJET7R3GAE) | 2:25 | 2023-06-22 |  |
+| [Karolina](https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/7neil7gV2W2xRlEmveJfXD) | 2:26 | 2023-06-21 | 2023-06-24 |
 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 | 2023-03-14 |  |
 | [Latchika](https://open.spotify.com/track/6qAuIo2EJnJbnaL8FEVaZ0) | [Afinho do Fluxo](https://open.spotify.com/artist/2Q5VrODXSCgdp1UxJWAZbc), [Vinny Malvadeza](https://open.spotify.com/artist/0liNK1NH5Nr1VSGUhwLA4z), [Teeus](https://open.spotify.com/artist/6eAy4nN6UvzDb34zjWd54q) | [Latchika](https://open.spotify.com/album/7cPMAuFm7PJ0due5HHS1M3) | 2:31 | 2022-07-28 | 2022-08-19 |
 | [Latchika \- Brega Funk](https://open.spotify.com/track/0I8X7pzQ2ucsJeD18fqO2F) | [Afinho do Fluxo](https://open.spotify.com/artist/2Q5VrODXSCgdp1UxJWAZbc), [Vinny Malvadeza](https://open.spotify.com/artist/0liNK1NH5Nr1VSGUhwLA4z), [Teeus](https://open.spotify.com/artist/6eAy4nN6UvzDb34zjWd54q) | [Latchika \(Brega Funk\)](https://open.spotify.com/album/6ncW72txrBAPifHyHbAEBW) | 2:31 | 2022-05-26 | 2022-07-30 |

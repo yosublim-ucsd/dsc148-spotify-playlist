@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 235220,
+  "num_followers": 235249,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTU0ODhiMTgzZmFkNTNhOWUxMzkwY2UyZGM0YWY4MjE5ZmIxZjUy",
+  "snapshot_id": "MCwyODdhOWEwYjI5YWNhMTdhYzQ4M2NmZTkxZTYyMjI4MjJhMmM5MDg1",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "THE REAPER",
-        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 182678,
-      "name": "like i need u",
-      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 212881,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "THE REAPER",
+        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 182678,
+      "name": "like i need u",
+      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Harbor",
-        "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
-      },
-      "artists": [
-        {
-          "name": "Tomppabeats",
-          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
-        }
-      ],
-      "duration_ms": 91504,
-      "name": "Monday Loop",
-      "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
         "url": "https://open.spotify.com/album/1X78wB7bRT0uj1Yf9sFFuR"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 121477,
       "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
       "url": "https://open.spotify.com/track/1p80DshsPD0zgGt2CPVBSm"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Harbor",
+        "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
+      },
+      "artists": [
+        {
+          "name": "Tomppabeats",
+          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
+        }
+      ],
+      "duration_ms": 91504,
+      "name": "Monday Loop",
+      "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
     },
     {
       "added_at": "2022-02-02 00:21:48",

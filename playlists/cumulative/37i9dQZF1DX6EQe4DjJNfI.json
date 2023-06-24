@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Yas Werneck",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 180000,
       "name": "Caos",
       "url": "https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 176500,
       "name": "Me Diz",
       "url": "https://open.spotify.com/track/5pWI8jyJ0eaQ1EuShX6eOo"
@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Pe\u00e7a \u00danica",
+        "url": "https://open.spotify.com/album/6WsYX7kscbYVpcu3h07Grk"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171326,
+      "name": "Pe\u00e7a \u00danica",
+      "url": "https://open.spotify.com/track/4IddWpa3qZQLPxaL8YiLq4"
+    },
+    {
+      "album": {
         "name": "Poesia Ac\u00fastica Ep. Acabou",
         "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
       },
@@ -2125,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "Sem T\u00e9dio",
+        "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
+      },
+      "artists": [
+        {
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180454,
+      "name": "Sem T\u00e9dio",
+      "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
+    },
+    {
+      "album": {
         "name": "Mariah Nala no Studio F (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67"
       },
@@ -2136,7 +2172,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 148869,
       "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
       "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
@@ -2378,7 +2414,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 196363,
       "name": "Tanto Querer",
       "url": "https://open.spotify.com/track/4ctAt6FuCTZfXYsO8cReLj"

@@ -943,20 +943,24 @@
     },
     {
       "album": {
-        "name": "Angela Bassett",
+        "name": "Angela Bassett (Radio Edit)",
         "url": "https://open.spotify.com/album/3zr2Sx5df4utliKGc7kgur"
       },
       "artists": [
         {
           "name": "LORD JAH-MONTE OGBON",
           "url": "https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0"
+        },
+        {
+          "name": "Denzel Davon",
+          "url": "https://open.spotify.com/artist/1AOkBxvdPb0kG1Zo6oRQCP"
         }
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209278,
-      "name": "Angela Bassett",
+      "name": "Angela Bassett - Radio Edit",
       "url": "https://open.spotify.com/track/38u2C9aUAoYCsY9on5Qgvh"
     },
     {

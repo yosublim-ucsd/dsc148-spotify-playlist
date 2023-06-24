@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-364 songs - 20 hr 40 min
+366 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [I've Fallen for You](https://open.spotify.com/track/73OZcwiBI41R0o5TDGeZ7i) | [Tom Redwood](https://open.spotify.com/artist/4Xo7QqlxfIUEPYCLaLj6Sm) | [I've Fallen for You](https://open.spotify.com/album/0qc9Pbp37q8x1OP6Vk8OXz) | 3:17 | 2022-07-22 | 2023-03-18 |
 | [Ice & Cold](https://open.spotify.com/track/3eKdMlPONnxz5quSb2VpKU) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Ice & Cold](https://open.spotify.com/album/5bDHFRCXitHfaQFWQ3oKfS) | 3:06 | 2021-05-21 | 2022-08-06 |
 | [If You Wanna](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If You Wanna](https://open.spotify.com/album/6xdH62cWsnkSNb1KrstnEA) | 2:39 | 2023-03-17 |  |
+| [Illuminate](https://open.spotify.com/track/6SpS3512xzHKapz4plRuZW) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Illuminate](https://open.spotify.com/album/1Ph48nIAvImgjshNB6Y2bl) | 2:43 | 2023-06-23 |  |
 | [Immortal](https://open.spotify.com/track/01yylIRHqoFJBsbM4E128x) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [LILI N](https://open.spotify.com/artist/2c2f3EwgqkZrKmbJtg3P83) | [Immortal](https://open.spotify.com/album/6UmmhSlo3di4LyZLmddKyg) | 2:53 | 2020-10-10 | 2021-03-06 |
 | [In My Arms \- Flyboy Chillmix](https://open.spotify.com/track/6s8OQeEXC44AdZcGIpaV5n) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l), [Nikki Ambers](https://open.spotify.com/artist/01PAM2LxCLL6tflnv7mbV7), [Flyboy](https://open.spotify.com/artist/1Jc2HsPucRk1x7lAUd7xma) | [In My Arms \(Remixes\)](https://open.spotify.com/album/4mrdffOuKyKBYEL4MeOHcu) | 3:06 | 2021-03-06 | 2021-11-11 |
 | [In My Heart](https://open.spotify.com/track/5EaRvSilFlpBTuv9uTh8bI) | [Pawl](https://open.spotify.com/artist/1ShHSfgvLgJ4i26xcXB232), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [In My Heart](https://open.spotify.com/album/2uHm9zHIw1TUxiLJ76LEA5) | 3:05 | 2020-09-13\* | 2021-03-14 |
@@ -273,6 +274,7 @@
 | [Say My Name](https://open.spotify.com/track/3zZwwTNa27TDKUSNj2uuMc) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Say My Name](https://open.spotify.com/album/5k5ldor4JutRvh39bGwIPZ) | 3:33 | 2020-09-13\* |  |
 | [Secret Promise](https://open.spotify.com/track/6Rye2HmiEAWYavSylWu7e0) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [Secret Promise](https://open.spotify.com/album/7kn8TJcl3yyydv26Gh0OmJ) | 2:37 | 2020-09-13\* | 2021-03-06 |
 | [Selfish](https://open.spotify.com/track/3KTAnd7XSgZZp66SOqhZSt) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Selfish](https://open.spotify.com/album/3YmsQroCcKdz2gujKWPF4t) | 2:47 | 2020-09-13\* | 2021-03-06 |
+| [Serotonin](https://open.spotify.com/track/6UoAg3Gv2I8PmNBThwZzek) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei), [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Serotonin](https://open.spotify.com/album/4xowLvKdqIpxhGSUMyLwro) | 2:42 | 2023-06-23 |  |
 | [Sex On Fire](https://open.spotify.com/track/6997Kt5D5ydzgFhwrVcz1D) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Sex On Fire](https://open.spotify.com/album/0YTK5ZjBChRULCyZE8FDkp) | 2:44 | 2021-06-19 | 2021-09-25 |
 | [Señorita](https://open.spotify.com/track/3oBiuFkxWNw7iTkNlHaanw) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Señorita](https://open.spotify.com/album/6gFnHs5lfoXbU9rjfPAxYr) | 2:21 | 2021-05-15 | 2021-07-17 |
 | [Shadows \- yuma\. Remix](https://open.spotify.com/track/5oBDL51usxMSTaHhoZKvBP) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Shadows \(yuma\. Remix\)](https://open.spotify.com/album/1pYL0hLGCEyVI1WByNW0q8) | 3:30 | 2021-07-24 | 2021-08-21 |

@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 2519,
+  "num_followers": 2547,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDYwZDk4MDMwMzdjZjdkOTIyYTVhZTQwYzg0Njc1ZmE3NGJiYzVi",
+  "snapshot_id": "MCwyZWU2ZjJlNDFiNjllYTUzYjUxMWE3OTgwZWE5ZjEwNWUzOGJjYWNm",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -897,24 +897,20 @@
       "url": "https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c"
     },
     {
-      "added_at": "2023-04-14 16:41:04",
+      "added_at": "2023-06-16 00:01:00",
       "album": {
-        "name": "Nkwa Abodoo (feat. Nacy)",
-        "url": "https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk"
+        "name": "More Than Music (Transcendent Worship)",
+        "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
       },
       "artists": [
         {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        },
-        {
-          "name": "Nacy",
-          "url": "https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 409999,
-      "name": "Nkwa Abodoo (feat. Nacy)",
-      "url": "https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb"
+      "duration_ms": 513489,
+      "name": "Zoe",
+      "url": "https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS"
     }
   ],
   "unique_name": "Higher",

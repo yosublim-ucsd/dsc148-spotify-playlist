@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 592127,
       "name": "Mangal Bhairav-Jod",
       "url": "https://open.spotify.com/track/2pPM04AXTJX2PPkYiOrKXc"
@@ -630,6 +630,24 @@
       "duration_ms": 434770,
       "name": "Palna Jhule Nandlal",
       "url": "https://open.spotify.com/track/68bndjlqZTrbOa5qhts7ev"
+    },
+    {
+      "album": {
+        "name": "Sade Naal Gallan Kar Ke Chala",
+        "url": "https://open.spotify.com/album/1J7la2FJX8KybefgeesihR"
+      },
+      "artists": [
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/1O1GPLg0gh9tsP7SfejbTW"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378233,
+      "name": "Raag Bhairavi - Sade Naal Gallan Kar Ke Chala",
+      "url": "https://open.spotify.com/track/3bpF81PskvK8ZipzVZX3Qo"
     },
     {
       "album": {

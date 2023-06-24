@@ -50,7 +50,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 184620,
       "name": "Ain't Gonna Break",
       "url": "https://open.spotify.com/track/4cRCQ8wLnWKkLpUVijmp0J"
@@ -112,6 +112,32 @@
       "duration_ms": 185000,
       "name": "All We Needed",
       "url": "https://open.spotify.com/track/7iUsaptyO0uLIcQYGL0MQw"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0uqrF98KAjy8eBqqACL6wH"
+      },
+      "artists": [
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "Deloops",
+          "url": "https://open.spotify.com/artist/0lNPLzLP80TvoV6XWo9lD1"
+        },
+        {
+          "name": "Jetason",
+          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/6qOEp7oSe2OpZQRdWfPB4B"
     },
     {
       "album": {
@@ -627,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/2IANfZ2LtHRMVRfClATewD"
+      },
+      "artists": [
+        {
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3GWeeuS0rRQ8oUfjmqZ8fw"
+    },
+    {
+      "album": {
         "name": "Crystal Clear",
         "url": "https://open.spotify.com/album/1m37XnUy8Rv0VKiSa05Xcj"
       },
@@ -1004,7 +1048,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 182783,
       "name": "Everything Tonight",
       "url": "https://open.spotify.com/track/3sZjC74CafkHGu1rKZ1LOH"

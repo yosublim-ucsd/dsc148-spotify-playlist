@@ -4,7 +4,7 @@
 
 > A feel\-good soulful house  and disco selection.
 
-188 songs - 13 hr 13 min
+189 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,12 +119,13 @@
 | [Money](https://open.spotify.com/track/2owh0G4llO1sz8NsrUT4Nn) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Blue Steel EP](https://open.spotify.com/album/2tc7QikvIpZDcBNfG8cYRf) | 6:47 | 2021-12-07 | 2022-07-23 |
 | [My House](https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [My House](https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf) | 2:55 | 2022-03-11 |  |
 | [My House](https://open.spotify.com/track/31D11AnGmhV0QULE10dpG2) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [My House](https://open.spotify.com/album/1nBFpZhVuUmlFGhrx6uNXp) | 2:55 | 2021-12-07 | 2022-06-30 |
-| [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 | 2021-12-07 |  |
+| [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 | 2021-12-07 | 2023-06-24 |
 | [My Own Way](https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [My Own Way](https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA) | 2:21 | 2021-12-07 |  |
 | [Never](https://open.spotify.com/track/5ei2k7wVWl9mC4m868DGpg) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Never](https://open.spotify.com/album/30W1iOGLG0ow2OB2hKdzUy) | 3:57 | 2021-12-07 | 2022-07-11 |
 | [New York \(feat\. Dave Shorland\)](https://open.spotify.com/track/00BVDeBAGvgshfdo7mPUld) | [Stranger Danger](https://open.spotify.com/artist/6MZVKL1E77A0Y06bvdeapu), [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm), [Dave Shorland](https://open.spotify.com/artist/6NWN1ZYhKWdJJ5Ta4JkwYo) | [New York \(feat\. Dave Shorland\)](https://open.spotify.com/album/0EJQZiXe5xIvsJ0vafLq6F) | 7:37 | 2021-12-07 | 2022-07-28 |
 | [Nightdrive](https://open.spotify.com/track/6s8EJDc1XegenrO3vci4Rb) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD), [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Ampersounds](https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl) | [Nightdrive](https://open.spotify.com/album/5oSOcLEtM8K77G8Kgf1BV0) | 6:33 | 2021-12-07 | 2022-07-26 |
 | [No Misery](https://open.spotify.com/track/0i4ab8bJX3a0v30coiUPfR) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/0oh2LnOLNRPV7afhSSfJ6A) | 5:57 | 2021-12-07 | 2022-07-27 |
+| [Off My Mind](https://open.spotify.com/track/2S2uzei41Epnb1TndFTS9l) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [SAM WHITE](https://open.spotify.com/artist/1YPTXq9n1T2Zlw3dLR3Zdf) | [Off My Mind](https://open.spotify.com/album/2wfCtn1trmG5Vtq5emR0jc) | 2:48 | 2023-06-23 |  |
 | [On My Mind](https://open.spotify.com/track/0Ret48IIcgcQdB54orjZKS) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [On My Mind](https://open.spotify.com/album/7G1JFppuNI2Q0kSe2W2AkB) | 3:26 | 2021-12-07 | 2022-10-23 |
 | [On My Mind](https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [On My Mind](https://open.spotify.com/album/1fzuUk3cUSc8OZTp3C7GZa) | 3:26 | 2022-03-11 | 2023-06-10 |
 | [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/3ruSBJtsa5dVwbIl7miXBw) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [On My Mind \(Purple Disco Machine Remix\)](https://open.spotify.com/album/1lxySs5EqOgFPkguQ9a4Si) | 4:23 | 2021-12-07 | 2022-07-29 |

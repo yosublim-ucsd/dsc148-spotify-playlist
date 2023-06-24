@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
 
-511 songs - 1 day 1 hr 53 min
+512 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Phil Foden](https://open.spotify.com/track/65ZeU61TxIXMBegL7iQQW8) | [Carlito Lagangzz](https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL) | [Phil Foden](https://open.spotify.com/album/61dya1HZH90S9x91LOK5nv) | 2:49 | 2023-03-24 |  |
 | [Ping Pong](https://open.spotify.com/track/2c5ffZzmLQYzDshrWKdj5E) | [Niiko](https://open.spotify.com/artist/66JOMNQbVDHdySU2suPfxK) | [Ping Pong](https://open.spotify.com/album/4fQ4XCMDohaE5BYJVMJojV) | 3:58 | 2022-07-21 | 2022-09-30 |
 | [Pista](https://open.spotify.com/track/5rKkdhPxJkvD1KME7ZgZmZ) | [Baby Creezy](https://open.spotify.com/artist/1AM4PssW6WPHrhcx1Xty57) | [Pista](https://open.spotify.com/album/3LgMjN0E4FrYAni7H1j9xY) | 2:29 | 2023-05-04 |  |
+| [Plata](https://open.spotify.com/track/4byaofKiseMxjrgnCfrHOm) | [E2SON](https://open.spotify.com/artist/2LUpzCPtbdSZg8viFA9Szs) | [Plata](https://open.spotify.com/album/4RAM7flKVPIdE64Y0kUJwO) | 2:39 | 2023-06-22 |  |
 | [Pode Deixar](https://open.spotify.com/track/5TlW9CmJgxWTmhUTwgwuVZ) | [Frankie "Tha Boy"](https://open.spotify.com/artist/6ZVCo8rzkhIAhFYukyvQJ1), [Vitinho Ferrari](https://open.spotify.com/artist/62Hped8KMeSwPABlhpcqst) | [Pode Deixar](https://open.spotify.com/album/47lfTSKfrswDdNhFYby5nx) | 2:46 | 2023-02-28 | 2023-05-05 |
 | [Por Ti](https://open.spotify.com/track/6GDXVeWVlHdNVrvzuzrzgU) | [Máry M](https://open.spotify.com/artist/6myextZ5obd54txCqZp7Ns) | [Por Ti](https://open.spotify.com/album/2q4FRXjv5jOWU8Az2n0Lfi) | 2:41 | 2023-03-03 | 2023-05-12 |
 | [Porradão No Pulso](https://open.spotify.com/track/7ISwPnW9QvGzJkJIP4ERrQ) | [Nadson B](https://open.spotify.com/artist/7Cn7UQJehcgqPjMBAgWmmJ), [Desejo Beats](https://open.spotify.com/artist/7gXf4us4WnrCvvRJHL8khl) | [Porradão No Pulso](https://open.spotify.com/album/7x2cn2tBzSLqpdNIlY3wXz) | 2:47 | 2023-02-10 | 2023-04-28 |

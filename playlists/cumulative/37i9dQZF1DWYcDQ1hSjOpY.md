@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-423 songs - 21 hr 0 min
+426 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Night Full Of Stars](https://open.spotify.com/track/550zqNehla4IUSDFgMNDYB) | [Soft Voyage](https://open.spotify.com/artist/4FDnFOfVVVFWDNecPIbaYo) | [A Night Full Of Stars](https://open.spotify.com/album/46MohKiyZoPYkMhnQKcbfV) | 3:36 | 2022-12-09 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2021-11-10 |  |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2022-08-15 |  |
+| [Abrazo Sereno](https://open.spotify.com/track/24SPAIgNceYbCmdrowgkRK) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Melodías Susurrantes](https://open.spotify.com/album/16ArDAGmj2dEQAdAuRD8PW) | 3:39 | 2023-06-23 |  |
 | [Acending](https://open.spotify.com/track/0gny3oCHB6fKmZ6PoDedRA) | [So Jao](https://open.spotify.com/artist/0ScQmROrSMggRHzVdPIRim) | [Acending](https://open.spotify.com/album/5UTfGuymK5d3VbqMVjh0fh) | 2:54 | 2021-11-10 |  |
 | [Alima](https://open.spotify.com/track/60ihi5DukD0bd4kUBvteWe) | [Luca Sana](https://open.spotify.com/artist/5R2pilr3nQLjlV11knoaHY) | [Alima](https://open.spotify.com/album/3TWKhBt6dL1MfBQ4jFz4Iy) | 2:46 | 2023-03-17 |  |
 | [All We Can Do](https://open.spotify.com/track/3vr2MU6TzGcU94Ozgaw6BG) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [All We Can Do](https://open.spotify.com/album/7cRrgyTdXLHIiSd59mkGvx) | 3:16 | 2022-04-07 |  |
@@ -240,6 +241,7 @@
 | [Magnetic View](https://open.spotify.com/track/6ZF8463e4x5adudYv6VPMp) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Delta Dreams](https://open.spotify.com/album/7FNZSjLNWtEFWfv7FJkaQf) | 3:37 | 2021-11-10 | 2023-03-04 |
 | [Mahola](https://open.spotify.com/track/7KpA2ZOdXXU7ymU05JmAv0) | [Turquoise Palms](https://open.spotify.com/artist/2ChvGKFUyZeFjYFX7pRtlW) | [Mahola](https://open.spotify.com/album/5R7k8MZrdcZ3Rf4GmU9TCy) | 3:52 | 2021-11-10 |  |
 | [Major Waves](https://open.spotify.com/track/25KzsUt0zU2QOlL26MtVCi) | [Night Whisperer](https://open.spotify.com/artist/3AisymC691EsyYYKjPNSG6) | [Un\-Awake](https://open.spotify.com/album/4K9lCwhD89EpyCiKqlkqxo) | 1:23 | 2021-11-10 |  |
+| [Melancholy](https://open.spotify.com/track/569aPavFjL3WvPwZepX67d) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Mosaic](https://open.spotify.com/album/57qBuzBPxYfFVSprhsijyk) | 2:59 | 2023-06-23 |  |
 | [Melantonia](https://open.spotify.com/track/4QRKoVrx2OIfEOUamco5Uz) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Melantonia](https://open.spotify.com/album/0AY0gNMt9YcZ9F6YVfDJSy) | 3:43 | 2021-11-10 |  |
 | [Memento Vivere](https://open.spotify.com/track/2Vs8AIlAGaEyhh5y7vR7x7) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:37 | 2022-09-30 |  |
 | [Meteor 5](https://open.spotify.com/track/4x6vhZrC3BNxMtYYb0xa7z) | [Modular 53](https://open.spotify.com/artist/3UklgXTg7a5xLCLywOH60t) | [Story Teller](https://open.spotify.com/album/1CI6TJiLlOC0sbWE5xEIBU) | 2:55 | 2023-02-03 |  |
@@ -305,6 +307,7 @@
 | [Pomalu](https://open.spotify.com/track/12Oywn6DYHxxnq1DUFrwRR) | [Marie Protivová](https://open.spotify.com/artist/0N0cHhRbd0hOXkUv8szdQ3) | [Pomalu](https://open.spotify.com/album/2VY6QYyg4a9jwm2swobVi7) | 3:24 | 2021-11-10 |  |
 | [Praiseworthy](https://open.spotify.com/track/6UDUV0eh8K04FTxhfpOEdR) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:27 | 2022-07-08 |  |
 | [Profound](https://open.spotify.com/track/738ZWyXzrfKT1OuyRJmmsX) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Profound](https://open.spotify.com/album/2T5PHfwAwONbtakHIwNb5X) | 3:20 | 2021-11-10 |  |
+| [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 | 2023-06-23 |  |
 | [Protostar](https://open.spotify.com/track/5F82mtEXo9CbyPchaCWDI3) | [Vadodara](https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V) | [Protostar](https://open.spotify.com/album/3zCIUdjM4M0qr0LCfk3UYE) | 3:27 | 2021-11-10 | 2023-05-06 |
 | [Pure Air](https://open.spotify.com/track/5dMI1sHkCxUWvh8vksx0Rz) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Pure Air](https://open.spotify.com/album/5DaR78zcqu8qM8MB5qRJwq) | 3:31 | 2021-11-10 |  |
 | [Querencia](https://open.spotify.com/track/4VdLOyYe6ZEyLx0LbYdyvy) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Querencia](https://open.spotify.com/album/6xqRYu3sp4EmrKESzm68tz) | 3:14 | 2021-11-10 |  |

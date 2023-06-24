@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-153 songs - 11 hr 57 min
+154 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [abundance](https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A) | [badfocus](https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh), [Albert Štifter](https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi) | [emerged, vol\. II](https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb) | 2:23 | 2022-05-18 |  |
 | [Across The Ocean, But Not Yet](https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh) | [Madeleine Cocolas](https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB) | [Ithaca](https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS) | 5:41 | 2022-05-18 |  |
 | [Adkrog](https://open.spotify.com/track/7wpp45hkCqB7Atc4ZHCcg8) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Adkrog](https://open.spotify.com/album/5RhEQC5P2yUwkSboIgMYrC) | 4:16 | 2022-05-18 | 2022-07-29 |
-| [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 | 2022-07-01 |  |
+| [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 | 2022-07-01 | 2023-06-24 |
 | [Affirmation Pt\. II](https://open.spotify.com/track/2k1u3DMlWX82JcaLy88Xvr) | [Sally Decker](https://open.spotify.com/artist/4a4XbzVUadFOng9sQsvp7l), [Briana Marela](https://open.spotify.com/artist/35iTyTjBjpcGsXWRui2ZvX), [Emily Cardwell](https://open.spotify.com/artist/5ypl6CBT7VZfDjDEnMExOH) | [In the Tender Dream](https://open.spotify.com/album/6mOXe8Zou8L1DUvebPX2G6) | 3:27 | 2022-05-18 | 2023-01-18 |
 | [Afraid](https://open.spotify.com/track/0xp3MdGRrVVtBzJ7hgNzC2) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/41CXQpu3hZG8s5t6UQO1Eg) | 3:46 | 2022-05-18 | 2022-07-28 |
 | [Afraid](https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8) | 3:46 | 2022-07-01 | 2023-04-30 |
@@ -73,6 +73,7 @@
 | [Frontier](https://open.spotify.com/track/3KYC7CK4Itjy7UXn1BaW67) | [Holly Herndon](https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ) | [PROTO](https://open.spotify.com/album/29sozE8XDMOHT8KK9iq4Fo) | 4:29 | 2022-05-18 |  |
 | [Fur & Feather](https://open.spotify.com/track/1V9na2MEGjOajhK1fTJRpS) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/17i8UBmNkp5UY0CLRHokyk) | 3:04 | 2022-12-02 | 2023-02-01 |
 | [Fur & Feather](https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 3:04 | 2022-05-18 | 2022-07-29 |
+| [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 | 2023-06-23 |  |
 | [Grass Grow](https://open.spotify.com/track/4yohulilOac5oAymyVOvaa) | [Dolphin Midwives](https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P) | [Grass Grow](https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl) | 4:29 | 2022-05-18 |  |
 | [Graveyard](https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:53 | 2022-05-18 |  |
 | [Guiding Light](https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa), [Chris Lippincott](https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W) | [Guiding Light](https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE) | 3:14 | 2022-05-18 |  |

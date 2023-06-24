@@ -278,10 +278,36 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 173714,
       "name": "Bach Ke",
       "url": "https://open.spotify.com/track/5Yq28cxRO9m7mTxsUYY4lA"
+    },
+    {
+      "album": {
+        "name": "Bach Ke",
+        "url": "https://open.spotify.com/album/7eOK2jHdPbYCHv9BKZDOrM"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Bach Ke",
+      "url": "https://open.spotify.com/track/7euNoN3RtRhEK3qfqJLXFx"
     },
     {
       "album": {

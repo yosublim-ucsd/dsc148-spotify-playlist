@@ -4,11 +4,11 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-165 songs - 10 hr 18 min
+166 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [75\-71](https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [75\-71](https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj) | 3:44 | 2023-03-31 |  |
+| [75\-71](https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [75\-71](https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj) | 3:44 | 2023-03-31 | 2023-06-24 |
 | [Alabama Blues](https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Alabama Blues!](https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa) | 3:14 | 2020-08-11 |  |
 | [Alabama Blues](https://open.spotify.com/track/4ghvDvK0tWXLfvG4znwpAe) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Passionate Blues](https://open.spotify.com/album/7gmDAUOzdSNJf0x8HEhRFh) | 3:14 | 2020-08-11 | 2022-07-29 |
 | [All True Man](https://open.spotify.com/track/7BSI3B5WACBr9Q4QFSo9hu) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B), [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [All True Man](https://open.spotify.com/album/1fJYp4Hby3qVjElqhemDpc) | 4:04 | 2021-02-05 |  |
@@ -53,6 +53,7 @@
 | [Don't Fish in My Sea](https://open.spotify.com/track/02wAtZaUqHt147UtEBR4LO) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Don't Fish in My Sea](https://open.spotify.com/album/4p4TdPZ6H8k7fp8ozuS6M4) | 4:10 | 2021-07-30 | 2023-04-30 |
 | [Don't Fish in My Sea](https://open.spotify.com/track/79TcTsLTPlEgWRl7zbytR1) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Don't Fish in My Sea](https://open.spotify.com/album/30wHEPCp9NiMwHz3RPUfK3) | 4:10 | 2021-07-30 |  |
 | [Down in Mississippi](https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Down in Mississippi](https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP) | 3:23 | 2020-08-11 |  |
+| [Duck N’ Dodge](https://open.spotify.com/track/6pGmdibZoXSNbU4n9QX1lB) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Yellow Peril](https://open.spotify.com/album/1oZfzj1CP6GqTps0pMqBPV) | 3:36 | 2023-06-23 |  |
 | [Dust My Broom](https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Dust My Broom](https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj) | 3:35 | 2020-08-14 |  |
 | [Eyesight to the Blind](https://open.spotify.com/track/6NEgd3mCyms5M1eDFTqKHR) | [Frank Schaap Quartet](https://open.spotify.com/artist/6LpU4IZOJ1g4HullPifcOC), [Josh Levine](https://open.spotify.com/artist/7kLUXJlgHP3muNOKgd1272), [David Langlois](https://open.spotify.com/artist/6OTOjYUcczTljZHtfgzjXv), [Miguel Weissman](https://open.spotify.com/artist/6dVnje7HuJzCIKrIlgLiAP) | [The Lost Session](https://open.spotify.com/album/2wbIgncFT47Lef7qFcdXrh) | 4:42 | 2022-05-06 |  |
 | [Fishin' Blues \(with Taj Mahal\)](https://open.spotify.com/track/2i9YLsEQ2z0NhJ1ynuQQm2) | [Bob Stewart](https://open.spotify.com/artist/1j6ZqtSr1Y94DjLnQdUnUl), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Then & Now](https://open.spotify.com/album/2DRzxrAuKQwZ79O1lddtwp) | 4:03 | 2022-02-11 |  |

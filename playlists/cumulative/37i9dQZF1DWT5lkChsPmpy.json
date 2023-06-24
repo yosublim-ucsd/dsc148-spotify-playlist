@@ -6873,6 +6873,24 @@
     },
     {
       "album": {
+        "name": "Take a Breather",
+        "url": "https://open.spotify.com/album/5HumVeclR4kLqN2oy38KPk"
+      },
+      "artists": [
+        {
+          "name": "Frook",
+          "url": "https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152195,
+      "name": "Take a Breather",
+      "url": "https://open.spotify.com/track/6rZT5UZgYh6j57HgTZbK8x"
+    },
+    {
+      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4VgzapVUrLeXYUD2VXdf5d"
       },

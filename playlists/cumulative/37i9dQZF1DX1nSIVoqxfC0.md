@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-330 songs - 23 hr 3 min
+331 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Don't Hide Your Light](https://open.spotify.com/track/54I1fUw2jqUkKTtlHR10r5) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Denny White](https://open.spotify.com/artist/0RuDUIQCXhrbLcsegLwp2Q) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 3:15 | 2020-10-20\* | 2023-04-20 |
 | [Don't Stop](https://open.spotify.com/track/3N67Gin3X8gdOCrB6LbS5u) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CLUBLIFE, VOL\. 5: CHINA](https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0) | 3:31 | 2022-07-28 | 2023-04-20 |
 | [Don't Stop](https://open.spotify.com/track/7oColCs1gMaVD0QeUd7t0U) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CLUBLIFE, VOL\. 5 \- CHINA](https://open.spotify.com/album/3pazfA2ahcJHKHP2E2QjEB) | 3:31 | 2020-10-20\* | 2022-07-29 |
+| [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-06-23 |  |
 | [Driving To Heaven](https://open.spotify.com/track/4By7H4fvXagLSbDmm0bQbs) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements Of Life](https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF) | 4:42 | 2022-07-28 | 2023-04-20 |
 | [Driving To Heaven](https://open.spotify.com/track/57bZyLSHVspK6fw333UWXf) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements of Life](https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is) | 4:42 | 2020-10-20\* | 2022-07-29 |
 | [Echoes](https://open.spotify.com/track/3kmFq8gtzOTxOw4HkbjjAm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:59 | 2020-10-20\* | 2023-04-20 |

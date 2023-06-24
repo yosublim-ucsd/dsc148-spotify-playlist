@@ -2377,6 +2377,24 @@
     },
     {
       "album": {
+        "name": "Crime",
+        "url": "https://open.spotify.com/album/01pdI6epcgosnIga9wcDhr"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208100,
+      "name": "Crime",
+      "url": "https://open.spotify.com/track/5looKg8bc3CAzkmyxdgRCo"
+    },
+    {
+      "album": {
         "name": "Cuando Entramos en Acci\u00f3n",
         "url": "https://open.spotify.com/album/42n7d8yfCOFcXdlD8BFBkg"
       },
@@ -9966,7 +9984,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 152746,
       "name": "Standard",
       "url": "https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh"

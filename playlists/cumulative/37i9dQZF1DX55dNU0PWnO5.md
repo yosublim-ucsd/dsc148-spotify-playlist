@@ -2,9 +2,9 @@
 
 ### [Jazztronica](https://open.spotify.com/playlist/37i9dQZF1DX55dNU0PWnO5)
 
-> Jazzy blips and blops\. Cover: Flying Lotus
+> Jazzy blips and blops\. Cover: berlioz
 
-352 songs - 21 hr 40 min
+355 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Ancient Futurism](https://open.spotify.com/track/2yhOvH2rS924c8bnPLCEbI) | [Black Nile](https://open.spotify.com/artist/6hb590a1aY49Cv4EAew8Pb) | [Sounds of Color](https://open.spotify.com/album/1JtVGPcnUPJ1DlT9K56bLt) | 1:36 | 2021-01-29 | 2022-03-26 |
 | [Andromeda Style Fuunk](https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT) | [Wonky Logic](https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl) | [Andromeda Style Fuunk](https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY) | 3:50 | 2021-07-30 |  |
 | [Angels](https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k) | [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [David Ecker](https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx) | [Angels](https://open.spotify.com/album/2c44svxGGe3GfBT9icMZot) | 2:08 | 2023-04-14 |  |
+| [Anzio](https://open.spotify.com/track/6hKaFy6fU9YR0H1SWqh1LT) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Anzio](https://open.spotify.com/album/1ZkhTi6giWgtNDVMs1KYys) | 2:58 | 2023-06-23 |  |
 | [Around the stabs](https://open.spotify.com/track/2Ix2f5OnsIDSvSjcwOxzv4) | [Hirshy](https://open.spotify.com/artist/05iOlkEoADKxlGg776876i) | [Around the stabs](https://open.spotify.com/album/5HqljPTsCr2Sm0it9VhLiI) | 3:04 | 2022-05-16 |  |
 | [Bangerang](https://open.spotify.com/track/6s28dDs4TFJiLUbtpPCQJW) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [Tommy Lehman](https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h) | [Bangerang](https://open.spotify.com/album/1NjtM3sdelZWmjmYIxB6s3) | 3:22 | 2022-03-25 | 2022-07-29 |
 | [Beacons](https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX) | [Sunda Arc](https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj) | [Night Lands](https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82) | 5:08 | 2022-11-18 |  |
@@ -236,6 +237,7 @@
 | [PRNDL.exe](https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [PRNDL.wav](https://open.spotify.com/album/5iXVTGoscfB9MMl5YB8Hjr) | 2:57 | 2022-04-15 |  |
 | [Psicótico](https://open.spotify.com/track/0tgW4mrNhIvYjAQrlyYsLt) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Levels](https://open.spotify.com/album/7424QyIbYun7pe8Fw1xRpx) | 4:17 | 2023-05-12 |  |
 | [Pulse](https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Matt Zara](https://open.spotify.com/artist/7esr72Ko5ghnnhZZSAxqHL) | [Pulse](https://open.spotify.com/album/47fhitalFxOfp647SOyW6y) | 3:32 | 2021-12-03 |  |
+| [r&r](https://open.spotify.com/track/3h1sX3o4ZqOQpVtxL3U1mE) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/4WGxcr3aYMv1Dm6Xl1bwRN) | 3:27 | 2023-06-23 |  |
 | [Raz](https://open.spotify.com/track/1IHqcR48RW48H7S6sbiRC6) | [Studnitzky](https://open.spotify.com/artist/3B74gpltsxmayfY8oLTyc6) | [Nocturnal](https://open.spotify.com/album/0CMehAXs4eKAafMc7Ghy5X) | 5:12 | 2022-04-29 |  |
 | [re:pass \- Edit](https://open.spotify.com/track/5ZcGOKLKg1y5IKxpcqezv1) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [re:pass \(Edit\)](https://open.spotify.com/album/5QzgrQW4W6gIYoSmXyELtR) | 2:44 | 2022-06-03 |  |
 | [RED PILL](https://open.spotify.com/track/2XFuWi1l0V7tTQsfXWPotg) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG) | [RED PILL](https://open.spotify.com/album/1aqoGWInaXRSQrc9Daxrtm) | 2:41 | 2022-07-08 |  |
@@ -292,7 +294,7 @@
 | [Superhero](https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Superhero](https://open.spotify.com/album/1M8MrhnNegMkABPlZTsg8g) | 2:46 | 2021-03-12 | 2022-07-29 |
 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 | 2021-03-12 |  |
 | [SWEAT](https://open.spotify.com/track/51J6zODpdYccdf3wVi6FTM) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [SWEAT](https://open.spotify.com/album/4jgslG0QlEJ49OxaepciB5) | 2:17 | 2023-03-17 |  |
-| [Sweet Nothings](https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Sweet Nothings](https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo) | 2:20 | 2023-06-09 |  |
+| [Sweet Nothings](https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Sweet Nothings](https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo) | 2:20 | 2023-06-09 | 2023-06-24 |
 | [Sweet Shop](https://open.spotify.com/track/66LXZLB5neVWhdeEx56qjS) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Sweet Shop](https://open.spotify.com/album/5BN6H5RXllnqNrRmt0cthQ) | 3:50 | 2021-01-29 | 2022-03-26 |
 | [Talas](https://open.spotify.com/track/27CKY12YRyEvp8w9n0ySBO) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Formwave](https://open.spotify.com/artist/3x5pVZ0I1sEHZnmXzDR3Sy), [K Mirage](https://open.spotify.com/artist/2iTqWq87tO9NZt9ZNhIKDJ), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp), [Jere B](https://open.spotify.com/artist/3uqypqlkDQmUpHPzgbhD2b) | [Talas](https://open.spotify.com/album/7GjunTpL8SpjTe8GUR40x9) | 2:43 | 2022-06-17 | 2022-07-29 |
 | [Talk About It](https://open.spotify.com/track/5k4SI8RNArkDWKQwjifshx) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Talk About It](https://open.spotify.com/album/5QfbepSQCoQ4z77EO9ZrbJ) | 3:18 | 2021-08-20 |  |
@@ -346,6 +348,7 @@
 | [When We Gather](https://open.spotify.com/track/2DgrhZQkh0EOEFoDpr4mxh) | [Elobrian Sunrise](https://open.spotify.com/artist/4heg5G7NjZx0xy6L381mpb) | [Secret Garden](https://open.spotify.com/album/0HIrO4TCdHW7h9vt7RstFk) | 5:33 | 2021-01-29 | 2022-03-16 |
 | [Who Feels It Knows It](https://open.spotify.com/track/7EYT5MVdDefH8RD8AmkQn2) | [Sunnyside Electric](https://open.spotify.com/artist/1bx2iY7qBgQBiQmYCHRi1U), [Luis Sigüenza](https://open.spotify.com/artist/3xDs547f3Xg4cNGt1eT1ql), [Justus Heher](https://open.spotify.com/artist/0yMJoO3Z1jIxZdk6nZd0P8), [David Baylies](https://open.spotify.com/artist/5S036sLb8sIMiVxMMUdzhA), [Steven McArdle](https://open.spotify.com/artist/2RvApkiagXXEXYip2eUu0a), [Vid Jamnik](https://open.spotify.com/artist/2kRKc7MnKvdxcjCqmguxKO), [Sousastep](https://open.spotify.com/artist/12OpXcX0kDIYU6EBIFDj6N) | [Who Feels It Knows It](https://open.spotify.com/album/4QFGpVgLpANQ6pgSxreb0d) | 3:02 | 2022-07-29 |  |
 | [Why Not Jungle](https://open.spotify.com/track/0R7j6lvGVhpcs15ePBLLr7) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Why Not Jungle](https://open.spotify.com/album/40oY1hBdf6Inarnr3iM8sC) | 4:24 | 2022-09-02 |  |
+| [Wild](https://open.spotify.com/track/0pLNBfL8hIf58lqpFgIhct) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Wild](https://open.spotify.com/album/6FOuijhx9uJTJkL7XtMkn6) | 2:02 | 2023-06-23 |  |
 | [Wonderland](https://open.spotify.com/track/2KMe85RjUyossAhvG4C1Eg) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Wonderland](https://open.spotify.com/album/5UkSvvmhb6LelIKVQzTpG0) | 5:08 | 2021-03-05 | 2022-06-14 |
 | [Wonderland](https://open.spotify.com/track/31TqU3iyfmDGlNMo2rIRRY) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Wonderland](https://open.spotify.com/album/6lMjY92u9KVkfwVqJ5z2js) | 5:08 | 2021-03-12 |  |
 | [Worldwide](https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl x Kazuki Sessions](https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR) | 3:43 | 2022-04-29 |  |

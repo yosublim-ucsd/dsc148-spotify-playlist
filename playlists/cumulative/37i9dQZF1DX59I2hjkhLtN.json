@@ -7191,6 +7191,24 @@
     },
     {
       "album": {
+        "name": "Plata",
+        "url": "https://open.spotify.com/album/4RAM7flKVPIdE64Y0kUJwO"
+      },
+      "artists": [
+        {
+          "name": "E2SON",
+          "url": "https://open.spotify.com/artist/2LUpzCPtbdSZg8viFA9Szs"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159324,
+      "name": "Plata",
+      "url": "https://open.spotify.com/track/4byaofKiseMxjrgnCfrHOm"
+    },
+    {
+      "album": {
         "name": "Pode Deixar",
         "url": "https://open.spotify.com/album/47lfTSKfrswDdNhFYby5nx"
       },

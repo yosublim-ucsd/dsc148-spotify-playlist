@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:1YRqgFNXqRyMDRr8ClS1NL">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,778 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,825 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 13 | [Dynasty](https://open.spotify.com/track/1SCys1pf11OD6TU2U9kOH1) | [Coach Tev](https://open.spotify.com/artist/51nmCCHes2y60eOYg1D1Jx) | [Dynasty](https://open.spotify.com/album/2hwRTHtYc3ZtGVl2yEUNQG) | 3:19 |
 | 14 | [Trimmer](https://open.spotify.com/track/5FRQGuVPpvX94JkAMAYgn6) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer](https://open.spotify.com/album/1IsIWos17vXf7s6GEGSfAE) | 2:30 |
 | 15 | [DON'T COUNT ME OUT](https://open.spotify.com/track/4Rc8EXnq3AUZ5lziyRTpYV) | [Henny Hermes](https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy), [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [DON'T COUNT ME OUT](https://open.spotify.com/album/25ezsuskvnK8CqCCMNYxfW) | 2:24 |
-| 16 | [Angela Bassett](https://open.spotify.com/track/38u2C9aUAoYCsY9on5Qgvh) | [LORD JAH\-MONTE OGBON](https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0) | [Angela Bassett](https://open.spotify.com/album/3zr2Sx5df4utliKGc7kgur) | 3:29 |
+| 16 | [Angela Bassett \- Radio Edit](https://open.spotify.com/track/38u2C9aUAoYCsY9on5Qgvh) | [LORD JAH\-MONTE OGBON](https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0), [Denzel Davon](https://open.spotify.com/artist/1AOkBxvdPb0kG1Zo6oRQCP) | [Angela Bassett \(Radio Edit\)](https://open.spotify.com/album/3zr2Sx5df4utliKGc7kgur) | 3:29 |
 | 17 | [The Last Dance](https://open.spotify.com/track/6pZMDwkmvrqt2ubqpLGRQy) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [The Last Dance](https://open.spotify.com/album/66U307HBY3iMZk6afuh0Rr) | 3:09 |
 | 18 | [Listen to Me \(feat\. Zyanna\)](https://open.spotify.com/track/13x4lBMOFMNZ8p8IifQd1u) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ), [Zyanna](https://open.spotify.com/artist/3jnexhFggORGjrBZrDGoJf) | [Listen to Me \(feat\. Zyanna\)](https://open.spotify.com/album/2v8ZiCYnxRyFGzS9UuEO6p) | 3:01 |
 | 19 | [RECKLESS & RATCHET](https://open.spotify.com/track/6J34RvjJj3xQuezQOjbKL2) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [RECKLESS & RATCHET](https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Big 4](https://open.spotify.com/track/2nRJZpii4iG0ed19Ogf7Ne) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Big 4](https://open.spotify.com/album/0RqOURh1V2vMtyTyZ8XSWN) | 2:15 |
 | 75 | [Rider Music \(feat\. Heem\)](https://open.spotify.com/track/07L7nzOV9NkafP5E4WmwQy) | [Jamal Gasol](https://open.spotify.com/artist/0WLmar77zWWvtWS58xp88h), [VH$](https://open.spotify.com/artist/0t8LeJmWFPn8uatq1zBt6A), [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D) | [Tales From the Trenches](https://open.spotify.com/album/4JmLCYsKl5f07duetar98p) | 3:14 |
 
-Snapshot ID: `MCxmNGFkN2Q0ZGJiM2Q2OTZjZGM2NzNlZTFkNzgwNmU0ZmJkYmJjNjcw`
+Snapshot ID: `MCw1NWRhZGVmNzkzOWE3ZmViOTdhZmUzYWMwYzQ4OThmODU2NjRiZGY1`

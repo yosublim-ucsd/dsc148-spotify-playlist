@@ -569,6 +569,32 @@
     },
     {
       "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/5pn3ym36HJBYGCHWNNTwLV"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
+        },
+        {
+          "name": "Natty Rico",
+          "url": "https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128852,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/2QnExUsof4COXA79R4BMWx"
+    },
+    {
+      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/4nbm6b2X0Og5uQpzbDdYEn"
       },
@@ -676,6 +702,24 @@
       "duration_ms": 234302,
       "name": "Clarity - Shallou Remix",
       "url": "https://open.spotify.com/track/7pI6XSeaMGD7Sw8Fk2O7Rz"
+    },
+    {
+      "album": {
+        "name": "Clifton 4th",
+        "url": "https://open.spotify.com/album/3VJ5jQ3WVcs9Lf6PvzGBYz"
+      },
+      "artists": [
+        {
+          "name": "Markus Gardeweg",
+          "url": "https://open.spotify.com/artist/61Z2VOSs2wa7II0ex4jcEu"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147076,
+      "name": "Clifton 4th",
+      "url": "https://open.spotify.com/track/6Lw8lTHizNmiOwwg0xI9qh"
     },
     {
       "album": {
@@ -2220,7 +2264,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 196229,
       "name": "I Love You Always Forever (Nora's Version)",
       "url": "https://open.spotify.com/track/4eMaX3oR9aD0JTwZOrNQ9Y"
@@ -2710,7 +2754,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 170582,
       "name": "Let Me Know (feat.CLMD)",
       "url": "https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh"
@@ -4549,6 +4593,28 @@
     },
     {
       "album": {
+        "name": "Terra Byte",
+        "url": "https://open.spotify.com/album/4izgio6ZsvHzexZ6YNX9Pi"
+      },
+      "artists": [
+        {
+          "name": "Beatamines",
+          "url": "https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK"
+        },
+        {
+          "name": "Anima",
+          "url": "https://open.spotify.com/artist/4pnuCVOAfp1106hqodoWPA"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277440,
+      "name": "Terra Byte",
+      "url": "https://open.spotify.com/track/1NjcoMXk0NCgwrJHKG4cam"
+    },
+    {
+      "album": {
         "name": "Terrified",
         "url": "https://open.spotify.com/album/56LHiKifAUCoXz8v2fWWR7"
       },
@@ -5056,7 +5122,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 159153,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl"

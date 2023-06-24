@@ -1,12 +1,12 @@
 {
   "description": "Lo mas pegao en Dembow. \nCover: Peso Pluma y El Alfa",
-  "num_followers": 343461,
+  "num_followers": 343654,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTY2NTQ2MGUwOTMzNWZkMjU5MTU3YTU3ZTk0NDNjNmQ0ZTM3ODdl",
+  "snapshot_id": "MCwwN2ZhN2Q2MTU3NTBlYTE1ZmNjMjFjOWZiMjUwNmQ5ZGEzMTUxMDgz",
   "tracks": [
     {
       "added_at": "2023-06-12 16:00:29",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Toy a Mil",
-        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "Toy a Mil",
-      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "Subete",
         "url": "https://open.spotify.com/album/7goblZdJaGWwVHICaveWJm"
       },
@@ -803,22 +787,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Piropi",
-        "url": "https://open.spotify.com/album/5eWUYj0NneZYDw0VOO5Gcc"
-      },
-      "artists": [
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 190169,
-      "name": "Piropi",
-      "url": "https://open.spotify.com/track/4l0fkozUiEQV7IX28CHEtu"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "Teteo (Remix)",
         "url": "https://open.spotify.com/album/4YC5fSphrnUQPkROV7phry"
       },
@@ -835,6 +803,38 @@
       "duration_ms": 203098,
       "name": "Teteo - Remix",
       "url": "https://open.spotify.com/track/6wB8FE4JA5UTaKEwZzY7It"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Piropi",
+        "url": "https://open.spotify.com/album/5eWUYj0NneZYDw0VOO5Gcc"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "duration_ms": 190169,
+      "name": "Piropi",
+      "url": "https://open.spotify.com/track/4l0fkozUiEQV7IX28CHEtu"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Toy a Mil",
+        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "Toy a Mil",
+      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -967,30 +967,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Lo Rafaguie",
-        "url": "https://open.spotify.com/album/0PNfohwBm4XqbY83CA39BV"
-      },
-      "artists": [
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        },
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        }
-      ],
-      "duration_ms": 141372,
-      "name": "Lo Rafaguie",
-      "url": "https://open.spotify.com/track/6oB33MiHmxDTMVLoPX5dv7"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "Esta Si",
         "url": "https://open.spotify.com/album/5aDc8yNNHhhab8EyeNLGej"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 204560,
       "name": "Esta Si",
       "url": "https://open.spotify.com/track/2xjd6t95oEuxTn9vjWkC0n"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Lo Rafaguie",
+        "url": "https://open.spotify.com/album/0PNfohwBm4XqbY83CA39BV"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "duration_ms": 141372,
+      "name": "Lo Rafaguie",
+      "url": "https://open.spotify.com/track/6oB33MiHmxDTMVLoPX5dv7"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Papi Abusa",
-        "url": "https://open.spotify.com/album/0xC7uU6R7xFSFpnCAFcC6X"
-      },
-      "artists": [
-        {
-          "name": "La Demente",
-          "url": "https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o"
-        },
-        {
-          "name": "La Sadica",
-          "url": "https://open.spotify.com/artist/1ADU7q520JYPBdxdLHB57A"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "Papi Abusa",
-      "url": "https://open.spotify.com/track/5OIk9Zys8phUxhhiicRJE4"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "La Piedra",
         "url": "https://open.spotify.com/album/4oJF52yFg8o1qMb5LEaMHf"
       },
@@ -1251,22 +1231,26 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Malabu",
-        "url": "https://open.spotify.com/album/6lZyKKjwxqciNXhikIj75A"
+        "name": "Ay Si \u00d1i\u00f1o (Remix)",
+        "url": "https://open.spotify.com/album/48IOGtllrXRIdfZdYEfPq3"
       },
       "artists": [
         {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
         },
         {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+          "name": "Mafeo 13",
+          "url": "https://open.spotify.com/artist/6qgOVc7H8dqguJGtvpzeiP"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
         }
       ],
-      "duration_ms": 168855,
-      "name": "Malabu",
-      "url": "https://open.spotify.com/track/6cIDPdoQ9RaKT9raNW6TsJ"
+      "duration_ms": 142372,
+      "name": "Ay Si \u00d1i\u00f1o (Remix)",
+      "url": "https://open.spotify.com/track/33QRkn2HK18QZA7jZRKWou"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1299,26 +1283,42 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Ay Si \u00d1i\u00f1o (Remix)",
-        "url": "https://open.spotify.com/album/48IOGtllrXRIdfZdYEfPq3"
+        "name": "Papi Abusa",
+        "url": "https://open.spotify.com/album/0xC7uU6R7xFSFpnCAFcC6X"
       },
       "artists": [
         {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+          "name": "La Demente",
+          "url": "https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o"
         },
         {
-          "name": "Mafeo 13",
-          "url": "https://open.spotify.com/artist/6qgOVc7H8dqguJGtvpzeiP"
-        },
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "La Sadica",
+          "url": "https://open.spotify.com/artist/1ADU7q520JYPBdxdLHB57A"
         }
       ],
-      "duration_ms": 142372,
-      "name": "Ay Si \u00d1i\u00f1o (Remix)",
-      "url": "https://open.spotify.com/track/33QRkn2HK18QZA7jZRKWou"
+      "duration_ms": 166909,
+      "name": "Papi Abusa",
+      "url": "https://open.spotify.com/track/5OIk9Zys8phUxhhiicRJE4"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Malabu",
+        "url": "https://open.spotify.com/album/6lZyKKjwxqciNXhikIj75A"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        }
+      ],
+      "duration_ms": 168855,
+      "name": "Malabu",
+      "url": "https://open.spotify.com/track/6cIDPdoQ9RaKT9raNW6TsJ"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Bilibob",
-        "url": "https://open.spotify.com/album/7C5NNwStjZCHPLSLoiz6eu"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 190464,
-      "name": "Bilibob",
-      "url": "https://open.spotify.com/track/0wCINtcvrzwjJjrTJPmnSt"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "Taka Taka",
         "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 155326,
       "name": "Taka Taka",
       "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Bilibob",
+        "url": "https://open.spotify.com/album/7C5NNwStjZCHPLSLoiz6eu"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 190464,
+      "name": "Bilibob",
+      "url": "https://open.spotify.com/track/0wCINtcvrzwjJjrTJPmnSt"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
+        "name": "Maniqui",
+        "url": "https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 177632,
+      "name": "Maniqui",
+      "url": "https://open.spotify.com/track/4i8NEPpP802z5lxewO8flu"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
         "name": "Bellaca Putona",
         "url": "https://open.spotify.com/album/1vucKyQTo3QTr0jwXwOUr8"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 152285,
       "name": "Bellaca Putona",
       "url": "https://open.spotify.com/track/5WiGmbM0R21HdAiQVSqXzk"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "Maniqui",
-        "url": "https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 177632,
-      "name": "Maniqui",
-      "url": "https://open.spotify.com/track/4i8NEPpP802z5lxewO8flu"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Totola",
-        "url": "https://open.spotify.com/album/78BkxNZpH8JBsGbcV7caIU"
-      },
-      "artists": [
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Totola",
-      "url": "https://open.spotify.com/track/2pKXFZUVQdVJIt5OfcC7sH"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "Bobote",
         "url": "https://open.spotify.com/album/68ihFK8T2v5Y2RcCAOFA1s"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 247741,
       "name": "Bobote",
       "url": "https://open.spotify.com/track/5NuZrK1wFI9iOgCbFyECfa"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Totola",
+        "url": "https://open.spotify.com/album/78BkxNZpH8JBsGbcV7caIU"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Totola",
+      "url": "https://open.spotify.com/track/2pKXFZUVQdVJIt5OfcC7sH"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -2007,30 +2007,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Malianteo Y Tiro",
-        "url": "https://open.spotify.com/album/43E81DbhPBrBu14fSmhWys"
-      },
-      "artists": [
-        {
-          "name": "Shootter Ledo",
-          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
-        },
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Malianteo Y Tiro",
-      "url": "https://open.spotify.com/track/1GMWt9gI4XkpySGoacuMe3"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "No Tengo Para",
         "url": "https://open.spotify.com/album/7Jjix890H2bu95v5hthu2z"
       },
@@ -2051,22 +2027,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "La Pampara",
-        "url": "https://open.spotify.com/album/47wn5kQQYh8dCJq9nFdkjk"
-      },
-      "artists": [
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        }
-      ],
-      "duration_ms": 140492,
-      "name": "La Pampara",
-      "url": "https://open.spotify.com/track/27D9B8v0U0Dx4I1gys0Y1Y"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "Tamo Alante",
         "url": "https://open.spotify.com/album/2QE1c3W38za9tSbcYkIBlT"
       },
@@ -2083,6 +2043,46 @@
       "duration_ms": 172252,
       "name": "Tamo Alante",
       "url": "https://open.spotify.com/track/0qSrSbS1zimVtOzfLCswp9"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "La Pampara",
+        "url": "https://open.spotify.com/album/47wn5kQQYh8dCJq9nFdkjk"
+      },
+      "artists": [
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "duration_ms": 140492,
+      "name": "La Pampara",
+      "url": "https://open.spotify.com/track/27D9B8v0U0Dx4I1gys0Y1Y"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Malianteo Y Tiro",
+        "url": "https://open.spotify.com/album/43E81DbhPBrBu14fSmhWys"
+      },
+      "artists": [
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Malianteo Y Tiro",
+      "url": "https://open.spotify.com/track/1GMWt9gI4XkpySGoacuMe3"
     },
     {
       "added_at": "2023-05-26 20:56:02",

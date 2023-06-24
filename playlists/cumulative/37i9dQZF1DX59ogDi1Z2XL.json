@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Drake",
+  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: CHUNG",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -172,6 +172,32 @@
       "duration_ms": 193812,
       "name": "2 SIDES",
       "url": "https://open.spotify.com/track/2yhHAImrFn7x2wHRKpGJno"
+    },
+    {
+      "album": {
+        "name": "Pedro Activated",
+        "url": "https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W"
+      },
+      "artists": [
+        {
+          "name": "Top5",
+          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
     },
     {
       "album": {
@@ -1054,7 +1080,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 174971,
       "name": "All Of That",
       "url": "https://open.spotify.com/track/5JRWSUB3WTUfVyzGA0Iym0"
@@ -2001,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Believe it or Not",
+        "url": "https://open.spotify.com/album/76p2ElliSFjVlaver7iSoc"
+      },
+      "artists": [
+        {
+          "name": "Hueso",
+          "url": "https://open.spotify.com/artist/5px5qdwlkLxEYOBRKDBlyI"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192180,
+      "name": "Believe it or Not",
+      "url": "https://open.spotify.com/track/7nD3QDXQXsGj7KeuftxiPP"
+    },
+    {
+      "album": {
         "name": "Benefit",
         "url": "https://open.spotify.com/album/385dJrhGCUAQasCpMOygbX"
       },
@@ -2343,6 +2387,32 @@
     },
     {
       "album": {
+        "name": "Black For Green",
+        "url": "https://open.spotify.com/album/7E0vKS0ocrn6O3fuRHrnZC"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Figub Brazlevic",
+          "url": "https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum"
+        },
+        {
+          "name": "THE 6TH LETTER",
+          "url": "https://open.spotify.com/artist/5hM8TO6qnM1N04mPUcsg3V"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Black For Green",
+      "url": "https://open.spotify.com/track/10MHgsXUHZtBL6rBOWSr4S"
+    },
+    {
+      "album": {
         "name": "Black Out",
         "url": "https://open.spotify.com/album/1E90RNGutjfG1xgJpN6qHc"
       },
@@ -2578,7 +2648,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 155879,
       "name": "Bora Bora",
       "url": "https://open.spotify.com/track/586guBKCSzccyYZVZduraw"
@@ -3361,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/6eZtCKeoOzZBNLvZBKGvH4"
+      },
+      "artists": [
+        {
+          "name": "TkMN",
+          "url": "https://open.spotify.com/artist/61A2QGJWZ3b8mlVtQ552qU"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187742,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/1NqotoOdhbCWquCz6Vuv9U"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/0C7TBWsRhx5h6VDUwxfOlP"
       },
@@ -4000,7 +4088,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 173076,
       "name": "Crossed Me",
       "url": "https://open.spotify.com/track/4QvWay6m8iqettih7JtVLO"
@@ -4518,7 +4606,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 168000,
       "name": "Different",
       "url": "https://open.spotify.com/track/1cTNrhESXmKCALm6fUvAMA"
@@ -4798,7 +4886,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 170232,
       "name": "Don't Lie (feat. Kuami Eugene)",
       "url": "https://open.spotify.com/track/1jCZy2BqlnxOrKdEBqmSIK"
@@ -5540,7 +5628,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 171789,
       "name": "EVERY BIG THING",
       "url": "https://open.spotify.com/track/7lZevODXZBcDRKTXSgYk2Q"
@@ -9003,6 +9091,36 @@
     },
     {
       "album": {
+        "name": "Chung Shui II",
+        "url": "https://open.spotify.com/album/0UFRwJ6g0EkJKipUxCHKtf"
+      },
+      "artists": [
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        },
+        {
+          "name": "Cotola",
+          "url": "https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        },
+        {
+          "name": "Kyilah",
+          "url": "https://open.spotify.com/artist/6Q6pVOoagCVAsnkHOaHBi4"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189183,
+      "name": "Inhale Exale",
+      "url": "https://open.spotify.com/track/2lxD7mHyVfEbvZv7Z0oZsP"
+    },
+    {
+      "album": {
         "name": "Injury",
         "url": "https://open.spotify.com/album/7GpWpJ59g2LZ4bZBXwJ1Dt"
       },
@@ -11625,6 +11743,28 @@
     },
     {
       "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/1Jaclvhb4BFjq06hPT1Ari"
+      },
+      "artists": [
+        {
+          "name": "King Reign",
+          "url": "https://open.spotify.com/artist/2NBqojWIwPlNQC5yKru1OJ"
+        },
+        {
+          "name": "Beatchild",
+          "url": "https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194157,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/47wQ6BvENAfbfz4YYKjHbv"
+    },
+    {
+      "album": {
         "name": "My Brudda",
         "url": "https://open.spotify.com/album/62jWQh8WrHW5J1KWoDDL2r"
       },
@@ -12081,6 +12221,24 @@
     },
     {
       "album": {
+        "name": "NIGHTCAP",
+        "url": "https://open.spotify.com/album/3TKWragC4qTf8gjvTYdOQ4"
+      },
+      "artists": [
+        {
+          "name": "APB",
+          "url": "https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "NIGHTCAP",
+      "url": "https://open.spotify.com/track/4CnfenmPbN9QNKITPe9o10"
+    },
+    {
+      "album": {
         "name": "No Blogs Freestyle",
         "url": "https://open.spotify.com/album/1gQ3NFcGcdk58zQXeRixk3"
       },
@@ -12184,7 +12342,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 169846,
       "name": "No Discussion",
       "url": "https://open.spotify.com/track/4KyLXnL1sOUvnPpTskFULe"
@@ -12879,6 +13037,28 @@
     },
     {
       "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Oh U Went (feat. Drake)",
+      "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+    },
+    {
+      "album": {
         "name": "OK/Supra (Duality)",
         "url": "https://open.spotify.com/album/6siiY9gJlbs0qTd39waPzw"
       },
@@ -12908,7 +13088,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 96052,
       "name": "Old Scars",
       "url": "https://open.spotify.com/track/0NURMgJBQyAjhWXbinPtdP"
@@ -13658,7 +13838,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 284801,
       "name": "PARANO",
       "url": "https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia"
@@ -15631,6 +15811,24 @@
     },
     {
       "album": {
+        "name": "King Of Everything",
+        "url": "https://open.spotify.com/album/58aKPjr4Z55HduL6vESCN3"
+      },
+      "artists": [
+        {
+          "name": "XORA",
+          "url": "https://open.spotify.com/artist/314rLbir7Cluk4nKOszw8I"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151137,
+      "name": "Sharpner",
+      "url": "https://open.spotify.com/track/7KzcldpkVl4A5aVafDMkqZ"
+    },
+    {
+      "album": {
         "name": "SHE SMOKES (feat. Nue)",
         "url": "https://open.spotify.com/album/5Ozyab3djDesGeFRpc8bae"
       },
@@ -15758,7 +15956,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 103429,
       "name": "SHOW YOU SOMETHING NEW",
       "url": "https://open.spotify.com/track/1O3gUNGJtjONST6RpnQhti"
@@ -18484,7 +18682,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 179111,
       "name": "Up Now",
       "url": "https://open.spotify.com/track/6Xwnfdd4MWXdCVke3SSDM0"
@@ -19104,7 +19302,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 223001,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/3MRZMm2lD2EEIh02JEJOsk"
@@ -19278,6 +19476,24 @@
       "duration_ms": 156786,
       "name": "Who's Next?",
       "url": "https://open.spotify.com/track/6U7ATEBU5JWprbGRvfRiYb"
+    },
+    {
+      "album": {
+        "name": "who?",
+        "url": "https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149565,
+      "name": "who?",
+      "url": "https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ"
     },
     {
       "album": {

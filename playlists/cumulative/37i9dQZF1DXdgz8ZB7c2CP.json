@@ -1799,6 +1799,28 @@
     },
     {
       "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6bi8u9QUWXCYW8w9IT88D3"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195459,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/6YcFNAsBntqdR0dd3ManI8"
+    },
+    {
+      "album": {
         "name": "Context",
         "url": "https://open.spotify.com/album/4xQ4aw8SmHshUSTLYDsa9B"
       },
@@ -2042,7 +2064,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 197468,
       "name": "David Blaine",
       "url": "https://open.spotify.com/track/1JxBGu7qTwjGdog2CQhY7d"
@@ -2734,7 +2756,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 212533,
       "name": "Exmachina",
       "url": "https://open.spotify.com/track/1EMXFlcch8mGEX8nziVx1R"
@@ -3289,6 +3311,28 @@
     },
     {
       "album": {
+        "name": "frenemy (with friends)",
+        "url": "https://open.spotify.com/album/1EzVzKIej6xbASVOvFsQFW"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        },
+        {
+          "name": "clear eyes",
+          "url": "https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145964,
+      "name": "frenemy - clear eyes Remix",
+      "url": "https://open.spotify.com/track/2duNaM5UOAFbkSYhHKcTjx"
+    },
+    {
+      "album": {
         "name": "From the Start",
         "url": "https://open.spotify.com/album/3dkTtMkCWRhYSTHJr0nnug"
       },
@@ -3588,6 +3632,24 @@
       "duration_ms": 158000,
       "name": "Gone - Sam Day Remix",
       "url": "https://open.spotify.com/track/6QeTOaxZRItQG5Pfj2qWm7"
+    },
+    {
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172319,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
     },
     {
       "album": {
@@ -3920,6 +3982,28 @@
       "duration_ms": 220800,
       "name": "Honeydew",
       "url": "https://open.spotify.com/track/6sBhU1fiwW3LeGd9RiuCMz"
+    },
+    {
+      "album": {
+        "name": "Altopalo / hope this email finds you well (with friends)",
+        "url": "https://open.spotify.com/album/1jZ7AwbYnMF1SPHghSsPOa"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        },
+        {
+          "name": "J. Mordechai",
+          "url": "https://open.spotify.com/artist/5Jjx40UzbnzKFxYvui5JBs"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "hope this email finds you well - J. Mordechai Remix",
+      "url": "https://open.spotify.com/track/4Fve52wnTtAqRpX7UnY0S0"
     },
     {
       "album": {
@@ -5044,7 +5128,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 200054,
       "name": "Loner - Moore Kismet Remix",
       "url": "https://open.spotify.com/track/3uWJYrarDEEiGSPw0jJLo2"
@@ -5116,7 +5200,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 155806,
       "name": "lovely2*",
       "url": "https://open.spotify.com/track/123954RVtblgBxIcwOLwSM"

@@ -1,13 +1,41 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 6122,
+  "num_followers": 6126,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGYwOWUyYTlmNjBiZmVhYTQyYWU5ZDE5MDYxOThiNzhmOGQwMTQ3",
+  "snapshot_id": "MCxmM2Q0MTc0ZjE2Yjg3NzNjMjliYjBkYTE3MmY4YzkyNzAyNzk4MTQ4",
   "tracks": [
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "The Past Intact (Live at the Village Vanguard)",
+        "url": "https://open.spotify.com/album/5rwaTR3829ZCSIeVO9Zbri"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        },
+        {
+          "name": "Eric Revis",
+          "url": "https://open.spotify.com/artist/5ElMqnHWxDT7rA7WuwDFs3"
+        },
+        {
+          "name": "Greg Hutchinson",
+          "url": "https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o"
+        }
+      ],
+      "duration_ms": 423626,
+      "name": "The Past Intact - Live at the Village Vanguard",
+      "url": "https://open.spotify.com/track/4DZUyHMnOfbvYPvf2i9Nuk"
+    },
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
@@ -27,6 +55,22 @@
       "duration_ms": 222000,
       "name": "I Cried For You",
       "url": "https://open.spotify.com/track/3CB1D8GtpOxRE0ZhrKZXwg"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Inside/Outside",
+        "url": "https://open.spotify.com/album/3BwunC2a1yOsic076ud2li"
+      },
+      "artists": [
+        {
+          "name": "Don Cherry",
+          "url": "https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI"
+        }
+      ],
+      "duration_ms": 769253,
+      "name": "Mother Of The Veil - Live (Remastered)",
+      "url": "https://open.spotify.com/track/0tTq4JHh0AL3W7PCd3IDgP"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -887,22 +931,6 @@
     {
       "added_at": "2021-11-12 05:14:12",
       "album": {
-        "name": "Miles and Monk at Newport (Live)",
-        "url": "https://open.spotify.com/album/4bBbkwePNn99UrJrSNIs1L"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Sextet",
-          "url": "https://open.spotify.com/artist/1i4ed4I1y7YerI0fQV4lVc"
-        }
-      ],
-      "duration_ms": 526786,
-      "name": "Straight, No Chaser - Live",
-      "url": "https://open.spotify.com/track/1DkanoZx9FPP09j977x5ch"
-    },
-    {
-      "added_at": "2021-11-12 05:14:12",
-      "album": {
         "name": "At The Village Vanguard",
         "url": "https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj"
       },
@@ -1063,38 +1091,6 @@
       "duration_ms": 333581,
       "name": "No More Shadows",
       "url": "https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9"
-    },
-    {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "Massimo Farao' Afro Cuban Quintet (Live at Chiara Recording Torino, Italy - Ferrara, December 18th 2021)",
-        "url": "https://open.spotify.com/album/3MST2Qc3LUMZKVBKBq3iau"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Davide Palladin",
-          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
-        },
-        {
-          "name": "Bobo Facchinetti",
-          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
-        },
-        {
-          "name": "Nicola Barbon",
-          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
-        },
-        {
-          "name": "Ernesttico",
-          "url": "https://open.spotify.com/artist/2CmYb3Zf7R9D41tqsLNh8a"
-        }
-      ],
-      "duration_ms": 418597,
-      "name": "Congalegre - Live",
-      "url": "https://open.spotify.com/track/2dx0Gh2pk0fN8DcsazjJ6N"
     },
     {
       "added_at": "2022-03-11 05:02:00",

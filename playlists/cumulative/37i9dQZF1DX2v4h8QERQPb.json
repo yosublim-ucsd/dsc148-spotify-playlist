@@ -3889,6 +3889,28 @@
     },
     {
       "album": {
+        "name": "Para La Envidia",
+        "url": "https://open.spotify.com/album/7uvrUI2nKiAtVxBE5zCzjx"
+      },
+      "artists": [
+        {
+          "name": "Socio",
+          "url": "https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD"
+        },
+        {
+          "name": "T&K",
+          "url": "https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275605,
+      "name": "Sucio",
+      "url": "https://open.spotify.com/track/02sz23KvVaBWsgtWAzZChM"
+    },
+    {
+      "album": {
         "name": "Para la Envidia",
         "url": "https://open.spotify.com/album/60NVjjROURwC1Vbe5r9FBM"
       },
@@ -3904,7 +3926,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 275718,
       "name": "Sucio",
       "url": "https://open.spotify.com/track/1aNJgaL6fmvMLWzOMld92r"

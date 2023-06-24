@@ -2,7 +2,7 @@
 
 ### [Latest Tamil](https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z)
 
-> New Music from Kollywood.<br/>Cover : Mamannan
+> New Music from Kollywood.<br/>Cover : LEO
 
 727 songs - 1 day 21 hr 12 min
 

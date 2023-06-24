@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Aphex Twin
 
-270 songs - 19 hr 47 min
+271 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-09 |  |
 | [Get Flutey](https://open.spotify.com/track/1Ryer7rjuIJ8UztDyMVWLG) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Get Flutey](https://open.spotify.com/album/1NMNkeVHBhy7tSpBkmYWNy) | 3:54 | 2023-05-19 |  |
 | [Get Madd](https://open.spotify.com/track/6zteIhsVMvsmXZfXhIsklx) | [Austin Ato](https://open.spotify.com/artist/6sCrZwNbMhp1iahiiFQY66) | [Get Madd](https://open.spotify.com/album/2ocpD2at1knrKyxgmTSRXV) | 3:08 | 2023-04-27 | 2023-05-19 |
-| [GG](https://open.spotify.com/track/6dFAAU6DldVzAyulnjfRUG) | [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99) | [GG](https://open.spotify.com/album/3O41fprMUqAzhyRRqBfcLd) | 4:48 | 2023-04-27 |  |
+| [GG](https://open.spotify.com/track/205HoXBFsEHQPmpYfrbLyC) | [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99) | [GG](https://open.spotify.com/album/4RExhDGZJOKy392lGKzzs1) | 4:48 | 2023-06-21 |  |
+| [GG](https://open.spotify.com/track/6dFAAU6DldVzAyulnjfRUG) | [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99) | [GG](https://open.spotify.com/album/3O41fprMUqAzhyRRqBfcLd) | 4:48 | 2023-04-27 | 2023-06-24 |
 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2023-03-30 |  |
 | [Got Everything](https://open.spotify.com/track/1qFnKaeDKCdCNqmybmlgHs) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [Got Everything](https://open.spotify.com/album/2frve4kqfLD6NnNE03xPUn) | 4:20 | 2023-04-27 |  |
 | [Grief](https://open.spotify.com/track/09XxBJrprneCpmO6CQLKrT) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Maxwell Owin](https://open.spotify.com/artist/1BY3jPCSTYtgNJoqSnxt3f), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Grief](https://open.spotify.com/album/7oVN7H11MsBBUybYfC0z7H) | 4:17 | 2023-05-04 |  |

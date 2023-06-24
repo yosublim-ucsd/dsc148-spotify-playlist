@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-258 songs - 15 hr 23 min
+259 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Giving In To The Love](https://open.spotify.com/track/2QlRLjTVBHYreIiS6BvGof) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Giving In To The Love](https://open.spotify.com/album/3Y5o2C8NuaZTnJEVIamHDy) | 3:01 | 2021-10-19 | 2022-09-15 |
 | [Gold \(Flume Re\-Work\)](https://open.spotify.com/track/0h8ojQz5giqSp3Q5EWUrRv) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Gold \(Flume Re\-Work\)](https://open.spotify.com/album/6sqQFchi2DHwhAFfm5x5ud) | 4:27 | 2020-11-04\* | 2021-10-20 |
 | [Gold \- Flume Re\-Work](https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Re\-Work\)](https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl) | 4:27 | 2022-04-29 | 2023-06-23 |
+| [Gold \- Flume Rework](https://open.spotify.com/track/6iIDeCpn9TQB7yns5zwkc6) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Rework\)](https://open.spotify.com/album/0c6k1Sx08mOgZ1ZmnyqG9T) | 4:27 | 2023-01-11 |  |
 | [Gone](https://open.spotify.com/track/20aUwrJ5GXdwFW5YgEyUiP) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Gone](https://open.spotify.com/album/4KYRPGcjvjgx9awdC5NEsW) | 3:23 | 2020-11-06 | 2022-11-13 |
 | [Greener](https://open.spotify.com/track/4qu0lhULYMZgDcgVL00Jk0) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Greener](https://open.spotify.com/album/5B6Ueggpe856IOUWSuVAPW) | 3:54 | 2022-04-29 |  |
 | [Haircut](https://open.spotify.com/track/0vJOWyDkolHTzXb4V7wMAX) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/0TnyQ7nwlR20ZbuDGQYeOj) | 3:36 | 2020-11-04\* | 2021-10-21 |
@@ -239,7 +240,7 @@
 | [Time \(feat\. Rhye\)](https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Time \(feat\. Rhye\)](https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq) | 4:19 | 2020-12-11 | 2022-07-29 |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2021-03-26 |  |
 | [Tonight](https://open.spotify.com/track/6laKL6EWhkUWfBGnFH5xED) | [Scarypoolparty](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Tonight](https://open.spotify.com/album/0TPlskZ8yvlay7Nv7URo8b) | 3:46 | 2020-11-04\* | 2021-10-21 |
-| [Trip](https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH) | 2:53 | 2022-04-29 |  |
+| [Trip](https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH) | 2:53 | 2022-04-29 | 2023-06-24 |
 | [Trip](https://open.spotify.com/track/4iKWBHfMBMXptoXaDwqAre) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/3Lx8YDSuswGCfV8Tsb6i4E) | 2:53 | 2020-11-04\* | 2021-10-20 |
 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 | 2021-10-19 |  |
 | [Trouble to Share](https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Trouble to Share](https://open.spotify.com/album/4eYcxWOrAIrbuy6bOCJvSw) | 4:00 | 2022-04-29 | 2022-11-15 |

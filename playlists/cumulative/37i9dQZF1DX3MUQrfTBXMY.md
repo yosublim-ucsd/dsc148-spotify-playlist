@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- AvoidRafa
 
-221 songs - 19 hr 10 min
+223 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,14 +181,16 @@
 | [Protishruti](https://open.spotify.com/track/4LFXQy7NN0KdraTRs2WZj9) | [13th Funeral](https://open.spotify.com/artist/6r4kTQoYjObienwuKU4PBT) | [Protishruti](https://open.spotify.com/album/2jGoGgLlFQKTpuEnxCXSDq) | 4:58 | 2022-06-16 | 2023-01-21 |
 | [Provu](https://open.spotify.com/track/4IJ1xoz8M9omBst9dd9IKH) | [Abirbhaab](https://open.spotify.com/artist/60DzpTSQlf934knmD0jkdr) | [Provu](https://open.spotify.com/album/65CBawaHaqasNGO8BBMbm8) | 4:46 | 2023-02-28 |  |
 | [Punorjonmo](https://open.spotify.com/track/25Hmu4UVzgiiv298sHjERP) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Punorjonmo](https://open.spotify.com/album/0mIPFSHREKf2yXhgXPrImn) | 7:53 | 2022-06-16 |  |
-| [Purnata](https://open.spotify.com/track/1Hu5kkx4WAnpsmYJClkjQX) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/3OXzR6q3oubuiAm90kJAYI) | 5:59 | 2022-11-30 |  |
+| [Purnata](https://open.spotify.com/track/1Hu5kkx4WAnpsmYJClkjQX) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/3OXzR6q3oubuiAm90kJAYI) | 5:59 | 2022-11-30 | 2023-06-24 |
+| [Purnota](https://open.spotify.com/track/67RmLSjDk4AWMYUxn6J7R1) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ) | 5:59 | 2023-04-28 |  |
 | [Purono Bus](https://open.spotify.com/track/2oj9Iq1HGqsTMGN0EhZFjG) | [Chander Gari](https://open.spotify.com/artist/3x6rvgjqBoYI2RhFQJ3KNR), [Shahedur Rahman](https://open.spotify.com/artist/6gTOIkm9o7TcjatXNGE3ZM) | [Purono Bus](https://open.spotify.com/album/4wjRugr4HRbzuzetMnuIrB) | 4:14 | 2022-06-16 | 2023-01-21 |
 | [Purono Kahini](https://open.spotify.com/track/5EkI5AdIhs2DIBg3INGQpm) | [Golpo](https://open.spotify.com/artist/3VXEQjIIqL58DhPzvZMELO), [Saydur Rahman Nuhad](https://open.spotify.com/artist/1T9nSGIHlJ1bEeWX6aeqbA) | [Purono Kahini](https://open.spotify.com/album/4icX1B77Kvx6LJF2Lmlpr2) | 4:30 | 2022-06-16 | 2023-03-08 |
 | [Rahur Gras](https://open.spotify.com/track/2rUpghnKlHnoYIPRO6fTPD) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Onnosomoy](https://open.spotify.com/album/7s9Ssc1V7AgSdAlVpHl12E) | 7:31 | 2023-03-15 | 2023-04-04 |
 | [Rajahin Rajjo](https://open.spotify.com/track/2KKyBaB1weipFn0ztjUIzM) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Gorbo Bangladesh](https://open.spotify.com/album/0nAuXmUo9SZSLSgfeQdOfO) | 3:30 | 2023-03-07 |  |
 | [Rajkonna](https://open.spotify.com/track/1nry5tFhZzkCs3x28Bff7q) | [Raaz Hridoy](https://open.spotify.com/artist/3VlTqolpxQtbhqcr98zilo) | [Rajkonna](https://open.spotify.com/album/5e7Ah1MlTjAd7vq5FACCpb) | 4:48 | 2022-06-16 | 2023-02-18 |
 | [Relentless](https://open.spotify.com/track/1e15BIDZ6kuv7sByOm6M4B) | [Eida](https://open.spotify.com/artist/3qskfyIRwZtp6uIfj6OFcL) | [Relentless](https://open.spotify.com/album/77fnRNjsSV1Hj6FNuR6KXA) | 4:22 | 2022-06-16 | 2023-02-18 |
-| [Rupkotha](https://open.spotify.com/track/3GTo0Zn1308jwz2q2EwYEB) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/3OXzR6q3oubuiAm90kJAYI) | 6:37 | 2022-11-30 |  |
+| [Rupkotha](https://open.spotify.com/track/1RESTN39VEH6lAq8H1D2Ud) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ) | 6:37 | 2023-04-28 |  |
+| [Rupkotha](https://open.spotify.com/track/3GTo0Zn1308jwz2q2EwYEB) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/3OXzR6q3oubuiAm90kJAYI) | 6:37 | 2022-11-30 | 2023-06-24 |
 | [Sara Dao](https://open.spotify.com/track/3RAkhXpMoOHnjTD1ArtbH5) | [Srf Khan Shuvro](https://open.spotify.com/artist/3BfD90LHcVDe9UFHIV8Zru) | [Sara Dao](https://open.spotify.com/album/4W33xQm1otNMFG1o3dJ1of) | 4:17 | 2022-11-30 | 2023-02-18 |
 | [School](https://open.spotify.com/track/63gXEUNweGMKkvhfkSPMzL) | [Arbovirus](https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle) | [Bishesh Droshtobyo](https://open.spotify.com/album/42zNimPtaGN07Axu6kXFfG) | 4:19 | 2023-04-03 |  |
 | [Shaada Kaalo \- Duet](https://open.spotify.com/track/7vpct6bZGjlaEOfoj2i2s2) | [Upol](https://open.spotify.com/artist/5a64bWvgCyw1UErGhgGpQi), [Maher](https://open.spotify.com/artist/2rSCSZO0sjo7yLYKKNHcAr) | [Deep Nevar Age](https://open.spotify.com/album/4rVYJbmLaUSnoz8CnZUhyq) | 5:00 | 2023-02-17 | 2023-04-04 |

@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> it's scary hours...⛈️  cover: Lil' Kim
+> it's scary hours...⛈️  cover: Outkast
 
 246 songs - 16 hr 33 min
 

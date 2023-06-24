@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-473 songs - 1 day 11 hr 8 min
+474 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Enter The Machine](https://open.spotify.com/track/5R4hGpNiUxoDpKx1RLHvzL) | [Pantyraid](https://open.spotify.com/artist/2mdjjabTCK9Xknzl9hakW7) | [The Sauce](https://open.spotify.com/album/2Nw9bUOlJfxIc0gMKtO1yv) | 5:30 | 2022-02-17 |  |
 | [Envy](https://open.spotify.com/track/5C3Ou5adqCoNtsQ9LoC2cQ) | [Kaiju](https://open.spotify.com/artist/4mbZ3bklPWXRNZs35sYdcR), [Ft Jack Gates](https://open.spotify.com/artist/4AW8ZTIPSuHYOPvvUdkn6a) | [Seven Sins](https://open.spotify.com/album/6txOSgBXe10dhZxj8WNT6z) | 4:20 | 2022-02-17 | 2022-07-29 |
 | [Envy \(feat Ft Jack Gates\)](https://open.spotify.com/track/4fPrMSzViWb0G42wrE00Q7) | [Kaiju](https://open.spotify.com/artist/4mbZ3bklPWXRNZs35sYdcR), [Jack Gates](https://open.spotify.com/artist/2qYOYCIhF2RkyWeecvcenN) | [Seven Sins](https://open.spotify.com/album/1raRRApxXT7BxXvKYBUS89) | 4:20 | 2022-07-08 | 2022-07-30 |
-| [Everything We Stand For](https://open.spotify.com/track/15WWkNz6GxqbgDXeji1pop) | [TRG](https://open.spotify.com/artist/2fSp3m7bV2WoRqwoTGuoY5) | [The Sound of Supercharged](https://open.spotify.com/album/38o0dGnmxWaTLYge0qyDXw) | 5:31 | 2023-01-20 |  |
+| [Everything We Stand For](https://open.spotify.com/track/15WWkNz6GxqbgDXeji1pop) | [TRG](https://open.spotify.com/artist/2fSp3m7bV2WoRqwoTGuoY5) | [The Sound of Supercharged](https://open.spotify.com/album/38o0dGnmxWaTLYge0qyDXw) | 5:31 | 2023-01-20 | 2023-06-24 |
 | [Exodus](https://open.spotify.com/track/2Cb1haGR3iK22y3sARNdv3) | [Gnischrew](https://open.spotify.com/artist/75DC2mqH1RiOJTvTz5Jdde) | [Certified Organic 2, Pt\. 1](https://open.spotify.com/album/1N8AFS7TgkiFo2W119iTkQ) | 4:40 | 2022-02-17 | 2022-07-22 |
 | [Faded](https://open.spotify.com/track/3mjjqgdFp1GyznPsAhS3Q4) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN), [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0) | [Faded / Spear](https://open.spotify.com/album/5uQiS0pSr2O0hPwtzbMEl1) | 4:54 | 2022-02-17 | 2023-01-14 |
 | [False Angel](https://open.spotify.com/track/5yvNQcSjq21zPFBUaQvJvh) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [False Angel](https://open.spotify.com/album/5tkEv3Whh6Flic6jYKdqMA) | 3:31 | 2023-03-06 |  |
@@ -298,6 +298,7 @@
 | [Oxytocin \- Original](https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio) | [Myxed Up](https://open.spotify.com/artist/2mR4ZcnojwIngGlGGCeDma) | [Oxytocin](https://open.spotify.com/album/0ETitPaX7CspZoPHtrdSMb) | 4:33 | 2022-02-17 | 2022-11-30 |
 | [Paradisius](https://open.spotify.com/track/3Rbs2FjHW5RdpNW3mfdUm8) | [CJ Broad](https://open.spotify.com/artist/6KvQZNIPCsdqw8zLV2w4AV), [Oxidia](https://open.spotify.com/artist/6mFF0UJS77vtqd8RKYXTjK) | [Eventually](https://open.spotify.com/album/3330jVvbXSjdT8vlQx2zHf) | 5:05 | 2022-02-17 | 2022-04-09 |
 | [Parsley Tea](https://open.spotify.com/track/333rUt9ztQHYmwMjcS0CaB) | [DPRTNDRP](https://open.spotify.com/artist/1OsyLdBrbBzicSLMOKUUEH) | [Unshaken](https://open.spotify.com/album/5Cx5XQNyEIiajYz3qdhlun) | 4:13 | 2022-02-17 | 2022-07-28 |
+| [Perceiver](https://open.spotify.com/track/2HMXYPAtj8liB6ywImkELU) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [CODE RED EP](https://open.spotify.com/album/3m7ox4dJaPu8SjUtbuJDFj) | 3:27 | 2023-06-23 |  |
 | [Pistola](https://open.spotify.com/track/65ztgzqmVXzHqHQ7DuPMhT) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/7IqtStixf9Y4W529LVRxca) | 5:31 | 2022-07-08 | 2022-07-30 |
 | [Pistola](https://open.spotify.com/track/6OW0RWmKQUU6iq0lDWeetS) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/0ME2x6n9ni4PJ6nmPzjuu2) | 5:31 | 2022-02-17 | 2022-07-29 |
 | [Pon na' Dub](https://open.spotify.com/track/4Ae1SrLqXkPLfKyz0RTjLN) | [Elefant Doc](https://open.spotify.com/artist/7dvRx0LWsfGk57yBQP2jrP) | [Pressed Records \- Dub Compilation EP Vol 1](https://open.spotify.com/album/6CzRqZIgwX9nRgZ2uz6nEn) | 4:51 | 2022-02-17 |  |

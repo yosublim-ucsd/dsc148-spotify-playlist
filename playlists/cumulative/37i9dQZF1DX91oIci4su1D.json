@@ -68,6 +68,24 @@
     {
       "album": {
         "name": "Tranquility Base Vol. 1",
+        "url": "https://open.spotify.com/album/6KkjYQ6h1BIQE4LspVgQdh"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "500",
+      "url": "https://open.spotify.com/track/5OVymDEf9BbTC1JRniCjnh"
+    },
+    {
+      "album": {
+        "name": "Tranquility Base Vol. 1",
         "url": "https://open.spotify.com/album/5fC0IDTURADF9bMs3FqomK"
       },
       "artists": [
@@ -78,7 +96,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 166153,
       "name": "500",
       "url": "https://open.spotify.com/track/7JMxCKaCYx3JbKHCdhd5kH"
@@ -626,6 +644,24 @@
       "duration_ms": 188528,
       "name": "Amen",
       "url": "https://open.spotify.com/track/3i2qmRHQB0TNwQVm6OlIoS"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/4AwkZ6httoqZARnMrD0mX5"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/6DP833uQTkOYKG0cv2pTlk"
     },
     {
       "album": {
@@ -1260,6 +1296,24 @@
       "duration_ms": 210447,
       "name": "Be As One",
       "url": "https://open.spotify.com/track/6NOVQdyz96T7KSUvPTES80"
+    },
+    {
+      "album": {
+        "name": "Before It's Lost",
+        "url": "https://open.spotify.com/album/0ZBDI00xeHdv7ucud2UB1g"
+      },
+      "artists": [
+        {
+          "name": "Daxson",
+          "url": "https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Before It's Lost",
+      "url": "https://open.spotify.com/track/1Mx0yKQlPxXYtudlB4GqIP"
     },
     {
       "album": {
@@ -2474,6 +2528,24 @@
       "duration_ms": 237133,
       "name": "Colour Me",
       "url": "https://open.spotify.com/track/2WiW6RcpDaCivdk7cofdBA"
+    },
+    {
+      "album": {
+        "name": "Coming Home Again",
+        "url": "https://open.spotify.com/album/6CCnaL2CgbW89JVL7CvdKD"
+      },
+      "artists": [
+        {
+          "name": "Solar Vision",
+          "url": "https://open.spotify.com/artist/4wd6bczppl4mNXPyhg0HT4"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202964,
+      "name": "Coming Home Again",
+      "url": "https://open.spotify.com/track/4dpyt1bkbRDxY750vbw1sx"
     },
     {
       "album": {
@@ -4982,6 +5054,28 @@
       "duration_ms": 187830,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/15GR4iBiIxFHCGcjboymwR"
+    },
+    {
+      "album": {
+        "name": "Godspeed (Maria Healy Remix)",
+        "url": "https://open.spotify.com/album/68Ambon08jBvWVqU8ejNqQ"
+      },
+      "artists": [
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        },
+        {
+          "name": "Maria Healy",
+          "url": "https://open.spotify.com/artist/2BFFr1SrdrJwXm1Y1Wr4F3"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209979,
+      "name": "Godspeed - Maria Healy Remix",
+      "url": "https://open.spotify.com/track/1Erb3tO63KSRdMgELwjrYf"
     },
     {
       "album": {
@@ -7936,6 +8030,32 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "album": {
+        "name": "Miracle (with Ellie Goulding) [Remixes]",
+        "url": "https://open.spotify.com/album/1dA4WEViR1fXqlM2eAUQab"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319720,
+      "name": "Miracle (with Ellie Goulding) - Ben Nicky Extended Remix",
+      "url": "https://open.spotify.com/track/0FPYgYDpOuWU1Hbrw3tvon"
     },
     {
       "album": {
@@ -10991,6 +11111,24 @@
     },
     {
       "album": {
+        "name": "Solar Express",
+        "url": "https://open.spotify.com/album/3XrL5H1EgXKnRsGcn38Z34"
+      },
+      "artists": [
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Solar Express",
+      "url": "https://open.spotify.com/track/6ttxvrDLx2B9v38AFZt9aE"
+    },
+    {
+      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/4lifylA3syQNEDcMBBnLXc"
       },
@@ -13659,6 +13797,32 @@
     },
     {
       "album": {
+        "name": "Where The River Meets The Sea",
+        "url": "https://open.spotify.com/album/692DpAIqVkHKTIShc8RxkE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Chou",
+          "url": "https://open.spotify.com/artist/6btaXnQC9Dn7HpqVderpBh"
+        },
+        {
+          "name": "Saphron",
+          "url": "https://open.spotify.com/artist/22qBHVRKKdZZURzAL4QGUZ"
+        },
+        {
+          "name": "Hardcode",
+          "url": "https://open.spotify.com/artist/31DfphJBdyA0ZrWd1MWebu"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "Where The River Meets The Sea",
+      "url": "https://open.spotify.com/track/0XUBuOYLS1ZCaW84eIUk3O"
+    },
+    {
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/2cUghzIZ353MTKTbrRsPac"
       },
@@ -13920,6 +14084,28 @@
       "duration_ms": 255652,
       "name": "You and I",
       "url": "https://open.spotify.com/track/45PhxB0L21PoxYjMLruBCe"
+    },
+    {
+      "album": {
+        "name": "you brok me first (edit) [XiJaro & Pitch Remix]",
+        "url": "https://open.spotify.com/album/635AMftd7i92nnCOIX5Dse"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "XiJaro & Pitch",
+          "url": "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169116,
+      "name": "you brok me first (edit) - XiJaro & Pitch Remix",
+      "url": "https://open.spotify.com/track/3mivCx58qsgZszezCkvmcp"
     },
     {
       "album": {

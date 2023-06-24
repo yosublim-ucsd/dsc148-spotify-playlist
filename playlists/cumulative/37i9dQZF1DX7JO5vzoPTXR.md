@@ -4,7 +4,7 @@
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:63yrD80RY3RNEM2YDpUpO8">Melanie Martinez</a>
 
-624 songs - 1 day 10 hr 27 min
+625 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Crystal Clear](https://open.spotify.com/track/7EJZ0Vf9K7b0d8jNq0C3zV) | [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [Crystal Clear](https://open.spotify.com/album/1aegXvcv0ujElqAmhh7xO0) | 3:12 | 2022-01-05 | 2022-07-07 |
 | [CRZY](https://open.spotify.com/track/6Dwtha2FtZFoMEBh5GR2sq) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:11 | 2022-02-02 | 2023-01-05 |
 | [CU L8R](https://open.spotify.com/track/2k3v2UvufG3UV7QH3Q8jwG) | [TAY](https://open.spotify.com/artist/124brnNKXdM8FFxZuRhV30) | [modern talk](https://open.spotify.com/album/4hkfqWBX93dESnGXxHNEHd) | 3:18 | 2021-12-08 | 2022-01-06 |
-| [Cute](https://open.spotify.com/track/2f2OQavOesTjuHypoXO5iz) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Cute](https://open.spotify.com/album/36b2oX1CU6uNI1UkzdgbYs) | 2:30 | 2023-06-07 |  |
+| [Cute](https://open.spotify.com/track/2f2OQavOesTjuHypoXO5iz) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Cute](https://open.spotify.com/album/36b2oX1CU6uNI1UkzdgbYs) | 2:30 | 2023-06-07 | 2023-06-24 |
+| [Cute](https://open.spotify.com/track/5HJMk6YC3G3nNkTxak0MRd) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Dear Diary \(Deluxe\)](https://open.spotify.com/album/5X2ftGdNX9p4ih4N9rKbEu) | 2:30 | 2023-06-07 |  |
 | [Cute & Cruel \(feat\. First Aid Kit\)](https://open.spotify.com/track/3DINd29wTWdZEiH7JS0G0W) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:00 | 2022-11-09 | 2022-12-01 |
 | [dance around](https://open.spotify.com/track/0E2qrXXGhi6Aje9Dxx4BG2) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/0bgCvlryOs9JHw0alDKqdS) | 2:27 | 2022-10-05 | 2022-11-10 |
 | [dance around](https://open.spotify.com/track/48CrjgOJbefsqOMuUgGIdf) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:27 | 2022-10-05 | 2022-10-14 |

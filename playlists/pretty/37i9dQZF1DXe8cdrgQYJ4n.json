@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 13361,
+  "num_followers": 13377,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDhmOWExMmU0MWVkNjBlNGQ5OWI5MDE5ZTU0ZjZhOTViZDViYTFj",
+  "snapshot_id": "MCw5NTdjYzQ5ZDM2MmUyYzQyZDNiNTNjOTZlNDE1MGE3OGJiOGIzNzQ5",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:36",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-06-13 08:58:36",
       "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 217595,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
+    },
+    {
+      "added_at": "2023-06-13 08:58:36",
+      "album": {
         "name": "future island",
         "url": "https://open.spotify.com/album/04fT73y4aHKXHuFmZN63mN"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 180987,
       "name": "STUPID (feat. 2SO)",
       "url": "https://open.spotify.com/track/2JTOCHcDI9uDS08dIpN1SY"
-    },
-    {
-      "added_at": "2023-06-13 08:58:36",
-      "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 217595,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
     },
     {
       "added_at": "2023-06-13 08:58:36",

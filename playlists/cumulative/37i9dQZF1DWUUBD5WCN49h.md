@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA?si=GYzY\-qD7QNOnzqWnz6bMKw"> Taves </a>
 
-448 songs - 22 hr 7 min
+449 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Addicted](https://open.spotify.com/track/1L2WtJL0cZQFWWl0JvXWhK) | [Josh Dre](https://open.spotify.com/artist/03764xHwcDofSPmUTP3LK6) | [Addicted](https://open.spotify.com/album/5wIsI33BxVQC0bJFfETjR6) | 3:41 | 2022-12-02 | 2023-02-11 |
 | [Addicted](https://open.spotify.com/track/0sBGPSNKWP1a8DUHbgkGeS) | [YungAce](https://open.spotify.com/artist/2wyVEXXTxGKgx6fZYReUzO) | [Addicted](https://open.spotify.com/album/7kKLblSvwgfS78ZSir4pUo) | 2:24 | 2023-02-10 | 2023-02-24 |
 | [Again](https://open.spotify.com/track/6zDZvJJRxofaA7c9ombPIH) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Again](https://open.spotify.com/album/0FbNfX2DcyFNvgrSe0ZLba) | 3:04 | 2023-03-10 |  |
+| [All I See](https://open.spotify.com/track/5sjtgoS0S1aCzARhyCDWjR) | [Bryant EDT](https://open.spotify.com/artist/70B605jj3MrgH5bxdGD7Or) | [All I See \(Alternate Verisons\)](https://open.spotify.com/album/0WYegk86ZiH5suKPVVvwnR) | 1:58 | 2023-06-22 |  |
 | [All me want](https://open.spotify.com/track/7adgAmDZIKq3qfEEty0xD4) | [Badman Dafe](https://open.spotify.com/artist/1aSWLzulwEXGJ6fkx6N4o3) | [All me want](https://open.spotify.com/album/6jvig8XxQpR6CiA44lASt4) | 2:21 | 2023-04-28 | 2023-05-12 |
 | [All Over You](https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [All Over You / Mon Bébé](https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0) | 2:20 | 2023-06-02 |  |
 | [Alone](https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Alone](https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg) | 2:46 | 2022-06-30 | 2022-12-09 |

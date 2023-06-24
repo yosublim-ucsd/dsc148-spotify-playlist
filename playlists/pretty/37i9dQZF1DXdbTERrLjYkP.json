@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Hunter Daily",
-  "num_followers": 83793,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Meg Smith",
+  "num_followers": 83798,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGZiOGQ3NmJkNzhkNjQwMzQ2NzhmNmU0N2EzYzZjNTdjM2E1ZTZh",
+  "snapshot_id": "MCw4MTFjMzk3OTQ5N2Y3MTgxMjI2ZTgyZmVmZjczMDNmZDgzZTZiMDA4",
   "tracks": [
+    {
+      "added_at": "2023-06-23 04:53:57",
+      "album": {
+        "name": "Joni",
+        "url": "https://open.spotify.com/album/0HvAo553wbaQJCMuyeZVgr"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 230703,
+      "name": "Joni",
+      "url": "https://open.spotify.com/track/1UDFP4KgbKTu0XniQImZfq"
+    },
     {
       "added_at": "2023-06-12 16:15:12",
       "album": {
@@ -27,6 +43,22 @@
       "duration_ms": 172712,
       "name": "Age Of Depression",
       "url": "https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2"
+    },
+    {
+      "added_at": "2023-06-23 04:53:57",
+      "album": {
+        "name": "5 Songs for Healing",
+        "url": "https://open.spotify.com/album/6g1hvq78JReIjSIZZCNHLN"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 199300,
+      "name": "I Should Just Go To Bed",
+      "url": "https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O"
     },
     {
       "added_at": "2023-06-12 16:15:12",
@@ -109,6 +141,22 @@
       "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
     },
     {
+      "added_at": "2023-06-23 04:53:57",
+      "album": {
+        "name": "A Bowl of Unripe Fruit",
+        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 202686,
+      "name": "A Bowl of Unripe Fruit",
+      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Big Dumb Heart, Chapter 1",
@@ -123,6 +171,22 @@
       "duration_ms": 230653,
       "name": "She's There",
       "url": "https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA"
+    },
+    {
+      "added_at": "2023-06-23 04:53:57",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/0QTeJJR2WXrNd07TUbbhql"
+      },
+      "artists": [
+        {
+          "name": "Grey Zeigler",
+          "url": "https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI"
+        }
+      ],
+      "duration_ms": 177313,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5sEuodPxtfU0JZOxOQSnIy"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -171,22 +235,6 @@
       "duration_ms": 166051,
       "name": "I Wanna Love Me",
       "url": "https://open.spotify.com/track/51TKMs2c7yIXWPxakttfUQ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/6E7of8enDnsOuZVFD0oYmK"
-      },
-      "artists": [
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
-        }
-      ],
-      "duration_ms": 206597,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/2OaQb7rx7kkbeDU48ImPyy"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -575,22 +623,6 @@
       "duration_ms": 224940,
       "name": "in my head",
       "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "breakup with a friend",
-        "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "breakup with a friend",
-      "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1075,22 +1107,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "flounder",
-        "url": "https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "promised",
-      "url": "https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Love Fools",
         "url": "https://open.spotify.com/album/4G6BxhKzRTYG7ftX48BY9f"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 270527,
       "name": "3 Months",
       "url": "https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Cautiously Optimistic",
-        "url": "https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 145674,
-      "name": "Cautiously Optimistic",
-      "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
     },
     {
       "added_at": "2023-06-02 04:00:00",

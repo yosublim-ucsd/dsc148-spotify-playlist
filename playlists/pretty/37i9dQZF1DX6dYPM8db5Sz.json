@@ -1,12 +1,12 @@
 {
   "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB?si=T5gwpdDoS6CXedMMets1sQ\">Nasrene</a> ",
-  "num_followers": 6293,
+  "num_followers": 6299,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWY3ZTJjYzYwZDg1YTkxZWQ2M2U1YTgyNzUxODBjMTk3YTQ0MTRi",
+  "snapshot_id": "MCxhMDBjZDZmYWMxMDJjMTMxN2I3MzNhZDQyYmY5YmJjNjMxMWZkNGY2",
   "tracks": [
     {
       "added_at": "2023-06-22 21:59:00",
@@ -108,7 +108,7 @@
       "added_at": "2023-06-22 21:59:00",
       "album": {
         "name": "Unknown / Nth",
-        "url": "https://open.spotify.com/album/1VNpBzbjtkEhAwa3vGelHP"
+        "url": "https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj"
       },
       "artists": [
         {
@@ -118,7 +118,7 @@
       ],
       "duration_ms": 280106,
       "name": "Unknown / Nth",
-      "url": "https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj"
+      "url": "https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh"
     },
     {
       "added_at": "2023-06-15 21:59:00",
@@ -199,6 +199,22 @@
       "duration_ms": 147716,
       "name": "do you remember",
       "url": "https://open.spotify.com/track/6KJhZ4BtNLf3CltLYF6iaT"
+    },
+    {
+      "added_at": "2023-06-22 21:59:00",
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/5hn6dLSrvICNwLyHrLY2gw"
+      },
+      "artists": [
+        {
+          "name": "TIMMS",
+          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+        }
+      ],
+      "duration_ms": 146870,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/4q7Ta95N485EjD1fPXOkZ7"
     },
     {
       "added_at": "2023-06-15 21:59:00",

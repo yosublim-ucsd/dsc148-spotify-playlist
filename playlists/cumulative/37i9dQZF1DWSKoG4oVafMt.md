@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-755 songs - 1 day 16 hr 57 min
+757 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Dream](https://open.spotify.com/track/1qbD2xTTBGif2ki4D5Po7P) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Dream](https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n) | 3:35 | 2022-03-25 | 2022-05-20 |
 | [Dreams](https://open.spotify.com/track/6Ghvb6ELWbMh3b0G8IMHuV) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Medhavini](https://open.spotify.com/artist/4fGzJLb60423e3BJn1BEJJ) | [Dreams](https://open.spotify.com/album/5AVJ4YMpAWgq9fLtcFdgWd) | 2:43 | 2022-02-15 | 2022-04-06 |
 | [Dreams Unfold](https://open.spotify.com/track/046srpP68Vu1evgrTPEQOU) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Dreams Unfold](https://open.spotify.com/album/6Gqu6tiY8zJPtgaXHBwSwZ) | 3:13 | 2022-02-14 | 2023-02-04 |
+| [Dua](https://open.spotify.com/track/37A483vclJKTTsZpXc7uRo) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i) | [The Last Good Album](https://open.spotify.com/album/5VIBDz0S6RFTFbTw8GTwKS) | 4:59 | 2023-06-23 |  |
 | [Dua Karo](https://open.spotify.com/track/4PNmQiHQPKVw0avwQEfbQe) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Dua Karo](https://open.spotify.com/album/2WBGvXVpgQUfswXZbxI8t1) | 3:45 | 2022-11-25 | 2023-02-02 |
 | [Dua Mangdi](https://open.spotify.com/track/0cMx4Mk2g47IvinNJEIWbB) | [Karan Dhillon](https://open.spotify.com/artist/7hmEpCcjK4KFhb7zjEt6LJ), [Nick Dhammu](https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e) | [Dua Mangdi](https://open.spotify.com/album/4indLUuIZjVgHQ6vtgD5s8) | 3:07 | 2022-02-08 | 2022-02-12 |
 | [Duawan](https://open.spotify.com/track/6B3Ky26cKgdW3bsqarkmX0) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5) | [Duawan](https://open.spotify.com/album/4WVcXIgE0dPcBZIGpiyFQI) | 3:32 | 2022-10-14 | 2022-12-16 |
@@ -632,6 +633,7 @@
 | [Stalk](https://open.spotify.com/track/4Yh6MCJEnplgYz9Ywj20oK) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Stalk](https://open.spotify.com/album/1ZUIGjIgI9oaFMTy5jjQid) | 2:17 | 2022-03-18 | 2022-05-20 |
 | [Starlight](https://open.spotify.com/track/582UWRGnIOVDggh2y8GAjc) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Starlight](https://open.spotify.com/album/6iQPuXW239eSe42INuWF8z) | 2:52 | 2022-01-17 | 2022-02-12 |
 | [Stella](https://open.spotify.com/track/4uVMeiBR4lPTfl7NM1QNAX) | [Kamal Dua](https://open.spotify.com/artist/2JcFAugRuL87wpOT1haKrD) | [Stella](https://open.spotify.com/album/5TsgrpZN6Shq52EkbbS39q) | 3:28 | 2022-01-22 | 2022-03-11 |
+| [Still](https://open.spotify.com/track/5WnE7JNO0HYILXMCl0OOO2) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Still](https://open.spotify.com/album/0JZE0Bs194zOX4iwYeiDkX) | 3:36 | 2023-06-23 |  |
 | [Storiyan](https://open.spotify.com/track/5AnYiIOxQVCweiykN7KqES) | [Sunny Mehra](https://open.spotify.com/artist/6jCryAgpEelVCGHCbxRoTS), [Robby Beats](https://open.spotify.com/artist/2BVRxobqe5PI7QCpK7CzH7) | [Storiyan](https://open.spotify.com/album/2AYyhkWWKryC0s06tvhzwR) | 3:18 | 2022-12-23 | 2023-02-02 |
 | [Straight Forward](https://open.spotify.com/track/12PQrHIHBYHz6CqDzRS6Ot) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Straight Forward](https://open.spotify.com/album/3O0QPqMcrOw7SalZBuBIjQ) | 3:15 | 2022-07-28 | 2022-09-23 |
 | [Straight Forward](https://open.spotify.com/track/2bpKRLiSsAW4jWBZ8pLKt8) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Straight Forward](https://open.spotify.com/album/2tzKmPJ72cXuUz6tcV9Tf5) | 3:15 | 2022-07-22 | 2022-07-29 |

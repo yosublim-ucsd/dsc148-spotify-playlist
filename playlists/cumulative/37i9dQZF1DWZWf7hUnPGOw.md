@@ -4,7 +4,7 @@
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-213 songs - 13 hr 1 min
+214 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [World Spins Madly On](https://open.spotify.com/track/0bAM9qivrntXnHyklRRx39) | [The Weepies](https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5), [Deb Talan](https://open.spotify.com/artist/7tFFagB7kjwoCTP3QMlzJD), [Steve Tannen](https://open.spotify.com/artist/6vvDymlJBME7J2SPsyY3td) | [Say I Am You](https://open.spotify.com/album/0ZF4upbGbPnqw6JApHiHQ1) | 2:45 | 2022-07-22 | 2022-07-29 |
 | [World Spins Madly On](https://open.spotify.com/track/6NSlOEEtWlqvEFrjQsry77) | [The Weepies](https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5), [Deb Talan](https://open.spotify.com/artist/7tFFagB7kjwoCTP3QMlzJD), [Steve Tannen](https://open.spotify.com/artist/6vvDymlJBME7J2SPsyY3td) | [Say I Am You](https://open.spotify.com/album/17YOU9hgAgAOmjAFEimg1w) | 2:45 | 2022-07-22 |  |
 | [Wound](https://open.spotify.com/track/2bNTZTod1rwIHUpejmQTqG) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Wound](https://open.spotify.com/album/2iRJuWghMI2wfSHceD9QeD) | 3:42 | 2022-07-22 |  |
-| [You Are a Memory](https://open.spotify.com/track/5cWSpmTfItDuppACMrE3I9) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Maps](https://open.spotify.com/album/13fSrslfho3Hi0ZGzEdYoI) | 3:41 | 2022-07-22 |  |
+| [You Are a Memory](https://open.spotify.com/track/49fDs1J7JqHlUo6HbX2qJ5) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Maps](https://open.spotify.com/album/7AtDa1mVEmLO2TTAackHv3) | 3:41 | 2022-07-22 |  |
+| [You Are a Memory](https://open.spotify.com/track/5cWSpmTfItDuppACMrE3I9) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Maps](https://open.spotify.com/album/13fSrslfho3Hi0ZGzEdYoI) | 3:41 | 2022-07-22 | 2023-06-24 |
 | [You Will Be Loved](https://open.spotify.com/track/22Z5cIZuRsO7HOYmrmOoYZ) | [Sounding Arrow](https://open.spotify.com/artist/1NsbPxBRY1cYkn0cqcxkqv) | [Loving Is Breathing](https://open.spotify.com/album/3Oi2YStTUttHxi5ms89xCm) | 3:33 | 2022-07-22 |  |
 | [You?](https://open.spotify.com/track/7aW115ZGsZcA0Y2HQxiUIU) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Pink](https://open.spotify.com/album/3gk5LmXVewb5mo4FWHuZI6) | 2:49 | 2022-07-22 |  |
 | [Your Head and Your Heart](https://open.spotify.com/track/5TnBkq3WcM6BxzOvwVJygT) | [The Saint Johns](https://open.spotify.com/artist/3tdY20WqCriinEyudhu6r4) | [Open Water EP](https://open.spotify.com/album/5lf9fjEos2LDxn9e7zK4wy) | 4:32 | 2022-07-22 |  |

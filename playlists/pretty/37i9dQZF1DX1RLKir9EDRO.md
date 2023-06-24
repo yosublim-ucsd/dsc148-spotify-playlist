@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Bulutlar  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,361 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,345 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 65 | [Çoktan Alev Almıştım](https://open.spotify.com/track/1zJjfbo4o8qRqkgA2M5Git) | [Radyasyon Bulutları](https://open.spotify.com/artist/5tzuC4sXK9SYFFMEMXxwIE) | [Çoktan Alev Almıştım](https://open.spotify.com/album/29mArhBve4cqnyDrpFzf4B) | 4:02 |
 | 66 | [Seninleyim Aslında](https://open.spotify.com/track/4Nl1lmMye40zLFORAq1aUF) | [Ege Çakır](https://open.spotify.com/artist/2zAK9cWUN8CDLvrK4Ca9oG) | [Seninleyim Aslında](https://open.spotify.com/album/6L4O3iT2VMUqXQRWjdmiTa) | 3:07 |
 | 67 | [Uyandım Rüyalara](https://open.spotify.com/track/1vWE0GPuVSFu5yRGhPNqIk) | [Mustafa Uzun](https://open.spotify.com/artist/7mceZzVE0wNqj31rayA5Ab) | [Uyandım Rüyalara](https://open.spotify.com/album/3GK21UEJMlYVPpGGQVczzj) | 2:10 |
-| 68 | [Gerçeğin En Sert Tonu](https://open.spotify.com/track/7bVPRuW29YGFrzLm5drgE4) | [Batu](https://open.spotify.com/artist/7vdtfmzMDEeIAJFyOCrVIi) | [Gerçeğin En Sert Tonu](https://open.spotify.com/album/4BUzpmFQ9PucgLGat3a19K) | 4:10 |
+| 68 | [Gerçeğin En Sert Tonu](https://open.spotify.com/track/7bVPRuW29YGFrzLm5drgE4) | [Batuhan Ayduğan](https://open.spotify.com/artist/5Wnv2TFD2dXGKESlyjvZlB) | [Gerçeğin En Sert Tonu](https://open.spotify.com/album/4BUzpmFQ9PucgLGat3a19K) | 4:10 |
 | 69 | [Hayalet](https://open.spotify.com/track/4wrNOh6gyFxr4mF6uMebE4) | [Berk Uçar](https://open.spotify.com/artist/1ZbJNjbClrxLy2nayQOIj1) | [Hayalet](https://open.spotify.com/album/74bIgogWlSQ66gb0sogxy8) | 2:51 |
 | 70 | [Robo X1](https://open.spotify.com/track/3QG0D5YCQyPlTaWuRBjqoo) | [Bi Android](https://open.spotify.com/artist/0BgsrRUkYK2zLFRiDagUgG) | [Robo X1](https://open.spotify.com/album/2apXyfw91cXoGoHcuaK1sp) | 6:38 |
 | 71 | [dünyadaki tek kız sensin](https://open.spotify.com/track/71LptqKJTRGrcI5oYoP4OI) | [randova](https://open.spotify.com/artist/78hRvcGcI0TNiG5UkX2VqC) | [dünyadaki tek kız sensin](https://open.spotify.com/album/743Yhhb9kl33E8DL2tWBuE) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Yalnız Kalp](https://open.spotify.com/track/5z59q3cc83RZg10UTFkP1c) | [Başak Çalık](https://open.spotify.com/artist/7rmp4C7dbpPmlf3Uyt4rAm) | [Yalnız Kalp](https://open.spotify.com/album/4kd4kTictkNvos8A50MRg1) | 4:21 |
 | 75 | [Kuşat İçimi](https://open.spotify.com/track/3A5Rfhp00HX4r4RiMgkhCp) | [Gökhan Bayındır](https://open.spotify.com/artist/0JKjrjf9BmI7a5hI1ckUg0) | [Kuşat İçimi](https://open.spotify.com/album/6rVsYZmaZ6yOarutpHaTTw) | 4:18 |
 
-Snapshot ID: `MCxkNWRiNjUwMmU0NGZjYTg5YThiYzQ5MDYxMWY1NzI5NDEzZThiYTEx`
+Snapshot ID: `MCwwYmUyYzhiZDYwMjA2MTE5YTAyZDQxMjljNDkwN2Y4MWIyNzAyMjEy`

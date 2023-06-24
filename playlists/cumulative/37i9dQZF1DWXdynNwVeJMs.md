@@ -2,9 +2,9 @@
 
 ### [Belgo\-Jazz](https://open.spotify.com/playlist/37i9dQZF1DWXdynNwVeJMs)
 
-> Listen to the finest Jazz made in Belgium\. Cover: ECHT!
+> Listen to the finest Jazz made in Belgium\. Cover: John Ghost
 
-174 songs - 14 hr 44 min
+178 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dag Na Naamdag](https://open.spotify.com/track/5HGH0McByz0hX2JCnY70iu) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Dag Na Naamdag](https://open.spotify.com/album/7fsFzSqZ6awZxuoWgS8Byw) | 4:45 | 2022-12-06 | 2023-01-07 |
 | [Dag Na Naamdag](https://open.spotify.com/track/5exLlipto9rztxYRRZxdJS) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 4:45 | 2022-12-16 | 2023-01-29 |
 | [Dag Na Naamdag](https://open.spotify.com/track/6sF5HnGQraBYRwZLsTJQG7) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Coaxial](https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6) | 4:45 | 2023-01-19 |  |
+| [Daisy](https://open.spotify.com/track/5hNy2QnFPoxrp6vytjSTrH) | [Camille\-Alban Spreng's Odil](https://open.spotify.com/artist/5xSgdrNqegJ83NoGBlm1GZ), [Nina Kortekaas](https://open.spotify.com/artist/2X4mzpmisX5th9ZSx74VlS) | [Daisy](https://open.spotify.com/album/7aAXE0dkNtCZoif0xLuRx6) | 4:20 | 2023-06-23 |  |
 | [Dance Around Bullets](https://open.spotify.com/track/0GcI5TyFE4U1ChPIvKmWnH) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Dance Around Bullets](https://open.spotify.com/album/3ygEejH0fJ962lx8mVtpOy) | 5:21 | 2022-09-08 | 2023-04-06 |
 | [Dark Days](https://open.spotify.com/track/05spsFQqhEvEUcfIxf5Ewp) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Dark Days](https://open.spotify.com/album/3CLAV70LJPGP4OZhyTdmyb) | 5:46 | 2022-09-08 | 2023-04-14 |
 | [Deep Dive Down](https://open.spotify.com/track/7JI4thi0ETxiNzVPlBAZXg) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [Magma](https://open.spotify.com/album/28VtIxXxSnHaQFKCnKN0P5) | 7:27 | 2022-09-08 |  |
@@ -62,10 +63,10 @@
 | [Disfunctional Rabbits: The Disfunction](https://open.spotify.com/track/32RxuwW4RiM0d5TL3NmKmW) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [Airships Are Organisms](https://open.spotify.com/album/3siYOyXZlpCX1dZaMGaBK0) | 5:20 | 2022-09-08 | 2023-04-06 |
 | [Dof](https://open.spotify.com/track/0oFOGlKhiHKmJQAGao424D) | [The Milk Factory](https://open.spotify.com/artist/0wC564zQY4BubuRD9OXXYe) | [The Milk Factory \- EP](https://open.spotify.com/album/3fsTxYQQxCyq730yBNMKZy) | 4:31 | 2022-09-08 | 2023-02-24 |
 | [Dolmuş](https://open.spotify.com/track/4zISl7UaVHs68agKCD0mQx) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Ekera EP](https://open.spotify.com/album/1pejB5j0hRJdIeenNSHiAX) | 5:52 | 2022-09-08 | 2023-02-24 |
-| [Drops](https://open.spotify.com/track/3awFJqol6x36gdU7I0p8vw) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Maxime Delpierre](https://open.spotify.com/artist/7IHLrjSlSFup9A50WSJkRO) | [Drops & Points](https://open.spotify.com/album/2KKXVzr8i0J2oGKFMvKz60) | 5:33 | 2022-09-08 |  |
+| [Drops](https://open.spotify.com/track/3awFJqol6x36gdU7I0p8vw) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Maxime Delpierre](https://open.spotify.com/artist/7IHLrjSlSFup9A50WSJkRO) | [Drops & Points](https://open.spotify.com/album/2KKXVzr8i0J2oGKFMvKz60) | 5:33 | 2022-09-08 | 2023-06-24 |
 | [Fair Enough](https://open.spotify.com/track/3JCgJv9obC3FmP0uyrDlEr) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 3:56 | 2023-04-13 |  |
 | [Final Curtain Call](https://open.spotify.com/track/66NducW8qYmayPWnPJ8WmP) | [Jef Neve](https://open.spotify.com/artist/5drkbPiwHU6Kzh1wzYwMAl) | [Final Curtain Call](https://open.spotify.com/album/5Fo6ik6xr82bmL8ugtsz22) | 6:05 | 2022-09-08 |  |
-| [Flare](https://open.spotify.com/track/013xG5YMtNTe3CkHMloZMs) | [Flying Horseman](https://open.spotify.com/artist/27ZqgAuCnyX8PjNb9CHJP4) | [Flare](https://open.spotify.com/album/5PbZTfsTo3sUZ3hFIgbsZD) | 4:46 | 2022-09-08 |  |
+| [Flare](https://open.spotify.com/track/013xG5YMtNTe3CkHMloZMs) | [Flying Horseman](https://open.spotify.com/artist/27ZqgAuCnyX8PjNb9CHJP4) | [Flare](https://open.spotify.com/album/5PbZTfsTo3sUZ3hFIgbsZD) | 4:46 | 2022-09-08 | 2023-06-24 |
 | [Future Flora](https://open.spotify.com/track/7vNFSztgOnpeOgPhWEbiU1) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [Future Flora](https://open.spotify.com/album/2ON7c80IGfMp45NUAPZDIK) | 13:22 | 2022-09-08 | 2023-02-24 |
 | [galet](https://open.spotify.com/track/61iJHseE92EV2mXzFHWZ1n) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Urban Detox EP](https://open.spotify.com/album/5btzM3N10I3GvOPKTf9kdA) | 3:46 | 2022-09-08 | 2022-12-17 |
 | [Gentse Leugentjes](https://open.spotify.com/track/3p0GOH8SUICpgPLKUYffze) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 5:30 | 2022-09-08 |  |
@@ -84,6 +85,7 @@
 | [Lambda](https://open.spotify.com/track/2RpAIod9HRKhrTWd7bv1QU) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [The New Lady Llama](https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm) | 2:37 | 2022-09-15 | 2023-04-06 |
 | [Lambda](https://open.spotify.com/track/4Q0ndfrABOZ9OfaqMqLkf2) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Lambda](https://open.spotify.com/album/15CHatpLTNDCNRrjc9cXm6) | 2:37 | 2022-09-08 | 2022-09-25 |
 | [Last Dance](https://open.spotify.com/track/5AHYdlkvXQ4Lae83JZDm7K) | [Otto Kintet](https://open.spotify.com/artist/27CCZtAURerCD9yhrcJ3KE) | [Pico](https://open.spotify.com/album/5lZ2Y0VqVwjvxivPHlEYst) | 6:15 | 2022-09-08 |  |
+| [Little Steps](https://open.spotify.com/track/20yGgGMyNJDELJk7nsJMRT) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Little Steps](https://open.spotify.com/album/0f7crbBu4TBbLOe91XHQVW) | 5:11 | 2023-06-23 |  |
 | [Lotus](https://open.spotify.com/track/66vGTK42BwvBUNV97qlYkt) | [Teun Verbruggen](https://open.spotify.com/artist/2eMZsuJlUdllW1yrtGWNDA), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Nathan Wouters](https://open.spotify.com/artist/6aF2zTGGmfSLFRms6tXsRT), [Bram de Looze](https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG), [André Fernandes](https://open.spotify.com/artist/7bz7PGWzFOOl05qVo6EXU2) | [Chasing Penguins](https://open.spotify.com/album/4sISBgndNpI66M1LUs2CwF) | 6:15 | 2022-09-08 | 2023-04-06 |
 | [Macadam](https://open.spotify.com/track/04KWVisYgJMlhO2iGRC162) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [MACADAM](https://open.spotify.com/album/0MmXLzMi3nrfO0lec3drjK) | 3:10 | 2023-04-06 |  |
 | [Mammoet](https://open.spotify.com/track/52rTIOyqlAOiRPFMbyewUb) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou](https://open.spotify.com/artist/1BwV1xO6KyJBmdx87xcJ08) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 8:55 | 2022-10-20 |  |
@@ -119,7 +121,7 @@
 | [Pajo](https://open.spotify.com/track/27hWUgRmRzZXK4xpWhdhAj) | [Super Gum](https://open.spotify.com/artist/6PscJJheK9Sic9olDY2S6J) | [Pajo](https://open.spotify.com/album/73rgmLL4GgY3IgT6wdRw9a) | 5:58 | 2023-04-27 |  |
 | [Paljas](https://open.spotify.com/track/3DoLySSn6cpIBUgYcImbeQ) | [KVR](https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo) | [Spam vol.1](https://open.spotify.com/album/32kUn5j1n7MfSBNAXV6zUy) | 7:10 | 2023-05-18 |  |
 | [Palm](https://open.spotify.com/track/38ziPejDZl6scCf5FpX5pt) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [6](https://open.spotify.com/album/1blPxSk5fILBbLVUdaXu53) | 7:35 | 2022-09-29 |  |
-| [Pathetic Sounds](https://open.spotify.com/track/38WUEUXFXHOcCX0tjfESAW) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 3:59 | 2022-09-08 |  |
+| [Pathetic Sounds](https://open.spotify.com/track/38WUEUXFXHOcCX0tjfESAW) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 3:59 | 2022-09-08 | 2023-06-24 |
 | [Photonic](https://open.spotify.com/track/67pi7bVSEkbbJJUF7e18Kc) | [H A S T](https://open.spotify.com/artist/17uBeZave65bCISY0fRqZV) | [Ubi Sunt](https://open.spotify.com/album/429T2lTpq7WJOWcUKlxvQW) | 3:32 | 2023-03-16 |  |
 | [Photonic](https://open.spotify.com/track/5R0GSuk5hmDMm7Nqqq6eoP) | [H A S T](https://open.spotify.com/artist/6Yfns5pZJVZxf6hn1gM3AZ) | [Photonic](https://open.spotify.com/album/2CWuZRmCPkN33i2dVZcb7M) | 3:33 | 2022-09-08 | 2023-03-19 |
 | [Pickles](https://open.spotify.com/track/4Lu7Igq9s2nQ0af1RGqNfo) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Mixmaster Menno](https://open.spotify.com/artist/11sBV4HVBIdqHEV8oMOQIS) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 5:03 | 2022-12-06 |  |
@@ -130,7 +132,7 @@
 | [Quanked](https://open.spotify.com/track/4ScsbA64TjlH2szHkAW8Kz) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:02 | 2022-10-07 |  |
 | [Rake](https://open.spotify.com/track/4Zg32wHgWeBMfuuxNEBJea) | [Bert Dockx](https://open.spotify.com/artist/0nD5LTV5BZ6Dl7BbjGpHv1) | [Transit](https://open.spotify.com/album/58J5Tg7SnhkUcJsweg8xE0) | 6:13 | 2022-09-08 | 2023-02-24 |
 | [Reflet](https://open.spotify.com/track/7bTgbkJmcJ11R0yqVC8qFg) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/3rCk8CngEX5UIxpWgh4WgI) | 5:42 | 2022-09-08 | 2022-09-25 |
-| [Reflet](https://open.spotify.com/track/7tNYzBbufvOtKyRcw0vPqd) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 5:42 | 2022-09-15 |  |
+| [Reflet](https://open.spotify.com/track/7tNYzBbufvOtKyRcw0vPqd) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 5:42 | 2022-09-15 | 2023-06-24 |
 | [Reminiscence](https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:28 | 2022-10-07 |  |
 | [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 | 2022-09-15 | 2022-10-09 |
 | [Rhymes On Our Mind](https://open.spotify.com/track/4Ry0Lk8vLR3avAZpYbw6tp) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Gulliver](https://open.spotify.com/album/6gMzMxSQ5zwlOtlfuEFo5h) | 5:59 | 2022-09-15 |  |
@@ -156,6 +158,7 @@
 | [Terra](https://open.spotify.com/track/49p4R37uHMMifLvIfAwb8X) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Terra](https://open.spotify.com/album/3KRzvDuX1dnsXmzyxF25lJ) | 11:19 | 2023-02-17 | 2023-03-26 |
 | [Terra](https://open.spotify.com/track/6z4iG45MiRRTnnXutPvi6A) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 11:19 | 2023-04-13 |  |
 | [The Call of the Quagga Quagga](https://open.spotify.com/track/3mKokrtZqNAPfiAg0Jo30P) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Call Of The Quagga Quagga](https://open.spotify.com/album/2EvdjR9ghHhHNtypwGB8S8) | 6:50 | 2023-05-04 |  |
+| [The Dimmed](https://open.spotify.com/track/1ElYStai1Ik9NchUuuqR6s) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Dimmed](https://open.spotify.com/album/1CXm1pO5gXumW2K1x9wDhC) | 8:56 | 2023-06-23 |  |
 | [The Lower 9th](https://open.spotify.com/track/4sjsivlGuXcRzZfkAnezAu) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:59 | 2022-09-08 |  |
 | [Time Faded](https://open.spotify.com/track/55pmNeWiqkuqFel6lDcQA8) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Time Faded](https://open.spotify.com/album/4hcyzkUSY9tpmjnVLJpTHr) | 3:47 | 2023-02-23 |  |
 | [TinniT \- Edit](https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q) | [MDCIII](https://open.spotify.com/artist/1zjbmsA3Mq02lYg0Bk0YCU) | [TinniT](https://open.spotify.com/album/23AsEykb1SeQ2vBZ5Or0gm) | 4:26 | 2022-09-08 | 2022-12-07 |
@@ -181,6 +184,7 @@
 | [Wessel](https://open.spotify.com/track/4wmiOqY3jAPOkS6pzYvyIs) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Wessel](https://open.spotify.com/album/0OEduMDNnxOH9s5wRRzIpQ) | 5:03 | 2022-09-08 | 2022-09-25 |
 | [Wessel](https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 5:03 | 2022-09-15 | 2022-10-03 |
 | [Wessel](https://open.spotify.com/track/7qmozlnwvvhUMzqKH80lfK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Lefto presents Jazz Cats volume 2](https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx) | 5:03 | 2022-10-20 | 2022-10-24 |
+| [WGHWBH](https://open.spotify.com/track/2Gk2ojObQ0KJev9q4xANXm) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [WGHWBH](https://open.spotify.com/album/3IXktD0oxECWhvw7yBW8LU) | 4:45 | 2023-06-23 |  |
 | [Wolk](https://open.spotify.com/track/1psgbIT91j1nQMWMG9puWg) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Wolk](https://open.spotify.com/album/5KEYqGAofKWeCD7CZzojpB) | 3:59 | 2022-09-08 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

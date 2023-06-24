@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-645 songs - 1 day 15 hr 38 min
+646 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Come Together](https://open.spotify.com/track/6FfE10CNarokEyIGxWhz2g) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pandora's Box](https://open.spotify.com/album/2nnVKqFPutI1hZpBPf20X6) | 3:44 | 2022-06-10 |  |
 | [Come Together](https://open.spotify.com/track/5OkZtvqYLkgy5ri5Ms6WBz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith's Greatest Hits](https://open.spotify.com/album/6IXRrteQyjBXc40XlIhnD3) | 3:44 | 2022-06-10 | 2022-12-11 |
 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 | 2022-06-10 | 2023-06-22 |
+| [Complicated](https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW) | 3:09 | 2023-02-24 |  |
 | [Cotton Eye Joe](https://open.spotify.com/track/4rCRwhChsap3aLxRQQ5jgh) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/1rrhJksiU70SoQKseCPYn5) | 2:39 | 2021-10-20 | 2022-07-27 |
 | [Counting Stars](https://open.spotify.com/track/6O33j9aabTuZcD1U40LdtM) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/3tCHNcehvK6wsvuvFAkpgH) | 2:56 | 2021-10-20 | 2022-02-14 |
 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 | 2022-06-10 |  |
@@ -624,7 +625,7 @@
 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 | 2021-10-20 |  |
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2021-10-20 |  |
 | [Yellow](https://open.spotify.com/track/0MSa5b2zYrXQPr2Ty4xFCe) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [From Cover to Cover: 30 Years at Nettwerk](https://open.spotify.com/album/5fsRQdOv7jlG7V26kmKRvd) | 3:52 | 2021-10-20 | 2022-07-29 |
-| [Yellow](https://open.spotify.com/track/2v5tqzWV8VpEQ7VfGSHDSJ) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [From Cover to Cover: 30 Years at Nettwerk](https://open.spotify.com/album/3Jb74PX0KbKAgBvJwe9Qf9) | 3:52 | 2022-06-10 |  |
+| [Yellow](https://open.spotify.com/track/2v5tqzWV8VpEQ7VfGSHDSJ) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [From Cover to Cover: 30 Years at Nettwerk](https://open.spotify.com/album/3Jb74PX0KbKAgBvJwe9Qf9) | 3:52 | 2022-06-10 | 2023-06-24 |
 | [Yellow](https://open.spotify.com/track/0V3U7zeVUEOqbiYzzXnw0a) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Yellow](https://open.spotify.com/album/6tr7N2OwQIVJvb2eKykcUx) | 4:17 | 2021-10-20 | 2022-07-29 |
 | [Yes It Is \- Live](https://open.spotify.com/track/5ooRLYGe1WiqSDxVAsrAd5) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [BRIDGE SCHOOL CONCERTS, VOL\. ONE](https://open.spotify.com/album/2vcDnqv787PE1q1ym6qvjN) | 2:45 | 2022-04-29 | 2022-07-29 |
 | [Yesterday](https://open.spotify.com/track/1UdSYzD1LoJDjMItD0b9S7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Yesterday](https://open.spotify.com/album/1BO3Inze7ruR55Qf10PRw6) | 2:36 | 2021-10-20 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh takes on that high lonesome sound. Cover: Nickel Creek",
+  "description": "Fresh takes on that high lonesome sound. Cover: Caitlin Canty",
   "name": "Indie Bluegrass",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 145998,
       "name": "All the Way (remix)",
       "url": "https://open.spotify.com/track/2evLomJvZETdwcfvQIgY4C"
@@ -1540,6 +1540,28 @@
       "duration_ms": 144608,
       "name": "Father Time",
       "url": "https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb"
+    },
+    {
+      "album": {
+        "name": "Firewood",
+        "url": "https://open.spotify.com/album/01p20IYbDXu5GZuKZQ5s6H"
+      },
+      "artists": [
+        {
+          "name": "April Verch",
+          "url": "https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8"
+        },
+        {
+          "name": "Cody Walters",
+          "url": "https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210226,
+      "name": "Firewood",
+      "url": "https://open.spotify.com/track/19e3bfpKwSnvw4JEFQTihp"
     },
     {
       "album": {
@@ -3278,7 +3300,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 145586,
       "name": "Parallel Lines",
       "url": "https://open.spotify.com/track/6siyBe5G5d4O8KiGRPPHCU"
@@ -3438,6 +3460,24 @@
       "duration_ms": 222251,
       "name": "Prodigal Daughter",
       "url": "https://open.spotify.com/track/62GUjBiYCUCGtd5BHOIhi0"
+    },
+    {
+      "album": {
+        "name": "Quiet Flame",
+        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242153,
+      "name": "Pull the Moon",
+      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
     },
     {
       "album": {

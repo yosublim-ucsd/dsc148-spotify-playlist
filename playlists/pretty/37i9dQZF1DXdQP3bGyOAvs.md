@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 
 > Great chilled house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,994 likes - 220 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,062 likes - 220 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 14 | [Pillow](https://open.spotify.com/track/3k4M7XMIBhb1xfQn6XZwbd) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Pillow](https://open.spotify.com/album/4VJM2Dx7torhHoeZjEnZQB) | 2:19 |
 | 15 | [Hanoue](https://open.spotify.com/track/7slXJO3MVWwQ4XXeTy2QBR) | [Pancake Cult](https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb) | [Hanoue](https://open.spotify.com/album/67FMM29TvRk4uMktyUNEsE) | 2:43 |
 | 16 | [Get Down](https://open.spotify.com/track/1WRD7BCievNq7vn94piE8E) | [Tom Blacksmith](https://open.spotify.com/artist/5EFjLl4MUtvtBnRUTKr1I7) | [Get Down](https://open.spotify.com/album/7iTNXPGbTmd5atUsrYCUwP) | 2:45 |
-| 17 | [Some Enthusiasm](https://open.spotify.com/track/1aXhsghQL9v7KpJyGLEhFp) | [Elliot Horizon](https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O) | [Some Enthusiasm](https://open.spotify.com/album/41URGDg9WShOjJa4Rd2tPP) | 2:51 |
-| 18 | [Just Slightly](https://open.spotify.com/track/2iO40jhsoBdQayMWNFzs4U) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Just Slightly](https://open.spotify.com/album/6NIkQHYrPqoPeeAERIm3nc) | 2:28 |
-| 19 | [Light Like Skies](https://open.spotify.com/track/04gNgfFzpN6LhKbWWYaSqD) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Light Like Skies](https://open.spotify.com/album/60hLraoLpKURCc7nit3zfk) | 2:45 |
-| 20 | [Departure](https://open.spotify.com/track/6htOOaacfj5M54jI6CwzRg) | [Gleery](https://open.spotify.com/artist/6LXTSY43XhcV6XnVLANctK) | [Departure](https://open.spotify.com/album/41ZA3sYUeR0RTqAPs3H9bk) | 3:40 |
-| 21 | [Zero](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Zero](https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7) | 2:02 |
-| 22 | [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 |
-| 23 | [Saints](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Saints](https://open.spotify.com/album/2cUal4h6gvOSWY3tCc6eOK) | 2:49 |
-| 24 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 |
-| 25 | [Plush](https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Plush](https://open.spotify.com/album/1gKaBG8fWwZt10NyV6kslq) | 2:36 |
+| 17 | [Tropical Bliss](https://open.spotify.com/track/1oKL23PPV86nu0tTHW7r6H) | [Palombi](https://open.spotify.com/artist/7jY1E7URIXvA0gmnuE2m2k) | [Tropical Bliss](https://open.spotify.com/album/1kShsCppA2IHs1b1Mpzuw7) | 2:32 |
+| 18 | [Some Enthusiasm](https://open.spotify.com/track/1aXhsghQL9v7KpJyGLEhFp) | [Elliot Horizon](https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O) | [Some Enthusiasm](https://open.spotify.com/album/41URGDg9WShOjJa4Rd2tPP) | 2:51 |
+| 19 | [Just Slightly](https://open.spotify.com/track/2iO40jhsoBdQayMWNFzs4U) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Just Slightly](https://open.spotify.com/album/6NIkQHYrPqoPeeAERIm3nc) | 2:28 |
+| 20 | [Light Like Skies](https://open.spotify.com/track/04gNgfFzpN6LhKbWWYaSqD) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Light Like Skies](https://open.spotify.com/album/60hLraoLpKURCc7nit3zfk) | 2:45 |
+| 21 | [Departure](https://open.spotify.com/track/6htOOaacfj5M54jI6CwzRg) | [Gleery](https://open.spotify.com/artist/6LXTSY43XhcV6XnVLANctK) | [Departure](https://open.spotify.com/album/41ZA3sYUeR0RTqAPs3H9bk) | 3:40 |
+| 22 | [Zero](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Zero](https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7) | 2:02 |
+| 23 | [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 |
+| 24 | [Saints](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Saints](https://open.spotify.com/album/2cUal4h6gvOSWY3tCc6eOK) | 2:49 |
+| 25 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 |
 | 26 | [It's Time](https://open.spotify.com/track/3S7HQKapnOuNj2B4XQZpqM) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [It's Time](https://open.spotify.com/album/4rjcmDoDzIMaEgNtXGsSSl) | 2:31 |
 | 27 | [Come Along](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Come Along](https://open.spotify.com/album/2Ou8k6aCc2zhJ9Dk3weDIy) | 2:42 |
 | 28 | [Blurry Stars](https://open.spotify.com/track/2MvYG2MZjHljTK468rBncA) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blurry Stars](https://open.spotify.com/album/41rRCpIgzmzAFRCdqtWTH1) | 2:40 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 219 | [Velvet Skies](https://open.spotify.com/track/0HBQ7cU8gPitLvHX8nQ3DH) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Velvet Skies](https://open.spotify.com/album/3LAJb6QHo5QkgoW0T2vJNT) | 3:05 |
 | 220 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 |
 
-Snapshot ID: `MCxhMjkzNGE3NDA2YWY1MDBhMzgwZWRjNzhhNjQzMWU0YjdkMzk5OTI5`
+Snapshot ID: `MCw0NjliOWQ2MmZmNjQyMGYwNzkyZWY3MzY2MGQ3NTM4NTg3MTFmMzk2`

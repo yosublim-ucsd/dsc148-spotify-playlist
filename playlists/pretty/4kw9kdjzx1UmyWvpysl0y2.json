@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127214,
+  "num_followers": 127215,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDI3MixmODVlN2MxZTRmZjcwZTQ1ZDZkMTVlZjRlOWMxZjM5ZGI1OTQ4YjQ4",
+  "snapshot_id": "NDI3OCxiZDMyMzBjYjQyOWM2ZTM4ZTY0ZDNjNjBhNWI2NDU4YmIzOTM4MDFh",
   "tracks": [
+    {
+      "added_at": "2023-06-22 18:32:48",
+      "album": {
+        "name": "The Outlines",
+        "url": "https://open.spotify.com/album/2781rPnBLyPrsaH2taH7nM"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 253793,
+      "name": "The Outlines",
+      "url": "https://open.spotify.com/track/3xcvdCimYBj7FnpErd45vy"
+    },
+    {
+      "added_at": "2023-06-21 20:25:04",
+      "album": {
+        "name": "Safer Place / Work My Body",
+        "url": "https://open.spotify.com/album/473D1rbKmLyh3LtP92FHzs"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        },
+        {
+          "name": "LUX",
+          "url": "https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Safer Place",
+      "url": "https://open.spotify.com/track/3bEcHt8DDUMvK67yrd35Qy"
+    },
     {
       "added_at": "2023-06-21 01:21:36",
       "album": {
@@ -1087,38 +1127,6 @@
       "duration_ms": 180413,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/07YWBlyteDawyBWwKZGWmN"
-    },
-    {
-      "added_at": "2023-03-31 16:28:38",
-      "album": {
-        "name": "Mindbreak",
-        "url": "https://open.spotify.com/album/21Cj0g82RnutbkJdlrwTkD"
-      },
-      "artists": [
-        {
-          "name": "IVORY",
-          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
-        }
-      ],
-      "duration_ms": 213488,
-      "name": "Mindbreak",
-      "url": "https://open.spotify.com/track/6EP8jgwI9FS3qEEfNC6idl"
-    },
-    {
-      "added_at": "2023-03-30 16:04:06",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

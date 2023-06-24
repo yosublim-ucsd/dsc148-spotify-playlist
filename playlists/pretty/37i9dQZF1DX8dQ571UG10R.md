@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,921 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,957 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 13 | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/track/3YWdolIwRLOeLbmj5Q9lIO) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/album/22mM3uheuOoCmlbe2079WE) | 9:51 |
 | 14 | [Tipo Kisame](https://open.spotify.com/track/6PoHGkWg6VR2xXnKdMPMkn) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Kisame](https://open.spotify.com/album/2IrjtJ2rw6bAa2MKoPRRK3) | 3:11 |
 | 15 | [Tipo Hashirama](https://open.spotify.com/track/1vX0KmArqxz2b0ByQQp81H) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Hashirama](https://open.spotify.com/album/3bNAqFuhuEB3YejTOnyyQU) | 3:09 |
-| 16 | [Lobo da Morte](https://open.spotify.com/track/3njxGUCNJwcYw5ngNbTvRu) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Lobo da Morte](https://open.spotify.com/album/5ROinWZCjY4vRWTjiCBZXy) | 3:29 |
-| 17 | [Death Note](https://open.spotify.com/track/1K6yxhSJsQuMzDhtmk7W81) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/3odZS05zGujBVVRLMNEwR5) | 3:51 |
-| 18 | [Tipo Gotenks](https://open.spotify.com/track/4XfvgreDThgRwqZui7VNx8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Gotenks](https://open.spotify.com/album/0GKL2s9FkkKtK3wBFDbUfI) | 3:22 |
-| 19 | [União Otaku](https://open.spotify.com/track/4O2QJmD4iRshtmNwPhnAXg) | [Byakuran](https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR) | [União Otaku](https://open.spotify.com/album/5b8AZgNHUnSisyN2BaJeUz) | 2:19 |
+| 16 | [Bbay](https://open.spotify.com/track/12U9gfj6mqCY7HO1HiZYIw) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Baby](https://open.spotify.com/album/5IruRk9n5F8C986iA5JGg2) | 4:11 |
+| 17 | [Lobo da Morte](https://open.spotify.com/track/3njxGUCNJwcYw5ngNbTvRu) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Lobo da Morte](https://open.spotify.com/album/5ROinWZCjY4vRWTjiCBZXy) | 3:29 |
+| 18 | [Death Note](https://open.spotify.com/track/1K6yxhSJsQuMzDhtmk7W81) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/3odZS05zGujBVVRLMNEwR5) | 3:51 |
+| 19 | [Tipo Gotenks](https://open.spotify.com/track/4XfvgreDThgRwqZui7VNx8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Gotenks](https://open.spotify.com/album/0GKL2s9FkkKtK3wBFDbUfI) | 3:22 |
 | 20 | [Rap do Hidan: Vai Começar o Ritual \(Nerd Hits\)](https://open.spotify.com/track/4RQfj4QMNXCLdheNn8yVD6) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Hidan: Vai Começar o Ritual \(Nerd Hits\)](https://open.spotify.com/album/0crukJhJaU4xCCamzJFTNN) | 4:07 |
 | 21 | [Pai da Humanidade \(Adão\)](https://open.spotify.com/track/389oniwXlh3UjZNsXARb9B) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Pai da Humanidade \(Adão\)](https://open.spotify.com/album/6V7KPJGqmpgWKarpIogA7r) | 3:37 |
 | 22 | [Rap do Joel e Ellie: Os Últimos de Nós \(Nerd Hits\)](https://open.spotify.com/track/1k0Mtei0Qu87Xg16OMA6md) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Joel e Ellie: Os Últimos de Nós \(Nerd Hits\)](https://open.spotify.com/album/6SGI4HBaLeqcy5BwiC3OWu) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 49 | [Se Ajoelhe](https://open.spotify.com/track/1xVzfXASMOg5zoBGRoe7in) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Se Ajoelhe](https://open.spotify.com/album/79oJSsNswdXJ1wAH2JB929) | 3:47 |
 | 50 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MCxmOWViMTE3MWZjNjRmY2FkZmEzYTdkYTA5ZTIxZTM3Yjg5ZWM3ZTcz`
+Snapshot ID: `MCxjMGU1YWY1YjA3OTI4ZGRhNTYwMGIyYjliYjI4NTI1OTlhMDA2YzVh`

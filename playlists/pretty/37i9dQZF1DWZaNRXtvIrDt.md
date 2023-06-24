@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Sleep D
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,129 likes - 76 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,135 likes - 76 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 75 | [Bleached](https://open.spotify.com/track/7tKlED6H6p0FB92PqsKDtq) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Kreuzberg Kix EP 2](https://open.spotify.com/album/1CI68Bl2zLRBThWwa4SgAi) | 5:33 |
 | 76 | [L.F.O.](https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [L.F.O.](https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA) | 4:31 |
 
-Snapshot ID: `MCw0NjZiYWVmMDUyYzU1ODgzNWUyZTEwMDYzMzFiYzMzODljMmQ3YmZl`
+Snapshot ID: `MCwzYjUyZTcxZTU0Y2VmMDIzYWExMmRmY2NkZjRmMTEyMjMzYzE1MWJk`

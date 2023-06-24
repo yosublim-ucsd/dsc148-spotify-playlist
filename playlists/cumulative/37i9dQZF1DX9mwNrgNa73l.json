@@ -959,6 +959,44 @@
     },
     {
       "album": {
+        "name": "Bhoomi 2020",
+        "url": "https://open.spotify.com/album/73G9NzlCUCFr88RHxJuQPQ"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Blue Productions",
+          "url": "https://open.spotify.com/artist/15jUoEypsDlzTmh1eVJP6X"
+        },
+        {
+          "name": "Raj Pandit",
+          "url": "https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908"
+        },
+        {
+          "name": "Salman Ali",
+          "url": "https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF"
+        },
+        {
+          "name": "Vipul Mehta",
+          "url": "https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407112,
+      "name": "Haq Ali",
+      "url": "https://open.spotify.com/track/4VCOs89feJNdL22cDoeFoc"
+    },
+    {
+      "album": {
         "name": "Haq Ali",
         "url": "https://open.spotify.com/album/0FJlpw4MuPuYh2STnJVHt7"
       },
@@ -986,7 +1024,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 407112,
       "name": "Haq Ali",
       "url": "https://open.spotify.com/track/4KdVxITCH0jol5Dbq2x68H"

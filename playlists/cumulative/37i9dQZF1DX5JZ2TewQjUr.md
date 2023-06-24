@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: P.R.O.J.E.C.T\. 9, LilithQueenB, Micol
 
-581 songs - 1 day 9 hr 0 min
+583 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [breathe](https://open.spotify.com/track/27zQHWADjPPzRwJLBaSmyQ) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [could you call me tonight?](https://open.spotify.com/album/0E4ALjSiina3AimCCQr9tg) | 3:24 | 2023-05-11 |  |
 | [Broken Promise](https://open.spotify.com/track/4q8H4RpARg1R2CQYt4jukc) | [Tang.](https://open.spotify.com/artist/4Mfts7DF4fV8MgUJQIwVLx) | [Broken Promise](https://open.spotify.com/album/7oas2rVf2wUa6tur5mezAf) | 4:20 | 2022-05-26 | 2022-06-10 |
 | [Brown Liquor 2.0](https://open.spotify.com/track/3nNB3Ty4RH3gutOJOkBxEw) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Tommy Grooves](https://open.spotify.com/artist/1FFfMlrZrpn9wDWMRmNKQi) | [Still Going Through It \(Deluxe\)](https://open.spotify.com/album/3MzruzLrsSNyr4r5JyXkrS) | 3:40 | 2022-08-04 | 2022-11-04 |
+| [Bump Chance](https://open.spotify.com/track/7s9kXjvE8tnNaAckDB7Qog) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [don't you go running off now](https://open.spotify.com/album/4sazwDC5NcUnWufKAVMlDR) | 3:03 | 2023-06-22 |  |
 | [Bunker Song](https://open.spotify.com/track/6SmLKD0TYw99C9qQvBKhYt) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Bunker Song](https://open.spotify.com/album/36Tug4vZn1tvyBvcszvrbf) | 5:22 | 2022-05-26 | 2022-06-10 |
 | [butterfly girl](https://open.spotify.com/track/2KmTq1OXdZIcEaHaNV1zUp) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [butterfly girl](https://open.spotify.com/album/3GL0FlvXkCofjH2HQUMzrU) | 4:04 | 2022-07-14 | 2022-11-04 |
 | [buzz cut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzz cut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 | 2022-09-15 | 2023-02-03 |
@@ -182,6 +183,7 @@
 | [Laura Says Distortion](https://open.spotify.com/track/0lLh6qhc9dBavA8rQF3oa8) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [Laura Says Distortion](https://open.spotify.com/album/1K9fowNgyuHW4xfx848sCP) | 5:22 | 2023-04-06 |  |
 | [Leave\-Taking \(feat\. Daniel Chu\)](https://open.spotify.com/track/2t1uIVzsYvR0GHXAWd4lLu) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe), [Daniel Chu](https://open.spotify.com/artist/6cE2k1b1Vz0jWil3gChUp2) | [Leave\-Taking \(feat\. Daniel Chu\)](https://open.spotify.com/album/1e1jFXUM49FsaZy09zSDxr) | 4:41 | 2022-12-29 | 2023-05-26 |
 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 | 2022-11-10 | 2023-03-18 |
+| [LGBT](https://open.spotify.com/track/4TftpYSPHXM73TxOXPpQc4) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [LGBT](https://open.spotify.com/album/2u8qoaHrbNHrIANz84gb8J) | 3:00 | 2023-06-22 |  |
 | [LIES](https://open.spotify.com/track/6mPxpQM6VCS076j6UuYQLZ) | [HeartShine](https://open.spotify.com/artist/2N77bYeH8lzQ2jfhSiqNDB) | [LIES](https://open.spotify.com/album/4QzMt6ksSwYOHepTfo22lW) | 2:33 | 2022-09-22 | 2023-01-06 |
 | [Lights Ahead](https://open.spotify.com/track/0kC8FYmowUkTgOaH5hpNpt) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [Lights Ahead](https://open.spotify.com/album/4nHEIQc0PWK4H2hoTyW6az) | 4:52 | 2023-03-24 |  |
 | [Lights Camera Action](https://open.spotify.com/track/0AnwtaDOeEOGfG5WPA3H8Y) | [Haysen Cheng](https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK), [Harikiri](https://open.spotify.com/artist/6l8D5mZvv6wusxpawsw1t6) | [Lights Camera Action](https://open.spotify.com/album/5sZg0L4un96F5ed8x2g3XG) | 2:14 | 2022-06-02 | 2022-09-09 |

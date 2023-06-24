@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Madeline Edwards
 
-322 songs - 17 hr 39 min
+323 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 | 2021-12-01 |  |
 | [Maybe I'm Still Drunk](https://open.spotify.com/track/6pjaAhEIehFGEr2cQOrTkR) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Maybe I'm Still Drunk](https://open.spotify.com/album/0jvK7EcGlTq0ziRSMoC3Qw) | 3:30 | 2022-03-25 | 2022-04-21 |
 | [Me About Me](https://open.spotify.com/track/5T6blAaKgFyfRZ7yyK4SoQ) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Baytown EP](https://open.spotify.com/album/11QgrQnSwv0EKBEBjL244C) | 2:46 | 2021-12-01 | 2022-06-21 |
+| [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/4BQxMO6PoNJzY410N8YjsT) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/album/3rw1zkeAmrZvDd60WwAJgj) | 3:25 | 2023-06-23 |  |
 | [Mean Something](https://open.spotify.com/track/2z0GgJjQShQbEWwfXlfrzW) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:14 | 2021-12-01 | 2022-06-30 |
 | [Miss Me More](https://open.spotify.com/track/4ZwLDLTkFfy45yYA39kYOQ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Miss Me More](https://open.spotify.com/album/39wJJPpL0ukNLWsU2Z3XIv) | 3:12 | 2021-12-01 | 2022-07-28 |
 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 | 2022-07-22 |  |
@@ -222,7 +223,7 @@
 | [Safe](https://open.spotify.com/track/7Hzfq1oa2I3fACCSIP4SMN) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Safe](https://open.spotify.com/album/4vC4o3WtfvJ7BcQrlQGDOi) | 3:19 | 2021-12-01 | 2022-04-19 |
 | [Same Car](https://open.spotify.com/track/6yCW8qaDobbzDQS4qjTfJO) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Same Car](https://open.spotify.com/album/18QJ8qka8jU6I9P4SAgmGo) | 3:39 | 2023-05-05 |  |
 | [Say It First](https://open.spotify.com/track/1rIzZXLoXTMXif9IKAoqvc) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Say It First](https://open.spotify.com/album/6icFOHKNtZPLyUimlFFCSA) | 3:20 | 2021-12-01 | 2022-04-21 |
-| [Sayin' What I'm Thinkin'](https://open.spotify.com/track/0Hhb848NsTCRTqi3Fm6C79) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:21 | 2021-12-01 |  |
+| [Sayin' What I'm Thinkin'](https://open.spotify.com/track/0Hhb848NsTCRTqi3Fm6C79) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:21 | 2021-12-01 | 2023-06-24 |
 | [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 | 2022-06-01 | 2023-03-02 |
 | [self care.](https://open.spotify.com/track/6LquGHxKryERHadmNCaQrE) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 2:19 | 2022-09-23 | 2023-06-03 |
 | [Selfish](https://open.spotify.com/track/71iRqMLlOmowRrAK1ZkjOB) | [Shae Dupuy](https://open.spotify.com/artist/5m32rAyDfE2NKMRrOhc0L0) | [Selfish](https://open.spotify.com/album/66gju6259kmYi4puVpwWpI) | 3:15 | 2022-03-25 | 2022-04-15 |

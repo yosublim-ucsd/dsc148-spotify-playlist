@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Melod\u00edas Susurrantes",
+        "url": "https://open.spotify.com/album/16ArDAGmj2dEQAdAuRD8PW"
+      },
+      "artists": [
+        {
+          "name": "Miravaldini",
+          "url": "https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219467,
+      "name": "Abrazo Sereno",
+      "url": "https://open.spotify.com/track/24SPAIgNceYbCmdrowgkRK"
+    },
+    {
+      "album": {
         "name": "Acacia",
         "url": "https://open.spotify.com/album/7a4ED2FDeYHgEKMejdSCwy"
       },

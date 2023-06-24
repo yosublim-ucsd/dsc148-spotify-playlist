@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 230000,
       "name": "Enter",
       "url": "https://open.spotify.com/track/0HGfi3MdwooOvUhwztursU"
@@ -1772,6 +1772,24 @@
       "duration_ms": 185045,
       "name": "Hanami",
       "url": "https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42"
+    },
+    {
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/22nV8CCKwM2EfHQj1Djsie"
+      },
+      "artists": [
+        {
+          "name": "Inner Calmness",
+          "url": "https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168064,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/4O1d3cgqRr3sBbwghtsixz"
     },
     {
       "album": {

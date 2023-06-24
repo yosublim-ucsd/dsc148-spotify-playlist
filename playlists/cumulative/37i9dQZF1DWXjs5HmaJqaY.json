@@ -415,6 +415,28 @@
     },
     {
       "album": {
+        "name": "Plastic City Radio Show Season Nine - Part 4",
+        "url": "https://open.spotify.com/album/76JDFLjDgL2UflBm1JkXfT"
+      },
+      "artists": [
+        {
+          "name": "Watchman",
+          "url": "https://open.spotify.com/artist/3ovvDDRUrwfCMz7RsBzxj6"
+        },
+        {
+          "name": "Ryan McCormack",
+          "url": "https://open.spotify.com/artist/5JB4gxjkwdXPkP4ACEzWbQ"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446557,
+      "name": "Cut The Midrange - Ryan McCormack Remix",
+      "url": "https://open.spotify.com/track/4F50ZMSQuNew7uzG9b3Myu"
+    },
+    {
+      "album": {
         "name": "Dark Waves",
         "url": "https://open.spotify.com/album/1jFxs3VUgiaGLCjrRqLciY"
       },
@@ -2147,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Retroworld EP",
+        "url": "https://open.spotify.com/album/5UHJ8nskMFmTyCxVhwJEu9"
+      },
+      "artists": [
+        {
+          "name": "Humantronic",
+          "url": "https://open.spotify.com/artist/76hRRAuRxt9Ic0ljjHHoLQ"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355300,
+      "name": "Retroworld",
+      "url": "https://open.spotify.com/track/1ZXG5VB314386cqUk2MIru"
+    },
+    {
+      "album": {
         "name": "Revolt",
         "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
       },
@@ -2416,6 +2456,24 @@
       "duration_ms": 482266,
       "name": "Soopertrack",
       "url": "https://open.spotify.com/track/0tZFL2LU8XSThRttMJif6Q"
+    },
+    {
+      "album": {
+        "name": "Space X (Edit)",
+        "url": "https://open.spotify.com/album/0isHRGzyIFvSKDeSdlem8j"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "Space X - Edit",
+      "url": "https://open.spotify.com/track/7y2fFvQyCuEqhGbLaAEAIN"
     },
     {
       "album": {
@@ -2836,7 +2894,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 462720,
       "name": "Wormhole",
       "url": "https://open.spotify.com/track/6uWONZ4EV0NcH59BMiMGYx"

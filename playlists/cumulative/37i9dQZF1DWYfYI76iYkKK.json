@@ -4287,6 +4287,24 @@
     },
     {
       "album": {
+        "name": "\u8acb\u4f60\u6162\u6162\u8d70",
+        "url": "https://open.spotify.com/album/5ziXnw9xzlZUzAU4elviSD"
+      },
+      "artists": [
+        {
+          "name": "karris",
+          "url": "https://open.spotify.com/artist/4HnG8feydx1eFjf19WymDu"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206865,
+      "name": "\u8acb\u4f60\u6162\u6162\u8d70",
+      "url": "https://open.spotify.com/track/3ISuyTTc3sg3ru8mtsShha"
+    },
+    {
+      "album": {
         "name": "\u8b1d\u8b1d\u4f60\u5011\u4eca\u5929\u4f86\u807d\u6211\u5531\u6b4c",
         "url": "https://open.spotify.com/album/60cQp0lgGtrxXD8VPd2XuN"
       },

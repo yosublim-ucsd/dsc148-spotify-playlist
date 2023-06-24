@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 78169,
+  "num_followers": 78697,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGYyZjE4YjRkMDBhNmY0MmUzMjEzNzIxZWQ0MGUwM2U5OTQ3MGRl",
+  "snapshot_id": "MCxkMGE1NGZhMzU5MWJlN2RmMzFhY2Y4MDVjNDEzYzQ1NWQ2MGM5OTAw",
   "tracks": [
     {
       "added_at": "2023-04-21 13:22:15",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
+        "name": "Together Is The New Alone (2021 Remaster)",
+        "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
+      },
+      "artists": [
+        {
+          "name": "Donnacha Costello",
+          "url": "https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz"
+        }
+      ],
+      "duration_ms": 645000,
+      "name": "Dry Retch - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
         "name": "Vale Reworked",
         "url": "https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "Together Is The New Alone (2021 Remaster)",
-        "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
-      },
-      "artists": [
-        {
-          "name": "Donnacha Costello",
-          "url": "https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz"
-        }
-      ],
-      "duration_ms": 645000,
-      "name": "Dry Retch - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "Lie Beneath the Stars",
-        "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
-      },
-      "artists": [
-        {
-          "name": "Rokkr",
-          "url": "https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs"
-        }
-      ],
-      "duration_ms": 389530,
-      "name": "Lie Beneath the Stars",
-      "url": "https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 296000,
       "name": "As Bright as the Night",
       "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
+        "name": "Lie Beneath the Stars",
+        "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
+      },
+      "artists": [
+        {
+          "name": "Rokkr",
+          "url": "https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs"
+        }
+      ],
+      "duration_ms": 389530,
+      "name": "Lie Beneath the Stars",
+      "url": "https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG"
     },
     {
       "added_at": "2023-04-21 13:22:15",

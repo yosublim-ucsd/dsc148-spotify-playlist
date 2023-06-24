@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5631,
+  "num_followers": 5647,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWQ1MWUzZjgzNjUwNTk5OWNhM2NhNmZkMGQ4OTMyNTczYjQ0Zjlh",
+  "snapshot_id": "MCwwYzU4ZWI4NGY1MjUwNTg0OGNlZTkzMzA1YzE3YWI0MzhlZDM4YTJl",
   "tracks": [
     {
       "added_at": "2023-06-16 14:17:19",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-16 14:17:19",
       "album": {
-        "name": "Guadalupe Plata 2023",
-        "url": "https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Plata",
-          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
-        }
-      ],
-      "duration_ms": 135609,
-      "name": "Al Infierno que Vayas",
-      "url": "https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25"
-    },
-    {
-      "added_at": "2023-06-16 14:17:19",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 172520,
       "name": "Rise",
       "url": "https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu"
+    },
+    {
+      "added_at": "2023-06-16 14:17:19",
+      "album": {
+        "name": "Guadalupe Plata 2023",
+        "url": "https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Plata",
+          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
+        }
+      ],
+      "duration_ms": 135609,
+      "name": "Al Infierno que Vayas",
+      "url": "https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25"
     },
     {
       "added_at": "2023-06-16 14:17:19",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-06-16 14:17:19",
       "album": {
-        "name": "For the Love of Blues",
-        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
+        "name": "Stop Signs and Fence Lines",
+        "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
       },
       "artists": [
         {
-          "name": "Pontillo And The Vintage Crew",
-          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
+          "name": "Jericho Woods",
+          "url": "https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled"
         }
       ],
-      "duration_ms": 353226,
-      "name": "Sing the Blues",
-      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
+      "duration_ms": 170854,
+      "name": "Ten Beer Job",
+      "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
     }
   ],
   "unique_name": "Blues BBQ",

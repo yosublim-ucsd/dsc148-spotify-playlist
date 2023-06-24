@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,904 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,909 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 74 | [Because](https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q) | [桜庭 薫 \(CV.内田雄馬\)](https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:55 |
 | 75 | [Your Nobility](https://open.spotify.com/track/61B27d2YE1tLeSgr6VBUai) | [Kaoru Sakuraba \(CV: Yuma Uchida\)](https://open.spotify.com/artist/4gi15MhB1b1G387qfQ53uM), [Genbu Kurono \(CV: Toshinari Fukamachi\)](https://open.spotify.com/artist/5IWvN4rKghEIbXWvjzp2aS), [Kazuki Tsukumo \(CV: Tatsuya Tokutake\)](https://open.spotify.com/artist/3c4wvFNvtX55OAP2E8ssYx) | [THE IDOLM@STER SideM WORLD TRE@SURE 12](https://open.spotify.com/album/44oPjnMG6Kb3ly0IWB7R1C) | 4:06 |
 
-Snapshot ID: `MCxhNDA5ZmJjOWRkMjVjNjMwMWQ3YmI1NDdhZjFjZTJlMTIyMjcyOTE5`
+Snapshot ID: `MCwzMTZhMjUyNGVhNWI2OTA5OTg1NjM5NDEzMjM0ZTZhYTA5NTRiODE3`

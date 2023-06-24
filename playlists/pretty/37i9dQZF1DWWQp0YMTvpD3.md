@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,097 likes - 180 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,170 likes - 180 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,29 +17,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 7 | [Mugen](https://open.spotify.com/track/3BMc9lZNLfgOlQBnKk0Ivp) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Mugen](https://open.spotify.com/album/1pnXudcL2xzG8mLhHzJ1B0) | 2:52 |
 | 8 | [Donum](https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Donum](https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko) | 2:40 |
 | 9 | [Sexy Sundays](https://open.spotify.com/track/6beX5xxj4FKaYexUBPsJxF) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Sexy Sundays](https://open.spotify.com/album/1SDB6TMf2NCDCvw34ml2fa) | 2:45 |
-| 10 | [Fast Friends](https://open.spotify.com/track/55SNJ5c6P2s9qoBjBSAJbq) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Low Tide](https://open.spotify.com/album/0KYdYU0aQoFid6Bx5Vp4WE) | 2:20 |
-| 11 | [Think im falling](https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu) | [WingIt](https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy) | [Island Bypass](https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4) | 2:06 |
-| 12 | [Awake \- Ambient Edit](https://open.spotify.com/track/43PrFJUfD8oi5U6qfBz0aQ) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Awake \- Ambient Edit](https://open.spotify.com/album/7qbwEjbRQqsmY4h0xi0aJY) | 2:24 |
-| 13 | [Koh Musica](https://open.spotify.com/track/77QMACo3pSn8I7lQD9nftm) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:36 |
-| 14 | [Mi Amor](https://open.spotify.com/track/3jqBtnZqoecYhGGzf0ZLBO) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Mi Amor](https://open.spotify.com/album/61UED012ycFtrMV5N13AuT) | 3:18 |
-| 15 | [PLAY](https://open.spotify.com/track/2DwFC2zVzDenk4D4LVnG1r) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [PLAY](https://open.spotify.com/album/29mzQbByItTgLxV74xBCtQ) | 2:29 |
-| 16 | [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 |
-| 17 | [Wonda](https://open.spotify.com/track/2QEpeCQjrNsx2czYpi955l) | [Vandrz](https://open.spotify.com/artist/39aL8sGmqpSVt5hgraIRhw) | [STROBE](https://open.spotify.com/album/2bSpW7nlrEzNUPERyU5fqX) | 2:45 |
-| 18 | [Mare](https://open.spotify.com/track/6O56ptIydjWtGtQsQrEcfu) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Mare](https://open.spotify.com/album/5kMArzwEAveUKeNZZd5dNi) | 2:41 |
-| 19 | [Forward Is The Bright](https://open.spotify.com/track/6f9tGwVeyXAfqtDy844dLu) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [I Remember You Everywhere](https://open.spotify.com/album/13E712H8wmf5CnIipxfaSB) | 2:33 |
-| 20 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 |
-| 21 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 |
-| 22 | [Like Water or Something](https://open.spotify.com/track/3CpHAioFSmxDt28X7ej1cn) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Like Water or Something](https://open.spotify.com/album/2fPKWllQ8xqcWoIcx5poI8) | 2:37 |
-| 23 | [i need myspace](https://open.spotify.com/track/3chffdXDrx8jsT3hpCnbAA) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [i need myspace](https://open.spotify.com/album/03x5kDCaUWMProXLgV0suf) | 2:17 |
-| 24 | [Think It Through](https://open.spotify.com/track/5dQStS5S139vgcybY6gUJL) | [Billy Mccray](https://open.spotify.com/artist/2EqQ9FPklGoK7YmlJQ1qA4) | [Think It Through](https://open.spotify.com/album/5kqO9S5yFkV9x3FiqGFPA2) | 2:28 |
-| 25 | [Glitter](https://open.spotify.com/track/6rwt2eHNCTkN7Qf8glvwKW) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Glitter](https://open.spotify.com/album/5H68CtVXVMBMiifT3Px875) | 3:04 |
-| 26 | [Sunyashniki](https://open.spotify.com/track/4xA4JIDlUORuiUTwgmHyTO) | [Voodulce](https://open.spotify.com/artist/0oaRcSFPFh6FaAgZjSVYfr) | [Sunyashniki](https://open.spotify.com/album/0xKkMEbq6vx4DMNfl8LWkz) | 2:48 |
-| 27 | [Slip N Slide](https://open.spotify.com/track/3TOtSGvIYxvtMihDlt7BXm) | [Edinbrgh](https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi) | [Luxe](https://open.spotify.com/album/2uSZqQyCiSEUs4IIuPCMn8) | 3:07 |
-| 28 | [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 |
-| 29 | [Kenaya](https://open.spotify.com/track/4hz8WgdHr8HmrYu8AKAF7c) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Kenaya](https://open.spotify.com/album/0CHML6ldbqxQ1icEclH3yb) | 2:38 |
-| 30 | [Snow In The Distance](https://open.spotify.com/track/3A4MQf1npDonTCo8L2D4HS) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 2:32 |
-| 31 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 |
-| 32 | [Sthlm Snow](https://open.spotify.com/track/1hFH9RtFSBOYtaySQk7wlf) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Sthlm Snow](https://open.spotify.com/album/6Qe5tKlNTIeTg0bQNASLme) | 3:21 |
+| 10 | [Summer Youth](https://open.spotify.com/track/2nj2H3Eq1BhxBkJIomPlIZ) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Summer Youth](https://open.spotify.com/album/4HpLAXUjv7qQiDkYRb0LFH) | 2:37 |
+| 11 | [Fast Friends](https://open.spotify.com/track/55SNJ5c6P2s9qoBjBSAJbq) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Low Tide](https://open.spotify.com/album/0KYdYU0aQoFid6Bx5Vp4WE) | 2:20 |
+| 12 | [Think im falling](https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu) | [WingIt](https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy) | [Island Bypass](https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4) | 2:06 |
+| 13 | [Awake \- Ambient Edit](https://open.spotify.com/track/43PrFJUfD8oi5U6qfBz0aQ) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Awake \- Ambient Edit](https://open.spotify.com/album/7qbwEjbRQqsmY4h0xi0aJY) | 2:24 |
+| 14 | [Koh Musica](https://open.spotify.com/track/77QMACo3pSn8I7lQD9nftm) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:36 |
+| 15 | [Mi Amor](https://open.spotify.com/track/3jqBtnZqoecYhGGzf0ZLBO) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Mi Amor](https://open.spotify.com/album/61UED012ycFtrMV5N13AuT) | 3:18 |
+| 16 | [PLAY](https://open.spotify.com/track/2DwFC2zVzDenk4D4LVnG1r) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [PLAY](https://open.spotify.com/album/29mzQbByItTgLxV74xBCtQ) | 2:29 |
+| 17 | [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 |
+| 18 | [Wonda](https://open.spotify.com/track/2QEpeCQjrNsx2czYpi955l) | [Vandrz](https://open.spotify.com/artist/39aL8sGmqpSVt5hgraIRhw) | [STROBE](https://open.spotify.com/album/2bSpW7nlrEzNUPERyU5fqX) | 2:45 |
+| 19 | [Mare](https://open.spotify.com/track/6O56ptIydjWtGtQsQrEcfu) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Mare](https://open.spotify.com/album/5kMArzwEAveUKeNZZd5dNi) | 2:41 |
+| 20 | [Forward Is The Bright](https://open.spotify.com/track/6f9tGwVeyXAfqtDy844dLu) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [I Remember You Everywhere](https://open.spotify.com/album/13E712H8wmf5CnIipxfaSB) | 2:33 |
+| 21 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 |
+| 22 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 |
+| 23 | [Like Water or Something](https://open.spotify.com/track/3CpHAioFSmxDt28X7ej1cn) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Like Water or Something](https://open.spotify.com/album/2fPKWllQ8xqcWoIcx5poI8) | 2:37 |
+| 24 | [i need myspace](https://open.spotify.com/track/3chffdXDrx8jsT3hpCnbAA) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [i need myspace](https://open.spotify.com/album/03x5kDCaUWMProXLgV0suf) | 2:17 |
+| 25 | [Think It Through](https://open.spotify.com/track/5dQStS5S139vgcybY6gUJL) | [Billy Mccray](https://open.spotify.com/artist/2EqQ9FPklGoK7YmlJQ1qA4) | [Think It Through](https://open.spotify.com/album/5kqO9S5yFkV9x3FiqGFPA2) | 2:28 |
+| 26 | [Glitter](https://open.spotify.com/track/6rwt2eHNCTkN7Qf8glvwKW) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Glitter](https://open.spotify.com/album/5H68CtVXVMBMiifT3Px875) | 3:04 |
+| 27 | [Sunyashniki](https://open.spotify.com/track/4xA4JIDlUORuiUTwgmHyTO) | [Voodulce](https://open.spotify.com/artist/0oaRcSFPFh6FaAgZjSVYfr) | [Sunyashniki](https://open.spotify.com/album/0xKkMEbq6vx4DMNfl8LWkz) | 2:48 |
+| 28 | [Slip N Slide](https://open.spotify.com/track/3TOtSGvIYxvtMihDlt7BXm) | [Edinbrgh](https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi) | [Luxe](https://open.spotify.com/album/2uSZqQyCiSEUs4IIuPCMn8) | 3:07 |
+| 29 | [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 |
+| 30 | [Kenaya](https://open.spotify.com/track/4hz8WgdHr8HmrYu8AKAF7c) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Kenaya](https://open.spotify.com/album/0CHML6ldbqxQ1icEclH3yb) | 2:38 |
+| 31 | [Snow In The Distance](https://open.spotify.com/track/3A4MQf1npDonTCo8L2D4HS) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 2:32 |
+| 32 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 |
 | 33 | [Tea Time](https://open.spotify.com/track/0RwQfHjZztHwmuSVeXs3H2) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Tea Time](https://open.spotify.com/album/0XOeePwCgFrwZ2SwrIC08h) | 2:40 |
 | 34 | [Bulletproof Lady](https://open.spotify.com/track/5CXumXWGyr7aKvc5NqKWxH) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Cruisin' on the 45](https://open.spotify.com/album/6Hb4wdGwr0BjUQkt6NzfUX) | 2:39 |
 | 35 | [Zero](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Zero](https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7) | 2:02 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 179 | [Hot Sand](https://open.spotify.com/track/3QwAIXZNTwWCGQCB1Mq25D) | [Neon Zebra](https://open.spotify.com/artist/6wql856Fi2nCHEqpdCGiUq), [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS) | [Summer Thoughts](https://open.spotify.com/album/6aeUpiVY8eoW8L4OA7lFBg) | 2:56 |
 | 180 | [Your Type](https://open.spotify.com/track/2opemWX71oebOvol9at15T) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [Your Type](https://open.spotify.com/album/3CpL725jrZokuSmI7KMtLH) | 2:09 |
 
-Snapshot ID: `MCwyMTg2OTVlYjEyY2JjYTQwOTYwMzM3MzQ1NDcxYmZmZDVkMzE3ZGM1`
+Snapshot ID: `MCw5MmE4ZGNmNzMyNjU2OGU5ZDE1Y2ZhNDBhZWE4NWRjZjllMGI2MjJl`

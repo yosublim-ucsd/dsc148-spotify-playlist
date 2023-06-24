@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rizwan Fadilah
 
-2,089 songs - 5 day 7 hr 52 min
+2,090 songs - 5 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1050,6 +1050,7 @@
 | [Let Them Go](https://open.spotify.com/track/7nvLMPeoPnk1STS79yatwh) | [LIMOUS](https://open.spotify.com/artist/5n6jI69lsTlPV5roCDGFFK), [Noel Hakeem](https://open.spotify.com/artist/4C8bt8Gos9JPOMm7zp5e0S) | [Let Them Go](https://open.spotify.com/album/514lfdmHbBGSkT6WDmWYHJ) | 5:19 | 2022-05-12 | 2022-05-27 |
 | [Let This Song Be With You](https://open.spotify.com/track/2ikrxe4kflkNElQz1M09MD) | [Vai Darl'n](https://open.spotify.com/artist/3maWa7RIweEyUC6kPJOcwk) | [Let This Song Be With You](https://open.spotify.com/album/43xoUAtrC089vFYTbCGZjr) | 4:37 | 2022-03-04 | 2022-03-18 |
 | [let you stay](https://open.spotify.com/track/0sg91HJERLspjlZY3La7Gl) | [Jauwie](https://open.spotify.com/artist/7ISYA90Xb8Xn3Nxo0THP8m) | [let you stay](https://open.spotify.com/album/6DL8dPrKBh67FY0Z5nRXH3) | 2:48 | 2022-11-24 | 2022-12-01 |
+| [Let's Do It For Love](https://open.spotify.com/track/2tXHRbM4JOyHhyOteDmSjM) | [TERUNA](https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL) | [Let's Do It For Love](https://open.spotify.com/album/5WdY3sT3eq3Blx5vAw1V5v) | 5:27 | 2023-06-22 |  |
 | [Let's Love](https://open.spotify.com/track/3fjjKFMOvnHOgzUU7ZAr6f) | [Paul Shady](https://open.spotify.com/artist/66lO8GUwREvqDQTVsaiYJg), [Shorelle](https://open.spotify.com/artist/0XyjNqSpenmIyvYddE9pYM) | [Let's Love](https://open.spotify.com/album/1gzNkuYj8ifst89KlRiDSC) | 3:36 | 2023-05-11 | 2023-05-26 |
 | [Letter](https://open.spotify.com/track/20zB2vzkzqFp3pd60L7lC5) | [Raousse](https://open.spotify.com/artist/3GqhA4vILxpNyaV79B9qus) | [Guidance / Letter](https://open.spotify.com/album/44qdJXac46f9C9IyQOFq2Z) | 4:00 | 2022-09-01 | 2022-09-16 |
 | [letter to myself](https://open.spotify.com/track/02hpmI1awdZm5lyZLK7rJ8) | [Rinrin](https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f) | [letter to myself](https://open.spotify.com/album/2CDZXyy8zYSl1vJ31OqHgj) | 4:09 | 2023-02-03 | 2023-02-17 |

@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-127 songs - 14 hr 36 min
+128 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/5Fu9Axrk4D9tJ72VDqtAOi) | [Ustad Piyare Lal Wadali](https://open.spotify.com/artist/4vChFUCHDKK5t1n77dSv22), [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9) | [The Best of Wadali Brothers](https://open.spotify.com/album/6t70d2Plw6ILCHLZ6mCBQe) | 7:51 | 2022-08-02 |  |
 | [Haiderium Qalandaram Mastam](https://open.spotify.com/track/3Z4EnyYxSXw62ENzxRxcgk) | [Hamza Akram Qawwal](https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT), [Abdul Akram](https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC), [Taimoor Akram](https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq) | [Haiderium Qalandaram Mastam](https://open.spotify.com/album/5zDG8KiWgU6GyIoRp08hpK) | 5:45 | 2022-07-18 |  |
 | [Haji Peer](https://open.spotify.com/track/2gzhifaV7Dz7BsTFstmZOA) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908) | [Haji Peer](https://open.spotify.com/album/52tfxa4ThDUFALfmS7HcZR) | 4:11 | 2022-08-02 |  |
-| [Haq Ali](https://open.spotify.com/track/4KdVxITCH0jol5Dbq2x68H) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Haq Ali](https://open.spotify.com/album/0FJlpw4MuPuYh2STnJVHt7) | 6:47 | 2022-08-02 |  |
+| [Haq Ali](https://open.spotify.com/track/4VCOs89feJNdL22cDoeFoc) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Blue Productions](https://open.spotify.com/artist/15jUoEypsDlzTmh1eVJP6X), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Bhoomi 2020](https://open.spotify.com/album/73G9NzlCUCFr88RHxJuQPQ) | 6:47 | 2023-05-19 |  |
+| [Haq Ali](https://open.spotify.com/track/4KdVxITCH0jol5Dbq2x68H) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Haq Ali](https://open.spotify.com/album/0FJlpw4MuPuYh2STnJVHt7) | 6:47 | 2022-08-02 | 2023-06-24 |
 | [Haq Nama](https://open.spotify.com/track/4h00nIZhd1S6uJDKDpkEKj) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Haq Nama](https://open.spotify.com/album/5J7Qzd4bmQCqBXuhmhXVyw) | 5:06 | 2023-03-16 |  |
 | [Hum Dekhenge](https://open.spotify.com/track/68xwgHKBcFBdgNlwGaiQWD) | [Zeeshan Haider](https://open.spotify.com/artist/0c8E2S7cYBXqoo51XkVX3L) | [Hum Dekhenge](https://open.spotify.com/album/5AsrWbCKLj3AlZjddMn44O) | 1:58 | 2022-08-29 |  |
 | [Husn E Haqiqi](https://open.spotify.com/track/1Yi1XZNXOGk49Eh8WI5FGG) | [Darvesh](https://open.spotify.com/artist/1mPsFzgP5Zg6gdnfyKWMyJ) | [Husn E Haqiqi](https://open.spotify.com/album/402uZx2nCUK3MWpvqrVNxW) | 6:39 | 2022-06-21 |  |

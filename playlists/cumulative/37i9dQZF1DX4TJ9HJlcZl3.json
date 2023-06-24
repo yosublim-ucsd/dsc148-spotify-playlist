@@ -512,10 +512,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 251277,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2evv8aHR5IeiDTyGlmOOM3"
+    },
+    {
+      "album": {
+        "name": "I Wonder",
+        "url": "https://open.spotify.com/album/07vvTjXpmDxTVulZkXrK6p"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251277,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/6QsnUuIH1eWCmZ3Du1hzFJ"
     },
     {
       "album": {

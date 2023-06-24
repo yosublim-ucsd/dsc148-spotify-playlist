@@ -713,6 +713,28 @@
     },
     {
       "album": {
+        "name": "Humnava (Reprise)",
+        "url": "https://open.spotify.com/album/0OnIshfjH5WOWlzcZhcwXw"
+      },
+      "artists": [
+        {
+          "name": "Jivitesh Kharbanda",
+          "url": "https://open.spotify.com/artist/6xRm13Ry0rDXAZyspU8Rue"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Humnava (Reprise)",
+      "url": "https://open.spotify.com/track/5soQc8BLjpCkIMScA6bqyf"
+    },
+    {
+      "album": {
         "name": "Ik Daffa",
         "url": "https://open.spotify.com/album/6Sw9GsswHauMNPKlXuPH5u"
       },
@@ -750,6 +772,28 @@
       "duration_ms": 280634,
       "name": "ilhaam",
       "url": "https://open.spotify.com/track/1OZB6eUNMHMKEej1cdcVhZ"
+    },
+    {
+      "album": {
+        "name": "Tiku Weds Sheru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ"
+      },
+      "artists": [
+        {
+          "name": "Sai Kabir",
+          "url": "https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg"
+        },
+        {
+          "name": "Gaurav Chatterji",
+          "url": "https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78782,
+      "name": "Intezaar Tha - Reprise",
+      "url": "https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX"
     },
     {
       "album": {
@@ -1536,7 +1580,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 262500,
       "name": "Parwaah",
       "url": "https://open.spotify.com/track/5CeWyGt9oMtsBBOLtYRTl5"
@@ -1766,6 +1810,28 @@
       "duration_ms": 185000,
       "name": "Sheher",
       "url": "https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV"
+    },
+    {
+      "album": {
+        "name": "Tabaahi (Stripped Down Version)",
+        "url": "https://open.spotify.com/album/4TXUigDQ7VWhNxmgBz62O7"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "OAFF",
+          "url": "https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138387,
+      "name": "Tabaahi (Stripped Down Version)",
+      "url": "https://open.spotify.com/track/4DfwE2GhqMvKeuGu6DfwmX"
     },
     {
       "album": {
@@ -2118,7 +2184,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 126674,
       "name": "Waqt Tham Gaya Kahin (Currious List)",
       "url": "https://open.spotify.com/track/6hQieOPS0HX8OC9R4TadKm"
@@ -2172,7 +2238,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 203389,
       "name": "Ye Sama",
       "url": "https://open.spotify.com/track/6YdMuBCmTZUypKNZuFvIuv"

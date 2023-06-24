@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Digga D
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,303,430 likes - 63 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,303,726 likes - 63 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 2 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 |
 | 3 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
 | 4 | [Day Date](https://open.spotify.com/track/5hpVI4uROr6e4RBQJzBwB7) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Day Date](https://open.spotify.com/album/5LfkJKCmnjUktm83PrYbMq) | 3:02 |
-| 5 | [Rock Climbing \(feat\. M Huncho\)](https://open.spotify.com/track/2JXcBRbr4jXx08ANlQSNro) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Rock Climbing \(feat\. M Huncho\)](https://open.spotify.com/album/61QZyI28o1QJs14AQAMRz6) | 2:50 |
-| 6 | [Side Effects](https://open.spotify.com/track/3M90pvbJs8R4Ki5pTJUyhS) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Side Effects](https://open.spotify.com/album/4dzLBHQWjH8KPqHsow0AkY) | 3:03 |
+| 5 | [Rock Climbing \(feat\. M Huncho\)](https://open.spotify.com/track/0Mkn2M0bfkt1kBlJA1Z9tw) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [High Profile](https://open.spotify.com/album/3FbUUs5VxCKExl9DPTBFf6) | 2:50 |
+| 6 | [Side Effects](https://open.spotify.com/track/2evrjW83Ds5w5xPhlMw8DF) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Side Effects](https://open.spotify.com/album/6Ay6MnEJBbUCNZptXoPe91) | 3:01 |
 | 7 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 | 8 | [It's Crazy \- Single Version](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 |
 | 9 | [DTB](https://open.spotify.com/track/4ydiRNXIuhD1ehRpUpdcLw) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [DTB](https://open.spotify.com/album/7icXXSu17oor9WIvME1txz) | 2:16 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 62 | [Dope](https://open.spotify.com/track/7HCingQ6wa3KmzwATDB6SW) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v) | [Dope](https://open.spotify.com/album/5gAMwX9yT4hBLdM93DNvln) | 2:06 |
 | 63 | [Gyalis](https://open.spotify.com/track/52MUxoqPQdXhYHp1ntj79z) | [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [Gyalis](https://open.spotify.com/album/14DZzUwse1F6QE9WaMnRWZ) | 3:10 |
 
-Snapshot ID: `MCwzYTdhYTcwOTBjYmFmMzc2ZDlkNGEyZTMwODM2ZDBlZTY2MTRhYTQ2`
+Snapshot ID: `MCw5N2EyOWZlNGQ5ZWJhYWE1NjFhYzhiYjBkNTQwN2M5YzE4OWVhZDkz`

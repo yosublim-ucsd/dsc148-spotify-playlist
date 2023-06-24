@@ -577,6 +577,32 @@
     },
     {
       "album": {
+        "name": "Balan\u00e7a",
+        "url": "https://open.spotify.com/album/6XGr1xmZuxYrU3jeY7F1KN"
+      },
+      "artists": [
+        {
+          "name": "Byll",
+          "url": "https://open.spotify.com/artist/3YdXuCduWWgMh8c5yotblH"
+        },
+        {
+          "name": "DJ BRUNO PRADO",
+          "url": "https://open.spotify.com/artist/5kLUQ7J1U7CqxjW0hu8rr3"
+        },
+        {
+          "name": "Roccha",
+          "url": "https://open.spotify.com/artist/4tZgFHpXpKRu9TTQc1SrpC"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Balan\u00e7a",
+      "url": "https://open.spotify.com/track/093Xee7tdLahNGemZSdgM0"
+    },
+    {
+      "album": {
         "name": "Mateca x Teto",
         "url": "https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7"
       },
@@ -878,7 +904,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 225145,
       "name": "Carioca & Luandense",
       "url": "https://open.spotify.com/track/3PEMo84BP2cSpeHV7a43JA"
@@ -1432,7 +1458,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 121379,
       "name": "Cria da BXD",
       "url": "https://open.spotify.com/track/1eA0BSAtKGOOyjddOLBigX"
@@ -1450,7 +1476,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 100122,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/7ekzDnDXofXkeJHTcSi6uP"
@@ -2820,7 +2846,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 170000,
       "name": "M4",
       "url": "https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy"
@@ -2846,6 +2872,78 @@
       "duration_ms": 150285,
       "name": "M4ndr4k4",
       "url": "https://open.spotify.com/track/0dwr8PSsYkf0PaLbYIzRj4"
+    },
+    {
+      "album": {
+        "name": "Macarena",
+        "url": "https://open.spotify.com/album/0dY0vZoJRVyERfbLA6WBLn"
+      },
+      "artists": [
+        {
+          "name": "Dazzen",
+          "url": "https://open.spotify.com/artist/0Ak2qPeQmHnUH8gT54f4zr"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "gabss",
+          "url": "https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E"
+        },
+        {
+          "name": "Natan",
+          "url": "https://open.spotify.com/artist/5hQpfn3QeMzgAmcqBP1GOb"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254117,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/62FjYIpr0spteyDRMCvtbm"
+    },
+    {
+      "album": {
+        "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+        "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+      "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
     },
     {
       "album": {
@@ -3909,6 +4007,32 @@
     },
     {
       "album": {
+        "name": "Olhares",
+        "url": "https://open.spotify.com/album/7k2cZseN4XVXOGq96b6eAR"
+      },
+      "artists": [
+        {
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+        },
+        {
+          "name": "Prod Aurelio",
+          "url": "https://open.spotify.com/artist/4Sk828MjCZEqa9cFJKgdtD"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Olhares",
+      "url": "https://open.spotify.com/track/6mYQpzZgFgE6Adf9dm0Gjl"
+    },
+    {
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
       },
@@ -4845,6 +4969,32 @@
     },
     {
       "album": {
+        "name": "Sensa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0N1ObY7hJkqgbbvKyrF99R"
+      },
+      "artists": [
+        {
+          "name": "Zambrota",
+          "url": "https://open.spotify.com/artist/0yILk4EVQcvXQK2dTISXDI"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134880,
+      "name": "Sensa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3YRTkYYqCxBabsKLe8Aps5"
+    },
+    {
+      "album": {
         "name": "Sereia",
         "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
       },
@@ -5622,7 +5772,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 157741,
       "name": "Uber",
       "url": "https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb"

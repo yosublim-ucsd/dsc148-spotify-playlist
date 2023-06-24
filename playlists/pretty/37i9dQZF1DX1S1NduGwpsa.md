@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Meshell Ndegeocello
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,603 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,639 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Outta the Blue with You](https://open.spotify.com/track/1Un6Xe3Ojn48KPWohouhWj) | [Mathieu Najean](https://open.spotify.com/artist/0uepTu7VvA1dURIYOUGUGx), [Cait Jones](https://open.spotify.com/artist/3wbVZ5KI6HVOWsoV78ECfI), [David Paycha](https://open.spotify.com/artist/4nodgfX2Ns8tPZq6OgHy9W), [Noé Codjia](https://open.spotify.com/artist/5wVgCCd9Tjas35KQdNOHlG), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Édouard Pennes](https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2), [Edouard Wallyn](https://open.spotify.com/artist/6oKU1P03f4vPJeSDvCFI44), [Zoot Collectif](https://open.spotify.com/artist/42J8D311zCRXThjHHo1z90) | [Outta the Blue with You](https://open.spotify.com/album/0tVdsxVw1acnmeCIexDSNN) | 3:32 |
 | 50 | [Nature Boy](https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ) | [Anne Bisson](https://open.spotify.com/artist/0M93Gh9vPXf1XKa3CqchZF) | [Be My Lover](https://open.spotify.com/album/3s23xRvp9RWPxZfHpOvqVf) | 3:54 |
 
-Snapshot ID: `MCxlOGU5Njg3ODI2ZDI2MjYyYTgxNjYzZjcwOWUzM2I2YzdiMDMyZTJl`
+Snapshot ID: `MCxlYmZmZjAwYzU4NDE5ZDgzYTExYjgwMDU2MWZhZmNmMDIwNDhjOTM5`

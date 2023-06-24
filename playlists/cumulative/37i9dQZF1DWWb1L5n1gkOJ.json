@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Regius",
+        "url": "https://open.spotify.com/album/0IvGZuQFJrIG9T8NupkWaC"
+      },
+      "artists": [
+        {
+          "name": "Ali Silva",
+          "url": "https://open.spotify.com/artist/5aaCY6n423kFCerv4V5Gqc"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Admiror",
+      "url": "https://open.spotify.com/track/0S5I7x7NLXC5qc4QbKFEhk"
+    },
+    {
+      "album": {
         "name": "Already Missing Summer",
         "url": "https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq"
       },
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 266915,
       "name": "Lustre and Mist",
       "url": "https://open.spotify.com/track/2tCQYWs43KyIximDIklg7z"
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-24",
       "duration_ms": 153513,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/0T6aebCof9rkuZNiBKhyYA"

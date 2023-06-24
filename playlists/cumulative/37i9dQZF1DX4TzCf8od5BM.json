@@ -2053,6 +2053,32 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: Minnie's Bow-Toons: Camp Minnie",
+        "url": "https://open.spotify.com/album/3AB9eHf1zOPJMNY2exugAe"
+      },
+      "artists": [
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116020,
+      "name": "Minnie's Bow-Toons: Camp Minnie Theme Song",
+      "url": "https://open.spotify.com/track/1UjC5QOkVcVnTP7J4RHxZp"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Minnie's Bow-Toons",
         "url": "https://open.spotify.com/album/4QkMBuO7TGwCtjhwCr06vX"
       },
