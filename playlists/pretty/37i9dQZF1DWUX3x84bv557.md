@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Bilal Wahib
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,281 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,308 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Ze Redt Zich Wel](https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Ze Redt Zich Wel](https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy) | 2:26 |
 | 90 | [Ik Voel Me Goed](https://open.spotify.com/track/5XqMs1M9TPOxeQV4kl1kEF) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Ik Voel Me Goed](https://open.spotify.com/album/7rAcfvWvZUEPezw9b08nzh) | 3:03 |
 
-Snapshot ID: `MCw0MGNhNjc4N2NmNGFlMDhkN2VkNmJlOWUxYjk1NjY3NDljMzJhMGYy`
+Snapshot ID: `MCw5ODhjZTZjMGI5MzY0NTFhMTA1OWFjMTdhNzYxMjk1OTA0Y2UyZDU1`

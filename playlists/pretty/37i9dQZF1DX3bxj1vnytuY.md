@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,800 likes - 100 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,847 likes - 100 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 82 | [Into Your Tribe \- Bedouin Remix](https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV) | [Soul Of Zoo](https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g), [Guy Laliberté](https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC), [Snow Owl](https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Into Your Tribe \(Bedouin Remix\)](https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR) | 7:34 |
 | 83 | [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 |
 | 84 | [Sidi](https://open.spotify.com/track/1I5CUoUVsoFD33CXsUM91Z) | [Herrer](https://open.spotify.com/artist/4GBv8rfeHjPDvklx9mvYuz) | [Sidi](https://open.spotify.com/album/3Jki9ZN510lqYxRrvw9eDp) | 5:00 |
-| 85 | [Izvor](https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71) | 6:40 |
+| 85 | [Izvor](https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1) | 6:40 |
 | 86 | [Jaffar](https://open.spotify.com/track/2hDT5xo6bgpLnqra8OZH7R) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Jaffar](https://open.spotify.com/album/1gGWOsCs7X7Ve7oABfBpZk) | 8:22 |
 | 87 | [Tuhan](https://open.spotify.com/track/0CEfUQZtt5I45nkXZIzExz) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/3kbl5YDfVIUDXlbIY5XTYm) | 7:44 |
 | 88 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Kondelelani](https://open.spotify.com/track/1qsflyGrjihmYDwEaTcdKz) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Kondelelani](https://open.spotify.com/album/0NckaNjRe6HWOLMUnW3GxZ) | 7:08 |
 | 100 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 |
 
-Snapshot ID: `MCw5NmY3OTU3MTBlZjE0ZTZmOGEzNjRjNDhkZDljOTM4OWY4Mjg3MmU0`
+Snapshot ID: `MCw1MjViNTk1Y2NhMGNkNzAxNWFiYzU0NDg1OTRlZTJmYzA0ODAwNTlj`

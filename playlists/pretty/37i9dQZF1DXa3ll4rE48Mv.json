@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 151375,
+  "num_followers": 151530,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGZiZTVmMjYxMmU5YmYyZDFkZDNkNzdkMjI1ZGE4MTI0ZTg0OWVl",
+  "snapshot_id": "MCwyMzgzZDkzY2I2MDhjNGE1YTNiMzUzMmU0MzlhMWUzNWZkOWNmYjYx",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Intractable",
-        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
-      },
-      "artists": [
-        {
-          "name": "Gina Young",
-          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
-        }
-      ],
-      "duration_ms": 124653,
-      "name": "So-Called Str8 Grrrl",
-      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "gasoline",
         "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 114053,
       "name": "Staplegun",
       "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Intractable",
+        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
+      },
+      "artists": [
+        {
+          "name": "Gina Young",
+          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
+        }
+      ],
+      "duration_ms": 124653,
+      "name": "So-Called Str8 Grrrl",
+      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Model Citizen",
-        "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 183610,
-      "name": "Brighter Days (Are Before Us)",
-      "url": "https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Chickens",
-        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
+        "name": "Model Citizen",
+        "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
       },
       "artists": [
         {
-          "name": "Forrest Flowers",
-          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Chickens",
-      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
+      "duration_ms": 183610,
+      "name": "Brighter Days (Are Before Us)",
+      "url": "https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -759,6 +743,22 @@
       "duration_ms": 215133,
       "name": "Lovers Lane",
       "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Chickens",
+        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Flowers",
+          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Chickens",
+      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Snarkism",
-        "url": "https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP"
-      },
-      "artists": [
-        {
-          "name": "Tribe 8",
-          "url": "https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Wrong Bathroom",
-      "url": "https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "They/Them",
         "url": "https://open.spotify.com/album/1OaojIxnExbR4O45XHJUIW"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 137781,
       "name": "They/Them",
       "url": "https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Snarkism",
+        "url": "https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP"
+      },
+      "artists": [
+        {
+          "name": "Tribe 8",
+          "url": "https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Wrong Bathroom",
+      "url": "https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Home Recordings 2020 - 2021",
-        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
-      },
-      "artists": [
-        {
-          "name": "Tokky Horror",
-          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Girlracer",
-      "url": "https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Big Shouty",
         "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "The Seduction of Kansas",
-        "url": "https://open.spotify.com/album/7LFNJk5W0KLjtdgo9W4WmQ"
+        "name": "Home Recordings 2020 - 2021",
+        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
       },
       "artists": [
         {
-          "name": "Priests",
-          "url": "https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx"
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
         }
       ],
-      "duration_ms": 167276,
-      "name": "Good Time Charlie",
-      "url": "https://open.spotify.com/track/3m8UItuMK5t0VXmTOztjDQ"
+      "duration_ms": 188374,
+      "name": "Girlracer",
+      "url": "https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1143,6 +1127,22 @@
       "duration_ms": 202231,
       "name": "Divine Violence",
       "url": "https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "The Seduction of Kansas",
+        "url": "https://open.spotify.com/album/7LFNJk5W0KLjtdgo9W4WmQ"
+      },
+      "artists": [
+        {
+          "name": "Priests",
+          "url": "https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "Good Time Charlie",
+      "url": "https://open.spotify.com/track/3m8UItuMK5t0VXmTOztjDQ"
     },
     {
       "added_at": "2023-05-25 14:38:53",

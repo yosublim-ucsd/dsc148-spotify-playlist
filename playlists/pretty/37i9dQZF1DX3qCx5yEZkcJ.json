@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1487525,
+  "num_followers": 1487537,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWM4ZThhYjFjMmFjZDk5NjVmYjQ4MDg1ZjZlYTI0YTc5OTcyMWQy",
+  "snapshot_id": "MCwyYjEwZjJiZDQyYTM0ZTE2NWJlNjVjY2M2YjE4NjA0OGYyYzM4NjM5",
   "tracks": [
     {
       "added_at": "2023-06-22 15:14:21",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-06-22 15:14:21",
       "album": {
-        "name": "Mental Acupuncture",
-        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
-      },
-      "artists": [
-        {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Mental Acupuncture",
-      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
-    },
-    {
-      "added_at": "2023-06-22 15:14:21",
-      "album": {
         "name": "Boardwalk Bumps 3",
         "url": "https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 121097,
       "name": "Good Evening",
       "url": "https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG"
+    },
+    {
+      "added_at": "2023-06-22 15:14:21",
+      "album": {
+        "name": "Mental Acupuncture",
+        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
+      },
+      "artists": [
+        {
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Mental Acupuncture",
+      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
     },
     {
       "added_at": "2023-06-22 15:14:21",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-06-22 15:14:21",
       "album": {
+        "name": "Cadillac Mountain",
+        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
+      },
+      "artists": [
+        {
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+        }
+      ],
+      "duration_ms": 103255,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
+    },
+    {
+      "added_at": "2023-06-22 15:14:21",
+      "album": {
         "name": "Do the Right Thing",
         "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
@@ -759,38 +775,6 @@
     {
       "added_at": "2023-06-22 15:14:21",
       "album": {
-        "name": "Cadillac Mountain",
-        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
-      },
-      "artists": [
-        {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
-        }
-      ],
-      "duration_ms": 103255,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
-    },
-    {
-      "added_at": "2023-06-22 15:14:21",
-      "album": {
-        "name": "Radio Moonspatz",
-        "url": "https://open.spotify.com/album/0n0HZ3zcyl4INlWTw36I0m"
-      },
-      "artists": [
-        {
-          "name": "Moonspatz",
-          "url": "https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK"
-        }
-      ],
-      "duration_ms": 150429,
-      "name": "Think for Yourself",
-      "url": "https://open.spotify.com/track/6TgguvjwUbXg18vyLihVxv"
-    },
-    {
-      "added_at": "2023-06-22 15:14:21",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 142677,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
+    },
+    {
+      "added_at": "2023-06-22 15:14:21",
+      "album": {
+        "name": "Radio Moonspatz",
+        "url": "https://open.spotify.com/album/0n0HZ3zcyl4INlWTw36I0m"
+      },
+      "artists": [
+        {
+          "name": "Moonspatz",
+          "url": "https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK"
+        }
+      ],
+      "duration_ms": 150429,
+      "name": "Think for Yourself",
+      "url": "https://open.spotify.com/track/6TgguvjwUbXg18vyLihVxv"
     },
     {
       "added_at": "2023-06-22 15:14:21",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-06-22 15:14:21",
       "album": {
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "added_at": "2023-06-22 15:14:21",
+      "album": {
         "name": "Clout Chaser",
         "url": "https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 112065,
       "name": "Clout Chaser",
       "url": "https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5"
-    },
-    {
-      "added_at": "2023-06-22 15:14:21",
-      "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
     },
     {
       "added_at": "2023-06-22 15:14:21",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-06-22 15:14:21",
       "album": {
-        "name": "Far Out",
-        "url": "https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux"
-      },
-      "artists": [
-        {
-          "name": "Joe Nora",
-          "url": "https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ"
-        },
-        {
-          "name": "G Mills",
-          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Far Out",
-      "url": "https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj"
-    },
-    {
-      "added_at": "2023-06-22 15:14:21",
-      "album": {
         "name": "Soul Searching",
         "url": "https://open.spotify.com/album/6efynV2ZemtiA8m8VIhfNX"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 169090,
       "name": "Ocean Waves",
       "url": "https://open.spotify.com/track/0bUUIbkmZZARHVRbukkdUJ"
+    },
+    {
+      "added_at": "2023-06-22 15:14:21",
+      "album": {
+        "name": "Far Out",
+        "url": "https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux"
+      },
+      "artists": [
+        {
+          "name": "Joe Nora",
+          "url": "https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ"
+        },
+        {
+          "name": "G Mills",
+          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Far Out",
+      "url": "https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj"
     },
     {
       "added_at": "2023-06-22 15:14:21",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-06-22 15:14:21",
       "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+      },
+      "artists": [
+        {
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
+    },
+    {
+      "added_at": "2023-06-22 15:14:21",
+      "album": {
         "name": "JUST KEEP IT",
         "url": "https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 193411,
       "name": "JUST KEEP IT",
       "url": "https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv"
-    },
-    {
-      "added_at": "2023-06-22 15:14:21",
-      "album": {
-        "name": "The Valley",
-        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
-      },
-      "artists": [
-        {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
     },
     {
       "added_at": "2023-06-22 15:14:21",

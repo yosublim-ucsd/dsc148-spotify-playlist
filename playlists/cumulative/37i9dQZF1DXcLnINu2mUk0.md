@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-342 songs - 18 hr 45 min
+343 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [469](https://open.spotify.com/track/5izsIQaHmew3R2dzySz0EG) | [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [469](https://open.spotify.com/album/0688sP9kWJoNixqn9h0IN3) | 2:55 | 2022-08-04 | 2022-09-02 |
 | [5MINUTES](https://open.spotify.com/track/4f96bCyt3UILSEJbfBUMqg) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O), [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [5MINUTES](https://open.spotify.com/album/26VyhByd0y1RsgrYus5bOz) | 3:08 | 2022-07-07 | 2022-08-19 |
 | [777](https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG) | [Ziki Ks](https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [777](https://open.spotify.com/album/2cJ1jf9Oo3mhiDK7dLJfeq) | 3:10 | 2023-02-10 | 2023-05-19 |
-| [A Minha Rua](https://open.spotify.com/track/4oITMTM8zu3ZhHqecdshb1) | [Bokor](https://open.spotify.com/artist/00qHS3PYzXn30XxzoiGGzr) | [A Minha Rua](https://open.spotify.com/album/79BCjYkvaJNmh6arKQLsrZ) | 3:17 | 2023-06-22 |  |
+| [A Minha Rua](https://open.spotify.com/track/4oITMTM8zu3ZhHqecdshb1) | [Bokor](https://open.spotify.com/artist/00qHS3PYzXn30XxzoiGGzr) | [A Minha Rua](https://open.spotify.com/album/79BCjYkvaJNmh6arKQLsrZ) | 3:17 | 2023-06-22 | 2023-06-25 |
 | [Acabar mal](https://open.spotify.com/track/67E0HoObbP1fReMzWihfye) | [Roley](https://open.spotify.com/artist/3PGL3pitV1oSwtjqZZJrMh), [Vi Ci](https://open.spotify.com/artist/70u6V1hQWgLW5aBLvabc3X), [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g) | [Acabar mal](https://open.spotify.com/album/0UcqcXheDTaE2GuMNGs4dv) | 2:45 | 2023-01-06 | 2023-01-27 |
 | [Acabar Na Cama](https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso) | [Hugo Pina](https://open.spotify.com/artist/2BKFTDHOy7xXbeibvKsOHu) | [Acabar Na Cama](https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ) | 2:36 | 2023-05-11 | 2023-06-09 |
 | [Acabou](https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN) | [MEGGY](https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd), [Joy Jnr](https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt) | [Acabou](https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr) | 3:32 | 2023-01-27 | 2023-02-17 |
@@ -192,6 +192,7 @@
 | [Me Liga](https://open.spotify.com/track/3tDSsSxhgxZXm6cEiNkuBH) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [Me Liga](https://open.spotify.com/album/18sYSSTZxicODIumIZqC54) | 2:53 | 2022-08-18 | 2022-08-31 |
 | [Melanina](https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Melanina](https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch) | 4:04 | 2022-07-21 | 2022-10-14 |
 | [Mereces](https://open.spotify.com/track/3GMiqQto55B9vjUhFUFYGK) | [Deni](https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G) | [Mereces](https://open.spotify.com/album/0jUehlIRWSQkj3XjQY1hSw) | 3:18 | 2023-03-24 | 2023-04-14 |
+| [Metamorfose](https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Metamorfose](https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0) | 4:08 | 2023-06-22 |  |
 | [Meu Tipo](https://open.spotify.com/track/2dRQYj6jjEqIgJBtUFE3bY) | [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Meu Tipo](https://open.spotify.com/album/39sbMlocyFsWvKbW33AsDc) | 3:24 | 2023-03-24 | 2023-04-10 |
 | [Mexeu Contigo \(Remix\)](https://open.spotify.com/track/2ZFBSjOAw8qMW31p51mCX0) | [Lorena Pollock](https://open.spotify.com/artist/57aJV1lubomzRmN7U39Wmh), [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Mexeu Contigo \(Remix\)](https://open.spotify.com/album/5pharZhhyldorgOlMpdtdk) | 4:02 | 2023-06-22 |  |
 | [Miami](https://open.spotify.com/track/1fxGMZsjCkKZkcwrnjhU7D) | [Yung SpaceGhost](https://open.spotify.com/artist/6XsOyDRKR2HpSDEWYUsNJz), [Rumi](https://open.spotify.com/artist/3yWoOPJIjQxiJeGQbNaSrL) | [Miami](https://open.spotify.com/album/7u4us2ygesx97lTMlnpRAL) | 2:28 | 2022-07-07 | 2022-08-05 |

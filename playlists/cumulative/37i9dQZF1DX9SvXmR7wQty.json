@@ -8328,6 +8328,24 @@
     {
       "album": {
         "name": "Derni\u00e8re fois",
+        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198698,
+      "name": "Derni\u00e8re fois",
+      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
+    },
+    {
+      "album": {
+        "name": "Derni\u00e8re fois",
         "url": "https://open.spotify.com/album/6iS3QT8SnIbsYbxvcvqZWB"
       },
       "artists": [
@@ -10930,6 +10948,50 @@
       "duration_ms": 237833,
       "name": "Excellence Europe-Express",
       "url": "https://open.spotify.com/track/2kF5cIXClKS7kcBoh22hZo"
+    },
+    {
+      "album": {
+        "name": "Extendo",
+        "url": "https://open.spotify.com/album/07O2eBpkw7tdBk5Fj0JyNE"
+      },
+      "artists": [
+        {
+          "name": "Vladimir Cauchemar",
+          "url": "https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165417,
+      "name": "Extendo",
+      "url": "https://open.spotify.com/track/2KXwDwaXZtQ35DrNmdQ2wh"
+    },
+    {
+      "album": {
+        "name": "Eyes Contact",
+        "url": "https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK"
+      },
+      "artists": [
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138109,
+      "name": "Eyes Contact",
+      "url": "https://open.spotify.com/track/1LU5LqBOgdJIQvNIjV41Ky"
     },
     {
       "album": {
@@ -21060,7 +21122,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 190973,
       "name": "M'enfer",
       "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
@@ -22693,6 +22755,28 @@
     },
     {
       "album": {
+        "name": "Daddy 9",
+        "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "Molo (feat. Dadju)",
+      "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
+    },
+    {
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/0OR7haVApzOAQKYLMNauiQ"
       },
@@ -23208,7 +23292,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 167786,
       "name": "Mortel",
       "url": "https://open.spotify.com/track/77nU8wDRYGuoIt6ryY49pz"
@@ -28688,7 +28772,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 160397,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/6oGaLU39gAzlsWDjj7EKaS"
@@ -29824,7 +29908,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 219818,
       "name": "R\u00eaver \u00e9veill\u00e9",
       "url": "https://open.spotify.com/track/40fvGOkdmC6pzS6bT2yKX1"
@@ -30376,7 +30460,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 230953,
       "name": "Sauvetage",
       "url": "https://open.spotify.com/track/6yI6rMrzserdWx6h74mkf1"
@@ -35466,6 +35550,24 @@
       "duration_ms": 244158,
       "name": "Vestiges",
       "url": "https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq"
+    },
+    {
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134423,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l"
     },
     {
       "album": {

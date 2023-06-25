@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Slowdive
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,112 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,143 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [Sandrail Silhouette](https://open.spotify.com/track/23nECiREEvEMBDRZGodIks) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [& the Charm](https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu) | 4:29 |
 | 100 | [To The Boys](https://open.spotify.com/track/1nN5YSvqpqheVped0uJtyw) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Iliad](https://open.spotify.com/album/2iqAeGceDCR2GPvLjDTGHQ) | 3:46 |
 
-Snapshot ID: `MCwyZmE1NDcwMTU3MDg0MDljMTAyZjUzM2I4ZTQzY2Y1NzA2ZDg4OTgw`
+Snapshot ID: `MCxjYmRhOWZhYWYxMzZlNmRkN2NkMmJjNGI3ZTU3ZDIwOGYzMjJhYjZj`

@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 58663,
+  "num_followers": 58760,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzQ1ZTY1ODBjNzg2MzY0MWRlMjBiMzI2ODlmYWIyMDZiOGE0YmE0",
+  "snapshot_id": "MCw5OThkMTkwMGUxNzczYjg1Zjg5ZTVlZDM4MWVhYWY4MjQ2ODFjMmVm",
   "tracks": [
     {
       "added_at": "2023-04-04 13:57:02",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
+        "name": "Whorecore",
+        "url": "https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "duration_ms": 203174,
+      "name": "Voodoo Pussy",
+      "url": "https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/3y2ujmddDnMX5L6hcMkyvT"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 124646,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/1qbzrgjYqA84EOKisIqdz1"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Whorecore",
-        "url": "https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy"
-      },
-      "artists": [
-        {
-          "name": "LSDXOXO",
-          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
-        }
-      ],
-      "duration_ms": 203174,
-      "name": "Voodoo Pussy",
-      "url": "https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0"
     },
     {
       "added_at": "2023-04-04 13:57:02",

@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-92 songs - 4 hr 25 min
+93 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [egirl wanna do bdsm.nsfw](https://open.spotify.com/track/23H7hqMiuNHrPU8AR9JNoy) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [XNI](https://open.spotify.com/artist/3ibuYNQ2Oxu7lWcNf6Ww7c), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [egirl wanna do bdsm.nsfw](https://open.spotify.com/album/4Pt415qukXaaPjSmxWtFgr) | 2:36 | 2022-11-19 |  |
 | [FEEL THE RAIN](https://open.spotify.com/track/5S4qnop8G4JOMquKu8Hdd5) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/0WIVj9OTSnoe28qTwAjgyN) | 3:27 | 2022-11-19 | 2023-06-17 |
 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 | 2022-11-19 |  |
-| [For Real](https://open.spotify.com/track/0GdDLqCeNprluWECiORtjq) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/4GpGXeroaWC7vZmvOPvFOA) | 3:17 | 2022-11-19 |  |
+| [For Real](https://open.spotify.com/track/0GdDLqCeNprluWECiORtjq) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/4GpGXeroaWC7vZmvOPvFOA) | 3:17 | 2022-11-19 | 2023-06-25 |
 | [FreeBoiii](https://open.spotify.com/track/4fc1GduRB1LoVpCxcPsBfK) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [Pedro the GodSon](https://open.spotify.com/artist/0BQTXgCijj1OlovJI9x0Jg) | [Zee PACK vol.1.5](https://open.spotify.com/album/7F3KclbfnIcYI0e7b4Slpd) | 2:55 | 2022-12-22 |  |
 | [GAAAA](https://open.spotify.com/track/7a3VsUQwJdaARJYzYQlL27) | [YDIZZY](https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz), [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb) | [Syndrome IV](https://open.spotify.com/album/0ZZi255RBmP7dgDYPkggJg) | 3:03 | 2022-11-19 | 2023-05-24 |
 | [GEISYA3.0](https://open.spotify.com/track/1nZvLQD4eqhMT31Of41Zzj) | [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [Satoru](https://open.spotify.com/artist/3FVw1kdpgyiIprj2iQ9Qrt), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [The Legend of TOFU \(Deluxe\)](https://open.spotify.com/album/3EsP7E6bsStQ9LVbCu9XNa) | 2:32 | 2022-11-19 | 2023-05-24 |
@@ -38,6 +38,7 @@
 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 | 2022-11-19 |  |
 | [Go](https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q) | 3:25 | 2023-05-23 | 2023-06-02 |
 | [Go](https://open.spotify.com/track/1bdbr1uDAQMVxY9HXts4uW) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/3h5PA716UNNgWEl2HW1nSJ) | 3:25 | 2022-11-19 |  |
+| [GO DJ \-Hey Daddy\-](https://open.spotify.com/track/4z0KvxFBl2TJA9bBZtXJem) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [GO DJ \-Hey Daddy\-](https://open.spotify.com/album/04Q1klLYpyplEou1uzZdEJ) | 1:44 | 2023-06-21 |  |
 | [Gotta go](https://open.spotify.com/track/0nnFFROaJSapPjoDzzVHUM) | [RØØ](https://open.spotify.com/artist/1Z11WA68F90uo1fCYA16Yl), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gotta go](https://open.spotify.com/album/2oOaikSaRa7PQjPKt35hHv) | 2:37 | 2022-11-19 | 2023-05-24 |
 | [Haunted Woods](https://open.spotify.com/track/67Q3ewenfVGwKW3XRD0owt) | [tanta](https://open.spotify.com/artist/6eKqglYANhgKUkoKI6QxBz), [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9) | [Haunted Woods](https://open.spotify.com/album/66dAWUgWUgGZ5l0u1W2kGu) | 2:14 | 2022-11-19 | 2023-05-24 |
 | [Hooligan](https://open.spotify.com/track/6E2BbzUWoSmFXInBBzN0AT) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [THE NEVER SURRENDERS COMPILATION](https://open.spotify.com/album/4ZCqXTmjVkYrhWMEO0qHtw) | 2:37 | 2022-11-19 |  |

@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with RL Grime.
 
-512 songs - 1 day 5 hr 39 min
+513 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY) | 2:58 | 2021-12-17 | 2022-05-07 |
 | [Mayday](https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Mayday](https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR) | 3:03 | 2023-06-02 |  |
 | [Meant To Be Lonely](https://open.spotify.com/track/2VaOJEHR9U3Q6SlG8TZN5j) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Meant To Be Lonely](https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f) | 3:34 | 2023-04-07 |  |
-| [Meditate](https://open.spotify.com/track/7tMTDLcxCwL570XesaDncS) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Meditate](https://open.spotify.com/album/1PvajiEGruZOjkYlpDZlc1) | 5:59 | 2023-02-10 |  |
+| [Meditate](https://open.spotify.com/track/7tMTDLcxCwL570XesaDncS) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Meditate](https://open.spotify.com/album/1PvajiEGruZOjkYlpDZlc1) | 5:59 | 2023-02-10 | 2023-06-25 |
 | [MEGAZORD](https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Bangers\[7\].Zip](https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV) | 2:43 | 2022-12-02 |  |
 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 | 2022-08-05 |  |
 | [Mercy \(2022 Edit\)](https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:17 | 2022-09-16 |  |
@@ -386,6 +386,7 @@
 | [Salvation](https://open.spotify.com/track/5T4iqvsqEdJS4WFMmo0CZX) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [Salvation](https://open.spotify.com/album/0n8SbBczPb02Qn18iNCgvt) | 4:09 | 2021-12-17 | 2022-03-12 |
 | [Sanity Burn](https://open.spotify.com/track/5gbalg41bavMxRKTgAScd3) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Last Resort](https://open.spotify.com/album/0dvJgq7sE4B46VNiR10kA8) | 2:46 | 2022-07-15 | 2022-11-20 |
 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 | 2021-12-17 | 2022-05-14 |
+| [SAXORiDDiM](https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [SAXORiDDiM](https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od) | 3:08 | 2023-06-23 |  |
 | [Say The Word \(with Billy Lockett\)](https://open.spotify.com/track/3CFwx3qdGNrgUIS16PnoXn) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Say The Word \(with Billy Lockett\)](https://open.spotify.com/album/78CgOYsjSHLpaz89JWVpvo) | 2:46 | 2022-01-07 | 2022-05-07 |
 | [Say What](https://open.spotify.com/track/2g0JzCYReBuozImlug3OWV) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [Say What](https://open.spotify.com/album/4DCqEwCdgAUTYekmWgFCo2) | 3:10 | 2022-11-18 | 2023-05-19 |
 | [Scars](https://open.spotify.com/track/5t0EAqNTV7MmQI6tvlrqmk) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Scars](https://open.spotify.com/album/4sdbYcP9fXjLopjsWjawiy) | 3:02 | 2022-01-07 | 2022-08-27 |

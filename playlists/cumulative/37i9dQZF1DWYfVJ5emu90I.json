@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 197088,
       "name": "For Real",
       "url": "https://open.spotify.com/track/0GdDLqCeNprluWECiORtjq"
@@ -698,6 +698,24 @@
       "duration_ms": 205628,
       "name": "Go",
       "url": "https://open.spotify.com/track/1bdbr1uDAQMVxY9HXts4uW"
+    },
+    {
+      "album": {
+        "name": "GO DJ -Hey Daddy-",
+        "url": "https://open.spotify.com/album/04Q1klLYpyplEou1uzZdEJ"
+      },
+      "artists": [
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104430,
+      "name": "GO DJ -Hey Daddy-",
+      "url": "https://open.spotify.com/track/4z0KvxFBl2TJA9bBZtXJem"
     },
     {
       "album": {

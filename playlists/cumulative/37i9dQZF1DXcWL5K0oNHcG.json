@@ -4448,10 +4448,32 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 375013,
       "name": "Convent Court",
       "url": "https://open.spotify.com/track/44paiDTjnjl4BMYfRxOKio"
+    },
+    {
+      "album": {
+        "name": "Rule of Thirds",
+        "url": "https://open.spotify.com/album/0T9BQmmADgRH8eeV6IkUJI"
+      },
+      "artists": [
+        {
+          "name": "Alex Weitz",
+          "url": "https://open.spotify.com/artist/6lQ6kYKqnZIG6gy30EzOw8"
+        },
+        {
+          "name": "Marcus Printup",
+          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375013,
+      "name": "Convent Court",
+      "url": "https://open.spotify.com/track/7tpnbcsfipq4K59y4JhZFl"
     },
     {
       "album": {

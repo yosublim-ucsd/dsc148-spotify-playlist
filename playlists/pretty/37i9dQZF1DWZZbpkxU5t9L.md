@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: チョーキューメイ
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,112 likes - 55 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,180 likes - 55 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 54 | [Garden](https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:49 |
 | 55 | [One verse](https://open.spotify.com/track/7atPg5O0DG0nQu9p1qGBCC) | [MANSION PARK](https://open.spotify.com/artist/5VejXt26cu0BRsdaBOcenJ) | [One verse](https://open.spotify.com/album/4MeMzX3Tev4AJ52B6QtoT9) | 3:22 |
 
-Snapshot ID: `MCxkMjVkYzZiNGU3ZDQ3MjhlOWE2NjZhNTQ4MGFlMWEyNTNhNzkwYzAw`
+Snapshot ID: `MCxmOGYzM2IxODkyNWI3NzkyODJhOWQzYzM0M2M1MWRkZTIzOGMxOWVh`

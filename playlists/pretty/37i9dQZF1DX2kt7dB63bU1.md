@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,663 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,775 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 39 | [Twilight Green](https://open.spotify.com/track/5QMIIpenOuFYvK3jhSLgMI) | [Laura & Anton](https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy) | [Twilight Green](https://open.spotify.com/album/0x6JygwsCcLycyGckLVdPz) | 3:24 |
 | 40 | [Marina](https://open.spotify.com/track/6gevpgscwofUjTdGM0g6T9) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Quietude](https://open.spotify.com/album/0SzEjiRsCBU2SWT0C6ydUs) | 3:37 |
 | 41 | [There Was a Fire](https://open.spotify.com/track/2ehCqA7FDA7wufe0JH8U8S) | [Leo Sidran](https://open.spotify.com/artist/2HpgbqUcGmk4M2dG9wph1h) | [There Was a Fire](https://open.spotify.com/album/0tUkouJDCBucujes5eGXoY) | 4:02 |
-| 42 | [Tea For Two](https://open.spotify.com/track/1hKyMhmy00rKrn7pb26N6W) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d), [Terell Stafford](https://open.spotify.com/artist/7rF1f3ZbidUhK24k7N8RcB) | [Tea For Two](https://open.spotify.com/album/0NuUfAQuoR4vjyoTjAub20) | 2:54 |
+| 42 | [Tea For Two](https://open.spotify.com/track/4HVz4K6niFBCVZwsMptFkV) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d), [Terell Stafford](https://open.spotify.com/artist/7rF1f3ZbidUhK24k7N8RcB) | [Beautiful Tomorrow](https://open.spotify.com/album/5xUQdgt359iu2FlgkTPF3O) | 2:54 |
 | 43 | [Goodbye \(Again\)](https://open.spotify.com/track/7vzDXHNfr8m3EbClQn9JH6) | [Matt Block](https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP), [Morton Block](https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ), [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [Goodbye \(Again\)](https://open.spotify.com/album/4kss8Eu1B4oD5kiJ8a7sxw) | 4:22 |
 | 44 | [it's alright](https://open.spotify.com/track/5yaEuat5Dr9S9YRFxkQevJ) | [Sirintip](https://open.spotify.com/artist/6ZUFztmnNpggjzUXH4irFx) | [carbon](https://open.spotify.com/album/3ftWkm2HTM3cEMlg8zkA3H) | 3:33 |
 | 45 | [Look For The Silver Lining](https://open.spotify.com/track/2aapQgacrjwufZErawCoWt) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [My Ideal \(A Tribute To Chet Baker Sings\)](https://open.spotify.com/album/3PcZxMEEWUlBhFWC9by2zW) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Brighter Sun](https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Brighter Sun](https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N) | 4:06 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCw4NzI4YjA1NzQ0YTA5NmFlOThhYzE5NmM4YTgwNzU2ZmE5MjBlYjFm`
+Snapshot ID: `MCw2NDRmNmU3MTJkNWJjNDBmNjliNDM4NGJlYjhhY2VkYWE1MWQ4MDVk`

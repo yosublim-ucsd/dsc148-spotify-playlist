@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Urias
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,576 likes - 59 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111,838 likes - 59 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 58 | [חזרה למציאות](https://open.spotify.com/track/105zU8MJxjQHOf9cRxDMZQ) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [חזרה למציאות](https://open.spotify.com/album/3bUjdo78ZOju0dCDKq8kOS) | 3:04 |
 | 59 | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE) | 3:09 |
 
-Snapshot ID: `MCw0YjIwZWJhOTMyOTQ5YWNlODU4N2EwNmE0ZTI2YTliM2UzM2JhY2Fh`
+Snapshot ID: `MCxlYjRmYTM0Y2FkZWQ1NDU3OTVkY2Y0Y2IwNTNkNDBmYTJhZDkwNGRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,314 likes - 54 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,349 likes - 54 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 | 53 | [Liza \(All the Clouds'll Roll Away\)](https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Gershwin Fantasy](https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR) | 3:51 |
 | 54 | [2nd Rhapsody](https://open.spotify.com/track/1ckFQ0OHFXmtDqIBp1SCUV) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Orion Weiss](https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations](https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5) | 15:49 |
 
-Snapshot ID: `MCw5Y2VkYjUzZTcxNTg4ZDA1YTNhMDViZTcwNGM4ZTgyODRjNTg0NDg2`
+Snapshot ID: `MCxmN2M0YTIzMmFiYWQ3M2IwMzgzMGViN2U5ZWMxYTc0MjBlZDcxYWUy`

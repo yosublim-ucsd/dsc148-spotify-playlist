@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu?si=VHJtGOP\-S\_aMpuEi\-GrdZQ">Takie Ndou</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,202 likes - 75 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,271 likes - 75 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 74 | [You Are \- Live](https://open.spotify.com/track/6Ez80l5EUlu2DrjsNdxLTo) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You Are \(Live\)](https://open.spotify.com/album/7dw3lt5NxWooPoTPJBi1es) | 6:37 |
 | 75 | [Moya Ka Jehovah \- Live](https://open.spotify.com/track/4Y2RXhp12YudM5bRtdw4rY) | [Jabu Hlongwane](https://open.spotify.com/artist/7DPMhjzvIdLdtZfElG1vzf) | [Crosspower Experience 3 \(Live\)](https://open.spotify.com/album/5wHtxMh4PMD0uqONkrhGfm) | 6:56 |
 
-Snapshot ID: `MCwzOTZlZTlmNDUzZTcxMjkwZGQ3ZjY0NDM2ODE1ZTUxM2M0ODhhODM4`
+Snapshot ID: `MCwwMTU4YmJkNmM2OGMyMjNlZTRiNDcwOTQxODNkODVkNzlhZDE1NzFl`

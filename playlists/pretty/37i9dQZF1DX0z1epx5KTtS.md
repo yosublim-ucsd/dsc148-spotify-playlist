@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Suspect 95
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,382 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,442 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Amour multiprise](https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz) | [Josée Delatour](https://open.spotify.com/artist/3o16PJgfLAo9FSDVyp1p0J) | [Amour multiprise](https://open.spotify.com/album/34l6OhPm91L7kZgJUql3d9) | 2:56 |
 | 40 | [En fantoya](https://open.spotify.com/track/19ZRXd0zqVCfXi92FeTcsL) | [Dj Arobase](https://open.spotify.com/artist/6EsNLPqHp3fchqRJAxFe3W), [Joochar](https://open.spotify.com/artist/56bmNSFswGkNea9CSLhFgp) | [En fantoya](https://open.spotify.com/album/31coKTSViPIJ9EjHlAMpl7) | 2:52 |
 
-Snapshot ID: `MCw4NzRiNmU1MDZmNDMwNTRhNWRhYjgzZjJmYjg1YzZiNWJmYmMxYTZk`
+Snapshot ID: `MCxhYjQzNzEyNjMwMTg2MTRjOGE4ZDg5MTM1ODZlYTkwYzEwM2NiYzg1`

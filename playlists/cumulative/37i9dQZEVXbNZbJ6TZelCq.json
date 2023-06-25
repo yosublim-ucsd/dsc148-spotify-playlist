@@ -858,7 +858,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 172192,
       "name": "Aia e",
       "url": "https://open.spotify.com/track/4DtQZIcQCsZx89Ur1ouilo"
@@ -9632,7 +9632,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -9800,7 +9800,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 166264,
       "name": "IN LIPSA TA 2",
       "url": "https://open.spotify.com/track/3T2mWZe3ArDpKwFcdSS3iF"
@@ -9972,6 +9972,28 @@
       "duration_ms": 141971,
       "name": "Inimi de Bagabonti",
       "url": "https://open.spotify.com/track/684zOy7ApVbDMB3DLTM5O1"
+    },
+    {
+      "album": {
+        "name": "Inim\u0103 de aur (From \"Romina VTM\" The Movie)",
+        "url": "https://open.spotify.com/album/0SPpEUGu67Yf3I7tMN2nCt"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Gheboas\u0103",
+          "url": "https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "Inim\u0103 de aur - From \"Romina VTM\" The Movie",
+      "url": "https://open.spotify.com/track/41Khl48VaHDozr5jQRd3xC"
     },
     {
       "album": {
@@ -10592,7 +10614,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 173750,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/1dMR1ltIgyYRq5vmFXvu07"
@@ -12034,7 +12056,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 166788,
       "name": "Lumea asta",
       "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
@@ -15072,7 +15094,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 206400,
       "name": "OU, OU",
       "url": "https://open.spotify.com/track/5b9OKblPngUmx0e1n8094y"
@@ -19932,7 +19954,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 169541,
       "name": "S\u00e2nge pe pat \u0219i pe podea",
       "url": "https://open.spotify.com/track/0AFTEC66MiVSaRN0AobM2n"

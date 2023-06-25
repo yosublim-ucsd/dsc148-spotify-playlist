@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Ebony
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,954 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,998 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 45 | [Betty Boop](https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Betty Boop](https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK) | 1:50 |
 | 46 | [A Cuca](https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [A Cuca](https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK) | 3:18 |
 | 47 | [Fiz Minha Unha](https://open.spotify.com/track/5IYtUJ9foHzJi2CzzARkIe) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Fiz Minha Unha](https://open.spotify.com/album/55IqlpNBxtJPpfGbWHOayn) | 2:26 |
-| 48 | [Meu Fã](https://open.spotify.com/track/1Wq1ycTn3zcPcYnS4rKhYK) | [Collors Brasil](https://open.spotify.com/artist/4AjMZGrmvGRSxeDwNtFfgv), [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E) | [Meu Fã](https://open.spotify.com/album/2X9GIeq7FyqHgWKfW9P4Qy) | 2:26 |
-| 49 | [Questão de Honra](https://open.spotify.com/track/0fuV3r0zNmIEstnTTAH8Yy) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Questão de Honra](https://open.spotify.com/album/3UTlP3nvWPMsQvSDlsLSxJ) | 2:41 |
+| 48 | [Questão de Honra](https://open.spotify.com/track/0fuV3r0zNmIEstnTTAH8Yy) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Questão de Honra](https://open.spotify.com/album/3UTlP3nvWPMsQvSDlsLSxJ) | 2:41 |
+| 49 | [Meu Fã](https://open.spotify.com/track/1Wq1ycTn3zcPcYnS4rKhYK) | [Collors Brasil](https://open.spotify.com/artist/4AjMZGrmvGRSxeDwNtFfgv), [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E) | [Meu Fã](https://open.spotify.com/album/2X9GIeq7FyqHgWKfW9P4Qy) | 2:26 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCwzOWU2YmE2NGJjMTE5MDUyZTdlNTIxYTkzNjJiMDljODcwNTRiNWRh`
+Snapshot ID: `MCwyZGMxNTYzYzAyZjUyZDMzNDY1ZGIzMGNmOGFkMTMzMWJjNTA5ZTQ4`

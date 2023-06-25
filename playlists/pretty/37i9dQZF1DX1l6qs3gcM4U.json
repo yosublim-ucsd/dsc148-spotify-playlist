@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine.  ",
-  "num_followers": 172696,
+  "num_followers": 172834,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWY3YWI2YmU3YzcwNTcxMmYyNjhhODU0NjMwODg3YTM4M2Q3MjUw",
+  "snapshot_id": "MCw4ZWRkNzgzODNiZDQzMmZkZDlmYTIxNjRmNDJjNDAxZDg4ZDhkN2Fm",
   "tracks": [
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Quarentena",
+        "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Quarentena",
+      "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 210648,
       "name": "Momentos",
       "url": "https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Quarentena",
-        "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Quarentena",
-      "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1339,30 +1339,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Denovo",
-        "url": "https://open.spotify.com/album/2NC5jxFBw14223590xEJ50"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "Mark Exodus",
-          "url": "https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Denovo",
-      "url": "https://open.spotify.com/track/5l9cTH23rPclDoUFHWHil4"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Au revoir",
         "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
       },
@@ -1391,6 +1367,30 @@
       "duration_ms": 258324,
       "name": "Me Leva Contigo",
       "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Denovo",
+        "url": "https://open.spotify.com/album/2NC5jxFBw14223590xEJ50"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Mark Exodus",
+          "url": "https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Denovo",
+      "url": "https://open.spotify.com/track/5l9cTH23rPclDoUFHWHil4"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Teu Ego",
-        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
+        "name": "Sempre Sonhei (feat. Yasmine)",
+        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
       },
       "artists": [
         {
-          "name": "Ivan Alekxei",
-          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
-        },
-        {
           "name": "Rui Orlando",
           "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 286093,
-      "name": "Teu Ego",
-      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
+      "duration_ms": 239189,
+      "name": "Sempre Sonhei (feat. Yasmine)",
+      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
     }
   ],
   "unique_name": "Dancing Kizomba",

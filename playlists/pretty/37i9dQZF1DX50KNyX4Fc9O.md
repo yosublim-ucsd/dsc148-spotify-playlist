@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Maisie Peters
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,591 likes - 98 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,595 likes - 98 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can I Shower At Yours](https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours](https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj) | 1:54 |
-| 2 | [Timebomb](https://open.spotify.com/track/3cAFxPjBOBz97MWfbidgfH) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Timebomb](https://open.spotify.com/album/7nGZLJ6jHY0xSAhi35i6B2) | 2:51 |
+| 2 | [Timebomb](https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:51 |
 | 3 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 |
 | 4 | [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 |
 | 5 | [True Babe](https://open.spotify.com/track/696gO5dO34MHhmZlL9Mh19) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [True Babe](https://open.spotify.com/album/61dpINnbtGk1FcOR3VtQYh) | 3:07 |
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 62 | [Monopoly](https://open.spotify.com/track/127bEznW7acmYrAHqsT2yF) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Monopoly](https://open.spotify.com/album/4x6R4qgvQl6CMAXj4gzMKv) | 3:38 |
 | 63 | [I Think She Wants Me](https://open.spotify.com/track/2IkYXrDWbwcYvQH02S8U1C) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/2UlxAQMoQOarg3nnSkGUzF) | 2:08 |
 | 64 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 |
-| 65 | [Heartbreaker](https://open.spotify.com/track/7aZFO2coFbYiKHIyIxqK2T) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Heartbreaker](https://open.spotify.com/album/5SfLMKlephfeN628Z2vnko) | 2:50 |
+| 65 | [Heartbreaker](https://open.spotify.com/track/4KuRFHaJx42xI51yY0KYYg) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/4VIIydfmkIznEZUwhGzEto) | 2:50 |
 | 66 | [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 |
 | 67 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
 | 68 | [Hold My Hand](https://open.spotify.com/track/0aOY075fZdCkovTY8j27r0) | [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Hold My Hand](https://open.spotify.com/album/2hfiRL8VAW7v2S16LUidPi) | 3:02 |
 | 69 | [Tongue](https://open.spotify.com/track/476uLySrronSFdexjhUIiE) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Tongue](https://open.spotify.com/album/7z2wzthRPOUmhrHeBUJSSN) | 3:09 |
-| 70 | [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 |
+| 70 | [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 |
 | 71 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 |
 | 72 | [Alphabet Soup](https://open.spotify.com/track/7vSKfmJFVFQFyS4Gedg3nz) | [Heleina Zara](https://open.spotify.com/artist/4o5FaQ8rUj73klMevMPTEF) | [Alphabet Soup](https://open.spotify.com/album/4Kjy7WxLY5uua8nCkhyLuN) | 2:43 |
 | 73 | [Upside Down](https://open.spotify.com/track/3hBKTpjfxiSji15s6s9Dr7) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Upside Down](https://open.spotify.com/album/5ib2apMJxqeGmbxBcEgWKz) | 3:03 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 97 | [Anybody](https://open.spotify.com/track/1yKuAXrWi3Y39zEF0Umr1X) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Anybody](https://open.spotify.com/album/5LbpQsW13ZCWFczcG2t7nX) | 2:59 |
 | 98 | [On My Own](https://open.spotify.com/track/581RQr3HXrnCbVqfwmRnEj) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [On My Own](https://open.spotify.com/album/6iJaI3mbYF4tlPPUnAhJ2l) | 3:04 |
 
-Snapshot ID: `MCw1YWVhYWU2NGVjMzEyYWJiZWY4ZWRiNDA5ODE3ZmRlYmRjN2M5ZGE0`
+Snapshot ID: `MCxhYzg0NGU1MDNjNTg4NTNhNDM4OTU0YWQ2ZjEwZDY4MDZmNDY2NzIz`

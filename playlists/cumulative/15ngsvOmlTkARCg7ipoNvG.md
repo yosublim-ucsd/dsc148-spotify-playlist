@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-993 songs - 22 hr 23 min
+996 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,12 +73,14 @@
 | [August Rain Arr\. For Cello And Piano](https://open.spotify.com/track/2P4bxTEd6S2c9jvg9NoTft) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [August Rain Arr\. For Cello And Piano](https://open.spotify.com/album/7d0BbKXgeKBhI4EMoPVaZ3) | 1:01 | 2023-04-19 |  |
 | [Aura](https://open.spotify.com/track/4kASo6yeuq5rhG8iZuRRPa) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Everglow](https://open.spotify.com/album/4B0IbcEFp7z00KAWzQp4NI) | 1:13 | 2022-01-12 |  |
 | [Aurora](https://open.spotify.com/track/5S0fH5Qyi4yxa4JXTbVCVC) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Aurora](https://open.spotify.com/album/7kEf7DoJHnwK9nQBKrRJlr) | 1:00 | 2023-06-21 |  |
+| [Aurora Arr\. For Violin](https://open.spotify.com/track/2s52fWDWhKTZgEaGXbNHiT) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Aurora Arr\. For Violin](https://open.spotify.com/album/1LCPIRZ1Slm9JG4iPXY5Kv) | 1:00 | 2023-06-24 |  |
 | [Autumn Morning](https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Morning](https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8) | 1:02 | 2022-10-05 |  |
 | [Awakening](https://open.spotify.com/track/58VrjRhzoC4a5MqIurZRUT) | [Ryan Stewart](https://open.spotify.com/artist/6C3BLXg58ruQY0PmlhV7sy) | [In the Dreaming Hour](https://open.spotify.com/album/5ek8x8VqwdnxHjuvEZqlP7) | 4:28 | 2022-01-12 |  |
 | [Away With Me](https://open.spotify.com/track/11xSEDkKHlTTLaF4Y7aL1f) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:31 | 2022-01-12 |  |
 | [Back Home](https://open.spotify.com/track/0IyTpgi77rDglvxb97mi7I) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sublime](https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm) | 1:10 | 2022-01-12 |  |
 | [Balance](https://open.spotify.com/track/1TzeN9UeIfkw26sn0U88EQ) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Balance](https://open.spotify.com/album/3tbQGMTiTKWr24aemv07Uh) | 1:01 | 2023-05-01 |  |
 | [Balance Arr\. For Cello](https://open.spotify.com/track/3kVRMbllRfTwpPQdmnYnWw) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Balance Arr\. For Cello](https://open.spotify.com/album/1pp6s7tOnu8WzoqMy2daUf) | 1:01 | 2023-05-05 |  |
+| [Balance Arr\. For Violin](https://open.spotify.com/track/0C4o6syBAYNOiUSmZpNyW5) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Balance Arr\. For Violin](https://open.spotify.com/album/1tpug2UCu5DH6fWnms0eYO) | 1:00 | 2023-06-24 |  |
 | [Bare](https://open.spotify.com/track/5ccbZRLFO7X9TJkALMRLKZ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:37 | 2022-01-20 |  |
 | [Barriers Between](https://open.spotify.com/track/7GI5F432HpRntYFtSKrtMD) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Barriers Between](https://open.spotify.com/album/36BOhfw1l2Ywd9HpOlQqqh) | 1:01 | 2022-02-24 |  |
 | [Bath](https://open.spotify.com/track/0xVDJ29bnFPSroQqq4GgKU) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Beyond](https://open.spotify.com/album/2SNyPk3oJs7OPDHJoCxM8I) | 1:04 | 2022-01-12 |  |
@@ -294,6 +296,7 @@
 | [Evening Mist](https://open.spotify.com/track/5EHS7TNb51pUSDKuUbhKZy) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:19 | 2022-01-12 |  |
 | [Evening Silence](https://open.spotify.com/track/0J6JZJur9NNslm3O1FKGhm) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge](https://open.spotify.com/album/5u3hkO1dmz33867mOmSvmH) | 1:22 | 2022-01-12 |  |
 | [Everlasting](https://open.spotify.com/track/5qCnWiR74NovsB91Bovwqx) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Everlasting](https://open.spotify.com/album/63uglnrcvtp0Rq0rZRPXku) | 1:01 | 2023-06-20 |  |
+| [Everlasting Arr\. For Violin](https://open.spotify.com/track/7EgTJIHVHTvHWxiSXhRyAu) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Everlasting Arr\. For Violin](https://open.spotify.com/album/2aKb8xHKMFHj6RGdvMZuRv) | 1:00 | 2023-06-24 |  |
 | [Everlasting Hope](https://open.spotify.com/track/627VlJ5NQcUPniUWZ9wDjH) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Inner Beauty](https://open.spotify.com/album/6weKQrpQ7Pi4wLKdvQEuD8) | 1:00 | 2022-06-05 |  |
 | [Everything I Lost](https://open.spotify.com/track/7aKEitPskoIINo32WUd7cq) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Memoir Collections II \- Dream Journal](https://open.spotify.com/album/7uEPmMVoqbXy8JJ6GTDHFM) | 2:39 | 2022-01-12 |  |
 | [Everything Is Fleeting](https://open.spotify.com/track/26NGo7kxvXamqiGCJtd4m0) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:39 | 2022-01-12 |  |

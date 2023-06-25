@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Barbi Recanati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,130 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,220 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 42 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 |
 | 43 | [Cordura](https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Cordura](https://open.spotify.com/album/54dwAd1G7qsREZu9r7WQmu) | 3:49 |
 | 44 | [Ya No Sos Igual](https://open.spotify.com/track/39fgFkCOgbTd4QfahwsPPT) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Ya No Sos Igual](https://open.spotify.com/album/0yTm9bRv0Ui1Q0iZoLqAWH) | 3:42 |
-| 45 | [Dame Rock](https://open.spotify.com/track/5idUaRJBOn7bSYjP6B7PcZ) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:06 |
+| 45 | [Dame Rock](https://open.spotify.com/track/3QZZYSB4aafCmPe14ElQIM) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/3Wqm2Y41oWaFHODb2xTnn7) | 2:06 |
 | 46 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 |
 | 47 | [De las Ventajas de Caminar Dormida](https://open.spotify.com/track/4j4zS5Kk3gMLv83QegL9DU) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [De las Ventajas de Caminar Dormida](https://open.spotify.com/album/2xXNK36mEbfYTVdUO5G1Vz) | 3:48 |
 | 48 | [No Estés Triste](https://open.spotify.com/track/4Bm9mh2IiaMU77PuIqIvsR) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [No Estés Triste](https://open.spotify.com/album/725IopLufwMCMGq5pc3aux) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [VOID](https://open.spotify.com/track/7ezLEpE3Q50zpVARzgA00f) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:19 |
 | 100 | [Ella Va](https://open.spotify.com/track/4wrjm9IaqhiYadQ52OuW1w) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ella Va / La Cita](https://open.spotify.com/album/0UdeKyctv1o2zCtIPG67DX) | 3:32 |
 
-Snapshot ID: `MCxlYzBlZjJkNTgzNDU1ZTNlOTBhNGVlZDQzNGQ2NDhhYzc4MGM0ZjYy`
+Snapshot ID: `MCxlNzA1MThmNGU5M2JiOGFhMDZiMjU2ODYyMDhmNWI4NjU1ZDgwNTk5`

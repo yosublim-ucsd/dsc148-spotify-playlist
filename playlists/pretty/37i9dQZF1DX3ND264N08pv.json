@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 47434,
+  "num_followers": 47511,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmRlOTQ4OGI3YTNiMTA1NTM2YmNiMTc5MzAxMTY2YTJmYjY3ZGRj",
+  "snapshot_id": "MCw1Y2I2NGY3NjhhMjM2ODQ1YzUwYTA0MjIyNTYwYTI5Y2RiNzc1ZGQx",
   "tracks": [
     {
       "added_at": "2023-06-22 22:01:00",
@@ -719,22 +719,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Psychopath",
-        "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
       },
       "artists": [
         {
-          "name": "Tha Playah",
-          "url": "https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
         }
       ],
-      "duration_ms": 217411,
-      "name": "Psychopath",
-      "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -759,18 +755,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+        "name": "Psychopath",
+        "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
       },
       "artists": [
         {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+          "name": "Tha Playah",
+          "url": "https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
         }
       ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
+      "duration_ms": 217411,
+      "name": "Psychopath",
+      "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Blow Up",
-        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 204439,
-      "name": "Blow Up",
-      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Burn MF",
         "url": "https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 183000,
       "name": "Burn MF",
       "url": "https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Blow Up",
+        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 204439,
+      "name": "Blow Up",
+      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
+        "url": "https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29"
+      },
+      "artists": [
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        }
+      ],
+      "duration_ms": 324300,
+      "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
+      "url": "https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Dead Limit (Evil Activities Remix)",
         "url": "https://open.spotify.com/album/37IiaHO3iZ8k6v2b2Aiiv4"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 227441,
       "name": "Dead Limit - Evil Activities Remix",
       "url": "https://open.spotify.com/track/3Tez9FI9bgkA7aMO7JYjqT"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
-        "url": "https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29"
-      },
-      "artists": [
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
-        }
-      ],
-      "duration_ms": 324300,
-      "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
-      "url": "https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Hard 2 The Core",
-        "url": "https://open.spotify.com/album/0a7UPxBDJTJk5VZl5BRrvZ"
-      },
-      "artists": [
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Hard 2 The Core",
-      "url": "https://open.spotify.com/track/0SHuuJh45TfuSIkRl2kHX5"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Hard 2 The Core",
+        "url": "https://open.spotify.com/album/0a7UPxBDJTJk5VZl5BRrvZ"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Hard 2 The Core",
+      "url": "https://open.spotify.com/track/0SHuuJh45TfuSIkRl2kHX5"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "Sky Ablaze",
+        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Sky Ablaze",
+      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "The Resurrection (Official Toxicator 2022 Anthem)",
         "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Sky Ablaze",
-        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
       },
       "artists": [
         {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+          "name": "Bloodfire",
+          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
         }
       ],
-      "duration_ms": 175271,
-      "name": "Sky Ablaze",
-      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
+      "duration_ms": 200960,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
-      },
-      "artists": [
-        {
-          "name": "Bloodfire",
-          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Het Verbond",
         "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
       },
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "Born To React",
+        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "Born To React",
+      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 245373,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Born To React",
-        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
-      },
-      "artists": [
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "Born To React",
-      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
     },
     {
       "added_at": "2023-06-22 22:01:00",

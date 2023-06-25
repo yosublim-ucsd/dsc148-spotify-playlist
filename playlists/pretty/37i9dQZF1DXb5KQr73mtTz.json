@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 10470,
+  "num_followers": 10479,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmE3Mjc0YWExMzdiZDExZWZkMjRiODM2OGQxNTQyNDM0YzI0ZTAw",
+  "snapshot_id": "MCxlM2JiZDhlYzY3YzM5NWQwNzYzZTA4N2M1MTA4OTI0ZTk1Nzg4ODZh",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:21",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
-      },
-      "artists": [
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
-    },
-    {
-      "added_at": "2023-06-13 08:58:21",
-      "album": {
         "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
         "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 250480,
       "name": "Living in the same time",
       "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
+    },
+    {
+      "added_at": "2023-06-13 08:58:21",
+      "album": {
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
-    },
-    {
-      "added_at": "2023-06-13 08:58:21",
-      "album": {
         "name": "Encounter (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 199577,
       "name": "Into My Heart",
       "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
+    },
+    {
+      "added_at": "2023-06-13 08:58:21",
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 219746,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -635,22 +635,18 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
         }
       ],
-      "duration_ms": 262394,
-      "name": "Sad ending (Feat. george)",
-      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
+      "duration_ms": 258321,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -671,18 +667,22 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
         {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 258321,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
+      "duration_ms": 262394,
+      "name": "Sad ending (Feat. george)",
+      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "Emptiness in Memory",
-        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 278454,
-      "name": "Emptiness in Memory",
-      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
-    },
-    {
-      "added_at": "2023-06-13 08:58:21",
-      "album": {
         "name": "Why break up? (My love X Jeon Sang Keun)",
         "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 271280,
       "name": "Why break up? (My love X Jeon Sang Keun)",
       "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
+    },
+    {
+      "added_at": "2023-06-13 08:58:21",
+      "album": {
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     },
     {
       "added_at": "2023-06-13 08:58:21",

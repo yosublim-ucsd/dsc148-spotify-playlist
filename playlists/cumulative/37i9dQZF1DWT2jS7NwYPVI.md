@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Militarie Gun
 
-1,550 songs - 3 day 9 hr 10 min
+1,551 songs - 3 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Come Up](https://open.spotify.com/track/3r9VF5IFnMzqlbNd5cWpY6) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [ATHRS](https://open.spotify.com/artist/5AXI65sMlxQ1GtWmoyf3jN) | [Come Up](https://open.spotify.com/album/560WfPL7Ic0yIqCtgNddLW) | 2:45 | 2021-11-19 | 2022-01-15 |
 | [Coming Home](https://open.spotify.com/track/0Ezo65AK5eoUg6CZl75X0Q) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/6oZrOIZ4g01FSJkbWoxrKZ) | 3:24 | 2022-05-06 | 2022-07-16 |
 | [Comments](https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:53 | 2023-01-06 | 2023-01-28 |
+| [Common Chaos](https://open.spotify.com/track/231wGywsY9is10w83qwrwC) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Common Chaos](https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo) | 2:51 | 2023-06-24 |  |
 | [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-03-18 | 2022-06-04 |
 | [Con Artist](https://open.spotify.com/track/1aFP4Du7BZ5kZcja9J6qmH) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Con Artist](https://open.spotify.com/album/30dmKsOGr5NW3geERxgMSS) | 3:34 | 2023-04-14 | 2023-05-20 |
 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 | 2022-06-24 | 2022-07-16 |

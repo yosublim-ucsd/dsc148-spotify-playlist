@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:ZIA\(지아\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,638 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,671 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Love Me Like Before](https://open.spotify.com/track/4mbrA8XuDtp0Hy1W9G6hkT) | [Piano Man](https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g) | [Love Me Like Before](https://open.spotify.com/album/4nV4ku3xK6GxeLefccBL3y) | 3:57 |
 | 100 | [Goodbye](https://open.spotify.com/track/1OiEPqyXySjkNUI1tJh6Co) | [Lee Doona](https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n) | [Lee Doona Project Part 3](https://open.spotify.com/album/44MwTsm5qtduvhuPc8HfQt) | 3:54 |
 
-Snapshot ID: `MCxhMTI4M2Q5NWU3NTA2ZWI4YjU0YjZkMDM2MTA0OTNlNTNmYjM5MmQ2`
+Snapshot ID: `MCwzZTIzY2JiNjQyZTJlNDQyYjZhMjI4Yzc2N2M0MmNhMDhlYTNkZTcy`

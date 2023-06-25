@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Now We're Talking",
+        "url": "https://open.spotify.com/album/1bhWVaM0AdYQxAd6eO38Id"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180827,
+      "name": "Now We're Talking",
+      "url": "https://open.spotify.com/track/3y94TeBQxO7z59PZLLLQH9"
+    },
+    {
+      "album": {
         "name": "Get Loud",
         "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,185 likes - 60 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,190 likes - 60 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 18 | [Gongo](https://open.spotify.com/track/55UCq8K2C8Tf1zJ4CIhta0) | [Anrey](https://open.spotify.com/artist/7a2a36QkRDDOhyHWkDXYGw), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Gongo](https://open.spotify.com/album/2dqi90Af77LxU3O88JY7F9) | 3:13 |
 | 19 | [Touche \- Coco Em Remix](https://open.spotify.com/track/4p8OE6lz0v0E22ZeLmFnaC) | [O'o](https://open.spotify.com/artist/1DtsFylHx6XtgBVITFouan), [Coco Em](https://open.spotify.com/artist/3FahF8OhHNaw7OJRfEPy9x) | [Touche \(Coco Em Remix\)](https://open.spotify.com/album/6MZvMtngHxy9DbatIghC2w) | 6:18 |
 | 20 | [Pendula \- Demented Soul Imp5 Afro Mix](https://open.spotify.com/track/3E4iFhQZMKPe8c0uRKslnI) | [HyperSOUL\-X](https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Demented Soul](https://open.spotify.com/artist/5TayAMk3i506kqDdAgA8U7) | [Pendula \(Remixes\)](https://open.spotify.com/album/53Cp69TaNjTGMmsGU3iIsp) | 7:43 |
-| 21 | [Mezdeke](https://open.spotify.com/track/4bo8D47IbBsbG3UQ0wSO7t) | [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mezdeke](https://open.spotify.com/album/0KNgzeBHr2gBFJTJGiwjNv) | 7:44 |
+| 21 | [Mezdeke](https://open.spotify.com/track/0J2ptNkPaufRddhT5copXv) | [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt) | [Mezdeke](https://open.spotify.com/album/6xUfL9pOM4ZDlf0Sm8kCtL) | 7:44 |
 | 22 | [Crystal Castles](https://open.spotify.com/track/03ECbB4w8kzV5AuQZIAcQk) | [Anigmus](https://open.spotify.com/artist/3SGoaGg7W9nMfX8bUc32rG), [Magic Music Record](https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG) | [Crystal Castles](https://open.spotify.com/album/5Bbumee8E2JyV57k17861e) | 3:18 |
 | 23 | [Jama](https://open.spotify.com/track/4p1ypYoh4DugiJjBBJhnym) | [David Hopperman](https://open.spotify.com/artist/0VAX7m33WhAKE1Q5b8Mq7q), [Savage Roses](https://open.spotify.com/artist/0K7YbgQP1R1qPt3ZMXxzcl), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Jama](https://open.spotify.com/album/4sAc7tRe15p3J3VV4Uu77A) | 5:30 |
 | 24 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 59 | [Kivuna](https://open.spotify.com/track/3XpQVMKhYmwWjoGt2FnpLs) | [BlvckMoon](https://open.spotify.com/artist/4J4eD0siKaZRlyIRZ48Den), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Kivuna](https://open.spotify.com/album/7u1wlB6W9kjTdb64OsQAzI) | 7:43 |
 | 60 | [Nzaui](https://open.spotify.com/track/1gVvEiFHMWlG6XJxRmVVz3) | [DJ Fita](https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49), [Kimina](https://open.spotify.com/artist/0uvY69V1mp1IgYgq8LvZXq) | [Nzaui](https://open.spotify.com/album/1Wt7M1tUJBg9ODXHi3OSoG) | 4:37 |
 
-Snapshot ID: `MCw0NjZlZGJhNGQ2YzU2ZTg5YzY4NzM3NWI1MWE0YzVmNjMyYTZkMmVl`
+Snapshot ID: `MCxiOTI4Y2VhZGNhNjhmODY0MGYwYjNhN2M1NmY5MzY0Mjk3ZjlkMzE4`

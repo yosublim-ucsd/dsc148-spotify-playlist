@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music Across East Africa
 
-87 songs - 7 hr 3 min
+88 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [MaMirenza](https://open.spotify.com/track/7j2hOS24pyOMXdeOEX26TA) | [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [MaMirenza](https://open.spotify.com/album/6EhldcthsK2HUqwSZMGm97) | 3:34 | 2022-08-01 | 2022-12-10 |
 | [Mbesha Fari Fari](https://open.spotify.com/track/7eJCWj0y3C1zOYtC9MJjts) | [Nelmo Newsong](https://open.spotify.com/artist/0jQAdAzjIh6BrZEShGb95v) | [Mbesha Fari Fari](https://open.spotify.com/album/5w052vFIxbeK6F2P4DGyuY) | 3:05 | 2022-08-01 |  |
 | [Meremeta \- Original Mix](https://open.spotify.com/track/1RtNC1Fzwk82d0agNBbxu5) | [DJ IC](https://open.spotify.com/artist/5m0mPka5wvWns733bGWIHz), [Dj Jim Mastershine](https://open.spotify.com/artist/63xZCjmz39rg3enEgZ5A6u), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Meremeta](https://open.spotify.com/album/4kF0kWybn8DTeASl6Dt27G) | 5:48 | 2022-08-01 | 2023-01-13 |
-| [Mezdeke](https://open.spotify.com/track/4bo8D47IbBsbG3UQ0wSO7t) | [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mezdeke](https://open.spotify.com/album/0KNgzeBHr2gBFJTJGiwjNv) | 7:44 | 2023-01-12 |  |
+| [Mezdeke](https://open.spotify.com/track/4bo8D47IbBsbG3UQ0wSO7t) | [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mezdeke](https://open.spotify.com/album/0KNgzeBHr2gBFJTJGiwjNv) | 7:44 | 2023-01-12 | 2023-06-25 |
+| [Mezdeke](https://open.spotify.com/track/0J2ptNkPaufRddhT5copXv) | [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt) | [Mezdeke](https://open.spotify.com/album/6xUfL9pOM4ZDlf0Sm8kCtL) | 7:44 | 2023-05-05 |  |
 | [Mipango](https://open.spotify.com/track/0db4aR1MFcOKxeb6EG2T8P) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mipango](https://open.spotify.com/album/33kMA9mbcyCOFDLq9ms5Bz) | 4:16 | 2023-02-10 | 2023-05-19 |
 | [Mohawk Man](https://open.spotify.com/track/3E0T81r9gsMNNdX4BKSRM5) | [Mtsepisto](https://open.spotify.com/artist/7GKJKoCggjyP6C6xclndbF), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Mohawk Man](https://open.spotify.com/album/6qsPYcaf7KJNgZ4Lk7KldH) | 8:00 | 2022-08-01 |  |
 | [Money](https://open.spotify.com/track/2ZPKXWhtR5xfONqBdSgBiO) | [Dj McKenzie](https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45) | [Money](https://open.spotify.com/album/4jvIzo5bnxPmkyhe1P3DQ0) | 2:55 | 2023-03-03 |  |

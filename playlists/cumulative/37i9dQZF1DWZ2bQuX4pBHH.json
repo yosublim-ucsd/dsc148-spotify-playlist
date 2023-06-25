@@ -217,6 +217,28 @@
     },
     {
       "album": {
+        "name": "Deewana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5rkxSyCuiDtaAGKVndX3hL"
+      },
+      "artists": [
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Vinod Rathod",
+          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415476,
+      "name": "Aisi Deewangi",
+      "url": "https://open.spotify.com/track/10nnCsc6unlme3bImINZV3"
+    },
+    {
+      "album": {
         "name": "Deewana",
         "url": "https://open.spotify.com/album/5AswpDPvT2COAxSeMhcQcY"
       },
@@ -372,7 +394,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 303733,
       "name": "Aur Kya",
       "url": "https://open.spotify.com/track/3p2n1UTPBc5RdQY9X94Xpg"

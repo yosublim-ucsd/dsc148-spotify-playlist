@@ -4,7 +4,7 @@
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-116 songs - 7 hr 48 min
+117 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [I Wish I Could Go Travelling Again \- Special Edition](https://open.spotify.com/track/19tnUlGTXmwOYFqlDnvigH) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:28 | 2021-12-01 | 2022-12-01 |
 | [I Wish You Love](https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [I Wish You Love](https://open.spotify.com/album/6jmvc0SSvjpUSDwuxsFrSY) | 3:05 | 2022-11-30 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 3:19 | 2021-12-01 | 2022-12-01 |
-| [I'll Follow the Sun](https://open.spotify.com/track/1bktB5CagQYfxL5YO3OctN) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d) | [I'll Follow The Sun](https://open.spotify.com/album/0UolljxEJxx4l5cDvEoqNE) | 2:19 | 2022-11-30 |  |
+| [I'll Follow the Sun](https://open.spotify.com/track/15MQmdjAbibR5KXPx3ZHiY) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d) | [I'll Follow The Sun](https://open.spotify.com/album/3Ja6WWQjRumckGPKA2xUOS) | 2:19 | 2022-11-30 |  |
+| [I'll Follow the Sun](https://open.spotify.com/track/1bktB5CagQYfxL5YO3OctN) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d) | [I'll Follow The Sun](https://open.spotify.com/album/0UolljxEJxx4l5cDvEoqNE) | 2:19 | 2022-11-30 | 2023-06-25 |
 | [I'm Gonna Live Till I Die](https://open.spotify.com/track/2SnYeRhFn71dGPgj0pxWAg) | [Tony DeSare](https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI) | [I'm Gonna Live Till I Die](https://open.spotify.com/album/1oY26AlZRCMU1u0uEUlJHf) | 4:38 | 2021-12-01 | 2022-12-01 |
 | [I'm Old Fashioned](https://open.spotify.com/track/7yrPfSmKX8q8y2DWgmmzOM) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [I'm Old Fashioned](https://open.spotify.com/album/1oCeIsGAXgN86yeEahuezu) | 3:53 | 2022-11-30 |  |
 | [If I Had You](https://open.spotify.com/track/6htL8eAdOScorA0ooaoL5k) | [Lara Luppi](https://open.spotify.com/artist/0TMpMNYlHlLT6Ey6BjcklA), [Luca Filastro](https://open.spotify.com/artist/7bRZhdSt3rftBwfmQRe5zR), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Emanuele Zappia](https://open.spotify.com/artist/0yx2tQrSKPmyeVV1D82i6D) | [Day Dream](https://open.spotify.com/album/0IGv0S7wFk9QnyvMA0bIK2) | 5:28 | 2022-11-30 |  |

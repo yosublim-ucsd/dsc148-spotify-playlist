@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-768 songs - 1 day 17 hr 47 min
+769 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Horizon](https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc) | [NIO](https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Horizon](https://open.spotify.com/album/3SohBXVe0oMpjKJCD6c91V) | 4:41 | 2023-05-24 |  |
 | [Hostage](https://open.spotify.com/track/5wKxi3JW9BTfJAo1BgkiK6) | [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL), [ELECTRA](https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL) | [Hostage](https://open.spotify.com/album/3SSC2OkWsz4lUIAmOLAnPt) | 3:48 | 2023-02-24 | 2023-06-03 |
 | [how you like me now](https://open.spotify.com/track/4dbQFY2jSgKrMWu6et132u) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS), [STAHL](https://open.spotify.com/artist/70urRuTXP7M2orf9bvn3DS) | [how you like me now](https://open.spotify.com/album/3tEwNQkSdTz12dyhG0g45k) | 2:04 | 2022-02-18 | 2022-03-19 |
+| [HOW YOU LIKE THAT](https://open.spotify.com/track/7rorNIQDgFng64RENMfX80) | [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM) | [HOW YOU LIKE THAT](https://open.spotify.com/album/5b9OZCJH21MmeXGFo0KTfa) | 3:12 | 2023-06-24 |  |
 | [Human](https://open.spotify.com/track/3Y01ciVMNWp7hNCjP9J4Gc) | [TRUU](https://open.spotify.com/artist/7kd90G2LsciMJH8MeQ4lHL) | [Human](https://open.spotify.com/album/3yQJSRbBjg5blygtrOzrnS) | 2:30 | 2022-01-14 | 2022-02-05 |
 | [HUMANS \- Far Out Remix](https://open.spotify.com/track/7FEKwb52OpeVSZxaqUspP1) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu), [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2) | [HUMANS \(Far Out Remix\)](https://open.spotify.com/album/6WVhoK20KpEMFEquTlfUOZ) | 4:45 | 2023-02-21 |  |
 | [Hunt You Down \(feat\. Alaina Cross\)](https://open.spotify.com/track/7fGOe6MwGN4saV8H5Oj249) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [RUPTURE EP](https://open.spotify.com/album/7LnfIDPLv8OgdwZfXN7iGt) | 4:04 | 2022-09-02 | 2022-10-22 |

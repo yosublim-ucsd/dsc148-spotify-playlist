@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Two Friends x Loud Luxury x Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,379 likes - 61 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,398 likes - 61 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 16 | [Don't Wanna Know](https://open.spotify.com/track/2w5hbAVqRTb9ksnb0I1EOG) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [Don't Wanna Know](https://open.spotify.com/album/3lpy0dvuzDWvImpBLbZ1ga) | 3:20 |
 | 17 | [Fantasia](https://open.spotify.com/track/7xH6be4zoKPEDLrEZ347na) | [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH), [Smasher](https://open.spotify.com/artist/5BpW0tbGcMfEX7VNTU86SD) | [Fantasia](https://open.spotify.com/album/2FJ73AkSKfYUO9X5oMz4NQ) | 3:00 |
 | 18 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
-| 19 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 |
+| 19 | [0800 HEAVEN](https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r) | 2:39 |
 | 20 | [Where You Want](https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Where You Want](https://open.spotify.com/album/1Pl10i0UUrGwR7JYIywlR4) | 2:18 |
 | 21 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 22 | [Overtaking](https://open.spotify.com/track/0vQGpYOiL6AH5yIlk6RIJl) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd) | [Overtaking](https://open.spotify.com/album/03k3DU7ds9Tqw2PStMKQzT) | 2:14 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 60 | [Useless](https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Noisy Choice](https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID) | [Useless](https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp) | 2:41 |
 | 61 | [Rising Tides](https://open.spotify.com/track/5YNEMf0CmbpC2019m5QEWT) | [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ), [G.U.O.L.](https://open.spotify.com/artist/2wZaQyJOZ7y68O1cayCN16), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [Rising Tides](https://open.spotify.com/album/0da1kIqfftXGGKmkZ47eUA) | 3:16 |
 
-Snapshot ID: `MCw0MTkxZDg0ZmQzNTM0ZjU4MDU4ZDFiZTIwNGE5NWIzM2U3OTY3YzE2`
+Snapshot ID: `MCw1ZmExNmZjNTg2ZTVlZGEzZDRkNmY1ZTgyNDc2NmE5ZWVkY2NkZWY3`

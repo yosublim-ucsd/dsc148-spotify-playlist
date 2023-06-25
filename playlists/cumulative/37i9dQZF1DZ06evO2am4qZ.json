@@ -762,7 +762,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 163458,
       "name": "Heaux Things (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/7JJlZwKiYSPG4udG1GvX9t"
@@ -1122,6 +1122,28 @@
       "duration_ms": 192697,
       "name": "Like We",
       "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
+    },
+    {
+      "album": {
+        "name": "Lowkey Superstar (Deluxe)",
+        "url": "https://open.spotify.com/album/6guuspL1X2589w70ng68Qk"
+      },
+      "artists": [
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162554,
+      "name": "Look @ That - Remix",
+      "url": "https://open.spotify.com/track/1DRxLdcngzHguUjieZsCOB"
     },
     {
       "album": {

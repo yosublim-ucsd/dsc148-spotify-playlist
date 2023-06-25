@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,964 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,045 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vida Chique Madame](https://open.spotify.com/track/6VpqXQLljVXPTAdUbOaXOt) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Vida Chique Madame](https://open.spotify.com/album/2vm6G0MiLRBKJENg1HJIti) | 2:58 |
 | 2 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 |
 | 3 | [Louis V, Menina Linda](https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Louis V, Menina Linda](https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP) | 3:35 |
-| 4 | [Malícia](https://open.spotify.com/track/1td4UhTAsZyfnwU0XFoZUC) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC) | [Malícia](https://open.spotify.com/album/3MLKMxXM1qKYsJebA59ute) | 3:01 |
+| 4 | [Malícia](https://open.spotify.com/track/1td4UhTAsZyfnwU0XFoZUC) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Malícia](https://open.spotify.com/album/3MLKMxXM1qKYsJebA59ute) | 3:01 |
 | 5 | [Malvadona](https://open.spotify.com/track/4GST2I05FoZuNVpYliZYvK) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 3:09 |
 | 6 | [Balança Dona Onça](https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Balança Dona Onça](https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H) | 3:24 |
 | 7 | [Território](https://open.spotify.com/track/5PdXjjxtXFph228HxlHHV1) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Território](https://open.spotify.com/album/2degQsOcDxD9CmfwE7gFf7) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Linda e Solitária](https://open.spotify.com/track/4GzKyE021uEcLuklCSUzEA) | [Camaradas Camarão](https://open.spotify.com/artist/5tDe323KtgqFfze1MzLR7z), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Gabriel Sten](https://open.spotify.com/artist/5voSO4poDCRjQzKgMuCTWM), [Córtex Cam Cam](https://open.spotify.com/artist/7wqJ4b9MuDGAIVQjzAsiIe) | [Linda e Solitária](https://open.spotify.com/album/2C32Ywnk9I74RFHPKSK6z1) | 2:50 |
 | 75 | [Sereia](https://open.spotify.com/track/2SNYcKYSuKoQLvdLPvWJgQ) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Sereia](https://open.spotify.com/album/1xm2lmJXFM3DPiOOqJYozn) | 3:36 |
 
-Snapshot ID: `MCw2YjAyZTRjZDhiMjYzMzNlNzY2NTMyZDhlN2Y3NGY5OGI4NWFmNDkx`
+Snapshot ID: `MCw2NDRhMjU5MjVlMDg1NzRjYTZiMDU4ZjE3N2NmMmJmOGUwYWQ0NzQ5`

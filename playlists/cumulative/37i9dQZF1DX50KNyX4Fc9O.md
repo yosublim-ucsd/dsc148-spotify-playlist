@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Maisie Peters
 
-111 songs - 5 hr 40 min
+113 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Everybody Dies](https://open.spotify.com/track/5FTVudDZrisntQFN3AB4M8) | [Rory Webley](https://open.spotify.com/artist/2vlC4o7h61xlMUop6QCuvK) | [Everybody Dies](https://open.spotify.com/album/5bAY37XVQJR41ulnKS7zZr) | 2:17 | 2023-06-15 | 2023-06-23 |
 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA) | 2:13 | 2023-06-22 |  |
 | [Everything I'm Not](https://open.spotify.com/track/3zfCupvFNQNwLk2MYzZhqe) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Everything I'm Not](https://open.spotify.com/album/47qVce8Gm4uno235qZCKpZ) | 2:07 | 2023-06-15 |  |
-| [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 | 2023-06-15 |  |
+| [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 | 2023-06-15 |  |
 | [Feel Alive](https://open.spotify.com/track/3wSbCJYFzsfajYhO5RNCwE) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Feel Alive](https://open.spotify.com/album/5EqDIpC3xKRUEzxqBqKHwB) | 3:21 | 2023-06-15 |  |
 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 | 2023-06-15 | 2023-06-23 |
 | [Flight Risk](https://open.spotify.com/track/368mOZ4hV8aacFU4XN0vLe) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Flight Risk](https://open.spotify.com/album/1y6mVjHSk1LgscbN30ghnV) | 3:19 | 2023-06-15 |  |
@@ -53,7 +53,8 @@
 | [Happy Never After](https://open.spotify.com/track/5QDTEyPqiweKHvz3Ree0gu) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY), [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [Happy Never After](https://open.spotify.com/album/5shgW905CLdwk5bdWX3M5K) | 2:44 | 2023-06-15 |  |
 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 | 2023-06-22 |  |
 | [Heartbreak Baby](https://open.spotify.com/track/0pnLKuTr9dt1442AiXcn3K) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartbreak Baby](https://open.spotify.com/album/6Fd84hpMmLeOsrngWNKW1L) | 3:37 | 2023-06-15 |  |
-| [Heartbreaker](https://open.spotify.com/track/7aZFO2coFbYiKHIyIxqK2T) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Heartbreaker](https://open.spotify.com/album/5SfLMKlephfeN628Z2vnko) | 2:50 | 2023-06-15 |  |
+| [Heartbreaker](https://open.spotify.com/track/4KuRFHaJx42xI51yY0KYYg) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/4VIIydfmkIznEZUwhGzEto) | 2:50 | 2023-06-22 |  |
+| [Heartbreaker](https://open.spotify.com/track/7aZFO2coFbYiKHIyIxqK2T) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Heartbreaker](https://open.spotify.com/album/5SfLMKlephfeN628Z2vnko) | 2:50 | 2023-06-15 | 2023-06-25 |
 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2023-06-15 |  |
 | [High In California](https://open.spotify.com/track/4arF67s3pUxVFuMlMLrJc3) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Faith In The Future \(Bonus Edition\)](https://open.spotify.com/album/5LPfYoKjoN8KHBXvnGjlyI) | 3:04 | 2023-06-15 |  |
 | [Hold My Hand](https://open.spotify.com/track/0aOY075fZdCkovTY8j27r0) | [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Hold My Hand](https://open.spotify.com/album/2hfiRL8VAW7v2S16LUidPi) | 3:02 | 2023-06-15 |  |
@@ -103,7 +104,8 @@
 | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz) | 2:56 | 2023-06-15 |  |
 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 | 2023-06-15 |  |
 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-06-15 | 2023-06-23 |
-| [Timebomb](https://open.spotify.com/track/3cAFxPjBOBz97MWfbidgfH) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Timebomb](https://open.spotify.com/album/7nGZLJ6jHY0xSAhi35i6B2) | 2:51 | 2023-06-22 |  |
+| [Timebomb](https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:51 | 2023-06-22 |  |
+| [Timebomb](https://open.spotify.com/track/3cAFxPjBOBz97MWfbidgfH) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Timebomb](https://open.spotify.com/album/7nGZLJ6jHY0xSAhi35i6B2) | 2:51 | 2023-06-22 | 2023-06-25 |
 | [Tom Cruise](https://open.spotify.com/track/0cyVDjmAa72JNfv2B4HxfL) | [San Joseph](https://open.spotify.com/artist/59YOtpr5yzoCBLxAWeCAp5) | [Tom Cruise](https://open.spotify.com/album/0aDfWJBnQ5DeOmoi5Rckg2) | 2:39 | 2023-06-15 | 2023-06-23 |
 | [Tongue](https://open.spotify.com/track/476uLySrronSFdexjhUIiE) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Tongue](https://open.spotify.com/album/7z2wzthRPOUmhrHeBUJSSN) | 3:09 | 2023-06-15 |  |
 | [True Babe](https://open.spotify.com/track/696gO5dO34MHhmZlL9Mh19) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [True Babe](https://open.spotify.com/album/61dpINnbtGk1FcOR3VtQYh) | 3:07 | 2023-06-22 |  |

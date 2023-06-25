@@ -882,7 +882,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 171769,
       "name": "Aber sie",
       "url": "https://open.spotify.com/track/3DvPDYdU1EjLooP8EYFoV2"
@@ -904,6 +904,28 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "album": {
+        "name": "ABTURN",
+        "url": "https://open.spotify.com/album/4RJOzy1uubP5EFpXwnfrz3"
+      },
+      "artists": [
+        {
+          "name": "VOLO",
+          "url": "https://open.spotify.com/artist/0PPCPsuv0iOAYKGR2SkFal"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "ABTURN",
+      "url": "https://open.spotify.com/track/0TXWnH8g2AfZEJB8yiqgrE"
     },
     {
       "album": {
@@ -1165,6 +1187,28 @@
     },
     {
       "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153669,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/798N3AVTpnPSuYPh7KBCKA"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
       },
@@ -1180,7 +1224,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 153674,
       "name": "All Night",
       "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
@@ -1686,7 +1730,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 155020,
       "name": "Anders",
       "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
@@ -1744,10 +1788,28 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 144199,
       "name": "ANNA",
       "url": "https://open.spotify.com/track/2H4HtOA24KXUYiINpGZ1ju"
+    },
+    {
+      "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144199,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/7x8kEAb4YRrMsM3nt1fZro"
     },
     {
       "album": {
@@ -2718,7 +2780,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 129412,
       "name": "Bagchaser Can",
       "url": "https://open.spotify.com/track/5QVOfXj8466NDNQRAqfWaA"
@@ -3252,10 +3314,32 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 156882,
       "name": "Bei Nacht",
       "url": "https://open.spotify.com/track/2hEV30dObDzShJ3MbR9mGQ"
+    },
+    {
+      "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156882,
+      "name": "Bei Nacht",
+      "url": "https://open.spotify.com/track/6T98vmgojTvqsYgmVuIyVv"
     },
     {
       "album": {
@@ -4823,6 +4907,28 @@
     },
     {
       "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186399,
+      "name": "Cagoule",
+      "url": "https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc"
+    },
+    {
+      "album": {
         "name": "Calabria (feat. Lujavo & Nito-Onna)",
         "url": "https://open.spotify.com/album/29lm3KjzCeCV07CHGT8R7n"
       },
@@ -6316,7 +6422,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -9427,6 +9533,24 @@
     },
     {
       "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127241,
+      "name": "Finito",
+      "url": "https://open.spotify.com/track/44eV2fnkaegkBM2hfEDYai"
+    },
+    {
+      "album": {
         "name": "Fireworks (feat. Moss Kena & The Knocks)",
         "url": "https://open.spotify.com/album/3xX5VuO4ajjPJwm6SeZqFA"
       },
@@ -10259,6 +10383,28 @@
     },
     {
       "album": {
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/2nuPSGPbcPINHtYvBlLs9I"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155875,
+      "name": "Gang",
+      "url": "https://open.spotify.com/track/2mitiDTMPJ82NxsUyK9pu5"
+    },
+    {
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
       },
@@ -10806,7 +10952,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 102860,
       "name": "Give It To Me - Full Vocal Mix",
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
@@ -11229,6 +11375,24 @@
     },
     {
       "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158422,
+      "name": "Gotham",
+      "url": "https://open.spotify.com/track/5YGThVrLedwYwEqQJEjGKl"
+    },
+    {
+      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/09mZJ7Dehdin0gblicwhkI"
       },
@@ -11288,7 +11452,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 138349,
       "name": "Gramm f\u00fcr Gramm",
       "url": "https://open.spotify.com/track/4vEs6qII13M2TjDsuJ82UB"
@@ -12670,7 +12834,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -13591,6 +13755,24 @@
     },
     {
       "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145193,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6CNgiC3KDJ6qULygWiezND"
+    },
+    {
+      "album": {
         "name": "irgendwie",
         "url": "https://open.spotify.com/album/3EVnfHAno6ce0Nc2x4ZdaQ"
       },
@@ -14292,7 +14474,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 142127,
       "name": "Karneval II",
       "url": "https://open.spotify.com/track/5ujllgmrssanhprcU50yFk"
@@ -14336,6 +14518,24 @@
       "duration_ms": 140241,
       "name": "Keep Driving",
       "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
+    },
+    {
+      "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126192,
+      "name": "Kein Kontakt",
+      "url": "https://open.spotify.com/track/2VK1nUgU9HY5NvfaEqo1OX"
     },
     {
       "album": {
@@ -17299,6 +17499,24 @@
     },
     {
       "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133435,
+      "name": "Matrix",
+      "url": "https://open.spotify.com/track/55UV0fGoHXF749CYfEgRRv"
+    },
+    {
+      "album": {
         "name": "maybe (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG"
       },
@@ -19836,7 +20054,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 166500,
       "name": "Normal",
       "url": "https://open.spotify.com/track/3pyZgbg3uC8NlBQ3E81zlb"
@@ -22002,7 +22220,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 142400,
       "name": "Powerade",
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
@@ -22484,7 +22702,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 214586,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde"
@@ -23074,7 +23292,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -26046,10 +26264,32 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 144400,
       "name": "Strada",
       "url": "https://open.spotify.com/track/5X6Ut0DYPzglxDQbh3PZ7h"
+    },
+    {
+      "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Ahmad Amin",
+          "url": "https://open.spotify.com/artist/4SZSRsSh4xJx9o5V1uDE1o"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "Strada",
+      "url": "https://open.spotify.com/track/78h9wCrvci2eKbssISzNbb"
     },
     {
       "album": {
@@ -26148,7 +26388,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
@@ -27567,6 +27807,32 @@
     },
     {
       "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175241,
+      "name": "Toyota",
+      "url": "https://open.spotify.com/track/5HeBTT4qSw18QfFCjvX0IW"
+    },
+    {
+      "album": {
         "name": "Tracksuit (feat. Bonez MC)",
         "url": "https://open.spotify.com/album/5fXkNE85RPtJTmkYOXuY7S"
       },
@@ -27710,6 +27976,28 @@
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
+    },
+    {
+      "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Mathea",
+          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191109,
+      "name": "Tr\u00e4nen",
+      "url": "https://open.spotify.com/track/4EHZXphfghNeoh6o4o1cd7"
     },
     {
       "album": {
@@ -28256,6 +28544,24 @@
       "duration_ms": 159360,
       "name": "Ups & Downs",
       "url": "https://open.spotify.com/track/53g6tgjn3Ex6o3Q8hcIxkG"
+    },
+    {
+      "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147977,
+      "name": "V Palms",
+      "url": "https://open.spotify.com/track/0iOVYvR9iy19QEnHEXQSKA"
     },
     {
       "album": {
@@ -28928,7 +29234,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 209937,
       "name": "Was wei\u00dft du schon",
       "url": "https://open.spotify.com/track/07MQt3L6LsFS5rAgUSSrMO"
@@ -29189,6 +29495,24 @@
     },
     {
       "album": {
+        "name": "We Too Deep",
+        "url": "https://open.spotify.com/album/77i1SEBqUyYo4D4Lapp4iN"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142183,
+      "name": "We Too Deep",
+      "url": "https://open.spotify.com/track/49yltQawwVb9gjxIpWG7Bu"
+    },
+    {
+      "album": {
         "name": "Weed Mit Nach Bayern",
         "url": "https://open.spotify.com/album/1RoHhffSfJXhWd990Htaw8"
       },
@@ -29349,6 +29673,24 @@
     },
     {
       "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152438,
+      "name": "Weit weg",
+      "url": "https://open.spotify.com/track/3JwcBCsrJheY6egRrpqHjm"
+    },
+    {
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/79VfxswlqSCscjT31Hm8iO"
       },
@@ -29462,7 +29804,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 161703,
       "name": "Wenn das so bleibt",
       "url": "https://open.spotify.com/track/5atei5eVpWKUJj5olSI32L"
@@ -29536,6 +29878,28 @@
       "duration_ms": 138848,
       "name": "Wenn du mich siehst - RIBELLU Remix",
       "url": "https://open.spotify.com/track/75HcbS3oSzIR5HMD95sDRI"
+    },
+    {
+      "album": {
+        "name": "Wenn Du Mich Vergisst",
+        "url": "https://open.spotify.com/album/5fo93iWrWhTgRkaWQW0S3F"
+      },
+      "artists": [
+        {
+          "name": "Mark Forster",
+          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
+        },
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142840,
+      "name": "Wenn Du Mich Vergisst",
+      "url": "https://open.spotify.com/track/17MW8YPQtJFfEUaPOoaVOm"
     },
     {
       "album": {
@@ -30040,6 +30404,28 @@
       "duration_ms": 164716,
       "name": "WIEDER DA",
       "url": "https://open.spotify.com/track/5VW0tcO5dVmLUhWiQh028D"
+    },
+    {
+      "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Yung Hurn",
+          "url": "https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183414,
+      "name": "Wien",
+      "url": "https://open.spotify.com/track/6wQG8O5jMwLuAaeN03nop6"
     },
     {
       "album": {

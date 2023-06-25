@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 104356,
+  "num_followers": 104488,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmUyMmVmMGViZTE3YzE2OWEwOTZhN2E0MTFhOWEzMTUzZjVjNzI2",
+  "snapshot_id": "MCw0MzgzNmVjMTkwYWRkNTNlMTNlOTdjODVhNzgyYzI1MmFkYTYwNDcx",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:12",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "You Forgot It In People",
-        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Anthems For A Seventeen Year-Old Girl",
-      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 224506,
       "name": "Mushaboom",
       "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "When I Pretend To Fall",
-        "url": "https://open.spotify.com/album/5TLh7wdbeB8m6ZL5tf8IHm"
-      },
-      "artists": [
-        {
-          "name": "The Long Winters",
-          "url": "https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/3UtqjZ1PbzEXMGFIFxd3b9"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Just Another Diamond Day",
         "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 136306,
       "name": "Glow Worms",
       "url": "https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "When I Pretend To Fall",
+        "url": "https://open.spotify.com/album/5TLh7wdbeB8m6ZL5tf8IHm"
+      },
+      "artists": [
+        {
+          "name": "The Long Winters",
+          "url": "https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/3UtqjZ1PbzEXMGFIFxd3b9"
     },
     {
       "added_at": "2023-03-14 21:51:12",

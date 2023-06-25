@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 308108,
+  "num_followers": 308184,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjNmYjJjYTQ5MjEwZmI0NWI0ZDk2NjdlOWE5YzcxNGI3ZDk4MTgy",
+  "snapshot_id": "MCxlZjY0NTU3NDM5NjVhMmI1NzEzMDRkZjYxZTNiZGEyYTY1OWFlOGVi",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -947,6 +947,26 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Moves EP",
+        "url": "https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 223537,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 194177,
       "name": "Unrequited Love",
       "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Moves EP",
-        "url": "https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        },
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 223537,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
     },
     {
       "added_at": "2022-06-20 14:19:42",

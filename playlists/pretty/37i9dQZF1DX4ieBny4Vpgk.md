@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,624 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,637 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 34 | [I Must Have That Man](https://open.spotify.com/track/3mbdUnczHqdFQ0PSui94o3) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [I Must Have That Man](https://open.spotify.com/album/64vyKhXh4mnerSTAuEPsl4) | 5:12 |
 | 35 | [Bonita](https://open.spotify.com/track/2jSNZUNgyRArdjjSoqlCPH) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:12 |
 | 36 | [Makin' Whoopee](https://open.spotify.com/track/04rcEAa4UW7Wn8fRwIEWZt) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Meshuga Baby](https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx) | 4:24 |
-| 37 | [I'll Follow the Sun](https://open.spotify.com/track/1bktB5CagQYfxL5YO3OctN) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d) | [I'll Follow The Sun](https://open.spotify.com/album/0UolljxEJxx4l5cDvEoqNE) | 2:19 |
+| 37 | [I'll Follow the Sun](https://open.spotify.com/track/15MQmdjAbibR5KXPx3ZHiY) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d) | [I'll Follow The Sun](https://open.spotify.com/album/3Ja6WWQjRumckGPKA2xUOS) | 2:19 |
 | 38 | [Angel](https://open.spotify.com/track/4Kei4g4sr9fUWy7nhPN6hx) | [Dasha Beets](https://open.spotify.com/artist/5c74V4G4hH40lxp93rE9Xh) | [Bach…because](https://open.spotify.com/album/0d7q0bfcEDPcyk3NegqNsN) | 4:47 |
 | 39 | [Hey, That's No Way To Say Goodbye](https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 4:12 |
 | 40 | [Nature Boy](https://open.spotify.com/track/7BAgzRvbqv6GxOdqZCuYXu) | [Ranee Lee](https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G) | [Because You Loved Me](https://open.spotify.com/album/1Dw40NInWsdiaeMExxBhuS) | 5:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 49 | [I Can't Help It](https://open.spotify.com/track/1gVJYBIGO5zEKPa40MA1WK) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [I Can't Help It](https://open.spotify.com/album/334Lx9ZWSuv3zc0YHyQ0db) | 4:26 |
 | 50 | [If I Had You](https://open.spotify.com/track/6htL8eAdOScorA0ooaoL5k) | [Lara Luppi](https://open.spotify.com/artist/0TMpMNYlHlLT6Ey6BjcklA), [Luca Filastro](https://open.spotify.com/artist/7bRZhdSt3rftBwfmQRe5zR), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Emanuele Zappia](https://open.spotify.com/artist/0yx2tQrSKPmyeVV1D82i6D) | [Day Dream](https://open.spotify.com/album/0IGv0S7wFk9QnyvMA0bIK2) | 5:28 |
 
-Snapshot ID: `MCw2NDJjNmY0ZTgwMDM0ZTQ1ZTIxN2NiZDI2MzZjZTc1MzQ3MTUxZWNj`
+Snapshot ID: `MCwwNzg3MjlkMzA0MDBmYWFkMGY0ZmVkZGM2NGM2MzBjMzk1MzhiZjc4`

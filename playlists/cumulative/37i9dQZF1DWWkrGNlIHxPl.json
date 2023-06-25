@@ -3750,7 +3750,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 209237,
       "name": "Persian Girl",
       "url": "https://open.spotify.com/track/00F00gtN0N4kqlD7HdIKm8"
@@ -4265,6 +4265,24 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/400tCk424YR0fhAH3yj29v"
+      },
+      "artists": [
+        {
+          "name": "Moh Flow",
+          "url": "https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201192,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/52PJYhZeFDUJD70NR3kYT3"
+    },
+    {
+      "album": {
         "name": "Show Me How You Dabke",
         "url": "https://open.spotify.com/album/6kbOhJkqe2Hgcdra2IrJk5"
       },
@@ -4598,6 +4616,24 @@
       "duration_ms": 151507,
       "name": "sun and moon",
       "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
+    },
+    {
+      "album": {
+        "name": "SUPERMAN",
+        "url": "https://open.spotify.com/album/2Hgv3eRA7Nv4NQpsFxH0sc"
+      },
+      "artists": [
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163165,
+      "name": "SUPERMAN",
+      "url": "https://open.spotify.com/track/2SdbZDrOiJ41HrS67Js3fn"
     },
     {
       "album": {
@@ -5276,7 +5312,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 138181,
       "name": "Who Pulled Up? (feat. Jeed)",
       "url": "https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt"

@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-422 songs - 1 day 12 hr 24 min
+424 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,10 +19,10 @@
 | [Among the Unseen Ones](https://open.spotify.com/track/23h8JMaMMLe414X17cJaWF) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [While the Gods Are Sleeping](https://open.spotify.com/album/7qVN7yi6GFqfsItbmaqWbJ) | 5:39 | 2022-05-06 | 2022-06-11 |
 | [Anadem Gyre](https://open.spotify.com/track/1eBUzrOlsY9OMmiaSolhox) | [Antiqva](https://open.spotify.com/artist/6ahZhWLiImspvawPYn6FVd) | [Anadem Gyre](https://open.spotify.com/album/7ykuG0RJkSqhPWCi6kplm5) | 4:04 | 2021-12-17 | 2022-05-07 |
 | [Ancient Death](https://open.spotify.com/track/08k0tIpeDbMWUR3iI6e8Co) | [Asagrimmr](https://open.spotify.com/artist/41V31Mbn9X3RX7GyWrKSQj) | [Ancient Death](https://open.spotify.com/album/0OS5vfWnkTqYz1dBnktFbW) | 6:56 | 2021-12-17 | 2022-01-08 |
-| [Angels Hung from the Arches of Heaven](https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Angels Hung from the Arches of Heaven](https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt) | 4:54 | 2022-10-07 |  |
+| [Angels Hung from the Arches of Heaven](https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Angels Hung from the Arches of Heaven](https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt) | 4:54 | 2022-10-07 | 2023-06-25 |
 | [Anguish](https://open.spotify.com/track/63GKWmCfC9dIOOxP16AwZn) | [Progeny of Sun](https://open.spotify.com/artist/2IOwkQMglFyNgyhjnG2Bpl) | [Anguish](https://open.spotify.com/album/1X9jlZ1B56LU3RpTQOSiaJ) | 3:07 | 2022-05-13 | 2022-07-28 |
 | [Anima](https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar) | [Anima](https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm) | 4:29 | 2023-03-17 | 2023-05-30 |
-| [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 |  |
+| [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 | 2023-06-25 |
 | [Apostle](https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Apostle](https://open.spotify.com/album/2zuqFATCXyRlhU50M1uYvA) | 4:16 | 2021-12-17 | 2022-07-29 |
 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 | 2022-11-25 | 2023-02-24 |
 | [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 | 2023-06-07 |
@@ -85,6 +85,7 @@
 | [Cradle of Insanity](https://open.spotify.com/track/0yZtGvT7RgxjncYE0Pg9fV) | [Veiled in Scarlet](https://open.spotify.com/artist/6umv4rFJkPXQG4PQQ6MwIQ) | [Cradle of Insanity](https://open.spotify.com/album/39Vuf7tc9kQQWreq0m3kyp) | 5:15 | 2022-05-13 | 2022-07-29 |
 | [Cruelty Brought Thee Orchids](https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Cruelty & The Beast](https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7) | 7:18 | 2022-07-13 |  |
 | [Cryptic Hatred](https://open.spotify.com/track/34emkkUGkQ0TNhklAMpeG8) | [Bekor Qilish](https://open.spotify.com/artist/3XFes9KaDdpuRTaiPrHCXR) | [Throes of Death from the Dreamed Nihilism](https://open.spotify.com/album/0gck1FDA4mOauf4e6BSbjV) | 4:32 | 2023-02-15 | 2023-04-01 |
+| [Cult of Shaad'oah](https://open.spotify.com/track/1G2gIvViMPVHsjHQ9Cqxkq) | [Horrendous](https://open.spotify.com/artist/1Na6P4MqOassrZtvT9Z12s) | [Cult of Shaad'oah](https://open.spotify.com/album/3TgbVo0JRtM8sXTVtPWxb6) | 5:23 | 2023-06-23 |  |
 | [Culture of Violence](https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB) | [Extinction A.D.](https://open.spotify.com/artist/1AVn1BUp281M9gQhYCrvGQ) | [Culture of Violence](https://open.spotify.com/album/6RLlW1OIKY7lpwu37ywZMw) | 3:25 | 2022-03-18 | 2022-07-29 |
 | [Cursed](https://open.spotify.com/track/1TaLL0z52wvVRNcmLl0HJF) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [Cursed](https://open.spotify.com/album/3KWgXdrDm75vJbSxWwZvf2) | 5:11 | 2021-12-17 | 2022-03-11 |
 | [Damned In Black](https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Damned In Black](https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau) | 6:51 | 2022-07-13 | 2023-04-22 |
@@ -135,6 +136,7 @@
 | [Fandens Trall](https://open.spotify.com/track/03UIzw1IUBXjTEOqx3oh1f) | [Kampfar](https://open.spotify.com/artist/35nZyw3d7OIbhGeqBEPIYQ) | [Fandens Trall](https://open.spotify.com/album/5qTYxrGgEKprOaz4js9b0m) | 5:24 | 2022-05-06 | 2022-07-28 |
 | [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-04-08 | 2022-04-15 |
 | [Fire, Walk with Me](https://open.spotify.com/track/2gBbO8brlTYaLe0BDjvJLh) | [Harakiri for the Sky](https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq) | [Arson](https://open.spotify.com/album/2swBN6MZL9myFcJPgqQR2V) | 9:08 | 2022-07-13 |  |
+| [Flammen](https://open.spotify.com/track/2HOdj1tDEf5xfSiHAyUkMm) | [Vreid](https://open.spotify.com/artist/2KvwC4Kmp2U8XnKr5Yr1hm) | [Flammen](https://open.spotify.com/album/5DGGRAUfZFLGhKrZPVxtma) | 4:42 | 2023-06-23 |  |
 | [Flammen fra Nord](https://open.spotify.com/track/46rxOhOtgCAswKbvu34j5B) | [Kampfar](https://open.spotify.com/artist/35nZyw3d7OIbhGeqBEPIYQ) | [Flammen fra Nord](https://open.spotify.com/album/4S28ObdRnMRWtf2t888wLp) | 6:02 | 2022-08-26 | 2022-09-16 |
 | [Fly with Me](https://open.spotify.com/track/7bdMpp3VlobHOzuqSi0GWT) | [Brymir](https://open.spotify.com/artist/3YDtlBGmfvE2Xw0avhHeK5) | [Fly with Me](https://open.spotify.com/album/33VKMEjDVQiytCE8sTtkGA) | 4:51 | 2022-08-26 | 2022-10-21 |
 | [Fn .380 Acp\#19074](https://open.spotify.com/track/0iyLsH1W7jhnHQ0vcYaBBV) | [1914](https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz) | [Fn .380 Acp\#19074](https://open.spotify.com/album/0rR0YT4jwqwiqgrvabEAlf) | 5:54 | 2021-12-17 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 11061,
+  "num_followers": 11063,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjYxMGNlODI2MmRkMTQxMjdlOGViOTgzZTg4Yjg3NmE3NjNhMmU5",
+  "snapshot_id": "MCw3NGM5YjI0Mjk4ZTcxYTRlMjJmNDljYzJlM2I2ZDY0OWUwOTFjNWM4",
   "tracks": [
     {
       "added_at": "2023-04-02 08:21:16",
@@ -699,22 +699,18 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Passion: Take It All (Live)",
-        "url": "https://open.spotify.com/album/5UIZUNZAbJl60uG7Y13JdB"
+        "name": "Two Coasts for Comfort",
+        "url": "https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
         }
       ],
-      "duration_ms": 428186,
-      "name": "At The Cross (Love Ran Red) - Live",
-      "url": "https://open.spotify.com/track/51IOMFLZNIn4oynL6t6bwr"
+      "duration_ms": 205026,
+      "name": "Were You There",
+      "url": "https://open.spotify.com/track/59NpCm0lOMObumSe0soohI"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -739,18 +735,22 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Two Coasts for Comfort",
-        "url": "https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi"
+        "name": "Passion: Take It All (Live)",
+        "url": "https://open.spotify.com/album/5UIZUNZAbJl60uG7Y13JdB"
       },
       "artists": [
         {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 205026,
-      "name": "Were You There",
-      "url": "https://open.spotify.com/track/59NpCm0lOMObumSe0soohI"
+      "duration_ms": 428186,
+      "name": "At The Cross (Love Ran Red) - Live",
+      "url": "https://open.spotify.com/track/51IOMFLZNIn4oynL6t6bwr"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Raise Up The Crown",
+        "url": "https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu"
+      },
+      "artists": [
+        {
+          "name": "Robbie Seay Band",
+          "url": "https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5"
+        }
+      ],
+      "duration_ms": 200773,
+      "name": "Beautiful Scandalous Night",
+      "url": "https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "Worthy Of Your Name (Live)",
         "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 366866,
       "name": "How Great Is Your Love - Live",
       "url": "https://open.spotify.com/track/4707B6flOJWZSBXqqVsvPI"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Raise Up The Crown",
-        "url": "https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu"
-      },
-      "artists": [
-        {
-          "name": "Robbie Seay Band",
-          "url": "https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5"
-        }
-      ],
-      "duration_ms": 200773,
-      "name": "Beautiful Scandalous Night",
-      "url": "https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg"
     },
     {
       "added_at": "2023-04-02 08:21:16",

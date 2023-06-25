@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: jev.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,917 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,939 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Sharpner](https://open.spotify.com/track/7KzcldpkVl4A5aVafDMkqZ) | [XORA](https://open.spotify.com/artist/314rLbir7Cluk4nKOszw8I) | [King Of Everything](https://open.spotify.com/album/58aKPjr4Z55HduL6vESCN3) | 2:31 |
 | 50 | [Deep In The Cut](https://open.spotify.com/track/7p6PyLqJcNZwsbRWQIr62N) | [Ghostboyrj](https://open.spotify.com/artist/2JOM9U6c8ef5pDlJwHAbjO) | [Deep In The Cut](https://open.spotify.com/album/2wiZcgF4V96sSE0T5XUDTe) | 2:13 |
 
-Snapshot ID: `MCxmZWFmNzU1NTk2N2M0YWUyMGE3NzFkNWRlMzM5MDY0MGE5MjFlNmYz`
+Snapshot ID: `MCxhM2I4Y2QxZDBmMzVjMDFhZWQ1MTJjOTJhMjg0ZDM5NDc5YjBjMDhi`

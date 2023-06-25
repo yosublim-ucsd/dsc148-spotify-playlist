@@ -7540,7 +7540,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 144386,
       "name": "Erotas",
       "url": "https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6"
@@ -11770,7 +11770,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 154594,
       "name": "KATOSTARI",
       "url": "https://open.spotify.com/track/6BD0v9IBfEGUkEDutrD9sF"
@@ -14740,6 +14740,28 @@
       "duration_ms": 185138,
       "name": "MAYA",
       "url": "https://open.spotify.com/track/48dp1RchiOGrEpgG7zD7QK"
+    },
+    {
+      "album": {
+        "name": "MAYA",
+        "url": "https://open.spotify.com/album/7Gkgvrq7uvCHO75VqHwpTj"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161612,
+      "name": "MAYA",
+      "url": "https://open.spotify.com/track/0TsD4iSubzoyfG0RcfWIHR"
     },
     {
       "album": {
@@ -20962,6 +20984,32 @@
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
+    },
+    {
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/3283IuJx4JK56VsevzS7sH"
+      },
+      "artists": [
+        {
+          "name": "Jitano",
+          "url": "https://open.spotify.com/artist/3xmY7evutapMbhcZva0xkn"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/15q58chZS9QVCKQXz9lRkJ"
     },
     {
       "album": {

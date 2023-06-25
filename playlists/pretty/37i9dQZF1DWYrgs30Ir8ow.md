@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,208 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,234 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 3 | [Mine](https://open.spotify.com/track/3hXr1QdtzfgRbH0zTMaZGJ) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Summerpack](https://open.spotify.com/album/3TrJAgJbIerX8eIWUdtndB) | 2:21 |
 | 4 | [Feeling The Love Again \(Explode\)](https://open.spotify.com/track/3eGf636ICmSNbZEEl7QAax) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs), [Michael Rivera](https://open.spotify.com/artist/2637RX1gxx8olEwuYvMyce), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke) | [Feeling The Love Again \(Explode\)](https://open.spotify.com/album/3xqG4VIG6Z3c56zcRaYOVE) | 2:42 |
 | 5 | [Schultenbräu](https://open.spotify.com/track/540BsMhL329p3KhB8ZZ7Ez) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [Schultenbräu](https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu) | 3:02 |
-| 6 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 |
+| 6 | [0800 HEAVEN](https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r) | 2:39 |
 | 7 | [Bon Mij](https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [DJ Wale](https://open.spotify.com/artist/4gTsaC1OX5plDemue2uZHn), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Bon Mij](https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a) | 2:31 |
 | 8 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 9 | [African Boy](https://open.spotify.com/track/5E18EQAForpYG3lEiFdUpq) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [African Boy](https://open.spotify.com/album/5p7qCTAQdNzDHuOXCB40pu) | 3:15 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 |
 | 40 | [Kleuterklas](https://open.spotify.com/track/2kMDzyjMglV9WxUjKhMg1A) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [Kleuterklas](https://open.spotify.com/album/5ftpevvTQGLgSv871Fxptt) | 2:48 |
 
-Snapshot ID: `MCw0OTgzNTEyZTBhMmFlZjgwMDYxMTNmMDI3MWYyMTczZjY2MjJhMzMy`
+Snapshot ID: `MCw0NDIyOWVhYTM5NjhkNjRmMTJmODZmNmE3ZGZkN2ZkNTQwOWQ2ZDY5`

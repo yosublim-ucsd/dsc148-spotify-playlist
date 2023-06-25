@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Amy Shark
 
-189 songs - 10 hr 17 min
+190 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [The World Is Here For You](https://open.spotify.com/track/26KHeStct1X9bFpWSCOhjb) | [Immy Owusu](https://open.spotify.com/artist/5gmKrR6QTu7AfVN7u1uPwO) | [The World Is Here For You](https://open.spotify.com/album/5aDnjZgPThp7hgOXVAaGeI) | 5:30 | 2023-06-15 | 2023-06-23 |
 | [Things You Don't Say](https://open.spotify.com/track/3KSFfg72bfirtdDTm7LJaT) | [Real Action](https://open.spotify.com/artist/52ypicbJHkE7aGFMNv0WcK), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Things You Don't Say](https://open.spotify.com/album/1M0jZfqAcF8D514Y1NFXzh) | 3:47 | 2023-06-23 |  |
 | [Thinking About You](https://open.spotify.com/track/1E7jE0EHy7FlU8uWi5hirD) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [The Friends You Made Along The Way](https://open.spotify.com/album/1Sw2RWBcBOFIpWabO8Ftin) | 3:22 | 2023-06-15 | 2023-06-23 |
-| [Timebomb](https://open.spotify.com/track/3cAFxPjBOBz97MWfbidgfH) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Timebomb](https://open.spotify.com/album/7nGZLJ6jHY0xSAhi35i6B2) | 2:51 | 2023-06-23 |  |
+| [Timebomb](https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:51 | 2023-06-23 |  |
+| [Timebomb](https://open.spotify.com/track/3cAFxPjBOBz97MWfbidgfH) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Timebomb](https://open.spotify.com/album/7nGZLJ6jHY0xSAhi35i6B2) | 2:51 | 2023-06-23 | 2023-06-25 |
 | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw) | 3:00 | 2023-06-15 | 2023-06-23 |
 | [Top](https://open.spotify.com/track/3XriXSvc41mFf0Nt4KBZc5) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [Rico Tonga](https://open.spotify.com/artist/5LApBZfdlukIonWGLzB3Gz) | [Top](https://open.spotify.com/album/0apZvQNi0IfninYMAfAMe7) | 2:23 | 2023-06-15 | 2023-06-23 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-23 |  |

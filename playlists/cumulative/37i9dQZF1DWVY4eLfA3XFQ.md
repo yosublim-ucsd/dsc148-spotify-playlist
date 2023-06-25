@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Gene Farris
 
-1,140 songs - 2 day 18 hr 23 min
+1,141 songs - 2 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Can’t Fight The Feeling](https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Can’t Fight The Feeling](https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt) | 2:51 | 2023-02-17 | 2023-04-09 |
 | [Caribeña](https://open.spotify.com/track/2iC7V1DRHNLvnfkfzVvwiV) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo), [Cristian Vinci](https://open.spotify.com/artist/4qQDMZaMko7Fq2gbq2PpRx), [Manybeat](https://open.spotify.com/artist/1Be8ITi2hwXQWdQCKbmQv4) | [Caribeña](https://open.spotify.com/album/4UXlFSWUxN4ThJcF8D1ipL) | 2:01 | 2023-06-09 |  |
 | [Carnaval de Paris](https://open.spotify.com/track/5b58AS0u6Xr4vaxWnY2C1n) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Carnaval de Paris](https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3) | 3:15 | 2022-04-01 | 2022-06-11 |
+| [Caroline](https://open.spotify.com/track/4stpA04LZHBCx3YejNdodF) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Caroline](https://open.spotify.com/album/2BbSWQGVeRWeJQtByWRxOm) | 3:00 | 2023-06-23 |  |
 | [Carry On](https://open.spotify.com/track/0MzErqKtUmrdmCCNi8QAIA) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Carry On](https://open.spotify.com/album/5jKSODSBHwVLaQvJ6nivsY) | 2:35 | 2023-01-27 | 2023-04-04 |
 | [Case Of The Ex \(feat\. Mya Francis\)](https://open.spotify.com/track/0jwGDGBIyzdsNxYkj7vNUb) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mya Francis](https://open.spotify.com/artist/0kfbyRaQxHrJavbstTdvrU) | [Case Of The Ex \(feat\. Mya Francis\)](https://open.spotify.com/album/0S5Baqi47D7SIXRlheqPVM) | 2:07 | 2023-02-24 | 2023-05-20 |
 | [Chase The Ace](https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI) | [AZETE](https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC) | [Chase The Ace EP](https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi) | 2:59 | 2022-03-11 | 2022-06-04 |
@@ -683,7 +684,7 @@
 | [Nikes](https://open.spotify.com/track/6Al4eNOERy6uxX8yieyPnl) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Nikes](https://open.spotify.com/album/5UHMgAgtfB9zgRdkOgq4MK) | 2:29 | 2023-03-10 | 2023-05-20 |
 | [No Diggity](https://open.spotify.com/track/74svMcorgPABViSTZka4yw) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st) | 3:38 | 2022-01-07 | 2022-04-23 |
 | [No Drama](https://open.spotify.com/track/1MZmduhi0sK3RbF4cN3dbv) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Sophiegrophy](https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE) | [No Drama](https://open.spotify.com/album/7HNvH4UVOMxMITfeXxu6ch) | 3:47 | 2022-05-27 | 2022-08-27 |
-| [No Drugs](https://open.spotify.com/track/0TFJemtFTaBQ12HwKiRPx3) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [No Drugs](https://open.spotify.com/album/4QyUvhtYJqcrt9CsDlSvAZ) | 2:52 | 2023-04-07 |  |
+| [No Drugs](https://open.spotify.com/track/0TFJemtFTaBQ12HwKiRPx3) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [No Drugs](https://open.spotify.com/album/4QyUvhtYJqcrt9CsDlSvAZ) | 2:52 | 2023-04-07 | 2023-06-25 |
 | [No More](https://open.spotify.com/track/0WbB2lzpZD5Up5ufK0CIyg) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [No More EP](https://open.spotify.com/album/3nDJuk3iXzSd8UYAFlThCS) | 4:03 | 2022-06-17 | 2022-07-30 |
 | [No More Looking Back \(feat\. Steffanie Christi'an\) \- David Penn Remix](https://open.spotify.com/track/2odfKlY77Ng9g6XbK1qhtS) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Steffanie Christi'an](https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [No More Looking Back \(feat\. Steffanie Christi'an\) \[David Penn Remix\]](https://open.spotify.com/album/4yTRADe3bgrEcJCx6U9WmE) | 3:05 | 2021-11-26 | 2022-01-06 |
 | [No Standing](https://open.spotify.com/track/1Sjav5dn1J3e5kCnggX3BR) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [No Standing](https://open.spotify.com/album/4FIF0uU4AJDcQVgUjrqM5Z) | 4:59 | 2022-12-02 | 2023-03-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,647 likes - 30 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,658 likes - 30 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 29 | [Shadow Banned](https://open.spotify.com/track/2qkObeNbfhoiPjAI5iFCyj) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Shadow Banned](https://open.spotify.com/album/7rqLkVkk8JvoZMhmy9sKWD) | 2:54 |
 | 30 | [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 |
 
-Snapshot ID: `MCxjNDVkZTYxZDg5MmVkODYwZGQ0NzRhNGJmMWQ3NjlmODU1YzcxOGMy`
+Snapshot ID: `MCxlNTNmNmRjNjEwMDY3OTE0Y2YzY2U4ZTIxMmEyNjFjOGE0NTI2ZjM1`

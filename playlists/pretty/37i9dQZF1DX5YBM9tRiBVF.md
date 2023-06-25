@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women at full volume!  On the cover this month: <a href="spotify:artist:4YGchyGbwAekTbhOxczQqM">Noa  Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,115 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,117 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 48 | [High Anxiety](https://open.spotify.com/track/4tn6jE0Zz45alOjx8UnNJV) | [Annabel Lee](https://open.spotify.com/artist/6wsXRptmqxSeGElfXrlsAn) | [High Anxiety](https://open.spotify.com/album/5nYVmOfcKUAZAaImveZ8b0) | 3:48 |
 | 49 | [Something French](https://open.spotify.com/track/5n0vQkugV41imw4ZKn6WvA) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Oh Dear](https://open.spotify.com/album/27VCTA2nCe7ulozoaMTV2Y) | 3:38 |
 
-Snapshot ID: `MCw2ZDI1OTQ4NjM4ODczNDQ5NzU2ZDE4M2JkYWZmOTcwODY2MDlkNTkw`
+Snapshot ID: `MCxiNWQzZWYwZTgxMjBmYTNiYjY4ZTEyZGIyNTUyNTAyZmJhNDI0Mzk1`

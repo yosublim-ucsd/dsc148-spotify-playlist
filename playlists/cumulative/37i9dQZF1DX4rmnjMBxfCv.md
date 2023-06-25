@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Jad Halal
 
-134 songs - 8 hr 58 min
+135 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Malha](https://open.spotify.com/track/7CbQfLg4og45pK84irlEd7) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Douae El Rhiouane](https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki) | [Malha](https://open.spotify.com/album/14CyRqR7av8LvM8OfyaBMa) | 4:29 | 2022-03-30 | 2023-06-24 |
 | [Marrakech](https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 5:14 | 2022-03-30 | 2022-08-23 |
 | [Matwasouneesh](https://open.spotify.com/track/6s3phzT9lHW1viznchr3lu) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [Matwasouneesh](https://open.spotify.com/album/1kfpSqYp8c4zttZGgExC8z) | 4:42 | 2022-03-30 | 2022-08-23 |
+| [Mawal](https://open.spotify.com/track/13yJKMCV044A6WDfNQnL1K) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mawal](https://open.spotify.com/album/5PWaUTA0ezATBmK2AnNJbe) | 2:49 | 2023-06-24 |  |
 | [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 | 2022-03-30 | 2023-06-24 |
 | [Mn Alby Baghany](https://open.spotify.com/track/4zViTBjVXkd5eaUsSjrhHv) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:50 | 2022-03-30 | 2023-06-24 |
 | [Mogador](https://open.spotify.com/track/2FBUQ0rB58kVxpR1xicpJs) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mogador](https://open.spotify.com/album/05yz2wpMI4wJiBwyj7fvQj) | 2:30 | 2023-03-02 | 2023-06-24 |
@@ -127,7 +128,7 @@
 | [Win \- Lesstars Remix](https://open.spotify.com/track/0F9RxNpcbyw0uif75wpqrz) | [Halim yousfi](https://open.spotify.com/artist/6EUe84nUL0UynwPD7ddtgp), [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba), [Lesstars](https://open.spotify.com/artist/6QKz2YMVPepGdsvvOqeAg9) | [Win](https://open.spotify.com/album/0GNcDMnCoCbAgdgpKZXflS) | 4:17 | 2022-06-23 | 2023-06-24 |
 | [XP](https://open.spotify.com/track/3gPI8ddrbwIILGD7Bm9NEg) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [XP](https://open.spotify.com/album/5tQTtuAYhnDoBNfcuf1Lcd) | 6:39 | 2022-11-21 | 2023-02-02 |
 | [Ya Dam3i](https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 | 2022-08-12 | 2023-06-24 |
-| [Ya Ghali](https://open.spotify.com/track/2E2CLOBLGokt6RKbhhIeCn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Ya Ghali](https://open.spotify.com/album/4sYmsgBNSQrOXjV4GqmbHE) | 2:40 | 2022-03-30 |  |
+| [Ya Ghali](https://open.spotify.com/track/2E2CLOBLGokt6RKbhhIeCn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Ya Ghali](https://open.spotify.com/album/4sYmsgBNSQrOXjV4GqmbHE) | 2:40 | 2022-03-30 | 2023-06-25 |
 | [Ya Ghayeb](https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt) | [DJ Maximus](https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE), [Bob Zoabi](https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW) | [Ya Ghayeb](https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F) | 3:37 | 2022-03-30 | 2023-06-24 |
 | [Ya Mustafa Ya Mustafa \- Moaaz Music Remix](https://open.spotify.com/track/0CaEUXeb3yKbem3QrQ5zin) | [Bob Azzam](https://open.spotify.com/artist/6aHHLKbMeqAmTkdwcogHjE), [Moaaz Music](https://open.spotify.com/artist/7qwBZEZI6m4jLunVoJaUR5) | [Ya Mustafa Ya Mustafa \(Moaaz Music Remix\)](https://open.spotify.com/album/7HWVdFT7PnPB823muVrHKG) | 2:44 | 2022-03-30 | 2022-08-23 |
 | [Ya Rababa](https://open.spotify.com/track/0JbbFcObfoamPYxjFO3Bzo) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Toufic Hatem](https://open.spotify.com/artist/4j9gpKIArRkQI69agEe0YH) | [Ya Rababa](https://open.spotify.com/album/39MFNRuzV8F5JOChDRpBxe) | 5:48 | 2022-12-02 | 2023-06-24 |

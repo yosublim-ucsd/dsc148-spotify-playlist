@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,665 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,680 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [Iluminado](https://open.spotify.com/track/4lcF1N7S5c1Sx5iK4jRfvj) | [Majewski](https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm), [Arthur Silveira](https://open.spotify.com/artist/4riIniErOs6yVUmzLxHM5C), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Iluminado](https://open.spotify.com/album/3UMlVIbvvrDgFE8wVsvlJ5) | 2:21 |
 | 75 | [Vários Planos](https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vários Planos](https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI) | 3:00 |
 
-Snapshot ID: `MCxkYmM0ZDZlNGMxODQ4OTg0ZDI5OTBkZWE0MjljMmVjZWE1OTBhMTky`
+Snapshot ID: `MCw2NjViNmVjNzk5NGQwMzJiNTUzNDdkOGM0YTliYTQwMDc1ZTdlZTlh`

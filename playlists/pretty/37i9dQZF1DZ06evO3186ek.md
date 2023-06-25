@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,342 likes - 50 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,425 likes - 50 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Lean Back \(feat\. Amanda Lindsey Cook & Chandler Moore\)](https://open.spotify.com/track/4EtKV9VxLbL6wgeQjiPm4r) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 15:45 |
 | 50 | [Tu Fidelidad \(feat\. Nate Diaz & Evan Craft\)](https://open.spotify.com/track/6F8ipnqGKidd5pUjpgww7J) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Venga Tu Reino \(Deluxe\)](https://open.spotify.com/album/26W3PMfdqy8gG7Tw9rlozA) | 1:49 |
 
-Snapshot ID: `MjgxMjU0MDAsMDAwMDAwMDBkOGIwNjk0YTYwZGI0MWI1NTBjM2JiZjA4NThkMTE1NQ==`
+Snapshot ID: `MjgxMjY4MzksMDAwMDAwMDBjZTkwZTRkMDdjNDI3ZTc5ZDZkMGQ1MzNiZWUzMDNiNA==`

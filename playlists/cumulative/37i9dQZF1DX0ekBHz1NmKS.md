@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-725 songs - 1 day 14 hr 22 min
+726 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Aska](https://open.spotify.com/track/7IDJTVebvZSHH5coPgvxIq) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Vi](https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX) | 3:54 | 2022-07-28 | 2022-09-16 |
 | [Att vara själv och inte ensam alls](https://open.spotify.com/track/2kg9iuONImcFwLYanWJfvp) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Att vara själv och inte ensam alls](https://open.spotify.com/album/49dwPU6YrNSCtMEP1RyXQZ) | 3:42 | 2021-12-16 | 2022-03-10 |
 | [aura](https://open.spotify.com/track/7A63dexDM5NCXlICgq8RUc) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd) | [ikväll, inatt, men aldrig imorgon](https://open.spotify.com/album/2iHZ5X0FRetrOOK6A97G9N) | 2:52 | 2023-02-23 | 2023-04-07 |
-| [Autopilot](https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Autopilot](https://open.spotify.com/album/42YP4aQ1sTjUZm54n5pRUI) | 2:51 | 2023-02-16 | 2023-06-10 |
+| [Autopilot](https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Autopilot](https://open.spotify.com/album/42YP4aQ1sTjUZm54n5pRUI) | 2:51 | 2023-02-16 |  |
 | [Avundsjuk på regnet](https://open.spotify.com/track/08jUQzPgECVJW9eQDHOiz7) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 2:42 | 2021-12-16 | 2022-09-16 |
 | [Baby Blue](https://open.spotify.com/track/3MJSu8SbYVcRRfi5faaMQd) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Baby Blue](https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n) | 2:54 | 2022-04-01 | 2022-04-21 |
 | [Bad One](https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b) | 2:41 | 2023-06-22 |  |
@@ -240,7 +240,7 @@
 | [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 | 2023-04-13 |  |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-25 |  |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-06-23 | 2023-05-08 |
-| [Golvet i hallen](https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Golvet i hallen](https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW) | 3:06 | 2023-03-30 |  |
+| [Golvet i hallen](https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Golvet i hallen](https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW) | 3:06 | 2023-03-30 | 2023-06-25 |
 | [Good Parts](https://open.spotify.com/track/3SaWMd7Gk3R2FGz7aKNfbL) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Good Parts](https://open.spotify.com/album/5tsdwoSxgUo6pjNhIa0GKb) | 2:30 | 2022-05-12 | 2022-07-18 |
 | [Good Things Come to Those Who Wait](https://open.spotify.com/track/4k392FaIeAtWi8XUyQXMvA) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Good Things Come to Those Who Wait](https://open.spotify.com/album/1RofMBvXnZBRLb0FKsWejZ) | 3:37 | 2022-01-13 | 2022-05-07 |
 | [Good Vibes](https://open.spotify.com/track/0S1xJLVhru1bOJH4EX0zcI) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Good Vibes](https://open.spotify.com/album/6Y8HkkS42PW6VRCDx7ajnP) | 3:32 | 2022-05-12 | 2022-07-19 |
@@ -315,6 +315,7 @@
 | [Iconic](https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Iconic](https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP) | 2:28 | 2022-10-28 | 2023-02-01 |
 | [Idiot](https://open.spotify.com/track/1K60A6axKbeTgDMzaoOgri) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut \(pt\. 1\)](https://open.spotify.com/album/4ODsYIvXJVM9pvUA3HJUQo) | 2:58 | 2021-12-16 | 2022-01-04 |
 | [Idén om oss](https://open.spotify.com/track/51KeFicZrswYfj2BxvOP3Z) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Idén om oss](https://open.spotify.com/album/0XBIH0lWaW3vHIrtQ2jx2L) | 2:38 | 2021-12-16 | 2022-03-11 |
+| [Imagine](https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6) | 3:12 | 2023-06-22 |  |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-03-04 | 2022-03-18 |
 | [In The End](https://open.spotify.com/track/3UGZ9VUAZAJeIN1p0V7v8j) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [In The End](https://open.spotify.com/album/3Yp86nU21Kw0lMSBCL8iwO) | 3:18 | 2022-03-10 | 2022-04-21 |
 | [In The Sunrise](https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [OMR](https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH) | 2:20 | 2022-05-30 | 2023-02-24 |
@@ -422,7 +423,7 @@
 | [Moonshine](https://open.spotify.com/track/3r2M7ITabcpBF6ZmaQr5LL) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Moonshine](https://open.spotify.com/album/1mYP0VnPraUurStDyEyRex) | 3:41 | 2021-12-16 | 2022-02-10 |
 | [More Than Words](https://open.spotify.com/track/6mss39f2NvXx3IshtHqldT) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [More Than Words](https://open.spotify.com/album/2nNSUxI7Loz154Ytgoaq1e) | 2:52 | 2021-12-16 | 2022-04-02 |
 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-01-12 | 2023-03-26 |
-| [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-04-01 | 2023-04-14 |
+| [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-04-01 |  |
 | [Morning](https://open.spotify.com/track/5NQ8oXv0nbpwUn51Nzu45H) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Swedish Summer Edition\)](https://open.spotify.com/album/2tJdPK9VjOY8XV6VM6s1Cy) | 2:54 | 2021-12-16 | 2022-02-09 |
 | [Moving Like That](https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Moving Like That](https://open.spotify.com/album/32FC7UO1DuuzlTgkoLP7VJ) | 2:49 | 2022-02-05 | 2022-04-28 |
 | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5) | 3:48 | 2022-05-12 | 2023-02-11 |
@@ -500,7 +501,7 @@
 | [Regnar över Stockholm](https://open.spotify.com/track/38w3AeVl212DfCXRFwearV) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Stora drömmar säger aldrig goodbye](https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT) | 2:58 | 2023-01-12 | 2023-05-19 |
 | [RIDE](https://open.spotify.com/track/3D4RIZPQz299XfUEge0YRp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [RIDE](https://open.spotify.com/album/6obIhl2Q0t8ingZMMSCQtO) | 3:58 | 2022-06-16 | 2022-07-27 |
 | [Ringar på vattnet](https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ringar på vattnet](https://open.spotify.com/album/7DEgBk8CBHmxiIgznhJFaY) | 2:42 | 2021-12-16 | 2022-03-11 |
-| [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 | 2022-10-06 |  |
+| [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 | 2022-10-06 | 2023-06-25 |
 | [River In Reverse](https://open.spotify.com/track/6lQoYDLeDtIbvBAuslKy4d) | [Winhill/Losehill](https://open.spotify.com/artist/7fXcDsj4r6w3mVHauFRNqu) | [The Grief](https://open.spotify.com/album/6SzQzNJsxlpH9k3oHHSIy5) | 3:58 | 2022-06-30 | 2022-07-13 |
 | [Rollercoaster](https://open.spotify.com/track/1XrEvLfgYuTcHELpsK3mEq) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Rollercoaster](https://open.spotify.com/album/3tqha1gDXyKevGWizc2sn3) | 3:05 | 2021-12-16 | 2022-05-02 |
 | [Rom\-Com](https://open.spotify.com/track/0GfPbAHD69YgJUQVwMTrtS) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sweet Life](https://open.spotify.com/album/05qc5AvQy0FFYc3pKLgSS2) | 3:20 | 2021-12-16 | 2022-03-05 |
@@ -568,7 +569,7 @@
 | [Som en sång](https://open.spotify.com/track/0cVDXsKlmi4ANSpld0XTSq) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Som en sång](https://open.spotify.com/album/5FW9X0S4UqnM9QuSqITB11) | 3:50 | 2023-02-23 | 2023-03-30 |
 | [Som ett minne blott](https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Som ett minne blott](https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE) | 3:11 | 2022-09-29 |  |
 | [Someone Always Knows](https://open.spotify.com/track/3ws3fXwBlZRSWbPgtEcTii) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Someone Always Knows](https://open.spotify.com/album/3JPLJcTfUJ7wsQiTifHmM1) | 2:30 | 2022-02-24 | 2022-05-13 |
-| [Something Beautiful](https://open.spotify.com/track/5xuHftLjxTASYExPb4y10r) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Something Beautiful](https://open.spotify.com/album/7nuQoumgtD9PxtuCrRNTn1) | 3:58 | 2023-06-22 |  |
+| [Something Beautiful](https://open.spotify.com/track/5xuHftLjxTASYExPb4y10r) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Something Beautiful](https://open.spotify.com/album/7nuQoumgtD9PxtuCrRNTn1) | 3:58 | 2023-06-22 | 2023-06-25 |
 | [Sometimes](https://open.spotify.com/track/2z3p0draElJoHuLwPIeEyt) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Sometimes](https://open.spotify.com/album/7xIeb2a6nj8eUcx9kkY0oe) | 2:42 | 2021-12-16 | 2022-01-14 |
 | [Somewhere Without Me](https://open.spotify.com/track/0YoTjK4DQV9lx6OBtOJPj7) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Somewhere Without Me](https://open.spotify.com/album/5mWszAnXiNaXRLQ1XXUjFx) | 3:33 | 2021-12-16 | 2022-03-11 |
 | [Sommardag](https://open.spotify.com/track/2LWwXk56lQAa5zuHd6snBB) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Naag Nool](https://open.spotify.com/album/1UTctXDMnBfSheaCnpT7O5) | 3:19 | 2021-12-16 | 2022-03-07 |

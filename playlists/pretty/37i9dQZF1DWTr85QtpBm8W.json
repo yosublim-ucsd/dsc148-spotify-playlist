@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 9037,
+  "num_followers": 9091,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDUzNzU3NjU0Nzg5ODUwOWIyNDQ2OGM1ZmRlNDU2MjFjNWE4ZDIw",
+  "snapshot_id": "MCw2OTA3YTA3NDI0NmE0MzU4ODMyOGFhMzUzNTdlZmM4OWI4MjgyODQy",
   "tracks": [
     {
       "added_at": "2023-06-07 15:22:01",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 268051,
-      "name": "Dissolving Clouds",
-      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Ghosts I-IV",
         "url": "https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 193613,
       "name": "13 Ghosts II",
       "url": "https://open.spotify.com/track/1HwDwWdJgbI23mGJpGqBL6"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 268051,
+      "name": "Dissolving Clouds",
+      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
+        "name": "Ghosts I-IV",
+        "url": "https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 168834,
+      "name": "01 Ghosts I",
+      "url": "https://open.spotify.com/track/3M17PrywlQbpMskEKvdaea"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
         "name": "Riceboy Sleeps",
         "url": "https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 560653,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "Ghosts I-IV",
-        "url": "https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 168834,
-      "name": "01 Ghosts I",
-      "url": "https://open.spotify.com/track/3M17PrywlQbpMskEKvdaea"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "The Disintegration Loops (Remastered)",
-        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
+        "name": "Opalescent",
+        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
       },
       "artists": [
         {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 650213,
-      "name": "dlp 2.1",
-      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
+      "duration_ms": 234333,
+      "name": "Cold Out There",
+      "url": "https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -579,34 +579,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Opalescent",
-        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
+        "name": "The Disintegration Loops (Remastered)",
+        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 234333,
-      "name": "Cold Out There",
-      "url": "https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "Silent Motels",
-      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
+      "duration_ms": 650213,
+      "name": "dlp 2.1",
+      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -623,6 +607,22 @@
       "duration_ms": 330826,
       "name": "Track3a (2waynice)",
       "url": "https://open.spotify.com/track/0jV5pkyZByn7pV12Rzbtuu"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "Silent Motels",
+      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -731,54 +731,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 344560,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
-      },
-      "artists": [
-        {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Austin Texas Mental Hospital, Pt. 3",
-      "url": "https://open.spotify.com/track/7DggAuNltLAhPaineGWUpD"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "Venice",
-        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
-      },
-      "artists": [
-        {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
-        }
-      ],
-      "duration_ms": 394693,
-      "name": "City of Light",
-      "url": "https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC"
       },
@@ -799,18 +751,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Playthroughs",
-        "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
       "artists": [
         {
-          "name": "Keith Fullerton Whitman",
-          "url": "https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl"
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
         }
       ],
-      "duration_ms": 481266,
-      "name": "Fib01a",
-      "url": "https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ"
+      "duration_ms": 347520,
+      "name": "Austin Texas Mental Hospital, Pt. 3",
+      "url": "https://open.spotify.com/track/7DggAuNltLAhPaineGWUpD"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -824,9 +776,41 @@
           "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
         }
       ],
-      "duration_ms": 273186,
-      "name": "Piano Abg",
-      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
+      "duration_ms": 344560,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Venice",
+        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        }
+      ],
+      "duration_ms": 394693,
+      "name": "City of Light",
+      "url": "https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Playthroughs",
+        "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
+      },
+      "artists": [
+        {
+          "name": "Keith Fullerton Whitman",
+          "url": "https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl"
+        }
+      ],
+      "duration_ms": 481266,
+      "name": "Fib01a",
+      "url": "https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -915,26 +899,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "How Distant Your Heart",
-      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Yesterday Was Dramatic \u2013 Today Is OK",
         "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
       },
@@ -967,34 +931,38 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
       "artists": [
         {
-          "name": "Ishq",
-          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
         }
       ],
-      "duration_ms": 602933,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
+      "duration_ms": 273186,
+      "name": "Piano Abg",
+      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
     },
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Telegraphs in Negative / Mouths Trapped in Static",
-        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
       "artists": [
         {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 135293,
-      "name": "Your Guts Are Like Mine",
-      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
+      "duration_ms": 243506,
+      "name": "How Distant Your Heart",
+      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1011,6 +979,42 @@
       "duration_ms": 309560,
       "name": "Under the Water It Glowed",
       "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
+      },
+      "artists": [
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        }
+      ],
+      "duration_ms": 602933,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Riceboy Sleeps (2019 Remaster)",
+        "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+        }
+      ],
+      "duration_ms": 315386,
+      "name": "All The Big Trees - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1051,22 +1055,34 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Riceboy Sleeps (2019 Remaster)",
-        "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
       },
       "artists": [
         {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        },
-        {
-          "name": "Alex Somers",
-          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 315386,
-      "name": "All The Big Trees - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
+      "duration_ms": 278173,
+      "name": "The Unfinished",
+      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Telegraphs in Negative / Mouths Trapped in Static",
+        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 135293,
+      "name": "Your Guts Are Like Mine",
+      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1099,22 +1115,6 @@
       "duration_ms": 410933,
       "name": "Warmed By the Drift",
       "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 278173,
-      "name": "The Unfinished",
-      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Ba Ba Ti Ki Di Do",
-        "url": "https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q"
-      },
-      "artists": [
-        {
-          "name": "Sigur R\u00f3s",
-          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Ba Ba",
-      "url": "https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Streichelfisch (Remastered 2022)",
         "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
       },
@@ -1219,22 +1203,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 341890,
-      "name": "Already There",
-      "url": "https://open.spotify.com/track/1KhqU5oOQeHSMkmFCUsU4j"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Talk Amongst the Trees",
         "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
       },
@@ -1247,6 +1215,38 @@
       "duration_ms": 330666,
       "name": "Calm Of The Cast-Light Cloud",
       "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Ba Ba Ti Ki Di Do",
+        "url": "https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Ba Ba",
+      "url": "https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 341890,
+      "name": "Already There",
+      "url": "https://open.spotify.com/track/1KhqU5oOQeHSMkmFCUsU4j"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
+        "name": "Streichelfisch (Remastered 2022)",
+        "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 351980,
+      "name": "Aparaquasynthe - Remastered 2022",
+      "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
         "name": "Glider",
         "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 387293,
       "name": "Thunderbird Road",
       "url": "https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "Streichelfisch (Remastered 2022)",
-        "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 351980,
-      "name": "Aparaquasynthe - Remastered 2022",
-      "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
     },
     {
       "added_at": "2023-06-07 15:22:01",

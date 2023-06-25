@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 66897,
+  "num_followers": 66949,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2UzNDBiMGY4NWYzNDVjMTFjNjM0YTJhMmFhYWRhNGY1YzRhN2Zi",
+  "snapshot_id": "MCwwZjRhMTJlNTZkM2M2NGZjMmI0MGZjYTI2ZDNkNDFkZjcwYjFlYTgw",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Los Tres Ases",
+        "url": "https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "La Tierna, Conmovedora, Bamboleadora",
         "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Los Tres Ases",
-        "url": "https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 182532,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh"
     },
     {
       "added_at": "2021-12-17 05:01:00",

@@ -818,10 +818,32 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 464000,
       "name": "Mezdeke",
       "url": "https://open.spotify.com/track/4bo8D47IbBsbG3UQ0wSO7t"
+    },
+    {
+      "album": {
+        "name": "Mezdeke",
+        "url": "https://open.spotify.com/album/6xUfL9pOM4ZDlf0Sm8kCtL"
+      },
+      "artists": [
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "B\u00e1kayan",
+          "url": "https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464000,
+      "name": "Mezdeke",
+      "url": "https://open.spotify.com/track/0J2ptNkPaufRddhT5copXv"
     },
     {
       "album": {

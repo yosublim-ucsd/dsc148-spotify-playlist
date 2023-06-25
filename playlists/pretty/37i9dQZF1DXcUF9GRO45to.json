@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 25934,
+  "num_followers": 25971,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWQ2ZTVjMjJiM2M4MjFkZDYwOTRiZTBjN2E5ODNjYmE1NTU5YzE1",
+  "snapshot_id": "MCxmZTc1MmEyNzI3OGFjNTAyMTBjY2QzZmFjNDljYWUxNWM0NjU5ZTA2",
   "tracks": [
     {
       "added_at": "2023-05-30 15:42:08",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "Plastic World",
-        "url": "https://open.spotify.com/album/4SxMaBkSKYysgd0JM1tewe"
-      },
-      "artists": [
-        {
-          "name": "Oakman",
-          "url": "https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW"
-        }
-      ],
-      "duration_ms": 170534,
-      "name": "Clear Enough",
-      "url": "https://open.spotify.com/track/0iqbvLUoANlhXizwGUKWHJ"
-    },
-    {
-      "added_at": "2023-05-30 15:42:08",
-      "album": {
         "name": "Aucun mec ne ressemble \u00e0 Brad Pitt dans la Dr\u00f4me",
         "url": "https://open.spotify.com/album/1POjEAquHo8mTJZDuanBeF"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 187832,
       "name": "Aucun mec ne ressemble \u00e0 Brad Pitt dans la Dr\u00f4me",
       "url": "https://open.spotify.com/track/5vWxbiXuRXVbkErHTei3Hb"
+    },
+    {
+      "added_at": "2023-05-30 15:42:08",
+      "album": {
+        "name": "Plastic World",
+        "url": "https://open.spotify.com/album/4SxMaBkSKYysgd0JM1tewe"
+      },
+      "artists": [
+        {
+          "name": "Oakman",
+          "url": "https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW"
+        }
+      ],
+      "duration_ms": 170534,
+      "name": "Clear Enough",
+      "url": "https://open.spotify.com/track/0iqbvLUoANlhXizwGUKWHJ"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "Tachycardie (Extended Version)",
-        "url": "https://open.spotify.com/album/1J71QndbwpN6jpzgjzki7D"
+        "name": "We The People Of The Soil",
+        "url": "https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR"
       },
       "artists": [
         {
-          "name": "Bandit Bandit",
-          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
         }
       ],
-      "duration_ms": 249533,
-      "name": "N\u00e9ant",
-      "url": "https://open.spotify.com/track/5YHPFzrnaP31PXYCirRS0y"
+      "duration_ms": 233586,
+      "name": "A Man Oustanding In His Field",
+      "url": "https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "We The People Of The Soil",
-        "url": "https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR"
+        "name": "Tachycardie (Extended Version)",
+        "url": "https://open.spotify.com/album/1J71QndbwpN6jpzgjzki7D"
       },
       "artists": [
         {
-          "name": "The Inspector Cluzo",
-          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
         }
       ],
-      "duration_ms": 233586,
-      "name": "A Man Oustanding In His Field",
-      "url": "https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i"
+      "duration_ms": 249533,
+      "name": "N\u00e9ant",
+      "url": "https://open.spotify.com/track/5YHPFzrnaP31PXYCirRS0y"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/6V6DhgsedKip2k52hdbf3S"
+        "name": "Badroom",
+        "url": "https://open.spotify.com/album/1kpgGMobD4sNTy2KGGlVDd"
       },
       "artists": [
         {
-          "name": "Fanchon",
-          "url": "https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP"
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
         }
       ],
-      "duration_ms": 227218,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/7yIyNzFkLxacTrgR3yimJY"
+      "duration_ms": 205451,
+      "name": "Badroom",
+      "url": "https://open.spotify.com/track/3F0NHuzzFsv1JVQjvTibj1"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "Badroom",
-        "url": "https://open.spotify.com/album/1kpgGMobD4sNTy2KGGlVDd"
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/6V6DhgsedKip2k52hdbf3S"
       },
       "artists": [
         {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+          "name": "Fanchon",
+          "url": "https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP"
         }
       ],
-      "duration_ms": 205451,
-      "name": "Badroom",
-      "url": "https://open.spotify.com/track/3F0NHuzzFsv1JVQjvTibj1"
+      "duration_ms": 227218,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/7yIyNzFkLxacTrgR3yimJY"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -783,38 +783,6 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/7D4OScfr4c3qZDRFmrDgAA"
-      },
-      "artists": [
-        {
-          "name": "Bornside",
-          "url": "https://open.spotify.com/artist/2mjELQUXJT0zJmuuStveX3"
-        }
-      ],
-      "duration_ms": 229216,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/7xr1eQGbgOY3X3mxlBuNzP"
-    },
-    {
-      "added_at": "2023-05-30 15:42:08",
-      "album": {
-        "name": "Colostrum",
-        "url": "https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp"
-      },
-      "artists": [
-        {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
-        }
-      ],
-      "duration_ms": 226244,
-      "name": "Hair Shirt",
-      "url": "https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS"
-    },
-    {
-      "added_at": "2023-05-30 15:42:08",
-      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
@@ -839,6 +807,38 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
+        "name": "Colostrum",
+        "url": "https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "duration_ms": 226244,
+      "name": "Hair Shirt",
+      "url": "https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS"
+    },
+    {
+      "added_at": "2023-05-30 15:42:08",
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/7D4OScfr4c3qZDRFmrDgAA"
+      },
+      "artists": [
+        {
+          "name": "Bornside",
+          "url": "https://open.spotify.com/artist/2mjELQUXJT0zJmuuStveX3"
+        }
+      ],
+      "duration_ms": 229216,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/7xr1eQGbgOY3X3mxlBuNzP"
+    },
+    {
+      "added_at": "2023-05-30 15:42:08",
+      "album": {
         "name": "Bodysick",
         "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "Raving Track",
-        "url": "https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr"
-      },
-      "artists": [
-        {
-          "name": "Luje",
-          "url": "https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD"
-        }
-      ],
-      "duration_ms": 275250,
-      "name": "Italia",
-      "url": "https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL"
-    },
-    {
-      "added_at": "2023-05-30 15:42:08",
-      "album": {
         "name": "Garage Is Dead",
         "url": "https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 224640,
       "name": "My time",
       "url": "https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG"
+    },
+    {
+      "added_at": "2023-05-30 15:42:08",
+      "album": {
+        "name": "Raving Track",
+        "url": "https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr"
+      },
+      "artists": [
+        {
+          "name": "Luje",
+          "url": "https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD"
+        }
+      ],
+      "duration_ms": 275250,
+      "name": "Italia",
+      "url": "https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "The West Is the Best",
-        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
-      },
-      "artists": [
-        {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
-        }
-      ],
-      "duration_ms": 221322,
-      "name": "Echo Street",
-      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
-    },
-    {
-      "added_at": "2023-05-30 15:42:08",
-      "album": {
         "name": "HORIZON",
         "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
+        "name": "The West Is the Best",
+        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        }
+      ],
+      "duration_ms": 221322,
+      "name": "Echo Street",
+      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
+    },
+    {
+      "added_at": "2023-05-30 15:42:08",
+      "album": {
         "name": "Vacuum Sealed",
         "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
       },
@@ -1027,22 +1027,6 @@
       "duration_ms": 240333,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
-    },
-    {
-      "added_at": "2023-05-30 15:42:08",
-      "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
-      },
-      "artists": [
-        {
-          "name": "Howard",
-          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Heedless",
-      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -1067,34 +1051,18 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "HLA-11TF",
-        "url": "https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj"
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
       },
       "artists": [
         {
-          "name": "Mascara",
-          "url": "https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm"
+          "name": "Howard",
+          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
         }
       ],
-      "duration_ms": 256521,
-      "name": "Eleven the Fair",
-      "url": "https://open.spotify.com/track/1LffL6iYYSPCwKzbX9tRId"
-    },
-    {
-      "added_at": "2023-05-30 15:42:08",
-      "album": {
-        "name": "Hara",
-        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
-      },
-      "artists": [
-        {
-          "name": "Datcha Mandala",
-          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
+      "duration_ms": 180960,
+      "name": "Heedless",
+      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -1115,18 +1083,34 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "Laugh/Cry",
-        "url": "https://open.spotify.com/album/2JNbY5bbc5jhdyz3s3c6V8"
+        "name": "Hara",
+        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
       },
       "artists": [
         {
-          "name": "FRAGILE",
-          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
         }
       ],
-      "duration_ms": 171706,
-      "name": "Laugh/Cry",
-      "url": "https://open.spotify.com/track/2JafhZDgYrYrOMpuqwEUX3"
+      "duration_ms": 204106,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
+    },
+    {
+      "added_at": "2023-05-30 15:42:08",
+      "album": {
+        "name": "HLA-11TF",
+        "url": "https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj"
+      },
+      "artists": [
+        {
+          "name": "Mascara",
+          "url": "https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm"
+        }
+      ],
+      "duration_ms": 256521,
+      "name": "Eleven the Fair",
+      "url": "https://open.spotify.com/track/1LffL6iYYSPCwKzbX9tRId"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
+        "name": "Laugh/Cry",
+        "url": "https://open.spotify.com/album/2JNbY5bbc5jhdyz3s3c6V8"
+      },
+      "artists": [
+        {
+          "name": "FRAGILE",
+          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
+        }
+      ],
+      "duration_ms": 171706,
+      "name": "Laugh/Cry",
+      "url": "https://open.spotify.com/track/2JafhZDgYrYrOMpuqwEUX3"
+    },
+    {
+      "added_at": "2023-05-30 15:42:08",
+      "album": {
         "name": "Houses Are Built The Same",
         "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
       },
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
+        "name": "Nothing Belongs to Anything",
+        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
+      },
+      "artists": [
+        {
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
+        }
+      ],
+      "duration_ms": 308125,
+      "name": "Welcome Newcomers",
+      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
+    },
+    {
+      "added_at": "2023-05-30 15:42:08",
+      "album": {
         "name": "Teenage Ends",
         "url": "https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 201706,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV"
-    },
-    {
-      "added_at": "2023-05-30 15:42:08",
-      "album": {
-        "name": "Nothing Belongs to Anything",
-        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
-      },
-      "artists": [
-        {
-          "name": "Cosse",
-          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
-        }
-      ],
-      "duration_ms": 308125,
-      "name": "Welcome Newcomers",
-      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
-      },
-      "artists": [
-        {
-          "name": "Rank-O",
-          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
-    },
-    {
-      "added_at": "2023-05-30 15:42:08",
-      "album": {
         "name": "Ain't No Princess",
         "url": "https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG"
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
       },
       "artists": [
         {
-          "name": "Sport",
-          "url": "https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx"
+          "name": "Rank-O",
+          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
         }
       ],
-      "duration_ms": 200797,
-      "name": "Full House",
-      "url": "https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO"
+      "duration_ms": 192815,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN"
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG"
       },
       "artists": [
         {
-          "name": "PALES",
-          "url": "https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX"
+          "name": "Sport",
+          "url": "https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx"
         }
       ],
-      "duration_ms": 225500,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl"
+      "duration_ms": 200797,
+      "name": "Full House",
+      "url": "https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -1399,6 +1383,22 @@
       "duration_ms": 332602,
       "name": "Oh Lord, It Came To Me",
       "url": "https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D"
+    },
+    {
+      "added_at": "2023-05-30 15:42:08",
+      "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN"
+      },
+      "artists": [
+        {
+          "name": "PALES",
+          "url": "https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
+        "name": "Freakenstein",
+        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
+      },
+      "artists": [
+        {
+          "name": "Th Da Freak",
+          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
+        }
+      ],
+      "duration_ms": 223421,
+      "name": "Peeling the Onion",
+      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
+    },
+    {
+      "added_at": "2023-05-30 15:42:08",
+      "album": {
         "name": "Dissociation",
         "url": "https://open.spotify.com/album/5mrEOLgzxr60AWu4jCofcG"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 257763,
       "name": "Sick As A Dog",
       "url": "https://open.spotify.com/track/24NqGm1KJGDTxEFWkktnbM"
-    },
-    {
-      "added_at": "2023-05-30 15:42:08",
-      "album": {
-        "name": "Hush Hush",
-        "url": "https://open.spotify.com/album/6RQuIKP2oBM5w9DDbkBUsw"
-      },
-      "artists": [
-        {
-          "name": "No Money Kids",
-          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
-        }
-      ],
-      "duration_ms": 176961,
-      "name": "Hush Hush",
-      "url": "https://open.spotify.com/track/3L2r7s8P53jfpoVa1fjtNb"
     },
     {
       "added_at": "2023-05-30 15:42:08",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "Freakenstein",
-        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
-      },
-      "artists": [
-        {
-          "name": "Th Da Freak",
-          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Peeling the Onion",
-      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
-    },
-    {
-      "added_at": "2023-05-30 15:42:08",
-      "album": {
         "name": "Songs from the Deepwater",
         "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
       },
@@ -1611,18 +1595,34 @@
     {
       "added_at": "2023-05-30 15:42:08",
       "album": {
-        "name": "I'm Not Shallow Anymore",
-        "url": "https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf"
+        "name": "Hush Hush",
+        "url": "https://open.spotify.com/album/6RQuIKP2oBM5w9DDbkBUsw"
       },
       "artists": [
         {
-          "name": "Hallowed Ground",
-          "url": "https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh"
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
         }
       ],
-      "duration_ms": 265346,
-      "name": "I'm Not Shallow Anymore",
-      "url": "https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b"
+      "duration_ms": 176961,
+      "name": "Hush Hush",
+      "url": "https://open.spotify.com/track/3L2r7s8P53jfpoVa1fjtNb"
+    },
+    {
+      "added_at": "2023-05-30 15:42:08",
+      "album": {
+        "name": "Ennemis",
+        "url": "https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF"
+      },
+      "artists": [
+        {
+          "name": "No One Is Innocent",
+          "url": "https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "Forces du d\u00e9sordre",
+      "url": "https://open.spotify.com/track/2hWlaul9Wj3tUBTmEPrv7i"
     }
   ],
   "unique_name": "French Noise",

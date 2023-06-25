@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,493 songs - 4 day 6 hr 57 min
+1,494 songs - 4 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [Karabali](https://open.spotify.com/track/1hSjdeo8nyWJZO5nBO7rVC) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/4BpBqfC0qi6MaB3l96QBo4) | 7:05 | 2020-05-22 | 2020-10-09 |
 | [Kasoto \(feat\. Jo Jo Mendy\)](https://open.spotify.com/track/5Utktu0IFcGXXtIlky7ObZ) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Jo Jo Mendy](https://open.spotify.com/artist/23GwAF5aZwBDyis1Hnh6mg) | [Into Daylight](https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l) | 4:30 | 2020-08-20 | 2020-10-09 |
 | [Keep Her Close](https://open.spotify.com/track/0XhFy7NAFb8b1grm26Xwh2) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [My Friends Never Die](https://open.spotify.com/album/5wujmLudsKEx9PZdVIPUUS) | 3:34 | 2020-05-18 | 2020-07-03 |
+| [Keep On](https://open.spotify.com/track/2sHGfbeO6mKILlgOnBzkru) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Keep On](https://open.spotify.com/album/5MdzjsRffjKUicXibIu9dl) | 3:57 | 2023-06-23 |  |
 | [Keep On Dancing](https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Keep On Dancing](https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi) | 3:05 | 2022-07-01 |  |
 | [Keep On Reachin \- Main Mix](https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Keep on Reachin](https://open.spotify.com/album/2ZaDoH0PAeavRtIvmPKwq3) | 5:24 | 2020-03-20 | 2021-03-19 |
 | [Kenosis](https://open.spotify.com/track/5KHdxy6xR8d7j1U3cHvDtw) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:42 | 2020-03-16 | 2021-09-11 |
@@ -1272,7 +1273,7 @@
 | [Take You Home \- Undercatt Remix](https://open.spotify.com/track/1wPC1IHNwfxHrWIip2zNFA) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Take You Home \(Undercatt Remix\)](https://open.spotify.com/album/0f4Vlnw5XwRmfhrEcvfqLH) | 6:27 | 2020-02-29\* | 2020-03-16 |
 | [Take You There](https://open.spotify.com/track/5onowAwqn0Itow9DAdCJyF) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC), [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Take You There](https://open.spotify.com/album/5QhJ91EoYRkY3W6qhhDDZh) | 4:02 | 2020-05-22 | 2020-07-03 |
 | [Takeaway \(with ILLENIUM & Lennon Stella\)](https://open.spotify.com/track/1SyjFJu9xk5CpYD6bm1tjl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:29 | 2020-03-16 | 2020-07-03 |
-| [Tal](https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Tal](https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I) | 4:51 | 2023-04-21 |  |
+| [Tal](https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Tal](https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I) | 4:51 | 2023-04-21 | 2023-06-25 |
 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 | 2023-02-24 |  |
 | [Tapes & Money](https://open.spotify.com/track/3qAGyTVGWolhufiU4eAvJF) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 3:40 | 2020-02-29\* | 2020-03-16 |
 | [Targo](https://open.spotify.com/track/2dlVudZxj2ge247S552eHm) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:16 | 2022-12-28 | 2023-01-06 |

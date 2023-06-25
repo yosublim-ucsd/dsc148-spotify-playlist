@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,052 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,184 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Morning Routine](https://open.spotify.com/track/2DJbBZTiqzwVcGbCgsdJEU) | [Colours in the Street](https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0) | [Let's Talk](https://open.spotify.com/album/2NNK0NFzBMSEsGrYpJDZwZ) | 2:43 |
 | 50 | [The Sun is Up](https://open.spotify.com/track/5L3nOOVZV7V8PeVkAfYYbt) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [The Sun is Up](https://open.spotify.com/album/4Sb4TbNIv5awQHlzK3RJg7) | 3:55 |
 
-Snapshot ID: `MCwxZTE0NThhNjNkOWRlYThlNTE1MWVjYjU5ZmEzYzRjYzc3YzQ0YzJl`
+Snapshot ID: `MCw0YzdiNjg2MWY4Mzk2NGU3M2UzN2VmY2ViY2JhYTIxMmM2NDI2M2Y1`

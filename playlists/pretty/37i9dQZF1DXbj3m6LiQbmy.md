@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Asteria in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,590 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,595 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 69 | [FUORI!!!](https://open.spotify.com/track/3ujQOSC1tMc3sQUMppJQkK) | [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Francesco Urbano Ragazzi](https://open.spotify.com/artist/1vPNjv1tf5kA9bSQAeyRlw) | [FUORI!!!](https://open.spotify.com/album/6VFWixoW1lG2MXlyPC4fRt) | 2:20 |
 | 70 | [Penz a te](https://open.spotify.com/track/4S9OgKUA1qiloXuYJ7XwTr) | [SDREUSS](https://open.spotify.com/artist/58n2gUMUzz1GJg8Y9Cy9NW) | [Penz a te](https://open.spotify.com/album/46xblQZrMDOB98CDiDm1n3) | 2:27 |
 
-Snapshot ID: `MCw0MDU0NTA3MzA1YmUxMDM4YTBhNjUzMzY4Mzk1NjBjNjc3YTk5ZjBl`
+Snapshot ID: `MCwwZWQ5YmU5ZTE5ZGNkOWFkZDE2Y2IyZGQyOGVhYWE4ODA5OGQ3ZTIz`

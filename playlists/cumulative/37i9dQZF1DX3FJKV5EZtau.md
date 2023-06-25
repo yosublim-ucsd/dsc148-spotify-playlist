@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-369 songs - 21 hr 15 min
+370 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [COLORS \(James Landino Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/4LrV5WggXY45DE0esOTNwg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [James Landino](https://open.spotify.com/artist/6xMMOflXnoIA3grU3seMjh) | [COLORS \(James Landino Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/1eOjY2ZlelfsoxLF2pw5WO) | 3:12 | 2022-03-11 | 2023-02-01 |
 | [Colours \- Tsu Nami Remix](https://open.spotify.com/track/1Dsf8jltiUgFKOvSMXLUza) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Colours \(Tsu Nami Remix\)](https://open.spotify.com/album/0tmBZ08VFmrskKtmAusk18) | 2:36 | 2022-10-27 | 2023-06-17 |
 | [Complicated](https://open.spotify.com/track/0RXKk0sFpRi5qeCgdoxROm) | [Ducky](https://open.spotify.com/artist/5e1I1C0g7epGwRxDGZ4tt9) | [If U Miss Me](https://open.spotify.com/album/3BsfarXWDxyDdmfaXtafjD) | 3:50 | 2022-01-07 | 2022-07-29 |
+| [Connection](https://open.spotify.com/track/6YcFNAsBntqdR0dd3ManI8) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Connection](https://open.spotify.com/album/6bi8u9QUWXCYW8w9IT88D3) | 3:15 | 2023-06-23 |  |
 | [Crickets \(fall\)](https://open.spotify.com/track/2MKiELazu3ilHf99AZpYWp) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP) | [Dream III \(DELUXE\)](https://open.spotify.com/album/3IWj8fumIThus6iX1F6Iyw) | 2:02 | 2022-01-07 | 2022-07-26 |
 | [Dating Start!](https://open.spotify.com/track/1SLjM6O8o9C3U6do7tWLCS) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Dating Start!](https://open.spotify.com/album/7pNA5dRViW8v7Y7i4EXyRl) | 3:31 | 2022-01-07 | 2022-07-26 |
 | [Diary of a poor kid](https://open.spotify.com/track/23uKGOIVrnt2i0hrjCD4Mo) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Blossom EP](https://open.spotify.com/album/01qt9DqlOhvFSOAj6hPFmt) | 4:35 | 2022-01-07 | 2022-07-24 |
@@ -204,7 +205,7 @@
 | [Maybe](https://open.spotify.com/track/1gVIjLDPRFNJfv7TAKubnr) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [Annie Mehesh](https://open.spotify.com/artist/5at1zXx4u5KSVzNHcsVOxM) | [Maybe](https://open.spotify.com/album/6Kw1eFD6pwT1metqBiUoft) | 3:18 | 2022-01-28 | 2022-07-15 |
 | [Memories](https://open.spotify.com/track/0c07SIKPJuFVDJjcmc160D) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Memories](https://open.spotify.com/album/0rmPcSAav94By4MMUYCUSn) | 3:52 | 2022-01-07 | 2022-07-25 |
 | [Mermaid](https://open.spotify.com/track/0jaMyOCkBqBFps33YS3ZOR) | [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Mermaid](https://open.spotify.com/album/0VrzLFj7WnmdRFFzZff1yE) | 3:51 | 2022-01-07 |  |
-| [Message](https://open.spotify.com/track/2HugpozniKFTxu2us4YqBV) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Message](https://open.spotify.com/album/1aYV3ULEfkmN2NAO25yXLy) | 3:57 | 2022-10-07 |  |
+| [Message](https://open.spotify.com/track/2HugpozniKFTxu2us4YqBV) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Message](https://open.spotify.com/album/1aYV3ULEfkmN2NAO25yXLy) | 3:57 | 2022-10-07 | 2023-06-25 |
 | [Metamorphosis](https://open.spotify.com/track/0oNip00viM5wjLuAJQQiGc) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis](https://open.spotify.com/album/58X1FSKjMEcuWTyHWU9LSX) | 4:08 | 2022-04-15 | 2022-04-19 |
 | [Microworlds](https://open.spotify.com/track/5sDu7SdtfxXRcqWQd40eoi) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Microworlds](https://open.spotify.com/album/7mBang8rS6G8jlpvDWOM5X) | 4:30 | 2023-05-26 |  |
 | [Mike Tyson](https://open.spotify.com/track/7c1nwQG909uEAphCBqXdIy) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Mike Tyson](https://open.spotify.com/album/1IFy7kRW05yfv5CPfiFK0f) | 3:19 | 2022-01-07 | 2022-07-29 |

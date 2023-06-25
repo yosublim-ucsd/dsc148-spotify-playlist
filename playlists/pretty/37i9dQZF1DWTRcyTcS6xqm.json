@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 9706,
+  "num_followers": 9718,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2IzMjMxY2E4MjNiYzUzYzI4MzA0YjBlYTM1YjdmZTA1ZmRlYjlh",
+  "snapshot_id": "MCw3MTM2YjRmZmEwYmNiYTYwODZhZWRiN2NmMWI0OTZhOWNlNDRkZTdi",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Mr. Soul",
+      "url": "https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "50 - Just warming up !",
         "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 275226,
       "name": "Let The Good Time Party Begin",
       "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Mr. Soul",
-      "url": "https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -853,20 +853,20 @@
       "url": "https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-05-21 04:01:00",
       "album": {
-        "name": "The Son Of A Bluesman",
-        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
+        "name": "She Got Some Money",
+        "url": "https://open.spotify.com/album/6dvZHqoGgZjlTnNhYRpmjc"
       },
       "artists": [
         {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+          "name": "Eddie 9V",
+          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
         }
       ],
-      "duration_ms": 281013,
-      "name": "Funky Broadway",
-      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
+      "duration_ms": 182893,
+      "name": "She Got Some Money",
+      "url": "https://open.spotify.com/track/4gyMp3SlD3xaYQoP77nlAQ"
     }
   ],
   "unique_name": "Blues Party",

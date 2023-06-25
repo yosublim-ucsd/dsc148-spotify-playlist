@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,105 likes - 151 songs - 1 day 0 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,126 likes - 151 songs - 1 day 0 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 150 | [Drama Track 「Mixed Up」](https://open.spotify.com/track/27XLH8ZrFhqwV1x3cdMztM) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 45:38 |
 | 151 | [Drama Track「No one lives forever」](https://open.spotify.com/track/550FXsa5337R5E4tVPDRwA) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 15:13 |
 
-Snapshot ID: `MCwyODJlN2VmZGZjYmU3YjAxZWJmOGE2NzJjNjhlZWZiNzcyODc1MTNi`
+Snapshot ID: `MCw1NTgxOTViMDdhZTdmYjliOWM3NWRiNTRiMjg1ZmY3MjY4MTMxMTk3`

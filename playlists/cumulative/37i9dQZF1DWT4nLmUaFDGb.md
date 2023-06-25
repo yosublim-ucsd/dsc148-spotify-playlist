@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-225 songs - 14 hr 24 min
+226 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [L\-O\-V\-E](https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 2:08 | 2021-12-21 | 2022-07-29 |
 | [La belle vie \- The Good Life](https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Jeff Goldblum](https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8) | [La belle vie \- The Good Life](https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH) | 3:42 | 2021-12-21 |  |
 | [La Vie En Rose](https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Passion World](https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi) | 8:12 | 2021-12-21 |  |
+| [Lemons](https://open.spotify.com/track/0MT8gwmUQ24qxGFZ5ramXw) | [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l), [Jackie West](https://open.spotify.com/artist/6i2nxb8jZ6cmWzI7UkS7Np), [Adam Levy](https://open.spotify.com/artist/3RHGiicVEm5Clr70D2O5dt) | [Lemons](https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8) | 4:09 | 2023-06-20 |  |
 | [Little Jazz Bird](https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Spark Bird](https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN) | 4:06 | 2023-05-18 |  |
 | [Look Of Love](https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w) | [Tok Tok Tok](https://open.spotify.com/artist/6NuChX9FrWXTUYgJUT0DYH) | [Love Again](https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX) | 3:50 | 2022-09-08 |  |
 | [Love is Never Too Late](https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Love is Never Too Late](https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc) | 3:37 | 2023-05-18 |  |
@@ -140,7 +141,7 @@
 | [Moon River](https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 | 2021-12-21 |  |
 | [Moon River](https://open.spotify.com/track/0zjOktNIgywCUwaJrIX93E) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 3:47 | 2022-09-08 |  |
 | [Morning Sun](https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Currency Of Man \(The Artist's Cut\)](https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR) | 5:05 | 2021-12-21 |  |
-| [Mr\. Bojangles](https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Mr Bojangles](https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g) | 4:43 | 2023-06-15 |  |
+| [Mr\. Bojangles](https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Mr Bojangles](https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g) | 4:43 | 2023-06-15 | 2023-06-25 |
 | [My Baby Just Cares For Me](https://open.spotify.com/track/1b8AEwsyE0NTgvySRi6SFz) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Sophie Milman](https://open.spotify.com/album/3E7VyuP30Il3LCV46isqH5) | 3:34 | 2021-12-21 | 2022-12-06 |
 | [My Funny Valentine](https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [My Funny Valentine](https://open.spotify.com/album/5nmBotW3p1DH4yqeWcISlC) | 4:51 | 2023-05-18 | 2023-06-03 |
 | [My Funny Valentine](https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards \(Deluxe\)](https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy) | 4:32 | 2021-12-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 46114,
+  "num_followers": 46212,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzczZWY2ZDNlY2E5ZWNhNzE5YzZjODdhZDcxNGFhNmM5MjQ3MTNi",
+  "snapshot_id": "MCxiYjRjMWNiNjgxZjU5OGM4MjZlZDk5NDZjM2JmN2VlYWY0Mzg4ZTA0",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -645,6 +645,22 @@
       "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
     },
     {
+      "added_at": "2023-06-20 14:29:14",
+      "album": {
+        "name": "i dont want that many friends in the first place",
+        "url": "https://open.spotify.com/album/44nPHmYq8LeqrjgwqcWyuQ"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 109033,
+      "name": "i dont want that many friends in the first place",
+      "url": "https://open.spotify.com/track/10P4luHAHr1o5kqDa8NDIU"
+    },
+    {
       "added_at": "2023-04-27 17:13:18",
       "album": {
         "name": "Slayyyter",
@@ -663,22 +679,6 @@
       "duration_ms": 215729,
       "name": "BFF",
       "url": "https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi"
-    },
-    {
-      "added_at": "2023-06-20 14:29:14",
-      "album": {
-        "name": "i dont want that many friends in the first place",
-        "url": "https://open.spotify.com/album/44nPHmYq8LeqrjgwqcWyuQ"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 109033,
-      "name": "i dont want that many friends in the first place",
-      "url": "https://open.spotify.com/track/10P4luHAHr1o5kqDa8NDIU"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "go white boy go",
+        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
+      },
+      "artists": [
+        {
+          "name": "saturn",
+          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
+        }
+      ],
+      "duration_ms": 101487,
+      "name": "go white boy go",
+      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "doing it wrong",
         "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 147965,
       "name": "doing it wrong",
       "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "go white boy go",
-        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
-      },
-      "artists": [
-        {
-          "name": "saturn",
-          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
-        }
-      ],
-      "duration_ms": 101487,
-      "name": "go white boy go",
-      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
     },
     {
       "added_at": "2023-04-27 17:13:18",

@@ -1,12 +1,12 @@
 {
   "description": "Anthems from a new generation of party starters. Cover: venbee\n",
-  "num_followers": 24901,
+  "num_followers": 24918,
   "original_name": "Party Starters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODYxYzBkNDk2MDgzN2Y1ODgyZjZiZWJmOTJiNzAzZGNhZWNkNjJm",
+  "snapshot_id": "MCxiMGViMjU1OTRmZWZmZDQyYTkyODU1NDBlNDAyZjg5ZmE1OWY0YWY2",
   "tracks": [
     {
       "added_at": "2023-06-02 15:32:09",
@@ -567,22 +567,18 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
-        "name": "Twust",
-        "url": "https://open.spotify.com/album/1UfWIfP15xiwr1PuRoeqU6"
+        "name": "Never Miss A Beat",
+        "url": "https://open.spotify.com/album/6jTdaQKWxgkfEO5gLPMRDC"
       },
       "artists": [
         {
-          "name": "HStikkytokky",
-          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
-        },
-        {
-          "name": "General G",
-          "url": "https://open.spotify.com/artist/4mZZNSta0MoJhUVaYSYPHO"
+          "name": "KIMMIC",
+          "url": "https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Twust",
-      "url": "https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij"
+      "duration_ms": 151384,
+      "name": "Never Miss A Beat",
+      "url": "https://open.spotify.com/track/1VJLgFrfKrckuOb0DrvcQn"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -607,18 +603,22 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
-        "name": "Never Miss A Beat",
-        "url": "https://open.spotify.com/album/6jTdaQKWxgkfEO5gLPMRDC"
+        "name": "Twust",
+        "url": "https://open.spotify.com/album/1UfWIfP15xiwr1PuRoeqU6"
       },
       "artists": [
         {
-          "name": "KIMMIC",
-          "url": "https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN"
+          "name": "HStikkytokky",
+          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
+        },
+        {
+          "name": "General G",
+          "url": "https://open.spotify.com/artist/4mZZNSta0MoJhUVaYSYPHO"
         }
       ],
-      "duration_ms": 151384,
-      "name": "Never Miss A Beat",
-      "url": "https://open.spotify.com/track/1VJLgFrfKrckuOb0DrvcQn"
+      "duration_ms": 146000,
+      "name": "Twust",
+      "url": "https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 123488,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
         "name": "Feel So Free Mixtape",
         "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 219687,
       "name": "It's Just This Thing",
       "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 123488,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
     },
     {
       "added_at": "2023-06-02 15:32:09",

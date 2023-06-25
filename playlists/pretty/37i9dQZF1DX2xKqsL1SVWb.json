@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. El David en portada.",
-  "num_followers": 96518,
+  "num_followers": 96521,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzY3Yzc1M2QzYmQyODNiOWQxOWQ3MWJkMjg4OWYyMzAzMjAzNzFh",
+  "snapshot_id": "MCw2Y2M4NWY1NjVmMDQ2MmYzZWUwYjNiMDFmOTk4OThjYmFmZDliZTU4",
   "tracks": [
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Al Amor",
-        "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
-      },
-      "artists": [
-        {
-          "name": "Nicoletta Spinelli",
-          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
-        }
-      ],
-      "duration_ms": 208177,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Bolero Surrealista",
         "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 234500,
       "name": "Bolero Surrealista",
       "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "Al Amor",
+        "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta Spinelli",
+          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
+        }
+      ],
+      "duration_ms": 208177,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
+        "name": "Problema",
+        "url": "https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 164086,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
         "name": "De Todo un Poco",
         "url": "https://open.spotify.com/album/28FDFSEkA2zhVB5q6GL6CS"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 258234,
       "name": "Dulce Veneno - Sigues Aqu\u00ed",
       "url": "https://open.spotify.com/track/2u0bUWgV8Ac8O3gnnA5xI0"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
-        "name": "Problema",
-        "url": "https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 164086,
-      "name": "Problema",
-      "url": "https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Corrido Ser\u00e1",
-        "url": "https://open.spotify.com/album/5L9FBfsRy92FnKP34ZCHiS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Bandera",
-          "url": "https://open.spotify.com/artist/7oLM8EDFTJsCWDWJE7jlrm"
-        }
-      ],
-      "duration_ms": 197260,
-      "name": "Corrido Ser\u00e1",
-      "url": "https://open.spotify.com/track/7Go6T2SYkl9yo0z47S3pYy"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "El Fin",
         "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 177813,
       "name": "El Fin",
       "url": "https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "Corrido Ser\u00e1",
+        "url": "https://open.spotify.com/album/5L9FBfsRy92FnKP34ZCHiS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Bandera",
+          "url": "https://open.spotify.com/artist/7oLM8EDFTJsCWDWJE7jlrm"
+        }
+      ],
+      "duration_ms": 197260,
+      "name": "Corrido Ser\u00e1",
+      "url": "https://open.spotify.com/track/7Go6T2SYkl9yo0z47S3pYy"
     },
     {
       "added_at": "2023-05-23 00:04:32",

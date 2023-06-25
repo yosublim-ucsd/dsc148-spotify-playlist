@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "MOOMINVALLEY 2 (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205591,
+      "name": "something new",
+      "url": "https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
       },

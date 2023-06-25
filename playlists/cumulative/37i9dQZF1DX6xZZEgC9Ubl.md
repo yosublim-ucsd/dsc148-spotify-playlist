@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-815 songs - 1 day 13 hr 0 min
+816 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/3n0If8GidXp4KziBDoMe99) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/album/2de9oXO3uW9iMpVtTknJAy) | 3:04 | 2021-07-31 | 2022-07-28 |
 | [Cherry Blossoms](https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9) | 2:18 | 2022-05-23 |  |
 | [Cherry Blossoms](https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI) | 2:18 | 2022-08-30 | 2023-04-16 |
-| [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-04-12 |  |
+| [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-04-12 | 2023-06-25 |
 | [Choose](https://open.spotify.com/track/0WnLpQOHjfVwPw2zbrIsPN) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [HIGH FASHION](https://open.spotify.com/album/5ajnqokZWzTySQgUt2RgLW) | 3:32 | 2021-12-03 | 2022-07-27 |
 | [CHROME HEART](https://open.spotify.com/track/0Fqz94aIhKIfnbnUgDRbLH) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [KALEIDOSCOPE](https://open.spotify.com/album/1ZyR3m6dXdqBHb96BrtlSZ) | 2:39 | 2022-03-18 | 2022-04-16 |
 | [CHXSE](https://open.spotify.com/track/4vZCkAXIcD8A050VeirCwj) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [BEAUTY IN DEATH \(DELUXE EDITION\)](https://open.spotify.com/album/4tb9KRJe8FNjYIRbvtGTG5) | 3:29 | 2022-05-06 | 2022-05-14 |
@@ -558,6 +558,7 @@
 | [problems](https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [die sometime, it's good for u](https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa) | 2:48 | 2021-07-10 | 2022-07-28 |
 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 | 2021-06-25 | 2022-04-20 |
 | [Promises](https://open.spotify.com/track/2h4xaIcu1FHTEsvXFaXRz1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Promises](https://open.spotify.com/album/6bHxfCiCr8yl4ekvmiqKd8) | 2:37 | 2020-12-13\* | 2021-06-19 |
+| [Proud Of Myself](https://open.spotify.com/track/2P75W2mfYc9nRgUMPQnaWL) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Heart of Gold](https://open.spotify.com/album/3Wjov3XmeymLtwF6Euka6o) | 1:49 | 2023-04-12 |  |
 | [Proud of Myself](https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Proud of Myself](https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq) | 1:49 | 2022-10-07 | 2023-06-11 |
 | [Proud of Myself](https://open.spotify.com/track/7tKD6uNEkhq5rI4JdnfmDD) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Heart of Gold](https://open.spotify.com/album/6uBecpE5c0hy6bCo8zyM0J) | 1:49 | 2023-04-12 | 2023-06-10 |
 | [Psycho!](https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 3:17 | 2020-12-13\* | 2023-05-24 |

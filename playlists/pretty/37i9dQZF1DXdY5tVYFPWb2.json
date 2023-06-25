@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 143561,
+  "num_followers": 143628,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JiNmU0NmMyNGQ0Mzc0MTA3ODYzYWY4OWVkZmMwZjlhODc2YTA1",
+  "snapshot_id": "MCw5YmM0NGExMWM1YjcyNTdhOTgzMjEzNmFhYTAzNDc1OTIzZjBhOTgz",
   "tracks": [
     {
       "added_at": "2023-06-20 15:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
         }
       ],
-      "duration_ms": 249254,
-      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+      "duration_ms": 233974,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo"
+        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
       },
       "artists": [
         {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 233974,
-      "name": "Lazy",
-      "url": "https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU"
+      "duration_ms": 249254,
+      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "DOCUMENT (2023)",
-        "url": "https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        }
-      ],
-      "duration_ms": 278403,
-      "name": "DOCUMENT - 2023",
-      "url": "https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "HONDA",
         "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 239745,
       "name": "HONDA",
       "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "DOCUMENT (2023)",
+        "url": "https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "duration_ms": 278403,
+      "name": "DOCUMENT - 2023",
+      "url": "https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
-      },
-      "artists": [
-        {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "Inner Ocean",
         "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 223808,
       "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+      },
+      "artists": [
+        {
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1183,34 +1183,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "TRANSIT IN SUMMER",
-        "url": "https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1"
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
       },
       "artists": [
         {
-          "name": "GOOD BYE APRIL",
-          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 265471,
-      "name": "TRANSIT IN SUMMER",
-      "url": "https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
-        "name": "Inherit The Life II",
-        "url": "https://open.spotify.com/album/4m8N9WoRsk1JJ58neXOFC4"
-      },
-      "artists": [
-        {
-          "name": "\u89d2\u677e \u654f\u751f",
-          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
-        }
-      ],
-      "duration_ms": 268880,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/3ZwaCmECVfLO0H2kSXERcc"
+      "duration_ms": 188173,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "PRIVATE",
-        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
+        "name": "TRANSIT IN SUMMER",
+        "url": "https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
         }
       ],
-      "duration_ms": 188173,
-      "name": "STARLIGHT",
-      "url": "https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd"
+      "duration_ms": 265471,
+      "name": "TRANSIT IN SUMMER",
+      "url": "https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "Inherit The Life II",
+        "url": "https://open.spotify.com/album/4m8N9WoRsk1JJ58neXOFC4"
+      },
+      "artists": [
+        {
+          "name": "\u89d2\u677e \u654f\u751f",
+          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
+        }
+      ],
+      "duration_ms": 268880,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/3ZwaCmECVfLO0H2kSXERcc"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
-        "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
       },
       "artists": [
         {
-          "name": "LAYRUS LOOP",
-          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
         }
       ],
-      "duration_ms": 235325,
-      "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
-      "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
+      "duration_ms": 197500,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
+        "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
+        "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
       },
       "artists": [
         {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+          "name": "LAYRUS LOOP",
+          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
+      "duration_ms": 235325,
+      "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
+      "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "RA MU - Night Tempo presents The Showa Groove",
-        "url": "https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "RA MU",
-          "url": "https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5"
-        }
-      ],
-      "duration_ms": 302721,
-      "name": "Aoyama Killer Story (Night Tempo Showa Groove Mix)",
-      "url": "https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "NO TIME",
         "url": "https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 160298,
       "name": "NO TIME",
       "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "RA MU - Night Tempo presents The Showa Groove",
+        "url": "https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "RA MU",
+          "url": "https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5"
+        }
+      ],
+      "duration_ms": 302721,
+      "name": "Aoyama Killer Story (Night Tempo Showa Groove Mix)",
+      "url": "https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
-        "url": "https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J"
-      },
-      "artists": [
-        {
-          "name": "\u4f36",
-          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
-        },
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
-      "url": "https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "FANCITY",
         "url": "https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 242143,
       "name": "FANCITY",
       "url": "https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
+        "url": "https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J"
+      },
+      "artists": [
+        {
+          "name": "\u4f36",
+          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
+        },
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
+      "url": "https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "\u30e9\u30f3\u30c7\u30d6\u30fc",
-        "url": "https://open.spotify.com/album/7DjcXiLM2tXSJvIWXfBwgF"
-      },
-      "artists": [
-        {
-          "name": "POP ART TOWN",
-          "url": "https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG"
-        }
-      ],
-      "duration_ms": 302240,
-      "name": "\u30e9\u30f3\u30c7\u30d6\u30fc",
-      "url": "https://open.spotify.com/track/2f8uKvA1wnSilrmcneWfkP"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "It's all about you",
         "url": "https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 191663,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "\u30e9\u30f3\u30c7\u30d6\u30fc",
+        "url": "https://open.spotify.com/album/7DjcXiLM2tXSJvIWXfBwgF"
+      },
+      "artists": [
+        {
+          "name": "POP ART TOWN",
+          "url": "https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG"
+        }
+      ],
+      "duration_ms": 302240,
+      "name": "\u30e9\u30f3\u30c7\u30d6\u30fc",
+      "url": "https://open.spotify.com/track/2f8uKvA1wnSilrmcneWfkP"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "Spectre",
-        "url": "https://open.spotify.com/album/2JlUMeJnyFR4vBO8wkbV8b"
-      },
-      "artists": [
-        {
-          "name": "Blu-Swing",
-          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Call out",
-      "url": "https://open.spotify.com/track/3eaoxObc2n7viuxcL6fogs"
-    },
-    {
-      "added_at": "2023-06-20 15:00:00",
-      "album": {
         "name": "A.Y.A e.p",
         "url": "https://open.spotify.com/album/0DqIJCwOCkKi4HLuxuSbn3"
       },
@@ -1711,6 +1695,26 @@
       "duration_ms": 273719,
       "name": "Rain Of Your Heart",
       "url": "https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O"
+    },
+    {
+      "added_at": "2023-06-20 15:00:00",
+      "album": {
+        "name": "Midnight Dew",
+        "url": "https://open.spotify.com/album/4pOcjmEBUBTkrcuBq0VNaM"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "Midnight Dew",
+      "url": "https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD"
     },
     {
       "added_at": "2023-06-20 15:00:00",
@@ -1747,18 +1751,18 @@
     {
       "added_at": "2023-06-20 15:00:00",
       "album": {
-        "name": "\u604b\u306f\u3053\u308c\u304b\u3089 / \u541b\u306e\u7b11\u9854\u306b\u3064\u3089\u308c\u3066",
-        "url": "https://open.spotify.com/album/56ec6JAurtoQiL7kz1pgv1"
+        "name": "Spectre",
+        "url": "https://open.spotify.com/album/2JlUMeJnyFR4vBO8wkbV8b"
       },
       "artists": [
         {
-          "name": "20th Century",
-          "url": "https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD"
+          "name": "Blu-Swing",
+          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
         }
       ],
-      "duration_ms": 259853,
-      "name": "\u604b\u306f\u3053\u308c\u304b\u3089",
-      "url": "https://open.spotify.com/track/7glZoiCUXZ1u0U9YE6mq8X"
+      "duration_ms": 294000,
+      "name": "Call out",
+      "url": "https://open.spotify.com/track/3eaoxObc2n7viuxcL6fogs"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

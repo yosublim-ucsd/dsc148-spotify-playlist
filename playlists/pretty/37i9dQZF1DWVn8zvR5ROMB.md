@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Michael Ray, Old Dominion, Ashley Cooke and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,286 likes - 67 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,529 likes - 67 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 27 | ['01](https://open.spotify.com/track/3DxTQBQcziBLi1DS67BqVD) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | ['01](https://open.spotify.com/album/0i7CY6Cd07kw0lOqacgrAO) | 3:13 |
 | 28 | [Twice \- Ensemble Cut](https://open.spotify.com/track/2SlFYaVedqkWzA4dBQJvef) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Twice \(Ensemble Cut\)](https://open.spotify.com/album/4R2gGlOASzTfHx5JCp0w2M) | 2:49 |
 | 29 | [Sometimes You Don't Need A Plan](https://open.spotify.com/track/12Pi7tIqZBGEfCfcmHwwsG) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Sometimes You Don't Need A Plan](https://open.spotify.com/album/6zQWpEb4LIu22s8CjIV0In) | 2:55 |
-| 30 | [Mason & Julez](https://open.spotify.com/track/3EMCo42ndXjvnEJkSZwzRA) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Good Girls](https://open.spotify.com/album/6PrhLsztxjWfwg0YaBIZXt) | 3:22 |
+| 30 | [Good Girls](https://open.spotify.com/track/3EMCo42ndXjvnEJkSZwzRA) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Good Girls](https://open.spotify.com/album/6PrhLsztxjWfwg0YaBIZXt) | 3:22 |
 | 31 | [Point Your Finger](https://open.spotify.com/track/0T2CbANTd4zG2j5WuyuMx1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Point Your Finger](https://open.spotify.com/album/3HfVK8zc4wKpOsjRWcEhrg) | 3:34 |
 | 32 | [Beer Ain't Cold](https://open.spotify.com/track/2Xaoay7pqwm3PvASeNJfeK) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Beer Ain't Cold](https://open.spotify.com/album/152aC3wuj0kctm8xXbnJhQ) | 2:47 |
 | 33 | [Just A Man](https://open.spotify.com/track/3MHHQ6NqftOBfL2K5YExKv) | [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Just A Man](https://open.spotify.com/album/1gQXewhI6tbTM0WhqksJx2) | 3:03 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 66 | [Drinkin' Problems](https://open.spotify.com/track/1D1IChY9GoX2yuRr5J0CJv) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Drinkin' Problems](https://open.spotify.com/album/1nMw8BErLxKBoKtlsm0LKQ) | 3:06 |
 | 67 | [Drinkin' Thinkin'](https://open.spotify.com/track/21y7VW9SY2s5VCQg0RGWho) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1) | [Drinkin' Thinkin'](https://open.spotify.com/album/1KhuNvwkr57y2yP9N0XHNZ) | 2:55 |
 
-Snapshot ID: `MCwwNzZhZGNjYzI5OGRhMzgwNjE4NGNmNmJhOTc5MzU0ZjA2Y2NlNjI0`
+Snapshot ID: `MCw3MGU4MTUxNGFmYzdkNTIzZGMxZDJiOTg1NWE1OTAxMjBhZDgyOGEx`

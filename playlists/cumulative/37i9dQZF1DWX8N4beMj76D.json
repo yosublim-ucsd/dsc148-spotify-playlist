@@ -304,7 +304,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 212866,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV"
@@ -1034,6 +1034,28 @@
       "duration_ms": 334320,
       "name": "Peque\u00f1o Vals Vien\u00e9s",
       "url": "https://open.spotify.com/track/6t2vcP38D08xYdioGyOUC6"
+    },
+    {
+      "album": {
+        "name": "Granada",
+        "url": "https://open.spotify.com/album/27DidY2aLP9MtEcQ1EWA6Z"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Ra\u00fcl Refree",
+          "url": "https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy"
+        }
+      ],
+      "date_added": "2018-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327643,
+      "name": "Peque\u00f1o Vals Vien\u00e9s",
+      "url": "https://open.spotify.com/track/2soekZOsm1ZBxt2SQgBNhx"
     },
     {
       "album": {

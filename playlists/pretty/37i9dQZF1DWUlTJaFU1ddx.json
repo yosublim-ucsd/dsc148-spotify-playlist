@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 22046,
+  "num_followers": 22066,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzEwNDQyMTg1NzZkZjIxY2Y4MzExMDdkZDIzMzEyOTJiZWIxM2U0",
+  "snapshot_id": "MCxlOGYzZTRjOTM1ZDVjYzgwYjc0OWU1Y2U3ZjkxODg2YWYxZWU4M2E1",
   "tracks": [
     {
       "added_at": "2022-12-05 10:46:12",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
-        "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
-      },
-      "artists": [
-        {
-          "name": "Laith Abu Joda",
-          "url": "https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m"
-        }
-      ],
-      "duration_ms": 178912,
-      "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6"
-    },
-    {
-      "added_at": "2022-12-05 10:46:12",
-      "album": {
         "name": "Albom Jezrawy Daym Fi baly",
         "url": "https://open.spotify.com/album/749B7VOpLUxHSzHHOCfET0"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 242453,
       "name": "Kas El Arak",
       "url": "https://open.spotify.com/track/6HJruYrCGRQ6NVLZtFnXAq"
+    },
+    {
+      "added_at": "2022-12-05 10:46:12",
+      "album": {
+        "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
+        "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
+      },
+      "artists": [
+        {
+          "name": "Laith Abu Joda",
+          "url": "https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m"
+        }
+      ],
+      "duration_ms": 178912,
+      "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6"
     },
     {
       "added_at": "2022-12-05 10:46:12",

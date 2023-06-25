@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,158 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,174 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 16 | [Dollaz](https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [II](https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh) | 3:13 |
 | 17 | [Moo Orphaned Drift](https://open.spotify.com/track/0cmk7Q6WwhsP6PR6WjjqLR) | [Lanark Artefax](https://open.spotify.com/artist/02fDf7HEPtBZLtPzCyxSR2) | [Corra Linn](https://open.spotify.com/album/0bSbfW1TMuJlJpL53ghtn5) | 4:44 |
 | 18 | [Alien 3](https://open.spotify.com/track/2Ff2YdkAKWSQ6MPDQyKnwS) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Alien 3](https://open.spotify.com/album/33xsPIO3zl1FKGb3laH2m8) | 6:17 |
-| 19 | [Razzy Beat](https://open.spotify.com/track/6s6RtUrhYdOxJ70rNyCKh8) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fight! Fight! Fight!](https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2) | 3:19 |
+| 19 | [Razzy Beat](https://open.spotify.com/track/2Nzn2qw3LfLGq4prZZy6AB) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Fight! Fight! Fight!](https://open.spotify.com/album/7lmW7t7U1nrslagrfwCDiB) | 3:19 |
 | 20 | [A Mighty Quest](https://open.spotify.com/track/0POJynKv5Lq3HGJxQfvWAx) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [A Mighty Quest](https://open.spotify.com/album/5fqHxGDPxnbY0IoX7mJTl6) | 3:53 |
 | 21 | [BB](https://open.spotify.com/track/5LbZrfWzafeYlwzbHtpAqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [BB](https://open.spotify.com/album/4P1xQUR8dEHCvHkYvtfd2I) | 2:46 |
 | 22 | [Drown U](https://open.spotify.com/track/5Qorbb9mOtPHu0adPY2Znz) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [XYZ](https://open.spotify.com/album/5BefoLRwqaVBuQpQkNKiyO) | 2:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 59 | [Harbinger](https://open.spotify.com/track/3smLcr5e84zq10h2LXByED) | [Alec Ness](https://open.spotify.com/artist/3qIOkb1528LbR4UIwJefsr) | [Temporary Awareness of Passing](https://open.spotify.com/album/1Or89jf0Su8WpBINgkvVLI) | 3:07 |
 | 60 | [Alucard](https://open.spotify.com/track/2ibgB5zU0EGIh1x7JM8AMD) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [Alucard](https://open.spotify.com/album/0KlEXfI6QhODTsxKdSjrl4) | 5:12 |
 
-Snapshot ID: `MCw4Njg4ODIyN2JmZmJmYWFkYWI0ZjQyOTlmOGNhYWMxZWZjZmNhNzM5`
+Snapshot ID: `MCw0ZjQ3YWZjMGUzNzhjOTdiZGY0NzFhYTUwOGU3ZjU3NWIzOWJjNzg0`

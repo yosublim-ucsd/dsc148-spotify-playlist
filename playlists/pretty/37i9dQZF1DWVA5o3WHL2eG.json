@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: My Ugly Clementine",
-  "num_followers": 27223,
+  "num_followers": 27224,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjcwN2MwMjgzMzc0MGMzM2Y1ZTM5NjFiNDBmOTM2ZWFjMDA2Zjhl",
+  "snapshot_id": "MCxhYjQxMjBhZjM4ZWIxNDY0YTZkNDE4NjM5ZDllMGYwM2Y3ODdhOTcy",
   "tracks": [
     {
       "added_at": "2023-06-06 22:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "ANTI",
-        "url": "https://open.spotify.com/album/7zVJWO7TYb0NAuyYpI5pSL"
-      },
-      "artists": [
-        {
-          "name": "BOUNTY & COCOA",
-          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "ANTI",
-      "url": "https://open.spotify.com/track/7jtAl9ic1lF5w7ZNX72mk5"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Can't Choose (feat. Kiara Nelson)",
         "url": "https://open.spotify.com/album/0XKxoMgjpIgS7drq1OI0yZ"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 151679,
       "name": "Can't Choose (feat. Kiara Nelson)",
       "url": "https://open.spotify.com/track/6LAlZuA1IhylVnInqNWo2j"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/7zVJWO7TYb0NAuyYpI5pSL"
+      },
+      "artists": [
+        {
+          "name": "BOUNTY & COCOA",
+          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "ANTI",
+      "url": "https://open.spotify.com/track/7jtAl9ic1lF5w7ZNX72mk5"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Perlen",
-        "url": "https://open.spotify.com/album/1n5G19KN2dpBAtdaC1VZBn"
-      },
-      "artists": [
-        {
-          "name": "Blond",
-          "url": "https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA"
-        }
-      ],
-      "duration_ms": 192591,
-      "name": "Durch die Nacht",
-      "url": "https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Chardonnay",
         "url": "https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH"
       },
@@ -191,22 +175,18 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Eww",
-        "url": "https://open.spotify.com/album/30k9VJz1caQQyR359ikfk9"
+        "name": "Perlen",
+        "url": "https://open.spotify.com/album/1n5G19KN2dpBAtdaC1VZBn"
       },
       "artists": [
         {
-          "name": "Aisha Vibes",
-          "url": "https://open.spotify.com/artist/7x6XwopgxWpVKTUiDSwRaN"
-        },
-        {
-          "name": "Nura",
-          "url": "https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf"
+          "name": "Blond",
+          "url": "https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA"
         }
       ],
-      "duration_ms": 147428,
-      "name": "Eww",
-      "url": "https://open.spotify.com/track/4okvbms2ajKt6617aqkn0A"
+      "duration_ms": 192591,
+      "name": "Durch die Nacht",
+      "url": "https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -243,6 +223,26 @@
       "duration_ms": 205573,
       "name": "Weil mein Herz ein L\u00fcgner ist",
       "url": "https://open.spotify.com/track/3g5OUIfHdyB09rIvWa9zYk"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Eww",
+        "url": "https://open.spotify.com/album/30k9VJz1caQQyR359ikfk9"
+      },
+      "artists": [
+        {
+          "name": "Aisha Vibes",
+          "url": "https://open.spotify.com/artist/7x6XwopgxWpVKTUiDSwRaN"
+        },
+        {
+          "name": "Nura",
+          "url": "https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Eww",
+      "url": "https://open.spotify.com/track/4okvbms2ajKt6617aqkn0A"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Lieber f\u00fcr mich",
-        "url": "https://open.spotify.com/album/2fws4o7IMCnaDjOEvigDRV"
-      },
-      "artists": [
-        {
-          "name": "ela.",
-          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Lieber f\u00fcr mich",
-      "url": "https://open.spotify.com/track/671auplSl17WIJSefMXsjN"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "So bin ich halt / blablabla",
         "url": "https://open.spotify.com/album/5g0qVROyAjzBdxShAaWFdT"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 130720,
       "name": "So bin ich halt / blablabla",
       "url": "https://open.spotify.com/track/6utOJJy9KE3GxeIeAMAS9H"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Lieber f\u00fcr mich",
+        "url": "https://open.spotify.com/album/2fws4o7IMCnaDjOEvigDRV"
+      },
+      "artists": [
+        {
+          "name": "ela.",
+          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Lieber f\u00fcr mich",
+      "url": "https://open.spotify.com/track/671auplSl17WIJSefMXsjN"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/036QUi4yi6JQ8gRUGjrDx2"
-      },
-      "artists": [
-        {
-          "name": "LAYLA",
-          "url": "https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy"
-        }
-      ],
-      "duration_ms": 169777,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/2GuZ9qPfVYUIIZp8aQrqbI"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "The House of House EP",
         "url": "https://open.spotify.com/album/7wkd8RasRwQYJ07htKGEIN"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 216000,
       "name": "The House of House",
       "url": "https://open.spotify.com/track/6cyctoQI5xU2ZI5MLslxPs"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/036QUi4yi6JQ8gRUGjrDx2"
+      },
+      "artists": [
+        {
+          "name": "LAYLA",
+          "url": "https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy"
+        }
+      ],
+      "duration_ms": 169777,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/2GuZ9qPfVYUIIZp8aQrqbI"
     },
     {
       "added_at": "2023-06-06 22:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-06-06 22:00:00",
       "album": {
-        "name": "Lose My Mind EP",
-        "url": "https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 381960,
-      "name": "Lose My Mind - Original Mix",
-      "url": "https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq"
-    },
-    {
-      "added_at": "2023-06-06 22:00:00",
-      "album": {
         "name": "Direct Flight To Seattle",
         "url": "https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 245234,
       "name": "Direct Flight To Seattle",
       "url": "https://open.spotify.com/track/79JtOQixt6WItl0FOy616K"
+    },
+    {
+      "added_at": "2023-06-06 22:00:00",
+      "album": {
+        "name": "Lose My Mind EP",
+        "url": "https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 381960,
+      "name": "Lose My Mind - Original Mix",
+      "url": "https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq"
     },
     {
       "added_at": "2023-06-06 22:00:00",

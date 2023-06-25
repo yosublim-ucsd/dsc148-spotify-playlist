@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Nadin Amizah
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,421 likes - 126 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,466 likes - 127 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,12 +127,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 117 | [April](https://open.spotify.com/track/24QSZBkPrq8nP5jC8UsA01) | [IZZY DANIYA](https://open.spotify.com/artist/4YTuQxRYY33qBIb7z9XG19) | [April](https://open.spotify.com/album/0wmXjCIz9FynQsAnIfQgLc) | 3:48 |
 | 118 | [Oh Bob](https://open.spotify.com/track/42esXDlrZgK4EMhwsLjBhd) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Way out](https://open.spotify.com/album/4ebUiIXxTDyS9LhtItkPRj) | 3:10 |
 | 119 | [Ending Fairy](https://open.spotify.com/track/66uWx5UFjIR7VmnqQ2YX0x) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Ending Fairy](https://open.spotify.com/album/2LOL3OgncHJQCLYubXQrAB) | 3:19 |
-| 120 | [ECSTASY](https://open.spotify.com/track/0a5nzIXplliER47moyN6Wh) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [ECSTASY](https://open.spotify.com/album/4mLel6Ahh3jU8tDhIS01FT) | 2:56 |
-| 121 | [Feels Like Home](https://open.spotify.com/track/7oxBqKaMhXexOEpSYjlgoE) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Feels Like Home](https://open.spotify.com/album/2SAK1eWgzPJp9GhJDNK32v) | 3:37 |
-| 122 | [Same Melody](https://open.spotify.com/track/7nU2dUAcy4neKu5v6wNVeJ) | [ABOY](https://open.spotify.com/artist/67Cl557uIp08IkVBI79Wub) | [Same Melody](https://open.spotify.com/album/1BGBTl1TnZkDphmxyU7j9y) | 3:58 |
-| 123 | [Bump Chance](https://open.spotify.com/track/7s9kXjvE8tnNaAckDB7Qog) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [don't you go running off now](https://open.spotify.com/album/4sazwDC5NcUnWufKAVMlDR) | 3:03 |
-| 124 | [Pull Thru](https://open.spotify.com/track/4zRjm49g6qewhPemdUUi0B) | [Ki Zikry](https://open.spotify.com/artist/28dh27mbtc24Yy62PPpm8t) | [Pull Thru](https://open.spotify.com/album/2CofmAScUu6aNSlDvZf1aZ) | 3:37 |
-| 125 | [Stoplight](https://open.spotify.com/track/47N6MR3XrYN5AwW01bEHu4) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Stoplight](https://open.spotify.com/album/1b1RmBzvKgnQWIkPv0gBC8) | 3:21 |
-| 126 | [STUFF IM DEALIN WITH](https://open.spotify.com/track/2e3vf9LaqijmrqK4AJbSmL) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [STUFF IM DEALIN WITH](https://open.spotify.com/album/2ZMiTkSDgvLWth7ioSPacp) | 2:41 |
+| 120 | [summ′ time](https://open.spotify.com/track/0HoUT7nfaH4cKRcLFZhLsp) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [snooze](https://open.spotify.com/album/06t8UHjtA6iKZ4R9DLDefx) | 2:34 |
+| 121 | [ECSTASY](https://open.spotify.com/track/0a5nzIXplliER47moyN6Wh) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [ECSTASY](https://open.spotify.com/album/4mLel6Ahh3jU8tDhIS01FT) | 2:56 |
+| 122 | [Feels Like Home](https://open.spotify.com/track/7oxBqKaMhXexOEpSYjlgoE) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Feels Like Home](https://open.spotify.com/album/2SAK1eWgzPJp9GhJDNK32v) | 3:37 |
+| 123 | [Same Melody](https://open.spotify.com/track/7nU2dUAcy4neKu5v6wNVeJ) | [ABOY](https://open.spotify.com/artist/67Cl557uIp08IkVBI79Wub) | [Same Melody](https://open.spotify.com/album/1BGBTl1TnZkDphmxyU7j9y) | 3:58 |
+| 124 | [Bump Chance](https://open.spotify.com/track/7s9kXjvE8tnNaAckDB7Qog) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [don't you go running off now](https://open.spotify.com/album/4sazwDC5NcUnWufKAVMlDR) | 3:03 |
+| 125 | [Pull Thru](https://open.spotify.com/track/4zRjm49g6qewhPemdUUi0B) | [Ki Zikry](https://open.spotify.com/artist/28dh27mbtc24Yy62PPpm8t) | [Pull Thru](https://open.spotify.com/album/2CofmAScUu6aNSlDvZf1aZ) | 3:37 |
+| 126 | [Stoplight](https://open.spotify.com/track/47N6MR3XrYN5AwW01bEHu4) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Stoplight](https://open.spotify.com/album/1b1RmBzvKgnQWIkPv0gBC8) | 3:21 |
+| 127 | [STUFF IM DEALIN WITH](https://open.spotify.com/track/2e3vf9LaqijmrqK4AJbSmL) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [STUFF IM DEALIN WITH](https://open.spotify.com/album/2ZMiTkSDgvLWth7ioSPacp) | 2:41 |
 
-Snapshot ID: `MCxmOWRjNGUyYzE1ZGZhMjUwYzZkY2MzMTg2MGIwZjZiYzAyY2VmZDdl`
+Snapshot ID: `MCxkNjdlMDg1ZWYyNjllOWYzMTIzZTRjNDg3NjQyOWRjNTg1OThlOTA2`

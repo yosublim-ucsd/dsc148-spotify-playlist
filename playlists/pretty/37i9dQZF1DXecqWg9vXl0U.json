@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring RPLK.",
-  "num_followers": 45021,
+  "num_followers": 45027,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTcyOTFjMjEyMWM2ZTI0MjU3NzZlYzJhNzhkOTk4ZDBhODQzODIw",
+  "snapshot_id": "MCwzZTQ2ZTkwMjhjY2NiNjY1NjkwOGRhMzY2YTcxYWNhOTUyOWJlZDNk",
   "tracks": [
     {
       "added_at": "2023-06-16 15:22:22",
@@ -371,8 +371,8 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+        "name": "Muchas Cosas",
+        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+      "duration_ms": 152133,
+      "name": "Muchas Cosas",
+      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -475,8 +475,8 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Muchas Cosas",
-        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
       },
       "artists": [
         {
@@ -484,9 +484,25 @@
           "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 152133,
-      "name": "Muchas Cosas",
-      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "M\u00fasica Para Adultos",
+        "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 166246,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -507,22 +523,6 @@
       "duration_ms": 126720,
       "name": "Stuck in California",
       "url": "https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
-        "name": "M\u00fasica Para Adultos",
-        "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 166246,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
+        "name": "Amanece Otra Vez",
+        "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 247501,
+      "name": "Amanece Otra Vez",
+      "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
         "name": "galleta de la suerte",
         "url": "https://open.spotify.com/album/0y3ClrFxeRlQOB82Ab4awS"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 144170,
       "name": "galleta de la suerte",
       "url": "https://open.spotify.com/track/59HnoaodyiRfatK5PbfUiU"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
-        "name": "Amanece Otra Vez",
-        "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 247501,
-      "name": "Amanece Otra Vez",
-      "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Error 404",
-        "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        }
-      ],
-      "duration_ms": 114706,
-      "name": "Deriva",
-      "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
         "name": "\u00c1ngel",
         "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 178000,
       "name": "\u00c1ngel",
       "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "Error 404",
+        "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        }
+      ],
+      "duration_ms": 114706,
+      "name": "Deriva",
+      "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Colores crom\u00e1ticos",
-        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 255524,
-      "name": "Colores crom\u00e1ticos",
-      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
         "name": "Origami",
         "url": "https://open.spotify.com/album/5tWgfnBjbkKhn7j7Q23SgD"
       },
@@ -1131,26 +1115,6 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Ver a Trav\u00e9s de tus Ojos",
-        "url": "https://open.spotify.com/album/3LyFxQOJRwWCzhHjqp4fHL"
-      },
-      "artists": [
-        {
-          "name": "Estrella del Sol",
-          "url": "https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 160693,
-      "name": "Ver a Trav\u00e9s de tus Ojos",
-      "url": "https://open.spotify.com/track/1vyqlRBQeFFfbL1l6d43yD"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O"
       },
@@ -1167,6 +1131,42 @@
       "duration_ms": 232895,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "Colores crom\u00e1ticos",
+        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 255524,
+      "name": "Colores crom\u00e1ticos",
+      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "Ver a Trav\u00e9s de tus Ojos",
+        "url": "https://open.spotify.com/album/3LyFxQOJRwWCzhHjqp4fHL"
+      },
+      "artists": [
+        {
+          "name": "Estrella del Sol",
+          "url": "https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 160693,
+      "name": "Ver a Trav\u00e9s de tus Ojos",
+      "url": "https://open.spotify.com/track/1vyqlRBQeFFfbL1l6d43yD"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Fantas\u00eda",
-        "url": "https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb"
-      },
-      "artists": [
-        {
-          "name": "Pollo Bruxo",
-          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
-        },
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 176679,
-      "name": "Fantas\u00eda",
-      "url": "https://open.spotify.com/track/2wzIkmA7ckiuwBfYFChacL"
-    },
-    {
-      "added_at": "2023-06-16 15:22:22",
-      "album": {
         "name": "Un Impulso",
         "url": "https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib"
       },
@@ -1247,18 +1227,22 @@
     {
       "added_at": "2023-06-16 15:22:22",
       "album": {
-        "name": "Prometimos No Hablar",
-        "url": "https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU"
+        "name": "Fantas\u00eda",
+        "url": "https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Pollo Bruxo",
+          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
+        },
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
         }
       ],
-      "duration_ms": 259579,
-      "name": "Prometimos No Hablar",
-      "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
+      "duration_ms": 176679,
+      "name": "Fantas\u00eda",
+      "url": "https://open.spotify.com/track/2wzIkmA7ckiuwBfYFChacL"
     },
     {
       "added_at": "2023-06-16 15:22:22",
@@ -1275,6 +1259,22 @@
       "duration_ms": 203761,
       "name": "Quiz\u00e1s (La Historia de Nosotros)",
       "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+    },
+    {
+      "added_at": "2023-06-16 15:22:22",
+      "album": {
+        "name": "Prometimos No Hablar",
+        "url": "https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 259579,
+      "name": "Prometimos No Hablar",
+      "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
     },
     {
       "added_at": "2023-06-16 15:22:22",

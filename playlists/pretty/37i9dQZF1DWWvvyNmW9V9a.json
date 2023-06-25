@@ -1,12 +1,12 @@
 {
   "description": "Never Have I Ever been Team Ben",
-  "num_followers": 2055026,
+  "num_followers": 2055870,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjFhZWM2MjNhYjJlM2JkM2YxZGQ3ZGE3NTNjYTU4NWE0MTNmYTc1",
+  "snapshot_id": "MCw2MGMxNmI2MjJhZTBkYTk3MjU4ZWZkMzhlYzg2ZDQzMTVjNTFlNzk4",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -723,6 +723,22 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "added_at": "2023-06-24 14:35:33",
+      "album": {
+        "name": "Until I End Up Dead",
+        "url": "https://open.spotify.com/album/7FqeGIj2CoHAbWTyqeOpGu"
+      },
+      "artists": [
+        {
+          "name": "Dream",
+          "url": "https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Until I End Up Dead",
+      "url": "https://open.spotify.com/track/5bVTkc2s7TQbTbVZZn2fXn"
     },
     {
       "added_at": "2023-06-09 04:00:00",

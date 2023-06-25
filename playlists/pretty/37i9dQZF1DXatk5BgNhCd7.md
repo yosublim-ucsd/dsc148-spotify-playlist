@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Gilberto Santa Rosa & Tito Nieves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,169 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,220 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
 | 50 | [Tu Despertador](https://open.spotify.com/track/30GjEhGOgIcZwqMUi0x9sW) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Tu Despertador](https://open.spotify.com/album/7efCiTMRpq47SzseKDbIzS) | 2:30 |
 
-Snapshot ID: `MCw0N2E5YTFmOGVkYWQ4ZjEzNDZkNjBiMTRlODRhNjU4YTBkZGQ2MmZj`
+Snapshot ID: `MCwwYjU5MzY1MjFjNTAxM2YzOWI0OGQyYzk0OTM0ZmNjYzgxMGZjZjVj`

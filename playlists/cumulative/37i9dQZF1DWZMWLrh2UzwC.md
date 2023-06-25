@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Sezairi
 
-6,445 songs - 14 day 17 hr 27 min
+6,446 songs - 14 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5086,6 +5086,7 @@
 | [Summertime](https://open.spotify.com/track/28EEl7LVp9Ssq7UnIAHvsc) | [Secret Police](https://open.spotify.com/artist/6vuITEnveR3E7vk8pNJoy6) | [Summertime](https://open.spotify.com/album/09elUZOrESbkci7y80XEgh) | 3:43 | 2023-06-08 | 2023-06-16 |
 | [Summertime](https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn) | 3:09 | 2022-05-26 | 2022-06-03 |
 | [Summertime \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Summertime](https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK) | 3:01 | 2022-06-16 | 2022-06-24 |
+| [summ′ time](https://open.spotify.com/track/0HoUT7nfaH4cKRcLFZhLsp) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [snooze](https://open.spotify.com/album/06t8UHjtA6iKZ4R9DLDefx) | 2:34 | 2023-06-22 |  |
 | [Sumthin Bout Love](https://open.spotify.com/track/36PagkhheRVG0iFaM55njV) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Sumthin Bout Love](https://open.spotify.com/album/6eqKKHirJmjLlVBJCN87i9) | 3:50 | 2022-04-14 | 2022-04-22 |
 | [Sun](https://open.spotify.com/track/3vWfEcRZC5nfQ2fLuvKqqE) | [Rocketman](https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ) | [SUNSHOWER](https://open.spotify.com/album/18WIlesKiUT74HTRMMpBgB) | 4:30 | 2023-03-23 | 2023-03-31 |
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-07-28 | 2022-08-05 |

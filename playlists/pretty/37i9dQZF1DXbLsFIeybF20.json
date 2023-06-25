@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141511,
+  "num_followers": 141509,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWI2YTBlMjY3NTE3ZmI1ODg4N2RhNjc3NWM2ZmYxN2MwM2UzZmJi",
+  "snapshot_id": "MCw5ZWM5YzBkZTFlOTA5YjkzYzFlYzg0OTJlNTY5N2FmZWY3YzM3NWVl",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -79,22 +79,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "This is Jazz 30: The Dirty Dozen Brass Band",
-        "url": "https://open.spotify.com/album/3bZUf30139FSK8HhHOGryb"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "It's All Over Now",
-      "url": "https://open.spotify.com/track/5gIq1Qkrdw5bMbLGeaYw0q"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Firehouse Five Plus Two Story",
         "url": "https://open.spotify.com/album/5a3V35bBASSLfvmPaLF1Md"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 178533,
       "name": "Yes Sir! That's My Baby",
       "url": "https://open.spotify.com/track/5kDN2pkuLFL7Is22W4ngAF"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "This is Jazz 30: The Dirty Dozen Brass Band",
+        "url": "https://open.spotify.com/album/3bZUf30139FSK8HhHOGryb"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "It's All Over Now",
+      "url": "https://open.spotify.com/track/5gIq1Qkrdw5bMbLGeaYw0q"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Ultimate Mardi Gras",
-        "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
-      },
-      "artists": [
-        {
-          "name": "Olympia Brass Band",
-          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "Mardi Gras In New Orleans",
-      "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
         "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 182600,
       "name": "Hotter Than That",
       "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Ultimate Mardi Gras",
+        "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
+      },
+      "artists": [
+        {
+          "name": "Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Mardi Gras In New Orleans",
+      "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
     },
     {
       "added_at": "2021-04-26 16:53:52",

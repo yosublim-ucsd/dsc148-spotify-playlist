@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Darshan Raval
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,715 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,148 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Kahaniyan](https://open.spotify.com/track/1SGCQ0EQgvJD6PmU31ibXE) | [Ashwani Machal](https://open.spotify.com/artist/6JiBLxNeLijWXyZ6kxuDG6) | [Kahaniyan](https://open.spotify.com/album/1psZjt7cpnZloQF5CrHrC4) | 3:01 |
 | 50 | [Tu Meri Roja \(From "Kushi"\)](https://open.spotify.com/track/3u3ZPw7gXZFl3uLfo8hZP5) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Tu Meri Roja \(From "Kushi"\) \- Single](https://open.spotify.com/album/6MHCscorPNSwxJx5LJJMPf) | 4:02 |
 
-Snapshot ID: `MCwyZjY3NDEyMDA1NWM5ZmIwN2I0NGZkYjFjNzBiOTk4MTBlN2RmNjIy`
+Snapshot ID: `MCw2NzZiMzk4YWQwMTcyZGIzMTFlNmQ2ZDQ1MjNlZGQ3NWRkYTQ5MzE1`

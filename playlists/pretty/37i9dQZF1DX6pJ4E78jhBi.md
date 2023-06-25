@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,041 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,042 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 38 | [Give me no Splendour, Gold or Pomp](https://open.spotify.com/track/48HpzCZRKhMWKvOI3Ic0rl) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz) | [Give me no Splendour, Gold or Pomp](https://open.spotify.com/album/2oy471jjrzeyB6AAWle1sL) | 2:29 |
 | 39 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB) | 2:51 |
 | 40 | [Largo From Winter](https://open.spotify.com/track/6qNxvuKuLORieVbQeKauYe) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Largo From Winter](https://open.spotify.com/album/060kov0LwToXCEdgQsYbac) | 3:48 |
-| 41 | [Christmas Letter](https://open.spotify.com/track/3oFDysBX3TkBDmy5cZuxJP) | [Cellist Yesle](https://open.spotify.com/artist/1EPr2hpZSt3xNbeXEyBEbj) | [Beautiful Cello](https://open.spotify.com/album/0mUUsd64PlYJuGsuSfyawn) | 3:48 |
-| 42 | [Lo How a Rose](https://open.spotify.com/track/6iezLIgYm0LAQdLlRQzXC3) | [Winter Harp Ensemble](https://open.spotify.com/artist/4WX6y7CG68HnwLAwC2IkQw), [Lori Pappajohn](https://open.spotify.com/artist/61RcUdOwqcuSYE2rMLy0YL) | [A Night in Winter](https://open.spotify.com/album/5I28ceSFOIzyyEF3jGBVkf) | 4:11 |
-| 43 | [The Christmas Song](https://open.spotify.com/track/2ZqwIozv140VtUIcKllHQJ) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [The Christmas Song](https://open.spotify.com/album/1b1lifPc4Un5xuO9LJjcdd) | 3:15 |
-| 44 | [Rutter: The Colours of Christmas \- Arr\. for Piano by John Lenehan](https://open.spotify.com/track/5hxJyjM1uI60T8xJB5U4yg) | [John Lenehan](https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9) | [John Rutter: The Colours of Christmas](https://open.spotify.com/album/5EQU41n7Lj7OAn0wuRMwGt) | 2:57 |
-| 45 | [Coventry Carol](https://open.spotify.com/track/6MX93EaPA2m5YtMOxSlyvv) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Coventry Carol](https://open.spotify.com/album/3gNj1pBbG3MbswEnpdMDSl) | 3:29 |
-| 46 | [Huron Carol](https://open.spotify.com/track/7dkXnwn1iKD6DZ28gA5OY5) | [Ryan Marvel](https://open.spotify.com/artist/1QRBlM1kbpn7HsF42YKSY2) | [Winter II](https://open.spotify.com/album/1ikrIy4vNGnTWENBzXIdq9) | 3:13 |
-| 47 | [Mary Did You Know](https://open.spotify.com/track/2HcxvRjvlLljVM3OeBf38i) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Mary Did You Know](https://open.spotify.com/album/6M3lgoMX2Bv7BbFWZD95PE) | 3:49 |
-| 48 | [White Christmas](https://open.spotify.com/track/3Kmam37aGtUbQ2TPVrpwpX) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [Christmas Elegance](https://open.spotify.com/album/5npdxE8fnqpl6MWSWn40Hb) | 4:09 |
-| 49 | [Feliz Navidad](https://open.spotify.com/track/6fdLagw34w7uPH65UpGe7y) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 4:23 |
 
-Snapshot ID: `MCwyNzc2NzIxZDEyNGU3ODJkNjk3Nzg5MWNhOTc0YzJkY2NmZWIxZjU1`
+Snapshot ID: `MCw3ZTdiZjQ3ZTU2MTNjYTVkNjdmODc4OGNjMjVhYjZkYWQzZGVjMjZj`

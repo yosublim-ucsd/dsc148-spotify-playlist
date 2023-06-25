@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 100579,
+  "num_followers": 100571,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDI3OGY2YmVjNjYzYWJmOTg0NmMzNjM5ODBmYzlhZGRiMjYwNGE5",
+  "snapshot_id": "MCwzOGY2ZDU2ZDZmYTg0YzQ2NDMzNmQ0MjhmYWMxMmZjNDMyZWYyNTQ1",
   "tracks": [
     {
       "added_at": "2022-12-23 13:04:53",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 152973,
       "name": "Dig That Crazy Santa Claus",
       "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -1064,6 +1064,22 @@
       },
       "artists": [
         {
+          "name": "Vanguard Jazz Sextet",
+          "url": "https://open.spotify.com/artist/5vAzmGwvrItLXbcCquKOQz"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/2uNFJN1qsfvZ3xepAGNoca"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
+        "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
+        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
+      },
+      "artists": [
+        {
           "name": "Vincent Herring",
           "url": "https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL"
         },
@@ -1083,22 +1099,6 @@
       "duration_ms": 312440,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
-        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
-      },
-      "artists": [
-        {
-          "name": "Vanguard Jazz Sextet",
-          "url": "https://open.spotify.com/artist/5vAzmGwvrItLXbcCquKOQz"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/2uNFJN1qsfvZ3xepAGNoca"
     },
     {
       "added_at": "2022-12-23 13:04:53",

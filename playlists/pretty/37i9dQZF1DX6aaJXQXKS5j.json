@@ -1,12 +1,12 @@
 {
   "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
-  "num_followers": 13525,
+  "num_followers": 13549,
   "original_name": "Trap Bunny",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmI4YWIyOGIyN2I5OTkwYTYyOTdjMTFlODdlODkwZDMzZDU0MGIy",
+  "snapshot_id": "MCxhOTZmMmNiN2FhNTgyNWQwZjI3YzQwZGViMDI2MmU1M2I2YzJjMTdl",
   "tracks": [
     {
       "added_at": "2023-03-03 21:54:57",
@@ -344,7 +344,7 @@
       },
       "artists": [
         {
-          "name": "Kevin Roldan",
+          "name": "KEVIN ROLDAN",
           "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         },
         {
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-03-03 21:54:57",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 227939,
-      "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
-      "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
-    },
-    {
-      "added_at": "2023-03-03 21:54:57",
-      "album": {
         "name": "Caile",
         "url": "https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 300187,
       "name": "Caile",
       "url": "https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"
+    },
+    {
+      "added_at": "2023-03-03 21:54:57",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 227939,
+      "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
+      "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
     },
     {
       "added_at": "2023-03-03 21:54:57",
@@ -880,7 +880,7 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Kevin Roldan",
+          "name": "KEVIN ROLDAN",
           "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         },
         {

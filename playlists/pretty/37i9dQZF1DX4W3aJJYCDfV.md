@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ice Spice + Nicki Minaj \(pictured\), Stormzy + Fredo, Maisie Peters and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,613 likes - 124 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,656 likes - 124 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 123 | [Naturally](https://open.spotify.com/track/6HgRlxArGgB008qXcLdPMh) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Naturally](https://open.spotify.com/album/5FnTa6yPpvCArS6IbsZN8E) | 3:19 |
 | 124 | [Hardcore Will Never Die](https://open.spotify.com/track/6pW0H701jW3bUQJtcYC4h1) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0) | [Hardcore Will Never Die](https://open.spotify.com/album/7riXW7fPMUccYmvn1DTlKA) | 5:00 |
 
-Snapshot ID: `MCwzZDVhOTkyZGE0OWFkNGZjNGExODQxNDUyNDlkZTU3NTIzNjk0MzA2`
+Snapshot ID: `MCxjOTYxNTU4ZDY0N2M0MDU4MmUyYWEyZWYyZmQyOGI5YWI3YzBlMTQx`

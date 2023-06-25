@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 18878,
+  "num_followers": 18907,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjgwZTFlNDIxZmUxOWVjODlmNzY4MmJjNzVmZDM1MGU1ZDVhZDgz",
+  "snapshot_id": "MCw1ZGNmNmMwZGE1YWQxNzMyZjQ3NTEyNGVkZDA1MzBjNjdhMjAzNGZl",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Popurries Tropicales Con Las Mejores",
-        "url": "https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH"
-      },
-      "artists": [
-        {
-          "name": "Marimba Chiapas",
-          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
-        }
-      ],
-      "duration_ms": 394213,
-      "name": "Popurri De Cumbias",
-      "url": "https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Canta Celia Cruz",
         "url": "https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 160866,
       "name": "Burundanga",
       "url": "https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Popurries Tropicales Con Las Mejores",
+        "url": "https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+        }
+      ],
+      "duration_ms": 394213,
+      "name": "Popurri De Cumbias",
+      "url": "https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Plays Mucho Mambo... and Other Fantastic Compositions",
-        "url": "https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Mambo del Polit\u00e9cnico",
-      "url": "https://open.spotify.com/track/18hoGhRHSr0rDwj8V9bsAZ"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Todos Sus Exitos",
         "url": "https://open.spotify.com/album/4vaptc3l16FcWm1WBQLdry"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 165933,
       "name": "El Manisero",
       "url": "https://open.spotify.com/track/6b8ZFIKJGomI4OgYgoQ5Ty"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Plays Mucho Mambo... and Other Fantastic Compositions",
+        "url": "https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Mambo del Polit\u00e9cnico",
+      "url": "https://open.spotify.com/track/18hoGhRHSr0rDwj8V9bsAZ"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa"
       },
       "artists": [
         {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+          "name": "Los Aragon",
+          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
         }
       ],
-      "duration_ms": 163760,
-      "name": "Mi Cafetal",
-      "url": "https://open.spotify.com/track/0fRuB2A8KrSnkUh4JPSBhk"
+      "duration_ms": 130002,
+      "name": "Tema De Lara",
+      "url": "https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
       },
       "artists": [
         {
-          "name": "Los Aragon",
-          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
         }
       ],
-      "duration_ms": 130002,
-      "name": "Tema De Lara",
-      "url": "https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb"
+      "duration_ms": 163760,
+      "name": "Mi Cafetal",
+      "url": "https://open.spotify.com/track/0fRuB2A8KrSnkUh4JPSBhk"
     },
     {
       "added_at": "2023-01-23 22:42:50",

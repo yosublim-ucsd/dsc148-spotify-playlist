@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-111 songs - 7 hr 23 min
+112 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2022-08-05 |  |
 | [Blame You \(feat\. Dylan\)](https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Reflections](https://open.spotify.com/album/3w6tCisQHurw8IMhnTyXwM) | 3:51 | 2022-08-05 |  |
 | [Break My Heart](https://open.spotify.com/track/1PGirMzvw36N1ftzTKprpr) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Break My Heart](https://open.spotify.com/album/60I1UREM36C6JxSVPJT1nz) | 2:59 | 2023-01-13 |  |
+| [Brown Paper Bag](https://open.spotify.com/track/3ZQs8RHO3lPZoUwpavPENL) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Reprazent](https://open.spotify.com/artist/17Ytfl1DntgvVdragJEqx8) | [New Forms \(20th Anniversary Edition\)](https://open.spotify.com/album/3e38PrPtIRDGbtbpc6jHrM) | 9:03 | 2023-06-13 |  |
 | [Call Me \(feat\. Maverick Sabre\)](https://open.spotify.com/track/1XX80Q0QEY62CVo1Ks4x1J) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 3:29 | 2022-08-05 |  |
 | [Can't Destroy Love](https://open.spotify.com/track/25uYgeEbQmZdQVd0xQQzMn) | [Atlantic Connection](https://open.spotify.com/artist/323BD4mjoLA1ajX6zjIe2q) | [Digital Landscape](https://open.spotify.com/album/2aeWA7Sqbo9cnnPbggxCaZ) | 6:03 | 2022-08-05 |  |
 | [Changing](https://open.spotify.com/track/1LrYRj1iFsm9QJ72YqPTLY) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Life \(Deluxe\)](https://open.spotify.com/album/44OSVbfmYeai7d1Euvqwpx) | 3:25 | 2022-08-05 |  |
@@ -100,7 +101,7 @@
 | [Shine Like The Sun \- Nu:Logic Remix](https://open.spotify.com/track/5JuRFvtHG8FJ4lSc0tZ7bh) | [Thomas Oliver](https://open.spotify.com/artist/5ZwD9tfnJ04kM0qgPSMzgy), [Matthew Gresham and Daniel Gresham](https://open.spotify.com/artist/2xnn4IjzRZLQMsoHgCLJRe) | [Shine Like The Sun \(Nu:Logic Remix\)](https://open.spotify.com/album/0Gkr5s5Tw3QjwhxzcW2nfP) | 5:14 | 2023-05-19 | 2023-06-13 |
 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 | 2023-05-19 |  |
 | [SUMMER](https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [SUMMER](https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9) | 3:40 | 2022-08-05 |  |
-| [Summer Sun](https://open.spotify.com/track/31trzaw8jTi9P3ChkMKWU4) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Summer Sun](https://open.spotify.com/album/6lnZT31iC2GgoBswi0aBJF) | 3:00 | 2022-08-05 |  |
+| [Summer Sun](https://open.spotify.com/track/31trzaw8jTi9P3ChkMKWU4) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Summer Sun](https://open.spotify.com/album/6lnZT31iC2GgoBswi0aBJF) | 3:00 | 2022-08-05 | 2023-06-25 |
 | [Sundown](https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g) | 4:28 | 2023-05-19 |  |
 | [Sundown](https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/5XRi4gmPsCAb6rF6HwfSUf) | 4:28 | 2022-08-05 | 2023-05-19 |
 | [Sweet Harmony](https://open.spotify.com/track/6RDkBlNaNqhHBiS7bxUo3D) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [Liquid](https://open.spotify.com/artist/3Hg4YYMKR6fMvkBj6SBuPo) | [Rave Digger \(Special Edition\)](https://open.spotify.com/album/6l4XPeThEaqucO0F00lUuc) | 6:08 | 2022-08-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 110638,
+  "num_followers": 110739,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGUyYjk2N2E4ODIxNThiNjc2YzZjYmE5YzllZmU2ZjEwNjU1YTYy",
+  "snapshot_id": "MCw2YjEwZjdlMTg0ZjI0Y2QwMDg1MDYzNTAwOWM5MWQzZTUxMTJmNGZh",
   "tracks": [
     {
       "added_at": "2023-04-28 19:03:48",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
+      },
+      "artists": [
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 277692,
+      "name": "Me Deixe Aqui",
+      "url": "https://open.spotify.com/track/31j38rRemGuqA4z83EQduw"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Bote o P\u00e9",
         "url": "https://open.spotify.com/album/3UOCHsSCEyPzusLJpZksqH"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 200898,
       "name": "Bote o P\u00e9",
       "url": "https://open.spotify.com/track/3KZPBw2GyCEbh2zdsmeisl"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
-      },
-      "artists": [
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 277692,
-      "name": "Me Deixe Aqui",
-      "url": "https://open.spotify.com/track/31j38rRemGuqA4z83EQduw"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -375,22 +375,18 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Todos Um",
-        "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
+        "name": "N\u00e3o Sou T\u00e3o Forte",
+        "url": "https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 211386,
-      "name": "Todos Um",
-      "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
+      "duration_ms": 235309,
+      "name": "Botas Velhas",
+      "url": "https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -415,18 +411,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "N\u00e3o Sou T\u00e3o Forte",
-        "url": "https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv"
+        "name": "Todos Um",
+        "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
       },
       "artists": [
         {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 235309,
-      "name": "Botas Velhas",
-      "url": "https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com"
+      "duration_ms": 211386,
+      "name": "Todos Um",
+      "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
-        }
-      ],
-      "duration_ms": 296053,
-      "name": "Jesus At The Center (Bonus Track) - Acoustic",
-      "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Infinito Amor",
         "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 243417,
       "name": "Infinito Amor",
       "url": "https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        }
+      ],
+      "duration_ms": 296053,
+      "name": "Jesus At The Center (Bonus Track) - Acoustic",
+      "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
     },
     {
       "added_at": "2023-04-28 19:03:48",

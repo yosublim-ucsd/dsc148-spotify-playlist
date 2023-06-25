@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > JAG HAR ALDRIG BRYTT MIG OM DITT NAMN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,936 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,030 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [RAGGEN GÅR](https://open.spotify.com/track/5tq2w7SbOai77pCgdi2hcI) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [RAGGEN GÅR](https://open.spotify.com/album/30p5LHwQPCPkjJMvlFoyOs) | 2:58 |
 | 100 | [EPA\-DUNK](https://open.spotify.com/track/2xmecrRjtbkNYGxI092NVW) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx) | [EPA\-DUNK](https://open.spotify.com/album/0HpruUo3vf4av80uOam0Nv) | 2:04 |
 
-Snapshot ID: `MCxmNGM3Y2Y1ZTAzNzBiMzBiYzAzYjU5MjFmZTk4YTcwYWU2MDhhYzU4`
+Snapshot ID: `MCw5YWJiMjQ3ZTU4NzUyYWMzOTk4ZGMwMWE4N2JlYjBhNDRmMDI0MmY4`

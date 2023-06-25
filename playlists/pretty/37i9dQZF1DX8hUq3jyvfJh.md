@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,723 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,826 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Viva Agora \(Exclusive\)](https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1) | [Anna Cintia](https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF) | [Agora](https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6) | 2:33 |
 | 50 | [Te Quero Eternamente](https://open.spotify.com/track/21pfVjpRcAXdCKnKsQoZtB) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia Fellipe Metalizada](https://open.spotify.com/album/3ZF1YPToWlPIx0lUFiymZl) | 3:03 |
 
-Snapshot ID: `MCxhNzM5ZTU5ZTM0YmU5NDlkYzgwNjJjODJhYThlY2Q1NDU0MjY3MGU1`
+Snapshot ID: `MCwwMjE4MDQzZTJkMDJhNGNlYTRjMjAyYTMyOWI4NGMwYjhkNTFkYjE1`

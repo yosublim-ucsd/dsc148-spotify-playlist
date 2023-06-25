@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Bollywood hits, repackaged\. Cover \- Sooryavanshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,151 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,325 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [Hare Krishna Hare Ram](https://open.spotify.com/track/3jxLgfqFTA2jYENuPfnRMi) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Ritika](https://open.spotify.com/artist/2Qb7kA0AAtP7swrz2l3Jpq), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Commando 2](https://open.spotify.com/album/2MjvC3aZFRXfFhJ3dPK2U2) | 3:30 |
 | 50 | [Raabta \(Title Track\) \[From "Raabta"\]](https://open.spotify.com/track/1LvOpTDkOfMZEqkr2fUgrz) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Arijit Singh: Love Songs](https://open.spotify.com/album/6LWZ330atfYF43nk7m3pKW) | 4:57 |
 
-Snapshot ID: `MCw5Y2MxMWMyMDcwZmFhNzUzZTNmMTI4NmZjZjViMjVjZTBiMzUyODg2`
+Snapshot ID: `MCxlZGQzN2IyZDNkYzViZDM0MWNiOTg5MmEyNDcyMDE2NjU2ZTY2YWRm`

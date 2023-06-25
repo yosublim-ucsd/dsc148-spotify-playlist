@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 133966,
+  "num_followers": 134015,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjI1YTNiYzVhNTdhYThiZTRlOWM0ODU1YTU0NmRmNjYzZmFhMzcz",
+  "snapshot_id": "MCwyNTRhMjdlZTU5ZjY4NzNhMjBkZDliMDJkN2M3NjMwOWE3ODc4NmQ2",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Straighten Up And Fly Right",
-      "url": "https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Columbia Country Classics Volume 2: Honky Tonk Heroes",
         "url": "https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 161933,
       "name": "I Love You So Much It Hurts",
       "url": "https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
+        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Straighten Up And Fly Right",
+      "url": "https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Columbia Country Classics Volume 1: The Golden Age",
-        "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
+        "name": "The Essential Bill Monroe",
+        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
       },
       "artists": [
         {
-          "name": "Ted Daffan's Texans",
-          "url": "https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq"
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
         }
       ],
-      "duration_ms": 159800,
-      "name": "Born to Lose",
-      "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
+      "duration_ms": 153960,
+      "name": "Rocky Road Blues",
+      "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Essential Bill Monroe",
-        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
+        "name": "Columbia Country Classics Volume 1: The Golden Age",
+        "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
       },
       "artists": [
         {
-          "name": "Bill Monroe & His Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+          "name": "Ted Daffan's Texans",
+          "url": "https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq"
         }
       ],
-      "duration_ms": 153960,
-      "name": "Rocky Road Blues",
-      "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
+      "duration_ms": 159800,
+      "name": "Born to Lose",
+      "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
     },
     {
       "added_at": "2023-01-02 21:50:32",

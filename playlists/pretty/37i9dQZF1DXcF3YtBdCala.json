@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. El Bebeto & Luciano Pereyra en portada. ",
-  "num_followers": 126869,
+  "num_followers": 126885,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmNkNTZjOTc1M2RhOTBhOTEzZmM1NWE0ZWYxMTg4N2VmMzE0OTBm",
+  "snapshot_id": "MCxhMTA0MzNjYTNmMTgxNzI1YzY3MmU2ZTdlZGU0ZTA3NTYzMzJmOWU2",
   "tracks": [
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "No Mereces Que Te Quiera",
-        "url": "https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "No Mereces Que Te Quiera",
-      "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "MALAMANTE (en carne viva)",
         "url": "https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 200546,
       "name": "MALAMANTE (en carne viva)",
       "url": "https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "No Mereces Que Te Quiera",
+        "url": "https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "No Mereces Que Te Quiera",
+      "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
     },
     {
       "added_at": "2023-06-23 06:00:00",

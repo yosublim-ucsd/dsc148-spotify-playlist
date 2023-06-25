@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-614 songs - 1 day 19 hr 8 min
+615 songs - 1 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,8 @@
 | [Sweet Pumpkin](https://open.spotify.com/track/7xINpy0rVreuzLsNMFaC4P) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Pasquale Grasso](https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY) | [Sweet Pumpkin](https://open.spotify.com/album/0POEh5608y0eem6LXKOG76) | 3:54 | 2022-08-26 | 2023-02-25 |
 | [Sweet Pumpkin \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4gmxdNHKgBmE8x0CyKnvc0) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Sweet Pumpkin \(Duo Version\)](https://open.spotify.com/album/4uqKcyr2SSRVfK1huj5gQx) | 3:44 | 2023-02-10 | 2023-04-15 |
 | [Take Love Easy](https://open.spotify.com/track/70bb4rPssrRLC3WIKuxcvI) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [Take Love Easy](https://open.spotify.com/album/05vX7tbISbLuPvTqbJMGxx) | 5:02 | 2023-03-10 |  |
-| [Tea For Two](https://open.spotify.com/track/1hKyMhmy00rKrn7pb26N6W) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d), [Terell Stafford](https://open.spotify.com/artist/7rF1f3ZbidUhK24k7N8RcB) | [Tea For Two](https://open.spotify.com/album/0NuUfAQuoR4vjyoTjAub20) | 2:54 | 2023-02-17 |  |
+| [Tea For Two](https://open.spotify.com/track/1hKyMhmy00rKrn7pb26N6W) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d), [Terell Stafford](https://open.spotify.com/artist/7rF1f3ZbidUhK24k7N8RcB) | [Tea For Two](https://open.spotify.com/album/0NuUfAQuoR4vjyoTjAub20) | 2:54 | 2023-02-17 | 2023-06-25 |
+| [Tea For Two](https://open.spotify.com/track/4HVz4K6niFBCVZwsMptFkV) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d), [Terell Stafford](https://open.spotify.com/artist/7rF1f3ZbidUhK24k7N8RcB) | [Beautiful Tomorrow](https://open.spotify.com/album/5xUQdgt359iu2FlgkTPF3O) | 2:54 | 2023-02-24 |  |
 | [Tell Me Now](https://open.spotify.com/track/6TUOxU9g4ePCHnzYOfWSJs) | [Nicki Richards](https://open.spotify.com/artist/2cEBjGdze7R6fxaRtfnM9L), [Gustavo Casenave](https://open.spotify.com/artist/0hxq5ox7ApLGmfkLZC34wK), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Asta Hairston Songbook](https://open.spotify.com/album/7sleoEtFgrxfK1EBCjWldG) | 4:27 | 2022-09-30 | 2022-10-08 |
 | [Tess's Torch Song](https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 2:54 | 2022-10-07 | 2023-04-19 |
 | [Tess's Torch Song](https://open.spotify.com/track/4Ynai4It3N4RTXe46vJlJL) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/6VHzJNiSLGXkXw9NzY9GGX) | 2:54 | 2022-10-14 |  |

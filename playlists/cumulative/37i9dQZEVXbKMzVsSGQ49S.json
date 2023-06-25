@@ -948,7 +948,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 256026,
       "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
       "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 231746,
       "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
       "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2225,6 +2225,32 @@
     },
     {
       "album": {
+        "name": "Blautt dansg\u00f3lf (Ritsko\u00f0u\u00f0 \u00fatg\u00e1fa)",
+        "url": "https://open.spotify.com/album/0CATyKLwtkSSfx83JuFa30"
+      },
+      "artists": [
+        {
+          "name": "J\u00fal\u00ed Hei\u00f0ar",
+          "url": "https://open.spotify.com/artist/6tcHrf8DzKfQvpkQQBKSOT"
+        },
+        {
+          "name": "Bomarz",
+          "url": "https://open.spotify.com/artist/4dwnaNjzJyz5K9S2vD1IGD"
+        },
+        {
+          "name": "PATRi!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Blautt dansg\u00f3lf (Ritsko\u00f0u\u00f0 \u00fatg\u00e1fa)",
+      "url": "https://open.spotify.com/track/4EHFoTQcV6AZIxUMBlsJt5"
+    },
+    {
+      "album": {
         "name": "D\u00e6tur",
         "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
       },
@@ -2632,7 +2658,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 131013,
       "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -3294,6 +3320,28 @@
       "duration_ms": 165702,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/14ibwN44PVKuvEqLiaNkKu"
+    },
+    {
+      "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "Cars Bring Me Out (feat. Future)",
+      "url": "https://open.spotify.com/track/2Okh2n1EHlGhviAYv75MOB"
     },
     {
       "album": {
@@ -7734,6 +7782,28 @@
       "duration_ms": 148320,
       "name": "F\u00edla'essa lykt",
       "url": "https://open.spotify.com/track/7bO2lerBj76pzHFhxiRTkd"
+    },
+    {
+      "album": {
+        "name": "Gali\u00f0 Gott",
+        "url": "https://open.spotify.com/album/4syTN4VqiDIXGsSYcWjKCj"
+      },
+      "artists": [
+        {
+          "name": "P\u00e1ll \u00d3skar",
+          "url": "https://open.spotify.com/artist/4YnmlfVdziLiqFQtQ4zTcq"
+        },
+        {
+          "name": "Doctor Victor",
+          "url": "https://open.spotify.com/artist/2kNbyqVjeXtsSXcXB3iaL9"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190731,
+      "name": "Gali\u00f0 Gott",
+      "url": "https://open.spotify.com/track/7l3HWMbGARLczbQpSc8Hnc"
     },
     {
       "album": {
@@ -15133,6 +15203,24 @@
     },
     {
       "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Money On The Dresser",
+      "url": "https://open.spotify.com/track/0k88aN0xmk8Xn1zdnyTiPG"
+    },
+    {
+      "album": {
         "name": "good kid, m.A.A.d city",
         "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
@@ -16813,6 +16901,28 @@
     },
     {
       "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Oh U Went (feat. Drake)",
+      "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+    },
+    {
+      "album": {
         "name": "S\u00f6ngvakeppnin 2023",
         "url": "https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd"
       },
@@ -17389,6 +17499,28 @@
     },
     {
       "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Parade on Cleveland (feat. Drake)",
+      "url": "https://open.spotify.com/track/05CTjmZKjZoCKQvM1Ldq9M"
+    },
+    {
+      "album": {
         "name": "Bat Out Of Hell",
         "url": "https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM"
       },
@@ -17458,6 +17590,24 @@
       "duration_ms": 218602,
       "name": "Par\u00eds Nor\u00f0ursins",
       "url": "https://open.spotify.com/track/4b4mAXu0PCBNHEeJw6YbWS"
+    },
+    {
+      "album": {
+        "name": "Par\u00edsarhj\u00f3l",
+        "url": "https://open.spotify.com/album/4EJs7eJLRnf3zXIAjqojOL"
+      },
+      "artists": [
+        {
+          "name": "GDRN",
+          "url": "https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "Par\u00edsarhj\u00f3l",
+      "url": "https://open.spotify.com/track/4qwv9bATC8vmRrK6EjCzcY"
     },
     {
       "album": {
@@ -19738,7 +19888,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -21874,7 +22024,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
@@ -23216,7 +23366,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -25192,6 +25342,36 @@
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
+    },
+    {
+      "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Yak Gotti",
+          "url": "https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226413,
+      "name": "Wit Da Racks (feat. 21 Savage, Travis Scott & Yak Gotti)",
+      "url": "https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG"
     },
     {
       "album": {

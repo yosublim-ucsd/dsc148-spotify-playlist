@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: なとり \*👉 <a href="https://spice.eplus.jp/articles/319483?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,490 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,545 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 45 | [ローリンローリン](https://open.spotify.com/track/4rBWt3KTydYDbYy4YQtK2l) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [ローリンローリン](https://open.spotify.com/album/0GR5GkWn2IcoNkUqlvwYFG) | 4:16 |
 | 46 | [恋セヨ乙女](https://open.spotify.com/track/0YV0aJFQ3ZZpzQsfaraaC8) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [恋セヨ乙女](https://open.spotify.com/album/47o2RFUP2cpmg5Nl1dBRFc) | 3:29 |
 | 47 | [Toumei na Nukumori](https://open.spotify.com/track/76QXx63Sqbf4WvyS0QtaM4) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [Risa Nakagawa](https://open.spotify.com/artist/35TXIIWvd5KWK5Y13cF8Hf) | [Toumei na Nukumori](https://open.spotify.com/album/7eElRimtFlrVjEx2a5ufXS) | 3:17 |
-| 48 | [Meiteika](https://open.spotify.com/track/4Jfy4KEi4H0YX0dyvaQDk5) | [あすくーる](https://open.spotify.com/artist/4mtzJEsnw8kOF6zmxYatok), [NATSUMI](https://open.spotify.com/artist/7DCltfdFTL9tQFRM9KXPuz), [あらの](https://open.spotify.com/artist/1lbHbxaaPWLNcAfYaxyVZy) | [Meiteika](https://open.spotify.com/album/1Bg08HJ6DV7pyJPRk9OWXS) | 3:07 |
+| 48 | [Meiteika](https://open.spotify.com/track/4Jfy4KEi4H0YX0dyvaQDk5) | [あすくーる](https://open.spotify.com/artist/4mtzJEsnw8kOF6zmxYatok), [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [あらの](https://open.spotify.com/artist/1lbHbxaaPWLNcAfYaxyVZy) | [Meiteika](https://open.spotify.com/album/1Bg08HJ6DV7pyJPRk9OWXS) | 3:07 |
 | 49 | [Uptown](https://open.spotify.com/track/1kOZ0LYc74VXcCBAm9OJbk) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Uptown](https://open.spotify.com/album/5tK5ucMwXHQQ6rv45J7ijl) | 3:52 |
 | 50 | [World](https://open.spotify.com/track/2sNz1tEFJPKMQ6CwCbimnj) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [清水玲奈](https://open.spotify.com/artist/2O9kfVGkj9jOmL0wQCPKB6) | [World](https://open.spotify.com/album/6urOBqRnPXWoTguc9KDjeF) | 3:38 |
 | 51 | [Yozora ni Kaita Monogatari \- Shingo Sekiguchi Remix](https://open.spotify.com/track/0CDGFfMNNzpSybTmiHjzbk) | [TSUNEI](https://open.spotify.com/artist/1rUtl21wu1ki1FFYHyrJcw), [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Yozora ni Kaita Monogatari \(Shingo Sekiguchi Remix\)](https://open.spotify.com/album/7lG5yqZ5MXUm7LWd79edvi) | 4:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 |
 | 80 | [Resurrection](https://open.spotify.com/track/5XN0kWzHcR5hkTdBrNVb63) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Resurrection](https://open.spotify.com/album/5ffQ02f66AteDcj4FVYZ6S) | 3:26 |
 
-Snapshot ID: `MCwzMzEzNTI4YzFhNTc1MzEzMWRmOGIwZDU5YzA1ZDVhOGI5MzM4YmVl`
+Snapshot ID: `MCw3MjJkMzYzOWIxNDY0NjBhMTA3NTdkMzAwYTQ0ZDBlYmEyN2UzMDdm`

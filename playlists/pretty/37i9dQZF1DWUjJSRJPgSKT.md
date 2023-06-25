@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,220 likes - 100 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,317 likes - 100 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 12 | [Bloomdido \- Master Take](https://open.spotify.com/track/2qkDwUvGAQcxqHWsguEbXV) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Bird And Diz: The Genius Of Charlie Parker \#4](https://open.spotify.com/album/7LVNnSl6UhjkLepWoPLqg1) | 3:25 |
 | 13 | [Mosaic \- 2005 Remaster](https://open.spotify.com/track/7fX1jZuluhiOhVx5HKzIBA) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Mosaic \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0ROzOHhkPnjLnHFLJ49Xco) | 8:13 |
 | 14 | [With A Song In My Heart \- Remastered 1998](https://open.spotify.com/track/1f7EWS1kruAco1sc1W614Q) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Sonny's Crib](https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA) | 7:55 |
-| 15 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
-| 16 | [Inception](https://open.spotify.com/track/1Dy1zTcsjdsd6JUVNBLC3R) | [McCoy Tyner Trio](https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p) | [Inception](https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK) | 4:28 |
+| 15 | [Inception](https://open.spotify.com/track/1Dy1zTcsjdsd6JUVNBLC3R) | [McCoy Tyner Trio](https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p) | [Inception](https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK) | 4:28 |
+| 16 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
 | 17 | [Two Bass Hit \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/0DtEf3aHfOgaCFJQO98x0c) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 5:10 |
 | 18 | [Au Privave](https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Sonny Stitt Sits In With The Oscar Peterson Trio](https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu) | 3:59 |
 | 19 | [Moment's Notice \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/3TnqliDSJY2iWjL6F38ocE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 9:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 99 | [Oleo](https://open.spotify.com/track/1kSoWg2hMVklqtngOba5sK) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Oleo](https://open.spotify.com/album/1vrL33aprfuGToazTDUeie) | 3:14 |
 | 100 | [Ping Pong](https://open.spotify.com/track/1cjVMCYoLlzZ6AeC6fUvZJ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Roots And Herbs](https://open.spotify.com/album/6CZhhfK5gP6KOucByv9Hiy) | 7:06 |
 
-Snapshot ID: `MCxjODlkNjEyZWI5ZjVlODBkNjUyODAwN2M4ODQwN2IyMzBjZmNhOTRi`
+Snapshot ID: `MCxjMWM3ODY0NTJkOTQ0YzBjNGQ1OTUyMGIyNDQxNjlmNjhlY2I5MmVk`

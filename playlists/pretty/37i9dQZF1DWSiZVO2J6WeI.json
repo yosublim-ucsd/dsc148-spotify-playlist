@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 771308,
+  "num_followers": 771356,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTE3YmRmMzc3Yzc0ZjVkNmM2YTlmNjA1NzZlOTY4OGViMjNmMmMx",
+  "snapshot_id": "MCxkOWQyNGZjOWZhZmFjNmIzOGY1NDc5YzA0ZWQ2MmI5ZmQzYTYxZmU3",
   "tracks": [
     {
       "added_at": "2023-06-23 15:35:38",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Peaceful Illusions",
-        "url": "https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X"
-      },
-      "artists": [
-        {
-          "name": "Astron",
-          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
-        }
-      ],
-      "duration_ms": 177875,
-      "name": "Shapes of Solitude",
-      "url": "https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Begynnelse",
         "url": "https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Laze",
-        "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
+        "name": "Peaceful Illusions",
+        "url": "https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X"
       },
       "artists": [
         {
-          "name": "Aileen Morais",
-          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
+          "name": "Astron",
+          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Stillness",
-      "url": "https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM"
+      "duration_ms": 177875,
+      "name": "Shapes of Solitude",
+      "url": "https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -763,6 +747,22 @@
       "duration_ms": 163437,
       "name": "Cloudbed",
       "url": "https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Laze",
+        "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
+      },
+      "artists": [
+        {
+          "name": "Aileen Morais",
+          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Yoga Meditation",
-        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
-      },
-      "artists": [
-        {
-          "name": "Zen Wuan",
-          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
-        }
-      ],
-      "duration_ms": 163730,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Luminescence",
         "url": "https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 128764,
       "name": "Luminescence",
       "url": "https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Yoga Meditation",
+        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
+      },
+      "artists": [
+        {
+          "name": "Zen Wuan",
+          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
+        }
+      ],
+      "duration_ms": 163730,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Lakshmi",
-        "url": "https://open.spotify.com/album/66lkSZN2o3CNRmCzbzRSTg"
-      },
-      "artists": [
-        {
-          "name": "Lake Melville",
-          "url": "https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Rekha",
-      "url": "https://open.spotify.com/track/4qrNoVMU8gN61AQqU3e13U"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Painted Illusions",
         "url": "https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP"
+        "name": "Lakshmi",
+        "url": "https://open.spotify.com/album/66lkSZN2o3CNRmCzbzRSTg"
       },
       "artists": [
         {
-          "name": "The Destination",
-          "url": "https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w"
+          "name": "Lake Melville",
+          "url": "https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG"
         }
       ],
-      "duration_ms": 185769,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL"
+      "duration_ms": 181800,
+      "name": "Rekha",
+      "url": "https://open.spotify.com/track/4qrNoVMU8gN61AQqU3e13U"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1339,6 +1323,22 @@
       "duration_ms": 184018,
       "name": "Sv\u00e4var Fritt",
       "url": "https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP"
+      },
+      "artists": [
+        {
+          "name": "The Destination",
+          "url": "https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w"
+        }
+      ],
+      "duration_ms": 185769,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Awakened",
-        "url": "https://open.spotify.com/album/3WRhawwvVoG5leL75BKKbV"
+        "name": "Release",
+        "url": "https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y"
       },
       "artists": [
         {
-          "name": "The Deep Sleep Scientists",
-          "url": "https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR"
+          "name": "Ani",
+          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
         }
       ],
-      "duration_ms": 180116,
-      "name": "Awakened",
-      "url": "https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ"
+      "duration_ms": 168214,
+      "name": "Cesia",
+      "url": "https://open.spotify.com/track/3NYD79ZpaiUlaqBpfE4UvT"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y"
+        "name": "Awakened",
+        "url": "https://open.spotify.com/album/3WRhawwvVoG5leL75BKKbV"
       },
       "artists": [
         {
-          "name": "Ani",
-          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
+          "name": "The Deep Sleep Scientists",
+          "url": "https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR"
         }
       ],
-      "duration_ms": 168214,
-      "name": "Cesia",
-      "url": "https://open.spotify.com/track/3NYD79ZpaiUlaqBpfE4UvT"
+      "duration_ms": 180116,
+      "name": "Awakened",
+      "url": "https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Determination",
-        "url": "https://open.spotify.com/album/1cB2QlGYVGTHeqNuibnlHt"
-      },
-      "artists": [
-        {
-          "name": "JNUARY",
-          "url": "https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Determination",
-      "url": "https://open.spotify.com/track/20pBeapTd5bksxa4QZqvcR"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Tallkrona",
         "url": "https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 259200,
       "name": "Tallkrona",
       "url": "https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Determination",
+        "url": "https://open.spotify.com/album/1cB2QlGYVGTHeqNuibnlHt"
+      },
+      "artists": [
+        {
+          "name": "JNUARY",
+          "url": "https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Determination",
+      "url": "https://open.spotify.com/track/20pBeapTd5bksxa4QZqvcR"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Constelaciones",
-        "url": "https://open.spotify.com/album/0f3JsS5uJrWYW8gINPLSe1"
-      },
-      "artists": [
-        {
-          "name": "Universo",
-          "url": "https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N"
-        }
-      ],
-      "duration_ms": 220286,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/0REl0m4yaSf1YJFFU5M3Q7"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Deep Sleep",
         "url": "https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 216674,
       "name": "Evolving Dreams",
       "url": "https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Constelaciones",
+        "url": "https://open.spotify.com/album/0f3JsS5uJrWYW8gINPLSe1"
+      },
+      "artists": [
+        {
+          "name": "Universo",
+          "url": "https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N"
+        }
+      ],
+      "duration_ms": 220286,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/0REl0m4yaSf1YJFFU5M3Q7"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Moonchild's First Flight",
-        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
-      },
-      "artists": [
-        {
-          "name": "Amos Stremann",
-          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
-        }
-      ],
-      "duration_ms": 172372,
-      "name": "Moonchild's First Flight",
-      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Sea Angel",
         "url": "https://open.spotify.com/album/4q4aGzy6knPh2apjwaFDQY"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 208701,
       "name": "Sea Angel",
       "url": "https://open.spotify.com/track/2ZC9pIlwUXquQDWRcsCtKp"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Moonchild's First Flight",
+        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
+      },
+      "artists": [
+        {
+          "name": "Amos Stremann",
+          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
+        }
+      ],
+      "duration_ms": 172372,
+      "name": "Moonchild's First Flight",
+      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "In a Charming Dream",
-        "url": "https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk"
-      },
-      "artists": [
-        {
-          "name": "Sergei Andreyev",
-          "url": "https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R"
-        }
-      ],
-      "duration_ms": 194655,
-      "name": "You've Sent Me Peace",
-      "url": "https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "396 Hz Peace and Tranquility",
         "url": "https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 181500,
       "name": "396 Hz Peace and Tranquility",
       "url": "https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "In a Charming Dream",
+        "url": "https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk"
+      },
+      "artists": [
+        {
+          "name": "Sergei Andreyev",
+          "url": "https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R"
+        }
+      ],
+      "duration_ms": 194655,
+      "name": "You've Sent Me Peace",
+      "url": "https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Angel Wings",
-        "url": "https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4"
-      },
-      "artists": [
-        {
-          "name": "Dayonas Dream",
-          "url": "https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/1jap0U96d4528KaolN2nnz"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Scarr",
         "url": "https://open.spotify.com/album/1JKjLE5sVSxSIevJoF926D"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 259200,
       "name": "Erase",
       "url": "https://open.spotify.com/track/6f4cBWeUGOtO7WFxxt35j3"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Angel Wings",
+        "url": "https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4"
+      },
+      "artists": [
+        {
+          "name": "Dayonas Dream",
+          "url": "https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1jap0U96d4528KaolN2nnz"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
+        "name": "Intergalactic",
+        "url": "https://open.spotify.com/album/2KnSiN6Iqp0CIdsMHu9L4P"
+      },
+      "artists": [
+        {
+          "name": "Yuio Zah",
+          "url": "https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf"
+        }
+      ],
+      "duration_ms": 180734,
+      "name": "Celestial Orbit",
+      "url": "https://open.spotify.com/track/7leBQCu78Elq3ersWc8HWE"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
         "name": "Bertrand of the Ringing",
         "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 165891,
       "name": "isolation",
       "url": "https://open.spotify.com/track/7uB64dVoDwxbMCdeEqEl1Q"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
-        "name": "Intergalactic",
-        "url": "https://open.spotify.com/album/2KnSiN6Iqp0CIdsMHu9L4P"
-      },
-      "artists": [
-        {
-          "name": "Yuio Zah",
-          "url": "https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf"
-        }
-      ],
-      "duration_ms": 180734,
-      "name": "Celestial Orbit",
-      "url": "https://open.spotify.com/track/7leBQCu78Elq3ersWc8HWE"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
+        "name": "Obelus",
+        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
+      },
+      "artists": [
+        {
+          "name": "Jin Eun-Kyung",
+          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
+        }
+      ],
+      "duration_ms": 203728,
+      "name": "Frozen In Time",
+      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
         "name": "Nuee",
         "url": "https://open.spotify.com/album/2A87JyHOupQKp7kbWllfdz"
       },
@@ -2427,22 +2443,6 @@
       "duration_ms": 180624,
       "name": "Stream Of Consciousness",
       "url": "https://open.spotify.com/track/2OcirqlSNj6JgEfqp3FrdV"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
-        "name": "Obelus",
-        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
-      },
-      "artists": [
-        {
-          "name": "Jin Eun-Kyung",
-          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
-        }
-      ],
-      "duration_ms": 203728,
-      "name": "Frozen In Time",
-      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Understanding Yourself",
-        "url": "https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ"
-      },
-      "artists": [
-        {
-          "name": "Mikael Arvo",
-          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Deep Contemplation",
-      "url": "https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Brise Apaisante",
         "url": "https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 201219,
       "name": "Brise Apaisante",
       "url": "https://open.spotify.com/track/3rgjUiX4rTOeAR2yNyIUjo"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Understanding Yourself",
+        "url": "https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ"
+      },
+      "artists": [
+        {
+          "name": "Mikael Arvo",
+          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
+        }
+      ],
+      "duration_ms": 228961,
+      "name": "Deep Contemplation",
+      "url": "https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Faust",
-        "url": "https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo"
-      },
-      "artists": [
-        {
-          "name": "Smith/Hill",
-          "url": "https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Faust",
-      "url": "https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Enlightened",
         "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
       },
@@ -2639,18 +2623,18 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Into Your Hands",
-        "url": "https://open.spotify.com/album/7E9kkPd8SwH4aLlcsWLgHN"
+        "name": "Faust",
+        "url": "https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo"
       },
       "artists": [
         {
-          "name": "We Dream of Eden",
-          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+          "name": "Smith/Hill",
+          "url": "https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Over Oceans",
-      "url": "https://open.spotify.com/track/70sv8NcAIJoPsBStnKe61w"
+      "duration_ms": 138181,
+      "name": "Faust",
+      "url": "https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -2667,6 +2651,22 @@
       "duration_ms": 170624,
       "name": "Incondizionatamente",
       "url": "https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Into Your Hands",
+        "url": "https://open.spotify.com/album/7E9kkPd8SwH4aLlcsWLgHN"
+      },
+      "artists": [
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Over Oceans",
+      "url": "https://open.spotify.com/track/70sv8NcAIJoPsBStnKe61w"
     },
     {
       "added_at": "2023-06-23 15:35:38",

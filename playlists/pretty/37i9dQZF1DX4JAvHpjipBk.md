@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Nicki Minaj & Ice Spice, Peso Pluma, Young Thug & Drake, Coi Leray, Anitta and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,124,771 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,125,274 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Cherub](https://open.spotify.com/track/50WYoOH9qyAUQmsgn7bdT5) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Sewer Rat](https://open.spotify.com/album/5ct3lmfTmWd2MRgxsF6LHJ) | 2:39 |
 | 100 | [Rock On \- Spotify Singles \- From "The Muppets Mayhem"](https://open.spotify.com/track/6vwxGKQc5AWeV04dYQ9Ev2) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [Rock On \- Spotify Singles \(From "The Muppets Mayhem"\)](https://open.spotify.com/album/6H66bjvFnbFOnzkCstWJup) | 3:20 |
 
-Snapshot ID: `MCw3NjA4NDg3ZGJmN2ViYTJlNmZmMzA0MTQ2ODdhZDI3NzY3ODg2ZDlm`
+Snapshot ID: `MCw2ZWI5OTc0NWMwNzI3ZjQ3NTVkNzc4Y2U4OTBjZmYyNzUxOTgwNGUx`

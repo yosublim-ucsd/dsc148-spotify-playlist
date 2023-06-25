@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Anthony Hervey Artwork: Joy Yamusangie
 
-1,166 songs - 3 day 21 hr 9 min
+1,167 songs - 3 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Conspiring With Nature](https://open.spotify.com/track/58nZ8rUpXJ48ACRkGffolV) | [Badge Époque Ensemble](https://open.spotify.com/artist/08E0CO6MC1ykoQP5VQt4hL) | [Conspiring With Nature](https://open.spotify.com/album/0iSXL4RzF6MZfQSaajNmxW) | 7:12 | 2022-07-13 | 2022-08-11 |
 | [Constant Vacillation](https://open.spotify.com/track/3J9RmqaC9QrSbGvUoJLbXU) | [Phillip Dornbuschs Projektor](https://open.spotify.com/artist/784qF4tCaf6i2Ry59SG4mk), [Phillip Dornbusch](https://open.spotify.com/artist/6t72xraCq8QnZxzoaiBrmL), [Johanna Summer](https://open.spotify.com/artist/0Zx06mGEXdxz7NyRKtRy7V), [Johannes Mann](https://open.spotify.com/artist/3i0MIjxoRi3GxvmMTToI9K), [Philip Dornbusch](https://open.spotify.com/artist/54TQEM9rmDtbxsJ82ErYkj), [Roger Kintopf](https://open.spotify.com/artist/1H0KjWfOU9280ZaxzPcXf8) | [Re\|construct](https://open.spotify.com/album/7lopMJoLsCzgJ65aivW2ey) | 6:50 | 2023-04-19 | 2023-06-15 |
 | [constellations](https://open.spotify.com/track/1GCJZ0gIDc4XtWco9Jp9fA) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [constellations](https://open.spotify.com/album/3tXcqoG6fMJQciSTv0wGGC) | 3:31 | 2023-03-01 | 2023-03-16 |
-| [Convent Court](https://open.spotify.com/track/44paiDTjnjl4BMYfRxOKio) | [Alex Weitz](https://open.spotify.com/artist/6lQ6kYKqnZIG6gy30EzOw8), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Rule of Thirds](https://open.spotify.com/album/3xSa7hmC7qWcPRfM8mgXbk) | 6:15 | 2023-05-03 |  |
+| [Convent Court](https://open.spotify.com/track/44paiDTjnjl4BMYfRxOKio) | [Alex Weitz](https://open.spotify.com/artist/6lQ6kYKqnZIG6gy30EzOw8), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Rule of Thirds](https://open.spotify.com/album/3xSa7hmC7qWcPRfM8mgXbk) | 6:15 | 2023-05-03 | 2023-06-25 |
+| [Convent Court](https://open.spotify.com/track/7tpnbcsfipq4K59y4JhZFl) | [Alex Weitz](https://open.spotify.com/artist/6lQ6kYKqnZIG6gy30EzOw8), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Rule of Thirds](https://open.spotify.com/album/0T9BQmmADgRH8eeV6IkUJI) | 6:15 | 2023-05-03 |  |
 | [Corner of Memories](https://open.spotify.com/track/29gW43okMTzFR6P9g0yi41) | [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m), [Milye](https://open.spotify.com/artist/27KnUptbEwPYfjC1KMKK9P), [flywilliums](https://open.spotify.com/artist/7uhWdP3433h56j0KPmadTF), [Woojinee](https://open.spotify.com/artist/5VrBgtUUMPP1yGE6mIPUNu) | [Corner of Memories](https://open.spotify.com/album/2o29BgF0bfW6uqazMyx0KS) | 3:12 | 2023-05-03 | 2023-06-15 |
 | [Coro das meninas](https://open.spotify.com/track/1j3uSY8OujuCI9ewjcjNEa) | [Eixo do Jazz Ensemble](https://open.spotify.com/artist/2Alvq2JXwIr84Q5eD1T7Cg), [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Eixo do Jazz Ensemble Meets Mário Laginha](https://open.spotify.com/album/4N6GJRwFB6xoMP0rT5stWl) | 8:02 | 2022-11-09 | 2023-02-02 |
 | [Corridue](https://open.spotify.com/track/1qgaNwx2A6vihmUY97ELup) | [Stan van Dijk](https://open.spotify.com/artist/25GV3gaaXXUYzESF1TiNFS) | [Corridue](https://open.spotify.com/album/3C6tGMTruV3e6wABuGS2pt) | 2:40 | 2023-04-26 |  |

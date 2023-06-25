@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Sezairi
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,372 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,379 likes - 101 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 92 | [red shifted](https://open.spotify.com/track/3TXJruEwtCuWj6aJJZgfs5) | [Jennifer Tee](https://open.spotify.com/artist/7gVbYtrrCyYLzj48No9W9S) | [red shifted](https://open.spotify.com/album/5oni8uE3HQJUvur7ws0jjH) | 3:48 |
 | 93 | [Oh Bob](https://open.spotify.com/track/42esXDlrZgK4EMhwsLjBhd) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Way out](https://open.spotify.com/album/4ebUiIXxTDyS9LhtItkPRj) | 3:10 |
 | 94 | [Ending Fairy](https://open.spotify.com/track/66uWx5UFjIR7VmnqQ2YX0x) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Ending Fairy](https://open.spotify.com/album/2LOL3OgncHJQCLYubXQrAB) | 3:19 |
-| 95 | [Feels Like Home](https://open.spotify.com/track/7oxBqKaMhXexOEpSYjlgoE) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Feels Like Home](https://open.spotify.com/album/2SAK1eWgzPJp9GhJDNK32v) | 3:37 |
-| 96 | [Same Melody](https://open.spotify.com/track/7nU2dUAcy4neKu5v6wNVeJ) | [ABOY](https://open.spotify.com/artist/67Cl557uIp08IkVBI79Wub) | [Same Melody](https://open.spotify.com/album/1BGBTl1TnZkDphmxyU7j9y) | 3:58 |
-| 97 | [Bump Chance](https://open.spotify.com/track/7s9kXjvE8tnNaAckDB7Qog) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [don't you go running off now](https://open.spotify.com/album/4sazwDC5NcUnWufKAVMlDR) | 3:03 |
-| 98 | [23 \(Too Deep, Too Much\)](https://open.spotify.com/track/31fAGtmvKBM2e86zzWtd5g) | [Kalya Islamadina](https://open.spotify.com/artist/1DayT5WZ713uGDCbpmejfE) | [23 \(Too Deep, Too Much\)](https://open.spotify.com/album/3LKZjzbsogFZhhlFskYZQH) | 4:23 |
-| 99 | [STUFF IM DEALIN WITH](https://open.spotify.com/track/2e3vf9LaqijmrqK4AJbSmL) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [STUFF IM DEALIN WITH](https://open.spotify.com/album/2ZMiTkSDgvLWth7ioSPacp) | 2:41 |
-| 100 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
+| 95 | [summ′ time](https://open.spotify.com/track/0HoUT7nfaH4cKRcLFZhLsp) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [snooze](https://open.spotify.com/album/06t8UHjtA6iKZ4R9DLDefx) | 2:34 |
+| 96 | [Feels Like Home](https://open.spotify.com/track/7oxBqKaMhXexOEpSYjlgoE) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Feels Like Home](https://open.spotify.com/album/2SAK1eWgzPJp9GhJDNK32v) | 3:37 |
+| 97 | [Same Melody](https://open.spotify.com/track/7nU2dUAcy4neKu5v6wNVeJ) | [ABOY](https://open.spotify.com/artist/67Cl557uIp08IkVBI79Wub) | [Same Melody](https://open.spotify.com/album/1BGBTl1TnZkDphmxyU7j9y) | 3:58 |
+| 98 | [Bump Chance](https://open.spotify.com/track/7s9kXjvE8tnNaAckDB7Qog) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [don't you go running off now](https://open.spotify.com/album/4sazwDC5NcUnWufKAVMlDR) | 3:03 |
+| 99 | [23 \(Too Deep, Too Much\)](https://open.spotify.com/track/31fAGtmvKBM2e86zzWtd5g) | [Kalya Islamadina](https://open.spotify.com/artist/1DayT5WZ713uGDCbpmejfE) | [23 \(Too Deep, Too Much\)](https://open.spotify.com/album/3LKZjzbsogFZhhlFskYZQH) | 4:23 |
+| 100 | [STUFF IM DEALIN WITH](https://open.spotify.com/track/2e3vf9LaqijmrqK4AJbSmL) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [STUFF IM DEALIN WITH](https://open.spotify.com/album/2ZMiTkSDgvLWth7ioSPacp) | 2:41 |
+| 101 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
 
-Snapshot ID: `MCxjYzI1ZWE3ZTcxNWUxYTM2NGMxNjczNmUyNzllOWJjNzJhMDQ3ODVl`
+Snapshot ID: `MCxiMWY0ODlkNzMzZGY5NDcwNGM3YjQ3ODNmNDA1ZmQ5YzkyMjAyYzIx`

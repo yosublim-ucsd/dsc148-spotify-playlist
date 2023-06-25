@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 93449,
+  "num_followers": 93503,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTM0ODljNmRmNzY1MzhhYzMzOGM0MDcwZjg3YTBkMzVmYmUwMmU2",
+  "snapshot_id": "MCw3OGI5NGQ1YzcwOWU1ZmRkZjQ4NDIwM2E1Yzk2MDY4ZjNmN2E4YmZm",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "GLU",
-        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
         }
       ],
-      "duration_ms": 262711,
-      "name": "GLU",
-      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
+      "duration_ms": 268373,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+        "name": "GLU",
+        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
       },
       "artists": [
         {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 268373,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
+      "duration_ms": 262711,
+      "name": "GLU",
+      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "PHO EP",
-        "url": "https://open.spotify.com/album/1x6E0JYj6wKFHfZQFQCpnU"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 147106,
-      "name": "GOAT",
-      "url": "https://open.spotify.com/track/1MVpa4w2TsjgUoJxMRAP0Z"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Souled Out",
         "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 237573,
       "name": "The Pressure",
       "url": "https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "PHO EP",
+        "url": "https://open.spotify.com/album/1x6E0JYj6wKFHfZQFQCpnU"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 147106,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/1MVpa4w2TsjgUoJxMRAP0Z"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Juslisen (Special Edition)",
+        "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Previouscats",
+      "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Still Wonder",
         "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 238153,
       "name": "Still Wonder",
       "url": "https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Juslisen (Special Edition)",
-        "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Previouscats",
-      "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
     },
     {
       "added_at": "2023-05-19 03:01:00",

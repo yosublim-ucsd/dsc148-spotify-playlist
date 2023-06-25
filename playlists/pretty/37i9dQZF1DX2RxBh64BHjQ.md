@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2SJhf6rTOU53g8yBdAjPby">SoFaygo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,763,719 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,763,873 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [InstaKill](https://open.spotify.com/track/0mUAyevrsYZRUR3yVfyI3M) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [InstaKill](https://open.spotify.com/album/5fcZnOQoSBoiGaJ0qmZGtx) | 1:57 |
 | 100 | [How High](https://open.spotify.com/track/2JmEudsTs2PrGS7R7tWs8g) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [How High](https://open.spotify.com/album/5O5i4hqy4iJpSlzm5WGGIM) | 2:18 |
 
-Snapshot ID: `MCxhNjA0YzE5YTdkMmU5ZjYxYWY1ZjRhY2RlZjVlYTM0NmE3YTdkMDhi`
+Snapshot ID: `MCw4NmM1NTRlNzVjZDFlODEzYzczN2E3MTUxYmI3NDkzMjZhNTE2ZDAx`

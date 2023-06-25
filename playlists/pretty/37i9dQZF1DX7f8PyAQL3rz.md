@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > pode me chamar de 44, é o bonde da luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,638 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178,034 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 59 | [Mal Intencionada \(Já Foi, Já Era\)](https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Mal Intencionada \(Já Foi, Já Era\)](https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h) | 3:48 |
 | 60 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 |
 
-Snapshot ID: `MCxmOTNjMTY5M2I5NTc1YmE5MjA5YzAxOTVmNTg0MjlhMTAxMTI0ZGQ1`
+Snapshot ID: `MCxjZjE3MTQxNzk0NWVlNGRhZTRiYjM1M2I3YTJiYTgxMzM0OWNiZjM4`

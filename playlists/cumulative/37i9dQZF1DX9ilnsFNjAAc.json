@@ -1750,6 +1750,28 @@
     {
       "album": {
         "name": "Fight! Fight! Fight!",
+        "url": "https://open.spotify.com/album/7lmW7t7U1nrslagrfwCDiB"
+      },
+      "artists": [
+        {
+          "name": "Two Fingers",
+          "url": "https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS"
+        },
+        {
+          "name": "Ivy Lab",
+          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "Razzy Beat",
+      "url": "https://open.spotify.com/track/2Nzn2qw3LfLGq4prZZy6AB"
+    },
+    {
+      "album": {
+        "name": "Fight! Fight! Fight!",
         "url": "https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2"
       },
       "artists": [
@@ -1768,7 +1790,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 199040,
       "name": "Razzy Beat",
       "url": "https://open.spotify.com/track/6s6RtUrhYdOxJ70rNyCKh8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:7Ao4PRYc1rFAZVkr0FKnrt">INVERNO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,024 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,023 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [Nuove strade](https://open.spotify.com/track/6F5jyYks66HsPyNd97Hx3W) | [Volpe](https://open.spotify.com/artist/7GuHTwsqMwtZXGjBjGIeCP), [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Nuove strade](https://open.spotify.com/album/01d189ZaRUz1AYdof4RygQ) | 2:57 |
 | 55 | [Cose sparse](https://open.spotify.com/track/6BxbxL5mMXpHuoxlTedEHZ) | [sonosem](https://open.spotify.com/artist/6krFvHoGuJyMjcjeFZRc0P), [Paolo Bonfanti](https://open.spotify.com/artist/0QxGPL4XNUTxGrswh8iUEQ) | [Cose sparse](https://open.spotify.com/album/1t7Buqm7u4DTUlWXLOn3ui) | 3:06 |
 
-Snapshot ID: `MCw1YTQ1NTcwOTRjZjU5YmUxNzAzZmM1MTE4NjFmY2Q5MGZlZDIwNjFl`
+Snapshot ID: `MCxhMzJhOGUxYTIzZjQ4OWEwN2ZkY2M4OTU0NjQ0OWE1MGZkNjE3ZDI1`

@@ -2299,6 +2299,32 @@
     },
     {
       "album": {
+        "name": "Lemons",
+        "url": "https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8"
+      },
+      "artists": [
+        {
+          "name": "David Linard",
+          "url": "https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l"
+        },
+        {
+          "name": "Jackie West",
+          "url": "https://open.spotify.com/artist/6i2nxb8jZ6cmWzI7UkS7Np"
+        },
+        {
+          "name": "Adam Levy",
+          "url": "https://open.spotify.com/artist/3RHGiicVEm5Clr70D2O5dt"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249541,
+      "name": "Lemons",
+      "url": "https://open.spotify.com/track/0MT8gwmUQ24qxGFZ5ramXw"
+    },
+    {
+      "album": {
         "name": "Spark Bird",
         "url": "https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN"
       },
@@ -2608,7 +2634,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 283413,
       "name": "Mr. Bojangles",
       "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"

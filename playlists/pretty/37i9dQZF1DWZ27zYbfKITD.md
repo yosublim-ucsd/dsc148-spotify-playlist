@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,635 likes - 77 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,723 likes - 77 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 76 | [The Last Samurai Suite: Part 1 \- Live](https://open.spotify.com/track/4SrsN2NYSHcf7cYsW6IKvy) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [The Disruptive Collective](https://open.spotify.com/artist/0oMhzz3sH8FqeezbdI3yAm) | [The Last Samurai Suite](https://open.spotify.com/album/2cLdbyLtYoDd6cIgXJVHI3) | 2:56 |
 | 77 | [Song of Healing](https://open.spotify.com/track/1BjgY1mNtSRniRqrYbP8i1) | [Laurence Manning](https://open.spotify.com/artist/4pS3AwZi3Nd0klW5yEE1Le), [Daphnée Sincennes Richard](https://open.spotify.com/artist/4NCw6JwOxucMAXdCQJATQ0), [Lou Dunand\-Vincent](https://open.spotify.com/artist/3vwfNOzpHeV0s5R4owSQ3E) | [Trio of the Goddesses](https://open.spotify.com/album/6rls52uHTGGcbYRIXcUnfv) | 4:32 |
 
-Snapshot ID: `MCw2MDAwMDIwYzRlNTQ5Mjk1MzIzNTVmZGE0NmM1M2NjNDg3NDZkMzhi`
+Snapshot ID: `MCxhMWVhMzcwZjc5MDg5ZGM0ZThkNTUyY2E1MjQzMDI1ZmI4Nzc3MjZh`

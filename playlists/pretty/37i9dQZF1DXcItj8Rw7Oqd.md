@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcItj8Rw7Oqd.md) - [plain]
 
 > Pop x Rock\. Cover: PVRIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,189 likes - 78 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,203 likes - 78 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcItj8Rw7Oqd.md) - [plain]
 | 77 | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/track/3PgrntbrI5racVaswTt6Ms) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/album/5itvLffAqxFdNjEmbtPMvo) | 3:09 |
 | 78 | [Unstoppable \- Clarence Clarity Remix](https://open.spotify.com/track/3sW9OEBnSiXDsImhpdTett) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Clarence Clarity](https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62) | [Unstoppable \(Clarence Clarity Remix\)](https://open.spotify.com/album/6Se0Auz6TJwAsSdAgI3QhR) | 3:47 |
 
-Snapshot ID: `MCw2YzlmNzY3NGYwNGFlN2E2MDc5ZjlkMDU0OWZiZDRhMGFiOWQwMGQw`
+Snapshot ID: `MCw2MTRhNjc5NWI3MTE3YmU3NjJmNmU0YzUwOWNkODFlODliODEwYTMz`

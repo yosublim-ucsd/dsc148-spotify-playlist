@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Dabin.
 
-381 songs - 22 hr 56 min
+382 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [On Air](https://open.spotify.com/track/5c6dqKOdbyDFvJ43vSQBxO) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:57 | 2022-08-26 | 2023-03-04 |
 | [One Day at a Time](https://open.spotify.com/track/4sg2czxO15zhMn1scUXPIL) | [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH), [Ridley Slim](https://open.spotify.com/artist/2V3Mbx5L6Lg6Aa2XHR5RBD) | [One Day at a Time](https://open.spotify.com/album/5AioSc4f4taFEkN7l41W7Q) | 3:46 | 2022-07-29 | 2023-06-22 |
 | [One More Day](https://open.spotify.com/track/7x2vtZvaaFt6zR4QJDWPEO) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [One More Day](https://open.spotify.com/album/1jZ5R2hLK3Q7I9MdNiVTMp) | 3:55 | 2022-07-08 | 2022-12-04 |
+| [One Time](https://open.spotify.com/track/4OqJ2AncNhhIyI3oCBYktq) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [One Time](https://open.spotify.com/album/2m0tPdS8lzYnZulyV0DoXB) | 2:58 | 2023-06-23 |  |
 | [Only One I Need](https://open.spotify.com/track/5tqjt07Jes01AokedrhRtQ) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Thomas Laurent](https://open.spotify.com/artist/5tIz2pifqzGGWEDKOrrmoE) | [Only One I Need](https://open.spotify.com/album/51zRMRepdEFgOELmZtUMIL) | 3:26 | 2022-07-08 | 2022-08-27 |
 | [Open My Heart](https://open.spotify.com/track/0itXMRXrP6dDRf5cYeEtKc) | [Ray Le Fanue](https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Open My Heart](https://open.spotify.com/album/6HIOUdfFfge3rEJLoQEijw) | 2:51 | 2022-07-08 | 2022-07-28 |
 | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/track/5OWt21Fcte8qlNuf9r0fVI) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Rico & Miella](https://open.spotify.com/artist/6F4KRaTnwZ3ttUYpdo45C8) | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/album/3sEy4cNtbtNuXY6fwAo5kE) | 3:27 | 2022-07-08 | 2022-08-13 |
@@ -273,7 +274,7 @@
 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-07-08 |  |
 | [Reach Across the Sky](https://open.spotify.com/track/6ocYRs6L5GSEOMlveJg5LA) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Reach Across the Sky](https://open.spotify.com/album/3m44f4eq8s3vWty22nJhtB) | 3:22 | 2022-08-12 | 2023-04-14 |
 | [Reach Across the Sky \- Crystal Skies Remix](https://open.spotify.com/track/5xWYXEcB7FUX9IW7wMRG0h) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Reach Across the Sky \(Crystal Skies Remix\)](https://open.spotify.com/album/6779vm0VGvO5ml9E53dF3h) | 4:03 | 2023-01-13 | 2023-06-13 |
-| [Ready For Love](https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Ready For Love](https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK) | 2:42 | 2022-07-22 |  |
+| [Ready For Love](https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Ready For Love](https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK) | 2:42 | 2022-07-22 | 2023-06-25 |
 | [Remedy](https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Remedy](https://open.spotify.com/album/3mMcU2aGRcEgXqCtYDovzA) | 3:34 | 2022-11-28 |  |
 | [Remember](https://open.spotify.com/track/3kouAggxGgCP6xqAsztwrA) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Remember](https://open.spotify.com/album/6hbHTPEuTXHAq4eozGLw9y) | 3:07 | 2022-07-08 | 2022-10-01 |
 | [Renegade](https://open.spotify.com/track/0ciBdxlofdSf1AePCpXGVF) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Renegade](https://open.spotify.com/album/1QXFEHH8wWGzKFAOcuWsbd) | 4:45 | 2022-12-02 | 2023-04-29 |

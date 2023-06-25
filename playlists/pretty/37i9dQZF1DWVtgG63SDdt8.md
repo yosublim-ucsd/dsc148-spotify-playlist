@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS?si=28Wb3xvwRZ6Y0oDTCA4Ctg">Bridge Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,968 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,104 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Christ Be In My Heart](https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Christ Be In My Heart](https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L) | 4:48 |
 | 100 | [My Worth Is Not in What I Own](https://open.spotify.com/track/4I9E2g5Nw9RpzR9cgci5UQ) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [My Worth Is Not in What I Own](https://open.spotify.com/album/0mrY7V0AYmAMPup2GkdGpV) | 3:43 |
 
-Snapshot ID: `MCxkYmIwNDM1YWJiN2VlMDI2MTE3NTUxOGIzNGE3ZGNkNDA4OWIzODM1`
+Snapshot ID: `MCw2MjYyMjU3MTNmZDk5NjhiNjVlMzllNDUwMmI3YzEyMjdkY2EwMDQ3`

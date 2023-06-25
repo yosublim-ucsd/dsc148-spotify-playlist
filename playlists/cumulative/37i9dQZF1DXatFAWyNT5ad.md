@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Bishop Briggs
 
-622 songs - 1 day 8 hr 26 min
+623 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 | 2022-06-03 | 2022-06-26 |
 | [Break My Baby](https://open.spotify.com/track/5NnFkbEjahUGx5T3qxbNCW) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Want More / Break My Baby](https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY) | 4:25 | 2022-03-24 | 2023-03-25 |
 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 | 2022-03-24 | 2022-04-20 |
-| [Broken In All The Right Places](https://open.spotify.com/track/3iINQZKpmSMY2mkjLtlzYO) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [It's Not You, It's Me](https://open.spotify.com/album/4zsIydG84QRTBlDlXKn8dH) | 2:45 | 2022-03-17 |  |
+| [Broken In All The Right Places](https://open.spotify.com/track/3iINQZKpmSMY2mkjLtlzYO) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [It's Not You, It's Me](https://open.spotify.com/album/4zsIydG84QRTBlDlXKn8dH) | 2:45 | 2022-03-17 | 2023-06-25 |
 | [Bullets in the Dark \(feat\. MOD SUN\)](https://open.spotify.com/track/2FwhZ9LriLQ3oiRF4h1vJ1) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bullets in the Dark \(feat\. MOD SUN\)](https://open.spotify.com/album/7xlzTiOeRBSaprkz1YoKid) | 3:01 | 2022-03-17 | 2022-07-28 |
 | [Bury Us](https://open.spotify.com/track/4lOVXhEtawEzHtYE9exnoK) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Bury Us / Sunseeker](https://open.spotify.com/album/35DlFe93HNKF9WLsZ9rd0F) | 3:09 | 2022-03-24 | 2022-04-11 |
 | [C'MON \(feat\. Travis Barker\)](https://open.spotify.com/track/1EXNyTN6Ux1sIuea1R8GqE) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [C'MON \(feat\. Travis Barker\)](https://open.spotify.com/album/3i16WXOYEYO0v6kA1KfeAb) | 3:40 | 2022-03-24 | 2022-04-02 |
@@ -283,6 +283,7 @@
 | [I Don't Cry When I'm High](https://open.spotify.com/track/7y3GeOjLhoDCDcVndW1Ubl) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:44 | 2022-11-03 | 2022-11-12 |
 | [I Don't Cry When I'm High](https://open.spotify.com/track/3HIgZczBhbuSBLEkolSNk2) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [I Don't Cry When I'm High](https://open.spotify.com/album/0kIKiBWuyajSSjoGxL7PhU) | 2:44 | 2022-08-15 | 2022-11-09 |
 | [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 | 2022-07-07 | 2022-08-07 |
+| [I Hope I'm Not Sick](https://open.spotify.com/track/6VhW4SEd95xRlRKZbkQRGh) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [I Hope I'm Not Sick](https://open.spotify.com/album/6bCQByW20neZO3EAjsTU1D) | 2:31 | 2023-06-23 |  |
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2022-03-17 | 2023-03-18 |
 | [I Like It](https://open.spotify.com/track/6cp6fkCPOy1a58TawF2wRl) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [I Like It](https://open.spotify.com/album/5AspCQiOmN7yTWOVz5sxYu) | 3:13 | 2022-03-24 | 2022-04-18 |
 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 | 2023-03-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ferrugem e Luísa Sonza, Anitta, Elza Soares, Zé Neto e Cristiano e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,883,905 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,884,470 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 8 | [No Tempo da Intolerância](https://open.spotify.com/track/2GY2ilbruCbGkeyRKQL7yB) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [No Tempo da Intolerância](https://open.spotify.com/album/0zi3FiBTSw5ZL98oW4wEZV) | 2:50 |
 | 9 | [NOSSA DISTÂNCIA](https://open.spotify.com/track/05SFaPdKyB3LEnAVomIN3y) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [NOSSA DISTÂNCIA](https://open.spotify.com/album/74efIehA5YZ88IIkLqaupW) | 2:36 |
 | 10 | [Bunda de Io Io](https://open.spotify.com/track/6I402o3gEiVWrWmDJTxvGj) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Bunda de Io Io](https://open.spotify.com/album/7yRO507LTtVAURkb60my1X) | 2:49 |
-| 11 | [Libera A Pressão](https://open.spotify.com/track/1XbEcV9RjfGy3nUoya9yvA) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Libera A Pressão](https://open.spotify.com/album/3gMEKirJ3O9aHoZCxUSkeK) | 2:00 |
+| 11 | [Libera a Pressão](https://open.spotify.com/track/1XbEcV9RjfGy3nUoya9yvA) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Libera a Pressão](https://open.spotify.com/album/3gMEKirJ3O9aHoZCxUSkeK) | 2:00 |
 | 12 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
 | 13 | [SWINE](https://open.spotify.com/track/5Fl7K6enaM7IDuOkmdbdXg) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SWINE](https://open.spotify.com/album/25TrMACZ5mWFn9r1q7qaY3) | 2:46 |
 | 14 | [Terror da Cidade](https://open.spotify.com/track/6YYCK0t9NAz1p7cXLe4xqL) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Terror da Cidade](https://open.spotify.com/album/3Y5GTDoyf5CiaDIwlYOYWF) | 3:06 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 87 | [Baby Cê Tá Diferente](https://open.spotify.com/track/1LsEtue1DeaX5sdcPZbWS1) | [Igor Guerra](https://open.spotify.com/artist/5jNqHYD9HhdWc1wotlrBQo) | [Baby Cê Tá Diferente](https://open.spotify.com/album/25QhlpaA2PThq2Jo4fdAWi) | 3:31 |
 | 88 | [Mala](https://open.spotify.com/track/0CurrNwuK7r4bA3rvqEFpQ) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe) | [Mala](https://open.spotify.com/album/1AsKFdBouuiyKrDl7b7Uyb) | 2:58 |
 | 89 | [Magia](https://open.spotify.com/track/2dvPXUstjg81OAlx06pjB1) | [Morgado](https://open.spotify.com/artist/18PzCN6SSqd7FcS21URnnN), [LV](https://open.spotify.com/artist/6zpsBEhkNvcSFlt5x4jBmK), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [Pedro Toro](https://open.spotify.com/artist/2FHYFId438DDYQT3crCjvf) | [Magia](https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz) | 2:18 |
-| 90 | [Malícia](https://open.spotify.com/track/1td4UhTAsZyfnwU0XFoZUC) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC) | [Malícia](https://open.spotify.com/album/3MLKMxXM1qKYsJebA59ute) | 3:01 |
+| 90 | [Malícia](https://open.spotify.com/track/1td4UhTAsZyfnwU0XFoZUC) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Malícia](https://open.spotify.com/album/3MLKMxXM1qKYsJebA59ute) | 3:01 |
 | 91 | [Bounce](https://open.spotify.com/track/6bcjN31l2M7nddJMKBJbDN) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Bounce](https://open.spotify.com/album/07LPwkanZ1mDeR6QZZ1ixo) | 2:46 |
 | 92 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 |
 | 93 | [Shy Boy](https://open.spotify.com/track/6reL5LwIwHkDXcKff9ZbKV) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Shy Boy](https://open.spotify.com/album/5SfL9du7O2pG1q14UsegkA) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Cantar do Grilo](https://open.spotify.com/track/4fEd6B6qeVh5fz1lImhH88) | [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Alulu Paranhos](https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW) | [Pra Dançar Colada \(MangoLab conv\. Alulu Paranhos\)](https://open.spotify.com/album/65oy3xvu7a7bC7hbawTGRW) | 2:39 |
 | 100 | [Maldito Medo](https://open.spotify.com/track/6atSqj4VjdV5z9snjOfSLM) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot), [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [Maldito Medo](https://open.spotify.com/album/2fastvrlnmHnYa1j6ljx9C) | 2:59 |
 
-Snapshot ID: `MCwyZjAyYmExNzZmZGEwNmY2NGYwMGI5MjA1ZjdkZmUyYzhkOTYzYzE3`
+Snapshot ID: `MCxhMDU4ODlhOGUzYWFhOWM3Y2IxNzdlMTY5ZjFlZDlmMzQ2YzRkZjk3`

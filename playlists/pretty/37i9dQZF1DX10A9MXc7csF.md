@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Diferente Nivel
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,511 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,517 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [Falsas Palabras](https://open.spotify.com/track/3jGcnH4WfCUYjM0vxTh88Q) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Falsas Palabras](https://open.spotify.com/album/2uEdCtczwsa9RvpvBzsDmw) | 3:25 |
 | 60 | [3 Esquinas](https://open.spotify.com/track/0a5OYHthU9UqPSEl6p7ZVC) | [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Nathan Torres](https://open.spotify.com/artist/6HVvidzUxBK2991pMtsegB), [Sammy G](https://open.spotify.com/artist/6n4jWB2SCDA59vsUlp8Mc1) | [3 Esquinas](https://open.spotify.com/album/7JvIZjiFovHSAjELYT1lbU) | 3:39 |
 
-Snapshot ID: `MCxlNzUxZjU0NGUyNmUzZDNlZTIxOTE3NTdmNWNiNjEzMTczMDQ2NWVh`
+Snapshot ID: `MCwzNDhjYmUzNDFjZjhmZGQyNWI2YzFiZDE1NjYyNzU5ZDRkZjgwOTYx`

@@ -197,6 +197,28 @@
     },
     {
       "album": {
+        "name": "Crashed The Wedding 2.0",
+        "url": "https://open.spotify.com/album/5GXTkl0pETPZJ0i2hlbWF9"
+      },
+      "artists": [
+        {
+          "name": "Busted",
+          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160186,
+      "name": "Crashed The Wedding 2.0",
+      "url": "https://open.spotify.com/track/4DuUOYH15hqgaewjLvBUzR"
+    },
+    {
+      "album": {
         "name": "Nothing Personal (Deluxe Version)",
         "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },

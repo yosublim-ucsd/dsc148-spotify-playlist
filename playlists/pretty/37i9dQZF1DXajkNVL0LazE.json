@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 64758,
+  "num_followers": 64884,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjRhYjJiN2Y1NWJlMjE4ODRkYmNkOWU2YzNjNGUyNTA3MWVkNjAx",
+  "snapshot_id": "MCxhZGJjNjhiZjk1MGIwN2I0ZTljODBlN2NjN2Y4NWNmMTU3Njk0MTQ4",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 374640,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Middle Cyclone",
         "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 199226,
       "name": "This Tornado Loves You",
       "url": "https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 374640,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "The Felice Brothers",
+        "url": "https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT"
+      },
+      "artists": [
+        {
+          "name": "The Felice Brothers",
+          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
+        }
+      ],
+      "duration_ms": 246146,
+      "name": "Frankie's Gun!",
+      "url": "https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Michigan",
         "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Felice Brothers",
-        "url": "https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT"
+        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
       },
       "artists": [
         {
-          "name": "The Felice Brothers",
-          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
         }
       ],
-      "duration_ms": 246146,
-      "name": "Frankie's Gun!",
-      "url": "https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP"
+      "duration_ms": 316506,
+      "name": "Star Witness",
+      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "Star Witness",
-      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "All Hail West Texas (Remastered)",
         "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Midnight Organ Fight",
-        "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 333026,
-      "name": "Keep Yourself Warm",
-      "url": "https://open.spotify.com/track/5P9mYadNNzRuDo49cKpBNs"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Hello Starling",
         "url": "https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 418200,
       "name": "I Am Trying to Break Your Heart",
       "url": "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Midnight Organ Fight",
+        "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 333026,
+      "name": "Keep Yourself Warm",
+      "url": "https://open.spotify.com/track/5P9mYadNNzRuDo49cKpBNs"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Dongs Of Sevotion",
-        "url": "https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27"
+        "name": "A Ghost Is Born (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
       },
       "artists": [
         {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 330133,
-      "name": "Dress Sexy At My Funeral",
-      "url": "https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH"
+      "duration_ms": 363000,
+      "name": "Handshake Drugs",
+      "url": "https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd"
     }
   ],
   "unique_name": "00s Indie Folk",

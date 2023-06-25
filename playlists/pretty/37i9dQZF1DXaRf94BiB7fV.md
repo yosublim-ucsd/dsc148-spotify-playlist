@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Shirina Biswas , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,657 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,682 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [We Made Us](https://open.spotify.com/track/7v8E0RGHpZlhgDQuQEyKe2) | [Vaani Bhasin](https://open.spotify.com/artist/7cyFNq6i4cJ66n45MMI0WS) | [We Made Us](https://open.spotify.com/album/5xc7upsqYIw2yjyJ03h1ka) | 3:36 |
 | 100 | [Banja Beimaan](https://open.spotify.com/track/4F6hIftaEtiZqX7O9qohUo) | [Siddharth Agarwal](https://open.spotify.com/artist/0khYzwgAKUdtcnxx3ETNRs) | [Banja Beimaan](https://open.spotify.com/album/5iiyu8Old8pPtzM0HULCVE) | 4:32 |
 
-Snapshot ID: `MCwxNGM1ZDY5ODk5ZjBkMDg1MDRiMDg4NDFjNTNiNjljOThkNjJmZGYz`
+Snapshot ID: `MCxmZWMwODMxZjc5OTNlYjNiYzYzMDdjYjQ3MTk5NzQxMDZlYjgzYTky`

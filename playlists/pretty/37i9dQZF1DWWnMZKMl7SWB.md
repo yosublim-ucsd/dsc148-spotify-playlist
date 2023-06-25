@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,008 likes - 225 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,032 likes - 225 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 91 | [Treat You Better \- Single Edit](https://open.spotify.com/track/5lzHDkFLN01bKatvKQC0lO) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Treat You Better](https://open.spotify.com/album/4fSTqJwbIavIZdeWQ7uIUe) | 3:38 |
 | 92 | [It Was You \(With Zeeba\)](https://open.spotify.com/track/42uG027pzJkSk63FZkUd0I) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [It Was You \(With Zeeba\)](https://open.spotify.com/album/6pCrr0GMlTyu6XOirgJVF5) | 2:37 |
 | 93 | [Trust](https://open.spotify.com/track/1B6lyzIgsBvdGEoJ6xV0xC) | [Prince Fox](https://open.spotify.com/artist/1nf5yEVCfMbqm1OCYpntBT) | [ALL THIS MUSIC, Vol\. 1](https://open.spotify.com/album/072NiWj2csEY7y9Z7Q8Nbc) | 3:23 |
-| 94 | [Love Me \- Felix Cartal's Chill Mix](https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me \(Remixes\)](https://open.spotify.com/album/3D4DNUNdCascgr0VRYUib9) | 3:41 |
+| 94 | [Love Me \(Felix Cartal's Chill Mix\)](https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me \(Remixes\)](https://open.spotify.com/album/3D4DNUNdCascgr0VRYUib9) | 3:41 |
 | 95 | [Chateau \- Holmsey Remix](https://open.spotify.com/track/3asXkEqb2qAgyCBHTwJ4oL) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr), [Holmsey](https://open.spotify.com/artist/1MLYmLwA6D9xQUwsHdDYKI) | [Chateau \(Holmsey Remix\)](https://open.spotify.com/album/3IFc27niCIYyyrbEAl2RTk) | 4:00 |
 | 96 | [Your Love \(feat\. Neigh\)](https://open.spotify.com/track/15OVL6MDpdHHIVUcd9mfHM) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [Neigh](https://open.spotify.com/artist/0zyYd1BIWulWzSzmt4rcue) | [Your Love \(feat\. Neigh\)](https://open.spotify.com/album/0SSlnv6FtEurI3bkbMekf7) | 2:53 |
 | 97 | [Test the Waters](https://open.spotify.com/track/4zDZY6XnZRjGlRDr9h5gOG) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Love & Retrograde](https://open.spotify.com/album/1PpnNxo4uBSSLWSNT0S920) | 3:48 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 224 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 225 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MCxmMjY3NmVhZTlkNTcwMjYyNWQ3ZjE5ZDc2NDFjNzY3Y2I3N2Q1NGNh`
+Snapshot ID: `MCxlMDllMmM5ZmNhN2E5MDAzNDkyN2VkNGE1N2YzMjg4NGFiNjczOWQy`

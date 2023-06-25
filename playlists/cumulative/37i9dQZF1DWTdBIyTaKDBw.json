@@ -2378,6 +2378,28 @@
     {
       "album": {
         "name": "ROSE",
+        "url": "https://open.spotify.com/album/26fovYAowQaJmrucMlNztd"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
+        },
+        {
+          "name": "SONG JU HEE",
+          "url": "https://open.spotify.com/artist/7kJY46aPgzdoIlDJbSvxzC"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178886,
+      "name": "ROSE",
+      "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
+    },
+    {
+      "album": {
+        "name": "ROSE",
         "url": "https://open.spotify.com/album/6zKyJ7bOK8dTaXiGIFeCPd"
       },
       "artists": [
@@ -2396,28 +2418,6 @@
       "duration_ms": 178886,
       "name": "ROSE",
       "url": "https://open.spotify.com/track/0OGI8Mqjdy9BM9kuxCfyUg"
-    },
-    {
-      "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/26fovYAowQaJmrucMlNztd"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
-        },
-        {
-          "name": "SONG JU HEE \uc1a1\uc8fc\ud76c",
-          "url": "https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU"
-        }
-      ],
-      "date_added": "2022-09-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178886,
-      "name": "ROSE",
-      "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
     },
     {
       "album": {

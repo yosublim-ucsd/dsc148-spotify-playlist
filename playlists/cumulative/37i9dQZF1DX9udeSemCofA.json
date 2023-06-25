@@ -1580,6 +1580,24 @@
     {
       "album": {
         "name": "Kaya Dub",
+        "url": "https://open.spotify.com/album/4eR5VAI9SZFFF06XfVkoaG"
+      },
+      "artists": [
+        {
+          "name": "The Aggrovators",
+          "url": "https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260906,
+      "name": "So Jah Sey Dub",
+      "url": "https://open.spotify.com/track/2RjHmvBzbOHs2J3tfE7Hbn"
+    },
+    {
+      "album": {
+        "name": "Kaya Dub",
         "url": "https://open.spotify.com/album/6XR63b4xn1zvqA8Dyy8tkC"
       },
       "artists": [
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 260906,
       "name": "So Jah Sey Dub",
       "url": "https://open.spotify.com/track/6e6ao104zNnDUeA4v8FN6H"

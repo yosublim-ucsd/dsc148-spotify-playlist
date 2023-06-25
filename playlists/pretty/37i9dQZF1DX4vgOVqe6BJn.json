@@ -1,12 +1,12 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 166835,
+  "num_followers": 167054,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODMwZjcyNWU0OTYxNTE1NDNmZjU5ODU1ODRkMzQ1MjExZjEzMTQ1",
+  "snapshot_id": "MCw0NTdmOTYxNDQwY2VjMDQ3MDVhZTY1ZjQ0NzMxMTEyNGRlOGE5MmNj",
   "tracks": [
     {
       "added_at": "2023-01-25 16:56:24",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Melt My Eyez See Your Future",
-        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Zatoichi [Feat. slowthai]",
-      "url": "https://open.spotify.com/track/7jn0ATNNqtWgDk8wLYa3gw"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Tonight (feat. Ezra Koenig)",
         "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Melt My Eyez See Your Future",
+        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Zatoichi [Feat. slowthai]",
+      "url": "https://open.spotify.com/track/7jn0ATNNqtWgDk8wLYa3gw"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 175038,
-      "name": "40-16 Building",
-      "url": "https://open.spotify.com/track/7LbIccTR3F9yYaWmMGMKtn"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 371520,
       "name": "Otomo",
       "url": "https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 175038,
+      "name": "40-16 Building",
+      "url": "https://open.spotify.com/track/7LbIccTR3F9yYaWmMGMKtn"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Prettier Than You",
-        "url": "https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 202093,
-      "name": "Prettier Than You",
-      "url": "https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "So Sick Of Me",
         "url": "https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 167156,
       "name": "So Sick Of Me",
       "url": "https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Prettier Than You",
+        "url": "https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 202093,
+      "name": "Prettier Than You",
+      "url": "https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
         "name": "Skelele",
         "url": "https://open.spotify.com/album/3wQaO7CmLDh4eY6dHNMUNI"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 203389,
       "name": "Skelele",
       "url": "https://open.spotify.com/track/1k6OPAYYh1DawiHZ08djuM"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2"
-      },
-      "artists": [
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
+        "name": "Worlds End FM",
+        "url": "https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E"
+      },
+      "artists": [
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Bricks in the Wall",
+      "url": "https://open.spotify.com/track/6v3QTxRbJ3azhBhsNsrpPy"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
         "name": "Beep",
         "url": "https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ"
       },
@@ -1291,30 +1307,6 @@
       "duration_ms": 120626,
       "name": "Beep",
       "url": "https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
-        "name": "monarch",
-        "url": "https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y"
-      },
-      "artists": [
-        {
-          "name": "sadeyes",
-          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
-        },
-        {
-          "name": "Lil Xtra",
-          "url": "https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm"
-        },
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 155590,
-      "name": "i'm not okay",
-      "url": "https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1339,18 +1331,26 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Worlds End FM",
-        "url": "https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E"
+        "name": "monarch",
+        "url": "https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y"
       },
       "artists": [
         {
-          "name": "Hak Baker",
-          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+          "name": "sadeyes",
+          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
+        },
+        {
+          "name": "Lil Xtra",
+          "url": "https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm"
+        },
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Bricks in the Wall",
-      "url": "https://open.spotify.com/track/6v3QTxRbJ3azhBhsNsrpPy"
+      "duration_ms": 155590,
+      "name": "i'm not okay",
+      "url": "https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Leader Of The Pack",
-        "url": "https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4"
-      },
-      "artists": [
-        {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
-        },
-        {
-          "name": "Ruckspin",
-          "url": "https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg"
-        }
-      ],
-      "duration_ms": 219512,
-      "name": "Leader Of The Pack",
-      "url": "https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Green Light (feat. Kate Wild) [Moksi Remix]",
         "url": "https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 190312,
       "name": "Green Light (feat. Kate Wild) - Moksi Remix",
       "url": "https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Leader Of The Pack",
+        "url": "https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4"
+      },
+      "artists": [
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        },
+        {
+          "name": "Ruckspin",
+          "url": "https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg"
+        }
+      ],
+      "duration_ms": 219512,
+      "name": "Leader Of The Pack",
+      "url": "https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6"
     }
   ],
   "unique_name": "FIFA 23 Official Soundtrack",

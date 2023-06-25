@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 173580,
+  "num_followers": 173705,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjdiMDc1NmIwNTAyZjRhZjA3NGM5MDA3ZTIxNWE3ZWM0MTY0NTNj",
+  "snapshot_id": "MCw1NjEwOTQwOTc2YmM1ODY0NmFlODk1ODkzZTMwYWRkNDkzZDdiYmE5",
   "tracks": [
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Tramuntana",
+        "url": "https://open.spotify.com/album/3Cwmn46NId4XNE7YO6vqXg"
+      },
+      "artists": [
+        {
+          "name": "KAASI",
+          "url": "https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/0QdgJdMgEQTrjCAFxxcZZm"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Fashion Week (with Channel Tres)",
         "url": "https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB"
       },
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Tramuntana",
-        "url": "https://open.spotify.com/album/3Cwmn46NId4XNE7YO6vqXg"
+        "name": "Capricorn Sun",
+        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
       },
       "artists": [
         {
-          "name": "KAASI",
-          "url": "https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/0QdgJdMgEQTrjCAFxxcZZm"
+      "duration_ms": 299360,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 231840,
       "name": "Welcome To Dinna",
       "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Capricorn Sun",
-        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 299360,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2"
     },
     {
       "added_at": "2023-06-22 22:00:00",

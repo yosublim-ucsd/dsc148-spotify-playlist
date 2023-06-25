@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Jess Williamson
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,681 likes - 101 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,710 likes - 101 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 100 | [Saturday Night](https://open.spotify.com/track/4yUKyGGS3XfZykGg8iWc49) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV) | [Saturday Night](https://open.spotify.com/album/5WYIVmNQXmB9jE9dXYdZ5F) | 4:37 |
 | 101 | [One Little Feeling](https://open.spotify.com/track/1ysYW8z0yPkhRlITrAHcsj) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [One Little Feeling](https://open.spotify.com/album/2Lrv7yl3r4gnVgEixUKv7n) | 3:33 |
 
-Snapshot ID: `MCwzMjIxNDMxZDk5NjRkN2Q4YmIyMTE2YjRhZWIxZDFhNThhNGM0NDVh`
+Snapshot ID: `MCwwMGZiMjNjY2Y3MGVhYjBhMDU5YjRhZjBkYTM3ZTU1MDljM2QxYWM0`

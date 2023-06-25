@@ -4,7 +4,7 @@
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-258 songs - 15 hr 6 min
+259 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,8 @@
 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 | 2022-07-19 | 2023-05-20 |
 | [Tan Capaz](https://open.spotify.com/track/7rfTrFMb6pHxYZE8HpkSVe) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Tan Capaz](https://open.spotify.com/album/0XxiIUxCsCmnhoUBNAiVS4) | 4:07 | 2022-10-14 | 2023-05-20 |
 | [Tanto Azúcar](https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Lapso](https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU) | 3:05 | 2022-06-29 | 2022-07-20 |
-| [Temor](https://open.spotify.com/track/0WzdhKUfEoeIP8jzrTtLSe) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 3:24 | 2023-06-02 |  |
+| [Temor](https://open.spotify.com/track/0WzdhKUfEoeIP8jzrTtLSe) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 3:24 | 2023-06-02 | 2023-06-25 |
+| [Temor](https://open.spotify.com/track/1SQQK8zekTm8xhwIcVcTPt) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/3Wqm2Y41oWaFHODb2xTnn7) | 3:24 | 2023-06-09 |  |
 | [Temporal](https://open.spotify.com/track/2HaEWrHRPZ2mG06Rdlngbu) | [Romina Peluffo](https://open.spotify.com/artist/002eNGtf6Rd05jJbriqoMS), [Gonzalo Silva](https://open.spotify.com/artist/3vkk4b4g3KdMlhOhtzyIHm) | [Temporal](https://open.spotify.com/album/6ZkEGm4ZA8WScR7uLVfg1t) | 2:50 | 2022-06-29 | 2022-10-29 |
 | [Terapia](https://open.spotify.com/track/1BwEM6ZBPb2mGhkhAM6onu) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [Terapia](https://open.spotify.com/album/7dyFKdVNNFbAPuBULRbYi0) | 3:17 | 2023-06-09 |  |
 | [Tiempo](https://open.spotify.com/track/6MifdTQLwM8PQEzM9S2TRb) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Tiempo](https://open.spotify.com/album/7hdrzPuHfK4VbgQVpvP8lA) | 3:12 | 2022-06-29 | 2023-05-20 |

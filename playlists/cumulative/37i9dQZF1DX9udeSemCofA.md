@@ -4,7 +4,7 @@
 
 > Mellow out with this dub music.
 
-106 songs - 6 hr 57 min
+107 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Screaming Target](https://open.spotify.com/track/6jxka5AJgy5VReTKJJIAyw) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Screaming Target](https://open.spotify.com/album/7IIPaUPCEYVQiXLP3R6ROW) | 3:39 | 2020-06-16 | 2022-07-29 |
 | [So Jah Seh Dub](https://open.spotify.com/track/43ls1XlSliW7SAiEFWruIW) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [So Jah Seh Dub](https://open.spotify.com/album/5h5cLRQS7wtLstpIV7xjxL) | 4:20 | 2022-11-10 | 2022-11-13 |
 | [So Jah Sey Dub](https://open.spotify.com/track/0T5p5JWseJxbqGr3cILhL4) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [So Jah Sey Dub](https://open.spotify.com/album/6qTqqeTkJfcPWq8vA1gVV2) | 4:20 | 2020-06-16 | 2022-07-29 |
-| [So Jah Sey Dub](https://open.spotify.com/track/6e6ao104zNnDUeA4v8FN6H) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [Kaya Dub](https://open.spotify.com/album/6XR63b4xn1zvqA8Dyy8tkC) | 4:20 | 2020-06-16 |  |
+| [So Jah Sey Dub](https://open.spotify.com/track/2RjHmvBzbOHs2J3tfE7Hbn) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [Kaya Dub](https://open.spotify.com/album/4eR5VAI9SZFFF06XfVkoaG) | 4:20 | 2023-06-22 |  |
+| [So Jah Sey Dub](https://open.spotify.com/track/6e6ao104zNnDUeA4v8FN6H) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [Kaya Dub](https://open.spotify.com/album/6XR63b4xn1zvqA8Dyy8tkC) | 4:20 | 2020-06-16 | 2023-06-25 |
 | [Sponji Reggae](https://open.spotify.com/track/1NeZjWdwvsEEDpHbuj54we) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Red](https://open.spotify.com/album/3evCEzHbkLPXuMqw9ISd3T) | 4:53 | 2020-06-16 |  |
 | [Sponji Reggae](https://open.spotify.com/track/0kXpteSMhbzhvgtvuDxd8e) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Summer Reggae](https://open.spotify.com/album/3Bq2Hgnn115mbiwCZ2Gm6c) | 4:54 | 2022-11-10 | 2022-11-14 |
 | [Sponji Reggae](https://open.spotify.com/track/6lnl40FdAdAmUZt1mtTOC3) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [What Is Life \- An Introduction To Black Uhuru](https://open.spotify.com/album/5RW6q6JEscCOVIN0BiEFKg) | 4:57 | 2020-06-16 | 2022-07-29 |

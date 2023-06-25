@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf?si=ZveLI3BZTGSAzhLYSI4\_4g">Ice Spice</a> & <a href="https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh?si=RT4x2JhXSjew6hqrDtSY2g">Nicki Minaj</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,344 likes - 70 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,396 likes - 70 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 69 | [Khetha Wena](https://open.spotify.com/track/7oWBqf90mNFBkMv6qxHIB3) | [Miss Pru DJ](https://open.spotify.com/artist/6tO3MvUNdmXvvA7YKZZGz6), [Q\-Mark](https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj), [Afriikan Papi](https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO), [Amahle](https://open.spotify.com/artist/7EAyMONzY0EjiVMs74c7Ls), [Slick Widit](https://open.spotify.com/artist/3bDWpyZXR29vsVsjguxLWe) | [Khetha Wena](https://open.spotify.com/album/0wiUgO2q3qNUsYzTbrXpwO) | 6:23 |
 | 70 | [Tshwarelo](https://open.spotify.com/track/0IVpcBKljhvyPXJJgqqPBZ) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh) | [Tshwarelo](https://open.spotify.com/album/0vLETRViHGdIDFGJawTwbJ) | 4:00 |
 
-Snapshot ID: `MCw1ZTcyZjI0N2U5MmZlMzgzODJmZjVlMzQzNzFhOTY1YmNhOTY4NDgy`
+Snapshot ID: `MCxlODYzOTRmNTA0OTcxMDY1ODhjYmQ2Zjc2ODQ2NDljZmQwZDBlZmI0`

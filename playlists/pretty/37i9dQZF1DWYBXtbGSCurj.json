@@ -1,12 +1,12 @@
 {
   "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Nagalli, Borges, Veigh, Kyan, Vulgo FK",
-  "num_followers": 365398,
+  "num_followers": 365562,
   "original_name": "Trap Ouro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDExMmY0NzY1MTk4ODcwZjA4MTRhZmZlYWMwMWNlMzgxNjdlN2Y1",
+  "snapshot_id": "MCxkOWRmM2I3ZTcwZDljOTlkMDY5MzcwMWJiMTFmMmJlZmZjOWI1ZjUz",
   "tracks": [
     {
       "added_at": "2023-06-23 23:21:56",
@@ -724,12 +724,12 @@
           "url": "https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX"
         },
         {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
-        },
-        {
           "name": "Oliveira",
           "url": "https://open.spotify.com/artist/65ZE0dYy4XIHtFBAGMKHhI"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
         }
       ],
       "duration_ms": 258324,

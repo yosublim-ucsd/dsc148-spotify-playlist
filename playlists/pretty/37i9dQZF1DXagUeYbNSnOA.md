@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Junior Zamora\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,572 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,579 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 3 | [SHAWTY NO HABLA ESPAÑOL](https://open.spotify.com/track/1DH2Xsmnf5vInERpoIbuLQ) | [Sa!koro](https://open.spotify.com/artist/6LNkIoneVxdu31qUNsfRwa) | [SHAWTY NO HABLA ESPAÑOL](https://open.spotify.com/album/2q8RZlCoJcjkw90ZPW8tHO) | 2:15 |
 | 4 | [SALVAVIDA](https://open.spotify.com/track/3lCjQ4ZiJXevvSMokbvr4T) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [SALVAVIDA](https://open.spotify.com/album/7N3eWPDdCgemKdBKmJn4wc) | 2:39 |
 | 5 | [Billeticos](https://open.spotify.com/track/0GLnt71Pn9QsT7SjrgjgeW) | [Jambeau](https://open.spotify.com/artist/294dt5FF6vPvuflq8O9FAZ), [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [MIRACALI](https://open.spotify.com/artist/0QPsINUywwAT9jHWJD7SRG) | [Billeticos](https://open.spotify.com/album/2CWKjZa9HkB26UBtnAriD3) | 2:14 |
-| 6 | [en santo domingo : \)](https://open.spotify.com/track/1NR26e7oFmyzA4nN3ChIfh) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [en santo domingo : \)](https://open.spotify.com/album/71sLq02ICvPlw4pSeWLB3w) | 2:41 |
+| 6 | [Waterfalls](https://open.spotify.com/track/2lcKU0ljWEiKeVo45KT4E5) | [Lua Lacruz](https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK) | [Waterfalls](https://open.spotify.com/album/0NbssHnaAya60F1ynwa0a0) | 3:41 |
 | 7 | [Mi Fantasma](https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Mi Fantasma](https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1) | 2:42 |
-| 8 | [Waterfalls](https://open.spotify.com/track/2lcKU0ljWEiKeVo45KT4E5) | [Lua Lacruz](https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK) | [Waterfalls](https://open.spotify.com/album/0NbssHnaAya60F1ynwa0a0) | 3:41 |
+| 8 | [en santo domingo : \)](https://open.spotify.com/track/1NR26e7oFmyzA4nN3ChIfh) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [en santo domingo : \)](https://open.spotify.com/album/71sLq02ICvPlw4pSeWLB3w) | 2:41 |
 | 9 | [Deseo](https://open.spotify.com/track/3NDB4oAYoM5kd50COEOTUR) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv), [D'Avila](https://open.spotify.com/artist/6elNbQJgp30Ml9u2jO9RwX), [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O) | [Deseo](https://open.spotify.com/album/0yxzynoJU2oS2piqELOsEa) | 3:24 |
 | 10 | [Camino Dorado](https://open.spotify.com/track/4ZqWMX8vgit2ZZqSctYqfj) | [Lola Cobach](https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu) | [Camino Dorado](https://open.spotify.com/album/2zIO6vgZtXTV3No8H6SHLU) | 3:11 |
 | 11 | [ANESTESIA \(Culebartola\_Bb\_115BPM\)](https://open.spotify.com/track/2CGFhjPJYkbd6dvRXXJZaP) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:12 |
@@ -34,19 +34,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 24 | [LOS QLOS COMENTAN](https://open.spotify.com/track/18lFzDFN4RVbEq0KSmv7f8) | [KLAUT](https://open.spotify.com/artist/2ilUhTD4YJ4Rm6mf4K8td4), [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [LOS QLOS COMENTAN](https://open.spotify.com/album/7nLPApwX5wZJ3keFIZtAD7) | 2:55 |
 | 25 | [Cenizas](https://open.spotify.com/track/688BEx0xZQmWtgxEtZk43H) | [Rollo California](https://open.spotify.com/artist/23WprTctrNSgdvOPEGFfGp), [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Cenizas](https://open.spotify.com/album/6kYBHRqulDX38YUvBfTpUw) | 2:47 |
 | 26 | [Alter Ego](https://open.spotify.com/track/5K3pkjlNbjTyqKuPPKKaFo) | [tais](https://open.spotify.com/artist/0eBqEhLtBJIWAM3IprQ773) | [Alter Ego](https://open.spotify.com/album/4FDFHXQo1pZc20K4SURGyw) | 2:24 |
-| 27 | [Una Manera Distinta](https://open.spotify.com/track/38FZyAP4Iexl8Wi9A9hQdU) | [Leo el Charrúa](https://open.spotify.com/artist/1iYJCdZ2XOhTKEg41FxXMQ), [Chickjuarez](https://open.spotify.com/artist/0AaOo67hLCQf3saR6ZFfJY) | [Una Manera Distinta](https://open.spotify.com/album/7q4jrkCzbxNiPb1EbKOvOR) | 3:28 |
-| 28 | [Escape](https://open.spotify.com/track/548HHnYTYgwEmTvJEnYcRr) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Escape](https://open.spotify.com/album/5tX8PaOg2pHnq9vj85YlTE) | 3:17 |
+| 27 | [Escape](https://open.spotify.com/track/548HHnYTYgwEmTvJEnYcRr) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Escape](https://open.spotify.com/album/5tX8PaOg2pHnq9vj85YlTE) | 3:17 |
+| 28 | [Una Manera Distinta](https://open.spotify.com/track/38FZyAP4Iexl8Wi9A9hQdU) | [Leo el Charrúa](https://open.spotify.com/artist/1iYJCdZ2XOhTKEg41FxXMQ), [Chickjuarez](https://open.spotify.com/artist/0AaOo67hLCQf3saR6ZFfJY) | [Una Manera Distinta](https://open.spotify.com/album/7q4jrkCzbxNiPb1EbKOvOR) | 3:28 |
 | 29 | [Gelato](https://open.spotify.com/track/1QjlMVJzywhUcCFu3vGXgt) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Gelato](https://open.spotify.com/album/6P9HjJLj5zUaI7urdjSPpf) | 3:43 |
 | 30 | [Big Bang](https://open.spotify.com/track/64PFeVpxk6Pl1bb4iX0kRs) | [Pol](https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf) | [Disco Debut](https://open.spotify.com/album/7ggGKL8qKDZX2swrPJMIRk) | 3:24 |
 | 31 | [Deberíamos](https://open.spotify.com/track/1rzM4YIAj3ni3UwSGHXKoO) | [Erick Oyarvide](https://open.spotify.com/artist/2A2c09DtgYJ5qHzfuHTwBv) | [EGO](https://open.spotify.com/album/0bz7vf4TEZdYT5K39QFDVH) | 2:36 |
-| 32 | [Dame Más](https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4) | [Jinzo](https://open.spotify.com/artist/0dsqYtPZHuvhqwNDnPrgsn) | [Dame Más](https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy) | 3:45 |
-| 33 | [MARIPOSAS](https://open.spotify.com/track/7er0DsNXSE0JfM2GzHL60O) | [LICHY](https://open.spotify.com/artist/2rhKI3T4T93HZUmR8uF569) | [MARIPOSAS](https://open.spotify.com/album/31optYeNRe79sh5FIMBGJl) | 1:55 |
-| 34 | [Solo los Dos](https://open.spotify.com/track/3t1gIKQljAz0AUin4tWRdA) | [El Peligro de los Vientos](https://open.spotify.com/artist/233QcEovKcNYRw1NskNj5r) | [La Sensación](https://open.spotify.com/album/0Aj2XmEa9fcoqydXr9Rrh5) | 3:38 |
-| 35 | [Arrullo](https://open.spotify.com/track/1dJdb3155A8MXl80DKR0NC) | [Yonna Lizzouli](https://open.spotify.com/artist/5B4DxKuZaoR8FioGJnFHOb) | [Arrullo](https://open.spotify.com/album/2JuyJjQyp5VnQPSsyH199J) | 2:50 |
-| 36 | [Siempre Fuiste Vos](https://open.spotify.com/track/3mX3wTPTYxQUPp6CURfrBe) | [Rudy](https://open.spotify.com/artist/2em5rmbRdv6QPZZhU9zYVW), [LvRod](https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv) | [Siempre Fuiste Vos](https://open.spotify.com/album/7lHGFf03FMycxt1DQ7IoAW) | 3:16 |
+| 32 | [Siempre Fuiste Vos](https://open.spotify.com/track/3mX3wTPTYxQUPp6CURfrBe) | [Rudy](https://open.spotify.com/artist/2em5rmbRdv6QPZZhU9zYVW), [LvRod](https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv) | [Siempre Fuiste Vos](https://open.spotify.com/album/7lHGFf03FMycxt1DQ7IoAW) | 3:16 |
+| 33 | [Dame Más](https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4) | [Jinzo](https://open.spotify.com/artist/0dsqYtPZHuvhqwNDnPrgsn) | [Dame Más](https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy) | 3:45 |
+| 34 | [MARIPOSAS](https://open.spotify.com/track/7er0DsNXSE0JfM2GzHL60O) | [LICHY](https://open.spotify.com/artist/2rhKI3T4T93HZUmR8uF569) | [MARIPOSAS](https://open.spotify.com/album/31optYeNRe79sh5FIMBGJl) | 1:55 |
+| 35 | [Solo los Dos](https://open.spotify.com/track/3t1gIKQljAz0AUin4tWRdA) | [El Peligro de los Vientos](https://open.spotify.com/artist/233QcEovKcNYRw1NskNj5r) | [La Sensación](https://open.spotify.com/album/0Aj2XmEa9fcoqydXr9Rrh5) | 3:38 |
+| 36 | [Arrullo](https://open.spotify.com/track/1dJdb3155A8MXl80DKR0NC) | [Yonna Lizzouli](https://open.spotify.com/artist/5B4DxKuZaoR8FioGJnFHOb) | [Arrullo](https://open.spotify.com/album/2JuyJjQyp5VnQPSsyH199J) | 2:50 |
 | 37 | [Eufrasia en el Desierto](https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [La Vida, un Viaje](https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d) | 4:07 |
-| 38 | [Magnetismo](https://open.spotify.com/track/0ThPQBfAERZONoEEujSUBo) | [Le Montro](https://open.spotify.com/artist/13y8ea0FLQ4jQkFPDXn6aS) | [Magnetismo](https://open.spotify.com/album/48usPDgR7j81TJex9hUL1r) | 2:48 |
-| 39 | [Foto](https://open.spotify.com/track/0XZw6eCsnkMNG7JLJ6LN9g) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Foto](https://open.spotify.com/album/7i5y1TOAfdGoj59JLwtliw) | 3:40 |
+| 38 | [Foto](https://open.spotify.com/track/0XZw6eCsnkMNG7JLJ6LN9g) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Foto](https://open.spotify.com/album/7i5y1TOAfdGoj59JLwtliw) | 3:40 |
+| 39 | [Magnetismo](https://open.spotify.com/track/0ThPQBfAERZONoEEujSUBo) | [Le Montro](https://open.spotify.com/artist/13y8ea0FLQ4jQkFPDXn6aS) | [Magnetismo](https://open.spotify.com/album/48usPDgR7j81TJex9hUL1r) | 2:48 |
 | 40 | [Coral](https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Coral](https://open.spotify.com/album/78K4xSAjShKybDLVkkWH6J) | 3:47 |
 | 41 | [qué pretendes hacer conmigo](https://open.spotify.com/track/4KId7hIHJCihRrQV2XI22X) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [qué pretendes hacer conmigo](https://open.spotify.com/album/0FY8R3pZbRuHZ04fhhv4Fv) | 2:50 |
 | 42 | [Tecito E' Buenas Intenciones](https://open.spotify.com/track/6kgEBezCakZKiQvhxCHM1k) | [OHM](https://open.spotify.com/artist/2KWuMq9ta5YVbzAHmLCXEP), [Laura Sofía](https://open.spotify.com/artist/7JX6rkw6bRQ5ZPwPbtLbpf), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Tecito E' Buenas Intenciones](https://open.spotify.com/album/4FGhuyf7GS3nNI0b2CRcIC) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Luces De Neón](https://open.spotify.com/track/2betzzZgd64GqHljmHZ0GK) | [Mauricio Vallejo](https://open.spotify.com/artist/4J0Mnm9KYD8RKdc5KJsr6W) | [Luces De Neón](https://open.spotify.com/album/33xuuFalm7xdz2hoicktib) | 3:56 |
 | 50 | [Calma](https://open.spotify.com/track/1pybgIZlvEZubQEHRB9CDb) | [Pálido Adiós](https://open.spotify.com/artist/0fleDoQ19zY6h7tY2GtWSC) | [Calma](https://open.spotify.com/album/3dyxCooosufH5kOD546m7l) | 3:22 |
 
-Snapshot ID: `MCwzY2RlNzY3NTE4NjA4ODYxNzAxYjI1YWNhMGYwMjQ5NmE5YjAwOTNh`
+Snapshot ID: `MCw3YjA5ODljN2YzOGJlZDNiZTg4MjRmMGI4NTYyMzc4MThmMzMyMWMw`

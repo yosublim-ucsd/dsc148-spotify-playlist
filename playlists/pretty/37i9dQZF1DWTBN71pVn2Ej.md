@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,753 likes - 59 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,802 likes - 59 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 58 | [Blank Stare](https://open.spotify.com/track/0ayRdvWxhKZ03sm4xDuGye) | [Tarnish](https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW) | [Blank Stare](https://open.spotify.com/album/0IxuqnoImXEUup7oal9fcN) | 3:41 |
 | 59 | [That Day](https://open.spotify.com/track/5jzBUYBQ32KhiNZwNIzfOh) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [That Day](https://open.spotify.com/album/0GaS3ctTC11J1Yq9YczkgC) | 2:04 |
 
-Snapshot ID: `MCw4YzE4OGM2NmE3NmQ4ZjkzNjcyNmQ5ZjBhMWQzMTVhM2NiMTNkYmNm`
+Snapshot ID: `MCw3YTY4YWRiNjNmNjlhZmI5Yjk3NTA1MGViYjlkZTIyMDk5ZGQzYzQ0`

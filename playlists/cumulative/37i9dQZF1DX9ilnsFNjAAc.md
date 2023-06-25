@@ -4,7 +4,7 @@
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-106 songs - 6 hr 53 min
+107 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Pounce](https://open.spotify.com/track/3SrEARFQQeB1jPvcdY0TzR) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk) | [Pounce](https://open.spotify.com/album/6Okmbkojhxqf64W25s2N88) | 3:24 | 2021-02-19 | 2022-10-13 |
 | [Priestess](https://open.spotify.com/track/1F96wp4Aa2l2ygMcmSX75w) | [AMAZONDOTCOM](https://open.spotify.com/artist/2wSYqnT1Cu1oQcFFspe0Ie) | [Mirror River](https://open.spotify.com/album/6uAcSbDR2nBr6WPE1IOgf3) | 6:41 | 2021-02-19 |  |
 | [Raising Hell](https://open.spotify.com/track/5q9F2CNzrrNQMM7l62S2c6) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 4:10 | 2021-02-19 |  |
-| [Razzy Beat](https://open.spotify.com/track/6s6RtUrhYdOxJ70rNyCKh8) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fight! Fight! Fight!](https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2) | 3:19 | 2021-02-19 |  |
+| [Razzy Beat](https://open.spotify.com/track/2Nzn2qw3LfLGq4prZZy6AB) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Fight! Fight! Fight!](https://open.spotify.com/album/7lmW7t7U1nrslagrfwCDiB) | 3:19 | 2021-02-19 |  |
+| [Razzy Beat](https://open.spotify.com/track/6s6RtUrhYdOxJ70rNyCKh8) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fight! Fight! Fight!](https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2) | 3:19 | 2021-02-19 | 2023-06-25 |
 | [Razzy Beat](https://open.spotify.com/track/7ycvxGV9cnYbyMvoBOvQVg) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fight! Fight! Fight!](https://open.spotify.com/album/4PAXUJHrxzSqPqt3tmCc34) | 3:19 | 2021-02-19 | 2022-07-29 |
 | [REACHUPDONTSTOP](https://open.spotify.com/track/3yd8ahe0iux1u6LyUWp26v) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [PLANET'S MAD](https://open.spotify.com/album/3q1BSfc3AumAd7oSk11XFd) | 4:00 | 2021-02-19 |  |
 | [REACHUPDONTSTOP](https://open.spotify.com/track/50MQXEs1GS72XrNG4uXL2F) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [PLANET'S MAD](https://open.spotify.com/album/6uqNRIEzOXHDQRTXsOBqSW) | 4:00 | 2021-02-19 | 2023-02-03 |

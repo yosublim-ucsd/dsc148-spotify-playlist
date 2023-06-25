@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 149758,
       "name": "11",
       "url": "https://open.spotify.com/track/2M2cKonbRHegufpEnX7Nmo"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 270853,
       "name": "Ainult unustamiseks",
       "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 232200,
       "name": "Armastan ma luuserit",
       "url": "https://open.spotify.com/track/5rjbaNNIAMTulWMipobmHh"
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
@@ -2964,7 +2964,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 131013,
       "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -3530,7 +3530,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -4440,7 +4440,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -4556,7 +4556,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -4726,7 +4726,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -5941,6 +5941,28 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/5XJXWvVyYgd0L1QU0HWDIJ"
+      },
+      "artists": [
+        {
+          "name": "STEFAN",
+          "url": "https://open.spotify.com/artist/4PLGCdwxxGsxNXX7G7Spug"
+        },
+        {
+          "name": "Liis Lemsalu",
+          "url": "https://open.spotify.com/artist/2rdUWyphqOltYR6zPaMPrU"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197936,
+      "name": "Doomino",
+      "url": "https://open.spotify.com/track/16gnXDq3ayjme4ZSVZiPUg"
+    },
+    {
+      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -6044,7 +6066,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
@@ -7868,7 +7890,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 194823,
       "name": "f\u00fcr Oksana",
       "url": "https://open.spotify.com/track/3ZNv0P70XQX5FoQAUw3bLg"
@@ -9072,7 +9094,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -9260,7 +9282,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 165411,
       "name": "Hispaania T\u00fcdruk",
       "url": "https://open.spotify.com/track/0wQIaO72C8X6F5I8a4GQDH"
@@ -9796,7 +9818,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -10830,7 +10852,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 155546,
       "name": "Jaanip\u00e4ev",
       "url": "https://open.spotify.com/track/0gTk8HlMlZD2bqcYxRUvSJ"
@@ -11221,6 +11243,24 @@
     },
     {
       "album": {
+        "name": "KULD",
+        "url": "https://open.spotify.com/album/0Wqk5jgHcrhVrQYhgzaImb"
+      },
+      "artists": [
+        {
+          "name": "Terminaator",
+          "url": "https://open.spotify.com/artist/1e69U0tUjsnT5qhuXkIMqH"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362441,
+      "name": "Juulikuu lumi",
+      "url": "https://open.spotify.com/track/3aMmngJz3oEP0Ua5ttzNHi"
+    },
+    {
+      "album": {
         "name": "J\u00e4ljed j\u00e4tsid tuulde",
         "url": "https://open.spotify.com/album/3URXbayIQ6YMFNXvWIyEak"
       },
@@ -11472,7 +11512,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 234440,
       "name": "Kauges k\u00fclas",
       "url": "https://open.spotify.com/track/1nHchivzvljDN5iYMtAobh"
@@ -11584,7 +11624,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 225158,
       "name": "kinnisilmi",
       "url": "https://open.spotify.com/track/7wjkxtRV6tSlqb7ma43JYM"
@@ -12168,7 +12208,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 295000,
       "name": "Las Mina Proovin Siis Ka (Originaal)",
       "url": "https://open.spotify.com/track/1Pjo9Nf25RgBByaafcXeBz"
@@ -14895,6 +14935,24 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/5XJXWvVyYgd0L1QU0HWDIJ"
+      },
+      "artists": [
+        {
+          "name": "STEFAN",
+          "url": "https://open.spotify.com/artist/4PLGCdwxxGsxNXX7G7Spug"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Miraa\u017e",
+      "url": "https://open.spotify.com/track/7gty0gYNntXpSHMDslFjTD"
+    },
+    {
+      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -14910,7 +14968,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
@@ -15306,7 +15364,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 252306,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/5c7Mswm6Ueq0nKlgH3rTwQ"
@@ -15364,7 +15422,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -16430,7 +16488,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 250440,
       "name": "Nii Kuum",
       "url": "https://open.spotify.com/track/0PCBUcY3eOQZNxAeqiT54r"
@@ -18304,7 +18362,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -18604,7 +18662,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 201818,
       "name": "P\u00e4rlip\u00fc\u00fcdja",
       "url": "https://open.spotify.com/track/5roWPTh1cBdLSeuMF6QtoR"
@@ -18662,7 +18720,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 147979,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
@@ -18814,7 +18872,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 206519,
       "name": "Raju reede",
       "url": "https://open.spotify.com/track/7vm2h29bN23fwr8lwRTLgo"
@@ -20098,7 +20156,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 205049,
       "name": "See Ei Ole Saladus",
       "url": "https://open.spotify.com/track/7M1rbHkSiSUK6yp0C71hgT"
@@ -20120,7 +20178,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -22780,7 +22838,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 208055,
       "name": "Tee mis sa tahad",
       "url": "https://open.spotify.com/track/6vzXc5nsa0JTMfAtWrZkIN"
@@ -23244,7 +23302,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 192940,
       "name": "The Lost Soul Down",
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
@@ -24540,7 +24598,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 194560,
       "name": "Vastupandamatu",
       "url": "https://open.spotify.com/track/7uk0Rc06dguEGAsHppuDZe"
@@ -24874,6 +24932,24 @@
       "duration_ms": 128011,
       "name": "v\u00f5luv\u00e4el",
       "url": "https://open.spotify.com/track/6ocdQF24lhgwUapztCPoIo"
+    },
+    {
+      "album": {
+        "name": "100% Rock'n'roll",
+        "url": "https://open.spotify.com/album/4VOc9fziIJSuIlICG5cahc"
+      },
+      "artists": [
+        {
+          "name": "Tanel Padar & The Sun",
+          "url": "https://open.spotify.com/artist/4hJQhuBqxqKxjNrjkz1Epz"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215506,
+      "name": "V\u00f5ta Aega",
+      "url": "https://open.spotify.com/track/6jJn2uBui1SzUbLlYLWXCz"
     },
     {
       "album": {

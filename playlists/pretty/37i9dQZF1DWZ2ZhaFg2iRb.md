@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2ZhaFg2iRb.md) - [plain]
 
 > Speciální vydání věnované Olympijskému dni\. Kurátor: Peťo Sagan
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,053 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,102 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2ZhaFg2iRb.md) - [plain]
 | 49 | [Love Is A Drug](https://open.spotify.com/track/0uEJuGXKNWV3y5mRjh3uGw) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [New Politics](https://open.spotify.com/album/43cZxQ6ncbNzHglfNu5OUQ) | 3:15 |
 | 50 | [Snoopy Vs\. The Red Baron \- Edit](https://open.spotify.com/track/1IPVeBCK9j0wKIKf6tJRgw) | [The Royal Guardsmen](https://open.spotify.com/artist/2ltpcCK86foogli20z9raq) | [The Best Of The Royal Guardsmen](https://open.spotify.com/album/6BZj1lvjWHGHUhWj9zB1XS) | 2:46 |
 
-Snapshot ID: `MCwzNjAzODcxNWU4MjhmZjU0M2QyYWFiODBhY2I5ODc3NzkyZjE0ZTZj`
+Snapshot ID: `MCxhNTg3YTQyNzAzNTk4ODMyNmQ1Zjk0ZjE1NGQzOTkzN2U3YTQzZDgw`

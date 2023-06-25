@@ -2227,6 +2227,28 @@
     },
     {
       "album": {
+        "name": "Bambola",
+        "url": "https://open.spotify.com/album/74cIsmvEjOe32y80S8UdoB"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169368,
+      "name": "Bambola",
+      "url": "https://open.spotify.com/track/7k0jyx1nNnHPnkhp41jem6"
+    },
+    {
+      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/7t9xDpRYnRyMnEBW5D3juH"
       },
@@ -3064,6 +3086,40 @@
       "duration_ms": 205106,
       "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
       "url": "https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp"
+    },
+    {
+      "album": {
+        "name": "BON TON (feat. Lazza, BLANCO, Sfera Ebbasta & Michelangelo)",
+        "url": "https://open.spotify.com/album/5sYpvvoDPM9LOrTgFkizQ8"
+      },
+      "artists": [
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "BON TON (feat. Lazza, BLANCO, Sfera Ebbasta & Michelangelo)",
+      "url": "https://open.spotify.com/track/0cefXmvbKCLgPnSoWqclfz"
     },
     {
       "album": {
@@ -4204,7 +4260,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 186613,
       "name": "Cella 4",
       "url": "https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC"
@@ -5152,7 +5208,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 203647,
       "name": "Coca zero",
       "url": "https://open.spotify.com/track/6UyAn0ZryVpQqbpAjICV3e"
@@ -9264,7 +9320,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 209621,
       "name": "Fragole",
       "url": "https://open.spotify.com/track/4Js31maTathTS2flQOQr2c"
@@ -21340,7 +21396,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 226640,
       "name": "Restare (feat. Lazza)",
       "url": "https://open.spotify.com/track/4Vguuo2E1onl5knqW1X3fH"

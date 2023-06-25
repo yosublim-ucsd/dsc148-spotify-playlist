@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-143 songs - 13 hr 51 min
+144 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [S&R Video \(feat\. Randy Brecker\)](https://open.spotify.com/track/3kOzWLkvTi1uPAo7cPYxpe) | [Benjamin Croft](https://open.spotify.com/artist/6DrVJByeJgHqJ7A3SsBnFE), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [S&R Video \(feat\. Randy Brecker\)](https://open.spotify.com/album/356BiZhePgIIHCwm3DFaMf) | 5:07 | 2021-06-11 | 2022-07-29 |
 | [Sand](https://open.spotify.com/track/1ShkndHksfid3GCvIuSu2k) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/7HzTW0cBacJZwUomqAWPId) | 5:25 | 2021-02-12 | 2022-07-28 |
 | [Sand](https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 5:25 | 2021-02-12 |  |
-| [Savannah](https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Free Colors](https://open.spotify.com/album/5To6BwgtYKNgZnODcbexMa) | 4:11 | 2022-04-08 |  |
+| [Savannah](https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Free Colors](https://open.spotify.com/album/5To6BwgtYKNgZnODcbexMa) | 4:11 | 2022-04-08 | 2023-06-25 |
 | [School Days](https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 7:49 | 2021-02-12 |  |
 | [Seventh String](https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:05 | 2022-09-30 |  |
 | [Silk](https://open.spotify.com/track/0iYX1Xf1jihHuZOwW6YEJ1) | [Alexei Orechin](https://open.spotify.com/artist/0hpvhki3LNILjAIhOfcKAc) | [Mirages](https://open.spotify.com/album/6QKhPgKAdOdZ19Ueqy5GMa) | 6:59 | 2021-02-12 | 2022-07-29 |
@@ -148,6 +148,7 @@
 | [U.T.F.F.](https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Henrik Linder](https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt) | [Chapter One: Shredemption](https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L) | 3:27 | 2021-08-13 |  |
 | [Up and Down](https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ) | [Anika Nilles](https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi) | [Opuntia](https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi) | 4:02 | 2022-04-29 |  |
 | [VHS Fireplace Love \- Live](https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [SmokeFace](https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf), [Gabe Jones](https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP) | [VHS Fireplace Love \(Live\)](https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy) | 2:44 | 2023-01-13 |  |
+| [Walk Cycle](https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2) | 3:12 | 2022-04-29 |  |
 | [Walk Cycle](https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi) | 3:12 | 2022-04-29 | 2023-06-22 |
 | [Wishbone](https://open.spotify.com/track/6pyDjI0P5lKlSAAKPYCmYV) | [Physical Therapy](https://open.spotify.com/artist/3M2OPq6DiaaiLeKnbvkweZ) | [Physical Therapy](https://open.spotify.com/album/6dvIiRNiWiJ7f6ZeefRECW) | 5:37 | 2021-02-12 | 2022-07-29 |
 | [You Gotta Get It While You Can](https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Sleepwalk](https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP) | 4:57 | 2021-02-12 |  |

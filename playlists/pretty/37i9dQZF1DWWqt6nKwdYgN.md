@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Gera MX y Nanpa Básico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,960 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,043 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [LA PIPA DE LA PAZ](https://open.spotify.com/track/35k8oH1X7gfCyw2Bp3c1Yy) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [LA PIPA DE LA PAZ](https://open.spotify.com/album/6Y7QL2YRsVOkFB2gxpnBEZ) | 2:30 |
 | 100 | [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 |
 
-Snapshot ID: `MCxlNTMyZTAzMDE4OTk4ZDI4YTQ3ZGNmZjQyODg3MGUyMGE0YWU3MjQ2`
+Snapshot ID: `MCw2MTc4MzQ5NDRkMGE0NjZlMTkxMGNhZDdhMjRkOTkwZmM4YWU3YTY0`

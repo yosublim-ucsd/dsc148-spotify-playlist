@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa?si=xpOBqBfdSymt8WfxdxXF_A\">Oyije</a>",
-  "num_followers": 4872,
+  "num_followers": 4934,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDU0MjllYWY4NTIyNWNlYjRjOTliMWVmNTllMzQ1NjNiMDAwMWE2",
+  "snapshot_id": "MCwwNDlmYTE0ZDY0MWJmMzFjNzM0MWE0OThlYjY1NDhlYmNmZTY2N2Qw",
   "tracks": [
     {
       "added_at": "2023-06-09 00:01:00",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
     },
     {
-      "added_at": "2023-04-20 23:59:00",
+      "added_at": "2023-06-02 00:01:00",
       "album": {
-        "name": "Yahweh",
-        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
       },
       "artists": [
         {
-          "name": "David G",
-          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 215876,
-      "name": "My Trust Is in You",
-      "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -845,20 +845,20 @@
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
-      "added_at": "2023-06-02 00:01:00",
+      "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "David G",
+          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
+      "duration_ms": 215876,
+      "name": "My Trust Is in You",
+      "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
     },
     {
       "added_at": "2023-04-20 23:59:00",

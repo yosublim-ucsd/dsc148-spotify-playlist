@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123137,
+  "num_followers": 123150,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmQwYmNlYWJkYjIwNDI4YjUwZDA3MDRiOGY3MGE1NTkxYjIzZWZh",
+  "snapshot_id": "MCw0NmRhYzk2NTUxZWJhNTNmMGYxOGU5NWE5OGQxZDlhMTk3NmE4Mzdj",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -73,24 +73,28 @@
       "url": "https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq"
     },
     {
-      "added_at": "2023-01-07 03:40:31",
+      "added_at": "2023-03-23 21:33:09",
       "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+        "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
+        "url": "https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
         },
         {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+          "name": "Daniel Hokum",
+          "url": "https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd"
+        },
+        {
+          "name": "okuma",
+          "url": "https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q"
         }
       ],
-      "duration_ms": 119649,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+      "duration_ms": 395632,
+      "name": "Gato Negro - Daniel Hokum & okuma Remix",
+      "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
     },
     {
       "added_at": "2023-02-13 19:23:19",
@@ -149,28 +153,24 @@
       "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
     },
     {
-      "added_at": "2023-03-23 21:33:09",
+      "added_at": "2023-01-07 03:40:31",
       "album": {
-        "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
-        "url": "https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg"
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
       },
       "artists": [
         {
-          "name": "Klik & Frik",
-          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
         },
         {
-          "name": "Daniel Hokum",
-          "url": "https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd"
-        },
-        {
-          "name": "okuma",
-          "url": "https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q"
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 395632,
-      "name": "Gato Negro - Daniel Hokum & okuma Remix",
-      "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
     },
     {
       "added_at": "2023-04-15 02:00:09",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
-      },
-      "artists": [
-        {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
-        }
-      ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Feel Like Honey",
         "url": "https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 236130,
       "name": "Feel Like Honey - Radio Edit",
       "url": "https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
+      },
+      "artists": [
+        {
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
+        }
+      ],
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Opus 2",
-        "url": "https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0"
+        "name": "Mexico Trance",
+        "url": "https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ"
       },
       "artists": [
         {
-          "name": "B\u00f6jo",
-          "url": "https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e"
+          "name": "I\u00f1igo Vontier",
+          "url": "https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2"
         }
       ],
-      "duration_ms": 203273,
-      "name": "Selva, Op. 2: No. 3",
-      "url": "https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0"
+      "duration_ms": 415000,
+      "name": "Mexico Trance",
+      "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -599,6 +599,22 @@
       "duration_ms": 149869,
       "name": "10",
       "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Opus 2",
+        "url": "https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6jo",
+          "url": "https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Selva, Op. 2: No. 3",
+      "url": "https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -623,22 +639,6 @@
       "duration_ms": 337102,
       "name": "Dreamy Hamilton - Oneironautics Remix",
       "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Mexico Trance",
-        "url": "https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ"
-      },
-      "artists": [
-        {
-          "name": "I\u00f1igo Vontier",
-          "url": "https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2"
-        }
-      ],
-      "duration_ms": 415000,
-      "name": "Mexico Trance",
-      "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -709,38 +709,6 @@
       "url": "https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh"
     },
     {
-      "added_at": "2022-12-21 16:52:17",
-      "album": {
-        "name": "Ensayo de un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj"
-      },
-      "artists": [
-        {
-          "name": "Panoptica",
-          "url": "https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Tema para Peque\u00f1os Pilotos Aviadores",
-      "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Ancient Astronauts",
-        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
-      },
-      "artists": [
-        {
-          "name": "Bertoldi",
-          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
-        }
-      ],
-      "duration_ms": 415971,
-      "name": "Forerunner",
-      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
-    },
-    {
       "added_at": "2022-08-18 23:29:09",
       "album": {
         "name": "Bufebe",
@@ -759,6 +727,38 @@
       "duration_ms": 324444,
       "name": "Corrado",
       "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Ancient Astronauts",
+        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
+      },
+      "artists": [
+        {
+          "name": "Bertoldi",
+          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
+        }
+      ],
+      "duration_ms": 415971,
+      "name": "Forerunner",
+      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
+    },
+    {
+      "added_at": "2022-12-21 16:52:17",
+      "album": {
+        "name": "Ensayo de un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj"
+      },
+      "artists": [
+        {
+          "name": "Panoptica",
+          "url": "https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Tema para Peque\u00f1os Pilotos Aviadores",
+      "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -909,20 +909,24 @@
       "url": "https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5"
     },
     {
-      "added_at": "2022-12-21 17:17:38",
+      "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Catalog Number Sta122",
-        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+        "name": "Desire Path",
+        "url": "https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V"
       },
       "artists": [
         {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+          "name": "Lila Tirando a Violeta",
+          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
+        },
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 148157,
-      "name": "15",
-      "url": "https://open.spotify.com/track/7Htro4f5Tf3XWY2v5htdtX"
+      "duration_ms": 215462,
+      "name": "Cuerpo Que Flota",
+      "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

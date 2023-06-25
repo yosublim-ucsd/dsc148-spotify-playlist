@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 235249,
+  "num_followers": 235320,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODdhOWEwYjI5YWNhMTdhYzQ4M2NmZTkxZTYyMjI4MjJhMmM5MDg1",
+  "snapshot_id": "MCxiOTU0ODhiMTgzZmFkNTNhOWUxMzkwY2UyZGM0YWY4MjE5ZmIxZjUy",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Dreams for Two",
+        "url": "https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba"
+      },
+      "artists": [
+        {
+          "name": "Rook1e",
+          "url": "https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID"
+        }
+      ],
+      "duration_ms": 96004,
+      "name": "I Fell in Love with You One Night in September",
+      "url": "https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 252121,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Dreams for Two",
-        "url": "https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba"
-      },
-      "artists": [
-        {
-          "name": "Rook1e",
-          "url": "https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID"
-        }
-      ],
-      "duration_ms": 96004,
-      "name": "I Fell in Love with You One Night in September",
-      "url": "https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD"
     },
     {
       "added_at": "2022-02-02 00:21:48",

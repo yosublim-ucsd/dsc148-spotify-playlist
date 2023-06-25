@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 51539,
+  "num_followers": 51568,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWZiMGNlZjQwMDY0MzIwODgzZGQwM2JmOTE1NGMxYzk0ZWE3Mjg0",
+  "snapshot_id": "MCxhNzBmYjU5ZDFkNjViMDFjMjc0OTBhZDFkZjY4NGQ2ZDdiYjJmZWVl",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/3fBplUasp3sIiqGRonASkl"
+      },
+      "artists": [
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+        }
+      ],
+      "duration_ms": 121005,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/1zxcCcoyCqSz55gk9noip5"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "Too Many Lies",
         "url": "https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 199757,
       "name": "Too Many Lies",
       "url": "https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/3fBplUasp3sIiqGRonASkl"
-      },
-      "artists": [
-        {
-          "name": "Ivorian Doll",
-          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
-        }
-      ],
-      "duration_ms": 121005,
-      "name": "Rumours",
-      "url": "https://open.spotify.com/track/1zxcCcoyCqSz55gk9noip5"
     }
   ],
   "unique_name": "Drill Work",

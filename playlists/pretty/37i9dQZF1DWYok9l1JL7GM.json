@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Master P",
-  "num_followers": 458915,
+  "num_followers": 459286,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2RkZGVlMTE4ZjczMDYzNDgyY2M2YzA0MDExMzliMjdlNmE2ZDIx",
+  "snapshot_id": "MCwzMzk0MTBjNjBhZTliNzgzZDJlZDFjZGE3MTEwYjY5Y2MxM2MyNGI5",
   "tracks": [
     {
       "added_at": "2023-06-03 04:00:00",
@@ -419,26 +419,22 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "Who Is Mike Jones?",
-        "url": "https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2"
+        "name": "New Joc City",
+        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
       },
       "artists": [
         {
-          "name": "Mike Jones",
-          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
         },
         {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Slim Thug",
-          "url": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP"
         }
       ],
-      "duration_ms": 271053,
-      "name": "Still Tippin' (feat. Slim Thug and Paul Wall)",
-      "url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la"
+      "duration_ms": 241840,
+      "name": "It's Goin' Down (feat. Nitti)",
+      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
     },
     {
       "added_at": "2023-06-03 04:00:00",
@@ -463,22 +459,26 @@
     {
       "added_at": "2023-06-03 04:00:00",
       "album": {
-        "name": "New Joc City",
-        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
+        "name": "Who Is Mike Jones?",
+        "url": "https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2"
       },
       "artists": [
         {
-          "name": "Yung Joc",
-          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
         },
         {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP"
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Slim Thug",
+          "url": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
         }
       ],
-      "duration_ms": 241840,
-      "name": "It's Goin' Down (feat. Nitti)",
-      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
+      "duration_ms": 271053,
+      "name": "Still Tippin' (feat. Slim Thug and Paul Wall)",
+      "url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la"
     },
     {
       "added_at": "2023-06-03 04:00:00",

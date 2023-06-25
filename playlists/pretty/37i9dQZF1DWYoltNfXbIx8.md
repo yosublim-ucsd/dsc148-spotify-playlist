@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,022 likes - 70 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,092 likes - 70 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 10 | [Artistas ou Não](https://open.spotify.com/track/0dRgUTQzIdmDuvmPQszmEO) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Juventude de Atitude](https://open.spotify.com/album/22Vf9nDmlJ6xmfvL4yLJh1) | 5:27 |
 | 11 | [Olha O Menino](https://open.spotify.com/track/0ptYXDqZ9GVPhJGPbUG8yY) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 3:53 |
 | 12 | [Paz Interior](https://open.spotify.com/track/5hO76mbTvvaKqpo3EmMb8N) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 6:06 |
-| 13 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/66073TiPtbCattnpSkyuKq) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 6:23 |
+| 13 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/66073TiPtbCattnpSkyuKq) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 6:23 |
 | 14 | [Um Bom Lugar](https://open.spotify.com/track/2QvXPaXSw3NtAV4gDW8NNn) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:05 |
 | 15 | [Rap Du Bom](https://open.spotify.com/track/6GDVcl6uasdEJVMko6Gvyh) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Sujeito Homem](https://open.spotify.com/album/0sctseQHsxIPSQjwDp7cRs) | 5:51 |
 | 16 | [Brasília Periferia, Pt\. 2](https://open.spotify.com/track/6VO6LtVee73oVA0iIQnjt8) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/2LpWCjcNCMyi3UhN8ZeGa4) | 7:33 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 61 | [Agora a Casa Cai](https://open.spotify.com/track/77D3GyRZ2ddba9uJ50rQbX) | [Doctor MC's](https://open.spotify.com/artist/3Jj7NIBaqFSHmcsO33ilwh) | [Doctor MC's](https://open.spotify.com/album/18LMHVIJXOZSUwuZSDcnug) | 3:30 |
 | 62 | [Lei da Periferia](https://open.spotify.com/track/0CoYJSj7z3XiUqyIyxY0hO) | [Consciência Humana](https://open.spotify.com/artist/1nwuifu5rxgVlrGwjjoJOt) | [Entre a Adolescência e o Crime](https://open.spotify.com/album/6ndOfkbN2BiLUzE4x5tprw) | 7:21 |
 | 63 | [Verão na Vr](https://open.spotify.com/track/1zmrCI79qVk2BZJA6Skwdi) | [Sistema Negro](https://open.spotify.com/artist/0gTfX03fj7QzSbBTCRbpPI) | [Jogada Final](https://open.spotify.com/album/6l0hajkWQRFXLcdR5Pe455) | 6:33 |
-| 64 | [Viajando Na Balada](https://open.spotify.com/track/6crVEDmeU57DebYfJnr7Qq) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 5:11 |
+| 64 | [Viajando Na Balada](https://open.spotify.com/track/6crVEDmeU57DebYfJnr7Qq) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 5:11 |
 | 65 | [Contexto](https://open.spotify.com/track/5eS43KfdjIfUWxAXpfXT8x) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [A Invasão do Sagaz Homem Fumaça](https://open.spotify.com/album/0ElMwq6ONWreyOISGZKaTl) | 3:45 |
 | 66 | [Enxame](https://open.spotify.com/track/21HGlwk8A6uiTMdb74W4Jb) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 6:31 |
 | 67 | [Se o Mundo Inteiro Pudesse Me Ouvir](https://open.spotify.com/track/4pEi1lS6zX3MSsMUH1BBwz) | [Filosofia de Rua](https://open.spotify.com/artist/7rwCXuDiu5DR1oLOmTBOLz), [Adriana Lessa](https://open.spotify.com/artist/0rYHFYy1sEUIRLg8vaoIim) | [Valeu a Experiência](https://open.spotify.com/album/5aQEUX7xQXEiBVRjyc5I8v) | 5:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 69 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 |
 | 70 | [Mandando Bronca](https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Max](https://open.spotify.com/artist/4uPE8jQtZMzl7kYevZv26v), [Igor Cavalera](https://open.spotify.com/artist/54SDl74Lz33Vi2SnbO5GFu) | [Cadeia Nacional](https://open.spotify.com/album/1c7a4F6mAh53vef9gWrhl5) | 4:26 |
 
-Snapshot ID: `MCw1NWNmMzZiNDI1NTM5ZDJjYmFmMzQzNzNjNjE3MmExYjQwMTE2YzFj`
+Snapshot ID: `MCw2YTBiZWFlZjE3YjVlNDFiMTJjYTc1ZWQ4NzMzMjNlNmE1ODA2ZmU5`

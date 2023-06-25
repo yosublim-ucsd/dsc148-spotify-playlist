@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Zulu
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,540 likes - 85 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,669 likes - 85 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 84 | [Dancing on a Pin](https://open.spotify.com/track/3SFYfWiTxhj9l1Erllc64i) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Dancing on a Pin](https://open.spotify.com/album/4l84ZA07jEaYL2c1yxnyNV) | 2:21 |
 | 85 | [Point of View](https://open.spotify.com/track/0fU9H6KTGKtthrZZ5AHjZ1) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Spaced Jams](https://open.spotify.com/album/3JcTBkIo5IvXcynwij8AOt) | 2:01 |
 
-Snapshot ID: `MCw4NGUzOTY3NzE5MTRkN2EwOWUzM2Y0ZDZkOTM2MmU0MDI2YmU0ZTUw`
+Snapshot ID: `MCw2OWJiZDJkOTA2YmI5NzgwYjIxNmVmMDI5YWI4OWZkNzU3NzQyZjhj`

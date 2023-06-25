@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 1785,
+  "num_followers": 1798,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWFlMzE0NDdlMTBlMTBjZGQ0MjRjZDMzNmY4YmFhNWYyOGFiYzlm",
+  "snapshot_id": "MCw4M2Y3YmU0MTM0ZmY1YWE2MjQwMjc2MGEyM2I0YjNmMDI4MGNiYTVh",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Regalo de Navidad",
-        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
+        "name": "Plena Combativa",
+        "url": "https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD"
       },
       "artists": [
         {
-          "name": "Gary Nu\u00f1ez & Plena Libre",
-          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
+          "name": "Plena Combativa",
+          "url": "https://open.spotify.com/artist/3JBCcEZu6NeT0CxMAiBG4d"
         }
       ],
-      "duration_ms": 411213,
-      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
-      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
+      "duration_ms": 299282,
+      "name": "El Tumbe",
+      "url": "https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Plena Combativa",
-        "url": "https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD"
+        "name": "Regalo de Navidad",
+        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
       },
       "artists": [
         {
-          "name": "Plena Combativa",
-          "url": "https://open.spotify.com/artist/3JBCcEZu6NeT0CxMAiBG4d"
+          "name": "Gary Nu\u00f1ez & Plena Libre",
+          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
         }
       ],
-      "duration_ms": 299282,
-      "name": "El Tumbe",
-      "url": "https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH"
+      "duration_ms": 411213,
+      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
+      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -603,18 +603,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Buya (Live)",
-        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
       "artists": [
         {
-          "name": "Buya",
-          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Candela (Seis Corrido) [Live]",
-      "url": "https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW"
+      "duration_ms": 225760,
+      "name": "Si te preguntaran",
+      "url": "https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -651,22 +655,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+        "name": "Buya (Live)",
+        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
       "artists": [
         {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+          "name": "Buya",
+          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
         }
       ],
-      "duration_ms": 225760,
-      "name": "Si te preguntaran",
-      "url": "https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ"
+      "duration_ms": 192786,
+      "name": "Candela (Seis Corrido) [Live]",
+      "url": "https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+      },
+      "artists": [
+        {
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gua\u00f1eco pi\u00e9",
+      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "A La Buena Si",
         "url": "https://open.spotify.com/album/4uJmBA2GdFJExP1VUvTMUV"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 350346,
       "name": "Sirenas, Sangueo y San Mill\u00e1n",
       "url": "https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
-      },
-      "artists": [
-        {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gua\u00f1eco pi\u00e9",
-      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
     },
     {
       "added_at": "2023-06-13 22:15:19",

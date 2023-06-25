@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 284399,
+  "num_followers": 284569,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTNhMTFlYzc2OGYyZjU3ZGU3Nzk5ZTczYzAwNmNlYzU3M2YwMDM1",
+  "snapshot_id": "MCxlNTlhNmY0ZTVkOTNlNmIwNWVjMzRiNmRlODQwNzQ2MjBiMjQ0M2Ey",
   "tracks": [
     {
       "added_at": "2023-05-05 05:09:11",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "I'm With Stupid",
-      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 292586,
       "name": "Jesus Built My Hotrod",
       "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "I'm With Stupid",
+      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Symbols",
-        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 367933,
-      "name": "Megalomaniac",
-      "url": "https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 310293,
       "name": "Just One Fix",
       "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Symbols",
+        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 367933,
+      "name": "Megalomaniac",
+      "url": "https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Ich wei\u00df es nicht",
-        "url": "https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6"
-      },
-      "artists": [
-        {
-          "name": "Lindemann",
-          "url": "https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv"
-        }
-      ],
-      "duration_ms": 289451,
-      "name": "Ich wei\u00df es nicht",
-      "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Out For Blood",
         "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 220026,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Ich wei\u00df es nicht",
+        "url": "https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6"
+      },
+      "artists": [
+        {
+          "name": "Lindemann",
+          "url": "https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv"
+        }
+      ],
+      "duration_ms": 289451,
+      "name": "Ich wei\u00df es nicht",
+      "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Come Back to Life",
-        "url": "https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx"
-      },
-      "artists": [
-        {
-          "name": "Lock The Basement",
-          "url": "https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Come Back to Life",
-      "url": "https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "MDFMK",
         "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 255133,
       "name": "Torpedoes",
       "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Come Back to Life",
+        "url": "https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx"
+      },
+      "artists": [
+        {
+          "name": "Lock The Basement",
+          "url": "https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Come Back to Life",
+      "url": "https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Supernaut",
-        "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
-      },
-      "artists": [
-        {
-          "name": "1000 Homo DJs",
-          "url": "https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb"
-        }
-      ],
-      "duration_ms": 402706,
-      "name": "Supernaut",
-      "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Prey & Obey",
         "url": "https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 286974,
       "name": "Prey & Obey",
       "url": "https://open.spotify.com/track/010zNby24HBoMyMZClgViJ"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Supernaut",
+        "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
+      },
+      "artists": [
+        {
+          "name": "1000 Homo DJs",
+          "url": "https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb"
+        }
+      ],
+      "duration_ms": 402706,
+      "name": "Supernaut",
+      "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"
     },
     {
       "added_at": "2023-05-05 05:09:11",

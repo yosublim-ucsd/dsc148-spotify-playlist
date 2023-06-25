@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 314655,
+  "num_followers": 314703,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGVlZTc0YjhhZjQzZGFmYzMyOTM0NzljYWU4M2M5MDQxNTYxMTc1",
+  "snapshot_id": "MCxkMmI0OTU2MTM5MzQxMjYxMjM0MjMyNmE5YzMzNTQzODFkNmNhOTk4",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Celebridades- Daniela Romo",
-        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
+        "name": "Buenos D\u00edas Se\u00f1or Sol",
+        "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
       },
       "artists": [
         {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+          "name": "Vazquez Sounds",
+          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
         }
       ],
-      "duration_ms": 218120,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
+      "duration_ms": 165560,
+      "name": "Buenos D\u00edas Se\u00f1or Sol",
+      "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Buenos D\u00edas Se\u00f1or Sol",
-        "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
+        "name": "Celebridades- Daniela Romo",
+        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
       "artists": [
         {
-          "name": "Vazquez Sounds",
-          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
         }
       ],
-      "duration_ms": 165560,
-      "name": "Buenos D\u00edas Se\u00f1or Sol",
-      "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
+      "duration_ms": 218120,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Con Amor Eterno",
-        "url": "https://open.spotify.com/album/3pBSsHUrvLhFjEopqGFCM4"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Nadie Baila Como T\u00fa/El Noa Noa - Medley",
-      "url": "https://open.spotify.com/track/6eoS8IKUmz1MBSimwCMWYP"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Mis Covers",
         "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 196000,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Con Amor Eterno",
+        "url": "https://open.spotify.com/album/3pBSsHUrvLhFjEopqGFCM4"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Nadie Baila Como T\u00fa/El Noa Noa - Medley",
+      "url": "https://open.spotify.com/track/6eoS8IKUmz1MBSimwCMWYP"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 280080,
-      "name": "Noa Noa",
-      "url": "https://open.spotify.com/track/74b6K0AZr4tNKeA3gab9UU"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "No Discutamos",
         "url": "https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amar y Querer (Homenaje a Las Grandes Canciones)",
-        "url": "https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU"
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
       },
       "artists": [
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
         }
       ],
-      "duration_ms": 261773,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB"
+      "duration_ms": 280080,
+      "name": "Noa Noa",
+      "url": "https://open.spotify.com/track/74b6K0AZr4tNKeA3gab9UU"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1135,6 +1119,22 @@
       "duration_ms": 191973,
       "name": "Dejame Vivir",
       "url": "https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Amar y Querer (Homenaje a Las Grandes Canciones)",
+        "url": "https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB"
     },
     {
       "added_at": "2023-05-05 18:26:22",

@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "The Idol Episode 3 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5aX2plzPm0m6zk4ZFuqbuI"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298616,
+      "name": "A Lesser Man",
+      "url": "https://open.spotify.com/track/4bPsiRqWPFPgLiPQR7jNo4"
+    },
+    {
+      "album": {
         "name": "A World Without Love",
         "url": "https://open.spotify.com/album/12n0c6H7dBP5A4UyYP6ocL"
       },
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 256069,
       "name": "Crush You",
       "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
@@ -2205,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
+    },
+    {
+      "album": {
         "name": "Drinkaby",
         "url": "https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6"
       },
@@ -2220,6 +2256,24 @@
       "duration_ms": 182893,
       "name": "Drinkaby",
       "url": "https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd"
+    },
+    {
+      "album": {
+        "name": "Drunken Sailor (Metal Version)",
+        "url": "https://open.spotify.com/album/7qWqfEemHNdzUUA5R6eEP2"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186279,
+      "name": "Drunken Sailor (Metal Version)",
+      "url": "https://open.spotify.com/track/4vKu5yXBzaLLGBMSYsjGFh"
     },
     {
       "album": {
@@ -2274,6 +2328,32 @@
       "duration_ms": 208632,
       "name": "Dust In The Wind (Metal Version)",
       "url": "https://open.spotify.com/track/6B5yyHfm3jfirdcVLM9Z3o"
+    },
+    {
+      "album": {
+        "name": "El Ni\u00f1o (feat. Lil Wayne & Boyfriend)",
+        "url": "https://open.spotify.com/album/5OpTiJ83Wd6EXlz0mUaLt3"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Boyfriend",
+          "url": "https://open.spotify.com/artist/1d0nvifbTEmCbO8BlRKjod"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185597,
+      "name": "El Ni\u00f1o (feat. Lil Wayne & Boyfriend)",
+      "url": "https://open.spotify.com/track/7niCz3hixgqnEBnO2mEHhI"
     },
     {
       "album": {
@@ -2960,7 +3040,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 227993,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/30xvhme7b9CMbjXk5WEazs"
@@ -3338,7 +3418,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 254290,
       "name": "Honey Bee",
       "url": "https://open.spotify.com/track/6Fsgnuv33wyCULPF1H26VA"
@@ -3458,7 +3538,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 100666,
       "name": "hue_man nature",
       "url": "https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN"
@@ -3726,7 +3806,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 612881,
       "name": "Impressions (feat. Eric Dolphy) - Live",
       "url": "https://open.spotify.com/track/0jFcrPx0fe5pRBRKKf8Apf"
@@ -4716,7 +4796,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 474837,
       "name": "Metamorphosis Two",
       "url": "https://open.spotify.com/track/30zbZYVVPiFmnwhiYvsCdM"
@@ -5593,6 +5673,36 @@
     },
     {
       "album": {
+        "name": "Music for a New Century",
+        "url": "https://open.spotify.com/album/6GzCM6xDYDX4gJSvuEFSTt"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Alexey Botvinov",
+          "url": "https://open.spotify.com/artist/2ncOVlwWHKWi5CnO9HkhVf"
+        },
+        {
+          "name": "New Century Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7hOM6GsmiRE9I1eM1Eldhw"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650013,
+      "name": "Piano Concerto No. 3: Movement II",
+      "url": "https://open.spotify.com/track/2GmjsD8XAmtpw6hUmHTElh"
+    },
+    {
+      "album": {
         "name": "Piece Of Me (Remix)",
         "url": "https://open.spotify.com/album/3pIl6V36ZA1KOnZzrnzOJW"
       },
@@ -6082,7 +6192,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb"
@@ -6268,7 +6378,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 259301,
       "name": "Sidetracked Soundtrack - Unreleased Demo",
       "url": "https://open.spotify.com/track/4DLQQb9DTPA04RYuHEn1ru"
@@ -7243,6 +7353,28 @@
     },
     {
       "album": {
+        "name": "Watching Movies with the Sound Off (10th Anniversary)",
+        "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264217,
+      "name": "The Star Room (OG Version) - Bonus Track",
+      "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
+    },
+    {
+      "album": {
         "name": "Things I Like",
         "url": "https://open.spotify.com/album/77sn93da6cO2WivIKLaahQ"
       },
@@ -7558,6 +7690,28 @@
       "duration_ms": 593404,
       "name": "Tube - Live",
       "url": "https://open.spotify.com/track/7diMNbGu0CZhNmGQFg9mhP"
+    },
+    {
+      "album": {
+        "name": "Till Next Time",
+        "url": "https://open.spotify.com/album/4II5QvivVfEYgeuZf0kYfT"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128464,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ"
     },
     {
       "album": {
@@ -7968,7 +8122,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 227577,
       "name": "Weird Science (Metal Version)",
       "url": "https://open.spotify.com/track/37WT6TjrstrFC9T3To5zWU"

@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 95 | [Oh Holy Lamb](https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:29 |
 | 96 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker & The Love Fellowship Crusade Choir](https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
 | 97 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |
-| 98 | [Oh What Love](https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Vickie Winans: Greatest Hits](https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI) | 7:01 |
-| 99 | [Jesus Cares](https://open.spotify.com/track/77YjhohI2Pg75GfuImUs39) | [Mighty Clouds Of Joy](https://open.spotify.com/artist/1i6bV1rRKRPTyssKZuLfwS) | [Live In Charleston](https://open.spotify.com/album/4XhR1TP2AiiyvfDeJInORK) | 8:37 |
+| 98 | [Jesus Cares](https://open.spotify.com/track/77YjhohI2Pg75GfuImUs39) | [Mighty Clouds Of Joy](https://open.spotify.com/artist/1i6bV1rRKRPTyssKZuLfwS) | [Live In Charleston](https://open.spotify.com/album/4XhR1TP2AiiyvfDeJInORK) | 8:37 |
+| 99 | [Oh What Love](https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Vickie Winans: Greatest Hits](https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI) | 7:01 |
 | 100 | [Cherish The Cross](https://open.spotify.com/track/7BranHqbktqdiojkd0r07A) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 7:30 |
 
-Snapshot ID: `MCw2ZDc4ZWQ0MzEyMzg2MGI3OGU1ZDhiMDlkNWY5NGU5NzI3ZjAxYTZh`
+Snapshot ID: `MCxjYzQ1M2Y2NmFlNTQxMTEzNmRiY2Q2MWY2ZTVjNzQ2ZDAyMGIzM2Fi`

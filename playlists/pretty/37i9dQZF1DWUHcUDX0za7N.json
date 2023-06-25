@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT?si=Lio3TRvZT262-3BFuFBXCw\"> Major AJ </a> and <a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=TQ2dWLOuSYaYmdlku-j7dQ\"> Blaqbonez </a> ",
-  "num_followers": 21140,
+  "num_followers": 21194,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzNjYTZlYjYzMDYzN2E5NjdkN2NhMGZhMThlY2QzYWZmOGRkNDYx",
+  "snapshot_id": "MCwxNDk4YTZkN2Y5ODhlNTA5N2JhMmQyMjQxOTBkMGYyN2U2ODAxNTZm",
   "tracks": [
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "OUTSIDE & PUT ON",
-        "url": "https://open.spotify.com/album/1FksGKiZFxrX7ScWKuIsPf"
-      },
-      "artists": [
-        {
-          "name": "Prince DeJersey",
-          "url": "https://open.spotify.com/artist/5ClHOjYPuxU64qFJb1VWWB"
-        }
-      ],
-      "duration_ms": 159576,
-      "name": "OUTSIDE",
-      "url": "https://open.spotify.com/track/0ykUFlFHvqShR6irBlS0IH"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 163507,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "OUTSIDE & PUT ON",
+        "url": "https://open.spotify.com/album/1FksGKiZFxrX7ScWKuIsPf"
+      },
+      "artists": [
+        {
+          "name": "Prince DeJersey",
+          "url": "https://open.spotify.com/artist/5ClHOjYPuxU64qFJb1VWWB"
+        }
+      ],
+      "duration_ms": 159576,
+      "name": "OUTSIDE",
+      "url": "https://open.spotify.com/track/0ykUFlFHvqShR6irBlS0IH"
     },
     {
       "added_at": "2023-06-22 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 876167,
+  "num_followers": 876504,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzU5ZGUzMGFkZWM2NzI0YjFkZjFjNjFmYjQ5NTlhNzk1ZDRhYzM4",
+  "snapshot_id": "MCxmMDY0MjkxYzE2MTc4ZDA5OGZhMWM1NzRmZGE0MTE3MzNkOGNlNTFm",
   "tracks": [
     {
       "added_at": "2023-05-05 15:12:26",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
+        "name": "Stay There",
+        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "Stay There",
+      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
         "name": "Youth Is Wasted on the Young",
         "url": "https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 193623,
       "name": "Grouplove",
       "url": "https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
-        "name": "Stay There",
-        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "Stay There",
-      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -671,30 +671,6 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF"
-      },
-      "artists": [
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        },
-        {
-          "name": "Goatchy",
-          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
-        },
-        {
-          "name": "Frank Sonic",
-          "url": "https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR"
-        }
-      ],
-      "duration_ms": 211371,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 261290,
       "name": "Electric",
       "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF"
+      },
+      "artists": [
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        },
+        {
+          "name": "Goatchy",
+          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
+        },
+        {
+          "name": "Frank Sonic",
+          "url": "https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR"
+        }
+      ],
+      "duration_ms": 211371,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD"
     },
     {
       "added_at": "2023-05-05 15:12:26",

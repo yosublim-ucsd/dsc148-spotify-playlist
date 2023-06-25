@@ -113,6 +113,28 @@
     },
     {
       "album": {
+        "name": "Tante care cose e altri successi",
+        "url": "https://open.spotify.com/album/6WHkPn62bS6fl6jLN5cUsk"
+      },
+      "artists": [
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "Aglio e olio",
+      "url": "https://open.spotify.com/track/3AvqtcseWAUMjxuHeUAfsn"
+    },
+    {
+      "album": {
         "name": "ORO BLU",
         "url": "https://open.spotify.com/album/1lqbweQ3w6orHhehLOlZim"
       },
@@ -2958,7 +2980,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-25",
       "duration_ms": 156505,
       "name": "parachute",
       "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"

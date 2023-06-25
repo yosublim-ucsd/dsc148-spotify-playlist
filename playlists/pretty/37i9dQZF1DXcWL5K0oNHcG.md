@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Anthony Hervey Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,305 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,341 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 45 | [Cavelight](https://open.spotify.com/track/2myFC8H8H4DlMSXVxoVo7t) | [Pete Calandra and Straight Up](https://open.spotify.com/artist/5ZxriynwDpSZcN1M7zFpam) | [Cavelight](https://open.spotify.com/album/0iOU4E3IdhyDe7Tm6WtWXl) | 5:17 |
 | 46 | [Corridue](https://open.spotify.com/track/1qgaNwx2A6vihmUY97ELup) | [Stan van Dijk](https://open.spotify.com/artist/25GV3gaaXXUYzESF1TiNFS) | [Corridue](https://open.spotify.com/album/3C6tGMTruV3e6wABuGS2pt) | 2:40 |
 | 47 | [Wash' uMuti](https://open.spotify.com/track/2UR2vLrGRL7CAEiaxf5FK6) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Wash' uMuti](https://open.spotify.com/album/7IQtLhHR3Q31HW4Q0i8Uxo) | 9:22 |
-| 48 | [Convent Court](https://open.spotify.com/track/44paiDTjnjl4BMYfRxOKio) | [Alex Weitz](https://open.spotify.com/artist/6lQ6kYKqnZIG6gy30EzOw8), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Rule of Thirds](https://open.spotify.com/album/3xSa7hmC7qWcPRfM8mgXbk) | 6:15 |
+| 48 | [Convent Court](https://open.spotify.com/track/7tpnbcsfipq4K59y4JhZFl) | [Alex Weitz](https://open.spotify.com/artist/6lQ6kYKqnZIG6gy30EzOw8), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Rule of Thirds](https://open.spotify.com/album/0T9BQmmADgRH8eeV6IkUJI) | 6:15 |
 | 49 | [Ostend](https://open.spotify.com/track/7qL6fzjiN5TZ8ULxKbbmcA) | [KVR](https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo) | [Ostend](https://open.spotify.com/album/6zDX7WsgITFRx7OvoMjom5) | 4:22 |
 | 50 | [Resonance](https://open.spotify.com/track/3D8qO1KBD4LE3hf98PWDaz) | [BZSounds](https://open.spotify.com/artist/5sfU8PTosAbplqqVFQGwVH) | [Resonance](https://open.spotify.com/album/6lkWhsa43nOo4QZ4SkslKm) | 4:49 |
 | 51 | [Kinmok\-Sailor](https://open.spotify.com/track/0PJ0VgnKdcgWwopfX1wns8) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Kinmok\-Sailor](https://open.spotify.com/album/4Ja4GcGXBRqS66A7yJmiPO) | 8:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Stank Face Patrol](https://open.spotify.com/track/6atptFSO0uK34oWZB9sevI) | [Jeremy Talon](https://open.spotify.com/artist/3ZCxlp3z1vzDcPN3kgPwcJ) | [Stank Face Patrol](https://open.spotify.com/album/60KAKPSwkb7PN98c7iQkdh) | 3:15 |
 | 75 | [Spunky](https://open.spotify.com/track/0V9UpZ9vnrssMEUqma64en) | [Conrad Schwenke Quartett](https://open.spotify.com/artist/5HSogDeVBlBOlWUkcAJoSx) | [Spunky](https://open.spotify.com/album/6G2n8F5OrMpY7W9W7CEaGh) | 5:51 |
 
-Snapshot ID: `MCwxMDE2YWQ0MWI3MzE4ZTQ5M2YzM2UyMWE0NDMwYjExZjAxMzE2MTk4`
+Snapshot ID: `MCwwODFiMGFhNjk2NzcxNmQyOWQ1MjllZGU0MDNkMWRhYmI0OGI0MDk1`

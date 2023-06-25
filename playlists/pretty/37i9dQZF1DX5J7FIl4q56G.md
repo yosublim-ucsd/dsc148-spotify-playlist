@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: To The Grave
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,075 likes - 53 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,218 likes - 53 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 52 | [Divinity](https://open.spotify.com/track/2DPjMR7XCNeOlMezhteDPd) | [High Priest](https://open.spotify.com/artist/2Th7cxxMcOA78c0iIEK4C9) | [Divinity](https://open.spotify.com/album/0WXM4Z0C1cdplUszmn4gKi) | 5:09 |
 | 53 | [Buried](https://open.spotify.com/track/0nc8Rhvv7ZkXyytjL2FpzA) | [The Anchoret](https://open.spotify.com/artist/2CWzy7rhieFqpsLq0mTV58) | [It All Began With Loneliness](https://open.spotify.com/album/4Wbzq8JDJIY6g1CQI3cDrC) | 4:28 |
 
-Snapshot ID: `MCw1OTY2M2FhYzI1NWI2YTYzZDQ1ODQ4NWE5ZGYwNjEwZmFjNjJiNDc4`
+Snapshot ID: `MCwxYjUyNjRkNjQ5NDQ1ZGFlYjhjMDVmNjc3Mjc0ZjMxMTQ4NDAyMDU5`

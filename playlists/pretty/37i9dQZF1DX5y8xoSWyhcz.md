@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,742 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,811 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 107 | [moving song](https://open.spotify.com/track/1PZl6YAnHPyR2wcloffA7R) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [moving song](https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh) | 2:45 |
 | 108 | [21](https://open.spotify.com/track/49RhtS6ytYNTNBWZTCim9W) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [21](https://open.spotify.com/album/2F93FcT55nGgGrRFGndqCc) | 2:40 |
 | 109 | [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 |
-| 110 | [Sensitive](https://open.spotify.com/track/4jf5URUdjQl9pdj7lSVqBa) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Sensitive](https://open.spotify.com/album/5snWUfs3P5dAfTEXa4Cf8m) | 2:37 |
+| 110 | [Sensitive](https://open.spotify.com/track/6zWHxNVsbcbVMdbqSUDJk3) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Kiss Face](https://open.spotify.com/album/6x4ee8oOBm8gcAokHlkEjk) | 2:37 |
 | 111 | [Eighteen](https://open.spotify.com/track/2nedsXMQLeKmvRYoLAGOuh) | [Julian Daniel](https://open.spotify.com/artist/6pj58pVbAOuTxwJrx4KWHf) | [Eighteen](https://open.spotify.com/album/5SwILpenGYOUgKAxG5lT7v) | 2:56 |
 | 112 | [Hurdles](https://open.spotify.com/track/09U6OMOn9ALQ7wX1Ly6VqV) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Hurdles](https://open.spotify.com/album/2XCte5k29fj1O7MDlwqwVH) | 3:24 |
 | 113 | [For The Good](https://open.spotify.com/track/32wNxsULE8I9Fd8aU0o7JW) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [For The Good](https://open.spotify.com/album/0RjCuHSyUalAewW06tJbCH) | 0:53 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Tidal Wave](https://open.spotify.com/track/6batG48NWXXFdB9k6V2pK2) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Tidal Wave](https://open.spotify.com/album/5AVyDFH7uijN9sXikqMzIT) | 3:49 |
 | 125 | [Let Go](https://open.spotify.com/track/1DtdX9FfsysjfOXhVfGySB) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Let Go](https://open.spotify.com/album/0nanElKiXhl3gLEyluduzv) | 3:10 |
 
-Snapshot ID: `MCxlNzNlZjQ1MDc3YWU5NDQ1MjFkNzZhNzAwMDQxZjY5M2Y3NjJjNjRl`
+Snapshot ID: `MCw5MTM5NzNlODU0NjgwYjQwMzY3ZWE1ZWU1OGY0YTFkNmM4ZjZlODU2`

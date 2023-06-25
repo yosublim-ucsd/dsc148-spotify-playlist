@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,979 likes - 201 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,997 likes - 201 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 21 | [Cuestion de Tiempo](https://open.spotify.com/track/5aCbZRI0HjU8QlJzJpeTFp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:43 |
 | 22 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 |
 | 23 | [Sin Waze](https://open.spotify.com/track/4Q7PAq0JYYX4XRFCIXHYlR) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:05 |
-| 24 | [Atrapado \- EDM](https://open.spotify.com/track/1kzor3FKIhB9a8XIWNhtvA) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:21 |
+| 24 | [Atrapado](https://open.spotify.com/track/1kzor3FKIhB9a8XIWNhtvA) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:21 |
 | 25 | [Hey!](https://open.spotify.com/track/0kJEhyaIRQTItRQ2pf0hpO) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Hey!](https://open.spotify.com/album/296LdW08MSvJEl5lu87rxQ) | 2:30 |
 | 26 | [Isabel](https://open.spotify.com/track/5mUUAMwrOgud4eLWNdix6F) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Hey!](https://open.spotify.com/album/296LdW08MSvJEl5lu87rxQ) | 2:21 |
 | 27 | [Dolores](https://open.spotify.com/track/7feR9silzWV3bUuUOxcQ4f) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Hey!](https://open.spotify.com/album/296LdW08MSvJEl5lu87rxQ) | 2:26 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 200 | [Ciao](https://open.spotify.com/track/4d4zvfpRW1adBjXpwZ7GUt) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Ciclos](https://open.spotify.com/album/3ZwjSmHcREhM3IBfXOwd4i) | 2:54 |
 | 201 | [Sexto sentido](https://open.spotify.com/track/1tVRJIZvcdVsfYX0H8jf56) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Ciclos](https://open.spotify.com/album/3ZwjSmHcREhM3IBfXOwd4i) | 2:52 |
 
-Snapshot ID: `MCxkYWY0ZmQ4NmY0NDhmYjdhNjk5NzIyMWViMWNmYzBlN2E5NjFkMmI2`
+Snapshot ID: `MCxkNGJhOWQzMmI5ZGRhNTU3YjBmNWRkNjYxZGFiMGFhNzhjY2RmNzdm`

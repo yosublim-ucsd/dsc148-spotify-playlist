@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Suellen Brum
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,120 likes - 85 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,273 likes - 85 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [O Menor \(Ao Vivo\)](https://open.spotify.com/track/27sYTbQbEEqhgEFKuDyxlj) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc), [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x) | [O Menor \(Ao Vivo\)](https://open.spotify.com/album/6giUIvYzvLaogQc2jvomCi) | 5:22 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MCxmNDA3NjlmODYwNGFlNTAxZDQ1OTljZjlmZjVhZjczN2RkZDQxYzVh`
+Snapshot ID: `MCxhZjY0ZjIyM2FiNTViYWIwNDk1NTc1YTEyYTExOWQ1NjkyZGY5ZTlj`

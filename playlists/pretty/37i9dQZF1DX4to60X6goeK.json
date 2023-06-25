@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 44601,
+  "num_followers": 44621,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTg0MDdkYTEzODlhYjlhMmUxOTVmYzRlNDMxMjI0YjcyNGNkMDQ2",
+  "snapshot_id": "MCwzNjc5YTVkMTIzZDUwNTZjMmZkYjk5NWZiMjI1YTg4Y2ZiOWFkYjRh",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Back To Normal",
-        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
+        "name": "Ultralight",
+        "url": "https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI"
       },
       "artists": [
         {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         }
       ],
-      "duration_ms": 268939,
-      "name": "Lightspeed",
-      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
+      "duration_ms": 223448,
+      "name": "Ultralight",
+      "url": "https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Ultralight",
-        "url": "https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI"
+        "name": "Back To Normal",
+        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 223448,
-      "name": "Ultralight",
-      "url": "https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y"
+      "duration_ms": 268939,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Kickons",
+        "url": "https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Kickons",
+      "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "VOID LP",
         "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 180000,
       "name": "Free",
       "url": "https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Kickons",
-        "url": "https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 235862,
-      "name": "Kickons",
-      "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "VOID LP",
-        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Money Moves (The Remixes)",
         "url": "https://open.spotify.com/album/6XyppXwfyf3t1MzIr6qxl9"
       },
@@ -1075,22 +1059,42 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "3 Dots",
-        "url": "https://open.spotify.com/album/787GjxTZlFUiU6d0CzSPQt"
+        "name": "Cool Out Son",
+        "url": "https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4"
       },
       "artists": [
         {
-          "name": "The Sauce",
-          "url": "https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG"
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
         },
         {
-          "name": "Jakes",
-          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
+          "name": "Benny Page",
+          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+        },
+        {
+          "name": "Isaac Maya",
+          "url": "https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8"
         }
       ],
-      "duration_ms": 268800,
-      "name": "3 Dots",
-      "url": "https://open.spotify.com/track/09iyiGsA1NJ8GCHiog5fyj"
+      "duration_ms": 208457,
+      "name": "Cool Out Son - Benny Page & Isaac Maya Remix - Edit",
+      "url": "https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
     },
     {
       "added_at": "2022-08-12 16:34:51",

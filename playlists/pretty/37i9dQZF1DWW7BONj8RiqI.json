@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Destra ",
-  "num_followers": 180727,
+  "num_followers": 180844,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzAwNmVjYjI4ZGY5Y2I4MTEzNGQ0MDNmNTliMTFlNzY0NGUyYmE3",
+  "snapshot_id": "MCwzNTBmYzQ4ZDFjNjcwM2RkOWQ3ZjY2Yzk2YWI0NzQ5ZTg2Y2YxNTkw",
   "tracks": [
     {
       "added_at": "2023-05-15 02:33:18",
@@ -611,18 +611,26 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
+        "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
       },
       "artists": [
         {
-          "name": "KES the Band",
-          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -647,26 +655,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "The Xtatik Circus",
-        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        },
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Mr. Fete - Single",
-        "url": "https://open.spotify.com/album/5eGmGmPuRrwqkio8StYeBK"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 231050,
-      "name": "Mr. Fete",
-      "url": "https://open.spotify.com/track/2cTbXePq0kurJhdxG7qBd5"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "The Art of Flex",
         "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Mr. Fete - Single",
+        "url": "https://open.spotify.com/album/5eGmGmPuRrwqkio8StYeBK"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 231050,
+      "name": "Mr. Fete",
+      "url": "https://open.spotify.com/track/2cTbXePq0kurJhdxG7qBd5"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Plat",
         "url": "https://open.spotify.com/album/7DS6yYLRHHGgXPcyWcDG0j"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 285653,
       "name": "Pump Me Up",
       "url": "https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Monk Mont\u00e9",
-        "url": "https://open.spotify.com/album/6mjnIomPsuMnKlgD2yij16"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 189657,
-      "name": "Like Ah Boss",
-      "url": "https://open.spotify.com/track/0ZEK6MHn9EfZtH9oaxLTgG"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -939,22 +923,34 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "We Muzik (Soca 2016 Trinidad and Tobago Carnival), Vol. 7",
-        "url": "https://open.spotify.com/album/3xEYJSimdJLjkjGm7euCjW"
+        "name": "Monk Mont\u00e9",
+        "url": "https://open.spotify.com/album/6mjnIomPsuMnKlgD2yij16"
       },
       "artists": [
         {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         }
       ],
-      "duration_ms": 218213,
-      "name": "Cheers to Life",
-      "url": "https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo"
+      "duration_ms": 189657,
+      "name": "Like Ah Boss",
+      "url": "https://open.spotify.com/track/0ZEK6MHn9EfZtH9oaxLTgG"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Give It to Ya",
+        "url": "https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc"
+      },
+      "artists": [
+        {
+          "name": "Marzville",
+          "url": "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P"
+        }
+      ],
+      "duration_ms": 172253,
+      "name": "Give It to Ya",
+      "url": "https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -975,18 +971,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Give It to Ya",
-        "url": "https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc"
+        "name": "We Muzik (Soca 2016 Trinidad and Tobago Carnival), Vol. 7",
+        "url": "https://open.spotify.com/album/3xEYJSimdJLjkjGm7euCjW"
       },
       "artists": [
         {
-          "name": "Marzville",
-          "url": "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P"
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
         }
       ],
-      "duration_ms": 172253,
-      "name": "Give It to Ya",
-      "url": "https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS"
+      "duration_ms": 218213,
+      "name": "Cheers to Life",
+      "url": "https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Pop's Guitar Riddim",
         "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Engine Room",
-        "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
       },
       "artists": [
         {
-          "name": "Olatunji",
-          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 201594,
-      "name": "Engine Room",
-      "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Engine Room",
+        "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
+      },
+      "artists": [
+        {
+          "name": "Olatunji",
+          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
+        }
+      ],
+      "duration_ms": 201594,
+      "name": "Engine Room",
+      "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Dutty Dutty Riddim",
         "url": "https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 169743,
       "name": "Take Bamboo",
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1191,22 +1207,6 @@
       "duration_ms": 173426,
       "name": "Funky Business",
       "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Soca Queen",
         "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
+        "name": "Happy Daze Riddim",
+        "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
       },
       "artists": [
         {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
+      "duration_ms": 230543,
+      "name": "Bless This Party",
+      "url": "https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1655,22 +1671,6 @@
       "duration_ms": 166809,
       "name": "Buddy Bye (feat. Konshens & Noah Powa)",
       "url": "https://open.spotify.com/track/55clF0PIQvjkXfRqrNI7jS"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Happy Daze Riddim",
-        "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 230543,
-      "name": "Bless This Party",
-      "url": "https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA"
     },
     {
       "added_at": "2023-05-15 02:33:18",

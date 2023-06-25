@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: KIM JAE HWAN\(김재환\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,674 likes - 671 songs - 1 day 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,748 likes - 671 songs - 1 day 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -680,4 +680,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 670 | [Rule Breaker \(Feat\. Coogie\)](https://open.spotify.com/track/3XSWacmwEyiaqeyt8FpIhI) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Rule Breaker](https://open.spotify.com/album/1RsM2FDQlL59ksBbwuOcSY) | 3:31 |
 | 671 | [Hug Me](https://open.spotify.com/track/7wWGayXaXNhJoqGXKpZx8B) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Hug Me](https://open.spotify.com/album/6oCJH0FVr840WLbNeWgpaO) | 2:17 |
 
-Snapshot ID: `MCwxYzUwNjZmMjc4YjM4OGUyOGQ2NDllNzdlMzYzMTMzODliYjg4NzJi`
+Snapshot ID: `MCw2YTYzNzU1NWNhMjJiZWM4ZDI5YjJlMTM2NWIyYTg2M2QxNGRiODAx`

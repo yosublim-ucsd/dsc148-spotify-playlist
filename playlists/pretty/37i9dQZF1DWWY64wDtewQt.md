@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,715,629 likes - 100 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,725,096 likes - 100 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 90 | [LAND OF FIRE](https://open.spotify.com/track/4aYamw19Hloc6hQlJwWM1y) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [LAND OF FIRE](https://open.spotify.com/album/5mug3wnRpYOjgJGi4oioQi) | 2:33 |
 | 91 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |
 | 92 | [Own Paradise](https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG) | [LXAES](https://open.spotify.com/artist/5H0EvN3WxKB6HaRpH7OY0z) | [Own Paradise](https://open.spotify.com/album/5jh2KaX4hvRnEmPM8RM8HG) | 2:08 |
-| 93 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
+| 93 | [Swaggin' at the Partment](https://open.spotify.com/track/7MNyh8ecfu0cE2hkXIvZAo) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Chappo](https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz) | [Swaggin' at the Partment](https://open.spotify.com/album/66zLalLqmD8cv653QsaC8B) | 2:04 |
 | 94 | [SHOOTERS](https://open.spotify.com/track/5hJewESdjToYG75xQGXyJy) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [SHOOTERS](https://open.spotify.com/album/5pm2qVAOwfcJrb8lRJQ82R) | 2:11 |
 | 95 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 |
 | 96 | [Hurt](https://open.spotify.com/track/7ANKWDStVvxzYfxLrtmKYw) | [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB), [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Hurt](https://open.spotify.com/album/6WYCXDmpxqOAAMK3AZXkRQ) | 2:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [Take Me Home](https://open.spotify.com/track/0KFK1UkZkYO5uv9MmAN4t1) | [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB), [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Take Me Home](https://open.spotify.com/album/74hmoEvrQchYpQFdmhmXcE) | 2:12 |
 | 100 | [BLAST EM'](https://open.spotify.com/track/4hClBQVJ6nxafNtkDZFqJH) | [Aega](https://open.spotify.com/artist/2N0BopkxZUQkMLNDEuHaEJ) | [BLAST EM'](https://open.spotify.com/album/2hqasGIYmGCBQwmzL9Pwa8) | 2:07 |
 
-Snapshot ID: `MCwwZTZkNDg5OTkxOGUzYzY5NzE1ZDgyMGUxZmVlZTY4NmZkYjJkZGM4`
+Snapshot ID: `MCxlYzM5MGMwNDI0YzkyYjJjZmFhOTJmOTQ5MDQ3ZDU3M2Q5YjYxZTUz`

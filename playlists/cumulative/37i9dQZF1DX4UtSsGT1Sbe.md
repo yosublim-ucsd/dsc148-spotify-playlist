@@ -2,7 +2,7 @@
 
 ### [All Out 80s](https://open.spotify.com/playlist/37i9dQZF1DX4UtSsGT1Sbe)
 
-> Happy 70th birthday, Cyndi Lauper.
+> The biggest songs of the 1980s.
 
 678 songs - 2 day 0 hr 4 min
 

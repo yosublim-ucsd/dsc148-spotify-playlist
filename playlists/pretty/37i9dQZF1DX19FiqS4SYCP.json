@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 142373,
+  "num_followers": 142377,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmY4YTlkNGJjNmQzMDY0MTEyMDZhOTkxNDhiMmUzMDBlYTBhMTgz",
+  "snapshot_id": "MCwwYjE0MzY4ZDUxNDM2YzVlYjNlZDA1ZTY1ZDg0Mjk3MGVjODBiNzcz",
   "tracks": [
     {
       "added_at": "2023-03-10 18:43:28",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Rogando Por Tu Amor (Version Tejano)",
-        "url": "https://open.spotify.com/album/61ZTUxn7bBbcdSLciTJW7x"
-      },
-      "artists": [
-        {
-          "name": "DEZ",
-          "url": "https://open.spotify.com/artist/7MQc01r8BvkgXApZOtPezs"
-        }
-      ],
-      "duration_ms": 203879,
-      "name": "Rogando Por Tu Amor (Version Tejano)",
-      "url": "https://open.spotify.com/track/3w1AC7BcBd8zRsKrtzJMZg"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "D\u00e9jame Sufrir",
         "url": "https://open.spotify.com/album/3X4lnddczeCRZVcS9qfvbk"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 233069,
       "name": "D\u00e9jame Sufrir",
       "url": "https://open.spotify.com/track/7ErdvZo7JE1dIYY1GFL0sm"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Rogando Por Tu Amor (Version Tejano)",
+        "url": "https://open.spotify.com/album/61ZTUxn7bBbcdSLciTJW7x"
+      },
+      "artists": [
+        {
+          "name": "DEZ",
+          "url": "https://open.spotify.com/artist/7MQc01r8BvkgXApZOtPezs"
+        }
+      ],
+      "duration_ms": 203879,
+      "name": "Rogando Por Tu Amor (Version Tejano)",
+      "url": "https://open.spotify.com/track/3w1AC7BcBd8zRsKrtzJMZg"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Santa Borrachera",
-        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
+        "name": "Te Llevo En Mi Alma",
+        "url": "https://open.spotify.com/album/3wMfT06yH67fOLn2OVecfA"
       },
       "artists": [
         {
-          "name": "SuenaTron",
-          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
+          "name": "Mike Gonzalez Iconiczz",
+          "url": "https://open.spotify.com/artist/4afRalL7UqAGeT0btMm53X"
         }
       ],
-      "duration_ms": 177777,
-      "name": "Santa Borrachera",
-      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
+      "duration_ms": 224256,
+      "name": "Mi Necesidad",
+      "url": "https://open.spotify.com/track/38Whv9YVvOOKmz59rRVATi"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Te Llevo En Mi Alma",
-        "url": "https://open.spotify.com/album/3wMfT06yH67fOLn2OVecfA"
-      },
-      "artists": [
-        {
-          "name": "Mike Gonzalez Iconiczz",
-          "url": "https://open.spotify.com/artist/4afRalL7UqAGeT0btMm53X"
-        }
-      ],
-      "duration_ms": 224256,
-      "name": "Mi Necesidad",
-      "url": "https://open.spotify.com/track/38Whv9YVvOOKmz59rRVATi"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Porque T\u00fa",
         "url": "https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 234186,
       "name": "Porque T\u00fa",
       "url": "https://open.spotify.com/track/0TRDhKVSdmdGQLPUGTMlUH"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Santa Borrachera",
+        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
+      },
+      "artists": [
+        {
+          "name": "SuenaTron",
+          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Santa Borrachera",
+      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 209836,
-      "name": "Sed\u00faceme",
-      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "No Olvides Nuestro Amor",
         "url": "https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 185728,
       "name": "No Olvides Nuestro Amor",
       "url": "https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 209836,
+      "name": "Sed\u00faceme",
+      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Contigo Corazon",
-        "url": "https://open.spotify.com/album/7ymlEj6NfzuNw2CYa2ZrJj"
-      },
-      "artists": [
-        {
-          "name": "Jr Aldaco and the Midwest Allstars",
-          "url": "https://open.spotify.com/artist/7rAM8fU5taC56FR29Itqdy"
-        }
-      ],
-      "duration_ms": 195291,
-      "name": "Contigo Corazon",
-      "url": "https://open.spotify.com/track/4WGMtadfZnohsK7WDJpryN"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Si Esto No Es Amor",
         "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 218000,
       "name": "Si Esto No Es Amor",
       "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Contigo Corazon",
+        "url": "https://open.spotify.com/album/7ymlEj6NfzuNw2CYa2ZrJj"
+      },
+      "artists": [
+        {
+          "name": "Jr Aldaco and the Midwest Allstars",
+          "url": "https://open.spotify.com/artist/7rAM8fU5taC56FR29Itqdy"
+        }
+      ],
+      "duration_ms": 195291,
+      "name": "Contigo Corazon",
+      "url": "https://open.spotify.com/track/4WGMtadfZnohsK7WDJpryN"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "\u00bfC\u00f3mo Puede Ser As\u00ed?",
-        "url": "https://open.spotify.com/album/0ZNklUBNTfrn5OeFPWYJci"
-      },
-      "artists": [
-        {
-          "name": "Destiny Navaira",
-          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "\u00bfComo Puede Ser As\u00ed?",
-      "url": "https://open.spotify.com/track/3dl1BnbuZitazqKqjCjp5d"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/5eIDua0uFxreLZCNTJPuP4"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 210651,
       "name": "Tengo Ganas De Ti",
       "url": "https://open.spotify.com/track/1FQi3kvUFUx6dQk3PBAa6L"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "\u00bfC\u00f3mo Puede Ser As\u00ed?",
+        "url": "https://open.spotify.com/album/0ZNklUBNTfrn5OeFPWYJci"
+      },
+      "artists": [
+        {
+          "name": "Destiny Navaira",
+          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "\u00bfComo Puede Ser As\u00ed?",
+      "url": "https://open.spotify.com/track/3dl1BnbuZitazqKqjCjp5d"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "No Me Busques",
+        "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
+      },
+      "artists": [
+        {
+          "name": "Liz Garcia",
+          "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
+        }
+      ],
+      "duration_ms": 228812,
+      "name": "No Me Busques",
+      "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
         "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 240383,
       "name": "Quebrando Cadenas",
       "url": "https://open.spotify.com/track/6EftRXMyuDZaM4vtgJ6dQn"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "No Me Busques",
-        "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
-      },
-      "artists": [
-        {
-          "name": "Liz Garcia",
-          "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
-        }
-      ],
-      "duration_ms": 228812,
-      "name": "No Me Busques",
-      "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "La Buena Vida",
-        "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
-      },
-      "artists": [
-        {
-          "name": "Rose Elva & the Crew",
-          "url": "https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn"
-        }
-      ],
-      "duration_ms": 222041,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Simplemente Por Quererte a Ti",
         "url": "https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 198400,
       "name": "Simplemente Por Quererte a Ti",
       "url": "https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "La Buena Vida",
+        "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
+      },
+      "artists": [
+        {
+          "name": "Rose Elva & the Crew",
+          "url": "https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn"
+        }
+      ],
+      "duration_ms": 222041,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz"
     },
     {
       "added_at": "2023-03-10 18:43:28",

@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Barbi Recanati.
 
-190 songs - 11 hr 58 min
+191 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-06-24 |  |
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-21 |  |
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2022-06-24 |  |
-| [Dame Rock](https://open.spotify.com/track/5idUaRJBOn7bSYjP6B7PcZ) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:06 | 2023-06-02 |  |
+| [Dame Rock](https://open.spotify.com/track/3QZZYSB4aafCmPe14ElQIM) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/3Wqm2Y41oWaFHODb2xTnn7) | 2:06 | 2023-06-16 |  |
+| [Dame Rock](https://open.spotify.com/track/5idUaRJBOn7bSYjP6B7PcZ) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:06 | 2023-06-02 | 2023-06-25 |
 | [De las Ventajas de Caminar Dormida](https://open.spotify.com/track/4j4zS5Kk3gMLv83QegL9DU) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [De las Ventajas de Caminar Dormida](https://open.spotify.com/album/2xXNK36mEbfYTVdUO5G1Vz) | 3:48 | 2022-09-30 |  |
 | [De Nada Sirve](https://open.spotify.com/track/1U0Sdf0M4YoKDQiJwIO64m) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 7:36 | 2022-06-24 |  |
 | [Demolición](https://open.spotify.com/track/0v1kN4ZUADCs0ZnQyBA9Pf) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Effatá](https://open.spotify.com/album/3uROJaWfcDjawQ2Bo5DoCj) | 2:45 | 2022-11-11 | 2023-06-01 |
