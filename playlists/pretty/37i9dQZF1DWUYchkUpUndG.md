@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=F5cGlo7CQ6ycJg\-zCr9\-Lg">Onos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,862 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,968 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 79 | [Thank You Lord](https://open.spotify.com/track/6TWd4GIzS9qzEbDqtaqq6d) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Rejoice Again](https://open.spotify.com/album/5Vd9mbXOqMKMZIZlN6wYkx) | 4:55 |
 | 80 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 |
 
-Snapshot ID: `MCwxYjkyZGJjMmRjMjgxMjIzMDI3YTczZWUzNGQ2Nzk1MWVkOGJlZTA2`
+Snapshot ID: `MCwxZDgyYzE3NjZlYzgxNzIzNjlkMzNlNzljZmViMjc1YjhkZmFkNTJm`

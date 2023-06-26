@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 32478,
+  "num_followers": 32594,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzM2MzgyNTlmODFmODg0ZTc4YTJjZDhhNmY0OTZhZWUzNzliOTk1",
+  "snapshot_id": "MCw5ZWI4YzZlODlhZmEzNDJlYmU0ODU4ZWNjZTIwNjBhYjQ1MmU3ODM3",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "Let's Have a Satanic Orgy",
+        "url": "https://open.spotify.com/album/71VMGzYKEIcoZdDHfaMZVz"
+      },
+      "artists": [
+        {
+          "name": "Twin Temple",
+          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
+        }
+      ],
+      "duration_ms": 244035,
+      "name": "Let's Have a Satanic Orgy",
+      "url": "https://open.spotify.com/track/3dCyu6F6AZkUOQUJwazSyc"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Come Of Age",
         "url": "https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 140906,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/347OA86TbdeTydHhy90blH"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Pip Paine (Pay The \u00a35000 You Owe)",
-        "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Trick or Treatz",
-      "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Let's Have a Satanic Orgy",
-        "url": "https://open.spotify.com/album/71VMGzYKEIcoZdDHfaMZVz"
+        "name": "Pip Paine (Pay The \u00a35000 You Owe)",
+        "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
       },
       "artists": [
         {
-          "name": "Twin Temple",
-          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         }
       ],
-      "duration_ms": 244035,
-      "name": "Let's Have a Satanic Orgy",
-      "url": "https://open.spotify.com/track/3dCyu6F6AZkUOQUJwazSyc"
+      "duration_ms": 281066,
+      "name": "Trick or Treatz",
+      "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
     },
     {
       "added_at": "2023-02-09 23:00:00",

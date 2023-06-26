@@ -662,6 +662,24 @@
     {
       "album": {
         "name": "Latidos",
+        "url": "https://open.spotify.com/album/2eEuNELgeEZDmzynb9OhBN"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Jaen",
+          "url": "https://open.spotify.com/artist/6xPjI2hVO8pvwgMzRAB3zu"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257239,
+      "name": "Confusion",
+      "url": "https://open.spotify.com/track/36pswvlcWQRiX3cLaxgQUp"
+    },
+    {
+      "album": {
+        "name": "Latidos",
         "url": "https://open.spotify.com/album/7ByPgCeLr9JF4UHd3WwjgE"
       },
       "artists": [
@@ -672,7 +690,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 257306,
       "name": "Confusion",
       "url": "https://open.spotify.com/track/3Cn465p5QvS8ejN9dvjNEK"

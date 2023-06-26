@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Diferente Nivel en portada.
 
-326 songs - 17 hr 44 min
+327 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Algo Transitorio](https://open.spotify.com/track/6TCUTF64M04hp0SiPuGU0o) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Algo Transitorio](https://open.spotify.com/album/61FFtKEaelyA7BxOWg40yQ) | 3:55 | 2022-07-15 | 2022-08-30 |
 | [Alguien Me Espera en Madrid](https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 2:55 | 2023-02-24 | 2023-04-15 |
 | [Amandote](https://open.spotify.com/track/1YloxcHYgx9UHpJGSY5dPx) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Amandote](https://open.spotify.com/album/1WPvIsp1abq1FA6uMZR0M1) | 2:47 | 2022-08-05 | 2022-12-10 |
-| [Amor Maldito](https://open.spotify.com/track/4lzlekHCZoJyd2415Q0eIU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Amor Maldito](https://open.spotify.com/album/194E6RdfGCtoKwKpn4lCAb) | 3:09 | 2023-06-16 |  |
+| [Amor Maldito](https://open.spotify.com/track/4lzlekHCZoJyd2415Q0eIU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Amor Maldito](https://open.spotify.com/album/194E6RdfGCtoKwKpn4lCAb) | 3:09 | 2023-06-16 | 2023-06-26 |
 | [Amores Van Y Vienen](https://open.spotify.com/track/2W4RJv2eybzhaWbLSuRUun) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Amores Van Y Vienen](https://open.spotify.com/album/3weBqrWdVBAhh1BS0plpXK) | 3:36 | 2022-07-01 | 2022-07-29 |
 | [Armando Acertijos](https://open.spotify.com/track/76WKYewcP9Q3Hs72dTyDnR) | [Grupo Alfa](https://open.spotify.com/artist/078DGCbkOWtHamc21qE0Sy) | [Armando Acertijos](https://open.spotify.com/album/58Md7UQKF4XzA1HCqxJN3J) | 2:39 | 2022-07-01 | 2022-07-28 |
 | [Así Nací](https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:47 | 2022-12-22 | 2023-05-07 |
@@ -334,5 +334,6 @@
 | [Yo Perdí](https://open.spotify.com/track/0QKr9qO91FbCUDaNsXkZ5T) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Yo Perdí](https://open.spotify.com/album/7qIFqS4tLfjag7YkyPwecJ) | 2:44 | 2022-08-29 | 2022-09-23 |
 | [Yo Seguiré](https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Yo Seguiré](https://open.spotify.com/album/2Kgdp5hOSOKuk7X1K1yytR) | 4:13 | 2023-02-24 |  |
 | [Yo Todo Lo Doy](https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:22 | 2022-11-04 |  |
+| [¿Y Cómo Te Olvido?](https://open.spotify.com/track/5VMzgWmkXzb3XwWoPxhW1T) | [Grupo La Etiqueta](https://open.spotify.com/artist/1PKrDFePfBYTEh8cDHqiAp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [¿Y Cómo Te Olvido?](https://open.spotify.com/album/1feQjB8e2umRFebmNwMnYv) | 3:27 | 2023-06-16 |  |
 
 \*This playlist was first scraped on 2022-07-04. Prior content cannot be recovered.

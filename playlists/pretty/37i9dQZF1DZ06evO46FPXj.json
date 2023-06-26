@@ -1,15 +1,15 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 5417,
+  "num_followers": 5422,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMjY4NDAsMDAwMDAwMDA0YTI3MTFhMGM2MmI1MmJjMWYzNWE0Y2Q3MjVhOTM5Yw==",
+  "snapshot_id": "MjgxMjgyMTksMDAwMDAwMDBmNGM5OTA2YmMzYTI1NWU1NzA4ZjhjNTRhYWUyYzNjNw==",
   "tracks": [
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "LP5",
         "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3vBtn2qA6Bu5oPOdk63o5r"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Quaristice",
         "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
@@ -41,71 +41,7 @@
       "url": "https://open.spotify.com/track/0uqSV2Q6vvlxhqd1Go0tMh"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
-      "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "Nine",
-      "url": "https://open.spotify.com/track/3WOTGJo6xmDxJICPcteIn9"
-    },
-    {
-      "added_at": "2023-06-24 12:40:06",
-      "album": {
-        "name": "Incunabula",
-        "url": "https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 480133,
-      "name": "Bike",
-      "url": "https://open.spotify.com/track/3Om7xxNAn64xJOuU9WVKtp"
-    },
-    {
-      "added_at": "2023-06-24 12:40:06",
-      "album": {
-        "name": "Tri Repetae",
-        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 514000,
-      "name": "Clipper",
-      "url": "https://open.spotify.com/track/1ArhkZYHmJGXZOMV6NwxjJ"
-    },
-    {
-      "added_at": "2023-06-24 12:40:06",
-      "album": {
-        "name": "Quaristice",
-        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 81000,
-      "name": "SonDEremawe",
-      "url": "https://open.spotify.com/track/2cQpsMbqMXcorQU3sLWlMh"
-    },
-    {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Amber",
         "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
@@ -121,7 +57,7 @@
       "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Incunabula",
         "url": "https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf"
@@ -132,28 +68,12 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 198600,
-      "name": "Kalpol Introl",
-      "url": "https://open.spotify.com/track/0kqwVecxuFaADjChcSnDiI"
+      "duration_ms": 480133,
+      "name": "Bike",
+      "url": "https://open.spotify.com/track/3Om7xxNAn64xJOuU9WVKtp"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
-      "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 507240,
-      "name": "VLetrmx",
-      "url": "https://open.spotify.com/track/56p0LzMVbPMQU4Gf5rsK8e"
-    },
-    {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Tri Repetae",
         "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
@@ -164,12 +84,28 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 255933,
-      "name": "Eutow",
-      "url": "https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ"
+      "duration_ms": 514000,
+      "name": "Clipper",
+      "url": "https://open.spotify.com/track/1ArhkZYHmJGXZOMV6NwxjJ"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
+      "album": {
+        "name": "Quaristice",
+        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 81000,
+      "name": "SonDEremawe",
+      "url": "https://open.spotify.com/track/2cQpsMbqMXcorQU3sLWlMh"
+    },
+    {
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Amber",
         "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
@@ -185,23 +121,7 @@
       "url": "https://open.spotify.com/track/33zDGjUK3BiqgFxoIpUWLy"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
-      "album": {
-        "name": "LP5",
-        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 433679,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2sbUONWNTLiZPOpjjh7q3M"
-    },
-    {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Incunabula",
         "url": "https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf"
@@ -212,12 +132,28 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 436000,
-      "name": "Lowride",
-      "url": "https://open.spotify.com/track/3Q0OROjrG0wUaF3QFFixB2"
+      "duration_ms": 198600,
+      "name": "Kalpol Introl",
+      "url": "https://open.spotify.com/track/0kqwVecxuFaADjChcSnDiI"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
+      "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 507240,
+      "name": "VLetrmx",
+      "url": "https://open.spotify.com/track/56p0LzMVbPMQU4Gf5rsK8e"
+    },
+    {
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Tri Repetae",
         "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
@@ -228,12 +164,12 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 399960,
-      "name": "Dael",
-      "url": "https://open.spotify.com/track/69qNxJaKA0lwABE6NOWf2J"
+      "duration_ms": 255933,
+      "name": "Eutow",
+      "url": "https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Amber",
         "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
@@ -249,7 +185,71 @@
       "url": "https://open.spotify.com/track/7uXRhVsCHwKVV8gYeA5CXS"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
+      "album": {
+        "name": "LP5",
+        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 433679,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2sbUONWNTLiZPOpjjh7q3M"
+    },
+    {
+      "added_at": "2023-06-25 11:39:37",
+      "album": {
+        "name": "Incunabula",
+        "url": "https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 436000,
+      "name": "Lowride",
+      "url": "https://open.spotify.com/track/3Q0OROjrG0wUaF3QFFixB2"
+    },
+    {
+      "added_at": "2023-06-25 11:39:37",
+      "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 399960,
+      "name": "Dael",
+      "url": "https://open.spotify.com/track/69qNxJaKA0lwABE6NOWf2J"
+    },
+    {
+      "added_at": "2023-06-25 11:39:37",
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 435626,
+      "name": "Montreal",
+      "url": "https://open.spotify.com/track/0Og7Doec2OJfj6B4YHHReJ"
+    },
+    {
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Artificial Intelligence",
         "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/0gqzFt2afkmXw2wZHXtj4u"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Incunabula",
         "url": "https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/6CWyYev3BrO0wcENVX1Asw"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "BIPP (Autechre Mx)",
         "url": "https://open.spotify.com/album/6gbZRfEsgrddPqFXXf0rqk"
@@ -301,23 +301,7 @@
       "url": "https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
-      "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 435626,
-      "name": "Montreal",
-      "url": "https://open.spotify.com/track/0Og7Doec2OJfj6B4YHHReJ"
-    },
-    {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "LP5",
         "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
@@ -333,39 +317,7 @@
       "url": "https://open.spotify.com/track/6AyBDeZwVK9K0aX4tB9Tjw"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
-      "album": {
-        "name": "Tri Repetae",
-        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 453466,
-      "name": "Overand",
-      "url": "https://open.spotify.com/track/0HkOdDWfP8XiVsndgNrh2s"
-    },
-    {
-      "added_at": "2023-06-24 12:40:06",
-      "album": {
-        "name": "Incunabula",
-        "url": "https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 542106,
-      "name": "Eggshell",
-      "url": "https://open.spotify.com/track/7a0T0GR5b2RUHQcGIUEKYw"
-    },
-    {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Amber",
         "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
@@ -381,7 +333,39 @@
       "url": "https://open.spotify.com/track/4BIIlGHtrRrmgDjvd7asDF"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
+      "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 453466,
+      "name": "Overand",
+      "url": "https://open.spotify.com/track/0HkOdDWfP8XiVsndgNrh2s"
+    },
+    {
+      "added_at": "2023-06-25 11:39:37",
+      "album": {
+        "name": "Incunabula",
+        "url": "https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 542106,
+      "name": "Eggshell",
+      "url": "https://open.spotify.com/track/7a0T0GR5b2RUHQcGIUEKYw"
+    },
+    {
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "LP5",
         "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
@@ -397,7 +381,23 @@
       "url": "https://open.spotify.com/track/30AOGMWeijWBYpvY2Oh2Ai"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 468800,
+      "name": "Nil",
+      "url": "https://open.spotify.com/track/1Vd2YEy1uOaOjsAjJ1IMwb"
+    },
+    {
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Tri Repetae",
         "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/49ucpPYrxG9yuUUoaahs3C"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Incunabula",
         "url": "https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/0rCUsawuMHGo8FW65MTgsp"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Quaristice",
         "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/2UUjSHNVyFt1BuxTac646P"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Artificial Intelligence",
         "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Tri Repetae",
         "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/3FDJRnZGAZeSjguTBoktEB"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Garbage",
         "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/3MPgdnHKfPfRnyjaMit4kZ"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Quaristice",
         "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/7Dq9vrwY3TMNNgXG72v2l5"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "LP5",
         "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/3DCHkvDKJLSbWlJCkzzT80"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Confield",
         "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/4adILYvDL37jb0GxYTzqIE"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Chiastic Slide",
         "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "SIGN",
         "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/1djSx1nXAb7nekBdshLXjE"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "LP5",
         "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/3PyHm9p7A6IbCusyeOlwfF"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Garbage",
         "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/0rELU1927cX3fBCNdMbWXY"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Chiastic Slide",
         "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "SIGN",
         "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
@@ -637,23 +637,7 @@
       "url": "https://open.spotify.com/track/4RwJVmTySlB2k9kXxlfoyy"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
-      "album": {
-        "name": "Quaristice",
-        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 300013,
-      "name": "Simmm",
-      "url": "https://open.spotify.com/track/6Hf0sfpzzlxDF61jwbWCLZ"
-    },
-    {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Confield",
         "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
@@ -669,7 +653,23 @@
       "url": "https://open.spotify.com/track/1ApkioB2tH12mouyXF4rXJ"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
+      "album": {
+        "name": "Quaristice",
+        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 300013,
+      "name": "Simmm",
+      "url": "https://open.spotify.com/track/6Hf0sfpzzlxDF61jwbWCLZ"
+    },
+    {
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Oversteps",
         "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/1aNXY1y64m1XKAaNTuUdcm"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "SIGN",
         "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Chiastic Slide",
         "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/0kP5ZOXqlNDZqy0oIbXJjI"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "EP7",
         "url": "https://open.spotify.com/album/2SthTfQKOf6AMzU4QajZfW"
@@ -733,23 +733,7 @@
       "url": "https://open.spotify.com/track/7KqchmQ1hlHszPlEiLMGme"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
-      "album": {
-        "name": "Confield",
-        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 401314,
-      "name": "Cfern",
-      "url": "https://open.spotify.com/track/3CCUQpIukE49RCkbrdQrwS"
-    },
-    {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Oversteps",
         "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
@@ -765,10 +749,10 @@
       "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
-        "name": "Quaristice",
-        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+        "name": "Confield",
+        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
       },
       "artists": [
         {
@@ -776,12 +760,28 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 219480,
-      "name": "Tankakern",
-      "url": "https://open.spotify.com/track/7Bj79DS9awomsPi9QUVGZK"
+      "duration_ms": 401314,
+      "name": "Cfern",
+      "url": "https://open.spotify.com/track/3CCUQpIukE49RCkbrdQrwS"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
+      "album": {
+        "name": "Artificial Intelligence II",
+        "url": "https://open.spotify.com/album/3fh4Vu48JvywRujURbLW1R"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 456226,
+      "name": "Chatter",
+      "url": "https://open.spotify.com/track/3BL2l8agZkzkNIqv8fqlL7"
+    },
+    {
+      "added_at": "2023-06-25 11:39:37",
       "album": {
         "name": "Anvil Vapre",
         "url": "https://open.spotify.com/album/2I4swXdlP0c14GvK2iR92G"
@@ -797,10 +797,10 @@
       "url": "https://open.spotify.com/track/7I7Iyer0UmgzSivtD4Nejv"
     },
     {
-      "added_at": "2023-06-24 12:40:06",
+      "added_at": "2023-06-25 11:39:37",
       "album": {
-        "name": "Artificial Intelligence II",
-        "url": "https://open.spotify.com/album/3fh4Vu48JvywRujURbLW1R"
+        "name": "Quaristice",
+        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 456226,
-      "name": "Chatter",
-      "url": "https://open.spotify.com/track/3BL2l8agZkzkNIqv8fqlL7"
+      "duration_ms": 219480,
+      "name": "Tankakern",
+      "url": "https://open.spotify.com/track/7Bj79DS9awomsPi9QUVGZK"
     }
   ],
   "unique_name": "This Is Autechre",

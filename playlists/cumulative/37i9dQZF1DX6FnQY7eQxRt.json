@@ -225,6 +225,44 @@
     },
     {
       "album": {
+        "name": "Bach Choir sing Family Carols",
+        "url": "https://open.spotify.com/album/62tVhtu5wdExD2XzTVutbk"
+      },
+      "artists": [
+        {
+          "name": "A. Warrell",
+          "url": "https://open.spotify.com/artist/2pLU58Z1OEIGMTTvLF0OFU"
+        },
+        {
+          "name": "The Bach Choir",
+          "url": "https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM"
+        },
+        {
+          "name": "Sir David Willcocks",
+          "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "Royal Military School of Music Fanfare Trumpeters",
+          "url": "https://open.spotify.com/artist/7nbsVV7XV2Q8BAZfJvJ07K"
+        },
+        {
+          "name": "The Graham Ashton Brass Ensemble",
+          "url": "https://open.spotify.com/artist/0FZ5xFx2hLUeRvvtBYHOex"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "A merry Christmas",
+      "url": "https://open.spotify.com/track/2qyFFJrbciLus3OKM5L3jh"
+    },
+    {
+      "album": {
         "name": "Family Carols",
         "url": "https://open.spotify.com/album/3vpDE7jvPxkRvze9kNNLIB"
       },
@@ -256,7 +294,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 91000,
       "name": "A Merry Christmas",
       "url": "https://open.spotify.com/track/3c9frOgwdTM7TGUrG8ZQlB"

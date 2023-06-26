@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Roosevelt
 
-823 songs - 2 day 6 hr 1 min
+824 songs - 2 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [All or Nothin](https://open.spotify.com/track/7LjHfW0OCBjYx01XkDA8QR) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [All or Nothin](https://open.spotify.com/album/4kxGHduVK7ms4hls6JvtYR) | 3:09 | 2021-11-12 | 2022-02-09 |
 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-09-09 | 2023-04-29 |
 | [All That Blue](https://open.spotify.com/track/4xWJXxDvKTT5mgjodw01QD) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Open Reduction Internal Fixation](https://open.spotify.com/album/7BfdDn7UsSqkzzica9hdwn) | 5:33 | 2022-01-28 | 2022-02-12 |
+| [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 | 2023-06-09 |  |
 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-04-21 |  |
 | [Animal \(feat\. Geoffroy\)](https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Animal](https://open.spotify.com/album/4ueHmbivLZuyx2aHmRy8kz) | 4:36 | 2021-10-22 | 2022-02-06 |
 | [Another Blessing](https://open.spotify.com/track/0VpD1S8Y4rv08n1VwjPMgY) | [Chinatown Slalom](https://open.spotify.com/artist/25pbZ2yTnog5SBbk7WyfNn) | [Another Blessing](https://open.spotify.com/album/6wpLys9GqxhZSgrNt8pTk8) | 2:28 | 2023-05-05 | 2023-05-27 |
@@ -326,7 +327,7 @@
 | [Hot N Heavy](https://open.spotify.com/track/3sIPjLfkLNnm8KLxR9aInw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Hot N Heavy](https://open.spotify.com/album/5mt4XIAT306Y6XdDtJbNUq) | 3:35 | 2021-06-05 | 2022-04-21 |
 | [How Does It Feel?](https://open.spotify.com/track/1OvKX3ZIbOhZgFJBqozqxH) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [How Does It Feel?](https://open.spotify.com/album/3GRrJQlccv4BAXIkmmz2tK) | 3:39 | 2021-11-12 | 2022-02-12 |
 | [How Long](https://open.spotify.com/track/379W8dcxJHWQXakpOOm5YC) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Funkyworld: The Best Of Lipps Inc](https://open.spotify.com/album/11UdnplFKuUeb1c4KRv5vk) | 5:37 | 2022-01-28 | 2022-02-12 |
-| [How The Flowers Grow \- Jan Blomqvist Remix](https://open.spotify.com/track/3uZWbcWyel7Hd8j8vtp5zA) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Pixx](https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [How The Flowers Grow \(Jan Blomqvist Remix\)](https://open.spotify.com/album/4MN3BZYcrN1jgvHtRPoXaE) | 6:18 | 2023-05-26 |  |
+| [How The Flowers Grow \- Jan Blomqvist Remix](https://open.spotify.com/track/3uZWbcWyel7Hd8j8vtp5zA) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Pixx](https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [How The Flowers Grow \(Jan Blomqvist Remix\)](https://open.spotify.com/album/4MN3BZYcrN1jgvHtRPoXaE) | 6:18 | 2023-05-26 | 2023-06-26 |
 | [HowTheyLikeMe!](https://open.spotify.com/track/5PaGqK1Cfu3sqEMOdEBHnP) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 1:44 | 2023-02-24 | 2023-03-04 |
 | [Human Condition](https://open.spotify.com/track/1eNyYS3r2V3lNJNz5uqwCW) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Human Condition](https://open.spotify.com/album/0yqT3zXPPNYb3OA2c75JBT) | 3:07 | 2022-06-03 | 2022-07-13 |
 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 | 2022-04-08 |  |

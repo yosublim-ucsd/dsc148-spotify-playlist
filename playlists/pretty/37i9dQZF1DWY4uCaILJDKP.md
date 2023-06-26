@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,715 likes - 104 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,718 likes - 104 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 14 | [ワニとシャンプー \-ZZ ver.\-](https://open.spotify.com/track/0vtd2nklEKpg0q2SbK12qK) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's Ⅱ](https://open.spotify.com/album/61SioPFNQ2moIbC7BaZIZK) | 4:03 |
 | 15 | [プライベイト](https://open.spotify.com/track/7BQUNanrD8OYEDI7tF23Bp) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 \~港湾局\~](https://open.spotify.com/album/7fyN598WAbIz6pkt8PhiUe) | 3:19 |
 | 16 | [告白バンジージャンプ](https://open.spotify.com/track/2ebmLLCUuBqHJUWMDeIOGv) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [告白バンジージャンプ](https://open.spotify.com/album/6z5bL0l1eMYqXm2eDYLHvZ) | 4:11 |
-| 17 | [半パン魂](https://open.spotify.com/track/1DIcxghszK6p0GHJv7N0t0) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [半パン魂](https://open.spotify.com/album/4FRJ8QdJvgYdBUBuJj54as) | 3:59 |
+| 17 | [Han\-Pan Spirit](https://open.spotify.com/track/1YfbLKjPSdfIWr7Yeblqb8) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Han\-Pan Spirit](https://open.spotify.com/album/3EgBwcapLupR4VuwdrCsa9) | 3:59 |
 | 18 | [We Are DISH//](https://open.spotify.com/track/4zZ0ZCSzMOFAI8VdpsJZ0m) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [MAIN DISH](https://open.spotify.com/album/0Non0wr9XcV0FE8JZpovcH) | 4:00 |
 | 19 | [99は終わらない](https://open.spotify.com/track/6PghaG4oeqk5mBOWWpRDgq) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [99は終わらない](https://open.spotify.com/album/0BPzi7foQ4P0jA7pg1jzBk) | 4:20 |
 | 20 | [ちゅるりちゅるりら](https://open.spotify.com/track/6n3UqTXdkBhCmCV1jBIz0B) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [WWDD](https://open.spotify.com/album/3U3sONvBOvYKKMj0C5JzrT) | 3:35 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 103 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 104 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MCw4NmY3OGIyMzAxNWZlMDYwZWI0M2JmMTY2YWI5ZjRiNzYzMGM3MTY4`
+Snapshot ID: `MCwxMmQ4YmE5NGNmMmY1MmY0NWRhODYzN2I1MzdjNDQyMWFmYmI5NjEz`

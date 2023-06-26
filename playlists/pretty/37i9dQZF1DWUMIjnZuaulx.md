@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8?si=34d2682b8bf54b0c">Pharrell</a> and Bishop Ezekiel Williams of <a href="https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH?si=e7a56d3fbfb54cdc">Voices of Fire</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,359 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,531 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 5 | [No Weapon \- Live](https://open.spotify.com/track/4hASz5Bp3VYs2D1j91Lz7R) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [No Weapon \(Live\)](https://open.spotify.com/album/2Sbxlw1WYFQKb3GISnsvJk) | 4:50 |
 | 6 | [All of the Glory \- Radio Edit](https://open.spotify.com/track/3vT51y9jySDGf4xGKx6XHE) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [All of the Glory \(Radio Edit\)](https://open.spotify.com/album/3IgDiA4bnDEceIX5QdFXra) | 3:56 |
 | 7 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
-| 8 | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/track/0htJ1xvrlYxMH7g7OxToJO) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Twinkie Clark](https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Jason Max Ferdinand & Jason Max Ferdinand Singers](https://open.spotify.com/artist/5gTLK83XNAbszsdVYtttKK) | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/album/6Fplh5wY9dOQktv0Zetgl4) | 5:40 |
+| 8 | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/track/0htJ1xvrlYxMH7g7OxToJO) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Jason Max Ferdinand & Jason Max Ferdinand Singers](https://open.spotify.com/artist/5gTLK83XNAbszsdVYtttKK) | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/album/6Fplh5wY9dOQktv0Zetgl4) | 5:40 |
 | 9 | [Impossible](https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:53 |
 | 10 | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7) | 4:08 |
 | 11 | [There Is A Name \(The Anthem\)](https://open.spotify.com/track/42LIYKdNCoSh9DYeXjgIjW) | [Lucinda Moore](https://open.spotify.com/artist/36NpWbQn9NARm2hy9oP58x) | [Lord, I Hear You](https://open.spotify.com/album/73T0uxIoxDP0WIAzTvzIM8) | 7:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 |
 | 100 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCw2NGNkNWM0NGJmOGNjNGE4OTgwMGQxMTE2YzU1OTQ2Nzg4YzJmNjky`
+Snapshot ID: `MCwxNzFjNjZjMTA4NTMxZDZhNDE0ZTdlOTZlYzM4NjA4YTAzZDMxMTQ0`

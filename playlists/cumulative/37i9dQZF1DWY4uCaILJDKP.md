@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-129 songs - 8 hr 47 min
+130 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [GETUP! GETLIVE!](https://open.spotify.com/track/6Jl7qScxV4PTw9ZraroL3j) | [上原淳也 \(CV.花江夏樹\)](https://open.spotify.com/artist/332AD9pDagCIxk2VsjXbyG), [東沢 楓 \(CV.西山宏太朗\)](https://open.spotify.com/artist/6bdMLRTtvz06sXJ4Lahkv6), [町田瀬那 \(CV.豊永利行\)](https://open.spotify.com/artist/0Hl9gqptIt5WKbRPxHZwqI), [大野虎之助 \(CV.石川界人\)](https://open.spotify.com/artist/0Tgy1QbgwzpkCuvCz4ZIlr), [喜多見 蓮 \(CV.阿座上洋平\)](https://open.spotify.com/artist/2PxFmTVd5ZtVFlw8l56Qhr), [狛江一馬 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/7uBma6fLieKj42Vh2GIqn3) | [GETUP! GETLIVE! Steam Rising](https://open.spotify.com/album/6RbJdIniKo1D5Lu9WgVr1y) | 4:01 | 2022-03-08 | 2022-07-29 |
 | [GETUP! GETLIVE!](https://open.spotify.com/track/6SOz8fATPD8ln6UzbyVGVU) | [上原淳也 \(CV.花江夏樹\)](https://open.spotify.com/artist/332AD9pDagCIxk2VsjXbyG), [東沢 楓 \(CV.西山宏太朗\)](https://open.spotify.com/artist/6bdMLRTtvz06sXJ4Lahkv6), [町田瀬那 \(CV.豊永利行\)](https://open.spotify.com/artist/0Hl9gqptIt5WKbRPxHZwqI), [大野虎之助 \(CV.石川界人\)](https://open.spotify.com/artist/0Tgy1QbgwzpkCuvCz4ZIlr), [喜多見 蓮 \(CV.阿座上洋平\)](https://open.spotify.com/artist/2PxFmTVd5ZtVFlw8l56Qhr), [狛江一馬 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/7uBma6fLieKj42Vh2GIqn3) | [GETUP! GETLIVE! Steam Rising](https://open.spotify.com/album/5WFXpEgfLFMzD4ac3UWQOI) | 4:01 | 2022-07-12 |  |
 | [Gifu Me Chance](https://open.spotify.com/track/7sOoTm3v0SCIbZmp1uXDjt) | [Nagareboshi](https://open.spotify.com/artist/7w9QTvKp59PCHa4fkL3NZ6) | [Gifu Me Chance](https://open.spotify.com/album/0NZQ4ZVCUzF6Q1Pg8FLjGF) | 4:29 | 2022-07-12 |  |
+| [Han\-Pan Spirit](https://open.spotify.com/track/1YfbLKjPSdfIWr7Yeblqb8) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Han\-Pan Spirit](https://open.spotify.com/album/3EgBwcapLupR4VuwdrCsa9) | 3:59 | 2023-05-16 |  |
 | [Home Sweet Home !](https://open.spotify.com/track/71t4iyi0NqFcHU1hcYojjH) | [Yutaro Miura](https://open.spotify.com/artist/4NV9z38H7a9yNJCzu5Pnp3) | [FLOWERS](https://open.spotify.com/album/0bKTvirykWz7P04Tx4F6FZ) | 4:01 | 2022-03-08 |  |
 | [Hyouriittai](https://open.spotify.com/track/5oTkVrnbUnDQpQ5o7XjWyN) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Hyouriittai \(HunterxHunter Ver.\)](https://open.spotify.com/album/0NgnybaNNz1WleLYRIUEro) | 5:36 | 2022-08-04 | 2022-11-13 |
 | [Hyouriittai](https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Shinsekai](https://open.spotify.com/album/2R5uRvmQGlvwYDzpl7pK63) | 5:36 | 2022-07-12 |  |
@@ -113,7 +114,7 @@
 | [ワニとシャンプー \-ZZ ver.\-](https://open.spotify.com/track/0vtd2nklEKpg0q2SbK12qK) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's Ⅱ](https://open.spotify.com/album/61SioPFNQ2moIbC7BaZIZK) | 4:03 | 2022-03-08 |  |
 | [五色のShooting☆Star!!!!!](https://open.spotify.com/track/6xJkGb622GVmf1chfPak7P) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ! アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 3:54 | 2022-03-08 |  |
 | [初恋よ こんにちは \- 歌:渡辺麻友・多田愛佳・平嶋夏海・岩佐美咲](https://open.spotify.com/track/6W9Jy7ZCvI6wgwYJxAUhfa) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [バレンタイン・キッス](https://open.spotify.com/album/1NTiKPUPAZD8t9AH7HM3rz) | 3:50 | 2022-03-08 |  |
-| [半パン魂](https://open.spotify.com/track/1DIcxghszK6p0GHJv7N0t0) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [半パン魂](https://open.spotify.com/album/4FRJ8QdJvgYdBUBuJj54as) | 3:59 | 2022-03-08 |  |
+| [半パン魂](https://open.spotify.com/track/1DIcxghszK6p0GHJv7N0t0) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [半パン魂](https://open.spotify.com/album/4FRJ8QdJvgYdBUBuJj54as) | 3:59 | 2022-03-08 | 2023-06-26 |
 | [君しか](https://open.spotify.com/track/3KiNTcxH5cIVqogpiq0A8M) | [ノースリーブス](https://open.spotify.com/artist/2VM81ux8Ip6Vq2RsDdeGXW) | [君しか](https://open.spotify.com/album/7dFHpzpaQUMbI6KVq4dHAD) | 4:34 | 2022-03-08 |  |
 | [君のまんまが いいんだよ](https://open.spotify.com/track/5d5s3Okph2OF8WKoRtOUiU) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [君のまんまが いいんだよ](https://open.spotify.com/album/3e3VcmGYsOD3PNrpHAWvhm) | 4:32 | 2022-03-08 |  |
 | [告白バンジージャンプ](https://open.spotify.com/track/2ebmLLCUuBqHJUWMDeIOGv) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [告白バンジージャンプ](https://open.spotify.com/album/6z5bL0l1eMYqXm2eDYLHvZ) | 4:11 | 2022-03-08 |  |

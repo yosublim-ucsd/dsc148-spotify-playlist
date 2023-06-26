@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: xena giam\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,060 likes - 108 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,064 likes - 108 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 107 | [triple text](https://open.spotify.com/track/6tat7ww7O0FkBtScJ4BS7t) | [Maya Ashllee](https://open.spotify.com/artist/5Pwn6N9dS2ZIP3debpjOK0) | [triple text](https://open.spotify.com/album/1BoY6vDnumSbKuK4wwCI1u) | 1:48 |
 | 108 | [simon says](https://open.spotify.com/track/5PrAyJlzvbVszSDtHjDvXT) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [simon says](https://open.spotify.com/album/0HmHQlwuTWzL9VPMk7AC1U) | 2:34 |
 
-Snapshot ID: `MCw4Mjk3NWUzY2RjOTJkNDlhMGFlODVhNDFjNjQ3M2MyZGE2OGYwYWIy`
+Snapshot ID: `MCxiODFiZDU3YjFlYjUxODI2MDhmZmM5NzU2OGEwZjJhZmI3ZTc0N2Nj`

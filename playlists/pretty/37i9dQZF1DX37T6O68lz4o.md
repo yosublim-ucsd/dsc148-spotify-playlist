@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: Khary
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,721 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,725 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 18 | [Feel Like Sosa](https://open.spotify.com/track/5VoW74MdsfbzRMSDEQQQwW) | [Mo Bangaz](https://open.spotify.com/artist/7lIiOcOBI059zW6PY5Ghqg) | [Feel Like Sosa](https://open.spotify.com/album/57u4fwAZxqtSkJDY39M9Y1) | 2:39 |
 | 19 | [PSA \[ALL GOOD THINGS\] FREESTYLE](https://open.spotify.com/track/5a5jnhzvfUxM6XYEPqCTnO) | [Clark D](https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4) | [PSA \[ALL GOOD THINGS\] FREESTYLE](https://open.spotify.com/album/251ccAok7sPAdFFOoMYWeY) | 1:48 |
 | 20 | [Anoyd "On The Radar" Freestyle](https://open.spotify.com/track/1IZwxzUrKHnpHIXzhvnqcN) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Anoyd "On The Radar" Freestyle](https://open.spotify.com/album/7MswBlepIXl8IfF0oQDY5V) | 4:30 |
-| 21 | [4 Ur Love](https://open.spotify.com/track/6lrTOqTAV0BQ6grHaWJOpS) | [Jaalid](https://open.spotify.com/artist/4QQoaNNSe8oYAxjCsB59fg) | [4 Ur Love](https://open.spotify.com/album/2AUmycruuDbRNFXmcTofL3) | 2:42 |
+| 21 | [4 Ur Love](https://open.spotify.com/track/7vuyvXO4y191NO2YstCC6n) | [Jaalid](https://open.spotify.com/artist/4QQoaNNSe8oYAxjCsB59fg) | [4 Ur Love](https://open.spotify.com/album/1OKF06nUX4STUjcw3Rot5m) | 2:42 |
 | 22 | [Slime](https://open.spotify.com/track/3UUpfkuRCeF09cusOTyDqK) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [Time Revealed](https://open.spotify.com/album/1s3eyEhXxazd3sNV2Hgjv6) | 2:25 |
 | 23 | [Didn't You Say](https://open.spotify.com/track/49ygkCCy7WNy0iGZUxgnBz) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE) | [Didn't You Say](https://open.spotify.com/album/1y2XvkGAAiX0cNlZcbu7ga) | 2:47 |
 | 24 | [Purple Dye](https://open.spotify.com/track/0a6GQAjN5xk87BaNEPIBOA) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Purple Dye](https://open.spotify.com/album/29SiDlNYMKxITfYMuYQHu0) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 49 | [Flavor](https://open.spotify.com/track/6Cz0ZeKQyq723rpUePycbd) | [JOBANNY](https://open.spotify.com/artist/4FLNvTxyvcl8ZWUfLFZec6), [Cuphasol](https://open.spotify.com/artist/0FLCcc9af7R66QW8NDOhq3), [Kairo Saint](https://open.spotify.com/artist/6SPMyUJXpLR8wHQiyhHbzX), [Bucket Boheme](https://open.spotify.com/artist/1oZS00Gd1vU7SAMYmQwV7O) | [CABRERA](https://open.spotify.com/album/3i2POekDsSzdXkP4nDM7oA) | 2:56 |
 | 50 | [think too much \- remix](https://open.spotify.com/track/6pR7coknYHuj0GNky1uXAe) | [Oompa](https://open.spotify.com/artist/0D6EgsOVm2DMuE2X36uDwU), [Teysin B](https://open.spotify.com/artist/4VYECZYRGjfnopriDWVNvD) | [think too much \- remix](https://open.spotify.com/album/3rsVEe0uRRO8317WtXkIkI) | 3:13 |
 
-Snapshot ID: `MCwxZTVhZjZjYTVkZjc4MmE0NjQ4NDA4Y2I3MDQyNWVkNjgzOWQwMTZk`
+Snapshot ID: `MCw2YzcxZjhhMzVkMjNmNGQ4MTczZjUwNDg3MDJmYTJlMWZiYzc5Mjlh`

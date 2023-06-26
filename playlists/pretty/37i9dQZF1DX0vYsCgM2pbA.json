@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 121636,
+  "num_followers": 121778,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDU4NmI3MmVjZDA4YjBmYjczYTQ3OTUxYTVkYzNmODlmOWZhNTA2",
+  "snapshot_id": "MCw1YTg4YmY5MmIyNGRkOThiMDdkMzUyYjhjNWU1Njc5ZTFjODEzNTNh",
   "tracks": [
     {
       "added_at": "2023-06-22 14:59:08",
@@ -191,8 +191,8 @@
     {
       "added_at": "2023-06-22 14:59:08",
       "album": {
-        "name": "Noise",
-        "url": "https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF"
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji"
       },
       "artists": [
         {
@@ -202,7 +202,7 @@
       ],
       "duration_ms": 282225,
       "name": "Noise",
-      "url": "https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf"
+      "url": "https://open.spotify.com/track/2fjYD3T5UWVTyz2bPKRXaz"
     },
     {
       "added_at": "2023-06-22 14:59:08",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-06-22 14:59:08",
       "album": {
-        "name": "Smile (feat. JAM)",
-        "url": "https://open.spotify.com/album/1XlQFYxrdAE1cn43I3COL1"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "JAM",
-          "url": "https://open.spotify.com/artist/6Fk8WNJR6MUqEQXoZSejuq"
-        }
-      ],
-      "duration_ms": 204723,
-      "name": "Smile (feat. JAM)",
-      "url": "https://open.spotify.com/track/6H5ncROMSCcKGz6W5HsrS8"
-    },
-    {
-      "added_at": "2023-06-22 14:59:08",
-      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 216818,
       "name": "Highest Building (feat. Oklou)",
       "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
+    },
+    {
+      "added_at": "2023-06-22 14:59:08",
+      "album": {
+        "name": "Smile (feat. JAM)",
+        "url": "https://open.spotify.com/album/1XlQFYxrdAE1cn43I3COL1"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "JAM",
+          "url": "https://open.spotify.com/artist/6Fk8WNJR6MUqEQXoZSejuq"
+        }
+      ],
+      "duration_ms": 204723,
+      "name": "Smile (feat. JAM)",
+      "url": "https://open.spotify.com/track/6H5ncROMSCcKGz6W5HsrS8"
     },
     {
       "added_at": "2023-06-22 14:59:08",

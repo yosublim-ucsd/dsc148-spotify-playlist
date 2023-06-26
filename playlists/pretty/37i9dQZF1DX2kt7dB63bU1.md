@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,775 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,860 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 88 | [Yellow Rose](https://open.spotify.com/track/6zxeA2sdHQJTXsElhc4K6z) | [Alex Tremblay](https://open.spotify.com/artist/0bB79xoFIl2U5jjhxiDZ3t), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [Yellow Rose](https://open.spotify.com/album/5DLSXBQx09pE2XbMdB6yVn) | 5:07 |
 | 89 | [If You Believe](https://open.spotify.com/track/35KUEip7Py2OYvw4j9YyzD) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [Parallel Motion](https://open.spotify.com/album/2QWh0FN4WfVTaYC5fwiI4I) | 4:48 |
 | 90 | [Another Round](https://open.spotify.com/track/14x0olxuhl7Q2e5Fx3lEYN) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Autumn](https://open.spotify.com/album/2opLhMoweetJdxKceCQqyE) | 3:58 |
-| 91 | [It's Alright With Me](https://open.spotify.com/track/5RDmhCsIrwKNOcjfaEU2aj) | [Javier Nero](https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m), [Sean Jones](https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6), [Christie Dashiell](https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth), [Josh Richman](https://open.spotify.com/artist/4mdUPNp0bFcroAE6OVIUXk) | [It's Alright With Me](https://open.spotify.com/album/6rtE4YtuYHVo042EtSeRgq) | 5:57 |
+| 91 | [It's Alright With Me](https://open.spotify.com/track/0x1tkK2hltpvMeM2ERJnTB) | [Javier Nero](https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m), [Sean Jones](https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6), [Christie Dashiell](https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth), [Josh Richman](https://open.spotify.com/artist/4mdUPNp0bFcroAE6OVIUXk) | [It's Alright With Me](https://open.spotify.com/album/3iWLEOlc0YnBCbpXFKy1eU) | 5:57 |
 | 92 | [Skylark](https://open.spotify.com/track/4myMwdjLnS3bOU8yxsw69B) | [Jireh Calo](https://open.spotify.com/artist/4cNPdwYxGRSxV7As6zv4in), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Don Aliquo](https://open.spotify.com/artist/1zdY2ltXAhBOuh6fbNQ9n6), [Evan Main](https://open.spotify.com/artist/4Kub47U5U9jwHec4SjZwDK), [Sam Bryson](https://open.spotify.com/artist/7CNHJRrwForc0NwrBcHVFm) | [Skylark](https://open.spotify.com/album/1id6t6lHffZWLFRcWjM1qc) | 4:26 |
 | 93 | [Genuine](https://open.spotify.com/track/4bfkTfeGVeuqDUS7SCBtym) | [Roderick Harper](https://open.spotify.com/artist/5iozeIflBLGYjTvkk6eIi6) | [Genuine](https://open.spotify.com/album/1ZDGAGwPxFdRyIX657qW48) | 4:18 |
 | 94 | [The Trouble With Hello Is Goodbye](https://open.spotify.com/track/4iLS8yqoN0XJ7R5B0h9BOU) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [The Trouble With Hello Is Goodbye](https://open.spotify.com/album/6OVXyjmOHzt8Q6WcKqB9Ru) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Brighter Sun](https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Brighter Sun](https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N) | 4:06 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCw2NDRmNmU3MTJkNWJjNDBmNjliNDM4NGJlYjhhY2VkYWE1MWQ4MDVk`
+Snapshot ID: `MCw4NzI4YjA1NzQ0YTA5NmFlOThhYzE5NmM4YTgwNzU2ZmE5MjBlYjFm`

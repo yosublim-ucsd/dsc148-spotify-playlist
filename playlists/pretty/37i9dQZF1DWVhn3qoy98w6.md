@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Luca Ching.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,883 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,892 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [La Invitación](https://open.spotify.com/track/1lnrFO6vZmxW5qHe4ZSgA8) | [Luca Ching](https://open.spotify.com/artist/7vsvWOharZsCQuIjjKZKsd) | [La Invitación](https://open.spotify.com/album/4qKqvqFLLdMFK9C4D4pB53) | 2:55 |
 | 50 | [Katana](https://open.spotify.com/track/7GLVUW8kM0DSkehuFygoR9) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [Katana](https://open.spotify.com/album/5k8hzxdVmR1A2qxReoRcLq) | 3:07 |
 
-Snapshot ID: `MCwzMTk4YjEzZjFiNTU1YjAyZDc2MzEzZDg1ZTNlOGE5YzRlMzc4MjY3`
+Snapshot ID: `MCw0NTU0MDY5Y2YyOGNhNDJjYzQ5ZmRmNmEyNjg1NjQxM2Y4OWE2ZDBm`

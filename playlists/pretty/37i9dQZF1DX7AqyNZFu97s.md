@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: The Book Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,055 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,058 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Reload](https://open.spotify.com/track/4RVOA7pD7bTSfaeoKPjuRJ) | [MANLIKEVISION](https://open.spotify.com/artist/3SEmfoai8jHF5dHTmK2xlE), [Truth](https://open.spotify.com/artist/6BngfNJpXlYWGUly5bgNsi) | [Reload](https://open.spotify.com/album/6e9KXhqU8iHUbg4VzZMROc) | 3:47 |
 | 80 | [\(Oh\) My Days](https://open.spotify.com/track/6w7rmgjSppBXydCtHzfMMA) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [Bloodlines](https://open.spotify.com/album/3i0jkvrg2HK1OOwDfRRCMJ) | 3:55 |
 
-Snapshot ID: `MCw1NGQxMjE3M2Y5ODMzM2ExNjQ5ZDA5ZWZmMmY0Mzc0MTk3NDZiNTQ3`
+Snapshot ID: `MCw3ZmRhOGE5NGRhOWM0YWQwNmQ0Njc4NTUxZDYzNWMxYmYxMjU2YzBj`

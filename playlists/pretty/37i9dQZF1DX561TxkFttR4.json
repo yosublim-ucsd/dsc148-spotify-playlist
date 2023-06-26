@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 332989,
+  "num_followers": 333024,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGM0Mjc1ODExZTBkMzhiODZkNWQ3Y2RmZGQyMDQxYTRjNGEzZjFm",
+  "snapshot_id": "MCw0NGU1M2Y3ODVmNzQ0ZDI1OGNiNmJjNDVlY2M4YmQ1NWQ5YzY5YWZk",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
-      },
-      "artists": [
-        {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
-        }
-      ],
-      "duration_ms": 110868,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "when the party\u2019s over (Slowed Remix)",
         "url": "https://open.spotify.com/album/06snhOORsyLrFV7rNyNlLI"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 234280,
       "name": "when the party's over - Slowed Remix",
       "url": "https://open.spotify.com/track/35zRHowhQifRViG90CiLLY"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "duration_ms": 110868,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Gdansk",
+        "url": "https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 147314,
+      "name": "Gdansk",
+      "url": "https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Fluttering",
         "url": "https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 108461,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Gdansk",
-        "url": "https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 147314,
-      "name": "Gdansk",
-      "url": "https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 191114,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Ave",
         "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 128000,
       "name": "Ave",
       "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 191114,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 180057,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 207053,
       "name": "Anona",
       "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 180057,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 156000,
       "name": "Across Borders",
       "url": "https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Any",
-        "url": "https://open.spotify.com/album/3nnQsU3BHC8dzW3SgsRBVC"
-      },
-      "artists": [
-        {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Any",
-      "url": "https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Untouched Rainforest, Pt.3",
         "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 193529,
       "name": "Untouched Rainforest, Pt.3",
       "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Any",
+        "url": "https://open.spotify.com/album/3nnQsU3BHC8dzW3SgsRBVC"
+      },
+      "artists": [
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Any",
+      "url": "https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "An Evening Scene",
-        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 144625,
-      "name": "An Evening Scene",
-      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Pioneers",
         "url": "https://open.spotify.com/album/4tU8qKdQPlGm4OIqHddiw2"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 199255,
       "name": "Pioneers",
       "url": "https://open.spotify.com/track/74TWhwYF9jxmeMgQUVbu7S"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "An Evening Scene",
+        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 144625,
+      "name": "An Evening Scene",
+      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
     },
     {
       "added_at": "2022-09-20 13:39:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,892 likes - 111 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,265 likes - 111 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 110 | [Happy Go Lucky](https://open.spotify.com/track/1pi75PZXe1OGVX6RRUXfLx) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Paris Nights: French Gyspy Jazz](https://open.spotify.com/album/03Winiv70Ae2uEgNgDkjvN) | 1:38 |
 | 111 | [Flambée montalbanaise](https://open.spotify.com/track/6gugxXbWxWRtXqaen97y9l) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 2:26 |
 
-Snapshot ID: `MCxkOTAxODVkNTE0NjAxYTc3YzEzYWM0MmU3NjA2ZGIxYjRmOTI2Mjc0`
+Snapshot ID: `MCxkYWZhZGUwNThkY2JhZmE0NWVkM2E5MjAyODM5M2Q2YzgzYjlhMGJj`

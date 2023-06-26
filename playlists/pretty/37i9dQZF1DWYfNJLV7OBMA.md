@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,520 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,543 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 99 | [Priyawee](https://open.spotify.com/track/1gEgaeOW0at0yNufAQviJz) | [Piyath Rajapaksha](https://open.spotify.com/artist/2S27TB6CngbE1hmLkEQWYS) | [Priyawee \- Single](https://open.spotify.com/album/5wLw7iEmwl7IwadGqkibyS) | 3:48 |
 | 100 | [Nurawee](https://open.spotify.com/track/4CcxO8JFiX6pYxXHBT7Ncs) | [Sandeep Jayalath](https://open.spotify.com/artist/1YXPaC4veUevXiHXh7D41t) | [Nurawee](https://open.spotify.com/album/7o9VkXQeL8JznotCU6iaWs) | 3:51 |
 
-Snapshot ID: `MCxkMmM4Yjc2MTM1ZThlNDIxZDE4ZTEwMThlYjkwYzA0YmFiNTBiN2Qx`
+Snapshot ID: `MCxhZjRjNzM1MTU3NjQ4Mjc5YTk0NWRiZjZjNzZjMTU2NmMxNmZjZTA1`

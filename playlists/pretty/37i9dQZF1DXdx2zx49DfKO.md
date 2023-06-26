@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 
 > The fastest growing genre in 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,657 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,678 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 | 33 | [LAST ONE](https://open.spotify.com/track/6XH0taXenGnqJ4qdlElbDe) | [Luga](https://open.spotify.com/artist/3BYJl9McCY35iO9F0KHoiz) | [LAST ONE](https://open.spotify.com/album/20fCMIeYP46IRXINaR7wq5) | 2:30 |
 | 34 | [RAGNAROK](https://open.spotify.com/track/1sWb35nydLCjD71JGURDEv) | [chyxz](https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG), [SLOWYMANE](https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu) | [RAGNAROK](https://open.spotify.com/album/45pOAmgOLYGcAU9r4yscc9) | 3:15 |
 | 35 | [Helldrift 2](https://open.spotify.com/track/2DfJniytXfa3L3N5TqSCYV) | [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [Baljeed](https://open.spotify.com/artist/7hGdKzs5dxoCBSTldjK3og) | [Helldrift 2](https://open.spotify.com/album/4l3lvU8NrRG8gtzPUGeliK) | 2:51 |
-| 36 | [Swaggin' at the Partment](https://open.spotify.com/track/7MNyh8ecfu0cE2hkXIvZAo) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Chappo](https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz) | [Swaggin' at the Partment](https://open.spotify.com/album/66zLalLqmD8cv653QsaC8B) | 2:04 |
+| 36 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 | 37 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 |
 | 38 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 |
 | 39 | [Devil Ride](https://open.spotify.com/track/1HR0lYFetVM22vVwRETZiF) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Devil Ride](https://open.spotify.com/album/2VAYxDkiPWql7J52mhQX1X) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 | 49 | [RAVEN](https://open.spotify.com/track/33jNhRb9njyX482vPmFPMu) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [SKETS](https://open.spotify.com/artist/32JsKOhKT1joCOXoIhVGVY) | [RAVEN](https://open.spotify.com/album/4YmcshR0vxXqn8h20qXCMS) | 2:26 |
 | 50 | [DYNAMIC](https://open.spotify.com/track/3qVSfd3Z2fmJKfHZeOweyQ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DYNAMIC](https://open.spotify.com/album/3IsXhqut1v9sbGsID7VGcS) | 2:00 |
 
-Snapshot ID: `MCw5OWIzMjhkOTNkOTA2MjkxYmYwOTZmY2NmM2FlOWVhNDlmMzM1MDNk`
+Snapshot ID: `MCxhMzZlYmY1OWQ5NmViZmI1OWVlZTlmY2ZhZGYyY2IxOWIyY2RkYTg2`

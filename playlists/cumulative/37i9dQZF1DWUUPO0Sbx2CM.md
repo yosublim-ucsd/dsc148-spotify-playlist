@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-384 songs - 21 hr 21 min
+385 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Clear View \(Remix\)](https://open.spotify.com/track/1OdEnDiOeNLQIqM8uKV5tu) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Clear View \(Remix\)](https://open.spotify.com/album/02tpfSEXtcYoAXk6JOA2H6) | 2:29 | 2021-10-31 | 2022-07-29 |
 | [Close \(feat\. Steven Furtick\)](https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Steven Furtick](https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 2:48 | 2021-10-31 | 2023-02-08 |
 | [Close \(feat\. Steven Furtick\)](https://open.spotify.com/track/5cdVjOTp2QPOmYlFuCtkAP) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Steven Furtick](https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM) | [Perfect Peace](https://open.spotify.com/album/11UPUq8hVQ8xAP4sDVVaVw) | 2:48 | 2021-10-31 | 2022-07-29 |
+| [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 | 2023-02-07 |  |
 | [Come Back Home](https://open.spotify.com/track/7lseQ8V4zahQi2cUWvREEU) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Come Back Home](https://open.spotify.com/album/37KbHpLg12eExNN9OMUmcu) | 2:38 | 2021-10-31 | 2023-02-08 |
 | [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 | 2023-02-07 |  |
 | [Come Home \- Warehouse Mix](https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Come Home \(Warehouse Mix\)](https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr) | 2:38 | 2023-02-07 |  |
@@ -285,7 +286,7 @@
 | [Paradise](https://open.spotify.com/track/0EJlpO8Z5Vqy4phgcqU84V) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daydreamer](https://open.spotify.com/album/0YFwILd7BfZdEimIslxHse) | 3:47 | 2021-10-31 | 2022-07-22 |
 | [Peace](https://open.spotify.com/track/467Ka8djftrhQIZTkYJar0) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Peace](https://open.spotify.com/album/2eJbMsDrKsDKk191Ve9lch) | 3:15 | 2021-10-31 | 2022-07-22 |
 | [perfection](https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part I \- EP](https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb) | 3:33 | 2021-10-31 | 2023-02-08 |
-| [Poison](https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Poison](https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z) | 2:57 | 2023-02-07 |  |
+| [Poison](https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Poison](https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z) | 2:57 | 2023-02-07 | 2023-06-26 |
 | [Problem Child](https://open.spotify.com/track/27gWrFUtvQ26M1F6aWtCzl) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Problem Child](https://open.spotify.com/album/7CJt71XX4c4JLe1MTDyM8Z) | 3:06 | 2021-10-31 | 2022-07-29 |
 | [Prodigals \- Live](https://open.spotify.com/track/1LnKCGvs4DMTvZSH1mjyrR) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [Our God Will See Us Through \(Live\)](https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2) | 4:13 | 2023-02-07 |  |
 | [Rage \(JIMMY ROCK Remix\)](https://open.spotify.com/track/3fk7RpDCQxsRDKQ6oWZqa2) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Thomas Iannucci](https://open.spotify.com/artist/1owYPqqX6qgsRRQsocw3Bm), [Sonny Sandoval](https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L) | [Rage \(JIMMY ROCK Remix\)](https://open.spotify.com/album/5aREczpfR75DSZYfsvgFzb) | 3:42 | 2021-10-31 | 2022-06-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,390 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,394 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [Saudade](https://open.spotify.com/track/7eZNE4IMsuDVOOQZFSpdyq) | [Russo](https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC) | [Saudade](https://open.spotify.com/album/0qDpiWZ4Km9fnt3mIV6ct7) | 2:31 |
 | 99 | [tapa na pantera](https://open.spotify.com/track/73eX4glmP35Wo2zmYQPOue) | [ZA](https://open.spotify.com/artist/3leovMVJPslFyWGlVOX7Xc) | [tapa na pantera](https://open.spotify.com/album/0enCS5UF1dNtfD3FVo9xDK) | 2:00 |
 
-Snapshot ID: `MCw1YjM4YzU0OWRjMmQxOGI3YTFmZTU2ODc3OTQ0ZjA2ZjJlMjkwMDc0`
+Snapshot ID: `MCxjNWQ2MTM2ZWE4MmNkYTc5NDIyYjRiOTQ3N2JlY2IyYTI2MDAxYWQ5`

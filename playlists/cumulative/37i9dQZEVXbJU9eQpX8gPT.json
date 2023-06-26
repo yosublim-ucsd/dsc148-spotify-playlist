@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 238939,
       "name": "00:00",
       "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
@@ -7254,7 +7254,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 184661,
       "name": "Ghazali (feat. Bryan Mg)",
       "url": "https://open.spotify.com/track/7165ZM318rbGB8bHOn5z1q"
@@ -14195,6 +14195,28 @@
     },
     {
       "album": {
+        "name": "Int\u00e9gral 2 #POV",
+        "url": "https://open.spotify.com/album/1Pp29brafMioAYDYXJSM1D"
+      },
+      "artists": [
+        {
+          "name": "Nahir",
+          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192293,
+      "name": "Niya (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/1gOnmylQfRosw6DLJff6af"
+    },
+    {
+      "album": {
         "name": "Niya (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/6r9TDL8g5fBwFPCwFqgvc9"
       },
@@ -14210,7 +14232,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 192293,
       "name": "Niya (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/3OaHQoMlGe9jnk12UNEvJd"
@@ -15766,7 +15788,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 165722,
       "name": "Pepete",
       "url": "https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR"
@@ -16166,7 +16188,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 151575,
       "name": "POUFA",
       "url": "https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B"

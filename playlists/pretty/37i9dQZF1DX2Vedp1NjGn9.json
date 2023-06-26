@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 94700,
+  "num_followers": 94782,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2ViMjk0MjczYjQ3MDlhMTRjOTUwNTcyN2JiNGMwNjkwNGY5NjQ4",
+  "snapshot_id": "MCw0MDAzYmRjYzBjODNiZDlmMDYxMmZiYjdhNmQyOGNhYWEzY2E3MmI0",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "On the Water",
-        "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "The English Riviera",
         "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 210080,
       "name": "Everything Goes My Way",
       "url": "https://open.spotify.com/track/67wcAJeaNwGm0fcB4HzzYm"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "On the Water",
+        "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Colour Of The Trap",
-        "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "Come Closer",
-      "url": "https://open.spotify.com/track/20uVZbYFKshjrdDHcVy9w9"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Shake! Shake! Shake!",
         "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 163236,
       "name": "Shake, Shake, Shake",
       "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Colour Of The Trap",
+        "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/20uVZbYFKshjrdDHcVy9w9"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Ceremonials (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 303173,
-      "name": "Seven Devils",
-      "url": "https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Suck It and See",
         "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 191426,
       "name": "Love is a Laserquest",
       "url": "https://open.spotify.com/track/7wsEZh68qX7jY0dziXMb0H"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Ceremonials (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 303173,
+      "name": "Seven Devils",
+      "url": "https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "BTSTU (Edit)",
-        "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "BTSTU - Edit",
-      "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Blood Pressures",
         "url": "https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 248200,
       "name": "Future Starts Slow",
       "url": "https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "BTSTU (Edit)",
+        "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "BTSTU - Edit",
+      "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "We Must Become the Pitiless Censors of Ourselves",
+        "url": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
+      },
+      "artists": [
+        {
+          "name": "John Maus",
+          "url": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Hey Moon",
+      "url": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "His Young Heart",
         "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 244546,
       "name": "New Beat",
       "url": "https://open.spotify.com/track/6bURo0Mmzg5EymcHwvONaj"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "We Must Become the Pitiless Censors of Ourselves",
-        "url": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
-      },
-      "artists": [
-        {
-          "name": "John Maus",
-          "url": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Hey Moon",
-      "url": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "His Young Heart",
-        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Landfill",
-      "url": "https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 127640,
       "name": "The Cascades",
       "url": "https://open.spotify.com/track/0doAllpYP3hnusnTwFqmdG"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "His Young Heart",
+        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Landfill",
+      "url": "https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c"
     },
     {
       "added_at": "2021-09-02 08:15:11",

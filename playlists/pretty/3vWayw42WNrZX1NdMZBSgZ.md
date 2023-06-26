@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist for hot new updates\. Cover: Marshmello, Tiago PZK
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,432 likes - 57 songs - 3 hr 8 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,434 likes - 57 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

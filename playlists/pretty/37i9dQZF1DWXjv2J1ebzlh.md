@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,373 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,429 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -621,7 +621,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 611 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
 | 612 | [Lupita](https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G) | [Nico Gomez And His Afro Percussion Inc.](https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys) | [Ritual](https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ) | 3:42 |
 | 613 | [Ive Brussel \- JKriv Rework](https://open.spotify.com/track/1PaI0F5Q0lUwNS6EhaTcmC) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Aguaxirê](https://open.spotify.com/album/1jeU3R14QmQy5H2iS2xiLI) | 6:53 |
-| 614 | [Baianá \(Brasingles Vol\. 2\) \- Wolf Mueller's Drum Drop](https://open.spotify.com/track/2E9PioDe4NL5tq53XUQp4z) | [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD), [Wolf Mueller](https://open.spotify.com/artist/49T7EfZ7lAP3FdCWGejiul) | [Baianá \(Brasingles Vol\. 2\) \[Wolf Mueller's Drum Drop\]](https://open.spotify.com/album/5z6mrU9jCEEd9SGA5BKhj0) | 4:58 |
+| 614 | [Baianá \- Wolf Müller's Drum Drop](https://open.spotify.com/track/7q8RvPFlvUmvDQuwFO9Nic) | [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD), [Wolf Müller](https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D) | [Brasingles Vol\. 2](https://open.spotify.com/album/77trSYQ6m2jdF0kxjo78pC) | 4:58 |
 | 615 | [Use My Body](https://open.spotify.com/track/04mJG6sKQJyXBG4KgrCdES) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 4:27 |
 | 616 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
 | 617 | [Mitote](https://open.spotify.com/track/29gMQnQMV6Q2rVS6rgjjRh) | [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A) | [All My Relations](https://open.spotify.com/album/6nAsIGnrUrYrOojbveDfH9) | 3:33 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxlMmJiODY1MzZhNmQ5MDhlMjc1ZWE0ZmIyZTc2MmQyNTBlNzQwZDNi`
+Snapshot ID: `MCw5YzViY2FhMTAwZWMxZTRhODJkNDQ2NDk0YjYwZmZmNTYyMTA5MDk3`

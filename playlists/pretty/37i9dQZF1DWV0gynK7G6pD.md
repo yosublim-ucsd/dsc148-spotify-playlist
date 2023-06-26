@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Igor Levit
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,085 likes - 64 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,153 likes - 64 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 63 | [Concert No\. 2 for Flute & Basso continuo in C Minor: II\. Allemande](https://open.spotify.com/track/74PfVcIjM18Gzo68AfZOre) | [Michel Pignolet de Montéclair](https://open.spotify.com/artist/2uSiDktppOzxVhyf3G3jFp), [The Opus Project](https://open.spotify.com/artist/7HUaJp5B8zZ0DChZA2nYfF) | [Montéclair: Concerts for Flute & Continuo](https://open.spotify.com/album/5noK1KdRM2uprKCPPKjXf0) | 1:50 |
 | 64 | [Quintet: III\. Allegro con brio](https://open.spotify.com/track/56mrKkPPHkoKsYc8JD4bHB) | [Joachim Mendelson](https://open.spotify.com/artist/3O9qd2kI56tRiF307PMwct), [Silesian String Quartet](https://open.spotify.com/artist/2omj0H7dnuGRrILbAkD3X7), [Karolina Stalmachowska](https://open.spotify.com/artist/7utCmG8MpAJGcITdCzi75B), [Piotr Salajczyk](https://open.spotify.com/artist/62YZrLLkS8obDvBRpBIp7K) | [Joachim Mendelson: Quintet: III\. Allegro con brio](https://open.spotify.com/album/7bOPe6vIrdvAcnDcqfpX5H) | 3:31 |
 
-Snapshot ID: `MCxmNWU2M2ExNDg4YTBjMTdjOTE1OTdjZmVjNzc5NGYyODhmZTJhMzBk`
+Snapshot ID: `MCw4MTNkMGIzMzc1YzMyNDk2ZTE3YTY5NjMzNzJjYmJlYWFjNGM5YmM5`

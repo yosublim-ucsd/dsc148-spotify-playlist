@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,523 likes - 75 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,525 likes - 75 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Cô Thắm Không Về](https://open.spotify.com/track/1WdnyGs1uSntpCLgjwc3ps) | [Phát Hồ](https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv), [JokeS Bii](https://open.spotify.com/artist/1FTyDLNQFIES677l00FdzD), [Thiện](https://open.spotify.com/artist/5Ey2QDV20TPGPcSdbOU3Gh) | [Cô Thắm Không Về](https://open.spotify.com/album/1r9489p9ZRlLMNj2qruAXG) | 4:05 |
 | 75 | [Về Thăm Quê Mẹ](https://open.spotify.com/track/5UuB5YlnUR9s5KMeVi37Ml) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP) | [Về Thăm Quê Mẹ](https://open.spotify.com/album/5sMsNnRGNhKZRoBqcTR3Mi) | 4:34 |
 
-Snapshot ID: `MCxkN2M2NzI5ZWFmMzdkZDhhNGY0NTg3OWM3ZDFjNDNmYmNlMDhmMDI2`
+Snapshot ID: `MCw3MDlmNzc2NzUwZTIxMTk5NzVhNTVlOTYyMWRkNmUwNmUwYmE1M2My`

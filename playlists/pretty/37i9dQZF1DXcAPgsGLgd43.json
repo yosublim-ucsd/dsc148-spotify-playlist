@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3211,
+  "num_followers": 3210,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzk3MjNhYmNiODVmNDgyMjhmMjViZmVkODczOTNlMjMwODlmNGE2",
+  "snapshot_id": "MCwwZWVmZDVjODgwM2UxNzNmMGU5MzZmYzFkYTFiNzFiNjc5NTRmODFk",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -265,26 +265,6 @@
       "url": "https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf"
     },
     {
-      "added_at": "2021-10-29 16:16:48",
-      "album": {
-        "name": "Talamanca (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Talamanca - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX"
-    },
-    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Tuyo",
@@ -303,6 +283,26 @@
       "duration_ms": 190987,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4"
+    },
+    {
+      "added_at": "2021-10-29 16:16:48",
+      "album": {
+        "name": "Talamanca (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Talamanca - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Conga Mode EP",
-        "url": "https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte"
-      },
-      "artists": [
-        {
-          "name": "Mel\u00e9",
-          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "Conga Mode - Edit",
-      "url": "https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Los Tamales",
         "url": "https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW"
       },
@@ -383,22 +367,38 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc"
+        "name": "Conga Mode EP",
+        "url": "https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte"
       },
       "artists": [
         {
-          "name": "Rene Rodrigezz",
-          "url": "https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO"
-        },
-        {
-          "name": "Yellow Is The New White",
-          "url": "https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u"
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
         }
       ],
-      "duration_ms": 139047,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k"
+      "duration_ms": 224761,
+      "name": "Conga Mode - Edit",
+      "url": "https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Quiribi (Yamil Remix)",
+        "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
+      },
+      "artists": [
+        {
+          "name": "Rosalinda de la Espada",
+          "url": "https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl"
+        },
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 366093,
+      "name": "Quiribi - Yamil Remix",
+      "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -427,22 +427,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Quiribi (Yamil Remix)",
-        "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc"
       },
       "artists": [
         {
-          "name": "Rosalinda de la Espada",
-          "url": "https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl"
+          "name": "Rene Rodrigezz",
+          "url": "https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO"
         },
         {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "Yellow Is The New White",
+          "url": "https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u"
         }
       ],
-      "duration_ms": 366093,
-      "name": "Quiribi - Yamil Remix",
-      "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
+      "duration_ms": 139047,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k"
     },
     {
       "added_at": "2021-11-26 07:27:00",
@@ -925,28 +925,20 @@
       "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
+      "added_at": "2021-11-05 06:05:00",
       "album": {
-        "name": "Felicidad (Colombian Mix)",
-        "url": "https://open.spotify.com/album/6IYzRZ6FfbYaueT0vivHSF"
+        "name": "Cumbia Tropical",
+        "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
       },
       "artists": [
         {
-          "name": "Cato Anaya",
-          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
-        },
-        {
-          "name": "The Cube Guys",
-          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
-        },
-        {
-          "name": "LA GUR\u00da",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+          "name": "Ilary Montanari",
+          "url": "https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA"
         }
       ],
-      "duration_ms": 355680,
-      "name": "Felicidad - Colombian Mix",
-      "url": "https://open.spotify.com/track/179w55cexITAFHwisxwRaE"
+      "duration_ms": 381899,
+      "name": "Cumbia Tropical",
+      "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
     }
   ],
   "unique_name": "Alma",

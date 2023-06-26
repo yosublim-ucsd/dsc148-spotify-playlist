@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Roy Kim(\ub85c\uc774\ud0b4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 214326,
+  "num_followers": 214402,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGZiODQyODIzNmNiYzJjYzRiMmJmOGMyN2VkNDFmOTQ5Zjk3MGQw",
+  "snapshot_id": "MCw3ZWFhZjBlMTlhMzliNDAwZGRjM2Q2ZmYyYzRhZTA2ZjEyZmI4OGY5",
   "tracks": [
     {
       "added_at": "2023-06-22 05:26:12",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-06-22 05:26:12",
       "album": {
-        "name": "Deadlock",
-        "url": "https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 183670,
-      "name": "Freakin' Bad",
-      "url": "https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg"
-    },
-    {
-      "added_at": "2023-06-22 05:26:12",
-      "album": {
         "name": "daisy.",
         "url": "https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 218500,
       "name": "daisy.",
       "url": "https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR"
+    },
+    {
+      "added_at": "2023-06-22 05:26:12",
+      "album": {
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 183670,
+      "name": "Freakin' Bad",
+      "url": "https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg"
     },
     {
       "added_at": "2023-06-22 05:26:12",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-06-22 05:26:12",
       "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
+    },
+    {
+      "added_at": "2023-06-22 05:26:12",
+      "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-06-22 05:26:12",
       "album": {
-        "name": "Traffic light",
-        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "Traffic light",
-      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
-    },
-    {
-      "added_at": "2023-06-22 05:26:12",
-      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
       },
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-06-22 05:26:12",
       "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
+        "name": "Traffic light",
+        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
         }
       ],
-      "duration_ms": 283160,
-      "name": "You Were Beautiful",
-      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
+      "duration_ms": 231586,
+      "name": "Traffic light",
+      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
       "added_at": "2023-06-22 05:26:12",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-06-22 05:26:12",
       "album": {
+        "name": "Grey Suit - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Grey Suit",
+      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
+    },
+    {
+      "added_at": "2023-06-22 05:26:12",
+      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 268453,
       "name": "So Tender",
       "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
-    },
-    {
-      "added_at": "2023-06-22 05:26:12",
-      "album": {
-        "name": "Grey Suit - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
-      },
-      "artists": [
-        {
-          "name": "SUHO",
-          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Grey Suit",
-      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
     },
     {
       "added_at": "2023-06-22 05:26:12",

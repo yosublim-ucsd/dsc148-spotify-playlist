@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,253,874 likes - 60 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,254,514 likes - 60 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 |
 | 60 | [Silence Your Mind](https://open.spotify.com/track/6NLXYs1h9Dx6sk39E8m4HF) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Silence Your Mind](https://open.spotify.com/album/77sRud3gjmLrWPYK2VTCeF) | 4:00 |
 
-Snapshot ID: `MCxlNzZmOWUwMWU4MTcxOGQyMTdmYTcxODg0ZmMzNjkwNWNlZGY4NmYz`
+Snapshot ID: `MCwxMmQ3M2RiNzczOTdhZmM2OThhYTZhMTMxN2EzOWVhZTQyOGEzNDBl`

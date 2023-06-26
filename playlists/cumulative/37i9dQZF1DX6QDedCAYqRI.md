@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-126 songs - 8 hr 2 min
+127 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Baby Tomorrow](https://open.spotify.com/track/4vIjFV178hUmyyqtscJqXe) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [What You See](https://open.spotify.com/album/4HrzQhdkXmOGLq5CtZZ78U) | 3:14 | 2022-06-01 |  |
 | [Bottle Tops](https://open.spotify.com/track/0DU88MhtGfzyCvt3YZijfL) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Mononoke](https://open.spotify.com/artist/7JDpmpWfaFoeSTeKP5l881) | [Every Night Another But Not You](https://open.spotify.com/album/3sQW3x8p9ymXu4xMSrWtEB) | 4:37 | 2022-06-01 |  |
 | [Bottle Tops](https://open.spotify.com/track/7dEOgJZEDCsLkI3A7ifNzH) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Mononoke](https://open.spotify.com/artist/7JDpmpWfaFoeSTeKP5l881) | [Bottle Tops](https://open.spotify.com/album/1qFaoYhr4xUZMmfKLbDv2g) | 4:37 | 2021-08-19 | 2022-07-29 |
+| [Children of Them](https://open.spotify.com/track/7GtiXXLexejStSXTAnMCOk) | [ALIS HOWS](https://open.spotify.com/artist/2zKGrJIWyoks8A1TAC42PK) | [The Opposite and Inside\-Out](https://open.spotify.com/album/7jmigPXwN4uX4ON0SAL5KE) | 4:14 | 2023-05-25 |  |
 | [cloud9](https://open.spotify.com/track/2KO0sztUM1YycUiP5Ny8Dg) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy), [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [cloud9](https://open.spotify.com/album/1ueZFUuqoyR9hzRxrgrgoK) | 3:09 | 2021-08-19 |  |
 | [Cold \(2 AM\)](https://open.spotify.com/track/56ZMz7ERZ7NwLOqDtdsTlq) | [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk) | [Cold \(2 AM\)](https://open.spotify.com/album/4CzVzLksrXIUZAyixlsdE3) | 2:23 | 2021-08-19 |  |
 | [come out and play](https://open.spotify.com/track/7wC5eZcFS1Q1BsQ35DU6H4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [come out and play](https://open.spotify.com/album/0ifM8RTX9HjtCJtY9452bW) | 3:30 | 2021-08-19 |  |
@@ -133,6 +134,6 @@
 | [Young And Beautiful](https://open.spotify.com/track/5UzTtUZper0CphnqZYvsIu) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young And Beautiful](https://open.spotify.com/album/4X0NHS8CbsJVAMBxhSaHtD) | 3:56 | 2021-08-19 | 2022-07-29 |
 | [Young And Beautiful](https://open.spotify.com/track/5lER9ibonDkzF2J2OYZtBT) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Best of Female Pop](https://open.spotify.com/album/3yM5uy3Lp0SA4ReyOcsMro) | 3:56 | 2022-06-01 | 2022-11-13 |
 | [Zero One](https://open.spotify.com/track/2MPynctIqjFhmRLKRpBamF) | [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Zero One](https://open.spotify.com/album/6hHfHInmTWnwDPyOUpzMXn) | 4:27 | 2021-08-19 |  |
-| [囡仔的怹](https://open.spotify.com/track/6fJUqzUwKL8XXcRn3gFkB5) | [TzChien慈謙](https://open.spotify.com/artist/7J3UwMTN9ldjM4ALmCuba2) | [反](https://open.spotify.com/album/5TTb91ckW0j3dzY5PJLXDm) | 4:14 | 2021-08-19 |  |
+| [囡仔的怹](https://open.spotify.com/track/6fJUqzUwKL8XXcRn3gFkB5) | [TzChien慈謙](https://open.spotify.com/artist/7J3UwMTN9ldjM4ALmCuba2) | [反](https://open.spotify.com/album/5TTb91ckW0j3dzY5PJLXDm) | 4:14 | 2021-08-19 | 2023-06-26 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

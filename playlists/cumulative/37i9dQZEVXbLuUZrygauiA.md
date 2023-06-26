@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,159 songs - 2 day 15 hr 7 min
+1,160 songs - 2 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,7 +841,7 @@
 | [Querer Querernos](https://open.spotify.com/track/1EZGCkexrlADoOmlRJlGBR) | [yeifin](https://open.spotify.com/artist/0D5iW5yV5Sb0DYRvKZjNeW) | [Querer Querernos](https://open.spotify.com/album/606D5VLGNo08D63X3p8dfN) | 3:57 | 2023-06-22 | 2023-06-24 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-08-02 | 2022-10-25 |
 | [Quiere Que Llame](https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU) | [Feloman](https://open.spotify.com/artist/28VWxxfmtShKO6W1qYvnw8), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Quiere Que Llame](https://open.spotify.com/album/2L6SuPwlXXHm3puWVEULxU) | 3:09 | 2022-11-27 | 2023-01-06 |
-| [Quiero Parecerme a Mi Papá](https://open.spotify.com/track/1yVhsdkHVUStr2nbRpJrky) | [Topo Gigio](https://open.spotify.com/artist/4VRf73oEPQ4kniW6RuuypG) | [Topo Gigio](https://open.spotify.com/album/4lJP4EdigfZqtboEhJz8Mf) | 2:29 | 2023-06-20 |  |
+| [Quiero Parecerme a Mi Papá](https://open.spotify.com/track/1yVhsdkHVUStr2nbRpJrky) | [Topo Gigio](https://open.spotify.com/artist/4VRf73oEPQ4kniW6RuuypG) | [Topo Gigio](https://open.spotify.com/album/4lJP4EdigfZqtboEhJz8Mf) | 2:29 | 2023-06-20 | 2023-06-26 |
 | [Qué Agonía](https://open.spotify.com/track/3mQHv0VeDIJUJ4YgPh12XT) | [Estilo Al Norte](https://open.spotify.com/artist/4a8CXjoDXfsk6okDkq2uUW) | [Qué Agonía](https://open.spotify.com/album/138YIGzaZfyGVySA21vgaK) | 2:34 | 2023-02-07 | 2023-02-15 |
 | [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 | 2022-11-15 | 2023-02-02 |
 | [Qué Haríamos Los Viernes](https://open.spotify.com/track/0xAYwmGGFwTCQbP5fTLW50) | [José Otero](https://open.spotify.com/artist/0WwKYgJb1raMJAiAtEbBKy), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Qué Haríamos Los Viernes](https://open.spotify.com/album/4e4s8RiuEH8Nyuvp5RJLD9) | 3:01 | 2022-07-05 | 2022-07-08 |
@@ -1166,6 +1166,7 @@
 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-11-08 | 2022-11-25 |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-18 | 2022-11-20 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-02-08 | 2022-03-16 |
+| [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-06-25 |  |
 | [逆光](https://open.spotify.com/track/78MS9OT9Flm2V78fhTw4rk) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:57 | 2022-11-10 | 2022-11-17 |
 
 \*This playlist was first scraped on 2022-02-09. Prior content cannot be recovered.

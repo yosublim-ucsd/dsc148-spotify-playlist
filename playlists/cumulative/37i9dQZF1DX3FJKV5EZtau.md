@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-370 songs - 21 hr 18 min
+371 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Good Enough](https://open.spotify.com/track/7bT32pu1rHEiS6OGvbZwNV) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Good Enough / For Me \(BCee Remix\)](https://open.spotify.com/album/1HdBgugWBSkwqTfuJ4gn5I) | 4:20 | 2022-01-07 |  |
 | [GRANEW](https://open.spotify.com/track/2c0pZXVTxTHJVagqDQdFoG) | [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P) | [OYOGUMANE](https://open.spotify.com/album/4pNyP4fAlZihVZ3uAY1UOB) | 2:02 | 2022-07-14 | 2022-08-06 |
 | [grayscale](https://open.spotify.com/track/7bDVv5WI1ZPJOVNtJvqmYb) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt), [やぎぬまかな](https://open.spotify.com/artist/0hvNcP9hMHLy8Mz7cX6AsI) | [grayscale](https://open.spotify.com/album/6cdgPkXMC2CcgkNjEQ1VfN) | 5:26 | 2022-01-07 | 2023-05-16 |
-| [Green Hill Zone](https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Green Hill Zone](https://open.spotify.com/album/5IhsVRMo999J5TNdgrYPDP) | 2:55 | 2022-01-07 |  |
+| [Green Hill Zone](https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Green Hill Zone](https://open.spotify.com/album/5IhsVRMo999J5TNdgrYPDP) | 2:55 | 2022-01-07 | 2023-06-26 |
 | [Gum Gum Girl](https://open.spotify.com/track/4xrz4aF606oQ8xqlaoS3ZK) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Gum Gum Girl](https://open.spotify.com/album/67O2yBZLKwAThCY5K3frvS) | 3:39 | 2022-03-11 | 2022-04-21 |
 | [Gurenge](https://open.spotify.com/track/5CPb3hIAHW1YAJsy5n2DQj) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/4f6elU39RiUgIztaePyNff) | 3:24 | 2022-01-07 | 2023-02-17 |
 | [Gurenge](https://open.spotify.com/track/6kBaORe8Y7pJh00892d94Q) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/0EH5DTITXNnjcVxlgUfQCX) | 3:24 | 2023-02-17 |  |
@@ -172,6 +172,7 @@
 | [I Love This](https://open.spotify.com/track/1rZA151rIhOBq1pL5l5pay) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [I Love This](https://open.spotify.com/album/3v2kXhB9ttUu3LeKXdpN07) | 4:00 | 2023-04-13 | 2023-04-25 |
 | [I'll Be There for You](https://open.spotify.com/track/6TxceRnA4BeLn0XFRNbl5Y) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Polychrome](https://open.spotify.com/album/0NdJ9dK8zavK2oB68fJFva) | 4:46 | 2023-05-12 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-21 |  |
+| [i'm so tired](https://open.spotify.com/track/0hgEllIA9AgQBIPpkbNVmp) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [i'm so tired](https://open.spotify.com/album/1F6iYkfAJm0yrkgEON86lS) | 3:28 | 2023-06-23 |  |
 | [if u want my love \- floopy flip](https://open.spotify.com/track/3GzKv75h5Gr6dP7OuNqKvy) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E), [floopy](https://open.spotify.com/artist/5kHm3FQ8SPLMxFFF4ZSzle) | [if u want my love \(the remixes\)](https://open.spotify.com/album/0SfBgStMy1BwzygvmqfLcd) | 2:16 | 2022-01-07 | 2022-07-29 |
 | [Imaginary Express](https://open.spotify.com/track/4kFWo9k3TysBOszTZTENPK) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Imaginarium](https://open.spotify.com/album/2FT3brbwyqJ3mthpsximfk) | 3:52 | 2022-01-07 |  |
 | [In the Pocket](https://open.spotify.com/track/5s4mUU69SlqMNrfavX3zVK) | [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb) | [In the Pocket](https://open.spotify.com/album/7kwqayB8OzSSUYYWuVptdi) | 2:37 | 2022-01-07 | 2022-07-25 |

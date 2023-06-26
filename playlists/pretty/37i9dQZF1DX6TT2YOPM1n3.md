@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Trending Pakistani tracks under one roof\. Cover: Asim Azhar, Shae Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,447 likes - 52 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,489 likes - 52 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 51 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 |
 | 52 | [Gumaan](https://open.spotify.com/track/6cdiviyVL3tFYE1eDcmUzL) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Gumaan](https://open.spotify.com/album/1rbTFWa6pVztLGlJzW0ABx) | 4:20 |
 
-Snapshot ID: `MCw0MGZkNzQzYjNjZTc2NDBmMzhiMmFjNmQ1NTBiMTU4MDQ3N2I2YTJk`
+Snapshot ID: `MCxlMDNhNTIxY2JhNDJjYTU2N2I0MjJjYmI5OTE5NzJmMWY3MGQ1NjU3`

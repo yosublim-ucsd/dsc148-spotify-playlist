@@ -4,7 +4,7 @@
 
 > All of the nominees in one playlist! More info on this year's event can be found at <a href="http://www.stellarawards.com">stellarawards.com</a>.
 
-71 songs - 5 hr 58 min
+72 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [Healing](https://open.spotify.com/track/7zAbUXqtR1IB7PUMG3KeBu) | [Deborah Joy Winans](https://open.spotify.com/artist/64ol6da07DF7satZ0IQhwo) | [Greenleaf, Season 3 \(Music from the Original TV Series\)](https://open.spotify.com/album/4HBxCMRCyfxHhoW1vFiK2i) | 4:26 | 2020-09-08 |  |
 | [I Got It](https://open.spotify.com/track/10pOcnlNCuyVCLBr4M7Nis) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Kerry Douglas](https://open.spotify.com/artist/4c2cuY9TIk79ilLtjwJXL4) | [Big: Freedom Session \(LIVE\)](https://open.spotify.com/album/6esoWZzd8PZHYS40n4MWbo) | 4:07 | 2020-09-08 | 2022-11-13 |
 | [I Got It \- Bonus Track](https://open.spotify.com/track/6y8ZVdDFBly8GJhFJAM97L) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got It: Singles Ministry, Vol\. 1](https://open.spotify.com/album/5jxxVFeOULCVZR5K3n9Zwa) | 4:07 | 2020-09-08 |  |
-| [I Love Him](https://open.spotify.com/track/0m5RnG9Zaxi6ierwUtrOIh) | [Renee Spearman](https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW), [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Dr\. Holly Carter](https://open.spotify.com/artist/3mZT0ejcCmnNswl8HXOxNA) | [I Love Him](https://open.spotify.com/album/5yLNbxR3Ho43FXKGU997lf) | 3:55 | 2020-09-08 |  |
+| [I Love Him](https://open.spotify.com/track/0m5RnG9Zaxi6ierwUtrOIh) | [Renee Spearman](https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW), [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Dr\. Holly Carter](https://open.spotify.com/artist/3mZT0ejcCmnNswl8HXOxNA) | [I Love Him](https://open.spotify.com/album/5yLNbxR3Ho43FXKGU997lf) | 3:55 | 2020-09-08 | 2023-06-26 |
 | [I Love Him](https://open.spotify.com/track/1pjLgp7d1kKK4i2FkoCp7p) | [Renee Spearman](https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW), [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Dr\. Holly Carter](https://open.spotify.com/artist/3mZT0ejcCmnNswl8HXOxNA) | [I Love Him](https://open.spotify.com/album/57ZBh1sPj0TyLXW24oUGIH) | 4:16 | 2020-09-08 | 2023-04-20 |
+| [I Love Him](https://open.spotify.com/track/4pGcqEd8TEESJkcC2IYxHY) | [Renee Spearman](https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW), [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Dr\. Holly Carter](https://open.spotify.com/artist/3mZT0ejcCmnNswl8HXOxNA) | [The Essential Renee Spearman](https://open.spotify.com/album/027R0d08CpAyAWnULP7q5w) | 4:16 | 2020-09-08 |  |
 | [I Made It Out \(Radio Edit\)](https://open.spotify.com/track/23XInhCvpwCVcMZhzfNgrq) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [I Made It Out](https://open.spotify.com/album/2UZ50ykEFFtYVe7Tg0b6N4) | 4:58 | 2020-09-08 |  |
 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 | 2020-09-08 |  |
 | [I Surrender All](https://open.spotify.com/track/6mvcyfh4rNfvPqiDZmgG6R) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD) | [My Inspiration \(Vol\. 2\)](https://open.spotify.com/album/50O6Ya7LqWvi16R2t2N9sj) | 5:58 | 2020-09-08 |  |

@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: The Acacia Strain
 
-473 songs - 1 day 6 hr 42 min
+474 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [An Infidel's Dissent](https://open.spotify.com/track/4eFf2QvlAnMdxcPML5g6rb) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [An Infidel's Dissent](https://open.spotify.com/album/2aZjjvJlDBcMOVlPSBSX7d) | 4:41 | 2021-12-17 | 2022-04-09 |
 | [Anger](https://open.spotify.com/track/2vU56Ai3agKRPluvjZNDI4) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [On Death](https://open.spotify.com/album/7y8glNEJxr9kUrsIe2ZFRN) | 3:26 | 2022-07-08 |  |
 | [Anger](https://open.spotify.com/track/48oseEsllN8BoGcjMARDyX) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Anger](https://open.spotify.com/album/31YVc9WzhyGg1Dsb7QaoEO) | 3:26 | 2021-12-17 | 2022-07-27 |
-| [Anti\-Fetish](https://open.spotify.com/track/2fc6YX69npgSxNM1pBHBgf) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Anti\-Fetish](https://open.spotify.com/album/1GsWn1EFJa6DdETJcCLytU) | 3:58 | 2023-05-01 |  |
+| [Anti\-Fetish](https://open.spotify.com/track/2fc6YX69npgSxNM1pBHBgf) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Anti\-Fetish](https://open.spotify.com/album/1GsWn1EFJa6DdETJcCLytU) | 3:58 | 2023-05-01 | 2023-06-26 |
 | [Apocalypse Document](https://open.spotify.com/track/0NIyZYJcL1OcuM08sP3ePc) | [Entombed in the Abyss](https://open.spotify.com/artist/5dAgigzAfjqDUNPNjd6gcQ) | [Apocalypse Document](https://open.spotify.com/album/2Ogx85uE1nS1RSpJ375Vdc) | 3:24 | 2021-12-17 | 2022-04-09 |
 | [Apollo](https://open.spotify.com/track/6qZthmNcaK0jlrkMZ3khmy) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/6Z63V1YXcM6JG7XyWDmevd) | 5:12 | 2022-07-08 |  |
 | [Apollo](https://open.spotify.com/track/7fFb8tJU5thmLGP1ZKqLxw) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/5XlKRhFaEPZl0NEoLbMsRo) | 5:12 | 2021-12-17 | 2022-07-29 |
@@ -202,6 +202,7 @@
 | [Fuck Yourself](https://open.spotify.com/track/1QoIM17rGzqkTl3nVoqhIM) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [CJ McCreery](https://open.spotify.com/artist/3I0nUy3IPm6o9HegqleVup), [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Fuck Yourself](https://open.spotify.com/album/2PazSbFVYokXamGsETzwgI) | 2:26 | 2021-12-17 | 2022-07-10 |
 | [FUCK YOURSELF](https://open.spotify.com/track/2zDmGeL0uTlVtYmfSi8qXv) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF), [CJ McCreery](https://open.spotify.com/artist/3I0nUy3IPm6o9HegqleVup) | [FUCK YOURSELF](https://open.spotify.com/album/3hzXKeVr8paZjIy5urZhIi) | 2:26 | 2022-07-08 |  |
 | [Gaslight](https://open.spotify.com/track/4CtFvQhdhJoBcgkSuaA0D9) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Fear & Loathing](https://open.spotify.com/album/3EUZvLhYbNlBzFjXmfWGFk) | 3:10 | 2023-03-24 | 2023-06-22 |
+| [Gaslight](https://open.spotify.com/track/49yo9KMW5LEYNvGoh7TEVG) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Fear & Loathing](https://open.spotify.com/album/0odjkD2BkmycwuyJrfg93A) | 3:10 | 2023-06-16 |  |
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-06-16 |  |
 | [Glory Be 2 Misery](https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Last Ten Seconds of Life](https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq) | 5:04 | 2022-01-28 | 2023-06-15 |
 | [God Complex](https://open.spotify.com/track/1RoFyfpfq5sLrAvt0Mqfin) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Infested Entrails](https://open.spotify.com/artist/2UV4oVKHXKT84RWBo942Ll) | [God Complex](https://open.spotify.com/album/48S8NpnkxAlOZykfu5AtV8) | 4:46 | 2022-06-17 | 2022-08-26 |

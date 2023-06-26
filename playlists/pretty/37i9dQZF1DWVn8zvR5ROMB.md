@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Michael Ray, Old Dominion, Ashley Cooke and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,529 likes - 67 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,792 likes - 67 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 66 | [Drinkin' Problems](https://open.spotify.com/track/1D1IChY9GoX2yuRr5J0CJv) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Drinkin' Problems](https://open.spotify.com/album/1nMw8BErLxKBoKtlsm0LKQ) | 3:06 |
 | 67 | [Drinkin' Thinkin'](https://open.spotify.com/track/21y7VW9SY2s5VCQg0RGWho) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1) | [Drinkin' Thinkin'](https://open.spotify.com/album/1KhuNvwkr57y2yP9N0XHNZ) | 2:55 |
 
-Snapshot ID: `MCw3MGU4MTUxNGFmYzdkNTIzZGMxZDJiOTg1NWE1OTAxMjBhZDgyOGEx`
+Snapshot ID: `MCwwNzZhZGNjYzI5OGRhMzgwNjE4NGNmNmJhOTc5MzU0ZjA2Y2NlNjI0`

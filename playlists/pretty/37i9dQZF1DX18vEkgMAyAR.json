@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 58735,
+  "num_followers": 58780,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjdiNWJiZWE3YjExMTgzNDg0YWQzYjg1ZGJhMDIzN2Q2MDNjMjVk",
+  "snapshot_id": "MCxmNzEyZjdhMmRhZDNhYTdjNDRiNWU3YmZkZjk3Y2E0MjkxNGI5MzMz",
   "tracks": [
     {
       "added_at": "2023-04-21 11:39:07",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
+        "name": "I Should Have Stayed at Home",
+        "url": "https://open.spotify.com/album/7Gg6nUfvmeyxJ2FBvP3tDR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "I Should Have Stayed at Home",
+      "url": "https://open.spotify.com/track/2y42aEs7Rczw5eMLK9UMeW"
+    },
+    {
+      "added_at": "2023-04-21 11:39:07",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 198635,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
-    },
-    {
-      "added_at": "2023-04-21 11:39:07",
-      "album": {
-        "name": "I Should Have Stayed at Home",
-        "url": "https://open.spotify.com/album/7Gg6nUfvmeyxJ2FBvP3tDR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Mack",
-          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "I Should Have Stayed at Home",
-      "url": "https://open.spotify.com/track/2y42aEs7Rczw5eMLK9UMeW"
     },
     {
       "added_at": "2023-04-21 11:39:07",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "Best Night of My Life",
-        "url": "https://open.spotify.com/album/4XxDkLqQfNsGHHsiWOTGpB"
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
       },
       "artists": [
         {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+          "name": "Rubber Duc",
+          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
         }
       ],
-      "duration_ms": 154855,
-      "name": "Best Night of My Life",
-      "url": "https://open.spotify.com/track/3oSGH1ibFHx3aCHS4Fk3vV"
+      "duration_ms": 219500,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
     },
     {
       "added_at": "2023-04-21 11:39:07",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
+        "name": "Best Night of My Life",
+        "url": "https://open.spotify.com/album/4XxDkLqQfNsGHHsiWOTGpB"
       },
       "artists": [
         {
-          "name": "Rubber Duc",
-          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
+      "duration_ms": 154855,
+      "name": "Best Night of My Life",
+      "url": "https://open.spotify.com/track/3oSGH1ibFHx3aCHS4Fk3vV"
     },
     {
       "added_at": "2023-04-21 11:39:07",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
+        "name": "Love Everlasting",
+        "url": "https://open.spotify.com/album/1jk13k67kk897HjHgIELRV"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        }
+      ],
+      "duration_ms": 160018,
+      "name": "Love Everlasting",
+      "url": "https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g"
+    },
+    {
+      "added_at": "2023-04-21 11:39:07",
+      "album": {
         "name": "Too Blessed To Be Stressed",
         "url": "https://open.spotify.com/album/0JWVf25ijtjI41fPf0Nso5"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 212172,
       "name": "Two High - Acoustic",
       "url": "https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8"
-    },
-    {
-      "added_at": "2023-04-21 11:39:07",
-      "album": {
-        "name": "Love Everlasting",
-        "url": "https://open.spotify.com/album/1jk13k67kk897HjHgIELRV"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        }
-      ],
-      "duration_ms": 160018,
-      "name": "Love Everlasting",
-      "url": "https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g"
     },
     {
       "added_at": "2023-04-21 11:39:07",

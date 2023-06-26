@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Junior Zamora. Updates every Wednesday.",
-  "num_followers": 170579,
+  "num_followers": 170573,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjA5ODljN2YzOGJlZDNiZTg4MjRmMGI4NTYyMzc4MThmMzMyMWMw",
+  "snapshot_id": "MCwzY2RlNzY3NTE4NjA4ODYxNzAxYjI1YWNhMGYwMjQ5NmE5YjAwOTNh",
   "tracks": [
     {
       "added_at": "2023-06-21 04:00:00",
@@ -375,18 +375,22 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/7CTYEjeve7mpzQ4gCJYn9C"
+        "name": "LOS QLOS COMENTAN",
+        "url": "https://open.spotify.com/album/7nLPApwX5wZJ3keFIZtAD7"
       },
       "artists": [
         {
-          "name": "martuli",
-          "url": "https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc"
+          "name": "KLAUT",
+          "url": "https://open.spotify.com/artist/2ilUhTD4YJ4Rm6mf4K8td4"
+        },
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
         }
       ],
-      "duration_ms": 186608,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/11dJmpR21O80TucauhNsVN"
+      "duration_ms": 175042,
+      "name": "LOS QLOS COMENTAN",
+      "url": "https://open.spotify.com/track/18lFzDFN4RVbEq0KSmv7f8"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -407,22 +411,18 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "LOS QLOS COMENTAN",
-        "url": "https://open.spotify.com/album/7nLPApwX5wZJ3keFIZtAD7"
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/7CTYEjeve7mpzQ4gCJYn9C"
       },
       "artists": [
         {
-          "name": "KLAUT",
-          "url": "https://open.spotify.com/artist/2ilUhTD4YJ4Rm6mf4K8td4"
-        },
-        {
-          "name": "Greccia",
-          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+          "name": "martuli",
+          "url": "https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc"
         }
       ],
-      "duration_ms": 175042,
-      "name": "LOS QLOS COMENTAN",
-      "url": "https://open.spotify.com/track/18lFzDFN4RVbEq0KSmv7f8"
+      "duration_ms": 186608,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/11dJmpR21O80TucauhNsVN"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
+        "name": "Gelato",
+        "url": "https://open.spotify.com/album/6P9HjJLj5zUaI7urdjSPpf"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 223928,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/1QjlMVJzywhUcCFu3vGXgt"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
         "name": "Una Manera Distinta",
         "url": "https://open.spotify.com/album/7q4jrkCzbxNiPb1EbKOvOR"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 208066,
       "name": "Una Manera Distinta",
       "url": "https://open.spotify.com/track/38FZyAP4Iexl8Wi9A9hQdU"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
-        "name": "Gelato",
-        "url": "https://open.spotify.com/album/6P9HjJLj5zUaI7urdjSPpf"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 223928,
-      "name": "Gelato",
-      "url": "https://open.spotify.com/track/1QjlMVJzywhUcCFu3vGXgt"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Dame M\u00e1s",
-        "url": "https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy"
-      },
-      "artists": [
-        {
-          "name": "Jinzo",
-          "url": "https://open.spotify.com/artist/0dsqYtPZHuvhqwNDnPrgsn"
-        }
-      ],
-      "duration_ms": 225299,
-      "name": "Dame M\u00e1s",
-      "url": "https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "MARIPOSAS",
         "url": "https://open.spotify.com/album/31optYeNRe79sh5FIMBGJl"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 115857,
       "name": "MARIPOSAS",
       "url": "https://open.spotify.com/track/7er0DsNXSE0JfM2GzHL60O"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "Dame M\u00e1s",
+        "url": "https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy"
+      },
+      "artists": [
+        {
+          "name": "Jinzo",
+          "url": "https://open.spotify.com/artist/0dsqYtPZHuvhqwNDnPrgsn"
+        }
+      ],
+      "duration_ms": 225299,
+      "name": "Dame M\u00e1s",
+      "url": "https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "La Vida, un Viaje",
-        "url": "https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d"
-      },
-      "artists": [
-        {
-          "name": "PASKURANA",
-          "url": "https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ"
-        }
-      ],
-      "duration_ms": 247457,
-      "name": "Eufrasia en el Desierto",
-      "url": "https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "Foto",
         "url": "https://open.spotify.com/album/7i5y1TOAfdGoj59JLwtliw"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 220542,
       "name": "Foto",
       "url": "https://open.spotify.com/track/0XZw6eCsnkMNG7JLJ6LN9g"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "La Vida, un Viaje",
+        "url": "https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d"
+      },
+      "artists": [
+        {
+          "name": "PASKURANA",
+          "url": "https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ"
+        }
+      ],
+      "duration_ms": 247457,
+      "name": "Eufrasia en el Desierto",
+      "url": "https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "N\u00f3mada",
-        "url": "https://open.spotify.com/album/3c6mP5rgIJ5Y3Alh6UQieP"
-      },
-      "artists": [
-        {
-          "name": "Neomadas",
-          "url": "https://open.spotify.com/artist/1lcm04c3mTlUbaQ3o82Y6H"
-        }
-      ],
-      "duration_ms": 261665,
-      "name": "N\u00f3mada",
-      "url": "https://open.spotify.com/track/5TJQ8UwM8jSE0Nw5zbNH8d"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "Dicen que la muerte muri\u00f3",
         "url": "https://open.spotify.com/album/1UycczBEuaR6nYnIEbUOcp"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 253253,
       "name": "Dicen que la muerte muri\u00f3",
       "url": "https://open.spotify.com/track/32zxhzuAWOWAetw13FOZqd"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/3c6mP5rgIJ5Y3Alh6UQieP"
+      },
+      "artists": [
+        {
+          "name": "Neomadas",
+          "url": "https://open.spotify.com/artist/1lcm04c3mTlUbaQ3o82Y6H"
+        }
+      ],
+      "duration_ms": 261665,
+      "name": "N\u00f3mada",
+      "url": "https://open.spotify.com/track/5TJQ8UwM8jSE0Nw5zbNH8d"
     },
     {
       "added_at": "2023-06-21 04:00:00",

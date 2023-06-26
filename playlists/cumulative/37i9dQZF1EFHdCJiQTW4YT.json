@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "abstract art",
+        "url": "https://open.spotify.com/album/3WmvjDfFGJGLmZYWSyJ3nS"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196973,
+      "name": "abstract art",
+      "url": "https://open.spotify.com/track/0ktoxh7F2ygJx5lLSbVxvP"
+    },
+    {
+      "album": {
         "name": "these words are all for you too",
         "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
       },

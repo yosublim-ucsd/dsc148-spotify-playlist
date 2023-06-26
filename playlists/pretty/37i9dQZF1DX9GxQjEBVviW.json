@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 209463,
+  "num_followers": 209529,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmYwNTZkNDQ0ZDA1NzU0ODRkMzRmNmEwNGU0ZWE4NjAzY2Q5MTA2",
+  "snapshot_id": "MCxhMjA5MjdjNjUxNTNlMzc2ZGNiNGQwOGI3ZjU2OGM3NWNlNGY4YmYw",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Who Wrote The Book Of Love? [Digital Version]",
-        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
-      },
-      "artists": [
-        {
-          "name": "The Monotones",
-          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 158840,
       "name": "Since I Don't Have You (Alternative Take)",
       "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Who Wrote The Book Of Love? [Digital Version]",
+        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
+      },
+      "artists": [
+        {
+          "name": "The Monotones",
+          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -583,18 +583,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "For Collectors Only",
-        "url": "https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ"
+        "name": "All the Hits and More",
+        "url": "https://open.spotify.com/album/408vYNhI0kbOgcUikk6AEY"
       },
       "artists": [
         {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+          "name": "The Heartbeats",
+          "url": "https://open.spotify.com/artist/12InvBNZTKboiU2xT663oK"
         }
       ],
-      "duration_ms": 170186,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7"
+      "duration_ms": 148040,
+      "name": "A Thousand Miles Away",
+      "url": "https://open.spotify.com/track/6ofvy4eMivKYNRi4EaDlsF"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -615,18 +615,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "All the Hits and More",
-        "url": "https://open.spotify.com/album/408vYNhI0kbOgcUikk6AEY"
+        "name": "For Collectors Only",
+        "url": "https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ"
       },
       "artists": [
         {
-          "name": "The Heartbeats",
-          "url": "https://open.spotify.com/artist/12InvBNZTKboiU2xT663oK"
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
         }
       ],
-      "duration_ms": 148040,
-      "name": "A Thousand Miles Away",
-      "url": "https://open.spotify.com/track/6ofvy4eMivKYNRi4EaDlsF"
+      "duration_ms": 170186,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7"
     },
     {
       "added_at": "2021-02-12 10:06:47",

@@ -4,7 +4,7 @@
 
 > 90년대 모두의 마음을 사로 잡았던 추억의 록 발라드를 즐겨보세요.
 
-76 songs - 5 hr 43 min
+78 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [After](https://open.spotify.com/track/0ylDYwQ4OUSUtgZT00C13L) | [윤여규 밴드 QPIT](https://open.spotify.com/artist/6tZ7CxKeqb5RBSXiUGX7xW) | [Message](https://open.spotify.com/album/3gbGVHqtFpZIQ6NHAqip3E) | 4:49 | 2023-02-09 |  |
 | [Although I Loved](https://open.spotify.com/track/4RiuKTTcuau1U7u3XdYQuP) | [김경호](https://open.spotify.com/artist/25Qd17778cR6eX2fnHBfig) | [The Life](https://open.spotify.com/album/2whTv68Bl5aELGjqok13yu) | 4:46 | 2023-02-09 |  |
 | [beginning](https://open.spotify.com/track/2BtlbxJF9yfPNbza29VmoR) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Promise](https://open.spotify.com/album/5teS918UxfihkdCYzHIwde) | 3:26 | 2023-02-09 |  |
-| [Change](https://open.spotify.com/track/4QBK8zyiYAkxbg5dgKdFoy) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [그대 떠나가도](https://open.spotify.com/album/1whdmxp3Yr9SDL3D9QYpKx) | 4:28 | 2023-02-09 |  |
+| [Change](https://open.spotify.com/track/2ZPfyWuZmCT05JZWmzCqXF) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [그대 떠나가도](https://open.spotify.com/album/5hTf0Vu9N0gGR5eUU4g3op) | 4:27 | 2023-02-09 |  |
+| [Change](https://open.spotify.com/track/4QBK8zyiYAkxbg5dgKdFoy) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [그대 떠나가도](https://open.spotify.com/album/1whdmxp3Yr9SDL3D9QYpKx) | 4:28 | 2023-02-09 | 2023-06-26 |
 | [Crying](https://open.spotify.com/track/0TuU81Gdgr7fc8w0Ztt2iO) | [플라워](https://open.spotify.com/artist/5sp44iOiTOC0lXmN8zMRaT) | [Bandlife](https://open.spotify.com/album/7lHhvMAK71MO4p94IZ5x3b) | 4:25 | 2023-02-09 |  |
 | [Don't Cry](https://open.spotify.com/track/5wJOqoOsEqJWoHaisUpDVV) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [Melody Quus](https://open.spotify.com/album/6Nb2dANlImyX56CsWHxDEW) | 4:04 | 2023-02-09 |  |
 | [Endless](https://open.spotify.com/track/1OzCTRwO4znqWZsPJZpRSt) | [플라워](https://open.spotify.com/artist/5sp44iOiTOC0lXmN8zMRaT) | [해룡이의 Sad Love Story](https://open.spotify.com/album/7KFnrJoRlzphnYp2tZefaS) | 4:15 | 2023-02-09 |  |
@@ -37,7 +38,8 @@
 | [그런 사람 또 없습니다](https://open.spotify.com/track/5MGZPn7QWGD3DTmPyrpj79) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [Mutopia](https://open.spotify.com/album/4ybqL6fP7aAL7vPKIOr9Lh) | 3:46 | 2023-02-09 |  |
 | [나에게로의 초대](https://open.spotify.com/track/36me6gJ2obYpfKc3YKXECM) | [정경화](https://open.spotify.com/artist/1yjdL7icFOQ3QlPReSiCfN) | [화답](https://open.spotify.com/album/47uDR8Nz6SEgOK6sKZUTld) | 4:16 | 2023-02-09 |  |
 | [내 삶의 반](https://open.spotify.com/track/0oTMCJxeuH8meBJ81cHubn) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [Travel ∞ Directions](https://open.spotify.com/album/3i1AS6MZNPsORiHrJYTHgb) | 3:42 | 2023-02-09 |  |
-| [너를 위한 나의 마음](https://open.spotify.com/track/4HiTlyjhC6SW6SQDJ5sVPo) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [그대 떠나가도](https://open.spotify.com/album/1whdmxp3Yr9SDL3D9QYpKx) | 4:42 | 2023-02-09 |  |
+| [너를 위한 나의 마음](https://open.spotify.com/track/6HvGRSBJiVB0k2TAwvDowJ) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [그대 떠나가도](https://open.spotify.com/album/5hTf0Vu9N0gGR5eUU4g3op) | 4:24 | 2023-02-09 |  |
+| [너를 위한 나의 마음](https://open.spotify.com/track/4HiTlyjhC6SW6SQDJ5sVPo) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [그대 떠나가도](https://open.spotify.com/album/1whdmxp3Yr9SDL3D9QYpKx) | 4:42 | 2023-02-09 | 2023-06-26 |
 | [너에게](https://open.spotify.com/track/0IgfoHD9IeSdOWYN3kwh19) | [Position](https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo) | [후회없는 사랑](https://open.spotify.com/album/0oobbKF8G4QGUA7jXyP9MO) | 4:22 | 2023-02-09 |  |
 | [눈물](https://open.spotify.com/track/4DSuNseoQlb4X4sGamoxWP) | [플라워](https://open.spotify.com/artist/5sp44iOiTOC0lXmN8zMRaT) | [Tears...](https://open.spotify.com/album/3lDr0DTjFagZN5zl3GdD7z) | 4:45 | 2023-02-09 |  |
 | [당신을 위하여](https://open.spotify.com/track/5qTEVUFXNLwFtbwZiNiVwZ) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [Melody Quus](https://open.spotify.com/album/6Nb2dANlImyX56CsWHxDEW) | 4:03 | 2023-02-09 |  |

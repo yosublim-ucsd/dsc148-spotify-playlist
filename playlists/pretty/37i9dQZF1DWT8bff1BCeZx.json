@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 2582,
+  "num_followers": 2619,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDYwZDk4MDMwMzdjZjdkOTIyYTVhZTQwYzg0Njc1ZmE3NGJiYzVi",
+  "snapshot_id": "MCwyZWU2ZjJlNDFiNjllYTUzYjUxMWE3OTgwZWE5ZjEwNWUzOGJjYWNm",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Celebrating Jesus",
-        "url": "https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU"
+        "name": "Grateful Hearts",
+        "url": "https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq"
       },
       "artists": [
         {
-          "name": "Ronke Adesokan",
-          "url": "https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2"
+          "name": "Joyful Way Incorporated",
+          "url": "https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM"
         }
       ],
-      "duration_ms": 1378612,
-      "name": "Praise Medley",
-      "url": "https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f"
+      "duration_ms": 850671,
+      "name": "Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day",
+      "url": "https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Grateful Hearts",
-        "url": "https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq"
+        "name": "Celebrating Jesus",
+        "url": "https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU"
       },
       "artists": [
         {
-          "name": "Joyful Way Incorporated",
-          "url": "https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM"
+          "name": "Ronke Adesokan",
+          "url": "https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2"
         }
       ],
-      "duration_ms": 850671,
-      "name": "Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day",
-      "url": "https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5"
+      "duration_ms": 1378612,
+      "name": "Praise Medley",
+      "url": "https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -899,18 +899,22 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Colours of Africa: Live in London",
-        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
+        "name": "Nkwa Abodoo (feat. Nacy)",
+        "url": "https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk"
       },
       "artists": [
         {
-          "name": "Sonnie Badu",
-          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        },
+        {
+          "name": "Nacy",
+          "url": "https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96"
         }
       ],
-      "duration_ms": 279764,
-      "name": "Afro Praise 1",
-      "url": "https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c"
+      "duration_ms": 409999,
+      "name": "Nkwa Abodoo (feat. Nacy)",
+      "url": "https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb"
     }
   ],
   "unique_name": "Higher",

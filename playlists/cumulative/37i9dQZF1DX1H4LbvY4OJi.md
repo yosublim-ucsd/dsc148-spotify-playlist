@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-948 songs - 2 day 5 hr 37 min
+949 songs - 2 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,7 @@
 | [Killing My Time](https://open.spotify.com/track/5FUlm1KaB15evWbYRYbZ05) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Killing My Time](https://open.spotify.com/album/4WAQV10m58oidO5yEaC5lO) | 3:37 | 2019-07-31 | 2022-04-17 |
 | [King](https://open.spotify.com/track/6pIZ0u32c2Lku8PmCWtnMy) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [King](https://open.spotify.com/album/0OPchq4bHgKDaJUBJFITgy) | 3:33 | 2019-11-08 | 2019-11-09 |
 | [King](https://open.spotify.com/track/0rTl9A6SQzwO4mVB3vUUlt) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion](https://open.spotify.com/album/7BZ81dThqcxbFTXKY36Oek) | 3:35 | 2019-07-29\* | 2019-07-30 |
-| [Kingdom Come](https://open.spotify.com/track/26Cl8twfEoP4sOKuI9InrK) | [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Kingdom Come](https://open.spotify.com/album/5AoL4qUp3V867ZazOWIOuN) | 3:19 | 2023-06-08 |  |
+| [Kingdom Come](https://open.spotify.com/track/26Cl8twfEoP4sOKuI9InrK) | [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Kingdom Come](https://open.spotify.com/album/5AoL4qUp3V867ZazOWIOuN) | 3:19 | 2023-06-08 | 2023-06-26 |
 | [Kings & Queens](https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Kings & Queens](https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO) | 2:42 | 2020-06-12 | 2022-04-17 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-25 |  |
 | [Kintsugi](https://open.spotify.com/track/2kWcW9mqoCQH9HK9o2K6rc) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Kintsugi](https://open.spotify.com/album/7gzTeasa0r3UacAMdCYOpW) | 2:55 | 2020-01-07 | 2022-04-21 |
@@ -443,6 +443,7 @@
 | [Kiss Somebody](https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 3:33 | 2019-08-06 | 2022-04-21 |
 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 | 2020-02-28 | 2022-04-15 |
 | [L.O.V.\(e\).](https://open.spotify.com/track/5MyIR4vCwqxnB0biyFqcdw) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [L.O.V.\(e\).](https://open.spotify.com/album/0u6Gl8bYJ2dF9zmqNvWkBl) | 2:53 | 2020-08-14 | 2022-04-17 |
+| [Laced Up](https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Laced Up](https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q) | 3:22 | 2023-06-26 |  |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:50 | 2022-01-07 | 2022-04-19 |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 | 2019-07-29\* | 2022-11-13 |
 | [Lay It On Me](https://open.spotify.com/track/4o6aYzYFUHw6hDG0n70TDW) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Lay It On Me](https://open.spotify.com/album/46F30GoVm3QuGG5UnNMwbW) | 3:34 | 2019-08-04 | 2022-04-19 |

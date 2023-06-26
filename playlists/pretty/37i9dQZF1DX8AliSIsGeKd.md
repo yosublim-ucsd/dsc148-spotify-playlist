@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Boris Brejcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,072 likes - 90 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,500 likes - 90 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 |
 | 90 | [Utopia](https://open.spotify.com/track/6rR5Epmg8KUTP9pSDJsZVJ) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [FreiTrieb](https://open.spotify.com/artist/28nOdLDsi4Iu3rALhtPDef), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Utopia](https://open.spotify.com/album/2WUlmeNd7oZFJONBADAma3) | 4:18 |
 
-Snapshot ID: `MCw1ZGJmZDk2N2FjYWQ5OGIwMWUzYjMzYWFiNDkwNjA4MWRhNDRkNWUx`
+Snapshot ID: `MCxhY2JjNmE3NjQxNGFmYjc5Y2I4ZTE0N2ViZTZlNzk1Nzg3Zjk4MjNi`

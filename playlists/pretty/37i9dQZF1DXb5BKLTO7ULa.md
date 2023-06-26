@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,258 likes - 102 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,278 likes - 102 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 44 | [Keeping You Around](https://open.spotify.com/track/3hiGxQh6Y6tT7ziFTW7pKQ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Keeping You Around](https://open.spotify.com/album/2TfpDzHgJVR1MgSOQyLjNa) | 3:35 |
 | 45 | [Rotterdam](https://open.spotify.com/track/156a5itNldVPstH3WoFnFq) | [Huize Lucas](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Rotterdam](https://open.spotify.com/album/5RIOlXdqpsDkJNl2WLdgPC) | 3:07 |
 | 46 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 |
-| 47 | [Till the Morning Light](https://open.spotify.com/track/5xAqO8mSDmgNbJg3zcqsnF) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u) | [Till the Morning Light](https://open.spotify.com/album/6ugzPkaZBNlLh3ISqNpOhI) | 2:30 |
+| 47 | [Till the Morning Light](https://open.spotify.com/track/5xAqO8mSDmgNbJg3zcqsnF) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Till the Morning Light](https://open.spotify.com/album/6ugzPkaZBNlLh3ISqNpOhI) | 2:30 |
 | 48 | [Move On](https://open.spotify.com/track/5rSlV6fa4MoMC5SW9GD7sk) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Move On](https://open.spotify.com/album/2XGnAYlQgshiMS4rUhDkHj) | 3:06 |
 | 49 | [See You Again](https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [See You Again](https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4) | 2:43 |
 | 50 | [I'm Not Human](https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I'm Not Human \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY) | 3:15 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 101 | [I Want To Be Near You](https://open.spotify.com/track/7i8eUyG4tlXSQKdIrcF8nG) | [The Sunset Society](https://open.spotify.com/artist/1ZXfQxTLk25XK3ePd8EwtU) | [I Want To Be Near You](https://open.spotify.com/album/7aBprekOIvyr3k5v0Iy0o2) | 2:42 |
 | 102 | [F\*cked Up](https://open.spotify.com/track/42z62xW25Lldm08pr9O2q5) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [F\*cked Up](https://open.spotify.com/album/679M14aVNDFfyMUGHR7o5J) | 3:19 |
 
-Snapshot ID: `MCw5ZDg5YzY2MTM0YjM4OTI5MGYxYzA1OGY4NGU0MGUzYzdjOGZjMmU4`
+Snapshot ID: `MCxmNjAxNzA1MmU3NTQ1MDAyOTc1YTA4ODhhMGMzOGFiZDRlZDg1NDA2`

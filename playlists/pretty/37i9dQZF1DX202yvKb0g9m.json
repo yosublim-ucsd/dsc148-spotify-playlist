@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 95932,
+  "num_followers": 96041,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmM2ZmUwMDAzZmE4MWQwMjQ4ZDk3Yzc2YWEyMjkwZjI0NTFiNzNh",
+  "snapshot_id": "MCw0NGMwYWMwMmJlN2I5MDJkZDM4NDAzMTIwNmEwOTBjNTY4NzIyNzI4",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -239,6 +239,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "No Way Back",
+        "url": "https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX"
+      },
+      "artists": [
+        {
+          "name": "Adonis",
+          "url": "https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz"
+        }
+      ],
+      "duration_ms": 295911,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "YosepH",
         "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 221946,
       "name": "DEFIANT ORDER",
       "url": "https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "No Way Back",
-        "url": "https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX"
-      },
-      "artists": [
-        {
-          "name": "Adonis",
-          "url": "https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz"
-        }
-      ],
-      "duration_ms": 295911,
-      "name": "No Way Back",
-      "url": "https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -463,18 +463,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+        "name": "Jack to the Sound",
+        "url": "https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba"
       },
       "artists": [
         {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          "name": "Fast Eddie",
+          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Miserablism - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
+      "duration_ms": 272419,
+      "name": "Acid Thunder",
+      "url": "https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -499,18 +499,34 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Jack to the Sound",
-        "url": "https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba"
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
       },
       "artists": [
         {
-          "name": "Fast Eddie",
-          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 272419,
-      "name": "Acid Thunder",
-      "url": "https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F"
+      "duration_ms": 247000,
+      "name": "Miserablism - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Acid Tracks",
+        "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 739626,
+      "name": "Acid Tracks",
+      "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -543,22 +559,6 @@
       "duration_ms": 590030,
       "name": "Auto Machine",
       "url": "https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Acid Tracks",
-        "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 739626,
-      "name": "Acid Tracks",
-      "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
     },
     {
       "added_at": "2021-10-22 11:07:27",

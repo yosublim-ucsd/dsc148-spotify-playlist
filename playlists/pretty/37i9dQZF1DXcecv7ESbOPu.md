@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,228 likes - 113 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,245 likes - 113 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 112 | [Beat City](https://open.spotify.com/track/3hvibDf1HwjZ5EaBDLNXuU) | [Glasvegas](https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl), [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Beat City](https://open.spotify.com/album/24dvTabCeaI9o4ntJdf78h) | 1:42 |
 | 113 | [Desolation](https://open.spotify.com/track/3ZD0qLiUdLVn1eWDfDhaq2) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Desolation](https://open.spotify.com/album/0iVToj9ECjMRQXrqHJFWj9) | 4:05 |
 
-Snapshot ID: `MCxjMDZjOTFmNjNkMjQzMzA0Y2Y4YjBiMmQyNzNlMDVmMzQ3ZGQ3NWI5`
+Snapshot ID: `MCw5MjVkMDkxZTE1MDVhMzM5MTVkMGRmOGI5MDViZjQ4NWRhOTFmZjBm`

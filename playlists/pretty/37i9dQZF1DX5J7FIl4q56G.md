@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: To The Grave
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,218 likes - 53 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,384 likes - 53 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 31 | [Reality Check](https://open.spotify.com/track/7mQN8XXtHejYfmw5lFvGgz) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Reality Check](https://open.spotify.com/album/0jRt95oa6Xu2as5dl4gXnf) | 2:08 |
 | 32 | [Stop the Bleeding](https://open.spotify.com/track/4kioSQ3Z9fqjfn6mbNdR2l) | [Pyramaze](https://open.spotify.com/artist/23jSIm8VfKV2HaQJtfR3PK) | [Bloodlines](https://open.spotify.com/album/4sCTEhQDMzm9kqSwf2jlMJ) | 4:52 |
 | 33 | [Graveyard Words](https://open.spotify.com/track/7bbSPH0hCsCIHI8SjDtXkz) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Graveyard Words](https://open.spotify.com/album/11MpvOwrzBaixdOgEmNkmg) | 2:54 |
-| 34 | [Anti\-Fetish](https://open.spotify.com/track/2fc6YX69npgSxNM1pBHBgf) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Anti\-Fetish](https://open.spotify.com/album/1GsWn1EFJa6DdETJcCLytU) | 3:58 |
+| 34 | [Anti\-Fetish](https://open.spotify.com/track/1DNJEei0Cn2KoUl8U3SyCe) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Negative Energy](https://open.spotify.com/album/30Ggyx6pEhcfLDLJ5mtXEh) | 3:58 |
 | 35 | [Prismatic Tomb](https://open.spotify.com/track/1J29uFlkIBR6IbydTvz4Pv) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Prismatic Tomb](https://open.spotify.com/album/3KobQQOwPNR4YHpWMnhypq) | 4:05 |
 | 36 | [Gamle\-Erik](https://open.spotify.com/track/1NI0lQb4FXqGutjDePCaRI) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Helvegr](https://open.spotify.com/album/6eH7gLDHor7ZPiz4VQtWDM) | 3:46 |
 | 37 | [Determined To Rule](https://open.spotify.com/track/7xZmCA7BFugkY7kIqluKa6) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Determined To Rule](https://open.spotify.com/album/0vDJeTgxkGEW1KI7BEsaWw) | 3:17 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 52 | [Divinity](https://open.spotify.com/track/2DPjMR7XCNeOlMezhteDPd) | [High Priest](https://open.spotify.com/artist/2Th7cxxMcOA78c0iIEK4C9) | [Divinity](https://open.spotify.com/album/0WXM4Z0C1cdplUszmn4gKi) | 5:09 |
 | 53 | [Buried](https://open.spotify.com/track/0nc8Rhvv7ZkXyytjL2FpzA) | [The Anchoret](https://open.spotify.com/artist/2CWzy7rhieFqpsLq0mTV58) | [It All Began With Loneliness](https://open.spotify.com/album/4Wbzq8JDJIY6g1CQI3cDrC) | 4:28 |
 
-Snapshot ID: `MCwxYjUyNjRkNjQ5NDQ1ZGFlYjhjMDVmNjc3Mjc0ZjMxMTQ4NDAyMDU5`
+Snapshot ID: `MCw1OTY2M2FhYzI1NWI2YTYzZDQ1ODQ4NWE5ZGYwNjEwZmFjNjJiNDc4`

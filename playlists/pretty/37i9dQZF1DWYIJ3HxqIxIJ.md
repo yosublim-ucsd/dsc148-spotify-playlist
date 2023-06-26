@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > PANIA is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,184 likes - 52 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,187 likes - 52 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 51 | [Lost With You](https://open.spotify.com/track/2mk6QhfrmdoAgXzSaDifFx) | [AYDAN](https://open.spotify.com/artist/42QiPMyPh52FgtTOt2ckqs) | [Lost With You](https://open.spotify.com/album/1O2DzjE2xDi53qaKJn3TYw) | 2:54 |
 | 52 | [Only With You](https://open.spotify.com/track/39PEvDhV4y50bAvwbJCtot) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Only With You](https://open.spotify.com/album/4ybmfKNkrpIXMUQ60FvcDm) | 2:57 |
 
-Snapshot ID: `MCwzMjdiZDJiZjQ0NjA3MzFmY2M3OGRkZTEzMTkxZTlhNWU3YjU1NjM2`
+Snapshot ID: `MCxlYTg5NDI5ZDQ4NDQ5ZWRkY2Q0NjA4MThjNjNhNTFkZGM1NGY0NTdk`

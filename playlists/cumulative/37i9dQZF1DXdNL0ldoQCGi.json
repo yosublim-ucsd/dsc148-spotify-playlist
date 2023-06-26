@@ -302,36 +302,6 @@
     {
       "album": {
         "name": "A Caminho do Bega [Piseiro Remix]",
-        "url": "https://open.spotify.com/album/1iHsaiSw8TCeXR1EAni3RL"
-      },
-      "artists": [
-        {
-          "name": "DJ Patrick Muniz",
-          "url": "https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu"
-        },
-        {
-          "name": "Mc L3",
-          "url": "https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna"
-        },
-        {
-          "name": "Dj Mizzontti",
-          "url": "https://open.spotify.com/artist/5HevMdws455L9tIAE1nEwu"
-        },
-        {
-          "name": "MC DOM LP",
-          "url": "https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W"
-        }
-      ],
-      "date_added": "2023-03-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 136220,
-      "name": "A Caminho do Bega [Piseiro Remix] (feat. Dj Mizzontti & MC DOM LP)",
-      "url": "https://open.spotify.com/track/6GIIq2BZtZorfS2R2Y2vAT"
-    },
-    {
-      "album": {
-        "name": "A Caminho do Bega [Piseiro Remix]",
         "url": "https://open.spotify.com/album/6qX5mgFX8dUrTxsSbsXOzd"
       },
       "artists": [
@@ -358,6 +328,36 @@
       "duration_ms": 136220,
       "name": "A Caminho do Bega [Piseiro Remix] (feat. Dj Mizzontti)",
       "url": "https://open.spotify.com/track/5o4VK4Qe5QwXHrvUPoaGHy"
+    },
+    {
+      "album": {
+        "name": "A Caminho do Bega [Piseiro Remix]",
+        "url": "https://open.spotify.com/album/1iHsaiSw8TCeXR1EAni3RL"
+      },
+      "artists": [
+        {
+          "name": "DJ Patrick Muniz",
+          "url": "https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu"
+        },
+        {
+          "name": "Mc L3",
+          "url": "https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna"
+        },
+        {
+          "name": "MC DOM LP",
+          "url": "https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W"
+        },
+        {
+          "name": "Dj Mizzontti",
+          "url": "https://open.spotify.com/artist/5HevMdws455L9tIAE1nEwu"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136220,
+      "name": "A Caminho do Bega [Piseiro Remix] (feat. Dj Mizzontti)",
+      "url": "https://open.spotify.com/track/6GIIq2BZtZorfS2R2Y2vAT"
     },
     {
       "album": {

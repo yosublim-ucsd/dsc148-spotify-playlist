@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 2454,
+  "num_followers": 2461,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWNkNDA1YjU0MGIwMjczMTJjYmE1MWZhYjRkMzE5NWYwMmNmZDBk",
+  "snapshot_id": "MCxlMTU2NGZkZGFkODc1Y2MwY2E0YTM3ZDlmYzExMmY1NmE2ZDQxNjY0",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Sobredosis De Amor",
+        "url": "https://open.spotify.com/album/09VrjlJzEaaGrWNbeMHkvF"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "duration_ms": 185886,
+      "name": "Un Cabr\u00f3n Con Suerte",
+      "url": "https://open.spotify.com/track/5I5bMqyGxlbiPljq6QwxPe"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Mientras Ando",
         "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 198000,
       "name": "Me lo kiero imaginar",
       "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Sobredosis De Amor",
-        "url": "https://open.spotify.com/album/09VrjlJzEaaGrWNbeMHkvF"
-      },
-      "artists": [
-        {
-          "name": "Cupido",
-          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
-        }
-      ],
-      "duration_ms": 185886,
-      "name": "Un Cabr\u00f3n Con Suerte",
-      "url": "https://open.spotify.com/track/5I5bMqyGxlbiPljq6QwxPe"
     },
     {
       "added_at": "2022-11-30 14:18:55",

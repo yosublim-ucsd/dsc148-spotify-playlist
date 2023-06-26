@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: CHUNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,081 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,074 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Chapel Hill](https://open.spotify.com/track/1QG2qGJRli4auNMoXp2FTj) | [John River](https://open.spotify.com/artist/7faTQoEP4N3YYvoCYGXZsg) | [Chapel Hill](https://open.spotify.com/album/5jmuvTs6bZ3IJNA8GXbUZi) | 2:40 |
 | 100 | [Moose World](https://open.spotify.com/track/4P3544iucW1FvhAEmAzYnn) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Lazyeye](https://open.spotify.com/artist/3kHG5JFsZpzyYzKhyStYAr) | [Moose World](https://open.spotify.com/album/2uayEY53hrnAj9bK6cxhoW) | 2:48 |
 
-Snapshot ID: `MCwxYTYwNjNlY2ExZTM1ZGFhOThmMmQ4YmFjMzdkODI4OWUzM2ZjMmRl`
+Snapshot ID: `MCw5YTYxYzM3OTNiZDg0ZTk3OGVlNmFmN2JlOTFmYjRhODBjZjMzZGNl`

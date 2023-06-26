@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2054498,
+  "num_followers": 2054663,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM1MTgsM2QyMjEzMzg5MmIwZDE5N2UzMjQxOGM1YzkyMzgxNGNhYThlZmI1Nw==",
+  "snapshot_id": "MTM1MjcsM2RmZDIxOWUxYTdjMGYzYWVlNDM0YzI4ODNhNTYyNzE2ZjJmZDUwYQ==",
   "tracks": [
     {
       "added_at": "2023-06-21 04:26:49",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-06-21 04:26:49",
       "album": {
+        "name": "falling down",
+        "url": "https://open.spotify.com/album/28Bn7Rb61877L23Dtn0AkQ"
+      },
+      "artists": [
+        {
+          "name": "th\u00e9os",
+          "url": "https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru"
+        }
+      ],
+      "duration_ms": 121043,
+      "name": "falling down",
+      "url": "https://open.spotify.com/track/57eYzzXOjMO18x3otqd9MX"
+    },
+    {
+      "added_at": "2023-06-21 04:26:49",
+      "album": {
         "name": "Blue KNY Factory Remix",
         "url": "https://open.spotify.com/album/4hbExwrtN2PYGnnGVchbsK"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 202714,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
-    },
-    {
-      "added_at": "2023-06-21 04:26:49",
-      "album": {
-        "name": "falling down",
-        "url": "https://open.spotify.com/album/28Bn7Rb61877L23Dtn0AkQ"
-      },
-      "artists": [
-        {
-          "name": "th\u00e9os",
-          "url": "https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru"
-        }
-      ],
-      "duration_ms": 121043,
-      "name": "falling down",
-      "url": "https://open.spotify.com/track/57eYzzXOjMO18x3otqd9MX"
     },
     {
       "added_at": "2023-06-21 04:26:49",
@@ -487,30 +487,6 @@
     {
       "added_at": "2023-06-21 04:26:49",
       "album": {
-        "name": "Outta my head",
-        "url": "https://open.spotify.com/album/0xsbdCQqV9Rl4K0d82aOe0"
-      },
-      "artists": [
-        {
-          "name": "Omido",
-          "url": "https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh"
-        },
-        {
-          "name": "Rick Jansen",
-          "url": "https://open.spotify.com/artist/53lSnB02n045g5jMu0ItCz"
-        },
-        {
-          "name": "Ordell",
-          "url": "https://open.spotify.com/artist/1sQcw2YF60pAu0HYJzUhKN"
-        }
-      ],
-      "duration_ms": 161772,
-      "name": "Outta my head",
-      "url": "https://open.spotify.com/track/1joXqptvn9OgoDbXA1S3p7"
-    },
-    {
-      "added_at": "2023-06-21 04:26:49",
-      "album": {
         "name": "Apex",
         "url": "https://open.spotify.com/album/1c8Jrs7Bl2yzT6CytnKv0A"
       },
@@ -655,26 +631,6 @@
       "duration_ms": 141098,
       "name": "Ur Perfect I Hate It",
       "url": "https://open.spotify.com/track/5YNhWD5BXfa3q61afXkcFK"
-    },
-    {
-      "added_at": "2023-06-21 04:26:49",
-      "album": {
-        "name": "Uh Uh",
-        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        }
-      ],
-      "duration_ms": 193098,
-      "name": "Uh Uh",
-      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
     },
     {
       "added_at": "2023-06-21 04:26:49",
@@ -985,6 +941,22 @@
       "url": "https://open.spotify.com/track/0G4cDuyOy5GgjMajE6bKud"
     },
     {
+      "added_at": "2023-06-24 14:10:02",
+      "album": {
+        "name": "HOW YOU LIKE THAT",
+        "url": "https://open.spotify.com/album/5b9OZCJH21MmeXGFo0KTfa"
+      },
+      "artists": [
+        {
+          "name": "LAUWEND",
+          "url": "https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM"
+        }
+      ],
+      "duration_ms": 192254,
+      "name": "HOW YOU LIKE THAT",
+      "url": "https://open.spotify.com/track/7rorNIQDgFng64RENMfX80"
+    },
+    {
       "added_at": "2023-06-21 04:26:49",
       "album": {
         "name": "There For You",
@@ -1031,6 +1003,26 @@
     {
       "added_at": "2023-06-21 04:26:49",
       "album": {
+        "name": "Uh Uh",
+        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        }
+      ],
+      "duration_ms": 193098,
+      "name": "Uh Uh",
+      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
+    },
+    {
+      "added_at": "2023-06-21 04:26:49",
+      "album": {
         "name": "Dead Friends",
         "url": "https://open.spotify.com/album/4eo1sMonygWrfmqiwA644k"
       },
@@ -1047,6 +1039,30 @@
       "duration_ms": 226813,
       "name": "Dead Friends",
       "url": "https://open.spotify.com/track/4Py4FD7U21NP8AdOTs5LfT"
+    },
+    {
+      "added_at": "2023-06-21 04:26:49",
+      "album": {
+        "name": "Outta my head",
+        "url": "https://open.spotify.com/album/0xsbdCQqV9Rl4K0d82aOe0"
+      },
+      "artists": [
+        {
+          "name": "Omido",
+          "url": "https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh"
+        },
+        {
+          "name": "Rick Jansen",
+          "url": "https://open.spotify.com/artist/53lSnB02n045g5jMu0ItCz"
+        },
+        {
+          "name": "Ordell",
+          "url": "https://open.spotify.com/artist/1sQcw2YF60pAu0HYJzUhKN"
+        }
+      ],
+      "duration_ms": 161772,
+      "name": "Outta my head",
+      "url": "https://open.spotify.com/track/1joXqptvn9OgoDbXA1S3p7"
     },
     {
       "added_at": "2023-06-21 04:26:49",
@@ -1239,22 +1255,6 @@
       "duration_ms": 285271,
       "name": "HUMANS - Far Out Remix",
       "url": "https://open.spotify.com/track/7FEKwb52OpeVSZxaqUspP1"
-    },
-    {
-      "added_at": "2023-06-24 14:10:02",
-      "album": {
-        "name": "HOW YOU LIKE THAT",
-        "url": "https://open.spotify.com/album/5b9OZCJH21MmeXGFo0KTfa"
-      },
-      "artists": [
-        {
-          "name": "LAUWEND",
-          "url": "https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM"
-        }
-      ],
-      "duration_ms": 192254,
-      "name": "HOW YOU LIKE THAT",
-      "url": "https://open.spotify.com/track/7rorNIQDgFng64RENMfX80"
     },
     {
       "added_at": "2023-06-21 04:26:49",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2023-06-21 04:26:49",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/17gGAZnkI6zWKMWFCIDoPV"
-      },
-      "artists": [
-        {
-          "name": "Cafe Disko",
-          "url": "https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W"
-        }
-      ],
-      "duration_ms": 219310,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4nmEa4jNa9DcykYJHkmtrV"
-    },
-    {
-      "added_at": "2023-06-21 04:26:49",
-      "album": {
         "name": "DRMVRSE",
         "url": "https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE"
       },
@@ -2719,22 +2703,6 @@
       "duration_ms": 152335,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/6R2BsW0RbFAweX384j5hqa"
-    },
-    {
-      "added_at": "2023-06-21 04:26:49",
-      "album": {
-        "name": "Chase",
-        "url": "https://open.spotify.com/album/270mL6pNQmo42SIiUTUHD0"
-      },
-      "artists": [
-        {
-          "name": "Murdbrain",
-          "url": "https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn"
-        }
-      ],
-      "duration_ms": 120941,
-      "name": "Chase",
-      "url": "https://open.spotify.com/track/6bA7IuKfEx8ivbQ8Gt5EfX"
     },
     {
       "added_at": "2023-06-21 04:26:49",

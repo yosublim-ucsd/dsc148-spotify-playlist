@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Where To Find Me",
+        "url": "https://open.spotify.com/album/1gDkVVQODZStmAx0kUl9Tn"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145346,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/0qK81UQieeWpsCPFLvHNWO"
+    },
+    {
+      "album": {
         "name": "All Roads",
         "url": "https://open.spotify.com/album/1wlb3EzPVN4A7h6bx2gyWL"
       },
@@ -2660,7 +2678,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 183365,
       "name": "Good, but not together",
       "url": "https://open.spotify.com/track/6YiR17DGpJa5r4X7RjwCwW"
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 117000,
       "name": "green house",
       "url": "https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw"
@@ -3086,6 +3104,24 @@
       "duration_ms": 253240,
       "name": "Hollywood Bowl",
       "url": "https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz"
+    },
+    {
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/1pz2DHyK82s07La9xk5fK3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163798,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/57qFpKwnCGcAVL6slNBHQs"
     },
     {
       "album": {
@@ -3475,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/1MC8OGjVd1Wjs7ng4oiKXO"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133316,
+      "name": "i thought i could fly",
+      "url": "https://open.spotify.com/track/7Ap1rbk0JFv6pPyRGXFLr4"
+    },
+    {
+      "album": {
         "name": "i tried",
         "url": "https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U"
       },
@@ -3598,7 +3652,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 227133,
       "name": "id pick up flowers",
       "url": "https://open.spotify.com/track/09WQVlwnpbyw2krszInbkN"
@@ -4193,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "to love in the 21st century",
+        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157773,
+      "name": "like you want me to",
+      "url": "https://open.spotify.com/track/0lz9I2JmKUghqZxajCtTFJ"
+    },
+    {
+      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -4388,6 +4460,24 @@
       "duration_ms": 164186,
       "name": "Look Back & Laugh",
       "url": "https://open.spotify.com/track/6e0Gfl49FN9m2c8QaB9vFr"
+    },
+    {
+      "album": {
+        "name": "Looking U Up",
+        "url": "https://open.spotify.com/album/1zomS3G7NNxjtNAbs2fAg9"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200654,
+      "name": "Looking U Up",
+      "url": "https://open.spotify.com/track/5Idv9rz66FFJufVurbtcFG"
     },
     {
       "album": {
@@ -4706,7 +4796,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 129864,
       "name": "messy",
       "url": "https://open.spotify.com/track/1rL0K2uvyWRGvqvf0VI719"
@@ -5222,7 +5312,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 165793,
       "name": "ok with it",
       "url": "https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD"
@@ -5648,7 +5738,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 216911,
       "name": "Pretty In Pink",
       "url": "https://open.spotify.com/track/3CTK1F2sJK524ggTEjGQ9P"
@@ -6135,6 +6225,28 @@
     },
     {
       "album": {
+        "name": "Save Me (From Myself) - Acoustic",
+        "url": "https://open.spotify.com/album/5SPC9NUYbqxxvxqGbBfoUC"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Save Me (From Myself) - Acoustic",
+      "url": "https://open.spotify.com/track/6kQPKx4DAlDKfPFdGjXY3d"
+    },
+    {
+      "album": {
         "name": "Leap",
         "url": "https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB"
       },
@@ -6348,7 +6460,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 203219,
       "name": "Si Me Voy (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
@@ -6562,6 +6674,24 @@
       "duration_ms": 222466,
       "name": "Somebody's Nobody",
       "url": "https://open.spotify.com/track/3Bc5XUS5sTHtAde1ZA2FzC"
+    },
+    {
+      "album": {
+        "name": "Song For No One",
+        "url": "https://open.spotify.com/album/2IWlv8PGxPShYyF8HDohHz"
+      },
+      "artists": [
+        {
+          "name": "Dave McKendry",
+          "url": "https://open.spotify.com/artist/5OE3WxCOZMByTrhE7JZGTI"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212955,
+      "name": "Song For No One",
+      "url": "https://open.spotify.com/track/1mgLHzdtWjwNgIoSt2JcmA"
     },
     {
       "album": {
@@ -7262,10 +7392,28 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 208560,
       "name": "thelma & louise",
       "url": "https://open.spotify.com/track/3SHo8R3i90ctwIA63ZZ1UV"
+    },
+    {
+      "album": {
+        "name": "There Is No Now",
+        "url": "https://open.spotify.com/album/643N5j1VgfWwWjmN0x8eaK"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139733,
+      "name": "There Is No Now",
+      "url": "https://open.spotify.com/track/0ZuqHAy3t1HMFwW0eEDuWk"
     },
     {
       "album": {
@@ -7388,7 +7536,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
@@ -7532,7 +7680,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 206800,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/6TDrZ6dHw9ql7kN6sjcXsy"
@@ -7806,6 +7954,24 @@
       "duration_ms": 211613,
       "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
       "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
+    },
+    {
+      "album": {
+        "name": "The End Of A Feeling",
+        "url": "https://open.spotify.com/album/0LR08youH6EbOtHbbZzegd"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176255,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1KgP4ZfiQdRXFLxJt9AFaj"
     },
     {
       "album": {
@@ -8330,6 +8496,24 @@
       "duration_ms": 213215,
       "name": "You Get Me (A Final Word)",
       "url": "https://open.spotify.com/track/7pggyXFvSZYb7Sv3kKtiZy"
+    },
+    {
+      "album": {
+        "name": "You get so distant on those pills",
+        "url": "https://open.spotify.com/album/7u2pGIqWckph2dqN12D9fz"
+      },
+      "artists": [
+        {
+          "name": "Tiny Little Houses",
+          "url": "https://open.spotify.com/artist/2DzfwBlRGSLXCXgAKN6EFv"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161236,
+      "name": "You get so distant on those pills",
+      "url": "https://open.spotify.com/track/1fjMp3YRljzUAKgu4VC5mE"
     },
     {
       "album": {

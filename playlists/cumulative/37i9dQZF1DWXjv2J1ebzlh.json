@@ -4060,10 +4060,32 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 298944,
       "name": "Baian\u00e1 (Brasingles Vol. 2) - Wolf Mueller's Drum Drop",
       "url": "https://open.spotify.com/track/2E9PioDe4NL5tq53XUQp4z"
+    },
+    {
+      "album": {
+        "name": "Brasingles Vol. 2",
+        "url": "https://open.spotify.com/album/77trSYQ6m2jdF0kxjo78pC"
+      },
+      "artists": [
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        },
+        {
+          "name": "Wolf M\u00fcller",
+          "url": "https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298944,
+      "name": "Baian\u00e1 - Wolf M\u00fcller's Drum Drop",
+      "url": "https://open.spotify.com/track/7q8RvPFlvUmvDQuwFO9Nic"
     },
     {
       "album": {

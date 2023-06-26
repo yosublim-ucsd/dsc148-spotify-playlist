@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 228250,
+  "num_followers": 228286,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGY3OTkxOGM4MmNmNjFjZDkyMTAyMWVhNWEzZDdhMWQ2YWZkNDVm",
+  "snapshot_id": "MCw4YzExMGE3MTYxNWEwYzQ2ZmExZjk2ZmE1YzU2ZmUwM2U3M2JmNTll",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Am\u00e9rica Brasil Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "Tive Raz\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "Mund\u00e3o de Ouro",
         "url": "https://open.spotify.com/album/68RAcI96T1s2u23uMJbAhm"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 176573,
       "name": "Eu Vou Chegando",
       "url": "https://open.spotify.com/track/3Yugu3Z6fUcFktCG5O6B5b"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Am\u00e9rica Brasil Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "Tive Raz\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/1NLv2AywCBibMUaGLKj5B4"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
         "name": "Marcelo D2 - Canta Bezerra Da Silva",
         "url": "https://open.spotify.com/album/3I564AuHICCCnWEBHbvtoP"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 251850,
       "name": "Eu e Voc\u00ea Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "Da M\u00fasica",
-        "url": "https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM"
-      },
-      "artists": [
-        {
-          "name": "Arlindo Cruz & Sombrinha",
-          "url": "https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE"
-        }
-      ],
-      "duration_ms": 264466,
-      "name": "Pintou uma Lua L\u00e1",
-      "url": "https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr"
     }
   ],
   "unique_name": "Caipirinha",

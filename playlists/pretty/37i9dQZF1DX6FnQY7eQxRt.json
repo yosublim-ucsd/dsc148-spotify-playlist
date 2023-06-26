@@ -1,12 +1,12 @@
 {
   "description": "Your favourite Christmas carols, performed and re-imagined by the world's greatest choirs.",
-  "num_followers": 31596,
+  "num_followers": 31599,
   "original_name": "Christmas Choir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGM5ZGM2ZTc0MDk5MjUxNDk1N2U0Nzg0OGZhODk1MGFmNGQwOTY4",
+  "snapshot_id": "MCxhODkzZjFiOTQ0NjhhMWYyNDg4OWZkZmU2YjkzMTA0NWFmOWM3MGYz",
   "tracks": [
     {
       "added_at": "2022-12-16 16:29:01",
@@ -615,38 +615,38 @@
     {
       "added_at": "2022-12-16 16:29:01",
       "album": {
-        "name": "Family Carols",
-        "url": "https://open.spotify.com/album/3vpDE7jvPxkRvze9kNNLIB"
+        "name": "Bach Choir sing Family Carols",
+        "url": "https://open.spotify.com/album/62tVhtu5wdExD2XzTVutbk"
       },
       "artists": [
         {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Sir David Willcocks",
-          "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
+          "name": "A. Warrell",
+          "url": "https://open.spotify.com/artist/2pLU58Z1OEIGMTTvLF0OFU"
         },
         {
           "name": "The Bach Choir",
           "url": "https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM"
         },
         {
+          "name": "Sir David Willcocks",
+          "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
+        },
+        {
           "name": "John Scott",
           "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
         },
         {
-          "name": "Fanfare Trumpeters of the Royal Military School of Music, Kneller Hall",
-          "url": "https://open.spotify.com/artist/1ObosRcS4T19ROUW5f1EjT"
+          "name": "Royal Military School of Music Fanfare Trumpeters",
+          "url": "https://open.spotify.com/artist/7nbsVV7XV2Q8BAZfJvJ07K"
         },
         {
           "name": "The Graham Ashton Brass Ensemble",
           "url": "https://open.spotify.com/artist/0FZ5xFx2hLUeRvvtBYHOex"
         }
       ],
-      "duration_ms": 91000,
-      "name": "A Merry Christmas",
-      "url": "https://open.spotify.com/track/3c9frOgwdTM7TGUrG8ZQlB"
+      "duration_ms": 90000,
+      "name": "A merry Christmas",
+      "url": "https://open.spotify.com/track/2qyFFJrbciLus3OKM5L3jh"
     },
     {
       "added_at": "2022-12-16 16:29:01",

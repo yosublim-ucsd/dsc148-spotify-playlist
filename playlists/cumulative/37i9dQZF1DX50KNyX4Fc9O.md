@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Maisie Peters
 
-113 songs - 5 hr 45 min
+115 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Happy Never After](https://open.spotify.com/track/5QDTEyPqiweKHvz3Ree0gu) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY), [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [Happy Never After](https://open.spotify.com/album/5shgW905CLdwk5bdWX3M5K) | 2:44 | 2023-06-15 |  |
 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 | 2023-06-22 |  |
 | [Heartbreak Baby](https://open.spotify.com/track/0pnLKuTr9dt1442AiXcn3K) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartbreak Baby](https://open.spotify.com/album/6Fd84hpMmLeOsrngWNKW1L) | 3:37 | 2023-06-15 |  |
-| [Heartbreaker](https://open.spotify.com/track/4KuRFHaJx42xI51yY0KYYg) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/4VIIydfmkIznEZUwhGzEto) | 2:50 | 2023-06-22 |  |
+| [Heartbreaker](https://open.spotify.com/track/4KuRFHaJx42xI51yY0KYYg) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/4VIIydfmkIznEZUwhGzEto) | 2:50 | 2023-06-22 | 2023-06-26 |
+| [Heartbreaker](https://open.spotify.com/track/5zapMaO548MdWG8QeRkDtX) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:50 | 2023-06-22 |  |
 | [Heartbreaker](https://open.spotify.com/track/7aZFO2coFbYiKHIyIxqK2T) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Heartbreaker](https://open.spotify.com/album/5SfLMKlephfeN628Z2vnko) | 2:50 | 2023-06-15 | 2023-06-25 |
 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2023-06-15 |  |
 | [High In California](https://open.spotify.com/track/4arF67s3pUxVFuMlMLrJc3) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Faith In The Future \(Bonus Edition\)](https://open.spotify.com/album/5LPfYoKjoN8KHBXvnGjlyI) | 3:04 | 2023-06-15 |  |
@@ -110,7 +111,8 @@
 | [Tongue](https://open.spotify.com/track/476uLySrronSFdexjhUIiE) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Tongue](https://open.spotify.com/album/7z2wzthRPOUmhrHeBUJSSN) | 3:09 | 2023-06-15 |  |
 | [True Babe](https://open.spotify.com/track/696gO5dO34MHhmZlL9Mh19) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [True Babe](https://open.spotify.com/album/61dpINnbtGk1FcOR3VtQYh) | 3:07 | 2023-06-22 |  |
 | [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-06-15 |  |
-| [U Stay On My Mind](https://open.spotify.com/track/7hfyTmnJ3RkbRETLbS6SZz) | [jnr.](https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj) | [U Stay On My Mind](https://open.spotify.com/album/2D6mvxNOCurkKqD0KCwitU) | 3:10 | 2023-06-15 |  |
+| [U Stay On My Mind](https://open.spotify.com/track/32Z8DWYXNkWPJNILin5ICp) | [jnr.](https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj) | [U Stay On My Mind](https://open.spotify.com/album/1PR2VPWqa5ZsukGYS4QMpE) | 3:10 | 2023-06-22 |  |
+| [U Stay On My Mind](https://open.spotify.com/track/7hfyTmnJ3RkbRETLbS6SZz) | [jnr.](https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj) | [U Stay On My Mind](https://open.spotify.com/album/2D6mvxNOCurkKqD0KCwitU) | 3:10 | 2023-06-15 | 2023-06-26 |
 | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo) | 2:29 | 2023-06-15 |  |
 | [Upside Down](https://open.spotify.com/track/3hBKTpjfxiSji15s6s9Dr7) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Upside Down](https://open.spotify.com/album/5ib2apMJxqeGmbxBcEgWKz) | 3:03 | 2023-06-15 |  |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-06-15 |  |

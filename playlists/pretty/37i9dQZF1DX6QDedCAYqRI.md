@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,960 likes - 71 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,964 likes - 71 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 19 | [I wish I can be Rich](https://open.spotify.com/track/7FxEJu7QhAzT3MTE6e1FZn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/5EJh5oud3icqeswaDukDp7) | 3:46 |
 | 20 | [come out and play](https://open.spotify.com/track/7wC5eZcFS1Q1BsQ35DU6H4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [come out and play](https://open.spotify.com/album/0ifM8RTX9HjtCJtY9452bW) | 3:30 |
 | 21 | [Horizon](https://open.spotify.com/track/7K0Cua3mEHtWMWKlMVh8N5) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Black Dog: Being a Teacher \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1XUDf70Z6hdqzjv2eqUfpq) | 4:14 |
-| 22 | [囡仔的怹](https://open.spotify.com/track/6fJUqzUwKL8XXcRn3gFkB5) | [TzChien慈謙](https://open.spotify.com/artist/7J3UwMTN9ldjM4ALmCuba2) | [反](https://open.spotify.com/album/5TTb91ckW0j3dzY5PJLXDm) | 4:14 |
+| 22 | [Children of Them](https://open.spotify.com/track/7GtiXXLexejStSXTAnMCOk) | [ALIS HOWS](https://open.spotify.com/artist/2zKGrJIWyoks8A1TAC42PK) | [The Opposite and Inside\-Out](https://open.spotify.com/album/7jmigPXwN4uX4ON0SAL5KE) | 4:14 |
 | 23 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
 | 24 | [Angel Dust](https://open.spotify.com/track/6z6DVKDc11TLiqzzSaATHC) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Angel Dust](https://open.spotify.com/album/6cVjGEvXAohfOjvX9gJZmz) | 4:18 |
 | 25 | [Homesick](https://open.spotify.com/track/32dKpanrAQbbvp0fKguzXk) | [Hashy](https://open.spotify.com/artist/4Jmv1DRK6zstwBwF2W91D1) | [Homesick](https://open.spotify.com/album/6PnzsKBQNAcb0d4d5etSi8) | 2:35 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 70 | [Friends](https://open.spotify.com/track/71bAQugadZL7hSKS9DUCbC) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:24 |
 | 71 | [Turn Me Down](https://open.spotify.com/track/7KbFoYmInyz7SGcRFKcx4M) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN), [LUSTBASS](https://open.spotify.com/artist/6KVYyAtFWiPTpBcNKRM5ER) | [Turn Me Down](https://open.spotify.com/album/5Nzx72g90YvVDhI7BE3Hqf) | 4:27 |
 
-Snapshot ID: `MCxmMDVmMWE0OTMyZGI1ZDE0ZWQzMTI4OGU2NjI4YmQ1MTcxMWVjODQ4`
+Snapshot ID: `MCw5MmIwNzg1ZTJhZGU3YmNkNDQxNGJlNTdiY2JmZTRkOGZiYTUxMjRi`

@@ -5858,7 +5858,7 @@
     {
       "album": {
         "name": "It's Alright With Me",
-        "url": "https://open.spotify.com/album/6rtE4YtuYHVo042EtSeRgq"
+        "url": "https://open.spotify.com/album/3iWLEOlc0YnBCbpXFKy1eU"
       },
       "artists": [
         {
@@ -5881,6 +5881,36 @@
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 357647,
+      "name": "It's Alright With Me",
+      "url": "https://open.spotify.com/track/0x1tkK2hltpvMeM2ERJnTB"
+    },
+    {
+      "album": {
+        "name": "It's Alright With Me",
+        "url": "https://open.spotify.com/album/6rtE4YtuYHVo042EtSeRgq"
+      },
+      "artists": [
+        {
+          "name": "Javier Nero",
+          "url": "https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m"
+        },
+        {
+          "name": "Sean Jones",
+          "url": "https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6"
+        },
+        {
+          "name": "Christie Dashiell",
+          "url": "https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth"
+        },
+        {
+          "name": "Josh Richman",
+          "url": "https://open.spotify.com/artist/4mdUPNp0bFcroAE6OVIUXk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
       "duration_ms": 357647,
       "name": "It's Alright With Me",
       "url": "https://open.spotify.com/track/5RDmhCsIrwKNOcjfaEU2aj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: MYA, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,577 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,581 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Hand im Gesicht](https://open.spotify.com/track/0UMR8OqNIvYB2kdB20Lae3) | [Endless Wellness](https://open.spotify.com/artist/0rpmnKQXbtbFVFcxxGZuKc) | [Hand im Gesicht](https://open.spotify.com/album/2YOtXnwfES3OhoJh2P17bX) | 3:18 |
 | 80 | [Deathtrip At Sunrise At Paradise Beach](https://open.spotify.com/track/0udK6stA8KnUAKokHRWuzC) | [Half Darling](https://open.spotify.com/artist/07CLAoh1lcnhcrPyCKzOgz) | [Half Darling](https://open.spotify.com/album/3jZ3XI7Zg8avIkwR0uc7Id) | 4:20 |
 
-Snapshot ID: `MCxiOTJjMjE0MDE1ZTg0ZDliZTUzZDg3OWE3ZDVkZGQ2NmEyNzg0NjM3`
+Snapshot ID: `MCxiZGE1NTM4YWMyOGMzZjBmMmJmYzExZTRmODE3MGFjM2Q5OGFiZjU2`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Smiley",
-  "num_followers": 5547,
+  "num_followers": 5582,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTQ1Y2MzMzdlYTM4ZWQzNDY1Y2QzNGJhNWQ2YzUyMjRhY2M5NjBl",
+  "snapshot_id": "MCw0Njc1M2ZhNDMyMmE4M2RkYWUyNjVjMzQ3M2ZkNTUzZjBiODg1MDU3",
   "tracks": [
     {
       "added_at": "2023-06-22 21:08:37",
@@ -739,6 +739,30 @@
     {
       "added_at": "2023-06-22 21:08:37",
       "album": {
+        "name": "All Aces",
+        "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        },
+        {
+          "name": "Blamo",
+          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "All Aces",
+      "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
+    },
+    {
+      "added_at": "2023-06-22 21:08:37",
+      "album": {
         "name": "Bionic Man",
         "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
       },
@@ -771,30 +795,6 @@
       "duration_ms": 198321,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
-    },
-    {
-      "added_at": "2023-06-22 21:08:37",
-      "album": {
-        "name": "All Aces",
-        "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
-      },
-      "artists": [
-        {
-          "name": "Prem Dhillon",
-          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
-        },
-        {
-          "name": "Byg Byrd",
-          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
-        },
-        {
-          "name": "Blamo",
-          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "All Aces",
-      "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
     },
     {
       "added_at": "2023-06-22 21:08:37",
@@ -1355,22 +1355,22 @@
     {
       "added_at": "2023-06-22 21:08:37",
       "album": {
-        "name": "401",
-        "url": "https://open.spotify.com/album/7GayrcbuLwu1t9VE0CMd6Z"
+        "name": "BLU",
+        "url": "https://open.spotify.com/album/46SotNSwVlaHGFmSxCHOV1"
       },
       "artists": [
         {
-          "name": "Top5",
-          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
         },
         {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
         }
       ],
-      "duration_ms": 162375,
-      "name": "401",
-      "url": "https://open.spotify.com/track/3mej8S2elvgSBwZMoWzMjr"
+      "duration_ms": 208109,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1zsIwMmM20gvGU7YzPXKF8"
     },
     {
       "added_at": "2023-06-22 21:08:37",
@@ -1395,22 +1395,26 @@
     {
       "added_at": "2023-06-22 21:08:37",
       "album": {
-        "name": "BLU",
-        "url": "https://open.spotify.com/album/46SotNSwVlaHGFmSxCHOV1"
+        "name": "Adult Supervision",
+        "url": "https://open.spotify.com/album/5bM9enlXLb0rtI6aj6QHlS"
       },
       "artists": [
         {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
         },
         {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         }
       ],
-      "duration_ms": 208109,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/1zsIwMmM20gvGU7YzPXKF8"
+      "duration_ms": 166922,
+      "name": "Sleep Like A Baby",
+      "url": "https://open.spotify.com/track/2jpmO8XlofmTA3mXul68gK"
     }
   ],
   "unique_name": "Hip-Hop Rewind",

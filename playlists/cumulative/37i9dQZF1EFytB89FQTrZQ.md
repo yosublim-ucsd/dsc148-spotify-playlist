@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-338 songs - 19 hr 19 min
+339 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,8 @@
 | [Really Love \(feat\. R3HAB, Sean Paul, Craig David & Digital Farm Animals\) \- R3HAB Remix](https://open.spotify.com/track/38qXP1aTsytn3uKoZXyfKf) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Really Love \(feat\. R3HAB, Sean Paul, Craig David & Digital Farm Animals\) \[R3HAB Remix\]](https://open.spotify.com/album/56FSAPvvhc2QyOC52xKtyL) | 2:45 | 2023-06-22 |  |
 | [Revive \(Say Something\)](https://open.spotify.com/track/3ULbFYODpZrIYOmbCYho96) | [LuvBug](https://open.spotify.com/artist/6ci8SqTgjPrl4jetI82yqP) | [Revive \(Say Something\)](https://open.spotify.com/album/6qSimDc9IL5q0XWr6AeCSN) | 3:38 | 2022-09-08 |  |
 | [Right Now](https://open.spotify.com/track/5ZgetyC5AFKeVTEy1v6r5D) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Get Some Courage, Vol\. 2](https://open.spotify.com/album/36nvnnATd0JaiVU4F2w5PI) | 3:08 | 2022-09-08 | 2022-10-20 |
-| [Right Now](https://open.spotify.com/track/74gFi6GtPqh6oiKAKnGorG) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Get Some Courage, Vol\. 2](https://open.spotify.com/album/4Fj8JNq3FAyYVrulSd5EvR) | 3:08 | 2022-10-19 |  |
+| [Right Now](https://open.spotify.com/track/74gFi6GtPqh6oiKAKnGorG) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Get Some Courage, Vol\. 2](https://open.spotify.com/album/4Fj8JNq3FAyYVrulSd5EvR) | 3:08 | 2022-10-19 | 2023-06-26 |
+| [Right Now](https://open.spotify.com/track/1UWSgtK2kUV47XK2cIqe4v) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Greatest Hits Reimagined](https://open.spotify.com/album/0Ug51qGmOpbkW59W1TSfHu) | 3:10 | 2023-06-25 |  |
 | [Ring Ring \(with Mabel feat\. Rich The Kid\)](https://open.spotify.com/track/51FZnO9sWc2dazJneozkHp) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:37 | 2022-09-08 |  |
 | [Rope](https://open.spotify.com/track/4PCNyUNFulAzqTjBpzI6qC) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 4:20 | 2022-09-08 |  |
 | [Rope \(Interlude\)](https://open.spotify.com/track/0LX3F9RifOZAaP3QlLAK2a) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 0:44 | 2023-06-22 |  |

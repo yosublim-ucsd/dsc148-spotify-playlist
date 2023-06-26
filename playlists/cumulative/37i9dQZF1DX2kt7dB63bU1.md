@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-615 songs - 1 day 19 hr 11 min
+616 songs - 1 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [It's A Wonderful Time For Love](https://open.spotify.com/track/5oPWYCHejJF8Jwj3hiaTeh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 3:53 | 2020-10-09 | 2022-02-19 |
 | [it's alright](https://open.spotify.com/track/0McrsC4SQOTU0tBrxZIaBV) | [Sirintip](https://open.spotify.com/artist/6ZUFztmnNpggjzUXH4irFx) | [it's alright](https://open.spotify.com/album/19roU5ecP9LrpQ8ulgTbq2) | 3:33 | 2022-09-16 | 2022-09-24 |
 | [it's alright](https://open.spotify.com/track/5yaEuat5Dr9S9YRFxkQevJ) | [Sirintip](https://open.spotify.com/artist/6ZUFztmnNpggjzUXH4irFx) | [carbon](https://open.spotify.com/album/3ftWkm2HTM3cEMlg8zkA3H) | 3:33 | 2022-09-23 |  |
-| [It's Alright With Me](https://open.spotify.com/track/5RDmhCsIrwKNOcjfaEU2aj) | [Javier Nero](https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m), [Sean Jones](https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6), [Christie Dashiell](https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth), [Josh Richman](https://open.spotify.com/artist/4mdUPNp0bFcroAE6OVIUXk) | [It's Alright With Me](https://open.spotify.com/album/6rtE4YtuYHVo042EtSeRgq) | 5:57 | 2022-10-14 |  |
+| [It's Alright With Me](https://open.spotify.com/track/0x1tkK2hltpvMeM2ERJnTB) | [Javier Nero](https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m), [Sean Jones](https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6), [Christie Dashiell](https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth), [Josh Richman](https://open.spotify.com/artist/4mdUPNp0bFcroAE6OVIUXk) | [It's Alright With Me](https://open.spotify.com/album/3iWLEOlc0YnBCbpXFKy1eU) | 5:57 | 2022-10-14 |  |
+| [It's Alright With Me](https://open.spotify.com/track/5RDmhCsIrwKNOcjfaEU2aj) | [Javier Nero](https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m), [Sean Jones](https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6), [Christie Dashiell](https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth), [Josh Richman](https://open.spotify.com/artist/4mdUPNp0bFcroAE6OVIUXk) | [It's Alright With Me](https://open.spotify.com/album/6rtE4YtuYHVo042EtSeRgq) | 5:57 | 2022-10-14 | 2023-06-26 |
 | [It's Crazy](https://open.spotify.com/track/0RZYatvtyVyaa16ancIxE8) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [It's Crazy](https://open.spotify.com/album/5n5Qzj6XwkMxRrRb8gBC8k) | 2:56 | 2022-11-18 | 2022-12-24 |
 | [It's Gonna Happen Tonight](https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight](https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU) | 3:16 | 2021-07-02 | 2022-02-19 |
 | [It's Gonna Happen Tonight \(Version with Orchestra\)](https://open.spotify.com/track/1k31bVtBl0LsAZjxa5xOkj) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight \(Version with Orchestra\)](https://open.spotify.com/album/0vCHNjynpWM6S7hC89P5A9) | 3:24 | 2022-03-25 | 2023-01-21 |

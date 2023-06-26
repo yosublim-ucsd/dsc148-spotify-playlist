@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Major RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,259 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,408 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 32 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 |
 | 33 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 | 34 | [EU SOU O TREM](https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:45 |
-| 35 | [Envolvido](https://open.spotify.com/track/48h4dsva3ihxdZ5rkB3IVX) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9) | [Envolvido](https://open.spotify.com/album/14fMVoFXwNx71Pj4Y5zNtx) | 2:52 |
-| 36 | [Dama de Vermelho](https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Dama de Vermelho](https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V) | 2:42 |
+| 35 | [Dama de Vermelho](https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Dama de Vermelho](https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V) | 2:42 |
+| 36 | [Envolvido](https://open.spotify.com/track/48h4dsva3ihxdZ5rkB3IVX) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9) | [Envolvido](https://open.spotify.com/album/14fMVoFXwNx71Pj4Y5zNtx) | 2:52 |
 | 37 | [Dolce & Gabbana](https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Dolce & Gabbana](https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw) | 2:25 |
 | 38 | [No Love](https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [No Love](https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo) | 3:00 |
 | 39 | [Superficial](https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Puffer](https://open.spotify.com/track/0ERDOEfSi7dwOY02PSpsKY) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Ozelami](https://open.spotify.com/artist/46PMSGreQpT1JclBbOEpjd), [FUNNI'E](https://open.spotify.com/artist/5qGiMrL9ktgBTKqTTntPLT) | [Puffer](https://open.spotify.com/album/3MvAXFfiUn9o3RvdYc9ol9) | 3:17 |
 | 50 | [Grifes \(Conheço bem\)](https://open.spotify.com/track/3y1t0IpeIxB6YCIPEq6fLu) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn) | [Grifes \(Conheço bem\)](https://open.spotify.com/album/24bK4v0OKbE1nEwDa6w9Xe) | 2:24 |
 
-Snapshot ID: `MCxhNjlmNWM2ODQ4MjBmMDRkMGVkYTM3NjhjNWI1MjA4NGYyNWI0Nzk2`
+Snapshot ID: `MCw3NzJiNTM3MTY2YTIxOGI2ZWMzOGMyMjRmMmU0ZmM4MzEwZjkxYTBl`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-185 songs - 13 hr 9 min
+186 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Disco Dancing \(feat\. Ayoni\) \- Lazywax Remix](https://open.spotify.com/track/0lAz0LS3LhreVvWy58Sdo9) | [Namy](https://open.spotify.com/artist/5b27ajyz5mxl84HYtPE4ih), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw), [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Disco Dancing \(feat\. Ayoni\) \[Lazywax Remix\]](https://open.spotify.com/album/3nZuiK8r2Rk89xH240mhH5) | 6:42 | 2023-05-19 | 2023-06-18 |
 | [Disco Maniac](https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0) | [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Disco Maniac](https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD) | 2:24 | 2023-05-19 |  |
 | [Dizzy \(Joe Hertz Remix\)](https://open.spotify.com/track/2vHpvjpGvISOnDrhls2wd4) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Dizzy \(Joe Hertz Remix\)](https://open.spotify.com/album/3xdYgfhCPGNKdEihLuEOiB) | 3:59 | 2021-07-24 | 2022-06-21 |
+| [do I really scare you?](https://open.spotify.com/track/0CvIGlsdn8QT4cT3EzMnYS) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [do I really scare you?](https://open.spotify.com/album/5LfpokYXn1BI20ScEELq8h) | 3:00 | 2023-06-23 |  |
 | [Domino](https://open.spotify.com/track/4VaMlcKj3wWdFhOeyYCDgM) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Domino](https://open.spotify.com/album/5QN9QYWzWxqHK80uDXqBvK) | 4:31 | 2021-07-24 | 2023-05-20 |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2023-05-19 |  |
 | [Electric Drama](https://open.spotify.com/track/3zF3pigJ8LTQQtjsYrDmUI) | [Lovers](https://open.spotify.com/artist/3WDMaTckX5c9kOGLU7N6uz) | [Electric Drama](https://open.spotify.com/album/1ZEjjhIQqQPPW1SydR08SU) | 6:18 | 2021-07-24 | 2023-06-10 |
@@ -100,7 +101,7 @@
 | [Leave Me Behind](https://open.spotify.com/track/4dbUtdJDtqjHEgOxt2a4Dp) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:45 | 2023-05-19 |  |
 | [Lela And Mari](https://open.spotify.com/track/35G6DJGmimKwIVhr6xeCLb) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Travel Stories](https://open.spotify.com/album/0Kb6SRz55D3nyaXwM0ugzU) | 6:12 | 2021-07-24 | 2023-05-20 |
 | [Lifetime \- Dimitri From Paris 'Cruising Attitude' Remix](https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Call On Me & Lifetime \(Remixes\)](https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18) | 3:13 | 2023-05-19 |  |
-| [lift me higher](https://open.spotify.com/track/5LO1AVEdfMDBrXPPSbA13y) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:23 | 2022-06-20 |  |
+| [lift me higher](https://open.spotify.com/track/5LO1AVEdfMDBrXPPSbA13y) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:23 | 2022-06-20 | 2023-06-26 |
 | [Lightenup \- Alex Metric Remix](https://open.spotify.com/track/0qlYPfEfpOG0DcqdKBvOBF) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Lightenup \(Remixed\)](https://open.spotify.com/album/4evIPylxO3FtOIB5ZYCqQM) | 7:18 | 2022-06-20 |  |
 | [Lightenup \- Alex Metric Remix](https://open.spotify.com/track/1rIPNuXlthhSUphhva5d5y) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Lightenup \(Alex Metric Remix\)](https://open.spotify.com/album/5CD57eZyNcQPV9kzXSkVnR) | 7:18 | 2021-07-24 | 2022-07-29 |
 | [Like The Sun \- Radio Edit](https://open.spotify.com/track/7IUMNNFHAfPisDTIi0NBTP) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [Like The Sun](https://open.spotify.com/album/4B73PTeIp71d9dp8ekCX0w) | 3:17 | 2021-07-24 | 2023-05-20 |

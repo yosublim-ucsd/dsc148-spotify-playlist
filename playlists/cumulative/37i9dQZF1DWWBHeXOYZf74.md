@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Peggy Gou
 
-2,071 songs - 4 day 20 hr 24 min
+2,072 songs - 4 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Ain't No Way \[Feat\. 6LACK, Rico Nasty, J.I.D, Jasiah, Kitty Ca$h\]](https://open.spotify.com/track/1InX2gJz9jvp4tLOc84DWe) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 4:24 | 2022-03-25 | 2022-06-25 |
 | [Ain't Talking Bout Much](https://open.spotify.com/track/5GFbdE94mXEPrpQpsLPiNF) | [Patrick Paige II](https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [If I Fail Are We Still Cool?](https://open.spotify.com/album/0MUTPeBvOXAPuJDzNE1Yum) | 1:45 | 2021-05-22 | 2021-07-24 |
 | [Air Forces](https://open.spotify.com/track/4XD7sfXwdU4LVQ1CQDD3ZT) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/1NCMThGVejpiJtC5VTcAXf) | 2:58 | 2020-09-24 | 2021-02-06 |
-| [Airforce blue](https://open.spotify.com/track/32wMbC70TXnOKBNaH7ogIC) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:48 | 2023-06-23 |  |
+| [Airforce blue](https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Airforce blue](https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn) | 2:48 | 2023-06-23 |  |
+| [Airforce blue](https://open.spotify.com/track/32wMbC70TXnOKBNaH7ogIC) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:48 | 2023-06-23 | 2023-06-26 |
 | [Airlock](https://open.spotify.com/track/5dHzoJDE1iIkjHl5Bku3Pl) | [99 Neighbors](https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0), [maari](https://open.spotify.com/artist/2rcrE3FRJak8QlN227dzg8) | [Airlock](https://open.spotify.com/album/5UELvbnjZtBn1THizbSrcK) | 2:41 | 2023-03-24 | 2023-06-03 |
 | [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 | 2021-12-24 | 2022-01-15 |
 | [Ali](https://open.spotify.com/track/6MIBYuOl9utcgCkhcnwh4K) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Ali](https://open.spotify.com/album/0dA1GAsNyDEHy0uHAkXFzS) | 3:12 | 2021-04-01 | 2021-08-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,861 likes - 89 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,880 likes - 89 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 7 | [Fever](https://open.spotify.com/track/1y6Xi4BDKnjZ2jbLXkVeyu) | [Corporate Slackrs](https://open.spotify.com/artist/57TvkbpmyWEXja8k98ZFFB) | [Fever](https://open.spotify.com/album/0rNNOn3KmxWnFWrXo17KCq) | 3:14 |
 | 8 | [Mantra](https://open.spotify.com/track/2FZStCHAHy3l16yWl9ELpe) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Mantra](https://open.spotify.com/album/7ci9mlATFQyvvFIxigMOCH) | 4:21 |
 | 9 | [Orissa \- Csgrv Remix](https://open.spotify.com/track/6TBlKpDo9cKEvE2C8QhIaL) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Transience EP](https://open.spotify.com/album/0LmBlbVu1Q7UBs0x4aROWz) | 6:13 |
-| 10 | [Gravity](https://open.spotify.com/track/5lDCOzLzBfCOj3y5w1NdOo) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Gravity](https://open.spotify.com/album/2kZN7G2OX9dEeQUIrPFxO8) | 4:29 |
+| 10 | [Gravity](https://open.spotify.com/track/7B6mFdzHolEYKtTGtEXAuc) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:29 |
 | 11 | [Electricity](https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Electricity](https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV) | 2:34 |
 | 12 | [Gross Weight](https://open.spotify.com/track/0tTLKDCU0uEGklsgfFWSuj) | [Jesse Maas](https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G) | [Les Yeux](https://open.spotify.com/album/5ii1hyx3gCzdsQVut2Y5yk) | 6:29 |
 | 13 | [The MC Calls](https://open.spotify.com/track/2aOae21QvRkkkA0ycWpiXO) | [Jesse Maas](https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G) | [Take Control](https://open.spotify.com/album/0yiDqyEUyguvJkfs12fsnX) | 6:01 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 88 | [11\-11](https://open.spotify.com/track/6Gmazx7JDCdgQiSCTiYwIq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [11\-11](https://open.spotify.com/album/1aSXw07nHyVs3KG9GZmYu4) | 4:07 |
 | 89 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 |
 
-Snapshot ID: `MCwxYTFmOTRlMzZjMmM1M2E4MWVkODc1OWE3NDBkNTU4NWNkM2E2MzFj`
+Snapshot ID: `MCxkZTZhYzFhMDY3ZjAyYmM2NDE0MTYyMjQwOTI5ODUzNzAzMzQ4ZTI2`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mas pegao en Dembow. \nCover: Peso Pluma y El Alfa",
-  "num_followers": 343913,
+  "num_followers": 344150,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTY2NTQ2MGUwOTMzNWZkMjU5MTU3YTU3ZTk0NDNjNmQ0ZTM3ODdl",
+  "snapshot_id": "MCwwN2ZhN2Q2MTU3NTBlYTE1ZmNjMjFjOWZiMjUwNmQ5ZGEzMTUxMDgz",
   "tracks": [
     {
       "added_at": "2023-06-12 16:00:29",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
+        "name": "Socorro",
+        "url": "https://open.spotify.com/album/59hgBXfLpXdL2NcSv9ZCeZ"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 145344,
+      "name": "Socorro",
+      "url": "https://open.spotify.com/track/7Lq6O09reN4j1nNtgk34jP"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
         "name": "Vivo Por Palomo",
         "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 206842,
       "name": "Vivo Por Palomo",
       "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "Socorro",
-        "url": "https://open.spotify.com/album/59hgBXfLpXdL2NcSv9ZCeZ"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 145344,
-      "name": "Socorro",
-      "url": "https://open.spotify.com/track/7Lq6O09reN4j1nNtgk34jP"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1223,6 +1223,34 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
+        "name": "La Opini\u00f3n Es Tuya",
+        "url": "https://open.spotify.com/album/3uqErOIlbzRVHgNhNR9gqi"
+      },
+      "artists": [
+        {
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        }
+      ],
+      "duration_ms": 217674,
+      "name": "La Opini\u00f3n Es Tuya",
+      "url": "https://open.spotify.com/track/3HJzhsfS75hDk2o6Tcaws1"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
         "name": "Lokisla",
         "url": "https://open.spotify.com/album/6tQmUnaSJ4TkqvdfujoYIZ"
       },
@@ -1251,34 +1279,6 @@
       "duration_ms": 264827,
       "name": "Lokisla",
       "url": "https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "La Opini\u00f3n Es Tuya",
-        "url": "https://open.spotify.com/album/3uqErOIlbzRVHgNhNR9gqi"
-      },
-      "artists": [
-        {
-          "name": "Dj Adoni",
-          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        }
-      ],
-      "duration_ms": 217674,
-      "name": "La Opini\u00f3n Es Tuya",
-      "url": "https://open.spotify.com/track/3HJzhsfS75hDk2o6Tcaws1"
     },
     {
       "added_at": "2023-05-26 20:56:02",

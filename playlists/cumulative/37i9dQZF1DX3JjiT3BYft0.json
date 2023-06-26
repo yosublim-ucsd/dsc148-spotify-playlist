@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240668,
+      "name": "fly with the night",
+      "url": "https://open.spotify.com/track/4gu8heblIOktVnXvVyg5zu"
+    },
+    {
+      "album": {
         "name": "Don't be afraid!",
         "url": "https://open.spotify.com/album/2z4rn5CogIc1wieoxjKHvu"
       },
@@ -2222,7 +2240,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 235766,
       "name": "Proud of oneself",
       "url": "https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0"
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 233732,
       "name": "Repaint",
       "url": "https://open.spotify.com/track/0qOEdXcgu54ojYVpJWmCtg"
@@ -5338,7 +5356,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 276902,
       "name": "\u30d6\u30eb\u30fc\u30e0\u30d6\u30eb\u30fc\u30e0",
       "url": "https://open.spotify.com/track/4G7Wsp4nJNLg55Mp6RRU1s"

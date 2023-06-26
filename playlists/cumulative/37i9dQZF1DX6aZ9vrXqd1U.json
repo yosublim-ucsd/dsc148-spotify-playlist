@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Han-Pan Spirit",
+        "url": "https://open.spotify.com/album/3EgBwcapLupR4VuwdrCsa9"
+      },
+      "artists": [
+        {
+          "name": "HYADAIN",
+          "url": "https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239840,
+      "name": "Han-Pan Spirit",
+      "url": "https://open.spotify.com/track/1YfbLKjPSdfIWr7Yeblqb8"
+    },
+    {
+      "album": {
         "name": "MOBILE SUIT GUNDAM THE ORIGIN - Chronicle of the Loum Battlefield - (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7c0Xs5C1nmkw7rVDVpuCZ8"
       },
@@ -4266,7 +4284,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 239840,
       "name": "\u534a\u30d1\u30f3\u9b42",
       "url": "https://open.spotify.com/track/1DIcxghszK6p0GHJv7N0t0"

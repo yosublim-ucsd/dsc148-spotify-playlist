@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,467 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,477 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 22 | [Do It \(Let Me See You Shake\)](https://open.spotify.com/track/5QIPJPkYq0QwhDSD0hA4of) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [The Best Of The Bar\-Kays \(Vol\. 2\)](https://open.spotify.com/album/59ZStF17nEWBFrbfGH2gOI) | 4:11 |
 | 23 | [Walking on Sunshine '82](https://open.spotify.com/track/6VmVHkHZuM5JYXZQyeZoki) | [Rocker's Revenge](https://open.spotify.com/artist/4HQUFZUKjXhvh9rS23DYzG), [Donnie Calvin](https://open.spotify.com/artist/6vb6yJIgcrCFlpWKnspCS6) | [The Streetwise Sessions](https://open.spotify.com/album/2Aelx6YvpowzbEL9OdTsYq) | 9:32 |
 | 24 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 |
-| 25 | [Hydraulic Pump](https://open.spotify.com/track/1yehjrHYpbn3V2mmFqlSCJ) | [P\-Funk All Stars](https://open.spotify.com/artist/4jbdFVscwgzbzxNFmCHjGY) | [Urban Dancefloor Guerillas \(Expanded Edition\)](https://open.spotify.com/album/6fHGGxVizWx4zsW8yR7aAU) | 6:43 |
-| 26 | [Computer Age \(Push the Button\)](https://open.spotify.com/track/4GoIiZIrZ4t2IzfAYFSHSC) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 7:40 |
+| 25 | [Computer Age \(Push the Button\)](https://open.spotify.com/track/4GoIiZIrZ4t2IzfAYFSHSC) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 7:40 |
+| 26 | [Hydraulic Pump](https://open.spotify.com/track/1yehjrHYpbn3V2mmFqlSCJ) | [P\-Funk All Stars](https://open.spotify.com/artist/4jbdFVscwgzbzxNFmCHjGY) | [Urban Dancefloor Guerillas \(Expanded Edition\)](https://open.spotify.com/album/6fHGGxVizWx4zsW8yR7aAU) | 6:43 |
 | 27 | [Beat the Street](https://open.spotify.com/track/41F97acqBc7aMzwD224kRR) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Beat the Street: The Very Best of Sharon Redd](https://open.spotify.com/album/3EOCA2DlYoeTIYjQauWDXM) | 6:15 |
 | 28 | [Play That Beat Mr\. D.J\. \- 12" Full Length](https://open.spotify.com/track/3kWGNtHAzBgrgDxPLnQq2j) | [G.L.O.B.E.](https://open.spotify.com/artist/5GDs0v4x9bGA9XTiOtb19k), [Whiz Kid](https://open.spotify.com/artist/2AHK3SwBG25XRxsNGVp5aw) | [Play That Beat Mr\. D.J.](https://open.spotify.com/album/4k6IzdXEKMiQ8LiJUmsiDU) | 6:35 |
 | 29 | [Tight Jeans](https://open.spotify.com/track/7ltgjbYbyoRYCuLTFnAt5L) | [Prince Charles And The City Beat Band](https://open.spotify.com/artist/4MY00RhSxz9sIaTKQX8q7b) | [Gang War](https://open.spotify.com/album/52JrEiptr41fxnyaD8oZYK) | 5:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCw2YTA2YzI1MjdhYWFkOTI1ZjcyMjVlNDZhYjZhOTM5N2MwZDE1MDhl`
+Snapshot ID: `MCwzMjAyYWQ2ZWIxMjk2Y2RkNzFkZDAzYzA3NThhMWE3NmNlZTY3Y2Y0`

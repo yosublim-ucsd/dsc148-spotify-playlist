@@ -474,7 +474,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 235329,
       "name": "I Love Him",
       "url": "https://open.spotify.com/track/0m5RnG9Zaxi6ierwUtrOIh"
@@ -504,6 +504,32 @@
       "duration_ms": 256758,
       "name": "I Love Him",
       "url": "https://open.spotify.com/track/1pjLgp7d1kKK4i2FkoCp7p"
+    },
+    {
+      "album": {
+        "name": "The Essential Renee Spearman",
+        "url": "https://open.spotify.com/album/027R0d08CpAyAWnULP7q5w"
+      },
+      "artists": [
+        {
+          "name": "Renee Spearman",
+          "url": "https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW"
+        },
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "Dr. Holly Carter",
+          "url": "https://open.spotify.com/artist/3mZT0ejcCmnNswl8HXOxNA"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256758,
+      "name": "I Love Him",
+      "url": "https://open.spotify.com/track/4pGcqEd8TEESJkcC2IYxHY"
     },
     {
       "album": {

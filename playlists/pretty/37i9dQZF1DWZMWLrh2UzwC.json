@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Sezairi",
-  "num_followers": 61379,
+  "num_followers": 61387,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWY0ODlkNzMzZGY5NDcwNGM3YjQ3ODNmNDA1ZmQ5YzkyMjAyYzIx",
+  "snapshot_id": "MCwwM2UzZTRjZTRlZGU4YTg5MzBhZmY4MmViOTZjNDU1OTk1MmVlMGQ4",
   "tracks": [
     {
       "added_at": "2023-06-22 16:00:00",
@@ -1723,22 +1723,6 @@
       "duration_ms": 161954,
       "name": "STUFF IM DEALIN WITH",
       "url": "https://open.spotify.com/track/2e3vf9LaqijmrqK4AJbSmL"
-    },
-    {
-      "added_at": "2023-06-22 16:00:00",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 277043,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
     }
   ],
   "unique_name": "New Music Friday Malaysia",

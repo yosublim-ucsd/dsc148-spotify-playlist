@@ -7234,7 +7234,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 144000,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/4BWWjTzEZ5A4uZIMbv0Mbb"
@@ -16166,7 +16166,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 146129,
       "name": "carpool lane",
       "url": "https://open.spotify.com/track/4Yr6oYb6llf2yvjJXiDgdb"
@@ -41620,7 +41620,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 128450,
       "name": "Hathi",
       "url": "https://open.spotify.com/track/5RURzMzzuFQ9C971EerkMc"
@@ -78486,6 +78486,28 @@
       "duration_ms": 175662,
       "name": "Rainclouds Still Remember",
       "url": "https://open.spotify.com/track/2RAYJawqivodlRe2C6emmK"
+    },
+    {
+      "album": {
+        "name": "Raindrop",
+        "url": "https://open.spotify.com/album/1mOhXl3HXFzuR1j8Xqxslc"
+      },
+      "artists": [
+        {
+          "name": "Izzamuzzic",
+          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        },
+        {
+          "name": "Troshin",
+          "url": "https://open.spotify.com/artist/5TARiGQcJV5HOGNkINlRN0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196950,
+      "name": "Raindrop",
+      "url": "https://open.spotify.com/track/4aGbdTwk7CJmzv7WWzoq4Z"
     },
     {
       "album": {

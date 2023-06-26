@@ -1806,6 +1806,24 @@
     {
       "album": {
         "name": "Studio One Presents Jennifer Lara",
+        "url": "https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lara",
+          "url": "https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318493,
+      "name": "I Am in Love",
+      "url": "https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK"
+    },
+    {
+      "album": {
+        "name": "Studio One Presents Jennifer Lara",
         "url": "https://open.spotify.com/album/3sxMFNKFEfkwtrv8xINaZW"
       },
       "artists": [
@@ -3632,7 +3650,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 214986,
       "name": "Revelation Dub",
       "url": "https://open.spotify.com/track/1wCcfw6WxRWoic7UHV2Aez"

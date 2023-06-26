@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 157531,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
@@ -5019,6 +5019,24 @@
     },
     {
       "album": {
+        "name": "Festa Junina 2018",
+        "url": "https://open.spotify.com/album/0z36hTi24qD5Y2D2kFdogn"
+      },
+      "artists": [
+        {
+          "name": "Tinho & Z\u00e9 Pipa",
+          "url": "https://open.spotify.com/artist/7npI4Xwkgjp8Vs8I71u4l4"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90853,
+      "name": "Capelinha de Mel\u00e3o / Cai Cai Bal\u00e3o / Sonho de Papel",
+      "url": "https://open.spotify.com/track/7cdACNpz3wkt9I3NLvSVKG"
+    },
+    {
+      "album": {
         "name": "Ver\u00e3o 40\u00ba",
         "url": "https://open.spotify.com/album/6WirQujQIj9XDxvnPE0rKR"
       },
@@ -5726,7 +5744,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 309865,
       "name": "Cinco Estrelas, Pt. 2",
       "url": "https://open.spotify.com/track/1bbrMO2BBU9kcrZTnU1D5s"
@@ -13010,7 +13028,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 152380,
       "name": "Intriga",
       "url": "https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30"
@@ -13520,7 +13538,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 145345,
       "name": "Karolina",
       "url": "https://open.spotify.com/track/1DUzZHTgtCpw3UOlaCHR9k"
@@ -14020,6 +14038,24 @@
       "duration_ms": 208065,
       "name": "LEFT RIGHT",
       "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
+    },
+    {
+      "album": {
+        "name": "Forr\u00f3 P\u00e9 De Serra - 10 Anos De Carreira",
+        "url": "https://open.spotify.com/album/4rMKoJPIADVs3QPytGg8Ji"
+      },
+      "artists": [
+        {
+          "name": "Santanna \"O Cantador\"",
+          "url": "https://open.spotify.com/artist/0xmajCb4YjWW6pRLcmQkWO"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Lembran\u00e7a De Um Beijo",
+      "url": "https://open.spotify.com/track/1cHbRBpW7RtTTrlF7RBnsT"
     },
     {
       "album": {

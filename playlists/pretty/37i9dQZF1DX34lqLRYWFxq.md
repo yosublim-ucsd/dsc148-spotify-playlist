@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: JULES IS DEAD
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,189 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,192 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Picture Of](https://open.spotify.com/track/2eubo0u40y0aSdHM39SzaO) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [I Held the Shape While I Could](https://open.spotify.com/album/3vteTx2gH08gtDvxsSx8xR) | 4:36 |
 | 100 | [Can't take me](https://open.spotify.com/track/2EuHwE5SjjKqH5uv8mMN8v) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Can't take me](https://open.spotify.com/album/38AcKTsnfYItzPuLseO1wI) | 2:15 |
 
-Snapshot ID: `MCxmOTBiNjEyYTk1ODVlODIzODViNzIwNWM0YjllNDg3NGM0ZmFhOTRm`
+Snapshot ID: `MCw1M2I2ZmUwODQ3YjYzYzNlZDZiYjc1MzQyZjM1ZjE3ZTE4MzdmMmI3`

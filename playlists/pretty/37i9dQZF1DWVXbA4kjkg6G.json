@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 410896,
+  "num_followers": 411212,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQyZTA2YTMzNjJmMzQzN2JjNjU0OTQ2MTQ1Zjg3OWMxMmJiNzYx",
+  "snapshot_id": "MCw5MGY0YjczYTRiMGVlMmYxNzU5ZWJlOWIwNzZiYmY4NDcwYmI2ZTA2",
   "tracks": [
     {
       "added_at": "2023-06-20 20:30:21",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Maxinquaye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        }
-      ],
-      "duration_ms": 270093,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Let's Get Killed",
         "url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 384226,
       "name": "Rodney Yates",
       "url": "https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Maxinquaye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        }
+      ],
+      "duration_ms": 270093,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Quixotic",
-        "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
-      },
-      "artists": [
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Sandpaper Kisses",
-      "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Turn The Dark Off",
         "url": "https://open.spotify.com/album/4t0n6rx2Y2yZKX9rXZ3lId"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 264573,
       "name": "Who's Got The Bacon?",
       "url": "https://open.spotify.com/track/5NrhncrVseX744Lh505exA"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Quixotic",
+        "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
+      },
+      "artists": [
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Sandpaper Kisses",
+      "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Earth, Vol. 1",
-        "url": "https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y"
-      },
-      "artists": [
-        {
-          "name": "Poets of Thought",
-          "url": "https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "The Rhyme Goes On",
-      "url": "https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Dr. Octagonecologyst",
         "url": "https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 197400,
       "name": "Blue Flowers",
       "url": "https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Earth, Vol. 1",
+        "url": "https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y"
+      },
+      "artists": [
+        {
+          "name": "Poets of Thought",
+          "url": "https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "The Rhyme Goes On",
+      "url": "https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Natural Born Killa (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
-      },
-      "artists": [
-        {
-          "name": "Photek",
-          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
-        }
-      ],
-      "duration_ms": 321932,
-      "name": "Into the 90's",
-      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Lamb",
         "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 456666,
       "name": "Trans Fatty Acid",
       "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Natural Born Killa (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
+      },
+      "artists": [
+        {
+          "name": "Photek",
+          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
+        }
+      ],
+      "duration_ms": 321932,
+      "name": "Into the 90's",
+      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Ninja Cuts - Flexistentialism",
-        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
+        "name": "Breath From Another",
+        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
       },
       "artists": [
         {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+          "name": "Esthero",
+          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
         }
       ],
-      "duration_ms": 285560,
-      "name": "London Mind State",
-      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
+      "duration_ms": 238600,
+      "name": "Superheroes",
+      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Breath From Another",
-        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
+        "name": "Ninja Cuts - Flexistentialism",
+        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
       },
       "artists": [
         {
-          "name": "Esthero",
-          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
         }
       ],
-      "duration_ms": 238600,
-      "name": "Superheroes",
-      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
+      "duration_ms": 285560,
+      "name": "London Mind State",
+      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
     },
     {
       "added_at": "2023-06-20 20:30:21",

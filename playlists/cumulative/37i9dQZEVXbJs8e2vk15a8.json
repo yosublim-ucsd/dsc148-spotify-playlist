@@ -1729,6 +1729,36 @@
     },
     {
       "album": {
+        "name": "Automotivo Blindado",
+        "url": "https://open.spotify.com/album/0coJQdhxjlgLWAsJcC9Dg8"
+      },
+      "artists": [
+        {
+          "name": "DJ Rossini ZS",
+          "url": "https://open.spotify.com/artist/2ue3CASrJMbnfFcE6Pp13G"
+        },
+        {
+          "name": "DJ MENOR DA Z.O",
+          "url": "https://open.spotify.com/artist/7mONoAwA8mRwvz2JYLhABI"
+        },
+        {
+          "name": "MC Zudo Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7"
+        },
+        {
+          "name": "MC LUIS DO GRAU",
+          "url": "https://open.spotify.com/artist/7z92LBe9MQGzZs5VpO8dwX"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226152,
+      "name": "Automotivo Blindado",
+      "url": "https://open.spotify.com/track/1wynWAVM1KqUQMhytk89rO"
+    },
+    {
+      "album": {
         "name": "Automotivo Ritmado",
         "url": "https://open.spotify.com/album/4huLizm21aSCpl3gzhPrhA"
       },
@@ -10856,7 +10886,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 409367,
       "name": "Mami No Est\u00e9s Triste",
       "url": "https://open.spotify.com/track/0zbZ35wheiBtqPH2noBVhF"
@@ -15484,7 +15514,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 198930,
       "name": "Pobre Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE"
@@ -18802,7 +18832,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 151117,
       "name": "TE EXO DE MENOS :(",
       "url": "https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI"

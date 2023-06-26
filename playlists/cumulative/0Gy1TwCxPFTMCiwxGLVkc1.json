@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Blue\u2019s Clues & You Nursery Rhymes Vol. 5",
+        "url": "https://open.spotify.com/album/1de75DlGSlGkTZ5fRGNWlu"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200170,
+      "name": "Beach Safety Song",
+      "url": "https://open.spotify.com/track/3k0zQw6ue4lPiToUbCu9Cz"
+    },
+    {
+      "album": {
         "name": "Best Dress",
         "url": "https://open.spotify.com/album/2mcs399XGsrglhADN0KJ9u"
       },
@@ -288,7 +306,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 139656,
       "name": "Busy Puppy - From \"Disney Junior Music: Mickey Mouse Funhouse\"",
       "url": "https://open.spotify.com/track/5UHgW9TPd9dg7Zlv2t9kEG"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-26",
       "duration_ms": 83291,
       "name": "Head, Shoulders, Knees and Toes",
       "url": "https://open.spotify.com/track/5FrKs0gJEathso1k99PiO5"
@@ -1156,6 +1174,32 @@
       "duration_ms": 126144,
       "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
       "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Minnie's Bow-Toons: Camp Minnie",
+        "url": "https://open.spotify.com/album/3AB9eHf1zOPJMNY2exugAe"
+      },
+      "artists": [
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116020,
+      "name": "Minnie's Bow-Toons: Camp Minnie Theme Song",
+      "url": "https://open.spotify.com/track/1UjC5QOkVcVnTP7J4RHxZp"
     },
     {
       "album": {

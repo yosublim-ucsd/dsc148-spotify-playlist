@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-945 songs - 2 day 9 hr 41 min
+946 songs - 2 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [En Cualquiera](https://open.spotify.com/track/48dng5PsTgN8qB1WQI7P21) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 4:41 | 2022-04-01 | 2022-04-16 |
 | [En el Aire](https://open.spotify.com/track/7hvMIzFFtuHNJc1HiN4UmC) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/7HdBqIvlR6yFwN1a5q1QVI) | 4:18 | 2022-04-01 | 2022-04-20 |
 | [En EL Limbo](https://open.spotify.com/track/0NoFZ4BKeZw0qLDEC90hMc) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:42 | 2022-03-28 | 2022-04-06 |
-| [En la Ciudad de la Furia \- MTV Unplugged](https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 8:42 | 2022-03-28 |  |
+| [En la Ciudad de la Furia \- MTV Unplugged](https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 8:42 | 2022-03-28 | 2023-06-26 |
 | [En Las Olas](https://open.spotify.com/track/41p76FyeNdW9IP61WBzhDY) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/7qE2hhKOnaMpBWv7XUnX4A) | 4:08 | 2022-01-07 | 2022-07-28 |
 | [En Medio de la Vida](https://open.spotify.com/track/5SGTa9yEn0OciJUtx2Ygmm) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [En Medio de la Vida](https://open.spotify.com/album/5xoMccrAoAQIF6klIT188j) | 3:47 | 2022-04-01 | 2022-04-21 |
 | [En Mis Sueños](https://open.spotify.com/track/50jjeuQ5UrW3RQqDl0KYpy) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo) | [CRIOLLA](https://open.spotify.com/album/2rEdpXG1A8hydOB1ThvGHX) | 4:10 | 2022-04-01 | 2022-04-14 |
@@ -591,6 +591,7 @@
 | [Mírenla](https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:16 | 2022-07-25 |  |
 | [Mírenla \(Acústico\)](https://open.spotify.com/track/6uVn5zh14u5G8UNIDFrfwr) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/2r9obvPDsbCqk69TXz5W6m) | 4:25 | 2021-12-24 | 2022-07-28 |
 | [Nada es para siempre](https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Eduardo Bergallo](https://open.spotify.com/artist/0iO7GoHspdzqLANoFLZz78) | [Sol en Cinco](https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S) | 5:28 | 2021-12-24 | 2022-05-04 |
+| [Nada Fue Un Error](https://open.spotify.com/track/1Ev18ptTlc3CBQMmKsIfjY) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Coti](https://open.spotify.com/album/7wv093HeXvQuJZvOD6m2gG) | 3:27 | 2023-06-22 |  |
 | [Nada Fue Un Error](https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Coti](https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf) | 3:28 | 2021-12-24 | 2023-06-07 |
 | [Nada Mas Que Vos](https://open.spotify.com/track/6GFCK8ZGXmjtXI7rUUTNns) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Nada Mas Que Vos](https://open.spotify.com/album/0dryP4RnzaMFTIznpegVei) | 3:02 | 2022-04-08 | 2022-04-11 |
 | [Natación \- Acústico](https://open.spotify.com/track/1yBoSHwB98478ukWVGp0Qq) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Natación \(Acústico\)](https://open.spotify.com/album/4kzkWxw8Mx0O2jvphkJuVh) | 3:41 | 2022-04-01 | 2022-04-10 |

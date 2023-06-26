@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=TWV7FF\_vS\_eBk7x6VUGKkQ">Stonebwoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,705 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,732 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [KPONKPO](https://open.spotify.com/track/4E0zFXFHtn5qwHHNSOkK1k) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [KPONKPO](https://open.spotify.com/album/6WRZb4GyZBhtylB9aEe4d7) | 2:59 |
 | 80 | [Ashawo](https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Ashawo](https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa) | 3:01 |
 
-Snapshot ID: `MCw2Y2Y1MmU1MmNlY2IxMTcyYjczZmNlODA5Mzk0OTYxZmNlYTg0YWQ2`
+Snapshot ID: `MCw0ZTlkNzJjZWE5ZGY1NDhhMjZlYTNjNGQ1YTBhZjY0YmRhYzQzN2Fi`
