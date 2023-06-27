@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 61605,
+  "num_followers": 61639,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDJjNTUzOGQyYzljYTg2MjFkZjI1ZGRhZWE1ZGM0YjFlODY4ZjU1",
+  "snapshot_id": "MCwzOGMxODk5ZTdhMDdiMTIyN2M1YjhhNGZiOTc4OTgwMDk4NzEwM2Ex",
   "tracks": [
     {
       "added_at": "2023-06-24 07:11:00",
@@ -335,30 +335,6 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Ajoy Chakrabarty",
-          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
-        },
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 158476,
-      "name": "Garaj Garaj",
-      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
         "name": "Mohanam",
         "url": "https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp"
       },
@@ -423,6 +399,54 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Ajoy Chakrabarty",
+          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 158476,
+      "name": "Garaj Garaj",
+      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
+        "name": "Samjhe Na",
+        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        },
+        {
+          "name": "Ruchika Chauhan",
+          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
+        }
+      ],
+      "duration_ms": 197277,
+      "name": "Samjhe Na",
+      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
         "name": "Naina Morey (Redefined)",
         "url": "https://open.spotify.com/album/0uli1eOLGrt76V11eFtity"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 163071,
       "name": "Chanakya",
       "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
-        "name": "Samjhe Na",
-        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        },
-        {
-          "name": "Ruchika Chauhan",
-          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
-        }
-      ],
-      "duration_ms": 197277,
-      "name": "Samjhe Na",
-      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
         "name": "Coke Studio Season 8",
         "url": "https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 368026,
       "name": "Rasiya",
       "url": "https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Rangderi",
-        "url": "https://open.spotify.com/album/1voVa8VOHmYqhjpcZAiVOZ"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        },
-        {
-          "name": "Asha Sapera",
-          "url": "https://open.spotify.com/artist/4xI3qqjpywDy85g32DVPIC"
-        }
-      ],
-      "duration_ms": 364796,
-      "name": "Rangderi",
-      "url": "https://open.spotify.com/track/2ALFUPMWGCS7tTvRCpIJpe"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
         "name": "Iss Tan Dhan",
         "url": "https://open.spotify.com/album/1WiWIKDEXmUF6X4iCqfOZ8"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 614943,
       "name": "Iss Tan Dhan - From the Album Tu Hai",
       "url": "https://open.spotify.com/track/1wwB9jPkl91wkFRwLTA5rW"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
+        "name": "Rangderi",
+        "url": "https://open.spotify.com/album/1voVa8VOHmYqhjpcZAiVOZ"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Asha Sapera",
+          "url": "https://open.spotify.com/artist/4xI3qqjpywDy85g32DVPIC"
+        }
+      ],
+      "duration_ms": 364796,
+      "name": "Rangderi",
+      "url": "https://open.spotify.com/track/2ALFUPMWGCS7tTvRCpIJpe"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
+        "name": "Mann Bheetar",
+        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 387099,
+      "name": "Ithlati",
+      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
         "name": "Krishna Murari",
         "url": "https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 225353,
       "name": "Krishna Murari",
       "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
-        "name": "Mann Bheetar",
-        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 387099,
-      "name": "Ithlati",
-      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Barsan Lagi",
-        "url": "https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4"
-      },
-      "artists": [
-        {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
-        }
-      ],
-      "duration_ms": 219456,
-      "name": "Barsan Lagi",
-      "url": "https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
         "name": "Rang",
         "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
       },
@@ -1007,26 +991,42 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Songs Of The River - Ganga",
-        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
+        "name": "Barsan Lagi",
+        "url": "https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4"
       },
       "artists": [
         {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        },
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Ambi Subramaniam",
-          "url": "https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54"
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
         }
       ],
-      "duration_ms": 253636,
-      "name": "Bhagirathi",
-      "url": "https://open.spotify.com/track/1FKR1MFGHdjrIMoel4VyXc"
+      "duration_ms": 219456,
+      "name": "Barsan Lagi",
+      "url": "https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
+        "name": "Girte Hue Boondon",
+        "url": "https://open.spotify.com/album/6zElVyLeZK14xPIhd67hgw"
+      },
+      "artists": [
+        {
+          "name": "Gayatri Asokan",
+          "url": "https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK"
+        },
+        {
+          "name": "Amarabha Banerjee",
+          "url": "https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw"
+        },
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "Girte Hue Boondon",
+      "url": "https://open.spotify.com/track/7pepsLqAidcUMFfOVuKzvt"
     }
   ],
   "unique_name": "Fusion Finds",

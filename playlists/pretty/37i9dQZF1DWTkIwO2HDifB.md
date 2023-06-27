@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Gol Bolinha, Gol Quadrado 2 e os funks mais 🔑 do Brasil\. Foto: MC Pedrinho, DJ 900
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,715,393 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,718,308 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Primeira à Direita](https://open.spotify.com/track/5jJ9fktcJM9ECpo2F9ly6v) | [DJ Gouveia](https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem), [Mc Pedrin do Engenha](https://open.spotify.com/artist/0cO5CCI3s6CjA19gXjJXJG), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm) | [Primeira à Direita](https://open.spotify.com/album/09T3pnEsGR406AZijJHk0X) | 1:54 |
 | 50 | [Simplesmente Ela](https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w) | 2:41 |
 
-Snapshot ID: `MCxlMDZhY2Y1MjNkNzZlNGJiOTY3ZGY2NjYxNTExOTQ0ODIzNzYwOGY2`
+Snapshot ID: `MCwwN2UwYjMwMjdiOGVkNDkxZDYzYzkzMGQyNjVlZmEwMzdhMjZiYjA2`

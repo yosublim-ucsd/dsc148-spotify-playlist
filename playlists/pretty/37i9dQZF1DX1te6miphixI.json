@@ -1,12 +1,12 @@
 {
   "description": "Grandes temas del rock de ayer y de hoy.",
-  "num_followers": 776342,
+  "num_followers": 776411,
   "original_name": "Radio Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDgzZmYxMzFlMTgwMjA4NTFkY2IwNjY2YzkzZjZmYTU3MmJjMGE0",
+  "snapshot_id": "MCxiNGI2NmFkZTc5ZTZiMGIwNGVkZWFiNjNiYWU0ODE0YTMzZWE1Njdi",
   "tracks": [
     {
       "added_at": "2023-05-19 05:18:12",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-05-19 05:18:12",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
-    },
-    {
-      "added_at": "2023-05-19 05:18:12",
-      "album": {
         "name": "Second Helping (Expanded Edition)",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": "2023-05-19 05:18:12",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2023-05-19 05:18:12",
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
-    },
-    {
-      "added_at": "2023-05-19 05:18:12",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2023-05-19 05:18:12",
@@ -331,6 +315,22 @@
     {
       "added_at": "2023-05-19 05:18:12",
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2023-05-19 05:18:12",
+      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -343,38 +343,6 @@
       "duration_ms": 200306,
       "name": "Island In The Sun",
       "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
-    },
-    {
-      "added_at": "2023-05-19 05:18:12",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2023-05-19 05:18:12",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
     },
     {
       "added_at": "2023-05-19 05:18:12",
@@ -407,6 +375,22 @@
       "duration_ms": 269373,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "added_at": "2023-05-19 05:18:12",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
     },
     {
       "added_at": "2023-05-19 05:18:12",
@@ -475,18 +459,18 @@
     {
       "added_at": "2023-05-19 05:18:12",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-05-19 05:18:12",
@@ -503,6 +487,22 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2023-05-19 05:18:12",
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
       "added_at": "2023-05-19 05:18:12",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-05-19 05:18:12",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
-    },
-    {
-      "added_at": "2023-05-19 05:18:12",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2023-05-19 05:18:12",
       "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
       "artists": [
         {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 219826,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
     },
     {
       "added_at": "2023-05-19 05:18:12",
@@ -631,6 +615,22 @@
       "duration_ms": 217106,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
+    },
+    {
+      "added_at": "2023-05-19 05:18:12",
+      "album": {
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
       "added_at": "2023-05-19 05:18:12",

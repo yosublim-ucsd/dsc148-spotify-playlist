@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 895445,
+  "num_followers": 895694,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjEwNDVkZDM5Njk4NDkzMWNmNmYxYTI3MmM4YTNmYjdmNWM0Njcw",
+  "snapshot_id": "MCw5NWY5YTY1MzY5OGRkZjFhZjRiNjU1OTY5YmMzMDAxMTYyOTg4NDIx",
   "tracks": [
     {
       "added_at": "2022-11-17 20:08:09",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "This Charming Man - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -227,18 +243,18 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "The Smiths",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
       },
       "artists": [
         {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 162920,
-      "name": "This Charming Man - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
+      "duration_ms": 212000,
+      "name": "Just like Heaven",
+      "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -255,22 +271,6 @@
       "duration_ms": 201186,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Just like Heaven",
-      "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -387,38 +387,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Organisation",
-        "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
-      },
-      "artists": [
-        {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Enola Gay - Remastered 2003",
-      "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Three Imaginary Boys (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
       },
@@ -431,6 +399,22 @@
       "duration_ms": 157533,
       "name": "Boys Don't Cry - Single Version",
       "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Organisation",
+        "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
+      },
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Enola Gay - Remastered 2003",
+      "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -463,6 +447,22 @@
       "duration_ms": 215400,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 349186,
-      "name": "I Know It's Over - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Freedom of Choice",
         "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 349186,
+      "name": "I Know It's Over - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
         "name": "The Innocents",
         "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 213373,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Debaser",
+      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -695,22 +711,6 @@
       "duration_ms": 219306,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Debaser",
-      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 594453,
+      "name": "Fools Gold - Remastered",
+      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 217386,
       "name": "I Will Follow - Remastered 2008",
       "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 594453,
-      "name": "Fools Gold - Remastered",
-      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Replicas",
-        "url": "https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz"
-      },
-      "artists": [
-        {
-          "name": "Tubeway Army",
-          "url": "https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv"
-        }
-      ],
-      "duration_ms": 323133,
-      "name": "Are 'Friends' Electric?",
-      "url": "https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Never for Ever (2018 Remaster)",
         "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 199226,
       "name": "Babooshka - 2018 Remaster",
       "url": "https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Replicas",
+        "url": "https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz"
+      },
+      "artists": [
+        {
+          "name": "Tubeway Army",
+          "url": "https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv"
+        }
+      ],
+      "duration_ms": 323133,
+      "name": "Are 'Friends' Electric?",
+      "url": "https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx"
     },
     {
       "added_at": "2022-11-17 20:08:09",

@@ -4,7 +4,7 @@
 
 > Silky sounds for the sheets.
 
-201 songs - 11 hr 35 min
+202 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Loveeeeeee Song](https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:16 | 2022-10-03 | 2022-12-03 |
 | [Lucky](https://open.spotify.com/track/6SHuwpzmG1QRujJggCOiOP) | [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [Lucky](https://open.spotify.com/album/1mTpH3zLPA4hiN8KUsHe0k) | 3:22 | 2021-08-13 | 2022-10-04 |
 | [Lucky Me](https://open.spotify.com/track/0Ztok1tyr8YbgTi6iUJM9X) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Lucky Me](https://open.spotify.com/album/34Kos9rX5MrGc0MXDnOZ2K) | 3:42 | 2021-08-13 | 2022-10-04 |
+| [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 | 2023-06-16 |  |
 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 | 2022-12-02 |  |
 | [Makin' Good Love](https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Ecstasy](https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG) | 4:31 | 2023-02-12 |  |
 | [Me & Mrs\. Wong](https://open.spotify.com/track/0v0iiy4gktlrDWb6P0w1Xx) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Me & Mrs\. Wong](https://open.spotify.com/album/416QmA6TRGNkxjKp4i9b8b) | 3:50 | 2021-08-13 | 2022-07-29 |
@@ -159,7 +160,7 @@
 | [Scatterbrain](https://open.spotify.com/track/6iP5RyT5UYri2lBXF5HXPv) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Scatterbrain](https://open.spotify.com/album/64c2dTgv8xt5r7gESPYyql) | 3:48 | 2021-08-13 | 2022-10-04 |
 | [SCORPIO MOON \- A COLORS SHOW](https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [SCORPIO MOON \- A COLORS SHOW](https://open.spotify.com/album/1rqrKsQxo2QEjN4IwW0bbc) | 2:55 | 2022-12-02 | 2023-02-13 |
 | [Screwin \(with Omarion\)](https://open.spotify.com/track/3QR92iEfcnqgVFsOr2pCGz) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 5:33 | 2022-10-03 | 2023-02-11 |
-| [Signs of Love Makin'](https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:05 | 2023-02-12 |  |
+| [Signs of Love Makin'](https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:05 | 2023-02-12 | 2023-06-27 |
 | [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2021-08-13 | 2022-10-04 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2022-03-25 |  |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-02-04 | 2023-02-13 |

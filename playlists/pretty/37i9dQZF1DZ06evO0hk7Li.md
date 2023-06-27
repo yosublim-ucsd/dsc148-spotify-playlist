@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,235 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,246 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 18 | [Worthy](https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 3:17 |
 | 19 | [Diddy Bop \(x Louis The Child\)](https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:39 |
 | 20 | [Won't Turn Back](https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:00 |
-| 21 | [Mercy](https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 3:11 |
-| 22 | [Too Much](https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 4:50 |
+| 21 | [Too Much](https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 4:50 |
+| 22 | [Mercy](https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 3:11 |
 | 23 | [Like You'll Never See Me Again](https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Like You'll Never See Me Again](https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP) | 3:58 |
 | 24 | [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 |
-| 25 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 |
-| 26 | [Only Way Is Up](https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ) | [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lundi Méchant](https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv) | 3:51 |
+| 25 | [Only Way Is Up](https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ) | [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lundi Méchant](https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv) | 3:51 |
+| 26 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 |
 | 27 | [Love Me](https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4) | [WiDE AWAKE](https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Love Me](https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA) | 3:15 |
 | 28 | [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 |
 | 29 | [Kumbaya \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:01 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 40 | [In The Name Of Love \- From The Motion Picture The Equalizer 2](https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [In The Name Of Love \(From The Motion Picture The Equalizer 2\)](https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf) | 3:24 |
 | 41 | [Love Ain't Enough](https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 2:52 |
 | 42 | [Photograph](https://open.spotify.com/track/6BvAeJI35GUw2kNK6yMupI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:17 |
-| 43 | [Every Age](https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Every Age](https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ) | 2:10 |
-| 44 | [Dear Simone](https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:54 |
+| 43 | [Dear Simone](https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:54 |
+| 44 | [Every Age](https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Every Age](https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ) | 2:10 |
 | 45 | [Home](https://open.spotify.com/track/3mVAVmOOPfix072ec37bNe) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:28 |
 | 46 | [Ire \(Remix\) \(feat\. Jacob Banks\)](https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 4:54 |
 | 47 | [SOMEONE ELSE \(featuring Jacob Banks\)](https://open.spotify.com/track/2CQD7tRYaQtCLTZCOlgLnw) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [SOMEONE ELSE \(featuring Jacob Banks\)](https://open.spotify.com/album/4eBkyax61tYK5RUkXaBQMk) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [Grace](https://open.spotify.com/track/1aTsh0N4mZvzdY9Ure3eBo) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:36 |
 | 50 | [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDBlMjE2YzcyMWUzMjQ5Y2RiMzhjYjhjODkyYWJjNmZlOQ==`
+Snapshot ID: `MjgxMjk2OTYsMDAwMDAwMDA0ZDdmNWRmOGM1NWYwNDUwNGQ1ZDk2MTAyMDliNzk1Zg==`

@@ -2525,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "G\u00eameos",
+        "url": "https://open.spotify.com/album/0ChE7T4gcw48AEt6cMmaBx"
+      },
+      "artists": [
+        {
+          "name": "Terno Rei",
+          "url": "https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Esperando Voc\u00ea",
+      "url": "https://open.spotify.com/track/2w7kD7klXMFCV6ot8iU5lm"
+    },
+    {
+      "album": {
         "name": "Eu Te Amo, Pt. 2",
         "url": "https://open.spotify.com/album/1YiqHCOIxfRSVBKQ4wxqlu"
       },

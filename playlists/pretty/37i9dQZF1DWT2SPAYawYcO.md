@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Amy Shark
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,956 likes - 93 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,967 likes - 93 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [The Luck You Had](https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [The Luck You Had](https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2) | 4:24 |
 | 93 | [Get Up!!!](https://open.spotify.com/track/2EeVQXBjpbAU1Jv8jUeX7t) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [Spite Will Save Me](https://open.spotify.com/album/35hLhQt688HkGZe9OwZD7m) | 3:24 |
 
-Snapshot ID: `MCw0ZjY5NWVmZjU1MjEyMmM0NTJmYTk3OWFiMmFiY2RiYTJlNjAxOWQ5`
+Snapshot ID: `MCxjNTg2MThiY2U2OWE3YmEyNmQ1OGY3MDA2YTQ2Yjk1YzJkOTM4NjA2`

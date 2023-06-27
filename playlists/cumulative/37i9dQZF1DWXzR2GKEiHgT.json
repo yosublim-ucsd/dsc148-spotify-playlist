@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Are You Shore!",
+        "url": "https://open.spotify.com/album/50sWTt0ezubv6gs3unhtJZ"
+      },
+      "artists": [
+        {
+          "name": "Studio Sea",
+          "url": "https://open.spotify.com/artist/7kgPaIcut7uVFeUMFsRs58"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Heavy Surf (Ocean)",
+      "url": "https://open.spotify.com/track/4D87RX5nrtFfNliH0NnRYO"
+    },
+    {
+      "album": {
         "name": "Nature's Beautiful Sounds",
         "url": "https://open.spotify.com/album/1i7Wx47S8juKmqYC8vO7xi"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 184515,
       "name": "Ocean's Edge",
       "url": "https://open.spotify.com/track/6yKUBOnuauGMHGLNMCTJ47"

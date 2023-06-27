@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "El Gaw Wallaa",
+        "url": "https://open.spotify.com/album/39rh7juYPoYtCjuByeiLIP"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214809,
+      "name": "El Gaw Wallaa",
+      "url": "https://open.spotify.com/track/7FY8MdpmT94uz7QEwGuv8W"
+    },
+    {
+      "album": {
         "name": "Bel Balady",
         "url": "https://open.spotify.com/album/5RF7CQDam2yu6UIazT2mQ9"
       },
@@ -3814,7 +3832,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 177662,
       "name": "\u0645\u0633\u0648\u0644\u064a \u0648\u0635\u0628\u062d\u0648\u0627",
       "url": "https://open.spotify.com/track/1R9jVRREumTrJus79J5F5R"

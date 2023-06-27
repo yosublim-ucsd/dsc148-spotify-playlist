@@ -1,12 +1,12 @@
 {
   "description": "canzoni felici italiane e internazionali per un'estate presa bene \u2600\ufe0f",
-  "num_followers": 15850,
+  "num_followers": 15871,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTBiMDQ4OTJhYTA3NmI2NzdmNzBmY2RjNDYyMWJmMGNjZmJlMTY1",
+  "snapshot_id": "MCw0MDc3OTY1ZjQ1NTgxZTc1MGJmYzY4YWE0YmFkNDY2OWExMGY4NGM2",
   "tracks": [
     {
       "added_at": "2023-06-13 12:48:17",
@@ -723,22 +723,18 @@
     {
       "added_at": "2023-06-13 12:48:17",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "LLYLM",
+        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 269186,
-      "name": "I Feel It Coming",
-      "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
+      "duration_ms": 174044,
+      "name": "LLYLM",
+      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
     },
     {
       "added_at": "2023-06-13 12:48:17",
@@ -759,18 +755,22 @@
     {
       "added_at": "2023-06-13 12:48:17",
       "album": {
-        "name": "LLYLM",
-        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 174044,
-      "name": "LLYLM",
-      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+      "duration_ms": 269186,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
     },
     {
       "added_at": "2023-06-13 12:48:17",
@@ -943,30 +943,6 @@
     {
       "added_at": "2023-06-13 12:48:17",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 229604,
-      "name": "I'm Not Here To Make Friends",
-      "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
-    },
-    {
-      "added_at": "2023-06-13 12:48:17",
-      "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 208760,
       "name": "Cigarette Daydreams",
       "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
+    },
+    {
+      "added_at": "2023-06-13 12:48:17",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 229604,
+      "name": "I'm Not Here To Make Friends",
+      "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
     },
     {
       "added_at": "2023-06-13 12:48:17",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-06-13 12:48:17",
       "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
+    },
+    {
+      "added_at": "2023-06-13 12:48:17",
+      "album": {
         "name": "edamame (feat. Rich Brian)",
         "url": "https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
-    },
-    {
-      "added_at": "2023-06-13 12:48:17",
-      "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
     },
     {
       "added_at": "2023-06-13 12:48:17",

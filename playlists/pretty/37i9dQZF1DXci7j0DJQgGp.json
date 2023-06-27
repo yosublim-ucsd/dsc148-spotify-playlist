@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1808555,
+  "num_followers": 1808579,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzBkNGIwYTVkYmM5OWJjZDQ3MDFjNjAyZTQyMjA3ODRmOTE5M2Jm",
+  "snapshot_id": "MCxmZjBlNTIzNmY3YzlmOTEwNzNmYjkyOTNlMzk5NDAzZDBhMjVjYWE0",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+    },
+    {
+      "added_at": "2023-06-26 16:24:53",
+      "album": {
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -103,6 +119,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Joy'All",
+      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -123,22 +155,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Joy'All",
-      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "It's Called: Freefall",
         "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
       },
@@ -151,6 +167,34 @@
       "duration_ms": 158297,
       "name": "It's Called: Freefall",
       "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -183,34 +227,6 @@
       "duration_ms": 166601,
       "name": "Asc. Scorpio",
       "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Only Time",
-        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
-      },
-      "artists": [
-        {
-          "name": "Aaron Espe",
-          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Th\u00e9r\u00e8se",
         "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 207389,
       "name": "Th\u00e9r\u00e8se",
       "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Only Time",
+        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
+      },
+      "artists": [
+        {
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 90227,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Peace Or Love",
         "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 210377,
       "name": "Rocky Trail",
       "url": "https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 90227,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Seasons of Change",
-        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Grow into Love",
-      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Seasons of Change",
+        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Grow into Love",
+      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Way I Go",
-        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
-      },
-      "artists": [
-        {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
-        }
-      ],
-      "duration_ms": 247829,
-      "name": "Way I Go",
-      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Way I Go",
+        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 247829,
+      "name": "Way I Go",
+      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1463,6 +1479,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Consolation Prize",
         "url": "https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1"
       },
@@ -1479,22 +1511,6 @@
       "duration_ms": 240787,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Santa Barbara",
         "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
       },
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 205493,
       "name": "Cazadera",
       "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Inside Problems",
-        "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Make a Picture",
-      "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

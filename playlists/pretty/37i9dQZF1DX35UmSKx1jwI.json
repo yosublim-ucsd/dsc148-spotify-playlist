@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 92483,
+  "num_followers": 92583,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTQ5NDAxNDBhOGY5Y2FiNDM2MDAwOWMyOTA5NTUxNjg3ODQwMGRj",
+  "snapshot_id": "MCxiZWZlMWJmZWRiZjM1ZDgyZWUzZjQxZmE0N2I2NzM0YWRhZmNkYTJm",
   "tracks": [
     {
       "added_at": "2023-04-13 21:59:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
         "name": "Waves (Robin Schulz Radio Edit)",
         "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
         "name": "The Wave",
         "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 160183,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Worship You",
-        "url": "https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 178760,
-      "name": "Worship You",
-      "url": "https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
         "name": "Nightlight",
         "url": "https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 222400,
       "name": "Nightlight",
       "url": "https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Worship You",
+        "url": "https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 178760,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -1155,22 +1155,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Intoxicated (Radio Edit)",
-        "url": "https://open.spotify.com/album/0vI4F2iMd1CM9Jw9WQuJyN"
+        "name": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) [Remix]",
+        "url": "https://open.spotify.com/album/1HBjNCWaJ2SzolwRxedA9z"
       },
       "artists": [
         {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
         },
         {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
         }
       ],
-      "duration_ms": 159560,
-      "name": "Intoxicated - Radio Edit",
-      "url": "https://open.spotify.com/track/0dbQ4h3cs8QE5fOPMYdDrX"
+      "duration_ms": 188986,
+      "name": "Jerusalema (feat. Nomcebo Zikode) - Edit",
+      "url": "https://open.spotify.com/track/2R7gA9dAHTjASKU0wiTJok"
     }
   ],
   "unique_name": "Gym Beats",

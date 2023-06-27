@@ -4,7 +4,7 @@
 
 > 🔥🔥🔥 LAS CANCIONES MÁS 🔥🔥🔥
 
-358 songs - 19 hr 10 min
+359 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [KAWAII](https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [KAWAII](https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf) | 3:18 | 2022-09-21 | 2022-11-05 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-15 | 2023-03-18 |
 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-14 | 2023-05-18 |
+| [LA BABY](https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LA BABY](https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW) | 3:02 | 2023-06-26 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-05-26 | 2023-02-25 |
 | [La bebe](https://open.spotify.com/track/1yeN7zkjU0DU1SGEwvxMEk) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/3fsLDApUM08iTJDtKoXE0L) | 3:43 | 2022-12-15 | 2023-01-27 |
 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2022-12-15 | 2023-03-18 |
@@ -200,7 +201,7 @@
 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 | 2023-02-10 | 2023-03-18 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-03-23 | 2022-11-05 |
 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 | 2022-11-04 | 2023-05-18 |
-| [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-06-08 |  |
+| [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-06-08 | 2023-06-27 |
 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 | 2022-04-01 | 2022-08-12 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-11-04 | 2023-04-01 |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2022-01-27 | 2022-06-17 |

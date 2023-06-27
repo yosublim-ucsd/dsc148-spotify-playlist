@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Arctic Monkeys",
-  "num_followers": 108861,
+  "num_followers": 108929,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWRhMDVmYzUwYjAwOWQ5YTYzN2VmYTk4MzBiZmQzNGQ2MzZlNWY5",
+  "snapshot_id": "MCw4YmRlYTA5NTBmNDgzYzZlZTE4MzU1MDJmMjJiYjY3YjAwYjhmNDFh",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:04",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "If You\u2019re Gonna Break My Heart",
-        "url": "https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 266818,
-      "name": "If You\u2019re Gonna Break My Heart",
-      "url": "https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "From Nothing To A Little Bit More",
         "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 171280,
       "name": "Lucky Bean",
       "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "If You\u2019re Gonna Break My Heart",
+        "url": "https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 266818,
+      "name": "If You\u2019re Gonna Break My Heart",
+      "url": "https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Do You Want It?",
-        "url": "https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4"
-      },
-      "artists": [
-        {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
-        }
-      ],
-      "duration_ms": 190914,
-      "name": "Do You Want It?",
-      "url": "https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Troubled Son",
         "url": "https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 200482,
       "name": "Troubled Son",
       "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Do You Want It?",
+        "url": "https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4"
+      },
+      "artists": [
+        {
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+        }
+      ],
+      "duration_ms": 190914,
+      "name": "Do You Want It?",
+      "url": "https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Lovers Come and Lovers Go",
-        "url": "https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS"
-      },
-      "artists": [
-        {
-          "name": "The Pigeon Detectives",
-          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "Lovers Come and Lovers Go",
-      "url": "https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Waste",
         "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Lovers Come and Lovers Go",
+        "url": "https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS"
+      },
+      "artists": [
+        {
+          "name": "The Pigeon Detectives",
+          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "Lovers Come and Lovers Go",
+      "url": "https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "Cavalryman",
         "url": "https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 193426,
       "name": "Cavalryman",
       "url": "https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 211119,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -695,6 +679,22 @@
       "duration_ms": 187683,
       "name": "Good Luck Charm",
       "url": "https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/0O7gTxkYxNjD3gw9WSGHhb"
-      },
-      "artists": [
-        {
-          "name": "Lanterns on the Lake",
-          "url": "https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng"
-        }
-      ],
-      "duration_ms": 214817,
-      "name": "Real Life - Edit",
-      "url": "https://open.spotify.com/track/76S510QtyiUVw0GS7S8AoJ"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Never Good Enough",
         "url": "https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 227115,
       "name": "Never Good Enough",
       "url": "https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/0O7gTxkYxNjD3gw9WSGHhb"
+      },
+      "artists": [
+        {
+          "name": "Lanterns on the Lake",
+          "url": "https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng"
+        }
+      ],
+      "duration_ms": 214817,
+      "name": "Real Life - Edit",
+      "url": "https://open.spotify.com/track/76S510QtyiUVw0GS7S8AoJ"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0"
-      },
-      "artists": [
-        {
-          "name": "Zuzu",
-          "url": "https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm"
-        }
-      ],
-      "duration_ms": 202450,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/4UyXpL9yyJb9t2FGAyDzjC"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "The Enemy",
         "url": "https://open.spotify.com/album/4t250HKL2vikczwZILscU5"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 188336,
       "name": "The Enemy",
       "url": "https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0"
+      },
+      "artists": [
+        {
+          "name": "Zuzu",
+          "url": "https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm"
+        }
+      ],
+      "duration_ms": 202450,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/4UyXpL9yyJb9t2FGAyDzjC"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
+      },
+      "artists": [
+        {
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+        }
+      ],
+      "duration_ms": 230467,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "World Full Of Worry",
         "url": "https://open.spotify.com/album/0PHGvVPQqVpEr8e6GsuOjl"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 233074,
       "name": "Kaizen",
       "url": "https://open.spotify.com/track/3uFjKZi6ksKM8AyUBxIeXo"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/2zauc2kgGB5EB2CjsbPSyC"
-      },
-      "artists": [
-        {
-          "name": "Martha Hill",
-          "url": "https://open.spotify.com/artist/4Kc5DsSHbP83BQiY1btHjR"
-        }
-      ],
-      "duration_ms": 160337,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/17NF7bFPjLTCyG7mdoU9RN"
     }
   ],
   "unique_name": "Proper Belters",

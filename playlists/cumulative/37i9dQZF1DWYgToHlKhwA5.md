@@ -4,7 +4,7 @@
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-427 songs - 19 hr 23 min
+429 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Nearing Thunder](https://open.spotify.com/track/5Heunc5NwiwE5R1xX9Rt3N) | [Chō](https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT) | [Stormy Mornings](https://open.spotify.com/album/2eQzSgqbEh2uw4smilbRHr) | 3:28 | 2022-07-19 |  |
 | [Nederbörd](https://open.spotify.com/track/02Yfdjig23PmDTu03heTJT) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Nederbörd](https://open.spotify.com/album/52oHVzqNzXauSpZmmjfmTh) | 2:44 | 2023-06-15 |  |
 | [Never\-ending Rain](https://open.spotify.com/track/5u2kuI9KQ6xGQcPxvToNJ5) | [Freyr](https://open.spotify.com/artist/0UXi91La4FUOmdfH5X4pIG) | [Healing Rain](https://open.spotify.com/album/5bsGhhhTZ8w0usBImSNoVg) | 3:12 | 2023-06-15 |  |
+| [Night Storm](https://open.spotify.com/track/1SirUENsOpONVZ7DKCg0VU) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [The Sound Of Thunder](https://open.spotify.com/album/7w7vj19z0QzYlqkdAQYLGR) | 2:17 | 2023-06-15 |  |
 | [Night Storm](https://open.spotify.com/track/1I6QdR3AsN37JMBaoqsbEn) | [Lush Waves Creators](https://open.spotify.com/artist/35RcJZmoS04TXmOvYWebwE) | [Night Rain](https://open.spotify.com/album/4r2Q2dqJDccNG92ocD3EtY) | 2:32 | 2023-06-15 |  |
 | [Night Storm](https://open.spotify.com/track/7iug7zoz8Q0hYJB1aFoyZ3) | [Peceful Waters](https://open.spotify.com/artist/2VfTfwQpjAkt3dR71njyYp) | [Peceful Waters](https://open.spotify.com/album/2bFCb65X1zLYlDrS1JLPOm) | 2:09 | 2022-07-19 |  |
 | [Night Thunder](https://open.spotify.com/track/0gvq5uQRfGDNxHm0jM0G2v) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Night Thunder](https://open.spotify.com/album/59wL07qYzi01R3icAPk7ZL) | 4:00 | 2022-07-19 | 2023-06-16 |
@@ -224,6 +225,7 @@
 | [Piogga](https://open.spotify.com/track/0ZRTBESw4BjX22iOcU3kRx) | [L'acqua Cade](https://open.spotify.com/artist/6LvjboIMlXnreAptglx2SP) | [Gocce](https://open.spotify.com/album/7Meq6WVLcmNcK9r4Sn3WvQ) | 2:39 | 2022-07-19 |  |
 | [Pleasing Thunder](https://open.spotify.com/track/5CQNpdepfUJbBoNHJu60Z9) | [Heatriction](https://open.spotify.com/artist/2FbDF4xiccQePu55TLkYHx) | [Thunder Nap](https://open.spotify.com/album/6CJ2CVPzlBhg9bfLQbQ1yJ) | 3:38 | 2023-04-07 |  |
 | [Pluie et tonnerre](https://open.spotify.com/track/49lC3wHsYUScNtjjnlsA46) | [Tonerre](https://open.spotify.com/artist/7885SjDRQfxBJ8MTfomwHz) | [Orage](https://open.spotify.com/album/1FjY5FiGhfsBGOlm2A4mFj) | 1:58 | 2022-07-19 | 2023-06-16 |
+| [Pluie Fraîche en Forêt](https://open.spotify.com/track/0UpFU29vwGW37q9naircXx) | [Équipage ambiant](https://open.spotify.com/artist/2WI0t9L9e4wmhiV7HYp9BU) | [Pluie Paisible en Forêt](https://open.spotify.com/album/0kk18kfIPwwitpwDH4FTCZ) | 2:11 | 2023-06-15 |  |
 | [Pluie légère](https://open.spotify.com/track/1tQIg93C2Vq70UTa50vUE3) | [Effectum](https://open.spotify.com/artist/7mudgeojeGL4IruR03vmFb) | [Tonnerre et pluie](https://open.spotify.com/album/3wduQV3xbgPHB4QmHFkqYI) | 2:47 | 2022-07-19 |  |
 | [Pluie légère et tonnerre](https://open.spotify.com/track/1SAvBx0Uzm0UQz6u5J85M9) | [Tonerre](https://open.spotify.com/artist/7885SjDRQfxBJ8MTfomwHz) | [Orage](https://open.spotify.com/album/1FjY5FiGhfsBGOlm2A4mFj) | 2:09 | 2022-07-19 |  |
 | [Pluie tropicale](https://open.spotify.com/track/3PCELNifmPZJVtvIbwxpuD) | [Vædret](https://open.spotify.com/artist/1S5E0AilcCGAl0KnP1woIH) | [Tonnerre lourd](https://open.spotify.com/album/33l1GbjNp8nN1PqRybdLIF) | 2:44 | 2023-06-15 |  |
@@ -252,7 +254,7 @@
 | [Rain in Prague](https://open.spotify.com/track/04q8CLzn8RIOtHFaJFH09X) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/4Xnlm5GHBeoAGA6SUHrDFr) | 3:30 | 2023-06-15 |  |
 | [rain in stavanger](https://open.spotify.com/track/1WUv66of1uUlVaDl7C9tt7) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in stavanger](https://open.spotify.com/album/57WMYN9dVP8b8zZVAefE4m) | 3:28 | 2023-06-15 |  |
 | [Rain Meditation](https://open.spotify.com/track/2H2D2WpopERgoEfIkY9ORD) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Late Night Rain](https://open.spotify.com/album/2UzTbwe7H4pgyenZB8s8bR) | 2:51 | 2023-06-15 |  |
-| [Rain Meditation](https://open.spotify.com/track/57zsjpyXmUl5m1gluaEdBH) | [Sampling XL](https://open.spotify.com/artist/7ECXymmfS4gH66cI7a8dwr) | [Rain Makers](https://open.spotify.com/album/7MjCE3ryCHTX7ojc0DWfyq) | 2:07 | 2023-06-15 |  |
+| [Rain Meditation](https://open.spotify.com/track/57zsjpyXmUl5m1gluaEdBH) | [Sampling XL](https://open.spotify.com/artist/7ECXymmfS4gH66cI7a8dwr) | [Rain Makers](https://open.spotify.com/album/7MjCE3ryCHTX7ojc0DWfyq) | 2:07 | 2023-06-15 | 2023-06-27 |
 | [Rain Morning](https://open.spotify.com/track/400VRhKLp9MZhyJgeAN6OA) | [Natural Dream Makers](https://open.spotify.com/artist/3VRTISkFHIAjmTLl2DQAGz) | [Rain Morning](https://open.spotify.com/album/0a7mH4O1NsujRNY35geOTs) | 2:41 | 2022-07-19 |  |
 | [Rain Noise 700 hz](https://open.spotify.com/track/2CZnZdwMvSaPr3QWnA3rQe) | [Dreamsound](https://open.spotify.com/artist/3Ck26BVvvBgOPbjvkO9b3g) | [Rainforest Noise](https://open.spotify.com/album/6nbREfOSnlYblXLGqOAZbz) | 2:29 | 2023-06-15 |  |
 | [Rain On The Autumn Leaves](https://open.spotify.com/track/4Uclrcxkq2wCWX5ieA0LfN) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Natural Serenity](https://open.spotify.com/album/3pJL4HWm5phcV0FEvFd7Iz) | 3:29 | 2023-06-15 |  |
@@ -338,7 +340,7 @@
 | [Storms a Brewing](https://open.spotify.com/track/0VElp1F9YurCuIl6NhqZc5) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Storms a Brewing](https://open.spotify.com/album/0usFjvNIwzOiI56FDysgNj) | 3:23 | 2023-04-07 |  |
 | [Storms Eye](https://open.spotify.com/track/5tu0yyz3KaVGWSxs6RchPA) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Dream In Thunder](https://open.spotify.com/album/2aytvfAbcfIXI0hiBZvK5M) | 3:36 | 2023-06-15 |  |
 | [Storms Out](https://open.spotify.com/track/3eRC23AjDFRiojUhdbrkDM) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [Storms Out](https://open.spotify.com/album/6uhoM1qN6x8zjn234fwA9c) | 2:54 | 2023-04-07 |  |
-| [Stormy Conditions](https://open.spotify.com/track/5s5LmyLUHj01WhJLYruZwS) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-07-19 |  |
+| [Stormy Conditions](https://open.spotify.com/track/5s5LmyLUHj01WhJLYruZwS) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-07-19 | 2023-06-27 |
 | [Stormy Days](https://open.spotify.com/track/1x0tBL850DfMvbKP6FGTbG) | [Thunderive](https://open.spotify.com/artist/6kiS6SmEZCpgDczXhYXlHK) | [Sleepy Storm](https://open.spotify.com/album/05lmfx8mKvNMhW93NDINmQ) | 2:24 | 2023-06-15 |  |
 | [Stormy Dreams](https://open.spotify.com/track/3tCznlqVJy40oV68edDA4o) | [Shipibo](https://open.spotify.com/artist/5vgyBPjmH74rsob0Ribq6f) | [Storm Lockdown](https://open.spotify.com/album/23YpGMcHhz5bvgk874pS7P) | 2:39 | 2022-07-19 |  |
 | [Stormy Evening](https://open.spotify.com/track/5inqtzm0t2SrR6uMwWXUJp) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2023-04-07 |  |

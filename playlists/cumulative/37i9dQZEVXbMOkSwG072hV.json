@@ -10469,6 +10469,24 @@
     },
     {
       "album": {
+        "name": "Festa do Brasil - Forr\u00f2",
+        "url": "https://open.spotify.com/album/62xzqcL9tmZBTWvHVXXVvS"
+      },
+      "artists": [
+        {
+          "name": "Robertinho Do Acordeao",
+          "url": "https://open.spotify.com/artist/0Jf0NieODEERuwnRfovrxz"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177960,
+      "name": "Festa na ro\u00e7a",
+      "url": "https://open.spotify.com/track/4BrOEKSjChv6XW0mgxmZBt"
+    },
+    {
+      "album": {
         "name": "Festa Junina de S\u00e3o Jo\u00e3o na Sanfona",
         "url": "https://open.spotify.com/album/3xMSqJlipZC0MsRctd68px"
       },
@@ -13524,6 +13542,28 @@
       "duration_ms": 136640,
       "name": "J\u00e1 Peguei, Quero Pegar",
       "url": "https://open.spotify.com/track/6DRNWF5mQ9CiN6P5pOZe4V"
+    },
+    {
+      "album": {
+        "name": "KAROLINA",
+        "url": "https://open.spotify.com/album/6AHqWjWMhUBPlHwzJ9xVJW"
+      },
+      "artists": [
+        {
+          "name": "h$mza",
+          "url": "https://open.spotify.com/artist/0H4EMH4ocavcSymPjUL5Yr"
+        },
+        {
+          "name": "h$lil",
+          "url": "https://open.spotify.com/artist/1CFViPIECHw3a7XOvcAB5H"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "KAROLINA",
+      "url": "https://open.spotify.com/track/37FKV1o2tcqHwSi2q0Yxgp"
     },
     {
       "album": {
@@ -20278,7 +20318,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
@@ -30360,7 +30400,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 140134,
       "name": "\u00c9 o Rei do Sexo",
       "url": "https://open.spotify.com/track/11r84ikn6SC5N8NZWqWnoT"

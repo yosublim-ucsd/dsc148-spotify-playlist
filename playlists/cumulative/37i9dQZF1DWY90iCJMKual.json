@@ -755,6 +755,28 @@
     },
     {
       "album": {
+        "name": "Hey, Fave!",
+        "url": "https://open.spotify.com/album/6lhpW51l05qyB6TtW4UAZ6"
+      },
+      "artists": [
+        {
+          "name": "GIE",
+          "url": "https://open.spotify.com/artist/3hkmwAxiJdfpmX8H98T92m"
+        },
+        {
+          "name": "Rycess",
+          "url": "https://open.spotify.com/artist/0YyWewAYP0lImXtNMUloWk"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190509,
+      "name": "Hey, Fave!",
+      "url": "https://open.spotify.com/track/1jmrd7hdHC5cxEYMpeFO43"
+    },
+    {
+      "album": {
         "name": "Hotel Room",
         "url": "https://open.spotify.com/album/0QxYtEiFoPvLnhI4JZ6Odm"
       },
@@ -1233,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Liham Sa Ulap",
+        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
+      },
+      "artists": [
+        {
+          "name": "KYLIX",
+          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188664,
+      "name": "Liham Sa Ulap",
+      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
+    },
+    {
+      "album": {
         "name": "Love Or Lust",
         "url": "https://open.spotify.com/album/2YycMpmAokC9s0drh9tcnQ"
       },
@@ -1320,6 +1360,60 @@
       "duration_ms": 324051,
       "name": "manila",
       "url": "https://open.spotify.com/track/3rEzXExcWwGTYJJhDBQBzn"
+    },
+    {
+      "album": {
+        "name": "Maria Hiwaga",
+        "url": "https://open.spotify.com/album/6VCDr1sghqqQSje8YbYSqn"
+      },
+      "artists": [
+        {
+          "name": "Sassa Gurl",
+          "url": "https://open.spotify.com/artist/52D0Fi29GcObaFnweqsV6d"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187973,
+      "name": "Maria Hiwaga",
+      "url": "https://open.spotify.com/track/7rRpt0FcGdDxyhiFcSlswH"
+    },
+    {
+      "album": {
+        "name": "May Iba Na Ba?",
+        "url": "https://open.spotify.com/album/5j0c3ufCKiRztCGOKqmbDb"
+      },
+      "artists": [
+        {
+          "name": "Jemay Santiago",
+          "url": "https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148855,
+      "name": "May Iba Na Ba?",
+      "url": "https://open.spotify.com/track/7EYvbxzSZnQ4QQUxDrrk47"
+    },
+    {
+      "album": {
+        "name": "MIDNYT SNACK",
+        "url": "https://open.spotify.com/album/0hZ4QvaZHTWFkhomk9BZsc"
+      },
+      "artists": [
+        {
+          "name": "June Andreas",
+          "url": "https://open.spotify.com/artist/7JQTgAQRFXE1eqB3AknKT0"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "MIDNYT SNACK",
+      "url": "https://open.spotify.com/track/1abidRpQBY12rqiwIafnPZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,687 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,906 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 42 | [El Diablo](https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:03 |
 | 43 | [Que Se Sepa Nuestro Amor](https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Se Sepa Nuestro Amor](https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr) | 2:59 |
 | 44 | [Quédate Esta Noche](https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:50 |
-| 45 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:58 |
-| 46 | [Tantas Veces](https://open.spotify.com/track/1FV8DteSCiDnZDEQlQZMh3) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Dios Los Cría](https://open.spotify.com/album/1K9AuVjYM9zMHR3wrLJuRK) | 3:19 |
+| 45 | [Tantas Veces](https://open.spotify.com/track/1FV8DteSCiDnZDEQlQZMh3) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Dios Los Cría](https://open.spotify.com/album/1K9AuVjYM9zMHR3wrLJuRK) | 3:19 |
+| 46 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:58 |
 | 47 | [Palabras Tristes](https://open.spotify.com/track/1UX1kt5jsniuhSpjIJTFGI) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Así Te Quiero Yo](https://open.spotify.com/album/3gpg9uMXT5gX6AJkeDH4Ok) | 3:51 |
 | 48 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0A2fcg05Ii6MpFCiuzfNfJ) | [sonoradinamita](https://open.spotify.com/artist/2wesOX1fzorPTtgcuZ0xv2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:16 |
-| 49 | [Te Vi](https://open.spotify.com/track/4DwnXwEVTipWr1u7ZAgoku) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:36 |
-| 50 | [Plata Ta Tá](https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Plata Ta Tá](https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS) | 4:15 |
+| 49 | [Plata Ta Tá](https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Plata Ta Tá](https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS) | 4:15 |
+| 50 | [Te Vi](https://open.spotify.com/track/4DwnXwEVTipWr1u7ZAgoku) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:36 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDBkMjBmMTc3YjgzM2I4NmUwOGFjNDY0MTVmN2Q5YjYyZA==`
+Snapshot ID: `MjgxMjk2OTUsMDAwMDAwMDA3NDg0YjQ2MjhiMDQ0YjE3NzkzNWIzZGExMjI2NTk5Mg==`

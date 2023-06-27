@@ -4,7 +4,7 @@
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-126 songs - 8 hr 44 min
+127 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Every moment of you 너의 모든 순간](https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV) | 4:03 | 2022-06-13 |  |
 | [Fly](https://open.spotify.com/track/3lVGVuyrh4zLTMUmVm4y9l) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [CYWORLD BGM 2021](https://open.spotify.com/album/3HHwRV6jbYvwshPkNwOLj0) | 3:38 | 2022-06-13 | 2023-04-16 |
 | [flying duck](https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Third Eye](https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz) | 4:05 | 2022-06-13 |  |
-| [FOR YOU](https://open.spotify.com/track/2Fth4BfZxpGht783UTYiiA) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 4:07 | 2022-06-13 |  |
+| [FOR YOU](https://open.spotify.com/track/2Fth4BfZxpGht783UTYiiA) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 4:07 | 2022-06-13 | 2023-06-27 |
 | [Guilty](https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Band of Dynamic Brothers](https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1) | 3:44 | 2022-06-13 |  |
 | [Hawaian Couple](https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [Purple Drop](https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo) | 3:38 | 2022-06-13 |  |
 | [Hello from SEO EUNKWANG](https://open.spotify.com/track/6EhxH42coTBckphoRy3gTI) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [SEO EUNKWANG \- CYWORLD BGM](https://open.spotify.com/album/44rTmgdVFgC7B6Zp3MHYKw) | 0:14 | 2022-06-13 |  |
@@ -97,6 +97,7 @@
 | [고백](https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV) | [DELISPICE](https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf) | [Espresso](https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb) | 5:23 | 2022-06-13 |  |
 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 | 2022-06-13 |  |
 | [그녀가 웃잖아....](https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [그녀가 웃잖아](https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi) | 4:29 | 2022-06-13 | 2023-06-04 |
+| [그랬나봐](https://open.spotify.com/track/4bDrbZHIKab9oKdEmkO4TU) | [Kim Hyung Joong](https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5) | [Kim Hyung Joong 1](https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5) | 4:29 | 2022-06-13 |  |
 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 | 2022-06-13 | 2023-06-04 |
 | [그런일은](https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Across The Romantic Bridge](https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267) | 4:24 | 2022-06-13 |  |
 | [김밥](https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [The Jadu 3](https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4) | 3:45 | 2022-06-13 |  |
@@ -125,9 +126,9 @@
 | [여자이니까](https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [투유 프로젝트 \- 슈가맨 Pt.36](https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9) | 3:46 | 2022-06-13 |  |
 | [여자이니까](https://open.spotify.com/track/6VmSp1SUpIYVWwDnTWpgYT) | [KISS](https://open.spotify.com/artist/7cce47QG2IibkXS6YdTtR3) | [Kiss](https://open.spotify.com/album/4p1vHQdWMimu548x89KtNN) | 4:17 | 2022-06-13 |  |
 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 | 2022-06-13 |  |
-| [응급실](https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [투유 프로젝트 \- 슈가맨 Pt.5](https://open.spotify.com/album/3O0r88fVgzaZ6YDhDiSypI) | 4:27 | 2022-06-13 | 2023-06-24 |
+| [응급실](https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [투유 프로젝트 \- 슈가맨 Pt.5](https://open.spotify.com/album/3O0r88fVgzaZ6YDhDiSypI) | 4:27 | 2022-06-13 |  |
 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 | 2022-06-13 |  |
-| [정말 사랑했을까](https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:32 | 2022-06-13 |  |
+| [정말 사랑했을까](https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:32 | 2022-06-13 | 2023-06-27 |
 | [제주도의 푸른 밤](https://open.spotify.com/track/7dxyNzfhhXpqIHttzNFxn5) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Sung Si kyung Remake Album](https://open.spotify.com/album/5Ul0btt4Y5eWe1Rff1rmNQ) | 3:56 | 2022-06-13 |  |
 | [중독](https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:03 | 2022-06-13 |  |
 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 | 2022-06-13 |  |

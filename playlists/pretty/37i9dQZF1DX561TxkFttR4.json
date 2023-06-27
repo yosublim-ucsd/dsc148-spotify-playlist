@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 333024,
+  "num_followers": 333069,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGU1M2Y3ODVmNzQ0ZDI1OGNiNmJjNDVlY2M4YmQ1NWQ5YzY5YWZk",
+  "snapshot_id": "MCxkZGM0Mjc1ODExZTBkMzhiODZkNWQ3Y2RmZGQyMDQxYTRjNGEzZjFm",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        }
-      ],
-      "duration_ms": 312757,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 147314,
       "name": "Gdansk",
       "url": "https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "duration_ms": 312757,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Lionheart",
+        "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Le Jardin de Monsieur Monet",
+      "url": "https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Daybreak",
         "url": "https://open.spotify.com/album/79Dz2veZjjtnOFMNOHMKFl"
       },
@@ -487,18 +503,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Lionheart",
-        "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
+        "name": "Young Alaska",
+        "url": "https://open.spotify.com/album/6CCR2hae4UBgora5YA4oOy"
       },
       "artists": [
         {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 313973,
-      "name": "Le Jardin de Monsieur Monet",
-      "url": "https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy"
+      "duration_ms": 102034,
+      "name": "Alpine Sketch",
+      "url": "https://open.spotify.com/track/205J10EOIrtKquOpkR1goj"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -515,22 +531,6 @@
       "duration_ms": 164000,
       "name": "Tristes",
       "url": "https://open.spotify.com/track/3mhJ85EkR5J6pf7F4lP4DU"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Young Alaska",
-        "url": "https://open.spotify.com/album/6CCR2hae4UBgora5YA4oOy"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 102034,
-      "name": "Alpine Sketch",
-      "url": "https://open.spotify.com/track/205J10EOIrtKquOpkR1goj"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Beyond Dreams",
-        "url": "https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Beyond Dreams",
-      "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Correlations (on 11 pianos)",
         "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 273600,
       "name": "I wanted you to know (on Yamaha Upright, 1981)",
       "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Beyond Dreams",
+        "url": "https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Beyond Dreams",
+      "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
-      },
-      "artists": [
-        {
-          "name": "Ky\u016bka",
-          "url": "https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7"
-        }
-      ],
-      "duration_ms": 110466,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Lost",
         "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 207053,
       "name": "Anona",
       "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
+      },
+      "artists": [
+        {
+          "name": "Ky\u016bka",
+          "url": "https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7"
+        }
+      ],
+      "duration_ms": 110466,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "how we sleep",
         "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 209102,
       "name": "Silent Dusk",
       "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Col",
-        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
-      },
-      "artists": [
-        {
-          "name": "Elias Braun",
-          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
-        }
-      ],
-      "duration_ms": 142041,
-      "name": "Col",
-      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "We Met in the Garden",
         "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 143585,
       "name": "We Met in the Garden",
       "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Col",
+        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
+      },
+      "artists": [
+        {
+          "name": "Elias Braun",
+          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
+        }
+      ],
+      "duration_ms": 142041,
+      "name": "Col",
+      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
-      },
-      "artists": [
-        {
-          "name": "The Masked Pianoman",
-          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
-        }
-      ],
-      "duration_ms": 129209,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "orange sky",
         "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 190670,
       "name": "orange sky",
       "url": "https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
+      },
+      "artists": [
+        {
+          "name": "The Masked Pianoman",
+          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+        }
+      ],
+      "duration_ms": 129209,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
     }
   ],
   "unique_name": "Soft Piano",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2SJhf6rTOU53g8yBdAjPby">SoFaygo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,764,006 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,764,157 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
-| 2 | [ARSENAL \(feat\. Denzel Curry\)](https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 3:15 |
+| 2 | [ARSENAL \(I SMELL BITCH\) \(feat\. Denzel Curry\)](https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 3:15 |
 | 3 | [Shiesty \(feat\. Kali & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kali & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
 | 4 | [WISH I COULD TELL YOU](https://open.spotify.com/track/4VkyknxFWgVYBeoEoUJ3k6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [WISH I COULD TELL YOU](https://open.spotify.com/album/1DFuFMe8nuWMT0JivZrFq0) | 2:56 |
 | 5 | [I'm Geekin \(feat\. Luh Tyler\)](https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [I'm Geekin \(feat\. Luh Tyler\)](https://open.spotify.com/album/4hkUIlk30Vh9jsXz7dazhB) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [InstaKill](https://open.spotify.com/track/0mUAyevrsYZRUR3yVfyI3M) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [InstaKill](https://open.spotify.com/album/5fcZnOQoSBoiGaJ0qmZGtx) | 1:57 |
 | 100 | [How High](https://open.spotify.com/track/2JmEudsTs2PrGS7R7tWs8g) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [How High](https://open.spotify.com/album/5O5i4hqy4iJpSlzm5WGGIM) | 2:18 |
 
-Snapshot ID: `MCxhNjA0YzE5YTdkMmU5ZjYxYWY1ZjRhY2RlZjVlYTM0NmE3YTdkMDhi`
+Snapshot ID: `MCw4NmM1NTRlNzVjZDFlODEzYzczN2E3MTUxYmI3NDkzMjZhNTE2ZDAx`

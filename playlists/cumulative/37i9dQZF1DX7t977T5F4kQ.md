@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=TWV7FF\_vS\_eBk7x6VUGKkQ">Stonebwoy</a>
 
-195 songs - 10 hr 28 min
+196 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Ashawo](https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Ashawo](https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa) | 3:01 | 2023-05-19 |  |
 | [Atele](https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Atele](https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1) | 2:46 | 2022-11-04 |  |
 | [Aviator](https://open.spotify.com/track/4A8AbyQOQWbeqAiXLyf1ke) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Aviator](https://open.spotify.com/album/5VI1VyyLgDgYSm3wNRpaKx) | 3:32 | 2023-02-23 | 2023-03-18 |
-| [Balance It](https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY) | 3:07 | 2022-11-04 |  |
+| [Balance It](https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY) | 3:07 | 2022-11-04 | 2023-06-27 |
 | [Balance It \(Remix\)](https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Balance It \(Remix\)](https://open.spotify.com/album/1QUOtrtXpyLwLEqshG8b6m) | 2:53 | 2022-11-04 |  |
 | [BAYIN'YAA \(Mad Dog\)](https://open.spotify.com/track/2XXZpGsijSDPEh5opFFvvX) | [Fancy Gadam](https://open.spotify.com/artist/3uDHTGGaPazfBhlfXtQyzc) | [BAYIN'YAA \(Mad Dog\)](https://open.spotify.com/album/3PwhfGA64MMYAZjdqnDzsJ) | 3:40 | 2022-12-18 | 2023-01-13 |
 | [Beautiful](https://open.spotify.com/track/4ccPHOzBCiCoBxilT5b00V) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Beautiful](https://open.spotify.com/album/3CkYnVyY3U8ALa3aBUtNST) | 3:07 | 2023-03-02 | 2023-06-03 |
@@ -81,6 +81,7 @@
 | [Ginger](https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Ginger](https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5) | 3:33 | 2022-11-04 |  |
 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/1GjyutvlWkLC5woI2mDrgE) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2022-11-04 |  |
 | [Goodbye](https://open.spotify.com/track/7pU9YogbXoHZirg26M132Z) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Goodbye](https://open.spotify.com/album/2LWg8PF3z76jzhcPgFb8x1) | 4:24 | 2023-02-09 | 2023-02-24 |
+| [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 | 2023-06-26 |  |
 | [Goosebumps](https://open.spotify.com/track/61wxMXgLy8Vfxzx65gthIW) | [Jetey](https://open.spotify.com/artist/0BzP5LIn392sLAa78SapOZ) | [Goosebumps](https://open.spotify.com/album/0PNWsa8wiZNgdFqIUgmdSQ) | 3:24 | 2023-03-10 | 2023-03-18 |
 | [Gree](https://open.spotify.com/track/3YusYV6AHdfJUC2vZz7Ts0) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Okaiwav](https://open.spotify.com/artist/790WTyVQzbx74N1Iy300Aj), [Gidochi](https://open.spotify.com/artist/1PzQSg9P40FrD2Z92SQMa6) | [Gree](https://open.spotify.com/album/3lkPvFpWfzn5GskSyYUrBi) | 2:18 | 2023-05-26 | 2023-06-17 |
 | [Happy](https://open.spotify.com/track/4RtRtgj4a0UzipVkInF9Xd) | [Dr Cryme](https://open.spotify.com/artist/26HlCKbXpF27gFP3AEsVhk) | [Happy](https://open.spotify.com/album/255TlgzhDs5gF0grRyW7Sl) | 2:51 | 2023-01-27 | 2023-02-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Sleep Token on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,425,348 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,425,816 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Martyr](https://open.spotify.com/track/0mMLlzPBEIJPjBu0CHhsOU) | [The Disaster Area](https://open.spotify.com/artist/5cNBtvhQCLKWInveVFe49O), [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Martyr](https://open.spotify.com/album/0SPQRm5ZvpgdazHJPN6eKy) | 3:09 |
 | 75 | [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 |
 
-Snapshot ID: `MCwxOTRiYTMzMzQyMmExOThhYzI2NjFhMjExODU4MzQ3MzNhZGI0Njll`
+Snapshot ID: `MCw3NzA0NjgzOGM5OWY2NDBiODYwMWIxNDllYTBmMDY3M2I5ZGM5ZjQ5`

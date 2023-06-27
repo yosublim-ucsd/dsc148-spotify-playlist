@@ -1,12 +1,12 @@
 {
   "description": "<a>https://bit.ly/2WYLxJM </a>",
-  "num_followers": 963,
+  "num_followers": 967,
   "original_name": "THE TECHNO METHOD",
   "owner": {
     "name": "Metodi Hristov",
     "url": "https://open.spotify.com/user/metodihristov"
   },
-  "snapshot_id": "MTQxMyw4NGNkODJhZmVjMjk4OWQ2Njk4YjA5MzEwNTUxYTIzYmRhMDU0MTAz",
+  "snapshot_id": "MTQzNCwxZjk1NjUzZjhiOTEzYzNlYjMyNjcwMTU2OTEyZDA2Y2I2ZDlmNzc0",
   "tracks": [
     {
       "added_at": "2023-06-22 22:50:25",
@@ -29,24 +29,44 @@
       "url": "https://open.spotify.com/track/649rERDKx5gDY1wiWu3mlx"
     },
     {
-      "added_at": "2023-05-30 08:11:59",
+      "added_at": "2023-06-24 10:03:47",
       "album": {
-        "name": "Something More",
-        "url": "https://open.spotify.com/album/0SHhPYk0boerswxE4eYy3s"
+        "name": "Burn It Up",
+        "url": "https://open.spotify.com/album/4vGzoIttQqqylcJINdjrxj"
       },
       "artists": [
         {
-          "name": "Bart Skils",
-          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+          "name": "Lautaro Iba\u00f1ez",
+          "url": "https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR"
         },
         {
-          "name": "Weska",
-          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
+          "name": "Agustina Aliaga",
+          "url": "https://open.spotify.com/artist/79V45UnKkn86CxN6jfi6Lk"
         }
       ],
-      "duration_ms": 240458,
-      "name": "Something More",
-      "url": "https://open.spotify.com/track/4YMxL3YsA943fie0W7viZO"
+      "duration_ms": 204084,
+      "name": "Burn It Up",
+      "url": "https://open.spotify.com/track/6LxlE4D5JrTq75ctsEctMn"
+    },
+    {
+      "added_at": "2023-06-24 10:45:24",
+      "album": {
+        "name": "Switch (Alex Stein Remix)",
+        "url": "https://open.spotify.com/album/3zuD6J3tJHwg7Ed7b55y9F"
+      },
+      "artists": [
+        {
+          "name": "Beckers",
+          "url": "https://open.spotify.com/artist/0VWBw0F5CvBFM9xEqbfhDg"
+        },
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "duration_ms": 191363,
+      "name": "Switch - Alex Stein Remix",
+      "url": "https://open.spotify.com/track/6gNDuHiTw1wVJvYsId2PXb"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -65,44 +85,36 @@
       "url": "https://open.spotify.com/track/2H7ARzx8OaU9lJmPqBxZEh"
     },
     {
-      "added_at": "2023-05-30 08:11:59",
+      "added_at": "2023-06-24 10:44:00",
       "album": {
-        "name": "Binary Fusion",
-        "url": "https://open.spotify.com/album/5FgP0FVyAhVkU643BjjPWo"
+        "name": "I Want to See",
+        "url": "https://open.spotify.com/album/28HXkm4OCYHAc0udQFbiwu"
       },
       "artists": [
         {
-          "name": "Anna Tur",
-          "url": "https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH"
-        },
-        {
-          "name": "Metodi Hristov",
-          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
         }
       ],
-      "duration_ms": 208692,
-      "name": "Binary Fusion",
-      "url": "https://open.spotify.com/track/58JQX9mgorweze1ZDm4SGL"
+      "duration_ms": 241832,
+      "name": "It's Then",
+      "url": "https://open.spotify.com/track/4sHrSTZYaMKMFFNrSSpKEC"
     },
     {
-      "added_at": "2023-05-30 08:11:59",
+      "added_at": "2023-06-24 10:42:31",
       "album": {
-        "name": "Simulator",
-        "url": "https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ"
+        "name": "L`amore",
+        "url": "https://open.spotify.com/album/4uQ5cpHnL9qcmFJUCUFh3c"
       },
       "artists": [
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+          "name": "Luca Gio",
+          "url": "https://open.spotify.com/artist/6Ut850lwOhXnA0pXXG8cAE"
         }
       ],
-      "duration_ms": 220375,
-      "name": "Simulator",
-      "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
+      "duration_ms": 207272,
+      "name": "L`amore",
+      "url": "https://open.spotify.com/track/3ZqcOlShrrpaYFkot3CljS"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -127,18 +139,42 @@
     {
       "added_at": "2023-05-30 08:11:59",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/5zdyXn9AECuCPqiikwaNbo"
+        "name": "Something More",
+        "url": "https://open.spotify.com/album/0SHhPYk0boerswxE4eYy3s"
       },
       "artists": [
         {
-          "name": "Timmo",
-          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "Weska",
+          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
         }
       ],
-      "duration_ms": 374429,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/4dmwyyrtLrQxD6WeTsq6sn"
+      "duration_ms": 240458,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/4YMxL3YsA943fie0W7viZO"
+    },
+    {
+      "added_at": "2023-05-30 08:11:59",
+      "album": {
+        "name": "Binary Fusion",
+        "url": "https://open.spotify.com/album/5FgP0FVyAhVkU643BjjPWo"
+      },
+      "artists": [
+        {
+          "name": "Anna Tur",
+          "url": "https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH"
+        },
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "duration_ms": 208692,
+      "name": "Binary Fusion",
+      "url": "https://open.spotify.com/track/58JQX9mgorweze1ZDm4SGL"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -155,22 +191,6 @@
       "duration_ms": 216000,
       "name": "Storm",
       "url": "https://open.spotify.com/track/06TzfS2sYRaM2adMvJY37y"
-    },
-    {
-      "added_at": "2023-05-30 08:11:59",
-      "album": {
-        "name": "Parallel Reality",
-        "url": "https://open.spotify.com/album/7BxTPbx6Ytb1KwZYUtBFR1"
-      },
-      "artists": [
-        {
-          "name": "Boryana",
-          "url": "https://open.spotify.com/artist/0CJVXuK6oMLv0WzNnyaXle"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Parallel Reality",
-      "url": "https://open.spotify.com/track/6MWVz64BbIs55EFlmBUvrR"
     },
     {
       "added_at": "2023-05-30 08:11:59",
@@ -235,6 +255,22 @@
     {
       "added_at": "2023-05-30 08:11:59",
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/5zdyXn9AECuCPqiikwaNbo"
+      },
+      "artists": [
+        {
+          "name": "Timmo",
+          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
+        }
+      ],
+      "duration_ms": 374429,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/4dmwyyrtLrQxD6WeTsq6sn"
+    },
+    {
+      "added_at": "2023-05-30 08:11:59",
+      "album": {
         "name": "Outface (30 Yrs Jubilee Edition)",
         "url": "https://open.spotify.com/album/3RQBzD4YJS8scE9rgPHLVH"
       },
@@ -271,6 +307,26 @@
       "duration_ms": 227272,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/1AwDVCplzWNyqDV1Ss64sb"
+    },
+    {
+      "added_at": "2023-05-30 08:11:59",
+      "album": {
+        "name": "Simulator",
+        "url": "https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 220375,
+      "name": "Simulator",
+      "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
     },
     {
       "added_at": "2023-05-30 08:11:59",

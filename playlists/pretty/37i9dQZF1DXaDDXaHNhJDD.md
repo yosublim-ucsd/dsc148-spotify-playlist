@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: Romancham
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,205 likes - 59 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,285 likes - 59 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 11 | [Kannil Kannil \(From "Sita Ramam \(Malayalam\)"\)](https://open.spotify.com/track/63vWEUXhpgghscp9FgvCMG) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kannil Kannil \[From "Sita Ramam \(Malayalam\)"\]](https://open.spotify.com/album/7L7c5XPEi1cKDVzZD0S9Vd) | 3:52 |
 | 12 | [Mehabooba](https://open.spotify.com/track/3Hl8IV6SLR8h40GiJquKDU) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/6nmEkCuRxNz0SvM34IgVIh) | 3:32 |
 | 13 | [Uyiril Thodum](https://open.spotify.com/track/3bbzeZcfsK0ac7rdN2s7WX) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Anne Amie](https://open.spotify.com/artist/00PnAePD5EyBOROxnfX68x) | [Kumbalangi Nights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YYQL3f8f6rxowT4SO0eZ6) | 3:54 |
-| 14 | [Jaya Hey Theme Song](https://open.spotify.com/track/15LgXJzN4ddmksDZEL6O1T) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Sreya R](https://open.spotify.com/artist/4VJcxEgCCC63YCfwM8cwGz), [Aditya Ajay](https://open.spotify.com/artist/1WvGxvE9ea4pd0e3SkzfjT), [Sanjana J](https://open.spotify.com/artist/11Qqr9VLX7xlyqtNJ75Eje), [Gowri](https://open.spotify.com/artist/4ksCB8CK6miWPylwROvDiv) | [Jaya Jaya Jaya Jaya Hey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32eRc9e5zvIDEzp8n4hee8) | 2:12 |
+| 14 | [Jaya Hey Theme Song](https://open.spotify.com/track/402U7M2EhhkkotY2Z6Eok4) | [Sreya R](https://open.spotify.com/artist/4VJcxEgCCC63YCfwM8cwGz), [Aditya Ajay](https://open.spotify.com/artist/1WvGxvE9ea4pd0e3SkzfjT), [Sanjana J](https://open.spotify.com/artist/11Qqr9VLX7xlyqtNJ75Eje), [Gowri](https://open.spotify.com/artist/4ksCB8CK6miWPylwROvDiv) | [Jaya Jaya Jaya Jaya Hey](https://open.spotify.com/album/7psGB2EXqCgFUOGUHQ8ayv) | 2:15 |
 | 15 | [Thalatherichavar](https://open.spotify.com/track/5NDycJoUh9uaDVi0Hoqkh5) | [Zia Ul Haq](https://open.spotify.com/artist/3kPqgCCGlCGS9owID1l5n9), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Romancham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28TiGheWud6HqsjNZdnumJ) | 4:21 |
 | 16 | [Karinthol \(From "Rrr"\)](https://open.spotify.com/track/1AcQmRLLDNAjB6Zi3OgEt4) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Maragadhamani](https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64) | [Karinthol \(From "Rrr"\)](https://open.spotify.com/album/1OIdyZqmKKnFSQqVOm0uSe) | 3:34 |
 | 17 | [Ollulleru](https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU) | [Praseetha Chalakudy](https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu) | [Ajagajantharam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q) | 3:22 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 58 | [Vathilil](https://open.spotify.com/track/43K9FkL7gfLxLm69Da1UMF) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Ustad Hotel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/10bKk4j5D4qxYuW8lQKIUO) | 6:09 |
 | 59 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/0rzKjfUCW6jl9u4jOJHWns) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/7vUWdGwewQzd5S1HpgkBSC) | 3:38 |
 
-Snapshot ID: `MCw4MTIzYzlhMDkwODFiYjZlOGNkMjNmZjgwMTFlYWYxMjkzNzE5Mzg3`
+Snapshot ID: `MCxkMGIxZjI0YWZmOGQ2NjJkNzAwZTFmYmVkOTEzNGE1MmYyMjVhMjRl`

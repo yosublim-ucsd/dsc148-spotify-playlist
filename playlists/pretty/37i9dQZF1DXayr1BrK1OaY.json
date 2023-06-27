@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 172079,
+  "num_followers": 172258,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTNmZjQ4OThkNzA2YjY5ZjQ3NmQ1Yzg4MzZkNzk2MGQxZjUyODkx",
+  "snapshot_id": "MCw3Y2FkNzgzMGFkMDhiMmY1OGQ2NjhiZGJhNjRiODdjMTc1N2RiMTI4",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -187,18 +187,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+        "name": "The Weekend (Funk Wav Remix)",
+        "url": "https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
         }
       ],
-      "duration_ms": 578040,
-      "name": "Innerbloom",
-      "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
+      "duration_ms": 171805,
+      "name": "The Weekend - Funk Wav Remix",
+      "url": "https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -227,26 +235,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "The Weekend (Funk Wav Remix)",
-        "url": "https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Funk Wav",
-          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 171805,
-      "name": "The Weekend - Funk Wav Remix",
-      "url": "https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt"
+      "duration_ms": 578040,
+      "name": "Innerbloom",
+      "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -351,22 +351,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
       },
       "artists": [
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -383,6 +383,26 @@
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -435,26 +455,6 @@
       "duration_ms": 222605,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 198451,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 278080,
       "name": "Dancing On My Own - Radio Edit",
       "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 198451,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 244480,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 205440,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 244480,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Where did you go",
-        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Where did you go",
-      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Maze",
         "url": "https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 172129,
       "name": "YourLove",
       "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Envious",
+      "url": "https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "On My Knees (Adriatique Remix)",
         "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 452000,
       "name": "On My Knees - Adriatique Remix",
       "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "Envious",
-      "url": "https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs"
     },
     {
       "added_at": "2023-06-09 04:00:00",

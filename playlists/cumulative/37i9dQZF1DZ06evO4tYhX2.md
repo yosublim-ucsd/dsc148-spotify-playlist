@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-77 songs - 6 hr 44 min
+78 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Danzo en el Río \(En Vivo\)](https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:41 | 2022-09-14 |  |
 | [Dios en Casa](https://open.spotify.com/track/5EkAXS5cUl4WPgyq8lOXSW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 4:52 | 2022-09-14 | 2023-04-30 |
 | [Dios Es Más Grande](https://open.spotify.com/track/61nCXpmkNR2c196EaZhYgx) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Dios Es Más Grande](https://open.spotify.com/album/76T2IpejzH8cRehny18FeY) | 8:25 | 2022-09-14 |  |
-| [Dios Está Aqui \(En Vivo\)](https://open.spotify.com/track/5X5nNbkEKKb4Ew1ZWvw6V6) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 7:01 | 2022-09-14 |  |
+| [Dios Está Aqui \(En Vivo\)](https://open.spotify.com/track/5X5nNbkEKKb4Ew1ZWvw6V6) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 7:01 | 2022-09-14 | 2023-06-27 |
 | [Dios No Está Muerto](https://open.spotify.com/track/0XBYD82idDJOtcv4wXCzr5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Dios No Está Muerto](https://open.spotify.com/album/1IZIdFfVL4pqxBHVE6QonJ) | 4:15 | 2022-09-14 |  |
 | [El Poderoso de Israel \(En Vivo\)](https://open.spotify.com/track/1I2KbwfhA7HoevQOVhh91O) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 2:25 | 2022-09-14 |  |
 | [El Santo De Israel](https://open.spotify.com/track/2ugLJRJQWip01Kymf9XGgB) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 4:19 | 2022-09-14 | 2022-10-13 |
@@ -77,6 +77,7 @@
 | [Tu Nombre En Alto](https://open.spotify.com/track/0XGSyE6SQxhnUEneW5csyg) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Nombre En Alto](https://open.spotify.com/album/6uRbmxc6aomjmDX2Kq8QpW) | 5:07 | 2022-09-15 | 2022-10-09 |
 | [Tu Nombre Santo Es \(Feat\. Miel San Marcos\)](https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 7:49 | 2022-09-14 |  |
 | [Tumbas A Jardines \(feat\. Elevation Worship\)](https://open.spotify.com/track/0RHSDsa4EkiNBC0UJtGn7l) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Mil Generaciones](https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA) | 4:54 | 2022-09-14 |  |
+| [Viene Ya \(En Vivo\)](https://open.spotify.com/track/0ENmylIk4ML9ijKZdhml8T) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 3:51 | 2023-06-26 |  |
 | [Viento Recio \(En Vivo\)](https://open.spotify.com/track/6jBHRJLPqC90s97aj7TWxV) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:20 | 2022-09-15 | 2022-10-13 |
 | [Vino Celestial](https://open.spotify.com/track/2Idfgbdvy9O1Ii6KpHB3kV) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:03 | 2022-09-20 |  |
 | [Vivo Para Adorarte](https://open.spotify.com/track/7tMF8vNNCch6Fxbxex4ewn) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:45 | 2022-09-14 |  |

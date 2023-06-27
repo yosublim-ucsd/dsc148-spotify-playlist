@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,015 likes - 101 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,020 likes - 101 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 100 | [TURNIN' HEADS](https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [TURNIN' HEADS](https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50) | 2:56 |
 | 101 | [Gabo's Last Resort](https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Gabo's Last Resort / Hyakutake](https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV) | 3:48 |
 
-Snapshot ID: `MCxhZGZkMTRiODE2MWNjMjQyN2NmZDRjYjYyYmQwZGZiZWU2OWYwYWZh`
+Snapshot ID: `MCxmMTE1Y2Q3NDU4MGEwMmQwNTA4ZmFkYjlmNGZkMDU3YTA4ZjQwNzYx`

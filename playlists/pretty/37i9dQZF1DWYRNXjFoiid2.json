@@ -1,12 +1,12 @@
 {
   "description": "Today's best pop to fuel your gaming. Cover: BoyWithUke",
-  "num_followers": 273700,
+  "num_followers": 274238,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmQzMWMzMGI3N2RjNGIzNzhkN2VkYjg1OTY2ZGJkZTJlM2VhNTFk",
+  "snapshot_id": "MCw3NTI5YzI5ZWI1MjBkZWM4OGUxN2U5NjgwYzlkYjQzODk2MTEyZDQ5",
   "tracks": [
     {
       "added_at": "2023-06-23 04:48:19",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-06-23 04:48:19",
       "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169265,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
-    },
-    {
-      "added_at": "2023-06-23 04:48:19",
-      "album": {
         "name": "Substitution",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2023-06-23 04:48:19",
+      "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169265,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
     },
     {
       "added_at": "2023-06-23 04:48:19",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-06-23 04:48:19",
       "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
-    },
-    {
-      "added_at": "2023-06-23 04:48:19",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -711,22 +695,6 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2023-06-23 04:48:19",
-      "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 157497,
-      "name": "Mount Everest",
-      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
     },
     {
       "added_at": "2023-06-23 04:48:19",
@@ -751,6 +719,22 @@
     {
       "added_at": "2023-06-23 04:48:19",
       "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 157497,
+      "name": "Mount Everest",
+      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
+    },
+    {
+      "added_at": "2023-06-23 04:48:19",
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
+    },
+    {
+      "added_at": "2023-06-23 04:48:19",
+      "album": {
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
     },
     {
       "added_at": "2023-06-23 04:48:19",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2023-06-23 04:48:19",
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 139741,
-      "name": "WHATS POPPIN",
-      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
+      "duration_ms": 205484,
+      "name": "Come & Go (with Marshmello)",
+      "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
     },
     {
       "added_at": "2023-06-23 04:48:19",
@@ -1259,6 +1263,22 @@
       "duration_ms": 138293,
       "name": "Get Into It (Yuh)",
       "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
+    },
+    {
+      "added_at": "2023-06-23 04:48:19",
+      "album": {
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 139741,
+      "name": "WHATS POPPIN",
+      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
     },
     {
       "added_at": "2023-06-23 04:48:19",
@@ -1299,26 +1319,6 @@
     {
       "added_at": "2023-06-23 04:48:19",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 205484,
-      "name": "Come & Go (with Marshmello)",
-      "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
-    },
-    {
-      "added_at": "2023-06-23 04:48:19",
-      "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
@@ -1335,26 +1335,6 @@
       "duration_ms": 129817,
       "name": "Hot In It",
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
-    },
-    {
-      "added_at": "2023-06-23 04:48:19",
-      "album": {
-        "name": "Levitating (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
     },
     {
       "added_at": "2023-06-23 04:48:19",
@@ -1379,6 +1359,26 @@
       "duration_ms": 134544,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/04gSLX5nUhkKiMe1geeqnA"
+    },
+    {
+      "added_at": "2023-06-23 04:48:19",
+      "album": {
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
     },
     {
       "added_at": "2023-06-23 04:48:19",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-06-23 04:48:19",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 168020,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
-    },
-    {
-      "added_at": "2023-06-23 04:48:19",
-      "album": {
         "name": "everything sucks",
         "url": "https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 115401,
       "name": "everything sucks",
       "url": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK"
+    },
+    {
+      "added_at": "2023-06-23 04:48:19",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 168020,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
     },
     {
       "added_at": "2023-06-23 04:48:19",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-23 04:48:19",
       "album": {
-        "name": "Die 4 Me",
-        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 215021,
-      "name": "Die 4 Me",
-      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
-    },
-    {
-      "added_at": "2023-06-23 04:48:19",
-      "album": {
         "name": "Fight Back: The Collection",
         "url": "https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 200571,
       "name": "Fight Back",
       "url": "https://open.spotify.com/track/6KigD0mlF4VGDYiSEzAyYw"
+    },
+    {
+      "added_at": "2023-06-23 04:48:19",
+      "album": {
+        "name": "Die 4 Me",
+        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 215021,
+      "name": "Die 4 Me",
+      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
     },
     {
       "added_at": "2023-06-23 04:48:19",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-23 04:48:19",
       "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
-    },
-    {
-      "added_at": "2023-06-23 04:48:19",
-      "album": {
         "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
         "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 236883,
       "name": "Miss The Rage (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq"
+    },
+    {
+      "added_at": "2023-06-23 04:48:19",
+      "album": {
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
     },
     {
       "added_at": "2023-06-23 04:48:19",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2023-06-23 04:48:19",
       "album": {
-        "name": "Sick of U",
-        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 168676,
-      "name": "Sick of U (with Oliver Tree)",
-      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
-    },
-    {
-      "added_at": "2023-06-23 04:48:19",
-      "album": {
         "name": "BEN",
         "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 143375,
       "name": "Spicy (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
+    },
+    {
+      "added_at": "2023-06-23 04:48:19",
+      "album": {
+        "name": "Sick of U",
+        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 168676,
+      "name": "Sick of U (with Oliver Tree)",
+      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
     },
     {
       "added_at": "2023-06-23 04:48:19",

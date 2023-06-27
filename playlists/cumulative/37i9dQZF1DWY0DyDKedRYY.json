@@ -5627,6 +5627,28 @@
     },
     {
       "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163551,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB"
+    },
+    {
+      "album": {
         "name": "ahora A.K.A NAO",
         "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
       },

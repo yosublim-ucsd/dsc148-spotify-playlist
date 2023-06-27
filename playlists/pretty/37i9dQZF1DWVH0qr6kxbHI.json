@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 58916,
+  "num_followers": 58967,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmMyY2ExYmNiNTQ0MTMxNzQ3NGQ0ODc4NjkyMzE0ZWM2MWYyOTJj",
+  "snapshot_id": "MCw1MGNkYmQzNWIwZjQ0ODVkZjk5MmJmZGYwZTFkMTEwZDUyZjVhN2Y4",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Marinero De Luces",
-        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Hoy Quiero Confesarme",
-      "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Un Ramito De Violetas",
         "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Marinero De Luces",
+        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Hoy Quiero Confesarme",
+      "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 261813,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "15 Exitos Originales Con Rocio Jurado",
-        "url": "https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo Jurado",
-          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -455,6 +439,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "15 Exitos Originales Con Rocio Jurado",
+        "url": "https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Jurado",
+          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD"
       },
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "En directo",
-        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
       "artists": [
         {
-          "name": "Paloma San Basilio",
-          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
         }
       ],
-      "duration_ms": 252213,
-      "name": "Beso a beso... dulcemente",
-      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+        "name": "En directo",
+        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
       },
       "artists": [
         {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+          "name": "Paloma San Basilio",
+          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
         }
       ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+      "duration_ms": 252213,
+      "name": "Beso a beso... dulcemente",
+      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Dama Dama (Album Version)",
+      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "20 A\u00f1os De Amor",
         "url": "https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 266986,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Oraciones de amor",
-        "url": "https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 281440,
-      "name": "Te amar\u00e9, te amo, y te querr\u00e9",
-      "url": "https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Oraciones de amor",
+        "url": "https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg"
+      },
+      "artists": [
+        {
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+        }
+      ],
+      "duration_ms": 281440,
+      "name": "Te amar\u00e9, te amo, y te querr\u00e9",
+      "url": "https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Rocio Siempre",
         "url": "https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn"
       },
@@ -659,18 +675,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Cecilia",
-        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+        "name": "Grandes exitos",
+        "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
       },
       "artists": [
         {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Dama Dama (Album Version)",
-      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
+      "duration_ms": 240200,
+      "name": "Sarandonga",
+      "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -687,22 +703,6 @@
       "duration_ms": 305960,
       "name": "Se Me Enamora el Alma",
       "url": "https://open.spotify.com/track/6FG8TkQCTo5TfOQ6bG5Fxf"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Grandes exitos",
-        "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
-      },
-      "artists": [
-        {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Sarandonga",
-      "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Una estrella en mi jard\u00edn",
-        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 303826,
-      "name": "Una estrella en mi jard\u00edn",
-      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Banderas De Nadie",
         "url": "https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr"
       },
@@ -787,22 +771,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Mis Recuerdos",
-        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
-      },
-      "artists": [
-        {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
         "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 215626,
       "name": "Y se amaron dos caballos",
       "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Una estrella en mi jard\u00edn",
+        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
+      },
+      "artists": [
+        {
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+        }
+      ],
+      "duration_ms": 303826,
+      "name": "Una estrella en mi jard\u00edn",
+      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Mis Recuerdos",
+        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Esc\u00fachame",
-        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Que seas feliz",
-      "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Canciones De Oro",
         "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Esc\u00fachame",
+        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
+      },
+      "artists": [
+        {
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Que seas feliz",
+      "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
       },
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Todo Vuelve",
+        "url": "https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 209479,
+      "name": "Tic-Tac",
+      "url": "https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "De Un Mundo Raro (Cantes Por Chavela)",
         "url": "https://open.spotify.com/album/6zbwiYItJzlQQQ9ee48x0W"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 191973,
       "name": "En Un Mundo Raro",
       "url": "https://open.spotify.com/track/7pTetUpUv25OmBHfcnKpJa"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Todo Vuelve",
-        "url": "https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 209479,
-      "name": "Tic-Tac",
-      "url": "https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1055,26 +1055,6 @@
       "duration_ms": 222125,
       "name": "La Violetera - Remastered",
       "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "A Bola De Nieve",
-        "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
-      },
-      "artists": [
-        {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
-        }
-      ],
-      "duration_ms": 262811,
-      "name": "Alma M\u00eda",
-      "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1131,18 +1111,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Mis Mejores Canciones, Vol. I",
-        "url": "https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF"
+        "name": "A Bola De Nieve",
+        "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
       },
       "artists": [
         {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
         }
       ],
-      "duration_ms": 241986,
-      "name": "C\u00e1ntame",
-      "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
+      "duration_ms": 262811,
+      "name": "Alma M\u00eda",
+      "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 211746,
       "name": "Los Nardos",
       "url": "https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Mis Mejores Canciones, Vol. I",
+        "url": "https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "C\u00e1ntame",
+      "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
     },
     {
       "added_at": "2022-11-03 23:00:00",

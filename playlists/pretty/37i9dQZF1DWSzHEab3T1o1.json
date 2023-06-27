@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjY2MDU1YTRlNWRjZmI1N2JlODI0NDBlMmFmYmIzOWY5NWQyN2Fm",
+  "snapshot_id": "MCxiMTBhMGZmYTU4MDAyMmEzNzJkODE0MzU1YmJmODI0MTU4YTg4OWU4",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -239,6 +239,34 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt"
       },
@@ -301,58 +329,6 @@
       "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
     },
     {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "I Feel Good",
-        "url": "https://open.spotify.com/album/2PLkTYhmHH6Ew40EDLivS9"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Anthony Watts",
-          "url": "https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1"
-        },
-        {
-          "name": "DJ White Shadow",
-          "url": "https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/2hZTeA6c94dBoiuGcBv3R0"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
       "added_at": "2022-01-21 04:37:53",
       "album": {
         "name": "Un Ratito",
@@ -383,6 +359,86 @@
       "duration_ms": 194906,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+        "url": "https://open.spotify.com/album/0nfzbzXtyqNclDemdScFnT"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/7K5tOFxje8nlunmexOmWgo"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/2PLkTYhmHH6Ew40EDLivS9"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Anthony Watts",
+          "url": "https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1"
+        },
+        {
+          "name": "DJ White Shadow",
+          "url": "https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/2hZTeA6c94dBoiuGcBv3R0"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Free The Universe (Extended Version)",
+        "url": "https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "The Flexican",
+          "url": "https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN"
+        },
+        {
+          "name": "FS Green",
+          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+        }
+      ],
+      "duration_ms": 269146,
+      "name": "Watch Out For This (Bumaye)",
+      "url": "https://open.spotify.com/track/3j9o0zUoyGNXkijNSyRyBI"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -435,34 +491,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Free The Universe (Extended Version)",
-        "url": "https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "The Flexican",
-          "url": "https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN"
-        },
-        {
-          "name": "FS Green",
-          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
-        }
-      ],
-      "duration_ms": 269146,
-      "name": "Watch Out For This (Bumaye)",
-      "url": "https://open.spotify.com/track/3j9o0zUoyGNXkijNSyRyBI"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Sad Song (feat. TINI)",
         "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
       },
@@ -503,26 +531,22 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Que Rica (Tocame)",
-        "url": "https://open.spotify.com/album/2AW6HCRfGox94vO7GMQSLD"
+        "name": "Selfish Love (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
-          "name": "Sak Noel",
-          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
-        },
-        {
-          "name": "Salvi",
-          "url": "https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Que Rica (Tocame)",
-      "url": "https://open.spotify.com/track/1rNwUMlrGFUMn5LaYy71Gq"
+      "duration_ms": 168648,
+      "name": "Selfish Love (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -603,30 +627,26 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-        "url": "https://open.spotify.com/album/0nfzbzXtyqNclDemdScFnT"
+        "name": "Que Rica (Tocame)",
+        "url": "https://open.spotify.com/album/2AW6HCRfGox94vO7GMQSLD"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
         },
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Salvi",
+          "url": "https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat"
         }
       ],
-      "duration_ms": 225600,
-      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-      "url": "https://open.spotify.com/track/7K5tOFxje8nlunmexOmWgo"
+      "duration_ms": 157500,
+      "name": "Que Rica (Tocame)",
+      "url": "https://open.spotify.com/track/1rNwUMlrGFUMn5LaYy71Gq"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -723,26 +743,6 @@
       "duration_ms": 168158,
       "name": "Maldad (with Maluma)",
       "url": "https://open.spotify.com/track/35HXnvswjdVWjQRmqtXPJD"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Selfish Love (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Selfish Love (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1079,54 +1079,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Know No Better",
-        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 173909,
-      "name": "Buscando Huellas",
-      "url": "https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Mi Gente (Alesso Remix)",
-        "url": "https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Mi Gente - Alesso Remix",
-      "url": "https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "No Te Enamores (Alan Walker Remix)",
         "url": "https://open.spotify.com/album/6e1L4cAZHKtG7AcbnkE6g4"
       },
@@ -1159,6 +1111,54 @@
       "duration_ms": 283187,
       "name": "No Te Enamores - Alan Walker Remix",
       "url": "https://open.spotify.com/track/2tfvxvWE1EwdHR6rAUTzGa"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "Buscando Huellas",
+      "url": "https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Pues (with Luis Fonsi & Sean Paul)",
+        "url": "https://open.spotify.com/album/03HdtkcGhFu7BdOGdFV3Hf"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 127333,
+      "name": "Pues (with Luis Fonsi & Sean Paul)",
+      "url": "https://open.spotify.com/track/0H4olUjRf0vXXuQkpKnJmr"
     }
   ],
   "unique_name": "Global Dance Crossover",

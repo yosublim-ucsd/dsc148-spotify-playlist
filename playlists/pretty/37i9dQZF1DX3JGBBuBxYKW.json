@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 82778,
+  "num_followers": 82790,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWY3M2M1OGMwMTUxZThiZmM1ZDg4MThkZTY4OTM0MjE5NTkwMDlk",
+  "snapshot_id": "MCw5ZGEzNTA3MjgxZTYyYWY3NzI0ZDZlMmU4NTgyYzBhZjM1ZDUzMjlj",
   "tracks": [
     {
       "added_at": "2023-04-06 00:51:46",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -187,6 +171,42 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "Ten\u00edas Que Ser T\u00fa",
+        "url": "https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 141829,
+      "name": "Ten\u00edas Que Ser T\u00fa",
+      "url": "https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -215,26 +235,6 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Ten\u00edas Que Ser T\u00fa",
-        "url": "https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 141829,
-      "name": "Ten\u00edas Que Ser T\u00fa",
-      "url": "https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
         "name": "Viru Kumbieron",
         "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
       },
@@ -251,18 +251,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+        "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
+        "url": "https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+      "duration_ms": 217810,
+      "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
+      "url": "https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -279,6 +283,22 @@
       "duration_ms": 160856,
       "name": "ADI\u00d3S",
       "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -327,26 +347,6 @@
       "duration_ms": 161906,
       "name": "Baila Esta Cumbia",
       "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
-        "url": "https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 217810,
-      "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
-      "url": "https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -423,18 +423,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Tiempo de Cambio",
-        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
+        "name": "Miau",
+        "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "Leo Garc\u00eda",
+          "url": "https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb"
         }
       ],
-      "duration_ms": 202946,
-      "name": "Fuera",
-      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
+      "duration_ms": 205613,
+      "name": "Tomate el Palo (feat. Leo Garc\u00eda)",
+      "url": "https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -455,22 +459,18 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Miau",
-        "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
+        "name": "Tiempo de Cambio",
+        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
       },
       "artists": [
         {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "Leo Garc\u00eda",
-          "url": "https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 205613,
-      "name": "Tomate el Palo (feat. Leo Garc\u00eda)",
-      "url": "https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b"
+      "duration_ms": 202946,
+      "name": "Fuera",
+      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Viru Kumbieron",
-        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 250439,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
         "name": "No Te das Cuenta",
         "url": "https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6"
+        "name": "Viru Kumbieron",
+        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
       },
       "artists": [
         {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
         }
       ],
-      "duration_ms": 248466,
-      "name": "El Club de Mujeres Enga\u00f1adas",
-      "url": "https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl"
+      "duration_ms": 250439,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -663,6 +647,22 @@
       "duration_ms": 336000,
       "name": "Qui\u00e9reme - Cuarteto",
       "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6"
+      },
+      "artists": [
+        {
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+        }
+      ],
+      "duration_ms": 248466,
+      "name": "El Club de Mujeres Enga\u00f1adas",
+      "url": "https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -755,6 +755,38 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
+        "name": "En Peligro de Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 221823,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "Amandititita",
+        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
+      },
+      "artists": [
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Metrosexual",
+      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
         "name": "Dos Infieles",
         "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
       },
@@ -791,18 +823,18 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "En Peligro de Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
+        "name": "Noche Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj"
       },
       "artists": [
         {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
         }
       ],
-      "duration_ms": 221823,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
+      "duration_ms": 217626,
+      "name": "En tu pelo",
+      "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -819,38 +851,6 @@
       "duration_ms": 170192,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "Amandititita",
-        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
-      },
-      "artists": [
-        {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Metrosexual",
-      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "Noche Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj"
-      },
-      "artists": [
-        {
-          "name": "Lia Crucet",
-          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "En tu pelo",
-      "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -883,22 +883,6 @@
       "duration_ms": 219282,
       "name": "La Chismeadera",
       "url": "https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "Olv\u00eddate (Cuarteto)",
-        "url": "https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Olv\u00eddate - Cuarteto",
-      "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -955,22 +939,6 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Ya No Cabes en Mi Vida",
-        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Ya No Cabes en Mi Vida",
-      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
         "name": "Es Mi Culpa",
         "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
       },
@@ -983,6 +951,22 @@
       "duration_ms": 215067,
       "name": "Es Mi Culpa",
       "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "Olv\u00eddate (Cuarteto)",
+        "url": "https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Olv\u00eddate - Cuarteto",
+      "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -1019,26 +1003,6 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Abr\u00e1zame y B\u00e9same",
-        "url": "https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "A.B. Quintanilla III",
-          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
-        }
-      ],
-      "duration_ms": 180748,
-      "name": "Abr\u00e1zame y B\u00e9same",
-      "url": "https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
         "name": "Encanto Tropical",
         "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
       },
@@ -1067,6 +1031,42 @@
       "duration_ms": 203973,
       "name": "Lo Que Fui para Ti",
       "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "Ya No Cabes en Mi Vida",
+        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Ya No Cabes en Mi Vida",
+      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "Abr\u00e1zame y B\u00e9same",
+        "url": "https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        }
+      ],
+      "duration_ms": 180748,
+      "name": "Abr\u00e1zame y B\u00e9same",
+      "url": "https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG"
     },
     {
       "added_at": "2023-04-06 00:51:46",

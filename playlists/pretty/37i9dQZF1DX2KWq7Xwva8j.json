@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marta Santos",
-  "num_followers": 22421,
+  "num_followers": 22436,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzZkZmRhMGI4ZmZmZmIyM2VjN2MxMDM3ZjBjOTMwZDkyZWMwYWY5",
+  "snapshot_id": "MCw2OGIxZDFjMDkwZjk0ZGUxNzQ0OWVmN2U3NmYwOTc2MTNjYmM3Y2Rl",
   "tracks": [
     {
       "added_at": "2023-05-19 09:08:21",
@@ -107,26 +107,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "1371 KM",
-        "url": "https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Came Beats",
-          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
-        }
-      ],
-      "duration_ms": 192122,
-      "name": "Polaris",
-      "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "ME MATA(S)",
         "url": "https://open.spotify.com/album/6uUM0HqOhv288VOY0gPvJR"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 184533,
       "name": "ME MATA(S)",
       "url": "https://open.spotify.com/track/6yFacR2XoribBixsZvXxvg"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "1371 KM",
+        "url": "https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        }
+      ],
+      "duration_ms": 192122,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -179,6 +179,22 @@
       "duration_ms": 160666,
       "name": "ZAHARA",
       "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "si tiene que ser ser\u00e1.",
+        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 201998,
+      "name": "si tiene que ser ser\u00e1.",
+      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -223,22 +239,6 @@
       "duration_ms": 173259,
       "name": "mejores amigos",
       "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "si tiene que ser ser\u00e1.",
-        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 201998,
-      "name": "si tiene que ser ser\u00e1.",
-      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Alto Cielo",
-        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
-      },
-      "artists": [
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        }
-      ],
-      "duration_ms": 291873,
-      "name": "Con Miedo a Ti",
-      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "Novia del A\u00f1o",
         "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
       },
@@ -439,26 +423,6 @@
       "duration_ms": 176000,
       "name": "hey, goodbye",
       "url": "https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "Desastre de persona",
-        "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        },
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        }
-      ],
-      "duration_ms": 173721,
-      "name": "Desastre de persona",
-      "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -499,6 +463,42 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
+        "name": "Desastre de persona",
+        "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        },
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 173721,
+      "name": "Desastre de persona",
+      "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "Alto Cielo",
+        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 291873,
+      "name": "Con Miedo a Ti",
+      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
         "name": "Veo tan Dentro",
         "url": "https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 239933,
       "name": "Veo tan Dentro",
       "url": "https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "por qu\u00e9 vuelvo a quererte?",
-        "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "por qu\u00e9 vuelvo a quererte?",
-      "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -563,6 +547,22 @@
       "duration_ms": 165882,
       "name": "Ca\u00edmos las dos",
       "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "por qu\u00e9 vuelvo a quererte?",
+        "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "por qu\u00e9 vuelvo a quererte?",
+      "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
+        "name": "J*DER",
+        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 127661,
+      "name": "J*DER",
+      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
         "name": "ya se me pasar\u00e1",
         "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
       },
@@ -703,38 +719,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Entre T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva"
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
       },
       "artists": [
         {
           "name": "Sebasti\u00e1n Cort\u00e9s",
           "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        },
-        {
-          "name": "Delgao",
-          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
         }
       ],
-      "duration_ms": 199967,
-      "name": "Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/2DymeTXhOR1Vyxe1fbLvtv"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "J*DER",
-        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 127661,
-      "name": "J*DER",
-      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
+      "duration_ms": 199148,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -807,22 +803,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 199148,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "Como si nada",
         "url": "https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 131871,
       "name": "friki",
       "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "Entre T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        },
+        {
+          "name": "Delgao",
+          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
+        }
+      ],
+      "duration_ms": 199967,
+      "name": "Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/2DymeTXhOR1Vyxe1fbLvtv"
     },
     {
       "added_at": "2023-05-19 09:08:21",

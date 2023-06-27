@@ -1943,6 +1943,28 @@
     },
     {
       "album": {
+        "name": "Priya",
+        "url": "https://open.spotify.com/album/7gm0Xh4k3ax15aFHUuptGu"
+      },
+      "artists": [
+        {
+          "name": "Harsha Prawin",
+          "url": "https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1"
+        },
+        {
+          "name": "Aditya Bheemathati",
+          "url": "https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195291,
+      "name": "Priya",
+      "url": "https://open.spotify.com/track/5EsYWuhhGZQEj1GZmxF4l3"
+    },
+    {
+      "album": {
         "name": "Priyamvadha",
         "url": "https://open.spotify.com/album/6CpYGQNXbnaWwNcOmenKpr"
       },

@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2000s.
 
-113 songs - 7 hr 16 min
+114 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Love Generation \- Radio Edit](https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [Love Generation \(Radio Edit\)](https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt) | 3:24 | 2021-04-29 |  |
 | [Love Is Gone](https://open.spotify.com/track/03oK265y87YNXHIQSOAWOp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Chris Willis](https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly) | [Pop Life](https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG) | 3:06 | 2021-04-29 |  |
 | [Make Luv](https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH) | [Room 5](https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq), [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Music & You](https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH) | 3:32 | 2021-04-29 |  |
-| [Moan \- Trentemøller Remix](https://open.spotify.com/track/7a4BMX5kI8P2CqXZrwoyrC) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [Moan](https://open.spotify.com/album/5VCaYL3hnkXlbRKuDXyvzU) | 7:25 | 2021-04-29 |  |
+| [Moan \- Trentemøller Remix](https://open.spotify.com/track/7a4BMX5kI8P2CqXZrwoyrC) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [Moan](https://open.spotify.com/album/5VCaYL3hnkXlbRKuDXyvzU) | 7:25 | 2021-04-29 | 2023-06-27 |
 | [Mr\. Vain Recall \- Radio Edit](https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain Recall](https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO) | 3:33 | 2021-04-29 |  |
 | [Nessaja](https://open.spotify.com/track/4kFmRFE9YzjKnUCbXQKnag) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:28 | 2021-04-29 | 2023-05-13 |
 | [Nessaja](https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Encore \- Live And Direct](https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b) | 3:28 | 2021-04-29 |  |
@@ -112,6 +112,7 @@
 | [Voyage voyage](https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Free](https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9) | 3:04 | 2021-04-29 |  |
 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ) | 3:23 | 2021-04-29 |  |
 | [Wearing My Rolex \- Radio Edit](https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [See Clear Now](https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR) | 2:50 | 2021-04-29 |  |
+| [Weekend!](https://open.spotify.com/track/5aZUGyNzLjucKqp4WCqY6O) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [The Stadium Techno Experience](https://open.spotify.com/album/6SLDe9QuNJd0L9XoaPOa9R) | 3:32 | 2021-04-29 |  |
 | [Weekend!](https://open.spotify.com/track/6Jx4JErTfpI67ZUn7bIBTW) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Jumping All over the World \- Whatever You Want](https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy) | 3:34 | 2021-04-29 | 2023-06-19 |
 | [Weekend!](https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore \(Remastered\)](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:35 | 2021-04-29 | 2023-04-29 |
 | [Welcome to the Club \- Video Edit](https://open.spotify.com/track/7k1ec3h9VeecxLSUbnGxAN) | [Manian](https://open.spotify.com/artist/2zgkC2iqDlq3FcI2B7ChnD) | [Zoopreme Volume 01](https://open.spotify.com/album/0mEy3RBuVUwWFrx5yfM897) | 3:12 | 2021-04-29 |  |

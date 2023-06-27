@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,708 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,859 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Cherub](https://open.spotify.com/track/50WYoOH9qyAUQmsgn7bdT5) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Sewer Rat](https://open.spotify.com/album/5ct3lmfTmWd2MRgxsF6LHJ) | 2:39 |
 | 100 | [Rock On \- Spotify Singles \- From "The Muppets Mayhem"](https://open.spotify.com/track/6vwxGKQc5AWeV04dYQ9Ev2) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [Rock On \- Spotify Singles \(From "The Muppets Mayhem"\)](https://open.spotify.com/album/6H66bjvFnbFOnzkCstWJup) | 3:20 |
 
-Snapshot ID: `MCxmOTZkNjRlYTczMTA3NDMzNTdiMzAwZmVlMjQ3OWFlY2ZjMmYxMTg0`
+Snapshot ID: `MCwyYTJhOGFmYzRlMDFmNWJiZTkxMjI3OGZhNTA1MmVmNmRjZjQ5MGJk`

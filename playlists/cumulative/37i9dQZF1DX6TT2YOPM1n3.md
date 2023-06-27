@@ -4,7 +4,7 @@
 
 > Trending Pakistani tracks under one roof\. Cover: Asim Azhar, Shae Gill
 
-65 songs - 4 hr 3 min
+66 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Hona Tha Pyar](https://open.spotify.com/track/0KSOLEBixnBYIKNHF1VbzF) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Bol \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AXmb2bA5LW5DclaDElH4l) | 3:41 | 2023-05-04 |  |
 | [Ik Lamha](https://open.spotify.com/track/6KtSNVgCmQEvDgIuHoXAkT) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Main Tera](https://open.spotify.com/album/47nAxBUhyce2q5v8lN1H2v) | 4:18 | 2023-05-04 | 2023-05-09 |
 | [Ik Lamha](https://open.spotify.com/track/70MVLulHguwdhGo7100hsU) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Ik Lamha](https://open.spotify.com/album/6bmCb8UcDltIrFV0mCFaWR) | 4:18 | 2023-05-04 |  |
+| [Introduction](https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Introduction](https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5) | 1:56 | 2023-06-26 |  |
 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2023-05-04 |  |
 | [Jal Jaane Do](https://open.spotify.com/track/3Q7nCNuWLRnj77oo5hLRdV) | [Shayan](https://open.spotify.com/artist/198gd3Lh4ZCFuabsyn7jM3), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN) | [Jal Jaane Do](https://open.spotify.com/album/1pl2bOP3TrhPo132bIV3CJ) | 3:53 | 2023-05-04 | 2023-05-09 |
 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 | 2023-05-04 |  |
@@ -58,7 +59,7 @@
 | [Moonrise](https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise](https://open.spotify.com/album/1Q48FsRM9uF3VvGYaji5bE) | 2:49 | 2023-05-04 |  |
 | [Na Cher Malangaan Nu](https://open.spotify.com/track/2mkzhEH79XteEuzHjenNeg) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Na Cher Malangaan Nu](https://open.spotify.com/album/7a4HZHmiFNNqIWt37271SG) | 3:50 | 2023-05-04 |  |
 | [O Saathi](https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [O Saathi \(From "Baaghi 2"\)](https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A) | 4:11 | 2023-05-04 | 2023-05-23 |
-| [Pardesi](https://open.spotify.com/track/6Cc4aWnRuCBUWK320qu21z) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Pardesi](https://open.spotify.com/album/4pa9j1sjBWANSmeRGrO1qS) | 3:54 | 2023-06-20 |  |
+| [Pardesi](https://open.spotify.com/track/6Cc4aWnRuCBUWK320qu21z) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Pardesi](https://open.spotify.com/album/4pa9j1sjBWANSmeRGrO1qS) | 3:54 | 2023-06-20 | 2023-06-27 |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2023-05-04 |  |
 | [Peechay Hutt](https://open.spotify.com/track/6ePcfMCQ7uUKwAamUiVtXL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Peechay Hutt](https://open.spotify.com/album/3rkEv4z7rgqYXgP0aLsBm0) | 3:45 | 2023-05-04 |  |
 | [Pehli Nazar Mein](https://open.spotify.com/track/17opN752ZQpNuoptelsNQ1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Race \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZA52EwvGmwTQvHaLujhry) | 5:12 | 2023-05-04 | 2023-06-13 |
@@ -72,6 +73,6 @@
 | [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2023-05-04 |  |
 | [Wo Humsafar Tha \- From "Humsafar"](https://open.spotify.com/track/2z8o3kYaRs2nZGxnZ691SJ) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Wo Humsafar Tha \(From "Humsafar"\)](https://open.spotify.com/album/36UC2snz7H2x2YaU2YSEr3) | 6:26 | 2023-05-04 | 2023-05-23 |
 | [Woh Lamhe \- Remix](https://open.spotify.com/track/723pP4FLUQv1qSAnQtgl78) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Zeher \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PsWxlYQv7GXgaoIJOFL13) | 5:20 | 2023-05-04 | 2023-05-23 |
-| [Yeh Jism](https://open.spotify.com/track/4sRcdrQrFilYpMIybCwgKU) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Jism 2](https://open.spotify.com/album/0jnPWcGep7AperEjb23Ors) | 3:50 | 2023-05-04 |  |
+| [Yeh Jism](https://open.spotify.com/track/4sRcdrQrFilYpMIybCwgKU) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Jism 2](https://open.spotify.com/album/0jnPWcGep7AperEjb23Ors) | 3:50 | 2023-05-04 | 2023-06-27 |
 
 \*This playlist was first scraped on 2023-05-05. Prior content cannot be recovered.

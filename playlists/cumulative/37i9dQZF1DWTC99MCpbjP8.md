@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-467 songs - 20 hr 17 min
+468 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2022-11-14 | 2023-03-29 |
 | [Weightless](https://open.spotify.com/track/3yXQyJLMVElujd88Gt4fAf) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Weightless](https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s) | 2:18 | 2022-04-22 | 2023-01-27 |
 | [What We Hope For](https://open.spotify.com/track/7onCPDRFcCglFj03sdUhf9) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [What We Hope For](https://open.spotify.com/album/7t0oZryHJJnYR2lwQCLDiY) | 3:16 | 2022-04-22 |  |
+| [Whatever Will Be](https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Whatever Will Be](https://open.spotify.com/album/1lQs3tvAI1Sqh2kPAnCR56) | 1:52 | 2023-06-26 |  |
 | [When It Rains It Pours](https://open.spotify.com/track/2Dasbncj88VgX5FKh2ZVzs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [A Drop in the Ocean](https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM) | 2:28 | 2022-04-22 | 2023-04-19 |
 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 | 2022-04-22 | 2022-05-28 |
 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-04-22 | 2022-07-28 |

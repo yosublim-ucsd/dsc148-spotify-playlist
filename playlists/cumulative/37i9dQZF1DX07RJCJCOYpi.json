@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 230130,
       "name": "CORAZONES ROTOS",
       "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 164020,
       "name": "DINAMITA",
       "url": "https://open.spotify.com/track/0AfSJkWMcYgtRbNY5WbLK2"
@@ -1454,6 +1454,24 @@
       "duration_ms": 224727,
       "name": "FUGAZ",
       "url": "https://open.spotify.com/track/0EJOfbdV0cfKmKSJywNGL4"
+    },
+    {
+      "album": {
+        "name": "Funk Rave",
+        "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147201,
+      "name": "Funk Rave",
+      "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
     },
     {
       "album": {
@@ -3641,6 +3659,28 @@
     },
     {
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/3eXpLdzG1MDgKVq6Hg7HE4"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163265,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/443yevePndkhSsyk14tBIu"
+    },
+    {
+      "album": {
         "name": "Provenza",
         "url": "https://open.spotify.com/album/3KJslj1QLLn1VO6QZPcSie"
       },
@@ -3834,10 +3874,32 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 189677,
       "name": "R U 4REAL (feat. Marina Maximilian)",
       "url": "https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E"
+    },
+    {
+      "album": {
+        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191254,
+      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
     },
     {
       "album": {

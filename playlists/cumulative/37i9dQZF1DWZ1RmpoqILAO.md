@@ -4,7 +4,7 @@
 
 > \*pinegrove shuffle intensifies\* Cover: boygenius
 
-114 songs - 7 hr 48 min
+115 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Indiana](https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:37 | 2023-02-23 |  |
 | [Ingrid](https://open.spotify.com/track/3b0W6ug1PR4THfn1WZ4uix) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Vivien Vaucher](https://open.spotify.com/artist/6vxUFxsCMM6r1sFrdMXeJY) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:13 | 2023-02-23 |  |
 | [It's Alive!](https://open.spotify.com/track/6yFefXwRZGvqqt9R6Xc879) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [It's Alive!](https://open.spotify.com/album/3lwc2UXhl9kklsEkzw1cI4) | 3:24 | 2023-06-09 |  |
+| [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 | 2023-06-26 |  |
 | [Krawn the Destroyer](https://open.spotify.com/track/0kSs2zmoa2t9YrXzEDHSYJ) | [Sexy Girls](https://open.spotify.com/artist/2Mjqb4HQpRBuDjn84nOYS9) | [Satan's Hands](https://open.spotify.com/album/0U5jAkOEFn9XitR5BWjdCZ) | 5:58 | 2023-05-19 |  |
 | [Lay Me Down](https://open.spotify.com/track/4NpDlGwphr2dyvTarnuwn0) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Lay Me Down](https://open.spotify.com/album/0zJRL59dhMIe2PbFJDQN1p) | 4:07 | 2023-05-03 |  |
 | [Long Wave](https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Longwave](https://open.spotify.com/album/7uo0oJVjhuw0fIGltmSPcs) | 5:23 | 2023-05-10 |  |

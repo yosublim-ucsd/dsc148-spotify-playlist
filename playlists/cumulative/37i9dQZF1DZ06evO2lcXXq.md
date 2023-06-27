@@ -4,7 +4,7 @@
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-46 songs - 3 hr 7 min
+47 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Close \- Live](https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 5:08 | 2023-03-10 |  |
 | [Come Alive \(Dry Bones\)](https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:55 | 2023-03-10 |  |
 | [Come Back Home](https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Back Home](https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP) | 2:59 | 2023-03-10 |  |
-| [Don't Believe Them](https://open.spotify.com/track/0ovV7C3OTmumkPkeo6O5qm) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:46 | 2023-05-14 |  |
+| [Don't Believe Them](https://open.spotify.com/track/0ovV7C3OTmumkPkeo6O5qm) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:46 | 2023-05-14 | 2023-06-27 |
 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 | 2023-03-10 |  |
 | [Ego](https://open.spotify.com/track/3W2SRx2t7UXRWqkV0qW30U) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:28 | 2023-05-14 |  |
 | [First](https://open.spotify.com/track/78lhRaXPbHIlpJBHjw8MJa) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:48 | 2023-03-10 |  |
@@ -25,10 +25,11 @@
 | [I Am Yours](https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:58 | 2023-03-10 |  |
 | [I Won't Let You Go](https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [I Won't Let You Go](https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R) | 4:07 | 2023-03-10 |  |
 | [It Is Well](https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [North Point Music: Beginnings](https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA) | 4:10 | 2023-03-10 |  |
-| [Light of the World](https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Light of the World](https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB) | 4:19 | 2023-03-13 |  |
+| [Light of the World](https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Light of the World](https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB) | 4:19 | 2023-03-13 | 2023-06-27 |
 | [Look Up Child](https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:03 | 2023-03-10 |  |
 | [Love Like This](https://open.spotify.com/track/3DBu7OhZ58syQ7PotgqXV2) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:14 | 2023-03-10 |  |
-| [New](https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [New](https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs) | 2:56 | 2023-04-29 |  |
+| [New](https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [New](https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs) | 2:56 | 2023-04-29 | 2023-06-27 |
+| [New](https://open.spotify.com/track/5mTZyrEQnncaxziYXyJ9WK) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 2:56 | 2023-06-26 |  |
 | [Now is Forever \- Bonus Track](https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be \(Deluxe Edition\)](https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo) | 3:12 | 2023-03-10 |  |
 | [O' Lord \- Radio Version](https://open.spotify.com/track/357bDEZq4rcIFHPiaS8HwP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [O' Lord \(Radio Version\)](https://open.spotify.com/album/5NT627KAFeQP8g6zXPl3Iy) | 3:30 | 2023-03-10 |  |
 | [Once and for All](https://open.spotify.com/track/4EaGCr9Q4ztV8yAkpK5zNc) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 4:15 | 2023-03-10 | 2023-05-04 |

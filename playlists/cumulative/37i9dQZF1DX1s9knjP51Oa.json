@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 126000,
       "name": "a wild place",
       "url": "https://open.spotify.com/track/2UJttBzaAe8bCjuNSIi35b"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 128000,
       "name": "April Sun",
       "url": "https://open.spotify.com/track/3oOUb7QryUQhLv2ZpLPSI8"
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 99567,
       "name": "Emerald Enlightenment",
       "url": "https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0"
@@ -11226,7 +11226,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 146000,
       "name": "Two Steps Forward",
       "url": "https://open.spotify.com/track/63YGmJOvR3ARYmWmR5e0hz"
@@ -11900,6 +11900,42 @@
       "duration_ms": 122245,
       "name": "What It Should Look Like",
       "url": "https://open.spotify.com/track/6rWa5bTCCZQIv0qKekqhnC"
+    },
+    {
+      "album": {
+        "name": "Whatever Will Be",
+        "url": "https://open.spotify.com/album/1lQs3tvAI1Sqh2kPAnCR56"
+      },
+      "artists": [
+        {
+          "name": "Chloe Doyle",
+          "url": "https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112802,
+      "name": "Whatever Will Be",
+      "url": "https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6"
+    },
+    {
+      "album": {
+        "name": "When It\u00b4s Love",
+        "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
+      },
+      "artists": [
+        {
+          "name": "Junie Oakes",
+          "url": "https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162047,
+      "name": "When It\u00b4s Love",
+      "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
     },
     {
       "album": {

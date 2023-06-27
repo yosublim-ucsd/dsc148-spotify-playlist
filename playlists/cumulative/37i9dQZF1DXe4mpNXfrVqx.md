@@ -2,9 +2,9 @@
 
 ### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
-> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
+> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Boombeat
 
-136 songs - 6 hr 3 min
+138 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Big Mac](https://open.spotify.com/track/6G5ggFv65KKrvb2rXAuNfM) | [Og Nina](https://open.spotify.com/artist/2yurgiGE67rGV8Ra5Qqkso), [SHOTBYBZK](https://open.spotify.com/artist/6ykNXCV6SmYveaTjjHUekm) | [Big Mac](https://open.spotify.com/album/6k1bWLpxlLeKMcIPTfyuwo) | 2:47 | 2022-12-02 | 2023-03-03 |
 | [BNTA](https://open.spotify.com/track/1dUA1RZRJtTKYATLHuxsbS) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/0ukdEskm3LHXFYBvYwsCOk) | 3:57 | 2022-03-18 | 2023-02-09 |
 | [BNTA](https://open.spotify.com/track/3PTpIE4GrelEc4iS0qV2Jo) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/1EnyVlubYvfVsiMVEHN4VQ) | 3:57 | 2023-02-03 |  |
+| [Borboleta](https://open.spotify.com/track/7M7LwDM76QlNCie8KLG6qf) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Borboleta](https://open.spotify.com/album/2p52v9xFZiI37yQrMz3To8) | 2:18 | 2023-06-26 |  |
 | [Braba](https://open.spotify.com/track/2S9eAfAmIExYjbpclUpqEv) | [Camilli Miranda](https://open.spotify.com/artist/7fLjiciAnNIg6r6YdYOjvW), [Dj Tom Rc](https://open.spotify.com/artist/0gNoMkZ14tXJmgyPBIIq4N) | [Braba](https://open.spotify.com/album/0pUKN9S8Z1JxZJSbarZbWH) | 2:01 | 2022-03-18 | 2022-08-13 |
 | [Brincando com Fogo](https://open.spotify.com/track/5PBBFVKYsPBj5qUs2O9QwI) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Brincando com Fogo](https://open.spotify.com/album/4fTVijJjlJ0oR9HpGHW1yk) | 3:02 | 2022-06-24 |  |
 | [Bumbunka](https://open.spotify.com/track/79kwyO53ANPImzsvFyRqLa) | [Bea Galhano](https://open.spotify.com/artist/0yFi90XiMn031PAznQsM4X) | [Bumbunka](https://open.spotify.com/album/4PfmEZbermcJZLd0LPgjwW) | 2:48 | 2022-03-18 | 2022-12-03 |
@@ -65,6 +66,7 @@
 | [Hino](https://open.spotify.com/track/5XqfnIoBXU9qvFZRmVAowM) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Hino](https://open.spotify.com/album/4a4BJwJhUWMkf4tdeeoxIi) | 2:53 | 2023-02-03 | 2023-04-22 |
 | [Hino](https://open.spotify.com/track/76WBiLzMTj5JDHPQl4bKRG) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Hino](https://open.spotify.com/album/0A9LwErBKgaY0TMHcrNt5p) | 2:56 | 2022-03-18 | 2023-02-09 |
 | [Honey](https://open.spotify.com/track/5CPJjsuHQ9Gafg7PMeZMsQ) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Honey](https://open.spotify.com/album/4Ctd2nN8SGcOQaI2dhsdJR) | 2:25 | 2023-04-21 |  |
+| [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 | 2023-06-26 |  |
 | [Invisível](https://open.spotify.com/track/12Ue4VoNFehYCgNcFfcrFL) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Invisível](https://open.spotify.com/album/4q1vv6Ymy01U0oHxfcODyB) | 3:29 | 2022-03-18 | 2022-05-28 |
 | [Kali](https://open.spotify.com/track/4ErEw1XXvgV5SvaUtmqXgS) | [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Kali](https://open.spotify.com/album/513Vo5nnWl40hZNpIsD3NL) | 2:20 | 2022-03-18 | 2023-04-22 |
 | [Kerayda](https://open.spotify.com/track/4hsBOZKJ0EUbNq7PN5gmBH) | [Luanna](https://open.spotify.com/artist/3YvZfBhksh0gerGexPdl0O) | [Kerayda](https://open.spotify.com/album/3QDLDaX1EQ915el1w3iTUj) | 3:18 | 2022-09-02 | 2022-09-24 |
@@ -100,7 +102,7 @@
 | [O Corre](https://open.spotify.com/track/7z0eBvO3NlS8u1zPraGWrI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [O Corre](https://open.spotify.com/album/0VH0MFtMzmo4VtlhgOWl58) | 2:09 | 2022-11-18 |  |
 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 | 2022-03-18 |  |
 | [Pago no Cash](https://open.spotify.com/track/6MVTR7ZeZGmNofygux7OcU) | [Ayah](https://open.spotify.com/artist/3AAXwZEJ5gGaRB63mbpSke), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv) | [Pago no Cash](https://open.spotify.com/album/633I4cppmO72JcF9P55dIv) | 1:52 | 2022-03-18 |  |
-| [PALMAS](https://open.spotify.com/track/5vpSh0sdObC37Tyif3l5pX) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [FEMMINA](https://open.spotify.com/album/5pWWWYmyq5y3BgcGwHhFej) | 2:26 | 2023-05-26 |  |
+| [PALMAS](https://open.spotify.com/track/5vpSh0sdObC37Tyif3l5pX) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [FEMMINA](https://open.spotify.com/album/5pWWWYmyq5y3BgcGwHhFej) | 2:26 | 2023-05-26 | 2023-06-27 |
 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 | 2022-03-18 |  |
 | [Patroa](https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Patroa](https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL) | 3:01 | 2022-03-18 |  |
 | [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 | 2022-03-18 |  |
@@ -143,6 +145,6 @@
 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 | 2022-11-11 |  |
 | [VSFD](https://open.spotify.com/track/7z2JlXkcvVP7pOaRmvwn03) | [Kelly Diaz](https://open.spotify.com/artist/1zwlhUNQfqKmR97CzZHFFz) | [VSFD](https://open.spotify.com/album/2l4aLfhkBOi2qfRFxWK6kC) | 2:33 | 2022-03-18 | 2022-10-15 |
 | [À Mil](https://open.spotify.com/track/1lYGqblxNkawkTCH6wbqth) | [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [11.11](https://open.spotify.com/album/3gncfyTiybuGFRYrYNUhTt) | 2:41 | 2022-03-18 | 2022-10-15 |
-| [À Mil](https://open.spotify.com/track/6dTVjamvjG1SNwiAbEHVsQ) | [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [11.11](https://open.spotify.com/album/15d6lSeL5rDks8tksYpQSv) | 2:41 | 2022-10-14 |  |
+| [À Mil](https://open.spotify.com/track/6dTVjamvjG1SNwiAbEHVsQ) | [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [11.11](https://open.spotify.com/album/15d6lSeL5rDks8tksYpQSv) | 2:41 | 2022-10-14 | 2023-06-27 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

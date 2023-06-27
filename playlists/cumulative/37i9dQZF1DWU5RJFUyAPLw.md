@@ -4,7 +4,7 @@
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-64 songs - 3 hr 40 min
+65 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Cero Conflicto](https://open.spotify.com/track/6RSPvAQnEghzgIs3dFcgHI) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Cero Conflicto](https://open.spotify.com/album/12q8eD899Uh8CWlBtuxqSn) | 3:22 | 2023-06-05 | 2023-06-25 |
 | [Ciclo](https://open.spotify.com/track/1lq2OOQB6ayaHvsbWZhtqQ) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 2:49 | 2023-02-17 |  |
 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 | 2023-02-17 |  |
-| [Cosas del Destino](https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cosas del Destino](https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3) | 3:34 | 2023-06-16 |  |
+| [Cosas del Destino](https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cosas del Destino](https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3) | 3:34 | 2023-06-16 | 2023-06-27 |
 | [costas de coral](https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [costas de coral](https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps) | 3:08 | 2023-02-17 | 2023-04-18 |
 | [Curita](https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Curita](https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF) | 3:26 | 2023-02-17 |  |
 | [De mí, de mí, de mí](https://open.spotify.com/track/71O4eV3KvxjJ2mycKTBvwr) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:37 | 2023-02-17 |  |
@@ -70,6 +70,7 @@
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2023-02-17 |  |
 | [Un Chingo](https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Un Chingo](https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT) | 2:57 | 2023-02-17 |  |
 | [Un Día a la Vez](https://open.spotify.com/track/1BuJDqgkqw3kWzcYA5iRMo) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 4:05 | 2023-02-17 |  |
+| [Ven Que Te Quiero Ver](https://open.spotify.com/track/4sM3pdakHiLDk9ZsZgUJhw) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Canapé](https://open.spotify.com/album/1H3HbINzynP5T6zgEbRmUQ) | 3:04 | 2023-06-26 |  |
 | [Volero](https://open.spotify.com/track/02QLmfHOTdKBha0QzK6Axv) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 3:11 | 2023-02-17 |  |
 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 | 2023-02-17 |  |
 

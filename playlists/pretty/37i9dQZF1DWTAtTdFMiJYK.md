@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Ramil  Ganjoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,802 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,903 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Khaak](https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:34 |
 | 2 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
-| 3 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 |
-| 4 | [Bye](https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm) | 2:54 |
-| 5 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |
-| 6 | [Aisi Woh Baarish](https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aisi Woh Baarish](https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG) | 3:07 |
-| 7 | [Saara Jahaan](https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saara Jahaan](https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV) | 2:37 |
+| 3 | [Saara Jahaan](https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saara Jahaan](https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV) | 2:37 |
+| 4 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 |
+| 5 | [Bye](https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm) | 2:54 |
+| 6 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |
+| 7 | [Aisi Woh Baarish](https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aisi Woh Baarish](https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG) | 3:07 |
 | 8 | [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 |
 | 9 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 |
 | 10 | [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 |
 | 75 | [Saanjh](https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Saanjh](https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8) | 4:42 |
 
-Snapshot ID: `MCw2MWQwN2UwYzg5M2I3ZWMxNzkyMzc4NzdiNGFlMjJhMzZkMWQ3NzQx`
+Snapshot ID: `MCxiZWNhNzA3NjBmYzI0ZGVhODhjYzdiNDhjNTcyNGNkYzdiM2VkOWVj`

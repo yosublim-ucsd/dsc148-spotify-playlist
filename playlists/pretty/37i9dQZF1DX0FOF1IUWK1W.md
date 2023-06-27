@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Luan Santana e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,675,342 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,677,054 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Te Esqueci Sem Querer \- Ao Vivo Em Brasília](https://open.spotify.com/track/5yscNPMHmhqHQX9B9GFzMp) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP3\)](https://open.spotify.com/album/2Tywwz9yenoTruRAZGXVBY) | 2:31 |
 | 50 | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC) | 3:04 |
 
-Snapshot ID: `MCxmMDZkM2MyNTEyNTYxZjYzYWUwNmYxYTFiZjcwMTY2MDRlODRlYTdh`
+Snapshot ID: `MCw2MDMzOTY5OTdhNGNkYTkwNTNlYzEyMmJlODQ0OTgzYjMwZGFmZDg5`

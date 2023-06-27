@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester",
-  "num_followers": 112901,
+  "num_followers": 112908,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjkyNzc3MTQ3NmY5NzJmZmNhM2RkNTdjZjg4YWU4M2U0NjdiYjQ4",
+  "snapshot_id": "MCxkMDRiY2U2ZDBkMDg3MTFkYTY0MjkyNjkyMzRlYWNkZmNiOTU2OThj",
   "tracks": [
     {
       "added_at": "2023-05-24 04:00:00",
@@ -172,22 +172,6 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 224987,
-      "name": "One Number Away - Recorded At Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -224,17 +208,33 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 194480,
-      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 224987,
+      "name": "One Number Away - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -256,6 +256,22 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
       },
       "artists": [
@@ -271,22 +287,6 @@
       "duration_ms": 214655,
       "name": "House Fire (feat. The Travelin' McCourys)",
       "url": "https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -728,22 +728,6 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 224977,
-      "name": "Giving You Up - Spotify Singles",
-      "url": "https://open.spotify.com/track/0DNcfs2vfNvwa3o7MEDSGG"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
       },
       "artists": [
@@ -755,6 +739,22 @@
       "duration_ms": 241456,
       "name": "Hotel Key - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1DLguucCi86On4F9TW8CU7"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 224977,
+      "name": "Giving You Up - Spotify Singles",
+      "url": "https://open.spotify.com/track/0DNcfs2vfNvwa3o7MEDSGG"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -832,22 +832,6 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Best Shot - Spotify Singles",
-      "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
       },
       "artists": [
@@ -875,6 +859,22 @@
       "duration_ms": 184773,
       "name": "Burn Out - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Best Shot - Spotify Singles",
+      "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -964,22 +964,6 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 207622,
-      "name": "Attention - Recorded at Woodshed Recording Malibu",
-      "url": "https://open.spotify.com/track/1FldaNEv6PQQetkRwB9DLR"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
       },
       "artists": [
@@ -991,6 +975,22 @@
       "duration_ms": 278167,
       "name": "Green Eyes - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 207622,
+      "name": "Attention - Recorded at Woodshed Recording Malibu",
+      "url": "https://open.spotify.com/track/1FldaNEv6PQQetkRwB9DLR"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-03-21 00:57:42",
       "album": {
-        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
-        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
-      },
-      "artists": [
-        {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
-        }
-      ],
-      "duration_ms": 185331,
-      "name": "Reasons (Recorded At Sound Stage Nashville)",
-      "url": "https://open.spotify.com/track/0p0zVDWG6vS77NKDy9EiWL"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-03-21 00:57:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
+        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
+        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
       "artists": [
         {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
         }
       ],
-      "duration_ms": 257787,
-      "name": "Liar Liar - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv"
+      "duration_ms": 185331,
+      "name": "Reasons (Recorded At Sound Stage Nashville)",
+      "url": "https://open.spotify.com/track/0p0zVDWG6vS77NKDy9EiWL"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -1124,17 +1108,17 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
+        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
       },
       "artists": [
         {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
         }
       ],
-      "duration_ms": 182469,
-      "name": "Dear God - Recorded at Woodshed Recording Malibu",
-      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
+      "duration_ms": 257787,
+      "name": "Liar Liar - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -1151,6 +1135,22 @@
       "duration_ms": 259430,
       "name": "What The Cowgirls Do - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5BjNw6Nehreg15LXEWD5Sl"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 182469,
+      "name": "Dear God - Recorded at Woodshed Recording Malibu",
+      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
     },
     {
       "added_at": "2023-03-21 00:57:42",

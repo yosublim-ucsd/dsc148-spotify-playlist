@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: PHABO
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,062 likes - 53 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,066 likes - 53 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 52 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 |
 | 53 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 |
 
-Snapshot ID: `MCw1NTYwMDFmZDBmODJmNjg4ZDIxOWIwYWI3MzFlN2JlNDc0M2MyY2Fi`
+Snapshot ID: `MCw1ZWEyNWNhYWEzNTNmNjJhMmZlYjQxYzVkZmYyNDE2YmFjNGIzOWQz`

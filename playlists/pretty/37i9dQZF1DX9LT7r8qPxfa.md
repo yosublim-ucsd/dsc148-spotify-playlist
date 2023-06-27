@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,283 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,327 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 39 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
 | 40 | [Henry St.](https://open.spotify.com/track/0Yl3Jh6DYFcAbT9HlnIAmh) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 4:29 |
 | 41 | [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 |
-| 42 | [Kill Her Freak Out](https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Kill Her Freak Out](https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1) | 4:20 |
-| 43 | [Cathedral](https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 2:50 |
-| 44 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 |
-| 45 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
-| 46 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 |
+| 42 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 |
+| 43 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
+| 44 | [Kill Her Freak Out](https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Kill Her Freak Out](https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1) | 4:20 |
+| 45 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 |
+| 46 | [Cathedral](https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 2:50 |
 | 47 | [Places/Plans](https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 3:03 |
 | 48 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
 | 49 | [Blue](https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [People Pleaser](https://open.spotify.com/album/1j70typFafujL4ecw5kbmP) | 4:12 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 65 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
 | 66 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 | 67 | [Friends with Feelings](https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m) | [Alice Skye](https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR) | [Friends With Feelings](https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo) | 4:15 |
-| 68 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
-| 69 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 |
+| 68 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 |
+| 69 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
 | 70 | [The King of All Birds](https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour](https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe) | 3:56 |
 | 71 | [Drown](https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:51 |
 | 72 | [Vessel](https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Vessel](https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd) | 3:28 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 95 | [If It Ain't Me Babe](https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 5:08 |
 | 96 | [Turn To Dust](https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 3:07 |
 | 97 | [I Don't Want to Let You Down](https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Don't Want To Let You Down b/w All Over Again](https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9) | 4:02 |
-| 98 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
-| 99 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
+| 98 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
+| 99 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
 | 100 | [Erase Me](https://open.spotify.com/track/0XVbJvveXmtVlMGKhIcGZK) | [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [Write Your Name In Pink](https://open.spotify.com/album/5MimZH5rLcsbFj6tUxsnrM) | 5:02 |
 
-Snapshot ID: `MCxmMDYyZjEzM2FmNDY5OTZlMDk5ZDk3NzYyODgxNzkzMjlkZjgwNGNj`
+Snapshot ID: `MCxiOGY1N2Y1MjM2NzA3NmI3OTg4MDFjNjZiYWM5YjM0ZjllMDY2MDE3`

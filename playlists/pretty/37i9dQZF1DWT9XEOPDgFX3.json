@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Maple Glider",
-  "num_followers": 68591,
+  "num_followers": 68650,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjVlMzE1YTYzMTllMmY0NTBhMWE3NGQyYjY2ZTEyYjQyOTdhZjU4",
+  "snapshot_id": "MCw0NjQyMjQwMTdiN2VjMmI0ZDgzMDdkMzA0OTAzOTUwMTM5NWExZmQ0",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Blouse - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Blouse - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 225632,
-      "name": "Before You Gotta Go",
-      "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 208382,
       "name": "Hannah Sun",
       "url": "https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 225632,
+      "name": "Before You Gotta Go",
+      "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 141946,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Plum",
         "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 264954,
       "name": "Plum",
       "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 141946,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "gr\u00e6",
-        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Sundowner",
         "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 319053,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "gr\u00e6",
+        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Bad girl",
-      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Bindi in the Dirt",
         "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 231573,
       "name": "Bindi in the Dirt",
       "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Bad girl",
+      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1659,6 +1659,22 @@
       "duration_ms": 135338,
       "name": "Closing the Door on Us",
       "url": "https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Time Ain't Accidental",
+        "url": "https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 207468,
+      "name": "Time Ain't Accidental",
+      "url": "https://open.spotify.com/track/1qK4COAu95yDuWWnWEN0IZ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1727,38 +1743,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Time Ain't Accidental",
-        "url": "https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 207468,
-      "name": "Time Ain't Accidental",
-      "url": "https://open.spotify.com/track/1qK4COAu95yDuWWnWEN0IZ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "tap",
         "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 283370,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/5Fj6VahostTvV1J2TMYLyS"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Jenny",
-      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
     },
     {
       "added_at": "2023-06-23 04:00:00",

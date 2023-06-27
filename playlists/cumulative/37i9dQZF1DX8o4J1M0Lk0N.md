@@ -4,7 +4,7 @@
 
 > Classic instrumental Soul to play during your working hours.
 
-66 songs - 4 hr 10 min
+68 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,12 +55,14 @@
 | [Southern Comfort](https://open.spotify.com/track/2PFxdLIxUKUHUrjPryAPkn) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 3:07 | 2023-06-10 |  |
 | [Stories??](https://open.spotify.com/track/2sQpHRF6hpyCYenzOjinr4) | [The Chakachas](https://open.spotify.com/artist/0dEvx7Y18jVslvbP4IksQl) | [Chakachas](https://open.spotify.com/album/2kRkDO5j2nwgq9jqlNCUNU) | 2:47 | 2023-06-10 |  |
 | [Summer Madness](https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Light Of Worlds](https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo) | 4:17 | 2023-06-10 |  |
+| [Sunday Mumma](https://open.spotify.com/track/0DrPT9AgNC4CsNV3XgWA0y) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Lab Experiments, Vol\. 2](https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA) | 4:48 | 2023-06-26 |  |
 | [Sunrise Serenade](https://open.spotify.com/track/0cEmmzkWVSRwRkiE6ZtS1J) | [Willie Mitchell](https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS) | [Solid Soul](https://open.spotify.com/album/5kjFbhLFuJ5mMlsAcCWPjq) | 2:25 | 2023-06-10 |  |
 | [Sunshine Man](https://open.spotify.com/track/605y5DJ781JNmRpJh4iWsW) | [Harold Alexander](https://open.spotify.com/artist/1y9rSmZj7YqkM5fppoRVeM) | [Sunshine Man](https://open.spotify.com/album/1oqKE3v9ibRQS6IeNGOD9V) | 11:23 | 2023-06-10 |  |
 | [Sweet Honey Wine](https://open.spotify.com/track/419dfghlxcJ00rAJS0IX9e) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Lonnie Smith](https://open.spotify.com/album/0zUuWtkpkv4L7fbylF7lld) | 6:11 | 2023-06-10 |  |
 | [Sweet Sixteen Bars \- 2016 Mono Remaster](https://open.spotify.com/track/2P5GtCrKSu6Sf4dOCAB6M4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Atlantic Studio Albums in Mono \(Remaster\)](https://open.spotify.com/album/4ii0ALT2bCqLKbojGjYpse) | 4:07 | 2023-06-10 |  |
 | [T.I.B.W.F.](https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd) | 2:40 | 2023-06-10 |  |
 | [The Bird](https://open.spotify.com/track/4jFZD6o5mVv6rwperMPVYr) | [Jimmy McGriff](https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh) | [Jimmy McGriff \- Unreleased](https://open.spotify.com/album/2srycq6AWnbjU5tkrDAYL8) | 3:15 | 2023-06-10 |  |
+| [The Burners Jam](https://open.spotify.com/track/5vcrku8JpkYB0qjnl8trWz) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX) | 2:47 | 2023-06-26 |  |
 | [Think \- Instrumental](https://open.spotify.com/track/1aPTqdBzTN7IBKYQ6VzEg9) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:48 | 2023-06-10 |  |
 | [Time Is Tight](https://open.spotify.com/track/3XOVanRi3prWDEZQiZTlYx) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 3:15 | 2023-06-10 |  |
 | [Tippi\-Toes](https://open.spotify.com/track/4IC87geBnjbgduIfAz5xbd) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Struttin'](https://open.spotify.com/album/3rnBsVeezZtrGh8QU9nbzg) | 2:29 | 2023-06-10 |  |

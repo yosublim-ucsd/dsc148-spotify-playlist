@@ -1,12 +1,12 @@
 {
   "description": "Unearthing your new favourite artists. Cover: xena giam. Artwork: Isu Kim.",
-  "num_followers": 5064,
+  "num_followers": 5065,
   "original_name": "Fresh Finds SG & MY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODFiZDU3YjFlYjUxODI2MDhmZmM5NzU2OGEwZjJhZmI3ZTc0N2Nj",
+  "snapshot_id": "MCw0Y2Y0ODQxMTJkNDkzMDczZWMzM2JmODg0YjhlOTBkNDVmMzc0NDEx",
   "tracks": [
     {
       "added_at": "2023-06-22 16:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 217764,
       "name": "Pull Thru",
       "url": "https://open.spotify.com/track/4zRjm49g6qewhPemdUUi0B"
+    },
+    {
+      "added_at": "2023-06-26 07:16:18",
+      "album": {
+        "name": "Curbside",
+        "url": "https://open.spotify.com/album/4HZvNaCq58PbPRMaHlwCPd"
+      },
+      "artists": [
+        {
+          "name": "tammie",
+          "url": "https://open.spotify.com/artist/1Gxrj4vLRdOAqw0ERUgnfb"
+        }
+      ],
+      "duration_ms": 160353,
+      "name": "Curbside",
+      "url": "https://open.spotify.com/track/45owrs44Fa3IW2HwVqpgzV"
     },
     {
       "added_at": "2023-06-22 16:00:00",

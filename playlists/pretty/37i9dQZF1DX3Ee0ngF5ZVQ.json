@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: William Beckmann",
-  "num_followers": 408041,
+  "num_followers": 408116,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGI4MzUzNWIwNzcyMjA2YjFkNzZjNjIxNTRjZDdhMWI0ZTNkOGU4",
+  "snapshot_id": "MCw0N2M4MGMxODVmMjMxMDdhZGE2MmE1OTQ4MDNjMzBiNzRiYWJkYmQ2",
   "tracks": [
     {
       "added_at": "2023-06-23 14:35:46",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-06-23 14:35:46",
       "album": {
+        "name": "Highway Boys",
+        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 220035,
+      "name": "Highway Boys",
+      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
+    },
+    {
+      "added_at": "2023-06-23 14:35:46",
+      "album": {
         "name": "Happier Alone",
         "url": "https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2023-06-23 14:35:46",
       "album": {
-        "name": "Highway Boys",
-        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
+        "name": "West Texas Weather",
+        "url": "https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 220035,
-      "name": "Highway Boys",
-      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
+      "duration_ms": 187669,
+      "name": "West Texas Weather",
+      "url": "https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE"
     },
     {
       "added_at": "2023-06-23 14:35:46",
@@ -483,22 +499,6 @@
       "duration_ms": 204489,
       "name": "I Ain't Going Nowhere",
       "url": "https://open.spotify.com/track/0AQ3u9Uzk3IG5r7sjYH0Cu"
-    },
-    {
-      "added_at": "2023-06-23 14:35:46",
-      "album": {
-        "name": "Stay Tuned",
-        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Stay Tuned",
-      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
     },
     {
       "added_at": "2023-06-23 14:35:46",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-23 14:35:46",
       "album": {
-        "name": "West Texas Weather",
-        "url": "https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 187669,
-      "name": "West Texas Weather",
-      "url": "https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE"
-    },
-    {
-      "added_at": "2023-06-23 14:35:46",
-      "album": {
         "name": "April Showers",
         "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 182346,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+    },
+    {
+      "added_at": "2023-06-23 14:35:46",
+      "album": {
+        "name": "Stay Tuned",
+        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Stay Tuned",
+      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
     },
     {
       "added_at": "2023-06-23 14:35:46",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-23 14:35:46",
       "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 239763,
-      "name": "The Highway Kind",
-      "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
-    },
-    {
-      "added_at": "2023-06-23 14:35:46",
-      "album": {
         "name": "Hurt No More",
         "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
       },
@@ -823,6 +807,26 @@
       "duration_ms": 214582,
       "name": "Hurt No More",
       "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
+    },
+    {
+      "added_at": "2023-06-23 14:35:46",
+      "album": {
+        "name": "Your Bar Now",
+        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
+      },
+      "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "Your Bar Now",
+      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
     },
     {
       "added_at": "2023-06-23 14:35:46",
@@ -859,22 +863,18 @@
     {
       "added_at": "2023-06-23 14:35:46",
       "album": {
-        "name": "Your Bar Now",
-        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
       },
       "artists": [
         {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 214253,
-      "name": "Your Bar Now",
-      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
+      "duration_ms": 174453,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
     },
     {
       "added_at": "2023-06-23 14:35:46",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-06-23 14:35:46",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
+        "name": "Sometimes I Do",
+        "url": "https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Joe Peters",
+          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
         }
       ],
-      "duration_ms": 174453,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
+      "duration_ms": 201093,
+      "name": "Sometimes I Do",
+      "url": "https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV"
     },
     {
       "added_at": "2023-06-23 14:35:46",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-06-23 14:35:46",
       "album": {
-        "name": "Sometimes I Do",
-        "url": "https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn"
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },
       "artists": [
         {
-          "name": "Joe Peters",
-          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 201093,
-      "name": "Sometimes I Do",
-      "url": "https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV"
+      "duration_ms": 239763,
+      "name": "The Highway Kind",
+      "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
     },
     {
       "added_at": "2023-06-23 14:35:46",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-06-23 14:35:46",
       "album": {
-        "name": "Been Better",
-        "url": "https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4"
-      },
-      "artists": [
-        {
-          "name": "Shawn David",
-          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
-        }
-      ],
-      "duration_ms": 196507,
-      "name": "Been Better",
-      "url": "https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv"
-    },
-    {
-      "added_at": "2023-06-23 14:35:46",
-      "album": {
         "name": "This Is For You",
         "url": "https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 187906,
       "name": "Neon You",
       "url": "https://open.spotify.com/track/1IuV2JJG9u3fqL5GYT3FEM"
+    },
+    {
+      "added_at": "2023-06-23 14:35:46",
+      "album": {
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Telling on My Heart",
+      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
     },
     {
       "added_at": "2023-06-23 14:35:46",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-06-23 14:35:46",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
+        "name": "Been Better",
+        "url": "https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Shawn David",
+          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
         }
       ],
-      "duration_ms": 217720,
-      "name": "Telling on My Heart",
-      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
+      "duration_ms": 196507,
+      "name": "Been Better",
+      "url": "https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv"
     },
     {
       "added_at": "2023-06-23 14:35:46",

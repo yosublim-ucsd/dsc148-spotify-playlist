@@ -762,7 +762,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 235493,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD"
@@ -4234,7 +4234,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 136720,
       "name": "Cort\u00e8ge for Clouds",
       "url": "https://open.spotify.com/track/01yRGeuYH8zp8411Z52Rw8"
@@ -6859,6 +6859,24 @@
     },
     {
       "album": {
+        "name": "Felt Improv No. 2",
+        "url": "https://open.spotify.com/album/24cbiNZw3ZWwz3VnrZvndX"
+      },
+      "artists": [
+        {
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Felt Improv No. 2",
+      "url": "https://open.spotify.com/track/5ZR3kgNxgTsWXdGhnAbZLy"
+    },
+    {
+      "album": {
         "name": "Felt Improv No. 25",
         "url": "https://open.spotify.com/album/683ttioDjnQMeIgqQC2gfM"
       },
@@ -8026,6 +8044,24 @@
       "duration_ms": 131250,
       "name": "Gaillardia",
       "url": "https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW"
+    },
+    {
+      "album": {
+        "name": "Garden Of Dreams",
+        "url": "https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00f3ki",
+          "url": "https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Garden Of Dreams",
+      "url": "https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp"
     },
     {
       "album": {
@@ -11014,7 +11050,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 175058,
       "name": "Ivy",
       "url": "https://open.spotify.com/track/4TJ7yhDcJvODuiWbnsZrxt"
@@ -14273,6 +14309,24 @@
     },
     {
       "album": {
+        "name": "Midday Breeze",
+        "url": "https://open.spotify.com/album/0Bk52PBciTKDUiU9rOi297"
+      },
+      "artists": [
+        {
+          "name": "Ann Hildering",
+          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126525,
+      "name": "Midday Breeze",
+      "url": "https://open.spotify.com/track/4FHWJ8LiYLzzXXuEWaIGYB"
+    },
+    {
+      "album": {
         "name": "Yggdrasil",
         "url": "https://open.spotify.com/album/5psFJLRfDBxZSL9hHTAyZF"
       },
@@ -14968,7 +15022,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 120372,
       "name": "Morpho",
       "url": "https://open.spotify.com/track/090GAAwLiSybtUpvq50r6T"
@@ -15836,7 +15890,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 181814,
       "name": "Notes in the Stars",
       "url": "https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv"
@@ -15948,6 +16002,24 @@
       "duration_ms": 154625,
       "name": "Num\u00e9ro 1",
       "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
+    },
+    {
+      "album": {
+        "name": "nyvallen",
+        "url": "https://open.spotify.com/album/2dnicxYzWPd2TJg1qz6qxp"
+      },
+      "artists": [
+        {
+          "name": "Ove Roos",
+          "url": "https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128812,
+      "name": "nyvallen",
+      "url": "https://open.spotify.com/track/5Fc41UbpeLPaltHBkrL5kz"
     },
     {
       "album": {
@@ -19426,7 +19498,7 @@
       ],
       "date_added": "2021-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 154729,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM"
@@ -20582,7 +20654,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 135768,
       "name": "Skating",
       "url": "https://open.spotify.com/track/6XPtAzmKf0gUtE4pCJDXnA"
@@ -22419,6 +22491,24 @@
     },
     {
       "album": {
+        "name": "The Curtain Rises",
+        "url": "https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125394,
+      "name": "The Curtain Rises",
+      "url": "https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe"
+    },
+    {
+      "album": {
         "name": "The Earth Goes to Sleep",
         "url": "https://open.spotify.com/album/7fGtluPtYoATJpgbscVh7U"
       },
@@ -24097,6 +24187,24 @@
     },
     {
       "album": {
+        "name": "Traumt\u00e4nzer",
+        "url": "https://open.spotify.com/album/4uSHjDIZrc1wxbZmlIQUEE"
+      },
+      "artists": [
+        {
+          "name": "Lisa Kriegler",
+          "url": "https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122473,
+      "name": "Traumt\u00e4nzer",
+      "url": "https://open.spotify.com/track/07cIvi3D7cHWRkJLTY0JCh"
+    },
+    {
+      "album": {
         "name": "Traunstein",
         "url": "https://open.spotify.com/album/0R44nYLnFDUvN9XCk8sKGY"
       },
@@ -25120,6 +25228,24 @@
       "duration_ms": 148585,
       "name": "Veracity",
       "url": "https://open.spotify.com/track/3ClKFHLvLvVEyCxFXg9lEi"
+    },
+    {
+      "album": {
+        "name": "Verse and stanza",
+        "url": "https://open.spotify.com/album/0NJMGKE0TSmqujdeu2Dspx"
+      },
+      "artists": [
+        {
+          "name": "Aimon Cour",
+          "url": "https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120380,
+      "name": "Verse and stanza",
+      "url": "https://open.spotify.com/track/3E1huSmDgsuGGeFlxzNXUp"
     },
     {
       "album": {

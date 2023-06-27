@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 45701,
+  "num_followers": 45745,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmQ5NzgzMmNiYzg0MmRhMWI4OTE4NzIxMjAxMTAxN2FhYjRmNmVj",
+  "snapshot_id": "MCw2M2RmNmY0ODc1Y2QzNzgzY2JlMjcyYjYyOGI3NzY1MDA5MWI4N2Qx",
   "tracks": [
     {
       "added_at": "2022-04-25 16:15:40",
@@ -253,24 +253,20 @@
       "url": "https://open.spotify.com/track/3gYISdxnffMaR9AYzuJCRf"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-03-30 01:48:29",
       "album": {
-        "name": "Pel\u00edcula Muda, Pt. 2",
-        "url": "https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW"
+        "name": "Que la Vida Vale",
+        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 303532,
-      "name": "Ll\u00e9vame en un Beso",
-      "url": "https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK"
+      "duration_ms": 190820,
+      "name": "Que la Vida Vale",
+      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
     },
     {
       "added_at": "2023-05-25 23:12:32",
@@ -293,20 +289,24 @@
       "url": "https://open.spotify.com/track/2eIz0KUjTWALHdndVtROKp"
     },
     {
-      "added_at": "2022-03-30 01:48:29",
+      "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Que la Vida Vale",
-        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
+        "name": "Pel\u00edcula Muda, Pt. 2",
+        "url": "https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 190820,
-      "name": "Que la Vida Vale",
-      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
+      "duration_ms": 303532,
+      "name": "Ll\u00e9vame en un Beso",
+      "url": "https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -397,6 +397,22 @@
       "url": "https://open.spotify.com/track/518wotaL3vqUUBCyGV2WSb"
     },
     {
+      "added_at": "2022-12-20 21:43:10",
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Pajarito colibr\u00ed",
+      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
+    },
+    {
       "added_at": "2022-12-07 04:48:22",
       "album": {
         "name": "Tres Hermanos",
@@ -415,22 +431,6 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
-    },
-    {
-      "added_at": "2022-12-20 21:43:10",
-      "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Pajarito colibr\u00ed",
-      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
     },
     {
       "added_at": "2022-02-11 00:27:46",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
     },
     {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Uno Dos Tres 1-2-3",
+        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Fried Neck Bones And Some Home Fries",
+      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
+    },
+    {
       "added_at": "2023-04-01 01:18:58",
       "album": {
         "name": "Mamita Santa",
@@ -503,42 +519,6 @@
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Uno Dos Tres 1-2-3",
-        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Fried Neck Bones And Some Home Fries",
-      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
-    },
-    {
-      "added_at": "2022-11-15 07:41:03",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        }
-      ],
-      "duration_ms": 157813,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
     },
     {
       "added_at": "2022-02-17 23:02:00",
@@ -575,6 +555,26 @@
       "duration_ms": 243240,
       "name": "Alegria",
       "url": "https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28"
+    },
+    {
+      "added_at": "2022-11-15 07:41:03",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 157813,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
     },
     {
       "added_at": "2022-02-18 18:49:36",
@@ -813,20 +813,36 @@
       "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
     },
     {
-      "added_at": "2022-04-23 18:00:53",
+      "added_at": "2023-04-01 01:18:58",
       "album": {
-        "name": "Sur o No Sur",
-        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
+        "name": "Perlas & Conchas",
+        "url": "https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "F\u00e9mina",
+          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
         }
       ],
-      "duration_ms": 250866,
-      "name": "Cumbiera Intelectual",
-      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
+      "duration_ms": 177889,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/33aGNyx04gkQseZ4hsTGxt"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -853,20 +869,20 @@
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
     },
     {
-      "added_at": "2023-04-01 01:18:58",
+      "added_at": "2022-04-23 18:00:53",
       "album": {
-        "name": "Perlas & Conchas",
-        "url": "https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo"
+        "name": "Sur o No Sur",
+        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
       },
       "artists": [
         {
-          "name": "F\u00e9mina",
-          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 177889,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/33aGNyx04gkQseZ4hsTGxt"
+      "duration_ms": 250866,
+      "name": "Cumbiera Intelectual",
+      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -887,22 +903,6 @@
       "duration_ms": 275751,
       "name": "Quien lo dir\u00eda",
       "url": "https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 213810,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -955,26 +955,6 @@
       "duration_ms": 263253,
       "name": "Danza de Gardenias (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX"
-    },
-    {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "T\u00fa Ve",
-        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 238068,
-      "name": "T\u00fa Ve",
-      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
     },
     {
       "added_at": "2022-03-30 01:48:29",
@@ -1045,6 +1025,42 @@
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Ska Cubano",
+        "url": "https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt"
+      },
+      "artists": [
+        {
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "Chango",
+      "url": "https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa"
+    },
+    {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "T\u00fa Ve",
+        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 238068,
+      "name": "T\u00fa Ve",
+      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
+    },
+    {
       "added_at": "2022-09-16 04:53:10",
       "album": {
         "name": "traguito",
@@ -1063,22 +1079,6 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "The Nada",
-        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 300746,
-      "name": "Guacamole",
-      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

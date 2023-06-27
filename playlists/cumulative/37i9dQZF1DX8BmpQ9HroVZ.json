@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest local and global tracks in Pakistan. Cover - Kaifi Khalil",
+  "description": "The hottest local and global tracks in Pakistan. Cover - Atif Aslam",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 219183,
       "name": "Duur",
       "url": "https://open.spotify.com/track/7Ee3A2Q4UcHiUDrd3aGi6a"
@@ -1618,6 +1618,24 @@
       "duration_ms": 206060,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2"
+    },
+    {
+      "album": {
+        "name": "Introduction",
+        "url": "https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5"
+      },
+      "artists": [
+        {
+          "name": "Faris Shafi",
+          "url": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116046,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0"
     },
     {
       "album": {
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 234793,
       "name": "Pardesi",
       "url": "https://open.spotify.com/track/6Cc4aWnRuCBUWK320qu21z"
@@ -3924,6 +3942,28 @@
       "duration_ms": 236800,
       "name": "Todh",
       "url": "https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316"
+    },
+    {
+      "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117972,
+      "name": "True Stories",
+      "url": "https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z"
     },
     {
       "album": {

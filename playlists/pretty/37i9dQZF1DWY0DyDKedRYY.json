@@ -1,32 +1,32 @@
 {
   "description": "RADAR's artists to watch in 2023. Featuring RADAR official artist Peso Pluma on the cover.",
-  "num_followers": 355095,
+  "num_followers": 355093,
   "original_name": "RADAR US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTM4MTgxM2Y3NjA3NmMyMzc4N2VlZjcwY2I3OWEwNGE3YjM4ODg3",
+  "snapshot_id": "MCxiZjdjNThlMDEyZTlkMjZlZTgzY2M5NmRiMTU3MzExZWY2MjRkYjc1",
   "tracks": [
     {
-      "added_at": "2023-05-27 04:23:06",
+      "added_at": "2023-06-26 14:54:42",
       "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+      "duration_ms": 163551,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB"
     },
     {
       "added_at": "2023-05-27 04:23:06",
@@ -243,6 +243,26 @@
       "duration_ms": 199679,
       "name": "Ke Shy",
       "url": "https://open.spotify.com/track/71X7xhERhWY7k4I2ST3A1F"
+    },
+    {
+      "added_at": "2023-05-27 04:23:06",
+      "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2023-05-27 04:23:06",

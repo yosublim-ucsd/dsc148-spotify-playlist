@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3495,
+  "num_followers": 3497,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmU3YTk2MGU0NDZkNWUxZDI1ZjdmMzVmYmM1MmQwZGZjNTBmMjdk",
+  "snapshot_id": "MCxhMzBiMGVkNWU1OWQ2ZjE1N2U4MTVhYzliMjQwMGRhNTM1OGFjNjY2",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -235,22 +235,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Il",
-        "url": "https://open.spotify.com/album/6rFWeVAaT4ExiW4Lx33NWS"
+        "name": "Mara Tremblay",
+        "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
       },
       "artists": [
         {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        },
-        {
-          "name": "BUFFLO",
-          "url": "https://open.spotify.com/artist/53f0gOO8G7iK7hWJNFaLs2"
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
         }
       ],
-      "duration_ms": 271746,
-      "name": "Nostos",
-      "url": "https://open.spotify.com/track/7bSK3VEURjfxNp7H9wLNqE"
+      "duration_ms": 245093,
+      "name": "Les Aurores",
+      "url": "https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -271,22 +267,6 @@
       "duration_ms": 228266,
       "name": "Blanc cass\u00e9",
       "url": "https://open.spotify.com/track/26ar8SJWPlzN4NMD38dyxS"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Mara Tremblay",
-        "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
-      },
-      "artists": [
-        {
-          "name": "Mara Tremblay",
-          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
-        }
-      ],
-      "duration_ms": 245093,
-      "name": "Les Aurores",
-      "url": "https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -339,6 +319,26 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Il",
+        "url": "https://open.spotify.com/album/6rFWeVAaT4ExiW4Lx33NWS"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        },
+        {
+          "name": "BUFFLO",
+          "url": "https://open.spotify.com/artist/53f0gOO8G7iK7hWJNFaLs2"
+        }
+      ],
+      "duration_ms": 271746,
+      "name": "Nostos",
+      "url": "https://open.spotify.com/track/7bSK3VEURjfxNp7H9wLNqE"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Tokyo",
         "url": "https://open.spotify.com/album/0bMiShtGJ5QjAehkO34ULW"
       },
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le fil",
-        "url": "https://open.spotify.com/album/2Ee68ldGNltX6l3KpTgvIZ"
-      },
-      "artists": [
-        {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "Pour que l'amour me quitte",
-      "url": "https://open.spotify.com/track/5ondyRZec0o7QozmadKxgq"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Comme une odeur de d\u00e9clin",
         "url": "https://open.spotify.com/album/0B46PUCUbNH1lJJPVAmJ8s"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Nous apr\u00e8s nous",
-        "url": "https://open.spotify.com/album/2n4xhHEEmloZT0tNTJLQai"
+        "name": "Le fil",
+        "url": "https://open.spotify.com/album/2Ee68ldGNltX6l3KpTgvIZ"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Nous apr\u00e8s nous",
-      "url": "https://open.spotify.com/track/5BnsjduILegn9lyXBINBh9"
+      "duration_ms": 166720,
+      "name": "Pour que l'amour me quitte",
+      "url": "https://open.spotify.com/track/5ondyRZec0o7QozmadKxgq"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -451,6 +435,22 @@
       "duration_ms": 180000,
       "name": "M'attends-tu",
       "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Nous apr\u00e8s nous",
+        "url": "https://open.spotify.com/album/2n4xhHEEmloZT0tNTJLQai"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Nous apr\u00e8s nous",
+      "url": "https://open.spotify.com/track/5BnsjduILegn9lyXBINBh9"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -519,38 +519,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "4488 de l'amour",
-        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Pri\u00e8re",
-      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "No Water, No Flowers",
-        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
-      },
-      "artists": [
-        {
-          "name": "Genevi\u00e8ve Racette",
-          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
-        }
-      ],
-      "duration_ms": 206390,
-      "name": "Milles fois par jour",
-      "url": "https://open.spotify.com/track/3KNWGc3CrZFWML2P9jNE9r"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Siberia (Acoustic)",
         "url": "https://open.spotify.com/album/0Q2uO7vZmCMsuodQwchAOH"
       },
@@ -571,18 +539,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La science du c\u0153ur",
-        "url": "https://open.spotify.com/album/0eT3LEaBjGYxLrodHdw5SR"
+        "name": "No Water, No Flowers",
+        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
       },
       "artists": [
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
         }
       ],
-      "duration_ms": 201440,
-      "name": "Une lettre",
-      "url": "https://open.spotify.com/track/2KX9orMuqVBhFiG3WdqpIH"
+      "duration_ms": 206390,
+      "name": "Milles fois par jour",
+      "url": "https://open.spotify.com/track/3KNWGc3CrZFWML2P9jNE9r"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -615,6 +583,38 @@
       "duration_ms": 167436,
       "name": "Un autre amour",
       "url": "https://open.spotify.com/track/329d06nIUGV7dRE6xYwblR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "4488 de l'amour",
+        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Pri\u00e8re",
+      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La science du c\u0153ur",
+        "url": "https://open.spotify.com/album/0eT3LEaBjGYxLrodHdw5SR"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "Une lettre",
+      "url": "https://open.spotify.com/track/2KX9orMuqVBhFiG3WdqpIH"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le treizi\u00e8me \u00e9tage",
-        "url": "https://open.spotify.com/album/1EbsNqRNKj1gmDsENEuCyl"
-      },
-      "artists": [
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 389320,
-      "name": "Un monstre",
-      "url": "https://open.spotify.com/track/7lCAerPlcyO0XomfHJwTq0"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le feu de chaque jour",
         "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 271360,
       "name": "Loin de Disneyland",
       "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le treizi\u00e8me \u00e9tage",
+        "url": "https://open.spotify.com/album/1EbsNqRNKj1gmDsENEuCyl"
+      },
+      "artists": [
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 389320,
+      "name": "Un monstre",
+      "url": "https://open.spotify.com/track/7lCAerPlcyO0XomfHJwTq0"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La Voix III",
-        "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Holubowski",
-          "url": "https://open.spotify.com/artist/3eNjAR5L6dFBT9YMI1mYcT"
-        }
-      ],
-      "duration_ms": 158280,
-      "name": "Feuille d'argent et feuille d'or",
-      "url": "https://open.spotify.com/track/43yPS3BdegZwA2x47ux291"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "\u00c9tienne d'ao\u00fbt",
         "url": "https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 312666,
       "name": "Elton d'ao\u00fbt - Remix",
       "url": "https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La Voix III",
+        "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Holubowski",
+          "url": "https://open.spotify.com/artist/3eNjAR5L6dFBT9YMI1mYcT"
+        }
+      ],
+      "duration_ms": 158280,
+      "name": "Feuille d'argent et feuille d'or",
+      "url": "https://open.spotify.com/track/43yPS3BdegZwA2x47ux291"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Sentiments humains",
-        "url": "https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Nous restions l\u00e0",
-      "url": "https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Hisser haut",
         "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 202333,
       "name": "L'atelier",
       "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Sentiments humains",
+        "url": "https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Nous restions l\u00e0",
+      "url": "https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Bygone",
-        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
+        "name": "A Wider Space, B-Sides",
+        "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
       },
       "artists": [
         {
-          "name": "B\u00e9atrice Keeler",
-          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
+          "name": "Groenland",
+          "url": "https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC"
         }
       ],
-      "duration_ms": 222893,
-      "name": "Je ne veux pas savoir",
-      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
+      "duration_ms": 222720,
+      "name": "Cabin (VF)",
+      "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "A Wider Space, B-Sides",
-        "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
+        "name": "Bygone",
+        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
       },
       "artists": [
         {
-          "name": "Groenland",
-          "url": "https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC"
+          "name": "B\u00e9atrice Keeler",
+          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Cabin (VF)",
-      "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
+      "duration_ms": 222893,
+      "name": "Je ne veux pas savoir",
+      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La pluie entre nous",
-        "url": "https://open.spotify.com/album/0Y10OKNgG1nCZgNYjD9ycN"
-      },
-      "artists": [
-        {
-          "name": "Catherine Durand",
-          "url": "https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "La pluie entre nous",
-      "url": "https://open.spotify.com/track/4uXdnDGrnb5pCNyIl32UT7"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "LUNES",
         "url": "https://open.spotify.com/album/3mV5Ke3VjwZhuDQMsHmeYY"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "La pluie entre nous",
+        "url": "https://open.spotify.com/album/0Y10OKNgG1nCZgNYjD9ycN"
+      },
+      "artists": [
+        {
+          "name": "Catherine Durand",
+          "url": "https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "La pluie entre nous",
+      "url": "https://open.spotify.com/track/4uXdnDGrnb5pCNyIl32UT7"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Marie-Pierre Arthur",
         "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 253145,
       "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
       "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Ta Chance",
+        "url": "https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T"
+      },
+      "artists": [
+        {
+          "name": "Nerina Pallot",
+          "url": "https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK"
+        }
+      ],
+      "duration_ms": 268276,
+      "name": "Ta Chance",
+      "url": "https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1363,22 +1379,6 @@
       "duration_ms": 243977,
       "name": "Nord-est",
       "url": "https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Ta Chance",
-        "url": "https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T"
-      },
-      "artists": [
-        {
-          "name": "Nerina Pallot",
-          "url": "https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK"
-        }
-      ],
-      "duration_ms": 268276,
-      "name": "Ta Chance",
-      "url": "https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Les filles sages vont au paradis les autres vont o\u00f9 elles veulent",
-        "url": "https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn"
-      },
-      "artists": [
-        {
-          "name": "Samuele",
-          "url": "https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ"
-        }
-      ],
-      "duration_ms": 256361,
-      "name": "Dactylo",
-      "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Alexe",
         "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 273473,
       "name": "L'hiver",
       "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Les filles sages vont au paradis les autres vont o\u00f9 elles veulent",
+        "url": "https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn"
+      },
+      "artists": [
+        {
+          "name": "Samuele",
+          "url": "https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ"
+        }
+      ],
+      "duration_ms": 256361,
+      "name": "Dactylo",
+      "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Le long chemin (version acoustique)",
+        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
+      },
+      "artists": [
+        {
+          "name": "Nicola Ciccone",
+          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Le long chemin - version acoustique",
+      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Kirchner",
         "url": "https://open.spotify.com/album/2OxNLJ1bSn8tIxlIdUuvRi"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 180215,
       "name": "Kirchner",
       "url": "https://open.spotify.com/track/21eM5pe7tcdFC6tuMsWUcT"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Le long chemin (version acoustique)",
-        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
-      },
-      "artists": [
-        {
-          "name": "Nicola Ciccone",
-          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Le long chemin - version acoustique",
-      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
     },
     {
       "added_at": "2021-02-06 03:12:40",

@@ -4,7 +4,7 @@
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-108 songs - 5 hr 25 min
+109 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Dinero](https://open.spotify.com/track/36P4q04ZaKiQPSmhGmEeZH) | [Franux BB, Bhavi](https://open.spotify.com/artist/61sJzoQvWtPJjiXlXu6RPo) | [Dinero](https://open.spotify.com/album/3zAFqMVnVEGlrOR1ew3pbC) | 2:56 | 2021-09-10 | 2022-09-11 |
 | [Domador](https://open.spotify.com/track/31dNG4iLpyQ4HwiAL0nGer) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Domador](https://open.spotify.com/album/2JEIIb3bjdIvGaQNH0IGe2) | 2:43 | 2021-09-10 | 2022-09-10 |
 | [Domador](https://open.spotify.com/track/34DUbd3nYikXkPmdrLH6vw) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Domador](https://open.spotify.com/album/4EQqaciQsB6WSPEIlW0cnH) | 2:43 | 2022-02-04 |  |
-| [Dos](https://open.spotify.com/track/6YrxXC8qq1kLvhtUZ8ybkf) | [BNT](https://open.spotify.com/artist/5QPQ1ZQFmow6eoSsscq33K), [Hache Souza](https://open.spotify.com/artist/1yQiZJTb5BgGi69eTkgqMW), [Seba Jones](https://open.spotify.com/artist/2FbKpBqa4bdoDiYIklpw3V) | [Higher Standards \(Lado A\)](https://open.spotify.com/album/6pglBdAozqBiOiF1hDNd1Y) | 4:22 | 2021-09-10 |  |
+| [Dos](https://open.spotify.com/track/3zHplLv7kGgc99HG1WjCOe) | [BNT](https://open.spotify.com/artist/5QPQ1ZQFmow6eoSsscq33K), [Hache Souza](https://open.spotify.com/artist/1yQiZJTb5BgGi69eTkgqMW), [Seba Jones](https://open.spotify.com/artist/2FbKpBqa4bdoDiYIklpw3V) | [Higher Standards \(Lado A\)](https://open.spotify.com/album/6vZ2DgUGcDUm3eis5UV14A) | 4:22 | 2023-06-09 |  |
+| [Dos](https://open.spotify.com/track/6YrxXC8qq1kLvhtUZ8ybkf) | [BNT](https://open.spotify.com/artist/5QPQ1ZQFmow6eoSsscq33K), [Hache Souza](https://open.spotify.com/artist/1yQiZJTb5BgGi69eTkgqMW), [Seba Jones](https://open.spotify.com/artist/2FbKpBqa4bdoDiYIklpw3V) | [Higher Standards \(Lado A\)](https://open.spotify.com/album/6pglBdAozqBiOiF1hDNd1Y) | 4:22 | 2021-09-10 | 2023-06-27 |
 | [Dripeando](https://open.spotify.com/track/2x1s3TXM1fvVzCAd1Suf4T) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Dripeando](https://open.spotify.com/album/4tg4Sy7PgIkiMgMzEDEdWq) | 3:06 | 2022-02-04 |  |
 | [Ella Es Mi Bitch](https://open.spotify.com/track/6gAhoYC40nPWRXfc5Gq04H) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [44 Kid](https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 4:06 | 2021-09-10 |  |
 | [Hot Box](https://open.spotify.com/track/2GintlSiqb7EQiPJwa3etY) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Hot Box](https://open.spotify.com/album/1ts9do5lw5wt3Fa1H4iV3o) | 2:01 | 2022-02-04 |  |

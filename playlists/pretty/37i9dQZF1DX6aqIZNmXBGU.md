@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,352 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,351 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 7 | [Fine Again](https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:03 |
 | 8 | [I Sat by the Ocean](https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 |
 | 9 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 |
-| 10 | [Cochise](https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 3:42 |
-| 11 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
-| 12 | [T\-Shirt Weather](https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM) | 3:12 |
-| 13 | [Drown](https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:30 |
+| 10 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
+| 11 | [T\-Shirt Weather](https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM) | 3:12 |
+| 12 | [Drown](https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:30 |
+| 13 | [Cochise](https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 3:42 |
 | 14 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
 | 15 | [Anemone](https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Their Satanic Majesties' Second Request](https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi) | 5:34 |
 | 16 | [Pennyroyal Tea](https://open.spotify.com/track/3z53rfQOg6Eb5pBCRsd7Uu) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:38 |
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 31 | [My Wave](https://open.spotify.com/track/6ox3xc5CNTDQiAINfzP8Zw) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:12 |
 | 32 | [Toe Cutter \- Thumb Buster](https://open.spotify.com/track/4lZjHEJXzKCCTVPtgYcypv) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 3:32 |
 | 33 | [Sick Shit](https://open.spotify.com/track/14q1CWouLEjFT6zu5re8hR) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 4:06 |
-| 34 | [Remember Me](https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Sundown Syndrome / Remember Me](https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe) | 4:21 |
-| 35 | [Tourette's](https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 1:35 |
-| 36 | [No Waves](https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIDLAR](https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs) | 2:14 |
-| 37 | [Creep in a T\-Shirt](https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:53 |
+| 34 | [No Waves](https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIDLAR](https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs) | 2:14 |
+| 35 | [Creep in a T\-Shirt](https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:53 |
+| 36 | [Tourette's](https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 1:35 |
+| 37 | [Remember Me](https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Sundown Syndrome / Remember Me](https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe) | 4:21 |
 | 38 | [Blood Under My Belt](https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Abysmal Thoughts](https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw) | 3:48 |
 | 39 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
-| 40 | [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 |
-| 41 | [King of the Beach](https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 2:38 |
+| 40 | [King of the Beach](https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 2:38 |
+| 41 | [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 |
 | 42 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 |
 | 43 | [Badillac](https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 2:27 |
 | 44 | [Think Of You](https://open.spotify.com/track/3soRnznKdQHTMmuW6wiUDY) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Carter](https://open.spotify.com/album/6YHygEcxxMN8qc1tSir660) | 2:41 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 52 | [Golden Dawn](https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:50 |
 | 53 | [Reservoir Dawgs](https://open.spotify.com/track/2Yx0xNVsysG47yR19qvaKw) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Boisad](https://open.spotify.com/album/7JQ5JhmtlKabSCmHSFET3K) | 3:29 |
 | 54 | [Nerve Jamming](https://open.spotify.com/track/3YdC9oQEHaLT6FEdnRdbtq) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 2:36 |
-| 55 | [Modern Art](https://open.spotify.com/track/3sBNYkUaAiipWECiLdmzJd) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Arabia Mountain](https://open.spotify.com/album/0ShlY0YGl6XAtBS9ltsV9G) | 2:04 |
-| 56 | [Glazin'](https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g) | [Jacuzzi Boys](https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB) | [Glazin'](https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69) | 3:23 |
-| 57 | [Demon From Hell](https://open.spotify.com/track/6tlM9pXSjLR5MOCKeLVa35) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/0XOhWOI7URvE4SmmGLTYop) | 1:29 |
-| 58 | [No Song Unheard](https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [High Visibility](https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx) | 4:00 |
-| 59 | [Tall Man Skinny Lady](https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa) | 4:02 |
-| 60 | [Lick the Bag](https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 3:18 |
+| 55 | [Glazin'](https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g) | [Jacuzzi Boys](https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB) | [Glazin'](https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69) | 3:23 |
+| 56 | [Tall Man Skinny Lady](https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa) | 4:02 |
+| 57 | [Modern Art](https://open.spotify.com/track/3sBNYkUaAiipWECiLdmzJd) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Arabia Mountain](https://open.spotify.com/album/0ShlY0YGl6XAtBS9ltsV9G) | 2:04 |
+| 58 | [Demon From Hell](https://open.spotify.com/track/6tlM9pXSjLR5MOCKeLVa35) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/0XOhWOI7URvE4SmmGLTYop) | 1:29 |
+| 59 | [No Song Unheard](https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [High Visibility](https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx) | 4:00 |
+| 60 | [Lets Go Surfing](https://open.spotify.com/track/5g127reXmYqHrWHIJ8TJvC) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Indie Rock](https://open.spotify.com/album/6JrppNJBxpKvGTRyVYXDuV) | 2:55 |
 
-Snapshot ID: `MCxjZDQyYjFjMTQ4MDFjNjYwYTkwNjA1YWY3YTUyMzA1ZTdlYWFhYmY1`
+Snapshot ID: `MCw2ODQxMjRhN2RkNDdjZmI3YzNiNzM4YzgwOGUzNzc0ZDYyMDQ2Yzgw`

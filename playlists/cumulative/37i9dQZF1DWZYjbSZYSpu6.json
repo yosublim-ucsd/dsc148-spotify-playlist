@@ -3105,6 +3105,28 @@
     },
     {
       "album": {
+        "name": "Song Request (feat. SUGA)",
+        "url": "https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281066,
+      "name": "Song Request (feat. SUGA)",
+      "url": "https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM"
+    },
+    {
+      "album": {
         "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
         "url": "https://open.spotify.com/album/2CV86ZVlL1h8DofUs7kIL3"
       },
@@ -3124,28 +3146,6 @@
       "duration_ms": 281066,
       "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/57jBcQUCJaIUTRbqBmW7D1"
-    },
-    {
-      "album": {
-        "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
-        "url": "https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        },
-        {
-          "name": "SUGA",
-          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
-        }
-      ],
-      "date_added": "2022-07-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 281066,
-      "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM"
     },
     {
       "album": {

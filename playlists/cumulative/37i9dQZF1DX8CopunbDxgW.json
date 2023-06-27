@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 154013,
       "name": "CRYSTAL BALL",
       "url": "https://open.spotify.com/track/3wDBk1GUThtWitWubRzrFX"
@@ -5494,7 +5494,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 187552,
       "name": "God Complex",
       "url": "https://open.spotify.com/track/3ecSL8AUu6r0yIOrbABTdL"
@@ -5560,6 +5560,24 @@
       "duration_ms": 192496,
       "name": "Gold",
       "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
+    },
+    {
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172319,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
     },
     {
       "album": {
@@ -6402,7 +6420,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 378123,
       "name": "How The Flowers Grow - Jan Blomqvist Remix",
       "url": "https://open.spotify.com/track/3uZWbcWyel7Hd8j8vtp5zA"
@@ -8056,7 +8074,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 235932,
       "name": "Lavender Haze - Jungle Remix",
       "url": "https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6"
@@ -11246,7 +11264,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 287720,
       "name": "Peaks & Valleys",
       "url": "https://open.spotify.com/track/6uXIdYG3WQm6tPGACvZMDE"
@@ -13716,7 +13734,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 209060,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1"
@@ -14114,7 +14132,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 326232,
       "name": "Territory Day",
       "url": "https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78"

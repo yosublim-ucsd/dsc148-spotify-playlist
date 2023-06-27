@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 167313,
       "name": "A Un Paso De La Luna",
       "url": "https://open.spotify.com/track/7ql2RUmAmj36tkMUNWo7MT"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 210623,
       "name": "El Manual",
       "url": "https://open.spotify.com/track/7kOf0qHO4Rcwk6QJifZDRJ"
@@ -1150,6 +1150,24 @@
       "duration_ms": 267786,
       "name": "Ella Y Yo - Featuring Don Omar",
       "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
+    },
+    {
+      "album": {
+        "name": "Ellos",
+        "url": "https://open.spotify.com/album/0Yzo1gm6l0cvC6vyT3rYQR"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175081,
+      "name": "Ellos",
+      "url": "https://open.spotify.com/track/0vABJIxyZoI2BKV3a1m1uP"
     },
     {
       "album": {
@@ -2213,6 +2231,28 @@
     },
     {
       "album": {
+        "name": "Pa toda la vida (feat. Mozart La Para)",
+        "url": "https://open.spotify.com/album/0Ts0BIPx6Gcf7YZsn6EZ0W"
+      },
+      "artists": [
+        {
+          "name": "Don Patricio",
+          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212330,
+      "name": "Pa toda la vida (feat. Mozart La Para)",
+      "url": "https://open.spotify.com/track/6DDb7XRNUzeHmSoTbw5nmm"
+    },
+    {
+      "album": {
         "name": "PAM",
         "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
       },
@@ -2232,7 +2272,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 201000,
       "name": "PAM",
       "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
@@ -2268,7 +2308,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 182746,
       "name": "Picky",
       "url": "https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx"
@@ -2310,6 +2350,54 @@
       "duration_ms": 393280,
       "name": "Poblado - Remix",
       "url": "https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV"
+    },
+    {
+      "album": {
+        "name": "The Last Don Live",
+        "url": "https://open.spotify.com/album/0hFZpkgYSp761ZOM2EOZWQ"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254480,
+      "name": "Pobre Diabla",
+      "url": "https://open.spotify.com/track/1xbw6jObdWhPSoN9MflOSA"
+    },
+    {
+      "album": {
+        "name": "POLARIS (Remix)",
+        "url": "https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "POLARIS - Remix",
+      "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
     },
     {
       "album": {
@@ -2445,6 +2533,28 @@
     },
     {
       "album": {
+        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191254,
+      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
+    },
+    {
+      "album": {
         "name": "Primera Cita",
         "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
       },
@@ -2482,6 +2592,24 @@
       "duration_ms": 221714,
       "name": "RITMO (Bad Boys For Life)",
       "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
+    },
+    {
+      "album": {
+        "name": "Rueda",
+        "url": "https://open.spotify.com/album/4PqwikwnDaRaY7w8Fvlt5e"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210528,
+      "name": "Rueda",
+      "url": "https://open.spotify.com/track/4yB4AnDLdxyLIXtUWrkdxM"
     },
     {
       "album": {
@@ -2536,10 +2664,44 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 174291,
       "name": "Se iluminaba",
       "url": "https://open.spotify.com/track/3VPOZWtj8mM89IiRNygxgS"
+    },
+    {
+      "album": {
+        "name": "Sensualidad",
+        "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297485,
+      "name": "Sensualidad",
+      "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
     },
     {
       "album": {
@@ -2628,7 +2790,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 176285,
       "name": "SloMo",
       "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"

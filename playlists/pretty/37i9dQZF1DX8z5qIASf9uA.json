@@ -1,12 +1,12 @@
 {
   "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Ariel Camacho en portada. ",
-  "num_followers": 227598,
+  "num_followers": 227767,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjBhODZkZTlkYTUwZThiMjdiY2ZiNDYzZGZlZjI2OWMzYWRhMWFh",
+  "snapshot_id": "MCw3OTViNDU0MjcwZjAyZDFhYjBhZjE4ZjVlOGJlNzEzMGM3ODU0NzNj",
   "tracks": [
     {
       "added_at": "2023-04-10 22:18:06",
@@ -123,54 +123,6 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Joan Sebastian Con Mariachi",
-        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 211255,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "Que De Raro Tiene",
-        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Ac\u00e1 Entre Nos",
-      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
         "name": "El Karma (Deluxe Version)",
         "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
@@ -219,8 +171,8 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+        "name": "Joan Sebastian Con Mariachi",
+        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
       "artists": [
         {
@@ -228,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 207586,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
+      "duration_ms": 211255,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -244,9 +196,41 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Hablemos",
+        "url": "https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Hablemos",
+      "url": "https://open.spotify.com/track/71aT33Muvsuim800OqZ0st"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -267,18 +251,34 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 409466,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
+      "duration_ms": 213280,
+      "name": "Qui\u00e9n Es Usted",
+      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -315,8 +315,24 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Hablemos",
-        "url": "https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
       "artists": [
         {
@@ -324,41 +340,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 188560,
-      "name": "Hablemos",
-      "url": "https://open.spotify.com/track/71aT33Muvsuim800OqZ0st"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 213280,
-      "name": "Qui\u00e9n Es Usted",
-      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 435493,
-      "name": "Hasta Que Te Conoc\u00ed",
-      "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
+      "duration_ms": 195136,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -379,6 +363,38 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 435493,
+      "name": "Hasta Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 409466,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
@@ -391,6 +407,38 @@
       "duration_ms": 183813,
       "name": "A Mis Enemigos",
       "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 273008,
+      "name": "Secreto De Amor",
+      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -427,90 +475,6 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 195136,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 273008,
-      "name": "Secreto De Amor",
-      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
         "name": "Antonio Aguilar Con Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
       },
@@ -543,22 +507,6 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Como La Flor - Remastered",
-      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -566,15 +514,11 @@
         {
           "name": "Roc\u00edo D\u00farcal",
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 222760,
-      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
+      "duration_ms": 272866,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -611,6 +555,22 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Como La Flor - Remastered",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
         "name": "Antonio Aguilar con Mariachi",
         "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
@@ -627,18 +587,42 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 179320,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -695,22 +679,6 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Rancher\u00edsimo, Vol. 2",
-        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
         "name": "Soy As\u00ed",
         "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
       },
@@ -743,34 +711,18 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Solo Baladas",
-        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Ya Lo S\u00e9",
-      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -807,6 +759,38 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
+        "name": "Solo Baladas",
+        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
         "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
       },
@@ -819,38 +803,6 @@
       "duration_ms": 137120,
       "name": "En el \u00daltimo Trago",
       "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "Los Yonic's",
-        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Un Dolor",
-      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 215797,
-      "name": "El Rey De Corazones",
-      "url": "https://open.spotify.com/track/5hXA2phKHcWusWa2UmKeAO"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -871,6 +823,22 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 215797,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/5hXA2phKHcWusWa2UmKeAO"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
         "name": "Vida De Bohemio",
         "url": "https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi"
       },
@@ -883,22 +851,6 @@
       "duration_ms": 180133,
       "name": "En Tu Pelo",
       "url": "https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Cuando el Sol Salga Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -919,18 +871,18 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 252440,
-      "name": "La Gran Se\u00f1ora",
-      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
+      "duration_ms": 239120,
+      "name": "El Pavido Navido - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/6HH26pfSrXhOvF7Tvy75R5"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -951,6 +903,54 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Los Yonic's",
+        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Un Dolor",
+      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Cuando el Sol Salga Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
         "name": "Las 100 Clasicas Vol. 2",
         "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Valentin Elizalde En Vivo",
-        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+        "name": "Boleros-Boleros-Bole",
+        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 239120,
-      "name": "El Pavido Navido - En Vivo Desde Delfos, Guadalajara/2002",
-      "url": "https://open.spotify.com/track/6HH26pfSrXhOvF7Tvy75R5"
+      "duration_ms": 131626,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Boleros-Boleros-Bole",
-        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 131626,
-      "name": "Media Vuelta",
-      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 184293,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
+      "duration_ms": 252440,
+      "name": "La Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -1131,38 +1115,18 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Borracho de Primera",
-        "url": "https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy"
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
       "artists": [
         {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 231862,
-      "name": "Que Me Entierren Cantando",
-      "url": "https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "20 Canciones Banda y Norteno",
-        "url": "https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/75IgGouGFoepWfj2N6bQb6"
+      "duration_ms": 184293,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -1183,6 +1147,22 @@
       "duration_ms": 179211,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/2PP65VcRvkiNZUq7Wd0yP8"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "20 Canciones Banda y Norteno",
+        "url": "https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/75IgGouGFoepWfj2N6bQb6"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -1219,6 +1199,46 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
+        "name": "Borracho de Primera",
+        "url": "https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 231862,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Ya Despu\u00e9s De Muerto",
+        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Nieves De Enero",
+      "url": "https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
         "name": "La Absoluta Colecci\u00f3n",
         "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
       },
@@ -1235,22 +1255,6 @@
       "duration_ms": 284013,
       "name": "El Destino (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "Amor Y L\u00e1grimas",
-        "url": "https://open.spotify.com/album/5AINE3154WldReklifyueS"
-      },
-      "artists": [
-        {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
-        }
-      ],
-      "duration_ms": 196487,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh"
     }
   ],
   "unique_name": "Inmortales de la M\u00fasica Mexicana",

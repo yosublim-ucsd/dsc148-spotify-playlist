@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Barbi Recanati.\nDales play, dales power.",
-  "num_followers": 30329,
+  "num_followers": 30330,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjZhY2EyMTkzMTczYTM0MjQ3MzJmZjJiODQwMWQzYzFhMjZjNWI3",
+  "snapshot_id": "MCwzMTU5ZmRkYzczNDY2MzQ5YzZkMjRmOGFmYWU4ZDc4NDE2NzBhZTI0",
   "tracks": [
     {
       "added_at": "2023-06-05 03:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
+        "name": "Donde Vamos",
+        "url": "https://open.spotify.com/album/7efZ3CZiFymj7AH5wOMWJ0"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "duration_ms": 176953,
+      "name": "Donde Vamos",
+      "url": "https://open.spotify.com/track/4AZ6wOO96okzltCfEDhDn4"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
         "name": "M\u00e1gica Intuici\u00f3n",
         "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 190393,
       "name": "M\u00e1gica Intuici\u00f3n",
       "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
-        "name": "Donde Vamos",
-        "url": "https://open.spotify.com/album/7efZ3CZiFymj7AH5wOMWJ0"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        }
-      ],
-      "duration_ms": 176953,
-      "name": "Donde Vamos",
-      "url": "https://open.spotify.com/track/4AZ6wOO96okzltCfEDhDn4"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Crisis de Amor",
-        "url": "https://open.spotify.com/album/0xKZ1qAIGC60qmenFk94uC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 269621,
-      "name": "Cancionero",
-      "url": "https://open.spotify.com/track/3HMU4dE6cDSIg91lJyTkc5"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
         "name": "Si s\u00f3lo",
         "url": "https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 222090,
       "name": "Si S\u00f3lo",
       "url": "https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
+        "name": "Crisis de Amor",
+        "url": "https://open.spotify.com/album/0xKZ1qAIGC60qmenFk94uC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 269621,
+      "name": "Cancionero",
+      "url": "https://open.spotify.com/track/3HMU4dE6cDSIg91lJyTkc5"
     },
     {
       "added_at": "2023-06-05 03:00:00",

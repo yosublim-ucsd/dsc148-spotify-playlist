@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 97662,
+  "num_followers": 97672,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWQwZDIyZDE4ZTZhMDBiOTllYWYxNmQwNzUyM2Q3ODE4ZjdjMzE5",
+  "snapshot_id": "MCxkMGFhMDJmMjE0YTc5NDRhOGYwOGM0YWRlZjZiNmRiMjdjZTUzNjFl",
   "tracks": [
     {
       "added_at": "2023-06-22 15:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-06-22 15:00:00",
       "album": {
-        "name": "Visiting Hours",
-        "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Visiting Hours",
-      "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
+      "duration_ms": 221245,
+      "name": "Through The Echoes",
+      "url": "https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC"
     },
     {
       "added_at": "2023-06-22 15:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-06-22 15:00:00",
       "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+        "name": "Visiting Hours",
+        "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
       },
       "artists": [
         {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 221245,
-      "name": "Through The Echoes",
-      "url": "https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC"
+      "duration_ms": 215506,
+      "name": "Visiting Hours",
+      "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
     },
     {
       "added_at": "2023-06-22 15:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-22 15:00:00",
       "album": {
-        "name": "I Don't Care (Acoustic)",
-        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 238220,
-      "name": "I Don't Care - Acoustic",
-      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
-    },
-    {
-      "added_at": "2023-06-22 15:00:00",
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 190960,
       "name": "Love Affair",
       "url": "https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ"
+    },
+    {
+      "added_at": "2023-06-22 15:00:00",
+      "album": {
+        "name": "I Don't Care (Acoustic)",
+        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 238220,
+      "name": "I Don't Care - Acoustic",
+      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
     },
     {
       "added_at": "2023-06-22 15:00:00",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2023-06-22 15:00:00",
       "album": {
-        "name": "Dear August",
-        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
+        "name": "Fly Me to the Moon",
+        "url": "https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC"
       },
       "artists": [
         {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "The Macarons Project",
+          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
         }
       ],
-      "duration_ms": 200940,
-      "name": "Dear August",
-      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
+      "duration_ms": 155402,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s"
     },
     {
       "added_at": "2023-06-22 15:00:00",
@@ -1315,18 +1311,22 @@
     {
       "added_at": "2023-06-22 15:00:00",
       "album": {
-        "name": "Fly Me to the Moon",
-        "url": "https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC"
+        "name": "Dear August",
+        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
       },
       "artists": [
         {
-          "name": "The Macarons Project",
-          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 155402,
-      "name": "Fly Me to the Moon",
-      "url": "https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s"
+      "duration_ms": 200940,
+      "name": "Dear August",
+      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
     },
     {
       "added_at": "2023-06-22 15:00:00",

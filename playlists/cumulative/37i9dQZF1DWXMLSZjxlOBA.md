@@ -4,7 +4,7 @@
 
 > Dance hits to soundtrack your life
 
-134 songs - 7 hr 18 min
+135 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,8 +64,9 @@
 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 | 2022-10-14 | 2023-01-27 |
 | [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 | 2022-10-14 |  |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-10-14 |  |
+| [Jubel](https://open.spotify.com/track/5CqgPrK3V7GpSSaXDLc0qa) | [raphy](https://open.spotify.com/artist/5irOBYegrzJAoGK3HPWUyH), [3ario](https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil), [Reaxys](https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI) | [Jubel](https://open.spotify.com/album/1OyFMLnshlXyukK5i7HPNT) | 3:20 | 2023-06-08 |  |
 | [Jubel](https://open.spotify.com/track/1cIIW3j6p4SxyAK4XmHqR9) | [roggie](https://open.spotify.com/artist/61gmjPlX3uejvEetDY5OUm), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg) | [Jubel](https://open.spotify.com/album/6PPoHgOC4luShJIh0p7urJ) | 3:21 | 2023-01-26 | 2023-05-05 |
-| [Jubel \- Radio Edit](https://open.spotify.com/track/6INwti4FZM31l0lJDKbpxn) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2QKdLS1J4yQ20q8ivavV6S) | 3:21 | 2022-10-14 |  |
+| [Jubel \- Radio Edit](https://open.spotify.com/track/6INwti4FZM31l0lJDKbpxn) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2QKdLS1J4yQ20q8ivavV6S) | 3:21 | 2022-10-14 | 2023-06-27 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2023-01-26 | 2023-03-26 |
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2023-01-26 |  |
 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 | 2022-10-14 | 2023-02-17 |

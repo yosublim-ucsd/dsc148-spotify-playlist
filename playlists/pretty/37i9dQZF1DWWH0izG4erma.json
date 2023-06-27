@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: Pecos & the Rooftops",
-  "num_followers": 536993,
+  "num_followers": 537112,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmNlMTJkMjE3YmQ3NTdlZjZmMjY1MjcyNzgwZTBhM2Y1MmM1ZWVj",
+  "snapshot_id": "MCw1NDdkZjFiZGJjYTU1OTBkODA3M2I0MDFiNzcxNzFiZTBhYTg0NThl",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -123,22 +123,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+        "name": "NATE SMITH (DELUXE)",
+        "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 205767,
-      "name": "red (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
+      "duration_ms": 189986,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -155,22 +151,6 @@
       "duration_ms": 233869,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "NATE SMITH (DELUXE)",
-        "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -199,6 +179,26 @@
       "duration_ms": 197234,
       "name": "Outlaws & Outsiders",
       "url": "https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 205767,
+      "name": "red (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "717 Tapes the Album",
         "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
@@ -323,22 +307,6 @@
       "duration_ms": 186458,
       "name": "Ride the Lightning - 717 Tapes",
       "url": "https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Jesus and Joan Jett",
-        "url": "https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl"
-      },
-      "artists": [
-        {
-          "name": "Kasey Tyndall",
-          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Jesus and Joan Jett",
-      "url": "https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -359,34 +327,34 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
+        "name": "Jesus and Joan Jett",
+        "url": "https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "Kasey Tyndall",
+          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
         }
       ],
-      "duration_ms": 236823,
-      "name": "Met the Devil in Oklahoma",
-      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
+      "duration_ms": 181506,
+      "name": "Jesus and Joan Jett",
+      "url": "https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY"
     },
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Blacked Out",
-        "url": "https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
       "artists": [
         {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Blacked Out",
-      "url": "https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc"
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -407,18 +375,34 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "TRUCK BED",
-        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
+        "name": "Blacked Out",
+        "url": "https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
         }
       ],
-      "duration_ms": 167534,
-      "name": "TRUCK BED",
-      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
+      "duration_ms": 208240,
+      "name": "Blacked Out",
+      "url": "https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 236823,
+      "name": "Met the Devil in Oklahoma",
+      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -455,22 +439,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Cowboys Did Cocaine",
-        "url": "https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6"
-      },
-      "artists": [
-        {
-          "name": "Riley Thomas",
-          "url": "https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB"
-        }
-      ],
-      "duration_ms": 232798,
-      "name": "Cowboys Did Cocaine",
-      "url": "https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -495,6 +463,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Cowboys Did Cocaine",
+        "url": "https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6"
+      },
+      "artists": [
+        {
+          "name": "Riley Thomas",
+          "url": "https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB"
+        }
+      ],
+      "duration_ms": 232798,
+      "name": "Cowboys Did Cocaine",
+      "url": "https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Anything Goes",
         "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
       },
@@ -507,38 +491,6 @@
       "duration_ms": 230586,
       "name": "Dirt",
       "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Poor Everybody Else",
-      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "SOLD OUT",
-        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -559,6 +511,38 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Poor Everybody Else",
+      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "TRUCK BED",
+        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 258799,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 156610,
-      "name": "Money Spent",
-      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+      "duration_ms": 183573,
+      "name": "Hate My Heart",
+      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+        "name": "SOLD OUT",
+        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 183573,
-      "name": "Hate My Heart",
-      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -715,26 +715,6 @@
       "duration_ms": 187957,
       "name": "Don't Come Lookin'",
       "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Ride It Hard",
-        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 150861,
-      "name": "Ride It Hard",
-      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -771,6 +751,26 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Ride It Hard",
+        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 150861,
+      "name": "Ride It Hard",
+      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Bricks",
-        "url": "https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 215086,
-      "name": "Bricks",
-      "url": "https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Fire On Wheels",
         "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 156973,
       "name": "Fire On Wheels",
       "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Bricks",
+        "url": "https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 215086,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 147508,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
         "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 165465,
       "name": "Cottonmouth (Rock Mix)",
       "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 147508,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 133629,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "NATE SMITH (DELUXE)",
         "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 193271,
       "name": "Hit Different",
       "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 133629,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Devil I Know",
-        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "The Devil I Know",
-      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Tabasco & Sweet Tea",
         "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 280065,
       "name": "Tabasco & Sweet Tea",
       "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "The Devil I Know",
+      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
     },
     {
       "added_at": "2023-06-23 04:00:00",

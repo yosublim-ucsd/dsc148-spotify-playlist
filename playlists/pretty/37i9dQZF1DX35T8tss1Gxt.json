@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Gene Moore",
-  "num_followers": 200364,
+  "num_followers": 200546,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWEwNDhjOGIyNGRiODg5MzlhMzY5OTlmZTZmMWI4ODFlOGQ5Y2Y2",
+  "snapshot_id": "MCw3MjhmODNlYzlhNmQyNGJkZmJiYTQwZGRjMmY5ZmNmNTQ1NTA5ZmFj",
   "tracks": [
     {
       "added_at": "2023-01-20 09:20:39",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
+        "name": "This Is How I Thank The Lord",
+        "url": "https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9"
       },
       "artists": [
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
         }
       ],
-      "duration_ms": 270750,
-      "name": "Holy Essence",
-      "url": "https://open.spotify.com/track/2Qb7PUm6cBszW414ri6MGA"
+      "duration_ms": 190714,
+      "name": "This Is How I Thank The Lord",
+      "url": "https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 270750,
+      "name": "Holy Essence",
+      "url": "https://open.spotify.com/track/2Qb7PUm6cBszW414ri6MGA"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 198333,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/3TjzAhRpmo4wH7Msh4rMcC"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "This Is How I Thank The Lord",
-        "url": "https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "This Is How I Thank The Lord",
-      "url": "https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 211203,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Watch The Sun",
         "url": "https://open.spotify.com/album/5H1FtrVEYKl9hQyDxBZHvN"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 323855,
       "name": "The Better Benediction (feat. Zacardi Cortez, Gene Moore, Samoht, Tim Rogers & Darrel 'MusiqCity' Walls)",
       "url": "https://open.spotify.com/track/3lHg2hk5SKxykj9bt48ARl"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
-      },
-      "artists": [
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 211203,
-      "name": "Positive",
-      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "without you",
-        "url": "https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z"
-      },
-      "artists": [
-        {
-          "name": "Secily",
-          "url": "https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2"
-        }
-      ],
-      "duration_ms": 176065,
-      "name": "without you",
-      "url": "https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "The Divide",
         "url": "https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 193385,
       "name": "The Divide",
       "url": "https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "without you",
+        "url": "https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z"
+      },
+      "artists": [
+        {
+          "name": "Secily",
+          "url": "https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "without you",
+      "url": "https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 415745,
       "name": "Walk By Faith",
       "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -699,22 +699,6 @@
       "duration_ms": 166943,
       "name": "Raise Me up",
       "url": "https://open.spotify.com/track/2TBL8zWxryE0tXrQ7SwkQn"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 223639,
-      "name": "Hands - Radio Version",
-      "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -775,6 +759,22 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 223639,
+      "name": "Hands - Radio Version",
+      "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Way Home",
-        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
-      },
-      "artists": [
-        {
-          "name": "Grace Tena",
-          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Lovely Day",
         "url": "https://open.spotify.com/album/3zZavsjjdDYJYhGKyInr3g"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 101214,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/6yQ9hTu7K4f19ABETmbuca"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Way Home",
+        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
+      },
+      "artists": [
+        {
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -947,6 +947,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Love So Sweet",
+        "url": "https://open.spotify.com/album/5KdES3GFxqvSh46467PyoM"
+      },
+      "artists": [
+        {
+          "name": "Chastity",
+          "url": "https://open.spotify.com/artist/2tQN1Rkm2xUAG09xEgQq1A"
+        },
+        {
+          "name": "Porsha Love",
+          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
+        }
+      ],
+      "duration_ms": 151467,
+      "name": "Love So Sweet",
+      "url": "https://open.spotify.com/track/4wpc2rPfoFkdbgsqG2KI6r"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
       },
@@ -979,42 +999,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Love So Sweet",
-        "url": "https://open.spotify.com/album/5KdES3GFxqvSh46467PyoM"
-      },
-      "artists": [
-        {
-          "name": "Chastity",
-          "url": "https://open.spotify.com/artist/2tQN1Rkm2xUAG09xEgQq1A"
-        },
-        {
-          "name": "Porsha Love",
-          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
-        }
-      ],
-      "duration_ms": 151467,
-      "name": "Love So Sweet",
-      "url": "https://open.spotify.com/track/4wpc2rPfoFkdbgsqG2KI6r"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Joy In The Morning",
-        "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 199972,
-      "name": "When We Get There",
-      "url": "https://open.spotify.com/track/20NBUKWjWeWr6P3vNQL6d9"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "The Fallen Movie Soundtrack",
         "url": "https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 178454,
       "name": "All the Time (Thinking Bout Me)",
       "url": "https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 199972,
+      "name": "When We Get There",
+      "url": "https://open.spotify.com/track/20NBUKWjWeWr6P3vNQL6d9"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
+        "name": "VANILLA",
+        "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
       },
       "artists": [
         {
-          "name": "Pauline Zoe Park",
-          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
         }
       ],
-      "duration_ms": 211209,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
+      "duration_ms": 148318,
+      "name": "VANILLA",
+      "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "VANILLA",
-        "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
       },
       "artists": [
         {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+          "name": "Pauline Zoe Park",
+          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
         }
       ],
-      "duration_ms": 148318,
-      "name": "VANILLA",
-      "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
+      "duration_ms": 211209,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "BUSY",
-        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "BUSY",
-      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Unguilty Pleasure",
         "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 193398,
       "name": "Unguilty Pleasure",
       "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1559,26 +1559,6 @@
       "duration_ms": 168000,
       "name": "Gotta Be God",
       "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Godfidence",
-        "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
-      },
-      "artists": [
-        {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
-        },
-        {
-          "name": "Kristelle",
-          "url": "https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Godfidence",
-      "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1647,6 +1627,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw"
+      },
+      "artists": [
+        {
+          "name": "Relena-Rochelle",
+          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
       },
@@ -1663,18 +1659,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw"
+        "name": "Godfidence",
+        "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
       "artists": [
         {
-          "name": "Relena-Rochelle",
-          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+        },
+        {
+          "name": "Kristelle",
+          "url": "https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9"
         }
       ],
-      "duration_ms": 167926,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG"
+      "duration_ms": 196500,
+      "name": "Godfidence",
+      "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Be My Everything (Reimagined)",
-        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 233086,
-      "name": "Be My Everything - Reimagined",
-      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "polaroids.",
         "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 155688,
       "name": "who.",
       "url": "https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Be My Everything (Reimagined)",
+        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 233086,
+      "name": "Be My Everything - Reimagined",
+      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1787,54 +1787,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "World On Fire (feat. Ryan Avery)",
-        "url": "https://open.spotify.com/album/2xWbI2DYwO25IrmsJf7LDu"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Ryan Avery",
-          "url": "https://open.spotify.com/artist/4auBKSXLD4GLUiA9zh1vFS"
-        }
-      ],
-      "duration_ms": 183098,
-      "name": "World On Fire (feat. Ryan Avery)",
-      "url": "https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Vol 3",
-        "url": "https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi"
-      },
-      "artists": [
-        {
-          "name": "Bay Worship Collective",
-          "url": "https://open.spotify.com/artist/0sqo3WtvwFbQzu9eMRWOuT"
-        },
-        {
-          "name": "Josh Manongdo",
-          "url": "https://open.spotify.com/artist/2k86aeAGM873qCIVSGImKe"
-        },
-        {
-          "name": "Sarita Canel",
-          "url": "https://open.spotify.com/artist/5sUMPqfzRZPTsNbmguPX9N"
-        },
-        {
-          "name": "Ariel Catanyag",
-          "url": "https://open.spotify.com/artist/2dmtwwOZ1U96RuKPLVitgt"
-        }
-      ],
-      "duration_ms": 281250,
-      "name": "Thanks and Praise",
-      "url": "https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Tale of a Free Man",
         "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
       },
@@ -1867,6 +1819,34 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Vol 3",
+        "url": "https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi"
+      },
+      "artists": [
+        {
+          "name": "Bay Worship Collective",
+          "url": "https://open.spotify.com/artist/0sqo3WtvwFbQzu9eMRWOuT"
+        },
+        {
+          "name": "Josh Manongdo",
+          "url": "https://open.spotify.com/artist/2k86aeAGM873qCIVSGImKe"
+        },
+        {
+          "name": "Sarita Canel",
+          "url": "https://open.spotify.com/artist/5sUMPqfzRZPTsNbmguPX9N"
+        },
+        {
+          "name": "Ariel Catanyag",
+          "url": "https://open.spotify.com/artist/2dmtwwOZ1U96RuKPLVitgt"
+        }
+      ],
+      "duration_ms": 281250,
+      "name": "Thanks and Praise",
+      "url": "https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "How Are You Healing?",
         "url": "https://open.spotify.com/album/5k9npIVUV9HbqnCzo1RDfy"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 285573,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/2RttnAvdTIokgZmXeOJkYY"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "World On Fire (feat. Ryan Avery)",
+        "url": "https://open.spotify.com/album/2xWbI2DYwO25IrmsJf7LDu"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Ryan Avery",
+          "url": "https://open.spotify.com/artist/4auBKSXLD4GLUiA9zh1vFS"
+        }
+      ],
+      "duration_ms": 183098,
+      "name": "World On Fire (feat. Ryan Avery)",
+      "url": "https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy"
     }
   ],
   "unique_name": "Rhythm & Praise",

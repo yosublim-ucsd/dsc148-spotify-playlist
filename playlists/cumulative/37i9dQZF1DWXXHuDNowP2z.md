@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-242 songs - 13 hr 49 min
+243 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [La Flechita](https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' la Raza](https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU) | 2:14 | 2022-04-08 |  |
 | [La Gripa](https://open.spotify.com/track/2xRxYAw3XRcT1LGI0AnZuz) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:23 | 2022-04-08 | 2023-02-25 |
 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 | 2022-04-08 |  |
-| [La Macarena \(Mere\-huapango\) \(En Vivo\)](https://open.spotify.com/track/2Ut5W1zxSI9bH29ce8Flic) | [Adixion Aktivada](https://open.spotify.com/artist/38Ji7LhFjPvtohWYEssKOk) | [Puro Note Primo / En Vivo Vol.1](https://open.spotify.com/album/0JAJ03Egipg9eLIRWP26yu) | 2:56 | 2022-04-08 |  |
+| [La Macarena \(Mere\-huapango\) \(En Vivo\)](https://open.spotify.com/track/2Ut5W1zxSI9bH29ce8Flic) | [Adixion Aktivada](https://open.spotify.com/artist/38Ji7LhFjPvtohWYEssKOk) | [Puro Note Primo / En Vivo Vol.1](https://open.spotify.com/album/0JAJ03Egipg9eLIRWP26yu) | 2:56 | 2022-04-08 | 2023-06-27 |
 | [La Manzanita](https://open.spotify.com/track/2Kb2jBBCtrzxgvK00daHym) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pacto De Sangre](https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn) | 2:21 | 2022-04-08 |  |
 | [La María](https://open.spotify.com/track/5jPprrmhOMek0GlcMMHkda) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:26 | 2022-08-01 | 2022-12-10 |
 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 | 2022-04-08 |  |
@@ -249,6 +249,7 @@
 | [Zapateado Encabronado \#3](https://open.spotify.com/track/35COOJVYzJ7fVz7EXaMKSv) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [De Corazon Ranchero](https://open.spotify.com/album/43uickJMbErAxX7qLrqHwV) | 4:27 | 2022-04-08 |  |
 | [Zapateado Encabronado \- Medley](https://open.spotify.com/track/5lSqEy0mREJohdOcwO7w76) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [Las Retro Chingonas](https://open.spotify.com/album/4fsxPB6ucLdxrhDkOmsT0D) | 3:09 | 2022-04-08 | 2023-06-24 |
 | [Zapateado Encabronado \- Medley](https://open.spotify.com/track/74asr255RQX7n8BPa5FdzA) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [Lo Más Escuchado De](https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp) | 3:09 | 2022-04-08 | 2022-08-04 |
+| [Zapateado Encabronado, El Sinaloense, La Loba del Mal, Los Coconitos](https://open.spotify.com/track/0xiMvJNupbRsbRu8Ox6XUS) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [Nuestra Historia y Algo Mas...](https://open.spotify.com/album/6UNzhVQkHybofoYY39AsMD) | 3:08 | 2023-04-21 |  |
 | [¿Por Qué Será?](https://open.spotify.com/track/4es2heRunRFsHZZbNgZ7g1) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [¿Por Qué Será?](https://open.spotify.com/album/256KNI3jGoz3oUbeWNTc04) | 3:03 | 2023-02-24 |  |
 
 \*This playlist was first scraped on 2022-07-24. Prior content cannot be recovered.

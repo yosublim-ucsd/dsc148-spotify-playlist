@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 125949,
+  "num_followers": 125947,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWNkNDMxNmEwN2ZjNzRhMTg5MTk2N2MwNWY3ZjVmMGUwMjI3NTA3",
+  "snapshot_id": "MCw2OGNlNzFlZDc0MWY0MjZkNmMyOGE2MjUzOWZmN2IwZjMzN2Q4ZjM0",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Together With Cliff Richard",
+        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Mistletoe and Wine",
+      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "Warm on a Christmas Night",
         "url": "https://open.spotify.com/album/0hNsNVEk5TwAFs6fmXUrmE"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 206066,
       "name": "I Need You Christmas",
       "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Together With Cliff Richard",
-        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Mistletoe and Wine",
-      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Tracks in the Snow",
+        "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Tracks in the Snow",
+      "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "I Dream Of Christmas (Extended)",
         "url": "https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Tracks in the Snow",
-        "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
+        "name": "The King of Soul",
+        "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 230973,
-      "name": "Tracks in the Snow",
-      "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
+      "duration_ms": 155560,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1111,22 +1127,6 @@
       "duration_ms": 215058,
       "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "The King of Soul",
-        "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Stand By Me",
-        "url": "https://open.spotify.com/album/4YvHeV5DGFgxp5sACJ56Kg"
-      },
-      "artists": [
-        {
-          "name": "The Kingdom Choir",
-          "url": "https://open.spotify.com/artist/3OZZeMIZnTvQKjfQEEqx6C"
-        }
-      ],
-      "duration_ms": 248080,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/69XQyaA4a4cL5iXUtc41V3"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "A Very She & Him Christmas",
         "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
       },
@@ -1307,22 +1291,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "In the Bleak Midwinter",
-        "url": "https://open.spotify.com/album/5BH6HaosOth2jNBs7tANBK"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 203747,
-      "name": "In the Bleak Midwinter",
-      "url": "https://open.spotify.com/track/6bT0cqmIS5vjNSdidUyVaa"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "A Holly Dolly Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
       },
@@ -1335,6 +1303,38 @@
       "duration_ms": 201754,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/59zlM1isufljV8wUPby0rq"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/4YvHeV5DGFgxp5sACJ56Kg"
+      },
+      "artists": [
+        {
+          "name": "The Kingdom Choir",
+          "url": "https://open.spotify.com/artist/3OZZeMIZnTvQKjfQEEqx6C"
+        }
+      ],
+      "duration_ms": 248080,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/69XQyaA4a4cL5iXUtc41V3"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "In the Bleak Midwinter",
+        "url": "https://open.spotify.com/album/5BH6HaosOth2jNBs7tANBK"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 203747,
+      "name": "In the Bleak Midwinter",
+      "url": "https://open.spotify.com/track/6bT0cqmIS5vjNSdidUyVaa"
     }
   ],
   "unique_name": "Easy Christmas",

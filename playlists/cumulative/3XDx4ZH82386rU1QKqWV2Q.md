@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-197 songs - 8 hr 54 min
+200 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amnesia](https://open.spotify.com/track/6CZHyKtQTtUU0D1gsOXEFq) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Amnesia](https://open.spotify.com/album/3dcAcFI8jZdZ1xPteAi8Sb) | 2:06 | 2023-06-12 |  |
 | [Babel](https://open.spotify.com/track/6b8VuRQmxLjUM4KvqpuYOP) | [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9) | [Babel](https://open.spotify.com/album/4x3ubg4BHqes69AX7kENNo) | 2:52 | 2023-06-12 |  |
 | [Black Out Days \- Future Islands Remix](https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Black Out Days \(Future Islands Remix\)](https://open.spotify.com/album/0IzpAGRpjLqIQLt4FvmW7m) | 4:08 | 2023-06-12 |  |
+| [BLEACH](https://open.spotify.com/track/2qjDHIVrDRqHQRL5EU3qq2) | [SXRPENT](https://open.spotify.com/artist/4B2rGiffJ3wU73LhUMRESe) | [BLEACH](https://open.spotify.com/album/7yJxGx1cQJcmMTYcA0TrTQ) | 1:28 | 2023-06-26 |  |
 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 | 2023-06-12 |  |
 | [BOTTLE GIRLS](https://open.spotify.com/track/4jirICc13ByksD5gnekVET) | [Hd4president](https://open.spotify.com/artist/1IRUBjX6bQWnwupD48ZRgc), [Ku$h Drifter](https://open.spotify.com/artist/17PKqjvXIlUPIx2TrwnVnb) | [BOTTLE GIRLS](https://open.spotify.com/album/73pb1XS2sIfO94mva5OZro) | 1:24 | 2023-06-12 |  |
 | [Brazilian Phonk Mano](https://open.spotify.com/track/5l5KiiYcmR8kbHsg18VfqK) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/5pWDJaRKvFnwpPO1NXXw8a) | 1:24 | 2023-06-12 |  |
@@ -76,7 +77,7 @@
 | [Hell To Ascend](https://open.spotify.com/track/4fbJi65jCwaMi4Xs5ZNAri) | [Ezediel](https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY) | [Hell To Ascend](https://open.spotify.com/album/68txpz9LvmBgNq7Sfb0U8W) | 2:29 | 2023-06-12 |  |
 | [help\_urself](https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [Ezekiel Singles ’18\-‘20](https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v) | 2:19 | 2023-06-12 |  |
 | [Hennessy \- Radio Edit](https://open.spotify.com/track/4pmzYvV45hgQ55oyoidgtm) | [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1) | [Hennessy](https://open.spotify.com/album/5FDjV9dxURBdBbSre1yXZm) | 2:56 | 2023-06-12 |  |
-| [Highway to Hell](https://open.spotify.com/track/3VEnUgXE1igOKvfZSqeJUk) | [Charlie Ricch](https://open.spotify.com/artist/4425MkDqfYzCr225bLPSoa), [Nikko](https://open.spotify.com/artist/3PlgAYx18qrE4dXvHZEtTK) | [Highway to Hell](https://open.spotify.com/album/1KLwVakyfIzKafIX6gOPGx) | 2:56 | 2023-06-22 |  |
+| [Highway to Hell](https://open.spotify.com/track/3VEnUgXE1igOKvfZSqeJUk) | [Charlie Ricch](https://open.spotify.com/artist/4425MkDqfYzCr225bLPSoa), [Nikko](https://open.spotify.com/artist/3PlgAYx18qrE4dXvHZEtTK) | [Highway to Hell](https://open.spotify.com/album/1KLwVakyfIzKafIX6gOPGx) | 2:56 | 2023-06-22 | 2023-06-27 |
 | [Hit They Block](https://open.spotify.com/track/7fAzFEtjInkP8l2PZa4t2M) | [Onsight Deeda](https://open.spotify.com/artist/3T6NFoNsKDpm22Ve9YsdAO) | [Hit They Block](https://open.spotify.com/album/4iOnDGQpZLEx78o18yIkE2) | 4:04 | 2023-06-12 |  |
 | [i love techno](https://open.spotify.com/track/5QaUJb1TT12DtUWc7TyKq7) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [i love techno](https://open.spotify.com/album/62nDfCUYCcRXB0vZNlyJ1f) | 1:38 | 2023-06-18 |  |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2023-06-12 |  |
@@ -112,6 +113,7 @@
 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2023-06-12 |  |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2023-06-12 |  |
 | [MILKSHAKE](https://open.spotify.com/track/30VFGYS36mL3577UM1h2JA) | [zyon](https://open.spotify.com/artist/0FMNSIjCrNLyi590NKyddg) | [MILKSHAKE](https://open.spotify.com/album/2RxU71EEjbLfummeaf7rXa) | 2:56 | 2023-06-12 | 2023-06-26 |
+| [MINK](https://open.spotify.com/track/4W8wULeeoLwokOXDg9MgLK) | [J TIM](https://open.spotify.com/artist/51VkTCE2y5mcPegFhTFfFr) | [MINK](https://open.spotify.com/album/0hGSAPhMUfJ7EsMV9D5dDI) | 1:36 | 2023-06-26 |  |
 | [Mitty](https://open.spotify.com/track/21cEiYR7VPYi2ZJ1u2OBgU) | [Cel Genesis](https://open.spotify.com/artist/1mVhZVWVHZIUmwNLVcqMSY) | [Shallow Dream](https://open.spotify.com/album/1uQHDJip5bcCrDEmkVgFLa) | 6:43 | 2023-06-12 | 2023-06-19 |
 | [Money So Big \- Instrumental](https://open.spotify.com/track/0Iw5plp58VoLfieype0buV) | [XTENTION STUDIOS](https://open.spotify.com/artist/3WpKx4C8unhDWk5QKjQvMb) | [Money So Big \(Instrumental\)](https://open.spotify.com/album/0tYdncj4Gkiq12PDVpcqHU) | 2:40 | 2023-06-12 |  |
 | [MOVE A MUSCLE](https://open.spotify.com/track/69xXCfQ05tDCgcV1TWwMn2) | [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [MOTION MUZIK](https://open.spotify.com/album/2JE2NSDzG6W19AkZ9PuFsi) | 2:04 | 2023-06-12 |  |
@@ -134,6 +136,7 @@
 | [PHONK DA FAVELA](https://open.spotify.com/track/50S50LytHPrWpEBjxK22Of) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy) | [PHONK DA FAVELA](https://open.spotify.com/album/2ysA7pw5gIH0GVZauYZB1N) | 2:26 | 2023-06-12 |  |
 | [Phonk Nation](https://open.spotify.com/track/2IQJkefhgO2u8x9XPKMZQc) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [Phonk Nation](https://open.spotify.com/album/5DbVxuZA4K4VXkhlp23bmg) | 2:43 | 2023-06-18 |  |
 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 | 2023-06-12 |  |
+| [Please Leave](https://open.spotify.com/track/2isrUMb1HgRyruhVpecl8l) | [Ryan Morrissette](https://open.spotify.com/artist/4kXkSWe5yixpvcgzekRCO6), [David July](https://open.spotify.com/artist/3q40bLJsFjDFF8o5FE0vRJ) | [Please Leave](https://open.spotify.com/album/7FDxH7FXfdM50cEWtis4Pc) | 2:55 | 2023-06-26 |  |
 | [PULL THE TRIGGER](https://open.spotify.com/track/124xdL3i1WaIzI7RYhr5BR) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [PULL THE TRIGGER](https://open.spotify.com/album/6ckyD0kYeZWXDYrUUqP8vy) | 2:38 | 2023-06-12 |  |
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2023-06-12 |  |
 | [Racks](https://open.spotify.com/track/3jplxbZlmchbU4SBe44YaS) | [Famous Kid Brick](https://open.spotify.com/artist/2reMcGkhB81Dwm8ywl8qB3) | [Racks](https://open.spotify.com/album/0TDfPLBghrjTnznzjxibKc) | 1:49 | 2023-06-12 |  |

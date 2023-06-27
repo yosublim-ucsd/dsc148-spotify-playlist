@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-281 songs - 15 hr 35 min
+283 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-12 |  |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:25 | 2022-07-25 | 2022-11-13 |
 | [A8](https://open.spotify.com/track/06uZ51ssp5PkwHzZM2WUAK) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [to you, to me](https://open.spotify.com/album/5vtHCIkKF4SmJDnWcTqzn7) | 3:28 | 2022-06-06 | 2022-07-29 |
-| [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 | 2022-06-06 |  |
+| [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 | 2022-06-06 | 2023-06-27 |
 | [airplane thoughts](https://open.spotify.com/track/4t5joZkdlXlvzLXJbkgppJ) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:30 | 2022-07-25 |  |
 | [airplane thoughts](https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [airplane thoughts](https://open.spotify.com/album/3k8juVCkkKg3IG8gNOttWH) | 3:30 | 2022-06-06 | 2022-07-29 |
 | [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 | 2022-10-24 | 2022-11-13 |
@@ -170,7 +170,7 @@
 | [lucid dreaming](https://open.spotify.com/track/152hTttqi4LSGHUZK5Q0qS) | [kessari](https://open.spotify.com/artist/72Hau0P2ZO2GA1LAXyypFh) | [lucid dreaming](https://open.spotify.com/album/3yt5fkWOIs3IRQqUotKCgi) | 2:52 | 2022-06-06 | 2022-07-28 |
 | [Lucky](https://open.spotify.com/track/6MfrCyIyaYJbcB8FI7khMm) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [Lucky](https://open.spotify.com/album/5y1MlBMoNjtPW6NhJepXnX) | 1:30 | 2022-06-06 | 2022-07-29 |
 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 | 2022-07-25 |  |
-| [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 | 2022-06-06 |  |
+| [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 | 2022-06-06 | 2023-06-27 |
 | [Medicate](https://open.spotify.com/track/3tDkSfjREVdnz1pXMUo2jK) | [Gavrielle](https://open.spotify.com/artist/3xgMsxKjHOB6X5cIwUJY0A) | [Medicate](https://open.spotify.com/album/0dMwwd01RnTLQkAll7gPBe) | 3:34 | 2022-06-06 | 2022-07-29 |
 | [Memory](https://open.spotify.com/track/3kRKuPvYLW6CP8RFxSx3gi) | [Gessie](https://open.spotify.com/artist/1PgSILQBVmWnIGkUlJlhsD), [Kaiyo](https://open.spotify.com/artist/6b8jf0tY9OjGS2zFcGex42) | [Memory](https://open.spotify.com/album/7hPipLUUHA4frzZT851vqr) | 2:44 | 2022-06-13 | 2022-06-18 |
 | [Mercury](https://open.spotify.com/track/2Bd0jr3pbK4UVGTH3M15kW) | [Maccentus](https://open.spotify.com/artist/1nKcjWzQ2BXIEhnHGlHoh2) | [Mercury](https://open.spotify.com/album/0zfp672mAy0bues669Tc4i) | 2:23 | 2022-06-06 | 2022-07-29 |
@@ -216,6 +216,7 @@
 | [Release](https://open.spotify.com/track/0P1Z6G1dnunmC5yc8zhkSx) | [Soulful Ghosts](https://open.spotify.com/artist/3CfoYxHDFSqlGAHsXw3isu) | [Release](https://open.spotify.com/album/2oQeJ0UWEt58697cThIqlv) | 4:01 | 2022-06-06 | 2022-07-29 |
 | [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 | 2022-07-25 |  |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-06-06 |  |
+| [Rock With You](https://open.spotify.com/track/3WDCJPeTF0nxYaGDazmBxV) | [Taite Imogen](https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL) | [Rock With You](https://open.spotify.com/album/2XG2MQWbgtMax6Inextxoi) | 2:28 | 2023-06-26 |  |
 | [roundabout](https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [roundabout](https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT) | 2:12 | 2022-06-06 |  |
 | [Sailor](https://open.spotify.com/track/6AgOSBjpl8Xy8MabVdORG1) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Sailor](https://open.spotify.com/album/19kgbFTPc81zIyqUzICzCQ) | 4:00 | 2022-06-20 | 2022-07-28 |
 | [Sanctuary](https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Sanctuary](https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI) | 3:00 | 2022-06-06 |  |
@@ -246,6 +247,7 @@
 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-07-25 |  |
 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 | 2022-10-18 |  |
 | [The Space Between Us](https://open.spotify.com/track/6OLWjfBXWoGS5ft8IFzcjq) | [Saint Fiction](https://open.spotify.com/artist/6MD05zpi26c0tir83S7Rpd) | [The Space Between Us](https://open.spotify.com/album/4ahRpyPIbiyUpd55Ry3HnJ) | 3:17 | 2022-06-06 | 2022-07-28 |
+| [The Star Room \(OG Version\) \- Bonus Track](https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Watching Movies with the Sound Off \(10th Anniversary\)](https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp) | 4:24 | 2023-06-26 |  |
 | [Thinkin Bout You](https://open.spotify.com/track/5kx5NtuqynfuDqUppK4qa4) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/7HtutouCfFdDPs3xO9EIeU) | 4:23 | 2022-06-06 | 2022-07-28 |
 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 | 2022-07-25 |  |
 | [This Could Be \- Chill Mix](https://open.spotify.com/track/1fMh032FtBwJDk1iGurH9Y) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [This Could Be \(Chill Mix\)](https://open.spotify.com/album/1EePdJthRN92skeHT0hzev) | 2:58 | 2022-07-25 | 2022-09-06 |

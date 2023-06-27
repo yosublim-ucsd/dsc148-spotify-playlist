@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 39532,
+  "num_followers": 39546,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWYwNzMwODk5ZTIyMzNhZTAzYjRlM2QxYTAyMGFkMzVlYTBkYTcx",
+  "snapshot_id": "MCw1MDhmZWYzZDNhNGE1MmI5YTNiNGMyMmExNGRhMmY0MTBmNmJkOTIw",
   "tracks": [
     {
       "added_at": "2023-06-16 13:28:03",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-16 13:28:03",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 153037,
-      "name": "Meltdown",
-      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
-    },
-    {
-      "added_at": "2023-06-16 13:28:03",
-      "album": {
         "name": "people pleaser / sleep at night",
         "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 146654,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+    },
+    {
+      "added_at": "2023-06-16 13:28:03",
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 153037,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
     },
     {
       "added_at": "2023-06-16 13:28:03",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-06-16 13:28:03",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+        "name": "Sonder (2023)",
+        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
+      "duration_ms": 198221,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
     },
     {
       "added_at": "2023-06-16 13:28:03",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-06-16 13:28:03",
       "album": {
-        "name": "Sonder (2023)",
-        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 198221,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2023-06-16 13:28:03",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-06-16 13:28:03",
       "album": {
-        "name": "Blood Orange",
-        "url": "https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 193950,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg"
-    },
-    {
-      "added_at": "2023-06-16 13:28:03",
-      "album": {
         "name": "What Ifs & Maybes",
         "url": "https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 184023,
       "name": "Crown Your Love",
       "url": "https://open.spotify.com/track/64jnWr7d0fgtycXQfyGBo7"
+    },
+    {
+      "added_at": "2023-06-16 13:28:03",
+      "album": {
+        "name": "Blood Orange",
+        "url": "https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 193950,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg"
     },
     {
       "added_at": "2023-06-16 13:28:03",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-06-16 13:28:03",
       "album": {
-        "name": "Kiss You",
-        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "Kiss You",
-      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
-    },
-    {
-      "added_at": "2023-06-16 13:28:03",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2023-06-16 13:28:03",
       "album": {
-        "name": "i loved a boy",
-        "url": "https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi"
+        "name": "Kiss You",
+        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
       },
       "artists": [
         {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
         }
       ],
-      "duration_ms": 145128,
-      "name": "i loved a boy",
-      "url": "https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d"
+      "duration_ms": 152506,
+      "name": "Kiss You",
+      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
     },
     {
       "added_at": "2023-06-16 13:28:03",
@@ -947,6 +931,22 @@
       "duration_ms": 176214,
       "name": "Love You",
       "url": "https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy"
+    },
+    {
+      "added_at": "2023-06-16 13:28:03",
+      "album": {
+        "name": "i loved a boy",
+        "url": "https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 145128,
+      "name": "i loved a boy",
+      "url": "https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d"
     },
     {
       "added_at": "2023-06-16 13:28:03",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-06-16 13:28:03",
       "album": {
-        "name": "Muscle Memory",
-        "url": "https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj"
-      },
-      "artists": [
-        {
-          "name": "KAMILLE",
-          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 211049,
-      "name": "Muscle Memory",
-      "url": "https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl"
-    },
-    {
-      "added_at": "2023-06-16 13:28:03",
-      "album": {
         "name": "LUCID",
         "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
@@ -1119,6 +1099,26 @@
     {
       "added_at": "2023-06-16 13:28:03",
       "album": {
+        "name": "Muscle Memory",
+        "url": "https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj"
+      },
+      "artists": [
+        {
+          "name": "KAMILLE",
+          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 211049,
+      "name": "Muscle Memory",
+      "url": "https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl"
+    },
+    {
+      "added_at": "2023-06-16 13:28:03",
+      "album": {
         "name": "Nothing Lasts Forever",
         "url": "https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-06-16 13:28:03",
       "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
-      },
-      "artists": [
-        {
-          "name": "Cate",
-          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
-    },
-    {
-      "added_at": "2023-06-16 13:28:03",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 214768,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
+    },
+    {
+      "added_at": "2023-06-16 13:28:03",
+      "album": {
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
     },
     {
       "added_at": "2023-06-16 13:28:03",

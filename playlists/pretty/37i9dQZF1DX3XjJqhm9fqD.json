@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Anie Alerte ",
-  "num_followers": 78436,
+  "num_followers": 78459,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2U2ZWYxMWVjODQzNDk3MGY4MTlkNzIyZmMxYjY1YzBiYTA2ZTNm",
+  "snapshot_id": "MCwwZjU1ZGUwOWFjZDMyZTRlMmFhZTZhMDAwNWRlYzcxMzlhMGNlYWY0",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "LAS",
-        "url": "https://open.spotify.com/album/72xQw0tZDwDDl1uQ6ixpo7"
-      },
-      "artists": [
-        {
-          "name": "Zafem",
-          "url": "https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9"
-        }
-      ],
-      "duration_ms": 313421,
-      "name": "Dlo Dous",
-      "url": "https://open.spotify.com/track/092nVwXDBvlff4H9p71rOh"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 183773,
       "name": "$payforhaiti (feat. Mach-Hommy)",
       "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "LAS",
+        "url": "https://open.spotify.com/album/72xQw0tZDwDDl1uQ6ixpo7"
+      },
+      "artists": [
+        {
+          "name": "Zafem",
+          "url": "https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9"
+        }
+      ],
+      "duration_ms": 313421,
+      "name": "Dlo Dous",
+      "url": "https://open.spotify.com/track/092nVwXDBvlff4H9p71rOh"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Ti Kabrit",
+        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 161717,
+      "name": "Ti Kabrit",
+      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Mennaj Moun Yo",
         "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 229489,
       "name": "2 Gouden",
       "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Ti Kabrit",
-        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 161717,
-      "name": "Ti Kabrit",
-      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Show Me Love (feat. Meer Colon)",
         "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 168510,
       "name": "Show Me Love (feat. Meer Colon)",
       "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Bal Tout",
+        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "Bal Tout",
+      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Bal Tout",
-        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Bal Tout",
-      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "BIDIBAM",
         "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Anthology, Vol. IV",
         "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
       },
@@ -1195,54 +1195,6 @@
       "duration_ms": 526373,
       "name": "New York City",
       "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Say It Like",
-        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
-      },
-      "artists": [
-        {
-          "name": "Sarina",
-          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Say It Like",
-      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
-      },
-      "artists": [
-        {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
-        }
-      ],
-      "duration_ms": 291120,
-      "name": "A.k.i.ko.",
-      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Plenyen Player Yo",
-        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
-      },
-      "artists": [
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        }
-      ],
-      "duration_ms": 226542,
-      "name": "Plenyen Player Yo",
-      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1263,22 +1215,50 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Ogou (Pran Ka Mwen)",
-        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
       "artists": [
         {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
         }
       ],
-      "duration_ms": 296666,
-      "name": "Ogou (Pran Ka Mwen)",
-      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
+      "duration_ms": 291120,
+      "name": "A.k.i.ko.",
+      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Say It Like",
+        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
+      },
+      "artists": [
+        {
+          "name": "Sarina",
+          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Say It Like",
+      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Plenyen Player Yo",
+        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
+      },
+      "artists": [
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        }
+      ],
+      "duration_ms": 226542,
+      "name": "Plenyen Player Yo",
+      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1319,6 +1299,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Ogou (Pran Ka Mwen)",
+        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 296666,
+      "name": "Ogou (Pran Ka Mwen)",
+      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Haiti debout",
         "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
       },
@@ -1331,26 +1331,6 @@
       "duration_ms": 198533,
       "name": "Kote moun yo",
       "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Trap King",
-        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Phyllisia Ross",
-          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Fanm Ch\u00e8",
-      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1375,6 +1355,26 @@
       "duration_ms": 175721,
       "name": "Miscalculated",
       "url": "https://open.spotify.com/track/6jbyBrXQPHK3s0V0OfGp0P"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Trap King",
+        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Phyllisia Ross",
+          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Fanm Ch\u00e8",
+      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Culo",
+        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
+      },
+      "artists": [
+        {
+          "name": "Jamhaitian",
+          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
+        }
+      ],
+      "duration_ms": 192897,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/6V0J1WLHrN3BuuP2YOD7ND"
       },
@@ -1835,38 +1851,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Culo",
-        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
-      },
-      "artists": [
-        {
-          "name": "Jamhaitian",
-          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
-        }
-      ],
-      "duration_ms": 192897,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Mr Diablo",
-        "url": "https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa"
-      },
-      "artists": [
-        {
-          "name": "DonLex",
-          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
-        }
-      ],
-      "duration_ms": 166635,
-      "name": "Mr Diablo",
-      "url": "https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Stupid Love",
         "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 400666,
       "name": "Papa Loko (Arr. N. Joachim) - Interlude. September 24, 1918",
       "url": "https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Mr Diablo",
+        "url": "https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa"
+      },
+      "artists": [
+        {
+          "name": "DonLex",
+          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
+        }
+      ],
+      "duration_ms": 166635,
+      "name": "Mr Diablo",
+      "url": "https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc"
     }
   ],
   "unique_name": "Haitian Heat",

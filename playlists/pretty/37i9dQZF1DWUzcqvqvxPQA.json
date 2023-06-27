@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25663,
+  "num_followers": 25666,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGQxNDc1OTk0YzllNDE4M2ExM2VlZDI1ZGE0ZWNiYmVkNjA1OWJl",
+  "snapshot_id": "MCxjNWYwZjcwNjMwZDVmNjhlYzQxYTAwMDA5NGZhOWU5ZTNmNzNmYzc1",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1GgoypuXSxpTKOxEYiZ3JJ"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Waymaker Worship",
         "url": "https://open.spotify.com/album/6wxSAwgvqGfoTMHabNFefH"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 180707,
       "name": "Stupid Deep / Sinking Deep",
       "url": "https://open.spotify.com/track/63z6rIYJ4xdDW1ez00VQ26"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1GgoypuXSxpTKOxEYiZ3JJ"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "QUIET",
+        "url": "https://open.spotify.com/album/4QIY6fw4N0X4hg4r2R77ti"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 174590,
+      "name": "QUIET",
+      "url": "https://open.spotify.com/track/7tTojNH9f7n2MeAO5HaqAS"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Restoration",
         "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 177474,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/7I079hnzaP3BNu5Ra7h6q4"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "QUIET",
-        "url": "https://open.spotify.com/album/4QIY6fw4N0X4hg4r2R77ti"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 174590,
-      "name": "QUIET",
-      "url": "https://open.spotify.com/track/7tTojNH9f7n2MeAO5HaqAS"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "EVERYTHING EVERYTHING",
+        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 200079,
+      "name": "EVERYTHING EVERYTHING",
+      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "One-Way Conversations",
         "url": "https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW"
       },
@@ -307,6 +323,22 @@
       "duration_ms": 210920,
       "name": "Love With Your Life",
       "url": "https://open.spotify.com/track/3YVsYrddp7lbej2cXniN3Q"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Happy Dance",
+      "url": "https://open.spotify.com/track/7c1LZzDxrNCOJRe3A459S4"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -331,34 +363,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+        "name": "Champion (Studio Version)",
+        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 171653,
-      "name": "Happy Dance",
-      "url": "https://open.spotify.com/track/7c1LZzDxrNCOJRe3A459S4"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "EVERYTHING EVERYTHING",
-        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 200079,
-      "name": "EVERYTHING EVERYTHING",
-      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
+      "duration_ms": 237013,
+      "name": "Champion - Studio Version",
+      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -375,22 +391,6 @@
       "duration_ms": 246933,
       "name": "WALKING ON WATER",
       "url": "https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Champion (Studio Version)",
-        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
-      },
-      "artists": [
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Champion - Studio Version",
-      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Patient",
-      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Symphony",
         "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 228960,
       "name": "Count Me In",
       "url": "https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Patient",
+      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -563,34 +563,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "One More Day",
-        "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
         }
       ],
-      "duration_ms": 194798,
-      "name": "One More Day",
-      "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Faultlines Vol. I",
-        "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
-      },
-      "artists": [
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo"
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -611,18 +595,34 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+        "name": "Faultlines Vol. I",
+        "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
         }
       ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+      "duration_ms": 172500,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 194798,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "The Divine Storm",
         "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 207129,
       "name": "The Power +",
       "url": "https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 182043,
+      "name": "Never Gonna Let Me Go",
+      "url": "https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Who Says?",
         "url": "https://open.spotify.com/album/60mgib427tgTcQiBP5na0y"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 272000,
       "name": "Just Want You",
       "url": "https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 182043,
-      "name": "Never Gonna Let Me Go",
-      "url": "https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Love (Remix)",
-        "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 210084,
-      "name": "Love (Remix)",
-      "url": "https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
         "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 179413,
       "name": "Count That High",
       "url": "https://open.spotify.com/track/3yejM42cofDkyazZoQn8f0"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Love (Remix)",
+        "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 210084,
+      "name": "Love (Remix)",
+      "url": "https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Most High",
+        "url": "https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 194686,
+      "name": "Most High",
+      "url": "https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Only U Forever",
         "url": "https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 202493,
       "name": "ONLY U (feat. Terrian)",
       "url": "https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Most High",
-        "url": "https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 194686,
-      "name": "Most High",
-      "url": "https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Standing In Your Light",
-        "url": "https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Standing In Your Light",
-      "url": "https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "HAPPY",
         "url": "https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 124160,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Standing In Your Light",
+        "url": "https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Standing In Your Light",
+      "url": "https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1639,30 +1639,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "The Divine Storm",
-        "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        },
-        {
-          "name": "Brianna Catrice",
-          "url": "https://open.spotify.com/artist/2zT458SceFHdoOiokYSleQ"
-        }
-      ],
-      "duration_ms": 181446,
-      "name": "Paid For It",
-      "url": "https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Shattered",
         "url": "https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm"
       },
@@ -1699,6 +1675,30 @@
       "duration_ms": 238573,
       "name": "City Lights (feat. Mitch Wong)",
       "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "The Divine Storm",
+        "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        },
+        {
+          "name": "Brianna Catrice",
+          "url": "https://open.spotify.com/artist/2zT458SceFHdoOiokYSleQ"
+        }
+      ],
+      "duration_ms": 181446,
+      "name": "Paid For It",
+      "url": "https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c"
     },
     {
       "added_at": "2020-08-13 14:39:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rizwan Fadilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,914 likes - 101 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,926 likes - 101 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 100 | [Stay Okay](https://open.spotify.com/track/1vURY6ViGzvJd2zk4E9nSv) | [Peter Andriaan Walandouw](https://open.spotify.com/artist/4DgrBakFjyWkjahGOtn8Sw), [Gisela Swaragita](https://open.spotify.com/artist/7Ms1xsUzyUnEGmbNZ9pcA8) | [Leisure](https://open.spotify.com/album/1Uo1nAvxoSqHdilGG5bmis) | 2:31 |
 | 101 | [SPACE](https://open.spotify.com/track/47Pln5zGHisobzjINaWOtY) | [Stnllboi](https://open.spotify.com/artist/1fIRUHeRrxU5CCuPbpP1Ns) | [SPACE](https://open.spotify.com/album/7rXZGMpkVMtCdV9dDJ3giC) | 2:17 |
 
-Snapshot ID: `MCxmZDBhYzgzOWM5NGU5Yzc2NzRjMWRmYWJjMzZjMDZmOWU0MmYyNGI5`
+Snapshot ID: `MCxlMzU3N2YyNmQyM2NkMzNlMTczNjBkYmUyZDA3YTJlZWQ1MTkxYjE0`

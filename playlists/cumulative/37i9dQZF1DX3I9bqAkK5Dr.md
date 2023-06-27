@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-119 songs - 7 hr 8 min
+120 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Poovanti Andham](https://open.spotify.com/track/012VlQmlFXaSFhiAtzVZCW) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Poovanti Andham](https://open.spotify.com/album/5V1m9SYh8IiBJIO2qdAzI1) | 3:32 | 2023-03-13 |  |
 | [Prema Prema](https://open.spotify.com/track/5OvIL2IyH3L8AHCRAdQCIm) | [Jagadish Kommuri](https://open.spotify.com/artist/5uj0ZzEL7EUZ3wEgfubrzq) | [Prema Prema](https://open.spotify.com/album/0M3qDZEGKDLKwQANc1KblL) | 4:32 | 2023-02-03 | 2023-06-21 |
 | [Premaga](https://open.spotify.com/track/1baUONzJFIOvHjj9wYPXTm) | [Varun Raghavan](https://open.spotify.com/artist/4NkVbFtRfMRioCkzZ6gg2C), [Neha Venugopal](https://open.spotify.com/artist/5UN71z4zK3sryzvO1aLUWz) | [Premaga](https://open.spotify.com/album/03K7rbDgmaJmCflM6BzkrS) | 2:58 | 2023-05-02 |  |
+| [Priya](https://open.spotify.com/track/5EsYWuhhGZQEj1GZmxF4l3) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Priya](https://open.spotify.com/album/7gm0Xh4k3ax15aFHUuptGu) | 3:15 | 2023-06-26 |  |
 | [Priyamvadha](https://open.spotify.com/track/2EGJx8mbYurKtFtu1JvPlZ) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW) | [Priyamvadha](https://open.spotify.com/album/6CpYGQNXbnaWwNcOmenKpr) | 3:30 | 2023-04-10 | 2023-06-06 |
 | [Raagalani](https://open.spotify.com/track/5ooUFuCNdvbD2LwHDjgzYZ) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8), [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Raagalani](https://open.spotify.com/album/6p34UCvj2FvN01JaNxIIq1) | 2:38 | 2022-07-18 | 2023-06-21 |
 | [Raagni](https://open.spotify.com/track/1pwHudKnEvILcwRi8L47Uz) | [Sunitha Upadrasta](https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE) | [Raagni](https://open.spotify.com/album/0UT9YM7CiqpQK8SjwSJJ2M) | 3:24 | 2023-03-09 | 2023-05-23 |

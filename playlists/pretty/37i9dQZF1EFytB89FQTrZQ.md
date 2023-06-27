@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,360 likes - 291 songs - 16 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,361 likes - 291 songs - 16 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,8 +239,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 229 | [Get Mine](https://open.spotify.com/track/1Tfzd8jY2q4OQR9Bmrxpbx) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [Get Mine](https://open.spotify.com/album/3KsLy1tfJwAA9dAeDLnno1) | 2:55 |
 | 230 | [Background](https://open.spotify.com/track/6QbCAeT8s6mVzrJP2tvtOx) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 1:29 |
 | 231 | [When The Party's Over](https://open.spotify.com/track/2KLWP0h8H5tZM7mbZOgh4C) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:55 |
-| 232 | [Play Me](https://open.spotify.com/track/5qO1826lRIvkgC5O4ySIe5) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 3:21 |
-| 233 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
+| 232 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
+| 233 | [Play Me](https://open.spotify.com/track/5qO1826lRIvkgC5O4ySIe5) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 3:21 |
 | 234 | [Free](https://open.spotify.com/track/5Aqm5mngMoGTU8fIvNJYbT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:45 |
 | 235 | [One Time](https://open.spotify.com/track/0c1kzQCqctdVspmNw52kcs) | [MIKExANGEL](https://open.spotify.com/artist/5kmcKvoT2hRuXOGnjcXc8e) | [NOTHiN 2 SOMETHiN](https://open.spotify.com/album/2hL1QtBuDgWpvkOD3FTdX5) | 3:10 |
 | 236 | [FEEL YOU](https://open.spotify.com/track/70tZOuiCoXijXf0k9UkL6R) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [22 MINUTES LATER](https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7) | 4:07 |
@@ -300,4 +300,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 290 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 | 291 | [Safe \- Gianluigi Di Russo Remix](https://open.spotify.com/track/3Tu97UqEVK0ztchxq6R0aJ) | [Ryan Mullin](https://open.spotify.com/artist/03P40uvlrvQ9yJAqyFiLI5) | [Safe](https://open.spotify.com/album/2gzA6hATddeEbDupJW6XeT) | 6:57 |
 
-Snapshot ID: `MjgxMjkxNDAsMDAwMDAwMDAwZDRmYWZmZjY3YjA5NDViODFiOGJlYTE2YzNiMjMxZg==`
+Snapshot ID: `MjgxMzA1MjAsMDAwMDAwMDA2MTEwMzAxZDczNmYyNDBmYWZkYzZlZGRkNzAzZjVmZQ==`

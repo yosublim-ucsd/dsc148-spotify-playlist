@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,160 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,212 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,17 +16,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 6 | [Deserted Tree](https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Deserted Tree](https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1) | 2:45 |
 | 7 | [Anata](https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:19 |
 | 8 | [Chill in Lydda](https://open.spotify.com/track/205BdRvvSaHf4LldyoRIkM) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY), [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Chill in Lydda](https://open.spotify.com/album/2oJRkGteUQziUCaE16Gxvu) | 2:36 |
-| 9 | [Heliolingus](https://open.spotify.com/track/27Z1479QzFOWOaSRbWpgEu) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Heliolingus](https://open.spotify.com/album/2lLzW831DY8i0fHoDeSAF0) | 2:52 |
-| 10 | [The Red](https://open.spotify.com/track/2w67xp8vRX5ucbjac7fslS) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Retrospective](https://open.spotify.com/album/4922ftLUafUKJBk7pB1MNQ) | 2:11 |
-| 11 | [Signs](https://open.spotify.com/track/6K4UmGe34YIIdnmFfSB6jP) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [Signs](https://open.spotify.com/album/6A3ddeuWO08Vezfc0ArP7N) | 3:20 |
-| 12 | [Ladybug](https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [Lucid Dreams](https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0) | 1:56 |
+| 9 | [Ladybug](https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [Lucid Dreams](https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0) | 1:56 |
+| 10 | [Heliolingus](https://open.spotify.com/track/27Z1479QzFOWOaSRbWpgEu) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Heliolingus](https://open.spotify.com/album/2lLzW831DY8i0fHoDeSAF0) | 2:52 |
+| 11 | [The Red](https://open.spotify.com/track/2w67xp8vRX5ucbjac7fslS) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Retrospective](https://open.spotify.com/album/4922ftLUafUKJBk7pB1MNQ) | 2:11 |
+| 12 | [Signs](https://open.spotify.com/track/6K4UmGe34YIIdnmFfSB6jP) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [Signs](https://open.spotify.com/album/6A3ddeuWO08Vezfc0ArP7N) | 3:20 |
 | 13 | [Take It Back](https://open.spotify.com/track/4SMzmquqMX6TEF6KIYWrBC) | [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [Take It Back](https://open.spotify.com/album/361cpEjJRfINouKxchrnOj) | 4:04 |
 | 14 | [Papi \- Instrumental](https://open.spotify.com/track/1VeFGeFeMw607RUCZKzgJa) | [Lbandy Music](https://open.spotify.com/artist/0KgDFmrEx0ezsgblUjCxoA) | [Woo Luv : Guitars & Emo Trap \(Instrumental\)](https://open.spotify.com/album/7j0aJqD2B3VvPYPzlSSyOc) | 2:16 |
 | 15 | [west](https://open.spotify.com/track/53euCZa2GQ6kN18ZxU1dbf) | [Sereen](https://open.spotify.com/artist/7rB1y5WUwQqiiCmNxFzunH) | [west](https://open.spotify.com/album/2KRk8B1FmtNsMJQAVPsauR) | 2:57 |
 | 16 | [HAAT \- Instrumental](https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [HAAT](https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn) | 2:30 |
 | 17 | [The Ace](https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q), [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Ace](https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op) | 2:24 |
-| 18 | [Chasin Daisys](https://open.spotify.com/track/6Ubd7b9qq9gihaR8WElv7m) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chasin Daisys](https://open.spotify.com/album/7GT5JveFqzf8ugLQOaunBe) | 2:11 |
-| 19 | [Targa](https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt) | [Targa](https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3) | 2:52 |
+| 18 | [Targa](https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt) | [Targa](https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3) | 2:52 |
+| 19 | [Chasin Daisys](https://open.spotify.com/track/6Ubd7b9qq9gihaR8WElv7m) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chasin Daisys](https://open.spotify.com/album/7GT5JveFqzf8ugLQOaunBe) | 2:11 |
 | 20 | [Selflessly](https://open.spotify.com/track/1tiurfNf4pcUra6NJiJJ1b) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [How Did We](https://open.spotify.com/album/5fipQ4LDq89FOPhQUd1KpB) | 3:01 |
 | 21 | [Convo](https://open.spotify.com/track/38bkmIxxZMQC1f6m0JXFl6) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Redux](https://open.spotify.com/album/1shfaj98aEPsCz6k6B2O9o) | 2:31 |
 | 22 | [Hotel](https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Glazed](https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12) | 2:39 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 39 | [\#Untitled\_02](https://open.spotify.com/track/4Qtf6z4zAzdciFZURPPjs8) | [VAN](https://open.spotify.com/artist/6awrCroyD97KIRrAP7wFbh) | [\#Untitled \#Unmixed \#Unmastered](https://open.spotify.com/album/3dFLQQsfPamyMVeMIj6Rt8) | 2:33 |
 | 40 | [Peepers](https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq) | [Nadamondi](https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ) | [Act Upon](https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB) | 2:11 |
 | 41 | [Ik Vari Do Vari](https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa) | [Rafael Aragon](https://open.spotify.com/artist/4WPMUBMIM4Pv1T4Qq3DIPs), [Stas](https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 5:22 |
-| 42 | [Stay at Home](https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr) | [ElNasser](https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R) | [Stay at Home](https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL) | 2:55 |
-| 43 | [If You Show Me Love](https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK) | [Sereen](https://open.spotify.com/artist/7rB1y5WUwQqiiCmNxFzunH) | [If You Show Me Love](https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i) | 1:30 |
-| 44 | [Emot](https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs) | [TheeAgris](https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB) | [Emot](https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7) | 2:26 |
-| 45 | [Eshkol](https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Eshkol](https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV) | 1:58 |
+| 42 | [Emot](https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs) | [TheeAgris](https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB) | [Emot](https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7) | 2:26 |
+| 43 | [Eshkol](https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Eshkol](https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV) | 1:58 |
+| 44 | [If You Show Me Love](https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK) | [Sereen](https://open.spotify.com/artist/7rB1y5WUwQqiiCmNxFzunH) | [If You Show Me Love](https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i) | 1:30 |
+| 45 | [Stay at Home](https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr) | [ElNasser](https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R) | [Stay at Home](https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL) | 2:55 |
 | 46 | [سمراء](https://open.spotify.com/track/2qfcSQjjn699Zp0uFiUUBX) | [Deeb](https://open.spotify.com/artist/7pjuu5qyxT0hyCdUbhmyDt) | [السلام البارد](https://open.spotify.com/album/5RkeVX6ftHFDMBkNlCzt0C) | 1:26 |
 | 47 | [SMOK](https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV) | [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv) | [SMOK](https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7) | 2:40 |
 | 48 | [Skye](https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd) | [Off / Side](https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR) | [Skye](https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 59 | [Instant Knafeh](https://open.spotify.com/track/6rjwVNcnNnIuHJtDKksKec) | [Kawakb](https://open.spotify.com/artist/5wkaR7CTqFNnNg9K0cGcSp) | [Instant Knafeh](https://open.spotify.com/album/3W75uqmteAdzH7BaJjWVbz) | 3:12 |
 | 60 | [yoyogi park](https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [tv\-guides \. \(mini\-tape\)](https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi) | 1:19 |
 
-Snapshot ID: `MCxkMjU3ZjVjMzQ1NjhhNWNkMmM4ZDdlZGJjYzk1YjUwYjI5ZWI1NzI3`
+Snapshot ID: `MCxjZjBiZTBhZjNmM2NlNTc3NTBhODBlMDI4ZDE0YjdmODkyZDNkYjNk`

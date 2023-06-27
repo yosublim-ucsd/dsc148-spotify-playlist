@@ -4533,6 +4533,24 @@
     },
     {
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333280,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP"
+    },
+    {
+      "album": {
         "name": "Goodbye Mr. Blue",
         "url": "https://open.spotify.com/album/4S8GgZhOvktzQZWA2NXHAX"
       },
@@ -6406,10 +6424,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 259519,
       "name": "Johnny Velvet",
       "url": "https://open.spotify.com/track/4HqltvXvSxgA2xAdlLEGNN"
+    },
+    {
+      "album": {
+        "name": "CAZIMI (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TbzHlioxxZvaD0Metp9dg"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Rose",
+          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259519,
+      "name": "Johnny Velvet",
+      "url": "https://open.spotify.com/track/5eicTpdl334npx01MuwB9f"
     },
     {
       "album": {
@@ -6612,6 +6648,24 @@
       "duration_ms": 208053,
       "name": "Kingdom For A Fool",
       "url": "https://open.spotify.com/track/2tKyv5qRq8PTp0sGJ0vu06"
+    },
+    {
+      "album": {
+        "name": "kisses",
+        "url": "https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237434,
+      "name": "kisses",
+      "url": "https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1"
     },
     {
       "album": {
@@ -7272,7 +7326,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 179836,
       "name": "Love Is The Way",
       "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
@@ -7940,7 +7994,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 312653,
       "name": "Mother Road",
       "url": "https://open.spotify.com/track/1zac3cinV2EJFUBpIRiLVm"
@@ -10510,6 +10564,24 @@
       "duration_ms": 225901,
       "name": "Run To The Moon",
       "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
+    },
+    {
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195086,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
     },
     {
       "album": {

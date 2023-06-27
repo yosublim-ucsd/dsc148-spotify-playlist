@@ -1,12 +1,12 @@
 {
   "description": "The best current contemporary Reggae. Cover: Buju Banton",
-  "num_followers": 114508,
+  "num_followers": 114594,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWM5YjI1OGQwNzJkMDA4MTg3NzBjMWRmMDFhZmYzYTY2MWZkZWU2",
+  "snapshot_id": "MCxiNDYzNmFlYzhlMGVkNjA2YmE5ZjkxODFiNDQ5M2ZkNzhlNjA2OWM0",
   "tracks": [
     {
       "added_at": "2023-06-09 14:45:48",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf"
+      },
+      "artists": [
+        {
+          "name": "Mystic Marley",
+          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
         "name": "Higher Place",
         "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 203077,
       "name": "Higher Place",
       "url": "https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf"
-      },
-      "artists": [
-        {
-          "name": "Mystic Marley",
-          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -287,26 +287,6 @@
       "duration_ms": 207272,
       "name": "Love And Mercy",
       "url": "https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "That's Not True",
-      "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -391,6 +371,42 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
+        "name": "The ExPerience",
+        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 243049,
+      "name": "Where I'm Coming From",
+      "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "That's Not True",
+      "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
         "name": "Cool Down",
         "url": "https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93"
       },
@@ -403,6 +419,22 @@
       "duration_ms": 242230,
       "name": "Cool Down",
       "url": "https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Nice Up The Dance",
+        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 212795,
+      "name": "Nice Up The Dance",
+      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -431,54 +463,18 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
+        "name": "Perfectly With You",
+        "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
       },
       "artists": [
         {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
         }
       ],
-      "duration_ms": 195829,
-      "name": "Vibe (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "The ExPerience",
-        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 243049,
-      "name": "Where I'm Coming From",
-      "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Nice Up The Dance",
-        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 212795,
-      "name": "Nice Up The Dance",
-      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
+      "duration_ms": 212307,
+      "name": "Perfectly With You",
+      "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -503,42 +499,6 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Perfectly With You",
-        "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
-      },
-      "artists": [
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Perfectly With You",
-      "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Pressure (feat. Buju Banton) [Remix]",
-        "url": "https://open.spotify.com/album/4ECWzBSar0g4vOfVZJRjp2"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 238576,
-      "name": "Pressure (feat. Buju Banton) - Remix",
-      "url": "https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
         "name": "In Search Of Lost Time",
         "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
       },
@@ -559,30 +519,42 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "The Kalling",
-        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
       },
       "artists": [
         {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
         },
         {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Jesse Royal",
-          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 213977,
-      "name": "The Kalling",
-      "url": "https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa"
+      "duration_ms": 195829,
+      "name": "Vibe (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Pressure (feat. Buju Banton) [Remix]",
+        "url": "https://open.spotify.com/album/4ECWzBSar0g4vOfVZJRjp2"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 238576,
+      "name": "Pressure (feat. Buju Banton) - Remix",
+      "url": "https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -651,6 +623,34 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        }
+      ],
+      "duration_ms": 213977,
+      "name": "The Kalling",
+      "url": "https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
         "name": "Higher Place",
         "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
       },
@@ -663,26 +663,6 @@
       "duration_ms": 198362,
       "name": "My World",
       "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Blaze Away",
-        "url": "https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Blaze Away",
-      "url": "https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -727,6 +707,26 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
+        "name": "Blaze Away",
+        "url": "https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Blaze Away",
+      "url": "https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
       },
@@ -759,42 +759,6 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Like Royalty (feat. Popcaan)",
-        "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "Like Royalty (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI"
       },
@@ -811,6 +775,22 @@
       "duration_ms": 260168,
       "name": "Smugglaren",
       "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -867,6 +847,26 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
+        "name": "Like Royalty (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "Like Royalty (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
         "name": "Ekundayo",
         "url": "https://open.spotify.com/album/1DHs1TPC3rOV2Y9lFpjZxY"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 196949,
       "name": "Cold & Clear",
       "url": "https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Safe N Sound",
-        "url": "https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN"
-      },
-      "artists": [
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 186564,
-      "name": "Safe N Sound",
-      "url": "https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -915,6 +899,22 @@
       "duration_ms": 176000,
       "name": "40 Days & 40 Nights (Pt. 2)",
       "url": "https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Safe N Sound",
+        "url": "https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 186564,
+      "name": "Safe N Sound",
+      "url": "https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Allow Me to Live",
-        "url": "https://open.spotify.com/album/1KWipvpvLEgb0Lnozzyhib"
-      },
-      "artists": [
-        {
-          "name": "Bugle",
-          "url": "https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM"
-        }
-      ],
-      "duration_ms": 183409,
-      "name": "Allow Me to Live",
-      "url": "https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
         "name": "Born A Rebel",
         "url": "https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 253205,
       "name": "Helping Hand (with Anthony B)",
       "url": "https://open.spotify.com/track/6PjLeKjVLdN76GcBcDXn82"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Allow Me to Live",
+        "url": "https://open.spotify.com/album/1KWipvpvLEgb0Lnozzyhib"
+      },
+      "artists": [
+        {
+          "name": "Bugle",
+          "url": "https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM"
+        }
+      ],
+      "duration_ms": 183409,
+      "name": "Allow Me to Live",
+      "url": "https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/1xKNKZOiZkU4GWPfpfPGNV"
-      },
-      "artists": [
-        {
-          "name": "The Kemist",
-          "url": "https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG"
-        },
-        {
-          "name": "Gentleman",
-          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
-        }
-      ],
-      "duration_ms": 198912,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6N37hPucYSTkj59pOnOkuW"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
         "name": "One Day Soon (feat. Josey Wales)",
         "url": "https://open.spotify.com/album/3TBmA9ViKmFCyfNbDdJqrh"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 258172,
       "name": "One Day Soon (feat. Josey Wales)",
       "url": "https://open.spotify.com/track/3d4915A5zEWBfi1dbDDbWS"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1xKNKZOiZkU4GWPfpfPGNV"
+      },
+      "artists": [
+        {
+          "name": "The Kemist",
+          "url": "https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG"
+        },
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+        }
+      ],
+      "duration_ms": 198912,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6N37hPucYSTkj59pOnOkuW"
     }
   ],
   "unique_name": "Irie",

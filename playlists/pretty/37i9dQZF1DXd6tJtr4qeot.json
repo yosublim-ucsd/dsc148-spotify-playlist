@@ -1,12 +1,12 @@
 {
   "description": "All the Punk Rock that you need in your life. Cover: Rancid",
-  "num_followers": 890064,
+  "num_followers": 890288,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWFhYjM3NmNjYjVhM2JjYjlkMzI1ZDQ4NmIwZTRkYjVjMDYxYjBj",
+  "snapshot_id": "MCw1OTljNDg0MzI0MjY3NzdkODFlYTkzZDRmY2ViM2NmNDE0NDc1ZDYw",
   "tracks": [
     {
       "added_at": "2023-03-07 12:31:09",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
         "name": "A Hangover You Don't Deserve",
         "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
       },
@@ -199,22 +183,6 @@
       "duration_ms": 193000,
       "name": "1985",
       "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2023-03-07 12:31:09",
@@ -235,18 +203,34 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "Let's Face It",
-        "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
       "artists": [
         {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 194760,
-      "name": "The Impression That I Get",
-      "url": "https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS"
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2023-03-07 12:31:09",
@@ -267,6 +251,22 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
+        "name": "Let's Face It",
+        "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "The Impression That I Get",
+      "url": "https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
         "name": "So Long, Astoria",
         "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
@@ -279,6 +279,38 @@
       "duration_ms": 258000,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
     },
     {
       "added_at": "2023-03-07 12:31:09",
@@ -359,38 +391,6 @@
       "duration_ms": 207633,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
     },
     {
       "added_at": "2023-03-07 12:31:09",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "New Wave (U.S. Version)",
-        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Thrash Unreal",
-      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 134026,
       "name": "Sound System - 2007 Remaster",
       "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "New Wave (U.S. Version)",
+        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
+      },
+      "artists": [
+        {
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Thrash Unreal",
+      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
     },
     {
       "added_at": "2023-03-07 12:31:09",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "They Came From The Shadows",
-        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
-      },
-      "artists": [
-        {
-          "name": "Teenage Bottlerocket",
-          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
-        }
-      ],
-      "duration_ms": 110800,
-      "name": "Skate or Die",
-      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
         "name": "The Best Of Goldfinger",
         "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 185600,
       "name": "Superman",
       "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "They Came From The Shadows",
+        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
+        }
+      ],
+      "duration_ms": 110800,
+      "name": "Skate or Die",
+      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
     },
     {
       "added_at": "2023-03-07 12:31:09",

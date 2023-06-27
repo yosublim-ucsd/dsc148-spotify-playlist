@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  KSHMR
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 121,271 likes - 35 songs - 1 hr 38 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 121,306 likes - 35 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 10 | [ALARMA!](https://open.spotify.com/track/1ZlSYhbijS0P7FpBJqaZRg) | [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [ALARMA!](https://open.spotify.com/album/1Bn6cmrDtGRN2Tq6hhnkvF) | 2:33 |
 | 11 | [No Puede](https://open.spotify.com/track/4u8yZq5wDVLBefowfmgIoo) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt), [Charlie Ray](https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF) | [No Puede](https://open.spotify.com/album/1796hFgfRWBsq8OCq4gU79) | 2:38 |
 | 12 | [Bottle of Bubbly](https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C) | [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [Bottle of Bubbly](https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV) | 2:23 |
-| 13 | [1999 \(Hass Remix\)](https://open.spotify.com/track/4voTPLVUARrCitGk3mAYfC) | [Adam Shaw](https://open.spotify.com/artist/2ziMVipAZakfXL6Gv42d1b), [Hass](https://open.spotify.com/artist/0xggQ7DwSHN5LNXTx1Ri9A) | [1999 \(Hass Remix\)](https://open.spotify.com/album/2av0COPh6r5zhzsFh1RNwR) | 4:09 |
+| 13 | [1999 \(Hass Remix\)](https://open.spotify.com/track/4voTPLVUARrCitGk3mAYfC) | [Adam Shaw](https://open.spotify.com/artist/2ziMVipAZakfXL6Gv42d1b), [Hass](https://open.spotify.com/artist/0lehRzjZuTnV6L0iN6osNT) | [1999 \(Hass Remix\)](https://open.spotify.com/album/2av0COPh6r5zhzsFh1RNwR) | 4:09 |
 | 14 | [Burning Love](https://open.spotify.com/track/4xA73KsvZqbN5utzRQRK3E) | [Siks](https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY) | [Burning Love](https://open.spotify.com/album/720u2vp4YBJ5dal8ISbBJe) | 2:40 |
 | 15 | [SLS \(feat\. Alex Price\)](https://open.spotify.com/track/1wHd984Gz1MVNiBPRdutud) | [Doozie](https://open.spotify.com/artist/094tZMLXkYiIpf6u2XAaX1), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Alex Price](https://open.spotify.com/artist/2xtZchCzPx5YtM0cMNKedw) | [SLS \(feat\. Alex Price\)](https://open.spotify.com/album/2CbFv2dQOFra4nV6V2uTQI) | 3:13 |
 | 16 | [Warriors](https://open.spotify.com/track/5qLvaafjUuEm35jMsDfAx2) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [GISHIN](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [The Way](https://open.spotify.com/artist/5rEB1vtWdLyP6nCr5obZk6) | [Warriors](https://open.spotify.com/album/2gHDzVmxfudGDotNTVQewJ) | 2:44 |

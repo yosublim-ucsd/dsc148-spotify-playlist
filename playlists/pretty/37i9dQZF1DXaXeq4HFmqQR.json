@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Cancamusa.\nDales play, dales power.",
-  "num_followers": 12155,
+  "num_followers": 12158,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz",
+  "snapshot_id": "MCwzYTgyNTc1ODg1Njg2NDFkYzhkN2Y2YjE0MjJmNzJjMTRmN2VhZDU0",
   "tracks": [
     {
       "added_at": "2023-06-05 03:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "\u00bfD\u00f3nde Se Llora Cuando Se Llora?",
-        "url": "https://open.spotify.com/album/4Ofgas2jQXJWocHwRyqrcS"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 200338,
-      "name": "\u00bfD\u00f3nde Se Llora Cuando Se Llora?",
-      "url": "https://open.spotify.com/track/3gOLaMEE4RnH5AQrzHwCZB"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
         "name": "Tu Olor",
         "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 186459,
       "name": "Tu Olor",
       "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
+        "name": "\u00bfD\u00f3nde Se Llora Cuando Se Llora?",
+        "url": "https://open.spotify.com/album/4Ofgas2jQXJWocHwRyqrcS"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 200338,
+      "name": "\u00bfD\u00f3nde Se Llora Cuando Se Llora?",
+      "url": "https://open.spotify.com/track/3gOLaMEE4RnH5AQrzHwCZB"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Sur",
-        "url": "https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5"
-      },
-      "artists": [
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 220081,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 178055,
       "name": "Loco",
       "url": "https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
+        "name": "Sur",
+        "url": "https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5"
+      },
+      "artists": [
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 220081,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
-        "name": "Lentes",
-        "url": "https://open.spotify.com/album/3Vrwjvb1yUIn67BP4tUOkr"
-      },
-      "artists": [
-        {
-          "name": "Inundaremos",
-          "url": "https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS"
-        }
-      ],
-      "duration_ms": 177276,
-      "name": "Lentes",
-      "url": "https://open.spotify.com/track/5XILTdIY7uhBq4nV9Knoqx"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
         "name": "Pijamas",
         "url": "https://open.spotify.com/album/3uTm2bif9Wy04SaB4hcCO7"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 118814,
       "name": "Pijamas",
       "url": "https://open.spotify.com/track/19ozP1l7TddQNbmxQ7ZbIV"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
+        "name": "Lentes",
+        "url": "https://open.spotify.com/album/3Vrwjvb1yUIn67BP4tUOkr"
+      },
+      "artists": [
+        {
+          "name": "Inundaremos",
+          "url": "https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS"
+        }
+      ],
+      "duration_ms": 177276,
+      "name": "Lentes",
+      "url": "https://open.spotify.com/track/5XILTdIY7uhBq4nV9Knoqx"
     },
     {
       "added_at": "2023-06-05 03:00:00",

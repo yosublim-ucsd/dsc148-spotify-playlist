@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix
 
-512 songs - 1 day 4 hr 17 min
+513 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Better Off](https://open.spotify.com/track/22519OhPZTb1FPmMHUYFtt) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Better Off](https://open.spotify.com/album/6Iy0tt3C20HehDLaVRfLu8) | 3:05 | 2022-01-14 | 2022-04-16 |
 | [Better Off Leaving](https://open.spotify.com/track/1XoYqY65aFOuc0rnhANLeV) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Tribe Alexander](https://open.spotify.com/artist/1Rj7IzzqQVvx8HtZ1WfwCv) | [Better Off Leaving](https://open.spotify.com/album/0v3Rc54IpZHPQrZbUcegXD) | 3:37 | 2022-01-14 | 2022-04-16 |
 | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4) | 3:25 | 2022-02-04 | 2022-02-26 |
+| [Beyond To Infinity](https://open.spotify.com/track/1bMa7uY77rZV51qsaYKHIO) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [Beyond To Infinity](https://open.spotify.com/album/4gADnOxVCUHLvDYKI5Iukp) | 4:00 | 2023-06-23 |  |
 | [Black And Blue](https://open.spotify.com/track/2P0Zjj0EtelNoF1yoP1RhT) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Black And Blue](https://open.spotify.com/album/1Yd0NddTgPRW1iyWsUkWgY) | 3:36 | 2022-09-02 | 2022-10-01 |
 | [Blue In The Face](https://open.spotify.com/track/5z8uM7nBjl7kHGiYHvm94Z) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Blue In The Face](https://open.spotify.com/album/6UqdnruIxTdntsqhL9bSfW) | 2:46 | 2023-04-28 | 2023-05-20 |
 | [Body Rhythm](https://open.spotify.com/track/0j6ASjXDZ95nCkOh4B5Zic) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Body Rhythm](https://open.spotify.com/album/6BHmxgouKTnE0iumVWmXWd) | 4:39 | 2022-04-22 | 2022-08-06 |
@@ -236,7 +237,7 @@
 | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/track/1Z84RBVY8aTEL3yVEq1vug) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/album/6FLPMg1lOVUgX5yd1DFi9D) | 3:19 | 2023-01-20 | 2023-03-10 |
 | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW) | 3:18 | 2022-11-11 | 2023-02-25 |
 | [Kerching](https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Kerching](https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j) | 2:58 | 2022-07-22 | 2022-10-08 |
-| [Kindred](https://open.spotify.com/track/7a9XJvHtk48KWlbXoFST5e) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd) | [Kindred](https://open.spotify.com/album/18utaWOKDrEGnQBsj1PWTE) | 3:37 | 2023-03-03 |  |
+| [Kindred](https://open.spotify.com/track/7a9XJvHtk48KWlbXoFST5e) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd) | [Kindred](https://open.spotify.com/album/18utaWOKDrEGnQBsj1PWTE) | 3:37 | 2023-03-03 | 2023-06-27 |
 | [KLK](https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [KLK](https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3) | 3:10 | 2023-01-20 | 2023-04-29 |
 | [Know](https://open.spotify.com/track/41W378pBDusiaKGGhWga5k) | [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [Intertwine](https://open.spotify.com/album/3lIzneooRtltAFfVnHU9SU) | 2:51 | 2022-01-14 | 2022-03-18 |
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2022-01-14 | 2022-02-26 |

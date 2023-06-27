@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 708328,
+  "num_followers": 708996,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmFhNzZhOTFiNDI0OGM4OTFlNGE1ZGI4MTdlNWRlYTkzOGZkMjI1",
+  "snapshot_id": "MCwxNmRkN2EzMGE0MjczZDZiZGI3ZGUxNTEzZjMzN2NmZTJhZTRiMjAy",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Singles (Expanded)",
-        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Bad Animals",
         "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 520786,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 322133,
-      "name": "Another Day in Paradise - 2016 Remaster",
-      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -587,6 +571,22 @@
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Another Day in Paradise - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "I Guess That's Why They Call It The Blues",
-      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 229880,
       "name": "I'll Be Over You",
       "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "I Guess That's Why They Call It The Blues",
+      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "I Don't Wanna Lose You",
-      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 255666,
       "name": "How Am I Supposed to Live Without You",
       "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "I Don't Wanna Lose You",
+      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
       "artists": [
         {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Every Time You Go Away - Radio Edit",
-      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
+      "duration_ms": 210733,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1091,18 +1091,34 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
         }
       ],
-      "duration_ms": 210733,
-      "name": "A Groovy Kind of Love",
-      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
+      "duration_ms": 267000,
+      "name": "Every Time You Go Away - Radio Edit",
+      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Woman in Love",
+      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Woman in Love",
-      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Picture Book (Expanded Version)",
         "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 269840,
       "name": "Holding Back the Years - 2008 Remaster",
       "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "Greatest Love of All",
-      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 288973,
       "name": "One More Night - 2016 Remaster",
       "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "Greatest Love of All",
+      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Private Dancer (30th Anniversary Issue)",
-        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 434373,
-      "name": "Private Dancer - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5JjdJK0uGRUk4skRTuQdUZ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Kissing To Be Clever",
         "url": "https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 262173,
       "name": "Do You Really Want To Hurt Me",
       "url": "https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 434373,
+      "name": "Private Dancer - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5JjdJK0uGRUk4skRTuQdUZ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 287933,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 289453,
-      "name": "Alive And Kicking",
-      "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 264333,
       "name": "Guilty (feat. Barry Gibb)",
       "url": "https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 289453,
+      "name": "Alive And Kicking",
+      "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Simply the Best",
-        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 255186,
-      "name": "We Don't Need Another Hero (Thunderdome)",
-      "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Gaucho",
         "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 307400,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Simply the Best",
+        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 255186,
+      "name": "We Don't Need Another Hero (Thunderdome)",
+      "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Solitude Standing",
-        "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Luka",
-      "url": "https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
         "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 284903,
       "name": "One Moment in Time",
       "url": "https://open.spotify.com/track/5vOGEMTcx7ns5CtQ5y41lo"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Solitude Standing",
+        "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Luka",
+      "url": "https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Lionel Richie",
-        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Truly",
-      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -1995,6 +1979,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Lionel Richie",
+        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Truly",
+      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Winner In You",
-        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Share Your Love",
         "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 286066,
       "name": "Through The Years",
       "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Winner In You",
+        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 290840,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Break Every Rule",
-        "url": "https://open.spotify.com/album/1C9kaOfbTQ9dxYM4E2Yju2"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 249053,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/4Zu3egEh8DxX4Z8mSLjf8L"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Black & White (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 216306,
       "name": "This Woman's Work - 2018 Remaster",
       "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Break Every Rule",
+        "url": "https://open.spotify.com/album/1C9kaOfbTQ9dxYM4E2Yju2"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 249053,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/4Zu3egEh8DxX4Z8mSLjf8L"
     },
     {
       "added_at": "2023-01-24 23:00:00",

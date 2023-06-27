@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Nessa Barrett
 
-524 songs - 1 day 5 hr 0 min
+525 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2022-03-18 | 2022-04-21 |
 | [The Hardest Part](https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:23 | 2022-07-22 | 2023-04-29 |
 | [The Hardest Part](https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Hardest Part](https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0) | 3:23 | 2022-05-27 | 2022-07-29 |
+| [The Neighborhood](https://open.spotify.com/track/6Rk2l7DEUgUXqcCRvvsuz0) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [When It Was Over](https://open.spotify.com/album/0BVWJAk1zI0YF7JVByC0r1) | 3:13 | 2023-06-26 |  |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-07-29 |  |
 | [The Night You Left](https://open.spotify.com/track/5lLg6681ubB6onQvgtcI4k) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [The Night You Left](https://open.spotify.com/album/4R9WkXMPVd9GvS9T8WiKFj) | 2:39 | 2021-12-17 | 2022-05-20 |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-12-24 |  |
@@ -520,7 +521,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-04-28 |  |
 | [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2021-12-17 | 2021-12-25 |
 | [Worst Kind of Hurt](https://open.spotify.com/track/2TvCQzggZs6tX9HmeXPja2) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Worst Kind of Hurt](https://open.spotify.com/album/59KYtAwDJMJnFoch6K8zN7) | 2:44 | 2022-01-21 | 2022-07-28 |
-| [would you love me now?](https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [would you love me now?](https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw) | 3:25 | 2022-10-07 |  |
+| [would you love me now?](https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [would you love me now?](https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw) | 3:25 | 2022-10-07 | 2023-06-27 |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2021-12-17 |  |
 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-05-26 |  |
 | [You Let Me Down](https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:13 | 2022-06-21 | 2022-10-22 |

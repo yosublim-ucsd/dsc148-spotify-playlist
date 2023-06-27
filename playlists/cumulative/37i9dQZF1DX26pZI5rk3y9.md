@@ -4,7 +4,7 @@
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-150 songs - 8 hr 36 min
+151 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Crawfish](https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [I Was a Mod Before You Were a Mod Vol\. 2](https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW) | 2:17 | 2022-05-25 | 2023-06-08 |
 | [Crawfish Fiesta \- Remastered](https://open.spotify.com/track/7plpvSLmnPIfd7GLY47pIn) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:13 | 2022-05-25 | 2023-06-08 |
 | [Crime](https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:30 | 2023-06-07 |  |
+| [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 2:50 | 2023-06-16 |  |
 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/3aYJn9GyaNQhZopKLvoOHl) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/album/7yYgLdX6u9G6o1Y9sR08F2) | 2:50 | 2023-06-07 | 2023-06-25 |
 | [Deathwish](https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Deathwish](https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL) | 2:39 | 2023-06-07 |  |
 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 | 2022-05-25 | 2023-06-08 |
@@ -135,7 +136,7 @@
 | [She Cooks Me Cabbage](https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues For Everybody](https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7) | 2:36 | 2022-07-08 | 2023-06-08 |
 | [She Moved On](https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [She Moved On](https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU) | 2:47 | 2023-06-07 |  |
 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 | 2023-06-07 |  |
-| [Sing the Blues](https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg) | [Pontillo And The Vintage Crew](https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv) | [For the Love of Blues](https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs) | 5:53 | 2023-06-07 |  |
+| [Sing the Blues](https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg) | [Pontillo And The Vintage Crew](https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv) | [For the Love of Blues](https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs) | 5:53 | 2023-06-07 | 2023-06-27 |
 | [So Free](https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [So Free](https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L) | 3:17 | 2023-06-07 |  |
 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 | 2022-05-25 | 2023-06-08 |
 | [Spread Your Love](https://open.spotify.com/track/1gq5tbU9FTm90duAZtDZUv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5kNEFtQmqLrPx0XA8Sq0N5) | 3:45 | 2023-06-07 |  |

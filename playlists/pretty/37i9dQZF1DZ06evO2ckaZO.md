@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,958 likes - 15 songs - 32 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 30,139 likes - 15 songs - 32 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 2 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 | 3 | [Karma \(feat\. Ice Spice\)](https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:21 |
-| 4 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 |
-| 5 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
+| 4 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
+| 5 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 |
 | 6 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:39 |
 | 7 | [No Clarity](https://open.spotify.com/track/0tnT8B415mZyOYETy2ulVv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [No Clarity](https://open.spotify.com/album/5N6REUhO5E2MviBC6thktg) | 1:48 |
 | 8 | [Name of Love](https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Name of Love](https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI) | 1:46 |
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 | 14 | [Bikini Bottom](https://open.spotify.com/track/3ylgJvzFdjbcXNcxj9mXku) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 1:46 |
 | 15 | [Actin A Smoochie](https://open.spotify.com/track/614PNsaI816SVsGQm4omXJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:13 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDBlY2JlOWRlMDUxZjk2NGNlNTYyYzRiYTBhNTY3MzlhYw==`
+Snapshot ID: `MjgxMjk2OTUsMDAwMDAwMDA1OTM4NTdhZjkzMzhhYTRmMzQxYzI0YmNmZGZkMmEwZQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3210,
+  "num_followers": 3212,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWVmZDVjODgwM2UxNzNmMGU5MzZmYzFkYTFiNzFiNjc5NTRmODFk",
+  "snapshot_id": "MCw4Mzk3MjNhYmNiODVmNDgyMjhmMjViZmVkODczOTNlMjMwODlmNGE2",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -383,26 +383,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Quiribi (Yamil Remix)",
-        "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
-      },
-      "artists": [
-        {
-          "name": "Rosalinda de la Espada",
-          "url": "https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl"
-        },
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 366093,
-      "name": "Quiribi - Yamil Remix",
-      "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Magalenha (feat. Sergio Mendes)",
         "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 209551,
       "name": "Magalenha (feat. Sergio Mendes)",
       "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Quiribi (Yamil Remix)",
+        "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
+      },
+      "artists": [
+        {
+          "name": "Rosalinda de la Espada",
+          "url": "https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl"
+        },
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 366093,
+      "name": "Quiribi - Yamil Remix",
+      "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -519,22 +519,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Brisas Del Mar",
-        "url": "https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY"
+        "name": "Bailar Riddim",
+        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
         },
         {
-          "name": "Cato Anaya",
-          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
         }
       ],
-      "duration_ms": 196500,
-      "name": "Brisas Del Mar",
-      "url": "https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k"
+      "duration_ms": 211200,
+      "name": "Bailar Riddim",
+      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -555,6 +555,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Brisas Del Mar",
+        "url": "https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cato Anaya",
+          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Brisas Del Mar",
+      "url": "https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 187500,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Bailar Riddim",
-        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Bailar Riddim",
-      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Di Nobo / Shonuff",
-        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Di Nobo",
-      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Me Duele el Alma",
         "url": "https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 303240,
       "name": "Me Duele el Alma",
       "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Di Nobo / Shonuff",
+        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Di Nobo",
+      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
     },
     {
       "added_at": "2021-11-05 06:05:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Ay Papi",
+        "url": "https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe"
+      },
+      "artists": [
+        {
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Ay Papi",
+      "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Calle EP",
         "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
       },
@@ -851,18 +867,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Ay Papi",
-        "url": "https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe"
+        "name": "Vagabundos",
+        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
       },
       "artists": [
         {
-          "name": "Local Singles",
-          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Ay Papi",
-      "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
+      "duration_ms": 157530,
+      "name": "Vagabundos",
+      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
       "added_at": "2021-10-15 05:57:00",
@@ -907,38 +927,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Vagabundos",
-        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
+        "name": "Felicidad (Colombian Mix)",
+        "url": "https://open.spotify.com/album/6IYzRZ6FfbYaueT0vivHSF"
       },
       "artists": [
         {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+          "name": "Cato Anaya",
+          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
         },
         {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 157530,
-      "name": "Vagabundos",
-      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
-    },
-    {
-      "added_at": "2021-11-05 06:05:00",
-      "album": {
-        "name": "Cumbia Tropical",
-        "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
-      },
-      "artists": [
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        },
         {
-          "name": "Ilary Montanari",
-          "url": "https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA"
+          "name": "LA GUR\u00da",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
         }
       ],
-      "duration_ms": 381899,
-      "name": "Cumbia Tropical",
-      "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
+      "duration_ms": 355680,
+      "name": "Felicidad - Colombian Mix",
+      "url": "https://open.spotify.com/track/179w55cexITAFHwisxwRaE"
     }
   ],
   "unique_name": "Alma",

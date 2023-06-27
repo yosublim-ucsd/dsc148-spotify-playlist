@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-331 songs - 20 hr 39 min
+332 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 | 2021-11-05 | 2022-07-29 |
 | [Bloomsday](https://open.spotify.com/track/2kRPwBHZQTot91lTuElVmK) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Bloomsday](https://open.spotify.com/album/2rfQho2fgiLBVquouCUbKy) | 3:19 | 2022-02-07 | 2022-07-29 |
 | [Bloomsday](https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:19 | 2022-07-22 | 2023-04-02 |
-| [Breakers Roar](https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:32 | 2022-02-21 |  |
+| [Breakers Roar](https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:32 | 2022-02-21 | 2023-06-27 |
 | [Breathe Again \- Acoustic](https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Breathe Again \(Acoustic\)](https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D) | 3:18 | 2022-07-22 |  |
 | [Breathe Again \- Acoustic](https://open.spotify.com/track/4i7kl1EAd9zgYsJ2wcCD0M) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Breathe Again \(Acoustic\)](https://open.spotify.com/album/22x38hY6zx2WhTpobtRVk1) | 3:18 | 2021-11-05 | 2022-07-29 |
 | [Bright Star](https://open.spotify.com/track/2GU7Yy8fZVbtmSafEOXcjQ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bright Star](https://open.spotify.com/album/2DqpMCRbrMb4VRb1GNtYXg) | 3:10 | 2021-11-08 | 2022-07-29 |
@@ -112,6 +112,7 @@
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-07-22 |  |
 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/0vL6Dt7L7k9srca6XxtjBM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/album/0cPqenJtgD6FP5UTST0fE2) | 3:11 | 2021-11-05 | 2022-07-29 |
 | [For Now](https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:18 | 2021-11-05 | 2023-06-15 |
+| [For Now](https://open.spotify.com/track/3xvF7KX1QTImJERKQhlpVB) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/6JNuIdnyOb5gHbMUi2pV6f) | 3:18 | 2023-06-23 |  |
 | [Foreign Hands](https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands](https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs) | 4:18 | 2022-07-22 | 2023-03-22 |
 | [Forest](https://open.spotify.com/track/7vEdB5iMHeDapfu9kzqquJ) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:15 | 2021-11-05 | 2022-11-13 |
 | [Forever Ago](https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [Sirens](https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO) | 4:42 | 2022-07-22 |  |

@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246119,
+      "name": "Kind Of Girl",
+      "url": "https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC"
+    },
+    {
+      "album": {
         "name": "Satan's Hands",
         "url": "https://open.spotify.com/album/0U5jAkOEFn9XitR5BWjdCZ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,098 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,278 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 5 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
 | 6 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 7 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 |
-| 8 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
-| 9 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
+| 8 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
+| 9 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
 | 10 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
 | 11 | [Fireflies](https://open.spotify.com/track/7FtKmHnpcW6NDCCLe83CjR) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/3GDrSVfvjeXnRUjXaE0XBb) | 4:58 |
 | 12 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 |
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 17 | [Panacea](https://open.spotify.com/track/7KBoQnlle2lUerygFSk0iJ) | [Disasterpeace](https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq) | [Hyper Light Drifter](https://open.spotify.com/album/0uYATlPpnvkSvsjxWg8ZB3) | 6:04 |
 | 18 | [Start Shootin'](https://open.spotify.com/track/4IUgpL0CgSiloUOHzgd6Qe) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:36 |
 | 19 | [Ocelot](https://open.spotify.com/track/55xZKTc8WnKY0r0G5y3NRP) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/2KdrIiL1UjCy9YDe6LnCzn) | 4:36 |
-| 20 | [The Mist](https://open.spotify.com/track/5i7jug3QciEvwbozP3pVlM) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Secrets of Castle](https://open.spotify.com/album/3KrF7sJyvkwbL4b3NpXh3a) | 2:54 |
-| 21 | [My Own World](https://open.spotify.com/track/12pqAvuELTFoNj8kQ6vKDH) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8), [Bumblebee](https://open.spotify.com/artist/00tp1VkcmbfeTDI2XhRtZx) | [My Own World](https://open.spotify.com/album/5r8j34q0RT3nYnZzd01Iz3) | 1:55 |
+| 20 | [My Own World](https://open.spotify.com/track/12pqAvuELTFoNj8kQ6vKDH) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8), [Bumblebee](https://open.spotify.com/artist/00tp1VkcmbfeTDI2XhRtZx) | [My Own World](https://open.spotify.com/album/5r8j34q0RT3nYnZzd01Iz3) | 1:55 |
+| 21 | [The Mist](https://open.spotify.com/track/5i7jug3QciEvwbozP3pVlM) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Secrets of Castle](https://open.spotify.com/album/3KrF7sJyvkwbL4b3NpXh3a) | 2:54 |
 | 22 | [Forgotten](https://open.spotify.com/track/2yra4e1hv7mRcjPY4GRS9h) | [trxxshed](https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU), [Lomtre](https://open.spotify.com/artist/1k3LtgjJQgOGwjOyNSQuMJ) | [Far from Reality](https://open.spotify.com/album/395JmKtHQEzMCI05Mkwb6i) | 2:07 |
 | 23 | [Theta](https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Theta](https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg) | 3:00 |
 | 24 | [Tachikawa](https://open.spotify.com/track/1DdWZldy3uLgXHKBvuVNSM) | [KÖWE](https://open.spotify.com/artist/2VhxLzKBBF3mRhJnBRsuGI), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Tachikawa](https://open.spotify.com/album/2hScjpzL0lIrJFLes3lQV3) | 1:12 |
-| 25 | [I Still Like You](https://open.spotify.com/track/2P1pP6UfKgkUkCUzceAGEx) | [ビクター ＭＫＩＩ](https://open.spotify.com/artist/2lGJkXqpvUW77Kc6hcEIO8) | [Omoide](https://open.spotify.com/album/0N3ddx2vF7wsVEqtQRmfB1) | 2:20 |
-| 26 | [jade tower](https://open.spotify.com/track/7ERaRrb9qbmnvbAbBQvqgA) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [New Game +](https://open.spotify.com/album/44CDggTdui1svEdyck7NOT) | 1:39 |
+| 25 | [jade tower](https://open.spotify.com/track/7ERaRrb9qbmnvbAbBQvqgA) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [New Game +](https://open.spotify.com/album/44CDggTdui1svEdyck7NOT) | 1:39 |
+| 26 | [I Still Like You](https://open.spotify.com/track/2P1pP6UfKgkUkCUzceAGEx) | [ビクター ＭＫＩＩ](https://open.spotify.com/artist/2lGJkXqpvUW77Kc6hcEIO8) | [Omoide](https://open.spotify.com/album/0N3ddx2vF7wsVEqtQRmfB1) | 2:20 |
 | 27 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 |
 | 28 | [Until We Meet Again](https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1) | [Peak Twilight](https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Departure](https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7) | 3:09 |
 | 29 | [Crazy for You](https://open.spotify.com/track/7y128njgv0ipvbzIPycOgx) | [Moai Beats](https://open.spotify.com/artist/5Zt96vfBQXmUB3fs3Qkm5q) | [Crazy for You](https://open.spotify.com/album/0RRw5IO6MRoPPOyQFq480D) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [Royal Lavender](https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ) | [jiabeats](https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5) | [Royal Lavender](https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp) | 3:00 |
 | 50 | [Montauk Paddling](https://open.spotify.com/track/2lS3Hau6BLChEmAckRsT1w) | [auv](https://open.spotify.com/artist/6mmGVOvxusEdkxXmPg0Wlm) | [Montauk Paddling](https://open.spotify.com/album/4dyIqQlSISpBqT2SDD2eKI) | 4:01 |
 
-Snapshot ID: `MCwwODYwN2FkM2ZhOGMyMDY0NzBmNDBjOGE5ZWY5Mjc4OTA5Y2E4NzI4`
+Snapshot ID: `MCxmMjI3YmZlZmM5ZjY0Yjk3OTJjZDI3NzY2OGJjODRlZWVmMjdiMDAz`

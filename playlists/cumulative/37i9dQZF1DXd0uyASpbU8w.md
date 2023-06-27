@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf?si=ZveLI3BZTGSAzhLYSI4\_4g">Ice Spice</a> & <a href="https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh?si=RT4x2JhXSjew6hqrDtSY2g">Nicki Minaj</a>
 
-356 songs - 23 hr 55 min
+357 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Not My Fault](https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Not My Fault](https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs) | 3:08 | 2023-06-08 | 2023-06-16 |
 | [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-02 | 2023-06-09 |
 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 | 2023-06-08 | 2023-06-16 |
+| [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 | 2023-06-26 |  |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-06-15 | 2023-06-23 |
 | [On Sight](https://open.spotify.com/track/1jgkdnmvyOaSnRZ8v2OGcR) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Kunkeyani Tha Jedi](https://open.spotify.com/artist/3SoZaAVoWCgNgLZgyydBTU) | [On Sight](https://open.spotify.com/album/78Tv2Pz7xyddlJ4Gt7SPnG) | 3:11 | 2023-05-25 | 2023-06-02 |
 | [Only You](https://open.spotify.com/track/6aTsVJADWZXS5hT2yjqkLX) | [Teebee](https://open.spotify.com/artist/4aNxKsHJPOLxJS6uTsdW5t) | [Only You](https://open.spotify.com/album/2YbXfavMTj7aWbz4fA3Gxy) | 3:05 | 2023-06-15 | 2023-06-23 |
@@ -244,7 +245,7 @@
 | [Qhakaza](https://open.spotify.com/track/3jw2C8Dfa86uXLq8d2OvHr) | [Semito](https://open.spotify.com/artist/3OpF5sBW6Pbn073VMKKpAm) | [Qhakaza](https://open.spotify.com/album/2nOuvSmMzKErMgmLpLDL5g) | 3:56 | 2023-05-25 | 2023-06-02 |
 | [QOBA](https://open.spotify.com/track/3AWjJFfpn0YNwi0HPQ1zRN) | [Toya Delazy](https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5), [Tash LC](https://open.spotify.com/artist/25y1jPKw7hHkUoD2Huk609), [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW) | [QOBA](https://open.spotify.com/album/4y9vx7HzEsIu3PnYmKnzyl) | 1:48 | 2023-06-15 | 2023-06-23 |
 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 | 2023-06-15 | 2023-06-23 |
-| [Refugee](https://open.spotify.com/track/25BilEwNMIOQUun6M5FaCy) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Refugee](https://open.spotify.com/album/16xDWHhnP76Tg2RvDYhfku) | 4:12 | 2023-06-23 |  |
+| [Refugee](https://open.spotify.com/track/25BilEwNMIOQUun6M5FaCy) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Refugee](https://open.spotify.com/album/16xDWHhnP76Tg2RvDYhfku) | 4:12 | 2023-06-23 | 2023-06-27 |
 | [Remake](https://open.spotify.com/track/4G5XT0rNMKVm1pkLjcED51) | [Enny Man Da Guitar](https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6) | [Remake](https://open.spotify.com/album/1cQl6rNVLYNzqzPHfCFVhP) | 4:58 | 2023-06-02 | 2023-06-09 |
 | [Remember the Name](https://open.spotify.com/track/6dV0UWHemAcwcT4EzXhJrR) | [Linda Kim](https://open.spotify.com/artist/3vBbPr7TwJv8jHjxH30bul), [System the One](https://open.spotify.com/artist/5pKpVqb0Hoz84sJZySk8U8) | [Remember the Name](https://open.spotify.com/album/5KUDGLvBLDS0RroAmLi81i) | 2:47 | 2023-05-25 | 2023-06-02 |
 | [Retina Show \- Unreleased Demo](https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 5:22 | 2023-05-25 | 2023-06-02 |

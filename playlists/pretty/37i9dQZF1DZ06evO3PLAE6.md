@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,717 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,729 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 45 | [Tori](https://open.spotify.com/track/0zMCWK0HzPd9m9RW2xTvlx) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Extraordinary Girl](https://open.spotify.com/album/2sXotAqmWDIBvPO4jbFFUp) | 3:10 |
 | 46 | [Till Death Do Us Part](https://open.spotify.com/track/4G2COCdrTM30M1dyrxrwF9) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 1:25 |
 | 47 | [F U Cancer](https://open.spotify.com/track/31LIWxlhD7bnCBBRk7oITh) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG), [Lyn Bowtell](https://open.spotify.com/artist/25rD775DJJ1JuBZfYYPxKK), [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH), [Wesley Dean](https://open.spotify.com/artist/4KvLfhBh83ARBAQ8Ynm5HI), [Wendy Matthews](https://open.spotify.com/artist/67PiUcvCvLFNUNBiKagzQm) | [F U Cancer](https://open.spotify.com/album/5ho3Zka2kZ3gDnoR8RvZcA) | 2:50 |
-| 48 | [Luka](https://open.spotify.com/track/6JlFTEQrVMz4uVDfhVk2gk) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Storybook](https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb) | 3:33 |
-| 49 | [Satellite](https://open.spotify.com/track/3TSW0LDIUXbUa3NT5ynZKP) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:41 |
+| 48 | [Satellite](https://open.spotify.com/track/3TSW0LDIUXbUa3NT5ynZKP) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:41 |
+| 49 | [Luka](https://open.spotify.com/track/6JlFTEQrVMz4uVDfhVk2gk) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Storybook](https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb) | 3:33 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDAwMTE5ZDVjZWNjOGNjOTNjNmZiNjFlM2I3N2Y2MTdlOA==`
+Snapshot ID: `MjgxMjk2OTUsMDAwMDAwMDBiYjVhNDMyMDc4NzBkYmRjOTc3NmZjNTIzZTBjMzU0YQ==`

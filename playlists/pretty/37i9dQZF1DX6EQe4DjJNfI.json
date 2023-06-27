@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria",
-  "num_followers": 160860,
+  "num_followers": 160876,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjY3MWQzNGNlMDNkMDNjZmYyMzVjMjk4NDBlYjBmOWY0NmRjMzIw",
+  "snapshot_id": "MCw1OTUxNWIwZDFkOTM3MzUzZDkwYTM1MTNlNmJkNTgzOGVjOTFhZTA0",
   "tracks": [
     {
       "added_at": "2023-06-23 16:17:39",
@@ -687,30 +687,6 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
-        "name": "Censura e Prazer",
-        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Nael",
-          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 235135,
-      "name": "Censura e Prazer",
-      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
+        "name": "Censura e Prazer",
+        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Nael",
+          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 235135,
+      "name": "Censura e Prazer",
+      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
     },
     {
       "added_at": "2023-06-23 16:17:39",
@@ -859,30 +859,6 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
         "name": "Tudo Que Restou",
         "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
       },
@@ -915,6 +891,46 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
         "name": "Real (Citando Djonga)",
         "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 205480,
       "name": "Real (Citando Djonga)",
       "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-06-23 16:17:39",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
+        "name": "1001 Motivos",
+        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Black",
+          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
+        }
+      ],
+      "duration_ms": 163201,
+      "name": "1001 Motivos",
+      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
         "name": "Sensual",
         "url": "https://open.spotify.com/album/3P0v9NCQ7sp9mGjc44q42O"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
-        "name": "1001 Motivos",
-        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Black",
-          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
-        }
-      ],
-      "duration_ms": 163201,
-      "name": "1001 Motivos",
-      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
         "name": "Incr\u00edvel",
         "url": "https://open.spotify.com/album/1xS3qTC20EJQkCjjMnG7Rg"
       },
@@ -1391,22 +1391,6 @@
       "duration_ms": 122120,
       "name": "Incr\u00edvel",
       "url": "https://open.spotify.com/track/21tUE1e9Z0St05vcAAD8zq"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
-        "name": "intui\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2kZeL29Ega4qnw1XeXrlo9"
-      },
-      "artists": [
-        {
-          "name": "Luiza Nis",
-          "url": "https://open.spotify.com/artist/21qRf5gB503sjxsJWyEeBD"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "intui\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6US2Fx8OJoj0AViposgfwo"
     },
     {
       "added_at": "2023-06-23 16:17:39",
@@ -1431,6 +1415,22 @@
       "duration_ms": 193014,
       "name": "Ponto de Equil\u00edbrio",
       "url": "https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
+        "name": "intui\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2kZeL29Ega4qnw1XeXrlo9"
+      },
+      "artists": [
+        {
+          "name": "Luiza Nis",
+          "url": "https://open.spotify.com/artist/21qRf5gB503sjxsJWyEeBD"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "intui\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6US2Fx8OJoj0AViposgfwo"
     },
     {
       "added_at": "2023-06-23 16:17:39",

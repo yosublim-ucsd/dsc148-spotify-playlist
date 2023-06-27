@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Latin Mafia en portada.",
-  "num_followers": 99254,
+  "num_followers": 99306,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDdjZTY4MTE3MTc1NTljNzRlY2NkYWE4ZDRiZDA2ODFiZGVlYzcy",
+  "snapshot_id": "MCw2NzUxM2VjN2UyMDljNjVhZDRkYWNkOGIwNzA5ZDA5M2UyOWI5Zjg4",
   "tracks": [
     {
       "added_at": "2023-06-23 06:00:00",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "PARA AMARTE A TI",
         "url": "https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 215156,
       "name": "PARA AMARTE A TI",
       "url": "https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -163,6 +147,26 @@
       "duration_ms": 214008,
       "name": "CUANDO HACEMOS EL AMOR",
       "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 192352,
+      "name": "Entre Nosotros",
+      "url": "https://open.spotify.com/track/5LazbgCsa2IskJbPMnI8Qd"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -215,22 +219,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 192352,
-      "name": "Entre Nosotros",
-      "url": "https://open.spotify.com/track/5LazbgCsa2IskJbPMnI8Qd"
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -291,22 +291,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
       },
       "artists": [
         {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Emy Soul",
-          "url": "https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 191849,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
+      "duration_ms": 163404,
+      "name": "Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -327,18 +323,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Emy Soul",
+          "url": "https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Me Olvid\u00e9",
-      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
+      "duration_ms": 191849,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Grillz",
-        "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 192526,
-      "name": "Grillz",
-      "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Qui\u00e9n Pudiera?",
         "url": "https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 213861,
       "name": "Qui\u00e9n Pudiera?",
       "url": "https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Grillz",
+        "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 192526,
+      "name": "Grillz",
+      "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1007,6 +1007,46 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Curvas",
+        "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Claruz",
+          "url": "https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv"
+        },
+        {
+          "name": "Floyd",
+          "url": "https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "Curvas",
+      "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -1031,22 +1071,6 @@
       "duration_ms": 225882,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1115,30 +1139,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Curvas",
-        "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        },
-        {
-          "name": "Claruz",
-          "url": "https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv"
-        },
-        {
-          "name": "Floyd",
-          "url": "https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "Curvas",
-      "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Tus Ojos Me Hablaron",
         "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
       },
@@ -1179,6 +1179,38 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Mi Fantasma",
+        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 162391,
+      "name": "Mi Fantasma",
+      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 160243,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Sin Kerer",
         "url": "https://open.spotify.com/album/73Oo5M4eCl2COT9fOmp7km"
       },
@@ -1211,22 +1243,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d"
-      },
-      "artists": [
-        {
-          "name": "Aldo Carpes",
-          "url": "https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ"
-        }
-      ],
-      "duration_ms": 203639,
-      "name": "Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/0BvzoZ5Ybl1Rq9MFWiJWZp"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Ketamina",
         "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+        "name": "Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d"
       },
       "artists": [
         {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+          "name": "Aldo Carpes",
+          "url": "https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ"
         }
       ],
-      "duration_ms": 160243,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+      "duration_ms": 203639,
+      "name": "Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/0BvzoZ5Ybl1Rq9MFWiJWZp"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 200240,
       "name": "Cortada en la Frente",
       "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Mi Fantasma",
-        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 162391,
-      "name": "Mi Fantasma",
-      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1355,6 +1355,38 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Gallo Pinto",
+        "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Gallo Pinto",
+      "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "No Fui Solo Yo",
         "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
       },
@@ -1387,22 +1419,6 @@
       "duration_ms": 202528,
       "name": "Caliope",
       "url": "https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Gallo Pinto",
-        "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Gallo Pinto",
-      "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1459,42 +1475,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 157267,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Mabiland Hotline: Cobuz & Bustta",
-        "url": "https://open.spotify.com/album/3f51kZQ3Lygk8MCcEqCwZz"
-      },
-      "artists": [
-        {
-          "name": "Cobuz & Bustta",
-          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
-        },
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Mabiland Hotline: Cobuz & Bustta",
-      "url": "https://open.spotify.com/track/343PbZqiWOFGS629yyTD9J"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
       },
@@ -1539,6 +1519,26 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Mabiland Hotline: Cobuz & Bustta",
+        "url": "https://open.spotify.com/album/3f51kZQ3Lygk8MCcEqCwZz"
+      },
+      "artists": [
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Mabiland Hotline: Cobuz & Bustta",
+      "url": "https://open.spotify.com/track/343PbZqiWOFGS629yyTD9J"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Elige Bien",
         "url": "https://open.spotify.com/album/65izBXafV2afavC0J3JX5y"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 221250,
       "name": "Elige Bien",
       "url": "https://open.spotify.com/track/2Oy8GcHX1LHyBEvTvnE816"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Ten Cuidao'",
-        "url": "https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "Ten Cuidao'",
-      "url": "https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Ten Cuidao'",
+        "url": "https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 174757,
+      "name": "Ten Cuidao'",
+      "url": "https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "203",
         "url": "https://open.spotify.com/album/7LinW4D3KgiYvCs7W3fxxm"
       },
@@ -1603,26 +1603,6 @@
       "duration_ms": 170166,
       "name": "203",
       "url": "https://open.spotify.com/track/5hpcJ7KpnnjIkUH5Dg2xKo"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Daydream (Spanish Remix)",
-        "url": "https://open.spotify.com/album/2xVWVzBR57HyJPmt9TMICI"
-      },
-      "artists": [
-        {
-          "name": "JOIE GREY",
-          "url": "https://open.spotify.com/artist/5W1B9UMjEOIMcYGdEyETsU"
-        },
-        {
-          "name": "Cristina Malakhai",
-          "url": "https://open.spotify.com/artist/0zQbFHLciH60hZcOWk0Djp"
-        }
-      ],
-      "duration_ms": 207748,
-      "name": "Daydream - Spanish Remix",
-      "url": "https://open.spotify.com/track/5RriIikFF42bJrUjNyoOZG"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1651,18 +1631,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "I'd Better",
-        "url": "https://open.spotify.com/album/2DAf4UgcdvnavntASDCiMw"
+        "name": "Daydream (Spanish Remix)",
+        "url": "https://open.spotify.com/album/2xVWVzBR57HyJPmt9TMICI"
       },
       "artists": [
         {
-          "name": "Du\u00f1e",
-          "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
+          "name": "JOIE GREY",
+          "url": "https://open.spotify.com/artist/5W1B9UMjEOIMcYGdEyETsU"
+        },
+        {
+          "name": "Cristina Malakhai",
+          "url": "https://open.spotify.com/artist/0zQbFHLciH60hZcOWk0Djp"
         }
       ],
-      "duration_ms": 190120,
-      "name": "I'd Better",
-      "url": "https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ"
+      "duration_ms": 207748,
+      "name": "Daydream - Spanish Remix",
+      "url": "https://open.spotify.com/track/5RriIikFF42bJrUjNyoOZG"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1683,6 +1667,22 @@
       "duration_ms": 204327,
       "name": "Girasol",
       "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "I'd Better",
+        "url": "https://open.spotify.com/album/2DAf4UgcdvnavntASDCiMw"
+      },
+      "artists": [
+        {
+          "name": "Du\u00f1e",
+          "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "I'd Better",
+      "url": "https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "QCVH",
-        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
-      },
-      "artists": [
-        {
-          "name": "Jass Reyes",
-          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
-        }
-      ],
-      "duration_ms": 136973,
-      "name": "QCVH",
-      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Mon Amour",
         "url": "https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu"
       },
@@ -1775,22 +1759,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "A Mi Ritmo",
-        "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
+        "name": "QCVH",
+        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
       },
       "artists": [
         {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
         }
       ],
-      "duration_ms": 186883,
-      "name": "A Mi Ritmo",
-      "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
+      "duration_ms": 136973,
+      "name": "QCVH",
+      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1811,6 +1791,26 @@
       "duration_ms": 182278,
       "name": "Quiere Volar",
       "url": "https://open.spotify.com/track/21xHCMIUcG2ZYkgobStWjA"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "A Mi Ritmo",
+        "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
+      },
+      "artists": [
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 186883,
+      "name": "A Mi Ritmo",
+      "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
     },
     {
       "added_at": "2023-06-23 06:00:00",

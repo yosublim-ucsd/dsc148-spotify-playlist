@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1669,
+  "num_followers": 1668,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjYyZTY3MTZmYTM0MWY0ODQ0ZDllOTdkN2EyOGM4MjY5ZmEyNjA1",
+  "snapshot_id": "MCwwOTliZmJhZWI4MTFhZDczZmRkMTIzODYzY2Q5ZDUwMzVlNjQxODU0",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -163,26 +163,18 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Who is Nardo Wick?",
-        "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 225533,
-      "name": "Me or Sum (feat. Future & Lil Baby)",
-      "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
+      "duration_ms": 205721,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -207,18 +199,26 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "Who is Nardo Wick?",
+        "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 205721,
-      "name": "Pipe Down",
-      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
+      "duration_ms": 225533,
+      "name": "Me or Sum (feat. Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 185979,
-      "name": "Issues/Hold On",
-      "url": "https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "House Of Balloons (Original)",
         "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 407315,
       "name": "House Of Balloons / Glass Table Girls - Original",
       "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 185979,
+      "name": "Issues/Hold On",
+      "url": "https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "4NEM",
-        "url": "https://open.spotify.com/album/1sujvm6paInfm8fYnNdjIy"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 248372,
-      "name": "Yes Sir",
-      "url": "https://open.spotify.com/track/3v0x0ScI9wcUlPZIdfRETf"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -367,6 +351,38 @@
       "duration_ms": 173097,
       "name": "A Keeper",
       "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 459659,
+      "name": "The Party & The After Party - Original",
+      "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "4NEM",
+        "url": "https://open.spotify.com/album/1sujvm6paInfm8fYnNdjIy"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 248372,
+      "name": "Yes Sir",
+      "url": "https://open.spotify.com/track/3v0x0ScI9wcUlPZIdfRETf"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -435,6 +451,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "LIVE.LOVE.A$AP",
         "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
       },
@@ -447,22 +479,6 @@
       "duration_ms": 158133,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "House Of Balloons (Original)",
-        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 459659,
-      "name": "The Party & The After Party - Original",
-      "url": "https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 262453,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "PRICE OF FAME",
         "url": "https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X"
       },
@@ -583,26 +583,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "LIVE.LOVE.A$AP",
-        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 288013,
-      "name": "Brand New Guy (feat. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/6haTrice1PU59Kd7esp3w1"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Trapped On Cleveland 3",
         "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 398207,
       "name": "Cartoon",
       "url": "https://open.spotify.com/track/31Yebmn7gDvxc0yjRV8M5t"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "LIVE.LOVE.A$AP",
+        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 288013,
+      "name": "Brand New Guy (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/6haTrice1PU59Kd7esp3w1"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Welcome to Heaven",
+        "url": "https://open.spotify.com/album/70W7Bb4eXlfcKY0s0vnZxD"
+      },
+      "artists": [
+        {
+          "name": "HVN",
+          "url": "https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i"
+        }
+      ],
+      "duration_ms": 106600,
+      "name": "Backhand",
+      "url": "https://open.spotify.com/track/2Ud9396nsChHWRJ88De6mJ"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 210489,
       "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
       "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Welcome to Heaven",
-        "url": "https://open.spotify.com/album/70W7Bb4eXlfcKY0s0vnZxD"
-      },
-      "artists": [
-        {
-          "name": "HVN",
-          "url": "https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i"
-        }
-      ],
-      "duration_ms": 106600,
-      "name": "Backhand",
-      "url": "https://open.spotify.com/track/2Ud9396nsChHWRJ88De6mJ"
     }
   ],
   "unique_name": "Zack Bia's Taste",

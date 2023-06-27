@@ -202,6 +202,42 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293453,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6"
+    },
+    {
+      "album": {
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403920,
+      "name": "Dear John",
+      "url": "https://open.spotify.com/track/7hZuICN5eaCuQyp443RCt6"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -525,6 +561,24 @@
     },
     {
       "album": {
+        "name": "If This Was A Movie (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237022,
+      "name": "If This Was A Movie (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/0kAZ3H6G9Zac4PMpmobMkj"
+    },
+    {
+      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -720,6 +774,24 @@
       "duration_ms": 235800,
       "name": "Out Of The Woods",
       "url": "https://open.spotify.com/track/5OndtwLGA9O6XHFcGm2H7r"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Paper Rings",
+      "url": "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR"
     },
     {
       "album": {

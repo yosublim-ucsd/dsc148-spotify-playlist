@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 64799,
+  "num_followers": 64839,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWQ2MzhjMmIyYzI1MWQ3ZjkzYWI4MWNiY2VhOGJmZTk3ZTlhYmJm",
+  "snapshot_id": "MCxiZDA1YTgxNDNmNzNmZTRmZWNlODhkZDBiNDMyMGIxYTY2OTQyOTdk",
   "tracks": [
     {
       "added_at": "2023-06-15 22:00:00",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
       },
@@ -355,26 +371,6 @@
       "duration_ms": 174946,
       "name": "You Can't Save Me",
       "url": "https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 208395,
-      "name": "Jet Black (feat. Brandy)",
-      "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -395,18 +391,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
+      "duration_ms": 208395,
+      "name": "Jet Black (feat. Brandy)",
+      "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Heart Don't Stand a Chance",
-      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 315598,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Heart Don't Stand a Chance",
+      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 266812,
-      "name": "Come Home (feat. Andr\u00e9 3000)",
-      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 234866,
       "name": "So Done (feat. Khalid)",
       "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 266812,
+      "name": "Come Home (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Frank (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "Help Yourself",
+      "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Measure of a Man (feat. Central Cee)",
         "url": "https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 195466,
       "name": "Measure of a Man (feat. Central Cee)",
       "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Frank (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Help Yourself",
-      "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "Angles (feat. JME)",
         "url": "https://open.spotify.com/album/5FlTltS0elrbjIOCR4eRNn"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 183083,
       "name": "Angles (feat. JME)",
       "url": "https://open.spotify.com/track/2xcinH0acfCEZhflJuokip"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "New Spring",
-        "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
-      },
-      "artists": [
-        {
-          "name": "KAPPEKOFF",
-          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
-        },
-        {
-          "name": "Stefanos Yowhannes",
-          "url": "https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG"
-        }
-      ],
-      "duration_ms": 197099,
-      "name": "New Spring",
-      "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Don't Pretend",
         "url": "https://open.spotify.com/album/5eKt7MxCNDB7XFqdJBPaJS"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 165840,
       "name": "Don't Pretend",
       "url": "https://open.spotify.com/track/78P2cNBhbdjXWIRYuEXkV6"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "New Spring",
+        "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
+      },
+      "artists": [
+        {
+          "name": "KAPPEKOFF",
+          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
+        },
+        {
+          "name": "Stefanos Yowhannes",
+          "url": "https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG"
+        }
+      ],
+      "duration_ms": 197099,
+      "name": "New Spring",
+      "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) [Remix]",
-        "url": "https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) - Remix",
-      "url": "https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "like you",
         "url": "https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo"
       },
@@ -1455,6 +1431,30 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) [Remix]",
+        "url": "https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) - Remix",
+      "url": "https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "You Got The Body",
         "url": "https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Orbit (Live from Air Studios)",
-        "url": "https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 234313,
-      "name": "Orbit - Live from Air Studios",
-      "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Avenue",
         "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 196363,
       "name": "Avenue",
       "url": "https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "Orbit (Live from Air Studios)",
+        "url": "https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 234313,
+      "name": "Orbit - Live from Air Studios",
+      "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 195572,
-      "name": "21",
-      "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Treat Me so Bad (feat. Beharie)",
         "url": "https://open.spotify.com/album/3yJ9I7HqAK2Jn2KBP1CcC3"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 171489,
       "name": "Treat Me so Bad",
       "url": "https://open.spotify.com/track/4dbDErIOj0ltVciVcuQUle"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 195572,
+      "name": "21",
+      "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
     },
     {
       "added_at": "2023-06-15 22:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Swim Home (From 13 Reasons Why - Season 3 Soundtrack)",
+        "url": "https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Swim Home - From 13 Reasons Why - Season 3 Soundtrack",
+      "url": "https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
         "url": "https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6"
       },
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
-        "name": "Swim Home (From 13 Reasons Why - Season 3 Soundtrack)",
-        "url": "https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Swim Home - From 13 Reasons Why - Season 3 Soundtrack",
-      "url": "https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
         "name": "Who Do You Pray To?",
         "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
       },
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2023-06-15 22:00:00",
       "album": {
+        "name": "Sweet Insomnia",
+        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 185371,
+      "name": "Compromise (feat. Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
+    },
+    {
+      "added_at": "2023-06-15 22:00:00",
+      "album": {
         "name": "And Then Life Was Beautiful",
         "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 199773,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
-    },
-    {
-      "added_at": "2023-06-15 22:00:00",
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O"
-      },
-      "artists": [
-        {
-          "name": "Dan Bravo",
-          "url": "https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F"
-        },
-        {
-          "name": "J.O.Y",
-          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
-        }
-      ],
-      "duration_ms": 173809,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT"
     }
   ],
   "unique_name": "Laid Back Beats",

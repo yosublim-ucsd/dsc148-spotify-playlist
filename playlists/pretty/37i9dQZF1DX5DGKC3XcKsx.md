@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,829 likes - 71 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,833 likes - 71 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 | 53 | [Orsai](https://open.spotify.com/track/76ZjOycIytweoimhlJdSWo) | [Vicho](https://open.spotify.com/artist/1PwkgBMwCn6Wt4F1wj0S8S) | [Orsai](https://open.spotify.com/album/22yL4tDi8E9S2MAt0RZQaQ) | 2:47 |
 | 54 | [Me Ves Así](https://open.spotify.com/track/3MFXe3XuFMCbD4duDv9Q5H) | [Gula](https://open.spotify.com/artist/0z6vMOXncHabKtz4zNC7dB), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Gavo](https://open.spotify.com/artist/6a4vjdtgYYdro1VozKKhA1), [M Sean](https://open.spotify.com/artist/2MnCysmz9o28SiZKwc5GBd), [Dubchizza](https://open.spotify.com/artist/04i3ncIq7vjYE2N5Wl7q52) | [Me Ves Así](https://open.spotify.com/album/7497VjO5oR6iu1I8SX96nX) | 4:54 |
 | 55 | [Sábanas Anónimas](https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Por Si Mañana](https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0) | 3:07 |
-| 56 | [Dos](https://open.spotify.com/track/6YrxXC8qq1kLvhtUZ8ybkf) | [BNT](https://open.spotify.com/artist/5QPQ1ZQFmow6eoSsscq33K), [Hache Souza](https://open.spotify.com/artist/1yQiZJTb5BgGi69eTkgqMW), [Seba Jones](https://open.spotify.com/artist/2FbKpBqa4bdoDiYIklpw3V) | [Higher Standards \(Lado A\)](https://open.spotify.com/album/6pglBdAozqBiOiF1hDNd1Y) | 4:22 |
+| 56 | [Dos](https://open.spotify.com/track/3zHplLv7kGgc99HG1WjCOe) | [BNT](https://open.spotify.com/artist/5QPQ1ZQFmow6eoSsscq33K), [Hache Souza](https://open.spotify.com/artist/1yQiZJTb5BgGi69eTkgqMW), [Seba Jones](https://open.spotify.com/artist/2FbKpBqa4bdoDiYIklpw3V) | [Higher Standards \(Lado A\)](https://open.spotify.com/album/6vZ2DgUGcDUm3eis5UV14A) | 4:22 |
 | 57 | [Adrenalina](https://open.spotify.com/track/02oBBhwqrj7c6iCOMrIM6N) | [Zanto](https://open.spotify.com/artist/4z1EZw4oQOS65xBnx95O60), [Eich](https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT) | [Adrenalina](https://open.spotify.com/album/6j4zyb69QyP5IK6znZkv4U) | 2:20 |
 | 58 | [Valentino Rossi](https://open.spotify.com/track/7EVuU6XXGinBd8Km7tHbct) | [Lemur Kush](https://open.spotify.com/artist/3dZRodtVGMHccB1qQAcJAq) | [Origins](https://open.spotify.com/album/4UEgb48gOslqVZtG5QzsIp) | 3:10 |
 | 59 | [Viejos Trucos](https://open.spotify.com/track/4jHLFHeuww4uibhRIYpn57) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Gula](https://open.spotify.com/artist/0z6vMOXncHabKtz4zNC7dB), [Dubchizza](https://open.spotify.com/artist/04i3ncIq7vjYE2N5Wl7q52) | [Viejos Trucos](https://open.spotify.com/album/5B7SLw0oyxvApok70pkWYe) | 3:07 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 | 70 | [Tu Mirada](https://open.spotify.com/track/3Bl6VMvrPDyVCQFYTGlygq) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa) | [Tu Mirada](https://open.spotify.com/album/3L0HpohjbclTsSvGxH7X2t) | 2:13 |
 | 71 | [Ahora No Puedo Dormir](https://open.spotify.com/track/3iQDeOqPl30DkC7KUECpGs) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Ahora No Puedo Dormir](https://open.spotify.com/album/6k7BF11jOV9gSZjuLkw4i3) | 2:36 |
 
-Snapshot ID: `MCxlNGIyODlhZjA3N2NmZWM5OTVjODc1NWRiYmY4ZGEyNjk5YmQwZDRj`
+Snapshot ID: `MCwxZDEwYTNkMDI0ZTUyMGYyZGQxZWVkZGU2MTdiMzU4ZTNhYWQ5MjQ3`

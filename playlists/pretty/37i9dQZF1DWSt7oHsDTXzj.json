@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 161617,
+  "num_followers": 161592,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjRhNzdjZDU5ODhhNmJiOTQ4NGMwYTMxNzMwNjc3NjIyNTJhY2Ey",
+  "snapshot_id": "MCxiZWIxN2ZhNzMxZmY1YmUxMmYwYzRmZTk1MjkwOGI5MmQ3MWZhOTky",
   "tracks": [
     {
       "added_at": "2022-12-23 02:36:32",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "If We Make It Through December",
-        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 179074,
-      "name": "If We Make It Through December",
-      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Transatlanticism (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 256648,
       "name": "Another Year",
       "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "If We Make It Through December",
+        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 179074,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Ain't Christmas (with Laufey)",
         "url": "https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Christmas Song",
-        "url": "https://open.spotify.com/album/57QwFfafVAQLKXjBSLQwxC"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 221906,
-      "name": "Christmas Song",
-      "url": "https://open.spotify.com/track/67xmO7UDlUazlQ9Nje9pmb"
+      "duration_ms": 187750,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -539,6 +523,22 @@
       "duration_ms": 222560,
       "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
       "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 254437,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -575,34 +575,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
+        "name": "Christmas Song",
+        "url": "https://open.spotify.com/album/57QwFfafVAQLKXjBSLQwxC"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 254437,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
-        "name": "Home To You (This Christmas)",
-        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 225817,
-      "name": "Home To You (This Christmas)",
-      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
+      "duration_ms": 221906,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/67xmO7UDlUazlQ9Nje9pmb"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -623,6 +607,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
+        "name": "Home To You (This Christmas)",
+        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 225817,
+      "name": "Home To You (This Christmas)",
+      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
         "name": "Every Holiday",
         "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 224275,
       "name": "Every Holiday",
       "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -671,26 +655,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "7 O'Clock News / Silent Night",
-        "url": "https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn"
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        },
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
         }
       ],
-      "duration_ms": 120426,
-      "name": "7 O'Clock News / Silent Night",
-      "url": "https://open.spotify.com/track/3sIupwcMw6vCZ3bqMJa0NV"
+      "duration_ms": 219093,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -739,6 +715,30 @@
       "duration_ms": 172207,
       "name": "Linus n' Lucy (Theme from Peanuts)",
       "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "7 O'Clock News / Silent Night",
+        "url": "https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        },
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 120426,
+      "name": "7 O'Clock News / Silent Night",
+      "url": "https://open.spotify.com/track/3sIupwcMw6vCZ3bqMJa0NV"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "baby jesus is nobody\u2019s baby now",
-        "url": "https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 215065,
-      "name": "baby jesus is nobody\u2019s baby now",
-      "url": "https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 233717,
       "name": "Yellow Bike",
       "url": "https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "baby jesus is nobody\u2019s baby now",
+        "url": "https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 215065,
+      "name": "baby jesus is nobody\u2019s baby now",
+      "url": "https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -935,6 +935,22 @@
       "duration_ms": 188533,
       "name": "Christmas Special",
       "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "That Was the Worst Christmas Ever!",
+      "url": "https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1015,22 +1031,6 @@
       "duration_ms": 152426,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "That Was the Worst Christmas Ever!",
-      "url": "https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp"
     },
     {
       "added_at": "2022-12-23 02:36:32",

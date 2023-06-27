@@ -1,12 +1,12 @@
 {
   "description": "leggings, walking pads, water tumblers - that's hot",
-  "num_followers": 31908,
+  "num_followers": 32033,
   "original_name": "hot girl walk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODAzZDI5YzA3OTQ0ZmQ5Njc3ZjZjZTNkNTJkYWVmNDU3MmRkZGU1",
+  "snapshot_id": "MCwwNzc1ODQ3NjAxOWEzNjg4NGE4YWM0YmUxODgwM2I5MzcxMzE1OTZk",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -383,6 +367,26 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Outside (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -407,22 +411,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Outside (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
+      "duration_ms": 190360,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 214647,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 214647,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -875,22 +875,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 195853,
-      "name": "Sexy Bitch (feat. Akon)",
-      "url": "https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE"
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     }
   ],
   "unique_name": "hot girl walk",

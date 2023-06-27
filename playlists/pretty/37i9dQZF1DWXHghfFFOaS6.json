@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 292236,
+  "num_followers": 292406,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzdhMGY3ZjljOWZhMmQzY2E2Y2UyNmRlNzIxM2NhZjQ2ZGE2ZDVh",
+  "snapshot_id": "MCwzNTJhYWI1NWRiMTVjNGM2OWI3MTdmZWVmZDRiYmU1MTJiMWQ4Mjc5",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -111,6 +111,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Drive-Thru Booty",
+        "url": "https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2"
+      },
+      "artists": [
+        {
+          "name": "Freak Power",
+          "url": "https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ"
+        }
+      ],
+      "duration_ms": 264093,
+      "name": "Turn On, Tune In, Cop Out - Radio Edit",
+      "url": "https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
       },
@@ -131,18 +147,34 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Drive-Thru Booty",
-        "url": "https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2"
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
       "artists": [
         {
-          "name": "Freak Power",
-          "url": "https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 264093,
-      "name": "Turn On, Tune In, Cop Out - Radio Edit",
-      "url": "https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc"
+      "duration_ms": 386973,
+      "name": "Space Cowboy",
+      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 261265,
+      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -175,38 +207,6 @@
       "duration_ms": 243586,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 261265,
-      "name": "Rebirth Of Slick (Cool Like Dat)",
-      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Space Cowboy",
-      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -835,34 +835,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Afrodesia",
-        "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
-      },
-      "artists": [
-        {
-          "name": "Dr. Lonnie Smith",
-          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
-        },
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 372733,
-      "name": "It's Changed",
-      "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Feels So Good",
         "url": "https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN"
       },
@@ -907,6 +879,34 @@
       "duration_ms": 166400,
       "name": "Lord Jazz Hit Me One Time (Make It Funky)",
       "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Afrodesia",
+        "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
+      },
+      "artists": [
+        {
+          "name": "Dr. Lonnie Smith",
+          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
+        },
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 372733,
+      "name": "It's Changed",
+      "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Azymuth: Outubro",
-        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
-      },
-      "artists": [
-        {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
-        }
-      ],
-      "duration_ms": 274600,
-      "name": "Dear Limmertz",
-      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Sounds from the Ancestors",
         "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 313720,
       "name": "Hargrove",
       "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Azymuth: Outubro",
+        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 274600,
+      "name": "Dear Limmertz",
+      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Brass Construction",
+        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 494960,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Check The Pulse",
         "url": "https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 154520,
       "name": "Check The Pulse",
       "url": "https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Brass Construction",
-        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
-      },
-      "artists": [
-        {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
-        }
-      ],
-      "duration_ms": 494960,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
     },
     {
       "added_at": "2022-07-14 19:24:43",

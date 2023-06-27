@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7694,
+  "num_followers": 7702,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTY0NTRmNThhZTEyNTU1YWZmNWM1OTg0MjZlZjYzNjJkZGZhZDIy",
+  "snapshot_id": "MCwzYTA5ZDZhNTI0OGI2NWE0ZWZlNGM2YmQ2MmFlODllMDU1MjE1YjY3",
   "tracks": [
     {
       "added_at": "2023-06-13 08:57:59",
@@ -151,6 +151,26 @@
     {
       "added_at": "2023-06-13 08:57:59",
       "album": {
+        "name": "The Hyena on the Keyboard, Pt. 4",
+        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 231654,
+      "name": "Don\u2019t",
+      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
+    },
+    {
+      "added_at": "2023-06-13 08:57:59",
+      "album": {
         "name": "ACT 1, SCENE 1",
         "url": "https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH"
       },
@@ -223,26 +243,6 @@
     {
       "added_at": "2023-06-13 08:57:59",
       "album": {
-        "name": "The Hyena on the Keyboard, Pt. 4",
-        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 231654,
-      "name": "Don\u2019t",
-      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
-    },
-    {
-      "added_at": "2023-06-13 08:57:59",
-      "album": {
         "name": "Fxxxnds",
         "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
       },
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-06-13 08:57:59",
       "album": {
+        "name": "Brand New - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
+    },
+    {
+      "added_at": "2023-06-13 08:57:59",
+      "album": {
         "name": "Love to Hate You, Pt. 4 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7qMURkrL885kAgogHHnSon"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 191957,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w"
-    },
-    {
-      "added_at": "2023-06-13 08:57:59",
-      "album": {
-        "name": "Brand New - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
-      },
-      "artists": [
-        {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
     },
     {
       "added_at": "2023-06-13 08:57:59",
@@ -399,6 +399,26 @@
     {
       "added_at": "2023-06-13 08:57:59",
       "album": {
+        "name": "Our Spring : Who?",
+        "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        },
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Who?",
+      "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+    },
+    {
+      "added_at": "2023-06-13 08:57:59",
+      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 6",
         "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
       },
@@ -431,22 +451,6 @@
     {
       "added_at": "2023-06-13 08:57:59",
       "album": {
-        "name": "Love to Hate You, Pt. 3 (Original Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 200077,
-      "name": "Love to Hate You",
-      "url": "https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP"
-    },
-    {
-      "added_at": "2023-06-13 08:57:59",
-      "album": {
         "name": "bimil:ier vol.1 \"so this is love\"",
         "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
       },
@@ -463,22 +467,18 @@
     {
       "added_at": "2023-06-13 08:57:59",
       "album": {
-        "name": "Our Spring : Who?",
-        "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
+        "name": "Love to Hate You, Pt. 3 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx"
       },
       "artists": [
         {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        },
-        {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 190746,
-      "name": "Who?",
-      "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+      "duration_ms": 200077,
+      "name": "Love to Hate You",
+      "url": "https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP"
     },
     {
       "added_at": "2023-06-13 08:57:59",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-06-13 08:57:59",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2"
+    },
+    {
+      "added_at": "2023-06-13 08:57:59",
+      "album": {
         "name": "Unintentional Love Story Original Televion Soundtrack Pt. 3",
         "url": "https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 201238,
       "name": "Traffic Accident",
       "url": "https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf"
-    },
-    {
-      "added_at": "2023-06-13 08:57:59",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2"
     },
     {
       "added_at": "2023-06-13 08:57:59",

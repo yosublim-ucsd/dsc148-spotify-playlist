@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 20303,
+  "num_followers": 20333,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGU2ZWFjYTkwYWFmMjliYzY0ZjUxZGY4YjA1MmJhOWVlYWM5ZTNj",
+  "snapshot_id": "MCxmNDJjNmNmNWMxYTVmNDJjNjE1ZmM2ZWQ0MjJmOTdlZDIyMTViNWJl",
   "tracks": [
     {
       "added_at": "2023-06-22 23:00:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Line Of Fire",
-        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -751,6 +731,26 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Line Of Fire",
+        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Be Easy",
         "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
       },
@@ -767,38 +767,6 @@
       "duration_ms": 132052,
       "name": "Be Easy",
       "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 205191,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -851,6 +819,38 @@
       "duration_ms": 203026,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 164557,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 205191,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
     },
     {
       "added_at": "2023-06-22 23:00:00",

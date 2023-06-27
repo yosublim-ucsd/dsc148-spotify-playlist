@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Portraits Of Tracy
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,302 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,329 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Get Low](https://open.spotify.com/track/7h4a7VcPrLaHRPndPjySmF) | [Reggie Pearl](https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe) | [Get Low](https://open.spotify.com/album/6zMH1ceF1MnveE43irDDsP) | 2:22 |
 | 100 | [Grow Up](https://open.spotify.com/track/29kOZ6piHRtNdaOpctbhBD) | [Melkin](https://open.spotify.com/artist/2SoZ1ykUvFzJLwRsMWUXTa) | [Grow Up](https://open.spotify.com/album/6W65VOxWYO8THSIy582k7n) | 2:38 |
 
-Snapshot ID: `MCwwNTU3MTc2N2U5NDliNmYxYTE2YzNhMDcwYThhOGUzNWFiYTg5ZDli`
+Snapshot ID: `MCxmZmNmMDNlOTQwNzNhODgyNDUxNGNiMzgyMDJmYTc5Y2Q5NWMzMWEy`

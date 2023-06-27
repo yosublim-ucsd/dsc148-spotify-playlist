@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 118864,
+  "num_followers": 118909,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjgxYTE4Zjg5ZjMxY2EwOGRmMjk3OWU3OGNkNjAzODYzMDM5MGI0",
+  "snapshot_id": "MCw0YmNiNDRhZGEzNjQ1OWZiZGRmZjBhYmUwNTNkYTk3ZjllNDE5MDdj",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "NEVER WALK AWAY",
+        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 200017,
+      "name": "NEVER WALK AWAY",
+      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 201040,
       "name": "Only Ever",
       "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "NEVER WALK AWAY",
-        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 200017,
-      "name": "NEVER WALK AWAY",
-      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "neverfade",
         "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
       },
@@ -295,34 +311,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
+        "name": "SIMPLE (feat. Joe L Barnes)",
+        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
-      },
-      "artists": [
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
         {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+      "duration_ms": 152769,
+      "name": "SIMPLE (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -347,38 +351,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "SIMPLE (feat. Joe L Barnes)",
-        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
         }
       ],
-      "duration_ms": 152769,
-      "name": "SIMPLE (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Fire in My Bones",
-        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Fire in My Bones",
-      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -399,22 +383,34 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
+        "name": "Fire in My Bones",
+        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
       },
       "artists": [
         {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        },
-        {
-          "name": "Eric Gilmour",
-          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
         }
       ],
-      "duration_ms": 209739,
-      "name": "Rest On Us",
-      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
+      "duration_ms": 272000,
+      "name": "Fire in My Bones",
+      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Be Okay - EP",
+        "url": "https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "duration_ms": 194374,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -463,18 +459,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Be Okay - EP",
-        "url": "https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ"
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
       },
       "artists": [
         {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Eric Gilmour",
+          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
         }
       ],
-      "duration_ms": 194374,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
+      "duration_ms": 209739,
+      "name": "Rest On Us",
+      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Majesty",
-        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
+        "name": "BETTER WITH YOU",
+        "url": "https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz"
       },
       "artists": [
         {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 500000,
-      "name": "Majesty",
-      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
+      "duration_ms": 166405,
+      "name": "BETTER WITH YOU",
+      "url": "https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "BETTER WITH YOU",
-        "url": "https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 166405,
-      "name": "BETTER WITH YOU",
-      "url": "https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Out Here On A Friday Where It Began (Live)",
         "url": "https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 162894,
       "name": "Phenomena (DA DA) - Live",
       "url": "https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Majesty",
+        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 500000,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Won't Look Back",
+        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Won't Look Back",
+      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
       },
@@ -651,42 +671,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "III (Reimagined)",
-        "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
+        "name": "Eyes On You (Live)",
+        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
         }
       ],
-      "duration_ms": 202960,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Won't Look Back",
-        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Won't Look Back",
-      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
+      "duration_ms": 233947,
+      "name": "Eyes On You - Live",
+      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Quiet Talk",
-        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Quiet Talk",
-      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
       },
@@ -739,22 +723,38 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Eyes On You (Live)",
-        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
+        "name": "III (Reimagined)",
+        "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         },
         {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 233947,
-      "name": "Eyes On You - Live",
-      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
+      "duration_ms": 202960,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Quiet Talk",
+        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Quiet Talk",
+      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Hands High",
+        "url": "https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm"
+      },
+      "artists": [
+        {
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+        }
+      ],
+      "duration_ms": 223346,
+      "name": "Hands High",
+      "url": "https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Worship: The Remix Project, Vol. 3",
         "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 236025,
       "name": "The Blessing - Reyer Remix",
       "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Hands High",
-        "url": "https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm"
-      },
-      "artists": [
-        {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
-        }
-      ],
-      "duration_ms": 223346,
-      "name": "Hands High",
-      "url": "https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "It's Coming",
-        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
-      },
-      "artists": [
-        {
-          "name": "Jet Trouble",
-          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
-        }
-      ],
-      "duration_ms": 154305,
-      "name": "It's Coming",
-      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Never Far (House Church)",
         "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 231964,
       "name": "Never Far (House Church)",
       "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "It's Coming",
+        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "duration_ms": 154305,
+      "name": "It's Coming",
+      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
+        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Melodie Wagner",
+          "url": "https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd"
+        }
+      ],
+      "duration_ms": 205520,
+      "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
+      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
       },
@@ -1159,62 +1183,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Listen More",
-        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
-        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        },
-        {
-          "name": "Melodie Wagner",
-          "url": "https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd"
-        }
-      ],
-      "duration_ms": 205520,
-      "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
-      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Clouds Are Clearing: Mixtape 1A",
         "url": "https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ"
       },
@@ -1235,18 +1203,34 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
       },
       "artists": [
         {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
         }
       ],
-      "duration_ms": 218200,
-      "name": "More Than Good Enough",
-      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Listen More",
+        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Jesus Is The Key",
         "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
       },
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Surely Now",
-        "url": "https://open.spotify.com/album/13uEugblOLiVkplBEFgRe4"
+        "name": "FRVR",
+        "url": "https://open.spotify.com/album/4qjKYc6fXywXLvSypwJCkS"
       },
       "artists": [
         {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
         }
       ],
-      "duration_ms": 288626,
-      "name": "Surely Now",
-      "url": "https://open.spotify.com/track/52K1h9IEMQniaGiM56pXNc"
+      "duration_ms": 197000,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/51AOKB8pqsRF3YCucahDQ8"
     }
   ],
   "unique_name": "Hits UP",

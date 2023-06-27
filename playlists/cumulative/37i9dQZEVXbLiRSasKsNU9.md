@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,612 songs - 3 day 13 hr 42 min
+1,613 songs - 3 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,7 +561,7 @@
 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-01 | 2023-01-07 |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-05-24 | 2022-06-22 |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-04 | 2022-05-29 |
-| [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-06-11 |  |
+| [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-06-11 | 2023-06-27 |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2023-05-19 | 2023-06-21 |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/6PadQidABni2peo3kYKW0M) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5) | 1:42 | 2023-05-07 | 2023-05-20 |
 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 | 2022-03-29 | 2022-04-16 |
@@ -1199,6 +1199,7 @@
 | [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 | 2023-04-11 | 2023-05-02 |
 | [River \- Eurovision 2022 \- Poland](https://open.spotify.com/track/6mkQtlv43QQcW6ivLuL9JE) | [Ochman](https://open.spotify.com/artist/45YERUZVQOedUFX24vFcvc) | [Ochman \(Deluxe Edition\)](https://open.spotify.com/album/4cgyAvJqQXpY5dpasG4B2f) | 3:00 | 2022-05-17 | 2022-05-22 |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-07-05 | 2022-08-03 |
+| [Rocketship](https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Rocketship](https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ) | 2:36 | 2023-06-26 |  |
 | [rockhardt](https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi) | [Carbon](https://open.spotify.com/artist/56yUYQQyWtboyoDEIEvN3J) | [rockhardt](https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc) | 2:38 | 2023-02-23 | 2023-02-28 |
 | [Rocking A Cardigan in Atlanta](https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Rocking A Cardigan in Atlanta](https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95) | 1:36 | 2022-02-24 | 2022-04-13 |
 | [Rockstars](https://open.spotify.com/track/0LTn3UoaJkL42ltlGwWMxC) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [Anonymous Colonist \(Rockstars Edition\)](https://open.spotify.com/album/5AblHx3VwGHzVkT5Kb6Ac2) | 2:59 | 2022-05-15 | 2022-05-29 |

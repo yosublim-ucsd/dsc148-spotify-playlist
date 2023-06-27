@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,641,309 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,642,232 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 11 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 |
 | 12 | [No Angels \(with Lola Brooke\)](https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:30 |
 | 13 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
-| 14 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 |
+| 14 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 |
 | 15 | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP) | 2:28 |
 | 16 | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr) | 2:58 |
 | 17 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 99 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 |
 | 100 | [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 |
 
-Snapshot ID: `MCw4Y2ViMDA3YjIzMWVjMTRiNWVmNjBmMWQ1MjkyYTljMzIxODg1ZDIz`
+Snapshot ID: `MCxkOTdmM2EwNzkxZTJkNTdlYmRjZjRjMDU0NzQ0OTA2ZTJlMmIwZjgz`

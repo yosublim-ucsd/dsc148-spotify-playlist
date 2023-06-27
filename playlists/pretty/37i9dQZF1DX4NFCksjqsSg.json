@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 26498,
+  "num_followers": 26510,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTkwNjNmYzVkNzdlNzZmYzRiN2UwMGQ1NTY5MDAyMmEwMTllOTE1",
+  "snapshot_id": "MCw3MjE3NWFlZDI4NGI0MTAzNTk3OTA5M2Y1MzVhNjAwNWI2NjA3YmI1",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -211,22 +211,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "En Chantant",
-        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "En chantant",
-      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "[en] catimini",
         "url": "https://open.spotify.com/album/6oQ2Xld7fc3gYT4IRX3xC5"
       },
@@ -259,6 +243,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Aime-Moi",
+        "url": "https://open.spotify.com/album/1q8MKSc8nUG1OvCieROWV9"
+      },
+      "artists": [
+        {
+          "name": "Claude Barzotti",
+          "url": "https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Aime moi",
+      "url": "https://open.spotify.com/track/7Br5hb4FGMYRfGp72qNKCd"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
       },
@@ -275,34 +275,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "A Chacun Son Histoire",
-        "url": "https://open.spotify.com/album/38CgBQufkUucyi195crt9D"
+        "name": "En Chantant",
+        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
       },
       "artists": [
         {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
         }
       ],
-      "duration_ms": 170466,
-      "name": "Je n'ai que mon \u00e2me",
-      "url": "https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Au Nom De La Lune",
-        "url": "https://open.spotify.com/album/3V6bGCv4wGLpbUsVn4kfMC"
-      },
-      "artists": [
-        {
-          "name": "Anggun",
-          "url": "https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "La neige au Sahara",
-      "url": "https://open.spotify.com/track/4r9u9QK7KOEXgOmt3hs57g"
+      "duration_ms": 234173,
+      "name": "En chantant",
+      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -323,18 +307,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Aime-Moi",
-        "url": "https://open.spotify.com/album/1q8MKSc8nUG1OvCieROWV9"
+        "name": "A Chacun Son Histoire",
+        "url": "https://open.spotify.com/album/38CgBQufkUucyi195crt9D"
       },
       "artists": [
         {
-          "name": "Claude Barzotti",
-          "url": "https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb"
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Aime moi",
-      "url": "https://open.spotify.com/track/7Br5hb4FGMYRfGp72qNKCd"
+      "duration_ms": 170466,
+      "name": "Je n'ai que mon \u00e2me",
+      "url": "https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -351,6 +335,22 @@
       "duration_ms": 268440,
       "name": "Chats sauvages",
       "url": "https://open.spotify.com/track/0clO0QOJszhztY2jKzT1k3"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Au Nom De La Lune",
+        "url": "https://open.spotify.com/album/3V6bGCv4wGLpbUsVn4kfMC"
+      },
+      "artists": [
+        {
+          "name": "Anggun",
+          "url": "https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "La neige au Sahara",
+      "url": "https://open.spotify.com/track/4r9u9QK7KOEXgOmt3hs57g"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -419,26 +419,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Rendez-vous doux",
-        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
-      },
-      "artists": [
-        {
-          "name": "Gerry Boulet",
-          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
-        },
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Les yeux du coeur",
-      "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Fruit de ma r\u00e9cente nuit blanche",
         "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
       },
@@ -471,18 +451,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Notre Dame de Paris - Version int\u00e9grale, acte 1",
-        "url": "https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY"
+        "name": "Rendez-vous doux",
+        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
       },
       "artists": [
         {
-          "name": "Bruno Pelletier",
-          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
+          "name": "Gerry Boulet",
+          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
+        },
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Le temps des cath\u00e9drales",
-      "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
+      "duration_ms": 256760,
+      "name": "Les yeux du coeur",
+      "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -499,6 +483,22 @@
       "duration_ms": 205600,
       "name": "Tue-moi",
       "url": "https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Notre Dame de Paris - Version int\u00e9grale, acte 1",
+        "url": "https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY"
+      },
+      "artists": [
+        {
+          "name": "Bruno Pelletier",
+          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Le temps des cath\u00e9drales",
+      "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "On ne change pas",
-      "url": "https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les introuvables",
         "url": "https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Rien ne s'arr\u00eate (1987 - 2001)",
-        "url": "https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw"
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
       },
       "artists": [
         {
-          "name": "Patricia Kaas",
-          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 253893,
-      "name": "Mon mec \u00e0 moi",
-      "url": "https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy"
+      "duration_ms": 247893,
+      "name": "On ne change pas",
+      "url": "https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -595,6 +579,22 @@
       "duration_ms": 393013,
       "name": "L'amour est dans tes yeux",
       "url": "https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Rien ne s'arr\u00eate (1987 - 2001)",
+        "url": "https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw"
+      },
+      "artists": [
+        {
+          "name": "Patricia Kaas",
+          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Mon mec \u00e0 moi",
+      "url": "https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -631,18 +631,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Joe Dassin \u00c9ternel...",
-        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
+        "name": "Parlez-moi de lui - Single",
+        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
       },
       "artists": [
         {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
         }
       ],
-      "duration_ms": 169546,
-      "name": "A toi",
-      "url": "https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6"
+      "duration_ms": 200760,
+      "name": "Parlez-moi de lui",
+      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -663,18 +663,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Parlez-moi de lui - Single",
-        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
+        "name": "Joe Dassin \u00c9ternel...",
+        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
       },
       "artists": [
         {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Parlez-moi de lui",
-      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
+      "duration_ms": 169546,
+      "name": "A toi",
+      "url": "https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Soon",
-        "url": "https://open.spotify.com/album/4EBnAga3Y1x9iRsp3qsutX"
-      },
-      "artists": [
-        {
-          "name": "Oph\u00e9lie Winter",
-          "url": "https://open.spotify.com/artist/1CWf9Py9ugzhwqunEEIFYP"
-        }
-      ],
-      "duration_ms": 277439,
-      "name": "Shame on U",
-      "url": "https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "35th Anniversary Collection",
         "url": "https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 263786,
       "name": "Echapp\u00e9 belle - 2008 Digital Remaster",
       "url": "https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Soon",
+        "url": "https://open.spotify.com/album/4EBnAga3Y1x9iRsp3qsutX"
+      },
+      "artists": [
+        {
+          "name": "Oph\u00e9lie Winter",
+          "url": "https://open.spotify.com/artist/1CWf9Py9ugzhwqunEEIFYP"
+        }
+      ],
+      "duration_ms": 277439,
+      "name": "Shame on U",
+      "url": "https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Best of Herbert L\u00e9onard",
-        "url": "https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX"
-      },
-      "artists": [
-        {
-          "name": "Herbert L\u00e9onard",
-          "url": "https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB"
-        }
-      ],
-      "duration_ms": 272746,
-      "name": "Flagrant d\u00e9lit",
-      "url": "https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Tant qu'il y aura des enfants",
         "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 259906,
       "name": "Je sais je sais",
       "url": "https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Best of Herbert L\u00e9onard",
+        "url": "https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX"
+      },
+      "artists": [
+        {
+          "name": "Herbert L\u00e9onard",
+          "url": "https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB"
+        }
+      ],
+      "duration_ms": 272746,
+      "name": "Flagrant d\u00e9lit",
+      "url": "https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -971,22 +971,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Julie Masse",
-        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
-      },
-      "artists": [
-        {
-          "name": "Julie Masse",
-          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Billy",
-      "url": "https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Joe Bocan",
         "url": "https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Coffret 2CD-3",
-        "url": "https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm"
+        "name": "Julie Masse",
+        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
       },
       "artists": [
         {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+          "name": "Julie Masse",
+          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
         }
       ],
-      "duration_ms": 327200,
-      "name": "Je vais t'aimer",
-      "url": "https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD"
+      "duration_ms": 224506,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Autour de Montr\u00e9al (Compilation 1978-1982)",
-        "url": "https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU"
+        "name": "Coffret 2CD-3",
+        "url": "https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm"
       },
       "artists": [
         {
-          "name": "Diane Tell",
-          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
         }
       ],
-      "duration_ms": 287253,
-      "name": "Si j'\u00e9tais un homme",
-      "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Victoire (Radio Edit)",
-        "url": "https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6"
+        "name": "Autour de Montr\u00e9al (Compilation 1978-1982)",
+        "url": "https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU"
       },
       "artists": [
         {
-          "name": "Shy'm",
-          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
+          "name": "Diane Tell",
+          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
         }
       ],
-      "duration_ms": 196479,
-      "name": "Victoire - Radio Edit",
-      "url": "https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x"
+      "duration_ms": 287253,
+      "name": "Si j'\u00e9tais un homme",
+      "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1095,6 +1079,22 @@
       "duration_ms": 279333,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Victoire (Radio Edit)",
+        "url": "https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6"
+      },
+      "artists": [
+        {
+          "name": "Shy'm",
+          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
+        }
+      ],
+      "duration_ms": 196479,
+      "name": "Victoire - Radio Edit",
+      "url": "https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x"
     },
     {
       "added_at": "2020-04-07 15:18:18",

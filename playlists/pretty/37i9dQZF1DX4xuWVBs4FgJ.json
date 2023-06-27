@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1580544,
+  "num_followers": 1580640,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTkxMzljOGJmZjgwODE4YjZlODhmYTg2MjNlYWVjN2QzMWY3ZDVi",
+  "snapshot_id": "MCxjYjIzZGIzNzEwYjg1MmNlZGE5ZGQ4NmYzNGJiM2Y3MDU3MWFmNzU1",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Eyes Closed (Piano Version)",
-        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "I Can Stand A Little Rain",
         "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 159640,
       "name": "You Are So Beautiful",
       "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Eyes Closed (Piano Version)",
+        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Private Dancer (30th Anniversary Issue)",
-        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 316746,
-      "name": "Let's Stay Together - 2015 Remaster",
-      "url": "https://open.spotify.com/track/19DVNifOaTnuP0iq1kTqgW"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 262544,
       "name": "drivers license - Spotify Singles",
       "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 316746,
+      "name": "Let's Stay Together - 2015 Remaster",
+      "url": "https://open.spotify.com/track/19DVNifOaTnuP0iq1kTqgW"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Hold Me While You Wait",
+        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 205686,
+      "name": "Hold Me While You Wait",
+      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Stay Gold",
         "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Hold Me While You Wait",
-        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 205686,
-      "name": "Hold Me While You Wait",
-      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
     }
   ],
   "unique_name": "Dinner with Friends",

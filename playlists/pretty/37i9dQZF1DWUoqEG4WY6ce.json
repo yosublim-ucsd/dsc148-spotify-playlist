@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1031713,
+  "num_followers": 1032017,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYThlYmM4OWJjYjEzMmViYzA2YTZiNzY1ZGVjM2VlMzBhOTQ3MTEx",
+  "snapshot_id": "MCw3ZTA0MGQ4ZjY4NDExNzU0ZGI4YzkyMjZlMzUwODMyZTZiNDhmMThm",
   "tracks": [
     {
       "added_at": "2023-06-01 19:14:40",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
         "name": "Lonesome Dreams (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 284146,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
+        "name": "Robbers & Cowards",
+        "url": "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "Hang Me Up To Dry",
+      "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 290360,
       "name": "Satanist",
       "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
-        "name": "Robbers & Cowards",
-        "url": "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "Hang Me Up To Dry",
-      "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "The Suburbs (Deluxe)",
-        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 210106,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/2nvZv4qatgsDIbEqqbQLUT"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "The Suburbs (Deluxe)",
+        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "Heza",
-        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
-      },
-      "artists": [
-        {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Put a Light On",
-      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
         "name": "Bahamas Is Afie",
         "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 234973,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "Heza",
+        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Put a Light On",
+      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 139293,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 183894,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MYidPOz5NHAtKUySTzbwx"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 139293,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
     },
     {
       "added_at": "2023-06-01 19:14:40",

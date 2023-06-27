@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,124 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,131 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 25 | [This Is Life](https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:27 |
 | 26 | [Undefeated \(feat\. KB\)](https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:57 |
 | 27 | [Long Live the Champion](https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Yariel](https://open.spotify.com/artist/2eu1Av4h29jABu0xlHSt2T) | [Long Live the Champion](https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW) | 4:23 |
-| 28 | [100](https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [100](https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv) | 3:39 |
+| 28 | [One Sixteen](https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [The Good Life](https://open.spotify.com/album/4isPEpuar7DBekswZNoawh) | 4:06 |
 | 29 | [The Name \(feat\. Koryn Hawthorne\)](https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:49 |
-| 30 | [One Sixteen](https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [The Good Life](https://open.spotify.com/album/4isPEpuar7DBekswZNoawh) | 4:06 |
+| 30 | [100](https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [100](https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv) | 3:39 |
 | 31 | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/album/4pLXkCFVxFL1yNy85N3vSb) | 3:28 |
 | 32 | [Wake Up](https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 3:36 |
 | 33 | [God Speed](https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [We Belong](https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Tempo](https://open.spotify.com/track/2qFykEZQhO43nt6Kbg0IFk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Tempo](https://open.spotify.com/album/7CHHpR5lbHnnNdY2blhDhi) | 4:00 |
 | 50 | [On 10](https://open.spotify.com/track/2KR3XkJdsVJrF1ISG1QbLy) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [On 10](https://open.spotify.com/album/1o2f9ssb08V2XSRichmBT1) | 3:07 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDAzNGZmYmJmNzY3NDZmZTQxODg4NDc2NzNlY2E5NGIxZg==`
+Snapshot ID: `MjgxMjk2OTYsMDAwMDAwMDA0MTE0NjJmZTE5ODA0ZTk3MjJjNTAwYzMyZGNiYjZlMA==`

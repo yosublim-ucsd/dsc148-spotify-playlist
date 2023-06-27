@@ -4,7 +4,7 @@
 
 > I rapper più forti del mondo in una sola playlist\. Cover: Dave, Central Cee
 
-345 songs - 17 hr 57 min
+346 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-16 |  |
 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 | 2022-10-21 | 2023-01-06 |
 | [Attentat](https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:14 | 2022-05-10 | 2023-02-10 |
-| [Autobahn](https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 2:50 | 2023-02-09 |  |
+| [Autobahn](https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 2:50 | 2023-02-09 | 2023-06-27 |
 | [Ay Lala \(feat\. Baby Gang\)](https://open.spotify.com/track/7IFuCdfzWR9bKgIoOqJE4j) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Adwokat Diabla](https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf) | 3:56 | 2023-03-10 | 2023-03-25 |
 | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP) | 2:58 | 2022-10-07 | 2022-12-13 |
 | [BABA \(Toma Tussi\)](https://open.spotify.com/track/5ZRM9cNzt2CS9eZyzEyRtZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [BABA \(Toma Tussi\)](https://open.spotify.com/album/1r9EOOBPe9kHk4NibkZcmK) | 2:00 | 2022-07-26 | 2022-11-13 |
@@ -142,6 +142,7 @@
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 | 2022-07-26 |  |
 | [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 | 2023-03-03 | 2023-05-28 |
 | [I KNOW](https://open.spotify.com/track/7N17JE5sPConOSeEIC5AnS) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I KNOW](https://open.spotify.com/album/0uXwRisshXdfubkYqLPiff) | 3:12 | 2022-07-26 | 2022-09-21 |
+| [I'm Not Human](https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I'm Not Human \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY) | 3:15 | 2023-06-23 |  |
 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 | 2023-04-13 | 2023-04-21 |
 | [IFTK](https://open.spotify.com/track/7e1WjNmwjzNsbQeg2CGlgF) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [IFTK](https://open.spotify.com/album/6UtuXgjAgX8C06C0FbdlCG) | 3:10 | 2022-07-26 | 2022-07-29 |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-03-22 |  |

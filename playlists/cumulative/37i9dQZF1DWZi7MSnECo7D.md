@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Julia Branco
 
-419 songs - 23 hr 47 min
+420 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Espaço](https://open.spotify.com/track/67KhBNkSVEYTK9cPCq3QT8) | [Truno](https://open.spotify.com/artist/7L3mzGXS63zp79NOHXwUqV), [Chediak](https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK) | [Espaço](https://open.spotify.com/album/6Eqw1khsQ5TUcekYMqbuaR) | 1:57 | 2023-03-10 |  |
 | [Espelho Infinito](https://open.spotify.com/track/2c035MzNnX6LbBAqqIY74L) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt), [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [Espelho Infinito](https://open.spotify.com/album/2lVRPlfINLYMxUBanw9jpB) | 4:03 | 2022-05-13 | 2022-06-25 |
 | [espelho...](https://open.spotify.com/track/7yU2AHrWg5OGnicuu8cdVt) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Byusukii](https://open.spotify.com/artist/5pvTUpf1gd0VbNGPANCscY) | [espelho...](https://open.spotify.com/album/7clz4qxUPJ4TbY0xlNT6W2) | 2:58 | 2022-01-14 | 2022-03-18 |
+| [Esperando Você](https://open.spotify.com/track/2w7kD7klXMFCV6ot8iU5lm) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Gêmeos](https://open.spotify.com/album/0ChE7T4gcw48AEt6cMmaBx) | 3:47 | 2023-06-26 |  |
 | [Essa Garoa](https://open.spotify.com/track/4671UclmP4TO0I8ps2YgW9) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 2](https://open.spotify.com/album/1YiqHCOIxfRSVBKQ4wxqlu) | 4:00 | 2022-09-30 | 2022-11-05 |
 | [Essa Pessoa Esquisita](https://open.spotify.com/track/4RFxUmgvlVrXAjhrPGI89v) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Essa Pessoa Esquisita](https://open.spotify.com/album/5GgT8TquIycrVOjzSyC6yv) | 4:56 | 2022-12-23 |  |
 | [Estrago](https://open.spotify.com/track/6AFM8iycKKMnOxqh6JrJ1C) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Atenta](https://open.spotify.com/album/1SdXaCPYYjBg2ssFKoQfVw) | 3:01 | 2022-03-11 | 2022-03-26 |

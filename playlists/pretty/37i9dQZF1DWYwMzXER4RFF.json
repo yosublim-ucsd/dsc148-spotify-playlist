@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 267518,
+  "num_followers": 267619,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODU3NjkyNjYyNTQ0YmI4NGIzOWE4NjMwNzE3MjcwY2M1MzA0NzFj",
+  "snapshot_id": "MCw3YjlmODFlOTU1NmNiMDk0YjBkOTMzZGMzOTc0OGEyNjkwM2I3MDll",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Skinty Fia",
         "url": "https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 241200,
       "name": "Total Football",
       "url": "https://open.spotify.com/track/7z81vC7eTE5y4hqk9yCx7F"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 261384,
-      "name": "Fingers of Steel",
-      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -283,54 +283,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Houseplants",
-        "url": "https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 258130,
-      "name": "Houseplants",
-      "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Wide Awake!",
-        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
-      },
-      "artists": [
-        {
-          "name": "Parquet Courts",
-          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Almost Had to Start a Fight/In and Out of Patience",
-      "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
-    },
-    {
-      "added_at": "2023-06-20 22:28:34",
-      "album": {
-        "name": "All Gas No Brakes",
-        "url": "https://open.spotify.com/album/1RyzEjGNgDQkoZHAyPuik9"
-      },
-      "artists": [
-        {
-          "name": "Heavy Lungs",
-          "url": "https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo"
-        }
-      ],
-      "duration_ms": 247350,
-      "name": "All Gas No Brakes",
-      "url": "https://open.spotify.com/track/6aqB23IrXxpJ0Z0HRbagDd"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Songs of Praise",
         "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
       },
@@ -363,6 +315,54 @@
     {
       "added_at": "2023-06-20 22:28:34",
       "album": {
+        "name": "All Gas No Brakes",
+        "url": "https://open.spotify.com/album/1RyzEjGNgDQkoZHAyPuik9"
+      },
+      "artists": [
+        {
+          "name": "Heavy Lungs",
+          "url": "https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo"
+        }
+      ],
+      "duration_ms": 247350,
+      "name": "All Gas No Brakes",
+      "url": "https://open.spotify.com/track/6aqB23IrXxpJ0Z0HRbagDd"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Houseplants",
+        "url": "https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 258130,
+      "name": "Houseplants",
+      "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Wide Awake!",
+        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
+      },
+      "artists": [
+        {
+          "name": "Parquet Courts",
+          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Almost Had to Start a Fight/In and Out of Patience",
+      "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
+    },
+    {
+      "added_at": "2023-06-20 22:28:34",
+      "album": {
         "name": "Slab",
         "url": "https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 108880,
       "name": "Slab",
       "url": "https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Songs of Praise",
+        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -427,6 +443,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 212910,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Sun Coming Down",
         "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
       },
@@ -439,6 +471,22 @@
       "duration_ms": 463545,
       "name": "Beautiful Blue Sky",
       "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
+    },
+    {
+      "added_at": "2023-06-20 22:28:34",
+      "album": {
+        "name": "Fester",
+        "url": "https://open.spotify.com/album/7JU656EQx5OpMj5ftqo1Ha"
+      },
+      "artists": [
+        {
+          "name": "Legss",
+          "url": "https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F"
+        }
+      ],
+      "duration_ms": 349211,
+      "name": "Fester",
+      "url": "https://open.spotify.com/track/2AGdock6lTj8TwnDoVibs8"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -477,26 +525,26 @@
       "url": "https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C"
     },
     {
-      "added_at": "2023-06-20 22:28:34",
+      "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Fester",
-        "url": "https://open.spotify.com/album/7JU656EQx5OpMj5ftqo1Ha"
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
       },
       "artists": [
         {
-          "name": "Legss",
-          "url": "https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 349211,
-      "name": "Fester",
-      "url": "https://open.spotify.com/track/2AGdock6lTj8TwnDoVibs8"
+      "duration_ms": 105515,
+      "name": "Big",
+      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
     },
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Songs of Praise",
-        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
       "artists": [
         {
@@ -504,25 +552,9 @@
           "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 214106,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 212910,
-      "name": "Creatures",
-      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -543,18 +575,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Dogrel",
-        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 105515,
-      "name": "Big",
-      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
+      "duration_ms": 279817,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -607,54 +639,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "'Til The Stream Runs Dry",
-        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
-      },
-      "artists": [
-        {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
-        }
-      ],
-      "duration_ms": 260665,
-      "name": "St. Paul of the Tarantulas",
-      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 279817,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Hunger for a Way Out",
         "url": "https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 141000,
       "name": "Hunger for a Way Out",
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "'Til The Stream Runs Dry",
+        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
+      },
+      "artists": [
+        {
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+        }
+      ],
+      "duration_ms": 260665,
+      "name": "St. Paul of the Tarantulas",
+      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "The Overload",
-        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
+        "name": "Little Fix",
+        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
       },
       "artists": [
         {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+          "name": "Sprints",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 200226,
-      "name": "Pour Another",
-      "url": "https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g"
+      "duration_ms": 196000,
+      "name": "Little Fix",
+      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Little Fix",
-        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
+        "name": "The Overload",
+        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
       "artists": [
         {
-          "name": "Sprints",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Little Fix",
-      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+      "duration_ms": 200226,
+      "name": "Pour Another",
+      "url": "https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g"
     },
     {
       "added_at": "2023-02-24 00:00:00",

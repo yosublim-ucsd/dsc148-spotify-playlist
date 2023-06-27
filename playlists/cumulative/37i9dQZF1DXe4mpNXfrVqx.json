@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Bivolt",
+  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Boombeat",
   "name": "S\u00f3 as Minas",
   "tracks": [
     {
@@ -370,6 +370,24 @@
       "duration_ms": 237818,
       "name": "BNTA",
       "url": "https://open.spotify.com/track/3PTpIE4GrelEc4iS0qV2Jo"
+    },
+    {
+      "album": {
+        "name": "Borboleta",
+        "url": "https://open.spotify.com/album/2p52v9xFZiI37yQrMz3To8"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138139,
+      "name": "Borboleta",
+      "url": "https://open.spotify.com/track/7M7LwDM76QlNCie8KLG6qf"
     },
     {
       "album": {
@@ -1231,6 +1249,32 @@
     },
     {
       "album": {
+        "name": "HSEH",
+        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "HSEH",
+      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
+    },
+    {
+      "album": {
         "name": "Invis\u00edvel",
         "url": "https://open.spotify.com/album/4q1vv6Ymy01U0oHxfcODyB"
       },
@@ -1968,7 +2012,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 146364,
       "name": "PALMAS",
       "url": "https://open.spotify.com/track/5vpSh0sdObC37Tyif3l5pX"
@@ -2938,7 +2982,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 161076,
       "name": "\u00c0 Mil",
       "url": "https://open.spotify.com/track/6dTVjamvjG1SNwiAbEHVsQ"

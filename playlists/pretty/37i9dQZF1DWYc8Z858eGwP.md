@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=aTq65UEUTQOcsNZbdk8qaw">Baaba J </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,362 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,383 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 59 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 |
 | 60 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 
-Snapshot ID: `MCw3OTViOGRmOTllZDFjMWFkNDFlNTk4NTgxM2MxMWZhMTRmMjgwOGMz`
+Snapshot ID: `MCxlY2Q1NjA0ZTRmMzkwODc0MzJhYmI1Zjg3ODUwODg3MjVlNDEyMjhi`

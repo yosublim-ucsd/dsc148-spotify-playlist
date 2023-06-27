@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 22037,
+  "num_followers": 22090,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGE0OGVlY2QxZjMyOTE1ZjVmY2Q1OTgzY2FiZDQzZDViNzRkMDhk",
+  "snapshot_id": "MCw1YjkwMmRiZTI2ZDY1YjhiMTBmYWViODZmMzI5ZmMzMzQyYWE1MjE0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 239635,
-      "name": "7am On Bridle Path",
-      "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 350533,
       "name": "Nothing Even Matters (feat. D'Angelo)",
       "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 239635,
+      "name": "7am On Bridle Path",
+      "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "SBTRKT (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0fiTN2N5HEIefAHtm00vYG"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Summers",
         "url": "https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 209605,
       "name": "4 Nothin'",
       "url": "https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "SBTRKT (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0fiTN2N5HEIefAHtm00vYG"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 344346,
-      "name": "Really Love",
-      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Piece of Me",
         "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 224730,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 344346,
+      "name": "Really Love",
+      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -883,18 +883,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Stony Hill",
-        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
       "artists": [
         {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         }
       ],
-      "duration_ms": 277693,
-      "name": "Looks Are Deceiving",
-      "url": "https://open.spotify.com/track/3BkCURiZj3EflNF0zqzURs"
+      "duration_ms": 236546,
+      "name": "Young Nigga (feat. Puff Daddy)",
+      "url": "https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX"
     }
   ],
   "unique_name": "Kofi Siriboe's Taste",

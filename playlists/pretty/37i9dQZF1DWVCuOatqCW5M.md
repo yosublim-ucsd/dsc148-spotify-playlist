@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Darshan Raval
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,427 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,675 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mahiye Jinna Sohna](https://open.spotify.com/track/2ncqKdTj6dz7tWoTMMrAtq) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mahiye Jinna Sohna](https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq) | 3:01 |
 | 2 | [Pehli Baarish Mein](https://open.spotify.com/track/489mWPcm87XgOEuXPsfYYq) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie), [Gautam G Sharma](https://open.spotify.com/artist/1fgDaY2EEkhZQ8Di5W2iVw) | [Pehli Baarish Mein](https://open.spotify.com/album/5DfBSL8r757EBdRss3x3qG) | 4:00 |
-| 3 | [Mayajaal](https://open.spotify.com/track/5iSTJClXScRiicHxM8fzXK) | [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Sourabh Joshi](https://open.spotify.com/artist/3RwL7pvxngsOGafJ172leD) | [Mayajaal](https://open.spotify.com/album/33UGAEdbauCFZDxaU905Ax) | 4:14 |
+| 3 | [Mayajaal](https://open.spotify.com/track/5iSTJClXScRiicHxM8fzXK) | [Sourabh Joshi](https://open.spotify.com/artist/3RwL7pvxngsOGafJ172leD), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W) | [Mayajaal](https://open.spotify.com/album/33UGAEdbauCFZDxaU905Ax) | 4:14 |
 | 4 | [Door](https://open.spotify.com/track/1ldndBeo8TIFRSly2QNBbo) | [Maddy Sharma](https://open.spotify.com/artist/2xA2yHPINunPF0MvZq2sIQ) | [Door](https://open.spotify.com/album/7kO2smNzWwRLhlTdBM1d2T) | 2:48 |
 | 5 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 |
 | 6 | [Dhokha](https://open.spotify.com/track/2d7ra85OB0rorsLp7fZLM1) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Abhishek Talented](https://open.spotify.com/artist/5D10pAEJDqDAseh6iZj5Mj) | [Dhokha](https://open.spotify.com/album/4UxasMhO2PhweEc6TszpKl) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Kahaniyan](https://open.spotify.com/track/1SGCQ0EQgvJD6PmU31ibXE) | [Ashwani Machal](https://open.spotify.com/artist/6JiBLxNeLijWXyZ6kxuDG6) | [Kahaniyan](https://open.spotify.com/album/1psZjt7cpnZloQF5CrHrC4) | 3:01 |
 | 50 | [Tu Meri Roja \(From "Kushi"\)](https://open.spotify.com/track/3u3ZPw7gXZFl3uLfo8hZP5) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Tu Meri Roja \(From "Kushi"\) \- Single](https://open.spotify.com/album/6MHCscorPNSwxJx5LJJMPf) | 4:02 |
 
-Snapshot ID: `MCwyZjY3NDEyMDA1NWM5ZmIwN2I0NGZkYjFjNzBiOTk4MTBlN2RmNjIy`
+Snapshot ID: `MCw2NzZiMzk4YWQwMTcyZGIzMTFlNmQ2ZDQ1MjNlZGQ3NWRkYTQ5MzE1`

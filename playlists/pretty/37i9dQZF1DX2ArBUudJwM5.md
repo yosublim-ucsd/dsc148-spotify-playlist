@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Barbi Recanati.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,329 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,330 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 16 | [Pensamientos intrusivos](https://open.spotify.com/track/00fA8U2HVDVBHgpfoCXdmE) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [La Fuerza](https://open.spotify.com/album/6Z9DBFIWEnKxGyx0Vgs4ee) | 4:17 |
 | 17 | [Clavícula](https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 2:49 |
 | 18 | [Trago Sin Terminar](https://open.spotify.com/track/4jstoiX3RRUewwyMIpNPgS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 3:13 |
-| 19 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
-| 20 | [Donde Vamos](https://open.spotify.com/track/4AZ6wOO96okzltCfEDhDn4) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [Donde Vamos](https://open.spotify.com/album/7efZ3CZiFymj7AH5wOMWJ0) | 2:56 |
+| 19 | [Donde Vamos](https://open.spotify.com/track/4AZ6wOO96okzltCfEDhDn4) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [Donde Vamos](https://open.spotify.com/album/7efZ3CZiFymj7AH5wOMWJ0) | 2:56 |
+| 20 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
 | 21 | [La Casa De Tu Mamá](https://open.spotify.com/track/347RGsSgCXlzIlZYb2gEwu) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [La Casa De Tu Mamá](https://open.spotify.com/album/05SDUU6l3vytYY5Jld0b00) | 3:13 |
 | 22 | [ULTRASONICO](https://open.spotify.com/track/2W4qLB4rniOvtnt5ywiEGo) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 2:53 |
-| 23 | [Cancionero](https://open.spotify.com/track/3HMU4dE6cDSIg91lJyTkc5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Crisis de Amor](https://open.spotify.com/album/0xKZ1qAIGC60qmenFk94uC) | 4:29 |
-| 24 | [Si Sólo](https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Si sólo](https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV) | 3:42 |
+| 23 | [Si Sólo](https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Si sólo](https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV) | 3:42 |
+| 24 | [Cancionero](https://open.spotify.com/track/3HMU4dE6cDSIg91lJyTkc5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Crisis de Amor](https://open.spotify.com/album/0xKZ1qAIGC60qmenFk94uC) | 4:29 |
 | 25 | [Destino](https://open.spotify.com/track/6m0T4tuJZvjTZAaUTlpRGX) | [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [En vivo en El Xirgu](https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ) | 1:35 |
 | 26 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
 | 27 | [Otro Vals](https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Otro Vals](https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Serpientes](https://open.spotify.com/track/0Uu56M8h27DWtDRS0WB8wo) | [Paula y Los Pájaros](https://open.spotify.com/artist/5ieJxCq2svgyLpVgL7Xalk) | [Serpientes](https://open.spotify.com/album/5WnrMugZ9igrl5RQlZb0C3) | 4:16 |
 | 50 | [Aplaudan](https://open.spotify.com/track/536hF72EgZwGrnxAfKMiAS) | [Maria Florencia Silva](https://open.spotify.com/artist/3lPDxSUaNbNXR3h4U8PYUu), [Animales de Poder](https://open.spotify.com/artist/0HHIbLHHbWHtLokGrFztwF) | [Aplaudan](https://open.spotify.com/album/77Z2tqEa6SgV7HO2ii5Gsk) | 3:40 |
 
-Snapshot ID: `MCw3NjZhY2EyMTkzMTczYTM0MjQ3MzJmZjJiODQwMWQzYzFhMjZjNWI3`
+Snapshot ID: `MCwzMTU5ZmRkYzczNDY2MzQ5YzZkMjRmOGFmYWU4ZDc4NDE2NzBhZTI0`

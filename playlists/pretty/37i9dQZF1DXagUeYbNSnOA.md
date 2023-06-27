@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Junior Zamora\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,573 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,572 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,19 +38,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 28 | [Gelato](https://open.spotify.com/track/1QjlMVJzywhUcCFu3vGXgt) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Gelato](https://open.spotify.com/album/6P9HjJLj5zUaI7urdjSPpf) | 3:43 |
 | 29 | [Una Manera Distinta](https://open.spotify.com/track/38FZyAP4Iexl8Wi9A9hQdU) | [Leo el Charrúa](https://open.spotify.com/artist/1iYJCdZ2XOhTKEg41FxXMQ), [Chickjuarez](https://open.spotify.com/artist/0AaOo67hLCQf3saR6ZFfJY) | [Una Manera Distinta](https://open.spotify.com/album/7q4jrkCzbxNiPb1EbKOvOR) | 3:28 |
 | 30 | [Big Bang](https://open.spotify.com/track/64PFeVpxk6Pl1bb4iX0kRs) | [Pol](https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf) | [Disco Debut](https://open.spotify.com/album/7ggGKL8qKDZX2swrPJMIRk) | 3:24 |
-| 31 | [Deberíamos](https://open.spotify.com/track/1rzM4YIAj3ni3UwSGHXKoO) | [Erick Oyarvide](https://open.spotify.com/artist/2A2c09DtgYJ5qHzfuHTwBv) | [EGO](https://open.spotify.com/album/0bz7vf4TEZdYT5K39QFDVH) | 2:36 |
-| 32 | [Siempre Fuiste Vos](https://open.spotify.com/track/3mX3wTPTYxQUPp6CURfrBe) | [Rudy](https://open.spotify.com/artist/2em5rmbRdv6QPZZhU9zYVW), [LvRod](https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv) | [Siempre Fuiste Vos](https://open.spotify.com/album/7lHGFf03FMycxt1DQ7IoAW) | 3:16 |
+| 31 | [Siempre Fuiste Vos](https://open.spotify.com/track/3mX3wTPTYxQUPp6CURfrBe) | [Rudy](https://open.spotify.com/artist/2em5rmbRdv6QPZZhU9zYVW), [LvRod](https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv) | [Siempre Fuiste Vos](https://open.spotify.com/album/7lHGFf03FMycxt1DQ7IoAW) | 3:16 |
+| 32 | [Deberíamos](https://open.spotify.com/track/1rzM4YIAj3ni3UwSGHXKoO) | [Erick Oyarvide](https://open.spotify.com/artist/2A2c09DtgYJ5qHzfuHTwBv) | [EGO](https://open.spotify.com/album/0bz7vf4TEZdYT5K39QFDVH) | 2:36 |
 | 33 | [MARIPOSAS](https://open.spotify.com/track/7er0DsNXSE0JfM2GzHL60O) | [LICHY](https://open.spotify.com/artist/2rhKI3T4T93HZUmR8uF569) | [MARIPOSAS](https://open.spotify.com/album/31optYeNRe79sh5FIMBGJl) | 1:55 |
-| 34 | [Dame Más](https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4) | [Jinzo](https://open.spotify.com/artist/0dsqYtPZHuvhqwNDnPrgsn) | [Dame Más](https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy) | 3:45 |
-| 35 | [Solo los Dos](https://open.spotify.com/track/3t1gIKQljAz0AUin4tWRdA) | [El Peligro de los Vientos](https://open.spotify.com/artist/233QcEovKcNYRw1NskNj5r) | [La Sensación](https://open.spotify.com/album/0Aj2XmEa9fcoqydXr9Rrh5) | 3:38 |
+| 34 | [Solo los Dos](https://open.spotify.com/track/3t1gIKQljAz0AUin4tWRdA) | [El Peligro de los Vientos](https://open.spotify.com/artist/233QcEovKcNYRw1NskNj5r) | [La Sensación](https://open.spotify.com/album/0Aj2XmEa9fcoqydXr9Rrh5) | 3:38 |
+| 35 | [Dame Más](https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4) | [Jinzo](https://open.spotify.com/artist/0dsqYtPZHuvhqwNDnPrgsn) | [Dame Más](https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy) | 3:45 |
 | 36 | [Arrullo](https://open.spotify.com/track/1dJdb3155A8MXl80DKR0NC) | [Yonna Lizzouli](https://open.spotify.com/artist/5B4DxKuZaoR8FioGJnFHOb) | [Arrullo](https://open.spotify.com/album/2JuyJjQyp5VnQPSsyH199J) | 2:50 |
 | 37 | [Foto](https://open.spotify.com/track/0XZw6eCsnkMNG7JLJ6LN9g) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Foto](https://open.spotify.com/album/7i5y1TOAfdGoj59JLwtliw) | 3:40 |
 | 38 | [Eufrasia en el Desierto](https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [La Vida, un Viaje](https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d) | 4:07 |
 | 39 | [Magnetismo](https://open.spotify.com/track/0ThPQBfAERZONoEEujSUBo) | [Le Montro](https://open.spotify.com/artist/13y8ea0FLQ4jQkFPDXn6aS) | [Magnetismo](https://open.spotify.com/album/48usPDgR7j81TJex9hUL1r) | 2:48 |
 | 40 | [Coral](https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Coral](https://open.spotify.com/album/78K4xSAjShKybDLVkkWH6J) | 3:47 |
 | 41 | [qué pretendes hacer conmigo](https://open.spotify.com/track/4KId7hIHJCihRrQV2XI22X) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [qué pretendes hacer conmigo](https://open.spotify.com/album/0FY8R3pZbRuHZ04fhhv4Fv) | 2:50 |
-| 42 | [Tecito E' Buenas Intenciones](https://open.spotify.com/track/6kgEBezCakZKiQvhxCHM1k) | [OHM](https://open.spotify.com/artist/2KWuMq9ta5YVbzAHmLCXEP), [Laura Sofía](https://open.spotify.com/artist/7JX6rkw6bRQ5ZPwPbtLbpf), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Tecito E' Buenas Intenciones](https://open.spotify.com/album/4FGhuyf7GS3nNI0b2CRcIC) | 2:39 |
-| 43 | [Libre \(feat\. Juan José García & Rafael Lozina\)](https://open.spotify.com/track/5BXFmljuSgquI0IkWs52BM) | [Thaissa](https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ), [Santiago García](https://open.spotify.com/artist/3fofjE8yRgKBHlG5LPsrM8), [Juan José García](https://open.spotify.com/artist/5ymPgvKIXUyqnWU0sMJnef), [Rafael Lozina](https://open.spotify.com/artist/2sc2IlUy0VY0LqmzJ2dEjW) | [Libre \(feat\. Juan José García & Rafael Lozina\)](https://open.spotify.com/album/2ypwHaPEXujHuzQjrCtNEL) | 3:11 |
+| 42 | [Libre \(feat\. Juan José García & Rafael Lozina\)](https://open.spotify.com/track/5BXFmljuSgquI0IkWs52BM) | [Thaissa](https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ), [Santiago García](https://open.spotify.com/artist/3fofjE8yRgKBHlG5LPsrM8), [Juan José García](https://open.spotify.com/artist/5ymPgvKIXUyqnWU0sMJnef), [Rafael Lozina](https://open.spotify.com/artist/2sc2IlUy0VY0LqmzJ2dEjW) | [Libre \(feat\. Juan José García & Rafael Lozina\)](https://open.spotify.com/album/2ypwHaPEXujHuzQjrCtNEL) | 3:11 |
+| 43 | [Tecito E' Buenas Intenciones](https://open.spotify.com/track/6kgEBezCakZKiQvhxCHM1k) | [OHM](https://open.spotify.com/artist/2KWuMq9ta5YVbzAHmLCXEP), [Laura Sofía](https://open.spotify.com/artist/7JX6rkw6bRQ5ZPwPbtLbpf), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Tecito E' Buenas Intenciones](https://open.spotify.com/album/4FGhuyf7GS3nNI0b2CRcIC) | 2:39 |
 | 44 | [cómo se siente](https://open.spotify.com/track/39kJcNDgebjBNyDpxTo2e2) | [Merce](https://open.spotify.com/artist/5iJsZyGemL5QPK3awe0M7z) | [cómo se siente](https://open.spotify.com/album/44jgGtifDxMrjgpoATQEua) | 2:08 |
 | 45 | [Dicen que la muerte murió](https://open.spotify.com/track/32zxhzuAWOWAetw13FOZqd) | [Sonoras Mil](https://open.spotify.com/artist/2pbfinO11kaKjnGcCxRQQn) | [Dicen que la muerte murió](https://open.spotify.com/album/1UycczBEuaR6nYnIEbUOcp) | 4:13 |
 | 46 | [Nómada](https://open.spotify.com/track/5TJQ8UwM8jSE0Nw5zbNH8d) | [Neomadas](https://open.spotify.com/artist/1lcm04c3mTlUbaQ3o82Y6H) | [Nómada](https://open.spotify.com/album/3c6mP5rgIJ5Y3Alh6UQieP) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Luces De Neón](https://open.spotify.com/track/2betzzZgd64GqHljmHZ0GK) | [Mauricio Vallejo](https://open.spotify.com/artist/4J0Mnm9KYD8RKdc5KJsr6W) | [Luces De Neón](https://open.spotify.com/album/33xuuFalm7xdz2hoicktib) | 3:56 |
 | 50 | [Calma](https://open.spotify.com/track/1pybgIZlvEZubQEHRB9CDb) | [Pálido Adiós](https://open.spotify.com/artist/0fleDoQ19zY6h7tY2GtWSC) | [Calma](https://open.spotify.com/album/3dyxCooosufH5kOD546m7l) | 3:22 |
 
-Snapshot ID: `MCwzY2RlNzY3NTE4NjA4ODYxNzAxYjI1YWNhMGYwMjQ5NmE5YjAwOTNh`
+Snapshot ID: `MCw3YjA5ODljN2YzOGJlZDNiZTg4MjRmMGI4NTYyMzc4MThmMzMyMWMw`

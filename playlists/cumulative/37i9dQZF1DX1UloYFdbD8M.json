@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Anpu Kanmanikku",
+        "url": "https://open.spotify.com/album/10z0lBBhYJmbjUuVN4ZvVp"
+      },
+      "artists": [
+        {
+          "name": "Nithinraj",
+          "url": "https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229185,
+      "name": "Anpu Kanmanikku",
+      "url": "https://open.spotify.com/track/4ngocq0ZIMziNjVuwqW74U"
+    },
+    {
+      "album": {
         "name": "Anthinilavin",
         "url": "https://open.spotify.com/album/3mN268bF3zWXvA2ZGm2jod"
       },
@@ -140,6 +158,24 @@
       "duration_ms": 217297,
       "name": "Appuram Ippuram",
       "url": "https://open.spotify.com/track/3RCJVvoxtAguznT1g0RCaQ"
+    },
+    {
+      "album": {
+        "name": "Arikilaay",
+        "url": "https://open.spotify.com/album/3L7rIf4rp0ncRmupn3qLBB"
+      },
+      "artists": [
+        {
+          "name": "Afzal Yusuff",
+          "url": "https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "Arikilaay",
+      "url": "https://open.spotify.com/track/1FUruQVUFNzr5wjae5yqMJ"
     },
     {
       "album": {
@@ -398,6 +434,24 @@
     {
       "album": {
         "name": "Ini Enthoram Kaanan Kedakkanu",
+        "url": "https://open.spotify.com/album/1wtxX4unoVitQl19pXC00o"
+      },
+      "artists": [
+        {
+          "name": "Anuj Sekhar",
+          "url": "https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121212,
+      "name": "Ini Enthoram Kaanan Kedakkanu",
+      "url": "https://open.spotify.com/track/1Nbpz9rxSKE5updGyb6BWk"
+    },
+    {
+      "album": {
+        "name": "Ini Enthoram Kaanan Kedakkanu",
         "url": "https://open.spotify.com/album/0UnX5bU0IKKiXfp6RWbtxO"
       },
       "artists": [
@@ -412,7 +466,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 121238,
       "name": "Ini Enthoram Kaanan Kedakkanu",
       "url": "https://open.spotify.com/track/5f1oPeQ3tzCJUeXjoR47g8"
@@ -576,6 +630,24 @@
       "duration_ms": 151562,
       "name": "Kali",
       "url": "https://open.spotify.com/track/41ayv69t4dbYm7zMPcNUot"
+    },
+    {
+      "album": {
+        "name": "Kanmani",
+        "url": "https://open.spotify.com/album/3uKFPae4mwrhLCZbSklXGe"
+      },
+      "artists": [
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329461,
+      "name": "Kanmani",
+      "url": "https://open.spotify.com/track/17dvs9UHu9Jt1frTgvDAe9"
     },
     {
       "album": {

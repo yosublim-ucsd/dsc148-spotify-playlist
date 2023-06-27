@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-392 songs - 21 hr 16 min
+393 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [I Don't Care](https://open.spotify.com/track/68Vnmq4o96QQ0aVSZm43eK) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK), [Aikani](https://open.spotify.com/artist/5pl9gF3NwPauryVFUyrjka) | [I Don't Care \(Acoustic Reggae\)](https://open.spotify.com/album/0WhYJlr2RggdNvYQ8075oD) | 3:49 | 2021-03-11 | 2022-11-26 |
 | [I Feel It In The Wind \- Acoustic Version](https://open.spotify.com/track/5ZP5JvgJCJfYAvELHhQIJV) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Feel It In The Wind \(Acoustic Version\)](https://open.spotify.com/album/2RTCy2LWLxVeAv7isUOh7D) | 3:48 | 2023-03-31 |  |
 | [i get high \(feat\. Joy Oladokun\)](https://open.spotify.com/track/1wq96gZHLUWNRwlevS99ru) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [i get high \(feat\. Joy Oladokun\)](https://open.spotify.com/album/0ajUz0nm6V1J4BLTX7h9Md) | 2:03 | 2023-01-20 |  |
-| [I Just Came To Dance \- Acoustic](https://open.spotify.com/track/2uBKT2Q7vsWXTekfdOlTvx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance \(Acoustic\)](https://open.spotify.com/album/3cWFS2rpY7eZpy9l0ynQou) | 2:28 | 2022-11-25 |  |
+| [I Just Came To Dance \- Acoustic](https://open.spotify.com/track/2uBKT2Q7vsWXTekfdOlTvx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance \(Acoustic\)](https://open.spotify.com/album/3cWFS2rpY7eZpy9l0ynQou) | 2:28 | 2022-11-25 | 2023-06-27 |
 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 | 2022-10-14 | 2023-03-31 |
 | [I Like Me Better](https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Ysabelle](https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1) | 3:09 | 2022-08-31 |  |
 | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh) | [Raye Mills](https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe) | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3) | 4:13 | 2021-03-11 | 2023-03-10 |
@@ -220,6 +220,7 @@
 | [La La Land \- Acoustic](https://open.spotify.com/track/1sMi8ywnrNKysixM34zH9W) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [La La Land EP](https://open.spotify.com/album/2UfIYmCJf5pvhiaYH8X0fK) | 2:17 | 2021-03-11 | 2022-09-01 |
 | [Last Night](https://open.spotify.com/track/1dHa5Z7tEurFuZUaySS749) | [IOLITE](https://open.spotify.com/artist/0q7Qi8uhdkTZL369raJ4NF) | [Last Night](https://open.spotify.com/album/4rVEM2O5IsozLPU2u86TR3) | 3:07 | 2023-05-12 |  |
 | [Lasting Lover \- Acoustic](https://open.spotify.com/track/0TGU6ELkO9MRv7aHL3QVrl) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover \(Acoustic\)](https://open.spotify.com/album/5PYU16itHJWh7q7AoI5xv4) | 3:52 | 2021-03-11 | 2022-11-26 |
+| [Latch](https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [Latch](https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU) | 3:17 | 2023-06-22 |  |
 | [Lavender Haze](https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Lavender Haze](https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI) | 3:43 | 2023-01-04 |  |
 | [Let Me Down Slow \- Acoustic](https://open.spotify.com/track/67EbNY9iDrlwQ7h33jVb5E) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Let Me Down Slow \(Acoustic\)](https://open.spotify.com/album/46eyWTzXNAdBkt1JzUIOVz) | 3:10 | 2021-03-11 | 2022-07-29 |
 | [Let Me Down Slow \- Acoustic](https://open.spotify.com/track/6TgNJymypzXmSm4YEG19JH) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Let Me Down Slow \(Acoustic\)](https://open.spotify.com/album/7pw2nlrmYzMAL1s98u5c7P) | 3:10 | 2022-08-31 | 2022-11-26 |

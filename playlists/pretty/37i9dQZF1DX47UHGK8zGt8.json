@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 455494,
+  "num_followers": 455836,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Nzk0MjRjNjY5NzY4Y2MwN2I1Nzk1ZmQxMjIzN2VhMjYxY2QwYWM4",
+  "snapshot_id": "MCxhOGUxOTU1OGE2YjczNDBkY2NiOWY3NDAxZDViYjg5Nzg2Mzg2ZmIx",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "V\u00e1rias Queixas",
+        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 170109,
+      "name": "V\u00e1rias Queixas",
+      "url": "https://open.spotify.com/track/5HFvMPiNjclAq8DbEAPWMw"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "V\u00e1rias Queixas",
-        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 170109,
-      "name": "V\u00e1rias Queixas",
-      "url": "https://open.spotify.com/track/5HFvMPiNjclAq8DbEAPWMw"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -271,42 +271,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 262552,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -323,22 +287,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "O Que Voc\u00ea Quer Saber de Verdade",
-        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Depois",
-      "url": "https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -363,6 +311,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -379,6 +343,62 @@
       "duration_ms": 167250,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 262552,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "O Que Voc\u00ea Quer Saber de Verdade",
+        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Depois",
+      "url": "https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Ana",
+        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 189002,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
+      "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -443,22 +463,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Ana",
-        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
         },
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
         }
       ],
-      "duration_ms": 189002,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
-      "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
+      "duration_ms": 252600,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -491,26 +511,6 @@
       "duration_ms": 216800,
       "name": "\u00c1 Primeira Vista",
       "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Lisboa-Madrid",
+        "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 220031,
+      "name": "Lisboa-Madrid",
+      "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Cru",
         "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 221693,
       "name": "Dia Clarear",
       "url": "https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Lisboa-Madrid",
-        "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 220031,
-      "name": "Lisboa-Madrid",
-      "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

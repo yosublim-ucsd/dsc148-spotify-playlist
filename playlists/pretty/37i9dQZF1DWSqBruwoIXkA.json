@@ -1,12 +1,12 @@
 {
   "description": "Somehow heartbreak feels good in a place like this. Cover: Nessa Barrett",
-  "num_followers": 1535016,
+  "num_followers": 1535877,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGZjMzQ4YTc5ODA0NGVjYjM2NDY1MjNlZDMyZjI1NWIyOTFkNzRk",
+  "snapshot_id": "MCwyZjJiYjQyMmUyMWZmNzYxYWE4NjUxYjRmOTAwYmMxMDQ4Nzk3YjU0",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -151,6 +151,22 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "added_at": "2023-06-26 19:20:37",
+      "album": {
+        "name": "When It Was Over",
+        "url": "https://open.spotify.com/album/0BVWJAk1zI0YF7JVByC0r1"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 193654,
+      "name": "The Neighborhood",
+      "url": "https://open.spotify.com/track/6Rk2l7DEUgUXqcCRvvsuz0"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -299,6 +315,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "favorite crime",
+      "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -327,6 +359,22 @@
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -363,22 +411,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "favorite crime",
-      "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -391,6 +423,22 @@
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Talking to the Moon",
+      "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -411,22 +459,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Guitar Songs",
-        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -439,22 +471,6 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Talking to the Moon",
-      "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -923,6 +939,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Locksmith",
+        "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "Locksmith",
+      "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -939,22 +971,6 @@
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Locksmith",
-        "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "Locksmith",
-      "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 218502,
-      "name": "Bigger Than The Whole Sky",
-      "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 218502,
+      "name": "Bigger Than The Whole Sky",
+      "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "As the World Caves In",
         "url": "https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 161612,
       "name": "As the World Caves In",
       "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Blood Harmony (Deluxe)",
-        "url": "https://open.spotify.com/album/1oX0tpdqOXCq3FqoPoQEnh"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 238012,
-      "name": "Break My Heart Again",
-      "url": "https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Born To Be Alive",
         "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 157068,
       "name": "Born To Be Alive",
       "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Blood Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/1oX0tpdqOXCq3FqoPoQEnh"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 238012,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1507,6 +1523,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "better off without me",
         "url": "https://open.spotify.com/album/6NpbtHJjrRHeYqlyUaZa35"
       },
@@ -1535,22 +1567,6 @@
       "duration_ms": 336000,
       "name": "Oceans & Engines",
       "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 150583,
-      "name": "I Would've",
-      "url": "https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "never knew a heart could break itself",
         "url": "https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6"
       },
@@ -1699,22 +1699,6 @@
       "duration_ms": 155223,
       "name": "never knew a heart could break itself",
       "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Two Weeks Ago",
-        "url": "https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "Two Weeks Ago",
-      "url": "https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1735,6 +1719,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Two Weeks Ago",
+        "url": "https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "Two Weeks Ago",
+      "url": "https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "you don't love me anymore",
         "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
       },
@@ -1747,6 +1747,22 @@
       "duration_ms": 204398,
       "name": "you don't love me anymore",
       "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 150583,
+      "name": "I Would've",
+      "url": "https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1783,22 +1799,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "If I Don't Laugh, I'll Cry",
-        "url": "https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb"
-      },
-      "artists": [
-        {
-          "name": "Frawley",
-          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
-        }
-      ],
-      "duration_ms": 198009,
-      "name": "If I Don't Laugh, I'll Cry",
-      "url": "https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "What Was",
         "url": "https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T"
       },
@@ -1811,6 +1811,22 @@
       "duration_ms": 215217,
       "name": "What Was",
       "url": "https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "If I Don't Laugh, I'll Cry",
+        "url": "https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb"
+      },
+      "artists": [
+        {
+          "name": "Frawley",
+          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+        }
+      ],
+      "duration_ms": 198009,
+      "name": "If I Don't Laugh, I'll Cry",
+      "url": "https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1895,22 +1911,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 245629,
-      "name": "I know it won't work",
-      "url": "https://open.spotify.com/track/3weQKQG9ZuqgYAZVswovYS"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "not my job anymore",
         "url": "https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI"
       },
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "I Don't Miss You",
-        "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO"
       },
       "artists": [
         {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 217133,
-      "name": "I Don't Miss You",
-      "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
+      "duration_ms": 245629,
+      "name": "I know it won't work",
+      "url": "https://open.spotify.com/track/3weQKQG9ZuqgYAZVswovYS"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1971,6 +1971,22 @@
       "duration_ms": 195400,
       "name": "broken",
       "url": "https://open.spotify.com/track/44siIYlT1dMRQysOVjEvdF"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "I Don't Miss You",
+        "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "I Don't Miss You",
+      "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -2091,6 +2107,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 204967,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Miss Me The Same (with Anson Seabra)",
         "url": "https://open.spotify.com/album/6trwAd4aAcGduTeXvuVwN3"
       },
@@ -2111,22 +2143,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 204967,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "gg bb xx (deluxe)",
         "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
       },
@@ -2143,22 +2159,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Forget I Exist",
-        "url": "https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Forget I Exist",
-      "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Fat Funny Friend (sadder)",
         "url": "https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY"
       },
@@ -2171,6 +2171,22 @@
       "duration_ms": 202319,
       "name": "Fat Funny Friend (sadder)",
       "url": "https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Forget I Exist",
+        "url": "https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Forget I Exist",
+      "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -2287,38 +2303,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Kryptonite",
-        "url": "https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "pain's my only home",
-        "url": "https://open.spotify.com/album/4hYiYwdqXXdrPE9tHlAmDI"
-      },
-      "artists": [
-        {
-          "name": "Zevia",
-          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "pain's my only home",
-      "url": "https://open.spotify.com/track/4YGh99Jth1t1pOmVQL5eiq"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Three. Two. One.",
         "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 176746,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/69jstgacdd40OwG9cLl45r"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "pain's my only home",
+        "url": "https://open.spotify.com/album/4hYiYwdqXXdrPE9tHlAmDI"
+      },
+      "artists": [
+        {
+          "name": "Zevia",
+          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "pain's my only home",
+      "url": "https://open.spotify.com/track/4YGh99Jth1t1pOmVQL5eiq"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/24sHGSJO8DgLnYE1nxvC9L"
       },
@@ -2367,22 +2383,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "I Tried",
-        "url": "https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH"
-      },
-      "artists": [
-        {
-          "name": "Daniel Seavey",
-          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
-        }
-      ],
-      "duration_ms": 136182,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "break my heart",
         "url": "https://open.spotify.com/album/7tSgsBAq25fhQJ4yuddr7o"
       },
@@ -2395,6 +2395,22 @@
       "duration_ms": 178099,
       "name": "break my heart",
       "url": "https://open.spotify.com/track/4qQJIuWmMXbtMAy3pnBpso"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "I Tried",
+        "url": "https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 136182,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -2427,22 +2443,6 @@
       "duration_ms": 147066,
       "name": "pieces",
       "url": "https://open.spotify.com/track/63Nx8zAsDf3YRfZmNF5OTC"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "would you love me now?",
-        "url": "https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 205646,
-      "name": "would you love me now?",
-      "url": "https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j"
     }
   ],
   "unique_name": "sad hour",

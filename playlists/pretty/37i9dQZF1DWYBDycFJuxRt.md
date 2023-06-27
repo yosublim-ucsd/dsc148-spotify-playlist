@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: なとり \*👉 <a href="https://spice.eplus.jp/articles/319483?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,610 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,652 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 |
 | 80 | [Resurrection](https://open.spotify.com/track/5XN0kWzHcR5hkTdBrNVb63) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Resurrection](https://open.spotify.com/album/5ffQ02f66AteDcj4FVYZ6S) | 3:26 |
 
-Snapshot ID: `MCwzMzEzNTI4YzFhNTc1MzEzMWRmOGIwZDU5YzA1ZDVhOGI5MzM4YmVl`
+Snapshot ID: `MCw3MjJkMzYzOWIxNDY0NjBhMTA3NTdkMzAwYTQ0ZDBlYmEyN2UzMDdm`

@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 458405,
+  "num_followers": 458496,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmE0NDFiYmJiZWE2N2YwYmI4ZjUzMGQzOTAzNjIyNWY0NjNjNWZi",
+  "snapshot_id": "MCw1MWVmZDQyMzYyZGJmNmVlYzhkM2E1ZDNjMmEzMGZmODc4OGJiMjdl",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Long Time, No Sea (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Brand New Vision",
         "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 198000,
       "name": "Into The Dark (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Long Time, No Sea (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 216411,
+      "name": "Antisocialist",
+      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 255586,
       "name": "Hereafter",
       "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 216411,
-      "name": "Antisocialist",
-      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 193886,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Do You Feel O.K?",
-        "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
-      },
-      "artists": [
-        {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Holding Me Down",
-      "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "MONOMANIA",
         "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 215053,
       "name": "NO WAY OUT",
       "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Do You Feel O.K?",
+        "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
+      },
+      "artists": [
+        {
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Holding Me Down",
+      "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 190783,
-      "name": "Talking to Myself",
-      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "The Lost Boys",
         "url": "https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 211125,
       "name": "New England Palm Trees",
       "url": "https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 190783,
+      "name": "Talking to Myself",
+      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Devastation",
-        "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "Devastation",
-      "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Before I Cave In",
         "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "11 Minutes",
-        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
+        "name": "Devastation",
+        "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
       },
       "artists": [
         {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 184000,
-      "name": "11 Minutes",
-      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
+      "duration_ms": 221748,
+      "name": "Devastation",
+      "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1235,6 +1219,22 @@
       "duration_ms": 264646,
       "name": "Domino",
       "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "11 Minutes",
+        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
+      },
+      "artists": [
+        {
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "11 Minutes",
+      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Disease (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 178154,
-      "name": "Takeover",
-      "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Bad Idea",
         "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 226309,
       "name": "Afterlife - Single Edit",
       "url": "https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Disease (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 178154,
+      "name": "Takeover",
+      "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"
     },
     {
       "added_at": "2023-06-20 21:21:38",

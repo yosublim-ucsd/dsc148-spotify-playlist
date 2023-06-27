@@ -4,12 +4,13 @@
 
 > Hindi hai, Indie hai! Cover\- Anubha Bajaj
 
-86 songs - 4 hr 43 min
+87 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 | 2023-05-02 |  |
 | [Aaj Na](https://open.spotify.com/track/322TxW77VZdX9gHynK5Xue) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 3:13 | 2023-05-02 |  |
+| [Aaja](https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Aaja](https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP) | 4:13 | 2023-06-26 |  |
 | [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 | 2023-05-02 |  |
 | [Aisi Raaton](https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Aisi Raaton](https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R) | 3:38 | 2023-05-02 |  |
 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 | 2023-05-02 |  |
@@ -41,7 +42,7 @@
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-05-02 |  |
 | [Kabhi Kabhi](https://open.spotify.com/track/2D67rL8nrEWiLug7w2Q6nh) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Kabhi Kabhi](https://open.spotify.com/album/4z793Z8t0qUdwercwEUK1M) | 3:34 | 2023-05-02 |  |
 | [Kahaani](https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahaani](https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU) | 3:08 | 2023-05-02 |  |
-| [Kahaani \- Duet](https://open.spotify.com/track/7EY6hm0FoEZLZPckVtaFGo) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Kahaani \(Duet\)](https://open.spotify.com/album/0LchCbJTG0KNm1LKSchUzN) | 3:33 | 2023-05-02 |  |
+| [Kahaani \- Duet](https://open.spotify.com/track/7EY6hm0FoEZLZPckVtaFGo) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Kahaani \(Duet\)](https://open.spotify.com/album/0LchCbJTG0KNm1LKSchUzN) | 3:33 | 2023-05-02 | 2023-06-27 |
 | [Kaisi Jadugari](https://open.spotify.com/track/6gkf7KZtpXHSRDuAyIkEMA) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kaisi Jadugari](https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL) | 4:27 | 2023-05-02 |  |
 | [Kaisi Kahani Zindagi](https://open.spotify.com/track/1uRVChDH2w3hgqWfvDTolD) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anup Satam](https://open.spotify.com/artist/3n9JV7cfpRT3PiLLO2ckHf) | [Kaisi Kahani Zindagi](https://open.spotify.com/album/3EpcI39hsBco6PIgkM6xLL) | 4:05 | 2023-05-08 | 2023-06-02 |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2023-05-02 |  |

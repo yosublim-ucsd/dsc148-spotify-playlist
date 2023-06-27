@@ -1376,10 +1376,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 150000,
       "name": "Kratos (A Little Closer)",
       "url": "https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN"
+    },
+    {
+      "album": {
+        "name": "Kratos (A Little Closer)",
+        "url": "https://open.spotify.com/album/2TrBOqqIK0EOtZd03K4VXf"
+      },
+      "artists": [
+        {
+          "name": "Alxboiiz",
+          "url": "https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Kratos - A Little Closer",
+      "url": "https://open.spotify.com/track/2EtjS7KNWpyRK03xCHlef7"
     },
     {
       "album": {

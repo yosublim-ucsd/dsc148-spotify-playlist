@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera ",
-  "num_followers": 10434,
+  "num_followers": 10461,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjdhMWJlMzg4MDhlNjFiM2NiMzE1NTgzMmIyYThkYWYyMDE5NmZk",
+  "snapshot_id": "MCwxN2M3OTM3N2QzZmIwMGIyM2VmN2Q5OWEyODBlODgyZTMwZjFjYTMy",
   "tracks": [
     {
       "added_at": "2023-05-26 08:27:44",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
+    },
+    {
+      "added_at": "2023-05-26 08:27:44",
+      "album": {
         "name": "En Paris",
         "url": "https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
-        "name": "Por las Noches",
-        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 239845,
-      "name": "Por las Noches",
-      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
-    },
-    {
-      "added_at": "2023-05-26 08:27:44",
-      "album": {
         "name": "Di Que Si",
         "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
       },
@@ -319,26 +319,6 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
-        "name": "Dijeron Que No La Iba Lograr",
-        "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 113019,
-      "name": "Dijeron Que No La Iba Lograr",
-      "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
-    },
-    {
-      "added_at": "2023-05-26 08:27:44",
-      "album": {
         "name": "JGL",
         "url": "https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW"
       },
@@ -355,6 +335,30 @@
       "duration_ms": 158093,
       "name": "JGL",
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
+    },
+    {
+      "added_at": "2023-05-26 08:27:44",
+      "album": {
+        "name": "Ando Enfocado",
+        "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Ando Enfocado",
+      "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
     },
     {
       "added_at": "2023-05-26 08:27:44",
@@ -395,42 +399,42 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
-        "name": "Ando Enfocado",
-        "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
+        "name": "Dijeron Que No La Iba Lograr",
+        "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
       },
       "artists": [
         {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         },
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 184106,
-      "name": "Ando Enfocado",
-      "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
+      "duration_ms": 113019,
+      "name": "Dijeron Que No La Iba Lograr",
+      "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
     },
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
       "artists": [
         {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
     },
     {
       "added_at": "2023-05-26 08:27:44",
@@ -455,6 +459,22 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+    },
+    {
+      "added_at": "2023-05-26 08:27:44",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 175471,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
-    },
-    {
-      "added_at": "2023-05-26 08:27:44",
-      "album": {
-        "name": "Siempre Pendientes",
-        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 186828,
-      "name": "Siempre Pendientes",
-      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
     },
     {
       "added_at": "2023-05-26 08:27:44",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "As\u00ed Nac\u00ed",
+      "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
+    },
+    {
+      "added_at": "2023-05-26 08:27:44",
+      "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 217770,
       "name": "Todo A Su Tiempo",
       "url": "https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML"
-    },
-    {
-      "added_at": "2023-05-26 08:27:44",
-      "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "As\u00ed Nac\u00ed",
-      "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
     },
     {
       "added_at": "2023-05-26 08:27:44",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
-        "name": "Beses a Quien Beses",
-        "url": "https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 177845,
-      "name": "Beses a Quien Beses",
-      "url": "https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3"
-    },
-    {
-      "added_at": "2023-05-26 08:27:44",
-      "album": {
         "name": "De Cuando Ac\u00e1",
         "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 178474,
       "name": "De Cuando Ac\u00e1",
       "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
+    },
+    {
+      "added_at": "2023-05-26 08:27:44",
+      "album": {
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 188736,
+      "name": "Por las Ma\u00f1anas - En Vivo",
+      "url": "https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf"
     }
   ],
   "unique_name": "Rompiendo: Texas",

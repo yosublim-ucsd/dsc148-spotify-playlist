@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-783 songs - 1 day 19 hr 25 min
+785 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [California](https://open.spotify.com/track/0td8QgmgwUwlbk58VKf6Fl) | [ill Nicky](https://open.spotify.com/artist/6NVUzbf5gy1bg5A4diGkqm), [Vibes Only](https://open.spotify.com/artist/0RJPaQ4SBZ5zPcpL7HkuAA) | [California](https://open.spotify.com/album/2Xdqr0SMbkoCbbnDzUlZVi) | 2:51 | 2021-03-27 | 2021-08-14 |
 | [Call Of Duty: MW3](https://open.spotify.com/track/1Gbs2qettmeeUg0GUFLmn7) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Call of Duty: Modern Warfare 3](https://open.spotify.com/album/2cmRXWpbtGsCNmy7hYV8dR) | 2:10 | 2019-09-29\* | 2021-03-14 |
 | [Can't Get You Out Of My Head](https://open.spotify.com/track/1KcFCp5dyPs2hW7ZGhfYJ0) | [Krayvent](https://open.spotify.com/artist/3fW8UcLObMVedHoQp2FlNF), [Renzo Monteleone](https://open.spotify.com/artist/5j3lv4cVGsqu7k4ksRlzBP), [Meg Birch](https://open.spotify.com/artist/3LB7FvgVlOipXr9itiGxGY) | [Can't Get You Out Of My Head](https://open.spotify.com/album/3oRH65chAisBGfBNZhr62T) | 2:55 | 2021-03-14 | 2022-04-28 |
-| [CANDYMAN](https://open.spotify.com/track/2LKw5pI3tXyMI8fpUibCiZ) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [CANDYMAN](https://open.spotify.com/album/5x2Pu8eIiPR0sAOZo6bY1w) | 2:44 | 2022-05-27 |  |
+| [CANDYMAN](https://open.spotify.com/track/2LKw5pI3tXyMI8fpUibCiZ) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [CANDYMAN](https://open.spotify.com/album/5x2Pu8eIiPR0sAOZo6bY1w) | 2:44 | 2022-05-27 | 2023-06-27 |
 | [Cap's Promise](https://open.spotify.com/track/29oY8ptMAWdMjPVjYK0wVj) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Captain America: Civil War \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RjfqRZ2wDniTD5ahkbOgo) | 3:45 | 2019-09-29\* | 2021-03-14 |
 | [Captured](https://open.spotify.com/track/03yPeSLBLH4RJm0ogylftz) | [Sami Matar](https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1) | [Abyssinia](https://open.spotify.com/album/0U85lkewUM9HMYT4H6jlDj) | 4:16 | 2019-09-29\* | 2021-03-14 |
 | [Catch You Again](https://open.spotify.com/track/2hsncKh3byc2c5CHuXTuTH) | [Daven](https://open.spotify.com/artist/4GYIIO926bKxfNYmOyuYzg) | [Catch You Again](https://open.spotify.com/album/2lKKtYEUr3QVlpcML8o4f6) | 2:58 | 2021-03-14 | 2021-12-11 |
@@ -741,6 +741,7 @@
 | [Underwater](https://open.spotify.com/track/0t6PFnmkwRdmcLDArYTLdk) | [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Underwater](https://open.spotify.com/album/26OiVkEQbzUucsS0WRM616) | 1:50 | 2021-05-22 | 2022-02-08 |
 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 | 2022-06-10 | 2023-06-10 |
 | [Unless](https://open.spotify.com/track/58vKf56wHGcWFawfETMoWm) | [Anonymuz](https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm) | [Before the Night is Over](https://open.spotify.com/album/7j74RlcSLFTABzRU40X86z) | 2:25 | 2021-03-27 | 2022-02-24 |
+| [Until I End Up Dead](https://open.spotify.com/track/5bVTkc2s7TQbTbVZZn2fXn) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [Until I End Up Dead](https://open.spotify.com/album/7FqeGIj2CoHAbWTyqeOpGu) | 2:15 | 2023-06-26 |  |
 | [Value](https://open.spotify.com/track/7im3jaJBEYivH5JKXMh1Yy) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Value](https://open.spotify.com/album/5k4FGcPa9XZN2IqSPBYICI) | 2:47 | 2021-04-02 | 2021-08-12 |
 | [Venom \- Remix](https://open.spotify.com/track/6kUaRtXf19fu5IQWjmwsEJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \[From Venom: Let There Be Carnage\]](https://open.spotify.com/album/2aYIs6VLwMLzONDdVtNOe6) | 4:21 | 2022-04-20 |  |
 | [Vertigo](https://open.spotify.com/track/79xvPMBUAbdvJPGJmiH5cJ) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Vertigo](https://open.spotify.com/album/2IfX2y0mHBKIkgcungj9Kv) | 3:04 | 2021-03-28 | 2021-12-11 |
@@ -784,12 +785,13 @@
 | [WWW](https://open.spotify.com/track/3HS7X5lZzBe1idgi0AEzID) | [O Fresh](https://open.spotify.com/artist/4CQD7DOvEpUanDVq86HLg0) | [ReFresh: The PreGame](https://open.spotify.com/album/3nolCaTmSRt6jhd7rB20Lt) | 4:56 | 2021-04-13 | 2021-04-13 |
 | [Yeah Yeah Yeah \- Radio Edit](https://open.spotify.com/track/6reg46TnVrrHBEpV4H9yZN) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Yeah Yeah Yeah](https://open.spotify.com/album/6wNPedWIJRB1Jblr5dofvj) | 3:39 | 2021-05-22 | 2021-12-11 |
 | [Years Of Training \- Part 1 \- Motherland](https://open.spotify.com/track/4GYEtjm0a03LLBRSD6Y7Zx) | [The Flight](https://open.spotify.com/artist/633wBWQrbgm4Tugw7MmsgA) | [Horizon Zero Dawn \(Original Soundtrack\)](https://open.spotify.com/album/5ZAaYcFudS0BtKhWJqeMCH) | 2:22 | 2019-09-29\* | 2021-03-14 |
-| [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-09-20 |  |
+| [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-09-20 | 2023-06-27 |
 | [Yesterday](https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday](https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y) | 2:48 | 2021-09-30 | 2021-10-22 |
 | [Yo x Ti, Tu x Mi](https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Yo x Ti, Tu x Mi](https://open.spotify.com/album/3844bY26oeSkqd06th4EYp) | 3:21 | 2021-05-22 | 2021-05-25 |
 | [You Shaped Hole](https://open.spotify.com/track/6EDUMn3BJw6bI9JjigYZm1) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [You Shaped Hole](https://open.spotify.com/album/7J9wdRxHvteGjRbx5AWDWm) | 2:59 | 2021-10-09 | 2021-10-20 |
 | [You vs\. Yourself](https://open.spotify.com/track/6VAatrR31N6Rj8Avmeof4E) | [Tariq Lloyd](https://open.spotify.com/artist/1HQAOME92tzt3lhLkZlpNL) | [Heatin' Up Da Streets](https://open.spotify.com/album/7uArDq3VVyrvdSMv5RyuJv) | 2:25 | 2021-03-27 | 2021-03-27 |
 | [Zoom](https://open.spotify.com/track/5PQ76X4JenbDD4T7YLaiRB) | [Epthemars](https://open.spotify.com/artist/5jqYYiGsNzijcfQ1qwqdp4) | [Zoom](https://open.spotify.com/album/4Unkq9uv1G35Qtyzwb2i4B) | 2:24 | 2021-03-28 | 2021-12-11 |
 | [Zulu Screams \(feat\. Maleek Berry & Bibi Bourelly\)](https://open.spotify.com/track/3wppK77a5W7pED0ChAeP4s) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Diaspora](https://open.spotify.com/album/3TdQHL32iyoKbGVxk9tlhS) | 2:57 | 2021-05-22 | 2021-05-27 |
+| [月を見ていた](https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [月を見ていた](https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor) | 4:12 | 2023-06-26 |  |
 
 \*This playlist was first scraped on 2019-09-29. Prior content cannot be recovered.

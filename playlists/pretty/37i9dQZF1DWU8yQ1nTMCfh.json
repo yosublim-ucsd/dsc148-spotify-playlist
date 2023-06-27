@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Usted Se\u00f1alemelo",
-  "num_followers": 281054,
+  "num_followers": 281064,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTg4MmI2ZWZiNTg0YmQ0ZWFjYjk1MWNhYmI1YmZkZTRlZGZjN2Ey",
+  "snapshot_id": "MCw1YzdhMDU1YmFhNDBjNGE4MzJjNTdiZjlhZmYzNDc2MzRkMTMxY2I3",
   "tracks": [
     {
       "added_at": "2023-06-16 04:27:32",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "Llama Gemela",
-        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 207089,
-      "name": "Llama Gemela",
-      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 211204,
       "name": "No Te Imagin\u00e1s",
       "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
+        "name": "Llama Gemela",
+        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 207089,
+      "name": "Llama Gemela",
+      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "Divergencia",
-        "url": "https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Divergencia",
-      "url": "https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
         "name": "Sin Rencor Ni Mal De Amores",
         "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 198591,
       "name": "Sin Rencor Ni Mal De Amores",
       "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
+        "name": "Divergencia",
+        "url": "https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Divergencia",
+      "url": "https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
         "name": "S\u00f3lo Eres T\u00fa",
         "url": "https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 233885,
       "name": "S\u00f3lo Eres T\u00fa",
       "url": "https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 247375,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
+        "name": "M\u00e1s Tuyo",
+        "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
         }
       ],
-      "duration_ms": 189586,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
+      "duration_ms": 179891,
+      "name": "M\u00e1s Tuyo",
+      "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
         "name": "Eva",
         "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "M\u00e1s Tuyo",
-        "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 179891,
-      "name": "M\u00e1s Tuyo",
-      "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
         "name": "Las Flores Sangran",
         "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 198405,
       "name": "Las Flores Sangran",
       "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 183342,
+      "name": "Al menos ahora",
+      "url": "https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "AAAAAA",
-        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 183342,
-      "name": "Al menos ahora",
-      "url": "https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
         "name": "Se\u00f1orita Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54"
-      },
-      "artists": [
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 184838,
-      "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
         "name": "Desp\u00eddete Bien",
         "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 192124,
       "name": "Desp\u00eddete Bien",
       "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
+        "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 184838,
+      "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "Celosa",
-        "url": "https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB"
+        "name": "Astronom\u00eda Interior",
+        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
       },
       "artists": [
         {
-          "name": "SERBIA",
-          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
         }
       ],
-      "duration_ms": 262293,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7"
+      "duration_ms": 203880,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "Astronom\u00eda Interior",
-        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
-      },
-      "artists": [
-        {
-          "name": "Astronom\u00eda Interior",
-          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
         "name": "Todo est\u00e1 bien",
         "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 376123,
       "name": "Todo est\u00e1 bien",
       "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB"
+      },
+      "artists": [
+        {
+          "name": "SERBIA",
+          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+        }
+      ],
+      "duration_ms": 262293,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7"
     },
     {
       "added_at": "2023-06-16 04:27:32",

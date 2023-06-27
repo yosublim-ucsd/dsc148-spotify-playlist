@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,349 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,374 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 13 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
 | 14 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
 | 15 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 |
-| 16 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |
-| 17 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 |
+| 16 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 |
+| 17 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |
 | 18 | [TOKYO DRIFT](https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [TOKYO DRIFT](https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi) | 2:04 |
 | 19 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 |
 | 20 | [Halo](https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Halo](https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6) | 2:36 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 32 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 |
 | 33 | [Bloodbath](https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Bloodbath](https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt) | 3:20 |
 | 34 | [Kill Me With Your Love](https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Kill Me With Your Love](https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31) | 2:54 |
-| 35 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 |
-| 36 | [Pain Killer](https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:32 |
+| 35 | [Pain Killer](https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:32 |
+| 36 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 |
 | 37 | [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 |
 | 38 | [Back To The Top](https://open.spotify.com/track/2JGPTeVnAxMiFIk15598Ux) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/2vKBP1HzJYgc0aWk1Xqhbj) | 3:18 |
 | 39 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 49 | [End Of The World](https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [End Of The World](https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW) | 3:42 |
 | 50 | [Forgive You Anyway](https://open.spotify.com/track/5NpVwsN4IvmWUzWdn22ILw) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Heavenly](https://open.spotify.com/album/5yWY4gVRl4oJEuRSBbBOHq) | 4:29 |
 
-Snapshot ID: `MCwxYjllM2M3YmM0YWRjMjM1ZDEwMjhhNzI0MjVlZWRkOWYwMDVkYzU3`
+Snapshot ID: `MCw4MjNhMDljZmFkNmQwYTcyNDQyOTQwZjI0YTBlYjFmMzA0YWZiZDc2`

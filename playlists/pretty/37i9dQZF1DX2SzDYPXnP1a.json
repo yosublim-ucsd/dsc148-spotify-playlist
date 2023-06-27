@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 24018,
+  "num_followers": 24152,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjI4MGM0MzAwYWE4Yjc2ZWZiNWE2YzI3MzExNGExZWNmNDE4ZmE2",
+  "snapshot_id": "MCw0NTkzOGMxMDM1ZjA5NjhlMzgyMDc2OGUwYmEwODNlNTAyMjVmMmRk",
   "tracks": [
     {
       "added_at": "2023-06-13 19:39:27",
@@ -359,38 +359,6 @@
     {
       "added_at": "2023-06-13 19:39:27",
       "album": {
-        "name": "The Devil Don't Sleep",
-        "url": "https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk"
-    },
-    {
-      "added_at": "2023-06-13 19:39:27",
-      "album": {
-        "name": "Travelin' Kind",
-        "url": "https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI"
-      },
-      "artists": [
-        {
-          "name": "Ashland Craft",
-          "url": "https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP"
-        }
-      ],
-      "duration_ms": 157290,
-      "name": "Your Momma Still Does",
-      "url": "https://open.spotify.com/track/0F7Kxrd27Q1jYhnKVoWnUa"
-    },
-    {
-      "added_at": "2023-06-13 19:39:27",
-      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
@@ -411,6 +379,22 @@
     {
       "added_at": "2023-06-13 19:39:27",
       "album": {
+        "name": "Travelin' Kind",
+        "url": "https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI"
+      },
+      "artists": [
+        {
+          "name": "Ashland Craft",
+          "url": "https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP"
+        }
+      ],
+      "duration_ms": 157290,
+      "name": "Your Momma Still Does",
+      "url": "https://open.spotify.com/track/0F7Kxrd27Q1jYhnKVoWnUa"
+    },
+    {
+      "added_at": "2023-06-13 19:39:27",
+      "album": {
         "name": "Hell Paso",
         "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 224703,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H"
+    },
+    {
+      "added_at": "2023-06-13 19:39:27",
+      "album": {
+        "name": "The Devil Don't Sleep",
+        "url": "https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk"
     },
     {
       "added_at": "2023-06-13 19:39:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 
 > 해리 스타일스의 내한공연을 기념하며 해리 스타일스의 베스트곡들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,780 likes - 37 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,781 likes - 37 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 | 36 | [Ever Since New York](https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:13 |
 | 37 | [Two Ghosts \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1GDF5AusV7p0wwi4OVNz3i) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 3:44 |
 
-Snapshot ID: `MCwxOGI5NjM0YjRlZDk0N2I1NWIwYWFlYTY5YzAwYzcxZjA4MzE3NmE5`
+Snapshot ID: `MCw3MzAwNDg2N2ZiMzgyNTI1MjVkMjJhMjA0M2Q5ZDdkYWI2MDNjNjkz`

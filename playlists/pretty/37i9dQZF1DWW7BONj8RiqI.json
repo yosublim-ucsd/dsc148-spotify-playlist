@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Destra ",
-  "num_followers": 180943,
+  "num_followers": 181009,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzAwNmVjYjI4ZGY5Y2I4MTEzNGQ0MDNmNTliMTFlNzY0NGUyYmE3",
+  "snapshot_id": "MCwzNTBmYzQ4ZDFjNjcwM2RkOWQ3ZjY2Yzk2YWI0NzQ5ZTg2Y2YxNTkw",
   "tracks": [
     {
       "added_at": "2023-05-15 02:33:18",
@@ -291,18 +291,26 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Hard Fete",
-        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
+        "name": "Jub Jub",
+        "url": "https://open.spotify.com/album/1A2fNybUwoHM6zkbUH2mTV"
       },
       "artists": [
         {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
+        },
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
         }
       ],
-      "duration_ms": 230437,
-      "name": "Hard Fete",
-      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
+      "duration_ms": 191309,
+      "name": "Jub Jub",
+      "url": "https://open.spotify.com/track/5tGohHP8EDvVPMPWBs06hM"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -323,6 +331,22 @@
       "duration_ms": 159873,
       "name": "In the Water",
       "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Hard Fete",
+        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Hard Fete",
+      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -359,6 +383,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Savannah Grass",
+        "url": "https://open.spotify.com/album/7mAs5zDNcL6GwcfIudCSl0"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Savannah Grass",
+      "url": "https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "In The Mood",
         "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
       },
@@ -375,30 +415,6 @@
       "duration_ms": 149496,
       "name": "Whine & Jumping (feat. Patrice Roberts)",
       "url": "https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Jub Jub",
-        "url": "https://open.spotify.com/album/1A2fNybUwoHM6zkbUH2mTV"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "KES the Band",
-          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
-        },
-        {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
-        }
-      ],
-      "duration_ms": 191309,
-      "name": "Jub Jub",
-      "url": "https://open.spotify.com/track/5tGohHP8EDvVPMPWBs06hM"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -523,22 +539,6 @@
       "duration_ms": 186393,
       "name": "Ola",
       "url": "https://open.spotify.com/track/4zqFb7uP9rcYmrg5sjxzp3"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Savannah Grass",
-        "url": "https://open.spotify.com/album/7mAs5zDNcL6GwcfIudCSl0"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Savannah Grass",
-      "url": "https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 196557,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 180272,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "duration_ms": 196557,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 160965,
-      "name": "Big Bad Soca",
-      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Mr. Fete - Single",
         "url": "https://open.spotify.com/album/5eGmGmPuRrwqkio8StYeBK"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 231050,
       "name": "Mr. Fete",
       "url": "https://open.spotify.com/track/2cTbXePq0kurJhdxG7qBd5"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 160965,
+      "name": "Big Bad Soca",
+      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Studio B Presents Crop Over Hits 2014",
-        "url": "https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt"
-      },
-      "artists": [
-        {
-          "name": "Fadda Fox",
-          "url": "https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK"
-        }
-      ],
-      "duration_ms": 233563,
-      "name": "Ducking",
-      "url": "https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Give It to Ya",
         "url": "https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 172253,
       "name": "Give It to Ya",
       "url": "https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Studio B Presents Crop Over Hits 2014",
+        "url": "https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt"
+      },
+      "artists": [
+        {
+          "name": "Fadda Fox",
+          "url": "https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK"
+        }
+      ],
+      "duration_ms": 233563,
+      "name": "Ducking",
+      "url": "https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 237131,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "The Art of Flex",
         "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 184440,
       "name": "Mash Up",
       "url": "https://open.spotify.com/track/7gERxWoMY5cCFJ4Oyy8qnC"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 237131,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Long Live Soca",
-        "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
-      },
-      "artists": [
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        }
-      ],
-      "duration_ms": 225251,
-      "name": "Long Live Soca",
-      "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Engine Room",
         "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 201594,
       "name": "Engine Room",
       "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Long Live Soca",
+        "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        }
+      ],
+      "duration_ms": 225251,
+      "name": "Long Live Soca",
+      "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Differentology",
-        "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Differentology (Ready for the Road)",
-      "url": "https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 211874,
       "name": "Oh Yay",
       "url": "https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Differentology",
+        "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Differentology (Ready for the Road)",
+      "url": "https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Run Wid It",
-        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
-      },
-      "artists": [
-        {
-          "name": "Mr. Killa",
-          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
-        }
-      ],
-      "duration_ms": 191714,
-      "name": "Run Wid It",
-      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 187428,
       "name": "Catching Feelings",
       "url": "https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Run Wid It",
+        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
+      },
+      "artists": [
+        {
+          "name": "Mr. Killa",
+          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
+        }
+      ],
+      "duration_ms": 191714,
+      "name": "Run Wid It",
+      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "Fattt",
+      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Happy Papi",
         "url": "https://open.spotify.com/album/6hIspcoRzN0T6Cj7zUgzEg"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 210210,
       "name": "Shake Yuh Bum",
       "url": "https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "Fattt",
-      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/6XT9x7kz7EXVe5KdTZ3MtE"
-      },
-      "artists": [
-        {
-          "name": "Orlando Octave",
-          "url": "https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/4J3oPu8QedCNLoG5Zv5tQy"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "No Behavior Shell Down",
         "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 262556,
       "name": "No Behavior Shell Down",
       "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/6XT9x7kz7EXVe5KdTZ3MtE"
+      },
+      "artists": [
+        {
+          "name": "Orlando Octave",
+          "url": "https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/4J3oPu8QedCNLoG5Zv5tQy"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1751,38 +1751,18 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+        "name": "Forever Vol.1",
+        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
       },
       "artists": [
         {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Togetherness",
-      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "So Sweet",
-        "url": "https://open.spotify.com/album/1eSVpkGqOSngaVhmyhSL3q"
-      },
-      "artists": [
-        {
-          "name": "Erphaan Alves",
-          "url": "https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w"
-        },
-        {
-          "name": "DJ Private Ryan",
-          "url": "https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "So Sweet",
-      "url": "https://open.spotify.com/track/3zmGUdLgfeRFamWaF0DRnq"
+      "duration_ms": 365240,
+      "name": "Sugar Bum Bum",
+      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1799,6 +1779,22 @@
       "duration_ms": 188624,
       "name": "The Best",
       "url": "https://open.spotify.com/track/7MSjpZ5DdJ2zFWLc285tBs"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
     }
   ],
   "unique_name": "Massive Soca Hits",

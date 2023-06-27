@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-536 songs - 1 day 9 hr 39 min
+537 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Burn](https://open.spotify.com/track/6v8BjpWJ2pgzUiHpuf11wE) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Time For Annihilation: On the Record & On the Road](https://open.spotify.com/album/5g4beFWASWMo9S0JtvU4gV) | 3:25 | 2022-05-25 | 2022-07-29 |
 | [Burn the Witch](https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 3:40 | 2022-05-25 |  |
 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 | 2022-05-25 |  |
-| [Call You Out](https://open.spotify.com/track/6MLiQIWMaTaaOB04R1VC0k) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [New Horizons](https://open.spotify.com/album/50C4oRAunKnFnFkbZaob6a) | 2:19 | 2022-05-25 |  |
+| [Call You Out](https://open.spotify.com/track/6MLiQIWMaTaaOB04R1VC0k) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [New Horizons](https://open.spotify.com/album/50C4oRAunKnFnFkbZaob6a) | 2:19 | 2022-05-25 | 2023-06-27 |
 | [Came Back Haunted](https://open.spotify.com/track/1rW2R3fwUuyDhaF4Cg3S4C) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Hesitation Marks](https://open.spotify.com/album/26m96TIXkNAiL4fl4aiFvd) | 5:17 | 2022-05-25 | 2022-07-22 |
 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 | 2022-05-25 | 2022-07-29 |
 | [Can't You See](https://open.spotify.com/track/7avvBGQq0tH4nY95guF7fP) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:31 | 2022-05-25 | 2022-11-30 |
@@ -315,6 +315,7 @@
 | [Mind Your Manners](https://open.spotify.com/track/2PdxbK3d0ZS58dD8jRqR6L) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 2:38 | 2022-05-25 | 2022-07-28 |
 | [Miracle](https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:26 | 2022-05-25 |  |
 | [Miss Nothing](https://open.spotify.com/track/1FFpE97M77Nf8HxF8SDJZJ) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/0moY5BetMaS0Vyi0Hh3zpb) | 3:13 | 2022-05-25 | 2022-07-27 |
+| [Missed Connection](https://open.spotify.com/track/4R9KztunyNTH13KtAqePLp) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:15 | 2023-01-18 |  |
 | [Missing You](https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 4:04 | 2022-05-25 | 2023-05-14 |
 | [Monarchy of Roses](https://open.spotify.com/track/16Bf9uR4PI2dCoXDIjs0cP) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [I'm with You](https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB) | 4:11 | 2022-05-25 | 2022-07-22 |
 | [Money Run Low](https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:05 | 2022-05-25 | 2023-04-20 |

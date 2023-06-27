@@ -1,12 +1,12 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around.",
-  "num_followers": 33511,
+  "num_followers": 33522,
   "original_name": "Hip-Hopscotch & Reggae Recess",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDQ5YTg2MzhmMmViNWY5Yzg5ZTczZWYzZDlhNDVlNDNjNGM5YzI3",
+  "snapshot_id": "MCxlZjIwYWU0MTU4NDMwOTNjYzg3YmQxZWRlZTgwZjk4ZTU1OGNhNTMw",
   "tracks": [
     {
       "added_at": "2023-04-07 14:01:32",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-04-07 14:01:32",
       "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 114893,
-      "name": "Panini",
-      "url": "https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r"
-    },
-    {
-      "added_at": "2023-04-07 14:01:32",
-      "album": {
         "name": "Old Town Road",
         "url": "https://open.spotify.com/album/4BAx7hzmBgjaGxs62oWcBn"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 110346,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/3QpAo1aiTUVgsQBR8KmNHO"
+    },
+    {
+      "added_at": "2023-04-07 14:01:32",
+      "album": {
+        "name": "7 EP",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "Panini",
+      "url": "https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r"
     },
     {
       "added_at": "2023-04-07 14:01:32",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-04-07 14:01:32",
       "album": {
-        "name": "Kids Trap",
-        "url": "https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C"
-      },
-      "artists": [
-        {
-          "name": "Blake Rules",
-          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
-        },
-        {
-          "name": "Netherfriends",
-          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
-        }
-      ],
-      "duration_ms": 110675,
-      "name": "Getting Silly",
-      "url": "https://open.spotify.com/track/60kcJIrsehemBC5S2PTTG3"
-    },
-    {
-      "added_at": "2023-04-07 14:01:32",
-      "album": {
         "name": "KIDZ BOP World Tour",
         "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
       },
@@ -371,6 +351,26 @@
     {
       "added_at": "2023-04-07 14:01:32",
       "album": {
+        "name": "Kids Trap",
+        "url": "https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C"
+      },
+      "artists": [
+        {
+          "name": "Blake Rules",
+          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
+        },
+        {
+          "name": "Netherfriends",
+          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
+        }
+      ],
+      "duration_ms": 110675,
+      "name": "Getting Silly",
+      "url": "https://open.spotify.com/track/60kcJIrsehemBC5S2PTTG3"
+    },
+    {
+      "added_at": "2023-04-07 14:01:32",
+      "album": {
         "name": "!Vamos a bailar! Let's Dance! The Dora the Explorer Music Collection",
         "url": "https://open.spotify.com/album/3fLxjCJkL1BANWMLA7uwok"
       },
@@ -407,6 +407,38 @@
     {
       "added_at": "2023-04-07 14:01:32",
       "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/57rPxsDFpBnUp4Bw5uxIXP"
+    },
+    {
+      "added_at": "2023-04-07 14:01:32",
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 196293,
+      "name": "Walk Tall",
+      "url": "https://open.spotify.com/track/58C6oflMuofn2CvZnO4nyt"
+    },
+    {
+      "added_at": "2023-04-07 14:01:32",
+      "album": {
         "name": "House Party",
         "url": "https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O"
       },
@@ -431,6 +463,22 @@
     {
       "added_at": "2023-04-07 14:01:32",
       "album": {
+        "name": "Mee Wee: Hip Hop For Kids",
+        "url": "https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU"
+      },
+      "artists": [
+        {
+          "name": "Mee Wee",
+          "url": "https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp"
+        }
+      ],
+      "duration_ms": 135880,
+      "name": "Hiphop-O-Potamus - Feat. Jabari & Baby Power",
+      "url": "https://open.spotify.com/track/0ajAIY2IEOjJ4JFmlAEuvM"
+    },
+    {
+      "added_at": "2023-04-07 14:01:32",
+      "album": {
         "name": "Kids Trap",
         "url": "https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C"
       },
@@ -451,38 +499,6 @@
     {
       "added_at": "2023-04-07 14:01:32",
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 196293,
-      "name": "Walk Tall",
-      "url": "https://open.spotify.com/track/58C6oflMuofn2CvZnO4nyt"
-    },
-    {
-      "added_at": "2023-04-07 14:01:32",
-      "album": {
-        "name": "Mee Wee: Hip Hop For Kids",
-        "url": "https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU"
-      },
-      "artists": [
-        {
-          "name": "Mee Wee",
-          "url": "https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp"
-        }
-      ],
-      "duration_ms": 135880,
-      "name": "Hiphop-O-Potamus - Feat. Jabari & Baby Power",
-      "url": "https://open.spotify.com/track/0ajAIY2IEOjJ4JFmlAEuvM"
-    },
-    {
-      "added_at": "2023-04-07 14:01:32",
-      "album": {
         "name": "Raised on Hip Hop",
         "url": "https://open.spotify.com/album/4gNAMHn417XOacNst8HvQW"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 166153,
       "name": "Healthy",
       "url": "https://open.spotify.com/track/4h0sclha9pcAkN8oJPA795"
-    },
-    {
-      "added_at": "2023-04-07 14:01:32",
-      "album": {
-        "name": "KIDZ BOP World Tour",
-        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/57rPxsDFpBnUp4Bw5uxIXP"
     },
     {
       "added_at": "2023-04-07 14:01:32",
@@ -551,22 +551,18 @@
     {
       "added_at": "2023-04-07 14:01:32",
       "album": {
-        "name": "Kids Trap (In the House)",
-        "url": "https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf"
+        "name": "Kidz Bop Party Hits",
+        "url": "https://open.spotify.com/album/7dtTU6GpOYFNwF5hE1o4zE"
       },
       "artists": [
         {
-          "name": "Blake Rules",
-          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
-        },
-        {
-          "name": "Netherfriends",
-          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 198347,
-      "name": "Dance Party in the House",
-      "url": "https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m"
+      "duration_ms": 235400,
+      "name": "Hey Ya",
+      "url": "https://open.spotify.com/track/7qEaSln7DzqWAxVWPJG8hz"
     },
     {
       "added_at": "2023-04-07 14:01:32",
@@ -587,38 +583,6 @@
     {
       "added_at": "2023-04-07 14:01:32",
       "album": {
-        "name": "We Outside",
-        "url": "https://open.spotify.com/album/5ojvCpVkbL7VQXK3RYdMen"
-      },
-      "artists": [
-        {
-          "name": "Pj Panda",
-          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "We Outside",
-      "url": "https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW"
-    },
-    {
-      "added_at": "2023-04-07 14:01:32",
-      "album": {
-        "name": "Kidz Bop Party Hits",
-        "url": "https://open.spotify.com/album/7dtTU6GpOYFNwF5hE1o4zE"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 235400,
-      "name": "Hey Ya",
-      "url": "https://open.spotify.com/track/7qEaSln7DzqWAxVWPJG8hz"
-    },
-    {
-      "added_at": "2023-04-07 14:01:32",
-      "album": {
         "name": "Reggae for Kids",
         "url": "https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW"
       },
@@ -635,6 +599,26 @@
     {
       "added_at": "2023-04-07 14:01:32",
       "album": {
+        "name": "Kids Trap (In the House)",
+        "url": "https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf"
+      },
+      "artists": [
+        {
+          "name": "Blake Rules",
+          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
+        },
+        {
+          "name": "Netherfriends",
+          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
+        }
+      ],
+      "duration_ms": 198347,
+      "name": "Dance Party in the House",
+      "url": "https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m"
+    },
+    {
+      "added_at": "2023-04-07 14:01:32",
+      "album": {
         "name": "Kids Rap Radio",
         "url": "https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 202786,
       "name": "Go DJ",
       "url": "https://open.spotify.com/track/1iD60ApOiYKOb32UCaYWP1"
+    },
+    {
+      "added_at": "2023-04-07 14:01:32",
+      "album": {
+        "name": "We Outside",
+        "url": "https://open.spotify.com/album/5ojvCpVkbL7VQXK3RYdMen"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "We Outside",
+      "url": "https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW"
     },
     {
       "added_at": "2023-04-07 14:01:32",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-04-07 14:01:32",
       "album": {
+        "name": "Mee Wee: Hip Hop For Kids",
+        "url": "https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU"
+      },
+      "artists": [
+        {
+          "name": "Mee Wee",
+          "url": "https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp"
+        }
+      ],
+      "duration_ms": 130106,
+      "name": "Jumping Jacks - Feat. Jabari & Baby Power",
+      "url": "https://open.spotify.com/track/4WMe7Vxf5Mf6HoE0p28nYR"
+    },
+    {
+      "added_at": "2023-04-07 14:01:32",
+      "album": {
         "name": "Ready Set Go!",
         "url": "https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 136253,
       "name": "Just When You Think - Kidz Version",
       "url": "https://open.spotify.com/track/1KDmjtkUAtTKomtKnGEp9j"
-    },
-    {
-      "added_at": "2023-04-07 14:01:32",
-      "album": {
-        "name": "Mee Wee: Hip Hop For Kids",
-        "url": "https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU"
-      },
-      "artists": [
-        {
-          "name": "Mee Wee",
-          "url": "https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp"
-        }
-      ],
-      "duration_ms": 130106,
-      "name": "Jumping Jacks - Feat. Jabari & Baby Power",
-      "url": "https://open.spotify.com/track/4WMe7Vxf5Mf6HoE0p28nYR"
     },
     {
       "added_at": "2023-04-07 14:01:32",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-04-07 14:01:32",
       "album": {
-        "name": "Kids Rap Radio, Vol. 7",
-        "url": "https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6"
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj"
       },
       "artists": [
         {
-          "name": "Kids Rap Radio",
-          "url": "https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x"
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
         }
       ],
-      "duration_ms": 211720,
-      "name": "Girls vs. Boys",
-      "url": "https://open.spotify.com/track/1JIICzNjNibNpB3HeefvFm"
+      "duration_ms": 255047,
+      "name": "Apple of My Eye",
+      "url": "https://open.spotify.com/track/7nzvfB4c708km3Y69qKj5k"
     }
   ],
   "unique_name": "Hip-Hopscotch & Reggae Recess",

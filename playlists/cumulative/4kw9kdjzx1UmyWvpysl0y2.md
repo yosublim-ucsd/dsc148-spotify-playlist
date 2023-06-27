@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-504 songs - 1 day 5 hr 26 min
+506 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 | 2022-09-06 | 2022-11-05 |
 | [Dance](https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Dance](https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4) | 3:46 | 2022-05-16 | 2022-07-27 |
 | [Dead Man Walking](https://open.spotify.com/track/4ZPwjq0CdxbWFNycxnSUJc) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Dead Man Walking](https://open.spotify.com/album/0UWFD6lsReiZ7D7e6gARcA) | 2:46 | 2022-07-21 | 2022-10-01 |
+| [Deadlock](https://open.spotify.com/track/40b8QH6QvHYHmP83ktqvXI) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Deadlock](https://open.spotify.com/album/3vCyRU348Fv0hijMp97iqj) | 3:27 | 2023-06-26 |  |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
 | [destination heartbreak](https://open.spotify.com/track/52jU1xu6sYArAcWufqlpyK) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 2](https://open.spotify.com/album/3YHaDF9skvzUA0OvqzTZD8) | 3:47 | 2023-02-10 | 2023-05-03 |
 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-21 | 2023-01-11 |
@@ -123,7 +124,7 @@
 | [do it](https://open.spotify.com/track/3CQBzi1hvykznrFbZOGqnO) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [do it](https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9) | 2:07 | 2022-03-09 | 2022-05-21 |
 | [Do It All Again](https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Do It All Again](https://open.spotify.com/album/1WIy38HHVBg8KG3hVkCE2V) | 2:17 | 2022-02-11 | 2022-04-23 |
 | [do my own thing](https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [do my own thing](https://open.spotify.com/album/4eUxdYUG7eRZ8agcu1o6QC) | 3:42 | 2023-02-10 | 2023-05-02 |
-| [Don't Let Me Down](https://open.spotify.com/track/07YWBlyteDawyBWwKZGWmN) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Don't Let Me Down](https://open.spotify.com/album/7EqjRqiP6PJHOoypQfTQH6) | 3:00 | 2023-04-03 |  |
+| [Don't Let Me Down](https://open.spotify.com/track/07YWBlyteDawyBWwKZGWmN) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Don't Let Me Down](https://open.spotify.com/album/7EqjRqiP6PJHOoypQfTQH6) | 3:00 | 2023-04-03 | 2023-06-27 |
 | [Don't Need You](https://open.spotify.com/track/3DyQ8iVs0kfsgbugsPQfT8) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Don't Need You](https://open.spotify.com/album/6IVig4iThZNVK8Fz7xtRTz) | 3:27 | 2022-02-08 | 2022-04-19 |
 | [Doppelleben](https://open.spotify.com/track/7HF6q1y3zrvuB74VxOoZqP) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Doppelleben](https://open.spotify.com/album/0AFtfyQilo8jDVHssOtSE9) | 4:09 | 2021-11-19 | 2022-02-23 |
 | [Double Tap](https://open.spotify.com/track/4bc9Yk2C6ad3fAnTLfrBGZ) | [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Double Tap](https://open.spotify.com/album/4SDO9lDKGzIIBp9zubIvPo) | 3:21 | 2022-10-10 | 2022-12-10 |
@@ -142,6 +143,7 @@
 | [Eagle Rock](https://open.spotify.com/track/04XcibbkTGfV5dbUZ1e2FJ) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB) | [Eagle Rock](https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN) | 4:04 | 2022-11-19 | 2022-11-22 |
 | [easier](https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [clouds in my basement](https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ) | 2:44 | 2022-08-26 | 2022-11-02 |
 | [Echoes Of Silence](https://open.spotify.com/track/1MgjRb4bfIktunmJS6rqBN) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Echoes Of Silence](https://open.spotify.com/album/3bAbk8cVmDJ5Q7J1IT6lVU) | 3:53 | 2022-07-15 | 2022-09-27 |
+| [El Refugio](https://open.spotify.com/track/6T8y2QBWEsOVjyRiJ45yVp) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [El Refugio](https://open.spotify.com/album/7wu2zrPp9sRtA3iGbIExrf) | 2:49 | 2023-06-26 |  |
 | [Elixir](https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Elixir / Nectar](https://open.spotify.com/album/6mrI14TDv5H4SKoYvcEPYA) | 3:03 | 2022-06-10 | 2022-08-24 |
 | [Emeralds](https://open.spotify.com/track/64Qa4GFTr5wMR1maaR8QxY) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Emeralds](https://open.spotify.com/album/47QDAHx9JLrzYV5tfnTWzD) | 4:10 | 2022-09-13 | 2022-11-11 |
 | [Endless \(Best of Me\)](https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Endless \(Best of Me\)](https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY) | 3:40 | 2022-11-04 | 2023-01-28 |

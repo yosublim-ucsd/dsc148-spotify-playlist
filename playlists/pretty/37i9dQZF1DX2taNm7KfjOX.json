@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Sumbuck",
-  "num_followers": 796268,
+  "num_followers": 796381,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODZkOGZlMzQ2YzU0ZTgxNzQzOTM1MTFhMTY4YzUyZjg0YjQ3NTZj",
+  "snapshot_id": "MCw0OGNjOGQ3NzJlMDc1OTMyZTlmZDE2N2I2NWFkYmVkZGNiMGNlMmM3",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -695,34 +695,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 215689,
-      "name": "Ketchum, ID",
-      "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -735,6 +707,22 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -763,18 +751,30 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+      "duration_ms": 215689,
+      "name": "Ketchum, ID",
+      "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 192453,
       "name": "Day by Day",
       "url": "https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Artifacts",
-        "url": "https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 164773,
-      "name": "Fisher Island Sound",
-      "url": "https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "These Changing Skies",
         "url": "https://open.spotify.com/album/4ABBrfxm6w93fE9yqlOgny"
       },
@@ -1403,34 +1387,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
+        "name": "Artifacts",
+        "url": "https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK"
       },
       "artists": [
         {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
         }
       ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+      "duration_ms": 164773,
+      "name": "Fisher Island Sound",
+      "url": "https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1451,6 +1419,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 265687,
       "name": "Everything Is Free - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 211517,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "1000 Years",
         "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 216052,
       "name": "Sons and Daughters",
       "url": "https://open.spotify.com/track/0Kt5AHOpQAkEsHAuPeB0le"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Henry St.",
-        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 219013,
-      "name": "Don't Go Far",
-      "url": "https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb"
+      "duration_ms": 215280,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1783,6 +1767,22 @@
       "duration_ms": 165133,
       "name": "Pick",
       "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Frame",
-        "url": "https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Bird's Eye View",
-      "url": "https://open.spotify.com/track/4Yby465fLOnliPWCTKce6x"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Ocean Bed",
         "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 240360,
       "name": "Ocean Bed",
       "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Frame",
+        "url": "https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Bird's Eye View",
+      "url": "https://open.spotify.com/track/4Yby465fLOnliPWCTKce6x"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Set the House on Fire",
-        "url": "https://open.spotify.com/album/4jmVTmCZC64dy09Cg14Ujk"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 218280,
-      "name": "House by the Sea",
-      "url": "https://open.spotify.com/track/34Qk1WJ2ukktGOCNcRzxus"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/55M9iNIkBo7cCYe17KcPD7"
       },
@@ -2011,18 +1995,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+        "name": "Set the House on Fire",
+        "url": "https://open.spotify.com/album/4jmVTmCZC64dy09Cg14Ujk"
       },
       "artists": [
         {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 208142,
-      "name": "Glory Strums (Loneliness of the Long-Distance Runner)",
-      "url": "https://open.spotify.com/track/3BxIJ9VN7BdE7MuArlAhAv"
+      "duration_ms": 218280,
+      "name": "House by the Sea",
+      "url": "https://open.spotify.com/track/34Qk1WJ2ukktGOCNcRzxus"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -2039,6 +2023,22 @@
       "duration_ms": 277374,
       "name": "Walk Me Home",
       "url": "https://open.spotify.com/track/2m5QJpOvrWWA7xuhwK1Rpk"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 208142,
+      "name": "Glory Strums (Loneliness of the Long-Distance Runner)",
+      "url": "https://open.spotify.com/track/3BxIJ9VN7BdE7MuArlAhAv"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "A Month Or Two",
+        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "A Month Or Two",
+      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Lemon [Feat. Sharon Van Etten]",
         "url": "https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4"
       },
@@ -2079,22 +2095,6 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "A Month Or Two",
-        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "A Month Or Two",
-      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Frame",
-        "url": "https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "Starlings",
-      "url": "https://open.spotify.com/track/2JzPM6ky1rThBZ2lAsO4Lz"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "The Weather Station",
         "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 224106,
       "name": "Can\u2019t Do Much",
       "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Frame",
+        "url": "https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "Starlings",
+      "url": "https://open.spotify.com/track/2JzPM6ky1rThBZ2lAsO4Lz"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 300586,
       "name": "Cool Dry Place",
       "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -2339,18 +2339,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Witness Trees",
-        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 160821,
-      "name": "Witness Trees",
-      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -2371,34 +2371,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+        "name": "Witness Trees",
+        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 174540,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+      "duration_ms": 160821,
+      "name": "Witness Trees",
+      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -2415,6 +2399,22 @@
       "duration_ms": 275662,
       "name": "Life According To Raechel - Spotify Single",
       "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 174540,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 240954,
-      "name": "Masterpiece - solo",
-      "url": "https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
         "url": "https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 281786,
       "name": "The Roundabout",
       "url": "https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 240954,
+      "name": "Masterpiece - solo",
+      "url": "https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn"
     },
     {
       "added_at": "2023-06-23 04:00:00",

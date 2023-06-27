@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Feli Colina.",
-  "num_followers": 112898,
+  "num_followers": 112945,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWI1OGEwOTZkNTk4ZGYyMmZlZDYwNmMyMTU5MjFjY2M2NjllNjcw",
+  "snapshot_id": "MCwwZmY4N2E2NTMzODgyYzQwMTk4ZGY0ZjE2MGViZTM4Y2FlYTE5ODdk",
   "tracks": [
     {
       "added_at": "2023-06-23 06:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Camino Que Pasa",
-        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
-      },
-      "artists": [
-        {
-          "name": "Sandra Bernardo",
-          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
-        },
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Camino Que Pasa",
-      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Tocando tierra",
         "url": "https://open.spotify.com/album/6ZMzud0Gsx7zhe6CSCWDET"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 253813,
       "name": "Semillas (con Perota Chingo)",
       "url": "https://open.spotify.com/track/7jC9oz02D4KHAd85ej8lUe"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Camino Que Pasa",
+        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Bernardo",
+          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
+        },
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Camino Que Pasa",
+      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Mensajes en el Mar",
-        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        },
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        }
-      ],
-      "duration_ms": 247614,
-      "name": "Mensajes en el Mar",
-      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Mensajes en el Mar",
+        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        }
+      ],
+      "duration_ms": 247614,
+      "name": "Mensajes en el Mar",
+      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Almadura",
         "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "C\u00f3smosis",
         "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 485717,
       "name": "La Malquerida - En Vivo",
       "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
         "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 161342,
       "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) - Live on Pardelion Music",
       "url": "https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Yo Soy",
         "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 216891,
       "name": "Yo Soy",
       "url": "https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Che Sy",
-        "url": "https://open.spotify.com/album/09rVUsgxfGU4WThZDYvW8U"
-      },
-      "artists": [
-        {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Che Sy",
-      "url": "https://open.spotify.com/track/4d61YorydP02IvnTKDdqfb"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -1723,6 +1703,26 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Che Sy",
+        "url": "https://open.spotify.com/album/09rVUsgxfGU4WThZDYvW8U"
+      },
+      "artists": [
+        {
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Che Sy",
+      "url": "https://open.spotify.com/track/4d61YorydP02IvnTKDdqfb"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -1735,22 +1735,6 @@
       "duration_ms": 322242,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1771,6 +1755,22 @@
       "duration_ms": 245750,
       "name": "Que f\u00e1cil",
       "url": "https://open.spotify.com/track/1QUYvBpZnkjJfdxwvHRkma"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2023-06-23 06:00:00",

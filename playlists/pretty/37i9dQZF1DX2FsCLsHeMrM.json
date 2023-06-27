@@ -1,12 +1,12 @@
 {
   "description": "Gettin' figgy with it, bana-na-na-nanana",
-  "num_followers": 957829,
+  "num_followers": 958195,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTE4MTRlOTJlMTVhNTlkMjFhMDJkZjIwMzY3YjZkMDA5NDBjNThj",
+  "snapshot_id": "MCwwNmU5NjU0MzE1ODNmNjU5MjQyNTNlOTMyZDBlMmYxOGYyYTk3Yjgw",
   "tracks": [
     {
       "added_at": "2023-04-19 16:05:06",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191937,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191937,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Love Goes",
-        "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 171029,
-      "name": "Dancing With A Stranger (with Normani)",
-      "url": "https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -247,22 +227,6 @@
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -323,6 +287,42 @@
       "duration_ms": 213093,
       "name": "Return of the Mack",
       "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Love Goes",
+        "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 171029,
+      "name": "Dancing With A Stranger (with Normani)",
+      "url": "https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Music Sounds Better with You",
-        "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 198305,
-      "name": "Music Sounds Better with You",
-      "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Music Sounds Better with You",
+        "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 198305,
+      "name": "Music Sounds Better with You",
+      "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 285253,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 197226,
       "name": "Sea Gets Hotter",
       "url": "https://open.spotify.com/track/5ZK62nSchTamBy8F6HIZov"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "The Dip Delivers",
         "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 216373,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
     },
     {
       "added_at": "2023-04-19 16:05:06",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-04-19 16:05:06",
       "album": {
-        "name": "Acoustic Soul",
-        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
-      },
-      "artists": [
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Video",
-      "url": "https://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a"
-    },
-    {
-      "added_at": "2023-04-19 16:05:06",
-      "album": {
         "name": "Tough Love",
         "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 166890,
       "name": "911",
       "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
+    },
+    {
+      "added_at": "2023-04-19 16:05:06",
+      "album": {
+        "name": "Acoustic Soul",
+        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Video",
+      "url": "https://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a"
     },
     {
       "added_at": "2023-04-19 16:05:06",

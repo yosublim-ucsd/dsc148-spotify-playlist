@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: BAWDIES
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,681 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,762 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 49 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 |
 | 50 | [Magic](https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Magic](https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ) | 3:44 |
 
-Snapshot ID: `MCxlYzU5NGM2NzBkNzc5MTM3MzllYjY4NTBhOTM0YzhkNGU3NjZmNjc0`
+Snapshot ID: `MCw5ZDc4ZTkxMjIxNjc0NTM0MDk5MTdhYjAxNGRhNmQ0M2UxNTdkNzJm`

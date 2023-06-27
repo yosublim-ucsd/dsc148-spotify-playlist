@@ -1,12 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 222200,
+  "num_followers": 222239,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzgwYzYyODc5ZWZmMTcyZTVkNDY2MDllODU5ZTBjNjA5M2E3MDYw",
+  "snapshot_id": "MCxlYTUyMGFiMGRlNmNhMjQ1YzE1MWE3YTk4MjU5Y2Y4NDQzMDZjYWFm",
   "tracks": [
     {
       "added_at": "2023-06-15 14:58:49",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-06-15 14:58:49",
       "album": {
-        "name": "I've IVE",
-        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "Kitsch",
-      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
-    },
-    {
-      "added_at": "2023-06-15 14:58:49",
-      "album": {
         "name": "GUESS WHO",
         "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2023-06-15 14:58:49",
       "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
     },
     {
       "added_at": "2023-06-15 14:58:49",
@@ -447,6 +431,22 @@
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
+    },
+    {
+      "added_at": "2023-06-15 14:58:49",
+      "album": {
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
       "added_at": "2023-06-15 14:58:49",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-06-15 14:58:49",
       "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 234177,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef"
+    },
+    {
+      "added_at": "2023-06-15 14:58:49",
+      "album": {
         "name": "I burn",
         "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2023-06-15 14:58:49",
       "album": {
-        "name": "The Dream Chapter: STAR",
-        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 230706,
-      "name": "CROWN",
-      "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
-    },
-    {
-      "added_at": "2023-06-15 14:58:49",
-      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 194600,
       "name": "SCIENTIST",
       "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
+    },
+    {
+      "added_at": "2023-06-15 14:58:49",
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "CROWN",
+      "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
     },
     {
       "added_at": "2023-06-15 14:58:49",
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-06-15 14:58:49",
       "album": {
-        "name": "MAP OF THE SOUL : PERSONA",
-        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 234177,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef"
-    },
-    {
-      "added_at": "2023-06-15 14:58:49",
-      "album": {
         "name": "I trust",
         "url": "https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 210973,
       "name": "LION",
       "url": "https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u"
+    },
+    {
+      "added_at": "2023-06-15 14:58:49",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 251279,
+      "name": "Answer : Love Myself",
+      "url": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA"
     },
     {
       "added_at": "2023-06-15 14:58:49",
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-06-15 14:58:49",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 251279,
-      "name": "Answer : Love Myself",
-      "url": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA"
-    },
-    {
-      "added_at": "2023-06-15 14:58:49",
-      "album": {
         "name": "SQUARE UP",
         "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-06-15 14:58:49",
       "album": {
-        "name": "DOUBLAST",
-        "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
-      },
-      "artists": [
-        {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Up!",
-      "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
-    },
-    {
-      "added_at": "2023-06-15 14:58:49",
-      "album": {
         "name": "strawberry moon",
         "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 205333,
       "name": "strawberry moon",
       "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
+    },
+    {
+      "added_at": "2023-06-15 14:58:49",
+      "album": {
+        "name": "DOUBLAST",
+        "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Up!",
+      "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
     },
     {
       "added_at": "2023-06-15 14:58:49",

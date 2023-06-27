@@ -2,7 +2,7 @@
 
 ### [This Is スタジオ地図 \-Studio Chizu\-](https://open.spotify.com/playlist/37i9dQZF1DX0Bpaa30mJRd)
 
-> 8/14\(日\)<a href="https://www.promax.co.jp/studiochizu\-inconcert/">オーケストラコンサート</a>初開催！「スタジオ地図」作品の音楽をひとつのプレイリストに。/Music from Studio Chizu's movies\. ©︎2021 スタジオ地図　©︎STUDIO CHIZU
+> “記念日”に合わせて<a href="https://filmaga.filmarks.com/articles/243160/">全国上映</a>！夏に観たいアニメーション映画『時をかける少女』『サマーウォーズ』全国の映画館で2週間限定上映。
 
 143 songs - 7 hr 28 min
 

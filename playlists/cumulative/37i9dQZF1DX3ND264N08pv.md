@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-165 songs - 9 hr 27 min
+166 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Den Haag Hakkûh](https://open.spotify.com/track/4i4Wy1Rp9OmeHz98xWMR4V) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Den Haag Hakkûh](https://open.spotify.com/album/26nTumwHgIcZNrGuFZC3UR) | 3:21 | 2023-04-06 |  |
 | [DEQUINOX 100](https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [DEQUINOX 100](https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ) | 3:42 | 2022-12-08 |  |
 | [Die For This](https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Die For This](https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1) | 4:00 | 2022-12-08 | 2023-06-10 |
-| [Dikke Rave Beat](https://open.spotify.com/track/164XRnFMsUiPCYkGmG5481) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Dikke Rave Beat](https://open.spotify.com/album/5Wacg5kAJnOxxQvbguCflC) | 2:53 | 2023-06-01 |  |
+| [Dikke Rave Beat](https://open.spotify.com/track/164XRnFMsUiPCYkGmG5481) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Dikke Rave Beat](https://open.spotify.com/album/5Wacg5kAJnOxxQvbguCflC) | 2:53 | 2023-06-01 | 2023-06-27 |
 | [Dirty Thoughts](https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Dirty Thoughts](https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U) | 2:38 | 2023-04-20 |  |
 | [Dope Sh!t](https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Eclipse](https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8) | 3:41 | 2022-12-08 |  |
 | [Double D](https://open.spotify.com/track/7izn5XTRDSyaari83OE4XM) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Double D](https://open.spotify.com/album/1Es6YZUlA57Wq9qu6YkCsK) | 3:28 | 2022-12-08 |  |
@@ -171,6 +171,7 @@
 | [Warriors \(2022 Refix\)](https://open.spotify.com/track/7rSv6TtMaamxdoG3fzhKQ8) | [Tyfon](https://open.spotify.com/artist/2BD8kvs6Ti7uGecILeVgqs), [The Fuze](https://open.spotify.com/artist/0DNLQ8dkmODxzWGL83rPtY) | [Runes of Retribution](https://open.spotify.com/album/6lsiqiLTNIBZwha12kaqM5) | 4:12 | 2022-12-08 | 2023-06-02 |
 | [Warriors Of Valhalla](https://open.spotify.com/track/1uRTpjcx6qdbo9NPWosv8H) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Warriors Of Valhalla](https://open.spotify.com/album/4TQLZCdkZ4VRMy8U31vfMw) | 2:39 | 2023-06-22 |  |
 | [We are Frenchcore](https://open.spotify.com/track/2m2R5CO0YORG5OWchqgjgf) | [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [We are Frenchcore](https://open.spotify.com/album/5RYJtjJ2BCCWg5SwMSbQkz) | 3:24 | 2023-05-15 |  |
+| [Without Respect](https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd) | [System of Fury](https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN) | [Without Respect](https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw) | 3:25 | 2023-06-26 |  |
 | [You Ain't Telling Me Shit](https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [You Ain't Telling Me Shit](https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da) | 2:54 | 2022-12-08 | 2023-04-11 |
 | [You Can't Stop Me](https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [You Can't Stop Me](https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ) | 3:19 | 2022-12-08 |  |
 

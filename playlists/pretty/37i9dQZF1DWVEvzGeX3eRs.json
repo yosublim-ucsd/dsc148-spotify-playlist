@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2628457,
+  "num_followers": 2628678,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzQ0NTgwM2UxMTZhYzFjZDFmNmYzNTk5NDA5MGYyY2JjYzAxOTUw",
+  "snapshot_id": "MCwzMmY3Y2ZjMDM0ZGY4YjVjZmNiMjcyYWRiM2QwYmY1ZTU5MTFjNDg1",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "One Wish",
-        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
-      },
-      "artists": [
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Nobody's Supposed to Be Here",
-      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
-    },
-    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Tony! Toni! Tone'! Greatest Hits",
@@ -355,6 +339,22 @@
       "duration_ms": 271200,
       "name": "Anniversary",
       "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "One Wish",
+        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
+      },
+      "artists": [
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Nobody's Supposed to Be Here",
+      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -501,22 +501,6 @@
       "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "The Velvet Rope",
-        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 317560,
-      "name": "I Get Lonely",
-      "url": "https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN"
-    },
-    {
       "added_at": "2023-02-02 23:22:15",
       "album": {
         "name": "Forever My Lady",
@@ -531,6 +515,22 @@
       "duration_ms": 320360,
       "name": "Forever My Lady",
       "url": "https://open.spotify.com/track/2pY99npaZKTVAyw2DhV9Bo"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "The Velvet Rope",
+        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 317560,
+      "name": "I Get Lonely",
+      "url": "https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 277240,
       "name": "You Give Good Love",
       "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 290066,
-      "name": "Love U 4 Life",
-      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "If I Ever Fall In Love",
         "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 289693,
       "name": "If I Ever Fall In Love",
       "url": "https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 290066,
+      "name": "Love U 4 Life",
+      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Chillin'",
-        "url": "https://open.spotify.com/album/1UIA4LOQQjE6PwiOo6MMDR"
-      },
-      "artists": [
-        {
-          "name": "Force M.D.'s",
-          "url": "https://open.spotify.com/artist/3KpLtTMpLAko7nBDmiYg7Z"
-        }
-      ],
-      "duration_ms": 234053,
-      "name": "Tender Love",
-      "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Brown Sugar",
@@ -775,6 +759,22 @@
       "duration_ms": 384666,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Chillin'",
+        "url": "https://open.spotify.com/album/1UIA4LOQQjE6PwiOo6MMDR"
+      },
+      "artists": [
+        {
+          "name": "Force M.D.'s",
+          "url": "https://open.spotify.com/artist/3KpLtTMpLAko7nBDmiYg7Z"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Tender Love",
+      "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Forever My Lady",
-        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 312040,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
-    },
-    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Too Hot to Handle (Expanded Edition)",
@@ -839,6 +823,22 @@
       "duration_ms": 377106,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Forever My Lady",
+        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 312040,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
     }
   ],
   "unique_name": "Love Deluxe",

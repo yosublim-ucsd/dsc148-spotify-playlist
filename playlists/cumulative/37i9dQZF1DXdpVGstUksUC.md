@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-292 songs - 1 day 4 hr 1 min
+293 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Justify](https://open.spotify.com/track/3pPdkcvssy7LJGjmNshJxW) | [Samavayo](https://open.spotify.com/artist/5HSz3JPyJMVdFa6lOi0k0G) | [Justify](https://open.spotify.com/album/4RoOGEEHxkxWliXipW7ePK) | 4:02 | 2021-11-30 | 2022-01-11 |
 | [Kreuzung](https://open.spotify.com/track/3sDkGMlGw0irwbpsVI4WlX) | [Mammoth Mammoth](https://open.spotify.com/artist/0SinbcXhPwNHsfAUstKY9h) | [Kreuzung](https://open.spotify.com/album/65dd1YOyeVadRyeoCa6bpi) | 3:55 | 2022-02-14 | 2022-05-01 |
 | [Kristallen Den Fina](https://open.spotify.com/track/1kqtSizg2KzBF9bpAWHe7c) | [Harvester](https://open.spotify.com/artist/4AATAyLn65bwTGtRb0mqpG) | [Hemåt](https://open.spotify.com/album/6UCOkLC3q1ivpD1BtCCQvo) | 6:28 | 2021-11-30 | 2022-02-07 |
+| [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-26 |  |
 | [Late Night](https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:29 | 2022-01-14 |  |
 | [Left Us To Mold](https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt) | [Unida](https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 5:46 | 2021-11-30 |  |
 | [Leftovers](https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z) | 3:50 | 2021-11-30 | 2022-07-19 |
@@ -222,7 +223,7 @@
 | [Sister](https://open.spotify.com/track/1j9HGnyyuupBYFpG2UJShL) | [Volga](https://open.spotify.com/artist/1Kb7jk58AZ30wMvGRuYpky) | [Dead Man’s Hand](https://open.spotify.com/album/6UyXn37mCEq5TYFE0hg25F) | 2:17 | 2022-02-14 | 2022-04-18 |
 | [Sixty Watt Shaman](https://open.spotify.com/track/4Tmj44iRTXTDK5jo9elMCv) | [Whiskey Neck](https://open.spotify.com/artist/76B55uevwwGTkO8LfGpb5T) | [In The Groove](https://open.spotify.com/album/5cZ1SppOuMg4sS0WqDkAls) | 5:41 | 2021-11-30 | 2021-12-23 |
 | [Skweetis](https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 1:12 | 2023-03-22 |  |
-| [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 | 2023-06-23 |  |
+| [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 | 2023-06-23 | 2023-06-27 |
 | [Sleep Of The Black Lotus](https://open.spotify.com/track/1gwWcQf0CmJxQPc4AlOoEh) | [Wo Fat](https://open.spotify.com/artist/5QUsinW1AjeDsT6tQdeTb0) | [The Black Code](https://open.spotify.com/album/0fWU9SHoSy50Kpi775WrLb) | 10:14 | 2021-11-30 | 2022-07-08 |
 | [Sleep Of The Black Lotus](https://open.spotify.com/track/607UyLaRRinnZrtim7VWSK) | [Wo Fat](https://open.spotify.com/artist/5QUsinW1AjeDsT6tQdeTb0) | [The Black Code](https://open.spotify.com/album/19Azuz7Fwnr7mQ6jKqPYbd) | 10:14 | 2023-03-10 | 2023-05-01 |
 | [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 | 2023-03-22 | 2023-06-11 |

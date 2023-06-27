@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 245653,
       "name": "Along About Midnight",
       "url": "https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R"
@@ -1604,6 +1604,28 @@
       "duration_ms": 330733,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g"
+    },
+    {
+      "album": {
+        "name": "The Blues Is Now",
+        "url": "https://open.spotify.com/album/7eIAMxI6NVQuDVwoFGrA3o"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Witherspoon",
+          "url": "https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb"
+        },
+        {
+          "name": "Jack McDuff",
+          "url": "https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229973,
+      "name": "Sweet Slumber",
+      "url": "https://open.spotify.com/track/0jEaukzFANr3SRJC53KkBb"
     },
     {
       "album": {

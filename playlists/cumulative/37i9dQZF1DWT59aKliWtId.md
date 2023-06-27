@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. Devon Gilfillian
 
-779 songs - 1 day 23 hr 31 min
+783 songs - 1 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Golden](https://open.spotify.com/track/4BbM3Hp1yzGkFsMPF7DfZs) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Golden](https://open.spotify.com/album/2a2nQUIvrpWw5KdYvGIFNG) | 3:27 | 2023-05-12 |  |
 | [Good Day](https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Good Day](https://open.spotify.com/album/5gPIcMHoQLRRhE0iDUVw7s) | 3:07 | 2022-02-11 | 2022-04-09 |
 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 | 2023-06-02 | 2023-06-24 |
+| [Good Time](https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Good Time](https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW) | 5:33 | 2023-06-26 |  |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/6b97su2rHlDZm0aiyGQCaw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Goodbye Mr\. Blue](https://open.spotify.com/album/4S8GgZhOvktzQZWA2NXHAX) | 5:00 | 2022-03-11 | 2022-07-29 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-07-22 | 2022-07-30 |
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-07-29 | 2022-09-20 |
@@ -355,7 +356,8 @@
 | [Jackie Down The Line](https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo) | 4:01 | 2022-01-14 | 2022-04-02 |
 | [Jaywalker](https://open.spotify.com/track/2o8dpWlhalYijwqFQloIQI) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 3:12 | 2021-12-10 | 2022-02-26 |
 | [Jeff Goldblum](https://open.spotify.com/track/3PHbnETIo07Bgk475d2z7x) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Jeff Goldblum](https://open.spotify.com/album/52mBm64RWajg2R3WW4zKJI) | 3:20 | 2021-12-10 | 2022-01-08 |
-| [Johnny Velvet](https://open.spotify.com/track/4HqltvXvSxgA2xAdlLEGNN) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [Johnny Velvet](https://open.spotify.com/album/6TGvQtxA1SAbajmTp1WKrf) | 4:19 | 2023-05-26 |  |
+| [Johnny Velvet](https://open.spotify.com/track/4HqltvXvSxgA2xAdlLEGNN) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [Johnny Velvet](https://open.spotify.com/album/6TGvQtxA1SAbajmTp1WKrf) | 4:19 | 2023-05-26 | 2023-06-27 |
+| [Johnny Velvet](https://open.spotify.com/track/5eicTpdl334npx01MuwB9f) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [CAZIMI \(Deluxe Edition\)](https://open.spotify.com/album/2TbzHlioxxZvaD0Metp9dg) | 4:19 | 2023-06-23 |  |
 | [Just Before The Morning](https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Just Before The Morning](https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x) | 3:34 | 2022-10-14 | 2023-05-13 |
 | [just you](https://open.spotify.com/track/0MO0SkmuADx47LbCiBwn3Y) | [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [just you](https://open.spotify.com/album/5wAInLjKAOcjUSpweZkuNE) | 3:31 | 2022-10-28 | 2023-01-14 |
 | [Keep Coming Back for More \(feat\. Salt Cathedral\)](https://open.spotify.com/track/3yy7wABKnsE3v8cysgPGaV) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw), [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Keep Coming Back for More \(feat\. Salt Cathedral\)](https://open.spotify.com/album/5mPb44jjOIbhPAr1uibiYi) | 4:09 | 2022-01-14 | 2022-02-05 |
@@ -367,6 +369,7 @@
 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 | 2022-02-25 | 2022-04-02 |
 | [King of Sweden](https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [King of Sweden](https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8) | 4:11 | 2022-02-18 | 2022-07-02 |
 | [Kingdom For A Fool](https://open.spotify.com/track/2tKyv5qRq8PTp0sGJ0vu06) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/0HLAkdOg4mPRmdVaIdTK11) | 3:28 | 2022-11-11 | 2023-04-09 |
+| [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-26 |  |
 | [Kissing Lessons](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Kissing Lessons](https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj) | 1:54 | 2022-02-04 | 2022-04-29 |
 | [Know Better](https://open.spotify.com/track/3qQGm2LA50Pr3ejJuIo56A) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Know Better](https://open.spotify.com/album/091rITH4fXltYccZlmbrzw) | 3:11 | 2023-05-12 | 2023-06-24 |
 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 | 2022-05-06 | 2022-10-15 |
@@ -402,7 +405,7 @@
 | [Love Is Real](https://open.spotify.com/track/0eoBkpMZuo2GzBzM9Vwn77) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Love Is Real b/w Heart Shape](https://open.spotify.com/album/7kKKozYknjwDR0AoG7RwHu) | 2:28 | 2022-04-01 | 2022-04-16 |
 | [Love Is Real](https://open.spotify.com/track/29WxNjKosNpws3mqiuQokS) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Love Is Real](https://open.spotify.com/album/5XESkiNh8sT8Hn5lrjZWia) | 2:28 | 2022-02-18 | 2022-03-12 |
 | [Love Is Selfish](https://open.spotify.com/track/2hvWkf3ep9kwKcBQVCd6k0) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3sYkBlospe8hXvJxeNUfdN) | 2:52 | 2022-05-20 | 2022-06-11 |
-| [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 | 2023-04-28 |  |
+| [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 | 2023-04-28 | 2023-06-27 |
 | [Love Is The Way](https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw) | 2:59 | 2023-03-03 | 2023-04-30 |
 | [Love Love Love](https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl) | 3:42 | 2021-12-10 | 2022-03-12 |
 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 | 2022-05-20 | 2022-09-24 |
@@ -438,7 +441,7 @@
 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 | 2022-05-06 | 2022-11-05 |
 | [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-12-10 | 2022-02-05 |
 | [Monsters](https://open.spotify.com/track/1rgbDBpQc7weuwqIFm4IbX) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Monsters](https://open.spotify.com/album/0BLxTOtPUCaJK1vCA398nL) | 3:33 | 2023-04-28 |  |
-| [Mother Road](https://open.spotify.com/track/1zac3cinV2EJFUBpIRiLVm) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5pjySEa5oydXp95sJrg9ew) | 5:12 | 2023-05-12 |  |
+| [Mother Road](https://open.spotify.com/track/1zac3cinV2EJFUBpIRiLVm) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5pjySEa5oydXp95sJrg9ew) | 5:12 | 2023-05-12 | 2023-06-27 |
 | [Motorcycle](https://open.spotify.com/track/4k5QJm4DklGTyG984kRA4c) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Hot Sass](https://open.spotify.com/album/6QFoGuTRk6Mh7kCmbjcIet) | 3:50 | 2021-12-10 | 2022-02-12 |
 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 | 2022-04-29 | 2022-08-27 |
 | [Moves](https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Moves](https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7) | 3:13 | 2021-12-10 | 2022-01-08 |
@@ -576,6 +579,7 @@
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-01-14 | 2022-06-25 |
 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-08-19 | 2023-02-11 |
 | [Run To The Moon](https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Run To The Moon](https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs) | 3:45 | 2023-04-28 |  |
+| [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 | 2023-06-26 |  |
 | [Sad](https://open.spotify.com/track/1K6dPwnP8alsRxVc5ET5Ft) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:24 | 2022-09-16 | 2023-01-14 |
 | [Sad](https://open.spotify.com/track/2FyJqbLBacg8U7uiSy0cLg) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Sad](https://open.spotify.com/album/5aOz3OK9QSRaFR8oY992ct) | 3:24 | 2022-08-19 | 2022-09-20 |
 | [Same Team](https://open.spotify.com/track/2GAFfaQTUULj1YVfbuKuRb) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:31 | 2022-07-22 | 2022-08-13 |

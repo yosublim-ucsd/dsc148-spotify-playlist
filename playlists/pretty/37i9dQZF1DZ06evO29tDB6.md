@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,326 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,369 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 34 | [Una y otra vez](https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hecho en México](https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7) | 2:38 |
 | 35 | [Sara](https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 3:44 |
 | 36 | [Perdedor](https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 4:43 |
-| 37 | [Mi chava no me comprende](https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:23 |
-| 38 | [Bésame](https://open.spotify.com/track/1Ul3KRSxw5t5pffvUqnL5u) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [A talonear!!](https://open.spotify.com/album/0HRGrsD1AKAqShL4GtOnfp) | 4:03 |
+| 37 | [Bésame](https://open.spotify.com/track/1Ul3KRSxw5t5pffvUqnL5u) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [A talonear!!](https://open.spotify.com/album/0HRGrsD1AKAqShL4GtOnfp) | 4:03 |
+| 38 | [Mi chava no me comprende](https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:23 |
 | 39 | [Solamente Dios](https://open.spotify.com/track/79tDHSRvEZi9KnrSRE8krg) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [No te olvides de la banda](https://open.spotify.com/album/6OYHy1eZOBvS3KnWHwEyIs) | 5:06 |
 | 40 | [Chavo de onda \- Live](https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 6:03 |
 | 41 | [Pamela](https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 49 | [Santa Martha](https://open.spotify.com/track/38w1ZH0Zoj5Ap1TDluxhLG) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 2](https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV) | 3:52 |
 | 50 | [Encuentros cercanos del 3er\. sexo \- En vivo](https://open.spotify.com/track/1hAExu07HNO7SkljuiUUfm) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [En vivo y a todo calor \(En el Hollywood Palladium\)](https://open.spotify.com/album/30XSCjeJiHkWqEUrWvx6o3) | 7:22 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDA0Y2I0YTVhMzk2ZTBjMmE2ODZhMzA2NmYyNDNiYTc0Mw==`
+Snapshot ID: `MjgxMjk2OTUsMDAwMDAwMDA1NmFjNWZkNDgxODY2MGE5NWZmYjFiOGI1NmYyNzQyOQ==`

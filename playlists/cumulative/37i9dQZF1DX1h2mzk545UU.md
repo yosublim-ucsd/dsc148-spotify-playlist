@@ -4,7 +4,7 @@
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-118 songs - 6 hr 56 min
+119 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 | 2023-02-02 |  |
 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 | 2023-06-02 |  |
 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 | 2023-01-30 |  |
+| [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ) | 2:56 | 2023-06-26 |  |
 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 | 2023-01-30 | 2023-02-05 |
 | [Bonita](https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP) | [Los Dorados](https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis) | [Bonita](https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP) | 3:21 | 2023-01-30 | 2023-02-28 |
 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 | 2023-01-30 |  |

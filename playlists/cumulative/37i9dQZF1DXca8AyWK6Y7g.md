@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Dominic Fike
 
-1,691 songs - 3 day 13 hr 57 min
+1,692 songs - 3 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1302,7 +1302,7 @@
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2021-09-10 | 2023-02-11 |
 | [Shitty People](https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Shitty People](https://open.spotify.com/album/40xU8o3w2Zw17JiTIZ3q2s) | 2:41 | 2022-05-27 | 2022-06-07 |
 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 | 2022-09-23 | 2022-10-09 |
-| [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 | 2023-02-24 |  |
+| [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 | 2023-02-24 | 2023-06-27 |
 | [Should I Call U Baby](https://open.spotify.com/track/0Jv6znEgiRN0QpJXQ9aaWA) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Should I Call U Baby](https://open.spotify.com/album/0GslCQGbomtTLgqyjUug3C) | 3:59 | 2021-10-25 | 2022-01-29 |
 | [Show Me](https://open.spotify.com/track/10myPNOGfqlAmkKRc3L1d9) | [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Show Me](https://open.spotify.com/album/3H5theFZzPfDdbBVOEkxlG) | 3:15 | 2019-05-26\* | 2019-06-15 |
 | [Show Me \(feat\. Madison Ryann Ward\)](https://open.spotify.com/track/3re97KCFI7Lt6pRfxdC8KL) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Show Me \(feat\. Madison Ryann Ward\)](https://open.spotify.com/album/1L30zgJR7KKILbL3p3Z5wH) | 3:25 | 2019-05-26\* | 2019-06-15 |
@@ -1691,6 +1691,7 @@
 | [You Are Losing Me](https://open.spotify.com/track/2RZG69vGcBkMGZQf7JiO3v) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [You Are Losing Me](https://open.spotify.com/album/6oZI1hY0Xm2CYBA2Wvs2GA) | 3:27 | 2019-09-27 | 2020-04-18 |
 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 | 2023-05-19 | 2023-06-03 |
 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-17 |  |
+| [You Suck](https://open.spotify.com/track/1WtpaFt6EQ35ojei9qVv3m) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [You Suck](https://open.spotify.com/album/1QkTbqolFWqAtaOWJmyR0v) | 3:01 | 2023-06-23 |  |
 | [Young And On Fire](https://open.spotify.com/track/09WWY8SJbQ2Sc6vqkRwNZ7) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Night Panda](https://open.spotify.com/artist/4pmV88dqzWGC82M7yFVx5z) | [Young And On Fire](https://open.spotify.com/album/7s7PkNqB2vgIGrjEBecLo6) | 3:49 | 2019-05-26\* | 2020-02-19 |
 | [Younger](https://open.spotify.com/track/51eQMjXhiJ9QXeILUujs0I) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:10 | 2023-06-02 | 2023-06-26 |
 | [YOUR GHOST](https://open.spotify.com/track/6X8NtXpTWAdHj01tn03LCz) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4) | [LOSS ANGELES: OVERDOSE](https://open.spotify.com/album/4J0gMzK8BpoGaNtHdTbH2W) | 2:53 | 2022-03-25 | 2022-05-14 |

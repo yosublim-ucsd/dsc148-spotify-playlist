@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 10019,
+  "num_followers": 10024,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2JkMWY4YmYyNzU0N2E2YThmYjU3OTA1NGNlNDc3MjdmYTBhNmQ1",
+  "snapshot_id": "MCxjNDBiMDE5Mjg5ZTM4M2VlMDExMmU4NjY2MTRmMWFiNzNhMzhhNzQy",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Flying Microtonal Banana",
+        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 468093,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 1367093,
       "name": "Autobahn - 2009 Remaster",
       "url": "https://open.spotify.com/track/31uidLEHAcF8Cw1cX1VCS8"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Flying Microtonal Banana",
-        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 468093,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -431,6 +431,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Knickerbocker",
+      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -461,22 +477,6 @@
       "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "BGM",
-        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
-      },
-      "artists": [
-        {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
-        }
-      ],
-      "duration_ms": 272840,
-      "name": "\u30ad\u30e5\u30fc",
-      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
-    },
-    {
       "added_at": "2023-03-16 23:38:03",
       "album": {
         "name": "A Digital Mind's Architecture",
@@ -495,18 +495,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+        "name": "BGM",
+        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
       },
       "artists": [
         {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
         }
       ],
-      "duration_ms": 200133,
-      "name": "Knickerbocker",
-      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
+      "duration_ms": 272840,
+      "name": "\u30ad\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Now Here Is Nowhere",
-        "url": "https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg"
+        "name": "A Ghost Is Born (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
       },
       "artists": [
         {
-          "name": "Secret Machines",
-          "url": "https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 253466,
-      "name": "Nowhere Again",
-      "url": "https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6"
+      "duration_ms": 642200,
+      "name": "Spiders (Kidsmoke)",
+      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
     },
     {
       "added_at": "2023-01-25 02:05:47",
@@ -667,6 +667,22 @@
       "duration_ms": 277845,
       "name": "Nieve Afuera",
       "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Now Here Is Nowhere",
+        "url": "https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg"
+      },
+      "artists": [
+        {
+          "name": "Secret Machines",
+          "url": "https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Nowhere Again",
+      "url": "https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6"
     },
     {
       "added_at": "2022-08-09 01:36:21",
@@ -687,22 +703,6 @@
       "duration_ms": 646683,
       "name": "Simple Headphone Mind",
       "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "A Ghost Is Born (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 642200,
-      "name": "Spiders (Kidsmoke)",
-      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Empty Estate",
-        "url": "https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq"
-      },
-      "artists": [
-        {
-          "name": "Wild Nothing",
-          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
-        }
-      ],
-      "duration_ms": 205586,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Murder of the Universe",
         "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 141800,
       "name": "Han-Tyumi, The Confused Cyborg",
       "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Empty Estate",
+        "url": "https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq"
+      },
+      "artists": [
+        {
+          "name": "Wild Nothing",
+          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -951,6 +951,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Not The Time / Callous",
+        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Not The Time",
+      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Gnod Drop Out With White Hills II",
         "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 661120,
       "name": "Drop Out",
       "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Not The Time / Callous",
-        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Not The Time",
-      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
+    },
+    {
       "added_at": "2023-03-23 21:21:38",
       "album": {
         "name": "L'\u00e9t\u00e9 suivant...",
@@ -1047,22 +1063,6 @@
       "duration_ms": 566520,
       "name": "F\u00fcr Dich",
       "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
     },
     {
       "added_at": "2022-03-29 02:06:14",
@@ -1165,20 +1165,20 @@
       "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
     },
     {
-      "added_at": "2022-03-04 01:55:34",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+        "name": "NEU! 75",
+        "url": "https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l"
       },
       "artists": [
         {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
         }
       ],
-      "duration_ms": 184013,
-      "name": "Final Weapon",
-      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
+      "duration_ms": 431800,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1197,20 +1197,20 @@
       "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2022-03-04 01:55:34",
       "album": {
-        "name": "NEU! 75",
-        "url": "https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l"
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
       },
       "artists": [
         {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
         }
       ],
-      "duration_ms": 431800,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc"
+      "duration_ms": 184013,
+      "name": "Final Weapon",
+      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
     },
     {
       "added_at": "2022-11-19 05:33:06",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Hei\u00dfe Lippen",
-      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
         "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 646960,
       "name": "Pass The Hatchet, I Think I'm Goodkind",
       "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Hei\u00dfe Lippen",
+      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Interloper",
-        "url": "https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs"
-      },
-      "artists": [
-        {
-          "name": "Holy Wave",
-          "url": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b"
-        }
-      ],
-      "duration_ms": 247900,
-      "name": "I'm Not Living in the Past Anymore",
-      "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Musik von Harmonia",
         "url": "https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 211013,
       "name": "Dino",
       "url": "https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Interloper",
+        "url": "https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs"
+      },
+      "artists": [
+        {
+          "name": "Holy Wave",
+          "url": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b"
+        }
+      ],
+      "duration_ms": 247900,
+      "name": "I'm Not Living in the Past Anymore",
+      "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
     },
     {
       "added_at": "2021-07-30 14:56:06",

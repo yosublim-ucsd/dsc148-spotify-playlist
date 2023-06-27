@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: My Ugly Clementine",
-  "num_followers": 917113,
+  "num_followers": 917080,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTlhZWFjNjBjZDRiY2I3MjE4ODllNWY2YTZhNTg2OGI3M2VhMjA4",
+  "snapshot_id": "MCw2YzYxN2QwYjI2OTMzODVmM2NjOTU3ZWY5ZDVlY2E2ZWIzZDM1YmQ0",
   "tracks": [
     {
       "added_at": "2023-06-19 04:28:38",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "\u6251\u706b",
-        "url": "https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 236269,
-      "name": "\u6251\u706b",
-      "url": "https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "Love Again (Soundtrack from the Motion Picture)",
         "url": "https://open.spotify.com/album/1YV5gnob3qCnMQuVomwGwG"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 183400,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/0Ke17Xm0lk1flqdkFW3bqs"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "\u6251\u706b",
+        "url": "https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 236269,
+      "name": "\u6251\u706b",
+      "url": "https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
+        "name": "\u041d\u0435 \u0432\u0442\u0440\u0430\u0442\u0438\u043c\u043e \u0437\u0432'\u044f\u0437\u043e\u043a",
+        "url": "https://open.spotify.com/album/67H8Ds24jGQTAfqzdc3xpX"
+      },
+      "artists": [
+        {
+          "name": "alyona alyona",
+          "url": "https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8"
+        }
+      ],
+      "duration_ms": 148536,
+      "name": "\u041d\u0435 \u0432\u0442\u0440\u0430\u0442\u0438\u043c\u043e \u0437\u0432'\u044f\u0437\u043e\u043a",
+      "url": "https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
         "name": "D\u00e9r (feat. Wads.png)",
         "url": "https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 200325,
       "name": "D\u00e9r (feat. Wads.png)",
       "url": "https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
-        "name": "\u041d\u0435 \u0432\u0442\u0440\u0430\u0442\u0438\u043c\u043e \u0437\u0432'\u044f\u0437\u043e\u043a",
-        "url": "https://open.spotify.com/album/67H8Ds24jGQTAfqzdc3xpX"
-      },
-      "artists": [
-        {
-          "name": "alyona alyona",
-          "url": "https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8"
-        }
-      ],
-      "duration_ms": 148536,
-      "name": "\u041d\u0435 \u0432\u0442\u0440\u0430\u0442\u0438\u043c\u043e \u0437\u0432'\u044f\u0437\u043e\u043a",
-      "url": "https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -619,30 +619,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Ni Main Jaana",
-        "url": "https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK"
-      },
-      "artists": [
-        {
-          "name": "Ravi Singhal",
-          "url": "https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY"
-        },
-        {
-          "name": "Harshdeep Kaur",
-          "url": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        }
-      ],
-      "duration_ms": 257771,
-      "name": "Ni Main Jaana",
-      "url": "https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "Barbie (feat. Danny Bond)",
         "url": "https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 149514,
       "name": "Barbie (feat. Danny Bond)",
       "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "Ni Main Jaana",
+        "url": "https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK"
+      },
+      "artists": [
+        {
+          "name": "Ravi Singhal",
+          "url": "https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY"
+        },
+        {
+          "name": "Harshdeep Kaur",
+          "url": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        }
+      ],
+      "duration_ms": 257771,
+      "name": "Ni Main Jaana",
+      "url": "https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
-        "url": "https://open.spotify.com/album/3nxNC2KSRt306Go8ELMh87"
-      },
-      "artists": [
-        {
-          "name": "Agam Buhbut",
-          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
-      "url": "https://open.spotify.com/track/6CbXdfNyGnHf8hxFR5cAxD"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "Masa Sepi",
         "url": "https://open.spotify.com/album/264G53YN0qa679J5JEDtkg"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 213750,
       "name": "Masa Sepi",
       "url": "https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
+        "url": "https://open.spotify.com/album/3nxNC2KSRt306Go8ELMh87"
+      },
+      "artists": [
+        {
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
+      "url": "https://open.spotify.com/track/6CbXdfNyGnHf8hxFR5cAxD"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
+        "name": "Masum",
+        "url": "https://open.spotify.com/album/7Hfxj65Qt4s9jbtM8CK3kT"
+      },
+      "artists": [
+        {
+          "name": "Ece Se\u00e7kin",
+          "url": "https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5"
+        }
+      ],
+      "duration_ms": 165859,
+      "name": "Masum",
+      "url": "https://open.spotify.com/track/3YpghzU44ZtBF1m1vM6jnw"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
         "name": "Locochona",
         "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Masum",
-        "url": "https://open.spotify.com/album/7Hfxj65Qt4s9jbtM8CK3kT"
-      },
-      "artists": [
-        {
-          "name": "Ece Se\u00e7kin",
-          "url": "https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5"
-        }
-      ],
-      "duration_ms": 165859,
-      "name": "Masum",
-      "url": "https://open.spotify.com/track/3YpghzU44ZtBF1m1vM6jnw"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "Born Digital",
         "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Creature",
-        "url": "https://open.spotify.com/album/4r6dmmEA1V7wR7yZt9pceH"
-      },
-      "artists": [
-        {
-          "name": "Olivia Addams",
-          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Creature",
-      "url": "https://open.spotify.com/track/6AlAW7I6mgE7rzUOb5ed5v"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "Ya Gamalak",
         "url": "https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 209983,
       "name": "Ya Gamalak",
       "url": "https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "Creature",
+        "url": "https://open.spotify.com/album/4r6dmmEA1V7wR7yZt9pceH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/6AlAW7I6mgE7rzUOb5ed5v"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Bolero Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 189077,
-      "name": "Prom\u00e9teme",
-      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "Flash Flood",
         "url": "https://open.spotify.com/album/1Z1k6oJZoPNGGTwGIrrpDq"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 159014,
       "name": "Flash Flood",
       "url": "https://open.spotify.com/track/5YEJF1PFsxr7SwgtvpQhmC"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
+        "name": "Bolero Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 189077,
+      "name": "Prom\u00e9teme",
+      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Sombrilla",
-        "url": "https://open.spotify.com/album/4fHvrfmKLTDsQ62izJCRkP"
-      },
-      "artists": [
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Sombrilla",
-      "url": "https://open.spotify.com/track/1SfO4RXTYabzsiJJbw4Y4e"
-    },
-    {
-      "added_at": "2023-06-19 04:28:38",
-      "album": {
         "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e0a\u0e17 (Your Chat)",
         "url": "https://open.spotify.com/album/7vCUJrT7m9Q9wyPvt94thR"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
+        "name": "Sombrilla",
+        "url": "https://open.spotify.com/album/4fHvrfmKLTDsQ62izJCRkP"
+      },
+      "artists": [
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Sombrilla",
+      "url": "https://open.spotify.com/track/1SfO4RXTYabzsiJJbw4Y4e"
+    },
+    {
+      "added_at": "2023-06-19 04:28:38",
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/6YRsZur2KmT2HbrCbVHBd6"
       },
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
+        "name": "An'da",
+        "url": "https://open.spotify.com/album/1QIMREJO5VuRJX2sj1erQY"
       },
       "artists": [
         {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        },
-        {
-          "name": "EKKI",
-          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
+          "name": "G\u00fcliz Ayla",
+          "url": "https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs"
         }
       ],
-      "duration_ms": 201724,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
+      "duration_ms": 217749,
+      "name": "An'da",
+      "url": "https://open.spotify.com/track/2kXnGAd5HTPjdBcXdPewlG"
     },
     {
       "added_at": "2023-06-19 04:28:38",
@@ -1251,18 +1247,22 @@
     {
       "added_at": "2023-06-19 04:28:38",
       "album": {
-        "name": "An'da",
-        "url": "https://open.spotify.com/album/1QIMREJO5VuRJX2sj1erQY"
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
       },
       "artists": [
         {
-          "name": "G\u00fcliz Ayla",
-          "url": "https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs"
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "EKKI",
+          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
         }
       ],
-      "duration_ms": 217749,
-      "name": "An'da",
-      "url": "https://open.spotify.com/track/2kXnGAd5HTPjdBcXdPewlG"
+      "duration_ms": 201724,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
     },
     {
       "added_at": "2023-06-19 04:28:38",

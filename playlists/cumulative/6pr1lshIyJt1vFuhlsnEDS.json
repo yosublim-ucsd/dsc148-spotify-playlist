@@ -223,6 +223,28 @@
     },
     {
       "album": {
+        "name": "Burn It Up",
+        "url": "https://open.spotify.com/album/4vGzoIttQqqylcJINdjrxj"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Iba\u00f1ez",
+          "url": "https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR"
+        },
+        {
+          "name": "Agustina Aliaga",
+          "url": "https://open.spotify.com/artist/79V45UnKkn86CxN6jfi6Lk"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204084,
+      "name": "Burn It Up",
+      "url": "https://open.spotify.com/track/6LxlE4D5JrTq75ctsEctMn"
+    },
+    {
+      "album": {
         "name": "Came Here For Love EP",
         "url": "https://open.spotify.com/album/5nPnubdJCVf8E6vxcbEFOi"
       },
@@ -737,6 +759,24 @@
     },
     {
       "album": {
+        "name": "I Want to See",
+        "url": "https://open.spotify.com/album/28HXkm4OCYHAc0udQFbiwu"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241832,
+      "name": "It's Then",
+      "url": "https://open.spotify.com/track/4sHrSTZYaMKMFFNrSSpKEC"
+    },
+    {
+      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7fcjo0vFeR8V6pyY10xgvB"
       },
@@ -752,6 +792,24 @@
       "duration_ms": 238129,
       "name": "Kick",
       "url": "https://open.spotify.com/track/723L3PgiXq9aNyV8x30fxe"
+    },
+    {
+      "album": {
+        "name": "L`amore",
+        "url": "https://open.spotify.com/album/4uQ5cpHnL9qcmFJUCUFh3c"
+      },
+      "artists": [
+        {
+          "name": "Luca Gio",
+          "url": "https://open.spotify.com/artist/6Ut850lwOhXnA0pXXG8cAE"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "L`amore",
+      "url": "https://open.spotify.com/track/3ZqcOlShrrpaYFkot3CljS"
     },
     {
       "album": {
@@ -1038,7 +1096,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 226000,
       "name": "Parallel Reality",
       "url": "https://open.spotify.com/track/6MWVz64BbIs55EFlmBUvrR"
@@ -1482,6 +1540,28 @@
       "duration_ms": 278950,
       "name": "Sunshine of Love - Original Mix",
       "url": "https://open.spotify.com/track/0zXIXQjbNuh6GrQj0xTHur"
+    },
+    {
+      "album": {
+        "name": "Switch (Alex Stein Remix)",
+        "url": "https://open.spotify.com/album/3zuD6J3tJHwg7Ed7b55y9F"
+      },
+      "artists": [
+        {
+          "name": "Beckers",
+          "url": "https://open.spotify.com/artist/0VWBw0F5CvBFM9xEqbfhDg"
+        },
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191363,
+      "name": "Switch - Alex Stein Remix",
+      "url": "https://open.spotify.com/track/6gNDuHiTw1wVJvYsId2PXb"
     },
     {
       "album": {

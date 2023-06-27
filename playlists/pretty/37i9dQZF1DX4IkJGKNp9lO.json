@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 28815,
+  "num_followers": 28830,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzViYmYwNTM1NjNhZTVkMjM3ZmVhNjJiOTU4MDQ1ZWI5OThkNTBk",
+  "snapshot_id": "MCw1NmQ1NzkxMTU4ZjFjOTE2M2RjZTZlZWE5OWJmMDc2NzhiMDU1NjY4",
   "tracks": [
     {
       "added_at": "2023-05-04 22:10:49",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Trubbel",
-        "url": "https://open.spotify.com/album/3NTL8XMnO4Gp3cPZSJn58K"
-      },
-      "artists": [
-        {
-          "name": "Trubbel",
-          "url": "https://open.spotify.com/artist/6cdyHr4eKkFvA3lVDNzJ6M"
-        }
-      ],
-      "duration_ms": 85760,
-      "name": "Sibirien",
-      "url": "https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
         "name": "Ebba Gr\u00f6n",
         "url": "https://open.spotify.com/album/3fZyzR2Qeu8d5h8FsejF1I"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 244573,
       "name": "Die Mauer",
       "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "Trubbel",
+        "url": "https://open.spotify.com/album/3NTL8XMnO4Gp3cPZSJn58K"
+      },
+      "artists": [
+        {
+          "name": "Trubbel",
+          "url": "https://open.spotify.com/artist/6cdyHr4eKkFvA3lVDNzJ6M"
+        }
+      ],
+      "duration_ms": 85760,
+      "name": "Sibirien",
+      "url": "https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 326400,
+      "name": "Staten & kapitalet",
+      "url": "https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
         "name": "Sanningens Morgon",
         "url": "https://open.spotify.com/album/1B6iEAikOQLI4PmePPzL9A"
       },
@@ -255,38 +271,6 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Noppriga Tights Och Moonboots",
-        "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
-      },
-      "artists": [
-        {
-          "name": "R\u00e4serbajs",
-          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
-        }
-      ],
-      "duration_ms": 144266,
-      "name": "Fina Flickor",
-      "url": "https://open.spotify.com/track/7H69MJpL8m8QrpcBVMbEfr"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
-      },
-      "artists": [
-        {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
-        }
-      ],
-      "duration_ms": 326400,
-      "name": "Staten & kapitalet",
-      "url": "https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
         "name": "MNW Klassiker - Imperiet",
         "url": "https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 256079,
       "name": "Du ska va president",
       "url": "https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "Noppriga Tights Och Moonboots",
+        "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4serbajs",
+          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
+        }
+      ],
+      "duration_ms": 144266,
+      "name": "Fina Flickor",
+      "url": "https://open.spotify.com/track/7H69MJpL8m8QrpcBVMbEfr"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -331,6 +331,22 @@
       "duration_ms": 239893,
       "name": "Dunken",
       "url": "https://open.spotify.com/track/7InzmgtRkwsheHlrUz0VLK"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "Gryningstid",
+        "url": "https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM"
+      },
+      "artists": [
+        {
+          "name": "Dia Psalma",
+          "url": "https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "Hon F\u00e5r...",
+      "url": "https://open.spotify.com/track/5sbPNqCZq15zNo0ZQj75gT"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -395,22 +411,6 @@
       "duration_ms": 130360,
       "name": "Troll Och H\u00e4xor",
       "url": "https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
-        "name": "Gryningstid",
-        "url": "https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM"
-      },
-      "artists": [
-        {
-          "name": "Dia Psalma",
-          "url": "https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Hon F\u00e5r...",
-      "url": "https://open.spotify.com/track/5sbPNqCZq15zNo0ZQj75gT"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
+        "name": "Ond saga",
+        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Sverigev\u00e4nner",
+      "url": "https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
         "name": "Ebba Gr\u00f6n 1978 - 1982",
         "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Ond saga",
-        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Sverigev\u00e4nner",
-      "url": "https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
         "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
         "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 143560,
       "name": "Balladen Om Lilla Elsa",
       "url": "https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "Tecken I Tiden",
+        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
+      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -667,22 +683,6 @@
       "duration_ms": 174753,
       "name": "Jag l\u00e4mnar festen",
       "url": "https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
-        "name": "Tecken I Tiden",
-        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
-      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -783,6 +783,38 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
+        "name": "Konflikthantering 101",
+        "url": "https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4"
+      },
+      "artists": [
+        {
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Konflikthantering 101",
+      "url": "https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "Alla sover",
+        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 167648,
+      "name": "Brinner",
+      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
         "name": "V\u00e4rdel\u00f6s",
         "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
       },
@@ -815,22 +847,6 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Alla sover",
-        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 167648,
-      "name": "Brinner",
-      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
         "name": "Varje ensam natt",
         "url": "https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 204109,
       "name": "Varje ensam natt",
       "url": "https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
-        "name": "Konflikthantering 101",
-        "url": "https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4"
-      },
-      "artists": [
-        {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Konflikthantering 101",
-      "url": "https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -895,38 +895,6 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 78800,
-      "name": "Jag vill bli som far",
-      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
-        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
-        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
-      },
-      "artists": [
-        {
-          "name": "Slutstation Tjernobyl",
-          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Som En Doft Av Napalm",
-      "url": "https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
         "name": "St\u00e5r st\u00f6tt",
         "url": "https://open.spotify.com/album/4xsmrWEDxBzNOeyFMqPCNG"
       },
@@ -939,6 +907,22 @@
       "duration_ms": 138680,
       "name": "Sm\u00e5 steg",
       "url": "https://open.spotify.com/track/6wNd0yL725a1cjO5lDNBUt"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 78800,
+      "name": "Jag vill bli som far",
+      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -959,6 +943,22 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
+        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
+        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
+      },
+      "artists": [
+        {
+          "name": "Slutstation Tjernobyl",
+          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Som En Doft Av Napalm",
+      "url": "https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
         "name": "V\u00e4lkommen till fabriken",
         "url": "https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 146000,
       "name": "Fabriken",
       "url": "https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "Tidens tempo",
-      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -1023,18 +1007,22 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "I All Hast",
-        "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
+        "name": "F\u00f6r Sverige",
+        "url": "https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS"
       },
       "artists": [
         {
-          "name": "Trevolt",
-          "url": "https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr"
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        },
+        {
+          "name": "Loke Nyberg",
+          "url": "https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA"
         }
       ],
-      "duration_ms": 167266,
-      "name": "Mitt Sista Andetag",
-      "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
+      "duration_ms": 205506,
+      "name": "Hela hatet stormar",
+      "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -1051,6 +1039,22 @@
       "duration_ms": 121510,
       "name": "Va\u0308gra",
       "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "I All Hast",
+        "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
+      },
+      "artists": [
+        {
+          "name": "Trevolt",
+          "url": "https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Mitt Sista Andetag",
+      "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
     }
   ],
   "unique_name": "Svensk Punk",

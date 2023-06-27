@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-881 songs - 2 day 4 hr 15 min
+882 songs - 2 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Closer](https://open.spotify.com/track/4OdWpZcf9U9Oqt213hohHc) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Real](https://open.spotify.com/album/2RsyT9wOSo2op7ejxYEtcO) | 3:44 | 2022-03-24 | 2022-04-21 |
 | [Closer to You](https://open.spotify.com/track/3lKmH9D42U7Rqq6chJUUBh) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [Closer to You](https://open.spotify.com/album/3mtgBdwcmw86oVNQqxEp4f) | 3:25 | 2021-12-21 | 2022-04-21 |
 | [Clotel](https://open.spotify.com/track/7osb3fR1kIvcCp9nyuuCHr) | [Amber Lewis](https://open.spotify.com/artist/18ybsAEyVT5pl5aBxXQ6BF) | [Lips & Teeth](https://open.spotify.com/album/4v94n0cAPh1gqReAIXKgaN) | 4:39 | 2022-03-31 | 2022-04-05 |
+| [Cold](https://open.spotify.com/track/1puAdUyTT8jhtguWD0Rkpr) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Home](https://open.spotify.com/album/6OkMAm6ViqFfmRFo0clNHi) | 2:08 | 2023-06-23 |  |
 | [Cold](https://open.spotify.com/track/5rdhDMfiwWNnrEQpjUVpDu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Cold](https://open.spotify.com/album/0j6cURTL2HYMxsNKdyJCM7) | 2:53 | 2021-12-21 | 2022-02-02 |
 | [Cold Hands](https://open.spotify.com/track/3P6DtjIrFOrg5SAidrPoUE) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [See Inside](https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db) | 3:17 | 2022-07-08 | 2023-04-11 |
 | [Cold Hands](https://open.spotify.com/track/7bjkb3nbnI14FJKxCU8wr5) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Cold Hands](https://open.spotify.com/album/5r2pTRfwx1RyBGjQDA4rKT) | 3:17 | 2021-12-21 | 2022-07-29 |
@@ -480,7 +481,7 @@
 | [Mean It](https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mean It](https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl) | 2:51 | 2022-03-24 | 2023-02-25 |
 | [Mean It](https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:52 | 2022-07-08 | 2022-11-17 |
 | [Mean It](https://open.spotify.com/track/6mXdCcFnPKQznj4CmMRmHC) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:52 | 2022-11-11 |  |
-| [Memories \(Acoustic\)](https://open.spotify.com/track/1m3Lsbhkn6yL8apzsCiukd) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Memories \(Acoustic\)](https://open.spotify.com/album/0wNdH4MR2O0YvIa41x7v3Y) | 3:03 | 2021-12-21 |  |
+| [Memories \(Acoustic\)](https://open.spotify.com/track/1m3Lsbhkn6yL8apzsCiukd) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Memories \(Acoustic\)](https://open.spotify.com/album/0wNdH4MR2O0YvIa41x7v3Y) | 3:03 | 2021-12-21 | 2023-06-27 |
 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 | 2023-05-19 |  |
 | [mirrorball](https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:28 | 2023-03-21 |  |
 | [Miss Me the Same \(with Anson Seabra\)](https://open.spotify.com/track/5pSueoHUFxwBiLebqpcGUU) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Miss Me The Same \(with Anson Seabra\)](https://open.spotify.com/album/6trwAd4aAcGduTeXvuVwN3) | 3:36 | 2023-04-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 27180,
+  "num_followers": 27228,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWMzNzI5NDZlNDEzM2M5M2ZmMGU1M2JmOGUwMDkzZWRjYjdmNjI2",
+  "snapshot_id": "MCwyMzE5ZDA4ODJjNmUwZWQ0MGI3M2RlY2JhOTdlNzgxYmNiZmUxMjMz",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Volverte A Ver",
-      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Reyli En La Luna",
         "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 209213,
       "name": "M\u00e9xico En La Piel",
       "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -515,38 +515,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Aerosoul",
-        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Tocando Fondo",
-      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Para Tu Amor",
-      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
       },
@@ -559,6 +527,22 @@
       "duration_ms": 217146,
       "name": "Todo se transforma",
       "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Aerosoul",
+        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Tocando Fondo",
+      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -591,6 +575,22 @@
       "duration_ms": 237800,
       "name": "El Fantasma",
       "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Para Tu Amor",
+      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -691,38 +691,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Aerosoul",
-        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "Vuelo",
-        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
-      },
-      "artists": [
-        {
-          "name": "Kudai",
-          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Sin Despertar",
-      "url": "https://open.spotify.com/track/1Cafs1zrIyOzF8XPmkSI4p"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -735,6 +703,22 @@
       "duration_ms": 266133,
       "name": "A Veces Vuelvo",
       "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Aerosoul",
+        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -771,6 +755,22 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
+        "name": "Vuelo",
+        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
+      },
+      "artists": [
+        {
+          "name": "Kudai",
+          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Sin Despertar",
+      "url": "https://open.spotify.com/track/1Cafs1zrIyOzF8XPmkSI4p"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
         "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 266040,
       "name": "Algo M\u00e1s",
       "url": "https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Llenos De Magia",
+      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -815,22 +831,6 @@
       "duration_ms": 175226,
       "name": "Cielo Rojo",
       "url": "https://open.spotify.com/track/6z2gdbLv44WxTfpsnvoPLI"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Llenos De Magia",
-      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
     },
     {
       "added_at": "2021-12-22 23:41:59",

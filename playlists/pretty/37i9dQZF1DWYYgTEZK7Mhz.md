@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, anni 70 e anni 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,753 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,834 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 31 | [Tintarella di luna](https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Ritratto di Mina: I singoli, Vol\. 1](https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN) | 2:59 |
 | 32 | [Marina](https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB) | [Rocco Granata](https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI) | [Rocco: Zijn Story In 21 Liedjes](https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g) | 2:44 |
 | 33 | [La partita di pallone](https://open.spotify.com/track/467plYfT62efo0yW6qdqCl) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Come lei non c'e' nessuno](https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q) | 2:13 |
-| 34 | [Andavo A Cento All'Ora](https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Gianni Morandi](https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS) | 2:32 |
-| 35 | [Fotoromanza](https://open.spotify.com/track/58KPUv9L8rmAosHctUoaJr) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Hitstory Deluxe Edition](https://open.spotify.com/album/21SiB3EmnL1D1uXbYWH3gv) | 4:28 |
-| 36 | [Un'estate al mare](https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3) | [Un'estate al mare / Bing bang being \[Digital 45\]](https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh) | 3:18 |
-| 37 | [Vamos a la Playa](https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:37 |
+| 34 | [Un'estate al mare](https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3) | [Un'estate al mare / Bing bang being \[Digital 45\]](https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh) | 3:18 |
+| 35 | [Andavo A Cento All'Ora](https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Gianni Morandi](https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS) | 2:32 |
+| 36 | [Vamos a la Playa](https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:37 |
+| 37 | [Fotoromanza](https://open.spotify.com/track/58KPUv9L8rmAosHctUoaJr) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Hitstory Deluxe Edition](https://open.spotify.com/album/21SiB3EmnL1D1uXbYWH3gv) | 4:28 |
 | 38 | [L'esercito del surf](https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W) | [Catherine Spaak](https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2) | [Catherine Spaak](https://open.spotify.com/album/43kTmexEORoUruj66w0F4o) | 2:09 |
 | 39 | [Il Mare Quest'Estate](https://open.spotify.com/track/6CsNqqHnoXTPnv04TvFVXQ) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [I Miei Successi](https://open.spotify.com/album/3lxbAr2QIDT27hJA4OJYsw) | 3:02 |
 | 40 | [Sei come una lucertola](https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2) | [Jo Fedeli](https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:17 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 46 | [Pezzettini di bikini](https://open.spotify.com/track/5UoFz0CjuclVc5kzpUdlfy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [MITO '60 la meravigliosa estate italiana Vol.1](https://open.spotify.com/album/57o2sEB0CkBP3IKOnNDY11) | 2:20 |
 | 47 | [Sei diventata nera](https://open.spotify.com/track/2nQzlb5i7JKIj1xMrf9yVu) | [Los Marcellos Ferial](https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:12 |
 | 48 | [Il mare nel cassetto](https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Le più belle canzoni di Milva](https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1) | 3:00 |
-| 49 | [Pinne fucile ed occhiali](https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:39 |
-| 50 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [RCA 100 Años De Musica \- Segunda Parte \- Lo Mejor De Italia](https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH) | 2:36 |
+| 49 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [RCA 100 Años De Musica \- Segunda Parte \- Lo Mejor De Italia](https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH) | 2:36 |
+| 50 | [Pinne fucile ed occhiali](https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:39 |
 
-Snapshot ID: `MCxiZTUwZDM5YjZiZDBiNWMxYzhjYzAxZDdhZmJmN2YyNDQ4MTE5YTI4`
+Snapshot ID: `MCw1ZjNhY2FjYzRkZDZlYjhhOGQxOTg5ZjI2MDVkZDUyMjAyMmZhZmU3`

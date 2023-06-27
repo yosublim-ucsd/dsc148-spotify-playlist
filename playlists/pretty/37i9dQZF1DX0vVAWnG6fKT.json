@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 134097,
+  "num_followers": 134169,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjI1YTNiYzVhNTdhYThiZTRlOWM0ODU1YTU0NmRmNjYzZmFhMzcz",
+  "snapshot_id": "MCwyNTRhMjdlZTU5ZjY4NzNhMjBkZDliMDJkN2M3NjMwOWE3ODc4NmQ2",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -139,22 +139,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+        "name": "Retrospective, Vol. 1",
+        "url": "https://open.spotify.com/album/3NBmNvF2zHDafsRjPejumd"
       },
       "artists": [
         {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
         }
       ],
-      "duration_ms": 166160,
-      "name": "Move It On Over",
-      "url": "https://open.spotify.com/track/4bLFRNxLjFltxVPjvUbgJ7"
+      "duration_ms": 159266,
+      "name": "Walking The Floor Over You - 1941 Edit",
+      "url": "https://open.spotify.com/track/7vDYwBSPs5Wpn3XI6oqMM9"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -199,18 +195,38 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Retrospective, Vol. 1",
-        "url": "https://open.spotify.com/album/3NBmNvF2zHDafsRjPejumd"
+        "name": "Cool Water (With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
       },
       "artists": [
         {
-          "name": "Ernest Tubb",
-          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+          "name": "Sons of the Pioneers",
+          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
         }
       ],
-      "duration_ms": 159266,
-      "name": "Walking The Floor Over You - 1941 Edit",
-      "url": "https://open.spotify.com/track/7vDYwBSPs5Wpn3XI6oqMM9"
+      "duration_ms": 141946,
+      "name": "Riders In The Sky",
+      "url": "https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "Move It On Over",
+      "url": "https://open.spotify.com/track/4bLFRNxLjFltxVPjvUbgJ7"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -231,34 +247,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Cool Water (With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
+        "name": "Can The Circle Be Unbroken: Country Music's First Family",
+        "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
       },
       "artists": [
         {
-          "name": "Sons of the Pioneers",
-          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
+          "name": "The Carter Family",
+          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
         }
       ],
-      "duration_ms": 141946,
-      "name": "Riders In The Sky",
-      "url": "https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
-      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
+      "duration_ms": 195040,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -275,26 +275,6 @@
       "duration_ms": 187000,
       "name": "Can the Circle Be Unbroken",
       "url": "https://open.spotify.com/track/07IuSThN6YHAAollCnu1Ln"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Cold, Cold Heart",
-      "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -331,18 +311,38 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Presenting Roy Rogers",
-        "url": "https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm"
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
       "artists": [
         {
-          "name": "Roy Rogers",
-          "url": "https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM"
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
         }
       ],
-      "duration_ms": 172013,
-      "name": "Don't Fence Me In",
-      "url": "https://open.spotify.com/track/5UsCMdER0Vrh4uFuef4kHA"
+      "duration_ms": 169000,
+      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
+      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Cold, Cold Heart",
+      "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Presenting Roy Rogers",
+        "url": "https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm"
+      },
+      "artists": [
+        {
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Don't Fence Me In",
+      "url": "https://open.spotify.com/track/5UsCMdER0Vrh4uFuef4kHA"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "The Essential Roy Acuff",
         "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 174106,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Can The Circle Be Unbroken: Country Music's First Family",
-        "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
-      },
-      "artists": [
-        {
-          "name": "The Carter Family",
-          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Wildwood Flower",
-      "url": "https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Honky Tonkin (Expanded Undubbed Edition)",
-        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Honky Tonkin'",
-      "url": "https://open.spotify.com/track/20aorkzugOSwPcXGZf9eCv"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Essential Hank Snow",
         "url": "https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE"
       },
@@ -515,6 +495,26 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Honky Tonkin'",
+      "url": "https://open.spotify.com/track/20aorkzugOSwPcXGZf9eCv"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Cool Water (With Bonus Tracks)",
         "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Dark As A Dungeon",
-      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 185533,
       "name": "Deck Of Cards",
       "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Dark As A Dungeon",
+      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "Kentucky Waltz",
+      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Honky Tonkin (Expanded Undubbed Edition)",
         "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 176973,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/00prInR3FA2xwKCzUVhISD"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "Kentucky Waltz",
-      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "The Essential Bob Wills And His Texas Playboys",
+        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "New San Antonio Rose",
+      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
         "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Essential Bob Wills And His Texas Playboys",
-        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "New San Antonio Rose",
-      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Rhythm & Booze",
         "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
       },
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Late Great - 14 Greatest Hits",
-        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
       },
       "artists": [
         {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 153373,
-      "name": "Room Full of Roses",
-      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
+      "duration_ms": 157373,
+      "name": "Cotton Eyed Joe - Single Version",
+      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Cotton Eyed Joe - Single Version",
-      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Presenting Patsy Montana",
         "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
       },
@@ -999,6 +983,38 @@
       "duration_ms": 174053,
       "name": "My Poncho Pony",
       "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Late Great - 14 Greatest Hits",
+        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
+      },
+      "artists": [
+        {
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+        }
+      ],
+      "duration_ms": 153373,
+      "name": "Room Full of Roses",
+      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Complete Original #1 Hits",
+        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Texarkana Baby",
+      "url": "https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Complete Original #1 Hits",
-        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Texarkana Baby",
-      "url": "https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Copasetic",
         "url": "https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK"
       },
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "The Essential Bill Monroe",
+        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Mule Skinner Blues (Blue Yodel #8)",
+      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "My Favorite Country Songs",
         "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 177466,
       "name": "Panhandle Rag",
       "url": "https://open.spotify.com/track/13jNEoK1XuWzvx7PDtqBtt"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "The Essential Bill Monroe",
-        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe & His Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Mule Skinner Blues (Blue Yodel #8)",
-      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
     },
     {
       "added_at": "2023-01-02 21:50:32",

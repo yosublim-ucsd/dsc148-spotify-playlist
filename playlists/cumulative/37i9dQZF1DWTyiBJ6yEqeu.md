@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-677 songs - 1 day 10 hr 6 min
+678 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Axel F](https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc) | [Crazy Frog](https://open.spotify.com/artist/4J3wzDMI97AlGimdiVcaLb) | [Crazy Frog presents Crazy Hits](https://open.spotify.com/album/6dhqlbbOqTKD5xbN3iRqlY) | 2:48 | 2021-12-09 | 2021-12-23 |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:04 | 2022-04-20 | 2022-07-29 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-11-18 | 2022-12-06 |
-| [Baby \(Lil Baby feat\. DaBaby\)](https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:22 | 2023-05-16 |  |
+| [Baby \(Lil Baby feat\. DaBaby\)](https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:22 | 2023-05-16 | 2023-06-27 |
 | [Baby Sasuke](https://open.spotify.com/track/4Y4Xmm8OLUJSdR9OkaxV97) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto \(Deluxe\)](https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR) | 3:30 | 2022-01-14 | 2022-01-29 |
 | [Bad Boy \(with Young Thug\)](https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bad Boy \(with Young Thug\)](https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE) | 2:37 | 2021-08-20 | 2021-12-29 |
 | [Bad Energy](https://open.spotify.com/track/0JoWBcL61YWLXM5vW0YTHO) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 3:06 | 2021-08-20 | 2021-12-27 |
@@ -637,6 +637,7 @@
 | [U Are My High \(with Future\)](https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [U Are My High \(with Future\)](https://open.spotify.com/album/3fG4IID2LEPJ7iBSsnVvuG) | 3:31 | 2022-04-20 |  |
 | [u mad!](https://open.spotify.com/track/2fDtjP6dRnNnrOkc8dBfm9) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:31 | 2021-12-09 | 2021-12-23 |
 | [UCLA](https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:12 | 2022-03-07 | 2022-04-20 |
+| [Until I End Up Dead](https://open.spotify.com/track/5bVTkc2s7TQbTbVZZn2fXn) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [Until I End Up Dead](https://open.spotify.com/album/7FqeGIj2CoHAbWTyqeOpGu) | 2:15 | 2023-06-23 |  |
 | [Up & Down](https://open.spotify.com/track/2R7xKsStJ9hNeZKoD9W5Nv) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Up & Down](https://open.spotify.com/album/6VMrXUabbY8cFWLougHU5F) | 2:34 | 2023-04-21 | 2023-04-26 |
 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3K1E9RAuMzC9g0ig3KsBBr) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [on to better things](https://open.spotify.com/album/0sb3OPjnOZEgWrAhwSyGJc) | 2:57 | 2022-04-20 | 2022-07-29 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-06-17 | 2023-02-11 |

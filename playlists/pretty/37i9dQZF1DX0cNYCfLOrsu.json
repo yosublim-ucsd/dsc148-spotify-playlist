@@ -1,12 +1,12 @@
 {
   "description": "The best in Dancehall for the gyaldem. Cover: Tina (Hoodcelebrityy)",
-  "num_followers": 294784,
+  "num_followers": 294852,
   "original_name": "Dancehall Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTU4ZWRhYTMyZjM2ODIzODNlMTllYjE1MDliN2NmZDkzNTA5YWEx",
+  "snapshot_id": "MCxhYmUwZjIzNWE0YzlmMjRhNTM2ZmQzNjlmYjhjYmMzNjIxOGNjNDM0",
   "tracks": [
     {
       "added_at": "2023-05-15 08:38:13",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         }
       ],
-      "duration_ms": 161739,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
+      "duration_ms": 181816,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/0PtDNK2Q49fAM4ZbKtN0mz"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 181816,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/0PtDNK2Q49fAM4ZbKtN0mz"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/6eYxm1llvPLQe5oW3d5tba"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 250357,
       "name": "Catch 22",
       "url": "https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 179737,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
         "name": "Dunce Barbie",
         "url": "https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 165564,
       "name": "DUNCE BARBIE",
       "url": "https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
-        "name": "Lockdown",
-        "url": "https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 179737,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "One Man / Moving On",
-        "url": "https://open.spotify.com/album/5fSvT6n4ZP4AK401c5xq7b"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        },
-        {
-          "name": "Gaza Slim",
-          "url": "https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog"
-        }
-      ],
-      "duration_ms": 176587,
-      "name": "One Man / Moving On - Raw",
-      "url": "https://open.spotify.com/track/4zmzJgtsV1oPnp1a7Ryi6L"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5"
       },
@@ -831,6 +811,22 @@
       "duration_ms": 155294,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Girl Boss - The Realest Girl",
+        "url": "https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE"
+      },
+      "artists": [
+        {
+          "name": "Gaza Slim",
+          "url": "https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog"
+        }
+      ],
+      "duration_ms": 194420,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -855,6 +851,26 @@
       "duration_ms": 124515,
       "name": "Lighter (with Tarrus Riley & Rvssian)",
       "url": "https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "One Man / Moving On",
+        "url": "https://open.spotify.com/album/5fSvT6n4ZP4AK401c5xq7b"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Gaza Slim",
+          "url": "https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog"
+        }
+      ],
+      "duration_ms": 176587,
+      "name": "One Man / Moving On - Raw",
+      "url": "https://open.spotify.com/track/4zmzJgtsV1oPnp1a7Ryi6L"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Girl Boss - The Realest Girl",
-        "url": "https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE"
-      },
-      "artists": [
-        {
-          "name": "Gaza Slim",
-          "url": "https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog"
-        }
-      ],
-      "duration_ms": 194420,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Ay Dios Mio",
         "url": "https://open.spotify.com/album/2UDdAS2QuoHdd1VyQl7yY4"
       },
@@ -931,26 +931,6 @@
       "duration_ms": 129000,
       "name": "Ay Dios Mio",
       "url": "https://open.spotify.com/track/2n4q1me7daB59UxsiMJi0n"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
-        "name": "Romping Shop",
-        "url": "https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        },
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Romping Shop",
-      "url": "https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -1019,22 +999,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Bet Mi Money - Single",
-        "url": "https://open.spotify.com/album/4zHe5UZXTojzY5HnDxX3XG"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 169016,
-      "name": "Bet Mi Money",
-      "url": "https://open.spotify.com/track/2taU9obeNJpV0sDiiu3oNt"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Senseless",
         "url": "https://open.spotify.com/album/2y6X069vn7n8YbnX8gDY4o"
       },
@@ -1047,6 +1011,26 @@
       "duration_ms": 183024,
       "name": "Senseless",
       "url": "https://open.spotify.com/track/20GrAO16fXHWO241JeYKWP"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Romping Shop",
+        "url": "https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Romping Shop",
+      "url": "https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
+        "name": "Bet Mi Money - Single",
+        "url": "https://open.spotify.com/album/4zHe5UZXTojzY5HnDxX3XG"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 169016,
+      "name": "Bet Mi Money",
+      "url": "https://open.spotify.com/track/2taU9obeNJpV0sDiiu3oNt"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
         "name": "Heavy!",
         "url": "https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9"
       },
@@ -1247,6 +1247,38 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 150869,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
         "name": "Heels On - Single",
         "url": "https://open.spotify.com/album/32QwqUCDMihv6W0jcts4oo"
       },
@@ -1283,22 +1315,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "The Biggest Ragga Dancehall Anthems 2007",
         "url": "https://open.spotify.com/album/7ddsTEh3W8FDNKQx0QJrxx"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 176453,
       "name": "Tek Weh Yuhself",
       "url": "https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
-        "name": "Banana",
-        "url": "https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu"
-      },
-      "artists": [
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        }
-      ],
-      "duration_ms": 150869,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC"
     },
     {
       "added_at": "2023-05-15 08:38:13",

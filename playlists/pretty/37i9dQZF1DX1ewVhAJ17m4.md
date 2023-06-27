@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: KennyHoopla
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,739 likes - 90 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,797 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 89 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 |
 | 90 | [Six Feet Under](https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg) | [Ty Arena$](https://open.spotify.com/artist/08oF6bUJ3xPBr6XQsJdxpI), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Six Feet Under](https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo) | 2:13 |
 
-Snapshot ID: `MCw1YWM5ZmZjMTRiOTA4OTZjZTA3MjM5ZTQwY2Y5YWViMjI0MjU3YjE5`
+Snapshot ID: `MCw2MjU1ZDBmNWZjMTNhYTRmYWFhY2YzOTRiMzhlOWU1NTFlZGM2MDlh`

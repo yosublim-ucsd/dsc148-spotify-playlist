@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: blink-182",
-  "num_followers": 57933,
+  "num_followers": 57969,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmU1YzljM2EzYzQ3MzkwNTE4M2QzNTI5ZmJjNjBjMzg2Y2MyOTA2",
+  "snapshot_id": "MCw0NjY1NWUwMDhhNzk3Mjk2MzgxNTI2YmNiNzExZjRiZTExZGUwMDVm",
   "tracks": [
     {
       "added_at": "2023-04-21 13:55:20",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 195920,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "LIVING THINGS",
         "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 259093,
       "name": "Sail",
       "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -463,22 +463,6 @@
       "duration_ms": 302000,
       "name": "Dark Necessities",
       "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
-        "name": "sTraNgeRs",
-        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 195747,
-      "name": "sTraNgeRs",
-      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -571,6 +555,22 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
+        "name": "sTraNgeRs",
+        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 195747,
+      "name": "sTraNgeRs",
+      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
         "name": "From The Fires",
         "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "Transmissions (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0Ypo27qP4udOQKGfNT48hn"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 288036,
-      "name": "My Demons",
-      "url": "https://open.spotify.com/track/3Xfg7AegXaDLoD5GOUMf2e"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "Transmissions (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0Ypo27qP4udOQKGfNT48hn"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 288036,
+      "name": "My Demons",
+      "url": "https://open.spotify.com/track/3Xfg7AegXaDLoD5GOUMf2e"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 269893,
       "name": "All the Pretty Girls",
       "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "War",
-      "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Disobey",
         "url": "https://open.spotify.com/album/5hDwXxawZfYuNxylzGXcqt"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 254805,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1eadPrzB2P0ikQcqhKSAtv"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "War",
+      "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "Fear Inoculum",
-        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 713191,
-      "name": "Pneuma",
-      "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 185466,
       "name": "Walk On Water",
       "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 713191,
+      "name": "Pneuma",
+      "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "Villains",
-        "url": "https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 274281,
-      "name": "The Way You Used To Do",
-      "url": "https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 274281,
+      "name": "The Way You Used To Do",
+      "url": "https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
     }
   ],
   "unique_name": "Rock Favourites",

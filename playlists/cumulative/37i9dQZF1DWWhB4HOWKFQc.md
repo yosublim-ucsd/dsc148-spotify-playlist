@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Salma Salsabil
 
-165 songs - 9 hr 59 min
+166 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-06-01 |  |
 | [Love Epiphany](https://open.spotify.com/track/3HEfLSVUo9rxdD0JxbLAUU) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Reality Club Presents…](https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK) | 5:38 | 2023-06-22 |  |
 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 | 2023-03-23 | 2023-04-27 |
+| [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-26 |  |
 | [Manusia Putus Asa](https://open.spotify.com/track/68PkrpsVyyVlnNYb7hY97l) | [Ayuenstar](https://open.spotify.com/artist/7ydN6ucPSuyIQVM06TT81X) | [Manusia Putus Asa](https://open.spotify.com/album/3A5u8eywrTDJTMol5cUPCe) | 4:16 | 2023-03-23 | 2023-04-07 |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-03-23 | 2023-05-05 |
 | [Menghargai Kata Rindu](https://open.spotify.com/track/7dJXDo04rMWbfIepBGTfi0) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Menghargai Kata Rindu](https://open.spotify.com/album/6ZttUG5J6ohmAPaudE74Au) | 4:11 | 2023-06-15 |  |

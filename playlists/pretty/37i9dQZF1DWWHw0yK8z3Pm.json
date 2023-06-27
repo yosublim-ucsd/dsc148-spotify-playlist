@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Goldie Boutilier",
-  "num_followers": 43471,
+  "num_followers": 43499,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzQ1MjlhOTJlYzNlNzVmZTFmYTA2YTU2MTI4M2MyYTM2NTIxOTMw",
+  "snapshot_id": "MCxjMTY3MjJhODlmNjlkZjg4ODUxNjU3YjViMGI2YzFlNjA4ZTlkNGYz",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Evangelina",
-        "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Evangelina",
-      "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Long Time Coming",
         "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 161733,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Evangelina",
+        "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Evangelina",
+      "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Haunted Mountain",
-        "url": "https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 311892,
-      "name": "Haunted Mountain",
-      "url": "https://open.spotify.com/track/45d44VPCRIW07tywccH8ii"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Down Rounder",
         "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 139333,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Haunted Mountain",
+        "url": "https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 311892,
+      "name": "Haunted Mountain",
+      "url": "https://open.spotify.com/track/45d44VPCRIW07tywccH8ii"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Uncertain Country",
-        "url": "https://open.spotify.com/album/1FaFeak6yzQUZn96pXHFZ1"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 204387,
-      "name": "Swimming Like Flying",
-      "url": "https://open.spotify.com/track/2xSV3wQkg0vobb29FwZQYr"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "CAMPFIRE",
         "url": "https://open.spotify.com/album/7LKZyqX1XBDWktfX8HyMOA"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 180000,
       "name": "CAMPFIRE",
       "url": "https://open.spotify.com/track/0hNbaatSkThALWtJK1Eov8"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Uncertain Country",
+        "url": "https://open.spotify.com/album/1FaFeak6yzQUZn96pXHFZ1"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 204387,
+      "name": "Swimming Like Flying",
+      "url": "https://open.spotify.com/track/2xSV3wQkg0vobb29FwZQYr"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Smashed Up My Fender",
-        "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
-      },
-      "artists": [
-        {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Smashed Up My Fender",
-      "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Say What You Like",
         "url": "https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 167819,
       "name": "Say What You Like",
       "url": "https://open.spotify.com/track/2AjJ8A4ZJ7m43i2EjQl9w3"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Smashed Up My Fender",
+        "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Smashed Up My Fender",
+      "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Eye For An Eye",
+        "url": "https://open.spotify.com/album/60lPRUPJv9WBKCVhPh76FD"
+      },
+      "artists": [
+        {
+          "name": "Alex Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        }
+      ],
+      "duration_ms": 181018,
+      "name": "Eye For An Eye",
+      "url": "https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Better Days (feat. Dave Fenley)",
         "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 243880,
       "name": "Better Days (feat. Dave Fenley)",
       "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Eye For An Eye",
-        "url": "https://open.spotify.com/album/60lPRUPJv9WBKCVhPh76FD"
-      },
-      "artists": [
-        {
-          "name": "Alex Nicol",
-          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
-        }
-      ],
-      "duration_ms": 181018,
-      "name": "Eye For An Eye",
-      "url": "https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Hard To Build. Easy To Break.",
-        "url": "https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Junkies",
-          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Hard to Build. Easy to Break.",
-      "url": "https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "When You're Gone",
         "url": "https://open.spotify.com/album/3CRYeWlC7Hu66h2ypeB6qX"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "When You Miss Someone / Tanqueray",
-        "url": "https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1"
+        "name": "Hard To Build. Easy To Break.",
+        "url": "https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6"
       },
       "artists": [
         {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+          "name": "Cowboy Junkies",
+          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
         }
       ],
-      "duration_ms": 185920,
-      "name": "When You Miss Someone",
-      "url": "https://open.spotify.com/track/7qJKahUHkASPu54vMil98J"
+      "duration_ms": 258413,
+      "name": "Hard to Build. Easy to Break.",
+      "url": "https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 203973,
       "name": "Higher (feat. David Rawlings)",
       "url": "https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "When You Miss Someone / Tanqueray",
+        "url": "https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "When You Miss Someone",
+      "url": "https://open.spotify.com/track/7qJKahUHkASPu54vMil98J"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Homemaker",
+        "url": "https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 187491,
+      "name": "Instant Cash for Gold",
+      "url": "https://open.spotify.com/track/3Jd8ZnKlKNBsRnO6XJTbYZ"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "On A Roll",
         "url": "https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Homemaker",
-        "url": "https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 187491,
-      "name": "Instant Cash for Gold",
-      "url": "https://open.spotify.com/track/3Jd8ZnKlKNBsRnO6XJTbYZ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Dom Louis",
         "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "World Burn",
-        "url": "https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX"
-      },
-      "artists": [
-        {
-          "name": "Amos the Kid",
-          "url": "https://open.spotify.com/artist/63LZAfaHUgHs3vW7lgqXr4"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "World Burn",
-      "url": "https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Hot Sun",
         "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 181866,
       "name": "Hot Sun",
       "url": "https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "World Burn",
+        "url": "https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX"
+      },
+      "artists": [
+        {
+          "name": "Amos the Kid",
+          "url": "https://open.spotify.com/artist/63LZAfaHUgHs3vW7lgqXr4"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "World Burn",
+      "url": "https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy"
     },
     {
       "added_at": "2023-06-23 04:00:00",

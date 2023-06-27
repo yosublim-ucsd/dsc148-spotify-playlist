@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 
 > Música serena de piano para dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,454 likes - 193 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,558 likes - 193 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,20 +30,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 | 20 | [Snuggle Snore](https://open.spotify.com/track/2rt4PaD8ZPtTdF3nz15Sjc) | [Nell Watts](https://open.spotify.com/artist/3eKFzxUit6eaVMkmsfrI5Y) | [Snuggle Snore](https://open.spotify.com/album/249QCyyRj3rD7uy4zEwp9J) | 1:33 |
 | 21 | [Fabric of Summer](https://open.spotify.com/track/5u8JFIiwYnvlvOluXoyANy) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Fabric of Summer](https://open.spotify.com/album/0qnLxjGGBmnIjmOo6D2ZVY) | 2:14 |
 | 22 | [Supine](https://open.spotify.com/track/2knSWnU2sjRjsPzLXSQd92) | [Joseph McGrahl](https://open.spotify.com/artist/6PlWx5ZUw2UWUIltBfrNrH) | [Untroubled](https://open.spotify.com/album/29B4sOpxgbBFtEnvtrLBYm) | 1:55 |
-| 23 | [Moments of Joy](https://open.spotify.com/track/4xaWRbNi9BNSCNxNgVUepd) | [Noel Oliver](https://open.spotify.com/artist/60XMGyggu8Xe0jhOQMgXbE) | [Moments of Joy](https://open.spotify.com/album/4SWWC5aBtfZtVkZOozZ7Gf) | 2:15 |
-| 24 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 |
-| 25 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
-| 26 | [Den blomstertid nu kommer](https://open.spotify.com/track/5LvHG0ItC54Tue5XmOinfn) | [Elsa Roberts](https://open.spotify.com/artist/18la3phGP2krkdJmChREK2) | [Den blomstertid nu kommer](https://open.spotify.com/album/7kcd1rhWJMSMbhnCR1LC0T) | 1:50 |
+| 23 | [Alone In The Night](https://open.spotify.com/track/0JBwZWPQqCQaEkbpbs8cET) | [Ambient Gate Music](https://open.spotify.com/artist/5w3faOdrOWHXNLBxUZCmpM), [Raymoon](https://open.spotify.com/artist/4Bs2tH5kLn5baLxIRyWF74) | [Hypnotic Tune](https://open.spotify.com/album/1Y6zf7Hh7jnhp5y3Y5qksK) | 1:09 |
+| 24 | [Moments of Joy](https://open.spotify.com/track/4xaWRbNi9BNSCNxNgVUepd) | [Noel Oliver](https://open.spotify.com/artist/60XMGyggu8Xe0jhOQMgXbE) | [Moments of Joy](https://open.spotify.com/album/4SWWC5aBtfZtVkZOozZ7Gf) | 2:15 |
+| 25 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 |
+| 26 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
 | 27 | [Stay In Yesterday](https://open.spotify.com/track/68gOBP9twtrWZUOlwt6wZ6) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Stay In Yesterday](https://open.spotify.com/album/68GR3IKpucg2wwvYVDjIwH) | 2:35 |
 | 28 | [Une chambre](https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Une chambre](https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7) | 2:42 |
 | 29 | [Drink the Dew](https://open.spotify.com/track/3uUXUwWgQ0SdkAY6BAJE4d) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Drink the Dew](https://open.spotify.com/album/5U5M1cpNoamvoYevrQQIOK) | 2:18 |
 | 30 | [Collecting Coins](https://open.spotify.com/track/411YPKaT1EFNzLUKttpB1w) | [Jan Os](https://open.spotify.com/artist/2Mr2YOyJj0TQqVYH88gUwf) | [Collecting Coins](https://open.spotify.com/album/5kQBkssjm9tXTw6WInvHYx) | 2:28 |
 | 31 | [Romanze](https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Romanze](https://open.spotify.com/album/5h6IMQWryeG5cqZepQdKSn) | 2:11 |
-| 32 | [Alone In The Night](https://open.spotify.com/track/0JBwZWPQqCQaEkbpbs8cET) | [Ambient Gate Music](https://open.spotify.com/artist/5w3faOdrOWHXNLBxUZCmpM), [Raymoon](https://open.spotify.com/artist/4Bs2tH5kLn5baLxIRyWF74) | [Hypnotic Tune](https://open.spotify.com/album/1Y6zf7Hh7jnhp5y3Y5qksK) | 1:09 |
-| 33 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 |
-| 34 | [Warm](https://open.spotify.com/track/3k0x9nLNnDf37MJYIPFww5) | [Closed Lids](https://open.spotify.com/artist/3Ikd9nfnykzwJ0f189yHtg) | [Warm](https://open.spotify.com/album/2FcAyZf7Ack86ExG4yMh23) | 3:32 |
-| 35 | [Us](https://open.spotify.com/track/7tPR6ChfHJvkYPK0Zy5zkK) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 1:48 |
-| 36 | [Saga](https://open.spotify.com/track/0JM4ig0fH4lvYWlNhGqlBf) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Saga](https://open.spotify.com/album/53KUPQ8fM0AhkhvKLlykdb) | 2:26 |
+| 32 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 |
+| 33 | [Warm](https://open.spotify.com/track/3k0x9nLNnDf37MJYIPFww5) | [Closed Lids](https://open.spotify.com/artist/3Ikd9nfnykzwJ0f189yHtg) | [Warm](https://open.spotify.com/album/2FcAyZf7Ack86ExG4yMh23) | 3:32 |
+| 34 | [Us](https://open.spotify.com/track/7tPR6ChfHJvkYPK0Zy5zkK) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 1:48 |
+| 35 | [Saga](https://open.spotify.com/track/0JM4ig0fH4lvYWlNhGqlBf) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Saga](https://open.spotify.com/album/53KUPQ8fM0AhkhvKLlykdb) | 2:26 |
+| 36 | [Den blomstertid nu kommer](https://open.spotify.com/track/5LvHG0ItC54Tue5XmOinfn) | [Elsa Roberts](https://open.spotify.com/artist/18la3phGP2krkdJmChREK2) | [Den blomstertid nu kommer](https://open.spotify.com/album/7kcd1rhWJMSMbhnCR1LC0T) | 1:50 |
 | 37 | [Metanoia](https://open.spotify.com/track/7qC9YJfrhtW3TnPEDSCiQj) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Metanoia](https://open.spotify.com/album/0OH4MTL7NPJWMgEa10Wlsh) | 2:28 |
 | 38 | [What We Say](https://open.spotify.com/track/5KiGarBX9pitdRxbFRUYAn) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [What We Say](https://open.spotify.com/album/3XrAGJAi6CQKGkRaNRJljd) | 2:47 |
 | 39 | [Cosmos](https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Cosmos](https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd) | 2:39 |
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 | 192 | [Mass](https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Mass](https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2) | 2:10 |
 | 193 | [I Belong Here](https://open.spotify.com/track/1sJlo3mVGO7kcbEJRKfeKy) | [Aaron Robichaux](https://open.spotify.com/artist/3zRgmmYtwT4BURJ2sMTaAH) | [I Belong Here](https://open.spotify.com/album/4z4fvQsDi3rAYd4SVBp9q5) | 2:13 |
 
-Snapshot ID: `MCw0YjJjNTE4MmZiYzVjMTM4MjE4ZGY0MjUyZWM4OGRlMjE1YTUxMTY1`
+Snapshot ID: `MCxlODM1NTE1NjA4ODYwMWZiMTdlNGZjNDQ0ODA3NjIyZGNlZWFiZWRm`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 8242,
+  "num_followers": 8262,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTJiODQ3YjMwMmQwNGEyNjIwMWI1NGZiMTE3NWJhZDk3YjM2NDQ0",
+  "snapshot_id": "MCxlYmRlNWVhNDZjNjg0Y2E0YjRhYWFhZWI5YWExNDljOWRkMWRkNjhl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 240217,
+      "name": "4pm in Calabasas",
+      "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Trilogy",
         "url": "https://open.spotify.com/album/3MP8mUHuQlYrGUkrEG4qpJ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 208933,
       "name": "Strange Fruit",
       "url": "https://open.spotify.com/track/2eKwjJkBUaeaGq5GA1wTwc"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 240217,
-      "name": "4pm in Calabasas",
-      "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
     },
     {
       "added_at": "2022-10-01 16:57:49",

@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1296,
+  "num_followers": 1308,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmIyOTg2MDA5NzkyODViNzM1ZGYyNWZiZmU5NDFhMTMwN2FlMDcx",
+  "snapshot_id": "MCw5MDAyODMxMTI1NzY5YjYyYTVjZjg5MGZlYzM3NzRiOWE1NGU1NTIz",
   "tracks": [
     {
       "added_at": "2023-04-06 20:59:00",
@@ -239,6 +239,30 @@
     {
       "added_at": "2023-06-16 00:01:00",
       "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 405513,
+      "name": "Million Little Miracles (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
         "name": "Faith is Rising",
         "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
       },
@@ -315,30 +339,6 @@
       "duration_ms": 282932,
       "name": "Naomba",
       "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
-    },
-    {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 405513,
-      "name": "Million Little Miracles (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
     },
     {
       "added_at": "2023-06-16 00:01:00",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
     },
     {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
+        "name": "Safari: The Journey",
+        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
+      },
+      "artists": [
+        {
+          "name": "Adawnage",
+          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
+        }
+      ],
+      "duration_ms": 281155,
+      "name": "Uwezo",
+      "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
+    },
+    {
       "added_at": "2023-04-06 20:59:00",
       "album": {
         "name": "Nations Will Rise and Sing",
@@ -473,22 +489,6 @@
       "url": "https://open.spotify.com/track/0l39flJoMHffawcZES5NCS"
     },
     {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "Safari: The Journey",
-        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
-      },
-      "artists": [
-        {
-          "name": "Adawnage",
-          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
-        }
-      ],
-      "duration_ms": 281155,
-      "name": "Uwezo",
-      "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
-    },
-    {
       "added_at": "2023-04-06 20:59:00",
       "album": {
         "name": "Tumeshinda",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Tulia",
+        "url": "https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE"
+      },
+      "artists": [
+        {
+          "name": "Benachi",
+          "url": "https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD"
+        },
+        {
+          "name": "kaberere",
+          "url": "https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7"
+        }
+      ],
+      "duration_ms": 216607,
+      "name": "Mwanake (feat. Kaberere)",
+      "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Kirathimo",
         "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
       },
@@ -523,22 +543,6 @@
       "duration_ms": 223160,
       "name": "Kirathimo",
       "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Na Gode (Swahili)",
-        "url": "https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Na Gode - Swahili",
-      "url": "https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -575,6 +579,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Na Gode (Swahili)",
+        "url": "https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Na Gode - Swahili",
+      "url": "https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Yatupasa Kushukuru",
         "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 283469,
       "name": "Yatupasa Kushukuru",
       "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Tulia",
-        "url": "https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE"
-      },
-      "artists": [
-        {
-          "name": "Benachi",
-          "url": "https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD"
-        },
-        {
-          "name": "kaberere",
-          "url": "https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7"
-        }
-      ],
-      "duration_ms": 216607,
-      "name": "Mwanake (feat. Kaberere)",
-      "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Hapa Nilipo",
-        "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
+        "name": "Unikumbuke",
+        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
       },
       "artists": [
         {
-          "name": "UPENDO NKONE",
-          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
         }
       ],
-      "duration_ms": 261355,
-      "name": "Upendo Wa Yesu",
-      "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
+      "duration_ms": 490293,
+      "name": "Mtetezi Wangu",
+      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -675,34 +675,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Unikumbuke",
-        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
+        "name": "Hapa Nilipo",
+        "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
       },
       "artists": [
         {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+          "name": "UPENDO NKONE",
+          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
         }
       ],
-      "duration_ms": 490293,
-      "name": "Mtetezi Wangu",
-      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Yatupasa Kushukuru",
-        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
-      },
-      "artists": [
-        {
-          "name": "Ambassadors Of Christ Choir",
-          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
-        }
-      ],
-      "duration_ms": 229715,
-      "name": "Kuna Sauti Yaita",
-      "url": "https://open.spotify.com/track/79DSttMu86Iu2cR4PbFPay"
+      "duration_ms": 261355,
+      "name": "Upendo Wa Yesu",
+      "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -723,18 +707,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Yatupasa Kushukuru",
+        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Ambassadors Of Christ Choir",
+          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
         }
       ],
-      "duration_ms": 291657,
-      "name": "Tasted Of Your Power",
-      "url": "https://open.spotify.com/track/6ygiRazaywRpL5VLClqQwe"
+      "duration_ms": 229715,
+      "name": "Kuna Sauti Yaita",
+      "url": "https://open.spotify.com/track/79DSttMu86Iu2cR4PbFPay"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -753,20 +737,20 @@
       "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
     },
     {
-      "added_at": "2023-06-02 00:01:00",
+      "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Love Art Lust",
-        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "Fena Gitu",
-          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 160458,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/7om99dwImelL6LSONuY6nW"
+      "duration_ms": 291657,
+      "name": "Tasted Of Your Power",
+      "url": "https://open.spotify.com/track/6ygiRazaywRpL5VLClqQwe"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -783,6 +767,22 @@
       "duration_ms": 270968,
       "name": "Uliniumba Nikuabudu",
       "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
+    },
+    {
+      "added_at": "2023-06-02 00:01:00",
+      "album": {
+        "name": "Love Art Lust",
+        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
+      },
+      "artists": [
+        {
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+        }
+      ],
+      "duration_ms": 160458,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/7om99dwImelL6LSONuY6nW"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Siteketei",
+        "url": "https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC"
+      },
+      "artists": [
+        {
+          "name": "Angel Benard",
+          "url": "https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD"
+        }
+      ],
+      "duration_ms": 210076,
+      "name": "Siteketei",
+      "url": "https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Wewe ni mungu",
         "url": "https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 221936,
       "name": "KELELE ZA USHINDI",
       "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Siteketei",
-        "url": "https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC"
-      },
-      "artists": [
-        {
-          "name": "Angel Benard",
-          "url": "https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD"
-        }
-      ],
-      "duration_ms": 210076,
-      "name": "Siteketei",
-      "url": "https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz"
     },
     {
       "added_at": "2023-04-06 20:59:00",

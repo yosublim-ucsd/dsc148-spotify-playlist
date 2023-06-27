@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,950 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,013 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 11 | [dedd barchetta](https://open.spotify.com/track/6APgOMkG1jkeFZD3rfCpvp) | [Sugs](https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb) | [dedd barchetta](https://open.spotify.com/album/1DOxrwCYqfxD5MRNRknxWY) | 1:20 |
 | 12 | [A$$A$$IN](https://open.spotify.com/track/3sA3QDurusOs0paKSUZ4I6) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [We Made Plans & God Laughed](https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd) | 3:09 |
 | 13 | [Doorman](https://open.spotify.com/track/6bTAz3pg5ywBeZHCQoleJB) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Nothing Great About Britain](https://open.spotify.com/album/5fx2Hde8xw2jWPtUKXA73X) | 3:04 |
-| 14 | [I've Seen Footage](https://open.spotify.com/track/7nCONy10IHp7XD3oYZ0lcx) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:22 |
-| 15 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 |
+| 14 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 |
+| 15 | [I've Seen Footage](https://open.spotify.com/track/7nCONy10IHp7XD3oYZ0lcx) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:22 |
 | 16 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 |
 | 17 | [Doritos & Fritos](https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:16 |
 | 18 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 46 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 |
 | 47 | [Silly Boy](https://open.spotify.com/track/6dVCwIlxXWjyOumob05IPQ) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [MEN](https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1) | 3:18 |
 | 48 | [Date With Death](https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU) | [Paris Shadows](https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT), [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Date With Death](https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA) | 1:59 |
-| 49 | [WISH I NEVER KNEW YOU](https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WISH I NEVER KNEW YOU](https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp) | 2:59 |
-| 50 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
+| 49 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
+| 50 | [WISH I NEVER KNEW YOU](https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WISH I NEVER KNEW YOU](https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp) | 2:59 |
 | 51 | [Death Wish](https://open.spotify.com/track/3N3TknnMTUNcbHT1gOLYIW) | [So Tuff So Cute](https://open.spotify.com/artist/1PaF0WJCG5MLAoOv5xSWeR), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Death Wish](https://open.spotify.com/album/0HU0ivC4hwEbYATlSdsA8S) | 2:31 |
 | 52 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 |
 | 53 | [punk chick](https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [punk chick](https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p) | 3:08 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 57 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 |
 | 58 | [Voodoo Magic](https://open.spotify.com/track/6y4iXEu64IYdEcNSV0ZH5R) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Voodoo Magic](https://open.spotify.com/album/6yLKy8bef0WCPhEv7UAL0Q) | 2:44 |
 | 59 | [MOTHERFUCKER](https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [MOTHERFUCKER](https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt) | 1:02 |
-| 60 | [Leash](https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Leash](https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ) | 2:42 |
-| 61 | [Leaders](https://open.spotify.com/track/4vABLb1SmE92opkxAyHSOS) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd) | 2:28 |
+| 60 | [Leaders](https://open.spotify.com/track/4vABLb1SmE92opkxAyHSOS) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd) | 2:28 |
+| 61 | [Leash](https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Leash](https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ) | 2:42 |
 | 62 | [Bloom](https://open.spotify.com/track/1h1R6w7C5PTYO5spKVvgJm) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 3:50 |
 | 63 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
 | 64 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 76 | [It's Permanent](https://open.spotify.com/track/3OGkTlzC4Se6z6e9eEwMOt) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/1UgBF6FuYhQnnKPuPnxbVD) | 3:32 |
 | 77 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
 | 78 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
-| 79 | [for a reason](https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz) | [plxntkid](https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY) | [for a reason](https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389) | 2:15 |
-| 80 | [stupid bitch](https://open.spotify.com/track/77wru6MqUYACgY74Lgp3Ti) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:45 |
+| 79 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 |
+| 80 | [for a reason](https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz) | [plxntkid](https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY) | [for a reason](https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389) | 2:15 |
 
-Snapshot ID: `MCwxMzQ1NGQwZWZhNzZkMWQyNzBlZDFlMDliNjg0ZWRhZDVmZThkODNi`
+Snapshot ID: `MCwwY2EyOGQxYzI4NzMyNTQ1ZWY5MTYyOTljMjEzYjJhZWY4ZGY0Yjdk`

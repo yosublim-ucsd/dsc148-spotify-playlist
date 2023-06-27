@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ATEEZ
 
-624 songs - 1 day 10 hr 18 min
+626 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-23 | 2022-05-17 |
 | [ELEVEN \-Japanese version\-](https://open.spotify.com/track/0KQvYf5R5HlASf0yyGnPKS) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/1tP7SiJE8uQ7fs2LQaPDbP) | 2:58 | 2022-09-18 | 2022-12-07 |
 | [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-03-28 | 2023-06-02 |
+| [EXCEL](https://open.spotify.com/track/0hPbVp26JuqHo0N3JPvdDZ) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [UNCHARTED DRIFT](https://open.spotify.com/album/61W392PxSk764yUZnI8eyR) | 2:50 | 2023-06-27 |  |
 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-03-10 |  |
 | [Eye On You](https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Obsession](https://open.spotify.com/album/7KgsAlBnzkH1vyYluTUtUd) | 3:06 | 2022-02-15 | 2022-04-06 |
 | [Fairytale](https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 2:52 | 2022-06-21 | 2022-09-07 |
@@ -236,6 +237,7 @@
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2022-12-29 | 2023-03-29 |
 | [HANA MICHI](https://open.spotify.com/track/6Ype063HsGKF7AholzHRFh) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [HANA MICHI](https://open.spotify.com/album/4rHAamZcFkv1pnv2FHKua4) | 3:44 | 2023-03-14 | 2023-03-22 |
 | [Happy Death Day](https://open.spotify.com/track/6IU2u7AKUffdmcbYPK9YR1) | [Xdinary Heroes](https://open.spotify.com/artist/5FgP85u2BR2WFWhMz959es) | [Happy Death Day](https://open.spotify.com/album/3sQhbas4eoH7l38Uy0ZJ3z) | 3:40 | 2021-12-23 | 2022-02-16 |
+| [HARD](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [HARD \- The 8th Album](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) | 2:56 | 2023-06-27 |  |
 | [Hare Hare](https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh) | 3:23 | 2023-05-11 |  |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-28 | 2022-09-21 |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-23 | 2022-02-16 |
@@ -498,7 +500,7 @@
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/2Lbm5t65FUtpXjndFNVWZV) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [chrOme arts](https://open.spotify.com/album/2XqahvdUBZLfZbRUUnWoYW) | 3:12 | 2023-02-14 | 2023-03-29 |
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/2aEaANMWZTYDzg8wdz2e0m) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [suit dance \(Japanese ver.\)](https://open.spotify.com/album/0xsdoBSLMROCUzZLit3W01) | 3:12 | 2022-05-10 | 2023-02-16 |
 | [Summer Night](https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Summer Strike, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF) | 4:28 | 2022-11-24 | 2023-01-25 |
-| [Sunny Road](https://open.spotify.com/track/1T6WV7LI5pfa61PjOVGUGM) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sunny Road](https://open.spotify.com/album/6hKjTW2iYx2CyWUqUfP0Kz) | 3:21 | 2023-04-24 |  |
+| [Sunny Road](https://open.spotify.com/track/1T6WV7LI5pfa61PjOVGUGM) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sunny Road](https://open.spotify.com/album/6hKjTW2iYx2CyWUqUfP0Kz) | 3:21 | 2023-04-24 | 2023-06-27 |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-24 |  |
 | [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-06 | 2022-11-01 |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-06-16 | 2022-08-24 |
@@ -590,7 +592,7 @@
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-02 | 2022-12-19 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 | 2022-12-16 |  |
 | [WILDSIDE](https://open.spotify.com/track/4RmEqYXrb89Mlwzm2p6Wyd) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Bloom](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) | 3:49 | 2022-03-29 | 2022-07-23 |
-| [Wind And Wish](https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:41 | 2023-05-02 |  |
+| [Wind And Wish](https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:41 | 2023-05-02 | 2023-06-27 |
 | [Wing Wing](https://open.spotify.com/track/1aWBbJI4wxnDNqQjbsaPFd) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:15 | 2022-09-06 | 2023-01-13 |
 | [Wing Wing](https://open.spotify.com/track/1uKI4JKUIUJC0aXJqKCl6y) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Wing Wing](https://open.spotify.com/album/4SJ6tb6ajzNrmLY5w92XyD) | 3:15 | 2022-08-03 | 2022-09-07 |
 | [With You](https://open.spotify.com/track/0O53SxVLSJ7v2xWOwZiS9w) | [B/ue](https://open.spotify.com/artist/6Hcc2Fny1noBc4YGVMQTze) | [With You](https://open.spotify.com/album/2Nw4hG9JHeAaj8AkFSBPYG) | 3:15 | 2021-12-23 | 2022-01-22 |

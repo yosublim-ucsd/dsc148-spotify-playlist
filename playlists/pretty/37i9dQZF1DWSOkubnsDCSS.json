@@ -1,12 +1,12 @@
 {
   "description": "Keeping it 140 - Welcome to Grime Shutdown. Cover: Sir Spyro\ud83d\udc51 ",
-  "num_followers": 747018,
+  "num_followers": 747006,
   "original_name": "Grime Shutdown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTI2YTBkMjhjMmE0MTVkYmFlYzhlNzAyY2FmOTk3OTM0ZGFmZjI5",
+  "snapshot_id": "MCxkNjc3MjY0MTIzOTRhZWY3YThiODQzY2IwMmRhZGRkN2UzYmQ2ZWUy",
   "tracks": [
     {
       "added_at": "2023-05-24 16:29:52",
@@ -339,22 +339,22 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
+        "name": "Sorry I'm Not Sorry",
+        "url": "https://open.spotify.com/album/6oA2zIq7PK3XtfTsJ3yYZr"
       },
       "artists": [
         {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
         },
         {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
+      "duration_ms": 214042,
+      "name": "Sorry I'm Not Sorry",
+      "url": "https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/1JmxywVSSWS6RCBd7avdRO"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 187445,
       "name": "Eyes on Me",
       "url": "https://open.spotify.com/track/17yRlMLWjrw82aWpJItT9A"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
-        "name": "Hurdy Gurdy",
-        "url": "https://open.spotify.com/album/1ItO2nu3ZQ5OwyLQ1bO7p2"
-      },
-      "artists": [
-        {
-          "name": "Big Narstie",
-          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
-        },
-        {
-          "name": "Sir Spyro",
-          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
-        }
-      ],
-      "duration_ms": 158303,
-      "name": "Hurdy Gurdy",
-      "url": "https://open.spotify.com/track/7GH67OAu6ng75GGCUaSgGh"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -439,22 +439,22 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "Sorry I'm Not Sorry",
-        "url": "https://open.spotify.com/album/6oA2zIq7PK3XtfTsJ3yYZr"
+        "name": "Hurdy Gurdy",
+        "url": "https://open.spotify.com/album/1ItO2nu3ZQ5OwyLQ1bO7p2"
       },
       "artists": [
         {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+          "name": "Big Narstie",
+          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
         },
         {
-          "name": "Whiney",
-          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
         }
       ],
-      "duration_ms": 214042,
-      "name": "Sorry I'm Not Sorry",
-      "url": "https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx"
+      "duration_ms": 158303,
+      "name": "Hurdy Gurdy",
+      "url": "https://open.spotify.com/track/7GH67OAu6ng75GGCUaSgGh"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "The Familiar Stranger",
-        "url": "https://open.spotify.com/album/2wIVGAaTdqqc7OsOkCUfih"
-      },
-      "artists": [
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Sleepless Nights",
-      "url": "https://open.spotify.com/track/7xxekz2l6IJQkoWBYCPcxT"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
         "name": "E3 AF",
         "url": "https://open.spotify.com/album/78prqMEFoQ6AKyDN8DEtqI"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 211986,
       "name": "Don't Be Dumb",
       "url": "https://open.spotify.com/track/77bDkxiH9316mW6JGYNoon"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
+        "name": "The Familiar Stranger",
+        "url": "https://open.spotify.com/album/2wIVGAaTdqqc7OsOkCUfih"
+      },
+      "artists": [
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Sleepless Nights",
+      "url": "https://open.spotify.com/track/7xxekz2l6IJQkoWBYCPcxT"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -551,6 +551,38 @@
       "duration_ms": 189295,
       "name": "Dem Dead",
       "url": "https://open.spotify.com/track/6jHCfQOdWimQYKYsbeKaAo"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
+        "name": "Untraditional EP",
+        "url": "https://open.spotify.com/album/6cH71f3wPxyGXR264z7daA"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Silencer",
+          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
+        },
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 249926,
+      "name": "Stuttering",
+      "url": "https://open.spotify.com/track/0250N0i7iejMeIKvXOsT5M"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -615,38 +647,6 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "Untraditional EP",
-        "url": "https://open.spotify.com/album/6cH71f3wPxyGXR264z7daA"
-      },
-      "artists": [
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Silencer",
-          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
-        },
-        {
-          "name": "Chip",
-          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
-        },
-        {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        }
-      ],
-      "duration_ms": 249926,
-      "name": "Stuttering",
-      "url": "https://open.spotify.com/track/0250N0i7iejMeIKvXOsT5M"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
         "name": "Quest for Coin II",
         "url": "https://open.spotify.com/album/3e5vMNSNvMfxHfaJPFgAOz"
       },
@@ -691,6 +691,30 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
+        "name": "This Year",
+        "url": "https://open.spotify.com/album/0wKRGkM4qZakqP4aIStBWW"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Silencer",
+          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
+        },
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/7d1uejzLK3gh4usemwN9kS"
+        }
+      ],
+      "duration_ms": 178638,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/5XGGP9WDvBAXlyf7r3g3Tu"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr"
       },
@@ -703,26 +727,6 @@
       "duration_ms": 163750,
       "name": "Black",
       "url": "https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
-        "name": "Don",
-        "url": "https://open.spotify.com/album/2tGK7RMSxamEDszAudslu9"
-      },
-      "artists": [
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 178751,
-      "name": "Don",
-      "url": "https://open.spotify.com/track/2IpgY875kETOlXmmIhp8hj"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -759,6 +763,26 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
+        "name": "Don",
+        "url": "https://open.spotify.com/album/2tGK7RMSxamEDszAudslu9"
+      },
+      "artists": [
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 178751,
+      "name": "Don",
+      "url": "https://open.spotify.com/track/2IpgY875kETOlXmmIhp8hj"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/6Sr7SYIUIKEIILHtyAnG4s"
       },
@@ -771,30 +795,6 @@
       "duration_ms": 155124,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/52aUPdSO9GbTmcLxGiSTnE"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
-        "name": "This Year",
-        "url": "https://open.spotify.com/album/0wKRGkM4qZakqP4aIStBWW"
-      },
-      "artists": [
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Silencer",
-          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
-        },
-        {
-          "name": "Tobi",
-          "url": "https://open.spotify.com/artist/7d1uejzLK3gh4usemwN9kS"
-        }
-      ],
-      "duration_ms": 178638,
-      "name": "This Year",
-      "url": "https://open.spotify.com/track/5XGGP9WDvBAXlyf7r3g3Tu"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "No Celebrations EP",
-        "url": "https://open.spotify.com/album/5i2fTMDge5lHM9RtLFrcLT"
-      },
-      "artists": [
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        },
-        {
-          "name": "Abstrakt Sonance",
-          "url": "https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Come From",
-      "url": "https://open.spotify.com/track/7dmlWyfECfsgQ9OFTVPejU"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
         "name": "Manny Way",
         "url": "https://open.spotify.com/album/5wiiDapuFXlGUHrm0h1OQo"
       },
@@ -1171,6 +1151,26 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
+        "name": "No Celebrations EP",
+        "url": "https://open.spotify.com/album/5i2fTMDge5lHM9RtLFrcLT"
+      },
+      "artists": [
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Abstrakt Sonance",
+          "url": "https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Come From",
+      "url": "https://open.spotify.com/track/7dmlWyfECfsgQ9OFTVPejU"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
         "name": "Streets of Rage",
         "url": "https://open.spotify.com/album/4FBAK6ZKG1HTBAD9kt4dXl"
       },
@@ -1191,38 +1191,6 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "Man in Meridian",
-        "url": "https://open.spotify.com/album/5FnZx8CDt31zZy5vVhzK4m"
-      },
-      "artists": [
-        {
-          "name": "Jme",
-          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
-        },
-        {
-          "name": "Bossman Birdie",
-          "url": "https://open.spotify.com/artist/13sqxAHntdRq2aWVbuYmSg"
-        },
-        {
-          "name": "Paper Pabs",
-          "url": "https://open.spotify.com/artist/3ibOrGQsnZMfmQUSFDrdLl"
-        },
-        {
-          "name": "President T",
-          "url": "https://open.spotify.com/artist/1jVgvfKynkRWY4SymwtOBS"
-        },
-        {
-          "name": "Big H",
-          "url": "https://open.spotify.com/artist/5bPMrj2JeYuaAqA807hw7I"
-        }
-      ],
-      "duration_ms": 285255,
-      "name": "Man in Meridian",
-      "url": "https://open.spotify.com/track/2kr904XjBkf3RivRwXZxc0"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
         "name": "Natural Selection",
         "url": "https://open.spotify.com/album/2I0Lqygik10fWi5BDmUupM"
       },
@@ -1239,26 +1207,6 @@
       "duration_ms": 152973,
       "name": "Ain't the Same",
       "url": "https://open.spotify.com/track/6oz38aJXDWYpIPTtSilYYE"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
-        "name": "Gridlock",
-        "url": "https://open.spotify.com/album/2IQnBlvVYriEHdktWKPoHU"
-      },
-      "artists": [
-        {
-          "name": "Eyez",
-          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
-        },
-        {
-          "name": "Zdot",
-          "url": "https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Gridlock",
-      "url": "https://open.spotify.com/track/3P2hQR4co5NaqnbHuX2eJo"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1303,6 +1251,38 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
+        "name": "Man in Meridian",
+        "url": "https://open.spotify.com/album/5FnZx8CDt31zZy5vVhzK4m"
+      },
+      "artists": [
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Bossman Birdie",
+          "url": "https://open.spotify.com/artist/13sqxAHntdRq2aWVbuYmSg"
+        },
+        {
+          "name": "Paper Pabs",
+          "url": "https://open.spotify.com/artist/3ibOrGQsnZMfmQUSFDrdLl"
+        },
+        {
+          "name": "President T",
+          "url": "https://open.spotify.com/artist/1jVgvfKynkRWY4SymwtOBS"
+        },
+        {
+          "name": "Big H",
+          "url": "https://open.spotify.com/artist/5bPMrj2JeYuaAqA807hw7I"
+        }
+      ],
+      "duration_ms": 285255,
+      "name": "Man in Meridian",
+      "url": "https://open.spotify.com/track/2kr904XjBkf3RivRwXZxc0"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
         "name": "Bout Dis",
         "url": "https://open.spotify.com/album/6qc3p8JJZmvxciKnXVvQPi"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 134492,
       "name": "Practice Hours",
       "url": "https://open.spotify.com/track/2FNTTRzgtuNa8enntR4ed8"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
+        "name": "Gridlock",
+        "url": "https://open.spotify.com/album/2IQnBlvVYriEHdktWKPoHU"
+      },
+      "artists": [
+        {
+          "name": "Eyez",
+          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
+        },
+        {
+          "name": "Zdot",
+          "url": "https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "Gridlock",
+      "url": "https://open.spotify.com/track/3P2hQR4co5NaqnbHuX2eJo"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1407,38 +1407,6 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "Don't Sleep",
-        "url": "https://open.spotify.com/album/210WQBM6ShQnE48Hc60vIf"
-      },
-      "artists": [
-        {
-          "name": "Nick Brewer",
-          "url": "https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR"
-        }
-      ],
-      "duration_ms": 141020,
-      "name": "Don't Sleep",
-      "url": "https://open.spotify.com/track/7vJrXwaewbnv93z5h1Sjvo"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
-        "name": "Joe Pesci / Doughnuts",
-        "url": "https://open.spotify.com/album/1HPWj0bo30la2ngAtMOypU"
-      },
-      "artists": [
-        {
-          "name": "Meridian Dan",
-          "url": "https://open.spotify.com/artist/5UhqlN0em1N4hDjegJD1Lg"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Joe Pesci",
-      "url": "https://open.spotify.com/track/56yZtjgHz1DQLQhcMhhHET"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/3X27dycBEUDBgYduIUvo8i"
       },
@@ -1463,6 +1431,38 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
+        "name": "Joe Pesci / Doughnuts",
+        "url": "https://open.spotify.com/album/1HPWj0bo30la2ngAtMOypU"
+      },
+      "artists": [
+        {
+          "name": "Meridian Dan",
+          "url": "https://open.spotify.com/artist/5UhqlN0em1N4hDjegJD1Lg"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "Joe Pesci",
+      "url": "https://open.spotify.com/track/56yZtjgHz1DQLQhcMhhHET"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
+        "name": "Don't Sleep",
+        "url": "https://open.spotify.com/album/210WQBM6ShQnE48Hc60vIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Brewer",
+          "url": "https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR"
+        }
+      ],
+      "duration_ms": 141020,
+      "name": "Don't Sleep",
+      "url": "https://open.spotify.com/track/7vJrXwaewbnv93z5h1Sjvo"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
         "name": "Natural Selection",
         "url": "https://open.spotify.com/album/2I0Lqygik10fWi5BDmUupM"
       },
@@ -1483,22 +1483,6 @@
       "duration_ms": 153954,
       "name": "Built This City",
       "url": "https://open.spotify.com/track/3ZmuVItqDKeF5kFKzutmtn"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
-        "name": "Country Bars",
-        "url": "https://open.spotify.com/album/1QT1zZyE4f2IUV9gkPr7ll"
-      },
-      "artists": [
-        {
-          "name": "Eyez",
-          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Country Bars",
-      "url": "https://open.spotify.com/track/6Ili2nj6S2wqkVka77EiLU"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1559,6 +1543,22 @@
       "duration_ms": 197616,
       "name": "Serious 2020",
       "url": "https://open.spotify.com/track/2U9g1MRlCzXLUL0LhRkYyl"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
+        "name": "Country Bars",
+        "url": "https://open.spotify.com/album/1QT1zZyE4f2IUV9gkPr7ll"
+      },
+      "artists": [
+        {
+          "name": "Eyez",
+          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Country Bars",
+      "url": "https://open.spotify.com/track/6Ili2nj6S2wqkVka77EiLU"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-05-24 16:29:52",
       "album": {
-        "name": "Bars - EP",
-        "url": "https://open.spotify.com/album/2PGUpCZFixpr34VpXJIWM0"
-      },
-      "artists": [
-        {
-          "name": "Eyez",
-          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
-        }
-      ],
-      "duration_ms": 178741,
-      "name": "Car Bars",
-      "url": "https://open.spotify.com/track/6QGQjFvpFeGrHLslKKgcAP"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
         "name": "No Celebrations EP",
         "url": "https://open.spotify.com/album/5i2fTMDge5lHM9RtLFrcLT"
       },
@@ -1667,26 +1651,6 @@
       "duration_ms": 182164,
       "name": "Banging Like a 45",
       "url": "https://open.spotify.com/track/4z2ykwvDMnBcruS6uIibo6"
-    },
-    {
-      "added_at": "2023-05-24 16:29:52",
-      "album": {
-        "name": "Dumping Again",
-        "url": "https://open.spotify.com/album/0ucKLP8cWG5LRx86oy7O9v"
-      },
-      "artists": [
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        },
-        {
-          "name": "Footsie",
-          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Dumping Again",
-      "url": "https://open.spotify.com/track/6bWVnf258N4eOn1NcOZFhs"
     },
     {
       "added_at": "2023-05-24 16:29:52",
@@ -1735,6 +1699,50 @@
       "duration_ms": 57391,
       "name": "Frisco's Pattern",
       "url": "https://open.spotify.com/track/5tMrhoLH1HwcWKZaOKT33G"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
+        "name": "Bruce Wayne",
+        "url": "https://open.spotify.com/album/4RWlNFRhJ1TJCpipr7WYt7"
+      },
+      "artists": [
+        {
+          "name": "Suspect OTB",
+          "url": "https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "duration_ms": 279429,
+      "name": "Bruce Wayne",
+      "url": "https://open.spotify.com/track/316fCLEpkEZKqaeaXIKwNf"
+    },
+    {
+      "added_at": "2023-05-24 16:29:52",
+      "album": {
+        "name": "First Treatment",
+        "url": "https://open.spotify.com/album/1ymQOeEWMimK270zDy4AzX"
+      },
+      "artists": [
+        {
+          "name": "Silencer",
+          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "duration_ms": 171437,
+      "name": "Tell Me I'm Lying",
+      "url": "https://open.spotify.com/track/352E3vzJb0sianP2JMRqyP"
     }
   ],
   "unique_name": "Grime Shutdown",

@@ -4,7 +4,7 @@
 
 > Music that makes you feel like you're levitating.
 
-333 songs - 21 hr 8 min
+334 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 | 2022-07-01 | 2023-06-13 |
 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 | 2021-12-29 |  |
 | [LULLABY](https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 4:39 | 2023-03-10 | 2023-03-18 |
+| [Make It](https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa) | 1:17 | 2023-06-16 |  |
 | [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-05-18 | 2022-10-14 |
 | [Me and Your Mama](https://open.spotify.com/track/4AFsRbaLKRWo3dDtjDFA2V) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 6:19 | 2022-09-15 |  |
 | [Medicine](https://open.spotify.com/track/15PQ1AVMbWalxyPJbI1fYi) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/3shKIYIXSdDc2yXETvrGPK) | 3:15 | 2022-06-03 | 2022-06-22 |
@@ -334,7 +335,7 @@
 | [Wolves](https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:01 | 2021-12-16 | 2022-04-14 |
 | [worldstar money \(interlude\)](https://open.spotify.com/track/0baNzeUcPQnQSagpe8T0mD) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [In Tongues \(Deluxe\)](https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ) | 2:06 | 2022-12-16 |  |
 | [WORTH IT](https://open.spotify.com/track/2agJG5mKBoOL8uojjKQvCD) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 2:44 | 2022-03-11 | 2022-07-29 |
-| [Worth the Wait \(feat\. Omar Apollo\)](https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:30 | 2023-03-03 |  |
+| [Worth the Wait \(feat\. Omar Apollo\)](https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:30 | 2023-03-03 | 2023-06-27 |
 | [Wurli](https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:30 | 2022-05-18 | 2023-04-27 |
 | [Yeah \- bonus](https://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 5:04 | 2021-12-16 | 2022-07-29 |
 | [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 | 2023-03-29 |  |

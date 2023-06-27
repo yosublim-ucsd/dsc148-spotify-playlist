@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Monsieur Perin\u00e9",
-  "num_followers": 68776,
+  "num_followers": 68820,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzgzN2UyZjU3YjE1NDU0YWZiNjY0MjRhMTllMjMyNzJkNmYzZTg2",
+  "snapshot_id": "MCwwMjVmYmNkNDY5YWE4NDhjNDRmMWY0NDc5YzUzYmZjZGFjZTgyYmY1",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -239,74 +239,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Lo Hice, Te Dej\u00e9",
-        "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 186730,
-      "name": "Lo Hice, Te Dej\u00e9",
-      "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Sesi\u00f3n Jeanette",
-        "url": "https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "El Muchacho de los Ojos Tristes - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "A la Mar",
-        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Dulcito e Coco",
-      "url": "https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Tesoro",
-        "url": "https://open.spotify.com/album/7135vNimUAz5hmePw0CbVp"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        },
-        {
-          "name": "Carol C",
-          "url": "https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A"
-        }
-      ],
-      "duration_ms": 213947,
-      "name": "Tesoro",
-      "url": "https://open.spotify.com/track/1Wakq6TJMEZGCJ99xW23lU"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Grecia",
         "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
@@ -327,6 +259,58 @@
       "duration_ms": 200118,
       "name": "Grecia",
       "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Sesi\u00f3n Jeanette",
+        "url": "https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "El Muchacho de los Ojos Tristes - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Lo Hice, Te Dej\u00e9",
+        "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 186730,
+      "name": "Lo Hice, Te Dej\u00e9",
+      "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Tesoro",
+        "url": "https://open.spotify.com/album/7135vNimUAz5hmePw0CbVp"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        },
+        {
+          "name": "Carol C",
+          "url": "https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A"
+        }
+      ],
+      "duration_ms": 213947,
+      "name": "Tesoro",
+      "url": "https://open.spotify.com/track/1Wakq6TJMEZGCJ99xW23lU"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -379,6 +363,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Dulcito e Coco",
+      "url": "https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
         "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 259586,
       "name": "Alma M\u00eda (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
-      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -467,6 +451,22 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
+      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -539,26 +539,6 @@
       "duration_ms": 261958,
       "name": "Si T\u00fa Me Quisieras",
       "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 209652,
-      "name": "Diez Pasos Hacia Ti",
-      "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -667,8 +647,8 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
       "artists": [
         {
@@ -676,13 +656,13 @@
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+      "duration_ms": 209652,
+      "name": "Diez Pasos Hacia Ti",
+      "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -847,6 +827,26 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2023-06-09 04:00:00",

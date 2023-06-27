@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Indigo De Souza
 
-352 songs - 21 hr 20 min
+353 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Crystal Ball](https://open.spotify.com/track/5ss3wJBeekHuiFyGKqdzhz) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [Edge Of Time](https://open.spotify.com/album/0c4suoLZVkKVYDTsXtKANs) | 4:07 | 2022-04-01 | 2022-07-17 |
 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 | 2022-05-20 |  |
 | [damn](https://open.spotify.com/track/7b65panSasCPOujs0KQ9bQ) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [damn](https://open.spotify.com/album/11TthQBZYjLQWEO544pC3y) | 4:21 | 2021-11-14 | 2022-07-29 |
+| [Dear Arkansas Daughter](https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [After](https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8) | 5:52 | 2023-06-26 |  |
 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 | 2021-11-14 | 2022-07-29 |
 | [Destroyer](https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [The Lamb](https://open.spotify.com/album/3gu8vRNBovoMdF82JLGvFL) | 3:12 | 2022-05-20 |  |
 | [Destroyer](https://open.spotify.com/track/4V7NFI2JLLJcZnGgJpIYXQ) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [The Lamb](https://open.spotify.com/album/5GFULjIyZ5Yf02OE2sKrPJ) | 3:12 | 2021-11-14 | 2022-07-26 |
@@ -200,7 +201,7 @@
 | [Lydia Wears A Cross](https://open.spotify.com/track/3790YaBSLe4av6IuC7EKSJ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Lydia Wears A Cross](https://open.spotify.com/album/555w7gNIX1GdiNMNUj9qpZ) | 4:01 | 2022-05-20 | 2022-11-27 |
 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 | 2022-10-07 |  |
 | [Lydia Wears A Cross](https://open.spotify.com/track/5qRm3dQteQORvgsK7QkM6N) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:01 | 2022-10-07 | 2022-12-01 |
-| [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 | 2021-11-14 |  |
+| [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 | 2021-11-14 | 2023-06-27 |
 | [Maps](https://open.spotify.com/track/4g5OxMb78e7GdHUdjxIplK) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Maps / Country](https://open.spotify.com/album/0M8c1kEUcKhN5pPz4Vv0Rw) | 3:27 | 2023-04-28 |  |
 | [Medicine](https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 4:14 | 2023-01-27 |  |
 | [Medicine](https://open.spotify.com/track/6P35XBAEzdCPgbMuP49cxC) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Medicine](https://open.spotify.com/album/7f7bav5WirOo4GctDwQ7tp) | 4:14 | 2022-01-18 | 2023-01-27 |

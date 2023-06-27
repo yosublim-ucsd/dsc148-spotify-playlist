@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 144021,
       "name": "Agujeros Blancos",
       "url": "https://open.spotify.com/track/7IqNYA6InoqletEJBVrgnm"
@@ -3786,6 +3786,28 @@
       "duration_ms": 289502,
       "name": "Resiliencia",
       "url": "https://open.spotify.com/track/1sYbjIz5jBAqE8n9nbdDDI"
+    },
+    {
+      "album": {
+        "name": "Ramas",
+        "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289502,
+      "name": "Resiliencia",
+      "url": "https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd"
     },
     {
       "album": {

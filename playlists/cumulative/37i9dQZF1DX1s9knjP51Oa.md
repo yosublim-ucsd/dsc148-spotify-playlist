@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-689 songs - 1 day 5 hr 31 min
+691 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Song](https://open.spotify.com/track/3AliQT2GgiDBN16poZPdG2) | [Rui Massena](https://open.spotify.com/artist/1HEmRu6376oTlFuWxq0CPp) | [A SONG](https://open.spotify.com/album/0o1ViMvah6YyVPO86dGoiH) | 2:20 | 2021-12-13 | 2023-01-10 |
 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 | 2022-11-11 |  |
 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 | 2023-05-09 |  |
-| [a wild place](https://open.spotify.com/track/2UJttBzaAe8bCjuNSIi35b) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [a wild place](https://open.spotify.com/album/7jtVVSZJFsOQ016fmO7Dbr) | 2:06 | 2023-04-03 |  |
+| [a wild place](https://open.spotify.com/track/2UJttBzaAe8bCjuNSIi35b) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [a wild place](https://open.spotify.com/album/7jtVVSZJFsOQ016fmO7Dbr) | 2:06 | 2023-04-03 | 2023-06-27 |
 | [Abode](https://open.spotify.com/track/49a2PByrGqVmdCktGMZwgc) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Abode](https://open.spotify.com/album/5hB88sg8OswH5mzNJ3Pixr) | 2:29 | 2022-09-23 |  |
 | [Ache](https://open.spotify.com/track/4dd7mReOYiKAYjAEkNUTLD) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Ache](https://open.spotify.com/album/32HmaNE93uxhghyiJFIZmP) | 2:24 | 2021-12-13 | 2022-10-14 |
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-01-20 |  |
@@ -46,7 +46,7 @@
 | [Answer](https://open.spotify.com/track/1FlBxmsJyCXMViFVNYFHv4) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Answer](https://open.spotify.com/album/6ybiMzz4uGQeMpUrObHltb) | 2:21 | 2022-10-24 |  |
 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 | 2021-12-13 |  |
 | [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 | 2022-12-21 |  |
-| [April Sun](https://open.spotify.com/track/3oOUb7QryUQhLv2ZpLPSI8) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [April Sun](https://open.spotify.com/album/22115bOHkvjGPk8jNCtDFM) | 2:08 | 2021-12-13 |  |
+| [April Sun](https://open.spotify.com/track/3oOUb7QryUQhLv2ZpLPSI8) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [April Sun](https://open.spotify.com/album/22115bOHkvjGPk8jNCtDFM) | 2:08 | 2021-12-13 | 2023-06-27 |
 | [Aquaterra](https://open.spotify.com/track/1eSt1uhXWcriWYOGZahU9i) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Aquaterra](https://open.spotify.com/album/4c1657shPbX080yozrcKuk) | 2:07 | 2023-01-27 |  |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-02-15 |  |
 | [Arabesca](https://open.spotify.com/track/2fnmga0QCLLsPW8Es5o29r) | [Neal Robinett](https://open.spotify.com/artist/0oHaKHnMtcLtrBkqZhb2sX) | [Arabesca](https://open.spotify.com/album/3PPAPtSQVgEtl06ev5gUea) | 3:14 | 2021-12-13 | 2022-05-27 |
@@ -176,7 +176,7 @@
 | [Elixir](https://open.spotify.com/track/0kCN1NYNHTB39vgjcv7Sqx) | [Nia Glynn](https://open.spotify.com/artist/6qHUfCJ0xqPOXDYb3Vg1FM) | [Elixir](https://open.spotify.com/album/56s40KLEPYSTnC8J5w30di) | 2:27 | 2021-12-13 | 2022-01-05 |
 | [Ember Walk](https://open.spotify.com/track/7Iq0ZUPmHIqREIW6YW1MY8) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Ember Walk](https://open.spotify.com/album/5zvCB2Y4vMviQhVQt3iKFL) | 1:49 | 2022-10-24 |  |
 | [Embrace Me](https://open.spotify.com/track/4XcCAB5G21D6BZzobQBZMw) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Embrace Me](https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt) | 2:36 | 2023-02-20 |  |
-| [Emerald Enlightenment](https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [Emerald Enlightenment](https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W) | 1:39 | 2023-01-20 |  |
+| [Emerald Enlightenment](https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [Emerald Enlightenment](https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W) | 1:39 | 2023-01-20 | 2023-06-27 |
 | [Emerald of the East](https://open.spotify.com/track/6fo9G6qHkya3qFKRi5ujkp) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Emerald of the East](https://open.spotify.com/album/15h7O9HdnXjMmFgbDGggEh) | 1:59 | 2023-05-19 |  |
 | [Emergence](https://open.spotify.com/track/31euvr3EhfWo8GbsVVsQjy) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Emergence](https://open.spotify.com/album/1PDA8OAoJh0JIuVmuoxWuC) | 2:06 | 2023-03-06 |  |
 | [Emonissimo](https://open.spotify.com/track/03IzOl7tIIWczFpkzCRH7D) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [Emonissimo](https://open.spotify.com/album/6aTWuy5fxiHYQCwAT7Q3Mp) | 1:22 | 2023-01-20 |  |
@@ -629,7 +629,7 @@
 | [Tuning the Picture](https://open.spotify.com/track/16bkyOOqnn6SDXjpQyqBhh) | [Allison Stuart](https://open.spotify.com/artist/16ZEUWmdIWUGPIuYKDb9MV) | [Tuning the Picture](https://open.spotify.com/album/1H0yb40JbDayKijQBsjKu0) | 2:56 | 2021-12-13 | 2022-07-22 |
 | [Twilight](https://open.spotify.com/track/7hpSoEf1bBMtJyFiq8xQyp) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Twilight](https://open.spotify.com/album/6hBL1pAhn1Te6ItsvVrZyQ) | 2:08 | 2023-03-13 |  |
 | [Two Brothers](https://open.spotify.com/track/65vrUrnH4gGDVo29SKxe0A) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Two Brothers](https://open.spotify.com/album/5EciG1P3aFygODvWHul3xx) | 2:00 | 2023-03-06 |  |
-| [Two Steps Forward](https://open.spotify.com/track/63YGmJOvR3ARYmWmR5e0hz) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Two Steps Forward](https://open.spotify.com/album/0uEBYJqMCvg6NXkwOYIYHz) | 2:26 | 2021-12-13 |  |
+| [Two Steps Forward](https://open.spotify.com/track/63YGmJOvR3ARYmWmR5e0hz) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Two Steps Forward](https://open.spotify.com/album/0uEBYJqMCvg6NXkwOYIYHz) | 2:26 | 2021-12-13 | 2023-06-27 |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-02-15 |  |
 | [Una Flor](https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Una Flor](https://open.spotify.com/album/2RXROsgEvnUi8nZdmGhIfJ) | 1:49 | 2022-11-21 |  |
 | [Unbroken](https://open.spotify.com/track/0sYYa0fs1PVKGyceC2QEP4) | [William Heller](https://open.spotify.com/artist/0bblIjmXpe2k574egtCQnr) | [Unbroken](https://open.spotify.com/album/3Mxgp3hM0MrIQN8iIoDPJG) | 2:34 | 2021-12-13 | 2022-09-24 |
@@ -667,6 +667,8 @@
 | [Waves](https://open.spotify.com/track/3fQkbH0ruZuTFHcvuejlZh) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Waves](https://open.spotify.com/album/1CP8VTjmGieZWmYPGwkVjU) | 3:04 | 2021-12-13 | 2022-09-13 |
 | [Weightless](https://open.spotify.com/track/3yXQyJLMVElujd88Gt4fAf) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Weightless](https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s) | 2:18 | 2022-01-04 | 2022-12-22 |
 | [What It Should Look Like](https://open.spotify.com/track/6rWa5bTCCZQIv0qKekqhnC) | [Tom Leaman](https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l) | [What It Should Look Like](https://open.spotify.com/album/5G0e17YDqhmji8KqFhGUZ7) | 2:02 | 2022-08-09 |  |
+| [Whatever Will Be](https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Whatever Will Be](https://open.spotify.com/album/1lQs3tvAI1Sqh2kPAnCR56) | 1:52 | 2023-06-26 |  |
+| [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 | 2023-06-26 |  |
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2021-12-13 | 2022-11-12 |
 | [When We Dance](https://open.spotify.com/track/1XkTvyqh9ECRpqwbnxoZCv) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [When We Dance](https://open.spotify.com/album/7EX5b7L0MzsxnOF5mluc2C) | 2:37 | 2021-12-13 | 2023-01-21 |
 | [When We Go Walking](https://open.spotify.com/track/18NGWsACj7kLOwiUvUVSux) | [Randy Oppenheim](https://open.spotify.com/artist/6obM7znnjdS04ci0REuXyT) | [When We Go Walking](https://open.spotify.com/album/5itqXfUI69UzAZXpXLpN0K) | 2:05 | 2022-11-11 |  |

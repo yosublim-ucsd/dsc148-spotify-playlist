@@ -1,12 +1,12 @@
 {
   "description": "celebre seu dia no maior astral! ",
-  "num_followers": 1469237,
+  "num_followers": 1469332,
   "original_name": "Tenha um \u00d3timo Dia!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjJiNmFmZWM1ZjBmZTBlNGZlMzJlZTY4ZjRiYmI4ZDk3MDYxM2My",
+  "snapshot_id": "MCxjYWIzNTE1ZjEyYTdhODJjZmI3ZTBhZDUwNzQzOTc4MmNmMmM2ZDFj",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -143,22 +143,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -183,18 +179,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 204750,
-      "name": "Charm",
-      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197546,
-      "name": "God is a woman",
-      "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "7 EP",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 157066,
       "name": "Old Town Road - Remix",
       "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197546,
+      "name": "God is a woman",
+      "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Out Of Our Heads",
         "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
       },
@@ -1063,6 +1047,38 @@
       "duration_ms": 222813,
       "name": "(I Can't Get No) Satisfaction - Mono Version",
       "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1087,22 +1103,6 @@
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
       "added_at": "2023-05-26 03:00:00",

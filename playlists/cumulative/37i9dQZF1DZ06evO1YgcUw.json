@@ -560,7 +560,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 219306,
       "name": "Heroes And Villains - Remastered 2001",
       "url": "https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4"
@@ -990,6 +990,24 @@
       "duration_ms": 100133,
       "name": "I Should Have Known Better - Mono / Remastered 2001",
       "url": "https://open.spotify.com/track/1LzqCMbpcz5edctDsq45pR"
+    },
+    {
+      "album": {
+        "name": "Pet Sounds",
+        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "I'm Waiting For The Day",
+      "url": "https://open.spotify.com/track/56rf6DuAv3AGpLIhXVagTM"
     },
     {
       "album": {
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 148533,
       "name": "Surfer Girl - Remastered 2001",
       "url": "https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE"
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 126640,
       "name": "Surfin' Safari - Mono/Remastered 2001",
       "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 149373,
       "name": "Surfin' U.S.A. - Remastered 2001",
       "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"

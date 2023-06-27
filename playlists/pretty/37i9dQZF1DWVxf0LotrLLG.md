@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,010 likes - 201 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,033 likes - 201 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 200 | [Ciao](https://open.spotify.com/track/4d4zvfpRW1adBjXpwZ7GUt) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Ciclos](https://open.spotify.com/album/3ZwjSmHcREhM3IBfXOwd4i) | 2:54 |
 | 201 | [Sexto sentido](https://open.spotify.com/track/1tVRJIZvcdVsfYX0H8jf56) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Ciclos](https://open.spotify.com/album/3ZwjSmHcREhM3IBfXOwd4i) | 2:52 |
 
-Snapshot ID: `MCxkYWY0ZmQ4NmY0NDhmYjdhNjk5NzIyMWViMWNmYzBlN2E5NjFkMmI2`
+Snapshot ID: `MCxkNGJhOWQzMmI5ZGRhNTU3YjBmNWRkNjYxZGFiMGFhNzhjY2RmNzdm`

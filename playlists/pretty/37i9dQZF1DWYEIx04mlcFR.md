@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > ¡La Gen 23 está aquí! La nueva ola de artistas con Kevin Kaarl en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,605 likes - 76 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,685 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 75 | [Me Quieres Como Soy](https://open.spotify.com/track/79oGee7n59xU3CZr7fkK84) | [Billy Miamor](https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL) | [Me Quieres Como Soy](https://open.spotify.com/album/2DubvBe51q1uMXO4LP6WqE) | 2:46 |
 | 76 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
 
-Snapshot ID: `MCw4ZDdmZDU4OWFiMzRiZTNmZjY1MzA0ZWU4YTE1MDNmZDdkNDVjYTRh`
+Snapshot ID: `MCwyOGM2YTU0MDhkMjA2ZTMwYWMzODYxYjRlZjNhOWIwMzhmNWY4ZDUx`

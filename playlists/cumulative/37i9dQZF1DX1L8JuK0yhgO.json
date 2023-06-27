@@ -1257,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "angel",
+        "url": "https://open.spotify.com/album/67l7pXcKPOTZOjOzmJK5kW"
+      },
+      "artists": [
+        {
+          "name": "Chouji",
+          "url": "https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu"
+        },
+        {
+          "name": "shootz",
+          "url": "https://open.spotify.com/artist/2wXc4SbZCvWVOgRRyRTrRw"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/3J0bVRHJNUKdnTXwPOqHtO"
+    },
+    {
+      "album": {
         "name": "Angel (From Barbie The Album)",
         "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
       },
@@ -18878,7 +18900,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 136800,
       "name": "\u30a8\u30f3\u30b8\u30a7\u30eb",
       "url": "https://open.spotify.com/track/0LVEPvQgGYzz9sjJq2YpD3"

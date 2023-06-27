@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,708 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,740 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
 | 50 | [Cleanup Hitter](https://open.spotify.com/track/0RQT5rs8uElx7yrvhj6GMU) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Busted Jukebox Volume 2](https://open.spotify.com/album/4cJyMkeK2D0fRaFZXFGK14) | 3:53 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDA5NDY5ZjZkOTQxNGQ3MGEyYjE1YzJkOTEwOTcwMGMwZg==`
+Snapshot ID: `MjgxMjk2OTYsMDAwMDAwMDAzNzUzYThjYmIxNTJjMjZiZWU3ODA2MDI1Y2QxNjc4Zg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ice Spice + Nicki Minaj \(pictured\), Stormzy + Fredo, Maisie Peters and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,711 likes - 124 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,741 likes - 124 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 100 | [Honey Moon \- Single Edit](https://open.spotify.com/track/3PXcXKto0pmf2VhOYlPD01) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Honey Moon](https://open.spotify.com/album/6NUUD03cgDjzsD0OUYZ5If) | 3:14 |
 | 101 | [The Outlines](https://open.spotify.com/track/3xcvdCimYBj7FnpErd45vy) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [The Outlines](https://open.spotify.com/album/2781rPnBLyPrsaH2taH7nM) | 4:13 |
 | 102 | [Healed](https://open.spotify.com/track/25aXkVesKv9EZKHfZQ29PZ) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Healed](https://open.spotify.com/album/3qRbOKBRvy4YhOW4aemjTk) | 3:19 |
-| 103 | [Advance War](https://open.spotify.com/track/3RVDLEd7uCwpxgPVlMwYKf) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Advance War](https://open.spotify.com/album/3VDwz0ewBv9MYYiQ8aUSmg) | 1:29 |
+| 103 | [Advance War](https://open.spotify.com/track/1IflPtXT6iWsqoCijTYdVd) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Advance War](https://open.spotify.com/album/6Rxmgt4aEKVLdthi1Dd5tZ) | 1:29 |
 | 104 | [Fire Escape](https://open.spotify.com/track/0BPpKKW9Lg5AKIagHNop77) | [Oliver Daldry](https://open.spotify.com/artist/6Oq6B8oF3HNRj9eGar1hHZ) | [Fire Escape](https://open.spotify.com/album/6TJOhu09vaSsw2PWTthQrq) | 2:30 |
 | 105 | [Time to Breathe](https://open.spotify.com/track/5XedNeEeExsc5q2aosSPiZ) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Time to Breathe](https://open.spotify.com/album/6PEsz4OJkK1dczfO474UEB) | 2:38 |
 | 106 | [Field Notes](https://open.spotify.com/track/3GADHKTJJnK9wbS8UUprSl) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Contrast EP](https://open.spotify.com/album/26XGxQuiVS78Xxc44Jyf88) | 2:35 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 123 | [Naturally](https://open.spotify.com/track/6HgRlxArGgB008qXcLdPMh) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Naturally](https://open.spotify.com/album/5FnTa6yPpvCArS6IbsZN8E) | 3:19 |
 | 124 | [Hardcore Will Never Die](https://open.spotify.com/track/6pW0H701jW3bUQJtcYC4h1) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0) | [Hardcore Will Never Die](https://open.spotify.com/album/7riXW7fPMUccYmvn1DTlKA) | 5:00 |
 
-Snapshot ID: `MCwzZDVhOTkyZGE0OWFkNGZjNGExODQxNDUyNDlkZTU3NTIzNjk0MzA2`
+Snapshot ID: `MCxjOTYxNTU4ZDY0N2M0MDU4MmUyYWEyZWYyZmQyOGI5YWI3YzBlMTQx`

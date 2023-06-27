@@ -1,12 +1,12 @@
 {
   "description": "Embrace those happy vibes with these feel-good hits!",
-  "num_followers": 383166,
+  "num_followers": 383195,
   "original_name": "Happy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWM0YmQ1OWM3NjI5YTYxNGVjZjZiODU3YjFmODEzYzA2YmIxZWFl",
+  "snapshot_id": "MCxmNGY4ZjVhNTM2ZDY2OGFkNWI4MWY2ZTUxMDJlNmNkZDA1MGE5YTVj",
   "tracks": [
     {
       "added_at": "2023-06-26 00:13:40",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-06-26 00:13:40",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2023-06-26 00:13:40",
-      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2023-06-26 00:13:40",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2023-06-26 00:13:40",
@@ -251,26 +251,6 @@
     {
       "added_at": "2023-06-26 00:13:40",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Ain't No Mountain High Enough",
-      "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
-    },
-    {
-      "added_at": "2023-06-26 00:13:40",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -287,18 +267,22 @@
     {
       "added_at": "2023-06-26 00:13:40",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "United",
+        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
         }
       ],
-      "duration_ms": 207133,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
+      "duration_ms": 151666,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
     },
     {
       "added_at": "2023-06-26 00:13:40",
@@ -351,6 +335,22 @@
       "duration_ms": 244960,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "added_at": "2023-06-26 00:13:40",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
     },
     {
       "added_at": "2023-06-26 00:13:40",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-06-26 00:13:40",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2023-06-26 00:13:40",
+      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
-    },
-    {
-      "added_at": "2023-06-26 00:13:40",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2023-06-26 00:13:40",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-06-26 00:13:40",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 155588,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
-    },
-    {
-      "added_at": "2023-06-26 00:13:40",
-      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
@@ -643,6 +623,22 @@
     {
       "added_at": "2023-06-26 00:13:40",
       "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": "2023-06-26 00:13:40",
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
@@ -659,18 +655,22 @@
     {
       "added_at": "2023-06-26 00:13:40",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+      "duration_ms": 155588,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
     },
     {
       "added_at": "2023-06-26 00:13:40",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-26 00:13:40",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2023-06-26 00:13:40",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 231000,
       "name": "Style",
       "url": "https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5"
+    },
+    {
+      "added_at": "2023-06-26 00:13:40",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2023-06-26 00:13:40",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-06-26 00:13:40",
       "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+    },
+    {
+      "added_at": "2023-06-26 00:13:40",
+      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2023-06-26 00:13:40",
-      "album": {
-        "name": "Celestial",
-        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
     },
     {
       "added_at": "2023-06-26 00:13:40",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-06-26 00:13:40",
       "album": {
+        "name": "Fearless (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb"
+    },
+    {
+      "added_at": "2023-06-26 00:13:40",
+      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -1251,18 +1267,22 @@
     {
       "added_at": "2023-06-26 00:13:40",
       "album": {
-        "name": "Fearless (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi"
+        "name": "Summer Party Anthems",
+        "url": "https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 236266,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb"
+      "duration_ms": 201773,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
     },
     {
       "added_at": "2023-06-26 00:13:40",
@@ -1287,26 +1307,6 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
-    },
-    {
-      "added_at": "2023-06-26 00:13:40",
-      "album": {
-        "name": "Summer Party Anthems",
-        "url": "https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-      "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
     },
     {
       "added_at": "2023-06-26 00:13:40",

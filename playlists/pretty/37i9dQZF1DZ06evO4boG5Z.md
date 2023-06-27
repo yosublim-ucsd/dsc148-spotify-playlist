@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 
 > This is Millencolin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,658 likes - 49 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,662 likes - 49 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 48 | [Monkey Boogie](https://open.spotify.com/track/0LzAsmWBfDkmL3ujeG7Y0x) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:26 |
 | 49 | [A Whole Lot Less](https://open.spotify.com/track/5bT1X7cPnnQHr7bUpsTsBI) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [The Melancholy Collection](https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V) | 1:55 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDBiMzM1YWNkMTI3ZTZjOTI3MzNhZjFkMWZlNDlkNWYxZg==`
+Snapshot ID: `MjgxMjk2OTYsMDAwMDAwMDA4NzRhZWZjM2JiYzM1MThhMWYyMjk2NDY2MDk1MDg2Yw==`

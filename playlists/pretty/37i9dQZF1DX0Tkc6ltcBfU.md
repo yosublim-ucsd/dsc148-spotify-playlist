@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170,213 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170,611 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 19 | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [No Cap](https://open.spotify.com/artist/3o2XvAddxTcAXl5wwWrrPZ) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 |
 | 20 | [BACKSEAT](https://open.spotify.com/track/5JNGhSPsiuHyXmLVfDWbpf) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 2:35 |
 | 21 | [bread & butter](https://open.spotify.com/track/6GoVUO5vla1JtUj2rq9Yl4) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [bread & butter](https://open.spotify.com/album/332Rucu5r475vGx2bntaPb) | 3:46 |
-| 22 | [ARSENAL \(feat\. Denzel Curry\)](https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 3:15 |
+| 22 | [ARSENAL \(I SMELL BITCH\) \(feat\. Denzel Curry\)](https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 3:15 |
 | 23 | [Turn The Streets Up](https://open.spotify.com/track/3irk5ecKiBYSIB0350rH87) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Turn The Streets Up](https://open.spotify.com/album/4aCmTJ5xk0O2aVNvciRkoR) | 2:42 |
 | 24 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |
 | 25 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Supafly \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0lkZ62PtOr82RFbVJVk8Yn) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Supafly \(feat\. BigXthaPlug / FAST X Soundtrack\)](https://open.spotify.com/album/2fIo1CPdRHVae7GbQdpi3b) | 2:58 |
 | 50 | [Cuban Links](https://open.spotify.com/track/70PwWKcHVAMSpdNAuq1P7i) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Cuban Links & Drug Habits](https://open.spotify.com/album/2E2XaelGPkXXJCQ1LDWOgD) | 2:38 |
 
-Snapshot ID: `MCxhYjNkZjU3ODQwYjg2N2RmN2M4M2M2YWZhNjBkNWVlZTA2MjhlODZm`
+Snapshot ID: `MCxkYThkZWI0NDhmZmI5ZmVjYjQyNTY4YmIyNzM5ZjRjOTM5OGZmYzcy`

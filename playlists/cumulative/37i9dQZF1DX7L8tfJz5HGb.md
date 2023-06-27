@@ -4,7 +4,7 @@
 
 > Enjoy the Weverse Con Festival 2023 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2023 LIVE SET을 즐겨보세요!\)
 
-170 songs - 9 hr 30 min
+171 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Comment from LE SSERAFIM 2](https://open.spotify.com/track/4F5IJcTHeqcV9HGaMHAdip) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 2:23 | 2023-06-23 |  |
 | [Comment from LE SSERAFIM 3](https://open.spotify.com/track/4BgSfJ7xPhyM5ftNx6DjdY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 2:35 | 2023-06-23 |  |
 | [Comment from LIGHTSUM](https://open.spotify.com/track/3gA2SNrTrYm6NOz5UrQa56) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 2:22 | 2023-06-23 |  |
+| [Comment from MOONCHILD](https://open.spotify.com/track/0B4Lha7iK6v0baBcZL0LBV) | [Moonchild](https://open.spotify.com/artist/1dg59cDvlpaYfKKQCmmPBs) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 1:50 | 2023-06-26 |  |
 | [Comment from NewJeans 1](https://open.spotify.com/track/6ewdcozPxoxPGVLwNr24pP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 4:11 | 2023-06-23 |  |
 | [Comment from NewJeans 2](https://open.spotify.com/track/4jUnMC8F5Am1IoOK2C7oOS) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 0:54 | 2023-06-23 |  |
 | [Comment from NewJeans 3](https://open.spotify.com/track/5hAV6ZcDAc1Pfg3TADjDue) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 1:46 | 2023-06-23 |  |

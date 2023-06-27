@@ -4,7 +4,7 @@
 
 > Brand new music from Ice Spice + Nicki Minaj \(pictured\), Stormzy + Fredo, Maisie Peters and more!
 
-4,334 songs - 9 day 18 hr 41 min
+4,335 songs - 9 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Adore Adore Adore](https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Adore Adore Adore](https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi) | 2:37 | 2023-06-08 | 2023-06-16 |
 | [adrenaline](https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [WTF is even going on?](https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H) | 2:23 | 2022-11-18 | 2022-11-25 |
 | [Adrenaline Rush](https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Adrenaline Rush](https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c) | 3:04 | 2023-05-25 | 2023-06-02 |
-| [Advance War](https://open.spotify.com/track/3RVDLEd7uCwpxgPVlMwYKf) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Advance War](https://open.spotify.com/album/3VDwz0ewBv9MYYiQ8aUSmg) | 1:29 | 2023-06-22 |  |
+| [Advance War](https://open.spotify.com/track/1IflPtXT6iWsqoCijTYdVd) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Advance War](https://open.spotify.com/album/6Rxmgt4aEKVLdthi1Dd5tZ) | 1:29 | 2023-06-23 |  |
+| [Advance War](https://open.spotify.com/track/3RVDLEd7uCwpxgPVlMwYKf) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Advance War](https://open.spotify.com/album/3VDwz0ewBv9MYYiQ8aUSmg) | 1:29 | 2023-06-22 | 2023-06-27 |
 | [Adwoa](https://open.spotify.com/track/6OM34AepZAyNTdRcQFZrd3) | [J.Derobie](https://open.spotify.com/artist/0Mb4ieQOX8g5d8lnjdCVZ2), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Adwoa](https://open.spotify.com/album/3B80wQGtdbktw36Q8hIaR7) | 2:58 | 2022-11-25 | 2022-12-02 |
 | [Aesop](https://open.spotify.com/track/1y19vCgbtWdZompNiX9VUg) | [Kuma Overdose](https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ), [Mushkilla](https://open.spotify.com/artist/5tgqiVnzusJiWXqN0ZZIbU), [SA$H£R](https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb) | [Aesop](https://open.spotify.com/album/0XMWgURyV78FONbBTIZ9KK) | 2:12 | 2023-01-06 | 2023-01-13 |
 | [Affection](https://open.spotify.com/track/1fLbXvIyEUKicyDAp3uwJE) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH), [Alora](https://open.spotify.com/artist/5R3XIbPisM8yZmZWtRrvzE), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Affection](https://open.spotify.com/album/6DvBEimQ55NGAj9ErSAsgx) | 4:34 | 2023-01-13 | 2023-01-20 |

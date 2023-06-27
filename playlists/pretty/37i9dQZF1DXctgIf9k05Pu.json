@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 235378,
+  "num_followers": 235425,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODdhOWEwYjI5YWNhMTdhYzQ4M2NmZTkxZTYyMjI4MjJhMmM5MDg1",
+  "snapshot_id": "MCxiOTU0ODhiMTgzZmFkNTNhOWUxMzkwY2UyZGM0YWY4MjE5ZmIxZjUy",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Buena Vista",
-        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 99996,
-      "name": "Sakura Trees",
-      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "How Are You",
         "url": "https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Buena Vista",
+        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 99996,
+      "name": "Sakura Trees",
+      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "lovesick",
         "url": "https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 150967,
       "name": "lovesick",
       "url": "https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Gravity Falls",
-        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Gravity Falls",
-      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Gravity Falls",
+        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Gravity Falls",
+      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Redbone",
         "url": "https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 180601,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
         "url": "https://open.spotify.com/album/1X78wB7bRT0uj1Yf9sFFuR"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 121477,
       "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
       "url": "https://open.spotify.com/track/1p80DshsPD0zgGt2CPVBSm"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 180601,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
     },
     {
       "added_at": "2022-02-02 00:21:48",

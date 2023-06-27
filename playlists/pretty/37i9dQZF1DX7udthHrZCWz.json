@@ -1,12 +1,12 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 274601,
+  "num_followers": 274688,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjY1Yzk5MTQ4YTkzMmM5NjMwZjY0ZTk4N2Y0MWM5ZWMzZWE3ODY2",
+  "snapshot_id": "MCxlMDQ2ODdhNjFmMTFlOWIxMzY5NjJkNGZmYWE4MTExOTIxMjFkZjQ1",
   "tracks": [
     {
       "added_at": "2020-07-08 17:53:44",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -331,6 +331,22 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 208733,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -651,6 +651,22 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 286480,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -703,38 +719,6 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
-        "name": "Skyfall",
-        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 286480,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
         "name": "James Arthur (Deluxe)",
         "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 209440,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -783,6 +783,26 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
+        "name": "Dusk Till Dawn (feat. Sia) [Radio Edit]",
+        "url": "https://open.spotify.com/album/5l5gR4rh26QI3fijGFTDrp"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
+      "url": "https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
         "name": "Beautiful Trauma",
         "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 206880,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
-        "name": "Dusk Till Dawn (feat. Sia) [Radio Edit]",
-        "url": "https://open.spotify.com/album/5l5gR4rh26QI3fijGFTDrp"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
-      "url": "https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1195,26 +1211,6 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
-        "name": "Lazarus",
-        "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
-      },
-      "artists": [
-        {
-          "name": "Travie McCoy",
-          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Billionaire (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+        "name": "Lazarus",
+        "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Travie McCoy",
+          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+      "duration_ms": 211160,
+      "name": "Billionaire (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
     },
     {
       "added_at": "2020-07-08 17:53:44",

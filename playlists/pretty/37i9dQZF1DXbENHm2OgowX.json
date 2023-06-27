@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 79732,
+  "num_followers": 80314,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGE1NGZhMzU5MWJlN2RmMzFhY2Y4MDVjNDEzYzQ1NWQ2MGM5OTAw",
+  "snapshot_id": "MCw1MGYyZjE4YjRkMDBhNmY0MmUzMjEzNzIxZWQ0MGUwM2U5OTQ3MGRl",
   "tracks": [
     {
       "added_at": "2023-04-21 13:22:15",
@@ -415,38 +415,6 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "You Stay by the Sea (Deluxe)",
-        "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 256394,
-      "name": "Sea Creatures",
-      "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
-        "name": "I Could Live In Hope",
-        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 348800,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -459,6 +427,22 @@
       "duration_ms": 150299,
       "name": "(Something)",
       "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
+        "name": "You Stay by the Sea (Deluxe)",
+        "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 256394,
+      "name": "Sea Creatures",
+      "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -479,34 +463,18 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+        "name": "I Could Live In Hope",
+        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
         }
       ],
-      "duration_ms": 173026,
-      "name": "Heavy Water/I'd Rather Be Sleeping",
-      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 486277,
-      "name": "No One Is Ever Going to Want Me",
-      "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
+      "duration_ms": 348800,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -527,6 +495,38 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 486277,
+      "name": "No One Is Ever Going to Want Me",
+      "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Heavy Water/I'd Rather Be Sleeping",
+      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
         "name": "Songs About Leaving",
         "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Warmth of You",
-      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
         "name": "Closer (Collector's Edition)",
         "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 364293,
       "name": "The Eternal - 2007 Remaster",
       "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Warmth of You",
+      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "Disengaged",
+      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
         "name": "Green Wall",
         "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 477000,
       "name": "The Haunting Presence",
       "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "Disengaged",
-      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
-      },
-      "artists": [
-        {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
         "name": "haunted (remixes)",
         "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 153984,
       "name": "haunted (florence slowed version)",
       "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
     },
     {
       "added_at": "2023-04-21 13:22:15",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-04-21 13:22:15",
       "album": {
-        "name": "Snowa",
-        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
-      },
-      "artists": [
-        {
-          "name": "Slo Mance",
-          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
-        }
-      ],
-      "duration_ms": 260482,
-      "name": "Snowa",
-      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
-    },
-    {
-      "added_at": "2023-04-21 13:22:15",
-      "album": {
         "name": "Slow Bloom",
         "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 285312,
       "name": "Slow Bloom",
       "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
+    },
+    {
+      "added_at": "2023-04-21 13:22:15",
+      "album": {
+        "name": "Snowa",
+        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
+      },
+      "artists": [
+        {
+          "name": "Slo Mance",
+          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
+        }
+      ],
+      "duration_ms": 260482,
+      "name": "Snowa",
+      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
     },
     {
       "added_at": "2023-04-21 13:22:15",

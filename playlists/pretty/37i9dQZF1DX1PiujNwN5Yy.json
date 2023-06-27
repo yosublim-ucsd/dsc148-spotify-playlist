@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 106518,
+  "num_followers": 106536,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzVkZjlkZjA1MTQ3MjRhMThjN2M2YmZjYTc4MmIwYzExYjVlMGNl",
+  "snapshot_id": "MCw0NDc3OTNjZjhhM2IwM2Y0MzE4MmM1MjMwZDAzNjM5OTc1NmI1N2Y2",
   "tracks": [
     {
       "added_at": "2023-06-23 05:04:37",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+    },
+    {
+      "added_at": "2023-06-23 05:04:37",
+      "album": {
         "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
-    },
-    {
-      "added_at": "2023-06-23 05:04:37",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 190762,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/5QAya5bSSiKlh1h4qeeq38"
+    },
+    {
+      "added_at": "2023-06-23 05:04:37",
+      "album": {
         "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm"
+        "name": "Es Que Yo Te Quiero A Ti",
+        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
       },
       "artists": [
         {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 190762,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/5QAya5bSSiKlh1h4qeeq38"
+      "duration_ms": 323625,
+      "name": "Es Que Yo Te Quiero A Ti",
+      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
     },
     {
       "added_at": "2023-06-23 05:04:37",
@@ -395,22 +411,6 @@
       "duration_ms": 143975,
       "name": "Dolerme",
       "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
-    },
-    {
-      "added_at": "2023-06-23 05:04:37",
-      "album": {
-        "name": "Es Que Yo Te Quiero A Ti",
-        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 323625,
-      "name": "Es Que Yo Te Quiero A Ti",
-      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
     },
     {
       "added_at": "2023-06-23 05:04:37",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
+        "name": "Nunca Estoy",
+        "url": "https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Nunca Estoy",
+      "url": "https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0"
+    },
+    {
+      "added_at": "2023-06-23 05:04:37",
+      "album": {
         "name": "Nos Queda Mucho Dolor Por Recorrer",
         "url": "https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 314573,
       "name": "Nos Queda Mucho Dolor Por Recorrer",
       "url": "https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l"
-    },
-    {
-      "added_at": "2023-06-23 05:04:37",
-      "album": {
-        "name": "Nunca Estoy",
-        "url": "https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Nunca Estoy",
-      "url": "https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0"
     },
     {
       "added_at": "2023-06-23 05:04:37",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 220075,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
+    },
+    {
+      "added_at": "2023-06-23 05:04:37",
+      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 225196,
       "name": "Qui\u00e9n Dice",
       "url": "https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT"
-    },
-    {
-      "added_at": "2023-06-23 05:04:37",
-      "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
-      },
-      "artists": [
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 220075,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
     },
     {
       "added_at": "2023-06-23 05:04:37",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
+        "name": "guerrera",
+        "url": "https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 270093,
+      "name": "guerrera",
+      "url": "https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO"
+    },
+    {
+      "added_at": "2023-06-23 05:04:37",
+      "album": {
         "name": "Vete Si Quieres",
         "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
-        "name": "guerrera",
-        "url": "https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 270093,
-      "name": "guerrera",
-      "url": "https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO"
-    },
-    {
-      "added_at": "2023-06-23 05:04:37",
-      "album": {
         "name": "Eres Diamante",
         "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 218853,
       "name": "Nadie Va",
       "url": "https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU"
+    },
+    {
+      "added_at": "2023-06-23 05:04:37",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2023-06-23 05:04:37",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
-    },
-    {
-      "added_at": "2023-06-23 05:04:37",
-      "album": {
         "name": "Tu Labial",
         "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
-        "name": "yo q se",
-        "url": "https://open.spotify.com/album/6nVaPGZVNQZ9yZxSBvOa9k"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "yo q se",
-      "url": "https://open.spotify.com/track/5PAh18eBXkV3WV5lPgW5Ww"
-    },
-    {
-      "added_at": "2023-06-23 05:04:37",
-      "album": {
         "name": "Ser tu depresi\u00f3n (ac\u00fastica)",
         "url": "https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 196022,
       "name": "Ser tu depresi\u00f3n - ac\u00fastica",
       "url": "https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy"
+    },
+    {
+      "added_at": "2023-06-23 05:04:37",
+      "album": {
+        "name": "yo q se",
+        "url": "https://open.spotify.com/album/6nVaPGZVNQZ9yZxSBvOa9k"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "yo q se",
+      "url": "https://open.spotify.com/track/5PAh18eBXkV3WV5lPgW5Ww"
     },
     {
       "added_at": "2023-06-23 05:04:37",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
-        "name": "T la Sudo (Demo)",
-        "url": "https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        },
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 185411,
-      "name": "T la Sudo (Demo)",
-      "url": "https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx"
-    },
-    {
-      "added_at": "2023-06-23 05:04:37",
-      "album": {
         "name": "Venecia (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3EBFHB0poFL63o1DrIMSkl"
       },
@@ -1479,22 +1459,22 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
-        "name": "La Banqueta",
-        "url": "https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG"
+        "name": "T la Sudo (Demo)",
+        "url": "https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
         },
         {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 188320,
-      "name": "La Banqueta",
-      "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
+      "duration_ms": 185411,
+      "name": "T la Sudo (Demo)",
+      "url": "https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx"
     },
     {
       "added_at": "2023-06-23 05:04:37",
@@ -1511,6 +1491,26 @@
       "duration_ms": 237518,
       "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
       "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
+    },
+    {
+      "added_at": "2023-06-23 05:04:37",
+      "album": {
+        "name": "La Banqueta",
+        "url": "https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "La Banqueta",
+      "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
     },
     {
       "added_at": "2023-06-23 05:04:37",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-06-23 05:04:37",
       "album": {
-        "name": "Mi Complejo",
-        "url": "https://open.spotify.com/album/30mKRWa5yK5kg8lx2MeNSC"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "Mi Complejo",
-      "url": "https://open.spotify.com/track/35l1ZzkbDc0fTwil4Nvqey"
-    },
-    {
-      "added_at": "2023-06-23 05:04:37",
-      "album": {
         "name": "Amor Insustancial",
         "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
       },
@@ -1611,6 +1595,38 @@
       "duration_ms": 177692,
       "name": "olv\u00eddate de m\u00ed",
       "url": "https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW"
+    },
+    {
+      "added_at": "2023-06-23 05:04:37",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2023-06-23 05:04:37",
+      "album": {
+        "name": "Mi Complejo",
+        "url": "https://open.spotify.com/album/30mKRWa5yK5kg8lx2MeNSC"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "Mi Complejo",
+      "url": "https://open.spotify.com/track/35l1ZzkbDc0fTwil4Nvqey"
     },
     {
       "added_at": "2023-06-23 05:04:37",
@@ -1647,22 +1663,6 @@
       "duration_ms": 152000,
       "name": "Ayer yo estaba bien",
       "url": "https://open.spotify.com/track/6jLsHP0Z3Xryry93GvXBzg"
-    },
-    {
-      "added_at": "2023-06-23 05:04:37",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2023-06-23 05:04:37",

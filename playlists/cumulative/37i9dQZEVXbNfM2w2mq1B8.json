@@ -623,6 +623,28 @@
     },
     {
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2aqCdoM9yEWZkXkikyMdH5"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        },
+        {
+          "name": "Tea Tairovic",
+          "url": "https://open.spotify.com/artist/39QpkKA8DlIerdivENnMdU"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220190,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/4dEkUVNnb3flPRtdknJ1yw"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
@@ -1306,7 +1328,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3872,7 +3894,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -5616,7 +5638,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 223216,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4sO11a54gXayms6GDyqKep"
@@ -9902,7 +9924,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -14854,7 +14876,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 240106,
       "name": "S' Agapao",
       "url": "https://open.spotify.com/track/6tfajS9NU9zqfOZdByVbV1"
@@ -17896,7 +17918,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 127245,
       "name": "TOKYO",
       "url": "https://open.spotify.com/track/3c6Xqcu053Y8vPG1Yw1VCW"
@@ -22510,7 +22532,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 240000,
       "name": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
       "url": "https://open.spotify.com/track/5NNE4zYPnE7bcT6OCt8B3w"

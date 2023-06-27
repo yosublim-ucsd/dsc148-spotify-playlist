@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,534 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,603 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 66 | [Better Off Gone \(Acoustic Sessions\)](https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Acoustic Sessions](https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V) | 3:24 |
 | 67 | [Peaked In High School](https://open.spotify.com/track/2iZ7QhJdX5jlkJFk636wuu) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Peaked In High School](https://open.spotify.com/album/7KVwTd8XEzs4AapEn192w5) | 2:39 |
 | 68 | [No Horse To Ride \- demo version](https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(demo version\)](https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB) | 2:13 |
-| 69 | [Forever and Always \(Acoustic\)](https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Forever and Always \(Acoustic\)](https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3) | 3:10 |
+| 69 | [Little More Be Alright](https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Little More Be Alright](https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM) | 3:35 |
 | 70 | [Girls Like You \- Stripped](https://open.spotify.com/track/1tFvw8ZzcxNZS6vkzdwyVU) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Girls Like You \- Stripped](https://open.spotify.com/album/0iNFmOXHsrjgNL5NmSVvQu) | 2:59 |
-| 71 | [Little More Be Alright](https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Little More Be Alright](https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM) | 3:35 |
+| 71 | [Forever and Always \(Acoustic\)](https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Forever and Always \(Acoustic\)](https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3) | 3:10 |
 | 72 | [Another \- Wedding Version](https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another \(Wedding Version\)](https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd) | 2:51 |
 | 73 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 |
 | 74 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 |
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 76 | [Buy Dirt \- Alternate Version](https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd) | 2:50 |
 | 77 | [St\. Louis](https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n) | 4:34 |
 | 78 | [That's Why \(Acoustic Version\)](https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why \(Acoustic Version\)](https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx) | 2:57 |
-| 79 | [Maybe Someday You’ll Have A Daughter](https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Primrose](https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum) | 3:28 |
-| 80 | [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 |
-| 81 | [Heart Shut \(feat\. Tenille Townes\)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 |
-| 82 | [Coulda Loved You Longer \- Acoustic](https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Barstool Whiskey Wonderland \(Wonderland Sides\)](https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq) | 3:05 |
+| 79 | [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 |
+| 80 | [Coulda Loved You Longer \- Acoustic](https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Barstool Whiskey Wonderland \(Wonderland Sides\)](https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq) | 3:05 |
+| 81 | [Maybe Someday You’ll Have A Daughter](https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Primrose](https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum) | 3:28 |
+| 82 | [Heart Shut \(feat\. Tenille Townes\)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 |
 | 83 | [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 |
 | 84 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 |
 | 85 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 |
 | 100 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 |
 
-Snapshot ID: `MCwwZGMzOTFmNjYyMWNkNzEyOTllOWE3MWQyNDIwMmJlNWE5OGFjOGEz`
+Snapshot ID: `MCxjYjBhODc5NmU4MjQxMGE4MDAxM2Q0NTEwZDZhOWY1ZDM3ZGUxZWVj`

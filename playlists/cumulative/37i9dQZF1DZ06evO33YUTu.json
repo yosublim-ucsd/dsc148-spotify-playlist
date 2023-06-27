@@ -957,6 +957,24 @@
     },
     {
       "album": {
+        "name": "YELIANA - Cap. 2 - I Try For You / Qu\u00edmica",
+        "url": "https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137680,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/3f4GVrbME6OfGJqlaxR6aF"
+    },
+    {
+      "album": {
         "name": "Ravin'",
         "url": "https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ"
       },

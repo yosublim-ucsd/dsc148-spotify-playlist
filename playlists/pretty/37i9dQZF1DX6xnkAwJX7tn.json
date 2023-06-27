@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 496754,
+  "num_followers": 497769,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2ZjMmJkMzNjZTg1NTFhYzAyZGJlZjVjZmM1Yzk0ZmJhYzI4NTM5",
+  "snapshot_id": "MCw3Y2E2ZjM0ZmRjZDVlZmFjNDI3NGQ5OWJjMWM2MGUzMzBkYjNjYjRj",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Smooth Criminal - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 234653,
       "name": "Got My Mind Set On You",
       "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Smooth Criminal - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
-      "added_at": "2021-03-22 14:12:29",
-      "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Diesel And Dust",
@@ -979,6 +963,22 @@
       "duration_ms": 255680,
       "name": "Beds Are Burning - Remastered",
       "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
+    },
+    {
+      "added_at": "2021-03-22 14:12:29",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "Everything She Wants",
+      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
         "name": "Communards",
         "url": "https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 271066,
       "name": "Don't Leave Me This Way (with Sarah Jane Morris)",
       "url": "https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 302693,
-      "name": "Everything She Wants",
-      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Fame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
+        "name": "True Confessions (Collector's Edition)",
+        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
       },
       "artists": [
         {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
         }
       ],
-      "duration_ms": 316066,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
+      "duration_ms": 229164,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1717,20 +1717,36 @@
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "True Confessions (Collector's Edition)",
-        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
       },
       "artists": [
         {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 229164,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 316066,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1751,18 +1767,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+      "duration_ms": 280000,
+      "name": "Let's Go Crazy",
+      "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1783,22 +1799,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Let's Go Crazy",
-      "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -1811,22 +1811,6 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me",
       "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
-    },
-    {
-      "added_at": "2021-09-18 06:09:03",
-      "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0sCWw8lcMAohz65MsEDRGh"
-      },
-      "artists": [
-        {
-          "name": "Ottawan",
-          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Hands Up - Single Version",
-      "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1843,6 +1827,22 @@
       "duration_ms": 254000,
       "name": "Conga!",
       "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
+    },
+    {
+      "added_at": "2021-09-18 06:09:03",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0sCWw8lcMAohz65MsEDRGh"
+      },
+      "artists": [
+        {
+          "name": "Ottawan",
+          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Hands Up - Single Version",
+      "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Papa Don't Preach",
+      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "Around The World In A Day",
         "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
       },
@@ -1895,18 +1911,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "Back In The High Life",
+        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
         }
       ],
-      "duration_ms": 268533,
-      "name": "Papa Don't Preach",
-      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
+      "duration_ms": 351506,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1943,22 +1959,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Back In The High Life",
-        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 351506,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Rhythm Of The Night",
         "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
       },
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Freedom of Choice",
-        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 248133,
       "name": "Give It To Me Baby",
       "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2055,6 +2055,22 @@
       "duration_ms": 260000,
       "name": "Word Up",
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2135,22 +2151,6 @@
       "duration_ms": 201866,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 340866,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "The Loco-Motion",
-      "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "In the Heat of the Night",
         "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 387866,
       "name": "Just an Illusion",
       "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
     },
     {
       "added_at": "2021-09-08 13:09:25",

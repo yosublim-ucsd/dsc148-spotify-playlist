@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,825,243 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,825,263 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 99 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 |
 | 100 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 |
 
-Snapshot ID: `MCw3YWUxNWM5Mjk1OWNhOTYyZThmYzczY2YzMGY5MmVjZGRjMzQ2ZmVm`
+Snapshot ID: `MCw3ZmVjZTRkNzY5MzQ3ZTUzNmEyNzAzOTM3ZmRmMWY1NzEyMzQ4ZGM4`

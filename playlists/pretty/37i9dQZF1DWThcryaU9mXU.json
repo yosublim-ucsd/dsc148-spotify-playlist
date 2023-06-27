@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 42405,
+  "num_followers": 42450,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjExZmU4ZmYzODBjMzExMzE4MDg0NDU5MGJmMThiM2E5ZTVlZThl",
+  "snapshot_id": "MCwwOTM2MGYzNzBkZDE0MzIxYzI3NjEwNDllMGFiZmEyN2M2YzcwMWMy",
   "tracks": [
     {
       "added_at": "2023-04-21 10:26:47",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "My Dearest Darling",
-      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "They Call Me the Popcorn Man (France 1975) [Blues Reference]",
         "url": "https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm"
       },
@@ -139,18 +123,18 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 194573,
-      "name": "Little Boy Blue",
-      "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
+      "duration_ms": 180666,
+      "name": "My Dearest Darling",
+      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -167,6 +151,22 @@
       "duration_ms": 176186,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "Little Boy Blue",
+      "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
+        "name": "Jackie Sings The Blues",
+        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 124786,
+      "name": "Please Tell Me Why",
+      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 224840,
       "name": "I Shall Know Him",
       "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
-        "name": "Jackie Sings The Blues",
-        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 124786,
-      "name": "Please Tell Me Why",
-      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
-      },
-      "artists": [
-        {
-          "name": "Brianna Harness",
-          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Waiting For The Dawn",
         "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
+      },
+      "artists": [
+        {
+          "name": "Brianna Harness",
+          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Pickin' the Blues",
-        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 205870,
-      "name": "Mistreated so Bad",
-      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 419306,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Pickin' the Blues",
+        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 205870,
+      "name": "Mistreated so Bad",
+      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Roll and Tumble",
-        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
-      },
-      "artists": [
-        {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
-        }
-      ],
-      "duration_ms": 205182,
-      "name": "Sometimes I Worry",
-      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Love & Gravity",
         "url": "https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 228746,
       "name": "Love & Gravity",
       "url": "https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Roll and Tumble",
+        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "duration_ms": 205182,
+      "name": "Sometimes I Worry",
+      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
     },
     {
       "added_at": "2023-04-21 10:26:47",

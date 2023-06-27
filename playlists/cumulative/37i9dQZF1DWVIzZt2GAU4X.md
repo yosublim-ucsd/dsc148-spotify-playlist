@@ -4,7 +4,7 @@
 
 > Vocals and keys, front and center\. Cover: Adele
 
-222 songs - 14 hr 5 min
+223 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [COMING HOME \(feat\. NIKI\) \- Long Distance Recording](https://open.spotify.com/track/7DpIa709SGPD6T5tuOVXgc) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [COMING HOME \(feat\. NIKI\) \[Long Distance Recording\]](https://open.spotify.com/album/3XTizmfvhOiFp5GMSTkRZ3) | 3:58 | 2021-11-19 | 2022-07-29 |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-10-25 |  |
 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 | 2022-03-25 | 2022-04-20 |
-| [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 | 2021-11-19 |  |
+| [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 | 2021-11-19 | 2023-06-27 |
 | [Don't Look Back In Anger](https://open.spotify.com/track/7ppPZa3TRUSGKaks9wH7VT) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:47 | 2022-11-04 | 2022-11-13 |
 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/7CVYxHq1L0Z4G84jTDS6Jl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ) | 4:49 | 2022-03-25 | 2022-04-21 |
 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 | 2022-07-15 |  |
@@ -152,6 +152,7 @@
 | [Overthinking \- Acoustic](https://open.spotify.com/track/3WDxNaUMRsWk1aoDkz8N9x) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Overthinking \(Acoustic\)](https://open.spotify.com/album/2vxW3glC2Rbr7BnC3W2Xw5) | 3:46 | 2021-11-19 | 2022-07-27 |
 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 | 2023-03-31 |  |
 | [Party of One \(feat\. Sam Smith\)](https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Party of One \(feat\. Sam Smith\)](https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47) | 4:19 | 2021-11-19 | 2022-07-29 |
+| [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 | 2023-06-26 |  |
 | [People Help the People](https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 4:16 | 2023-03-06 |  |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-16 | 2023-05-24 |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-05-24 | 2023-06-01 |

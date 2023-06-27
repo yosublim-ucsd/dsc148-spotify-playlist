@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGM0ZGQ5M2E4ZDU5ZmY1MzNmZDhjMzYxOTliMmIzMTQ4ZDM2YTE2",
+  "snapshot_id": "MCwxNWU4OTcwODIzMmY2ZTIyNjAwMTU5YzgxNjIyZjdlNjk2OWE5NGY3",
   "tracks": [
     {
       "added_at": "2023-05-02 09:12:26",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 231201,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj"
-    },
-    {
-      "added_at": "2023-05-02 09:12:26",
-      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -147,22 +131,6 @@
       "duration_ms": 261013,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY"
-    },
-    {
-      "added_at": "2023-05-02 09:12:26",
-      "album": {
-        "name": "FLOWER ROAD",
-        "url": "https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "FLOWER ROAD",
-      "url": "https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS"
     },
     {
       "added_at": "2023-05-02 09:12:26",
@@ -199,6 +167,38 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 231201,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj"
+    },
+    {
+      "added_at": "2023-05-02 09:12:26",
+      "album": {
+        "name": "FLOWER ROAD",
+        "url": "https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "FLOWER ROAD",
+      "url": "https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS"
+    },
+    {
+      "added_at": "2023-05-02 09:12:26",
+      "album": {
         "name": "EXIT : E",
         "url": "https://open.spotify.com/album/7D2FML3EyRJcCoiEgUbRxT"
       },
@@ -227,6 +227,22 @@
       "duration_ms": 212093,
       "name": "Pit a Pat",
       "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
+    },
+    {
+      "added_at": "2023-05-02 09:12:26",
+      "album": {
+        "name": "Q",
+        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
       "added_at": "2023-05-02 09:12:26",
@@ -307,22 +323,6 @@
       "duration_ms": 226938,
       "name": "Numb",
       "url": "https://open.spotify.com/track/67eJLGtHOUmoNXRYnkedwG"
-    },
-    {
-      "added_at": "2023-05-02 09:12:26",
-      "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
       "added_at": "2023-05-02 09:12:26",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 224288,
-      "name": "WERE WE?",
-      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
-    },
-    {
-      "added_at": "2023-05-02 09:12:26",
-      "album": {
         "name": "The Blowing",
         "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
       },
@@ -635,22 +619,6 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
-    },
-    {
-      "added_at": "2023-05-02 09:12:26",
-      "album": {
         "name": "BAD BLOOD - The 4th Mini Album",
         "url": "https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta"
       },
@@ -663,6 +631,38 @@
       "duration_ms": 244360,
       "name": "To you, Tomorrow",
       "url": "https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG"
+    },
+    {
+      "added_at": "2023-05-02 09:12:26",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 224288,
+      "name": "WERE WE?",
+      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
+    },
+    {
+      "added_at": "2023-05-02 09:12:26",
+      "album": {
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2023-05-02 09:12:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
-        "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
-      },
-      "artists": [
-        {
-          "name": "Yi Sung Yol",
-          "url": "https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
-    },
-    {
-      "added_at": "2023-05-02 09:12:26",
-      "album": {
         "name": "YOU (feat .Beenzino)",
         "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
-        "name": "Is It Bearable?",
-        "url": "https://open.spotify.com/album/7E8Q8ycL1y0MrKx1ZxEA4q"
+        "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
       },
       "artists": [
         {
-          "name": "Monni",
-          "url": "https://open.spotify.com/artist/4XG3yZFXFRMrbOIWk6pYrb"
+          "name": "Yi Sung Yol",
+          "url": "https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Is It Bearable?",
-      "url": "https://open.spotify.com/track/6qWhCzdKecYenhHAJYRtHZ"
+      "duration_ms": 265000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
     },
     {
       "added_at": "2023-05-02 09:12:26",
@@ -811,6 +795,22 @@
       "duration_ms": 201003,
       "name": "\ud750\ub974\ub294 \uc2dc\uac04 \uc18d\uc5d0 \uc6b0\ub9ac\ub294 \uc544\ub984\ub2e4\uc6cc What A Beautiful Night",
       "url": "https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71"
+    },
+    {
+      "added_at": "2023-05-02 09:12:26",
+      "album": {
+        "name": "Is It Bearable?",
+        "url": "https://open.spotify.com/album/7E8Q8ycL1y0MrKx1ZxEA4q"
+      },
+      "artists": [
+        {
+          "name": "Monni",
+          "url": "https://open.spotify.com/artist/4XG3yZFXFRMrbOIWk6pYrb"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Is It Bearable?",
+      "url": "https://open.spotify.com/track/6qWhCzdKecYenhHAJYRtHZ"
     },
     {
       "added_at": "2023-05-02 09:12:26",

@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de canciones pop para toda la familia.",
-  "num_followers": 46811,
+  "num_followers": 46845,
   "original_name": "Pop para Ni\u00f1os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjQ0NjgxNDI1ZDE1MTM1MjYwZmUwNzJjMThjMDAwZGE1ZTllZDM5",
+  "snapshot_id": "MCw1ZTMxZDhjNWJmYmYyZjZjMmU1NTFkYjM2YzJiYjI3NzMwMjIwMTE3",
   "tracks": [
     {
       "added_at": "2023-03-22 18:34:31",
@@ -133,20 +133,20 @@
       "url": "https://open.spotify.com/track/5PgQUWkGftLINO7KkFytlO"
     },
     {
-      "added_at": "2022-08-06 01:30:30",
+      "added_at": "2020-04-22 18:52:29",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2023-05-27 19:18:16",
@@ -181,20 +181,20 @@
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
     },
     {
-      "added_at": "2020-04-22 18:52:29",
+      "added_at": "2022-08-06 01:30:30",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
       "added_at": "2023-03-23 17:46:49",
@@ -211,6 +211,22 @@
       "duration_ms": 185920,
       "name": "Rosa Pastel",
       "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
+    },
+    {
+      "added_at": "2022-08-06 01:16:49",
+      "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2022-07-14 21:23:03",
@@ -231,22 +247,6 @@
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
-    },
-    {
-      "added_at": "2022-08-06 01:16:49",
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2022-08-06 01:30:30",
@@ -303,22 +303,6 @@
       "duration_ms": 230280,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
-    },
-    {
-      "added_at": "2023-03-22 18:34:31",
-      "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Dia de Enero",
-      "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
     },
     {
       "added_at": "2021-07-12 14:03:12",
@@ -441,6 +425,22 @@
       "url": "https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx"
     },
     {
+      "added_at": "2023-03-22 18:34:31",
+      "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Dia de Enero",
+      "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
+    },
+    {
       "added_at": "2021-07-12 14:03:12",
       "album": {
         "name": "Permission to Dance",
@@ -471,22 +471,6 @@
       "duration_ms": 198520,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
-    },
-    {
-      "added_at": "2020-04-23 18:59:24",
-      "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "No Hay Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
     },
     {
       "added_at": "2022-07-14 21:23:03",
@@ -527,6 +511,22 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
+    },
+    {
+      "added_at": "2020-04-23 18:59:24",
+      "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "No Hay Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
     },
     {
       "added_at": "2023-03-22 18:34:31",
@@ -621,26 +621,6 @@
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
     },
     {
-      "added_at": "2021-07-12 14:07:42",
-      "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
       "added_at": "2020-12-21 17:14:08",
       "album": {
         "name": "Amor Prohibido",
@@ -675,6 +655,26 @@
       "duration_ms": 176575,
       "name": "KESI - Remix",
       "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+    },
+    {
+      "added_at": "2021-07-12 14:07:42",
+      "album": {
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2023-03-22 18:34:31",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/1AO5MeGsWdPLejY47pnYYy"
     },
     {
-      "added_at": "2023-03-22 18:34:31",
-      "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Odio Amarte",
-      "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
-    },
-    {
       "added_at": "2022-09-02 14:13:29",
       "album": {
         "name": "Un A\u00f1o",
@@ -831,6 +815,22 @@
     {
       "added_at": "2023-03-22 18:34:31",
       "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Odio Amarte",
+      "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
+    },
+    {
+      "added_at": "2023-03-22 18:34:31",
+      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -847,26 +847,6 @@
       "duration_ms": 218232,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP"
-    },
-    {
-      "added_at": "2023-03-22 18:34:31",
-      "album": {
-        "name": "Latina",
-        "url": "https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Desde Esa Noche (feat. Maluma)",
-      "url": "https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E"
     },
     {
       "added_at": "2021-10-21 18:48:57",
@@ -891,22 +871,22 @@
     {
       "added_at": "2023-03-22 18:34:31",
       "album": {
-        "name": "30 de Febrero",
-        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         },
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 185573,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
+      "duration_ms": 227693,
+      "name": "Desde Esa Noche (feat. Maluma)",
+      "url": "https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E"
     },
     {
       "added_at": "2023-03-22 18:34:31",
@@ -923,6 +903,26 @@
       "duration_ms": 186373,
       "name": "Como La Flor - Remastered",
       "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": "2023-03-22 18:34:31",
+      "album": {
+        "name": "30 de Febrero",
+        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
     }
   ],
   "unique_name": "Pop para Ni\u00f1os",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Kodak Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,867 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,066 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 |
+| 1 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 |
 | 2 | [Presidential Rolex](https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Presidential Rolex](https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx) | 2:28 |
 | 3 | [Robberies](https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Robberies](https://open.spotify.com/album/2TTGhSL8VlgeoPac0G4aK0) | 2:08 |
 | 4 | [Ocean Spray](https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [No Degrees](https://open.spotify.com/track/3h8eogxxBl7nO0PakCictQ) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Trick City \(Deluxe\)](https://open.spotify.com/album/0s9ht3evRG374jM3oBzQua) | 2:39 |
 | 100 | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/track/1GyoJBAjrIkVkPdcl7yCn3) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/album/5ikRefLmkwyGl5UEVyQTCX) | 2:16 |
 
-Snapshot ID: `MCxhOTZhZGY5YTVlNDU0OGRlMDkxOGYyNmU4N2JiMmI1ZTQ3NjFlZGRj`
+Snapshot ID: `MCxiYjMzZDFjM2Q4ZDRmYmQxNTljNGY0MWRlYjczM2U0Njk4YjhmMzdh`

@@ -4,7 +4,7 @@
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-105 songs - 7 hr 51 min
+106 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [It Must Be Love](https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Complete Bill Evans On Verve](https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU) | 3:57 | 2023-03-15 |  |
 | [It's Beginning To Rain Again](https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Familiar Places](https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS) | 4:47 | 2023-03-15 |  |
 | [It's Not Easy Being Green](https://open.spotify.com/track/5zHwv15IXon9PTaT9YiSky) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [It's Not Easy Being Green](https://open.spotify.com/album/7qNoHvOCHg57CKMsDFUBFF) | 5:03 | 2023-05-31 | 2023-06-24 |
+| [It's Not Easy Being Green](https://open.spotify.com/track/7jKskHwsl2QtLamOtaLRkb) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...SPRING](https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc) | 5:03 | 2023-06-22 |  |
 | [I’ve Got A Crush On You](https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [The Art Of Elegance](https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo) | 2:54 | 2023-03-15 |  |
 | [Japanese Folk Song](https://open.spotify.com/track/5H91eWhSKcawShPDWN1Sxw) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Straight, No Chaser](https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ) | 16:40 | 2023-03-15 |  |
 | [Joy Spring](https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Happyfeet](https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP) | 6:40 | 2023-03-15 |  |
@@ -101,7 +102,7 @@
 | [They Say It's Spring](https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK) | [They Say It's Swing](https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN) | 4:09 | 2023-03-15 |  |
 | [Up Jumped Spring](https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Backlash](https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj) | 6:41 | 2023-03-15 |  |
 | [Very Early](https://open.spotify.com/track/58gg22rFN1xRC2MqKkzDNq) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 5:04 | 2023-03-15 |  |
-| [Westinghouse](https://open.spotify.com/track/5xBnT2MvhDcEmkE5OT9fvi) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:36 | 2023-03-15 |  |
+| [Westinghouse](https://open.spotify.com/track/5xBnT2MvhDcEmkE5OT9fvi) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:36 | 2023-03-15 | 2023-06-27 |
 | [What A Difference A Day Made](https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 5:09 | 2023-03-15 |  |
 | [When the Sun Comes Out](https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Nothing Standard](https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH) | 4:07 | 2023-03-15 |  |
 | [Who Needs Paris](https://open.spotify.com/track/5yA1ltXjiTkCaEvYi9nG8y) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx) | 4:00 | 2023-03-15 |  |

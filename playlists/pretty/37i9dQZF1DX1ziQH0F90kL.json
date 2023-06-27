@@ -1,12 +1,12 @@
 {
   "description": "Hoy es noche de...",
-  "num_followers": 17859,
+  "num_followers": 17971,
   "original_name": "Reggaeton Sexy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmJmYTZhM2I3ZWM4NzQ3N2Y0Njc2YzVhNzM0OWYxNTJjOGM2MWE2",
+  "snapshot_id": "MCw2MGQzYjBjOWMwZGE2MjlhOGEyNDg3ZTkyZWYxMjI4ODU3YjUwNjU2",
   "tracks": [
     {
       "added_at": "2023-05-25 17:54:04",
@@ -359,6 +359,26 @@
     {
       "added_at": "2023-05-25 17:54:04",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "LA NOCHE DE ANOCHE",
+      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
+    },
+    {
+      "added_at": "2023-05-25 17:54:04",
+      "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
       },
@@ -455,26 +475,6 @@
     {
       "added_at": "2023-05-25 17:54:04",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "LA NOCHE DE ANOCHE",
-      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
-    },
-    {
-      "added_at": "2023-05-25 17:54:04",
-      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 193456,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
-    },
-    {
-      "added_at": "2023-05-25 17:54:04",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "CAROLINA",
-      "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
     },
     {
       "added_at": "2023-05-25 17:54:04",
@@ -671,6 +655,22 @@
       "duration_ms": 186426,
       "name": "Girl",
       "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
+    },
+    {
+      "added_at": "2023-05-25 17:54:04",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "CAROLINA",
+      "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
     },
     {
       "added_at": "2023-05-25 17:54:04",
@@ -863,6 +863,26 @@
     {
       "added_at": "2023-05-25 17:54:04",
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Mr. Naisgai",
+          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "2/Catorce",
+      "url": "https://open.spotify.com/track/78QcVmzxS0wIwuC2rpAauI"
+    },
+    {
+      "added_at": "2023-05-25 17:54:04",
+      "album": {
         "name": "The Love & Sex Tape",
         "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 170760,
       "name": "Una Nota",
       "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
-    },
-    {
-      "added_at": "2023-05-25 17:54:04",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Mr. Naisgai",
-          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "2/Catorce",
-      "url": "https://open.spotify.com/track/78QcVmzxS0wIwuC2rpAauI"
     },
     {
       "added_at": "2023-05-25 17:54:04",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-05-25 17:54:04",
       "album": {
-        "name": "No Pinto Pajaritos",
-        "url": "https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 145349,
-      "name": "No Pinto Pajaritos",
-      "url": "https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r"
-    },
-    {
-      "added_at": "2023-05-25 17:54:04",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 208934,
       "name": "LEJOS DEL CIELO",
       "url": "https://open.spotify.com/track/58EM1w815O5XZGWSF7DUCf"
+    },
+    {
+      "added_at": "2023-05-25 17:54:04",
+      "album": {
+        "name": "No Pinto Pajaritos",
+        "url": "https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 145349,
+      "name": "No Pinto Pajaritos",
+      "url": "https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r"
     },
     {
       "added_at": "2023-05-25 17:54:04",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-05-25 17:54:04",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "Esta Dej\u00e1",
-      "url": "https://open.spotify.com/track/3rP4fbwWIAxRqay8ozCvhu"
-    },
-    {
-      "added_at": "2023-05-25 17:54:04",
-      "album": {
         "name": "Borracho",
         "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 219750,
       "name": "Borracho",
       "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
+    },
+    {
+      "added_at": "2023-05-25 17:54:04",
+      "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "Esta Dej\u00e1",
+      "url": "https://open.spotify.com/track/3rP4fbwWIAxRqay8ozCvhu"
     },
     {
       "added_at": "2023-05-25 17:54:04",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-25 17:54:04",
       "album": {
-        "name": "Bayam\u00f3n",
-        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Bayam\u00f3n",
-      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
-    },
-    {
-      "added_at": "2023-05-25 17:54:04",
-      "album": {
         "name": "Un Viaje",
         "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2023-05-25 17:54:04",
       "album": {
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+    },
+    {
+      "added_at": "2023-05-25 17:54:04",
+      "album": {
         "name": "Nena Trampa",
         "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
       },
@@ -1463,30 +1463,6 @@
       "duration_ms": 183413,
       "name": "Mal\u00e9fica",
       "url": "https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy"
-    },
-    {
-      "added_at": "2023-05-25 17:54:04",
-      "album": {
-        "name": "S\u00edntomas de Soltera",
-        "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 241908,
-      "name": "S\u00edntomas de Soltera",
-      "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
     },
     {
       "added_at": "2023-05-25 17:54:04",
@@ -1527,6 +1503,30 @@
       "duration_ms": 182593,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/5mPuQwzVR3E7N43FxBBljc"
+    },
+    {
+      "added_at": "2023-05-25 17:54:04",
+      "album": {
+        "name": "S\u00edntomas de Soltera",
+        "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 241908,
+      "name": "S\u00edntomas de Soltera",
+      "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
     },
     {
       "added_at": "2023-05-25 17:54:04",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-05-25 17:54:04",
       "album": {
+        "name": "No Te Enamores",
+        "url": "https://open.spotify.com/album/6PXli9mP6Bx73bBqZk9sPE"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 183398,
+      "name": "No Te Enamores",
+      "url": "https://open.spotify.com/track/0EJu1RBtxzldMG2peczuPv"
+    },
+    {
+      "added_at": "2023-05-25 17:54:04",
+      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r"
       },
@@ -1643,30 +1659,6 @@
     {
       "added_at": "2023-05-25 17:54:04",
       "album": {
-        "name": "The Love & Sex Tape",
-        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 242603,
-      "name": "Tsunami (feat. Arcangel & De La Ghetto)",
-      "url": "https://open.spotify.com/track/0CS9Ypgubqau2INA8SFinq"
-    },
-    {
-      "added_at": "2023-05-25 17:54:04",
-      "album": {
         "name": "Gatita Gangster",
         "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
       },
@@ -1687,18 +1679,26 @@
     {
       "added_at": "2023-05-25 17:54:04",
       "album": {
-        "name": "No Te Enamores",
-        "url": "https://open.spotify.com/album/6PXli9mP6Bx73bBqZk9sPE"
+        "name": "The Love & Sex Tape",
+        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
       },
       "artists": [
         {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 183398,
-      "name": "No Te Enamores",
-      "url": "https://open.spotify.com/track/0EJu1RBtxzldMG2peczuPv"
+      "duration_ms": 242603,
+      "name": "Tsunami (feat. Arcangel & De La Ghetto)",
+      "url": "https://open.spotify.com/track/0CS9Ypgubqau2INA8SFinq"
     },
     {
       "added_at": "2023-05-25 17:54:04",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-05-25 17:54:04",
       "album": {
-        "name": "Cositas de la USA",
-        "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "Cositas de la USA",
-      "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
-    },
-    {
-      "added_at": "2023-05-25 17:54:04",
-      "album": {
         "name": "Tus Poses",
         "url": "https://open.spotify.com/album/5BKKUlMDOGTW0rF02Owg33"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 205463,
       "name": "M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/4WTF4MkWJSEeWhTNk3ywPT"
+    },
+    {
+      "added_at": "2023-05-25 17:54:04",
+      "album": {
+        "name": "Cositas de la USA",
+        "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "Cositas de la USA",
+      "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
     },
     {
       "added_at": "2023-05-25 17:54:04",

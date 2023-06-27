@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Nemahsis
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,057 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,054 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Siempre](https://open.spotify.com/track/0Dqmom7WoaeIAox1YLISs8) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Siempre](https://open.spotify.com/album/2ZxiQBQ8qj3bKVJwikvuwv) | 3:12 |
 | 50 | [The Way You Lie](https://open.spotify.com/track/4a3ooWSpe4eq511akVz2EW) | [Dayna Reid](https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR) | [The Way You Lie](https://open.spotify.com/album/6gbfnZj6dLApX6PRKadbFP) | 3:13 |
 
-Snapshot ID: `MCxhYzBiN2U4MjNjMTY0NTQ5ODY5YjQ5ZDMyZjEzZTNkZTIzMmFjODc3`
+Snapshot ID: `MCwyMDE1NTc4NzJiY2I1NWUzMDFlOWY0YzIxZjkzOGU3YTIzOGE1NDRm`

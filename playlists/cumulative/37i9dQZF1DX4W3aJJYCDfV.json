@@ -2654,6 +2654,24 @@
     {
       "album": {
         "name": "Advance War",
+        "url": "https://open.spotify.com/album/6Rxmgt4aEKVLdthi1Dd5tZ"
+      },
+      "artists": [
+        {
+          "name": "Boy Boy",
+          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89986,
+      "name": "Advance War",
+      "url": "https://open.spotify.com/track/1IflPtXT6iWsqoCijTYdVd"
+    },
+    {
+      "album": {
+        "name": "Advance War",
         "url": "https://open.spotify.com/album/3VDwz0ewBv9MYYiQ8aUSmg"
       },
       "artists": [
@@ -2664,7 +2682,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 89986,
       "name": "Advance War",
       "url": "https://open.spotify.com/track/3RVDLEd7uCwpxgPVlMwYKf"

@@ -1,12 +1,12 @@
 {
   "description": "Formas musicales de decir \"Te quiero\".",
-  "num_followers": 315420,
+  "num_followers": 315455,
   "original_name": "Te quiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmMyNTlmYjg4YjU2Y2U5MjNiYWYwM2RiMjQyNWNmZDlmMzU5OWU3",
+  "snapshot_id": "MCwwNWVjMzE0OGQ3ZGQxNTMyOTk3ZDVhMjA3NDA5YjE1NjM2MTk3ZmM3",
   "tracks": [
     {
       "added_at": "2021-02-12 18:11:45",
@@ -131,22 +131,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -211,6 +211,22 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -303,26 +303,6 @@
       "duration_ms": 182360,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
-        "name": "Rock Of The Westies",
-        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kiki Dee",
-          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Don't Go Breaking My Heart",
-      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -419,6 +399,26 @@
       "duration_ms": 278573,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "Rock Of The Westies",
+        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 298120,
-      "name": "The Way You Make Me Feel - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -883,6 +867,22 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 298120,
+      "name": "The Way You Make Me Feel - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
-        "name": "XSCAPE",
-        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 246026,
-      "name": "Love Never Felt So Good",
-      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -983,6 +963,26 @@
       "duration_ms": 261573,
       "name": "My Love Is Your Love",
       "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 246026,
+      "name": "Love Never Felt So Good",
+      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Waking Up The Neighbours",
-        "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 394133,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
         "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 157666,
       "name": "When I'm Sixty Four - Remastered 2009",
       "url": "https://open.spotify.com/track/1NrbnHlR2BFREcyWXHIHip"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "Waking Up The Neighbours",
+        "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 394133,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
     },
     {
       "added_at": "2021-02-12 18:11:45",

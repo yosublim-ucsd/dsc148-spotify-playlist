@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-592 songs - 1 day 1 hr 46 min
+593 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 | 2021-12-07 |  |
 | [In the Company of My Solitude](https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [In the Company of My Solitude](https://open.spotify.com/album/4DbvoAadQ8bDRPuM4JKrRs) | 2:44 | 2021-12-07 |  |
 | [In This Moment](https://open.spotify.com/track/0dHnMcMVjESThYMUpadvaz) | [Joshua Lee Flowers](https://open.spotify.com/artist/4Ps4VWJ07syyg7bAZ7OEVR) | [In This Moment](https://open.spotify.com/album/5pvw3nwZsTrJ2zSh9Nmoud) | 1:57 | 2021-12-07 | 2022-09-26 |
+| [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 | 2023-06-20 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2021-12-07 |  |
 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2021-12-07 | 2022-09-24 |
 | [Intermedanos](https://open.spotify.com/track/4XR0XV2Quru1vEYZvTyWEP) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Intermedanos](https://open.spotify.com/album/39KxecFN1USX9DDlAU8ITO) | 2:35 | 2022-02-01 | 2022-09-16 |
@@ -414,7 +415,7 @@
 | [Rana Tranquiliana](https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Rana Tranquiliana](https://open.spotify.com/album/4FU3mPjMgdpaNVMwofKqow) | 2:59 | 2021-12-07 | 2023-04-06 |
 | [Rascasse](https://open.spotify.com/track/7x04Qcp0xBDRebzHGRdtgn) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Rascasse](https://open.spotify.com/album/5fjEwgHxHBkjj88XEvXoTu) | 2:50 | 2021-12-07 | 2022-04-21 |
 | [Ravi](https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr) | [Esmiralda Rose](https://open.spotify.com/artist/6FkagsRLc16z6rwYW6Tteh) | [Teesta](https://open.spotify.com/album/0qufLQ0kHyKenooeC8KK3T) | 2:24 | 2021-12-07 |  |
-| [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 | 2022-02-15 |  |
+| [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 | 2022-02-15 | 2023-06-27 |
 | [reflect](https://open.spotify.com/track/5FRKQvwwsBVwHKfG5QuL4h) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [reflect](https://open.spotify.com/album/2HPnSOnsjv5OMhhKZD83eD) | 2:26 | 2021-12-07 | 2022-05-21 |
 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 | 2021-12-07 |  |
 | [Relationships](https://open.spotify.com/track/5MfdSgLFVnTRysU8lNAoGt) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [Relationships](https://open.spotify.com/album/5hCswrPQMQHv91xdeanu25) | 3:08 | 2021-12-07 | 2022-01-19 |

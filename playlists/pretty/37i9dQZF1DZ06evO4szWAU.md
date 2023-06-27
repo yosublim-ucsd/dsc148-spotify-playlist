@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 
 > This is Willie Colón\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,288 likes - 51 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,329 likes - 51 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 28 | [Ligia Elena](https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 6:04 |
 | 29 | [Asia](https://open.spotify.com/track/55fQM5yPg6bv7mTUAok8FF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 5:53 |
 | 30 | [Cueste Lo Que Cueste](https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:18 |
-| 31 | [Siembra](https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 5:25 |
-| 32 | [Dime](https://open.spotify.com/track/1qrJSmYy08r64JG7h5NG0r) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra \(Special Edition\)](https://open.spotify.com/album/0eEepSVOpeDUxu5TKcaZHJ) | 7:01 |
+| 31 | [Dime](https://open.spotify.com/track/1qrJSmYy08r64JG7h5NG0r) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra \(Special Edition\)](https://open.spotify.com/album/0eEepSVOpeDUxu5TKcaZHJ) | 7:01 |
+| 32 | [Siembra](https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 5:25 |
 | 33 | [El Malo](https://open.spotify.com/track/1fIjc50dmcl9PkH3E4iG4E) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Malo](https://open.spotify.com/album/6ROTUtQlp130rdHDff3nhE) | 4:00 |
 | 34 | [Mi Sueno](https://open.spotify.com/track/7L1SGKE5a8GeCY03uY4XUS) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fantasmas](https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW) | 6:36 |
 | 35 | [Qué Lío](https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 4:37 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 50 | [Barrunto](https://open.spotify.com/track/0oCentzpU5hprEWJtggVIc) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Gran Fuga](https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l) | 5:36 |
 | 51 | [Piraña](https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 5:16 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDA5N2Q3OGUwYTZjZGY0NWRkZjdiMTljMWMyZTAyNGM2MA==`
+Snapshot ID: `MjgxMjk2OTYsMDAwMDAwMDAyYTM4YWRiMmJhZmI4Nzk5ODYxMTQ5MDgyYjBkMmU1NQ==`

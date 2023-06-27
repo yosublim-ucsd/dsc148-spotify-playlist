@@ -3479,6 +3479,24 @@
     },
     {
       "album": {
+        "name": "The Sound Of Thunder",
+        "url": "https://open.spotify.com/album/7w7vj19z0QzYlqkdAQYLGR"
+      },
+      "artists": [
+        {
+          "name": "Four Winds",
+          "url": "https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Night Storm",
+      "url": "https://open.spotify.com/track/1SirUENsOpONVZ7DKCg0VU"
+    },
+    {
+      "album": {
         "name": "Night Rain",
         "url": "https://open.spotify.com/album/4r2Q2dqJDccNG92ocD3EtY"
       },
@@ -3890,6 +3908,24 @@
       "duration_ms": 118000,
       "name": "Pluie et tonnerre",
       "url": "https://open.spotify.com/track/49lC3wHsYUScNtjjnlsA46"
+    },
+    {
+      "album": {
+        "name": "Pluie Paisible en For\u00eat",
+        "url": "https://open.spotify.com/album/0kk18kfIPwwitpwDH4FTCZ"
+      },
+      "artists": [
+        {
+          "name": "\u00c9quipage ambiant",
+          "url": "https://open.spotify.com/artist/2WI0t9L9e4wmhiV7HYp9BU"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Pluie Fra\u00eeche en For\u00eat",
+      "url": "https://open.spotify.com/track/0UpFU29vwGW37q9naircXx"
     },
     {
       "album": {
@@ -4408,7 +4444,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 127542,
       "name": "Rain Meditation",
       "url": "https://open.spotify.com/track/57zsjpyXmUl5m1gluaEdBH"
@@ -5956,7 +5992,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 208000,
       "name": "Stormy Conditions",
       "url": "https://open.spotify.com/track/5s5LmyLUHj01WhJLYruZwS"

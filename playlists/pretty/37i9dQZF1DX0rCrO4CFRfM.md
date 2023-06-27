@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,310 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,589 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 8 | [It's Been Awhile \- Acoustic Version](https://open.spotify.com/track/7BthXjPvJzKfK84oD9DQNq) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Acoustic Hits](https://open.spotify.com/album/48RcoM9N0GrQ3JgRIzAvvp) | 4:30 |
 | 9 | [The Middle \- Acoustic Version](https://open.spotify.com/track/7HJmJYQqBq2tn7RleFlun5) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8) | 3:10 |
 | 10 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 |
-| 11 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
-| 12 | [Summer Of '69 \- MTV Unplugged Version](https://open.spotify.com/track/1OQpTtcuAauAqp5Okxtbs2) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/081klksuaEwHIzuHGCks5p) | 4:01 |
+| 11 | [Summer Of '69 \- MTV Unplugged Version](https://open.spotify.com/track/1OQpTtcuAauAqp5Okxtbs2) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/081klksuaEwHIzuHGCks5p) | 4:01 |
+| 12 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 13 | [Two Steps Behind \- String / Acoustic Version](https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 4:16 |
 | 14 | [Scars \- Acoustic Version](https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Scars](https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D) | 3:11 |
 | 15 | [Kryptonite](https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic Back Porch Jam](https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC) | 3:55 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 20 | [The Reason \- Acoustic](https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(Acoustic\) / Right Before Your Eyes](https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36) | 3:54 |
 | 21 | [Wherever You Will Go \- Acoustic](https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:20 |
 | 22 | [Bad Life \- acoustic](https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life \(acoustic\)](https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI) | 3:40 |
-| 23 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
-| 24 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
+| 23 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
+| 24 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
 | 25 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 |
 | 26 | [I Wanna Get Lost With You \(Acoustic 2015\)](https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 4:17 |
 | 27 | [Are You Gonna Be My Girl \- Acoustic](https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Are You Gonna Be My Girl](https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa) | 3:57 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 37 | [Save Me \- Acoustic](https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Us and Them \(Deluxe Edition\)](https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q) | 3:22 |
 | 38 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
 | 39 | [Youth Of The Nation \- Acoustic Version](https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [SoCal Sessions](https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo) | 4:22 |
-| 40 | [Bored To Death \(Acoustic\)](https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS) | 3:55 |
-| 41 | [I Sat by the Ocean \- Live Acoustic](https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Cologne \(Spotify Exclusive\)](https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an) | 4:35 |
+| 40 | [I Sat by the Ocean \- Live Acoustic](https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Cologne \(Spotify Exclusive\)](https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an) | 4:35 |
+| 41 | [Bored To Death \(Acoustic\)](https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS) | 3:55 |
 | 42 | [Walk On Water \- Acoustic](https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Walk On Water \(Acoustic\)](https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142) | 3:08 |
 | 43 | [Kill The Noise \- Acoustic](https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise \(Acoustic\)](https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI) | 2:41 |
 | 44 | [Shooting Stars \- in the Woods](https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Shooting Stars \(in the Woods\)](https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [Into The Fire \- Acoustic Version](https://open.spotify.com/track/5XFrgSArUenTn9wbPXDmtA) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Into The Fire \(Acoustic Version\)](https://open.spotify.com/album/0k24UhmxDogFwBroGUDymg) | 3:28 |
 | 50 | [Pardon Me \- Acoustic](https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [When Incubus Attacks, Vol\. 1](https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw) | 3:47 |
 
-Snapshot ID: `MCw3YjlmNDI3YzZlNTYyNzZlMDVmYmU2YWZmZDU5YTZlNDVhZWY0MjQ1`
+Snapshot ID: `MCwxYTY2ZTg2MmVjNDNhODBjYzBkNDFlZjhiMWViMzQ2ZDYxOWQ5OTRj`

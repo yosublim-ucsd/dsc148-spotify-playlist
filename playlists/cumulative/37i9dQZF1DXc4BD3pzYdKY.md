@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36">Trip Lee</a>
 
-782 songs - 1 day 15 hr 17 min
+783 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Backslide](https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Backslide](https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F) | 2:30 | 2022-07-17 |  |
 | [Bad Kid Great God](https://open.spotify.com/track/5Jr5UZSwkkbv6iqdI046rA) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Bad Kid Great God](https://open.spotify.com/album/68IZc6DL32U0hzOyFINoZf) | 2:36 | 2022-05-28 | 2022-09-12 |
 | [BADMAN](https://open.spotify.com/track/4TIg48icSzqwThnahl0tR1) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [BADMAN](https://open.spotify.com/album/2eHRubiT5zlBfrr2Mz5CVQ) | 2:38 | 2022-03-12 | 2022-04-22 |
+| [Band and a Drummer](https://open.spotify.com/track/79UV9XRNKSy4VhZBtTFveT) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Band and a Drummer](https://open.spotify.com/album/2WpcnkaQZdgRkvQ5sx4pjc) | 2:17 | 2023-04-28 |  |
 | [BANG! BANG!](https://open.spotify.com/track/6vk8gF6WJJTQ4lmdfqRFXr) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [BANG! BANG!](https://open.spotify.com/album/1TsUCH8sjDmB5XVgOsMb6W) | 2:38 | 2022-02-04 | 2022-08-07 |
 | [Banner \(feat\. Zay Jones & Torey D'Shaun\)](https://open.spotify.com/track/7K1u44U0085H0hu2BbPxbI) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk), [Zay Jones](https://open.spotify.com/artist/0E4tZUFpHURZ2NFqc2hluK), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Banner \(feat\. Zay Jones & Torey D'Shaun\)](https://open.spotify.com/album/43QDVMXACG2khCZNFGlgOP) | 3:03 | 2021-12-11 | 2022-03-11 |
 | [Barbershop \(feat\. Big Fil\)](https://open.spotify.com/track/45CpcMVmo2BMUuVC3EMFLE) | [King Chav](https://open.spotify.com/artist/1e5ZIHiMERAHN9fsK3sdGt), [Big Fil](https://open.spotify.com/artist/3Z9WkQI6AWxDCHBFeA9FDF) | [The Trailer](https://open.spotify.com/album/2t17lDbzN9hM3WfbMvtGuf) | 3:12 | 2021-12-11 | 2022-04-27 |
@@ -107,7 +108,7 @@
 | [Born For This](https://open.spotify.com/track/3ZlR7uu5sJXarPa9Pt5TlT) | [Cephas](https://open.spotify.com/artist/6ullBRZTTK0lT7fUqbgbKD) | [Born For This](https://open.spotify.com/album/4QYvAOcgjgBXIw97fT8gMm) | 3:26 | 2021-12-11 | 2022-03-07 |
 | [BOTS \(freestyle\)](https://open.spotify.com/track/73csrPe5BOciEL8EQX6C0p) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [BOTS \(freestyle\)](https://open.spotify.com/album/7yv9goNuPJecL9U7LD5lhe) | 1:48 | 2022-04-29 | 2022-07-05 |
 | [Bounce Back](https://open.spotify.com/track/5wjKuyljKfdfR6kicEvLnW) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [Bounce Back](https://open.spotify.com/album/0zsk6tXiEZW7xRVWPzeFy2) | 3:04 | 2021-12-11 | 2022-03-08 |
-| [bounce back.](https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [bounce back.](https://open.spotify.com/album/748L8OCoABosEZF41AzgtM) | 3:07 | 2022-06-25 |  |
+| [bounce back.](https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [bounce back.](https://open.spotify.com/album/748L8OCoABosEZF41AzgtM) | 3:07 | 2022-06-25 | 2023-06-27 |
 | [Brand New Man \(feat\. Scootie Wop\)](https://open.spotify.com/track/4T0MPixsCIy9a9pEV6fuWZ) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Brand New Man \(feat\. Scootie Wop\)](https://open.spotify.com/album/4WDiLeasKyJikzR5r6wO4k) | 3:10 | 2021-12-11 | 2022-02-02 |
 | [Breakthrough](https://open.spotify.com/track/3krQNq70JOehjfLUcNYrIb) | [Dia Viola](https://open.spotify.com/artist/21tjJAnF9xKj2ddhpgJOqQ), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Breakthrough](https://open.spotify.com/album/53RpQQPEgDoo6Z1yL61eAS) | 3:33 | 2021-12-11 | 2022-02-05 |
 | [Broken](https://open.spotify.com/track/5amww1Uz58ySe8JB67tgiU) | [Joseph Goulding](https://open.spotify.com/artist/0F6SbLHtWRtX6nmmyTuXp0), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [tristxn!](https://open.spotify.com/artist/0YdkgjofQiH1Hdsyi9lsm8) | [Broken](https://open.spotify.com/album/5TpxwY3a4V0rUwYiZWchBC) | 2:48 | 2022-05-28 | 2022-09-12 |

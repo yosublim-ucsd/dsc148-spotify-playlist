@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 141200,
+  "num_followers": 141325,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjNlY2ZlYzA5OGFmNDkwMzRkOTMzMmU1YjVkZmNiYmNhZjliZTk4",
+  "snapshot_id": "MCxhNzM0ZmQzYWQ2ZjFiMmVhYzIzMzhiNjA4YTkyYWNmNmVlZjFkOTJk",
   "tracks": [
     {
       "added_at": "2023-05-01 21:44:18",
@@ -243,6 +243,26 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
+        "name": "En Tu Perra Vida",
+        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 238677,
+      "name": "En Tu Perra Vida",
+      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 238236,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
-        "name": "En Tu Perra Vida",
-        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 238677,
-      "name": "En Tu Perra Vida",
-      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 233546,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 181306,
       "name": "17 A\u00f1os",
       "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 233546,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Cumbias con Garra Vol. IV *",
         "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
       },
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -755,22 +739,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
@@ -783,6 +751,22 @@
       "duration_ms": 216346,
       "name": "El Gigante De Hierro",
       "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Zool\u00f3gico Tropical",
+        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Cumbia De La Cobra",
+      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -803,18 +787,34 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Zool\u00f3gico Tropical",
-        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
       "artists": [
         {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 198613,
-      "name": "Cumbia De La Cobra",
-      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+      "duration_ms": 161906,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
+        "name": "Para Tucancillos y Tucancillas",
+        "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
         "name": "El Muchacho Alegre",
         "url": "https://open.spotify.com/album/7lgWY3Kx4zTv1fgv0qaRCx"
       },
@@ -883,38 +899,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Mi Trokita Cumbia",
-        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
-      },
-      "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "Mi Trokita Cumbia",
-      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
-        "name": "Para Tucancillos y Tucancillas",
-        "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "De Mexico para el Mundo",
         "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 188310,
       "name": "Vamonos de Fiesta",
       "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Mi Trokita Cumbia",
+        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
+      },
+      "artists": [
+        {
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "Mi Trokita Cumbia",
+      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Cahuates, Pistaches",
-        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
-      "duration_ms": 177053,
-      "name": "Cahuates, Pistaches",
-      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
+      "duration_ms": 145826,
+      "name": "En Vida",
+      "url": "https://open.spotify.com/track/0drxfRtLx9xMFAahZKGdh8"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
+        "name": "Cahuates, Pistaches",
+        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
         "name": "Cruzando Fronteras",
         "url": "https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
+        "name": "Arrempujala Arremangala",
+        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Los Karkik's",
+          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
         }
       ],
-      "duration_ms": 145826,
-      "name": "En Vida",
-      "url": "https://open.spotify.com/track/0drxfRtLx9xMFAahZKGdh8"
+      "duration_ms": 197982,
+      "name": "Arrempujala Arremangala",
+      "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1255,22 +1271,6 @@
       "duration_ms": 219968,
       "name": "El Paso del Gigante",
       "url": "https://open.spotify.com/track/3G0msIrMQ9vVzvFrnkS6vw"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
-        "name": "Arrempujala Arremangala",
-        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
-      },
-      "artists": [
-        {
-          "name": "Los Karkik's",
-          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
-        }
-      ],
-      "duration_ms": 197982,
-      "name": "Arrempujala Arremangala",
-      "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Tengo Una Illusi\u00f3n",
-        "url": "https://open.spotify.com/album/3hbjT0ctHBW6BxZLcysm7m"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "Pena Tras Pena",
-      "url": "https://open.spotify.com/track/17Atin09BMavpAvwc8qWph"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -1503,18 +1487,34 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Aceptalo Ya !",
-        "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
+        "name": "Tengo Una Illusi\u00f3n",
+        "url": "https://open.spotify.com/album/3hbjT0ctHBW6BxZLcysm7m"
       },
       "artists": [
         {
-          "name": "Los Canarios De Michoacan",
-          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 202200,
-      "name": "El Wiri Wiri Aka El Guiri Guiri",
-      "url": "https://open.spotify.com/track/1fYwFiuLGzGuXRiwvHqqjl"
+      "duration_ms": 170600,
+      "name": "Pena Tras Pena",
+      "url": "https://open.spotify.com/track/17Atin09BMavpAvwc8qWph"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Arrempujala Arremangala",
+        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
+      },
+      "artists": [
+        {
+          "name": "Los Karkik's",
+          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "La Jaiba",
+      "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
     }
   ],
   "unique_name": "Mexican Party Anthems",

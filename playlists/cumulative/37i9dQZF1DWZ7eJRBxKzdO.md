@@ -4,7 +4,7 @@
 
 > The summer needs dance hits 😎☀️
 
-277 songs - 14 hr 5 min
+278 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/track/154YAkNQuFHLV3LbP7gP1f) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:20 | 2023-04-06 | 2023-06-15 |
 | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/track/3uxsrlRldPneshvxlXVcYS) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/album/7oKItkOXBRe3XwGP8ZMSLj) | 3:20 | 2022-05-02 | 2022-07-29 |
 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 | 2022-05-02 | 2023-06-25 |
+| [Gatluak \- Bakermat Remix](https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ) | [Kronan](https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr), [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Gatluak \(Bakermat Remix\)](https://open.spotify.com/album/1XVR96ao2iSG3yDGr1a1rN) | 2:19 | 2023-06-26 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM) | 2:56 | 2022-05-19 | 2022-05-27 |
 | [Girl](https://open.spotify.com/track/0WAgwdyjTwx2TT55W8z8lu) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Girl](https://open.spotify.com/album/2AqUNG1UqSQrik7Q3YWCNm) | 2:39 | 2022-05-02 | 2022-07-27 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-03-01 |  |
@@ -122,7 +123,7 @@
 | [i miss u \(with Au/Ra\)](https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [i miss u \(with Au/Ra\)](https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5) | 2:52 | 2022-05-02 | 2022-06-01 |
 | [I Need to Know \(feat\. Flynn\)](https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [I Need to Know \(feat\. Flynn\)](https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA) | 2:35 | 2023-02-09 |  |
 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 | 2022-05-02 |  |
-| [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-05-15 |  |
+| [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-05-15 | 2023-06-27 |
 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 | 2022-07-28 | 2022-08-11 |
 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 | 2022-09-08 | 2023-03-02 |
 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 | 2022-05-02 | 2022-07-29 |

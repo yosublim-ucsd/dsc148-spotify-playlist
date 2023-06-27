@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288570,
+      "name": "Sunday Mumma",
+      "url": "https://open.spotify.com/track/0DrPT9AgNC4CsNV3XgWA0y"
+    },
+    {
+      "album": {
         "name": "Solid Soul",
         "url": "https://open.spotify.com/album/5kjFbhLFuJ5mMlsAcCWPjq"
       },
@@ -968,6 +986,24 @@
       "duration_ms": 195666,
       "name": "The Bird",
       "url": "https://open.spotify.com/track/4jFZD6o5mVv6rwperMPVYr"
+    },
+    {
+      "album": {
+        "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167760,
+      "name": "The Burners Jam",
+      "url": "https://open.spotify.com/track/5vcrku8JpkYB0qjnl8trWz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die nuutste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb?si=RNU9fsZ7SIGhOXTDUCILPQ">Die Heuwels Fantasties</a> & "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=I\-UqnpQOQWqkP8iMYBYN2w">Demi Lee Moore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,564 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,586 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [DROOMSINDROOM \- lil sadddyz Remix](https://open.spotify.com/track/5tQiVarPCcNylzDPZ5xOvl) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ), [lil sadddyz](https://open.spotify.com/artist/3vAfmEHFFkV2aBeyR7EfJz) | [DROOMSINDROOM](https://open.spotify.com/album/61McyYzaWujRWwZZL6PKYL) | 2:47 |
 | 50 | [Klein Botteltjie Groot Gif](https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Klein Botteltjie Groot Gif](https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD) | 3:29 |
 
-Snapshot ID: `MCwyMDY1NjdmYWVhMTc2MTU4NDNkMmYxNWMwZDI4NjA5OWNhOGY2MTQz`
+Snapshot ID: `MCwyZTU2Y2ZhNDNmZjQ4NzQ5MjE3Nzc2ZGMyYTY5M2RjZWUxZGNmMjM1`

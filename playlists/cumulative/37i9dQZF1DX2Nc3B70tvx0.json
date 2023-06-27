@@ -6159,6 +6159,24 @@
     },
     {
       "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8"
+      },
+      "artists": [
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352866,
+      "name": "Dear Arkansas Daughter",
+      "url": "https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo"
+    },
+    {
+      "album": {
         "name": "Future Past Life",
         "url": "https://open.spotify.com/album/72tIS6tPTKymncSkk2ezBJ"
       },
@@ -10792,7 +10810,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 270453,
       "name": "Have Fun!",
       "url": "https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R"

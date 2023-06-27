@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 
 > This is Noah Kahan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,962 likes - 47 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,356 likes - 47 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 4 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 | 5 | [Call Your Mom](https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:38 |
 | 6 | [If We Were Vampires \(feat\. Wesley Schultz\) \- Spotify Singles](https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 3:37 |
-| 7 | [Hurt Somebody](https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 2:47 |
+| 7 | [Mess](https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:33 |
 | 8 | [All My Love](https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:11 |
 | 9 | [No Complaints](https://open.spotify.com/track/52DudaVZObvmBgEX6IObHX) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:25 |
 | 10 | [Maine](https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:52 |
-| 11 | [Mess](https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:33 |
+| 11 | [Hurt Somebody](https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 2:47 |
 | 12 | [Homesick](https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:14 |
 | 13 | [You’re Gonna Go Far](https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:46 |
 | 14 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 34 | [Pride \(with mxmtoon\)](https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Pride](https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN) | 2:49 |
 | 35 | [Catastrophize](https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 3:18 |
 | 36 | [Animal](https://open.spotify.com/track/00vhtWzNIISd9I04Cl3K7N) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:39 |
-| 37 | [We’re All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [We’re All Gonna Die](https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4) | 2:59 |
-| 38 | [Close Behind](https://open.spotify.com/track/3TtKAlue2cQRqx1MMnxrba) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:33 |
+| 37 | [Close Behind](https://open.spotify.com/track/3TtKAlue2cQRqx1MMnxrba) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:33 |
+| 38 | [We’re All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [We’re All Gonna Die](https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4) | 2:59 |
 | 39 | [Hold It Down](https://open.spotify.com/track/6xNaObGQT8V8OM5OEm6p3G) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hold It Down](https://open.spotify.com/album/61c9HH26RwgWbUyK6oSMRt) | 3:16 |
 | 40 | [Bad Luck](https://open.spotify.com/track/05CRP83e1AD3kl6rP1r5aB) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:11 |
 | 41 | [Need Your Love \(with Noah Kahan\)](https://open.spotify.com/track/1vsQb8n0icvMsFnL9663LM) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Gravity](https://open.spotify.com/album/5CaTHgZaRvb2vCK1mVbCR1) | 3:25 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 46 | [Hallelujah](https://open.spotify.com/track/0MFDzxcs2Zk47nLq7ukC4S) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hallelujah](https://open.spotify.com/album/4EJBYk8lfiRQZTHMJEdCtY) | 3:18 |
 | 47 | [Please](https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 4:12 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDAwMTM0ZjI5ZmFlZGM3OTI5OWQ3YmRlMTVkNDc2N2MyZQ==`
+Snapshot ID: `MjgxMjk2OTUsMDAwMDAwMDAyMWNlODNhZWYwZGFkODRkY2NmMGRiZTM4N2NkOWNiMg==`

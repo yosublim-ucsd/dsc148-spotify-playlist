@@ -1,12 +1,12 @@
 {
   "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
-  "num_followers": 13578,
+  "num_followers": 13606,
   "original_name": "Trap Bunny",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmI4YWIyOGIyN2I5OTkwYTYyOTdjMTFlODdlODkwZDMzZDU0MGIy",
+  "snapshot_id": "MCxhOTZmMmNiN2FhNTgyNWQwZjI3YzQwZGViMDI2MmU1M2I2YzJjMTdl",
   "tracks": [
     {
       "added_at": "2023-03-03 21:54:57",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-03-03 21:54:57",
       "album": {
-        "name": "Un Ratito Mas",
-        "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 283120,
-      "name": "Un Ratito Mas",
-      "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
-    },
-    {
-      "added_at": "2023-03-03 21:54:57",
-      "album": {
         "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
         "url": "https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 306373,
       "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
       "url": "https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi"
+    },
+    {
+      "added_at": "2023-03-03 21:54:57",
+      "album": {
+        "name": "Un Ratito Mas",
+        "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 283120,
+      "name": "Un Ratito Mas",
+      "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
     },
     {
       "added_at": "2023-03-03 21:54:57",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-03-03 21:54:57",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 156430,
-      "name": "BOOKER T",
-      "url": "https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So"
-    },
-    {
-      "added_at": "2023-03-03 21:54:57",
-      "album": {
         "name": "Soy Peor",
         "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 257384,
       "name": "Soy Peor",
       "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "added_at": "2023-03-03 21:54:57",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 156430,
+      "name": "BOOKER T",
+      "url": "https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So"
     },
     {
       "added_at": "2023-03-03 21:54:57",
@@ -594,15 +594,11 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 227939,
-      "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
-      "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
+      "duration_ms": 243275,
+      "name": "25/8",
+      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
     },
     {
       "added_at": "2023-03-03 21:54:57",
@@ -614,11 +610,15 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 243275,
-      "name": "25/8",
-      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
+      "duration_ms": 227939,
+      "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
+      "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
     },
     {
       "added_at": "2023-03-03 21:54:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,845 likes - 54 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,866 likes - 54 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 13 | [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 |
 | 14 | [Marijuana](https://open.spotify.com/track/1C9DajYq19423BwN85bNf0) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Cookie](https://open.spotify.com/album/5JkjCmyossmwy8kL2FRxgP) | 3:06 |
 | 15 | [Raabta](https://open.spotify.com/track/2nBdQVqfV2RFTSdcGfKsi7) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Raabta](https://open.spotify.com/album/4c8Wm3Dxq8BRrsPYEFF846) | 2:39 |
-| 16 | [Bach Ke](https://open.spotify.com/track/7euNoN3RtRhEK3qfqJLXFx) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Bach Ke](https://open.spotify.com/album/7eOK2jHdPbYCHv9BKZDOrM) | 2:53 |
+| 16 | [Bach Ke](https://open.spotify.com/track/7euNoN3RtRhEK3qfqJLXFx) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Bach Ke](https://open.spotify.com/album/7eOK2jHdPbYCHv9BKZDOrM) | 2:53 |
 | 17 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 |
 | 18 | [Mera Musafir](https://open.spotify.com/track/02zLhpWokJghrfZrwV2z8a) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Suno](https://open.spotify.com/album/3pHRNlVpIx4PBBXxBkoUTZ) | 4:51 |
 | 19 | [Dou Pal](https://open.spotify.com/track/59hkyI30Y03Zei8ITME2mz) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Dou Pal](https://open.spotify.com/album/5RpDf2hdASOFcyz88kVUZS) | 2:53 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 53 | [Sajna](https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Sajna](https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p) | 2:37 |
 | 54 | [Spicy](https://open.spotify.com/track/1APSHdEWYt0hlSlu5UcqJa) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Spicy](https://open.spotify.com/album/7C9tPnocJUdBMsZm9BGTDo) | 3:52 |
 
-Snapshot ID: `MCxjY2I3YjllNjNjN2UxNTU2MWRmMGI3Y2FhYzg3ZWNkMjg2NmNkNzIw`
+Snapshot ID: `MCxmMmZlY2I2ZGY4N2VjZmQxYTY5YTVhOGZkNzE5OWU4Y2ZkODY3MzJl`

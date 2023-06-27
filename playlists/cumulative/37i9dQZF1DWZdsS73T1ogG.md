@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Bad Gyal, Tokischa & Young Miko
 
-648 songs - 1 day 10 hr 53 min
+649 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 | 2023-04-21 |  |
 | [Qué Me Contás](https://open.spotify.com/track/06WTESRQbdQE1AQQdtEnWd) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Qué Me Contás](https://open.spotify.com/album/5ETSytNMTxtKKGTW1DDpue) | 3:29 | 2022-06-17 | 2022-06-30 |
 | [Qué Prefieres?](https://open.spotify.com/track/1YEQ5CvZVK9P4PsZY76GK5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Qué Prefieres?](https://open.spotify.com/album/5EswK2NXREOYyhrPk8lXb1) | 3:22 | 2022-09-23 | 2022-12-17 |
+| [Quítate La Ropa](https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Quítate La Ropa](https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7) | 2:19 | 2023-06-23 |  |
 | [Racks On Me](https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Racks On Me](https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc) | 3:03 | 2022-08-11 | 2022-10-29 |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-03-10 | 2023-04-29 |
 | [Reaction](https://open.spotify.com/track/755ZYuKkmvxrFm0hSCnff9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Reaction](https://open.spotify.com/album/00NYRqVAD0DNrWIBwNYB48) | 3:06 | 2022-03-21 | 2022-07-02 |
@@ -603,7 +604,7 @@
 | [Tu2Ru \- Reggaeton Version](https://open.spotify.com/track/1vTI9hSr1Mx32Yy4nHhncT) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Tu2Ru \(with Nio Garcia\)](https://open.spotify.com/album/7INP6va1mqzHgLUwqXPIgi) | 2:56 | 2022-06-10 | 2022-07-30 |
 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 | 2023-05-26 |  |
 | [Tusi](https://open.spotify.com/track/7J6Qcxd2V3MUY3ETrr2y6d) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Tusi](https://open.spotify.com/album/1BEDxGAOBRrYFqEGZP9IY8) | 2:38 | 2022-11-11 | 2023-01-10 |
-| [Twerk](https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Twerk](https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua) | 2:40 | 2023-03-17 |  |
+| [Twerk](https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Twerk](https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua) | 2:40 | 2023-03-17 | 2023-06-27 |
 | [Tírame](https://open.spotify.com/track/5s02iWgBdqnf75q0xTdvj4) | [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Astros](https://open.spotify.com/album/0ABNkRjooiKfK9ZNgWrCK0) | 3:56 | 2023-04-21 |  |
 | [Tú No Eras Así](https://open.spotify.com/track/6h1UftIKsK3dn9RJXhx4G9) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [All Star Game](https://open.spotify.com/album/7d0hMBy98bkBVRssATx4YL) | 3:00 | 2022-03-21 | 2022-04-02 |
 | [Uh Huh](https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Uh Huh](https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf) | 2:43 | 2022-08-19 | 2022-11-26 |

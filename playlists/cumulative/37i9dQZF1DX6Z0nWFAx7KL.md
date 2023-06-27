@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-154 songs - 7 hr 41 min
+155 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Little Bit of Faith](https://open.spotify.com/track/3AnCxW4JAndjVO7Uj1Onzi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [MY PARADE](https://open.spotify.com/artist/4odBqe9WOqpaQWwokqQyyt) | [Colors](https://open.spotify.com/album/6uhw5SnjSw9VGjjYEhlZuB) | 3:02 | 2022-09-15 | 2022-09-30 |
 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-15 |  |
 | [Afterglow](https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Afterglow](https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG) | 2:32 | 2022-12-22 |  |
-| [All of Me](https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [All of Me](https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu) | 2:41 | 2022-09-15 |  |
+| [All of Me](https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [All of Me](https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu) | 2:41 | 2022-09-15 | 2023-06-27 |
 | [All Shook Up](https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [All Shook Up](https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83) | 2:34 | 2022-12-29 |  |
 | [All The Highs \- Slowed](https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs \(Alternate Versions\)](https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc) | 3:51 | 2022-12-18 | 2023-02-14 |
 | [All This Time Alone](https://open.spotify.com/track/4gvhLNxyZbjDR9pUQVCc1Y) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [The Mannequin](https://open.spotify.com/artist/6OEwfaPcnzqHoZ5HlWEtL6) | [All This Time Alone](https://open.spotify.com/album/7zelNlPuN1e264IHe1d2p4) | 2:54 | 2023-06-08 | 2023-06-23 |
@@ -35,6 +35,7 @@
 | [Breathe](https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX) | [Breathe](https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ) | 2:48 | 2022-09-29 | 2023-03-18 |
 | [Can't Let You Go](https://open.spotify.com/track/2bh7A1pUvpZMiwzck86oLQ) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Can't Let You Go](https://open.spotify.com/album/75EO9h5vhfNkTLGyMHyftF) | 3:22 | 2022-09-29 | 2022-10-22 |
 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-09-29 |  |
+| [Careless Whisper](https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [ALUR](https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Careless Whisper](https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI) | 2:52 | 2023-06-26 |  |
 | [Chasing Daydreams](https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Chasing Daydreams](https://open.spotify.com/album/3Q1SershhxnM6HmiZy9bPw) | 2:45 | 2022-10-13 | 2023-03-02 |
 | [Close To Me](https://open.spotify.com/track/7ufA7tIRMoFd1jTKgAfgRF) | [Ryan Murgatroyd](https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU), [Amy Jones](https://open.spotify.com/artist/7fQm8t9kG15pcP3BFVqXQk) | [Close To Me](https://open.spotify.com/album/6puejdn1tcxwEHrxnjU5oj) | 4:57 | 2022-12-01 | 2022-12-18 |
 | [Come alive](https://open.spotify.com/track/3hEWU8JfRsKM74EagGviNu) | [Marble & Gold](https://open.spotify.com/artist/2SodjHn7iDJ2ZQeVogqWo7) | [Come alive](https://open.spotify.com/album/56tG12F6kTu2HJZHEslHPZ) | 3:54 | 2023-05-12 | 2023-06-23 |

@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-596 songs - 1 day 8 hr 50 min
+597 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [No Different](https://open.spotify.com/track/7ztlf9mCrjoLXAYYf0LCYx) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [sleepless in \_\_\_\_\_\_\_\_\_\_](https://open.spotify.com/album/0ku3S11VuwERVu81G7m0jv) | 3:20 | 2022-03-29 | 2022-04-21 |
 | [No Explanations](https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [ZHANG YANQI](https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F) | [No Explanations](https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9) | 3:07 | 2023-03-31 | 2023-05-13 |
 | [No Good In Goodbye](https://open.spotify.com/track/38ObpIH92W62oCBYhMW9hu) | [After Nourway](https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH) | [No Good In Goodbye](https://open.spotify.com/album/3nSZ1lJrHkv1ZPbSrAmmYD) | 3:48 | 2023-03-31 | 2023-04-21 |
-| [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 | 2023-01-06 |  |
+| [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 | 2023-01-06 | 2023-06-27 |
 | [No Worries](https://open.spotify.com/track/5ygNO0E9Nido0T6oJ8WqDU) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d) | 2:43 | 2022-03-29 | 2022-04-21 |
 | [nobody but you](https://open.spotify.com/track/0c16VSncpcvshuckI2tqt9) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [nobody but you](https://open.spotify.com/album/1YDl6NLyzn5xk5IF3usKxp) | 3:29 | 2023-02-23 | 2023-03-10 |
 | [Nobody Knows](https://open.spotify.com/track/45qZ8r4atGNjdFhhBy2Cvw) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Christopher Chu](https://open.spotify.com/artist/1Qy8AVuvIVgC27FXE8Nvhl) | [Nobody Knows](https://open.spotify.com/album/6Y7fCc18cmVYNCs4wHpPpc) | 3:21 | 2022-01-28 | 2022-10-15 |
@@ -521,6 +521,7 @@
 | [Thought of You](https://open.spotify.com/track/7c4uw1mBaMpoq6CJ1CShut) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [Thought of You](https://open.spotify.com/album/5sGXfxM4uBFue1MZFy4Sy9) | 4:12 | 2022-01-28 | 2022-05-26 |
 | [Till The Morning](https://open.spotify.com/track/7dyTGeerbfWSCMCfWETZ3K) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Till The Morning](https://open.spotify.com/album/6kL09GmdDpKlaM1veyxmZU) | 2:49 | 2022-11-10 | 2022-12-16 |
 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 | 2022-03-29 | 2022-04-20 |
+| [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-23 |  |
 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 | 2022-01-28 |  |
 | [To the Bone](https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Flying Solo](https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4) | 5:44 | 2022-01-28 |  |
 | [to the moon](https://open.spotify.com/track/4OgStHICGrhcZi4EG41cws) | [Chaleeda](https://open.spotify.com/artist/5Kmvlg4fSgle8RJU9LVbn4) | [to the moon](https://open.spotify.com/album/0eQQrn0jDNvUCXKVkrl32R) | 3:37 | 2022-01-28 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sam Smith
 
-398 songs - 22 hr 49 min
+400 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Stuck With U](https://open.spotify.com/track/2KjNR7eOwdcUhHPgfj5xsl) | [Andie Case](https://open.spotify.com/artist/4LtnUsI4DvVDN9U6Yqr8Mh), [Jonny Koch](https://open.spotify.com/artist/6qxoMSEQwOWYPABzhszh7Y) | [Stuck With U](https://open.spotify.com/album/6CpwPzeIRCFEb4ki1u17Va) | 3:40 | 2021-12-17 | 2022-12-30 |
 | [Summer Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Spotify Singles](https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV) | 3:34 | 2021-12-17 | 2022-05-02 |
 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 | 2021-12-17 | 2022-01-03 |
+| [Sunflower](https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [The Sunflower Covers \(From and Inspired by the Motion Picture "Spider\-Man: Across the Spider\-Verse"\)](https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ) | 2:41 | 2023-06-26 |  |
 | [Sweet Dreams \(Are Made of This\) \[Epic Mix\]](https://open.spotify.com/track/3IxGrrXUhehYdSHrEkhzRh) | [We Rabbitz](https://open.spotify.com/artist/05Zr3tq3xPIxChT2JfMDCe), [Moon Roses](https://open.spotify.com/artist/65yfUzuqGBdOTibkTeKNda) | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/album/1ryMDSZzakLR7RxHo6CmIx) | 2:43 | 2021-12-17 | 2022-12-30 |
 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/1XmhBZq2QahjdqebUbFwTW) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/album/6F92H0EuolbqbRUE4BygP8) | 2:45 | 2021-12-17 | 2022-05-02 |
 | [Take My Breath Away](https://open.spotify.com/track/7jolSfE1rnsBLg0DMWuTkm) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Take My Breath Away](https://open.spotify.com/album/6LN1YVc2JOrc7yYWTbbONh) | 3:00 | 2022-05-06 | 2022-12-30 |
@@ -365,6 +366,7 @@
 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 | 2021-12-17 | 2022-05-02 |
 | [Torn](https://open.spotify.com/track/3j9q9MpY5FNofZqlS8XyZZ) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Torn](https://open.spotify.com/album/24BosB3DMNzQlOTsThPuhk) | 3:37 | 2021-12-17 | 2022-12-30 |
 | [Toxic](https://open.spotify.com/track/72PMRGgYB1mkY3TsUJZtyc) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 4:27 | 2022-12-29 |  |
+| [True Colors \(Spotify Singles\)](https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [True Colors \(Spotify Singles\)](https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q) | 3:20 | 2023-06-26 |  |
 | [U Remind Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Spotify Singles](https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8) | 3:18 | 2021-12-17 | 2022-10-29 |
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 |  |
 | [Under the Bridge](https://open.spotify.com/track/3CLyuBt19RhZ6phMIrpB8H) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Under the Bridge](https://open.spotify.com/album/1OpakNwTaeLg5kXV0a21Ab) | 2:20 | 2022-01-14 | 2022-12-30 |

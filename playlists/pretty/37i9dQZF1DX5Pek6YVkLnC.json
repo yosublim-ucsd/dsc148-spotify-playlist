@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228269,
+  "num_followers": 228270,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
+  "snapshot_id": "MCxjNzM2NWU3ODE2YmUzOTVmNWRhZjE5NGYwMDI0NDNjNzQ1YjI0YzZk",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -231,6 +231,34 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "On Fleek",
+        "url": "https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 277217,
+      "name": "On Fleek",
+      "url": "https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "1% (Remix)",
         "url": "https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW"
       },
@@ -319,34 +347,6 @@
       "duration_ms": 240300,
       "name": "Invicta",
       "url": "https://open.spotify.com/track/7xlnIcw4lE6BMATPQXnqHf"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "On Fleek",
-        "url": "https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 277217,
-      "name": "On Fleek",
-      "url": "https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -455,6 +455,26 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "CONXSI\u00d3N",
+        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Lo Que Se Va",
+      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "East Side",
         "url": "https://open.spotify.com/album/3VFdfeQep8243UdqkJFEWC"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 150707,
       "name": "East Side",
       "url": "https://open.spotify.com/track/1RXZHzvwmNKwrnwAVLOxZU"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "CONXSI\u00d3N",
-        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Lo Que Se Va",
-      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/20gGKogH9MsM0IegKgrX5f"
-      },
-      "artists": [
-        {
-          "name": "Mhane",
-          "url": "https://open.spotify.com/artist/7iZYxykcEg1PSVTW7cWdqK"
-        },
-        {
-          "name": "Robert Taylor",
-          "url": "https://open.spotify.com/artist/1PbZZhQGxXdxgrcR1W8Ete"
-        }
-      ],
-      "duration_ms": 178529,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/4Lxsnyn9yJnkkHZKTAQynR"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "512",
         "url": "https://open.spotify.com/album/17JfLaj2zx8k9whBHN8wiI"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 183352,
       "name": "Gucci Prada",
       "url": "https://open.spotify.com/track/1DpyhxXcebRC3STmwMBXH3"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/20gGKogH9MsM0IegKgrX5f"
+      },
+      "artists": [
+        {
+          "name": "Mhane",
+          "url": "https://open.spotify.com/artist/7iZYxykcEg1PSVTW7cWdqK"
+        },
+        {
+          "name": "Robert Taylor",
+          "url": "https://open.spotify.com/artist/1PbZZhQGxXdxgrcR1W8Ete"
+        }
+      ],
+      "duration_ms": 178529,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/4Lxsnyn9yJnkkHZKTAQynR"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "TRAPPHONE",
+        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
+      },
+      "artists": [
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        }
+      ],
+      "duration_ms": 107984,
+      "name": "TRAPPHONE",
+      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Private Suite (Vol. 1)",
         "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 223836,
       "name": "Lealtad x Dinero",
       "url": "https://open.spotify.com/track/6EMCdTDkc4jGqXy4AN4vsw"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "TRAPPHONE",
-        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
-      },
-      "artists": [
-        {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
-        }
-      ],
-      "duration_ms": 107984,
-      "name": "TRAPPHONE",
-      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Respeto x Respeto",
-        "url": "https://open.spotify.com/album/5DR3tDpdVwZyo3LEY91zt1"
-      },
-      "artists": [
-        {
-          "name": "Midnvght",
-          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Respeto x Respeto",
-      "url": "https://open.spotify.com/track/4dvaoSqdSHRvvgjiBwuHkN"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Sempiterno",
         "url": "https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 159547,
       "name": "P.O.V.",
       "url": "https://open.spotify.com/track/0ZoHqqfllVIYGwM7cMhJgo"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Respeto x Respeto",
+        "url": "https://open.spotify.com/album/5DR3tDpdVwZyo3LEY91zt1"
+      },
+      "artists": [
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Respeto x Respeto",
+      "url": "https://open.spotify.com/track/4dvaoSqdSHRvvgjiBwuHkN"
     },
     {
       "added_at": "2023-06-09 20:20:12",

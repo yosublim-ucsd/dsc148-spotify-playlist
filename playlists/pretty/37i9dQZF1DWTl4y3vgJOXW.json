@@ -1,12 +1,12 @@
 {
   "description": "Fourth quarter, two minutes left .. get locked in",
-  "num_followers": 2808701,
+  "num_followers": 2810123,
   "original_name": "Locked In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODUyOGZkMjZkMjZiODY0NDFhN2U3MDdkNDkwNDFmYWMyNjc4Zjlj",
+  "snapshot_id": "MCxhMmY1ZDZjNDdkOWRiNGUzOTI5ZGM2MjcwMzgwMWM5ZWIxOTk3ZWIz",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -207,18 +207,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+      "duration_ms": 218364,
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
     },
     {
       "added_at": "2023-06-20 21:52:04",
@@ -239,6 +243,22 @@
       "duration_ms": 185748,
       "name": "Put It On Da Floor Again (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -275,26 +295,6 @@
       "duration_ms": 195906,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 218364,
-      "name": "Jimmy Cooks (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 144651,
-      "name": "Low Down",
-      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Look At Me!",
         "url": "https://open.spotify.com/album/3cyyJALrHc8LawnQNFYRWL"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 144651,
+      "name": "Low Down",
+      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "NAUJOUR",
         "url": "https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V"
       },
@@ -473,42 +473,6 @@
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Go Hard",
-        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 217610,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 209811,
-      "name": "Tomorrow 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
       "added_at": "2023-06-20 21:52:04",
       "album": {
         "name": "Johnny Dang (with Paul Wall & DRODi)",
@@ -535,22 +499,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 192956,
-      "name": "Wants and Needs (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -579,6 +543,42 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 192956,
+      "name": "Wants and Needs (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "MVP (feat. G-Eazy)",
         "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 173948,
       "name": "MVP (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "On Me",
-        "url": "https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 135959,
-      "name": "On Me",
-      "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -655,6 +639,22 @@
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 135959,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "BLAME IT ON BABY (DELUXE)",
-        "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 122586,
-      "name": "PRACTICE",
-      "url": "https://open.spotify.com/track/4Z5FyQlevoHoa5FsIVKZju"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "7220",
         "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 168160,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "BLAME IT ON BABY (DELUXE)",
+        "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 122586,
+      "name": "PRACTICE",
+      "url": "https://open.spotify.com/track/4Z5FyQlevoHoa5FsIVKZju"
     },
     {
       "added_at": "2023-06-09 04:00:00",

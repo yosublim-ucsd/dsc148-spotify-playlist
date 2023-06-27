@@ -806,6 +806,24 @@
       },
       "artists": [
         {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1dg59cDvlpaYfKKQCmmPBs"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110176,
+      "name": "Comment from MOONCHILD",
+      "url": "https://open.spotify.com/track/0B4Lha7iK6v0baBcZL0LBV"
+    },
+    {
+      "album": {
+        "name": "Weverse Con Festival Live set",
+        "url": "https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35"
+      },
+      "artists": [
+        {
           "name": "NewJeans",
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }

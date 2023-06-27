@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 509746,
+  "num_followers": 510328,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWNiNmMzZTdmY2I2ZjY1N2IyNDA5ODQxMzI0ODc3NDJmODczMjdl",
+  "snapshot_id": "MCwyOWNmMTgxYThiOTg4YmJjMzc3ODY5Y2M3Yjk1Njg3YTEzZDQwMTJj",
   "tracks": [
     {
       "added_at": "2023-02-14 19:26:52",
@@ -423,22 +423,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Here's To The Good Times...This Is How We Roll",
-        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 220906,
-      "name": "This Is How We Roll",
-      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -459,18 +455,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+        "name": "Here's To The Good Times...This Is How We Roll",
+        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 277573,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+      "duration_ms": 220906,
+      "name": "This Is How We Roll",
+      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Watching You",
-      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Damn Country Music",
         "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 259266,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Watching You",
+      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Rose Garden",
-        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
-      },
-      "artists": [
-        {
-          "name": "Lynn Anderson",
-          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 215173,
       "name": "Just To See You Smile",
       "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
+      },
+      "artists": [
+        {
+          "name": "Lynn Anderson",
+          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Rose Garden",
+      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "Pure Country",
+        "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "I Cross My Heart - Pure Country Soundtrack Version",
+      "url": "https://open.spotify.com/track/6FHXJu99aQAUnivEjPhuUR"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 200466,
       "name": "19 Somethin' - Greatest Hits Version",
       "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "Pure Country",
-        "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "I Cross My Heart - Pure Country Soundtrack Version",
-      "url": "https://open.spotify.com/track/6FHXJu99aQAUnivEjPhuUR"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 205920,
-      "name": "How Do You Like Me Now?!",
-      "url": "https://open.spotify.com/track/7LimFGKop84KMDutqYaNIF"
+      "duration_ms": 180320,
+      "name": "High Cotton",
+      "url": "https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 180320,
-      "name": "High Cotton",
-      "url": "https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl"
+      "duration_ms": 205920,
+      "name": "How Do You Like Me Now?!",
+      "url": "https://open.spotify.com/track/7LimFGKop84KMDutqYaNIF"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "When I Call Your Name",
         "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 209866,
       "name": "Should've Been A Cowboy",
       "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Lost In The Fifties Tonight",
         "url": "https://open.spotify.com/album/3s9Hu6hCMFAMbRPb93mBaG"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 258346,
       "name": "Lost In The Fifties Tonight",
       "url": "https://open.spotify.com/track/1p7hfw8melMsCbaaX36C0v"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "No Holdin' Back",
-        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "It's Just a Matter of Time",
-      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Teddy Bear",
         "url": "https://open.spotify.com/album/0xxE726J8JTLgjqwvYVOTb"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 299746,
       "name": "Teddy Bear",
       "url": "https://open.spotify.com/track/50hbhWWZ5b36hC6x7dh4bP"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "No Holdin' Back",
+        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "It's Just a Matter of Time",
+      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
     },
     {
       "added_at": "2023-02-14 19:26:52",

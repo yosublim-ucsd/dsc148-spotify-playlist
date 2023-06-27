@@ -1,12 +1,12 @@
 {
   "description": "Las canciones m\u00e1s escuchadas por la comunidad gamer en Latinoam\u00e9rica.",
-  "num_followers": 457900,
+  "num_followers": 457894,
   "original_name": "Top Gaming Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTdiNmU0NTUzMTZhMjE0MmY5M2JhZDM5ZjhkMTI3NTlmZGM1NmNj",
+  "snapshot_id": "MCxhZWZkMmU3MTM0NThlMTk2ZDI1YTYwZTczODkwYWU3YzMzNDMyYzRk",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -491,18 +491,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+      "duration_ms": 206420,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -531,6 +535,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "this is what ____ feels like (Vol. 1-4)",
         "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 120308,
       "name": "this is what falling in love feels like",
       "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 206420,
-      "name": "La Santa",
-      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -619,6 +619,46 @@
       "duration_ms": 201180,
       "name": "Sobrio",
       "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Diles",
+        "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "Diles",
+      "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -723,42 +763,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Diles",
-        "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
         }
       ],
-      "duration_ms": 286040,
-      "name": "Diles",
-      "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
+      "duration_ms": 175918,
+      "name": "A Tu Merced",
+      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -807,26 +823,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -843,6 +839,26 @@
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -919,22 +935,6 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 175918,
-      "name": "A Tu Merced",
-      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Burbujas de Cristal",
-        "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 224624,
-      "name": "Burbujas de Cristal",
-      "url": "https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Burbujas de Cristal",
+        "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 224624,
+      "name": "Burbujas de Cristal",
+      "url": "https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "Rockport Espacial",
         "url": "https://open.spotify.com/album/1RHKamkIrSEQAIUfsbYXvB"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 233300,
       "name": "Ma Vie (feat. Yay)",
       "url": "https://open.spotify.com/track/6UU24wuWgGwuSBAxDH866Z"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 226010,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -1899,26 +1919,6 @@
       "duration_ms": 303426,
       "name": "Emojis de Corazones (feat. Los Legendarios)",
       "url": "https://open.spotify.com/track/5Mw46yRtdiOdjqSG0eDItr"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 226010,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
     },
     {
       "added_at": "2023-06-16 06:00:00",

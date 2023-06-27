@@ -2,7 +2,7 @@
 
 ### [tropic.alt](https://open.spotify.com/playlist/37i9dQZF1DX8HSZzYIDgBB)
 
-> Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Macha Kiddo en portada.
+> Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Foudeqush y Jesse Baez en portada.
 
 267 songs - 16 hr 8 min
 

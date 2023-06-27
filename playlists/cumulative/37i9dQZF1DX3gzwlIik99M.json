@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Alteraci\u00f3n",
+        "url": "https://open.spotify.com/album/3iqUDLXxfCK023eFFqZp0c"
+      },
+      "artists": [
+        {
+          "name": "Arcadia Libre",
+          "url": "https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193358,
+      "name": "Alteraci\u00f3n",
+      "url": "https://open.spotify.com/track/3uSkIkwZ1TBJn0PQUExgtw"
+    },
+    {
+      "album": {
         "name": "Transcending Material Sins",
         "url": "https://open.spotify.com/album/2ZPznu2yFP7eHgzVrcpz0W"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 169130,
       "name": "Cantina Del Infierno",
       "url": "https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2"

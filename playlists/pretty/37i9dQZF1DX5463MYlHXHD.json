@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: DobleP, Repiola & R Jota.",
-  "num_followers": 547425,
+  "num_followers": 547523,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzdiNDM5NzJmNTcyYmI4ZGExMDk5YjRlZGZkZjc2MzM2NTI4NDQx",
+  "snapshot_id": "MCwwNDhkZjQxMDMwOWJhNzNlODIzNDJlZjk3MDU5ZDE1OWEyMjE4Yjcy",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -319,46 +319,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Fua Mi Amor",
-        "url": "https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Four Plack",
-          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
-        }
-      ],
-      "duration_ms": 165756,
-      "name": "Fua Mi Amor",
-      "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
@@ -387,6 +347,46 @@
       "duration_ms": 112507,
       "name": "Tamo Chelo",
       "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Fua Mi Amor",
+        "url": "https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Four Plack",
+          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+        }
+      ],
+      "duration_ms": 165756,
+      "name": "Fua Mi Amor",
+      "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Chocolate",
         "url": "https://open.spotify.com/album/57pKlw31D8Y0bAQAmcZDy8"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 157591,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/7IcdA7TnEtxAUvby7MukZY"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -579,26 +579,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "EL NOBA | DJ TAO Turreo Sessions #7",
-        "url": "https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH"
+        "name": "Me Muero de Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         },
         {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+          "name": "El Viejo Marquez",
+          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
         }
       ],
-      "duration_ms": 129069,
-      "name": "EL NOBA | DJ TAO Turreo Sessions #7",
-      "url": "https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n"
+      "duration_ms": 208619,
+      "name": "Me Muero de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -623,22 +619,42 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Me Muero de Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
+        "name": "EL NOBA | DJ TAO Turreo Sessions #7",
+        "url": "https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "El Viejo Marquez",
-          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
         }
       ],
-      "duration_ms": 208619,
-      "name": "Me Muero de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+      "duration_ms": 129069,
+      "name": "EL NOBA | DJ TAO Turreo Sessions #7",
+      "url": "https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Bailan Rochas y Chetas",
+      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -683,38 +699,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Bailan Rochas y Chetas",
-      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "TRUCHO",
         "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "100% Negro Cumbiero",
         "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 212253,
       "name": "El humo de mi fasito",
       "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -799,6 +783,22 @@
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
         "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 171434,
       "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
       "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1291,26 +1291,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Saveiro",
-        "url": "https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR"
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
       "artists": [
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 212210,
-      "name": "Saveiro",
-      "url": "https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q"
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1331,18 +1323,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+        "name": "Saveiro",
+        "url": "https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
         }
       ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+      "duration_ms": 212210,
+      "name": "Saveiro",
+      "url": "https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "LOGI",
-        "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
-      },
-      "artists": [
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "LOGI",
-      "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "\u00bfQu\u00e9 No Vale Nada?",
         "url": "https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac"
       },
@@ -1487,6 +1463,66 @@
       "duration_ms": 197040,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Mata",
+        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Mata",
+      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Los Dos Fallamos",
+        "url": "https://open.spotify.com/album/0oMFwEMTOKAE1RdDh3bKqz"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 160988,
+      "name": "Los Dos Fallamos",
+      "url": "https://open.spotify.com/track/54cM6oKMmHbhrzTV6Qj0KQ"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "LOGI",
+        "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "LOGI",
+      "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1539,42 +1575,6 @@
       "duration_ms": 1047973,
       "name": "Batalla Villera",
       "url": "https://open.spotify.com/track/3RxFQSlNXtcH3gVlAsCRhE"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Mata",
-        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Mata",
-      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Los Dos Fallamos",
-        "url": "https://open.spotify.com/album/0oMFwEMTOKAE1RdDh3bKqz"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        }
-      ],
-      "duration_ms": 160988,
-      "name": "Los Dos Fallamos",
-      "url": "https://open.spotify.com/track/54cM6oKMmHbhrzTV6Qj0KQ"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Venite Al Barrio",
+        "url": "https://open.spotify.com/album/6FaIAy4mMYiaZUWsutQSUS"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "duration_ms": 163401,
+      "name": "Venite Al Barrio",
+      "url": "https://open.spotify.com/track/502621sPRjwZnxC5N7Co80"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "DALE DALE",
         "url": "https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 183418,
       "name": "DALE DALE",
       "url": "https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Venite Al Barrio",
-        "url": "https://open.spotify.com/album/6FaIAy4mMYiaZUWsutQSUS"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        }
-      ],
-      "duration_ms": 163401,
-      "name": "Venite Al Barrio",
-      "url": "https://open.spotify.com/track/502621sPRjwZnxC5N7Co80"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "Ritmo Sabroson",
-      "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
         "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 158145,
       "name": "No Te Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "Ritmo Sabroson",
+      "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -2019,6 +2019,70 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Close de Ort!",
+        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "Me Re Cabio",
+      "url": "https://open.spotify.com/track/1OCG4qYwvzanyg4f1EcvYI"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Una Vela",
+        "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 124563,
+      "name": "Una Vela",
+      "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Alta Gira",
+        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
+      },
+      "artists": [
+        {
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+        }
+      ],
+      "duration_ms": 247144,
+      "name": "Vos de Bebe",
+      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Ritmo Sustancia",
+        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 268720,
+      "name": "Pocos Quedan",
+      "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/79ZYNjHhMRByHU6xYGYWuI"
       },
@@ -2071,6 +2135,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "El Mas Piola",
+        "url": "https://open.spotify.com/album/4W6N2aH9z7564n5CVyn3Ml"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "El Mas Piola",
+      "url": "https://open.spotify.com/track/25782MLWDupkChIl8kGJFZ"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "El Retutu",
         "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
       },
@@ -2083,70 +2167,6 @@
       "duration_ms": 202040,
       "name": "Acercate Bandida",
       "url": "https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Alta Gira",
-        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
-      },
-      "artists": [
-        {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
-        }
-      ],
-      "duration_ms": 247144,
-      "name": "Vos de Bebe",
-      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Ritmo Sustancia",
-        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 268720,
-      "name": "Pocos Quedan",
-      "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Close de Ort!",
-        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "Me Re Cabio",
-      "url": "https://open.spotify.com/track/1OCG4qYwvzanyg4f1EcvYI"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Una Vela",
-        "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 124563,
-      "name": "Una Vela",
-      "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -2191,50 +2211,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "El Mas Piola",
-        "url": "https://open.spotify.com/album/4W6N2aH9z7564n5CVyn3Ml"
-      },
-      "artists": [
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "El Mas Piola",
-      "url": "https://open.spotify.com/track/25782MLWDupkChIl8kGJFZ"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Sabado Picado",
-        "url": "https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Markito Navaja",
-          "url": "https://open.spotify.com/artist/5cpU1d4hNVlVL3zNcguTS0"
-        },
-        {
-          "name": "Joaco Lopez",
-          "url": "https://open.spotify.com/artist/72TU86QoReKLAjNKWvBiOR"
-        }
-      ],
-      "duration_ms": 137608,
-      "name": "Sabado Picado",
-      "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Puro Movimiento",
         "url": "https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi"
       },
@@ -2267,6 +2243,54 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Sabado Picado",
+        "url": "https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Markito Navaja",
+          "url": "https://open.spotify.com/artist/5cpU1d4hNVlVL3zNcguTS0"
+        },
+        {
+          "name": "Joaco Lopez",
+          "url": "https://open.spotify.com/artist/72TU86QoReKLAjNKWvBiOR"
+        }
+      ],
+      "duration_ms": 137608,
+      "name": "Sabado Picado",
+      "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Barra Libre",
+        "url": "https://open.spotify.com/album/4BxwFfRR2mzpzvHXbeipOW"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Gonzalo Nawel",
+          "url": "https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5"
+        }
+      ],
+      "duration_ms": 238112,
+      "name": "Barra Libre",
+      "url": "https://open.spotify.com/track/61nprE5601F6rxnEcTR5Dl"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Culo Pa 2 Tangas",
         "url": "https://open.spotify.com/album/6vA3jeLGv8Zixm640gPZVL"
       },
@@ -2287,22 +2311,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Los del Momento",
-        "url": "https://open.spotify.com/album/6G8N46ftkHtaeznBBUzJ7i"
-      },
-      "artists": [
-        {
-          "name": "El Jarra",
-          "url": "https://open.spotify.com/artist/3o42Mj5a6vwbelxOjuWq9e"
-        }
-      ],
-      "duration_ms": 154540,
-      "name": "Le\u00f1a para el Carbon",
-      "url": "https://open.spotify.com/track/7FNsfEyNOXiK6hzZ1kK5aA"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "25 Horas de Gira",
         "url": "https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL"
       },
@@ -2315,6 +2323,22 @@
       "duration_ms": 193515,
       "name": "Gobernada",
       "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Los del Momento",
+        "url": "https://open.spotify.com/album/6G8N46ftkHtaeznBBUzJ7i"
+      },
+      "artists": [
+        {
+          "name": "El Jarra",
+          "url": "https://open.spotify.com/artist/3o42Mj5a6vwbelxOjuWq9e"
+        }
+      ],
+      "duration_ms": 154540,
+      "name": "Le\u00f1a para el Carbon",
+      "url": "https://open.spotify.com/track/7FNsfEyNOXiK6hzZ1kK5aA"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -2347,30 +2371,6 @@
       "duration_ms": 150218,
       "name": "Mari y Juana",
       "url": "https://open.spotify.com/track/78x7mqnjsge3bQozhX6RcT"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Barra Libre",
-        "url": "https://open.spotify.com/album/4BxwFfRR2mzpzvHXbeipOW"
-      },
-      "artists": [
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "Gonzalo Nawel",
-          "url": "https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5"
-        }
-      ],
-      "duration_ms": 238112,
-      "name": "Barra Libre",
-      "url": "https://open.spotify.com/track/61nprE5601F6rxnEcTR5Dl"
     }
   ],
   "unique_name": "Cumbia de Barrio",

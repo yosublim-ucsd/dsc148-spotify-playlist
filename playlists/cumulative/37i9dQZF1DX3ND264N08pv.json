@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 173871,
       "name": "Dikke Rave Beat",
       "url": "https://open.spotify.com/track/164XRnFMsUiPCYkGmG5481"
@@ -3372,6 +3372,24 @@
       "duration_ms": 204631,
       "name": "We are Frenchcore",
       "url": "https://open.spotify.com/track/2m2R5CO0YORG5OWchqgjgf"
+    },
+    {
+      "album": {
+        "name": "Without Respect",
+        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
+      },
+      "artists": [
+        {
+          "name": "System of Fury",
+          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Without Respect",
+      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
     },
     {
       "album": {

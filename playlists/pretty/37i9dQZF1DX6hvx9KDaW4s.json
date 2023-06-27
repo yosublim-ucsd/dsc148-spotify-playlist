@@ -1,12 +1,12 @@
 {
   "description": "For when only raw rock will do...",
-  "num_followers": 557818,
+  "num_followers": 557983,
   "original_name": "The Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTNkYjI2NjFjMDEwZTUwNmQ1YWQxYTI1M2E3ODE2NzdiNTEzNDVm",
+  "snapshot_id": "MCw4YzFlNWE2YTY0MTA2NWRlNDZhMTdmNzA4ZmM2ZTM4MDRlMzc5NmNh",
   "tracks": [
     {
       "added_at": "2021-04-07 17:15:56",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-04-07 17:15:56",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
-    },
-    {
-      "added_at": "2021-04-07 17:15:56",
-      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 197200,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
+    },
+    {
+      "added_at": "2021-04-07 17:15:56",
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
       "added_at": "2021-04-07 17:15:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Valley
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,561 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,584 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 |
 | 100 | [Levia](https://open.spotify.com/track/7KHzVYe0fVMqvHLacHBZHT) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/7db13r50iuCjvrau6eRcHM) | 4:28 |
 
-Snapshot ID: `MCxhMjMyNjY5YzYwZGZhMWNlNzJhNGJlYWNmZGRmZWJmYjRjMDQ3ZDYx`
+Snapshot ID: `MCwxNmFlNmFjNDZiZjA4MjA0YWE1ZWNkNGI4NjlmYTk1MTg1MzVlYzZk`

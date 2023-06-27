@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 133 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 133 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 55 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 |
 | 56 | [Sideways](https://open.spotify.com/track/2sEZEhH1vR9BrPKfL8KJ6t) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:23 |
 | 57 | [Give It Time](https://open.spotify.com/track/5FoziGnQmXWy3tm87PVTbb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:10 |
-| 58 | [magic](https://open.spotify.com/track/5WWsBnrZ7vcjJSdvPJAVuO) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:25 |
-| 59 | [Lost Cause](https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:38 |
+| 58 | [Lost Cause](https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:38 |
+| 59 | [magic](https://open.spotify.com/track/5WWsBnrZ7vcjJSdvPJAVuO) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:25 |
 | 60 | [Hey You](https://open.spotify.com/track/0vaiDuoXItlByGGDTA0Ere) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:07 |
 | 61 | [Little Bit Of Love](https://open.spotify.com/track/26yuncamqQJwiuf4mUJMbj) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:22 |
 | 62 | [Cowboy Blues](https://open.spotify.com/track/6EUxzQVdE6H7tPSdVfQY9Y) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 4:00 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 77 | [love to love u](https://open.spotify.com/track/74o9qZ2H16sN1xHpfrfhkf) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [love to love u](https://open.spotify.com/album/4fqBuL5Lw8mepsiZUyWugY) | 3:58 |
 | 78 | [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 |
 | 79 | [i want you](https://open.spotify.com/track/3k8s9SgL9HJvUbKKKOdtwy) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [i want you](https://open.spotify.com/album/1GkdIe9m5cwcXx8ophbqqD) | 3:21 |
-| 80 | [don't pick up the phone](https://open.spotify.com/track/5j610MhjMLhyT2pPNy9Zj9) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 2:34 |
-| 81 | [I Feel Love](https://open.spotify.com/track/3gLl5qXcNS3GnYnW2MrFlN) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/64eviP6LXgFk5o9gdYWpF6) | 3:13 |
+| 80 | [I Feel Love](https://open.spotify.com/track/3gLl5qXcNS3GnYnW2MrFlN) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/64eviP6LXgFk5o9gdYWpF6) | 3:13 |
+| 81 | [don't pick up the phone](https://open.spotify.com/track/5j610MhjMLhyT2pPNy9Zj9) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 2:34 |
 | 82 | [Side](https://open.spotify.com/track/4gs5Xv10fgdkSO9Jrjq0rk) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Lucky Ones](https://open.spotify.com/album/6doKrVnhuZB7ajkdvCDvyC) | 3:27 |
 | 83 | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/7x9BbeXnB9ehDjit1EVzwj) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 3:00 |
 | 84 | [this christmas](https://open.spotify.com/track/0jWIUiQMQgrKVjkPEaRjK0) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 3:16 |
@@ -134,12 +134,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 124 | [Natural Disaster](https://open.spotify.com/track/1VjGZ2vz9DOKj4Gnt4DAPt) | [newfamiliar](https://open.spotify.com/artist/4Atzuue891wvRGEPkBcVt9) | [Textures](https://open.spotify.com/album/1rB7xOw49fRzqH1VwbL63I) | 3:14 |
 | 125 | [you got yours](https://open.spotify.com/track/1RC6Yf0W2BA6IkoREAKCP7) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:28 |
 | 126 | [Shine](https://open.spotify.com/track/5hmTQFtqfDapaSqWY3arU3) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Let The Music Play](https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao) | 3:48 |
-| 127 | [sometimes christmas is hard](https://open.spotify.com/track/5937xcBaUz5xu38I2HloR2) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 3:03 |
-| 128 | [abstract art](https://open.spotify.com/track/0ktoxh7F2ygJx5lLSbVxvP) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [abstract art](https://open.spotify.com/album/3WmvjDfFGJGLmZYWSyJ3nS) | 3:16 |
+| 127 | [abstract art](https://open.spotify.com/track/0ktoxh7F2ygJx5lLSbVxvP) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [abstract art](https://open.spotify.com/album/3WmvjDfFGJGLmZYWSyJ3nS) | 3:16 |
+| 128 | [sometimes christmas is hard](https://open.spotify.com/track/5937xcBaUz5xu38I2HloR2) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 3:03 |
 | 129 | [Looking For Love](https://open.spotify.com/track/3u7WPMzK3sSLlbt3F19vPB) | [Carlos Vara](https://open.spotify.com/artist/42hROq8g0GtFMMYaHHQmrq) | [Have You Ever Seen a Boy Break Down?](https://open.spotify.com/album/6h8TTXMZFnJADFw5Ilf44o) | 2:36 |
 | 130 | [Bad Together](https://open.spotify.com/track/46fchGtcxeWEm1Fw5bI8Fe) | [Knight Club A Cappella](https://open.spotify.com/artist/6dpp4QazrpGBqOeypsA59Z) | [Bad Together](https://open.spotify.com/album/2SDtmGStLqOhcL9tBAxfu4) | 4:03 |
 | 131 | [I'm Coming Around](https://open.spotify.com/track/0mwQdW5pZ0tofcvrYvUJTl) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [52 \| ATL x BNA](https://open.spotify.com/album/2IkLJf736V5DXV2Xt23TNH) | 3:39 |
 | 132 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 133 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `MjgxMjkxNDAsMDAwMDAwMDBkYTRmNGU4OTZiZWQ4MDI4NDBkMmZlMTE5MDQ2MTllOQ==`
+Snapshot ID: `MjgxMzA1MjAsMDAwMDAwMDA0MWIxMTk2OTM1NDNmM2JjOWQzMjFiM2E2MTg5YjRhZA==`

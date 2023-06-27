@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,198 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,215 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 7 | [O.I.CⅡ](https://open.spotify.com/track/6KETmdtVfk1vNLBJ0pyTps) | [STEREO CHAMP](https://open.spotify.com/artist/4BtieaH9qflspHOwAMF2ns), [MAY INOUE STEREO CHAMP](https://open.spotify.com/artist/7zEOJYvEZrmUguqfZ2c18q) | [The Elements](https://open.spotify.com/album/08nKmx7SIf41jKbEIHA8pp) | 3:30 |
 | 8 | [Resurrection](https://open.spotify.com/track/5XN0kWzHcR5hkTdBrNVb63) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Resurrection](https://open.spotify.com/album/5ffQ02f66AteDcj4FVYZ6S) | 3:26 |
 | 9 | [On The Ground](https://open.spotify.com/track/2mqC1wLMtJp8azEAZ0dKt5) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [On The Ground](https://open.spotify.com/album/3oeuG6i4EaRKHAuOa6nlbn) | 2:32 |
-| 10 | [エンジェル](https://open.spotify.com/track/0LVEPvQgGYzz9sjJq2YpD3) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j) | [エンジェル](https://open.spotify.com/album/5GoCbbhXrO0eScynR2QQne) | 2:16 |
+| 10 | [angel](https://open.spotify.com/track/3J0bVRHJNUKdnTXwPOqHtO) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [shootz](https://open.spotify.com/artist/2wXc4SbZCvWVOgRRyRTrRw) | [angel](https://open.spotify.com/album/67l7pXcKPOTZOjOzmJK5kW) | 2:16 |
 | 11 | [MJ Freestyle](https://open.spotify.com/track/4xjoMqP5SjlR84OfcvyKxT) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [MJ Freestyle](https://open.spotify.com/album/7f9YnlCTzm35uCtwNz4e5K) | 2:58 |
 | 12 | [Falling Down](https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Falling Down](https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ) | 2:40 |
 | 13 | [13's](https://open.spotify.com/track/6n87cqvsGzdCGo9xB1uvUy) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [13's](https://open.spotify.com/album/4FLCvaPdQg9YyX1KvIEHEu) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [THE GLADE](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [THE GLADE](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 |
 | 60 | [All the Way Back in Love](https://open.spotify.com/track/4LVVB5gtLSUqJdlLujHyyK) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [The Nostalgiac](https://open.spotify.com/album/0HZQqwnq5WDugzJSh4l3fD) | 4:30 |
 
-Snapshot ID: `MCw4NGNmYmE1ZjVjOGJmN2FjZWI4MWU4NGU1NmVjMjIzYzFkM2UwNTI4`
+Snapshot ID: `MCw5NzM3YjYxZGE4MDhkMjc1NmZmM2UwZTU1MzdjNzlkMWE4ODEwM2Iy`

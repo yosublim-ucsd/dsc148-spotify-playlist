@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,642 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,647 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 30 | [Your Arms](https://open.spotify.com/track/4SuziSr3et9LjC6Iyls63s) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Your Arms](https://open.spotify.com/album/4R3wx6MiEomTXdy6gkskQN) | 3:51 |
 | 31 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
 | 32 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
-| 33 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
+| 33 | [A Thousand Years](https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Thousand Years](https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi) | 4:14 |
 | 34 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
-| 35 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
-| 36 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
-| 37 | [A Thousand Years](https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Thousand Years](https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi) | 4:14 |
+| 35 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
+| 36 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
+| 37 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
 | 38 | [back to me](https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [back to me](https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf) | 3:10 |
 | 39 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 |
 | 40 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 46 | [Who Needs You \- Special Edition](https://open.spotify.com/track/2HyvRCnFAX65gKsxwyPV5O) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Who Needs You \(Special Edition\)](https://open.spotify.com/album/0RVpXQpLUYpnfVS3FENm9y) | 3:17 |
 | 47 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
 | 48 | [Chasing Spirits](https://open.spotify.com/track/4KFerK4qS5krV7MxVC4iDe) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 2:44 |
-| 49 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 |
+| 49 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 50 | [Never Not](https://open.spotify.com/track/3puLrG1rPAjC9SmTaJyaA2) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Never Not](https://open.spotify.com/album/6smxm51Ys22ULtICU8Oth8) | 3:01 |
-| 51 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
+| 51 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 |
 | 52 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 |
 | 53 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
 | 54 | [Don't You Dare Stop](https://open.spotify.com/track/3Ov7P2MYmiZYWOA65sApFj) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Reeling / Don't You Dare Stop](https://open.spotify.com/album/2HFVMUEIfaPQUJt5v1Jg7m) | 4:31 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 68 | [Sunny And Warm](https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Sunny And Warm](https://open.spotify.com/album/56zBru86m6LhGmC0heS1s8) | 3:25 |
 | 69 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 70 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 |
-| 71 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
+| 71 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 |
 | 72 | [Hollywood Bowl](https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9) | 4:13 |
-| 73 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 |
+| 73 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
 | 74 | [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 |
 | 75 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
 | 76 | [Pieces](https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Pieces](https://open.spotify.com/album/7wXDiXmcDVgqSQZeZwIM4d) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 99 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 |
 | 100 | [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 |
 
-Snapshot ID: `MCw0NTQyZWI5ZTdkMDMxMjcwZDIyYjBjZjBjY2YzNTYxNzM3ODQxNWZh`
+Snapshot ID: `MCw1ZWY0ZmM3ZjQ1NDJiYzgwYTUyMGRmMWQyMzA5MDY2OGIyNTQxMDY3`

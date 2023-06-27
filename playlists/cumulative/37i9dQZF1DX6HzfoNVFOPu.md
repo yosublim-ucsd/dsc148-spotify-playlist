@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-524 songs - 1 day 9 hr 58 min
+525 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [From the Inside](https://open.spotify.com/track/60IkVf7UfQXmt5CwkpcX8a) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 2:53 | 2022-01-05 |  |
 | [From the Inside](https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:53 | 2022-01-05 | 2022-07-20 |
 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 | 2022-01-05 |  |
-| [Gasoline](https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:39 | 2022-01-05 |  |
+| [Gasoline](https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:39 | 2022-01-05 | 2023-06-27 |
 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 | 2022-01-05 |  |
 | [Get Off](https://open.spotify.com/track/1bpo7csRNPoW01SGPbGclM) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:10 | 2022-01-05 | 2022-07-29 |
 | [Get Over It](https://open.spotify.com/track/0SLOiJClXkAZluClYpke95) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [OK Go](https://open.spotify.com/album/0pkXh1gRCwOAWbTuMdStyZ) | 3:16 | 2022-01-05 | 2022-07-28 |
@@ -517,6 +517,7 @@
 | [What Katie Did](https://open.spotify.com/track/39BYRAiJhO6fWPJTDYhMxm) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri) | 3:49 | 2022-01-05 | 2022-07-26 |
 | [Whatever Happened To My Rock 'N' Roll \(Punk Song\)](https://open.spotify.com/track/4A7KHIDzVdDFd81XPWFiix) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw) | 4:38 | 2022-01-05 | 2022-07-29 |
 | [Where Are You Going](https://open.spotify.com/track/15MhLnkZLJe4Z2tLISwe5k) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Busted Stuff](https://open.spotify.com/album/2EgAQOkOA9rWodGtOYMERe) | 3:51 | 2022-01-05 | 2022-05-29 |
+| [Where Are You Going](https://open.spotify.com/track/5EjZXJ4nVpw7uI6eso1SFS) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Busted Stuff](https://open.spotify.com/album/1D5z8QDWSmYm6MwrtLINYY) | 3:51 | 2023-01-18 |  |
 | [Where Did All the Love Go?](https://open.spotify.com/track/2mqB7fvAVhz2aFB0c5ra2S) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:18 | 2022-01-05 | 2023-03-27 |
 | [Whispers in the Dark](https://open.spotify.com/track/6rSuL1ViLO7Aljn2WD09s4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:24 | 2022-01-05 |  |
 | [White Trash Beautiful](https://open.spotify.com/track/7e1xwG8jnFyCWtHXt0P4AM) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [White Trash Beautiful](https://open.spotify.com/album/5Uiko7lcgvfa70mhxsEPGo) | 4:01 | 2022-01-05 | 2022-05-25 |

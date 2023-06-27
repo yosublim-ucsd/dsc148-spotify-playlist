@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 173873,
+  "num_followers": 174006,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjdiMDc1NmIwNTAyZjRhZjA3NGM5MDA3ZTIxNWE3ZWM0MTY0NTNj",
+  "snapshot_id": "MCw1NjEwOTQwOTc2YmM1ODY0NmFlODk1ODkzZTMwYWRkNDkzZDdiYmE5",
   "tracks": [
     {
       "added_at": "2023-06-22 22:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 162146,
       "name": "Vex Oh (feat. Eight9FLY)",
       "url": "https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1003,38 +1003,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Don't Let Go",
-        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 269799,
-      "name": "Don't Let Go",
-      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Disco Volante EP",
-        "url": "https://open.spotify.com/album/3F98dsHSClqD3929v1B6S2"
-      },
-      "artists": [
-        {
-          "name": "Coeo",
-          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
-        }
-      ],
-      "duration_ms": 86777,
-      "name": "Honey - Skit",
-      "url": "https://open.spotify.com/track/78Cjzp7Shwr3sGkMjXZpXa"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Better Times",
         "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
       },
@@ -1051,6 +1019,54 @@
       "duration_ms": 199015,
       "name": "Better Times",
       "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 269799,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Fort Bellefleur",
+        "url": "https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 487752,
+      "name": "When U Came into My Life",
+      "url": "https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Disco Volante EP",
+        "url": "https://open.spotify.com/album/3F98dsHSClqD3929v1B6S2"
+      },
+      "artists": [
+        {
+          "name": "Coeo",
+          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
+        }
+      ],
+      "duration_ms": 86777,
+      "name": "Honey - Skit",
+      "url": "https://open.spotify.com/track/78Cjzp7Shwr3sGkMjXZpXa"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "porco rosso",
-        "url": "https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "porco rosso",
-      "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Madres",
         "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
       },
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Fort Bellefleur",
-        "url": "https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH"
+        "name": "porco rosso",
+        "url": "https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 487752,
-      "name": "When U Came into My Life",
-      "url": "https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT"
+      "duration_ms": 219840,
+      "name": "porco rosso",
+      "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "One of Those Nights",
+        "url": "https://open.spotify.com/album/3VrD88UOYjJ8HVSSDHurkq"
+      },
+      "artists": [
+        {
+          "name": "Didier Armeni",
+          "url": "https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka"
+        }
+      ],
+      "duration_ms": 223738,
+      "name": "One of Those Nights",
+      "url": "https://open.spotify.com/track/5bYSqdcyJ74rLL299UJAcC"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "One of Those Nights",
-        "url": "https://open.spotify.com/album/3VrD88UOYjJ8HVSSDHurkq"
-      },
-      "artists": [
-        {
-          "name": "Didier Armeni",
-          "url": "https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka"
-        }
-      ],
-      "duration_ms": 223738,
-      "name": "One of Those Nights",
-      "url": "https://open.spotify.com/track/5bYSqdcyJ74rLL299UJAcC"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Black Moses",
-        "url": "https://open.spotify.com/album/7qVDenYLhKEuQNZnP5h5Do"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 223102,
-      "name": "Sexy Black Timberlake",
-      "url": "https://open.spotify.com/track/5egIRcN7Oq5zx1aZwHKGwi"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 242773,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Black Moses",
+        "url": "https://open.spotify.com/album/7qVDenYLhKEuQNZnP5h5Do"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 223102,
+      "name": "Sexy Black Timberlake",
+      "url": "https://open.spotify.com/track/5egIRcN7Oq5zx1aZwHKGwi"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Lifeboat",
+        "url": "https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y"
+      },
+      "artists": [
+        {
+          "name": "Gallago",
+          "url": "https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6"
+        }
+      ],
+      "duration_ms": 286937,
+      "name": "Lifeboat",
+      "url": "https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Chucks (feat. Channel Tres)",
         "url": "https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 175837,
       "name": "Chucks (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Lifeboat",
-        "url": "https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y"
-      },
-      "artists": [
-        {
-          "name": "Gallago",
-          "url": "https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6"
-        }
-      ],
-      "duration_ms": 286937,
-      "name": "Lifeboat",
-      "url": "https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf"
     }
   ],
   "unique_name": "Umami",

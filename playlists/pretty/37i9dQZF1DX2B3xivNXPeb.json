@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 32518,
+  "num_followers": 32532,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTg5M2M5ZTM0YjE4MTcwMjY3MGU5MTU0MDhjYmI5ZWMxNTQ3ZWVj",
+  "snapshot_id": "MCw4YWNmNzAzNjZhMzVkNDg1Zjg1ZmEwYjAxZjVjYTJiYWVkZjEzZWRk",
   "tracks": [
     {
       "added_at": "2023-06-16 14:02:21",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "Ain't That Good News",
         "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
@@ -175,22 +191,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
       },
@@ -203,22 +203,6 @@
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -239,6 +223,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "The Very Best Of The Staple Singers",
         "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
       },
@@ -251,22 +251,6 @@
       "duration_ms": 196826,
       "name": "I'll Take You There",
       "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 187666,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+      "duration_ms": 155026,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -319,6 +303,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "I Wish I Knew How It Would Feel to Be Free",
-      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Al Green Explores Your Mind",
         "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 225373,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213136,
-      "name": "Mad About You",
-      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Baltimore",
         "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 278866,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213136,
+      "name": "Mad About You",
+      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/7huDejiFEZn3EFHuIvI3Qh"
-      },
-      "artists": [
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        }
-      ],
-      "duration_ms": 183963,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "100 Days, 100 Nights",
         "url": "https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 166766,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1oWGuXvVbZkAoQdCKENnF8"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/7huDejiFEZn3EFHuIvI3Qh"
+      },
+      "artists": [
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        }
+      ],
+      "duration_ms": 183963,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 231044,
+      "name": "Kissing My Love",
+      "url": "https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "Heavy Heavy",
         "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
       },
@@ -927,38 +943,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 231044,
-      "name": "Kissing My Love",
-      "url": "https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "The Sweetest Peaches [Part One (1940-1966)]",
-        "url": "https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Something's Got A Hold On Me",
-      "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Phases EP",
         "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 200680,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 195037,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/3TAGAAWQ9HeosMtv4dz2jf"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
+        "name": "The Sweetest Peaches [Part One (1940-1966)]",
+        "url": "https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 195037,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/3TAGAAWQ9HeosMtv4dz2jf"
+      "duration_ms": 167426,
+      "name": "Something's Got A Hold On Me",
+      "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Mrs Blue",
-        "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
-      },
-      "artists": [
-        {
-          "name": "Tommy Down",
-          "url": "https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg"
-        }
-      ],
-      "duration_ms": 267535,
-      "name": "Mrs Blue",
-      "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Hello, Dolly! (Remastered)",
         "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 200066,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Mrs Blue",
+        "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Down",
+          "url": "https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg"
+        }
+      ],
+      "duration_ms": 267535,
+      "name": "Mrs Blue",
+      "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Taurus",
         "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 223873,
       "name": "Nostalgia (feat. Taura)",
       "url": "https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Willie Dynamite (Music From The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6FLxZKLlbpS9OjdwhdRbGO"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Sweet Things",
-          "url": "https://open.spotify.com/artist/1trYvrkVZhSKtxCVsWqBmN"
-        }
-      ],
-      "duration_ms": 291853,
-      "name": "King Midas",
-      "url": "https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Where I'm Meant To Be",
         "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 348000,
       "name": "Siesta (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/200mXRutkz0x5MSQWyipxS"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Willie Dynamite (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6FLxZKLlbpS9OjdwhdRbGO"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Sweet Things",
+          "url": "https://open.spotify.com/artist/1trYvrkVZhSKtxCVsWqBmN"
+        }
+      ],
+      "duration_ms": 291853,
+      "name": "King Midas",
+      "url": "https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO"
     },
     {
       "added_at": "2023-06-16 14:02:21",

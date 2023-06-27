@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
+      "album": {
         "name": "Ba Sing Se",
         "url": "https://open.spotify.com/album/5ipx9NCdjrY02yzzqkjQaK"
       },
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 310120,
       "name": "Dry Fantasy",
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
@@ -2426,6 +2444,28 @@
       "duration_ms": 356877,
       "name": "Is It It Or Is It i?",
       "url": "https://open.spotify.com/track/1A5oNi89DMdE06Fsacn6k5"
+    },
+    {
+      "album": {
+        "name": "Island Family (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc"
+      },
+      "artists": [
+        {
+          "name": "Pictish Trail",
+          "url": "https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F"
+        },
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269399,
+      "name": "Island Family - uh Remix",
+      "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
       "album": {
@@ -5692,7 +5732,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 422240,
       "name": "What Has Happened",
       "url": "https://open.spotify.com/track/1WM2ObDoxB3QqksZRxpy7w"

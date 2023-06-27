@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-963 songs - 2 day 5 hr 28 min
+964 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [amai kemuri](https://open.spotify.com/track/5CTOrtJ5eCONELTfvcYTrF) | [asuka ando](https://open.spotify.com/artist/2VQ5dqFvOlWrhUuznoJhjT), [PROFESSOR CHINNEN](https://open.spotify.com/artist/0nySbvavJswiZDWdV7ApqP) | [amai kemuri](https://open.spotify.com/album/6pAELq3xhQCqwa3jlAS4zM) | 4:27 | 2023-04-23 | 2023-05-02 |
 | [Ambience](https://open.spotify.com/track/0f9gN9PpxiRBR0et0gaEer) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [NAKAMURA Hiroyuki](https://open.spotify.com/artist/1j09oN0dqYEMzzgKM0JJK9) | [Ambience](https://open.spotify.com/album/6hHCOTUv375NIT3Q5aG8Gc) | 2:18 | 2023-05-07 | 2023-05-16 |
 | [Anesthesia](https://open.spotify.com/track/2ZXIcesPXcOR69c1QfvBLU) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Mandy Lee](https://open.spotify.com/artist/3g8EFB4PbDVKOkwNy3wOLO) | [Anesthesia](https://open.spotify.com/album/3szdpvvElC0j1ATcNdkLPH) | 2:04 | 2023-04-23 | 2023-05-02 |
+| [angel](https://open.spotify.com/track/3J0bVRHJNUKdnTXwPOqHtO) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [shootz](https://open.spotify.com/artist/2wXc4SbZCvWVOgRRyRTrRw) | [angel](https://open.spotify.com/album/67l7pXcKPOTZOjOzmJK5kW) | 2:16 | 2023-06-25 |  |
 | [Angel \(From Barbie The Album\)](https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Angel \(From Barbie The Album\)](https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V) | 2:03 | 2023-06-12 | 2023-06-19 |
 | [Anthem](https://open.spotify.com/track/6obGdxytPyQqV1mlm9tfZm) | [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho), [B.T.Reo 440](https://open.spotify.com/artist/2qjaD0RrOu050uQd9RUr3K) | [Anthem](https://open.spotify.com/album/59NHtYJ8nSlCK8U8Lqsgoo) | 4:26 | 2023-03-20 | 2023-03-27 |
 | [Anybody](https://open.spotify.com/track/6vvNif6RkzudsCeeGBuV2E) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 2:40 | 2023-06-12 | 2023-06-19 |
@@ -905,7 +906,7 @@
 | [らりらりらん](https://open.spotify.com/track/2poGMUj2CSBTzsVNMxkCpm) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [らりらりらん](https://open.spotify.com/album/7G4ECKkC7XBgxmBQondoj1) | 2:39 | 2023-06-12 | 2023-06-19 |
 | [アイドルないよ、](https://open.spotify.com/track/1MbtpRCYcqsvwZKCfdI9Jl) | [Clearr Note](https://open.spotify.com/artist/7DZC3SoU3g5wrkYObbhTDk) | [アイドルないよ、](https://open.spotify.com/album/0YMTfUSxQtmBOO1MX2fFvU) | 2:21 | 2023-06-18 | 2023-06-26 |
 | [ウィークエンド・ランデヴー](https://open.spotify.com/track/0AttQzcswT34M4WSYKm70i) | [Qnel](https://open.spotify.com/artist/3BPOGmjOCeLb5xwdz17OuF), [HIROSHI](https://open.spotify.com/artist/3mEcZGsQqfFgH7MJ3GMeYn) | [ウィークエンド・ランデヴー](https://open.spotify.com/album/4dzxDvGZE4ai8MLjZtalaN) | 3:49 | 2023-03-26 | 2023-04-04 |
-| [エンジェル](https://open.spotify.com/track/0LVEPvQgGYzz9sjJq2YpD3) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j) | [エンジェル](https://open.spotify.com/album/5GoCbbhXrO0eScynR2QQne) | 2:16 | 2023-06-25 |  |
+| [エンジェル](https://open.spotify.com/track/0LVEPvQgGYzz9sjJq2YpD3) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j) | [エンジェル](https://open.spotify.com/album/5GoCbbhXrO0eScynR2QQne) | 2:16 | 2023-06-25 | 2023-06-27 |
 | [カルティエの腕時計](https://open.spotify.com/track/2xUsfblcSFya0bvdJo2gJC) | [Saint Vega](https://open.spotify.com/artist/2q9fTUnXONSgnAW3boqrNc), [Mijeua](https://open.spotify.com/artist/2WRw1ximJcspUBwaapmFhF), [Maybe Juice](https://open.spotify.com/artist/7mFnf9aQsfLRNlWWxE4Z9I) | [カルティエの腕時計](https://open.spotify.com/album/4Q5C1KTqtjtXtFB7oN54MQ) | 3:08 | 2023-03-20 | 2023-03-27 |
 | [グレー \- prod by SNJO](https://open.spotify.com/track/5iLDUW403Z1kxeW8BDRwvm) | [光学](https://open.spotify.com/artist/0pcVPsuneTWwZrYk6hSnty), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [SNJO](https://open.spotify.com/artist/7jHCgiF89ufTiBynoOzAxN) | [Opto5:Mandark](https://open.spotify.com/album/1lgy8vRDMNERDlll36wwlZ) | 3:27 | 2023-06-12 | 2023-06-19 |
 | [サンダループ](https://open.spotify.com/track/3k3hnA4HjUwhornd7ZBmZA) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [サンダループ](https://open.spotify.com/album/1WkV1i6JhUkmfInyUjABla) | 2:56 | 2023-06-18 | 2023-06-26 |

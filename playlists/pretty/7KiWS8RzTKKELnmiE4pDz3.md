@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 190 songs - 8 hr 32 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 192 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,5 +198,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 188 | [When I](https://open.spotify.com/track/4QUsmmXmINYXwh7UsiMX2j) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:00 |
 | 189 | [Smoke Strong](https://open.spotify.com/track/4ysh4U8WPIuKS8Ff1ttSaS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Sincerely, Kentrell](https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd) | 2:15 |
 | 190 | [Doomsday \(with Juice WRLD & Cordae\)](https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Doomsday](https://open.spotify.com/album/0uGrHjpQjFttH2ztKbouyb) | 2:30 |
+| 191 | [KRUSTY KREW ANTHEM \(BACK ON THE GRILL\)](https://open.spotify.com/track/7KbcPfcBMquaJGf4BVesOv) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [The Krusty Pack](https://open.spotify.com/album/1jBNhLA91c4XVAEhUtsELd) | 1:52 |
+| 192 | [AEAO](https://open.spotify.com/track/76CSfZPziwSi9hsSkIVTyw) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/1CM4OSWGFBFKb5FigEchJB) | 5:16 |
 
-Snapshot ID: `NzA0OCwwNDIyNTAzYTJiMjVlZDNmMDcwZjA0YjhjZjM3YWFjOWM5MmU0NTA2`
+Snapshot ID: `NzA1MCw1NDJkNGY1Mjk5MzZhN2IyODViZDhkOGUzNjc5NzdmZGMzZTQ4ZjZl`

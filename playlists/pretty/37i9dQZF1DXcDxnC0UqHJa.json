@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Rufus Wainwright ",
-  "num_followers": 472425,
+  "num_followers": 472432,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjhmNjM4NTQ1Mzc0YWJhM2U2MTRkYTNjYjgyN2EyMmFhYzUyOWJi",
+  "snapshot_id": "MCxkMTY0MjJhNWQyM2Q2OGZiYjhhYTRjN2Q5MzQ3ZTQwNzIzNDk4MDgx",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -439,6 +439,26 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -475,22 +495,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "brightside bonus tracks",
         "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
       },
@@ -507,22 +511,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
+        "name": "As I Rise",
+        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 199426,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
+      "duration_ms": 140741,
+      "name": "As I Rise",
+      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Time After Time (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 219648,
+      "name": "Time After Time - Spotify Singles",
+      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 136891,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Time After Time (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 219648,
-      "name": "Time After Time - Spotify Singles",
-      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -847,18 +847,26 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "To Emmylou",
-        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
+        "name": "Thirteen",
+        "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        },
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Prayer in Open D",
-      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
+      "duration_ms": 184869,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -883,26 +891,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Thirteen",
-        "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
+        "name": "To Emmylou",
+        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
       },
       "artists": [
         {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        },
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 184869,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+      "duration_ms": 173714,
+      "name": "Prayer in Open D",
+      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Crooked Tree (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        }
-      ],
-      "duration_ms": 212251,
-      "name": "Dire Wolf - Bonus Track",
-      "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "A Long December",
         "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
       },
@@ -1051,6 +1031,26 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Crooked Tree (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 212251,
+      "name": "Dire Wolf - Bonus Track",
+      "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 251760,
       "name": "All the Best",
       "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Free Fallin'",
-        "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 291930,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Lennon Bermuda",
-        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
+        "name": "Free Fallin'",
+        "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
       },
       "artists": [
         {
-          "name": "Heather Nova",
-          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
         }
       ],
-      "duration_ms": 143547,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+      "duration_ms": 291930,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
+        "name": "Lennon Bermuda",
+        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
       },
       "artists": [
         {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
         }
       ],
-      "duration_ms": 152885,
-      "name": "I Think We\u2019re Alone Now",
-      "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
+      "duration_ms": 143547,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1319,6 +1303,38 @@
       "duration_ms": 210604,
       "name": "Hey Me, Hey Mama",
       "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 152885,
+      "name": "I Think We\u2019re Alone Now",
+      "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1359,38 +1375,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Farewell Transmission b/w The Dark Don\u2019t Hide It",
         "url": "https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Live From BBC Radio 2",
-        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
         }
       ],
-      "duration_ms": 218760,
-      "name": "Perfect Places - Live From BBC Radio 2",
-      "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1439,6 +1423,22 @@
       "duration_ms": 198205,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Live From BBC Radio 2",
+        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Perfect Places - Live From BBC Radio 2",
+      "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Pieces of the Sky (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "Bluebird Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Surrounded by the Sound: Ten Covers by Eddie Berman",
         "url": "https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 253493,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Pieces of the Sky (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "Bluebird Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "The Age Of Worry",
         "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
       },
@@ -1923,6 +1939,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "You Turn Me On, I'm a Radio - Acoustic",
+      "url": "https://open.spotify.com/track/7rP4vwl8DJ5l7xHMmRGBYO"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Live Forever: A Tribute To Billy Joe Shaver",
         "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
       },
@@ -1935,22 +1967,6 @@
       "duration_ms": 171480,
       "name": "You Asked Me To",
       "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 234917,
-      "name": "Lakes of Pontchartrain (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/67YZQnmSSm60QFMpI0SIlV"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1991,22 +2007,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Girl From The North Country",
-      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
     }
   ],
   "unique_name": "Folksy Covers",

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Canada.",
-  "num_followers": 334775,
+  "num_followers": 334787,
   "original_name": "Top 50 - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQxMDYwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQxMTQ2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -77,23 +93,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Rave & Roses Ultra",
         "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
@@ -113,7 +113,23 @@
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
@@ -133,23 +149,7 @@
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -209,47 +209,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
@@ -265,7 +225,7 @@
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Popular [The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
@@ -289,7 +249,95 @@
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
@@ -313,55 +361,27 @@
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW"
+      "duration_ms": 157560,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -385,27 +405,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
@@ -453,23 +453,7 @@
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 277043,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
@@ -489,7 +473,23 @@
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
@@ -513,23 +513,7 @@
       "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
@@ -549,7 +533,43 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 277043,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
@@ -577,27 +597,7 @@
       "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "Who Told You (feat. Drake)",
-        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Who Told You (feat. Drake)",
-      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -613,23 +613,23 @@
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
-        "name": "Area Codes",
-        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
         {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 139325,
-      "name": "Area Codes",
-      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
@@ -645,7 +645,23 @@
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -669,79 +685,7 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "Stand By Me (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
-      "url": "https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
@@ -761,7 +705,95 @@
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 177387,
+      "name": "Thinkin\u2019 Bout Me",
+      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
+      "url": "https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "Stand By Me (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 204852,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -785,59 +817,7 @@
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Thinkin\u2019 Bout Me",
-      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 204852,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
-      "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Parade on Cleveland (feat. Drake)",
-      "url": "https://open.spotify.com/track/05CTjmZKjZoCKQvM1Ldq9M"
-    },
-    {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
         "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
@@ -853,7 +833,7 @@
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Stick Season (We'll All Be Here Forever)",
         "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
@@ -869,23 +849,23 @@
       "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 138760,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/755xVrgyHyUpl9EP5e4ICf"
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
@@ -901,7 +881,7 @@
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
@@ -917,7 +897,7 @@
       "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
-      "added_at": "2023-06-25 09:10:16",
+      "added_at": "2023-06-26 09:30:00",
       "album": {
         "name": "Pendulum (Expanded Edition)",
         "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
@@ -931,6 +911,22 @@
       "duration_ms": 160133,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
+    },
+    {
+      "added_at": "2023-06-26 09:30:00",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
     }
   ],
   "unique_name": "Top 50 - Canada",

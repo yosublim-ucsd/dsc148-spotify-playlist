@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 86161,
+  "num_followers": 86187,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjllMmE4MmNkOGZhOWE2ZTBkZjkwNDA1NGQwZDQ3NjgyNWVmMWQ4",
+  "snapshot_id": "MCxlMjk2ZTg5MDQ4ZGJlODFhN2Q1Y2ViYmFiMGJlZjAxNDQxZjZlZjk2",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -131,6 +131,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "Si Estoy Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Pensaba en Ti",
         "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
       },
@@ -143,22 +163,6 @@
       "duration_ms": 219116,
       "name": "Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Voy a Amarte",
-        "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
-      },
-      "artists": [
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Voy a Amarte",
-      "url": "https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -183,22 +187,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Alex Campos y Sus Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
+        "name": "Voy a Amarte",
+        "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
         }
       ],
-      "duration_ms": 251013,
-      "name": "Si Estoy Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
+      "duration_ms": 207360,
+      "name": "Voy a Amarte",
+      "url": "https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Soy Sonero - Concierto en Vivo",
-        "url": "https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Vuelvo a Nacer",
-      "url": "https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Por Amor",
         "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Soy Sonero - Concierto en Vivo",
+        "url": "https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Vuelvo a Nacer",
+      "url": "https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Al\u00e1bale Con Ritmo de Salsa",
         "url": "https://open.spotify.com/album/4cmpSr90A0JzyVtngmxoMr"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 282984,
       "name": "Tengo un Nuevo Amor - Salsa",
       "url": "https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Fiel",
-        "url": "https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 278891,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -431,6 +415,22 @@
       "duration_ms": 307957,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/4oO60kTXH6bi1EmeVweJEl"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Fiel",
+        "url": "https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 278891,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 190290,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Quinto Elemento",
         "url": "https://open.spotify.com/album/1Jlnu4bxr0NhJZLg9SZ8qx"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 191549,
       "name": "Va Cae",
       "url": "https://open.spotify.com/track/7zyrVOD70rjN3QMVTcERBq"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 190290,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -751,6 +751,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/45Ww8247fdYO93oBrloSsN"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        },
+        {
+          "name": "Niko La F\u00e1brica",
+          "url": "https://open.spotify.com/artist/77gpdl9ket58wQczszbrno"
+        }
+      ],
+      "duration_ms": 224783,
+      "name": "Yo Te Prometo",
+      "url": "https://open.spotify.com/track/78qhDtLwEUei6bkEWlG06O"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
       },
@@ -799,42 +819,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Vestida De Adoracion",
-        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
-      },
-      "artists": [
-        {
-          "name": "Kathy Cristina",
-          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
-        }
-      ],
-      "duration_ms": 257650,
-      "name": "Yo Te Adoro",
-      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/45Ww8247fdYO93oBrloSsN"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        },
-        {
-          "name": "Niko La F\u00e1brica",
-          "url": "https://open.spotify.com/artist/77gpdl9ket58wQczszbrno"
-        }
-      ],
-      "duration_ms": 224783,
-      "name": "Yo Te Prometo",
-      "url": "https://open.spotify.com/track/78qhDtLwEUei6bkEWlG06O"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Te Entrego Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
       },
@@ -851,6 +835,38 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 222458,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Vestida De Adoracion",
+        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
+      },
+      "artists": [
+        {
+          "name": "Kathy Cristina",
+          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
+        }
+      ],
+      "duration_ms": 257650,
+      "name": "Yo Te Adoro",
+      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Dios Te Bendiga",
         "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 232254,
       "name": "Dios Te Bendiga",
       "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Ven Te Estado Esperando",
-        "url": "https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 349909,
-      "name": "Hermoso Nombre",
-      "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

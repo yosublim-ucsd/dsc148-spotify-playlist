@@ -1,12 +1,12 @@
 {
   "description": "80s jams for the road",
-  "num_followers": 884,
+  "num_followers": 1233,
   "original_name": "80s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzEyMjMwMGY0Y2UyOTQ1YzMxMjVhOWVkZmU1NDgxOGZiZmMxYzYz",
+  "snapshot_id": "MCw4YmI1MTFmM2FjZDI0YzViY2JjYWM2MzFkZjU3MzdjOTFjOGFmZjc2",
   "tracks": [
     {
       "added_at": "2023-06-20 23:18:20",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-06-20 23:18:20",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
-    },
-    {
-      "added_at": "2023-06-20 23:18:20",
-      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "added_at": "2023-06-20 23:18:20",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
       "added_at": "2023-06-20 23:18:20",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-06-20 23:18:20",
       "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
-    },
-    {
-      "added_at": "2023-06-20 23:18:20",
-      "album": {
         "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 243066,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
+    },
+    {
+      "added_at": "2023-06-20 23:18:20",
+      "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
     },
     {
       "added_at": "2023-06-20 23:18:20",

@@ -4,7 +4,7 @@
 
 > Groove to the rhythm of OPM's R&B tunes\. Cover: James Reid
 
-114 songs - 6 hr 51 min
+119 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Heartbeat On Me](https://open.spotify.com/track/0kyuk5MF2udrcsOeP9d2fg) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY), [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Heartbeat On Me](https://open.spotify.com/album/5kqfzUcpIUSo01sYC76CIs) | 3:43 | 2022-10-12 |  |
 | [Hello](https://open.spotify.com/track/4DBVnpKVcwbrX1EhGZpNfG) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Hello](https://open.spotify.com/album/1G7uyJNMDBiuc4U1s12oXY) | 3:27 | 2022-10-12 |  |
 | [Hello 2.0 \(Legends Only\) \[feat\. ØZI\]](https://open.spotify.com/track/2RKSmt3Dv1d4JFDr55LbWg) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [Transparent Arts](https://open.spotify.com/artist/1F9TDeezTpFqrwPkn1S8qW), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Hello 2.0 \(Legends Only\) \[feat\. ØZI\]](https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ) | 3:50 | 2022-10-12 |  |
+| [Hey, Fave!](https://open.spotify.com/track/1jmrd7hdHC5cxEYMpeFO43) | [GIE](https://open.spotify.com/artist/3hkmwAxiJdfpmX8H98T92m), [Rycess](https://open.spotify.com/artist/0YyWewAYP0lImXtNMUloWk) | [Hey, Fave!](https://open.spotify.com/album/6lhpW51l05qyB6TtW4UAZ6) | 3:10 | 2023-06-26 |  |
 | [Hotel Room](https://open.spotify.com/track/1JW5BE9E5cy9enRzyX9h1J) | [Markus](https://open.spotify.com/artist/2TX325jFbZFpe2OGZNo4Lx), [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1) | [Hotel Room](https://open.spotify.com/album/0QxYtEiFoPvLnhI4JZ6Odm) | 2:38 | 2022-10-12 |  |
 | [I KNOW](https://open.spotify.com/track/0w1q4OHgs8DDTkxdtu8DEM) | [Mikee Misalucha](https://open.spotify.com/artist/6pijxhedsL0Rb5y542cjix), [Hamin](https://open.spotify.com/artist/3NXegtbD27Rqa1GLte8XaC) | [I KNOW](https://open.spotify.com/album/0ddEA0jRvZ6loXGKlf5tjW) | 3:18 | 2022-10-12 | 2022-12-15 |
 | [I Want More](https://open.spotify.com/track/3CY53c9o3IXVxiycPCGI7V) | [Jenn Clemena](https://open.spotify.com/artist/54mfqclCKJS9aFM7i48SjZ) | [I Want More](https://open.spotify.com/album/6uMceDuLr77hlTowaHPD6x) | 3:03 | 2022-10-12 |  |
@@ -68,11 +69,15 @@
 | [Late Night Drive](https://open.spotify.com/track/5jwMDxDZ6ZgGIk2rHPwbsR) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS) | [Late Night Drive](https://open.spotify.com/album/5bOLs8MfFRAvnZxQiHTYoy) | 2:27 | 2022-10-12 | 2022-12-15 |
 | [LDR](https://open.spotify.com/track/6Hc5L8x8AbFkFwwqdTvfoj) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [LDR](https://open.spotify.com/album/1aqCc4Bq1WFTUFeDlgtfDK) | 3:31 | 2023-05-17 |  |
 | [Ligaw](https://open.spotify.com/track/7CgEAxsgEf3L6EoSTEiDq8) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw), [VNCE](https://open.spotify.com/artist/3zMIe4QuRLRn7JDkxBeENc) | [Ligaw](https://open.spotify.com/album/6TErTHNkA9zNz4m7quSBfO) | 3:23 | 2022-10-12 |  |
+| [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 | 2023-06-26 |  |
 | [Love Or Lust](https://open.spotify.com/track/4Nmo5m5ZBiPWDGqLuCTk23) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Love Or Lust](https://open.spotify.com/album/2YycMpmAokC9s0drh9tcnQ) | 2:57 | 2022-10-12 | 2023-05-18 |
 | [lutang](https://open.spotify.com/track/6jB7cmxRuvf5QUxYl73q0o) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/18ylPFUz9HeneeXkbcvoYv) | 4:32 | 2022-10-12 |  |
 | [Maikee's Letters](https://open.spotify.com/track/21XjtaAEZxurElfPGSKrv9) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF) | [Maikee's Letters](https://open.spotify.com/album/6Hd66jTMfgXgaItso2FfzJ) | 5:00 | 2022-10-12 |  |
 | [MANATILI](https://open.spotify.com/track/1Zfwa2mECtqzy3fd97kNm5) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [MANATILI](https://open.spotify.com/album/0RMKf66jtbEHpk5tskbfws) | 2:42 | 2023-02-23 |  |
 | [manila](https://open.spotify.com/track/3rEzXExcWwGTYJJhDBQBzn) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [manila](https://open.spotify.com/album/1mCWSwOaJOmHKyt3FAMyyJ) | 5:24 | 2022-12-14 |  |
+| [Maria Hiwaga](https://open.spotify.com/track/7rRpt0FcGdDxyhiFcSlswH) | [Sassa Gurl](https://open.spotify.com/artist/52D0Fi29GcObaFnweqsV6d) | [Maria Hiwaga](https://open.spotify.com/album/6VCDr1sghqqQSje8YbYSqn) | 3:07 | 2023-06-26 |  |
+| [May Iba Na Ba?](https://open.spotify.com/track/7EYvbxzSZnQ4QQUxDrrk47) | [Jemay Santiago](https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq) | [May Iba Na Ba?](https://open.spotify.com/album/5j0c3ufCKiRztCGOKqmbDb) | 2:28 | 2023-06-26 |  |
+| [MIDNYT SNACK](https://open.spotify.com/track/1abidRpQBY12rqiwIafnPZ) | [June Andreas](https://open.spotify.com/artist/7JQTgAQRFXE1eqB3AknKT0) | [MIDNYT SNACK](https://open.spotify.com/album/0hZ4QvaZHTWFkhomk9BZsc) | 3:00 | 2023-06-26 |  |
 | [MRPK](https://open.spotify.com/track/0UdYNs08ZTqibIfnymqYPp) | [RAINA](https://open.spotify.com/artist/0TMW4pEBWFz1GZa0cGua0l), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [MRPK](https://open.spotify.com/album/3e6VpHi5NMjiBCGDdadyqd) | 3:38 | 2022-10-12 | 2023-05-18 |
 | [Nakilala](https://open.spotify.com/track/5Qx8sgxnDQgMxJ3y2vStcU) | [KAISAI](https://open.spotify.com/artist/4EOmdPzt09dPEFC7IKz1Ei), [JC Torio](https://open.spotify.com/artist/0uoJZ8fHMx64axPxbkpCt7) | [Nakilala](https://open.spotify.com/album/50TXRjAq3Tcwi85343gOvG) | 3:45 | 2022-10-12 | 2023-05-18 |
 | [Need It](https://open.spotify.com/track/3H1rKz5VQjsxHB8xUXAuDi) | [daze](https://open.spotify.com/artist/3mNnPqsHVbJSTxQtD74z4Z) | [Need It](https://open.spotify.com/album/01wGo5NysXJJyAnVIxykCL) | 3:53 | 2022-10-12 |  |

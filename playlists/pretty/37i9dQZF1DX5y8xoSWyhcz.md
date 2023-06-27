@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,883 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,957 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 33 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 34 | [GUNSHY](https://open.spotify.com/track/5OCVZihJVu2qk1r1ck2Prs) | [Allie Kelly](https://open.spotify.com/artist/0gKECB5Bx3IyzmQmoaPkac) | [GUNSHY](https://open.spotify.com/album/6wX62dyMRRxU8ZTHWfQEbS) | 3:30 |
 | 35 | [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 |
-| 36 | [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 |
+| 36 | [missin something](https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE) | 2:25 |
 | 37 | [Last One Standing](https://open.spotify.com/track/2ZZ4WodBWj4MRVP9Ec8bd6) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Last One Standing](https://open.spotify.com/album/1DuRlF9tv9aYCRQkNu80or) | 3:04 |
 | 38 | [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 |
 | 39 | [under the sofa](https://open.spotify.com/track/7ixdafOgj1QY1KM6t18RRU) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [waiting room](https://open.spotify.com/album/43x88JZCCwG3IfXHlyXc6A) | 1:39 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Tidal Wave](https://open.spotify.com/track/6batG48NWXXFdB9k6V2pK2) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Tidal Wave](https://open.spotify.com/album/5AVyDFH7uijN9sXikqMzIT) | 3:49 |
 | 125 | [Let Go](https://open.spotify.com/track/1DtdX9FfsysjfOXhVfGySB) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Let Go](https://open.spotify.com/album/0nanElKiXhl3gLEyluduzv) | 3:10 |
 
-Snapshot ID: `MCxlNzNlZjQ1MDc3YWU5NDQ1MjFkNzZhNzAwMDQxZjY5M2Y3NjJjNjRl`
+Snapshot ID: `MCw5MTM5NzNlODU0NjgwYjQwMzY3ZWE1ZWU1OGY0YTFkNmM4ZjZlODU2`

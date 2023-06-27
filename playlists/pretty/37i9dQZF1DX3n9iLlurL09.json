@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 72124,
+  "num_followers": 72214,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWE4Nzk3YWJmMTY1OGZiYmE5OTU5MGVjYTAyYmI2YmFiYzU1YzBm",
+  "snapshot_id": "MCxhMDMxYzNmYTA3NjMzMjA5MWUwZmU5YjVjOTBiYWE1YmEzYzMyMzky",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 173888,
       "name": "Freaking Out the Neighborhood",
       "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -319,26 +319,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 304760,
-      "name": "Super Rich Kids",
-      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -403,18 +383,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Stubborn Love",
-      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
+      "duration_ms": 304760,
+      "name": "Super Rich Kids",
+      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -431,6 +415,22 @@
       "duration_ms": 264493,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Stubborn Love",
+      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
       },
@@ -479,6 +495,22 @@
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 289080,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0ZyfiFudK9Si2n2G9RkiWj"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -503,34 +535,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         }
       ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 289080,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/0ZyfiFudK9Si2n2G9RkiWj"
+      "duration_ms": 368783,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -547,22 +563,6 @@
       "duration_ms": 173093,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 368783,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Forrest Gump",
-      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 224680,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
+      "duration_ms": 194840,
+      "name": "Forrest Gump",
+      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -691,6 +675,22 @@
       "duration_ms": 286253,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Dark Paradise",
-      "url": "https://open.spotify.com/track/349XIp8EgHWJiIg5K0CUft"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Heartthrob",
         "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 243173,
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/349XIp8EgHWJiIg5K0CUft"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Blue Jeans - Remastered 2011",
-      "url": "https://open.spotify.com/track/77XvocHaWXkG39G4qag6BG"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "When It Was Now",
         "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Blue Jeans - Remastered 2011",
+      "url": "https://open.spotify.com/track/77XvocHaWXkG39G4qag6BG"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 221973,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Tessellate",
+      "url": "https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1003,6 +1019,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/3xqxETvPg43KWP0HOGiOmu"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Oshin",
         "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
       },
@@ -1015,22 +1047,6 @@
       "duration_ms": 222973,
       "name": "Doused",
       "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Tessellate",
-      "url": "https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1119,6 +1135,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 314986,
+      "name": "Taro",
+      "url": "https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Sixteen Saltines",
         "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
       },
@@ -1163,22 +1195,6 @@
       "duration_ms": 218586,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/3xqxETvPg43KWP0HOGiOmu"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1279,38 +1295,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 167546,
-      "name": "Chained",
-      "url": "https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 314986,
-      "name": "Taro",
-      "url": "https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Lightning",
         "url": "https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 308360,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 167546,
+      "name": "Chained",
+      "url": "https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu"
     },
     {
       "added_at": "2022-05-19 08:11:23",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 62161,
+  "num_followers": 62194,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGU0MTk4YTA1YzQxM2EyNTQ2NTA1MmI4MzQ0YzZmMzFhY2JkOTU1",
+  "snapshot_id": "MCw3ZTlhZmQwYzZmMjI3ZDk5ZmU4Y2VlYzRlOTQyMGE2ZGUzMzQ0ZjY3",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+        "name": "Rompe Mi Mente",
+        "url": "https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT"
       },
       "artists": [
         {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
         }
       ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
+      "duration_ms": 209000,
+      "name": "Rompe Mi Mente",
+      "url": "https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "120 Km/Hr.",
-        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Vamos Otra Vez",
-      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Coraz\u00f3n D' Roto",
         "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
       },
@@ -311,50 +295,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Gran Blanco",
-        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
+        "name": "120 Km/Hr.",
+        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
       },
       "artists": [
         {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
         }
       ],
-      "duration_ms": 203213,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Rompe Mi Mente",
-        "url": "https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT"
-      },
-      "artists": [
-        {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Rompe Mi Mente",
-      "url": "https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Vamos Perdiendo el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
-      },
-      "artists": [
-        {
-          "name": "Tungas",
-          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
-        }
-      ],
-      "duration_ms": 241532,
-      "name": "Dicen Que Estoy Muerto",
-      "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
+      "duration_ms": 221066,
+      "name": "Vamos Otra Vez",
+      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -375,6 +327,54 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
+        "name": "Gran Blanco",
+        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
+      },
+      "artists": [
+        {
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Vamos Perdiendo el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
+      },
+      "artists": [
+        {
+          "name": "Tungas",
+          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
+        }
+      ],
+      "duration_ms": 241532,
+      "name": "Dicen Que Estoy Muerto",
+      "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+      },
+      "artists": [
+        {
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
         "name": "Te Vale Madre",
         "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 190933,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Entre La Guerra Y El Amor",
+        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
+      },
+      "artists": [
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Quemando Cartas",
+      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -423,38 +439,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
-      },
-      "artists": [
-        {
-          "name": "Aurum",
-          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
-        }
-      ],
-      "duration_ms": 216296,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Entre La Guerra Y El Amor",
-        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
-      },
-      "artists": [
-        {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Quemando Cartas",
-      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Solo Dios lo Sabe",
         "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
       },
@@ -467,6 +451,38 @@
       "duration_ms": 165605,
       "name": "Solo Dios lo Sabe",
       "url": "https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
+      },
+      "artists": [
+        {
+          "name": "Aurum",
+          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
+        }
+      ],
+      "duration_ms": 216296,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -531,22 +547,6 @@
       "duration_ms": 209306,
       "name": "Ll\u00e9vate Todo",
       "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Lugar Especial",
-        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
-      },
-      "artists": [
-        {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
-        }
-      ],
-      "duration_ms": 204168,
-      "name": "Lugar Especial",
-      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Cometas",
         "url": "https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 183118,
       "name": "Cometas",
       "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Lugar Especial",
+        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
+      },
+      "artists": [
+        {
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+        }
+      ],
+      "duration_ms": 204168,
+      "name": "Lugar Especial",
+      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
+        "name": "Clavo",
+        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Clavo",
+      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
         "name": "No Digas Lo Siento",
         "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
       },
@@ -819,22 +839,6 @@
       "duration_ms": 191043,
       "name": "Nunca Estar\u00e1 Bien",
       "url": "https://open.spotify.com/track/1Ify2EL1uHvYRuA6yXzVEV"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Primer Lugar",
-        "url": "https://open.spotify.com/album/5SqvbU9C4x09HtKMmTRB3D"
-      },
-      "artists": [
-        {
-          "name": "Say Ocean",
-          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
-        }
-      ],
-      "duration_ms": 212939,
-      "name": "Primer Lugar",
-      "url": "https://open.spotify.com/track/0meCAzWjALDb070H6L9DsS"
     }
   ],
   "unique_name": "Escena Pop Punk",

@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sithara Krishnakumar
 
-67 songs - 4 hr 26 min
+71 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,10 @@
 | [Ajitha Hare](https://open.spotify.com/track/5y3BFVnC2N2gdDYE6kcpVb) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Rathnamala](https://open.spotify.com/album/5uS5xlxpWnizHbPhgX2KHD) | 2:54 | 2022-06-23 |  |
 | [Akalukayo](https://open.spotify.com/track/6CSDfk6mx4IFbDIu5WKzH5) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mridul Anil](https://open.spotify.com/artist/3uVGKUu4pjlBUJdV879eb3) | [Once Upon A Blue Moon](https://open.spotify.com/album/5eGRajC0k09pDYoUKBDfBy) | 4:46 | 2022-06-23 |  |
 | [Akshara Nagari \(Kottayam Anthem\)](https://open.spotify.com/track/69yzHRHQUaFbUZIy6OB0ou) | [Xcro](https://open.spotify.com/artist/7oSfvcQRkVViXu1ptM20nz), [BEN](https://open.spotify.com/artist/3qAfqLu9KXPhiZlWS1gJ4Y) | [Akshara Nagari](https://open.spotify.com/album/3wHs2JP7aNZafv5uAjsT1Q) | 2:32 | 2023-05-08 |  |
+| [Anpu Kanmanikku](https://open.spotify.com/track/4ngocq0ZIMziNjVuwqW74U) | [Nithinraj](https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD) | [Anpu Kanmanikku](https://open.spotify.com/album/10z0lBBhYJmbjUuVN4ZvVp) | 3:49 | 2023-06-26 |  |
 | [Anthinilavin](https://open.spotify.com/track/3F7J8kh9Eee6groFjPboaQ) | [Sharath Narayan](https://open.spotify.com/artist/4U29BtbckXtWM7m9goeIKb) | [Anthinilavin](https://open.spotify.com/album/3mN268bF3zWXvA2ZGm2jod) | 4:12 | 2023-01-18 |  |
 | [Appuram Ippuram](https://open.spotify.com/track/3RCJVvoxtAguznT1g0RCaQ) | [Ann Maria K Binu](https://open.spotify.com/artist/5aPRunDEVB9A37KbIXNI82), [Souparnika Anilkumar](https://open.spotify.com/artist/60QkggG5BAI1ShfhxSkuWR) | [Appuram Ippuram](https://open.spotify.com/album/6qi6RhnNILHlJjRzfFXmP2) | 3:37 | 2023-04-24 |  |
+| [Arikilaay](https://open.spotify.com/track/1FUruQVUFNzr5wjae5yqMJ) | [Afzal Yusuff](https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm) | [Arikilaay](https://open.spotify.com/album/3L7rIf4rp0ncRmupn3qLBB) | 3:50 | 2023-06-26 |  |
 | [Arutharuthu](https://open.spotify.com/track/2pg3DGVU7eKaoBeDVC8o2P) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 4:27 | 2022-11-21 |  |
 | [Athe Nila \(From "I'm Original"\) by Job Kurian](https://open.spotify.com/track/6JBA5WfUCN5vyZ30SYdkmk) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Athe Nila \(From "I'm Original"\)](https://open.spotify.com/album/5phkYqqusaDalMGg6qsGcw) | 4:35 | 2023-01-16 |  |
 | [Athiru Kaakkum](https://open.spotify.com/track/6kwkD4YCRU4pH1NeY1vqt6) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Athiru Kaakkum](https://open.spotify.com/album/4UCDnO9iM4ANbFUG4OV9LW) | 3:42 | 2022-12-22 |  |
@@ -28,7 +30,8 @@
 | [Enthavo](https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Enthavo](https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1) | 3:39 | 2022-12-27 |  |
 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 | 2022-12-22 |  |
 | [GVQ](https://open.spotify.com/track/5ujiob8B2fy0UiLvJWr1cK) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:50 | 2022-12-22 |  |
-| [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/5f1oPeQ3tzCJUeXjoR47g8) | [Khayaal Mary Nazreth](https://open.spotify.com/artist/6nWn4phT9V8rmEvnMqp7rc), [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/0UnX5bU0IKKiXfp6RWbtxO) | 2:01 | 2023-05-19 |  |
+| [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/1Nbpz9rxSKE5updGyb6BWk) | [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/1wtxX4unoVitQl19pXC00o) | 2:01 | 2023-05-19 |  |
+| [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/5f1oPeQ3tzCJUeXjoR47g8) | [Khayaal Mary Nazreth](https://open.spotify.com/artist/6nWn4phT9V8rmEvnMqp7rc), [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/0UnX5bU0IKKiXfp6RWbtxO) | 2:01 | 2023-05-19 | 2023-06-27 |
 | [Jayiche Theeru](https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Adarsh ADJ](https://open.spotify.com/artist/0xf0k3W5rtq5aBS7FCzWWZ) | [Jayiche Theeru](https://open.spotify.com/album/4CWnzqTetUOsJlzZbJHyQU) | 3:58 | 2023-06-16 |  |
 | [Jupiter Mazha](https://open.spotify.com/track/4Rvo7kWVZJCst0cOS7Md3p) | [Dhanwin K B](https://open.spotify.com/artist/02JO25StRNoFFNmw3tfHxR), [Apoorva Sandhya](https://open.spotify.com/artist/5Z0ti5Y3Ount3E7Oysc8cl) | [Jupiter Mazha](https://open.spotify.com/album/17GrpHqQKY5MmMyqyP9LOO) | 3:41 | 2022-06-23 |  |
 | [Kaalam \- Hope Project](https://open.spotify.com/track/46UYJcjYixI76qsA8RBrrC) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Kaalam \(Hope Project\)](https://open.spotify.com/album/7gslmJ0SdG9UcuyznLSWty) | 3:48 | 2022-06-23 |  |
@@ -37,6 +40,7 @@
 | [Kaantha](https://open.spotify.com/track/2XtoLKNhRErtraFincrU7p) | [Lohar The Blacksmiths](https://open.spotify.com/artist/6HeWvZTa6qiSLyACNbSaNJ) | [Kaantha](https://open.spotify.com/album/5wOulpoyEWQobfeyDEujDQ) | 4:35 | 2022-11-21 |  |
 | [Kaantha Reprised](https://open.spotify.com/track/7qU4teUQNnqYr2vzTcLVZu) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kaantha Reprised](https://open.spotify.com/album/1UMpLamggLlvdcJ7IwvLhF) | 3:46 | 2022-12-22 |  |
 | [Kali](https://open.spotify.com/track/41ayv69t4dbYm7zMPcNUot) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Kali](https://open.spotify.com/album/4CAmWr6UQROx0HPSbb1PIJ) | 2:31 | 2023-05-26 |  |
+| [Kanmani](https://open.spotify.com/track/17dvs9UHu9Jt1frTgvDAe9) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Kanmani](https://open.spotify.com/album/3uKFPae4mwrhLCZbSklXGe) | 5:29 | 2023-06-26 |  |
 | [Karukara](https://open.spotify.com/track/3beDYAoq3bQwL2mqlMmslR) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 6:20 | 2022-12-22 |  |
 | [Lathiri Poothiri](https://open.spotify.com/track/2hGsJ2HbSJo2Bu9UEHmCqL) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Lathiri Poothiri](https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz) | 2:14 | 2022-09-06 |  |
 | [Maarane Thedum](https://open.spotify.com/track/6lILC3jFNhreDnjdq4xwZs) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Abhijith Damodaran](https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd) | [Maarane Thedum](https://open.spotify.com/album/5oya1Gh8pERbBLf9BYG5l7) | 2:54 | 2023-06-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,473 likes - 46 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,529 likes - 46 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 41 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Si Tu Vuelas \(Hadal Ahbek \[Alok Remix\]\)](https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM) | 3:17 |
 | 42 | [Mi vida empieza así](https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 1:49 |
 | 43 | [Don't Go](https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Don't Go](https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb) | 2:47 |
-| 44 | [Todo Fue Un Show](https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5) | 3:48 |
-| 45 | [Hasta vencer](https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Raya y el Último Dragón \(Banda Sonora Original en Español\)](https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B) | 3:44 |
+| 44 | [Hasta vencer](https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Raya y el Último Dragón \(Banda Sonora Original en Español\)](https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B) | 3:44 |
+| 45 | [Todo Fue Un Show](https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5) | 3:48 |
 | 46 | [Rescue Me \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Rescue Me \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/5by805i64TKLSsy47zjlP0) | 2:52 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDBlYWQ3N2M0YzRjMmEwYzdjOTI4YzRmYzNiYzIyM2ZiNw==`
+Snapshot ID: `MjgxMjk2OTUsMDAwMDAwMDAxOTRlMjliYjIyOTY4ODA3MTgyNWQ3MjhmYzFlOWQ0OA==`

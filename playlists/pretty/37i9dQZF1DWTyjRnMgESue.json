@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ilsey",
-  "num_followers": 52483,
+  "num_followers": 52575,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWU4NWUwNmE2MjE3ZjkyNjZjNmNiNTc5NTZmMTMxM2NlNzJhN2Q2",
+  "snapshot_id": "MCw2NjU5M2FkOTRmYThiM2I0NTY2NzVkYzQ0Njg5MjE5NTU4YzVkNDlm",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 152317,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 183937,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "You Might Not Like Her",
-        "url": "https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "You Might Not Like Her",
-      "url": "https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "You Might Not Like Her",
+        "url": "https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "You Might Not Like Her",
+      "url": "https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "All My Loving",
-        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 178537,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Are You Happy Now?",
         "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
       },
@@ -1099,22 +1083,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Light Year (feat. Lennon Stella)",
-        "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
+        "name": "All My Loving",
+        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        },
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 188043,
-      "name": "Light Year (feat. Lennon Stella)",
-      "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
+      "duration_ms": 178537,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1135,6 +1115,26 @@
       "duration_ms": 213133,
       "name": "Witness - feat. Rajiv Dhall",
       "url": "https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Light Year (feat. Lennon Stella)",
+        "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 188043,
+      "name": "Light Year (feat. Lennon Stella)",
+      "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Favorite Peeps",
+      "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Boston Accent",
         "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 248210,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "The Way That Lovers Do",
-        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Favorite Peeps",
-      "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "What Happiness Is",
-        "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "I BELIEVE",
         "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 206999,
       "name": "I BELIEVE",
       "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "What Happiness Is",
+        "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb"
     },
     {
       "added_at": "2023-06-23 04:00:00",

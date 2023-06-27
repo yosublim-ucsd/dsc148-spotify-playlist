@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: عفروتو
+> أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: <a href="https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q?si=amIjA4IaQo2ruk0jUnQuoQ"> ويجز </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,801 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,046 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 |
-| 2 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 |
-| 3 | [Freedom Music: Scene Cypher 3](https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Tommy](https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Freedom Music: Scene Cypher 3](https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7) | 4:04 |
-| 4 | [LELLY YAH](https://open.spotify.com/track/1SSymcmcSI1oYQtwOA8mOJ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [LELLY YAH](https://open.spotify.com/album/3zxpokbqTOtT3pry7cNhSK) | 3:09 |
-| 5 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/09EQW7LrAzAKazZnp6tbuB) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 |
+| 1 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/09EQW7LrAzAKazZnp6tbuB) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 |
+| 2 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 |
+| 3 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 |
+| 4 | [Freedom Music: Scene Cypher 3](https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Tommy](https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Freedom Music: Scene Cypher 3](https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7) | 4:04 |
+| 5 | [LELLY YAH](https://open.spotify.com/track/1SSymcmcSI1oYQtwOA8mOJ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [LELLY YAH](https://open.spotify.com/album/3zxpokbqTOtT3pry7cNhSK) | 3:09 |
 | 6 | [Matloob](https://open.spotify.com/track/3GFCoYz5FJHXuU81xkICJs) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 3:23 |
 | 7 | [Blanco](https://open.spotify.com/track/6Uig1yLkQkBZoHGDyZrTzm) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Akhro Noor](https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7) | 2:26 |
 | 8 | [Abo Galum](https://open.spotify.com/track/1JgbWmgC9uDYHmedb91Tzd) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 49 | [خالصة معايا](https://open.spotify.com/track/0XG6VRiFwF74vnEuMfr6hB) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz), [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn) | [خالصة معايا](https://open.spotify.com/album/1ZqcAeqFDFXhNZilGrnEqv) | 3:23 |
 | 50 | [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/track/0AhFYI98xsHPTqjWXwbrdV) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/album/57IuOz58Aic9351GUeol4V) | 2:47 |
 
-Snapshot ID: `MCxkZTBiMDFkOTk5M2U3ZGY0YjUwY2RmZjMzZTgwYmY5NDdiNWRmMGVl`
+Snapshot ID: `MCwwMzgzNTgzNjczYTBiMThjNzAwY2QzZmEyYWVlNDY0MDc4ODM5NTg2`

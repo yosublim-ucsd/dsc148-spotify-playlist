@@ -1,12 +1,12 @@
 {
   "description": "Walk down memory lane with the biggest rock anthems.",
-  "num_followers": 573588,
+  "num_followers": 573824,
   "original_name": "Songs We Rocked Out To",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWMyNzc2ZDg1YmI4ODFmMzg2NjRhNGJmMjhkMGVhYTZkYjU2Zjdh",
+  "snapshot_id": "MCw0MDVmYzViMThkYzE2NzgwNDg0MjBjZjQ0NzM0ODJkZGYyNjRjYWRj",
   "tracks": [
     {
       "added_at": "2022-08-23 23:56:36",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
-    },
-    {
-      "added_at": "2022-08-23 23:56:36",
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -139,6 +123,22 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2022-08-23 23:56:36",
+      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
-    },
-    {
-      "added_at": "2022-08-23 23:56:36",
-      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "added_at": "2022-08-23 23:56:36",
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
     },
     {
       "added_at": "2022-08-23 23:56:36",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Last Resort",
-      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
-    },
-    {
-      "added_at": "2022-08-23 23:56:36",
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
+    },
+    {
+      "added_at": "2022-08-23 23:56:36",
+      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
-    },
-    {
-      "added_at": "2022-08-23 23:56:36",
-      "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 195920,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": "2022-08-23 23:56:36",
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
       "added_at": "2022-08-23 23:56:36",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+    },
+    {
+      "added_at": "2022-08-23 23:56:36",
+      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -667,34 +683,18 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 305906,
-      "name": "Hail to the King",
-      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
-    },
-    {
-      "added_at": "2022-08-23 23:56:36",
-      "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
     },
     {
       "added_at": "2022-08-23 23:56:36",

@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2416793,
+  "num_followers": 2417096,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzNkMWVkMDI2MTE0MWI3Y2NjYzk5NDkwNTI1YmVhYzM4ZTIxMmQw",
+  "snapshot_id": "MCw2YjgyMWJmNTdlMjhmN2FmNDQ3N2YyZWJlODM5MzFiZjliNzQzOTZi",
   "tracks": [
     {
       "added_at": "2023-04-03 07:21:01",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Letters Never Sent",
-        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Higa",
-      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 349713,
       "name": "Mundo",
       "url": "https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
+        "name": "Letters Never Sent",
+        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Higa",
+      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Strike Whilst the Iron Is Hot",
-        "url": "https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl"
-      },
-      "artists": [
-        {
-          "name": "Orange & Lemons",
-          "url": "https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Hanggang Kailan - Umuwi Ka Na Baby",
-      "url": "https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
         "name": "Sa Susunod na Habang Buhay",
         "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 288189,
       "name": "Sa Susunod na Habang Buhay",
       "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
+        "name": "Strike Whilst the Iron Is Hot",
+        "url": "https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl"
+      },
+      "artists": [
+        {
+          "name": "Orange & Lemons",
+          "url": "https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Hanggang Kailan - Umuwi Ka Na Baby",
+      "url": "https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "TJ Monterde",
-        "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Dating Tayo",
-      "url": "https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
         "name": "Noon Time Show",
         "url": "https://open.spotify.com/album/7jEJsX7LeqOxDF9oIcqE5H"
       },
@@ -443,6 +427,38 @@
       "duration_ms": 364106,
       "name": "Beer",
       "url": "https://open.spotify.com/track/20gchtRYM7bFiOjYKQB8zZ"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
+        "name": "TJ Monterde",
+        "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Dating Tayo",
+      "url": "https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -475,22 +491,6 @@
       "duration_ms": 253013,
       "name": "Tell Me Where It Hurts",
       "url": "https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
         "name": "Langit. Luha.",
         "url": "https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Freestyle",
-        "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
-      },
-      "artists": [
-        {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE"
-        }
-      ],
-      "duration_ms": 289266,
-      "name": "Before I Let You Go",
-      "url": "https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
         "name": "Sid & Aya (Not a Love Story) [Original Movie Soundtrack]",
         "url": "https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 260599,
       "name": "Di Na Muli",
       "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
+      },
+      "artists": [
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE"
+        }
+      ],
+      "duration_ms": 289266,
+      "name": "Before I Let You Go",
+      "url": "https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -667,18 +683,18 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+        "name": "Binibini",
+        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+      "duration_ms": 221538,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -711,22 +727,6 @@
       "duration_ms": 196582,
       "name": "Teka Lang",
       "url": "https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
-        "name": "Binibini",
-        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Binibini",
-      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
     },
     {
       "added_at": "2023-04-03 07:21:01",

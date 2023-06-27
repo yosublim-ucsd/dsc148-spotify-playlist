@@ -1,12 +1,12 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: Santigold",
-  "num_followers": 678626,
+  "num_followers": 678720,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmUzN2EwZDhmNTFhZDZjOTlhNThjODRjNzk1YTQwMmEzZjM3M2Yy",
+  "snapshot_id": "MCwwYTg4MmEyN2Q3MzUzNzU1ZDg5ZTA0MGUyMzBjZjEzNGQzYTYwMjgw",
   "tracks": [
     {
       "added_at": "2022-11-17 20:15:32",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -215,22 +215,6 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
-        "name": "Sam's Town",
-        "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "When You Were Young",
-      "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -315,6 +299,22 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
+        "name": "Sam's Town",
+        "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "When You Were Young",
+      "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 238520,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
         "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 246213,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Something About Us",
-      "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -519,6 +503,22 @@
       "duration_ms": 213173,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Something About Us",
+      "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Thirteen Tales From Urban Bohemia",
-        "url": "https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Bohemian Like You",
-      "url": "https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "The Invisible Band",
         "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 228800,
       "name": "Sing",
       "url": "https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Thirteen Tales From Urban Bohemia",
+        "url": "https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Bohemian Like You",
+      "url": "https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 275306,
       "name": "Mykonos",
       "url": "https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Rebellion (Lies)",
-      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 536471,
       "name": "Dance Yrself Clean",
       "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Rebellion (Lies)",
+      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Yours Truly, Angry Mob",
-        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 364613,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Yours Truly, Angry Mob",
+        "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
     },
     {
       "added_at": "2022-11-17 20:15:32",

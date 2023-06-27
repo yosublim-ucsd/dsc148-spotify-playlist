@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-708 songs - 1 day 5 hr 4 min
+709 songs - 1 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 | 2021-11-27 | 2022-03-26 |
 | [FEAST \(Remix\)](https://open.spotify.com/track/2wiS5tnwJVkzwe3fo3WG7F) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [FEAST feat\. TiaCorine \(Remix\)](https://open.spotify.com/album/7keEE34WdMFUy8bcWNSYvi) | 2:14 | 2023-03-29 | 2023-06-03 |
 | [FED UP](https://open.spotify.com/track/0ZZgCLtt6QvRIKIWjeByaO) | [THOTTWAT](https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt) | [FED UP](https://open.spotify.com/album/1wFO7GlDJCrVXWFO3tu64r) | 5:02 | 2023-04-28 | 2023-06-10 |
+| [FIGURE IT OUT](https://open.spotify.com/track/0RQDBCsED70Qfq1CdRvavd) | [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Stafford Beats](https://open.spotify.com/artist/4qqIES4SbIokB88LtwFGyr) | [FIGURE IT OUT](https://open.spotify.com/album/2BVEQwM4nRjkVEgEXu8C0L) | 2:30 | 2023-06-27 |  |
 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 | 2021-12-10 | 2022-01-22 |
 | [Finger Food](https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ) | [Rolling Loud](https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Finger Food](https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1) | 3:38 | 2023-01-04 | 2023-03-23 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-15 | 2022-05-28 |
@@ -705,7 +706,7 @@
 | [XTAYALIVE](https://open.spotify.com/track/1JjiTsqfpfMoukoIW9cM5O) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [XTAYALIVE](https://open.spotify.com/album/48QWy8mreJlAa6XdruLXtl) | 2:06 | 2023-06-13 |  |
 | [Yale](https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:46 | 2022-03-17 | 2022-09-17 |
 | [Yam](https://open.spotify.com/track/1RE3rZvv6kImf4fIZCjs2I) | [sharkboy](https://open.spotify.com/artist/7eEiDNxx0ZlaXHkn74qOrM), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [UNDERWATER](https://open.spotify.com/album/4UP2s4n7nyzHPYpNh7qfH4) | 2:45 | 2022-03-16 | 2022-09-17 |
-| [yeaaaa](https://open.spotify.com/track/3wuwYbTlppthVAPixdbQma) | [Rollin Thrax](https://open.spotify.com/artist/7h5WosWv7dJz3XxcTSsqqj) | [yeaaaa](https://open.spotify.com/album/4m744Byj6lR19EMBtzhBLH) | 2:08 | 2022-12-19 |  |
+| [yeaaaa](https://open.spotify.com/track/3wuwYbTlppthVAPixdbQma) | [Rollin Thrax](https://open.spotify.com/artist/7h5WosWv7dJz3XxcTSsqqj) | [yeaaaa](https://open.spotify.com/album/4m744Byj6lR19EMBtzhBLH) | 2:08 | 2022-12-19 | 2023-06-27 |
 | [YEET \(feat\. Yeat\)](https://open.spotify.com/track/19b1RB0jrScAK1MKe3IRnk) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [YEET \(feat\. Yeat\)](https://open.spotify.com/album/7eOU7fB1ah7qgyX0LQDEG0) | 2:37 | 2022-01-28 | 2022-02-19 |
 | [You > Them \(Hate It!\)](https://open.spotify.com/track/3XwNEmdMEmjf9CkZrDBpM9) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [You > Them \(Hate It!\)](https://open.spotify.com/album/1t3gqZG4owzK59lurQyRjl) | 2:15 | 2023-01-11 | 2023-04-09 |
 | [You Know?, Pt\. 3](https://open.spotify.com/track/6n6TnyJwc10q07Jer3KILk) | [Crimsons Red](https://open.spotify.com/artist/5AYeIJIU09BXFjZEyDujtB) | [Rated Lux Diss](https://open.spotify.com/album/1Qz4SNMAW5N5OhQGGrDr51) | 1:20 | 2022-04-06 | 2022-07-29 |

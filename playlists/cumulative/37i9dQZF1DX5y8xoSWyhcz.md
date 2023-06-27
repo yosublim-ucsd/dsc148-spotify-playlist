@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,078 songs - 2 day 7 hr 17 min
+1,079 songs - 2 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,7 +624,8 @@
 | [mini fridge](https://open.spotify.com/track/7ruLGK8sA4RS5x1Moayj66) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [mini fridge](https://open.spotify.com/album/0edkRml3yUMWIMQC9mNfQM) | 3:13 | 2021-08-14 | 2021-09-11 |
 | [miss sick world](https://open.spotify.com/track/0MvBFQUCiKRG1XUSsSeA3V) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [MISS SICK WORLD](https://open.spotify.com/album/2vyaeH9ozMPm8wGDAHq4yf) | 3:15 | 2021-10-09 | 2022-02-05 |
 | [miss u btw](https://open.spotify.com/track/6IXxWOI2YdMzRm9I2Lr30X) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [miss u btw](https://open.spotify.com/album/0W5yBt0WMMsBFGFL3VFJej) | 3:26 | 2021-05-15 | 2021-07-31 |
-| [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 | 2023-03-17 |  |
+| [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 | 2023-03-17 | 2023-06-27 |
+| [missin something](https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE) | 2:25 | 2023-06-23 |  |
 | [Moment In The Sun](https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx) | 3:09 | 2022-05-06 |  |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-04-09 |
 | [Mood Ring](https://open.spotify.com/track/1I042sygvOn2C5SybTCuJ1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Mood Ring](https://open.spotify.com/album/4ww2orXklptrpHj4M8xdvy) | 3:45 | 2021-08-21 | 2022-01-15 |

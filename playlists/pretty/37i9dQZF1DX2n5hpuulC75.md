@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,334 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,371 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 9 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Woodstock \(Deluxe Edition\)](https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX) | 3:14 |
 | 10 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 |
 | 11 | [Besidju](https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI) | [shamana](https://open.spotify.com/artist/79idWEjZLtkCkJ37uHo7Av), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Besidju](https://open.spotify.com/album/07vja1cbDBcvT9CpJAnf0c) | 1:47 |
-| 12 | [What You Want](https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [What You Want](https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB) | 3:11 |
-| 13 | [We've Never Met but Can We Have a Cup of Coffee or Something](https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 3:19 |
+| 12 | [We've Never Met but Can We Have a Cup of Coffee or Something](https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 3:19 |
+| 13 | [What You Want](https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [What You Want](https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB) | 3:11 |
 | 14 | [Waiting for You](https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T), [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [D97](https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3) | 3:50 |
 | 15 | [I Don't Know](https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc) | 4:59 |
 | 16 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 28 | [I'm Right Here](https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0), [E\. Mosseri](https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI) | [Unusable Love](https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p) | 4:41 |
 | 29 | [I would](https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv) | 3:25 |
 | 30 | [INT.](https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone’s EP I](https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d) | 1:27 |
-| 31 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt) | 4:05 |
-| 32 | [Mercury](https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2) | 5:35 |
-| 33 | [Needy Bees](https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:31 |
+| 31 | [Needy Bees](https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:31 |
+| 32 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt) | 4:05 |
+| 33 | [Mercury](https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2) | 5:35 |
 | 34 | [Surf](https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Boom Boom On The Roof, Boom Boom In Your Ears](https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP) | 2:55 |
 | 35 | [\(Interlude\)](https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [VIII](https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl) | 2:10 |
 | 36 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 51 | [Home \(feat\. LEES\)](https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home \(feat\. LEES\)](https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt) | 3:18 |
 | 52 | [Do You Feel](https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Do You Feel](https://open.spotify.com/album/6zD2T7eIlbfZq3rZb1ngcW) | 3:54 |
 | 53 | [Get Light](https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI) | 3:28 |
-| 54 | [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 |
-| 55 | [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 |
-| 56 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
-| 57 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
+| 54 | [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 |
+| 55 | [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 |
+| 56 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
+| 57 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
 | 58 | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1) | [Aybner](https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA) | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG) | 2:56 |
 | 59 | [Antasma](https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex) | [Sal Dulu](https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV) | [Antasma](https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl) | 3:25 |
 | 60 | [Our Story](https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1) | 2:25 |
 
-Snapshot ID: `MCw3ZjhiN2VlMmZhMDYxOWJhYTY3NTZlMzAzYzgxMjMxYjRkM2RhZGUz`
+Snapshot ID: `MCxlODY0YWJhYzYzZDNhNWY0ZDcxMGNkYzdjYWI3OGUzNmI4YTAxNTdk`

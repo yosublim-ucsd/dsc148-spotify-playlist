@@ -8045,6 +8045,24 @@
     },
     {
       "album": {
+        "name": "When It Was Over",
+        "url": "https://open.spotify.com/album/0BVWJAk1zI0YF7JVByC0r1"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193654,
+      "name": "The Neighborhood",
+      "url": "https://open.spotify.com/track/6Rk2l7DEUgUXqcCRvvsuz0"
+    },
+    {
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -9380,7 +9398,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 205646,
       "name": "would you love me now?",
       "url": "https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j"

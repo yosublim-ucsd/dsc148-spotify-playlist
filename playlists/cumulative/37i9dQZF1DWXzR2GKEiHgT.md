@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-231 songs - 11 hr 14 min
+232 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Healing Sea](https://open.spotify.com/track/4n5BmXTjGNof69csvvudV2) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Outside HD Samples](https://open.spotify.com/album/4YmuO6PMPy57kSKSCLqfG0) | 2:21 | 2021-11-11 |  |
 | [Heavy Ocean Waves](https://open.spotify.com/track/0AX42EvX4TiCnlEOf2Vm5G) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 1:59 | 2022-12-19 | 2023-06-20 |
 | [Heavy Oceans](https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 2:36 | 2021-11-11 |  |
+| [Heavy Surf \(Ocean\)](https://open.spotify.com/track/4D87RX5nrtFfNliH0NnRYO) | [Studio Sea](https://open.spotify.com/artist/7kgPaIcut7uVFeUMFsRs58) | [Are You Shore!](https://open.spotify.com/album/50sWTt0ezubv6gs3unhtJZ) | 2:48 | 2023-06-19 |  |
 | [High Water Waves](https://open.spotify.com/track/3ixhrF2NqHNOSIFkXPldca) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Nature's Beautiful Sounds](https://open.spotify.com/album/1i7Wx47S8juKmqYC8vO7xi) | 3:00 | 2021-11-11 |  |
 | [High Water Waves](https://open.spotify.com/track/0f8iKTCQLqoiw4vEfQaRZ9) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Waves](https://open.spotify.com/album/1qQMwrKUPJjxJSZJjrykCJ) | 2:35 | 2022-02-10 | 2022-11-17 |
 | [Ice Cold Ocean](https://open.spotify.com/track/0In0VHQsOFefbgAKscxvsr) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 2:34 | 2021-11-11 | 2023-04-11 |
@@ -110,7 +111,7 @@
 | [Ocean Tranquility](https://open.spotify.com/track/6ssIEDSndneQgDbIlmRqqz) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Ocean Tranquility](https://open.spotify.com/album/4geX0rk2bvLyaToAuai8IT) | 3:50 | 2021-11-11 |  |
 | [Ocean Waves](https://open.spotify.com/track/6OndTIQXvM2xaUVjYVD5pl) | [FX waves](https://open.spotify.com/artist/1YHUx5UWB4wFTH0o5Yvlwj) | [Oceanic Waves](https://open.spotify.com/album/5T8YUpSG5Atdn1hR82vpsK) | 2:17 | 2023-06-19 |  |
 | [Ocean waves for Relaxation](https://open.spotify.com/track/4101GsDqaKAsq30hnkxjBY) | [Sleep Recording Sounds](https://open.spotify.com/artist/4r0X3VjxxLGYO02PmVTF3B) | [Sleep Recording Sounds](https://open.spotify.com/album/2j0UiE5XXcCI88XGJBZJ2G) | 2:45 | 2021-11-11 |  |
-| [Ocean's Edge](https://open.spotify.com/track/6yKUBOnuauGMHGLNMCTJ47) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Ocean's Edge](https://open.spotify.com/album/2XSyhlBiYtUsjuJ3gB0shQ) | 3:04 | 2023-06-19 |  |
+| [Ocean's Edge](https://open.spotify.com/track/6yKUBOnuauGMHGLNMCTJ47) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Ocean's Edge](https://open.spotify.com/album/2XSyhlBiYtUsjuJ3gB0shQ) | 3:04 | 2023-06-19 | 2023-06-27 |
 | [Oceanic Breeze](https://open.spotify.com/track/1b3Y6XIStQwPdEw14ib7vr) | [Brainwave Samples](https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7) | [Oceanic Breeze](https://open.spotify.com/album/57LHRRqc9ItBhuwmRFEMqp) | 2:37 | 2021-11-11 |  |
 | [Oceans Outside](https://open.spotify.com/track/4ndb9Sv5pTIolY8Lt5jmSn) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 2:02 | 2021-11-11 |  |
 | [Oceans Power](https://open.spotify.com/track/3EITxZ5iwMsYBzuGnibUSS) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Soothing Waves](https://open.spotify.com/album/5sja29pJqITn0j5pQUqEvp) | 3:19 | 2021-11-11 |  |

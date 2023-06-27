@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Mrs\. GREEN APPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,927 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,317 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Subway](https://open.spotify.com/track/2OxczpBvSXVhWoGk2T4njd) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Subway](https://open.spotify.com/album/0Fly6AXOK4otauYSOCmOwE) | 3:16 |
 | 50 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
 
-Snapshot ID: `MCwzN2YxMjY1YWZiYTNmMWUyNTU5Y2FjZWVlYjljZDMxNTVkNTEzZGUz`
+Snapshot ID: `MCwxZWQ4ODQ3YjRjZTNiYTRkOTllMWEwNzUzODE0NTQ2NmE4MzY3MzE4`

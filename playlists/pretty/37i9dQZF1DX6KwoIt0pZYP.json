@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 171228,
+  "num_followers": 171451,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGQ0M2FhNzdhYThiODFiZmRlMmJmNzcyNzJiNzdmMzY0MGUxNWMw",
+  "snapshot_id": "MCxjNTA4YTZlZGRkZTkwYzI4NjJlNWVlNmU3MGQwYjcyMDYyODg5NWQy",
   "tracks": [
     {
       "added_at": "2023-06-23 21:38:36",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
-        "name": "beside you",
-        "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 166023,
-      "name": "beside you",
-      "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -435,18 +419,34 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },
       "artists": [
         {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
+      "duration_ms": 199514,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
+        "name": "beside you",
+        "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 166023,
+      "name": "beside you",
+      "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -467,34 +467,18 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
-        "name": "THE REAPER",
-        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 182678,
-      "name": "like i need u",
-      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 199514,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1"
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -547,54 +531,6 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 164662,
-      "name": "SOMEBODY",
-      "url": "https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
         "name": "Levronka",
         "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
       },
@@ -607,6 +543,38 @@
       "duration_ms": 179000,
       "name": "Better On My Own",
       "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
+        "name": "THE REAPER",
+        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 182678,
+      "name": "like i need u",
+      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -639,6 +607,22 @@
       "duration_ms": 203075,
       "name": "It's Only Me - Studio Version",
       "url": "https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -679,22 +663,6 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 251571,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
         "name": "apart of me",
         "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
       },
@@ -707,22 +675,6 @@
       "duration_ms": 76285,
       "name": "apart of me",
       "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "YUKON (INTERLUDE)",
-      "url": "https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -767,6 +719,38 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 164662,
+      "name": "SOMEBODY",
+      "url": "https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 251571,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
         "name": "Oceans & Engines",
         "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 171019,
-      "name": "ANGOSTURA",
-      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
+      "duration_ms": 141093,
+      "name": "YUKON (INTERLUDE)",
+      "url": "https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -811,6 +795,22 @@
       "duration_ms": 174000,
       "name": "W.H.U.T",
       "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 171019,
+      "name": "ANGOSTURA",
+      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -843,22 +843,6 @@
       "duration_ms": 182645,
       "name": "you won't be there for me",
       "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
-        "name": "High School in Jakarta",
-        "url": "https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 219036,
-      "name": "High School in Jakarta",
-      "url": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -931,8 +915,8 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
-        "name": "MOONCHILD",
-        "url": "https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW"
+        "name": "High School in Jakarta",
+        "url": "https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT"
       },
       "artists": [
         {
@@ -940,9 +924,9 @@
           "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 256001,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/5vPO5ouEv8iedKWxzmSv7b"
+      "duration_ms": 219036,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -1011,6 +995,42 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
+        "name": "MOONCHILD",
+        "url": "https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 256001,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/5vPO5ouEv8iedKWxzmSv7b"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
+        "name": "East Daygo Popstar",
+        "url": "https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi"
+      },
+      "artists": [
+        {
+          "name": "Dane Amar",
+          "url": "https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV"
+        },
+        {
+          "name": "Jereena Montemayor",
+          "url": "https://open.spotify.com/artist/45iYm4bGYfT8nY4RxNBhlr"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Green Tea & Honey",
+      "url": "https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
         "name": "do u really?",
         "url": "https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6"
       },
@@ -1043,42 +1063,6 @@
       "duration_ms": 141974,
       "name": "L7 Blues",
       "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
-        "name": "East Daygo Popstar",
-        "url": "https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi"
-      },
-      "artists": [
-        {
-          "name": "Dane Amar",
-          "url": "https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV"
-        },
-        {
-          "name": "Jereena Montemayor",
-          "url": "https://open.spotify.com/artist/45iYm4bGYfT8nY4RxNBhlr"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Green Tea & Honey",
-      "url": "https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Keeping Tabs",
-      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -1143,6 +1127,22 @@
       "duration_ms": 246000,
       "name": "\u7ae5\u8a71",
       "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Keeping Tabs",
+      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
-        "name": "HOME IS WHO YOU ARE",
-        "url": "https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ"
+        "name": "Everlasting Dance",
+        "url": "https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1"
       },
       "artists": [
         {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+          "name": "Llunr",
+          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
         }
       ],
-      "duration_ms": 195022,
-      "name": "HOME IS WHO YOU ARE",
-      "url": "https://open.spotify.com/track/1fUd1ILeLIS3qTHmEowMRf"
+      "duration_ms": 203231,
+      "name": "Everlasting Dance",
+      "url": "https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -1399,22 +1399,6 @@
       "duration_ms": 168053,
       "name": "someone will love you better - Zack Tabudlo Version",
       "url": "https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
-        "name": "Everlasting Dance",
-        "url": "https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1"
-      },
-      "artists": [
-        {
-          "name": "Llunr",
-          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
-        }
-      ],
-      "duration_ms": 203231,
-      "name": "Everlasting Dance",
-      "url": "https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -1451,6 +1435,22 @@
       "duration_ms": 155923,
       "name": "your love",
       "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
+        "name": "HOME IS WHO YOU ARE",
+        "url": "https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 195022,
+      "name": "HOME IS WHO YOU ARE",
+      "url": "https://open.spotify.com/track/1fUd1ILeLIS3qTHmEowMRf"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
+        "name": "Called it Love",
+        "url": "https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "duration_ms": 186290,
+      "name": "Called it Love",
+      "url": "https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ"
+    },
+    {
+      "added_at": "2023-06-23 21:38:36",
+      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
-        "name": "Chilly",
-        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Chilly",
-      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
-    },
-    {
-      "added_at": "2023-06-23 21:38:36",
-      "album": {
         "name": "BEAUTiFUL",
         "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
       },
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
-        "name": "Called it Love",
-        "url": "https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a"
+        "name": "Chilly",
+        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
       },
       "artists": [
         {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 186290,
-      "name": "Called it Love",
-      "url": "https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ"
+      "duration_ms": 230000,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
     },
     {
       "added_at": "2023-06-23 21:38:36",
@@ -1683,22 +1683,18 @@
     {
       "added_at": "2023-06-23 21:38:36",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
       "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
         {
           "name": "HYBS",
           "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 157333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     }
   ],
   "unique_name": "tapioca",

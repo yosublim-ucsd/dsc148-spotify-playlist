@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 39436,
+  "num_followers": 39445,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTcwYWQ0YzQ4ZTg4MDczZWJiZGUwYzQ0NjA4OGM2MWJkZjQxMjVi",
+  "snapshot_id": "MCw4ZDQzNmNhOGQyZGNhNTZkNzAyMzg4YTFlODQ4MGNjYzEyOTY0MzNm",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -109,6 +109,34 @@
       "url": "https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "url": "https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "April In Paris: The Genius Of Charlie Parker #2",
@@ -173,34 +201,6 @@
       "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Getz/Gilberto (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
-      "url": "https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Distractions",
@@ -215,6 +215,26 @@
       "duration_ms": 143280,
       "name": "Crazy Race",
       "url": "https://open.spotify.com/track/4XyKqXYeL0FBPFbDrXLvJZ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 349080,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -323,22 +343,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 334333,
-      "name": "A Night In Tunisia",
-      "url": "https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -352,9 +356,25 @@
           "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 349080,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs"
+      "duration_ms": 283626,
+      "name": "Samba Triste",
+      "url": "https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 334333,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -407,6 +427,22 @@
       "duration_ms": 284133,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 154306,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -471,24 +507,8 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 154306,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
       "artists": [
         {
@@ -496,13 +516,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 283626,
-      "name": "Samba Triste",
-      "url": "https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K"
+      "duration_ms": 405853,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -659,26 +679,6 @@
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 405853,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -877,38 +877,6 @@
       "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "A Simple Tune",
-      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
-        "url": "https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Miss Fine",
-      "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Motion",
@@ -927,6 +895,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "A Simple Tune",
+      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Soul Sauce",
         "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
       },
@@ -941,20 +925,20 @@
       "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Conversations With Myself",
-        "url": "https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv"
+        "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
+        "url": "https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
         }
       ],
-      "duration_ms": 290466,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd"
+      "duration_ms": 251640,
+      "name": "Miss Fine",
+      "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -971,6 +955,22 @@
       "duration_ms": 151533,
       "name": "Ruint",
       "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Conversations With Myself",
+        "url": "https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 290466,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1265,6 +1265,22 @@
       "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 277466,
+      "name": "Worlds Outside",
+      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Family",
@@ -1333,20 +1349,20 @@
       "url": "https://open.spotify.com/track/1s3h7rpQMB1Sm2SuQDXnIp"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+        "name": "The New Standard",
+        "url": "https://open.spotify.com/album/1eyEiGNcBUytqA9OgU0dSp"
       },
       "artists": [
         {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 277466,
-      "name": "Worlds Outside",
-      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
+      "duration_ms": 487026,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/4sHqA2YvJiPsOQbP63LtbW"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1363,22 +1379,6 @@
       "duration_ms": 280053,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The New Standard",
-        "url": "https://open.spotify.com/album/1eyEiGNcBUytqA9OgU0dSp"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 487026,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/4sHqA2YvJiPsOQbP63LtbW"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Guitar Forms (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Greensleeves",
-      "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "The Complete Verve Studio Sessions",
         "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 213133,
       "name": "Somebody Loves Me",
       "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Guitar Forms (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Lonely One",
-        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Lullaby In Rhythm",
-      "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Lester Swings",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
+        "name": "The Lonely One",
+        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Lullaby In Rhythm",
+      "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
         "name": "Birks Works: The Verve Big-Band Sessions",
         "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 175800,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Betty Carter Album",
+        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "You're A Sweetheart",
+      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1583,22 +1599,6 @@
       "duration_ms": 346360,
       "name": "I Still Love Him So",
       "url": "https://open.spotify.com/track/7eqSzIGV9rWdheW84WUuiy"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Betty Carter Album",
-        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "You're A Sweetheart",
-      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1665,22 +1665,6 @@
       "url": "https://open.spotify.com/track/6rqGgu0tHZUAngnMLkAOt7"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Audience With Betty Carter (Live)",
-        "url": "https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "I Could Write A Book - Live At Bradshaw's Great American Music Hall, San Francisco/1979",
-      "url": "https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The Complete Verve Studio Sessions",
@@ -1719,6 +1703,22 @@
       "duration_ms": 203653,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Audience With Betty Carter (Live)",
+        "url": "https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "I Could Write A Book - Live At Bradshaw's Great American Music Hall, San Francisco/1979",
+      "url": "https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC"
     },
     {
       "added_at": "2019-10-02 08:54:10",

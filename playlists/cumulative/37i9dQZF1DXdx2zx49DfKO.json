@@ -414,7 +414,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 171618,
       "name": "Helldrift 2",
       "url": "https://open.spotify.com/track/2DfJniytXfa3L3N5TqSCYV"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 171028,
       "name": "HELLDRIFT 2",
       "url": "https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7"
@@ -985,6 +985,32 @@
     },
     {
       "album": {
+        "name": "Swaggin At The Partment",
+        "url": "https://open.spotify.com/album/2Ib42pemOfj6m0a87wNqvA"
+      },
+      "artists": [
+        {
+          "name": "erdemelchavo",
+          "url": "https://open.spotify.com/artist/7LZb79enPgbO33Xui57a7S"
+        },
+        {
+          "name": "meto atesoglu",
+          "url": "https://open.spotify.com/artist/3V9aE7Kd0AD3ADaWHagbQc"
+        },
+        {
+          "name": "ciya",
+          "url": "https://open.spotify.com/artist/5PTAd6Npb9E3Z0OVL8mnmB"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124708,
+      "name": "Swaggin At The Partment",
+      "url": "https://open.spotify.com/track/2V9IH2TQZHqxPrOqxIx2wt"
+    },
+    {
+      "album": {
         "name": "Swaggin' at the Partment",
         "url": "https://open.spotify.com/album/66zLalLqmD8cv653QsaC8B"
       },
@@ -1022,7 +1048,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 124540,
       "name": "Swaggin' at the Partment",
       "url": "https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN"

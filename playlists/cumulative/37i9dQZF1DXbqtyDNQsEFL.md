@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit.
 
-159 songs - 18 hr 59 min
+160 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [God My God \- Radio Edit/Live](https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Unstoppable \(Live\)](https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M) | 4:43 | 2022-06-09 | 2023-05-26 |
 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 | 2022-08-25 |  |
 | [Good \(Remix\)](https://open.spotify.com/track/4foBRaj4utf80ptIPLpJn1) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6) | [Good \(Remix\)](https://open.spotify.com/album/0veR3mst1sHrS4kBYllth2) | 6:48 | 2023-04-14 | 2023-06-03 |
+| [Grateful](https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Prifix](https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm) | [Grateful](https://open.spotify.com/album/6DMGM2y7j46To04if4jIam) | 5:04 | 2023-06-16 |  |
 | [Great Are You Lord \(Live\)](https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus: Sinach Live in Concert](https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ) | 10:26 | 2022-06-09 |  |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/0BNHjL2jAVYuFfHpPCMcME) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Hymns Vol\. 1](https://open.spotify.com/album/432apueG2d09mb1LPrChN6) | 3:45 | 2022-06-09 | 2022-11-11 |
 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 | 2022-07-28 | 2023-05-26 |
@@ -76,7 +77,7 @@
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-06-09 |  |
 | [Kadosh](https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Kadosh \(Live\)](https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY) | 6:04 | 2022-07-28 |  |
 | [Kaunar Ka, Oh Ya Yesu \- Live](https://open.spotify.com/track/07yKdaV1fiTDgiZKOcTp13) | [Chingtok Ishaku](https://open.spotify.com/artist/1lwlqct7jFtSjSvId0bxOQ), [Firstlove](https://open.spotify.com/artist/6JYa5mchuanBIFD4QDTg84) | [The Bridge](https://open.spotify.com/album/0hpcHJ05OUYD81SFjR2odm) | 11:14 | 2022-10-14 | 2022-11-05 |
-| [King of Glory](https://open.spotify.com/track/27E4LObyzj6OiszOv221pI) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Greatest Lord](https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r) | 5:40 | 2022-06-09 |  |
+| [King of Glory](https://open.spotify.com/track/27E4LObyzj6OiszOv221pI) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Greatest Lord](https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r) | 5:40 | 2022-06-09 | 2023-06-27 |
 | [King of Heaven](https://open.spotify.com/track/7o5X7UiaWdlhZ8RzhgpMvB) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Limitless Worship: Accra](https://open.spotify.com/album/6TWDBr16khP07eyN8ANE4M) | 7:44 | 2023-03-30 | 2023-05-14 |
 | [Know You Will](https://open.spotify.com/track/5PrA5flawVAz8XTBsli1JV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Are We There Yet?](https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk) | 3:38 | 2022-06-09 | 2023-01-20 |
 | [Koseunti](https://open.spotify.com/track/2crS3DOA1Gmf7Y8cXVrvas) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Koseunti](https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z) | 4:23 | 2022-10-14 | 2022-11-05 |

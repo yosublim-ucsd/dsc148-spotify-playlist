@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,657 songs - 3 day 17 hr 28 min
+1,658 songs - 3 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Aaron's Party \(Come Get It\)](https://open.spotify.com/track/4fF34Yf5KsfUbCORyLGpEj) | [Aaron Carter](https://open.spotify.com/artist/5338fdSzGNOFD4cxAxDTeq) | [Aaron's Party \(Come Get It\)](https://open.spotify.com/album/3BfvHVArGv1rIZgbOkdrbW) | 3:24 | 2022-11-07 | 2022-11-15 |
 | [ABC \(feat\. Sophia Black\)](https://open.spotify.com/track/4c8TMfsKJIrRgCWs8LCEbQ) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Sophia Black](https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:32 | 2022-10-31 | 2022-11-11 |
 | [ABC \(feat\. Sophia Black\)](https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Sophia Black](https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh) | [ABC \(feat\. Sophia Black\)](https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ) | 2:32 | 2022-10-05 | 2022-10-07 |
-| [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 | 2023-06-06 | 2023-06-21 |
+| [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 | 2023-06-06 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-27 | 2022-02-02 |
 | [abcdefu](https://open.spotify.com/track/6EWepM3ld6UUzS2heUGNtg) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [abcdefu](https://open.spotify.com/album/6AD387MPa0wLq7aGrX44TH) | 2:37 | 2022-03-01 | 2022-03-10 |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2021-12-27 | 2021-12-29 |
@@ -604,7 +604,7 @@
 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 | 2022-06-21 | 2022-07-20 |
 | [Hear Me Clearly \(feat\. Nigo\)](https://open.spotify.com/track/0fOpKW6soqAbK8lvRXjhPg) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:21 | 2022-04-29 | 2022-04-30 |
 | [Hear Me Clearly \(with Nigo\)](https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Hear Me Clearly](https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi) | 2:21 | 2022-03-29 | 2022-04-03 |
-| [Heart Racing](https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [Heart Racing](https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ) | 2:36 | 2023-06-13 |  |
+| [Heart Racing](https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [Heart Racing](https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ) | 2:36 | 2023-06-13 | 2023-06-27 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2022-12-13 | 2023-02-12 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-12-04 | 2022-12-12 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-03-14 | 2023-03-22 |
@@ -1130,8 +1130,9 @@
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-03-15 | 2022-03-23 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-04-10 | 2023-05-10 |
 | [Pretend](https://open.spotify.com/track/2kcpSxuTS6RHbZ5HC7sVYm) | [alex g online](https://open.spotify.com/artist/2Hf4ZWDcObyKhpPgJaw0Dw) | [High](https://open.spotify.com/album/38xsyH13ogtn6Wn9FCy9Ti) | 6:02 | 2023-06-15 | 2023-06-17 |
+| [Pretend](https://open.spotify.com/track/0BeJV3E7onQUX91A5odaAb) | [Clayas](https://open.spotify.com/artist/2vDlCEPgK49pj8gsvZQn2b) | [Pretend](https://open.spotify.com/album/40moV3TlzkoNytzd2LppTx) | 5:59 | 2023-06-26 |  |
 | [Pretend](https://open.spotify.com/track/1hOnhCNpvBTML6vieRGaio) | [ghostee](https://open.spotify.com/artist/4dDmw5njVAtwyZIDfH8fXC) | [Pretend](https://open.spotify.com/album/0ER5E6hjyn6VwavJBNLIxw) | 5:59 | 2023-06-19 | 2023-06-21 |
-| [Pretend](https://open.spotify.com/track/7KWrFyN747qVJsIlhOTLJD) | [Kenteph](https://open.spotify.com/artist/31MRCWtkccG67dzEDhBxqC) | [Pretend](https://open.spotify.com/album/5Pnc2Z0OqDZDW0vZiFNLMR) | 5:59 | 2023-06-22 |  |
+| [Pretend](https://open.spotify.com/track/7KWrFyN747qVJsIlhOTLJD) | [Kenteph](https://open.spotify.com/artist/31MRCWtkccG67dzEDhBxqC) | [Pretend](https://open.spotify.com/album/5Pnc2Z0OqDZDW0vZiFNLMR) | 5:59 | 2023-06-22 | 2023-06-27 |
 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 | 2022-11-10 | 2023-02-20 |
 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 | 2023-04-11 | 2023-05-27 |
 | [PRICE OF FAME](https://open.spotify.com/track/4xKQtLZn8m2d2KJy13ZujE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 6:19 | 2022-07-19 | 2022-07-21 |

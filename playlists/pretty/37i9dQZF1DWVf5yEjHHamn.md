@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf5yEjHHamn.md) - [plain]
 
 > Replongez dans les plus grands tubes d'été
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,783 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,858 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf5yEjHHamn.md) - [plain]
 | 3 | [Watch Out For This \(Bumaye\)](https://open.spotify.com/track/3j9o0zUoyGNXkijNSyRyBI) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [The Flexican](https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:29 |
 | 4 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 |
 | 5 | [Enamorame](https://open.spotify.com/track/4fHEdJLWGX6eVu4U9sT49W) | [Papi Sanchez](https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq) | [Yeah Baby!!](https://open.spotify.com/album/07ACSzInTs3SEBdPaM6rsT) | 4:22 |
-| 6 | [Jubel \- Radio Edit](https://open.spotify.com/track/58VSx2Adlz83g6YVDdJ0zR) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel EP](https://open.spotify.com/album/29EeCNBZxGVdwHUAyos10R) | 3:18 |
+| 6 | [Jubel](https://open.spotify.com/track/5CqgPrK3V7GpSSaXDLc0qa) | [raphy](https://open.spotify.com/artist/5irOBYegrzJAoGK3HPWUyH), [3ario](https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil), [Reaxys](https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI) | [Jubel](https://open.spotify.com/album/1OyFMLnshlXyukK5i7HPNT) | 3:20 |
 | 7 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 |
 | 8 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 |
 | 9 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf5yEjHHamn.md) - [plain]
 | 49 | [Party Rock Anthem](https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq) | 4:22 |
 | 50 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 |
 
-Snapshot ID: `MCxjMzcwMmMwZmUyN2NiZjAyMmRkMzgyM2UxOGM4MWVmNGQyZmI1NjUy`
+Snapshot ID: `MCxmNjI3ZDMzOTA0ZjZiOGM0MmIyYjc3OTQ0NDQyNDU0ZDY2NjBkNDE3`

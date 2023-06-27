@@ -4,7 +4,7 @@
 
 > Listen to the surprise songs from each night of Taylor Swift \| The Eras tour
 
-69 songs - 4 hr 32 min
+73 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,8 @@
 | [Come Back...Be Here \(Taylor's Version\)](https://open.spotify.com/track/5XaLWURooWKZiraOWSTWjm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:43 | 2023-06-13 |  |
 | [coney island \(feat\. The National\)](https://open.spotify.com/track/2awNGIJHodfLZSClB3PYhz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [evermore \(deluxe version\)](https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG) | 4:35 | 2023-06-13 |  |
 | [cowboy like me](https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:35 | 2023-06-13 |  |
+| [Daylight](https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:53 | 2023-06-26 |  |
+| [Dear John](https://open.spotify.com/track/7hZuICN5eaCuQyp443RCt6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 6:43 | 2023-06-26 |  |
 | [Death By A Thousand Cuts](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:18 | 2023-06-13 |  |
 | [False God](https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:20 | 2023-06-13 |  |
 | [Fifteen \(Taylor’s Version\)](https://open.spotify.com/track/2nqio0SfWg6gh2eCtfuMa5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:54 | 2023-06-13 |  |
@@ -36,6 +38,7 @@
 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 4:05 | 2023-06-13 |  |
 | [I Think He Knows](https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:53 | 2023-06-13 |  |
 | [I Wish You Would](https://open.spotify.com/track/3wmN11qXGL0HyPojvEE1D9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:27 | 2023-06-13 |  |
+| [If This Was A Movie \(Taylor’s Version\)](https://open.spotify.com/track/0kAZ3H6G9Zac4PMpmobMkj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [If This Was A Movie \(Taylor’s Version\)](https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F) | 3:57 | 2023-06-26 |  |
 | [Invisible](https://open.spotify.com/track/5OOd01o2YS1QFwdpVLds3r) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 | 2023-06-13 |  |
 | [Jump Then Fall \(Taylor’s Version\)](https://open.spotify.com/track/2m3ObD945KvpE5y9A1eUWm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:57 | 2023-06-13 |  |
 | [mad woman](https://open.spotify.com/track/2QDyYdZyhlP2fp79KZX8Bi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:57 | 2023-06-13 |  |
@@ -47,6 +50,7 @@
 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 | 2023-06-13 |  |
 | [Ours](https://open.spotify.com/track/1EQn3Uc5AyUXoiPLeyCrrg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 3:57 | 2023-06-13 |  |
 | [Out Of The Woods](https://open.spotify.com/track/5OndtwLGA9O6XHFcGm2H7r) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:55 | 2023-06-13 |  |
+| [Paper Rings](https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:42 | 2023-06-26 |  |
 | [Question...?](https://open.spotify.com/track/4sC589n5FFW9jHOSUxnkd6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:30 | 2023-06-13 |  |
 | [Red \(Taylor's Version\)](https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:43 | 2023-06-13 |  |
 | [Sad Beautiful Tragic \(Taylor's Version\)](https://open.spotify.com/track/73qMN9bXy7MSPwwGfH3wQr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:44 | 2023-06-13 |  |

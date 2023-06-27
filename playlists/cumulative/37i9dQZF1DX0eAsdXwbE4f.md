@@ -4,7 +4,7 @@
 
 > Relax to the sound of birds singing in the rain.
 
-118 songs - 5 hr 8 min
+119 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Fresh Rainfall](https://open.spotify.com/track/0GFsf0ejUguZ966Rov1LkT) | [NATURALSOUND](https://open.spotify.com/artist/1aKwCfowxoqvstcBsPXUHw) | [Feel The Rain](https://open.spotify.com/album/5Na8vHndapwKax9CslkUUB) | 2:36 | 2021-11-11 |  |
 | [Fåglar i Regn](https://open.spotify.com/track/76DI4bKgwhIFC7lQ5CTr5m) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Fåglar](https://open.spotify.com/album/0UF685ROQzeXZelWiT4nwc) | 3:26 | 2021-11-11 |  |
 | [garden escape](https://open.spotify.com/track/1laSIfJvQhSJ9gL2GpS3ar) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [lo\-fly zone](https://open.spotify.com/album/5InjXAxHwEjzZX9iAtt5c2) | 2:40 | 2021-11-11 |  |
+| [Green Noise \- Early Summer Birds](https://open.spotify.com/track/2K0J7mQTEpY1Vhus3usBT4) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Green Noise Vol\. 1](https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw) | 2:19 | 2023-06-20 |  |
 | [Heavy Rain](https://open.spotify.com/track/2TELIKNRpPNkMSnuSq1XNj) | [The Rain Factory](https://open.spotify.com/artist/49vl57hBAlm48azTd4iCsN) | [Sleep Rain](https://open.spotify.com/album/17xuXcpMcRLHGbUb7AsUrs) | 3:30 | 2021-11-11 |  |
 | [Hummingbird Song](https://open.spotify.com/track/7r79M5K5fyQtCaHV42XyKa) | [Al Watts](https://open.spotify.com/artist/3rO74EVuCb94fxyCJk1aYx) | [Hummingbird Song](https://open.spotify.com/album/1fwsA7tNImY1FXpDgTxFFZ) | 2:38 | 2021-11-11 |  |
 | [In Harmony with the Rain](https://open.spotify.com/track/5KIFUG7h4FZGEDvAvLTbqX) | [Island Nature Sounds](https://open.spotify.com/artist/6uUdEOkdbmk16c33lfs9XI) | [Forest Rain](https://open.spotify.com/album/1Yo5Dg0KY1Ic4fDOPKYR6s) | 2:54 | 2021-11-11 |  |
@@ -103,7 +104,7 @@
 | [Rich Rain Bird](https://open.spotify.com/track/48r69Zr1t0h6Y0yFWgHj9O) | [Natural Nature Makers](https://open.spotify.com/artist/1Rbya7c6FqWC3L0UBCXpbv) | [Rich Rain Bird](https://open.spotify.com/album/7MvrD43usHTvHwfo5FAgnc) | 2:42 | 2022-03-29 |  |
 | [Rich Raindrops](https://open.spotify.com/track/2CS1foD5CvZqEbrdeHjGeu) | [Rainspell](https://open.spotify.com/artist/0b4sTNmnPpWmMXt2164RXx) | [Rain Spell](https://open.spotify.com/album/3xvcpp8kX2YbQqxTAg2Lnn) | 2:40 | 2021-11-11 |  |
 | [River, Birds, Thunder](https://open.spotify.com/track/4ak2RQ5iErrBl2lj5RnaZ0) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Forest and Ocean Sounds](https://open.spotify.com/album/2dmWE60Sa5659UxfxDth4M) | 2:18 | 2021-11-11 |  |
-| [Scandinavian Birds In The Forest](https://open.spotify.com/track/76mlCK9rDlN2ThdRQfTzRx) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Paradise Island Birds](https://open.spotify.com/album/7xTDWLF8jCocD8eG11s7QW) | 2:00 | 2023-06-20 |  |
+| [Scandinavian Birds In The Forest](https://open.spotify.com/track/76mlCK9rDlN2ThdRQfTzRx) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Paradise Island Birds](https://open.spotify.com/album/7xTDWLF8jCocD8eG11s7QW) | 2:00 | 2023-06-20 | 2023-06-27 |
 | [Seaside Rain And Birds](https://open.spotify.com/track/02FFNFzku7K0kPZylHdLMP) | [Bird Recordings](https://open.spotify.com/artist/3vseIs5Pn0LRmw8Tiuxd98) | [Seaside Rain And Birds](https://open.spotify.com/album/0knhCYSd849MqYeHRf8vEn) | 2:02 | 2021-11-11 |  |
 | [Singing Birds \- Light Rain](https://open.spotify.com/track/4MfdlZXmcjlun1oxNQwXM6) | [Wildlife Recordings](https://open.spotify.com/artist/5ThzopcohI3EiXV3SepU88) | [Birds Chirp & Rain](https://open.spotify.com/album/2Vt5vt5eSKKHW2j4FLmShX) | 2:08 | 2021-11-11 |  |
 | [Singing Birds \- River Stream](https://open.spotify.com/track/4l23gBB04kCVllReJ6J5vB) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Singing Birds](https://open.spotify.com/album/5CZDUlLtKopRhg7lFaknDG) | 1:39 | 2021-11-11 | 2023-06-20 |

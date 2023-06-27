@@ -4,7 +4,7 @@
 
 > when things just feel heavy.
 
-56 songs - 3 hr 9 min
+57 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Apologies](https://open.spotify.com/track/7BW0dJ7l1iG5YPdzPvVL7W) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [The Hunna](https://open.spotify.com/album/6o0Cd4hfhFGnVeYSugnzII) | 2:53 | 2023-05-03 |  |
 | [Bad Intentions](https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [The Blue EP](https://open.spotify.com/album/3plAf4w7eRDvDqY2qxFouS) | 3:35 | 2023-05-03 |  |
 | [Battle Scars](https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Battle Scars](https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W) | 2:51 | 2023-05-03 |  |
-| [Bouquet](https://open.spotify.com/track/5Hjfc5BeyQjCuAlQQsJgfw) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [You're Not You Anymore](https://open.spotify.com/album/4mLe3VjCtRgttyAd2vMOQo) | 2:30 | 2023-05-03 |  |
+| [Bouquet](https://open.spotify.com/track/5Hjfc5BeyQjCuAlQQsJgfw) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [You're Not You Anymore](https://open.spotify.com/album/4mLe3VjCtRgttyAd2vMOQo) | 2:30 | 2023-05-03 | 2023-06-27 |
 | [Box in a Heart \(with renforshort\)](https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Box in a Heart \(with renforshort\)](https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3) | 2:51 | 2023-05-03 |  |
 | [Broken](https://open.spotify.com/track/32yaRngoDZcF56ApmNaBNz) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 3:10 | 2023-05-03 |  |
 | [Broken](https://open.spotify.com/track/3xVmo0y8QSYOVLaifgZv8H) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Color Decay](https://open.spotify.com/album/5H93Egq9XH6M9R1mkxQDch) | 3:48 | 2023-05-03 |  |
@@ -49,13 +49,14 @@
 | [Numb](https://open.spotify.com/track/0TTN18FVx6Ibfqzotyneok) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:07 | 2023-05-03 |  |
 | [Numb](https://open.spotify.com/track/0ldPf4JWjGlVNZ68wFlkIa) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 2:47 | 2023-05-03 |  |
 | [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 | 2023-05-03 |  |
-| [Petal](https://open.spotify.com/track/6hpd3s4YS7Zn9ky5DyJjmL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Low Teens \(Deluxe Edition\)](https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx) | 2:59 | 2023-05-03 |  |
+| [Petal](https://open.spotify.com/track/6hpd3s4YS7Zn9ky5DyJjmL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Low Teens \(Deluxe Edition\)](https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx) | 2:59 | 2023-05-03 | 2023-06-27 |
 | [Rag Doll](https://open.spotify.com/track/2Z9BEKyEfi58oeLUYkreZM) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Rag Doll](https://open.spotify.com/album/4pgWzbgUQmQUNwJpGmu9yY) | 3:18 | 2023-05-03 |  |
 | [So Far Away](https://open.spotify.com/track/7Hr1Ignop7cymbE3FbOtXa) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 5:26 | 2023-05-03 |  |
 | [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 | 2023-05-03 |  |
 | [Sorry](https://open.spotify.com/track/6rAXHPd18PZ6W8m9EectzH) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 | 2023-05-03 |  |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2023-05-03 |  |
 | [Stuck In My Ways](https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Stuck In My Ways](https://open.spotify.com/album/0IyXHRcQxesZtc09HdKCyv) | 2:54 | 2023-05-03 |  |
+| [Take Me Away](https://open.spotify.com/track/0jSfQJjEPrcVHr6f7x3D8X) | [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Take Me Away](https://open.spotify.com/album/4bf2plTcwmLaWZqBbSO5oe) | 2:17 | 2023-06-26 |  |
 | [Tear Me to Pieces](https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:56 | 2023-05-03 |  |
 | [The Ghost of You](https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:14 | 2023-05-03 |  |
 | [The Kid I Used to Know](https://open.spotify.com/track/4AXAS26dUVTnCnubySfkbv) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Sobville \(Episode I\)](https://open.spotify.com/album/6GFOn9MAVGzNHUqjBKiJWj) | 2:25 | 2023-05-03 |  |

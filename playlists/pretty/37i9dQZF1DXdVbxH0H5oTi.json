@@ -1,12 +1,12 @@
 {
   "description": "No procrastination allowed. Only fun songs to help you get chores done.",
-  "num_followers": 471896,
+  "num_followers": 472079,
   "original_name": "Get Chores Done",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ2MDc2MGUwMDQwZmU4OWM2ZjBiZThmMDUzNDQxMWU3ZDQ2ZDIx",
+  "snapshot_id": "MCw3MDlmNDE5MzFjYTc4NWM2MWJmM2M1ZTU0OGFhYTMyZWI0MTE0OGZj",
   "tracks": [
     {
       "added_at": "2023-06-23 05:45:31",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-06-23 05:45:31",
       "album": {
+        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 191254,
+      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
+    },
+    {
+      "added_at": "2023-06-23 05:45:31",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
-    },
-    {
-      "added_at": "2023-06-23 05:45:31",
-      "album": {
-        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 191254,
-      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
     },
     {
       "added_at": "2023-06-23 05:45:31",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-06-23 05:45:31",
       "album": {
-        "name": "Oops!... I Did It Again",
-        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Oops!...I Did It Again",
-      "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
-    },
-    {
-      "added_at": "2023-06-23 05:45:31",
-      "album": {
         "name": "September (sped up + slowed)",
         "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2023-06-23 05:45:31",
+      "album": {
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Oops!...I Did It Again",
+      "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
     },
     {
       "added_at": "2023-06-23 05:45:31",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-06-23 05:45:31",
       "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 484146,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
+    },
+    {
+      "added_at": "2023-06-23 05:45:31",
+      "album": {
         "name": "FourFiveSeconds",
         "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
-    },
-    {
-      "added_at": "2023-06-23 05:45:31",
-      "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 484146,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
     },
     {
       "added_at": "2023-06-23 05:45:31",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-23 05:45:31",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Whole Lotta Love - 1990 Remaster",
-      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
-    },
-    {
-      "added_at": "2023-06-23 05:45:31",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 155880,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "added_at": "2023-06-23 05:45:31",
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Whole Lotta Love - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
     },
     {
       "added_at": "2023-06-23 05:45:31",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2023-06-23 05:45:31",
       "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
+    },
+    {
+      "added_at": "2023-06-23 05:45:31",
+      "album": {
         "name": "VIVES",
         "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
       },
@@ -1679,22 +1699,6 @@
     {
       "added_at": "2023-06-23 05:45:31",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
-    },
-    {
-      "added_at": "2023-06-23 05:45:31",
-      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
@@ -1707,6 +1711,22 @@
       "duration_ms": 259853,
       "name": "Yo No S\u00e9 Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
+    },
+    {
+      "added_at": "2023-06-23 05:45:31",
+      "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2023-06-23 05:45:31",
@@ -1739,22 +1759,6 @@
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
-    },
-    {
-      "added_at": "2023-06-23 05:45:31",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 162146,
-      "name": "BESTIES",
-      "url": "https://open.spotify.com/track/7eTv2OTr3aY5iKtFdBusoA"
     }
   ],
   "unique_name": "Get Chores Done",

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Zé Neto & Cristiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,319,230 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,321,447 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
-| 2 | [Pátio do Posto \- Ao Vivo](https://open.spotify.com/track/4t6eam3rC9JoNFVkfOHK4s) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:58 |
-| 3 | [Seu Brilho Sumiu \- Ao Vivo](https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Let's Bora, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1jd2UnD7KAYtlTxmfmn59t) | 2:48 |
-| 4 | [Erro Gostoso \- Ao Vivo](https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 2:58 |
-| 5 | [Traumatizei \- Ao Vivo Em Brasília](https://open.spotify.com/track/0JIYoXtJfORxI6gRpHv6ZW) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP1\)](https://open.spotify.com/album/7Gg88I2AY86RasStaV0rWW) | 2:52 |
-| 6 | [Nosso Quadro](https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão Vol.1](https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i) | 2:53 |
-| 7 | [Mágica \- Ao Vivo](https://open.spotify.com/track/5v8EhStRWlvoY2qbcZR5R2) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Mágica \(Ao Vivo\)](https://open.spotify.com/album/1e3FBSBxbutzfpC5tAe2w8) | 2:51 |
-| 8 | [Oi Balde \- Ao Vivo](https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:39 |
+| 1 | [Pátio do Posto \- Ao Vivo](https://open.spotify.com/track/4t6eam3rC9JoNFVkfOHK4s) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:58 |
+| 2 | [Seu Brilho Sumiu \- Ao Vivo](https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Let's Bora, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1jd2UnD7KAYtlTxmfmn59t) | 2:48 |
+| 3 | [Erro Gostoso \- Ao Vivo](https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 2:58 |
+| 4 | [Traumatizei \- Ao Vivo Em Brasília](https://open.spotify.com/track/0JIYoXtJfORxI6gRpHv6ZW) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP1\)](https://open.spotify.com/album/7Gg88I2AY86RasStaV0rWW) | 2:52 |
+| 5 | [Nosso Quadro](https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão Vol.1](https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i) | 2:53 |
+| 6 | [Mágica \- Ao Vivo](https://open.spotify.com/track/5v8EhStRWlvoY2qbcZR5R2) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Mágica \(Ao Vivo\)](https://open.spotify.com/album/1e3FBSBxbutzfpC5tAe2w8) | 2:51 |
+| 7 | [Oi Balde \- Ao Vivo](https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:39 |
+| 8 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
 | 9 | [Desandei \- Ao Vivo](https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Desandei \(Ao Vivo\)](https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3) | 2:23 |
 | 10 | [Duas Três](https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Adriano Rhod](https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF) | [Duas Três](https://open.spotify.com/album/3wqvUHnPBKg34UfjlGouEr) | 2:36 |
 | 11 | [Não Vitalício \(Nunca Mais\) \- Ao Vivo](https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Não Vitalício \(Nunca Mais\) \[Ao Vivo\]](https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Fala Alguma Coisa \- Ao Vivo](https://open.spotify.com/track/0JAnjmcYMX157RsnmkhDBW) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Fala Alguma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5KNtqlfJEyuLHqNRwHYE3B) | 2:41 |
 | 50 | [Não Sei o Que Lá](https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei o Que Lá](https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye) | 2:49 |
 
-Snapshot ID: `MCxlMDhhNDFlZjBjOWRkNmRhMGViZjFmMjAyOWM3MDdkY2YzNTk5OWFh`
+Snapshot ID: `MCwxMTIyYTU3ZGZmYzUyOTYzNDc4OWQ3Yzk4Yjk5ZGZjMmU3OTZjMDY5`

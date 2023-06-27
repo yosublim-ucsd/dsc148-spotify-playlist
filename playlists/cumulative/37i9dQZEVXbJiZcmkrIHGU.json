@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -8038,7 +8038,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 175984,
       "name": "Delfin",
       "url": "https://open.spotify.com/track/4jAHH8WkHiJQP9JlW2PlEi"
@@ -21491,6 +21491,24 @@
     },
     {
       "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "album": {
         "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
         "url": "https://open.spotify.com/album/5HLuIoXA2NY0FRR033c3or"
       },
@@ -29132,7 +29150,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 157093,
       "name": "Roller",
       "url": "https://open.spotify.com/track/6hw1Sy9wZ8UCxYGdpKrU6M"

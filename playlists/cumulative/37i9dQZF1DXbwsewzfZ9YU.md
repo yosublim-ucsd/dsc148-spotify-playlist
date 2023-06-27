@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Zulu
 
-107 songs - 4 hr 38 min
+109 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Dancing on a Pin](https://open.spotify.com/track/3SFYfWiTxhj9l1Erllc64i) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Dancing on a Pin](https://open.spotify.com/album/4l84ZA07jEaYL2c1yxnyNV) | 2:21 | 2023-02-24 |  |
 | [Dark Blue](https://open.spotify.com/track/60vVj2WfNR4weWoMEiO9er) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Songs for the Willow](https://open.spotify.com/album/2rVmbhmUafv2fDfEpwJQgL) | 2:49 | 2023-02-24 |  |
 | [Decompose](https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:27 | 2023-02-24 |  |
+| [Deep in the Willow](https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Upon Loss Singles](https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ) | 3:31 | 2023-06-26 |  |
 | [Delete It](https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ) | [MSPAINT](https://open.spotify.com/artist/5sn6aQFrJvjsSIuaomA4to), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Post\-American](https://open.spotify.com/album/0O9TQ88Zb6NE6oa6Gkb0S9) | 2:22 | 2023-03-17 |  |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-24 |  |
 | [Different Strokes](https://open.spotify.com/track/0BKoH0V5oitnRXXdTJaruF) | [Pulses.](https://open.spotify.com/artist/0tko2stnUOqejIto8rKRh7) | [Different Strokes](https://open.spotify.com/album/1rDtz6r9JVwFBStd2vQpy1) | 2:52 | 2023-04-21 |  |
@@ -45,7 +46,7 @@
 | [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 | 2023-02-24 | 2023-05-20 |
 | [Fun's Over](https://open.spotify.com/track/53bqV8I1QeWPBfLSTlP0Ok) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 1:52 | 2023-02-24 | 2023-03-11 |
 | [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 | 2023-02-24 | 2023-05-20 |
-| [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2023-02-24 |  |
+| [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2023-02-24 | 2023-06-27 |
 | [Grave Dive](https://open.spotify.com/track/0NAF4ywlrLdqUZMJRT23od) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:31 | 2023-02-24 |  |
 | [Halfway](https://open.spotify.com/track/2iQ8BNDGU06JXqVYhOaKY5) | [Bent Blue](https://open.spotify.com/artist/1haOs9zOxraUzXYPEOs125) | [Where Do Ripples Go?](https://open.spotify.com/album/3QrvdDcBeldWqVJ09ADQrS) | 2:49 | 2023-02-24 |  |
 | [Hate Me](https://open.spotify.com/track/2Q7UuiaUcZPIa3WpRTh8nv) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Hate Me](https://open.spotify.com/album/4bfZJObSINfpyuED5Apz3M) | 2:11 | 2023-04-07 |  |
@@ -113,6 +114,7 @@
 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 | 2023-02-24 |  |
 | [White Lies](https://open.spotify.com/track/7gkixf4Q6DRjjXakYReQzi) | [War On Women](https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz) | [Wonderful Hell](https://open.spotify.com/album/25EyI6VNG9QS9TeQk6IJCY) | 3:30 | 2023-02-24 |  |
 | [WORLD OF MALICE](https://open.spotify.com/track/3AU7Jjcn8c5mHXiaz3RKkj) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [WORLD OF MALICE](https://open.spotify.com/album/4vKCWsfMooaaH00SOq3RSn) | 3:24 | 2023-02-24 |  |
+| [Y.S.A.B.](https://open.spotify.com/track/40wSDvvvOUmnVS7oiwVBj7) | [Sunami](https://open.spotify.com/artist/1pBeRGeBHNPLy95LswDViS) | [SUNAMI \(L.P.\)](https://open.spotify.com/album/2GnZYSZv0FQK5R80gyNara) | 2:26 | 2023-06-26 |  |
 | [Year of the Guillotine](https://open.spotify.com/track/1KGCcGF0oE7u3UCU4ZvlXQ) | [Death Goals](https://open.spotify.com/artist/00I2SJI3kqtdl3IWdAPTk5) | [Year of the Guillotine](https://open.spotify.com/album/0i3G0DRyZVya1t12C0TQXc) | 1:14 | 2023-04-07 |  |
 | [Zoo](https://open.spotify.com/track/5DuLYFs13hJ5QhAfXT3Jxs) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [What Makes You Tick?](https://open.spotify.com/album/5cDmhZrR4QJCYxE0W5GvOm) | 1:15 | 2023-02-24 |  |
 

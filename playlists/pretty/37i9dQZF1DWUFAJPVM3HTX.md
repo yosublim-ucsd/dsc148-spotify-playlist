@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: CARI\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,151 likes - 320 songs - 16 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,272 likes - 320 songs - 16 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 319 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |
 | 320 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 |
 
-Snapshot ID: `MCw4NTgwMjIyNzIxYTI5NjlkYzI3MzFiZmY3YmU3YWQyZWYwNDViYzcy`
+Snapshot ID: `MCxjOTgyZDI5NWFkNWY4NWQ5N2ZhZDE4NmRmM2Y3N2E1ZWYxZGU3YWEw`

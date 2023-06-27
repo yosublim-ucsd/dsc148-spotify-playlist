@@ -730,6 +730,32 @@
     {
       "album": {
         "name": "Higher Standards (Lado A)",
+        "url": "https://open.spotify.com/album/6vZ2DgUGcDUm3eis5UV14A"
+      },
+      "artists": [
+        {
+          "name": "BNT",
+          "url": "https://open.spotify.com/artist/5QPQ1ZQFmow6eoSsscq33K"
+        },
+        {
+          "name": "Hache Souza",
+          "url": "https://open.spotify.com/artist/1yQiZJTb5BgGi69eTkgqMW"
+        },
+        {
+          "name": "Seba Jones",
+          "url": "https://open.spotify.com/artist/2FbKpBqa4bdoDiYIklpw3V"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262269,
+      "name": "Dos",
+      "url": "https://open.spotify.com/track/3zHplLv7kGgc99HG1WjCOe"
+    },
+    {
+      "album": {
+        "name": "Higher Standards (Lado A)",
         "url": "https://open.spotify.com/album/6pglBdAozqBiOiF1hDNd1Y"
       },
       "artists": [
@@ -748,7 +774,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 262269,
       "name": "Dos",
       "url": "https://open.spotify.com/track/6YrxXC8qq1kLvhtUZ8ybkf"

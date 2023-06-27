@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 751039,
+  "num_followers": 751047,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzU5ZWIzNjJjMzljMTMzYzYzYmIxNmU0ZDk3MjEyMGJhYjc5MWFm",
+  "snapshot_id": "MCw4NDY5NDYyNWFiNjg4MTM3N2Y5Zjk5YWI4YzFkOTU4Mzg0ZDJhMmY4",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X"
     },
     {
+      "added_at": "2023-05-26 13:00:09",
+      "album": {
+        "name": "A Brief Nirvana",
+        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "These Four Walls",
+      "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "11",
@@ -607,6 +623,22 @@
       "duration_ms": 297717,
       "name": "Fight for Love",
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2023-05-12 05:07:36",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/4WXVew9ALyRwKJ6Avj7FYM"
+      },
+      "artists": [
+        {
+          "name": "Lee England Jr",
+          "url": "https://open.spotify.com/artist/7FabEcDtzenndrHSHMqyQL"
+        }
+      ],
+      "duration_ms": 183412,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/54CJIU0qCLcjgT5KMgHw9B"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -627,38 +659,6 @@
       "duration_ms": 258023,
       "name": "Through The Night (feat. Free Nationals)",
       "url": "https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt"
-    },
-    {
-      "added_at": "2023-05-12 05:07:36",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/4WXVew9ALyRwKJ6Avj7FYM"
-      },
-      "artists": [
-        {
-          "name": "Lee England Jr",
-          "url": "https://open.spotify.com/artist/7FabEcDtzenndrHSHMqyQL"
-        }
-      ],
-      "duration_ms": 183412,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/54CJIU0qCLcjgT5KMgHw9B"
-    },
-    {
-      "added_at": "2023-05-26 13:00:09",
-      "album": {
-        "name": "A Brief Nirvana",
-        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "These Four Walls",
-      "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
     },
     {
       "added_at": "2022-09-23 04:06:59",
@@ -789,26 +789,6 @@
       "url": "https://open.spotify.com/track/2Bpky4PIUsFM5RetNZk1w1"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Crush You",
-        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
-      },
-      "artists": [
-        {
-          "name": "Shafiq Husayn",
-          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 256069,
-      "name": "Crush You",
-      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
-    },
-    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
@@ -829,6 +809,26 @@
       "url": "https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Crush You",
+        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
+      },
+      "artists": [
+        {
+          "name": "Shafiq Husayn",
+          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 256069,
+      "name": "Crush You",
+      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "PATTERNS",
@@ -847,26 +847,6 @@
       "duration_ms": 224050,
       "name": "PATTERNS",
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Look At Me",
-        "url": "https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        },
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 233056,
-      "name": "Look At Me",
-      "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -899,6 +879,26 @@
       "duration_ms": 253527,
       "name": "Sweet Blue",
       "url": "https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Look At Me",
+        "url": "https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 233056,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
     },
     {
-      "added_at": "2023-05-26 13:00:09",
-      "album": {
-        "name": "Midnight Microdose, Vol. 1",
-        "url": "https://open.spotify.com/album/3y0aueHT3E9cXsnuRwIaGV"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 125706,
-      "name": "Cocoa",
-      "url": "https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb"
-    },
-    {
       "added_at": "2023-05-20 16:10:43",
       "album": {
         "name": "Soul,PRESENT",
@@ -1059,6 +1043,22 @@
       "duration_ms": 241666,
       "name": "TODAY",
       "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
+    },
+    {
+      "added_at": "2023-05-26 13:00:09",
+      "album": {
+        "name": "Midnight Microdose, Vol. 1",
+        "url": "https://open.spotify.com/album/3y0aueHT3E9cXsnuRwIaGV"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 125706,
+      "name": "Cocoa",
+      "url": "https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1119,6 +1119,26 @@
       "duration_ms": 153684,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Hrs & Hrs (Remix)",
+        "url": "https://open.spotify.com/album/29VQRaMV0FqhEsAPWQe95C"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "Hrs & Hrs (feat. Usher) - Remix",
+      "url": "https://open.spotify.com/track/5ZfQFxeeGGiKUmwzQBbGaV"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1237,6 +1257,22 @@
       "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Footsteps in the Dark Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 317992,
+      "name": "Footsteps in the Dark Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+    },
+    {
       "added_at": "2023-05-05 05:35:01",
       "album": {
         "name": "Eve Gene",
@@ -1255,22 +1291,6 @@
       "duration_ms": 198425,
       "name": "Eve Gene",
       "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Footsteps in the Dark Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 317992,
-      "name": "Footsteps in the Dark Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1361,22 +1381,6 @@
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "If You Don't Want My Love",
-        "url": "https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "black like you",
@@ -1393,24 +1397,20 @@
       "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Hrs & Hrs (Remix)",
-        "url": "https://open.spotify.com/album/29VQRaMV0FqhEsAPWQe95C"
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 208320,
-      "name": "Hrs & Hrs (feat. Usher) - Remix",
-      "url": "https://open.spotify.com/track/5ZfQFxeeGGiKUmwzQBbGaV"
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
     },
     {
       "added_at": "2022-09-30 04:06:57",
@@ -1585,26 +1585,6 @@
       "url": "https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "The Piano Album",
-        "url": "https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 244620,
-      "name": "How Deep Is Your Love - Acoustic Version",
-      "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Snoop Dogg Presents Death Row Summer 2022",
@@ -1627,6 +1607,54 @@
       "duration_ms": 221893,
       "name": "Mulholland Drive",
       "url": "https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "The Piano Album",
+        "url": "https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 244620,
+      "name": "How Deep Is Your Love - Acoustic Version",
+      "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Means The World",
+        "url": "https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Gareth Lockrane",
+          "url": "https://open.spotify.com/artist/2Km3mLLDx9YqUgnzzE2Ahv"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Means The World",
+      "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
     },
     {
       "added_at": "2023-05-05 05:35:01",
@@ -1705,34 +1733,6 @@
       "url": "https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Means The World",
-        "url": "https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5"
-      },
-      "artists": [
-        {
-          "name": "Reuben James",
-          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
-        },
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
-        },
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        },
-        {
-          "name": "Gareth Lockrane",
-          "url": "https://open.spotify.com/artist/2Km3mLLDx9YqUgnzzE2Ahv"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Means The World",
-      "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
-    },
-    {
       "added_at": "2022-10-03 05:27:10",
       "album": {
         "name": "Pineapple Cognac",
@@ -1749,6 +1749,26 @@
       "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
     },
     {
+      "added_at": "2023-06-16 06:17:29",
+      "album": {
+        "name": "I Can Say To You [Feat. Vanisha Gould]",
+        "url": "https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Vanisha Gould",
+          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
+        }
+      ],
+      "duration_ms": 217984,
+      "name": "I Can Say To You [Feat. Vanisha Gould] - Single Edit",
+      "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
+    },
+    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Magic",
@@ -1763,6 +1783,22 @@
       "duration_ms": 156622,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
+    },
+    {
+      "added_at": "2023-03-03 05:39:26",
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1795,22 +1831,6 @@
       "duration_ms": 243085,
       "name": "Mean Mug",
       "url": "https://open.spotify.com/track/4a125pvXw0CxxpN7yHDgUY"
-    },
-    {
-      "added_at": "2023-03-03 05:39:26",
-      "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1847,26 +1867,6 @@
       "duration_ms": 164693,
       "name": "Can't Go (feat. Phoelix)",
       "url": "https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV"
-    },
-    {
-      "added_at": "2023-06-16 06:17:29",
-      "album": {
-        "name": "I Can Say To You [Feat. Vanisha Gould]",
-        "url": "https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        },
-        {
-          "name": "Vanisha Gould",
-          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
-        }
-      ],
-      "duration_ms": 217984,
-      "name": "I Can Say To You [Feat. Vanisha Gould] - Single Edit",
-      "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
     }
   ],
   "unique_name": "Soul Coffee",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: DaBoii
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,769 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,839 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 69 | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g) | 3:03 |
 | 70 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 |
 
-Snapshot ID: `MCwxZDhlMjdlYjY3MTMwNThkN2U1MjQwYzc0NDBhYzkxZmFkNzE5ZTVl`
+Snapshot ID: `MCw1MzRjNGJmZmEwZmRkNDllYjYyYTZmZTNlMDE5YzU4YzEyMTVhNDIz`

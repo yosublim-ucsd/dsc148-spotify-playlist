@@ -1,12 +1,12 @@
 {
   "description": "New music from popular Hindi artists. Cover- Darshan Raval",
-  "num_followers": 32427,
+  "num_followers": 32675,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjY3NDEyMDA1NWM5ZmIwN2I0NGZkYjFjNzBiOTk4MTBlN2RmNjIy",
+  "snapshot_id": "MCw2NzZiMzk4YWQwMTcyZGIzMTFlNmQ2ZDQ1MjNlZGQ3NWRkYTQ5MzE1",
   "tracks": [
     {
       "added_at": "2023-06-23 02:11:00",
@@ -60,16 +60,16 @@
       },
       "artists": [
         {
+          "name": "Sourabh Joshi",
+          "url": "https://open.spotify.com/artist/3RwL7pvxngsOGafJ172leD"
+        },
+        {
           "name": "Mohan Kannan",
           "url": "https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem"
         },
         {
           "name": "Richa Sharma",
           "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
-        },
-        {
-          "name": "Sourabh Joshi",
-          "url": "https://open.spotify.com/artist/3RwL7pvxngsOGafJ172leD"
         }
       ],
       "duration_ms": 254000,

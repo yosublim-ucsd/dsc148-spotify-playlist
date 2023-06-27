@@ -1247,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "Band and a Drummer",
+        "url": "https://open.spotify.com/album/2WpcnkaQZdgRkvQ5sx4pjc"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "Band and a Drummer",
+      "url": "https://open.spotify.com/track/79UV9XRNKSy4VhZBtTFveT"
+    },
+    {
+      "album": {
         "name": "BANG! BANG!",
         "url": "https://open.spotify.com/album/1TsUCH8sjDmB5XVgOsMb6W"
       },
@@ -2178,7 +2200,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 187200,
       "name": "bounce back.",
       "url": "https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi"

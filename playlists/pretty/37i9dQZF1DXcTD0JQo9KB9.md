@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每日都有咁多壞消息，我心情真係好肉酸呀！只可以同自己講聲「撐住」！
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,479 likes - 88 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,482 likes - 88 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 87 | [水花四濺](https://open.spotify.com/track/6W8mNQAQ1KCImOwk2iCdwJ) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Hocc2](https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7) | 4:16 |
 | 88 | [哲學家](https://open.spotify.com/track/1wdPW3bn0ysQVdRhWET6XL) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [哲學家](https://open.spotify.com/album/3bI27pOCKevhTpBHTDPTdW) | 4:34 |
 
-Snapshot ID: `MCwzNTI5NmNhYmJkNGVlMmFmNWRlYTVjMjIwNDZiMmNjM2RkNmM3YWZl`
+Snapshot ID: `MCwxZmNkNGRiMDZhOTg2NzkzZjlhNGUyZDMyNWM2Mzk3YzlmZmEwMGRh`

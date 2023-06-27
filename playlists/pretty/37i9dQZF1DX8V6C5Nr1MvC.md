@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V6C5Nr1MvC.md) - [plain]
 
 > Rock that's served neat and goes down smooth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,733 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,927 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V6C5Nr1MvC.md) - [plain]
 | 99 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 | 100 | [Say Hello 2 Heaven](https://open.spotify.com/track/4L2S9GbwEgwfSbHjTCvNQX) | [Temple Of The Dog](https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd) | [Temple Of The Dog](https://open.spotify.com/album/63HdXCn0Xz1pRZc2GzMw7k) | 6:24 |
 
-Snapshot ID: `MCw2M2UxNjJmYzFmMGFlN2JmYzc1ZGE4MWIyMTMwN2RkNDc0ZmU4NzIw`
+Snapshot ID: `MCxhN2IwOTE1ZTAyYTFmM2MwMDE3MGEwNzJhZjdhM2ZjNmM0ZmVhNmZh`

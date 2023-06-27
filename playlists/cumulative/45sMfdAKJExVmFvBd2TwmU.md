@@ -4,7 +4,7 @@
 
 > LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional Songs, Love songs, 2023\. 2022, Top Hits, Bollywood hits, Arijit Singh Hits, Hindi Songs, Lofi, Soothing songs, Night songs, Broken, Romance, All Time best Bollywood songs
 
-141 songs - 10 hr 51 min
+142 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Ishq Wala Love](https://open.spotify.com/track/1hQia6rxgfM1ly2hE3StWp) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 4:17 | 2021-09-02 |  |
 | [Jab Se Tere Naina](https://open.spotify.com/track/0gRNu9dVzi5aC87AI1empZ) | [Monty Sharma](https://open.spotify.com/artist/554yyXUEFseU1dwvisHTik), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Saawariya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4E6rpd9IcOfe6X8mErzVxf) | 4:44 | 2022-05-10 |  |
 | [Janam Janam](https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 3:57 | 2021-10-19 |  |
+| [Jannatein Kahan](https://open.spotify.com/track/62wnQra2VgCUyHO3BUIAcr) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Jannat 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6CtqkIRtoYPHgFc1ft1DPi) | 3:48 | 2023-06-26 |  |
 | [Jashn\-E\-Bahaaraa](https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Jodhaa Akbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW) | 5:15 | 2021-10-19 |  |
 | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/track/6h09y5UH6sDRERJALlaJPi) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/album/47BxXUsijYFRSasnmu8M2U) | 3:48 | 2022-05-19 |  |
 | [Jiya Jaaye Na](https://open.spotify.com/track/0nHe03inf3duhGSD7ONjHT) | [Prashant Katheriya](https://open.spotify.com/artist/1wmoF73GhlylxwAbn9YGYr) | [Jiya Jaaye Na](https://open.spotify.com/album/3YhNW21pwZFgF16RpQ9T4z) | 2:00 | 2023-02-10 |  |

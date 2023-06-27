@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 771406,
+  "num_followers": 771456,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTE3YmRmMzc3Yzc0ZjVkNmM2YTlmNjA1NzZlOTY4OGViMjNmMmMx",
+  "snapshot_id": "MCxkOWQyNGZjOWZhZmFjNmIzOGY1NDc5YzA0ZWQ2MmI5ZmQzYTYxZmU3",
   "tracks": [
     {
       "added_at": "2023-06-23 15:35:38",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Serene Clarity",
-        "url": "https://open.spotify.com/album/4mWj1SQTEpfWSPK93thFE8"
-      },
-      "artists": [
-        {
-          "name": "Lulu Ray",
-          "url": "https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ"
-        }
-      ],
-      "duration_ms": 139643,
-      "name": "Serene Clarity",
-      "url": "https://open.spotify.com/track/0eZzQlr30pDYx9us8zfVx5"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Ascendent",
         "url": "https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 159250,
       "name": "Stargaze",
       "url": "https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Serene Clarity",
+        "url": "https://open.spotify.com/album/4mWj1SQTEpfWSPK93thFE8"
+      },
+      "artists": [
+        {
+          "name": "Lulu Ray",
+          "url": "https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ"
+        }
+      ],
+      "duration_ms": 139643,
+      "name": "Serene Clarity",
+      "url": "https://open.spotify.com/track/0eZzQlr30pDYx9us8zfVx5"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
+        "name": "Evolving",
+        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "Evolving",
+      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
         "name": "Laze",
         "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 200000,
       "name": "Carnivoran",
       "url": "https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
-        "name": "Evolving",
-        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
-      },
-      "artists": [
-        {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
-        }
-      ],
-      "duration_ms": 194919,
-      "name": "Evolving",
-      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Zeppelin See",
-        "url": "https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa"
-      },
-      "artists": [
-        {
-          "name": "Montbretia",
-          "url": "https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Zeppelin See",
-      "url": "https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Miho no Matsubara",
         "url": "https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 196000,
       "name": "Phaedra",
       "url": "https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Zeppelin See",
+        "url": "https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa"
+      },
+      "artists": [
+        {
+          "name": "Montbretia",
+          "url": "https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Zeppelin See",
+      "url": "https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Yoga Meditation",
-        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
-      },
-      "artists": [
-        {
-          "name": "Zen Wuan",
-          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
-        }
-      ],
-      "duration_ms": 163730,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Make It Last",
         "url": "https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
+        "name": "Yoga Meditation",
+        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
+      },
+      "artists": [
+        {
+          "name": "Zen Wuan",
+          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
+        }
+      ],
+      "duration_ms": 163730,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
         "name": "Stay Safe",
         "url": "https://open.spotify.com/album/6D3qaysSHYi8dvpwslqB9A"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 212000,
       "name": "Gold Coast Australia",
       "url": "https://open.spotify.com/track/6BNTFiV9i392ZnBLp4gpC2"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Lakshmi",
+        "url": "https://open.spotify.com/album/66lkSZN2o3CNRmCzbzRSTg"
+      },
+      "artists": [
+        {
+          "name": "Lake Melville",
+          "url": "https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Rekha",
+      "url": "https://open.spotify.com/track/4qrNoVMU8gN61AQqU3e13U"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1291,22 +1307,6 @@
       "duration_ms": 166487,
       "name": "Persistence",
       "url": "https://open.spotify.com/track/3ZAlpXJWeKniBrqSMffs0j"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
-        "name": "Lakshmi",
-        "url": "https://open.spotify.com/album/66lkSZN2o3CNRmCzbzRSTg"
-      },
-      "artists": [
-        {
-          "name": "Lake Melville",
-          "url": "https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Rekha",
-      "url": "https://open.spotify.com/track/4qrNoVMU8gN61AQqU3e13U"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Vi m\u00f8tes igjen",
-        "url": "https://open.spotify.com/album/7pfvZelJPPsQL4FG7yKO1n"
-      },
-      "artists": [
-        {
-          "name": "Tine Mydland",
-          "url": "https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Vi m\u00f8tes igjen",
-      "url": "https://open.spotify.com/track/7tqxrJUeyG2a7mjtkkk8Oz"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "432 Hz Healing Frequencies",
         "url": "https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 196800,
       "name": "432 Hz Peace",
       "url": "https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Vi m\u00f8tes igjen",
+        "url": "https://open.spotify.com/album/7pfvZelJPPsQL4FG7yKO1n"
+      },
+      "artists": [
+        {
+          "name": "Tine Mydland",
+          "url": "https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Vi m\u00f8tes igjen",
+      "url": "https://open.spotify.com/track/7tqxrJUeyG2a7mjtkkk8Oz"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Awakened",
-        "url": "https://open.spotify.com/album/3WRhawwvVoG5leL75BKKbV"
-      },
-      "artists": [
-        {
-          "name": "The Deep Sleep Scientists",
-          "url": "https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR"
-        }
-      ],
-      "duration_ms": 180116,
-      "name": "Awakened",
-      "url": "https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Zenith",
         "url": "https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 181770,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Awakened",
+        "url": "https://open.spotify.com/album/3WRhawwvVoG5leL75BKKbV"
+      },
+      "artists": [
+        {
+          "name": "The Deep Sleep Scientists",
+          "url": "https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR"
+        }
+      ],
+      "duration_ms": 180116,
+      "name": "Awakened",
+      "url": "https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Apesanteur",
-        "url": "https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39"
-      },
-      "artists": [
-        {
-          "name": "Elodie Acy",
-          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Apesanteur",
-      "url": "https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "528 Hz Clarity Vibrations",
         "url": "https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 132624,
       "name": "528 Hz Clarity Vibrations",
       "url": "https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Apesanteur",
+        "url": "https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39"
+      },
+      "artists": [
+        {
+          "name": "Elodie Acy",
+          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Apesanteur",
+      "url": "https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Rugare",
-        "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
-      },
-      "artists": [
-        {
-          "name": "Tendai Marwan",
-          "url": "https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD"
-        }
-      ],
-      "duration_ms": 188691,
-      "name": "Rugare",
-      "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Cool Air",
         "url": "https://open.spotify.com/album/24ERw8DNZYHnejbmdTCjXA"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 186000,
       "name": "Cool Air",
       "url": "https://open.spotify.com/track/02tUBBShoCFZE2RB1sANKl"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Rugare",
+        "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
+      },
+      "artists": [
+        {
+          "name": "Tendai Marwan",
+          "url": "https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD"
+        }
+      ],
+      "duration_ms": 188691,
+      "name": "Rugare",
+      "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Somniac",
-        "url": "https://open.spotify.com/album/48GvOvNvTmpGpBekXqL5mX"
-      },
-      "artists": [
-        {
-          "name": "Dream Runner",
-          "url": "https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59"
-        }
-      ],
-      "duration_ms": 170590,
-      "name": "Spiritual Pressure",
-      "url": "https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Armonikos",
         "url": "https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 155348,
       "name": "Armonikos",
       "url": "https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Somniac",
+        "url": "https://open.spotify.com/album/48GvOvNvTmpGpBekXqL5mX"
+      },
+      "artists": [
+        {
+          "name": "Dream Runner",
+          "url": "https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59"
+        }
+      ],
+      "duration_ms": 170590,
+      "name": "Spiritual Pressure",
+      "url": "https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
+        "name": "Intergalactic",
+        "url": "https://open.spotify.com/album/2KnSiN6Iqp0CIdsMHu9L4P"
+      },
+      "artists": [
+        {
+          "name": "Yuio Zah",
+          "url": "https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf"
+        }
+      ],
+      "duration_ms": 180734,
+      "name": "Celestial Orbit",
+      "url": "https://open.spotify.com/track/7leBQCu78Elq3ersWc8HWE"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh"
       },
@@ -2239,22 +2255,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Intergalactic",
-        "url": "https://open.spotify.com/album/2KnSiN6Iqp0CIdsMHu9L4P"
-      },
-      "artists": [
-        {
-          "name": "Yuio Zah",
-          "url": "https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf"
-        }
-      ],
-      "duration_ms": 180734,
-      "name": "Celestial Orbit",
-      "url": "https://open.spotify.com/track/7leBQCu78Elq3ersWc8HWE"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Hollow Shells",
         "url": "https://open.spotify.com/album/2vyTb5WXM7Yv7UiggjtxgR"
       },
@@ -2267,6 +2267,22 @@
       "duration_ms": 255000,
       "name": "Hollow Shells",
       "url": "https://open.spotify.com/track/1EgWZkH5xIMi6YOjRUHO08"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "serenity (sleep)",
+        "url": "https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "duration_ms": 165891,
+      "name": "isolation",
+      "url": "https://open.spotify.com/track/7uB64dVoDwxbMCdeEqEl1Q"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -2303,18 +2319,18 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "serenity (sleep)",
-        "url": "https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm"
+        "name": "Aphelion",
+        "url": "https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW"
       },
       "artists": [
         {
-          "name": "oh, the joy.",
-          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
         }
       ],
-      "duration_ms": 165891,
-      "name": "isolation",
-      "url": "https://open.spotify.com/track/7uB64dVoDwxbMCdeEqEl1Q"
+      "duration_ms": 200555,
+      "name": "Aphelion",
+      "url": "https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -2331,22 +2347,6 @@
       "duration_ms": 198000,
       "name": "Ceremonial Stone",
       "url": "https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
-        "name": "Aphelion",
-        "url": "https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW"
-      },
-      "artists": [
-        {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
-        }
-      ],
-      "duration_ms": 200555,
-      "name": "Aphelion",
-      "url": "https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5"
     },
     {
       "added_at": "2023-06-23 15:35:38",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-06-23 15:35:38",
       "album": {
-        "name": "Obelus",
-        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
-      },
-      "artists": [
-        {
-          "name": "Jin Eun-Kyung",
-          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
-        }
-      ],
-      "duration_ms": 203728,
-      "name": "Frozen In Time",
-      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
-    },
-    {
-      "added_at": "2023-06-23 15:35:38",
-      "album": {
         "name": "Nuee",
         "url": "https://open.spotify.com/album/2A87JyHOupQKp7kbWllfdz"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 168000,
       "name": "Nuee",
       "url": "https://open.spotify.com/track/79BRFdRzq8Kbj2rNvRX18H"
+    },
+    {
+      "added_at": "2023-06-23 15:35:38",
+      "album": {
+        "name": "Obelus",
+        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
+      },
+      "artists": [
+        {
+          "name": "Jin Eun-Kyung",
+          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
+        }
+      ],
+      "duration_ms": 203728,
+      "name": "Frozen In Time",
+      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
     },
     {
       "added_at": "2023-06-23 15:35:38",

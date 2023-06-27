@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-633 songs - 1 day 13 hr 50 min
+635 songs - 1 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-11 | 2022-05-13 |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-05-29 |  |
 | [Habang Buhay](https://open.spotify.com/track/63bmIgH9sS6sX5Sc7MetGq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2021-11-03 | 2022-10-23 |
-| [Hangin](https://open.spotify.com/track/1y2t6CYXp7llG3fnhTkQOl) | [Yno](https://open.spotify.com/artist/1UA8gmDdRTIn1SIswEIAXg) | [Hangin](https://open.spotify.com/album/7CwjUB296r3lpbcvC8h7cj) | 4:59 | 2023-06-25 |  |
+| [Hangin](https://open.spotify.com/track/1y2t6CYXp7llG3fnhTkQOl) | [Yno](https://open.spotify.com/artist/1UA8gmDdRTIn1SIswEIAXg) | [Hangin](https://open.spotify.com/album/7CwjUB296r3lpbcvC8h7cj) | 4:59 | 2023-06-25 | 2023-06-27 |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-05-23 | 2021-12-26 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-06 | 2022-08-26 |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2021-10-20 | 2021-12-10 |
@@ -419,7 +419,7 @@
 | [Panalo \(Trap Cariñosa\)](https://open.spotify.com/track/5J0obeHgIFKkPiGBPTOqLw) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4) | [Act 1](https://open.spotify.com/album/0Ol4rGwMRYkGguZXHlBscR) | 3:37 | 2021-03-27\* | 2021-03-31 |
 | [PANG!](https://open.spotify.com/track/1ZpiUfzl9P0pMkA03xqmUy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 2:58 | 2021-10-23 | 2021-10-24 |
 | [Paninindigan Kita](https://open.spotify.com/track/5d9Rka4T0szdC1MobhtXrV) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Paninindigan Kita](https://open.spotify.com/album/1hz1zGc3c7U5G7mIazQ2vW) | 5:12 | 2022-05-02 | 2023-05-10 |
-| [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2021-12-11 |  |
+| [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2021-12-11 | 2023-06-27 |
 | [Paradise](https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:37 | 2021-06-09 | 2021-06-13 |
 | [Paraluman](https://open.spotify.com/track/2jbf9EytR7fzpSrPWAYCf9) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Paraluman](https://open.spotify.com/album/0kQW4dCqjMfD2Vlrf6h8Cw) | 5:12 | 2022-03-09 |  |
 | [Paraluman](https://open.spotify.com/track/5Hm2MJQ4ECvQmH5QWCMQrR) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Paraluman](https://open.spotify.com/album/1WPqdSZcLnQQFhCGK3kJk6) | 5:12 | 2021-05-21 | 2022-03-10 |
@@ -556,6 +556,7 @@
 | [Terrified](https://open.spotify.com/track/573EXMFHsEKPRSy08G91Sr) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre), [Jason Reeves](https://open.spotify.com/artist/4ISvSAA85lr3lDwpMEBNgS) | [Unbroken](https://open.spotify.com/album/1hrK4uDbw0YkGgL8bshsoH) | 3:56 | 2022-10-13 | 2022-10-20 |
 | [TFW \(That Feeling When\)](https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:17 | 2022-07-05 | 2022-07-07 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-01 | 2022-05-15 |
+| [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2023-06-26 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-21 | 2021-10-05 |
 | [That’s When \(feat\. Keith Urban\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:09 | 2021-04-11 | 2021-04-15 |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 | 2022-11-24 |
@@ -618,6 +619,7 @@
 | [What is Love?](https://open.spotify.com/track/5Ek40FyMPprcvtyZDjqylX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/4JRX1T8VKbEMvTtnQXnLYM) | 3:28 | 2021-07-15 | 2021-07-28 |
 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 | 2023-05-20 |  |
 | [When I Met You](https://open.spotify.com/track/1t7AA4xxqEseapeIJCiQ5l) | [APO Hiking Society](https://open.spotify.com/artist/4RA4PC3WHM9OHZLExirTcU) | [True to My Music](https://open.spotify.com/album/25NWcQxX3c34YyHlsxed7H) | 4:19 | 2022-02-24 | 2022-03-11 |
+| [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2023-06-26 |  |
 | [When Scars Become Art](https://open.spotify.com/track/2q3LzfknBzye3xXjgiJBjS) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Brooke Young](https://open.spotify.com/artist/0oFqrawlj2uVL2EPRLR08l) | [...When Scars Become Art](https://open.spotify.com/album/6R6z9djotDZUhI7psuSM6G) | 4:47 | 2022-02-15 | 2022-06-12 |
 | [White Horse \(Taylor’s Version\)](https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:54 | 2021-04-11 | 2021-04-18 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-03 | 2022-12-06 |

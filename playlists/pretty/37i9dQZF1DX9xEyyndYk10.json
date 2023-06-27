@@ -1,12 +1,12 @@
 {
   "description": "Que la calle te acompa\u00f1e al conducir.",
-  "num_followers": 151250,
+  "num_followers": 151367,
   "original_name": "Maneja con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjFlOTZmMjQ5YmZiMWRhZjU4ODViNzM1OWEwNGVjOWJkYzM1YTVk",
+  "snapshot_id": "MCxiMWNiZDAyMmIxNDU2NDdkYmNiM2ZhODA0OGYyNDY5NWU0MWFkZjI3",
   "tracks": [
     {
       "added_at": "2023-04-07 06:00:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-04-07 06:00:00",
       "album": {
+        "name": "Viejo Marihuano",
+        "url": "https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/00jpfco62YfQj1BBYCCuKH"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
         "name": "hARAkiRi",
         "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
       },
@@ -175,74 +191,6 @@
       "duration_ms": 168560,
       "name": "Ruc\u00f3n",
       "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "Viejo Marihuano",
-        "url": "https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/00jpfco62YfQj1BBYCCuKH"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "Te Ire A Buscar",
-        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 218045,
-      "name": "Te Ire A Buscar",
-      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "Si Me Sobrara el Tiempo",
-        "url": "https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Si Me Sobrara el Tiempo",
-      "url": "https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -291,6 +239,42 @@
     {
       "added_at": "2023-04-07 06:00:00",
       "album": {
+        "name": "Te Ire A Buscar",
+        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 218045,
+      "name": "Te Ire A Buscar",
+      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 204629,
       "name": "Canela",
       "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Si Me Sobrara el Tiempo",
+        "url": "https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Si Me Sobrara el Tiempo",
+      "url": "https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-07 06:00:00",
       "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
         "name": "Sincopa",
         "url": "https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 292160,
       "name": "Bombos y Tarolas",
       "url": "https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -615,6 +615,42 @@
       "duration_ms": 310262,
       "name": "Mucho para M\u00ed",
       "url": "https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Mexicano",
+      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Greatest - Hits",
+        "url": "https://open.spotify.com/album/5iZB8JDxunNlWFTc3BdEHp"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "Todas Mueren por M\u00ed",
+      "url": "https://open.spotify.com/track/2uMoRVFsd7ET4bLrDqu6y8"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -663,42 +699,6 @@
     {
       "added_at": "2023-04-07 06:00:00",
       "album": {
-        "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
-        "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
-      "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Mexicano",
-      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
         "name": "S\u00faper Sangre Joven",
         "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 196626,
       "name": "Me Gusta Lo Simple",
       "url": "https://open.spotify.com/track/3VJSv1RoYiCY4ECGyDO7ry"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
+        "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
+      "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-04-07 06:00:00",
       "album": {
-        "name": "Greatest - Hits",
-        "url": "https://open.spotify.com/album/5iZB8JDxunNlWFTc3BdEHp"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "Todas Mueren por M\u00ed",
-      "url": "https://open.spotify.com/track/2uMoRVFsd7ET4bLrDqu6y8"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
         "name": "T\u00edo Rico",
         "url": "https://open.spotify.com/album/5tEe1EwA2IOzNrYiy2eFT6"
       },
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-04-07 06:00:00",
       "album": {
-        "name": "Qui\u00faboles Que!",
-        "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 221541,
-      "name": "Qui\u00faboles Que",
-      "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
         "name": "Par de Dosis",
         "url": "https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 231304,
       "name": "Par de Dosis",
       "url": "https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Qui\u00faboles Que!",
+        "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 221541,
+      "name": "Qui\u00faboles Que",
+      "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-04-07 06:00:00",
       "album": {
-        "name": "Trap y No Llores",
-        "url": "https://open.spotify.com/album/09MLjnMTZLMQqgNeGokq7r"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Manejando Bien R\u00e1pido",
-      "url": "https://open.spotify.com/track/5Ek7uFR8PbqMRgbIqzCGJ4"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
         "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
         "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 200253,
       "name": "Pap\u00e1",
       "url": "https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Trap y No Llores",
+        "url": "https://open.spotify.com/album/09MLjnMTZLMQqgNeGokq7r"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Manejando Bien R\u00e1pido",
+      "url": "https://open.spotify.com/track/5Ek7uFR8PbqMRgbIqzCGJ4"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-04-07 06:00:00",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Lolita Ayala",
+          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
+        }
+      ],
+      "duration_ms": 108266,
+      "name": "Tocando Tierra",
+      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 164597,
       "name": "Legendarios",
       "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "No Soy Criminal",
-        "url": "https://open.spotify.com/album/6SSxecieX6s6mTmCnm0Cno"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "No Soy Criminal",
-      "url": "https://open.spotify.com/track/3VGWGVOAUcoCpiHqqdrxb3"
     }
   ],
   "unique_name": "Maneja con Hip-Hop",

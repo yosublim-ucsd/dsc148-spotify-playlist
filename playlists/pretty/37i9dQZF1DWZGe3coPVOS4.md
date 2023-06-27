@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGe3coPVOS4.md) - [plain]
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,457 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGe3coPVOS4.md) - [plain]
 | 36 | [Party In The USA \- Redo Version](https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:26 |
 | 37 | [Heat Waves](https://open.spotify.com/track/7o0gxSLgdRsAMF2oxBh7bF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:03 |
 
-Snapshot ID: `MCxlMmI1NTM5NTk2MmZmZmM4MjVhNWY0YTI4NTE3MWY2MjExNDM5NDNj`
+Snapshot ID: `MCxjOGJiMjk3NDQ3YTAzNTI5ODAwNmEzNDQ2Y2Y2ZDU0YWVkODBmZjA2`

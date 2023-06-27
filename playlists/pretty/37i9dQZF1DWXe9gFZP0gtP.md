@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,795 likes - 272 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,885 likes - 272 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 271 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 |
 | 272 | [Etheral Beauty](https://open.spotify.com/track/5q2kDGsW09g8BClGCuYrdT) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Etheral Beauty](https://open.spotify.com/album/1MCwQTjLo7m25Z0w5Irsup) | 3:25 |
 
-Snapshot ID: `MCw5Njk2ZDRkODQ5NzgxODg4YmZiOTRhNWJkZDM5NDEyYjU3MTdkOGQ1`
+Snapshot ID: `MCwwNjM2MzFkMmI5OGQzNGI5OTU3MjdiOTQ3NjNhMzdkZjI1YWFjODkw`

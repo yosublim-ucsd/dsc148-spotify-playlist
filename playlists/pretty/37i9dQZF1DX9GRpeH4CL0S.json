@@ -1,12 +1,12 @@
 {
   "description": "The greatest Alternative Rock songs through the decades. Cover: The Killers",
-  "num_followers": 670389,
+  "num_followers": 670602,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjdiOWQ5N2ZlNzUzZmZlMGRmMjhhOGQxNmQzMjI4NTk4Zjc1MDdl",
+  "snapshot_id": "MCw4MTkwOTliZGY1OGFiMDUyZTc0ZGMxYmRlNzdmZTMwM2Y0Y2Y2OGEx",
   "tracks": [
     {
       "added_at": "2022-11-23 20:10:22",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
         "name": "Blurryface",
         "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Enema Of The State",
-        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "All The Small Things",
-      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+      "duration_ms": 167066,
+      "name": "All The Small Things",
+      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 197200,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 232453,
       "name": "Drive",
       "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Blind Melon",
         "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 217106,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Purple (2019 Remaster)",
         "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 194853,
       "name": "Interstate Love Song - 2019 Remaster",
       "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 170906,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 240213,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 186813,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Do You Realize??",
-      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Vs.",
         "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 234333,
       "name": "Daughter - Remastered",
       "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Do You Realize??",
+      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Hold My Home",
         "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
       },
@@ -2187,22 +2171,6 @@
       "duration_ms": 200360,
       "name": "First",
       "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 280466,
-      "name": "Joker And The Thief",
-      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2223,6 +2191,22 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "Joker And The Thief",
+      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
         "name": "Fitz and The Tantrums (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 193253,
       "name": "HandClap",
       "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2879,22 +2879,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Mer De Noms",
-        "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "3 Libras",
-      "url": "https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "The Libertines",
         "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
       },
@@ -2907,6 +2891,22 @@
       "duration_ms": 203733,
       "name": "Can't Stand Me Now",
       "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Mer De Noms",
+        "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "3 Libras",
+      "url": "https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -3555,22 +3555,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Wet From Birth",
-        "url": "https://open.spotify.com/album/41ZdJIZqQvwlcf939RDQlP"
-      },
-      "artists": [
-        {
-          "name": "The Faint",
-          "url": "https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "I Disappear",
-      "url": "https://open.spotify.com/track/7AMGMiTQPTzDnQO7oHXggs"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh"
       },
@@ -3583,6 +3567,22 @@
       "duration_ms": 186506,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Wet From Birth",
+        "url": "https://open.spotify.com/album/41ZdJIZqQvwlcf939RDQlP"
+      },
+      "artists": [
+        {
+          "name": "The Faint",
+          "url": "https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "I Disappear",
+      "url": "https://open.spotify.com/track/7AMGMiTQPTzDnQO7oHXggs"
     },
     {
       "added_at": "2022-11-23 20:10:22",

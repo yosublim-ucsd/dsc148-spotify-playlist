@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Doja Cat",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: YOASOBI",
   "name": "Hot Hits Japan",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN"
@@ -292,6 +292,32 @@
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
+    },
+    {
+      "album": {
+        "name": "Barbie World (with Aqua) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5g1PlQbcnlR5LtbJhSeCCC"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109750,
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/54JoSuLllU1JUlm0wIIeAF"
     },
     {
       "album": {
@@ -1065,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ"
+    },
+    {
+      "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
@@ -1098,7 +1142,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 159000,
       "name": "golden hour - Fujii Kaze Remix",
       "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
@@ -1967,6 +2011,28 @@
     },
     {
       "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Oh U Went (feat. Drake)",
+      "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+    },
+    {
+      "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
       },
@@ -2214,7 +2280,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
@@ -2362,6 +2428,32 @@
       "duration_ms": 208133,
       "name": "Season",
       "url": "https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg"
+    },
+    {
+      "album": {
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163451,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
     },
     {
       "album": {
@@ -2976,7 +3068,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 201073,
       "name": "W\u25cfRK",
       "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
@@ -3135,6 +3227,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30a6\u30ec\u30ab",
+        "url": "https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184201,
+      "name": "\u30a8\u30a6\u30ec\u30ab",
+      "url": "https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5"
+    },
+    {
+      "album": {
         "name": "\u30b1\u30bb\u30e9\u30bb\u30e9",
         "url": "https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN"
       },
@@ -3168,6 +3278,24 @@
       "duration_ms": 269833,
       "name": "\u30b5\u30af\u30e9\u30ce\u30a6\u30bf",
       "url": "https://open.spotify.com/track/4aecodVhhW19bmWjveVgJR"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30de\u30a4\u30eb\u3042\u3052\u306a\u3044",
+        "url": "https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197722,
+      "name": "\u30b9\u30de\u30a4\u30eb\u3042\u3052\u306a\u3044",
+      "url": "https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL"
     },
     {
       "album": {
@@ -3254,7 +3382,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 175367,
       "name": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a"

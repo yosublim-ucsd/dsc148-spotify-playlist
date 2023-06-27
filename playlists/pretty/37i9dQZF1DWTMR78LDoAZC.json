@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: Christine and the Queens. ",
-  "num_followers": 125797,
+  "num_followers": 126004,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzFmYWIyNjYzOGQyZjY1YjEyNjNjMmNhNzhjOTZmMzc0MDcwMmE0",
+  "snapshot_id": "MCw0MjJhOTdkMjJhYmNkMWQ1YWU0ZDRmNWQ1MzI3ZTUzMzU4ZGY1MTdk",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
     },
     {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
+    },
+    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
@@ -211,22 +227,6 @@
       "duration_ms": 217253,
       "name": "Where Does the Good Go",
       "url": "https://open.spotify.com/track/0L7QCEXQBDAtEyK1x72Sw0"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+    },
+    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "sulky baby",
@@ -391,22 +407,6 @@
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272813,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Got Weird",
@@ -519,6 +503,22 @@
       "duration_ms": 202435,
       "name": "Got Weird",
       "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "The Art of Forgetting",
-        "url": "https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Blondshell",
@@ -875,6 +859,22 @@
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "The Art of Forgetting",
+        "url": "https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "LOVE IS A...",
-        "url": "https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "GODDESS",
-      "url": "https://open.spotify.com/track/3USPJ2zADa19gYMZyRI61b"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Found",
@@ -927,6 +911,22 @@
       "duration_ms": 144592,
       "name": "Self Love",
       "url": "https://open.spotify.com/track/2MBVnShnrBNvjdtMBCWkbp"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "LOVE IS A...",
+        "url": "https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/3USPJ2zADa19gYMZyRI61b"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "The Clutch",
-        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 190091,
-      "name": "The Clutch",
-      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Death Of A Fantasy",
@@ -993,20 +977,20 @@
       "url": "https://open.spotify.com/track/3faVsOc6GJnh01unAc8D7I"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
+      "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Mad",
-        "url": "https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa"
+        "name": "The Clutch",
+        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
       },
       "artists": [
         {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
+      "duration_ms": 190091,
+      "name": "The Clutch",
+      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Chosen Family (with Elton John)",
         "url": "https://open.spotify.com/album/7iV4NiIjNFK2QvamKHGU8i"
       },
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "So Clear",
-        "url": "https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 212064,
-      "name": "So Clear",
-      "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Peak",
@@ -1079,6 +1063,22 @@
       "duration_ms": 230400,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/6x93hzBoL7HpirMN2P48co"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "So Clear",
+        "url": "https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 212064,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Just Now",
-        "url": "https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT"
-      },
-      "artists": [
-        {
-          "name": "Homeschool",
-          "url": "https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Hanger-on",
-      "url": "https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "HARDCORE HAPPY",
         "url": "https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 169400,
       "name": "HARDCORE HAPPY",
       "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Just Now",
+        "url": "https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT"
+      },
+      "artists": [
+        {
+          "name": "Homeschool",
+          "url": "https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Hanger-on",
+      "url": "https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4"
     },
     {
       "added_at": "2023-03-07 19:29:41",

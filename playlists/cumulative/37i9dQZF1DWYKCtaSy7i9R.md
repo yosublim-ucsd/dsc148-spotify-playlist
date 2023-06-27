@@ -4,12 +4,12 @@
 
 > Quiet spring mornings, wake up early with the birds\. <br/>Take a moment with nature for a positive start of your day.
 
-52 songs - 2 hr 8 min
+53 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3am Midsummer Birds](https://open.spotify.com/track/4cEsckil1CQNUFuPczf6qg) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:40 | 2022-10-28 |  |
-| [A Chit\-Chat With Nature](https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains](https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9) | 4:10 | 2022-10-28 |  |
+| [A Chit\-Chat With Nature](https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains](https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9) | 4:10 | 2022-10-28 | 2023-06-27 |
 | [A Forest of Feathers](https://open.spotify.com/track/2DCdLTEL6p5JXqFpEGiVWD) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [The Chirping Zoo](https://open.spotify.com/album/7np01dKDdR0gvslYyj5jmL) | 1:46 | 2023-06-19 | 2023-06-22 |
 | [Beautiful Birds Above the Canopy](https://open.spotify.com/track/7zD9VBtet53ChaxtMpNGG7) | [Calm Bird Sounds](https://open.spotify.com/artist/1caNzGLMvuMlK2lODyKyxV) | [Calm Bird Lunch](https://open.spotify.com/album/0kq3VBW2O4MKDK6g0OXdZf) | 1:19 | 2022-10-28 | 2023-06-20 |
 | [Beauty\-Bird](https://open.spotify.com/track/63bDLpi7dByFnHFQEAMCh7) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:40 | 2022-10-28 |  |
@@ -58,6 +58,7 @@
 | [Still River \- Green Noise](https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:12 | 2023-06-19 |  |
 | [Summer Afternoon Birds](https://open.spotify.com/track/1eQ0j21AheIK1cYojGTPYJ) | [Jungleur](https://open.spotify.com/artist/2vLNINQQ80zgWfjTKU6Hna) | [Summer Afternoon Birds](https://open.spotify.com/album/0njhmaly6h4vDo1FmpHOGm) | 2:20 | 2023-06-19 |  |
 | [Summer Breeze Bird](https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y) | [Dominica del Foresta](https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ) | [Summer Breeze Bird](https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA) | 2:20 | 2022-10-28 |  |
+| [Surrounded by Nature](https://open.spotify.com/track/1U8CBdosDEnp44ghAVFxEg) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Embrace The Nature](https://open.spotify.com/album/6JXywUF1OsQZoNUfXc91xQ) | 1:52 | 2023-06-19 |  |
 | [When calm comes](https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [When Calm Comes](https://open.spotify.com/album/7DFoMVRYA9Mhmp1bqN3gdu) | 2:33 | 2022-10-28 |  |
 | [Wonderful Morning](https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:54 | 2022-10-28 |  |
 

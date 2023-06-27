@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1216567,
+  "num_followers": 1216807,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWIxYjllZjRmMTgyZDk5ZmMxZmE2ZDhlYTNhZTc5NWVkMWJkZDZk",
+  "snapshot_id": "MCwwYWE4Zjg3ZDVlMWRjN2ExZWZkNmEyMzQ0MjkyYWNiYTRiOTc3NDdk",
   "tracks": [
     {
       "added_at": "2021-02-18 10:25:36",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "In The Groove",
         "url": "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 194293,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -335,6 +335,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "Born to Do It",
         "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "Daryl Hall & John Oates (The Silver Album)",
         "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -511,6 +511,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -523,38 +539,6 @@
       "duration_ms": 222626,
       "name": "Give Me the Night",
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -591,6 +575,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
       "artists": [
         {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 284906,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+      "duration_ms": 226213,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Cherish - Single Version",
-      "url": "https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "Mr. Big Stuff",
         "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Cherish - Single Version",
+      "url": "https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 289106,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -919,6 +919,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "Late Night Tales: Music For Pleasure",
         "url": "https://open.spotify.com/album/0GPZjIWU4sF8wmdNv67Ukc"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "In the Name of Love: The Elektra Recordings 1979-1984",
         "url": "https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Save Room",
-      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 428222,
       "name": "As",
       "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
     },
     {
       "added_at": "2021-02-18 10:25:36",

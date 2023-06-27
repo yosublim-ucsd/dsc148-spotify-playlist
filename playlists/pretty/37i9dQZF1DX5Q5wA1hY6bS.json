@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1495476,
+  "num_followers": 1495552,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzRkYTZiMDU5YzI1MTVlZjRiZjEwYjM4YmE5YmIxMzFkZjIzYTIz",
+  "snapshot_id": "MCw3ZDczOWQ1NGZmN2VmYmZmMzlmMmE2YmI0YzI1MGIyMDNhYzI0MzM4",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/0lBgdXhU3VUskJTGwOU2BT"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 196760,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/7xoDqnyrBDgusvQ1AHoOSx"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/0lBgdXhU3VUskJTGwOU2BT"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 196760,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/7xoDqnyrBDgusvQ1AHoOSx"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -727,38 +727,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Songs for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -819,6 +803,22 @@
       "duration_ms": 156360,
       "name": "I Keep Ticking On",
       "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Stars and Satellites",
+        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 268280,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "I Forget Myself (feat. Darlingside)",
         "url": "https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 212146,
       "name": "I Forget Myself (feat. Darlingside)",
       "url": "https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Stars and Satellites",
-        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 268280,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/6dokqbkGAaQuLxmpfb9g6a"
-      },
-      "artists": [
-        {
-          "name": "Animal Years",
-          "url": "https://open.spotify.com/artist/2TvIyBTuMGzgGuVLWKWJT1"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/7IuUsxQWHfXGkRDdAT0MLW"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Latigo EP",
         "url": "https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 220253,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/6dokqbkGAaQuLxmpfb9g6a"
+      },
+      "artists": [
+        {
+          "name": "Animal Years",
+          "url": "https://open.spotify.com/artist/2TvIyBTuMGzgGuVLWKWJT1"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/7IuUsxQWHfXGkRDdAT0MLW"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Window Flowers",
         "url": "https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1279,6 +1279,38 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
+        "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
+      "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Half Moon Light",
         "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
       },
@@ -1327,54 +1359,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "I'm Alone, No You're Not",
-        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
-        "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
-      "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "When You're Ready",
         "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 225866,
       "name": "Won't Be Long",
       "url": "https://open.spotify.com/track/2rw4cJKCCBYpZ57EFHE2Ih"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "I'm Alone, No You're Not",
+        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 176551,
       "name": "Summertime Mama",
       "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     }
   ],
   "unique_name": "Wild & Free",

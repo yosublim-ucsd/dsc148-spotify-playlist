@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,375 likes - 51 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,394 likes - 51 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 27 | [Yo Te Busco](https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64) | [Adoración](https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Adoración Vol\. 1](https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8) | 5:51 |
 | 28 | [Incontrolable Amor](https://open.spotify.com/track/3RmjJnvvUxSFor3G5x5yca) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 5:39 |
 | 29 | [Por la Eternidad](https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 4:26 |
-| 30 | [Tu Poder \(Creo en Ti\)](https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
-| 31 | [Incomparable Dios](https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 5:48 |
+| 30 | [Incomparable Dios](https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 5:48 |
+| 31 | [Tu Poder \(Creo en Ti\)](https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
 | 32 | [En El Trono Está](https://open.spotify.com/track/1N4f82oSvIKZa0hlwpO7Qi) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 5:59 |
 | 33 | [Solo Tu](https://open.spotify.com/track/6yxDTsYge75Eka9yeXnHuN) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu...Lo Unico Que Quiero](https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq) | 3:39 |
 | 34 | [Ancla](https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ancla](https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM) | 8:19 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 50 | [No Me Fallarás \(Aún Así\)](https://open.spotify.com/track/09t4NyhBbbt8sFixr8RqVW) | [Fellowship Creative](https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Me Fallarás \(Aún Así\)](https://open.spotify.com/album/2TgO0hQbveZ4r4hMAhbwBH) | 5:43 |
 | 51 | [Famous For \(I Believe\) \[Spanish/English Version\]](https://open.spotify.com/track/5ZO6LwgpjWDqLjK54kO4EB) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDBjZTA0ZDhmZDMxYzViOWEwMThmZjc1YTY2NWEwZTZjMg==`
+Snapshot ID: `MjgxMjk2OTYsMDAwMDAwMDA5Y2Y3NmQ4NWJhNGRlYzcyYThmNDMzNGYwMzA5NzllOQ==`

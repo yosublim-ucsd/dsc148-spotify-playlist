@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2023\. La Receta en portada.
 
-658 songs - 1 day 9 hr 55 min
+659 songs - 1 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Anillos](https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Anillos](https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa) | 3:23 | 2023-04-14 |  |
 | [Apenas Es Martes](https://open.spotify.com/track/42ZNenu9YedH7ICwaj2HBE) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 3:20 | 2023-06-23 |  |
 | [Aqui Ando En El Caloron \- En Vivo](https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Aqui Ando En El Caloron \(En Vivo\)](https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn) | 3:52 | 2022-12-16 | 2023-05-27 |
+| [Aquiles](https://open.spotify.com/track/22975rjV37uDOd0P9HgmAV) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o), [Cessar Roman y Su Grupo FuerzAerea](https://open.spotify.com/artist/2XtWQmwyhmy5OCeaUA0uS6) | [Aquiles](https://open.spotify.com/album/04ljISvNTGstr3g8suWBpG) | 3:15 | 2023-06-26 |  |
 | [Aquí Andamos](https://open.spotify.com/track/0TOsDKRNmnAsyVihPwHwiy) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Aquí Andamos](https://open.spotify.com/album/7glpXyS1prFn7q4hwH7X8s) | 2:42 | 2022-12-09 | 2022-12-24 |
 | [Arriba de una Blindada \(En Vivo\)](https://open.spotify.com/track/1jCIZ1kuqjAgVqcgNFAhqG) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Arriba de una Blindada \(En Vivo\)](https://open.spotify.com/album/7z0EdOt6TywKQK9SpQSMQu) | 2:07 | 2022-11-11 | 2022-11-29 |
 | [Artista Independiente](https://open.spotify.com/track/61oFEnL56Vvu0shgd7aJPO) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Artista Independiente](https://open.spotify.com/album/5f4Uf0IvK5gHPZzcoyJ4Gm) | 3:23 | 2022-09-02 | 2022-10-08 |
@@ -412,7 +413,7 @@
 | [La Muerte de Arturo Beltrán](https://open.spotify.com/track/4jSf7XFsLYzEmqw9T17aN2) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [La Muerte de Arturo Beltrán](https://open.spotify.com/album/7nAgQgr7EBZNc1x1FveEQD) | 2:17 | 2022-10-14 | 2022-11-12 |
 | [La Muerte de Manuelon](https://open.spotify.com/track/3sJsYatGSLysr945B1OhLZ) | [Los Hijos De Manuel](https://open.spotify.com/artist/0XEF5np8eR2T0GPHPK1FxE) | [Corridos, Vol.1](https://open.spotify.com/album/0hPEe2BHlZXvlBi7VsMymw) | 5:02 | 2022-11-04 | 2022-11-19 |
 | [La Piñata](https://open.spotify.com/track/7mbiaW2dWM3IlY9DQ3Oqe1) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | [La Piñata](https://open.spotify.com/album/6tgbFs7ybe11o1RhvBuahN) | 4:14 | 2023-06-23 |  |
-| [La Playa](https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Playa](https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO) | 3:46 | 2023-06-23 |  |
+| [La Playa](https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Playa](https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO) | 3:46 | 2023-06-23 | 2023-06-27 |
 | [La Plebada \(En Vivo\)](https://open.spotify.com/track/0AdIPj093vFCO7t95TWak4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Plebada \(En Vivo\)](https://open.spotify.com/album/4XXYvofbCf6KV5ZkHGw7fq) | 3:38 | 2022-12-23 | 2023-03-11 |
 | [La Plebada del Nini \- En Vivo](https://open.spotify.com/track/3H397lckDkfulAJDDRTJvl) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [La Plebada del Nini \(En Vivo\)](https://open.spotify.com/album/1vowkL5ApN6BDmBjc4tBQZ) | 2:36 | 2022-11-04 | 2022-12-03 |
 | [La Sombra Más Grande](https://open.spotify.com/track/1isKfy4QheTO9q3oKe2w1z) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [La Sombra Más Grande](https://open.spotify.com/album/0Y9WQ6UYOCGCvhbWKGXYTj) | 3:04 | 2022-10-14 | 2022-12-10 |

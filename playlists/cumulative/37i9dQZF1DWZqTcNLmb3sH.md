@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Raghavendra Stores
 
-733 songs - 1 day 21 hr 37 min
+734 songs - 1 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Aane Maadi Heluteeni](https://open.spotify.com/track/3CUsgjuZe1whhicXg9LrYz) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S) | [Guru Shishyaru](https://open.spotify.com/album/0JlbGZ7S0eBDw33GpV38JU) | 4:25 | 2022-07-18 | 2022-11-14 |
 | [Aane Maadi Heluteeni](https://open.spotify.com/track/7DJuyVnRq0xs140ysznQu6) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S) | [Guru Shishyaru](https://open.spotify.com/album/3dftKIfkSLE9XK8OyZOv9S) | 4:25 | 2022-06-17 | 2022-08-05 |
 | [Aane Maadi Heluteeni \- From "Guru Shishyaru"](https://open.spotify.com/track/6JdoeRdHNV2InrRl80NLac) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S) | [Aane Maadi Heluteeni \(From "Guru Shishyaru"\)](https://open.spotify.com/album/7IfqXHuEy0tmIo09RECvSj) | 4:25 | 2022-07-18 | 2023-01-13 |
+| [Abhiramachandra First Glimpse \(From "ABHIRAMACHANDRA"\)](https://open.spotify.com/track/4FpqZZYDr8GD3bSkrrPB6i) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Abhiramachandra First Glimpse \(From "ABHIRAMACHANDRA"\)](https://open.spotify.com/album/2AI8RHTzskK9YS3zbqQ8zA) | 1:12 | 2023-06-26 |  |
 | [Acchacho](https://open.spotify.com/track/5wAN8kYAYDRn0H8RzuNlMQ) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Sri Harsha](https://open.spotify.com/artist/10GgJRdbSzP3Xnq2BqrL7w) | [Jigri Dost](https://open.spotify.com/album/1fmO8gc6CVzTlmA83Hl83T) | 4:30 | 2022-02-24 | 2022-03-14 |
 | [Ae Tagaru Kano Ninu Mama \(Dhum\) \- From "Ae Tagaru Kano Ninu Mama"](https://open.spotify.com/track/1JLQoeGSI4Pl9u5YxLG20c) | [JEEVAa VARSHINI](https://open.spotify.com/artist/5A1Dd1q3UnyDAltDOXGIIQ), [Lingaraaj](https://open.spotify.com/artist/4kThlcLpQpDq8PTMzKyM2d) | [Ae Tagaru Kano Ninu Mama \(Dhum\) \[From "Ae Tagaru Kano Ninu Mama"\]](https://open.spotify.com/album/0icZhdqeiIjKwTcednRnTg) | 4:20 | 2022-08-09 | 2022-08-27 |
 | [Agrahara Jail \(From "Sukka Suri"\)](https://open.spotify.com/track/0waGR1RuQrRP01kFaXb4Q9) | [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [S.N\. Arunagiri](https://open.spotify.com/artist/5aPZPy3hPPrZUdwHJmte8C) | [Agrahara Jail \(From "Sukka Suri"\)](https://open.spotify.com/album/1PlLHsmTbPVVaaf5WkpxYu) | 3:26 | 2022-01-16 | 2022-03-14 |

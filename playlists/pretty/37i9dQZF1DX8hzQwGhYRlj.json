@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 31582,
+  "num_followers": 31595,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzkyZmY0Nzc2N2NhMGNlMzg1M2Q5MmU2NDA5MGI0ZGY5Nzk1YmI1",
+  "snapshot_id": "MCwwZmE0NzJmODRmODUyMWQ0MzNlOGY1MjIzYTYyNGZjZjJhZWEzMTQ1",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -975,30 +975,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Songs",
-        "url": "https://open.spotify.com/album/3IDSSBfofnbrAPkNcusD6x"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Anne Sofie von Otter",
-          "url": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
-        },
-        {
-          "name": "Bengt Forsberg",
-          "url": "https://open.spotify.com/artist/2GoPcJyOyFijJa1tbuOx5N"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "Haugtussa - Song Cycle, Op. 67: Ved gjaetle - bekken",
-      "url": "https://open.spotify.com/track/3vMgfdV9xU8UzyivVYDyzc"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Orchestral Music, Vol. 3: Symphony in C Minor - Old Norwegian Romance With Variations",
         "url": "https://open.spotify.com/album/4AeO1xXgVbFN0wSiO6awht"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 440133,
       "name": "Symphony in C Minor, EG 119: II. Adagio espressivo",
       "url": "https://open.spotify.com/track/5fcDG7g1ZyUfxJ6X9c0H2i"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Songs",
+        "url": "https://open.spotify.com/album/3IDSSBfofnbrAPkNcusD6x"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Anne Sofie von Otter",
+          "url": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+        },
+        {
+          "name": "Bengt Forsberg",
+          "url": "https://open.spotify.com/artist/2GoPcJyOyFijJa1tbuOx5N"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "Haugtussa - Song Cycle, Op. 67: Ved gjaetle - bekken",
+      "url": "https://open.spotify.com/track/3vMgfdV9xU8UzyivVYDyzc"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
-        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Einar Steen-N\u00f8kleberg",
-          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
-        }
-      ],
-      "duration_ms": 354773,
-      "name": "Piano Sonata in E Minor, Op. 7: IV. Finale: Molto allegro",
-      "url": "https://open.spotify.com/track/57SjPojnoiQYo63PUDDiwq"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Complete Music with Orchestra",
         "url": "https://open.spotify.com/album/6Wg6lJX2OA5kF0oEIN0EUK"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 211000,
       "name": "Holberg Suite, Op. 40: III. Gavotte (Allegretto) - Musette (poco pi\u00f9 mosso) - Gavotte",
       "url": "https://open.spotify.com/track/6LneKcb0FT0xwU4RhFjmcs"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
+        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Einar Steen-N\u00f8kleberg",
+          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
+        }
+      ],
+      "duration_ms": 354773,
+      "name": "Piano Sonata in E Minor, Op. 7: IV. Finale: Molto allegro",
+      "url": "https://open.spotify.com/track/57SjPojnoiQYo63PUDDiwq"
     },
     {
       "added_at": "2022-09-30 04:01:00",

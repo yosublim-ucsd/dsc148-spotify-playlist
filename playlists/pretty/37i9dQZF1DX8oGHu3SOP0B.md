@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: sarah salola
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,618 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,624 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [เหงาล่ะ Feat\. ไอซ์ ธมลวรรณ](https://open.spotify.com/track/1FB18JtxOoHdZQJvgrsP8y) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [Ice Tamonwan](https://open.spotify.com/artist/7d4IM4PU9KfbfW2D5bgNz2) | [เหงาล่ะ Feat\. ไอซ์ ธมลวรรณ](https://open.spotify.com/album/57egLjXn7l9hrAZTtEKJWG) | 3:35 |
 | 50 | [เฟรนด์ลี่หรือมีใจ](https://open.spotify.com/track/3hyT0w2zZR88KfQ1TAtnrI) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [เฟรนด์ลี่หรือมีใจ](https://open.spotify.com/album/0EQjy4jjmRX4TwU1e5WcdD) | 3:16 |
 
-Snapshot ID: `MCxlOWU2N2Q2YThjNzU0ZTZjZjg0OTM1NjUwMmMwY2IzZGU5ZGI3MmI3`
+Snapshot ID: `MCwwODE5YTAxNDlmYmI5MjUwNzA4NzZlNjZlZmIzNDNmZTA3NDIwOTJm`

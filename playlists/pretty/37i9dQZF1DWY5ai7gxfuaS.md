@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,589 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,716 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 8 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
 | 9 | [Handshakes With Snakes](https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Handshakes With Snakes](https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD) | 1:57 |
 | 10 | [DOMINATION](https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [DOMINATION](https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob) | 2:48 |
-| 11 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 |
-| 12 | [FLATLINE](https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [FLATLINE](https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA) | 2:52 |
-| 13 | [VAMPIR \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [VAMPIR](https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW) | 2:23 |
-| 14 | [KILL ALL PREDATORS](https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 2:05 |
-| 15 | [Crash 'n Learn](https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Fear Network II](https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS) | 1:27 |
-| 16 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 |
-| 17 | [I Spit On Your Grave](https://open.spotify.com/track/2HkjkOwkTE51ajdTHxtu26) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7MqqZttKOfY4VvN77e6Mv4) | 3:39 |
-| 18 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 |
+| 11 | [FLATLINE](https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [FLATLINE](https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA) | 2:52 |
+| 12 | [VAMPIR \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [VAMPIR](https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW) | 2:23 |
+| 13 | [KILL ALL PREDATORS](https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 2:05 |
+| 14 | [Crash 'n Learn](https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Fear Network II](https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS) | 1:27 |
+| 15 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 |
+| 16 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 |
+| 17 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 |
+| 18 | [I Spit On Your Grave](https://open.spotify.com/track/2HkjkOwkTE51ajdTHxtu26) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7MqqZttKOfY4VvN77e6Mv4) | 3:39 |
 | 19 | [Paranoid \(Crash & Burn\)](https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Paranoid \(Crash & Burn\)](https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF) | 3:55 |
 | 20 | [FAIRY METAL](https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ) | 2:41 |
 | 21 | [Intoxicated](https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Intoxicated](https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6) | 3:03 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 71 | [Ancestral Recall](https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [May Our Chambers Be Full](https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc) | 3:54 |
 | 72 | [Demon Supreme](https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Demon Supreme](https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB) | 3:31 |
 | 73 | [Sun Up To Sun Down \- Remix](https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Sun Up To Sun Down \(Remix\)](https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8) | 2:28 |
-| 74 | [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 |
-| 75 | [WRAITH](https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 3:19 |
+| 74 | [WRAITH](https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 3:19 |
+| 75 | [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 |
 | 76 | [Frost \(C\)](https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Pyroclasts](https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f) | 10:56 |
 | 77 | [DODGE A BULLET](https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC) | [Philip Solo](https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [DODGE A BULLET](https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M) | 2:46 |
 | 78 | [ABYSS](https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [ABYSS](https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo) | 2:31 |
 | 79 | [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 |
 | 80 | [Arcana Imperii](https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh) | 4:53 |
 
-Snapshot ID: `MCw0MzRhNDgyMzJhOTM5ODFjYjU3OWE3OWU0ZGQyOTYyYThhNTE3NWEw`
+Snapshot ID: `MCw5Y2FkNjAyNGZhZDBlMDA2MzkxMzVhNjMzNjVmNGE4ZTQyODY4Nzhi`

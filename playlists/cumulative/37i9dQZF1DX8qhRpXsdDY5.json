@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Eterna Navidad (US Version)",
+        "url": "https://open.spotify.com/album/78v5jMZria78NZVsostS4t"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143386,
+      "name": "Campanas De Plata",
+      "url": "https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj"
+    },
+    {
+      "album": {
         "name": "Rodr\u00edguez",
         "url": "https://open.spotify.com/album/78azykFnf84A4MBMFcmAIj"
       },
@@ -3964,7 +3982,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 211400,
       "name": "Todo Lo Que Quiero Eres Tu",
       "url": "https://open.spotify.com/track/7b6feyyH5HsJUSBwtlcYrW"

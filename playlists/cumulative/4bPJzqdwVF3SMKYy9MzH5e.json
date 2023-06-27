@@ -5079,6 +5079,24 @@
     },
     {
       "album": {
+        "name": "Are You My Lionkiller?",
+        "url": "https://open.spotify.com/album/5kCw6P05LFARfcXXaoAHz3"
+      },
+      "artists": [
+        {
+          "name": "Imbroco",
+          "url": "https://open.spotify.com/artist/0HFEfCCOPwDSc5aCm7IMW9"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321400,
+      "name": "Calm Your Fears",
+      "url": "https://open.spotify.com/track/17Eoc1g0HaieE1xwZ1tGfD"
+    },
+    {
+      "album": {
         "name": "Swimbot",
         "url": "https://open.spotify.com/album/2wY6mKS39Go29qYvN9WyDr"
       },
@@ -21026,6 +21044,24 @@
       "duration_ms": 188387,
       "name": "Not Thinkin' Bout You",
       "url": "https://open.spotify.com/track/2awExtNBABpwOFC78XViJd"
+    },
+    {
+      "album": {
+        "name": "Ten Songs",
+        "url": "https://open.spotify.com/album/3jLWGkPi9b5xbrrFaQIpzH"
+      },
+      "artists": [
+        {
+          "name": "I Hate Myself",
+          "url": "https://open.spotify.com/artist/5m858bXqt99f2hWD72hySB"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229453,
+      "name": "Not Waving But Drowning",
+      "url": "https://open.spotify.com/track/6d66xhuOy1Fg9gTt2RUgqT"
     },
     {
       "album": {

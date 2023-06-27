@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 9150,
+  "num_followers": 9151,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWJjMDYyOTA5ZDZhZDZjODY3ZTI2NzU4NzZiMTIyZWU3Y2UyODM2",
+  "snapshot_id": "MCxhNjBjZjcyNWMyNTkzODM1YjhlYTJmY2UwMmI0ZDJmYmZhMTdmNTZm",
   "tracks": [
     {
       "added_at": "2023-05-05 08:20:58",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "Stay (Feat. Youlakk)",
-        "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
-      },
-      "artists": [
-        {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        },
-        {
-          "name": "\uc5ec\ub77d\uc774\ub4e4",
-          "url": "https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU"
-        }
-      ],
-      "duration_ms": 208771,
-      "name": "Stay (Feat. Youlakk)",
-      "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
       },
@@ -839,6 +819,22 @@
       "duration_ms": 198040,
       "name": "SHE",
       "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "Quince Tree",
+        "url": "https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF"
+      },
+      "artists": [
+        {
+          "name": "Yozoh",
+          "url": "https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Quince Tree",
+      "url": "https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu"
     },
     {
       "added_at": "2023-05-05 08:20:58",

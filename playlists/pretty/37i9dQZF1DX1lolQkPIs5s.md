@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪『リトル・マーメイド』『ミラベルと魔法だらけの家』『モアナと伝説の海』『アナと雪の女王』『塔の上のラプンツェル』のおなじみの曲から隠れた名曲までセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,247 likes - 126 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,301 likes - 126 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 109 | [Sore Ga New Orleans \(Finale\) \- Japanese Version](https://open.spotify.com/track/2o1fUq9Ac6zt0ml20DyJQn) | [Honoka Suzuki](https://open.spotify.com/artist/21dcXRiXjtW1CCVn5ju3Qv) | [The Princess and the Frog \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/2IaEl9NmzkiLSeZVqHM1xR) | 1:32 |
 | 110 | [Beauty and the Beast \- Japanese Version](https://open.spotify.com/track/4tvIQ57fWca31AYe7NujCz) | [POPURA](https://open.spotify.com/artist/3FlYS9aq8N81ifZ7eVJY4N) | [Beauty and the Beast \(Special Edition\) \[Original Motion Picture Soundtrack/Japanese Version\]](https://open.spotify.com/album/0Bv3oUYbsQkrhByAy8U3ZB) | 2:46 |
 | 111 | [Main Title \(Alice in Wonderland\)](https://open.spotify.com/track/04kx6QHqnBwpxC7kdRlCsn) | [The Jud Conlon Chorus](https://open.spotify.com/artist/5s5jvj5TkkMkQDR28awRsA) | [Alice In Wonderland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx) | 2:32 |
-| 112 | [Some Day My Prince Will Come \- From "Snow White And The Seven Dwarfs" Soundtrack](https://open.spotify.com/track/1Wf2Zvxqv1cEGhKWmi7n7T) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Songs and Story: Snow White](https://open.spotify.com/album/2cWFLGizkUaUWDjMeh7wP8) | 1:51 |
+| 112 | [Some Day My Prince Will Come \- From "Snow White And The Seven Dwarfs" Soundtrack](https://open.spotify.com/track/5nd0j6ix6kGVRIwve92WH6) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Princess Collection](https://open.spotify.com/album/5IxfjB9Ai8tD9cggC4GYkm) | 1:54 |
 | 113 | [Friend Like Me \- Japanese Version](https://open.spotify.com/track/6V0ctW09GeGXwRwXYRcJG2) | [Koichi Yamadera](https://open.spotify.com/artist/0lo8UTi4CnnajMXlavxCDo) | [Aladdin \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/5S0T4c50ZC0VsUdJQyBDbQ) | 2:26 |
 | 114 | [Can You Feel the Love Tonight \- Japanese Version](https://open.spotify.com/track/2cimYdaqIfLYbBXLb6v3kP) | [Yuji Mitsuya](https://open.spotify.com/artist/4tBZD1Vc4QKjFPtN2BJv0G), [Yukiko Yamashita](https://open.spotify.com/artist/2Uc4qUr048bKd1OmHsxXUp), [Riko Hanamura](https://open.spotify.com/artist/4VQFzTMgnFpUCrNqhBS06j), [Mitsuru Miyamoto](https://open.spotify.com/artist/4Yfdy8Nlgdj0bbQrqLsVap), [Atom Kobayashi](https://open.spotify.com/artist/58WunyNa6OTJhdgcpXnCDr) | [The Lion King \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/3xEqS4UZ79bX70ByHs18Dy) | 2:54 |
 | 115 | [Mou Ichido Kangaete \- Japanese Version](https://open.spotify.com/track/3aycp7hfnfSstrSsn7v92I) | [The Pinnacle Gospel Choir](https://open.spotify.com/artist/4R1dpQ2VCZsEutiXZKeIzk), [Kouko Arai](https://open.spotify.com/artist/3DojZPXvC4sCcjK0uO3kAP) | [The Princess and the Frog \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/2IaEl9NmzkiLSeZVqHM1xR) | 2:48 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 125 | [Unbirthday Song](https://open.spotify.com/track/0W8jtYipop2puuuLaoRQbn) | [Camarata Chorus and Orchestra](https://open.spotify.com/artist/0iwhPeDYMRoXZYNvY8c4C9) | [Alice in Wonderland: Music from the Score, Conducted by Camarata](https://open.spotify.com/album/2gVjsjlMIrC4iXyRJF5IZj) | 2:12 |
 | 126 | [Ducky, Bunny & Tea](https://open.spotify.com/track/0SsRIXMqwZBRHlp1PdbXXn) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eKxK3GqHexeJvi8XLE2xD) | 2:16 |
 
-Snapshot ID: `MCxmNDdkNmNmNjRlMzUxZTllNzNmY2Q1MGE4MDQ3OTA1NTk5MDgwN2Jh`
+Snapshot ID: `MCxhMTRhZTFjNGUwMGJmNTVlNWM1MzJlODc4ZTA3Yjg0NmE4NzgzNzhi`

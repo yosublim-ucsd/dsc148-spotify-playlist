@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/1f6GKy69ltGq9j7EfJJ1BL) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7EeBLXTesaRmxWoQ2sAMVo) | 0:00 | 2021-10-01 | 2022-07-26 |
-| [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2021-10-01 | 2023-06-26 |
+| [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2021-10-01 |  |
 | [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 | 2021-10-01 | 2022-07-28 |
 | [Aladdin's Story](https://open.spotify.com/track/7iJJBAXSeuu9ymCdiPPscE) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [The Contino Sessions](https://open.spotify.com/album/4qUKzyXuy3GSzQD5RTJLdq) | 4:44 | 2021-10-01 | 2022-07-29 |
 | [Aladdin's Story](https://open.spotify.com/track/0CatBYe6rcqDFfCV1lA6n2) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [The Contino Sessions](https://open.spotify.com/album/6CAxtEPd8QesIfCp76Wuqt) | 4:45 | 2021-10-01 | 2022-11-13 |
@@ -72,7 +72,7 @@
 | [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 | 2021-10-01 |  |
 | [Nearer Than Heaven](https://open.spotify.com/track/1jVlXUiM48CQaQup6899a8) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:28 | 2021-10-01 | 2023-03-21 |
 | [No\-One in the World](https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Morning Light](https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk) | 6:41 | 2021-10-01 |  |
-| [Nothing Natural](https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 5:54 | 2021-10-01 |  |
+| [Nothing Natural](https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 5:54 | 2021-10-01 | 2023-06-27 |
 | [Nothing Natural](https://open.spotify.com/track/6zrL6etENCa2ZEwnPcxGkb) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/4sy5PYpO6j5BgLajSMGcZD) | 5:54 | 2021-10-01 | 2022-07-29 |
 | [Off Your Face](https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Glider](https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ) | 4:15 | 2021-10-01 |  |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2021-10-01 |  |

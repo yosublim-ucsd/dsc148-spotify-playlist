@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,143 likes - 51 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,153 likes - 51 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 4 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 |
 | 5 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:02 |
 | 6 | [Your Grace Is Enough](https://open.spotify.com/track/1sfSQ2d6rTsCSQ2cbBIj8r) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Empty And Beautiful](https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs) | 4:25 |
-| 7 | [Hold Us Together](https://open.spotify.com/track/7IPldKTGN7pssmDl66DrMG) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:27 |
+| 7 | [In the Room \(feat\. Chris Brown\)](https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:48 |
 | 8 | [What a Friend](https://open.spotify.com/track/7ozWDT47HkfCmbNGgMorU8) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:17 |
 | 9 | [Run To The Father](https://open.spotify.com/track/2Sl2SQCQ3SAqB9u08FVeSc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:41 |
-| 10 | [In the Room \(feat\. Chris Brown\)](https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:48 |
+| 10 | [Hold Us Together](https://open.spotify.com/track/7IPldKTGN7pssmDl66DrMG) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:27 |
 | 11 | [All the People Said Amen](https://open.spotify.com/track/31HveB33DoO9x7P3UvkRct) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:00 |
 | 12 | [Señor, Te Necesito](https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Señor, Te Necesito](https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK) | 3:24 |
 | 13 | [The In Between \- from The Chosen](https://open.spotify.com/track/3roS62frfF60JQD8jiacOK) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The In Between \(from The Chosen\)](https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv) | 3:58 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 20 | [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 |
 | 21 | [How Great \(Single Mix\)](https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Worship EP](https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ) | 3:41 |
 | 22 | [Inheritance](https://open.spotify.com/track/6MyskHQ8Aa8W62Cmi3y9oz) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Grace Upon Grace](https://open.spotify.com/album/6gFtUZRZF30vtAMKk4f0Mc) | 8:01 |
-| 23 | [Just as I Am](https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 4:11 |
-| 24 | [Alive Again](https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:59 |
+| 23 | [Alive Again](https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:59 |
+| 24 | [Just as I Am](https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 4:11 |
 | 25 | [Joyful Noise](https://open.spotify.com/track/2OUV9Ryjnat1z8w1C0Igb0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:12 |
 | 26 | [Unconditional \- Live](https://open.spotify.com/track/2oj68EY5FBOuXHjvauvKik) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Lamb of God \(Live\)](https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1) | 6:15 |
 | 27 | [Baptized](https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [New Creation](https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX) | 3:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 50 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 |
 | 51 | [Better Off Broken \(feat\. Ryan Ellis\)](https://open.spotify.com/track/6tJPjbZqyjA2gs78XJQMna) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:27 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDA0ZWIxZThiMzMyMDhlNTRkZmFhNmE4OWY4YWE2ZTBjOQ==`
+Snapshot ID: `MjgxMjk2OTYsMDAwMDAwMDAxZjczYTJjNzQ3YjRhMjkyNDhhMGQzZGU3NjVhNmNmYg==`

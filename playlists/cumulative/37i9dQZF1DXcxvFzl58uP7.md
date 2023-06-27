@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Clairo
 
-846 songs - 1 day 19 hr 58 min
+847 songs - 1 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 | 2021-02-27 | 2023-06-10 |
 | [Floating in Love](https://open.spotify.com/track/3QFMTa7RVTEYYmOCiGHsAu) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Floating in Love](https://open.spotify.com/album/7j7dgu3vkhqRthbjsPJDKn) | 2:11 | 2022-06-14 | 2022-07-24 |
 | [Floating Sun](https://open.spotify.com/track/3t0xEA4jxxiDNdUOo2Ri7x) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Floating Sun](https://open.spotify.com/album/6zHqfxThvhCt7dV0xdgnmb) | 2:26 | 2021-08-27 | 2022-04-21 |
+| [Flook](https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 1:27 | 2023-06-26 |  |
 | [Flowers](https://open.spotify.com/track/6wxFjDhoGdVPSeZboWNbLE) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Flowers](https://open.spotify.com/album/3tadYy0gBmqmIMpxWBfwJT) | 2:53 | 2021-02-27 | 2022-06-22 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-08-27 | 2022-12-01 |
 | [Flowers](https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [ABSOLUTE HEARTBREAK](https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up) | 2:34 | 2022-12-21 |  |
@@ -792,7 +793,7 @@
 | [Voyage](https://open.spotify.com/track/7fLKkKXKRMOSx9UMhJkNo9) | [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu) | [Voyage](https://open.spotify.com/album/6FRJuikLEt3T5aToUFIEva) | 2:39 | 2021-08-27 | 2022-04-16 |
 | [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 |  |
 | [VVS](https://open.spotify.com/track/2V7HUZS37OpOR2TLxWZPC4) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [Freaks and Wild Things](https://open.spotify.com/album/4cxHPZ1YROwurrbsei3h58) | 3:20 | 2022-09-14 | 2022-12-16 |
-| [VVS](https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/1XPqRvUQIn4uuHeoQHTX3D) | 3:20 | 2023-03-31 |  |
+| [VVS](https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/1XPqRvUQIn4uuHeoQHTX3D) | 3:20 | 2023-03-31 | 2023-06-27 |
 | [VVS](https://open.spotify.com/track/7BgsZCBMarOfvTkHQXe1TQ) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/5LbjS306ZqHJSBM0MiPIQo) | 3:20 | 2021-11-19 | 2022-06-08 |
 | [Waiter](https://open.spotify.com/track/57DgZXPfjOBt5BIAH1H2bg) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [You Don't See Me](https://open.spotify.com/album/00FxI3tMsgKkAfNr5TBCLC) | 3:17 | 2019-12-14 | 2021-05-28 |
 | [Walking On Ice](https://open.spotify.com/track/3J5kPuCRbVP3VSg8xGLgF3) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX) | [Walking On Ice](https://open.spotify.com/album/7stKbcyfJNWJDBbCLzkrMa) | 2:59 | 2019-07-30\* | 2020-04-23 |

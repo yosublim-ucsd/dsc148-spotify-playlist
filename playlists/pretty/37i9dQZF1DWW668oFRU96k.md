@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Two Friends x Loud Luxury x Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,411 likes - 61 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,421 likes - 61 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 60 | [Useless](https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Noisy Choice](https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID) | [Useless](https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp) | 2:41 |
 | 61 | [Rising Tides](https://open.spotify.com/track/5YNEMf0CmbpC2019m5QEWT) | [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ), [G.U.O.L.](https://open.spotify.com/artist/2wZaQyJOZ7y68O1cayCN16), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [Rising Tides](https://open.spotify.com/album/0da1kIqfftXGGKmkZ47eUA) | 3:16 |
 
-Snapshot ID: `MCw0MTkxZDg0ZmQzNTM0ZjU4MDU4ZDFiZTIwNGE5NWIzM2U3OTY3YzE2`
+Snapshot ID: `MCw1ZmExNmZjNTg2ZTVlZGEzZDRkNmY1ZTgyNDc2NmE5ZWVkY2NkZWY3`

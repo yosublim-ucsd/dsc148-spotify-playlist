@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica motivacional para quemar esa hamburguesa que comiste el finde.",
-  "num_followers": 294246,
+  "num_followers": 294312,
   "original_name": "Maldita Hamburguesa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWFmMmE5YjY4YzQ4NGM2YThlMzExZTRiY2E2Yzk3NjRjZTBmOTYy",
+  "snapshot_id": "MCxjMzcwZmU4YWUyYmFmNTkxOWI0MDVmZmZlYjQ4NGZmYThmYzE3MDM5",
   "tracks": [
     {
       "added_at": "2023-05-15 15:36:34",
@@ -155,38 +155,6 @@
     {
       "added_at": "2023-05-15 15:36:34",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
-    },
-    {
-      "added_at": "2023-05-15 15:36:34",
-      "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
-    },
-    {
-      "added_at": "2023-05-15 15:36:34",
-      "album": {
         "name": "Infest",
         "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
       },
@@ -199,6 +167,22 @@
       "duration_ms": 199906,
       "name": "Last Resort",
       "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
+    },
+    {
+      "added_at": "2023-05-15 15:36:34",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
       "added_at": "2023-05-15 15:36:34",
@@ -235,6 +219,22 @@
     {
       "added_at": "2023-05-15 15:36:34",
       "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "added_at": "2023-05-15 15:36:34",
+      "album": {
         "name": "Outlandos D'Amour (Remastered 2003)",
         "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2023-05-15 15:36:34",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2023-05-15 15:36:34",
@@ -315,6 +299,22 @@
     {
       "added_at": "2023-05-15 15:36:34",
       "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "added_at": "2023-05-15 15:36:34",
+      "album": {
         "name": "Blanco",
         "url": "https://open.spotify.com/album/3MC1mUaL0H7kcVgTEFXLWv"
       },
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-05-15 15:36:34",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 188986,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2023-05-15 15:36:34",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-05-15 15:36:34",
       "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
-    },
-    {
-      "added_at": "2023-05-15 15:36:34",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
@@ -459,22 +443,6 @@
     {
       "added_at": "2023-05-15 15:36:34",
       "album": {
-        "name": "Led Zeppelin III (Remaster)",
-        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Immigrant Song - Remaster",
-      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
-    },
-    {
-      "added_at": "2023-05-15 15:36:34",
-      "album": {
         "name": "Follow The Leader",
         "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
       },
@@ -503,6 +471,38 @@
       "duration_ms": 278600,
       "name": "Before I Forget",
       "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+    },
+    {
+      "added_at": "2023-05-15 15:36:34",
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+    },
+    {
+      "added_at": "2023-05-15 15:36:34",
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
     },
     {
       "added_at": "2023-05-15 15:36:34",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-15 15:36:34",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Whole Lotta Love - 1990 Remaster",
-      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
-    },
-    {
-      "added_at": "2023-05-15 15:36:34",
-      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 178440,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
+    },
+    {
+      "added_at": "2023-05-15 15:36:34",
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Whole Lotta Love - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
     },
     {
       "added_at": "2023-05-15 15:36:34",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-15 15:36:34",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "No Sleep Till Brooklyn",
-      "url": "https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN"
-    },
-    {
-      "added_at": "2023-05-15 15:36:34",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2023-05-15 15:36:34",
       "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "No Sleep Till Brooklyn",
+      "url": "https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN"
+    },
+    {
+      "added_at": "2023-05-15 15:36:34",
+      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-15 15:36:34",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 312293,
-      "name": "Hells Bells",
-      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
-    },
-    {
-      "added_at": "2023-05-15 15:36:34",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "added_at": "2023-05-15 15:36:34",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 312293,
+      "name": "Hells Bells",
+      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
     },
     {
       "added_at": "2023-05-15 15:36:34",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-15 15:36:34",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
-    },
-    {
-      "added_at": "2023-05-15 15:36:34",
-      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 295386,
       "name": "Black Dog - Remaster",
       "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
+    },
+    {
+      "added_at": "2023-05-15 15:36:34",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2023-05-15 15:36:34",

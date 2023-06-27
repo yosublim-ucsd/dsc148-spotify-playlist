@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-247 songs - 15 hr 48 min
+249 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Gentle on My Mind](https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 3:39 | 2022-06-03 |  |
 | [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 | 2022-06-03 | 2023-05-13 |
 | [Gentle On My Mind](https://open.spotify.com/track/6zq5dLGKdvGoXn9FUvcJLC) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/7HLNwzaYWBgg9ttk1P7LyP) | 4:05 | 2021-12-13 | 2022-07-29 |
-| [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 | 2021-12-13 |  |
+| [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 | 2021-12-13 | 2023-06-27 |
 | [Go Your Own Way](https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered up with Flowers](https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us) | 3:34 | 2022-06-03 |  |
 | [Go Your Own Way](https://open.spotify.com/track/3mxxAmuF5mRj3y6hoOaWnE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered Up With Flowers](https://open.spotify.com/album/7tWPIz3f0HUGmzZlCDxqLh) | 3:34 | 2022-01-21 | 2022-06-25 |
 | [God Only Knows](https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [God Only Knows](https://open.spotify.com/album/0OtdpjoYF1GkrDHI0tasR0) | 3:14 | 2021-12-13 | 2022-07-29 |
@@ -135,6 +135,7 @@
 | [In My Room](https://open.spotify.com/track/0uyzIps7qIdNKOVIvR6Ex0) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [In My Room](https://open.spotify.com/album/2LPetL2iAG5jqVLPaKJPHc) | 2:45 | 2021-12-13 | 2022-07-29 |
 | [In Your Eyes](https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN) | [Sons Of Bill](https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [In Your Eyes](https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV) | 4:42 | 2021-12-13 | 2022-07-29 |
 | [Is This Love](https://open.spotify.com/track/68mzU8iAvNnF3PCidY66K0) | [Sye Elaine Spence](https://open.spotify.com/artist/0q1FB8NHOQ6hWMwMPxnf66) | [Bloom](https://open.spotify.com/album/29zRwYNrzdVkRra1P9aRix) | 3:43 | 2022-01-21 | 2022-07-19 |
+| [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 | 2023-06-23 |  |
 | [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-08-26 | 2022-10-22 |
 | [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-10-14 |  |
 | [Jackson](https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [All The Good Times](https://open.spotify.com/album/0JgpOuuz9D8eH50iZomnvD) | 3:32 | 2021-12-13 | 2022-08-30 |
@@ -145,7 +146,7 @@
 | [just like heaven](https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [brightside bonus tracks](https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0) | 3:24 | 2022-06-03 |  |
 | [just like heaven](https://open.spotify.com/track/11xjDJ7i9BLd1AYMedwJQK) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [just like heaven](https://open.spotify.com/album/0RbMCFvFu5OW5trV4Ga7m8) | 3:24 | 2022-05-13 | 2022-07-29 |
 | [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/4QDMaFh7BpJFE6uL4dBIgN) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU) | 3:54 | 2022-06-03 | 2023-04-29 |
-| [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/67YZQnmSSm60QFMpI0SIlV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9) | 3:54 | 2023-06-02 |  |
+| [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/67YZQnmSSm60QFMpI0SIlV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9) | 3:54 | 2023-06-02 | 2023-06-27 |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-12-13 | 2022-07-29 |
 | [Leaving on a Jet Plane](https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute to John Denver](https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2) | 3:56 | 2022-10-14 | 2023-06-25 |
 | [Leaving On A Jet Plane](https://open.spotify.com/track/1iCCjJPh0rxvmI1rbElYN4) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute To John Denver](https://open.spotify.com/album/1DaPfLzGwKVRhqtE4uxpQ5) | 3:56 | 2021-12-13 | 2022-07-29 |
@@ -255,5 +256,6 @@
 | [You Don't Know How It Feels](https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Don't Know How It Feels](https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX) | 3:42 | 2021-12-13 |  |
 | [You Turn Me On, I'm A Radio](https://open.spotify.com/track/2TUSsSw38J1S1BHI78XMYT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [You Turn Me On, I'm A Radio](https://open.spotify.com/album/3POZ1VNpAUcGhfKbjVjUcQ) | 3:21 | 2021-12-13 | 2022-07-29 |
 | [You Turn Me On, I'm a Radio \- Acoustic](https://open.spotify.com/track/0mdOBageiouWrzRnQTCkJH) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4) | 3:21 | 2022-10-14 | 2023-05-01 |
+| [You Turn Me On, I'm a Radio \- Acoustic](https://open.spotify.com/track/7rP4vwl8DJ5l7xHMmRGBYO) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM) | 3:21 | 2023-06-23 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

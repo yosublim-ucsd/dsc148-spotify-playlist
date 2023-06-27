@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de junio 2023",
-  "num_followers": 1527120,
+  "num_followers": 1527253,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDExMDcxYzA2ZTkwMzNiOGIyYTEyNGQ1ZTg1ODRjZDcwYTA1YWIx",
+  "snapshot_id": "MCxjMmI3MTRiMWZhNzIzN2M2NWExNmRiNTBkMDU4YThmMjhkMmJhNmI3",
   "tracks": [
     {
       "added_at": "2023-06-23 14:43:52",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/0WCxpmafw3tOlUmiilGbsy"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -227,26 +227,6 @@
       "duration_ms": 235525,
       "name": "ID",
       "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
-        "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Aldo Ranks",
-          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
-        }
-      ],
-      "duration_ms": 166882,
-      "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -291,6 +271,46 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 163551,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
+        "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "duration_ms": 166882,
+      "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
         "name": "Funk Rave",
         "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
       },
@@ -323,50 +343,6 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
-        "name": "Ojitos Rojos (Remix)",
-        "url": "https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 203877,
-      "name": "Ojitos Rojos - Remix",
-      "url": "https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 163551,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
       },
@@ -391,18 +367,26 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
-        "name": "M\u00e1tame",
-        "url": "https://open.spotify.com/album/7M8QOj2t3BIVeODclyoPRq"
+        "name": "Ojitos Rojos (Remix)",
+        "url": "https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
-      "duration_ms": 155710,
-      "name": "M\u00e1tame",
-      "url": "https://open.spotify.com/track/6VA26TYfNOZmzXxoxoe1Qr"
+      "duration_ms": 203877,
+      "name": "Ojitos Rojos - Remix",
+      "url": "https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -427,6 +411,22 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
+        "name": "M\u00e1tame",
+        "url": "https://open.spotify.com/album/7M8QOj2t3BIVeODclyoPRq"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 155710,
+      "name": "M\u00e1tame",
+      "url": "https://open.spotify.com/track/6VA26TYfNOZmzXxoxoe1Qr"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
         "name": "D\u00e9cimo Cuarto",
         "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 196960,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/2oWM4XRTXpgWniW874YcAq"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
-        "name": "SEROTONINA",
-        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 160797,
-      "name": "EFECTO",
-      "url": "https://open.spotify.com/track/23l2pykoSycSn8O68jXn5H"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -491,6 +475,42 @@
       "duration_ms": 250893,
       "name": "En Alta",
       "url": "https://open.spotify.com/track/5QX43W0c6X53arJNNtDV8U"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
+        "name": "SEROTONINA",
+        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 160797,
+      "name": "EFECTO",
+      "url": "https://open.spotify.com/track/23l2pykoSycSn8O68jXn5H"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
+        "name": "D\u00e9jalo En Visto",
+        "url": "https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 189918,
+      "name": "D\u00e9jalo En Visto",
+      "url": "https://open.spotify.com/track/47muEluwzPvFgpCGo5PT0m"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -575,22 +595,18 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
-        "name": "D\u00e9jalo En Visto",
-        "url": "https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW"
+        "name": "SEROTONINA",
+        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 189918,
-      "name": "D\u00e9jalo En Visto",
-      "url": "https://open.spotify.com/track/47muEluwzPvFgpCGo5PT0m"
+      "duration_ms": 162724,
+      "name": "CON UN BESO",
+      "url": "https://open.spotify.com/track/4c0sHnOrLTGtzmSm9pj9sE"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -623,22 +639,6 @@
       "duration_ms": 216737,
       "name": "Una Perla En San Juan",
       "url": "https://open.spotify.com/track/2zrWel0JCpX4bWjs3uJxi7"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
-        "name": "SEROTONINA",
-        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 162724,
-      "name": "CON UN BESO",
-      "url": "https://open.spotify.com/track/4c0sHnOrLTGtzmSm9pj9sE"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
+        "name": "PO2054AZ (Vol.I)",
+        "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 150986,
+      "name": "Completamente Loco",
+      "url": "https://open.spotify.com/track/7B646WX2daEPa4bjsnUv9o"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
         "name": "El Plan",
         "url": "https://open.spotify.com/album/1YjrPN6E4SlrkxHWQ4ItCa"
       },
@@ -775,26 +795,6 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
-        "name": "PO2054AZ (Vol.I)",
-        "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 150986,
-      "name": "Completamente Loco",
-      "url": "https://open.spotify.com/track/7B646WX2daEPa4bjsnUv9o"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
         "name": "bellodrama",
         "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 186508,
       "name": "Beb\u00e9",
       "url": "https://open.spotify.com/track/6ob621boKEDPUrWroJuoJS"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
+        "name": "Descifrar",
+        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 256885,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -843,22 +859,6 @@
       "duration_ms": 160694,
       "name": "radar",
       "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
-        "name": "Descifrar",
-        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 256885,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
     },
     {
       "added_at": "2023-06-23 14:43:52",

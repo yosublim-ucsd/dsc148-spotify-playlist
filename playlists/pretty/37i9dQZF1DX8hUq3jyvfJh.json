@@ -1,12 +1,12 @@
 {
   "description": "Luiza Martins e mais mulheres para serem ouvidas no volume m\u00e1ximo! ",
-  "num_followers": 147919,
+  "num_followers": 147984,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzM5ZTU5ZTM0YmU5NDlkYzgwNjJjODJhYThlY2Q1NDU0MjY3MGU1",
+  "snapshot_id": "MCwwMjE4MDQzZTJkMDJhNGNlYTRjMjAyYTMyOWI4NGMwYjhkNTFkYjE1",
   "tracks": [
     {
       "added_at": "2023-06-22 15:28:40",
@@ -219,6 +219,26 @@
     {
       "added_at": "2023-06-22 15:28:40",
       "album": {
+        "name": "Frouxo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/61CI0zIwGcwX1J8tRkK6yq"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 228309,
+      "name": "Frouxo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0AnE7nJjSINcdhlYe3dMTc"
+    },
+    {
+      "added_at": "2023-06-22 15:28:40",
+      "album": {
         "name": "C\u00ea Bateu na Cama Errada (Ao Vivo)",
         "url": "https://open.spotify.com/album/3xEo4lfh245Vfkyd2n0AQ0"
       },
@@ -267,26 +287,6 @@
     {
       "added_at": "2023-06-22 15:28:40",
       "album": {
-        "name": "Frouxo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/61CI0zIwGcwX1J8tRkK6yq"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 228309,
-      "name": "Frouxo - Ao Vivo",
-      "url": "https://open.spotify.com/track/0AnE7nJjSINcdhlYe3dMTc"
-    },
-    {
-      "added_at": "2023-06-22 15:28:40",
-      "album": {
         "name": "Amiga Vagabunda (Piseiro Remix)",
         "url": "https://open.spotify.com/album/61sK1Lso3T4JGG79JuB5ek"
       },
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-06-22 15:28:40",
       "album": {
-        "name": "Decretos Reais",
-        "url": "https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9"
+        "name": "Tenta Me Esquecer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/76PoWln8uqwwWMJIwS87Ll"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
         }
       ],
-      "duration_ms": 231050,
-      "name": "N\u00e3o Era Pra Ser Assim",
-      "url": "https://open.spotify.com/track/6ZWduAEWEoROYHSFQo0IRj"
+      "duration_ms": 135366,
+      "name": "Tenta Me Esquecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/1FuO2H4RYVisRLOMG9Riae"
     },
     {
       "added_at": "2023-06-22 15:28:40",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-06-22 15:28:40",
       "album": {
+        "name": "Decretos Reais",
+        "url": "https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 231050,
+      "name": "N\u00e3o Era Pra Ser Assim",
+      "url": "https://open.spotify.com/track/6ZWduAEWEoROYHSFQo0IRj"
+    },
+    {
+      "added_at": "2023-06-22 15:28:40",
+      "album": {
         "name": "Foguete N\u00e3o Tem R\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/75DoChMx25gB3AHFxOaojF"
       },
@@ -363,6 +379,22 @@
       "duration_ms": 228010,
       "name": "Foguete N\u00e3o Tem R\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/2DoMETGKcN6LiOUTbigNgs"
+    },
+    {
+      "added_at": "2023-06-22 15:28:40",
+      "album": {
+        "name": "Cintilante (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 173370,
+      "name": "Dois Fugitivos - Ao Vivo",
+      "url": "https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I"
     },
     {
       "added_at": "2023-06-22 15:28:40",
@@ -383,22 +415,6 @@
     {
       "added_at": "2023-06-22 15:28:40",
       "album": {
-        "name": "Tenta Me Esquecer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/76PoWln8uqwwWMJIwS87Ll"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        }
-      ],
-      "duration_ms": 135366,
-      "name": "Tenta Me Esquecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/1FuO2H4RYVisRLOMG9Riae"
-    },
-    {
-      "added_at": "2023-06-22 15:28:40",
-      "album": {
         "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 172952,
       "name": "T\u00f4 Dentro - Ao Vivo",
       "url": "https://open.spotify.com/track/572e1p3tMlEruOwhsNjThd"
-    },
-    {
-      "added_at": "2023-06-22 15:28:40",
-      "album": {
-        "name": "Cintilante (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7"
-      },
-      "artists": [
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 173370,
-      "name": "Dois Fugitivos - Ao Vivo",
-      "url": "https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I"
     },
     {
       "added_at": "2023-06-22 15:28:40",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-22 15:28:40",
       "album": {
-        "name": "Respeita As Braba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7DeeFvfBuTSnmbrv4wn9xX"
-      },
-      "artists": [
-        {
-          "name": "Day e Lara",
-          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
-        }
-      ],
-      "duration_ms": 185066,
-      "name": "EXquecEU - Ao Vivo",
-      "url": "https://open.spotify.com/track/0HvEqY7BFf3GCqJGOZxjUj"
-    },
-    {
-      "added_at": "2023-06-22 15:28:40",
-      "album": {
         "name": "Nem Aqui, Nem em Marte",
         "url": "https://open.spotify.com/album/2wbFxDFyR1ctXoBEtrdx3R"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 172862,
       "name": "Nem Aqui, Nem em Marte",
       "url": "https://open.spotify.com/track/5Ah3nQCQMqidZjGihie916"
+    },
+    {
+      "added_at": "2023-06-22 15:28:40",
+      "album": {
+        "name": "Respeita As Braba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7DeeFvfBuTSnmbrv4wn9xX"
+      },
+      "artists": [
+        {
+          "name": "Day e Lara",
+          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "EXquecEU - Ao Vivo",
+      "url": "https://open.spotify.com/track/0HvEqY7BFf3GCqJGOZxjUj"
     },
     {
       "added_at": "2023-06-22 15:28:40",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-22 15:28:40",
       "album": {
-        "name": "Seresta da Klessinha (2023)",
-        "url": "https://open.spotify.com/album/4tDnquhRaj7xJ9wDRz4kDN"
-      },
-      "artists": [
-        {
-          "name": "Klessinha A baronesa",
-          "url": "https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ"
-        }
-      ],
-      "duration_ms": 167444,
-      "name": "Mulher Foda",
-      "url": "https://open.spotify.com/track/2uZchTQjYyHRD9Z1boEOzI"
-    },
-    {
-      "added_at": "2023-06-22 15:28:40",
-      "album": {
         "name": "Cintilante (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 180160,
       "name": "Amn\u00e9sia Do Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/7GCFNHzQCRFrbkklWPxihq"
+    },
+    {
+      "added_at": "2023-06-22 15:28:40",
+      "album": {
+        "name": "Seresta da Klessinha (2023)",
+        "url": "https://open.spotify.com/album/4tDnquhRaj7xJ9wDRz4kDN"
+      },
+      "artists": [
+        {
+          "name": "Klessinha A baronesa",
+          "url": "https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ"
+        }
+      ],
+      "duration_ms": 167444,
+      "name": "Mulher Foda",
+      "url": "https://open.spotify.com/track/2uZchTQjYyHRD9Z1boEOzI"
     },
     {
       "added_at": "2023-06-22 15:28:40",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-06-22 15:28:40",
       "album": {
-        "name": "Agora",
-        "url": "https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6"
-      },
-      "artists": [
-        {
-          "name": "Anna Cintia",
-          "url": "https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF"
-        }
-      ],
-      "duration_ms": 153976,
-      "name": "Viva Agora (Exclusive)",
-      "url": "https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1"
-    },
-    {
-      "added_at": "2023-06-22 15:28:40",
-      "album": {
         "name": "M\u00e1rcia Fellipe Metalizada",
         "url": "https://open.spotify.com/album/3ZF1YPToWlPIx0lUFiymZl"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 183019,
       "name": "Te Quero Eternamente",
       "url": "https://open.spotify.com/track/21pfVjpRcAXdCKnKsQoZtB"
+    },
+    {
+      "added_at": "2023-06-22 15:28:40",
+      "album": {
+        "name": "Agora",
+        "url": "https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6"
+      },
+      "artists": [
+        {
+          "name": "Anna Cintia",
+          "url": "https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF"
+        }
+      ],
+      "duration_ms": 153976,
+      "name": "Viva Agora (Exclusive)",
+      "url": "https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1"
     }
   ],
   "unique_name": "EQUAL Brasil",

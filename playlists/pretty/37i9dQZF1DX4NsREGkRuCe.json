@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 42246,
+  "num_followers": 42320,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDQ0NjEwNzY4NGJmMjRkMTIzMmM5YzAxZjkzZDZjMWFkM2I1ODNl",
+  "snapshot_id": "MCxjZTIwZGMwOTM0YzNiZmMyMGE5NjM1YzRkZGIyMjgwODUzNGYxMDFl",
   "tracks": [
     {
       "added_at": "2023-06-22 23:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "HALLELUJAH (feat. Blaqbonez)",
-        "url": "https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "HALLELUJAH (feat. Blaqbonez)",
-      "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 153684,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "HALLELUJAH (feat. Blaqbonez)",
+        "url": "https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "HALLELUJAH (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "On My Mama",
+        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 186678,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 168103,
       "name": "Aquafina",
       "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "On My Mama",
-        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 186678,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Propeller (feat. Dave & BNXN)",
         "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
       },
@@ -995,46 +1011,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 232155,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
       },
@@ -1107,6 +1083,30 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 232155,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "I Wish (feat. Libianca)",
         "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
       },
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Who Is Your Guy? (Remix)",
+        "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Who Is Your Guy? - Remix",
+      "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -1183,22 +1203,6 @@
       "duration_ms": 213991,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 183349,
-      "name": "All Of Us (Ashawo)",
-      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1227,6 +1231,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 183349,
+      "name": "All Of Us (Ashawo)",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Rave & Roses Ultra",
         "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Who Is Your Guy? (Remix)",
-        "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Who Is Your Guy? - Remix",
-      "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "nwayi",
         "url": "https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ"
       },
@@ -1311,18 +1327,26 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+        "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
+        "url": "https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H"
       },
       "artists": [
         {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+      "duration_ms": 240000,
+      "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
+      "url": "https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1359,30 +1383,6 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
-        "url": "https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
-      "url": "https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V"
     },
     {
       "added_at": "2023-06-22 23:00:00",

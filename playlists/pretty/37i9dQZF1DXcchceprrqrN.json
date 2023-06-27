@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 42503,
+  "num_followers": 42616,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWM4MTVhOTNlMzAyMjY0Y2U2ZDNmOTYwYTU5ZGQ0MWQ1MTJlZDEz",
+  "snapshot_id": "MCwyM2EzYzA0MWVlZmM3NmNkZTQ3NGNhMjFiMTM4YmIwYzdjM2FlYTQ3",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "BUMMER",
-        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 178388,
-      "name": "GOOD GRIEF",
-      "url": "https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Cop Car",
         "url": "https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 183554,
       "name": "Cop Car",
       "url": "https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "BUMMER",
+        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 178388,
+      "name": "GOOD GRIEF",
+      "url": "https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "UGLY",
-        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 192715,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/79mYNfvMefhmL5IqRmUnCK"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Assholes",
         "url": "https://open.spotify.com/album/5Nd64Y626QAncRetjqNc5H"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 144000,
       "name": "Weird Girl",
       "url": "https://open.spotify.com/track/1HVDJhXoyZumT5sezqpkvA"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 192715,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/79mYNfvMefhmL5IqRmUnCK"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Very High",
-        "url": "https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb"
-      },
-      "artists": [
-        {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
-        }
-      ],
-      "duration_ms": 114872,
-      "name": "Very High",
-      "url": "https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 129119,
       "name": "SICK OF IT*",
       "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Very High",
+        "url": "https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "duration_ms": 114872,
+      "name": "Very High",
+      "url": "https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 
 > La playlist idéale pour prendre la route.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,018 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,121 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 79 | [Sunday With A Flu](https://open.spotify.com/track/6zfT8ekh9fF4Tf2uEZYC6t) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Love songs 2000s](https://open.spotify.com/album/3RE8Y4VaZtmGCU7rqF7Mpm) | 2:17 |
 | 80 | [Shine on My Way](https://open.spotify.com/track/6V7HtXMotzn8hYZQ9iZ0v1) | [Diva Faune](https://open.spotify.com/artist/39l75cUNbVMpHgykQLyOUT) | [Dancing with Moonshine](https://open.spotify.com/album/3CTQoMPMvtQoV7ckzAGk0P) | 3:25 |
 
-Snapshot ID: `MCwyZThhMWI5OTFlMjg0MWViNDIwMjM2MzdjOTI2ZGNmOWVjMzNjMWM5`
+Snapshot ID: `MCxiNjRlMjc3ZjM0NGJkZjhkMGI1MTgyNDM0YTk4NWVhNGZhY2M3ZWVm`

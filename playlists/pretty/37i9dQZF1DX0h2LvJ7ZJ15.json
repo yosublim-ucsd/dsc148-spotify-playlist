@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 888275,
+  "num_followers": 889058,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzI1Y2JlYWIzMThkNTZmNzcxYTc4ZWVhZTExZTkwYTdiODcwNjU2",
+  "snapshot_id": "MCw0MzhhODQwMWZkZTQ0NmM1Mzg3Nzg0ZmY1NzM2YjE0M2JiMzI5MGMz",
   "tracks": [
     {
       "added_at": "2023-06-01 19:04:27",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
-        "name": "School Rooftop (Slowed Down Version)",
-        "url": "https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ"
-      },
-      "artists": [
-        {
-          "name": "Hisohkah",
-          "url": "https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6"
-        },
-        {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
-        }
-      ],
-      "duration_ms": 193732,
-      "name": "School Rooftop - Slowed Down Version",
-      "url": "https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot"
-    },
-    {
-      "added_at": "2023-06-01 19:04:27",
-      "album": {
         "name": "Hands up! (Slowed)",
         "url": "https://open.spotify.com/album/4MRoilt5EIy78XbiemIdfZ"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 158857,
       "name": "Hands up! - Slowed",
       "url": "https://open.spotify.com/track/5QysgWndNifZvQ6RSjZVcZ"
+    },
+    {
+      "added_at": "2023-06-01 19:04:27",
+      "album": {
+        "name": "School Rooftop (Slowed Down Version)",
+        "url": "https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ"
+      },
+      "artists": [
+        {
+          "name": "Hisohkah",
+          "url": "https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6"
+        },
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+        }
+      ],
+      "duration_ms": 193732,
+      "name": "School Rooftop - Slowed Down Version",
+      "url": "https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot"
     },
     {
       "added_at": "2023-06-01 19:04:27",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
+        "name": "Killshot (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 278074,
+      "name": "Killshot - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
+    },
+    {
+      "added_at": "2023-06-01 19:04:27",
+      "album": {
         "name": "Frozen (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 139636,
       "name": "Frozen (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
-    },
-    {
-      "added_at": "2023-06-01 19:04:27",
-      "album": {
-        "name": "Killshot (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 278074,
-      "name": "Killshot - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
     },
     {
       "added_at": "2023-06-01 19:04:27",
@@ -739,30 +739,6 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
-        "name": "If By Chance (slowed + reverb)",
-        "url": "https://open.spotify.com/album/35myBC3ak9OPMye976nuI4"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        },
-        {
-          "name": "sped up + slowed",
-          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
-        },
-        {
-          "name": "slater",
-          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
-        }
-      ],
-      "duration_ms": 384770,
-      "name": "If By Chance - slowed + reverb",
-      "url": "https://open.spotify.com/track/27fMPdnYNuuFuSQrUNJkqj"
-    },
-    {
-      "added_at": "2023-06-01 19:04:27",
-      "album": {
         "name": "Love Me Back (Fayahh Beat) [Slowed + Reverb]",
         "url": "https://open.spotify.com/album/3vAp0G0DDiQtbQ6p2jOQB3"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 182166,
       "name": "Love Me Back (Fayahh Beat) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/7jlPfhpd0tVCeaqBtmwFOA"
+    },
+    {
+      "added_at": "2023-06-01 19:04:27",
+      "album": {
+        "name": "If By Chance (slowed + reverb)",
+        "url": "https://open.spotify.com/album/35myBC3ak9OPMye976nuI4"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        },
+        {
+          "name": "slater",
+          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
+        }
+      ],
+      "duration_ms": 384770,
+      "name": "If By Chance - slowed + reverb",
+      "url": "https://open.spotify.com/track/27fMPdnYNuuFuSQrUNJkqj"
     },
     {
       "added_at": "2023-06-01 19:04:27",
@@ -927,18 +927,22 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
-        "name": "dirty laundry (slowed)",
-        "url": "https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA"
+        "name": "My Head In The Sky",
+        "url": "https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ"
       },
       "artists": [
         {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "ZRobb",
+          "url": "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
         }
       ],
-      "duration_ms": 167369,
-      "name": "dirty laundry - slowed",
-      "url": "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
+      "duration_ms": 95108,
+      "name": "I Don't Trust Nobody - Slowed and Reverb",
+      "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
     },
     {
       "added_at": "2023-06-01 19:04:27",
@@ -959,18 +963,18 @@
     {
       "added_at": "2023-06-01 19:04:27",
       "album": {
-        "name": "Use Me (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/1dz4vYS8chpVh6qutTn0WT"
+        "name": "dirty laundry (slowed)",
+        "url": "https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA"
       },
       "artists": [
         {
-          "name": "PLAZA",
-          "url": "https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY"
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
-      "duration_ms": 279750,
-      "name": "Use Me (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb"
+      "duration_ms": 167369,
+      "name": "dirty laundry - slowed",
+      "url": "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
     }
   ],
   "unique_name": "slowed and reverbed",

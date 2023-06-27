@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,210 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,414 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 16 | [Love](https://open.spotify.com/track/5dU3p2ia4wDvODpA04g50e) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [YSRA](https://open.spotify.com/album/17Cq84vHnwuiTdVUc5DBGg) | 2:48 |
 | 17 | [Known, Seen, Loved \(LIVE from the Quarry\)](https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved \(LIVE from the Quarry\)](https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX) | 3:07 |
 | 18 | [Constellations](https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 |
-| 19 | [Goodness of God \- Acoustic](https://open.spotify.com/track/3xKktg3qTh1ovCnLqQc7us) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Goodness of God \(Acoustic\)](https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ) | 4:03 |
+| 19 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 |
 | 20 | [Eternal Light](https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Eternal Light](https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg) | 4:07 |
-| 21 | [Christ The Lord Is with Me \(with Amanda Cook & Wonder Grace Gretzinger\)](https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Wonder Grace Gretzinger](https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:26 |
-| 22 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 |
+| 21 | [Goodness of God \- Acoustic](https://open.spotify.com/track/3xKktg3qTh1ovCnLqQc7us) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Goodness of God \(Acoustic\)](https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ) | 4:03 |
+| 22 | [Christ The Lord Is with Me \(with Amanda Cook & Wonder Grace Gretzinger\)](https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Wonder Grace Gretzinger](https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:26 |
 | 23 | [New Day](https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [New Day](https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y) | 2:55 |
 | 24 | [Peace \- Acoustic](https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 5:07 |
 | 25 | [LEAVE ME \(feat\. J Moss\)](https://open.spotify.com/track/7riV735cTp56roHAg7fN1v) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [TWO UP TWO DOWN](https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ) | 3:30 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 51 | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 |
 | 52 | [Helpless One](https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Helpless One](https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN) | 3:15 |
 | 53 | [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 |
-| 54 | [Rest On Us](https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmour](https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j) | [Rest On Us](https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF) | 3:29 |
-| 55 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
+| 54 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
+| 55 | [Rest On Us](https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmour](https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j) | [Rest On Us](https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF) | 3:29 |
 | 56 | [Learning to Let You Go](https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Learning to Let You Go](https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy) | 3:31 |
 | 57 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 |
 | 58 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 69 | [Precious](https://open.spotify.com/track/2jTjDrh3tF5YEDBTrp29hI) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 6:07 |
 | 70 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 
-Snapshot ID: `MCwxMjFjZDQ2MWYzMzk4ZDJjNmMxMmVlNzVkODQwZWY3NGE1MWI4YWE0`
+Snapshot ID: `MCw3M2UyNjUwOTQ2ZTEyMDNmOWQ2NDUxM2I0NDEwY2QxOTNlZDk1ZDc0`

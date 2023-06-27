@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 67198,
+  "num_followers": 67210,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzM3YTA1ZjM5MDQwOGQ5MTFlZjk1YTliMThjYjkzNmYwNzA0YjFi",
+  "snapshot_id": "MCw5OGQ2MTZiM2ZlMDAzZmYwMmJiYzgyODFiNzI1NmM4MTE3MDk2NmQy",
   "tracks": [
     {
       "added_at": "2023-06-08 22:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
+        "name": "V\u00e5r betong",
+        "url": "https://open.spotify.com/album/49Bkm31Gse04stXWXy1s5c"
+      },
+      "artists": [
+        {
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "V\u00e5r betong",
+      "url": "https://open.spotify.com/track/0RrWsDOJJQfodBZyNYeiLy"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
         "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
         "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "V\u00e5r betong",
-        "url": "https://open.spotify.com/album/49Bkm31Gse04stXWXy1s5c"
-      },
-      "artists": [
-        {
-          "name": "Jacco",
-          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "V\u00e5r betong",
-      "url": "https://open.spotify.com/track/0RrWsDOJJQfodBZyNYeiLy"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
         "name": "K\u00e4rlek & Revolt",
         "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
       },
@@ -171,22 +171,6 @@
       "duration_ms": 232586,
       "name": "12/12",
       "url": "https://open.spotify.com/track/3F2avOu7brXts7okal0BbK"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "Pang Pang",
-        "url": "https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 245052,
-      "name": "Pang Pang",
-      "url": "https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -207,22 +191,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Hela Livet",
-        "url": "https://open.spotify.com/album/3ObxkdT65iK1fa2t5X7a8N"
+        "name": "N\u00e4r solen g\u00e5r ner",
+        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
       },
       "artists": [
         {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
         },
         {
-          "name": "Jacco",
-          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 224551,
-      "name": "N\u00e5n Annan (feat. Jacco)",
-      "url": "https://open.spotify.com/track/0FDF7UebxnxtLZwJIsbnbB"
+      "duration_ms": 221773,
+      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
+      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -247,22 +231,38 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "N\u00e4r solen g\u00e5r ner",
-        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
+        "name": "Hela Livet",
+        "url": "https://open.spotify.com/album/3ObxkdT65iK1fa2t5X7a8N"
       },
       "artists": [
         {
-          "name": "AKI",
-          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
         },
         {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
         }
       ],
-      "duration_ms": 221773,
-      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
-      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
+      "duration_ms": 224551,
+      "name": "N\u00e5n Annan (feat. Jacco)",
+      "url": "https://open.spotify.com/track/0FDF7UebxnxtLZwJIsbnbB"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "Pang Pang",
+        "url": "https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 245052,
+      "name": "Pang Pang",
+      "url": "https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -295,6 +295,22 @@
       "duration_ms": 226063,
       "name": "Polisen sla\u030ar",
       "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "Kalibreraren",
+        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
+      },
+      "artists": [
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        }
+      ],
+      "duration_ms": 194988,
+      "name": "Spontanitet",
+      "url": "https://open.spotify.com/track/7nriQOQo6oaMoD3ZBBP7cX"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -375,22 +391,6 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Kalibreraren",
-        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
-      },
-      "artists": [
-        {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
-        }
-      ],
-      "duration_ms": 194988,
-      "name": "Spontanitet",
-      "url": "https://open.spotify.com/track/7nriQOQo6oaMoD3ZBBP7cX"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
         "name": "Labababa",
         "url": "https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB"
       },
@@ -403,6 +403,38 @@
       "duration_ms": 273813,
       "name": "Tribulations",
       "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "Tippa p\u00e5 t\u00e5",
+        "url": "https://open.spotify.com/album/5JgVSX1xqeYviplcfs3qfu"
+      },
+      "artists": [
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Tippa p\u00e5 t\u00e5",
+      "url": "https://open.spotify.com/track/1PKRouxQ3KghcyU2UovQlF"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "Rudeboy Love",
+        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 220201,
+      "name": "Rudeboy Love",
+      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -427,18 +459,18 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Rudeboy Love",
-        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
+        "name": "Dancehall",
+        "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
       },
       "artists": [
         {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
         }
       ],
-      "duration_ms": 220201,
-      "name": "Rudeboy Love",
-      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
+      "duration_ms": 198805,
+      "name": "Som Bob Marley",
+      "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -475,6 +507,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
+        "name": "\u00d6ver Min D\u00f6da",
+        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 213019,
+      "name": "\u00d6ver Min D\u00f6da",
+      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
         "name": "Blacka Rasta",
         "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
       },
@@ -487,38 +535,6 @@
       "duration_ms": 211573,
       "name": "Sm\u00e5 svarta \u00e4nglar",
       "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "Dancehall",
-        "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Som Bob Marley",
-      "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "Tippa p\u00e5 t\u00e5",
-        "url": "https://open.spotify.com/album/5JgVSX1xqeYviplcfs3qfu"
-      },
-      "artists": [
-        {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Tippa p\u00e5 t\u00e5",
-      "url": "https://open.spotify.com/track/1PKRouxQ3KghcyU2UovQlF"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -583,22 +599,6 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "\u00d6ver Min D\u00f6da",
-        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 213019,
-      "name": "\u00d6ver Min D\u00f6da",
-      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
         "name": "H\u00f6g standard",
         "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
       },
@@ -611,38 +611,6 @@
       "duration_ms": 316000,
       "name": "H\u00f6g standard",
       "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "Under samma himmel",
-        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "Under samma himmel",
-      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
-        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "Snapphaneklanen",
-      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -663,6 +631,22 @@
       "duration_ms": 188516,
       "name": "Kontakt",
       "url": "https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
+        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Snapphaneklanen",
+      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -723,6 +707,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
+        "name": "Under samma himmel",
+        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Under samma himmel",
+      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
         "name": "Mellan Raderna",
         "url": "https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE"
       },
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Br\u00e5da dagar",
-        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
+        "name": "G\u00f6r Det \u00c4nd\u00e5",
+        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
       },
       "artists": [
         {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Bulleribock",
-      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
+      "duration_ms": 212786,
+      "name": "Vakna",
+      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
+        "name": "Br\u00e5da dagar",
+        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Bulleribock",
+      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
         "name": "The Tomtations Show",
         "url": "https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 282124,
       "name": "Aina \u00c4lskar Reggae",
       "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
-        "name": "G\u00f6r Det \u00c4nd\u00e5",
-        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Vakna",
-      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
     },
     {
       "added_at": "2023-06-08 22:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-08 22:00:00",
       "album": {
-        "name": "Class Brut\u00e1ls",
-        "url": "https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB"
-      },
-      "artists": [
-        {
-          "name": "USCB Allstars",
-          "url": "https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "12 Steps",
-      "url": "https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2"
-    },
-    {
-      "added_at": "2023-06-08 22:00:00",
-      "album": {
         "name": "Reggaestrerad",
         "url": "https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 223122,
       "name": "Dunya",
       "url": "https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i"
+    },
+    {
+      "added_at": "2023-06-08 22:00:00",
+      "album": {
+        "name": "Resa Sig Opp",
+        "url": "https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Du Vill S\u00e5 Du Kan",
+      "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
     }
   ],
   "unique_name": "Svensk Reggae",

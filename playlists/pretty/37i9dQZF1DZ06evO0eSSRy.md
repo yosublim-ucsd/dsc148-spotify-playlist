@@ -10,12 +10,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 |
 | 2 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 |
-| 3 | [Archives](https://open.spotify.com/track/0tmgEJKwEDX1znh5owSKLo) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:17 |
-| 4 | [The Luck You Had](https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [The Luck You Had](https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2) | 4:24 |
+| 3 | [The Luck You Had](https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [The Luck You Had](https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2) | 4:24 |
+| 4 | [Archives](https://open.spotify.com/track/0tmgEJKwEDX1znh5owSKLo) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:17 |
 | 5 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 |
 | 6 | [Boy](https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI) | 3:21 |
-| 7 | [Journey of the Prairie King](https://open.spotify.com/track/3xoOHYehP6FjTLxmVtQr2t) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:28 |
-| 8 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 |
+| 7 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 |
+| 8 | [Journey of the Prairie King](https://open.spotify.com/track/3xoOHYehP6FjTLxmVtQr2t) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:28 |
 | 9 | [Party's over, Biff](https://open.spotify.com/track/07eiHw5s87pBGVrLlXyV2n) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:48 |
 | 10 | [Marcel and the Prince](https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Marcel and the Prince](https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl) | 3:27 |
 | 11 | [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 |
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 17 | [Mike + Susan](https://open.spotify.com/track/4wpfVf67akZfMUhwybFNml) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:01 |
 | 18 | [Semi Finalists](https://open.spotify.com/track/1NnJQSLLWRdHvWu3ZrwRel) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:43 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDA2ZjdkYzY0YTEwNzZkM2YyZjkxNWNhZjQwODdlYjk5OQ==`
+Snapshot ID: `MjgxMjk2OTUsMDAwMDAwMDAwOTc1ODc3NTcyNmYyOWY1NTE0NGNiY2M4NDRlMmMxZA==`

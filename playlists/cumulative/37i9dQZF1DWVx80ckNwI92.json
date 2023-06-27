@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 161828,
       "name": "'00 Nostalgia",
       "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Find You There",
+        "url": "https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3"
+      },
+      "artists": [
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Find You There",
+      "url": "https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi"
+    },
+    {
+      "album": {
         "name": "ECOSYSTEM_01",
         "url": "https://open.spotify.com/album/11vteDfC4Jsj89ZrAuWjgs"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 91558,
       "name": "FINSTA",
       "url": "https://open.spotify.com/track/7v4mEXJ0C2LHI1W9abbzfx"
@@ -634,7 +652,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 171083,
       "name": "I Don't Usually Fall, But When I Do...",
       "url": "https://open.spotify.com/track/3E0smb4bG5SKBiePR5tbQc"
@@ -1011,6 +1029,28 @@
     },
     {
       "album": {
+        "name": "MOVE ALONG",
+        "url": "https://open.spotify.com/album/4ylBPHCeJ9aOCqe0cc2tqx"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "SKTLLZ",
+          "url": "https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179053,
+      "name": "MOVE ALONG",
+      "url": "https://open.spotify.com/track/61VXr1QvI8NeETilAJst3O"
+    },
+    {
+      "album": {
         "name": "my Intentions",
         "url": "https://open.spotify.com/album/3HKtKW3F060uEkTCxWnU8E"
       },
@@ -1182,6 +1222,24 @@
       "duration_ms": 164000,
       "name": "Ondine's Curse",
       "url": "https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw"
+    },
+    {
+      "album": {
+        "name": "Self Conflicted.",
+        "url": "https://open.spotify.com/album/3eqQOOzbHhwmaRXmoBoW9v"
+      },
+      "artists": [
+        {
+          "name": "CallmeTino",
+          "url": "https://open.spotify.com/artist/5xhs67TdK4JBvwUyQnMdsk"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172691,
+      "name": "One Sided",
+      "url": "https://open.spotify.com/track/0W0s4QcraRtXxzkX92r5Zr"
     },
     {
       "album": {
@@ -1519,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "THE MORNING AFTER",
+        "url": "https://open.spotify.com/album/0s4AN3UDeP6wTPceysr0Jj"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142159,
+      "name": "THE MORNING AFTER",
+      "url": "https://open.spotify.com/track/1ewqOSdMAgdjFCksr1tRts"
+    },
+    {
+      "album": {
         "name": "The Second Kind",
         "url": "https://open.spotify.com/album/76WNrCVTDtgoocY9kw821z"
       },
@@ -1716,7 +1792,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 204922,
       "name": "vibe again",
       "url": "https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv"

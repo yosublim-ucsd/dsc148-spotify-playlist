@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 155538,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/2Tdx3WY6tStwtGzUpJJjnR"
@@ -1049,6 +1049,28 @@
     },
     {
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135253,
+      "name": "Make My Day (with David Guetta)",
+      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
+    },
+    {
+      "album": {
         "name": "Mi Gente (Alesso Remix)",
         "url": "https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g"
       },
@@ -1646,7 +1668,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 255532,
       "name": "Straightenin",
       "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"

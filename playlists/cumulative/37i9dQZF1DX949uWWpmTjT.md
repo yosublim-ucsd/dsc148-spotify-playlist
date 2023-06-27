@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-680 songs - 1 day 21 hr 4 min
+681 songs - 1 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Numerous Occasions](https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Numerous Occasions](https://open.spotify.com/album/4Hn6jU3s5yKVffhJnDr6Et) | 3:31 | 2023-01-19 |  |
 | [Oak Street](https://open.spotify.com/track/7dCQqBmb0oLRilEHTWdRvA) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Oak Street](https://open.spotify.com/album/5KucJe0AhO0ajwSXBLfYpd) | 5:08 | 2023-02-02 |  |
 | [Odd Duck](https://open.spotify.com/track/4ag4ypxQnkSVuZHvfwyzo1) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Odd Duck](https://open.spotify.com/album/506EOu4vBoIkR1D8Kw7rSG) | 3:23 | 2023-05-04 |  |
+| [Ol' Man River](https://open.spotify.com/track/3w76lFh4V9mNpxGelN7U44) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Ol' Man River](https://open.spotify.com/album/6rFrgssgHkHnZknkv70EOe) | 5:42 | 2023-06-22 |  |
 | [Old Georgie](https://open.spotify.com/track/5TUShaJuppEAb1FVctgy6V) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Old Georgie](https://open.spotify.com/album/4Hfo3rFHpvtatFFe4Suba9) | 3:02 | 2023-02-09 |  |
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2023-02-02 |  |
 | [On Delancey](https://open.spotify.com/track/1sfu03jKTPkDODkKSDpcDM) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Big Apple](https://open.spotify.com/album/5fghKHhrLGGIXxg2DUgMAb) | 3:47 | 2023-03-16 |  |
@@ -508,7 +509,7 @@
 | [Silver Lining](https://open.spotify.com/track/0THUYrw2Rk5JIjCJS6Qu0b) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Silver Lining](https://open.spotify.com/album/73PLpuORLQXSfTLQS9HuDc) | 3:04 | 2023-02-02 |  |
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-11-10 |  |
 | [Since I Fell for You](https://open.spotify.com/track/0HY29tHnnKozsXwdqfWey8) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH) | 4:23 | 2021-12-03 |  |
-| [Slow Motion Blues \- 2003 Remastered Version](https://open.spotify.com/track/28pXjvjSad59tRDv3EmtNz) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Just You, Just Me](https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN) | 2:56 | 2021-12-03 |  |
+| [Slow Motion Blues \- 2003 Remastered Version](https://open.spotify.com/track/28pXjvjSad59tRDv3EmtNz) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Just You, Just Me](https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN) | 2:56 | 2021-12-03 | 2023-06-27 |
 | [Snow in the Night](https://open.spotify.com/track/5pkV89tLr5KvFchu3jsEyS) | [Max Light Quartet](https://open.spotify.com/artist/0BZxORrNUJfV3VoAH6pgYO) | [Livia's Dream](https://open.spotify.com/album/60AwORaHZMMTqmeRRdsxP2) | 3:38 | 2023-06-15 |  |
 | [Snowbound](https://open.spotify.com/track/7sDq8pkhmQJCkRR68jnnzz) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Snowbound](https://open.spotify.com/album/1JZB7ZrcA7gJ8NC4eWQAEM) | 3:28 | 2023-01-12 |  |
 | [Social Call](https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Gigi Gryce](https://open.spotify.com/artist/60pVDktf5EH4d3IxkHozpa) | [When Farmer Met Gryce](https://open.spotify.com/album/2ztfNhKe4VD2diiLMkR19a) | 6:05 | 2021-12-03 |  |

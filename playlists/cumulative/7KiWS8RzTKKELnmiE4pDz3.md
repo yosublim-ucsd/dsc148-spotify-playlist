@@ -4,7 +4,7 @@
 
 > 
 
-459 songs - 20 hr 25 min
+461 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Accidental Shit Talking 2](https://open.spotify.com/track/3YhnPlbJSF44AOLAR0wKtq) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Accidental Shit Talkin](https://open.spotify.com/album/78afHDRK6o8rRLNDpQlCk4) | 1:56 | 2023-01-16 | 2023-05-09 |
 | [Acid Rain](https://open.spotify.com/track/0yLsJKNJHmSnmSGl3ZodYn) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh) | 3:36 | 2022-12-29 | 2023-04-12 |
 | [Addy Geek](https://open.spotify.com/track/5YfRQ05Bn7aqQrbNI6NAO2) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 1:45 | 2023-01-27 | 2023-04-24 |
+| [AEAO](https://open.spotify.com/track/76CSfZPziwSi9hsSkIVTyw) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/1CM4OSWGFBFKb5FigEchJB) | 5:16 | 2023-06-24 |  |
 | [Aint Stoppin](https://open.spotify.com/track/1XYEfsWLYOkKvwp8NZWBMR) | [TrapStarMula](https://open.spotify.com/artist/58xE7ynDjkStdAD0oMbey4), [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Codeine Over Hoes](https://open.spotify.com/album/6P6Vv0MI9xDTU70zEx8jlM) | 2:15 | 2022-07-28 | 2023-05-09 |
 | [Akbar](https://open.spotify.com/track/357EwLZfD9vuGTZ7dxqumw) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Master the Day of Judgement](https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9) | 2:22 | 2022-06-10 |  |
 | [Akorn](https://open.spotify.com/track/2BSC5k7wf96ofscMZAcFuh) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [La Vibes](https://open.spotify.com/album/021ENWQHYyQsDDdNFuWqYz) | 2:19 | 2022-09-13 | 2023-04-12 |
@@ -223,6 +224,7 @@
 | [Kickback](https://open.spotify.com/track/5HtOazXOK8uc3FNRhDClDg) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Kickback](https://open.spotify.com/album/6chHTU4nfoCUxxKiuO2as0) | 1:58 | 2022-06-19 | 2023-05-09 |
 | [kill em](https://open.spotify.com/track/4QtB7BKYHpFP8xywUyev9g) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Κankan](https://open.spotify.com/artist/2HfEGAJuiD6uQN7xwPoSgh) | [birds.](https://open.spotify.com/album/372OLql24SIHHbLAZgzoow) | 1:52 | 2022-07-28 | 2023-05-09 |
 | [KitKat](https://open.spotify.com/track/4ZR9C9Ccf1nmEJN9765N2O) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 2:58 | 2022-12-15 | 2023-05-09 |
+| [KRUSTY KREW ANTHEM \(BACK ON THE GRILL\)](https://open.spotify.com/track/7KbcPfcBMquaJGf4BVesOv) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [The Krusty Pack](https://open.spotify.com/album/1jBNhLA91c4XVAEhUtsELd) | 1:52 | 2023-06-24 |  |
 | [LA Talk](https://open.spotify.com/track/5GpN1t3D2SYZCLz6Lcej2v) | [10TA Lil A](https://open.spotify.com/artist/3E7zyjnY6AthfEeOAT1x3e), [Double O Tone](https://open.spotify.com/artist/67oBhkdOuUG9eHxIqYmioE) | [Welcome 2 The Darkside](https://open.spotify.com/album/4EeebfzQSzQqHWtVlFc9U9) | 2:32 | 2022-12-09 | 2023-04-12 |
 | [Lady Brown \(feat\. Cise Starr from CYNE\)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Starr](https://open.spotify.com/artist/2Xavhsn8y9Yrr7N08OxvKF) | [Metaphorical Music](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637) | 3:19 | 2022-09-25 | 2023-05-09 |
 | [Late Night Thoughts](https://open.spotify.com/track/2VDOufBy8AZ62QP9fKWtU0) | [lux!](https://open.spotify.com/artist/78UPr5XqILuhuYhqpFkv6S) | [Late Night Thoughts](https://open.spotify.com/album/7K43nm5jlSvcUWHQtxWAIP) | 3:37 | 2022-06-22 |  |

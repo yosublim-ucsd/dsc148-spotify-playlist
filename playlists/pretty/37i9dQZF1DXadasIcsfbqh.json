@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Jessie Murph and Maren Morris",
-  "num_followers": 144293,
+  "num_followers": 144528,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODc1OTM4N2NiODAwNWIzM2Q3NDk4MjQ0MTY5ODAwZmMyYTkzN2Fl",
+  "snapshot_id": "MCwyZmNhN2M1Y2I3MDE2MTFjMzhhZmVmMWIwMjliMjBjZmJhMTc5Mjhm",
   "tracks": [
     {
       "added_at": "2023-06-23 15:38:16",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
-    },
-    {
-      "added_at": "2023-06-23 15:38:16",
-      "album": {
         "name": "Old Dominion",
         "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
@@ -163,6 +147,26 @@
       "duration_ms": 186240,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
+    },
+    {
+      "added_at": "2023-06-23 15:38:16",
+      "album": {
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "duration_ms": 170560,
+      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
+      "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
     },
     {
       "added_at": "2023-06-23 15:38:16",
@@ -203,22 +207,18 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
       },
       "artists": [
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        },
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 170560,
-      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
-      "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
     },
     {
       "added_at": "2023-06-23 15:38:16",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
-        "name": "You Proof",
-        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
-    },
-    {
-      "added_at": "2023-06-23 15:38:16",
-      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -335,26 +319,6 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
-        "name": "Good Person (Deluxe)",
-        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Runnin (with JP Saxe)",
-      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
-    },
-    {
-      "added_at": "2023-06-23 15:38:16",
-      "album": {
         "name": "Be Like That (feat. Swae Lee & Khalid)",
         "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
       },
@@ -379,18 +343,38 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "Good Person (Deluxe)",
+        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
         }
       ],
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+      "duration_ms": 206760,
+      "name": "Runnin (with JP Saxe)",
+      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
+    },
+    {
+      "added_at": "2023-06-23 15:38:16",
+      "album": {
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     },
     {
       "added_at": "2023-06-23 15:38:16",
@@ -447,18 +431,18 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Take My Name",
-      "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
+      "duration_ms": 215140,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
     },
     {
       "added_at": "2023-06-23 15:38:16",
@@ -479,6 +463,22 @@
       "duration_ms": 171200,
       "name": "I Quit Drinking",
       "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
+    },
+    {
+      "added_at": "2023-06-23 15:38:16",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Take My Name",
+      "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
     },
     {
       "added_at": "2023-06-23 15:38:16",
@@ -591,22 +591,22 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
       "artists": [
         {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 193880,
-      "name": "Just the Way",
-      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
+      "duration_ms": 189495,
+      "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
     },
     {
       "added_at": "2023-06-23 15:38:16",
@@ -627,22 +627,22 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
         },
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
         }
       ],
-      "duration_ms": 189495,
-      "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
+      "duration_ms": 193880,
+      "name": "Just the Way",
+      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
     },
     {
       "added_at": "2023-06-23 15:38:16",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
-        "name": "Water Under The Bridge",
-        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
+        "name": "What If I Don't",
+        "url": "https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Shaylen",
+          "url": "https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ"
         }
       ],
-      "duration_ms": 169760,
-      "name": "Water Under The Bridge",
-      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
+      "duration_ms": 201544,
+      "name": "What If I Don't",
+      "url": "https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R"
     },
     {
       "added_at": "2023-06-23 15:38:16",
@@ -711,54 +711,18 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
-        "name": "What If I Don't",
-        "url": "https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC"
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
       },
       "artists": [
         {
-          "name": "Shaylen",
-          "url": "https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 201544,
-      "name": "What If I Don't",
-      "url": "https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R"
-    },
-    {
-      "added_at": "2023-06-23 15:38:16",
-      "album": {
-        "name": "Chasing After You (with Maren Morris)",
-        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Chasing After You (with Maren Morris)",
-      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
-    },
-    {
-      "added_at": "2023-06-23 15:38:16",
-      "album": {
-        "name": "Get The Girl",
-        "url": "https://open.spotify.com/album/2inyimCr6ymziueiISBpzE"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 172364,
-      "name": "Get The Girl",
-      "url": "https://open.spotify.com/track/4USdlx544NYIuGc4I1Orbl"
+      "duration_ms": 169760,
+      "name": "Water Under The Bridge",
+      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
     },
     {
       "added_at": "2023-06-23 15:38:16",
@@ -779,6 +743,42 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
+    },
+    {
+      "added_at": "2023-06-23 15:38:16",
+      "album": {
+        "name": "Get The Girl",
+        "url": "https://open.spotify.com/album/2inyimCr6ymziueiISBpzE"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 172364,
+      "name": "Get The Girl",
+      "url": "https://open.spotify.com/track/4USdlx544NYIuGc4I1Orbl"
+    },
+    {
+      "added_at": "2023-06-23 15:38:16",
+      "album": {
+        "name": "Chasing After You (with Maren Morris)",
+        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Chasing After You (with Maren Morris)",
+      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
       "added_at": "2023-06-23 15:38:16",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
+        "name": "Almost Maybes",
+        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179152,
+      "name": "Almost Maybes",
+      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
+    },
+    {
+      "added_at": "2023-06-23 15:38:16",
+      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
-    },
-    {
-      "added_at": "2023-06-23 15:38:16",
-      "album": {
-        "name": "Almost Maybes",
-        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179152,
-      "name": "Almost Maybes",
-      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
     },
     {
       "added_at": "2023-06-23 15:38:16",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2023-06-23 15:38:16",
       "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "duration_ms": 181621,
+      "name": "Cowgirls (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP"
+    },
+    {
+      "added_at": "2023-06-23 15:38:16",
+      "album": {
         "name": "Line By Line (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 205946,
       "name": "Home Sweet",
       "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
-    },
-    {
-      "added_at": "2023-06-23 15:38:16",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        }
-      ],
-      "duration_ms": 181621,
-      "name": "Cowgirls (feat. ERNEST)",
-      "url": "https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP"
     },
     {
       "added_at": "2023-06-23 15:38:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,810 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,847 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 8 | [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 |
 | 9 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
 | 10 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
-| 11 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
-| 12 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:58 |
+| 11 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:58 |
+| 12 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 13 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:13 |
 | 14 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
 | 15 | [Your Love Is King](https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 3:39 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 32 | [You Make Me Feel Brand New](https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Rockin' Roll Baby](https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz) | 4:48 |
 | 33 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
 | 34 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
-| 35 | [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 |
-| 36 | [Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Every Home Should Have One](https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU) | 3:35 |
+| 35 | [Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Every Home Should Have One](https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU) | 3:35 |
+| 36 | [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 |
 | 37 | [On My Own](https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Winner In You](https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN) | 4:50 |
 | 38 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
 | 39 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 50 | [Too Hot \- Single Version](https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:46 |
 | 51 | [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 |
 | 52 | [Ain't No Woman \(Like The One I've Got\)](https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Keeper Of The Castle](https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9) | 3:07 |
-| 53 | [Groovin' \- Remastered](https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Still Groovin \(Remastered\)](https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL) | 2:43 |
-| 54 | [In Your Eyes](https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [In Your Eyes](https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8) | 3:20 |
+| 53 | [In Your Eyes](https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [In Your Eyes](https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8) | 3:20 |
+| 54 | [Groovin' \- Remastered](https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Still Groovin \(Remastered\)](https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL) | 2:43 |
 | 55 | [Knocks Me Off My Feet](https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:36 |
 | 56 | [The Closer I Get to You](https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 4:40 |
 | 57 | [Mornin'](https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Jarreau](https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb) | 4:18 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 59 | [Close the Door](https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:25 |
 | 60 | [My, My, My](https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Johnny Gill](https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC) | 5:21 |
 | 61 | [Distant Lover](https://open.spotify.com/track/5Xt3RUiOkiH2pGYtMTVeNS) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Expanded Edition\)](https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy) | 4:15 |
-| 62 | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Let Me In Your Life](https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC) | 3:28 |
-| 63 | [Always and Forever](https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:52 |
+| 62 | [Always and Forever](https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:52 |
+| 63 | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Let Me In Your Life](https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC) | 3:28 |
 | 64 | [Caught Up In the Rapture](https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Jazzy Soul](https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I) | 4:10 |
 | 65 | [Let's Wait Awhile](https://open.spotify.com/track/3333YXdcyths5CB8v28dZj) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:37 |
 | 66 | [After All](https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [High Crime](https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 99 | [Turn Your Love Around \- 2015 GH Version](https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Ultimate Collection](https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv) | 3:49 |
 | 100 | [Ever Changing Times \(feat\. Michael McDonald\)](https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Jewels In The Crown](https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi) | 5:10 |
 
-Snapshot ID: `MCw1ZmRiOTUyMjdmZDAxN2EyZTliZTM2NzU4NmIyNmNlNjNjMWVjZGE0`
+Snapshot ID: `MCxjZDQwYTFjMmNjM2VlZTA2ZjRlNWZkOTgyODY3MDVjMDNmNWQ3ZmY0`

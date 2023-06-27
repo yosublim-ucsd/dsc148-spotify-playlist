@@ -1,12 +1,12 @@
 {
   "description": "Canciones de rock con un toque de nostalgia.",
-  "num_followers": 92892,
+  "num_followers": 92996,
   "original_name": "Nostalgia + Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjgzNjhkNGQ3ZjEwZDM2MzVlNGVlYTFlOGY3YmM0ZmQ1YzFkZjRi",
+  "snapshot_id": "MCwwYjhkMjIxMzlhMDg4YjUxODRhN2M0NTI5MzhlNWI3MGU5NTJlNzJh",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Reason (15th Anniversary Deluxe)",
         "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -331,38 +331,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
-        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 281160,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Bigger Than Both Of Us",
         "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
       },
@@ -411,6 +379,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
       },
@@ -427,8 +411,8 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
       "artists": [
         {
@@ -436,25 +420,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+      "duration_ms": 281160,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -523,22 +491,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 334743,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
@@ -555,6 +507,38 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 334743,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "By the Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 216933,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Aztl\u00e1n",
-        "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 291685,
       "name": "One of These Nights - 2013 Remaster",
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Aztl\u00e1n",
+        "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "A Day At The Races (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296493,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -895,38 +911,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 317626,
-      "name": "Labios Compartidos",
-      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "A Day At The Races (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296493,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Corazones",
         "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 336933,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 317626,
+      "name": "Labios Compartidos",
+      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
-        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
+        "name": "Viaje Por Lo Eterno",
+        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
         }
       ],
-      "duration_ms": 213066,
-      "name": "De M\u00fasica Ligera - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/0Ruvs5IxqkGqQVWCO2oRpw"
+      "duration_ms": 205000,
+      "name": "Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
     }
   ],
   "unique_name": "Nostalgia + Rock",

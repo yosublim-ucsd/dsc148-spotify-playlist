@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,204 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,206 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 21 | [Rise Like A Phoenix](https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Rise Like A Phoenix](https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p) | 3:01 |
 | 22 | [Lie to Me](https://open.spotify.com/track/6zBdVVksaTQeAzwfszbovz) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Lie to Me](https://open.spotify.com/album/5EeLrqlSbR0pa6J7hglLG5) | 2:51 |
 | 23 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
-| 24 | [She Got Me \- Bonus Track](https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [110 Karat](https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7) | 3:00 |
-| 25 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
+| 24 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
+| 25 | [She Got Me \- Bonus Track](https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [110 Karat](https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7) | 3:00 |
 | 26 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 |
 | 27 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
 | 28 | [Fly on the Wings of Love](https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT) | [Brødrene Olsen](https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri) | [Wings Of Love](https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5) | 3:05 |
 | 29 | [You are the only one](https://open.spotify.com/track/7ANprWfKB8UoNggroXtfUv) | [Sergey Lazarev](https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK) | [THE ONE](https://open.spotify.com/album/1gKYilxh4go3gKDikTH1ZO) | 3:06 |
-| 30 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
-| 31 | [Sound of Silence](https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Sound of Silence](https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj) | 3:15 |
+| 30 | [Sound of Silence](https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Sound of Silence](https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj) | 3:15 |
+| 31 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
 | 32 | [Golden Boy](https://open.spotify.com/track/76SQ1MeAThYnjO9U9v6zZp) | [Nadav Guedj](https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY) | [Nadav Guedj](https://open.spotify.com/album/6LKtYHQmNgH8woDwwG1dVE) | 3:00 |
 | 33 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 |
 | 34 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 48 | [Ne Ver, Ne Boisia \- Eurovision 2003 Version](https://open.spotify.com/track/4MuQWNaW51V9LRocFQUZRU) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [t.A.T.u\. \- The Best](https://open.spotify.com/album/0tzIPJxQTy6j6nQ3rbWXXy) | 3:02 |
 | 49 | [Secret Combination \- Eurovision 2008 Mix](https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Secret Combination](https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a) | 3:02 |
 | 50 | [Save Your Kisses for Me \- Alternate Take](https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Presenting Brotherhood of Man](https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7) | 2:58 |
-| 51 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
-| 52 | [Divine](https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA) | 3:08 |
+| 51 | [Divine](https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA) | 3:08 |
+| 52 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
 | 53 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [No Boundaries](https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu) | 2:46 |
 | 54 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
 | 55 | [J'ai cherché](https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [J'ai cherché](https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
 | 75 | [My Star \- Original](https://open.spotify.com/track/0O0Xpnn4O9bKIgZv9ITqk1) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [My Star](https://open.spotify.com/album/7jsIyIJQJAQNwjPS01ERcK) | 3:04 |
 
-Snapshot ID: `MCw4NjAzMDgyZDE1YTRmMjcxMzEwNmU0YzdhNGFlMDc2OTIwNDAwYjFj`
+Snapshot ID: `MCxjYmU2MWE1NDM1NGE5NjBiMWY0OTc0NDNiYmJhNDE3NTgyNzU2NzY5`

@@ -4,7 +4,7 @@
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-149 songs - 6 hr 47 min
+150 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 | 2021-09-23 |  |
 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 | 2022-01-18 | 2023-02-27 |
 | [bad idea](https://open.spotify.com/track/3X98stWKFFlxLusl21lgWy) | [B0NKY](https://open.spotify.com/artist/3ajCT7sjp3kdZKdFRcPV02) | [bad idea](https://open.spotify.com/album/3Io1pVquas1qAVSXnshJcT) | 1:10 | 2022-11-29 | 2023-04-27 |
+| [bad idea](https://open.spotify.com/track/2ihDC1WZFYIwmizyZnE5en) | [pradafaced](https://open.spotify.com/artist/70nvOEzKctDJvsLemvxA0o) | [bad idea](https://open.spotify.com/album/6JAZXubs3rnn20QgWZN1AP) | 1:10 | 2023-04-27 |  |
 | [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 | 2021-09-23 | 2022-10-25 |
 | [bad idea](https://open.spotify.com/track/6hDVQ7JPpfbtvStzs5rnhR) | [streety](https://open.spotify.com/artist/7I1VdcozXg7Tm1jN1kYHg6) | [bad idea](https://open.spotify.com/album/2uMlaWtdhhAAG8N3GG5EcB) | 1:10 | 2022-11-29 | 2023-04-06 |
 | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10) | 1:09 | 2022-10-21 | 2023-01-05 |
@@ -110,7 +111,7 @@
 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 | 2021-12-21 |  |
 | [Koi](https://open.spotify.com/track/3Lf4PS3RzFb8VpMyJtkOl4) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Riot Boi](https://open.spotify.com/album/5SofOXwfXjZD3PyQZeED8W) | 3:48 | 2021-09-23 | 2022-10-31 |
 | [Kyoto](https://open.spotify.com/track/0w5q3dNRtPitKiaLLmUxVV) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto](https://open.spotify.com/album/4SxJz95wjshU0vPZkwss4J) | 2:41 | 2021-09-23 | 2022-05-13 |
-| [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 | 2022-01-18 |  |
+| [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 | 2022-01-18 | 2023-06-27 |
 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 | 2022-05-12 |  |
 | [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 | 2022-01-18 | 2022-10-14 |
 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 | 2021-09-23 |  |

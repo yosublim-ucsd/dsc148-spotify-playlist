@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Curbside",
+        "url": "https://open.spotify.com/album/4HZvNaCq58PbPRMaHlwCPd"
+      },
+      "artists": [
+        {
+          "name": "tammie",
+          "url": "https://open.spotify.com/artist/1Gxrj4vLRdOAqw0ERUgnfb"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160353,
+      "name": "Curbside",
+      "url": "https://open.spotify.com/track/45owrs44Fa3IW2HwVqpgzV"
+    },
+    {
+      "album": {
         "name": "dance",
         "url": "https://open.spotify.com/album/4xApFzYPLxIqildPk6RtDu"
       },

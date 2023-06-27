@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTdkOGQ1NTcyMmU1NzUwZjNiYTZjMWEzZTJlMzQyZmE5NTgxYmJi",
+  "snapshot_id": "MCwyNTM2NThkZjVlZmQ3NTIzYzc5NGE4ZDg2MmIxOTg1M2YxMmUxZWY0",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Sofia the First: Once Upon a Princess",
         "url": "https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 92170,
       "name": "Brush Brush Brush",
       "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Moey's Music Party",
         "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 171800,
       "name": "Kids Just Love to Brush",
       "url": "https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -675,6 +659,22 @@
       "duration_ms": 109388,
       "name": "Cover Your Sneeze",
       "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
-        "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
+        "name": "Papa Goose",
+        "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
       },
       "artists": [
         {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+          "name": "Nat Hussey",
+          "url": "https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA"
         }
       ],
-      "duration_ms": 91874,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
+      "duration_ms": 89306,
+      "name": "Wash The Dishes",
+      "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
     },
     {
       "added_at": "2023-03-17 09:43:03",

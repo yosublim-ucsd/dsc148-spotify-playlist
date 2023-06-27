@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 32068,
+  "num_followers": 32097,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjZmZWUzMDZlMTZjYjdkMWIzN2Q4N2QxOTdkNGZkZDk3NzVkYzA4",
+  "snapshot_id": "MCxhNjRhODlhNzNjNGFkNGViM2E4Mzg0ZmUzNGYyZTQ0OTU3MzI5ZTI5",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+        }
+      ],
+      "duration_ms": 277603,
+      "name": "Amor Ajeno",
+      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Los Errantes",
         "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
-        }
-      ],
-      "duration_ms": 277603,
-      "name": "Amor Ajeno",
-      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "La princesa del Folklore",
         "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
       },
@@ -347,6 +347,22 @@
       "duration_ms": 221533,
       "name": "Terco coraz\u00f3n",
       "url": "https://open.spotify.com/track/65VRWF91A0eL7HX1VaYUwM"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Amor, amor",
+        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
+          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Otra vez me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -383,34 +399,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Amor, amor",
-        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
+        "name": "Papito por Qu\u00e9 Me Dejaste..!",
+        "url": "https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1"
       },
       "artists": [
         {
-          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
-          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
+          "name": "Wendy Sulca",
+          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
         }
       ],
-      "duration_ms": 197866,
-      "name": "Otra vez me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Tusuyninchiq",
-        "url": "https://open.spotify.com/album/6t3uN5N7F3qT1b5f6LfRlU"
-      },
-      "artists": [
-        {
-          "name": "Porfirio Ayvar",
-          "url": "https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx"
-        }
-      ],
-      "duration_ms": 259525,
-      "name": "Chapitas",
-      "url": "https://open.spotify.com/track/1KAZ9CCzFCwlfs2VoLe3p4"
+      "duration_ms": 274506,
+      "name": "Cerveza, Cerveza",
+      "url": "https://open.spotify.com/track/5wtuD6qC9x6NK3tdH7Rh2Y"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -431,18 +431,34 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Papito por Qu\u00e9 Me Dejaste..!",
-        "url": "https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1"
+        "name": "La princesa del Folklore",
+        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
       },
       "artists": [
         {
-          "name": "Wendy Sulca",
-          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
+          "name": "Alicia Delgado",
+          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
         }
       ],
-      "duration_ms": 274506,
-      "name": "Cerveza, Cerveza",
-      "url": "https://open.spotify.com/track/5wtuD6qC9x6NK3tdH7Rh2Y"
+      "duration_ms": 260213,
+      "name": "Como Me Duele Saber",
+      "url": "https://open.spotify.com/track/4m93vYRlOax2Vbbl2fXJnW"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Tusuyninchiq",
+        "url": "https://open.spotify.com/album/6t3uN5N7F3qT1b5f6LfRlU"
+      },
+      "artists": [
+        {
+          "name": "Porfirio Ayvar",
+          "url": "https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx"
+        }
+      ],
+      "duration_ms": 259525,
+      "name": "Chapitas",
+      "url": "https://open.spotify.com/track/1KAZ9CCzFCwlfs2VoLe3p4"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -459,22 +475,6 @@
       "duration_ms": 219653,
       "name": "Huaylash Macho",
       "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "La princesa del Folklore",
-        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
-      },
-      "artists": [
-        {
-          "name": "Alicia Delgado",
-          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
-        }
-      ],
-      "duration_ms": 260213,
-      "name": "Como Me Duele Saber",
-      "url": "https://open.spotify.com/track/4m93vYRlOax2Vbbl2fXJnW"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "El Jilguero de Huascar\u00e1n",
-        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Sanchez Fajardo",
-          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "Benditas las Madres",
-      "url": "https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Caminando Y Cantando",
         "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huayno, Vol. 1",
-        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
+        "name": "El Jilguero de Huascar\u00e1n",
+        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
       },
       "artists": [
         {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+          "name": "Ernesto Sanchez Fajardo",
+          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
         }
       ],
-      "duration_ms": 159520,
-      "name": "Chall Huaschallay",
-      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
+      "duration_ms": 181186,
+      "name": "Benditas las Madres",
+      "url": "https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -651,6 +635,22 @@
       "duration_ms": 219653,
       "name": "El Pio, Pio",
       "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Huayno, Vol. 1",
+        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "Chall Huaschallay",
+      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Folklore",
         "url": "https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 228800,
       "name": "Granadita",
       "url": "https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Calaveras Serranas",
+        "url": "https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2"
+      },
+      "artists": [
+        {
+          "name": "Luis Mendoza",
+          "url": "https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2"
+        }
+      ],
+      "duration_ms": 171415,
+      "name": "Dejame Asi",
+      "url": "https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z"
     },
     {
       "added_at": "2022-02-04 14:45:56",

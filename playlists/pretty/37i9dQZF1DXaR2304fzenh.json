@@ -1,12 +1,12 @@
 {
   "description": "El t\u00edtulo says it all, a whole mood! ",
-  "num_followers": 18480,
+  "num_followers": 18726,
   "original_name": "Fiesta y Desmadre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjQzNWIzMmZhNWQwODJhMWIwN2JmNTE4Mjg1MjIyNWE2MzZmMWM0",
+  "snapshot_id": "MCw1YmQ4YjljNzg2OTIwZTI1YjQyMzg2ZjY0MGU5NzI2NmIyZTU0NGYx",
   "tracks": [
     {
       "added_at": "2023-05-19 02:10:25",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 166821,
-      "name": "Igualito a Mi Ap\u00e1",
-      "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
         "name": "El Hijo Mayor",
         "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
       },
@@ -703,6 +683,46 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 166821,
+      "name": "Igualito a Mi Ap\u00e1",
+      "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -715,22 +735,6 @@
       "duration_ms": 186360,
       "name": "El Precio De La Soledad",
       "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -755,22 +759,18 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
-        "name": "Siempre Pendientes",
-        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 186828,
-      "name": "Siempre Pendientes",
-      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -803,22 +803,6 @@
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -859,6 +843,22 @@
       "duration_ms": 188416,
       "name": "La Boda Del Huitlacoche - Live",
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
-        "name": "Puro Campe\u00f3n",
-        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Puro Campe\u00f3n",
-      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
         "name": "Se\u00f1alado por Costumbre",
         "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
@@ -987,22 +967,22 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -1027,18 +1007,22 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 235328,
-      "name": "El Doctor",
-      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "El Doctor",
+      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
         "name": "Un Suspir\u00f3",
         "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
       },
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
         "name": "La Fea",
         "url": "https://open.spotify.com/album/0GqDAplr6kDDLQeqoajRNY"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 177057,
       "name": "El Buho",
       "url": "https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/2m1Z4pRYQopVrLb5jKqNBT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 128014,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/0HPVA8D3dB1VvmCKW7epcN"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/4dKY6JFNvj2yWzENIL1P6s"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/2m1Z4pRYQopVrLb5jKqNBT"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 128014,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/0HPVA8D3dB1VvmCKW7epcN"
     },
     {
       "added_at": "2023-05-19 02:10:25",

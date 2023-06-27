@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 137548,
+  "num_followers": 137575,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzg1ZjgzMTcwZWQwNjFkYzE0YTZiZWM4NzE4YmMyZjMyZjQxNTNk",
+  "snapshot_id": "MCwyYTFhOTE0ZmQ0NmI4N2VhM2I3MmVlNGQ2YWIyMGEwNTVhYWNhZWEz",
   "tracks": [
     {
       "added_at": "2023-05-15 15:50:08",
@@ -383,54 +383,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2023-05-25 23:22:02",
-      "album": {
-        "name": "Plata O Plomo (Mr. Pig - Rework)",
-        "url": "https://open.spotify.com/album/4lnOQEhXMGj2fL8hMfzUlL"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Colayuta",
-          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
-        }
-      ],
-      "duration_ms": 307066,
-      "name": "Plata O Plomo - Mr. Pig - Rework",
-      "url": "https://open.spotify.com/track/6yVCiy1XP6C0s4LrQBIByJ"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
       },
@@ -455,6 +407,54 @@
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
+    },
+    {
+      "added_at": "2023-05-25 23:22:02",
+      "album": {
+        "name": "Plata O Plomo (Mr. Pig - Rework)",
+        "url": "https://open.spotify.com/album/4lnOQEhXMGj2fL8hMfzUlL"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Colayuta",
+          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
+        }
+      ],
+      "duration_ms": 307066,
+      "name": "Plata O Plomo - Mr. Pig - Rework",
+      "url": "https://open.spotify.com/track/6yVCiy1XP6C0s4LrQBIByJ"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
+        "name": "My Pony",
+        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "My Pony",
+      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
         "name": "New Rave",
         "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 208095,
       "name": "Kill Me Slow",
       "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "My Pony",
-        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "My Pony",
-      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -983,6 +983,26 @@
       "duration_ms": 250264,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0OyM0Z2wdidouJdqQKT4e7"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1091,26 +1111,6 @@
       "duration_ms": 155864,
       "name": "Epic - Garmiani Remix",
       "url": "https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        }
-      ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        }
+      ],
+      "duration_ms": 285860,
+      "name": "IM GONE",
+      "url": "https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
         "name": "e-mail",
         "url": "https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 151587,
       "name": "e-mail",
       "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "BRAVE",
-        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
-      },
-      "artists": [
-        {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
-        }
-      ],
-      "duration_ms": 285860,
-      "name": "IM GONE",
-      "url": "https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0"
     },
     {
       "added_at": "2023-05-15 15:50:08",

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف:  <a href="https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V?si=bXmyTIiMRa63zfReyz9xCg"> احمد سعد </a>
 
-481 songs - 1 day 3 hr 37 min
+483 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Ahkelak](https://open.spotify.com/track/60gNtG4TeY7YQxbxx9mUwU) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Ahkelak](https://open.spotify.com/album/30DzaAannug4aragLVhSMA) | 3:16 | 2022-03-18 | 2022-07-15 |
 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 | 2021-12-23 | 2022-02-18 |
 | [Ahla Youm](https://open.spotify.com/track/4klTJvLlyWcr5nt91rZzSu) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ahla Youm](https://open.spotify.com/album/0enk0vJ9ab11zEJVddWyqH) | 2:01 | 2022-04-07 | 2022-08-09 |
-| [Akher Esdar](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Akher Esdar](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 | 2023-05-11 |  |
+| [Akher Esdar](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Akher Esdar](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 | 2023-05-11 | 2023-06-27 |
 | [Aktar Mn El Sekout](https://open.spotify.com/track/2hHb8MMgeDIxCiyQUTYANq) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Aktar Mn El Sekout](https://open.spotify.com/album/09xFJJod4MFAHNsk2CDBi9) | 3:56 | 2022-08-03 | 2022-10-21 |
 | [Aktar Shewaya](https://open.spotify.com/track/31jm2OsyfhnU3uklUnWWsB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Aktar Shewaya](https://open.spotify.com/album/7iTyA5W1HKLQ3Mkzogu1WT) | 2:48 | 2021-12-23 | 2022-03-10 |
 | [Alaa Bali](https://open.spotify.com/track/12lEpOzMG73XtAxeNSOZfl) | [Ahmed Elshobokshy](https://open.spotify.com/artist/5hXVuAmFV4ql8M4BmIZBmP) | [Alaa Bali](https://open.spotify.com/album/6Tqy0QLbCK6v5xwPibh8n5) | 3:00 | 2023-06-15 |  |
@@ -107,6 +107,7 @@
 | [El Dalo3a \- الدلوعه](https://open.spotify.com/track/5pOMkd7UP0qs3ESXchLhWZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [El Dalo3a \- الدلوعه](https://open.spotify.com/album/5fq7qJFXwmWfsff0z7zsNz) | 3:00 | 2022-08-25 | 2022-11-25 |
 | [El Donia Gamila](https://open.spotify.com/track/45QgBtp6A7yl2Be6KQyryd) | [Royo](https://open.spotify.com/artist/57wDmUaZi3U7qm3mmjC7em) | [El Donia Gamila](https://open.spotify.com/album/6zVAEYiG5GOo4iAYYIeRb1) | 3:45 | 2023-05-08 | 2023-06-23 |
 | [El Fatra Di](https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:49 | 2022-01-27 | 2022-05-02 |
+| [El Gaw Wallaa](https://open.spotify.com/track/7FY8MdpmT94uz7QEwGuv8W) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Gaw Wallaa](https://open.spotify.com/album/39rh7juYPoYtCjuByeiLIP) | 3:34 | 2023-06-26 |  |
 | [El Hala'](https://open.spotify.com/track/75erM0i0rM96ydo1ujzn7g) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [El Hala'](https://open.spotify.com/album/72a9NuF8ZI7ynsbjqGEj3o) | 2:52 | 2022-09-01 | 2022-11-25 |
 | [El Halawa Di](https://open.spotify.com/track/5hpzNmbYpjS4WcQW1nAt3j) | [Ahmed Basyoni](https://open.spotify.com/artist/2T6gqh96T1Cy8YfvzEPr49), [Hussein Gamal](https://open.spotify.com/artist/6qsRiXkSz88prbplwiKpmr) | [El Halawa Di](https://open.spotify.com/album/2Ea9QzlkBwrVGd7ENONLsf) | 2:57 | 2022-01-28 | 2022-05-19 |
 | [El Halazona](https://open.spotify.com/track/69yrkIjdgcPmdTQZPhLw1p) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [El Halazona](https://open.spotify.com/album/4s3leAWo7u3Ml5DhRvCmWi) | 3:48 | 2021-12-23 | 2021-12-30 |
@@ -414,6 +415,7 @@
 | [حمد الله على السلامة](https://open.spotify.com/track/2iKkj34fFU0fiQQm2HPuEx) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [حمد الله على السلامة](https://open.spotify.com/album/6otpGoLEbwlOE4Zm5UZmtv) | 2:55 | 2023-03-27 | 2023-05-12 |
 | [خليني](https://open.spotify.com/track/6fO7U0lirfa5kcgJngHqA8) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [خليني](https://open.spotify.com/album/5fE5KlF2945Q1Vm2sQXOuU) | 3:12 | 2023-03-02 | 2023-05-05 |
 | [خليني شوية معاك](https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [خليني شوية معاك](https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc) | 4:12 | 2023-02-14 | 2023-03-31 |
+| [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/track/6BlG5SOrK1H57svuWMKMba) | [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/album/5m3TBcO1hB3MjV1l9xLu0p) | 1:51 | 2023-06-26 |  |
 | [روق](https://open.spotify.com/track/60RmfptZLtkoxaCZuuTrVg) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [روق](https://open.spotify.com/album/6X1CS8FShrwAZDmUgrqTFV) | 3:01 | 2022-01-27 | 2022-04-29 |
 | [سارح فى السما \( فى ثانيه كله كان معايا \)](https://open.spotify.com/track/2iudD0MDAvJvV4Po8pQvGV) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [سارح فى السما \( فى ثانيه كله كان معايا \)](https://open.spotify.com/album/0Lgx0uYxOsVbLMDKBeI71K) | 3:20 | 2023-04-20 | 2023-05-19 |
 | [سحلاني](https://open.spotify.com/track/6OqfxVVUvkSesd88gTUCOt) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk) | [سحلاني](https://open.spotify.com/album/7yM6tuifG1Yo3Px5Gq7hfe) | 3:01 | 2023-05-04 | 2023-06-16 |
@@ -449,7 +451,7 @@
 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 | 2022-03-11 | 2022-07-08 |
 | [كل سنه](https://open.spotify.com/track/0nc1WH81RNOchRvheduzEi) | [Ammar Hosny](https://open.spotify.com/artist/2U9Wq183dC8s01VOinrjK3) | [كل سنه](https://open.spotify.com/album/62MemAmrKN7MwFZNxvFdvB) | 3:01 | 2023-06-14 |  |
 | [كلام كبار](https://open.spotify.com/track/3hOPWTX0f8Slj25cBdsZTG) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd), [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [كلام كبار](https://open.spotify.com/album/4EJnHL42dS4JXcda5oFIIn) | 4:36 | 2023-02-09 | 2023-03-28 |
-| [كلمة سلام](https://open.spotify.com/track/6Uf9GESDYUb6PaFKb0X6b7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [كلمة سلام](https://open.spotify.com/album/0i5uZH5qa0vmNWlzFymn9c) | 3:52 | 2023-05-10 |  |
+| [كلمة سلام](https://open.spotify.com/track/6Uf9GESDYUb6PaFKb0X6b7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [كلمة سلام](https://open.spotify.com/album/0i5uZH5qa0vmNWlzFymn9c) | 3:52 | 2023-05-10 | 2023-06-27 |
 | [لحظة بعادك](https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [لحظة بعادك](https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd) | 3:41 | 2023-04-26 | 2023-06-02 |
 | [لما تحس](https://open.spotify.com/track/5gTOE3Z7sTgN26AQo15cjU) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [لما تحس](https://open.spotify.com/album/0PLVHSEYE7wjxQyrenVWT1) | 4:10 | 2021-12-23 | 2022-03-10 |
 | [لو تخاصمني](https://open.spotify.com/track/2ijApNHjp90HBYZLZKVCue) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [لو تخاصمني](https://open.spotify.com/album/5S17tuujr6lGt6Cmv0L4Ie) | 3:10 | 2022-11-08 | 2023-01-21 |

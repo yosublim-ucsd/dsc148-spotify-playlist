@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: QUBIT
 
-981 songs - 2 day 14 hr 8 min
+982 songs - 2 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [crawl](https://open.spotify.com/track/6OpQNagrrEbmvJA4tjtZfU) | [enomoto ryo](https://open.spotify.com/artist/1AH0orz2dejzHUzFLbZjPc) | [crawl](https://open.spotify.com/album/6IOM4KxMYofgem7LgXjAnW) | 3:44 | 2022-05-26 | 2022-06-01 |
 | [cruising memories](https://open.spotify.com/track/3X6Kg15H1B6tiz0WYt0XmG) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [cruising memories](https://open.spotify.com/album/3Tkmbdj09MTaSBJTv2qqJA) | 4:36 | 2022-06-07 | 2022-07-19 |
 | [Crybaby](https://open.spotify.com/track/3oWGtFaGDoixE3JVmUjhMB) | [さとうもかとDENIMS](https://open.spotify.com/artist/7toM2gDRoemt5UYdZi4yEm), [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg), [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [Crybaby](https://open.spotify.com/album/2gFbOHCgQGwkx3nS4wAbmR) | 3:12 | 2022-06-02 | 2022-07-18 |
-| [Damn it!](https://open.spotify.com/track/17PParOdsrKYTIN6znBZwK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [WHOOPEE](https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK) | 3:03 | 2023-01-17 |  |
+| [Damn it!](https://open.spotify.com/track/17PParOdsrKYTIN6znBZwK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [WHOOPEE](https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK) | 3:03 | 2023-01-17 | 2023-06-27 |
 | [DANCE CULT](https://open.spotify.com/track/2Q0Dup9ESlen1jVB4Z5SQx) | [RIS\-707](https://open.spotify.com/artist/4ES1QNmEX5bYxGXxDKZmTI) | [DANCE CULT](https://open.spotify.com/album/0cfwJP0kYAaEXb7VhhQrXw) | 4:20 | 2023-06-13 | 2023-06-21 |
 | [dawn](https://open.spotify.com/track/08VicdA5GcOHHrizr77pA5) | [IN THE POOL](https://open.spotify.com/artist/10DhiyiwQ9FcZxmPO1vESW) | [S.O.O.M](https://open.spotify.com/album/7xceq6o7W4p8MN7xUgDbkY) | 5:34 | 2022-06-14 | 2022-06-22 |
 | [dawn](https://open.spotify.com/track/43w5CjBykSk8K07M1GHZyg) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [dawn](https://open.spotify.com/album/2ES2tljkU27Bg8EbNWbPxZ) | 3:54 | 2023-05-02 | 2023-06-14 |
@@ -138,6 +138,7 @@
 | [GO](https://open.spotify.com/track/0vk7STMAkAoJW9TksOrYV2) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [GO](https://open.spotify.com/album/4PrNZxvasWytfc6p1VPm8D) | 3:20 | 2022-05-31 | 2022-06-16 |
 | [Go away](https://open.spotify.com/track/74m1ANTskdub3D1QgMoMwX) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Go away](https://open.spotify.com/album/6NXDgS5x1zVQsgpdNangZk) | 2:48 | 2022-09-06 | 2022-09-15 |
 | [Go to the Future \(feat.UCARY & THE VALENTINE\)](https://open.spotify.com/track/14O1wDFY8hPdPnXVWZzzvX) | [BimBamBoom feat.UCARY & THE VALENTINE](https://open.spotify.com/artist/76HqS0SKrhxTZVHyoOTboT), [UCARY & THE VALENTINE](https://open.spotify.com/artist/70q8vmCvToQ88nMwSX0MI7) | [Go to the Future](https://open.spotify.com/album/5YgfP3oOWSmxDGF1YDTqxp) | 5:08 | 2022-06-07 | 2022-06-12 |
+| [God Willing](https://open.spotify.com/track/6aQy9KENQWKlhqcHUax5ln) | [アルバ・セラ](https://open.spotify.com/artist/1fYq3V8T7IStSwwMth3chB) | [God Willing](https://open.spotify.com/album/7gSLS0JtHCihkRxEuZ2TOf) | 2:43 | 2023-06-22 |  |
 | [GOKKO](https://open.spotify.com/track/1rhpSPzVqNW1m3FPwA1b2s) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [GOKKO](https://open.spotify.com/album/1lVJ1LWjQfnthPH3gbUZwJ) | 3:06 | 2023-04-18 | 2023-05-27 |
 | [golden drop](https://open.spotify.com/track/4skcyviAmJy1Ipf9kDcWxK) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [golden drop](https://open.spotify.com/album/6J7appOuXxe42HB9KhAl4k) | 1:24 | 2023-02-28 | 2023-03-15 |
 | [Goodbye](https://open.spotify.com/track/3ZZAlk3bOrKA1KcXPJjSWW) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Goodbye / Tumbler](https://open.spotify.com/album/4VI6wFz5KdUsuaU3f5cCZl) | 1:53 | 2023-04-18 | 2023-06-14 |

@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-274 songs - 14 hr 24 min
+275 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2023-02-24 |
 | [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 | 2023-02-16 | 2023-05-18 |
 | [God Abeg \(feat\. Kwesi Arthur, Joey B & Kay T\)](https://open.spotify.com/track/5WZXhQL346sTAQ4WKPUJpJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr) | [God Abeg \(feat\. Kwesi Arthur, Joey B & Kay T\)](https://open.spotify.com/album/30tV92VWx0ImjvBDCNiJJf) | 6:40 | 2023-04-27 | 2023-05-12 |
+| [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 | 2023-06-26 |  |
 | [Great Is He](https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf) | 3:21 | 2023-01-20 | 2023-03-06 |
 | [Gree](https://open.spotify.com/track/3YusYV6AHdfJUC2vZz7Ts0) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Okaiwav](https://open.spotify.com/artist/790WTyVQzbx74N1Iy300Aj), [Gidochi](https://open.spotify.com/artist/1PzQSg9P40FrD2Z92SQMa6) | [Gree](https://open.spotify.com/album/3lkPvFpWfzn5GskSyYUrBi) | 2:18 | 2023-05-26 | 2023-06-03 |
 | [Grinding](https://open.spotify.com/track/0sItsKRwMl82xCtz7oeemH) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Grinding](https://open.spotify.com/album/5FfzLcgWLJPIO6XlH9pLCE) | 2:26 | 2022-08-25 | 2022-10-14 |
@@ -160,7 +161,7 @@
 | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 | 2022-08-25 | 2023-02-24 |
 | [Mamgobhozi](https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mamgobhozi](https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598) | 3:56 | 2023-03-17 | 2023-05-05 |
 | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/track/0M8zgwFqNr6h2yX1405Z8S) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I) | 4:12 | 2022-11-18 | 2023-01-21 |
-| [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 | 2023-01-20 |  |
+| [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 | 2023-01-20 | 2023-06-27 |
 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-23 | 2023-01-27 |
 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 | 2022-06-09 |  |
 | [Monsta Alta](https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Monsta Alta & Chérie](https://open.spotify.com/album/5RhWRWtO6UuunZaznnyDce) | 2:50 | 2022-11-18 | 2022-12-09 |

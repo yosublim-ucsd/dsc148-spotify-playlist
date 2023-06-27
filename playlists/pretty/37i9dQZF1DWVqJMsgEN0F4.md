@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Portugal\. The Man along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,925 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,970 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 59 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
 | 60 | [Oh No Darling!](https://open.spotify.com/track/3TMp13jKf5DDxmVfs4HGbt) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:23 |
 
-Snapshot ID: `MCwzNWYzODZmNGI1NWNjN2I0OWI5ZGU4N2U3NDY3N2E1NzMwMzU4OWNh`
+Snapshot ID: `MCxlNGNmNThlZWFiNjZmZGQ4NTY5NzYxNGEzYTJjNDkzYjE2ZDdlNmVj`

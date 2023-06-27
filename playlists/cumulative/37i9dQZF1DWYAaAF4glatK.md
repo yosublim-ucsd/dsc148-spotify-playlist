@@ -4,7 +4,7 @@
 
 > La playlist de ton été 2023 ! 🌞
 
-143 songs - 7 hr 11 min
+144 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Coco](https://open.spotify.com/track/6fn1KjtK7pUVZzDnN6xWSZ) | [2Pillz](https://open.spotify.com/artist/1VdPXTk7MBqZ3sm57D1b1A), [Richard Orlinski](https://open.spotify.com/artist/70c6SFCKALLqSARCPu0Afz) | [Coco](https://open.spotify.com/album/5ULJPyv6YOfvlnEtyEwq0Q) | 3:29 | 2023-05-17 | 2023-06-01 |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-09-07 | 2023-03-07 |
 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 | 2023-03-17 |  |
-| [Cuba](https://open.spotify.com/track/4gKJ6WbRPowzSbmaCiUCz8) | [SOBAKA & KOSHKA](https://open.spotify.com/artist/4HjOpVVM8VtutAamhEyX5P) | [Cuba](https://open.spotify.com/album/5ebIeGK9e33fB5c59k2k4U) | 2:51 | 2023-06-22 |  |
+| [Cuba](https://open.spotify.com/track/4gKJ6WbRPowzSbmaCiUCz8) | [SOBAKA & KOSHKA](https://open.spotify.com/artist/4HjOpVVM8VtutAamhEyX5P) | [Cuba](https://open.spotify.com/album/5ebIeGK9e33fB5c59k2k4U) | 2:51 | 2023-06-22 | 2023-06-27 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-19 | 2023-06-01 |
 | [Dance Dance \(feat\. Alessandra\)](https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alessandra](https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c) | [Dance Dance \(feat\. Alessandra\)](https://open.spotify.com/album/0ZG7ELXwpcPfZTZlbBW5TN) | 2:31 | 2023-02-10 |  |
 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-25 |  |
@@ -99,6 +99,7 @@
 | [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 | 2022-09-07 | 2023-04-28 |
 | [Nouvelles](https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:59 | 2023-04-27 | 2023-05-11 |
 | [Outété](https://open.spotify.com/track/6hVOBUdubnXycTHmwBjkUO) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Diamant](https://open.spotify.com/album/3Bed6tESm55ctwZVLAQMNX) | 3:05 | 2022-09-07 | 2023-02-11 |
+| [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-06-26 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-05-19 |  |
 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 | 2023-04-20 | 2023-05-20 |
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2022-09-07 | 2023-04-28 |

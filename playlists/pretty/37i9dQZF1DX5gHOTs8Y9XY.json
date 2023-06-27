@@ -1,12 +1,12 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 185057,
+  "num_followers": 185262,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGU0YTVhNzVmNTk0ZDdlN2NhNGU0OTM0NzVmMjljY2JkY2U1ZGE2",
+  "snapshot_id": "MCwyZjZiNzA2ZGNlODhkMjFhYWMxOTIxYmUxMzY0MGJhY2M0MGEwOTFh",
   "tracks": [
     {
       "added_at": "2023-06-21 08:41:45",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
         "name": "Love, Ella",
         "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
       },
@@ -147,6 +131,22 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
+        "name": "Nothing But The Best (Remastered)",
+        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Theme From New York, New York - 2008 Remastered",
+      "url": "https://open.spotify.com/track/0K2WjMLZYr09LKwurGRYRE"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -163,18 +163,34 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Nothing But The Best (Remastered)",
-        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 204906,
-      "name": "Theme From New York, New York - 2008 Remastered",
-      "url": "https://open.spotify.com/track/0K2WjMLZYr09LKwurGRYRE"
+      "duration_ms": 203760,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -199,38 +215,6 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
         "name": "The Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9"
       },
@@ -243,6 +227,26 @@
       "duration_ms": 142533,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 147146,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -267,18 +271,18 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 181493,
-      "name": "A Kiss To Build A Dream On - Single Version",
-      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
+      "duration_ms": 211533,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -327,22 +331,34 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 147146,
-      "name": "Fly Me To The Moon",
-      "url": "https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa"
+      "duration_ms": 141133,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "A Kiss To Build A Dream On - Single Version",
+      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -379,22 +395,6 @@
       "duration_ms": 207826,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 141133,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "The Glenn Miller Carnegie Hall Concert (Live)",
-        "url": "https://open.spotify.com/album/5HX046215eBYM6hZ5rwDKk"
-      },
-      "artists": [
-        {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "In the Mood - Live",
-      "url": "https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
+        "name": "The Glenn Miller Carnegie Hall Concert (Live)",
+        "url": "https://open.spotify.com/album/5HX046215eBYM6hZ5rwDKk"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "In the Mood - Live",
+      "url": "https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
         "name": "Julie Is Her Name",
         "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
@@ -511,38 +511,6 @@
       "duration_ms": 178573,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -583,24 +551,8 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
-        "name": "The Complete Commodore Recordings",
-        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
       "artists": [
         {
@@ -608,25 +560,25 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 194573,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
+      "duration_ms": 181440,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
     },
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Let It All Out",
-        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Love Me Or Leave Me",
-      "url": "https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt"
+      "duration_ms": 223973,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -647,6 +599,38 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Love Me Or Leave Me",
+      "url": "https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
         "name": "The Great American Songbook",
         "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 201466,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
+        "name": "The Complete Commodore Recordings",
+        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 173533,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Don't Go To Strangers",
-        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "John Coltrane And Johnny Hartman",
-        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 320773,
-      "name": "They Say It's Wonderful",
-      "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -1067,18 +1047,22 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 369386,
-      "name": "Dig Dis - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe"
+      "duration_ms": 320773,
+      "name": "They Say It's Wonderful",
+      "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -1099,6 +1083,22 @@
       "duration_ms": 255626,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/5eJ90rBnkUv7PqxgTExfvd"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 369386,
+      "name": "Dig Dis - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 403640,
-      "name": "Blue Rondo \u00e0 la Turk",
-      "url": "https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
         "name": "Nice 'n' Easy (2020 Mix / Expanded Edition)",
         "url": "https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 266800,
       "name": "You Go To My Head - 2020 Mix",
       "url": "https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 403640,
+      "name": "Blue Rondo \u00e0 la Turk",
+      "url": "https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 346920,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/6PKCEB5JzjCizpz9hUQcpX"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-06-21 08:41:45",
       "album": {
-        "name": "Motions & Emotions",
-        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 185769,
-      "name": "Eleanor Rigby - Remastered",
-      "url": "https://open.spotify.com/track/4wZEOJRjsFktnovLtbdNQB"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
         "name": "Go! (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
@@ -1527,6 +1511,38 @@
       "duration_ms": 322000,
       "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999",
       "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
+        "name": "Volume 3",
+        "url": "https://open.spotify.com/album/63pHpN0nqkNbaeP2UEexY0"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 429040,
+      "name": "I Remember Clifford - Rudy Van Gelder Edition; 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/6KawDsALZTY6FA8CE1NLZK"
+    },
+    {
+      "added_at": "2023-06-21 08:41:45",
+      "album": {
+        "name": "Motions & Emotions",
+        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 185769,
+      "name": "Eleanor Rigby - Remastered",
+      "url": "https://open.spotify.com/track/4wZEOJRjsFktnovLtbdNQB"
     },
     {
       "added_at": "2023-06-21 08:41:45",
@@ -1547,22 +1563,6 @@
       "duration_ms": 200253,
       "name": "Out of Nowhere",
       "url": "https://open.spotify.com/track/6OZ210lsvCsoIqjBZcGYvm"
-    },
-    {
-      "added_at": "2023-06-21 08:41:45",
-      "album": {
-        "name": "Volume 3",
-        "url": "https://open.spotify.com/album/63pHpN0nqkNbaeP2UEexY0"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 429040,
-      "name": "I Remember Clifford - Rudy Van Gelder Edition; 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/6KawDsALZTY6FA8CE1NLZK"
     },
     {
       "added_at": "2023-06-21 08:41:45",

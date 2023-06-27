@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,258 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,286 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 |
 | 40 | [Kleuterklas](https://open.spotify.com/track/2kMDzyjMglV9WxUjKhMg1A) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [Kleuterklas](https://open.spotify.com/album/5ftpevvTQGLgSv871Fxptt) | 2:48 |
 
-Snapshot ID: `MCw0OTgzNTEyZTBhMmFlZjgwMDYxMTNmMDI3MWYyMTczZjY2MjJhMzMy`
+Snapshot ID: `MCw0NDIyOWVhYTM5NjhkNjRmMTJmODZmNmE3ZGZkN2ZkNTQwOWQ2ZDY5`

@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 726734,
+  "num_followers": 726874,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmRhYjEwOGFhOWI1N2JiY2U5ODIyOWQxNGI3MzY3ZjQwODQxMGRl",
+  "snapshot_id": "MCxkMjZhYjIzZDE0Nzc0MzUzOWIxOWIzODNiMTY1ZTQ0OGI5MzYxZDNi",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -107,6 +107,38 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
@@ -119,6 +151,22 @@
       "duration_ms": 180055,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -151,54 +199,6 @@
       "duration_ms": 304786,
       "name": "I Want to Know What Love Is - 1999 Remaster",
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Ronan",
-        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "3 (The Purple Album)",
         "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 205440,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "A New Flame (Expanded Version)",
         "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 204000,
       "name": "If You Don't Know Me by Now - 2008 Remaster",
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Escape (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 202173,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -967,22 +967,6 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Shawn Mendes",
-        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "Fallin' All In You",
-      "url": "https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1031,6 +1015,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "Fallin' All In You",
+      "url": "https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Every Time You Go Away - Radio Edit",
-      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Love Songs (A Compilation Old and New)",
         "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Say You Won't Let Go",
-        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
         }
       ],
-      "duration_ms": 211240,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
+      "duration_ms": 267000,
+      "name": "Every Time You Go Away - Radio Edit",
+      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 199453,
       "name": "Morning Has Broken - Remastered 2021",
       "url": "https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Say You Won't Let Go",
+        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "One More Night - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "If We Fall in Love Tonight",
         "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
       },
@@ -1223,22 +1207,6 @@
       "duration_ms": 281200,
       "name": "All for Love",
       "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1271,6 +1239,38 @@
       "duration_ms": 211933,
       "name": "Straight From The Heart",
       "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "One More Night - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 232234,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/3yb2hJ1kKDEhLo3qfw7zlr"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "David Soul",
         "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 200506,
       "name": "Truly",
       "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 232234,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/3yb2hJ1kKDEhLo3qfw7zlr"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
       },
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Never Forget: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
       },
       "artists": [
         {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
       ],
-      "duration_ms": 220813,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1791,6 +1775,22 @@
       "duration_ms": 195133,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Never Forget: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 220813,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Isaiah",
-        "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 193446,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Classics (Vol.4)",
         "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 162973,
       "name": "You Are So Beautiful",
       "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Isaiah",
+        "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Soul Provider",
-        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "How Can We Be Lovers",
-      "url": "https://open.spotify.com/track/0ZUjPkZKjzRi6bgIuJovfY"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Nothing Really Matters",
         "url": "https://open.spotify.com/album/4thfd5IORYpYB83wxnQAQ0"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 222041,
       "name": "Nothing Really Matters",
       "url": "https://open.spotify.com/track/4fGbdX3qUTOS8Kpsc8hQT6"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Soul Provider",
+        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "How Can We Be Lovers",
+      "url": "https://open.spotify.com/track/0ZUjPkZKjzRi6bgIuJovfY"
     },
     {
       "added_at": "2022-08-26 12:00:00",

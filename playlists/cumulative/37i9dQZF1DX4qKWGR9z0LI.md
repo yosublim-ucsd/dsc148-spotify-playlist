@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: MOLY
 
-233 songs - 17 hr 39 min
+234 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Creo en amor](https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j) | [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Creo En Amor](https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK) | 3:30 | 2022-09-09 | 2023-02-12 |
 | [Cuando Te Miro](https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 3:51 | 2022-01-01 | 2022-11-13 |
 | [Cuando Tus Ojos Me Miran](https://open.spotify.com/track/0wchJhFHcNw9fVGbsV20CB) | [Victor Waill](https://open.spotify.com/artist/5vOQV42eH7qqhnWOmuGLJV), [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Cuando Tus Ojos Me Miran](https://open.spotify.com/album/5zueCL1sBrlvTvRjQfwe1F) | 3:38 | 2022-01-01 | 2022-07-26 |
-| [Cuenta Conmigo](https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 5:04 | 2022-01-01 |  |
+| [Cuenta Conmigo](https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 5:04 | 2022-01-01 | 2023-06-27 |
 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 | 2023-01-06 |  |
 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 | 2022-01-01 |  |
 | [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 | 2022-04-29 | 2023-06-06 |
@@ -191,6 +191,7 @@
 | [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 | 2023-06-09 |  |
 | [Sincero \- Versión Salsa](https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG) | 3:05 | 2022-02-18 | 2023-05-11 |
 | [Soltero](https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Soltero](https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685) | 4:20 | 2022-01-01 |  |
+| [Soy](https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Soy](https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL) | 4:23 | 2023-06-23 |  |
 | [Soy de Lo Peor](https://open.spotify.com/track/74GBtgq1XjVrNdp5Lv1jbM) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cuba Linda](https://open.spotify.com/album/5XhWe2O6ZHYu33IE67buw7) | 4:20 | 2022-01-01 | 2022-03-12 |
 | [Sube Tela](https://open.spotify.com/track/2ZSO65g1JGMNiyftPfXO7w) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Sube Tela](https://open.spotify.com/album/0OW0rzFBUtjViPP6SB2IBs) | 3:07 | 2023-02-10 | 2023-04-25 |
 | [Suma y Resta](https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Suma y Resta](https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK) | 3:08 | 2022-05-20 |  |

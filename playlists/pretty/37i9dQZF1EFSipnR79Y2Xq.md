@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m03aDw5dqfBpheQEDSYGp">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473 likes - 32 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 471 likes - 32 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 12 | [Otra](https://open.spotify.com/track/50bGZzlFcee3MEmacYBw3e) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 3:12 |
 | 13 | [A Poco Sí A Poco No](https://open.spotify.com/track/6PPtVe7mYShJD9wIie5MKa) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w), [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Cuéntales](https://open.spotify.com/album/1Ktc4MmcSCn0ddnT8Uin9D) | 3:15 |
 | 14 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 |
-| 15 | [Una Cerveza Más](https://open.spotify.com/track/0l8Ai0UPJ1hYOMQcaDa9Vr) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Una Cerveza Más](https://open.spotify.com/album/7q35s381xW8eW6n6d0twtC) | 2:50 |
-| 16 | [Por Ejemplo \- Versión Banda](https://open.spotify.com/track/53PxyMdMIFOG4VhuA1N1bC) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Por Ejemplo](https://open.spotify.com/album/2hPh0n7Rf4pk5lrgsiTLCM) | 3:02 |
-| 17 | [Consejo de Compas](https://open.spotify.com/track/4xBRZ6a6zcmYcEmPepXGGT) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Consejo de Compas](https://open.spotify.com/album/5HfoLyN9S6dW3sWKI60QIB) | 3:08 |
-| 18 | [Nada De Nada](https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Nada De Nada](https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK) | 3:01 |
+| 15 | [Por Ejemplo \- Versión Banda](https://open.spotify.com/track/53PxyMdMIFOG4VhuA1N1bC) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Por Ejemplo](https://open.spotify.com/album/2hPh0n7Rf4pk5lrgsiTLCM) | 3:02 |
+| 16 | [Una Cerveza Más](https://open.spotify.com/track/0l8Ai0UPJ1hYOMQcaDa9Vr) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Una Cerveza Más](https://open.spotify.com/album/7q35s381xW8eW6n6d0twtC) | 2:50 |
+| 17 | [Nada De Nada](https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Nada De Nada](https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK) | 3:01 |
+| 18 | [Consejo de Compas](https://open.spotify.com/track/4xBRZ6a6zcmYcEmPepXGGT) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Consejo de Compas](https://open.spotify.com/album/5HfoLyN9S6dW3sWKI60QIB) | 3:08 |
 | 19 | [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 |
 | 20 | [Esto Es Así](https://open.spotify.com/track/4t9EQ2mAXzPZLpMPwDAGIM) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Esto Es Así](https://open.spotify.com/album/32ZX00cqoOq3l8c2iwZ88x) | 2:56 |
 | 21 | [Tragos En Mi Mesa](https://open.spotify.com/track/4642EXxwNH8Z3WamZeoD2X) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4YXv1lZBaFinDMRgfgktjN) | 3:17 |
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 24 | [A Ver Cómo Le Haces](https://open.spotify.com/track/3UH6ybsiI8JC9WiBpdHhoy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [A Ver Cómo Le Haces](https://open.spotify.com/album/7y6NFnVMCH2ZJXTarItco9) | 3:59 |
 | 25 | [A Darle Con Todo \- En Vivo](https://open.spotify.com/track/7kMnOMAVYzFnJXRqU6cvqD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [A Darle Con Todo \(En Vivo\)](https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H) | 2:42 |
 | 26 | [Si Tuviera Sombrero](https://open.spotify.com/track/5OKEpX0t6hePxRTdcSxiDR) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:01 |
-| 27 | [Siempre Te Voy A Extrañar](https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [Siempre Te Voy A Extrañar](https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP) | 3:16 |
-| 28 | [Peor Que Mi Ex](https://open.spotify.com/track/7vJWa0MkrA1Dbc5qCfys9B) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Échale](https://open.spotify.com/album/5NlWnz4YflzjQ84vc8x8mW) | 2:34 |
-| 29 | [Soy Sagitario](https://open.spotify.com/track/1Fegef4ZMoi0Vp8q8NiIjl) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/6mcT8OQnyLnD3dfoDO3khI) | 2:23 |
+| 27 | [Soy Sagitario](https://open.spotify.com/track/1Fegef4ZMoi0Vp8q8NiIjl) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/6mcT8OQnyLnD3dfoDO3khI) | 2:23 |
+| 28 | [Siempre Te Voy A Extrañar](https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [Siempre Te Voy A Extrañar](https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP) | 3:16 |
+| 29 | [Peor Que Mi Ex](https://open.spotify.com/track/7vJWa0MkrA1Dbc5qCfys9B) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Échale](https://open.spotify.com/album/5NlWnz4YflzjQ84vc8x8mW) | 2:34 |
 | 30 | [Corrido a Sal Sánchez](https://open.spotify.com/track/2gAFOnxgXE7KZ1L3CU3Mtr) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Corrido a Sal Sánchez](https://open.spotify.com/album/7rfsbU64lcWoAbxraGmeBW) | 2:26 |
 | 31 | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4) | 3:19 |
 | 32 | [Mi Toxica](https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ) | [René González El Camaleón](https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0) | [Mi Toxica](https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi) | 3:22 |
 
-Snapshot ID: `MjgxMjkwOTAsMDAwMDAwMDBjODgwNzIzZmEwMDZiNGE5NDcwMGNlNDQxNDM0NWJhMQ==`
+Snapshot ID: `MjgxMzA1MjAsMDAwMDAwMDBkMjkzZDJjMjcyNWRiMzA1ODU3MDNhZTczMjFhYjJhNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Old Jim, Enny\-Mae, Niklas Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,750,136 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,750,579 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 |
 | 50 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
 
-Snapshot ID: `MCxkZTRhY2I1ZDFjZjZiY2E2YWMyNDcwY2RmMWQ5YzljZTMxNTg0ODlj`
+Snapshot ID: `MCxjNzg1OTI0MjJhZTY0MjQ5MzNlODRmYzZkNmYzM2ExZDMzMmUwZTI1`

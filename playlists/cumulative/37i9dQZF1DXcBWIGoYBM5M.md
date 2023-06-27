@@ -4,7 +4,7 @@
 
 > Metro Boomin is on top of the Hottest 50!
 
-934 songs - 2 day 2 hr 2 min
+935 songs - 2 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 | 2022-12-09 | 2023-02-25 |
 | [La La Land \(feat\. YG\)](https://open.spotify.com/track/3TpBefRZ1vFcOH6z57PQRI) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [La La Land \(feat\. YG\)](https://open.spotify.com/album/0uEsmL4LP4fOPwa5ZVXICS) | 2:57 | 2019-05-31 | 2019-08-13 |
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2020-12-04 | 2021-01-23 |
+| [LADY GAGA](https://open.spotify.com/track/0WCxpmafw3tOlUmiilGbsy) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 3:32 | 2023-06-26 |  |
 | [Lalala](https://open.spotify.com/track/07rmSXN6vNoquX1AsWd9pP) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4kjRJxs1i8m3mv8bI0o8OP) | 2:40 | 2019-06-27 | 2019-10-31 |
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-09-18 | 2021-10-02 |
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-07-15 | 2022-10-15 |
@@ -626,7 +627,7 @@
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-10 | 2021-08-28 |
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2022-01-01 | 2022-02-12 |
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2021-12-31 | 2022-01-01 |
-| [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 | 2023-06-02 |  |
+| [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 | 2023-06-02 | 2023-06-27 |
 | [Physical](https://open.spotify.com/track/44fXOB2eBG8uaQJGwh26Bk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/2U2oPaAXBB5oD0SW97HBo6) | 3:13 | 2020-01-31 | 2020-05-22 |
 | [Piece Of Your Heart](https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb) | 2:32 | 2019-05-26\* | 2019-08-13 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-10-08 |

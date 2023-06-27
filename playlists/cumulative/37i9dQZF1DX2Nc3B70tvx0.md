@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023\. Cover: Youth Lagoon
 
-1,642 songs - 4 day 2 hr 39 min
+1,643 songs - 4 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 | 2019-05-26\* | 2019-11-01 |
 | [Dead](https://open.spotify.com/track/6Ww5yDLIVX3ZcUs9wSvXH8) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Dead](https://open.spotify.com/album/3QutVC0xl9EKHyHeUhUV21) | 3:39 | 2022-07-15 | 2022-07-25 |
 | [Dead Dear \(Deer\)](https://open.spotify.com/track/36tSVRFlsdxAUtWODAAIpx) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Dead Dear \(Deer\)](https://open.spotify.com/album/56QKLIjO5nur7Z4ekgQzwG) | 2:46 | 2021-09-15 | 2022-04-07 |
+| [Dear Arkansas Daughter](https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [After](https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8) | 5:52 | 2023-06-26 |  |
 | [Dear Stranger](https://open.spotify.com/track/10cPYHOPt1VpgFGy7NO2JI) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Future Past Life](https://open.spotify.com/album/72tIS6tPTKymncSkk2ezBJ) | 4:31 | 2020-04-18 | 2020-09-25 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-25 | 2022-09-17 |
 | [Deep In Love](https://open.spotify.com/track/3hmHHA69jx1hdY3TkYRKuE) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Deep In Love](https://open.spotify.com/album/27gGc7BNl7mKU3tUnjfkhH) | 5:09 | 2019-10-25 | 2020-02-14 |
@@ -586,7 +587,7 @@
 | [Hate Dancin'](https://open.spotify.com/track/6SYxCsqjVaOhEOIuKTfnJ0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Changes](https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD) | 3:16 | 2022-11-16 | 2022-12-17 |
 | [Hate Dancin'](https://open.spotify.com/track/7L92yGqlDk9fnTX46sFjb1) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Hate Dancin'](https://open.spotify.com/album/61Qbw51nRB1Rysb00dA3BP) | 3:16 | 2022-11-04 | 2022-11-12 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2021-04-22 | 2021-05-27 |
-| [Have Fun!](https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Have Fun!](https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq) | 4:30 | 2023-06-09 |  |
+| [Have Fun!](https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Have Fun!](https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq) | 4:30 | 2023-06-09 | 2023-06-27 |
 | [Having a Good Time, Sometimes](https://open.spotify.com/track/1xNQ7UujtJn6OqaXwnWkIa) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Having a Good Time, Sometimes](https://open.spotify.com/album/0sVTx58xcHrOoOmcnLlkNL) | 2:57 | 2021-01-13 | 2021-09-01 |
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2019-06-07 | 2019-09-13 |
 | [HEAD](https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [HEAD](https://open.spotify.com/album/0nUKeFKTpaTdoi6jGbGQTZ) | 1:51 | 2022-11-04 | 2022-11-12 |

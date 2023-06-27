@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: P.R.O.J.E.C.T\. 9, LilithQueenB, Micol
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,602 likes - 173 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,605 likes - 173 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 172 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 173 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCxkNmQxZTVmNTFkMDYxNmNmM2ZjZDFjNTA0NGZmYWU1NWVkNjAxY2Qx`
+Snapshot ID: `MCw4NDU0ODI4NjQzMzc4ZjA5ZjdjZTI5MzI5NzVmNzlmMTdhOTBjMzg4`

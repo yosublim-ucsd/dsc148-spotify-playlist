@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa?si=xpOBqBfdSymt8WfxdxXF_A\">Oyije</a>",
-  "num_followers": 5006,
+  "num_followers": 5032,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDU0MjllYWY4NTIyNWNlYjRjOTliMWVmNTllMzQ1NjNiMDAwMWE2",
+  "snapshot_id": "MCwwNDlmYTE0ZDY0MWJmMzFjNzM0MWE0OThlYjY1NDhlYmNmZTY2N2Qw",
   "tracks": [
     {
       "added_at": "2023-06-09 00:01:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "This God Is Too Good",
-        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Chigozie Achugo",
-          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
-        }
-      ],
-      "duration_ms": 271438,
-      "name": "You Are God (feat. Chigozie Achugo)",
-      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Shout It Loud",
         "url": "https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq"
       },
@@ -399,18 +379,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+        "name": "This God Is Too Good",
+        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
       },
       "artists": [
         {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Chigozie Achugo",
+          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
         }
       ],
-      "duration_ms": 148146,
-      "name": "My God Is Good - Double Double Remix/Live",
-      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
+      "duration_ms": 271438,
+      "name": "You Are God (feat. Chigozie Achugo)",
+      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -435,6 +419,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "My God Is Good - Double Double Remix/Live",
+      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "Put It On God",
         "url": "https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 157189,
       "name": "Put it On God",
       "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 234667,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -475,6 +491,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "The Son of God (& Imela)",
         "url": "https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn"
       },
@@ -495,34 +527,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+        "name": "Kingdom Now",
+        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 234667,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
+      "duration_ms": 696179,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Kingdom Now",
-        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 696179,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
       },
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "This God Is Too Good",
-        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Micah Stampley",
-          "url": "https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK"
-        }
-      ],
-      "duration_ms": 366497,
-      "name": "Onise Iyanu (feat. Micah Stampley)",
-      "url": "https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "You are Great",
         "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
       },
@@ -607,70 +587,6 @@
       "duration_ms": 319346,
       "name": "Imela",
       "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Everything (Amen)",
-        "url": "https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7"
-      },
-      "artists": [
-        {
-          "name": "Timi Dakolo",
-          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
-        }
-      ],
-      "duration_ms": 237725,
-      "name": "Everything (Amen)",
-      "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "No One Like You",
-        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 317675,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "HEAVEN HAS COME",
-        "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
-      },
-      "artists": [
-        {
-          "name": "Ty Bello",
-          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
-        },
-        {
-          "name": "Tomi Favored",
-          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
-        },
-        {
-          "name": "Grace Omosebi",
-          "url": "https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ"
-        },
-        {
-          "name": "121SELAH",
-          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
-        }
-      ],
-      "duration_ms": 379207,
-      "name": "He Fights For Me",
-      "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -699,6 +615,42 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "This God Is Too Good",
+        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Micah Stampley",
+          "url": "https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK"
+        }
+      ],
+      "duration_ms": 366497,
+      "name": "Onise Iyanu (feat. Micah Stampley)",
+      "url": "https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Everything (Amen)",
+        "url": "https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7"
+      },
+      "artists": [
+        {
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+        }
+      ],
+      "duration_ms": 237725,
+      "name": "Everything (Amen)",
+      "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "Daddy Wey Dey Pamper (Special Version)",
         "url": "https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2"
       },
@@ -715,6 +667,26 @@
       "duration_ms": 287739,
       "name": "Daddy Wey Dey Pamper - Special Version",
       "url": "https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "No One Like You",
+        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 317675,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -765,6 +737,34 @@
       "url": "https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk"
     },
     {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "HEAVEN HAS COME",
+        "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
+      },
+      "artists": [
+        {
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        },
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Grace Omosebi",
+          "url": "https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+        }
+      ],
+      "duration_ms": 379207,
+      "name": "He Fights For Me",
+      "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
+    },
+    {
       "added_at": "2023-04-20 23:59:00",
       "album": {
         "name": "Return Rev. 2:4",
@@ -813,6 +813,22 @@
       "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
     },
     {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+    },
+    {
       "added_at": "2023-06-02 00:01:00",
       "album": {
         "name": "Nothing",
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Yahweh",
         "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
       },
@@ -859,6 +859,26 @@
       "duration_ms": 215876,
       "name": "My Trust Is in You",
       "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
+    },
+    {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -875,26 +895,6 @@
       "duration_ms": 230505,
       "name": "Victory",
       "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "The Expression",
-        "url": "https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm"
-      },
-      "artists": [
-        {
-          "name": "Glowreeyah Braimah",
-          "url": "https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 290530,
-      "name": "Miracle Worker (feat. Nathaniel Bassey)",
-      "url": "https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT"
     }
   ],
   "unique_name": "Testify",

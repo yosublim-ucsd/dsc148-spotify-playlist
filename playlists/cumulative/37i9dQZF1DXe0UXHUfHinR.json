@@ -134,7 +134,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 547826,
       "name": "'Tis Autumn",
       "url": "https://open.spotify.com/track/4Gv9rfzkqUZp3iE3JBTcd6"
@@ -2162,6 +2162,28 @@
       "duration_ms": 354533,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
+    },
+    {
+      "album": {
+        "name": "Study In Brown",
+        "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344293,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/0BNrLm5na6f7witHj8769E"
     },
     {
       "album": {

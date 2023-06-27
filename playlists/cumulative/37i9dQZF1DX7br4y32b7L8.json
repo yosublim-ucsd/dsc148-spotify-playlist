@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+    },
+    {
+      "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
       },
@@ -454,7 +472,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
@@ -472,7 +490,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 195678,
       "name": "Chasing Highs",
       "url": "https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi"
@@ -642,7 +660,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 139714,
       "name": "MON LOVE OHO",
       "url": "https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP"
@@ -2064,6 +2082,28 @@
       "duration_ms": 232000,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
+    },
+    {
+      "album": {
+        "name": "Mulala",
+        "url": "https://open.spotify.com/album/1IvhCuXq0CkOPbgr8BOvaH"
+      },
+      "artists": [
+        {
+          "name": "Sabri",
+          "url": "https://open.spotify.com/artist/1BcQY5zmqzlHgEYIXwOopx"
+        },
+        {
+          "name": "Reboir",
+          "url": "https://open.spotify.com/artist/0l6ghsW3fNY4iMtwgFq4i1"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142975,
+      "name": "Mulala",
+      "url": "https://open.spotify.com/track/5WrVGLYy0YNDijnCStN2CH"
     },
     {
       "album": {
@@ -2768,7 +2808,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 245959,
       "name": "Rodeo (Remix)",
       "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
@@ -2808,7 +2848,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 196000,
       "name": "Rommel",
       "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
@@ -3038,6 +3078,28 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
+      "album": {
+        "name": "Space Train",
+        "url": "https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn"
+      },
+      "artists": [
+        {
+          "name": "Kevin D'Angello",
+          "url": "https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y"
+        },
+        {
+          "name": "Kevin D",
+          "url": "https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "Space Train",
+      "url": "https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB"
     },
     {
       "album": {

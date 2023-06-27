@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 260214,
+  "num_followers": 260477,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTY1MWYwYWIwZTg0ZmRlNmY2OTcxNWI4NGE0ZTQxYjkxYzhmY2E3",
+  "snapshot_id": "MCxiYjViMjM3YWViOThmNWJmYjU0ZmIxMmQ3YTg0OTE4MTkwZDQyMjhm",
   "tracks": [
     {
       "added_at": "2023-06-09 07:45:52",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H"
+      },
+      "artists": [
+        {
+          "name": "Berat Oz",
+          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
         "name": "Larg",
         "url": "https://open.spotify.com/album/5ZuAQTHJWcgnUhk4YCK6RF"
       },
@@ -183,26 +199,6 @@
       "duration_ms": 192262,
       "name": "Larg",
       "url": "https://open.spotify.com/track/66GUwtlP1t61yBOMwhBaAb"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
-        "name": "Give a Little",
-        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        },
-        {
-          "name": "Naila",
-          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
-        }
-      ],
-      "duration_ms": 234838,
-      "name": "Give a Little",
-      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -227,18 +223,22 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H"
+        "name": "Give a Little",
+        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
       },
       "artists": [
         {
-          "name": "Berat Oz",
-          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Naila",
+          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
         }
       ],
-      "duration_ms": 176400,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG"
+      "duration_ms": 234838,
+      "name": "Give a Little",
+      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Schhh",
-        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 185689,
-      "name": "Schhh",
-      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
+        "name": "Schhh",
+        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 185689,
+      "name": "Schhh",
+      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Escuro",
-        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
-      },
-      "artists": [
-        {
-          "name": "Cut Off",
-          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
-        }
-      ],
-      "duration_ms": 285913,
-      "name": "Escuro",
-      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
         "name": "Ya Ghayeb",
         "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 217211,
       "name": "Ya Ghayeb",
       "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
+        "name": "Escuro",
+        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
+      },
+      "artists": [
+        {
+          "name": "Cut Off",
+          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+        }
+      ],
+      "duration_ms": 285913,
+      "name": "Escuro",
+      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
         "name": "Lala",
         "url": "https://open.spotify.com/album/40fLzSAhU3F0x5tSaZtVt6"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 394280,
       "name": "Lala",
       "url": "https://open.spotify.com/track/5FJiSLoCEAV9fkX4oZd2ou"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
         "name": "Il Mattino",
         "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
       },
@@ -979,22 +959,22 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Love of You (The Violin Song)",
-        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG"
       },
       "artists": [
         {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
         },
         {
-          "name": "Brianna",
-          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
         }
       ],
-      "duration_ms": 160575,
-      "name": "Love of You (The Violin Song)",
-      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
+      "duration_ms": 194198,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1015,6 +995,26 @@
       "duration_ms": 193149,
       "name": "Nu Vreau",
       "url": "https://open.spotify.com/track/2R5TjEso8PJ9TcSoGjVfwH"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
+        "name": "Love of You (The Violin Song)",
+        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
+      },
+      "artists": [
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        },
+        {
+          "name": "Brianna",
+          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "Love of You (The Violin Song)",
+      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1307,46 +1307,6 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        },
-        {
-          "name": "Sonia Noor",
-          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Mra ou Mermora",
-      "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 217647,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
         "name": "Y\u00e2r",
         "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
       },
@@ -1371,6 +1331,26 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Sonia Noor",
+          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Mra ou Mermora",
+      "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 210132,
       "name": "3ala bali",
       "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "duration_ms": 217647,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1423,6 +1423,22 @@
       "duration_ms": 314336,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
+        "name": "Buddha Bar XVII",
+        "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
+      },
+      "artists": [
+        {
+          "name": "Oum",
+          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
+        }
+      ],
+      "duration_ms": 323720,
+      "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
+      "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Buddha Bar XVII",
-        "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
-      },
-      "artists": [
-        {
-          "name": "Oum",
-          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
-        }
-      ],
-      "duration_ms": 323720,
-      "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
-      "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
         "name": "Eternal Roots",
         "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
       },
@@ -1495,26 +1495,6 @@
       "duration_ms": 305005,
       "name": "Eternal Roots",
       "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
-        "name": "Angelic",
-        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "Ikonnya",
-          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
-        }
-      ],
-      "duration_ms": 269378,
-      "name": "Angelic",
-      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1535,6 +1515,26 @@
       "duration_ms": 344000,
       "name": "Yasameen",
       "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
+        "name": "Angelic",
+        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
+      },
+      "artists": [
+        {
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
+        },
+        {
+          "name": "Ikonnya",
+          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
+        }
+      ],
+      "duration_ms": 269378,
+      "name": "Angelic",
+      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
+        "name": "Watra",
+        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        }
+      ],
+      "duration_ms": 141754,
+      "name": "Watra",
+      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5NdBszLrgcaFiq5sjr3vgJ"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 178909,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/5zKRmc6gTge68PS5EqagXG"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
-        "name": "Watra",
-        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        }
-      ],
-      "duration_ms": 141754,
-      "name": "Watra",
-      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
     },
     {
       "added_at": "2023-06-09 07:45:52",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2023-06-09 07:45:52",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
-      },
-      "artists": [
-        {
-          "name": "IV-IN",
-          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 262641,
-      "name": "Vestido Preto",
-      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
-    },
-    {
-      "added_at": "2023-06-09 07:45:52",
-      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
+    },
+    {
+      "added_at": "2023-06-09 07:45:52",
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
+      },
+      "artists": [
+        {
+          "name": "IV-IN",
+          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 262641,
+      "name": "Vestido Preto",
+      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
     },
     {
       "added_at": "2023-06-09 07:45:52",

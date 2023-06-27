@@ -4,11 +4,11 @@
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 29 min
+58 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Afterparty](https://open.spotify.com/track/3sOWHDPh8O8hen6UnTJqxZ) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Afterparty](https://open.spotify.com/album/5X8GpJlGdZy5FraG3wHWgk) | 3:15 | 2023-04-10 |  |
+| [Afterparty](https://open.spotify.com/track/3sOWHDPh8O8hen6UnTJqxZ) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Afterparty](https://open.spotify.com/album/5X8GpJlGdZy5FraG3wHWgk) | 3:15 | 2023-04-10 | 2023-06-27 |
 | [Alto Calibre](https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alto Calibre](https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu) | 2:51 | 2023-03-24 |  |
 | [Alzypher Vol\. 1](https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 1](https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH) | 4:48 | 2023-03-24 |  |
 | [Alzypher Vol\. 9](https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Alzypher Vol\. 9](https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H) | 3:27 | 2023-03-24 |  |
@@ -65,5 +65,6 @@
 | [Tóxico](https://open.spotify.com/track/2waVXWweKkBdpSEMuH6HMV) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tóxico](https://open.spotify.com/album/772jAkiIpQ9XXGh54OGaHl) | 3:49 | 2023-03-24 |  |
 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 | 2023-03-24 |  |
 | [Ya No Quiero Verte](https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ya No Quiero Verte](https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8) | 3:25 | 2023-03-24 |  |
+| [Ámame](https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ámame](https://open.spotify.com/album/0U36RN0P9awTfozisaj49A) | 3:19 | 2023-06-26 |  |
 
 \*This playlist was first scraped on 2023-03-25. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-557 songs - 1 day 3 hr 36 min
+558 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-26 | 2022-11-25 |
 | [You & Me](https://open.spotify.com/track/1qXvOWQgDGwvIGIP4qVQY3) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [You & Me](https://open.spotify.com/album/1Z1JeFFAZ1mNdsMUPPFsgs) | 2:55 | 2023-05-05 | 2023-06-08 |
 | [you lost](https://open.spotify.com/track/6XzSmI6p7ZZ21rTfPkaNSI) | [Cadence Floria](https://open.spotify.com/artist/11Vu80Yb4WYdbkqROFixrS) | [& so,](https://open.spotify.com/album/4SmQFE30fSa6NTaldKFsCe) | 1:04 | 2022-12-02 | 2023-03-11 |
+| [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Make It A Double](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-06-26 |  |
 | [Zoom](https://open.spotify.com/track/1FDunczi3BhyBOicyAXGCq) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Zoom](https://open.spotify.com/album/2oAXMZTO9ClrJMESeTYQsC) | 2:00 | 2022-09-02 | 2023-03-11 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

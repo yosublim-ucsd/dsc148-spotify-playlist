@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 480580,
+  "num_followers": 480645,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmYwOGZiOTBhOTUwNTNjYzliMTM2ZDVlNzI4NmYzM2ZjNzJjMTNi",
+  "snapshot_id": "MCw2NTBmOTk3ZTk0OTIyM2NkM2EyNzI4YmY1NGU2YzdiMTg0MzkxYmY0",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -115,6 +115,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -147,18 +163,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "September (sped up + slowed)",
-        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+        "name": "Children Of The World",
+        "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 216022,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+      "duration_ms": 256493,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -195,22 +211,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Children Of The World",
-        "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "I Love To Love - The Best Of",
         "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 183693,
       "name": "I Love to Love",
       "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -287,22 +303,6 @@
       "duration_ms": 153946,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 339320,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Dream On (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx"
-      },
-      "artists": [
-        {
-          "name": "George Duke",
-          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
-        }
-      ],
-      "duration_ms": 312680,
-      "name": "Shine On",
-      "url": "https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Dream On (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx"
+      },
+      "artists": [
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+        }
+      ],
+      "duration_ms": 312680,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ"
     },
     {
       "added_at": "2020-04-14 18:41:41",

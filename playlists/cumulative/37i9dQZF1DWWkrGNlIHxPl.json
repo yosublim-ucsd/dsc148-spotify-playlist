@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 149008,
       "name": "HABIBI (MY LOVE)",
       "url": "https://open.spotify.com/track/7IZ5mUwsHLULx7vTHLzIHE"
@@ -2684,6 +2684,24 @@
       "duration_ms": 176000,
       "name": "Jabal",
       "url": "https://open.spotify.com/track/5shcRvPPK4usihJQeLZZEX"
+    },
+    {
+      "album": {
+        "name": "Jah!",
+        "url": "https://open.spotify.com/album/5yXt4Hx0Wx0sEaVZMfmJzN"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191361,
+      "name": "Jah!",
+      "url": "https://open.spotify.com/track/3i7Rhc5SfwV7KxdOCJoMD1"
     },
     {
       "album": {
@@ -4048,7 +4066,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 173942,
       "name": "RIP, Love",
       "url": "https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo"
@@ -4204,6 +4222,24 @@
       "duration_ms": 185975,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/1hzlrszIYah7vFitAl5cji"
+    },
+    {
+      "album": {
+        "name": "Seventeenth",
+        "url": "https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg"
+      },
+      "artists": [
+        {
+          "name": "fulana",
+          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231545,
+      "name": "Seventeenth",
+      "url": "https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM"
     },
     {
       "album": {

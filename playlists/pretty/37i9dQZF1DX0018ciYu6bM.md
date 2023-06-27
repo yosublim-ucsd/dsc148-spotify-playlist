@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,973 likes - 96 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,448 likes - 96 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 95 | [Shine](https://open.spotify.com/track/2LdxL30t6XcAeq7b00Je7i) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [K\-909 : Shine](https://open.spotify.com/album/5L140KNa7SqCRFQ7eJlI5E) | 2:36 |
 | 96 | [Wind And Wish](https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:41 |
 
-Snapshot ID: `MCxiNzc3ZTJmZGU1OTNlNWViNDVhM2MwOTZlODkzN2YzODQ0YTg2ZTdm`
+Snapshot ID: `MCxmYjBjMmU4MzAxMmY2NmMxYTIyOTkxNzEwOWI0ZWY4Y2E3MGZmN2Yz`

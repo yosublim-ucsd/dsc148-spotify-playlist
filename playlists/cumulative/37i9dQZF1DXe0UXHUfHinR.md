@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-613 songs - 2 day 0 hr 25 min
+614 songs - 2 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | ['Round Midnight](https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 3:13 | 2022-10-27 |  |
 | ['Round Midnight](https://open.spotify.com/track/5M3K9hIHwyHYWxR2GTpXEd) | [Wes Montgomery Trio](https://open.spotify.com/artist/6WbUlW1uuChmQumXueDmgp) | [The Wes Montgomery Trio \(Expanded Edition\)](https://open.spotify.com/album/1lzXKC7YtD8taNdv84K54L) | 4:53 | 2022-10-27 |  |
 | ['Round Midnight \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 5:55 | 2022-10-27 |  |
-| ['Tis Autumn](https://open.spotify.com/track/4Gv9rfzkqUZp3iE3JBTcd6) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 9:07 | 2022-10-27 |  |
+| ['Tis Autumn](https://open.spotify.com/track/4Gv9rfzkqUZp3iE3JBTcd6) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 9:07 | 2022-10-27 | 2023-06-27 |
 | [\(Fly Me To The Moon\) In Other Words](https://open.spotify.com/track/7uL33kRUt7MoQsB9Q3D91k) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Verve Jazz Masters 49: Anita O’Day](https://open.spotify.com/album/0itQh4WL0RBOhLd1ayfWbM) | 3:45 | 2022-10-27 |  |
 | [\(Getting Some\) Fun out of Life](https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Dreamland](https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB) | 3:12 | 2022-10-27 |  |
 | [\(It Will Have To Do\) Until The Real Thing Comes Along \- Remastered](https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:49 | 2022-10-27 | 2023-05-08 |
@@ -120,6 +120,7 @@
 | [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:41 | 2022-10-27 |  |
 | [Charlie Brown Theme](https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 4:19 | 2022-10-27 | 2023-01-29 |
 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 | 2022-10-27 |  |
+| [Cherokee](https://open.spotify.com/track/0BNrLm5na6f7witHj8769E) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:44 | 2023-06-21 |  |
 | [Chicago](https://open.spotify.com/track/5TjO0GOOon3R6YOnRFPwzk) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Best Of Benny Goodman](https://open.spotify.com/album/1I1E1ZUYFDK0Dn4DK5YmrH) | 2:59 | 2022-10-27 |  |
 | [Chicken](https://open.spotify.com/track/4IDdUssauEYJ9kTit6tOU6) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX), [Peter Lübke](https://open.spotify.com/artist/0YktrlH17JaZBzywJCcNma), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Broadway Blues](https://open.spotify.com/album/7sZtHAjAPbZmch3HLiA3g7) | 5:51 | 2022-10-27 |  |
 | [Ching Miau \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6oarR9NsZJOlYxDi17S9iS) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 3:14 | 2023-01-18 | 2023-03-12 |

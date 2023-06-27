@@ -1,12 +1,12 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 1042182,
+  "num_followers": 1042917,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDQ4ZjU4YWIxZTViYmQ0MjEzOGY1OGJiN2UwODk4YWFmMmFlODM4",
+  "snapshot_id": "MCxlYzMxNGRhYTkxOWU1NDI4NzE2MzBlNjc5ZWVmNzYwM2M4ZWM0YTAz",
   "tracks": [
     {
       "added_at": "2023-05-19 16:52:20",
@@ -111,8 +111,8 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+        "name": "hotline (edit)",
+        "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 298899,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
+      "duration_ms": 60719,
+      "name": "hotline (edit)",
+      "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "hotline (edit)",
-        "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 60719,
-      "name": "hotline (edit)",
-      "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
         "name": "Je te laisserai des mots",
         "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 160853,
       "name": "Je te laisserai des mots",
       "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 298899,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+      "duration_ms": 208853,
+      "name": "Melting",
+      "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "Por Vida",
-        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 208853,
-      "name": "Melting",
-      "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 218586,
       "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
+      "added_at": "2023-05-24 16:44:21",
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Breathe (In the Air)",
+      "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+    },
+    {
       "added_at": "2023-05-19 16:52:20",
       "album": {
         "name": "AT.LONG.LAST.A$AP",
@@ -1235,22 +1251,6 @@
       "duration_ms": 326533,
       "name": "Ex-Factor",
       "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
-    },
-    {
-      "added_at": "2023-05-24 16:44:21",
-      "album": {
-        "name": "The Dark Side of the Moon",
-        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 169534,
-      "name": "Breathe (In the Air)",
-      "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "Evangeline",
-        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177880,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 246213,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177880,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 248056,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/07mdQUH1Cy5j4mTpyG6IOe"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-05-24 16:44:21",
@@ -1669,24 +1669,20 @@
       "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
     },
     {
-      "added_at": "2023-05-19 16:52:20",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
         }
       ],
-      "duration_ms": 150699,
-      "name": "Worth the Wait (feat. Omar Apollo)",
-      "url": "https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3"
+      "duration_ms": 77374,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC"
     }
   ],
   "unique_name": "Levitate",

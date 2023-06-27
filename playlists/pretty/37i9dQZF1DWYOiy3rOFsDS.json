@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Daniel, Me Est\u00e1s Matando en portada.",
-  "num_followers": 526024,
+  "num_followers": 526111,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2E3YWZlMGFhY2NiYzk2ZjBhOWM5NGE0YTI0ZDVhNmJlMTRhNTkz",
+  "snapshot_id": "MCwwNWQzNDVjNDM0YjY0NmE0M2EwNGY2Yjk3YzY4YjY1Mzg4MzczZjA3",
   "tracks": [
     {
       "added_at": "2023-06-09 16:27:37",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "No Me Platiques M\u00e1s",
-      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Deje de Amar",
         "url": "https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou"
       },
@@ -359,22 +343,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Recu\u00e9state a Mi Lado",
-        "url": "https://open.spotify.com/album/6suc6iRXTXsTNQI0jf0IXy"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        }
-      ],
-      "duration_ms": 238254,
-      "name": "Recu\u00e9state a Mi Lado",
-      "url": "https://open.spotify.com/track/7rNguSZGjxKIUumzoK2wVr"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Contigo En La Distancia",
         "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
@@ -391,6 +359,38 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
+        "name": "Recu\u00e9state a Mi Lado",
+        "url": "https://open.spotify.com/album/6suc6iRXTXsTNQI0jf0IXy"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "duration_ms": 238254,
+      "name": "Recu\u00e9state a Mi Lado",
+      "url": "https://open.spotify.com/track/7rNguSZGjxKIUumzoK2wVr"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "No Me Platiques M\u00e1s",
+      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
         "name": "S\u00f3lo T\u00fa",
         "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
       },
@@ -403,22 +403,6 @@
       "duration_ms": 187754,
       "name": "S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -495,6 +479,22 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -511,6 +511,26 @@
       "duration_ms": 182200,
       "name": "Fruto Robado (with Cristian Castro)",
       "url": "https://open.spotify.com/track/3UtyEX1laEeTjcq6m6H0zd"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -543,42 +563,6 @@
       "duration_ms": 195748,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/4QPjGYaXenaoyE6cfHyWLh"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "Y - En vivo",
-      "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -643,6 +627,38 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "Y - En vivo",
+      "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Es Verdad",
+        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Es Verdad",
+      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 179071,
       "name": "Amar",
       "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
-        "name": "Es Verdad",
-        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Es Verdad",
-      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        }
+      ],
+      "duration_ms": 261815,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -823,6 +843,22 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
+        "name": "Latin & Love Studies",
+        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        }
+      ],
+      "duration_ms": 212949,
+      "name": "Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
         "name": "Te Tocaba A Ti Llorar",
         "url": "https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al"
       },
@@ -843,26 +879,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        }
-      ],
-      "duration_ms": 261815,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Mun Compilado (Vol. 2)",
         "url": "https://open.spotify.com/album/3kbsMZpw5hkNpcZNNXwlsA"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 237173,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/7CaUGvVqPENV2Lgp7ym86D"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
-        "name": "Latin & Love Studies",
-        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        }
-      ],
-      "duration_ms": 212949,
-      "name": "Veinte A\u00f1os",
-      "url": "https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Aventurera (with Alex Ferreira)",
-      "url": "https://open.spotify.com/track/27NkLYbfxCu528Ux7C97Gr"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 268146,
       "name": "Me Vuelves Loca",
       "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Aventurera (with Alex Ferreira)",
+      "url": "https://open.spotify.com/track/27NkLYbfxCu528Ux7C97Gr"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1311,26 +1311,6 @@
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon (Bonus Track)",
       "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Farolito (with Gilberto Gil)",
-      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1411,6 +1391,26 @@
       "duration_ms": 257173,
       "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Farolito (with Gilberto Gil)",
+      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
+        "name": "Trebol (II)",
+        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
       },
       "artists": [
         {
-          "name": "Najwa",
-          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
         }
       ],
-      "duration_ms": 181090,
-      "name": "Mu\u00f1equita Linda",
-      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
+      "duration_ms": 189900,
+      "name": "Lo Mismo Que Usted",
+      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Trebol (II)",
-        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
       },
       "artists": [
         {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+          "name": "Najwa",
+          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
         }
       ],
-      "duration_ms": 189900,
-      "name": "Lo Mismo Que Usted",
-      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
+      "duration_ms": 181090,
+      "name": "Mu\u00f1equita Linda",
+      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
     },
     {
       "added_at": "2023-06-09 16:27:37",

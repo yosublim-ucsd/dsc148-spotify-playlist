@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 141406,
+  "num_followers": 141511,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjZjZjFiNmIxNjFjODczMjA4YWM3YTQ5ODY0NTMyYmY2ODI0NmQ4",
+  "snapshot_id": "MCxkMzAwZDZiYzY2MTUzMzIyMmNkMjBjNDI1ZmYyNDcwZDRkZDA5ZjQ0",
   "tracks": [
     {
       "added_at": "2023-06-02 06:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "Una rola para los minusv\u00e1lidos",
+        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Las piedras rodantes",
+      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 282120,
       "name": "Pobre de Ti",
       "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Una rola para los minusv\u00e1lidos",
-        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Las piedras rodantes",
-      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Pobre so\u00f1ador",
+      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "15 Rolitas de Amor, Vol. 7",
         "url": "https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 285080,
       "name": "Yo Quiero Ser",
       "url": "https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Mar\u00eda (Remastered)",
-        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -251,6 +251,22 @@
       "duration_ms": 253653,
       "name": "El No Lo Mato",
       "url": "https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -303,8 +319,8 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+        "name": "Cuando t\u00fa no est\u00e1s",
+        "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
       },
       "artists": [
         {
@@ -312,41 +328,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 230693,
-      "name": "Pobre so\u00f1ador",
-      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Quiero Cambiar (Remastered)",
-        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 418795,
-      "name": "Barco Azul - Remastered",
-      "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Llorando a Solas",
-        "url": "https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x"
-      },
-      "artists": [
-        {
-          "name": "Tres Vallejo",
-          "url": "https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "No Me Arrepiento",
-      "url": "https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL"
+      "duration_ms": 266160,
+      "name": "Cuando t\u00fa no est\u00e1s",
+      "url": "https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -367,22 +351,6 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO"
-      },
-      "artists": [
-        {
-          "name": "Sur 16",
-          "url": "https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "En Dos",
-      "url": "https://open.spotify.com/track/4ZhN7nhbg91qqqfljUBTYf"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -395,6 +363,54 @@
       "duration_ms": 181394,
       "name": "No Estoy Muerto",
       "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Llorando a Solas",
+        "url": "https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x"
+      },
+      "artists": [
+        {
+          "name": "Tres Vallejo",
+          "url": "https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "No Me Arrepiento",
+      "url": "https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Quiero Cambiar (Remastered)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 418795,
+      "name": "Barco Azul - Remastered",
+      "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "A.D.O.",
+      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -431,34 +447,18 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Cuando t\u00fa no est\u00e1s",
-        "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO"
       },
       "artists": [
         {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+          "name": "Sur 16",
+          "url": "https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq"
         }
       ],
-      "duration_ms": 266160,
-      "name": "Cuando t\u00fa no est\u00e1s",
-      "url": "https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 319613,
-      "name": "El Pianista",
-      "url": "https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX"
+      "duration_ms": 212520,
+      "name": "En Dos",
+      "url": "https://open.spotify.com/track/4ZhN7nhbg91qqqfljUBTYf"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -495,6 +495,58 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 319613,
+      "name": "El Pianista",
+      "url": "https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "En Guerra de Amor",
+        "url": "https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 224351,
+      "name": "Una Rola de Amor",
+      "url": "https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "\u00c9l No Lo Mat\u00f3",
+        "url": "https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "duration_ms": 278934,
+      "name": "\u00c9l No Lo Mat\u00f3",
+      "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Los Nopales Tienen la Fuerza",
         "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
       },
@@ -527,42 +579,6 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "\u00c9l No Lo Mat\u00f3",
-        "url": "https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        }
-      ],
-      "duration_ms": 278934,
-      "name": "\u00c9l No Lo Mat\u00f3",
-      "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "En Guerra de Amor",
-        "url": "https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 224351,
-      "name": "Una Rola de Amor",
-      "url": "https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
         "name": "Cristo Viejo",
         "url": "https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 323626,
       "name": "Cristo Viejo",
       "url": "https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "40 A\u00f1os Vol. 1",
-        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "A.D.O.",
-      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "Mun\u0303equita Sinte\u0301tica",
+        "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "duration_ms": 283488,
+      "name": "Mun\u0303equita Sinte\u0301tica",
+      "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "La Nueva Sangre del Rock, Vol. 2",
         "url": "https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 200053,
       "name": "Quien Te Cantara",
       "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Mun\u0303equita Sinte\u0301tica",
-        "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
-        }
-      ],
-      "duration_ms": 283488,
-      "name": "Mun\u0303equita Sinte\u0301tica",
-      "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
-        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
         "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
         "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
+        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Lucha Rock",
         "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 223013,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "Los Nopales Tienen la Fuerza",
+        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
+      },
+      "artists": [
+        {
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+        }
+      ],
+      "duration_ms": 389863,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
-        "name": "Los Nopales Tienen la Fuerza",
-        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
-      },
-      "artists": [
-        {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
-        }
-      ],
-      "duration_ms": 389863,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
         "name": "Inhalando Amor",
         "url": "https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG"
       },
@@ -947,54 +947,6 @@
       "duration_ms": 291426,
       "name": "Que Ser\u00e1 de M\u00ed",
       "url": "https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 221320,
-      "name": "Esta Vez",
-      "url": "https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "Chavo de onda",
-      "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Unidos Por El Rock, Vol. 1",
-        "url": "https://open.spotify.com/album/6vFlCKMqRMIMmCSlTbz23e"
-      },
-      "artists": [
-        {
-          "name": "Isis",
-          "url": "https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC"
-        }
-      ],
-      "duration_ms": 310706,
-      "name": "Peque\u00f1a y Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/5G0ZQTIQ0LEANKZQ5YUjCe"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1015,6 +967,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 221320,
+      "name": "Esta Vez",
+      "url": "https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Ella Ya Muri\u00f3",
         "url": "https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV"
       },
@@ -1031,6 +999,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "Unidos Por El Rock, Vol. 1",
+        "url": "https://open.spotify.com/album/6vFlCKMqRMIMmCSlTbz23e"
+      },
+      "artists": [
+        {
+          "name": "Isis",
+          "url": "https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC"
+        }
+      ],
+      "duration_ms": 310706,
+      "name": "Peque\u00f1a y Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/5G0ZQTIQ0LEANKZQ5YUjCe"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Un Panteon Muy Vivo",
         "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
       },
@@ -1043,22 +1027,6 @@
       "duration_ms": 389733,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 255053,
-      "name": "Dolor de Madre",
-      "url": "https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1095,6 +1063,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "Chavo de onda",
+      "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 255053,
+      "name": "Dolor de Madre",
+      "url": "https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "Hurbanistorias",
         "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 288360,
       "name": "Estacion Del Metro Balderas",
       "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Abuso de autoridad",
-      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
     },
     {
       "added_at": "2023-06-02 06:00:00",
@@ -1191,6 +1175,38 @@
     {
       "added_at": "2023-06-02 06:00:00",
       "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Abuso de autoridad",
+      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 183613,
+      "name": "Mi Terrible Soledad",
+      "url": "https://open.spotify.com/track/2CBofenBewzkNUKyxDZOnO"
+    },
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
         "name": "#Nopinchesmames",
         "url": "https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 199093,
       "name": "No Pinches Mames",
       "url": "https://open.spotify.com/track/6uKMEHRAyURvyleRykDMPg"
-    },
-    {
-      "added_at": "2023-06-02 06:00:00",
-      "album": {
-        "name": "Aventuras En El Defe",
-        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "duration_ms": 282773,
-      "name": "La Maquina Del Tiempo",
-      "url": "https://open.spotify.com/track/5kS9UDQMhmoDXLdm2zFYQb"
     }
   ],
   "unique_name": "Rock Urbano",

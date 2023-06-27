@@ -1,12 +1,12 @@
 {
   "description": "The future of African Indie and Alternative",
-  "num_followers": 5305,
+  "num_followers": 5308,
   "original_name": "ALTER-native",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmQxNDBjMGZiMjkzYWI3NDBkZDQ1OGQ5YzkwNjg0Y2JjMTI0YTM5",
+  "snapshot_id": "MCw4OGM0MDgzYmI4MjQ0OTVlNjBmNmJkNjliNzU3OTdlMTBiZjg2ZmM3",
   "tracks": [
     {
       "added_at": "2023-06-22 14:08:08",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/164ACyhEkCE1qmiTSG6sZf"
     },
     {
+      "added_at": "2023-06-26 17:44:29",
+      "album": {
+        "name": "THE MORNING AFTER",
+        "url": "https://open.spotify.com/album/0s4AN3UDeP6wTPceysr0Jj"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "duration_ms": 142159,
+      "name": "THE MORNING AFTER",
+      "url": "https://open.spotify.com/track/1ewqOSdMAgdjFCksr1tRts"
+    },
+    {
       "added_at": "2023-06-22 14:08:08",
       "album": {
         "name": "Mental",
@@ -133,6 +149,22 @@
       "url": "https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz"
     },
     {
+      "added_at": "2023-06-26 17:44:29",
+      "album": {
+        "name": "Find You There",
+        "url": "https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3"
+      },
+      "artists": [
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Find You There",
+      "url": "https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi"
+    },
+    {
       "added_at": "2023-06-22 14:08:08",
       "album": {
         "name": "Orca",
@@ -147,6 +179,22 @@
       "duration_ms": 164000,
       "name": "Ondine's Curse",
       "url": "https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw"
+    },
+    {
+      "added_at": "2023-06-26 17:44:29",
+      "album": {
+        "name": "Self Conflicted.",
+        "url": "https://open.spotify.com/album/3eqQOOzbHhwmaRXmoBoW9v"
+      },
+      "artists": [
+        {
+          "name": "CallmeTino",
+          "url": "https://open.spotify.com/artist/5xhs67TdK4JBvwUyQnMdsk"
+        }
+      ],
+      "duration_ms": 172691,
+      "name": "One Sided",
+      "url": "https://open.spotify.com/track/0W0s4QcraRtXxzkX92r5Zr"
     },
     {
       "added_at": "2023-06-22 14:08:08",
@@ -303,6 +351,26 @@
       "duration_ms": 136432,
       "name": "Not My Own",
       "url": "https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ"
+    },
+    {
+      "added_at": "2023-06-26 17:44:29",
+      "album": {
+        "name": "MOVE ALONG",
+        "url": "https://open.spotify.com/album/4ylBPHCeJ9aOCqe0cc2tqx"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "SKTLLZ",
+          "url": "https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5"
+        }
+      ],
+      "duration_ms": 179053,
+      "name": "MOVE ALONG",
+      "url": "https://open.spotify.com/track/61VXr1QvI8NeETilAJst3O"
     },
     {
       "added_at": "2023-06-22 14:08:08",
@@ -767,22 +835,6 @@
     {
       "added_at": "2023-06-22 14:08:08",
       "album": {
-        "name": "I Don't Usually Fall, But When I Do...",
-        "url": "https://open.spotify.com/album/3QOb81DKEDB0HFPQR8tkwE"
-      },
-      "artists": [
-        {
-          "name": "Aidan Fraser",
-          "url": "https://open.spotify.com/artist/2SNp368DTWkgfo7sM1RqMx"
-        }
-      ],
-      "duration_ms": 171083,
-      "name": "I Don't Usually Fall, But When I Do...",
-      "url": "https://open.spotify.com/track/3E0smb4bG5SKBiePR5tbQc"
-    },
-    {
-      "added_at": "2023-06-22 14:08:08",
-      "album": {
         "name": "XXXPRESSIONS",
         "url": "https://open.spotify.com/album/2C2bgq7t8LGIBvodQxRGC0"
       },
@@ -795,26 +847,6 @@
       "duration_ms": 97500,
       "name": "Long Live Anna",
       "url": "https://open.spotify.com/track/18Dtevm8jUe1VWfT5FmmJa"
-    },
-    {
-      "added_at": "2023-06-22 14:08:08",
-      "album": {
-        "name": "Mango Juice & Bad Decisions",
-        "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
-      },
-      "artists": [
-        {
-          "name": "Ay\u00fc\u00fc",
-          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
-        },
-        {
-          "name": "Andr\u0119 Wolff",
-          "url": "https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "'00 Nostalgia",
-      "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
     },
     {
       "added_at": "2023-06-22 14:08:08",
@@ -835,22 +867,6 @@
       "duration_ms": 190000,
       "name": "Canadian Tuxedo",
       "url": "https://open.spotify.com/track/0jWOcfI6BIjeJswYXKXVhv"
-    },
-    {
-      "added_at": "2023-06-22 14:08:08",
-      "album": {
-        "name": "vibe again",
-        "url": "https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x"
-      },
-      "artists": [
-        {
-          "name": "Ashwin Smith",
-          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
-        }
-      ],
-      "duration_ms": 204922,
-      "name": "vibe again",
-      "url": "https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv"
     },
     {
       "added_at": "2023-06-22 14:08:08",
@@ -879,22 +895,6 @@
       "duration_ms": 221814,
       "name": "Sauti Ya Mama",
       "url": "https://open.spotify.com/track/5KNyOkHMhD5ggdC9EYog3M"
-    },
-    {
-      "added_at": "2023-06-22 14:08:08",
-      "album": {
-        "name": "ECOSYSTEM_01",
-        "url": "https://open.spotify.com/album/11vteDfC4Jsj89ZrAuWjgs"
-      },
-      "artists": [
-        {
-          "name": "Shoka Sunflower",
-          "url": "https://open.spotify.com/artist/0DcH0gejGYEsy8bcxdlWii"
-        }
-      ],
-      "duration_ms": 91558,
-      "name": "FINSTA",
-      "url": "https://open.spotify.com/track/7v4mEXJ0C2LHI1W9abbzfx"
     }
   ],
   "unique_name": "ALTER-native",

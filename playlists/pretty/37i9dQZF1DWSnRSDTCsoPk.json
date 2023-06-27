@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 565258,
+  "num_followers": 565702,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDIxNzc0NmQyMzdjYjU3ZjkxZTdiOGQ1M2JhZjE0YjAyNjAxNTU5",
+  "snapshot_id": "MCxjZmM2NzUzMmUxYjI1NjBjMzUxNDQwNzNjN2M5YzBjNzZhOWVmZGM5",
   "tracks": [
     {
       "added_at": "2023-05-19 04:54:36",
@@ -207,38 +207,6 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "Lowlife Princess: Noir",
-        "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 165135,
-      "name": "BIBI Vengeance",
-      "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
-        "name": "I NEVER DIE",
-        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 174386,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
       },
@@ -271,18 +239,18 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 149718,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
+      "duration_ms": 174386,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -299,6 +267,38 @@
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 149718,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "Lowlife Princess: Noir",
+        "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 165135,
+      "name": "BIBI Vengeance",
+      "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -399,22 +383,6 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "MAXIDENT",
-        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 191964,
-      "name": "CASE 143",
-      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
       },
@@ -427,6 +395,22 @@
       "duration_ms": 200306,
       "name": "Love Shot",
       "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -463,6 +447,22 @@
       "duration_ms": 204466,
       "name": "Fighting (Feat. Lee Young Ji)",
       "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 191964,
+      "name": "CASE 143",
+      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -567,38 +567,6 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "FEARLESS",
-        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 196540,
-      "name": "Sour Grapes",
-      "url": "https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
-        "name": "MOONLIGHT SUNRISE",
-        "url": "https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -611,6 +579,22 @@
       "duration_ms": 201122,
       "name": "Pretty Savage",
       "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 196540,
+      "name": "Sour Grapes",
+      "url": "https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -663,6 +647,38 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
+        "name": "MOONLIGHT SUNRISE",
+        "url": "https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Thunderous",
+      "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
         "name": "PANDORA'S BOX",
         "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
       },
@@ -695,38 +711,6 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Thunderous",
-      "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
         "name": "Sour & Sweet",
         "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 147680,
       "name": "Sour & Sweet",
       "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 186471,
+      "name": "Devil by the Window",
+      "url": "https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 221573,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
-        "name": "The Name Chapter: TEMPTATION",
-        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 186471,
-      "name": "Devil by the Window",
-      "url": "https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "ENTWURF",
-        "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "DICE",
-      "url": "https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
         "name": "Beatbox - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "Girls - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 240440,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+      "duration_ms": 165746,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -935,22 +919,6 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "Hello Future - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Hello Future",
-      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
         "name": "BTBT",
         "url": "https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH"
       },
@@ -975,6 +943,38 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Hello Future",
+      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
         "name": "THE SECOND STEP : CHAPTER ONE",
         "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 184117,
       "name": "JIKJIN",
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "RUN2U",
+      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "YOUNG-LUV.COM",
-        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "RUN2U",
-      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
         "name": "THE WORLD EP.1 : MOVEMENT",
         "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 181432,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -1123,38 +1139,6 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 220177,
-      "name": "BANG BANG BANG",
-      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER TWO",
-        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 181432,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
         "name": "CHECKMATE",
         "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
       },
@@ -1167,22 +1151,6 @@
       "duration_ms": 179453,
       "name": "SNEAKERS",
       "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
-        "name": "DIMENSION : DILEMMA",
-        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 196170,
-      "name": "Tamed-Dashed",
-      "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -1231,6 +1199,38 @@
       "duration_ms": 194080,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 220177,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "DIMENSION : DILEMMA",
+        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 196170,
+      "name": "Tamed-Dashed",
+      "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "Golden Hour - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
-      },
-      "artists": [
-        {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 199621,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
         "name": "STEREOTYPE",
         "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 191695,
       "name": "STEREOTYPE",
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "Golden Hour - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "duration_ms": 199621,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
-        "name": "Acid Angel from Asia <ACCESS>",
-        "url": "https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Generation",
-      "url": "https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
+        "name": "Acid Angel from Asia <ACCESS>",
+        "url": "https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Generation",
+      "url": "https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN"
     },
     {
       "added_at": "2023-05-19 04:54:36",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-05-19 04:54:36",
       "album": {
+        "name": "Young, Dumb, Stupid",
+        "url": "https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Young, Dumb, Stupid",
+      "url": "https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973"
+    },
+    {
+      "added_at": "2023-05-19 04:54:36",
+      "album": {
         "name": "Delight - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 209574,
       "name": "Fireworks (I'm The One)",
       "url": "https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v"
-    },
-    {
-      "added_at": "2023-05-19 04:54:36",
-      "album": {
-        "name": "Young, Dumb, Stupid",
-        "url": "https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "Young, Dumb, Stupid",
-      "url": "https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973"
     },
     {
       "added_at": "2023-05-19 04:54:36",

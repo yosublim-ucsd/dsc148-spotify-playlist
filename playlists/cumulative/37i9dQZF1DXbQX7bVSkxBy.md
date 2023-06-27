@@ -4,7 +4,7 @@
 
 > Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa?si=xpOBqBfdSymt8WfxdxXF\_A">Oyije</a>
 
-76 songs - 6 hr 52 min
+77 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,10 +40,11 @@
 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 | 2023-04-07 | 2023-04-10 |
 | [Jesus \(I'm Yours\)](https://open.spotify.com/track/5IpM5VBsjHyHaaGN4vxsqQ) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Jesus \(I'm Yours\)](https://open.spotify.com/album/1MkXYkXFkGcOsGMZtyDSiY) | 2:15 | 2023-04-20 | 2023-06-23 |
 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 | 2023-04-07 |  |
+| [Jesus Oh](https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY) | 4:15 | 2023-06-16 |  |
 | [Kadosh](https://open.spotify.com/track/4svtx39i5LU3p9qss5cWLU) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Worship Rise](https://open.spotify.com/album/0uwPudlOXDSGJdi2QTe5Dp) | 3:58 | 2023-05-26 |  |
 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 | 2023-04-07 |  |
 | [Mighty God \- Remix](https://open.spotify.com/track/3wJ7y9A3d6Nx8dgzWYvwMR) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God \(Remix\)](https://open.spotify.com/album/0FEwRFVRGygc77wGe6gUOX) | 5:23 | 2023-04-07 | 2023-05-09 |
-| [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 | 2023-04-07 |  |
+| [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 | 2023-04-07 | 2023-06-27 |
 | [More Than Gold](https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:55 | 2023-04-07 |  |
 | [Most High \- African Worship Medley/Live](https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 4:58 | 2023-04-07 |  |
 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 | 2023-04-07 |  |

@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=4h9axPT0SQSrdxb5feKJYw">Inkabi Sizwe</a>.
+> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=4h9axPT0SQSrdxb5feKJYw">Inkabi Zezwe</a>.
 
 155 songs - 12 hr 23 min
 

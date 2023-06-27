@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-635 songs - 1 day 2 hr 49 min
+636 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,7 @@
 | [Respire](https://open.spotify.com/track/0KBgZ0jaeEbRrpFIRLFg9D) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Respire](https://open.spotify.com/album/3u5HXH5FPELSLS7IQj6alu) | 2:09 | 2022-05-27 | 2022-09-24 |
 | [Retrouvailles](https://open.spotify.com/track/11JN2F71WjDG5uZZ0i1vMd) | [Gabriel Auer](https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM) | [Retrouvailles](https://open.spotify.com/album/4lDonUI9z7jnJosqAoH1S7) | 2:52 | 2022-05-27 | 2022-07-21 |
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-05-27 | 2023-05-04 |
-| [Revolve](https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Revolve](https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR) | 2:30 | 2022-05-27 |  |
+| [Revolve](https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Revolve](https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR) | 2:30 | 2022-05-27 | 2023-06-27 |
 | [Ricordarsi](https://open.spotify.com/track/3RuTCzfsjBoat5ZliUAC4a) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ricordarsi](https://open.spotify.com/album/63LrcK9pRwS6QE63iCVurd) | 2:30 | 2022-05-27 | 2022-10-14 |
 | [Rise](https://open.spotify.com/track/2OQ6G0qZfRq0bCCRI6R0yi) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Rise](https://open.spotify.com/album/2Z7WHClmvuYM9HantsINBM) | 1:22 | 2023-04-18 |  |
 | [Route To Rio De Janeiro](https://open.spotify.com/track/6S7KWlTlZzKM1QraYjEOvV) | [Enrico Giaretta](https://open.spotify.com/artist/4sUR1rcNQemMzHyAtW1lyS) | [Airways To Brazil](https://open.spotify.com/album/0A9uf2RSSsd5D3c7azMOCq) | 3:29 | 2022-05-27 | 2022-09-24 |
@@ -524,6 +524,7 @@
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2022-05-27 | 2022-09-24 |
 | [Sunday Morning](https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Sunday Morning](https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO) | 2:14 | 2022-08-09 |  |
 | [Sunday Morning](https://open.spotify.com/track/7BqiHhhOLJ0GBW29DXfwn7) | [Hope Denison](https://open.spotify.com/artist/5zKGolNyglAbVQUghoIdkZ), [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Sunday Morning](https://open.spotify.com/album/4RvQYoROBAm4R44nWQFVf3) | 2:37 | 2023-05-09 | 2023-06-20 |
+| [Sunlight](https://open.spotify.com/track/4Y9BAS2woDgzWqD6bLswDI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Sunlight](https://open.spotify.com/album/1pnv7v92HbxEPV2UPpC5kh) | 2:04 | 2023-06-26 |  |
 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 | 2022-05-27 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2022-05-27 |  |
 | [Sværmer](https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Sværmer](https://open.spotify.com/album/5VRsA8TwmgXTgTgDBuHnP6) | 2:18 | 2022-05-27 | 2023-06-22 |

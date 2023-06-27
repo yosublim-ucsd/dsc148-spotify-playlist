@@ -1171,6 +1171,28 @@
     },
     {
       "album": {
+        "name": "Jannat 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6CtqkIRtoYPHgFc1ft1DPi"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228093,
+      "name": "Jannatein Kahan",
+      "url": "https://open.spotify.com/track/62wnQra2VgCUyHO3BUIAcr"
+    },
+    {
+      "album": {
         "name": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW"
       },

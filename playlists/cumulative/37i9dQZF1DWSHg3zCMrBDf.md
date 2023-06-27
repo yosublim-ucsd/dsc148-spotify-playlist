@@ -4,7 +4,7 @@
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi?si=qFQgYQE0R0WNf\_xAu\-fXug">Camidoh</a>
 
-173 songs - 8 hr 49 min
+174 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 | 2021-06-10 | 2023-05-27 |
 | [Cold & Trophies \(feat\. Sister Deborah\)](https://open.spotify.com/track/4Nri0xCjwoC1CJUpFSnbaK) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7) | [Cold & Trophies \(feat\. Sister Deborah\)](https://open.spotify.com/album/37EViFim4IoCs9l1rUsTaj) | 5:08 | 2023-03-10 | 2023-03-25 |
 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 | 2021-02-22 | 2023-05-27 |
-| [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2023-05-26 |  |
+| [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2023-05-26 | 2023-06-27 |
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2022-11-28 |  |
 | [Dayana](https://open.spotify.com/track/09oOecLLvJYFAbKfBolAPs) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Dayana](https://open.spotify.com/album/6VQpvhwxJVW3KYHiDotKRE) | 2:43 | 2022-04-28 | 2022-12-09 |
 | [Dollar On You](https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Dollar On You](https://open.spotify.com/album/2eZBiiR0ojio53AhwS3JPF) | 3:09 | 2021-05-25 | 2023-02-24 |
@@ -71,6 +71,7 @@
 | [Friday Night](https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Friday Night](https://open.spotify.com/album/1ZWld3Y1lv9rvkEivSpXMO) | 2:51 | 2022-06-20 | 2023-05-27 |
 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 | 2022-09-09 | 2023-05-27 |
 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/1GjyutvlWkLC5woI2mDrgE) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2021-12-02 | 2023-05-27 |
+| [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 | 2023-06-26 |  |
 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-02-23 |  |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-23 | 2023-05-01 |
 | [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 | 2023-04-27 |  |

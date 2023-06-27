@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 88 | [Unforgettable \(Tommy's Song\)](https://open.spotify.com/track/5q9aNxf8BtiYQoz0wq0K81) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unforgettable \(Tommy’s Song\)](https://open.spotify.com/album/0Paier1KMpw7C5LI7R35Dj) | 3:53 |
 | 89 | [Picture Myself](https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Picture Myself](https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT) | 3:31 |
 | 90 | [FML](https://open.spotify.com/track/1sahUqXlmDzjs7wrQdo02E) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [High Expectations](https://open.spotify.com/album/2X7koaJ4bojj8zMqacqIhW) | 3:12 |
-| 91 | [Crimes](https://open.spotify.com/track/1MNvYaJUwUBogmmw6yllQd) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 2:55 |
-| 92 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
+| 91 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
+| 92 | [Crimes](https://open.spotify.com/track/1MNvYaJUwUBogmmw6yllQd) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 2:55 |
 | 93 | [Intro](https://open.spotify.com/track/7i7zpyMc9rHYi7YaPkB0an) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Ready](https://open.spotify.com/album/4iosTZ1wD4C0psaI0E2pS5) | 0:31 |
 | 94 | [Like I Do](https://open.spotify.com/track/1roF7kFDaf9dE1TWBpSzAD) | [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 2:54 |
 | 95 | [Pretty](https://open.spotify.com/track/4xkD4QOho9fKvCiIH5dUyu) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Stranger Songs](https://open.spotify.com/album/60cFgoDpP3PXeMDjWCGwz6) | 2:55 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 122 | [MERRY GO ROUND](https://open.spotify.com/track/3X6A3gv1wfmMQ6UERbwCmW) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [MERRY GO ROUND](https://open.spotify.com/album/4iHL7KUiibZSpZRIsa6t7v) | 2:24 |
 | 123 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 
-Snapshot ID: `MjgxMjkwOTAsMDAwMDAwMDBlMmMyZmQ1YmE5MGY1MWYyZTM0YzcwNDRkNWM2Y2EwZQ==`
+Snapshot ID: `MjgxMzA1MjAsMDAwMDAwMDA4N2Q0OWViODMwNGE4OTdiNjRjYzZlYzBhYzIwZDQ2Zg==`

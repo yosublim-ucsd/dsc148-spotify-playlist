@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New single from Aluna, plus the latest cuts from Jam City, MJ Nebreda and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,352 likes - 80 songs - 4 hr 37 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,356 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 79 | [Burn Dem Bridges \- Nia Archives Edit](https://open.spotify.com/track/7jOMGubGp37qGAnsCdztCn) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Burn Dem Bridges \(Nia Archives Edit\)](https://open.spotify.com/album/0trpgSYjPsFpnsjxD7FAIM) | 2:27 |
 | 80 | [ozone community pt\. 1 & 2](https://open.spotify.com/track/6VUBanzg1vLKEsZxDKCGiM) | [dolo2000](https://open.spotify.com/artist/23JjxOmZ2pJYgyytD1lDtY) | [ozone community pt\. 1 & 2](https://open.spotify.com/album/6vWUlooJXoOaRdJeWsO1z3) | 2:19 |
 
-Snapshot ID: `NjMwNCxjZTBlNmZiMzczMDlhZTE1ZDk1MmZhNjhjOTA3MTg0NThjMDJlOTM5`
+Snapshot ID: `NjMwOCxlNzllNDA2OTdhMmNjNzIzZjNmYjIyYTVjM2RhMDQ4NDg4Y2NjYzdm`

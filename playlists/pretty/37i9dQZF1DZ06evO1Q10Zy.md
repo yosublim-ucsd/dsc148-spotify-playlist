@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,866 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,884 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 23 | [Take It Back](https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:05 |
 | 24 | [Say Less \(with Tiana Major9\)](https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:56 |
 | 25 | [No Stoppin' Us](https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [K\-Ci Hailey](https://open.spotify.com/artist/53M8YqZnU51ZjTFiXAFpIo) | [No Stoppin' Us](https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm) | 2:59 |
-| 26 | [Exceptional](https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 5:40 |
+| 26 | [Seven Seas](https://open.spotify.com/track/2pLD65NMnE6XuuTy4tId65) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:02 |
 | 27 | [Hurt You](https://open.spotify.com/track/7EB10pKYUvwe7nnCBBn6mA) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:10 |
 | 28 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
-| 29 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
-| 30 | [Seven Seas](https://open.spotify.com/track/2pLD65NMnE6XuuTy4tId65) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:02 |
+| 29 | [Exceptional](https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 5:40 |
+| 30 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
 | 31 | [Reunited](https://open.spotify.com/track/3FUnoNtMGU9XjEKFmgXIR4) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 3:17 |
 | 32 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
 | 33 | [Sorry For The Stupid Things \- Main](https://open.spotify.com/track/4T26YGUHTE5LLbb8xnTHPL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 49 | [The Recipe \(with Muni Long\)](https://open.spotify.com/track/4xDoRWwnUASi910ArPewng) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:08 |
 | 50 | [The Loneliness](https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:36 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDA2NDgyMWE1ZGQ0NmMyNTlhOTBiZjAxNTMxZTA2OTJhZQ==`
+Snapshot ID: `MjgxMjk2OTUsMDAwMDAwMDAxODc0OWZmZDljY2I5NWM1MWFjNGZjNDkxNmQ1MmQ2Zg==`

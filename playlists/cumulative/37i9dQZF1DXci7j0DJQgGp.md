@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-384 songs - 1 day 0 hr 20 min
+385 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Losing You](https://open.spotify.com/track/3ASaECH1ebS3BKpizNHk35) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Losing You](https://open.spotify.com/album/4eekFhEz7Ifb3KpTKkjxBa) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Lost in the Country](https://open.spotify.com/track/77XbmhGmIedQyragDU6cq3) | [Trace Mountains](https://open.spotify.com/artist/7sLtFQOS2kTEnMPTFLFU1t) | [Lost in the Country](https://open.spotify.com/album/29Lcw12vdKldc1n41YluvA) | 5:22 | 2022-03-25 | 2022-04-20 |
 | [Mad At Me](https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [Mad At Me](https://open.spotify.com/album/3jo28hZqatoB93dyt9nMQt) | 3:38 | 2023-01-09 | 2023-02-17 |
-| [Make a Picture](https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Inside Problems](https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE) | 3:25 | 2022-06-10 |  |
+| [Make a Picture](https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Inside Problems](https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE) | 3:25 | 2022-06-10 | 2023-06-27 |
 | [Making All Things New](https://open.spotify.com/track/0g3Vm5xbQsDslbTeN9SwEb) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Making All Things New](https://open.spotify.com/album/0nDRdz3cU4IjwlkHs08dp2) | 2:39 | 2022-03-25 | 2022-04-21 |
 | [Making All Things New](https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Making All Things New](https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU) | 2:39 | 2022-06-10 | 2023-01-10 |
 | [Manifest](https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 5:17 | 2021-12-17 |  |
@@ -227,6 +227,7 @@
 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 | 2021-12-17 |  |
 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 | 2022-06-10 |  |
 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 | 2022-03-25 | 2022-04-20 |
+| [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-06-26 |  |
 | [Neon Blue](https://open.spotify.com/track/3C5IAL2ayPXvM1PVEdwUra) | [Amelia Meath](https://open.spotify.com/artist/4SJK5TEZ2G0OOIJeMSSdRb), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Neon Blue](https://open.spotify.com/album/6Sv9Zb6DjvYArLOAAb40aS) | 2:59 | 2021-12-17 | 2022-07-20 |
 | [Nervous](https://open.spotify.com/track/4j7tap1TMQj9Vz8B69eepL) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Nervous](https://open.spotify.com/album/5jpUfR7fKI0l3NVYDxfiTr) | 2:46 | 2022-02-25 | 2022-06-30 |
 | [New Music](https://open.spotify.com/track/1agpUBbEJWHhyREZ33kXVW) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [New Music and Big Pop](https://open.spotify.com/album/5z2BTKi7FQnonynrYUvyEF) | 3:19 | 2022-02-25 | 2022-05-04 |

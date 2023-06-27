@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1248929,
+  "num_followers": 1249178,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjEyODk0ZTY3YWYzYWM3MmZlZjNlYmY0OTM3NTIzN2FlNjNjMDc3",
+  "snapshot_id": "MCxlZmQ4MGMxYjM5MjJjNTJjYWZhYjVlZDE2ZGVjN2JjNjQ0YTk4NDJj",
   "tracks": [
     {
       "added_at": "2023-06-16 17:56:50",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
@@ -407,8 +423,24 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
@@ -416,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+      "duration_ms": 194560,
+      "name": "20 Rosas",
+      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -435,22 +467,6 @@
       "duration_ms": 228675,
       "name": "Vida No Te Vayas",
       "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -503,22 +519,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Conga Y Timbal",
-        "url": "https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "Conga Y Timbal",
-      "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Amor De 3",
         "url": "https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "20 Rosas",
-      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -611,6 +595,22 @@
       "duration_ms": 228646,
       "name": "Lo Har\u00e9 por Ti",
       "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Conga Y Timbal",
+        "url": "https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 219559,
+      "name": "Conga Y Timbal",
+      "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "La Monjita Voladora - Cumbia Sonidera",
-        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Toca Recio",
-          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
-        }
-      ],
-      "duration_ms": 249768,
-      "name": "La Monjita Voladora - Cumbia Sonidera",
-      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 305253,
       "name": "\u00c1ngel Malvado",
       "url": "https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "La Monjita Voladora - Cumbia Sonidera",
+        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toca Recio",
+          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
+        }
+      ],
+      "duration_ms": 249768,
+      "name": "La Monjita Voladora - Cumbia Sonidera",
+      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Dejame Pensar",
-        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 277455,
-      "name": "Dejame Pensar",
-      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Del Barrio Para El Barrio (Vol. 1)",
         "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
       },
@@ -1027,6 +1011,38 @@
       "duration_ms": 199653,
       "name": "Enbrujo De Cumbia",
       "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 245055,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/46Va99JYvHOvsMoAeO6fu8"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Dejame Pensar",
+        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 277455,
+      "name": "Dejame Pensar",
+      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1063,26 +1079,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Nuestra Historia Termino",
-        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
       },
       "artists": [
         {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        },
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        },
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
         }
       ],
-      "duration_ms": 234140,
-      "name": "Nuestra Historia Termino",
-      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1107,34 +1115,26 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e"
+        "name": "Nuestra Historia Termino",
+        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
       "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        },
         {
           "name": "Grupo Quintanna",
           "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        }
-      ],
-      "duration_ms": 245055,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/46Va99JYvHOvsMoAeO6fu8"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
+        },
         {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+      "duration_ms": 234140,
+      "name": "Nuestra Historia Termino",
+      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Donde Estaras",
-        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 244924,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Serie Diamante - 15 S\u00faper Exitos",
         "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 235293,
       "name": "Me Volv\u00ed A Acordar De Ti",
       "url": "https://open.spotify.com/track/6z4LGme7tL991yvpk1gURW"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 331000,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        }
-      ],
-      "duration_ms": 331000,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "De Reventon",
         "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 254640,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Donde Estaras",
+        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 244924,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "La Cumbia Se\u00f1al",
-        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Orquesta Sonidera",
-          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
-        }
-      ],
-      "duration_ms": 375849,
-      "name": "La Cumbia Se\u00f1al",
-      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Un Monton De Estrellas",
         "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Serie Diamante - 15 S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
+        "name": "La Cumbia Se\u00f1al",
+        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
       },
       "artists": [
         {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+          "name": "La Nueva Orquesta Sonidera",
+          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
+      "duration_ms": 375849,
+      "name": "La Cumbia Se\u00f1al",
+      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Triste y Vac\u00eda",
-        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
+        "name": "Serie Diamante - 15 S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
       },
       "artists": [
         {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "duration_ms": 194506,
-      "name": "El Viejo Panz\u00f3n",
-      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
+      "duration_ms": 180533,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1403,22 +1387,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Sus Mejores Exitos",
-        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Ca\u00f1ita Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
       },
@@ -1435,6 +1403,22 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
+        "name": "Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Ca\u00f1ita Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
         "name": "Si Te Hubieras Quedado",
         "url": "https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 278931,
       "name": "Si Te Hubieras Quedado",
       "url": "https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Triste y Vac\u00eda",
+        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
+      },
+      "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "El Viejo Panz\u00f3n",
+      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Para Qu\u00e9 Llorar",
-        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
-      },
-      "artists": [
-        {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "La Inconforme",
-      "url": "https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
-        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
+        "name": "Para Qu\u00e9 Llorar",
+        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
         }
       ],
-      "duration_ms": 211440,
-      "name": "\u00a1Ay! El Amor",
-      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
+      "duration_ms": 193013,
+      "name": "La Inconforme",
+      "url": "https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1579,6 +1563,22 @@
       "duration_ms": 285799,
       "name": "No Puedo Olvidarte Cumbia Rosa",
       "url": "https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
+        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "\u00a1Ay! El Amor",
+      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "No Mientas Mas",
-        "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 240953,
-      "name": "Traicion Y Olvido",
-      "url": "https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 322986,
       "name": "Lucerito",
       "url": "https://open.spotify.com/track/3xJaqmggvkerhccRZC4Yyg"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "No Mientas Mas",
+        "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 240953,
+      "name": "Traicion Y Olvido",
+      "url": "https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/3weW5AD4k5a6hgnNktMXUU"
-      },
-      "artists": [
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "duration_ms": 272471,
-      "name": "Te Vas Con El o Te Vas Conmigo",
-      "url": "https://open.spotify.com/track/1LSxKDa7iwKI9aHDdfH5Jr"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Espacial",
         "url": "https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 215000,
       "name": "Espacial",
       "url": "https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/3weW5AD4k5a6hgnNktMXUU"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "duration_ms": 272471,
+      "name": "Te Vas Con El o Te Vas Conmigo",
+      "url": "https://open.spotify.com/track/1LSxKDa7iwKI9aHDdfH5Jr"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Mi Corazon Es un Vagabundo",
-      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "El Ritmo Mamalon",
         "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 193375,
       "name": "El Ritmo Mamalon",
       "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Mi Corazon Es un Vagabundo",
+      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "No Mientas Mas",
-        "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 234605,
-      "name": "No Mientas Mas",
-      "url": "https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "El Campeon",
         "url": "https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 205437,
       "name": "Que Dolor",
       "url": "https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "No Mientas Mas",
+        "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 234605,
+      "name": "No Mientas Mas",
+      "url": "https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY"
     },
     {
       "added_at": "2023-06-16 17:56:50",

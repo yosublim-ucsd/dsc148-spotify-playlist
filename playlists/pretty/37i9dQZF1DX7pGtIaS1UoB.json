@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 90651,
+  "num_followers": 90661,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjIyOWFlMjkxNDMyZDgwYjk3NzdmYjU3MzQ5N2ExNmFmZGUwYWFh",
+  "snapshot_id": "MCxkZWI2ZGU4ZmU3YWRjYmM3NWRkY2Q3NTVlOGVlYzAyMzA5MmM3OTZj",
   "tracks": [
     {
       "added_at": "2023-06-19 09:33:05",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-06-19 09:33:05",
       "album": {
-        "name": "\u8303\u7279\u897f",
-        "url": "https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "\u7c21\u55ae\u611b",
-      "url": "https://open.spotify.com/track/5Jtg0qcTKMHq3HjPVGRFAi"
-    },
-    {
-      "added_at": "2023-06-19 09:33:05",
-      "album": {
         "name": "\u6211\u591a\u559c\u6b61\u4f60,\u4f60\u6703\u77e5\u9053(\u7db2\u5287<\u81f4\u6211\u5011\u55ae\u7d14\u7684\u5c0f\u7f8e\u597d>\u63a8\u5ee3\u66f2)",
         "url": "https://open.spotify.com/album/0nELe45M3v4oeUuxKR9noj"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 199679,
       "name": "\u6211\u591a\u559c\u6b61\u4f60,\u4f60\u6703\u77e5\u9053(\u7db2\u5287<\u81f4\u6211\u5011\u55ae\u7d14\u7684\u5c0f\u7f8e\u597d>\u63a8\u5ee3\u66f2)",
       "url": "https://open.spotify.com/track/221FBKC22DTc7XkPIaZYOl"
+    },
+    {
+      "added_at": "2023-06-19 09:33:05",
+      "album": {
+        "name": "\u8303\u7279\u897f",
+        "url": "https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "\u7c21\u55ae\u611b",
+      "url": "https://open.spotify.com/track/5Jtg0qcTKMHq3HjPVGRFAi"
     },
     {
       "added_at": "2023-06-19 09:33:05",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-06-19 09:33:05",
       "album": {
-        "name": "\u6770\u502b",
-        "url": "https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "\u661f\u6674",
-      "url": "https://open.spotify.com/track/4VWn7L2kONeMEQ6cAIfzXC"
-    },
-    {
-      "added_at": "2023-06-19 09:33:05",
-      "album": {
         "name": "\u597d\u559c\u6b61\u4f60",
         "url": "https://open.spotify.com/album/0AxUxvZfoCud7qsk9TGcqp"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 201150,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG"
+    },
+    {
+      "added_at": "2023-06-19 09:33:05",
+      "album": {
+        "name": "\u6770\u502b",
+        "url": "https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 256666,
+      "name": "\u661f\u6674",
+      "url": "https://open.spotify.com/track/4VWn7L2kONeMEQ6cAIfzXC"
     },
     {
       "added_at": "2023-06-19 09:33:05",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-06-19 09:33:05",
       "album": {
-        "name": "\u5fc3\u5f15\u529b",
-        "url": "https://open.spotify.com/album/7huuhQ6PkYl8cSDtGNqM6s"
-      },
-      "artists": [
-        {
-          "name": "\u738b\u4fca\u51f1",
-          "url": "https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5"
-        },
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        }
-      ],
-      "duration_ms": 257785,
-      "name": "\u5fc3\u5f15\u529b",
-      "url": "https://open.spotify.com/track/5FCICpVP6esEhKY7dxLU7T"
-    },
-    {
-      "added_at": "2023-06-19 09:33:05",
-      "album": {
         "name": "\u7b49\u4f60\u4e0b\u8ab2",
         "url": "https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 270000,
       "name": "\u7b49\u4f60\u4e0b\u8ab2",
       "url": "https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV"
+    },
+    {
+      "added_at": "2023-06-19 09:33:05",
+      "album": {
+        "name": "\u5fc3\u5f15\u529b",
+        "url": "https://open.spotify.com/album/7huuhQ6PkYl8cSDtGNqM6s"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u4fca\u51f1",
+          "url": "https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "duration_ms": 257785,
+      "name": "\u5fc3\u5f15\u529b",
+      "url": "https://open.spotify.com/track/5FCICpVP6esEhKY7dxLU7T"
     },
     {
       "added_at": "2023-06-19 09:33:05",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-19 09:33:05",
       "album": {
-        "name": "\u60f3\u8aaa",
-        "url": "https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "\u60f3\u8aaa",
-      "url": "https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY"
-    },
-    {
-      "added_at": "2023-06-19 09:33:05",
-      "album": {
         "name": "Ugly Beauty",
         "url": "https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 172968,
       "name": "\u8166\u516c",
       "url": "https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8"
+    },
+    {
+      "added_at": "2023-06-19 09:33:05",
+      "album": {
+        "name": "\u60f3\u8aaa",
+        "url": "https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "\u60f3\u8aaa",
+      "url": "https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY"
     },
     {
       "added_at": "2023-06-19 09:33:05",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-06-19 09:33:05",
       "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm"
+    },
+    {
+      "added_at": "2023-06-19 09:33:05",
+      "album": {
         "name": "\u8881\u8a60\u7433Cindy",
         "url": "https://open.spotify.com/album/78Z0qzLySqPuRvisCrVqhP"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 182400,
       "name": "\u5de6\u8fb9",
       "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
-    },
-    {
-      "added_at": "2023-06-19 09:33:05",
-      "album": {
-        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm"
     },
     {
       "added_at": "2023-06-19 09:33:05",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-06-19 09:33:05",
       "album": {
+        "name": "\u6539\u8b8a\u81ea\u5df1",
+        "url": "https://open.spotify.com/album/1lxlQW182pklrfpD93faq1"
+      },
+      "artists": [
+        {
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+        },
+        {
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "\u4f60\u662f\u6211\u5fc3\u5167\u7684\u4e00\u9996\u6b4c (feat. Selina)",
+      "url": "https://open.spotify.com/track/7i2ReN7TSLlQKjvwiMEDIN"
+    },
+    {
+      "added_at": "2023-06-19 09:33:05",
+      "album": {
         "name": "\u7f8e\u4e3d\u7684\u59b3",
         "url": "https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 240283,
       "name": "Till We Fall in Love",
       "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
-    },
-    {
-      "added_at": "2023-06-19 09:33:05",
-      "album": {
-        "name": "\u6539\u8b8a\u81ea\u5df1",
-        "url": "https://open.spotify.com/album/1lxlQW182pklrfpD93faq1"
-      },
-      "artists": [
-        {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
-        },
-        {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "\u4f60\u662f\u6211\u5fc3\u5167\u7684\u4e00\u9996\u6b4c (feat. Selina)",
-      "url": "https://open.spotify.com/track/7i2ReN7TSLlQKjvwiMEDIN"
     },
     {
       "added_at": "2023-06-19 09:33:05",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-06-19 09:33:05",
       "album": {
-        "name": "\u8ffd\u5149\u8005",
-        "url": "https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW"
-      },
-      "artists": [
-        {
-          "name": "Ariel Tsai",
-          "url": "https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "\u8ffd\u5149\u8005",
-      "url": "https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p"
-    },
-    {
-      "added_at": "2023-06-19 09:33:05",
-      "album": {
         "name": "\u725b\u5976\u9eb5\u5305 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 208733,
       "name": "\u725b\u5976\u9eb5\u5305 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h"
+    },
+    {
+      "added_at": "2023-06-19 09:33:05",
+      "album": {
+        "name": "\u8ffd\u5149\u8005",
+        "url": "https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW"
+      },
+      "artists": [
+        {
+          "name": "Ariel Tsai",
+          "url": "https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "\u8ffd\u5149\u8005",
+      "url": "https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p"
     },
     {
       "added_at": "2023-06-19 09:33:05",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-06-19 09:33:05",
       "album": {
-        "name": "\u5012\u6578\u8aaa\u611b\u4f60 (\u96fb\u5f71\u300a\u5012\u6578\u8aaa\u611b\u4f60\u300b\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/2txX52Nr3UCpYrs7UtPxr0"
-      },
-      "artists": [
-        {
-          "name": "\u827e\u71b1AIR",
-          "url": "https://open.spotify.com/artist/6G94zxdItl2GgmKVfoAGI0"
-        },
-        {
-          "name": "\u738b\u4ee5\u592a",
-          "url": "https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j"
-        }
-      ],
-      "duration_ms": 216079,
-      "name": "\u5012\u6578\u8aaa\u611b\u4f60 (\u96fb\u5f71\u300a\u5012\u6578\u8aaa\u611b\u4f60\u300b\u7247\u5c3e\u66f2)",
-      "url": "https://open.spotify.com/track/1SbuoSf7JTCAb6oqJoRbe9"
-    },
-    {
-      "added_at": "2023-06-19 09:33:05",
-      "album": {
         "name": "the way you wanna be",
         "url": "https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 157354,
       "name": "the way you wanna be",
       "url": "https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR"
+    },
+    {
+      "added_at": "2023-06-19 09:33:05",
+      "album": {
+        "name": "\u5012\u6578\u8aaa\u611b\u4f60 (\u96fb\u5f71\u300a\u5012\u6578\u8aaa\u611b\u4f60\u300b\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/2txX52Nr3UCpYrs7UtPxr0"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u71b1AIR",
+          "url": "https://open.spotify.com/artist/6G94zxdItl2GgmKVfoAGI0"
+        },
+        {
+          "name": "\u738b\u4ee5\u592a",
+          "url": "https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j"
+        }
+      ],
+      "duration_ms": 216079,
+      "name": "\u5012\u6578\u8aaa\u611b\u4f60 (\u96fb\u5f71\u300a\u5012\u6578\u8aaa\u611b\u4f60\u300b\u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/1SbuoSf7JTCAb6oqJoRbe9"
     },
     {
       "added_at": "2023-06-19 09:33:05",

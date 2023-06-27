@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633162,
+  "num_followers": 633182,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yzg2MjdiNTUxNmQ4OTE2NzZhMTYwYmFkMDMwOWViNzVlOTRhMzlj",
+  "snapshot_id": "MCwwNWFmMWEwNWY5ZTE4NjIxYjFjYzhiOTYwMTZhZjczNWUwMjE5Mjcx",
   "tracks": [
     {
       "added_at": "2023-06-02 15:58:17",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Stilhed",
-        "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
-      },
-      "artists": [
-        {
-          "name": "Alba Lie",
-          "url": "https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Stilhed",
-      "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 192309,
       "name": "Entirely",
       "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Stilhed",
+        "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
+      },
+      "artists": [
+        {
+          "name": "Alba Lie",
+          "url": "https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "Stilhed",
+      "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Yoga Meditation",
-        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
-      },
-      "artists": [
-        {
-          "name": "Zen Wuan",
-          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
-        }
-      ],
-      "duration_ms": 163730,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Axiom",
         "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 191320,
       "name": "Perception",
       "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Yoga Meditation",
+        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
+      },
+      "artists": [
+        {
+          "name": "Zen Wuan",
+          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
+        }
+      ],
+      "duration_ms": 163730,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "My Halo Orbit",
-        "url": "https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA"
-      },
-      "artists": [
-        {
-          "name": "DEX 1200",
-          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
-        }
-      ],
-      "duration_ms": 199923,
-      "name": "My Halo Orbit",
-      "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Intrinsic Silence",
         "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 164017,
       "name": "Intrinsic Silence",
       "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "My Halo Orbit",
+        "url": "https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "duration_ms": 199923,
+      "name": "My Halo Orbit",
+      "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Rancul",
-        "url": "https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn"
-      },
-      "artists": [
-        {
-          "name": "Rancul",
-          "url": "https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf"
-        }
-      ],
-      "duration_ms": 105626,
-      "name": "Piano El\u00e9ctrico",
-      "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 134210,
       "name": "We Are Forever",
       "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Rancul",
+        "url": "https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn"
+      },
+      "artists": [
+        {
+          "name": "Rancul",
+          "url": "https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf"
+        }
+      ],
+      "duration_ms": 105626,
+      "name": "Piano El\u00e9ctrico",
+      "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Hvis du bare vidste",
-        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
-      },
-      "artists": [
-        {
-          "name": "Silas Mathiasen",
-          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Hvis du bare vidste",
-      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 188940,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Hvis du bare vidste",
+        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
+      },
+      "artists": [
+        {
+          "name": "Silas Mathiasen",
+          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Hvis du bare vidste",
+      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
+        "name": "Dreams of Mercury",
+        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Dreams of Mercury",
+      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
         "name": "Behind Your Eyes",
         "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 267756,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
-        "name": "Dreams of Mercury",
-        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
-      },
-      "artists": [
-        {
-          "name": "Chim Suri",
-          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Dreams of Mercury",
-      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
-        "name": "Hum",
-        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
-      },
-      "artists": [
-        {
-          "name": "Parazal",
-          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
-        }
-      ],
-      "duration_ms": 186542,
-      "name": "Suhpratti",
-      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
         "name": "Affinity",
         "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 172000,
       "name": "Affinity",
       "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
+      },
+      "artists": [
+        {
+          "name": "Parazal",
+          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
+        }
+      ],
+      "duration_ms": 186542,
+      "name": "Suhpratti",
+      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
     },
     {
       "added_at": "2023-06-02 15:58:17",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-06-02 15:58:17",
       "album": {
+        "name": "Neend",
+        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
+      },
+      "artists": [
+        {
+          "name": "Asanah",
+          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Neend",
+      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
+    },
+    {
+      "added_at": "2023-06-02 15:58:17",
+      "album": {
         "name": "Song For Wermland",
         "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 158906,
       "name": "Morning Air",
       "url": "https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3"
-    },
-    {
-      "added_at": "2023-06-02 15:58:17",
-      "album": {
-        "name": "Neend",
-        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
-      },
-      "artists": [
-        {
-          "name": "Asanah",
-          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "Neend",
-      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
     },
     {
       "added_at": "2023-06-02 15:58:17",

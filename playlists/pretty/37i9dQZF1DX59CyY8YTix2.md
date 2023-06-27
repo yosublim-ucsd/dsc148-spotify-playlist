@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: QUBIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,920 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,936 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 66 | [SPARK](https://open.spotify.com/track/3m0WWZ39p9t3DSgr3MqRyK) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/1m85FhfhwsxWNmE27G2a69) | 4:08 |
 | 67 | [she so come!!!](https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 2:59 |
 | 68 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
-| 69 | [Damn it!](https://open.spotify.com/track/17PParOdsrKYTIN6znBZwK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [WHOOPEE](https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK) | 3:03 |
-| 70 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
+| 69 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
+| 70 | [God Willing](https://open.spotify.com/track/6aQy9KENQWKlhqcHUax5ln) | [アルバ・セラ](https://open.spotify.com/artist/1fYq3V8T7IStSwwMth3chB) | [God Willing](https://open.spotify.com/album/7gSLS0JtHCihkRxEuZ2TOf) | 2:43 |
 
-Snapshot ID: `MCxkYzQwNDAxYzJkNTBjZmZkNjI1MjZmYTRhZGEzMTI2OTMwOGZhOWNi`
+Snapshot ID: `MCxkYmVhYTNlMzU4ODFlOGRlYmMyZDg3Zjk2YTAyNDFiZmJjM2YwZTBj`

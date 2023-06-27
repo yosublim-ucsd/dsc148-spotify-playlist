@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,536 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,572 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 3 | [Sueno en Paraguay \- El Búho Remix](https://open.spotify.com/track/7xh6JEfbdCF25vDPFCv2hW) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansara Remixed](https://open.spotify.com/album/1QKIcCF0KmiDmRbGMnZvDZ) | 4:01 |
 | 4 | [Morochaje de Primera Línea \- \(Cerrero Dub Mix\)](https://open.spotify.com/track/30XTJz8FWDN2zUL0ZcwIvb) | [M.A\. Studio](https://open.spotify.com/artist/6AGmLAX2klmykGxoKOK5Qd), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Morochaje de Primera Línea \(Cerrero Dub Mix\)](https://open.spotify.com/album/6gxUTwTgzHBJ3lLEFjf8ka) | 3:11 |
 | 5 | [Agüita del Equilibrio](https://open.spotify.com/track/4tLVYBNIWBXpJjvXD1wYMX) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [La Casa No Existe](https://open.spotify.com/album/7FwDCtgp0Y4IPyGKpv2Ze7) | 3:24 |
-| 6 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 |
-| 7 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
-| 8 | [Corazón de Rubí](https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Balance](https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B) | 4:14 |
-| 9 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 |
-| 10 | [Pais Nublado](https://open.spotify.com/track/5TnONsGGPD0ZO7DdEq0BsL) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/1hHcudN9rY3XDskB78O1bd) | 4:32 |
-| 11 | [Uno Resuena](https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Orcas](https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3) | 5:35 |
-| 12 | [Relato](https://open.spotify.com/track/0633GnMObUml98aYLCUmEg) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:48 |
-| 13 | [El Hijo del Altiplano](https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym) | [La Danza](https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL) | 5:45 |
+| 6 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
+| 7 | [Corazón de Rubí](https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Balance](https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B) | 4:14 |
+| 8 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 |
+| 9 | [Pais Nublado](https://open.spotify.com/track/5TnONsGGPD0ZO7DdEq0BsL) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/1hHcudN9rY3XDskB78O1bd) | 4:32 |
+| 10 | [Uno Resuena](https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Orcas](https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3) | 5:35 |
+| 11 | [Relato](https://open.spotify.com/track/0633GnMObUml98aYLCUmEg) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:48 |
+| 12 | [El Hijo del Altiplano](https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym) | [La Danza](https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL) | 5:45 |
+| 13 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 |
 | 14 | [Eso Que Tu Haces](https://open.spotify.com/track/2HiionQ4vRsBnBP8bV18Cm) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:33 |
 | 15 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
 | 16 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:20 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 44 | [Arriba Quemando el Sol](https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Maryta de Humahuaca](https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc) | [Arriba Quemando el Sol](https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv) | 3:28 |
 | 45 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
 | 46 | [Cometa de Luz](https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb) | [Uña Ramos](https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA) | [Quena de los Andes](https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq) | 3:47 |
-| 47 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
-| 48 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 |
-| 49 | [Gente Mariposa](https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Aurora](https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7) | 5:17 |
+| 47 | [Gente Mariposa](https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Aurora](https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7) | 5:17 |
+| 48 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
+| 49 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 |
 | 50 | [Sunch'u T'ikitay \- Remastered](https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu) | [Los Kjarkas](https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN) | [Lo Mejor de los Kjarkas](https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9) | 3:36 |
 
-Snapshot ID: `MCw2MzlhZWZiMjEyNGJmZjU1NmJjMTk0ZjBhOTg5NzE2NmE0MDYxOWM5`
+Snapshot ID: `MCxkY2U0MWM1NTBmMjZjMzI2NjZkNDc4MGYzOGJiNmE4OTAxY2FhNTRh`

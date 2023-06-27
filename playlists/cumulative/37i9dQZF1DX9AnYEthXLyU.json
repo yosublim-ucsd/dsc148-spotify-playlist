@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 150607,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/5Hjfc5BeyQjCuAlQQsJgfw"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 179426,
       "name": "Petal",
       "url": "https://open.spotify.com/track/6hpd3s4YS7Zn9ky5DyJjmL"
@@ -894,6 +894,24 @@
       "duration_ms": 174758,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61"
+    },
+    {
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/4bf2plTcwmLaWZqBbSO5oe"
+      },
+      "artists": [
+        {
+          "name": "New Medicine",
+          "url": "https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/0jSfQJjEPrcVHr6f7x3D8X"
     },
     {
       "album": {

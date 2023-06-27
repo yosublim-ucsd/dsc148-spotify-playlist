@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Os Meireles, Margem Norte
 
-108 songs - 6 hr 35 min
+109 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Rota](https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Rota](https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH) | 3:16 | 2022-08-05 |  |
 | [Sabe Tudo](https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Sabe Tudo](https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt) | 3:13 | 2022-08-05 |  |
 | [Saudade de Cristo](https://open.spotify.com/track/3MOEKrdqzMFBkNo7z49xhX) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Saudade de Cristo](https://open.spotify.com/album/1kv7ArlbdgZl1s0Q0jVOb5) | 4:56 | 2022-08-05 | 2023-02-25 |
+| [Seu Amor](https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Seu Amor](https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs) | 2:46 | 2023-06-23 |  |
 | [Simplicidade](https://open.spotify.com/track/0yf88EGCVK7LAgGDvUsibf) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Simplicidade](https://open.spotify.com/album/3JlvrhhuCDxlKOHIdzt4y3) | 4:48 | 2022-08-05 | 2023-02-04 |
 | [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 | 2022-08-05 |  |
 | [SOCORRO](https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [SOCORRO](https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU) | 4:05 | 2022-08-05 |  |
@@ -98,7 +99,7 @@
 | [Tens o Meu Sim](https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ) | [Amanda Dutra](https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1) | [Tens o Meu Sim](https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx) | 3:44 | 2022-08-05 |  |
 | [Teu Amor Me Consome](https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw) | [Guerreiros da Fé](https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL) | [Teu Amor Me Consome](https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr) | 3:46 | 2022-08-05 |  |
 | [Teu Calor](https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor](https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm) | 3:44 | 2022-08-05 |  |
-| [Teu Calor \- Acústico](https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor \(Acústico\)](https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY) | 3:44 | 2022-08-05 |  |
+| [Teu Calor \- Acústico](https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor \(Acústico\)](https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY) | 3:44 | 2022-08-05 | 2023-06-27 |
 | [Teu Reino Venha](https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Teu Reino Venha](https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw) | 3:42 | 2022-08-05 |  |
 | [Teus Rios](https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv) | [Ana Gabriela](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Teus Rios](https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL) | 3:14 | 2022-08-05 |  |
 | [Todos Um](https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Todos Um](https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF) | 3:31 | 2022-08-05 | 2023-04-16 |

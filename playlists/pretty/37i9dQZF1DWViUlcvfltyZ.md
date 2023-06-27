@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Siete in un paese meraviglioso! Giancane e Zerocalcare in cover di Rock Italia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,633 likes - 52 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,645 likes - 52 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 51 | [Frutta Fresca](https://open.spotify.com/track/0rNP0DmIwhD3Uj0d05V0rV) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Frutta Fresca](https://open.spotify.com/album/6TZOp9BjKB4bPthgRxMyZc) | 3:26 |
 | 52 | [Spaccio \(feat\. Fast Animals and Slow Kids\)](https://open.spotify.com/track/3QeGRIk6yOx6RRrXD2whlJ) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [in fieri](https://open.spotify.com/album/1PbpWl95wrYdqDXQjGzZfD) | 2:34 |
 
-Snapshot ID: `MCxmMThlOWRlMDQ4OGNhYTFjM2M5M2MwZWZjY2NhODM0MGI4ODk0N2E4`
+Snapshot ID: `MCxkOGZjNDEwMWRiYTczY2E0MWYyZmFlZTFlODI4ZjJlMGFiZDM1MDUz`

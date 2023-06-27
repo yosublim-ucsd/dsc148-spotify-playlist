@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 28 | [RAIN](https://open.spotify.com/track/55PC8EQgaWWrIgP0H2VC6x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead \(Deluxe\)](https://open.spotify.com/album/3h7X7RcVxhSNLCCxJ7I9ar) | 3:33 |
 | 29 | [I'm Not A Cynic](https://open.spotify.com/track/4iyGOU2Wtc7oNG4pm3taVd) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 2:16 |
 | 30 | [hey you got drugs?](https://open.spotify.com/track/73kadnv7SduzhApfRUv5C0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [BLUE LIPS \(lady wood phase II\)](https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L) | 4:18 |
-| 31 | [Beach House](https://open.spotify.com/track/3v61sG0y5M1LnSsFN4IimM) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:29 |
-| 32 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 |
+| 31 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 |
+| 32 | [Beach House](https://open.spotify.com/track/3v61sG0y5M1LnSsFN4IimM) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:29 |
 | 33 | [Lights Out](https://open.spotify.com/track/6MQQI2uYnjd8EsWbISfpA5) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6) | [To A Stranger](https://open.spotify.com/album/2NwLmvIUuYg63DvZrVidmG) | 3:32 |
 | 34 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 |
 | 35 | [something](https://open.spotify.com/track/1cJ5ZXrClkc5sJElFQGKKC) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [something](https://open.spotify.com/album/7nmHTnA1cngSTs4HHmCBnw) | 2:48 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 94 | [Patchwork Heart](https://open.spotify.com/track/3iIX6xq7tORLwX9UPsMepy) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:55 |
 | 95 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 
-Snapshot ID: `MjgxMjkxNDAsMDAwMDAwMDA4NzEzM2ExN2NhZDZhMjdlNDVkYWVkYzlkN2Y5N2E2Yw==`
+Snapshot ID: `MjgxMzA1MjAsMDAwMDAwMDA3ZmQ1YTQ0ZmE5YjljZWIyMTMzMjIyNjliOWFjYzZlYg==`

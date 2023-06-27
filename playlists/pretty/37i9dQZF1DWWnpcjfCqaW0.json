@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 269834,
+  "num_followers": 269964,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzRjYTAxMDE3NzhlYTJhM2FmMGQ0MGNjYjRiY2UzZTQxNDcyMjIy",
+  "snapshot_id": "MCwyNjk5ZGRkMDBmZjIwNTU1ZjY3ZGU3ZTNkNzIzZDM0N2FhMjNjMzBk",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 123520,
-      "name": "Wake up Little Susie",
-      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Gunfighter Ballads And Trail Songs",
         "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 259306,
       "name": "El Paso",
       "url": "https://open.spotify.com/track/4f8hBeMXMvssn6HtFAtblo"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "Wake up Little Susie",
+      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
       "artists": [
         {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
+      "duration_ms": 117080,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -171,6 +171,102 @@
       "duration_ms": 235733,
       "name": "Big Iron",
       "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Whole Lot of Shakin' Going On",
+      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Patsy Cline",
+        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "Three Cigarettes In An Ashtray",
+      "url": "https://open.spotify.com/track/2iiVG1xHHu2zZrDNVm8NJ3"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Wanda Jackson",
+        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "duration_ms": 119733,
+      "name": "Long Tall Sally",
+      "url": "https://open.spotify.com/track/3EyvLmKst3E6osm8ly5v5A"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "For LP Fans Only",
+        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 115280,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -195,66 +291,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+        "name": "Conway Twitty Sings",
+        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 117080,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Patsy Cline",
-        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "Three Cigarettes In An Ashtray",
-      "url": "https://open.spotify.com/track/2iiVG1xHHu2zZrDNVm8NJ3"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Wanda Jackson",
-        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        }
-      ],
-      "duration_ms": 119733,
-      "name": "Long Tall Sally",
-      "url": "https://open.spotify.com/track/3EyvLmKst3E6osm8ly5v5A"
+      "duration_ms": 132026,
+      "name": "It's Only Make Believe",
+      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -275,38 +323,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
-        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Whole Lot of Shakin' Going On",
-      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Conway Twitty Sings",
-        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 132026,
-      "name": "It's Only Make Believe",
-      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Sings the Songs that Made Him Famous",
         "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
       },
@@ -323,58 +339,6 @@
       "duration_ms": 151338,
       "name": "Big River",
       "url": "https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Honky Tonkin (Expanded Undubbed Edition)",
-        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "Jambalaya (On The Bayou)",
-      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "For LP Fans Only",
-        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 115280,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "The Master's Call",
-      "url": "https://open.spotify.com/track/62rmfpQuieSgCITPX819sR"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -411,38 +375,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "This Is Jean Shepard",
-        "url": "https://open.spotify.com/album/5PsuJ2gGyTHhnWFrxbOrtV"
-      },
-      "artists": [
-        {
-          "name": "Jean Shepard",
-          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
-        }
-      ],
-      "duration_ms": 148893,
-      "name": "A Satisfied Mind",
-      "url": "https://open.spotify.com/track/3EL0HtVljTy0kqgSNKe4cT"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Johnny Cash at Sun",
-        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 133120,
-      "name": "Get Rhythm",
-      "url": "https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "At Your Request\u2026",
         "url": "https://open.spotify.com/album/6B6fsYtcD8oJSmMEl4rJ85"
       },
@@ -455,42 +387,6 @@
       "duration_ms": 168466,
       "name": "The Auctioneer",
       "url": "https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
-        }
-      ],
-      "duration_ms": 164373,
-      "name": "Your Cheatin' Heart",
-      "url": "https://open.spotify.com/track/0WwmFdGXe7Yky4T2J1oqLk"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 122893,
-      "name": "Don't Be Cruel",
-      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -511,6 +407,74 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "This Is Jean Shepard",
+        "url": "https://open.spotify.com/album/5PsuJ2gGyTHhnWFrxbOrtV"
+      },
+      "artists": [
+        {
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "A Satisfied Mind",
+      "url": "https://open.spotify.com/track/3EL0HtVljTy0kqgSNKe4cT"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 122893,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Johnny Cash at Sun",
+        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 133120,
+      "name": "Get Rhythm",
+      "url": "https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "Gunfighter Ballads And Trail Songs",
         "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },
@@ -520,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
         }
       ],
-      "duration_ms": 184706,
-      "name": "They're Hanging Me Tonight",
-      "url": "https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO"
+      "duration_ms": 185466,
+      "name": "The Master's Call",
+      "url": "https://open.spotify.com/track/62rmfpQuieSgCITPX819sR"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -543,22 +507,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Don't Take Your Guns to Town",
-      "url": "https://open.spotify.com/track/0p7QF136UOOUHnyU8CuZra"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Dance To The Bop",
         "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
       },
@@ -571,26 +519,6 @@
       "duration_ms": 156306,
       "name": "Be-Bop-A-Lula",
       "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Cold, Cold Heart",
-      "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -615,6 +543,42 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Don't Take Your Guns to Town",
+      "url": "https://open.spotify.com/track/0p7QF136UOOUHnyU8CuZra"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "duration_ms": 164373,
+      "name": "Your Cheatin' Heart",
+      "url": "https://open.spotify.com/track/0WwmFdGXe7Yky4T2J1oqLk"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
         "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
       },
@@ -627,22 +591,6 @@
       "duration_ms": 113640,
       "name": "I Ain't Never - Single Version",
       "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Kitty Wells\u2019 Country Hit Parade",
-        "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
-      },
-      "artists": [
-        {
-          "name": "Kitty Wells",
-          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Making Believe - 1955 Single Version",
-      "url": "https://open.spotify.com/track/3dUvLoLd0yPJuXtfMmbFmk"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -679,6 +627,58 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "Kitty Wells\u2019 Country Hit Parade",
+        "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
+      },
+      "artists": [
+        {
+          "name": "Kitty Wells",
+          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Making Believe - 1955 Single Version",
+      "url": "https://open.spotify.com/track/3dUvLoLd0yPJuXtfMmbFmk"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "They're Hanging Me Tonight",
+      "url": "https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Cold, Cold Heart",
+      "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
       },
@@ -691,86 +691,6 @@
       "duration_ms": 176626,
       "name": "Heartaches By The Number",
       "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "The Complete Columbia Recording Sessions, Vol. 1 - 1950-1951",
-        "url": "https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2"
-      },
-      "artists": [
-        {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "If You've Got the Money I've Got the Time",
-      "url": "https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Songs Of Our Soil",
-        "url": "https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 107280,
-      "name": "Five Feet High and Rising",
-      "url": "https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr"
-      },
-      "artists": [
-        {
-          "name": "Sonny James",
-          "url": "https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Patsy Cline",
-        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "In Care Of The Blues",
-      "url": "https://open.spotify.com/track/46qWzjcqItJRcBtcC9BFlK"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
-      },
-      "artists": [
-        {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "Oh Lonesome Me",
-      "url": "https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -791,18 +711,82 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
+        "name": "Songs Of Our Soil",
+        "url": "https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP"
       },
       "artists": [
         {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 152906,
-      "name": "Crazy Arms",
-      "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
+      "duration_ms": 107280,
+      "name": "Five Feet High and Rising",
+      "url": "https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Complete Columbia Recording Sessions, Vol. 1 - 1950-1951",
+        "url": "https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2"
+      },
+      "artists": [
+        {
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "If You've Got the Money I've Got the Time",
+      "url": "https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Patsy Cline",
+        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "In Care Of The Blues",
+      "url": "https://open.spotify.com/track/46qWzjcqItJRcBtcC9BFlK"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr"
+      },
+      "artists": [
+        {
+          "name": "Sonny James",
+          "url": "https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Oh Lonesome Me",
+      "url": "https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -827,6 +811,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "Wanda Jackson",
         "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
       },
@@ -844,17 +844,17 @@
       "added_at": "2023-01-02 21:32:07",
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+      "duration_ms": 152906,
+      "name": "Crazy Arms",
+      "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1023,6 +1023,42 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
+        "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+        },
+        {
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "A Dear John Letter",
+      "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
+      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T"
       },
@@ -1047,18 +1083,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+        "name": "Margaret",
+        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
       },
       "artists": [
         {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
-      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
+      "duration_ms": 127746,
+      "name": "I Love You Because",
+      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1075,42 +1111,6 @@
       "duration_ms": 168640,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
-        "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Shepard",
-          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
-        },
-        {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "A Dear John Letter",
-      "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Margaret",
-        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 127746,
-      "name": "I Love You Because",
-      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
-      },
-      "artists": [
-        {
-          "name": "Hank Locklin",
-          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
-        }
-      ],
-      "duration_ms": 151419,
-      "name": "Send Me the Pillow You Dream On",
-      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Essential Eddy Arnold",
         "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 185026,
       "name": "Tennessee Stud - Remastered",
       "url": "https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
+      },
+      "artists": [
+        {
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+        }
+      ],
+      "duration_ms": 151419,
+      "name": "Send Me the Pillow You Dream On",
+      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
     },
     {
       "added_at": "2023-01-02 21:32:07",

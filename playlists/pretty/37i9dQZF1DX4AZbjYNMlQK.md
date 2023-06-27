@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,722 likes - 61 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,705 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 55 | [Para Navidad](https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB) | [The Fam](https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH) | [Para Navidad](https://open.spotify.com/album/27CeHfJqWFuTSj2IOXCMT2) | 2:57 |
 | 56 | [All I Want For Christmas Is You](https://open.spotify.com/track/0KjVUq0RUNrURYShpLtdwq) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [All I Want For Christmas Is You](https://open.spotify.com/album/1VScrppYvea0ZhVxKXiU6V) | 3:29 |
 | 57 | [Human Nature \- En Español](https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 4:15 |
-| 58 | [Navidad Navidad](https://open.spotify.com/track/1d22ht3d8DTsth5dUfbgwZ) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Navidad Navidad](https://open.spotify.com/album/0q3WxfSpGFRKBn060efmip) | 2:22 |
-| 59 | [ESTE DICIEMBRE](https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ESTE DICIEMBRE](https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w) | 3:02 |
-| 60 | [Esta Navidad](https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Esta Navidad](https://open.spotify.com/album/3vmbZ0rnrXXdv5mhJLfGgQ) | 3:35 |
-| 61 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6fWLEZCVpWpmOX7cVN6dqX) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 2:32 |
+| 58 | [ESTE DICIEMBRE](https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ESTE DICIEMBRE](https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w) | 3:02 |
+| 59 | [Esta Navidad](https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Esta Navidad](https://open.spotify.com/album/3vmbZ0rnrXXdv5mhJLfGgQ) | 3:35 |
+| 60 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6fWLEZCVpWpmOX7cVN6dqX) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 2:32 |
+| 61 | [Navidad Navidad](https://open.spotify.com/track/1d22ht3d8DTsth5dUfbgwZ) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Navidad Navidad](https://open.spotify.com/album/0q3WxfSpGFRKBn060efmip) | 2:22 |
 
-Snapshot ID: `MCwzMGMyMWE2MmFjYmQ1MjRiMDIyYzMwM2E5YTM5OWRiZjAxNTM1YzYw`
+Snapshot ID: `MCwyM2IzYzFlNmU1ZjQ0MjQwYmYwNjBhYjc1Yzk2Y2Q3MzJkOTU5NjU2`

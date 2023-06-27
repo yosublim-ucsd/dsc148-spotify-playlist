@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 165429,
+  "num_followers": 165495,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2U3OThlYWYwOWM5MzEzNTVmMzZlZWM2MWVkNzBkMGQ3MDFkYzRj",
+  "snapshot_id": "MCw3MTBiYjlmZTUwNTNlMTViZjMwMjRjNzBhZDhmNmFhNjZhMmViZWY5",
   "tracks": [
     {
       "added_at": "2023-06-23 01:19:57",
@@ -307,6 +307,26 @@
     {
       "added_at": "2023-06-23 01:19:57",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "LA NOCHE DE ANOCHE",
+      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
+    },
+    {
+      "added_at": "2023-06-23 01:19:57",
+      "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 199994,
       "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
-    },
-    {
-      "added_at": "2023-06-23 01:19:57",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "LA NOCHE DE ANOCHE",
-      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
     },
     {
       "added_at": "2023-06-23 01:19:57",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-23 01:19:57",
       "album": {
-        "name": "Si Te La Encuentras Por Ah\u00ed",
-        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Si Te La Encuentras Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
-    },
-    {
-      "added_at": "2023-06-23 01:19:57",
-      "album": {
         "name": "Revelaci\u00f3n - EP",
         "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-06-23 01:19:57",
       "album": {
+        "name": "Si Te La Encuentras Por Ah\u00ed",
+        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Si Te La Encuentras Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
+    },
+    {
+      "added_at": "2023-06-23 01:19:57",
+      "album": {
         "name": "LA ISLA LP",
         "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-23 01:19:57",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
-    },
-    {
-      "added_at": "2023-06-23 01:19:57",
-      "album": {
         "name": "FLORES",
         "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 160000,
       "name": "FLORES",
       "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
+    },
+    {
+      "added_at": "2023-06-23 01:19:57",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
     },
     {
       "added_at": "2023-06-23 01:19:57",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-23 01:19:57",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
-    },
-    {
-      "added_at": "2023-06-23 01:19:57",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 187428,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL"
+    },
+    {
+      "added_at": "2023-06-23 01:19:57",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
       "added_at": "2023-06-23 01:19:57",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-06-23 01:19:57",
       "album": {
-        "name": "Carita Linda",
-        "url": "https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Carita Linda",
-      "url": "https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V"
-    },
-    {
-      "added_at": "2023-06-23 01:19:57",
-      "album": {
         "name": "Ya No Somos",
         "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
       },
@@ -1867,6 +1851,38 @@
     {
       "added_at": "2023-06-23 01:19:57",
       "album": {
+        "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V"
+    },
+    {
+      "added_at": "2023-06-23 01:19:57",
+      "album": {
+        "name": "Me Da Lo Mismo",
+        "url": "https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Me Da Lo Mismo",
+      "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
+    },
+    {
+      "added_at": "2023-06-23 01:19:57",
+      "album": {
         "name": "Amantes y Amigos",
         "url": "https://open.spotify.com/album/1ymAOPs0Z1p78Me8UbddOK"
       },
@@ -1883,30 +1899,6 @@
       "duration_ms": 182626,
       "name": "Amantes y Amigos",
       "url": "https://open.spotify.com/track/1UHcnP31sAKOJFrEnyRNUz"
-    },
-    {
-      "added_at": "2023-06-23 01:19:57",
-      "album": {
-        "name": "Angelito",
-        "url": "https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Bad Milk",
-          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
-        }
-      ],
-      "duration_ms": 227513,
-      "name": "Angelito",
-      "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
     }
   ],
   "unique_name": "Tranqui",

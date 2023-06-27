@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Coi Leray, Lil Tjay and more\. Cover: Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,222 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,312 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 26 | [Stop Going M.I.A](https://open.spotify.com/track/4SbIiCuEMft30y2EaxJNP6) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Half Man, Half Vamp](https://open.spotify.com/album/3wdcTPB9iPnfFa9dDKRoUz) | 2:46 |
 | 27 | [Rock Climbing \(feat\. M Huncho\)](https://open.spotify.com/track/0Mkn2M0bfkt1kBlJA1Z9tw) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [High Profile](https://open.spotify.com/album/3FbUUs5VxCKExl9DPTBFf6) | 2:50 |
 | 28 | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/album/2dxxlSiPPh9v9TwSTpjLgo) | 4:13 |
-| 29 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 |
+| 29 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 |
 | 30 | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW) | 2:35 |
 | 31 | [Today](https://open.spotify.com/track/0RsyC7kS5ObbfvX5CacLAr) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Today](https://open.spotify.com/album/5QjfvDWQOTEgOQsblGTlrs) | 1:55 |
 | 32 | [Bezzal Land](https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Bezzal Land](https://open.spotify.com/album/5yqpAwyhVsmdbrDIItyPs7) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 |
 | 50 | [She Say](https://open.spotify.com/track/4cHgAYefaapWB4QRIpZxbH) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W) | [Bohunk](https://open.spotify.com/album/1s8mvXwmfnbnfT7IkqSyr6) | 2:49 |
 
-Snapshot ID: `MCwxZDdhNTdlYTkwODVjZWUxNDlhNzFjNzJjMTI1Y2E4ZDIwYmY0YmJk`
+Snapshot ID: `MCwwZWUwNWMwMmMzZjllNzI4YWMwYjM0ZDMzMmYwNTg0MjlkNDFlODhl`

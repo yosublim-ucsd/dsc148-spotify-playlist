@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 ### [This Is スタジオ地図 \-Studio Chizu\-](https://open.spotify.com/playlist/37i9dQZF1DX0Bpaa30mJRd)
 
-> 8/14\(日\)<a href="https://www.promax.co.jp/studiochizu\-inconcert/">オーケストラコンサート</a>初開催！「スタジオ地図」作品の音楽をひとつのプレイリストに。/Music from Studio Chizu's movies\. ©︎2021 スタジオ地図　©︎STUDIO CHIZU
+> “記念日”に合わせて<a href="https://filmaga.filmarks.com/articles/243160/">全国上映</a>！夏に観たいアニメーション映画『時をかける少女』『サマーウォーズ』全国の映画館で2週間限定上映。
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,904 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,960 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 |
-| 2 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 |
-| 3 | [夏空\~オープニングテーマ\~](https://open.spotify.com/track/6Q7YfM1aKjSYhVojMsMxrC) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 2:57 |
-| 4 | [The Summer Wars](https://open.spotify.com/track/76Ke05Z8W1hsSOul0KRnMG) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa) | 1:52 |
+| 1 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 |
+| 2 | [夏空\~オープニングテーマ\~](https://open.spotify.com/track/6Q7YfM1aKjSYhVojMsMxrC) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 2:57 |
+| 3 | [The Summer Wars](https://open.spotify.com/track/76Ke05Z8W1hsSOul0KRnMG) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa) | 1:52 |
+| 4 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 |
 | 5 | [A Million Miles Away](https://open.spotify.com/track/0WQRbcwmUd1fZ5AJcH5GDT) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 8:01 |
 | 6 | [Starting Over](https://open.spotify.com/track/4I87AgUvLk5VZqu7XM3MXq) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [REFLECTION{Drip}](https://open.spotify.com/album/4n8pb6Vgi9a1k9eD0u4h95) | 4:59 |
 | 7 | [The Beast Festivities](https://open.spotify.com/track/609QeFudpDFTVqMalOqGx8) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [The Boy and The Beast \(Original Soundtrack Album\)](https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue) | 2:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 79 | [Swarms of Song \- English Version](https://open.spotify.com/track/3G7lL3qz3jYYG8dfvyYpjn) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 1:38 |
 | 80 | [A Million Miles Away \(reprise\) \- English Version](https://open.spotify.com/track/3LGIequcwZQo02cskDxXVS) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 6:27 |
 
-Snapshot ID: `MCw1NGVhZDc2ZDQzMmMzODYxNDc0ZDAyZjRmMTg0YWQ3YmZhZDBhZTQ1`
+Snapshot ID: `MCw4M2I2YTVlNDBmOWQ0MGJlZjg0MTA5ZjQxM2I3YTg4NmI3MWQxMWUw`

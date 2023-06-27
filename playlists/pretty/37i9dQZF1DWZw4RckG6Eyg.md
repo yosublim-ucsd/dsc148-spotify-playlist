@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,946 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,947 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 20 | [More Pressure](https://open.spotify.com/track/0sMWdvSFBg1bVkzyszM819) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:14 |
 | 21 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 |
 | 22 | [Why Do I Keep You?](https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Why Do I Keep You?](https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH) | 4:00 |
-| 23 | [We Don't Talk](https://open.spotify.com/track/7eXIQjn66MGgQsPIwkooqR) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Player](https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx) | 3:25 |
-| 24 | [Song I Believe In](https://open.spotify.com/track/1KXWD5G4e4mBHl4kqrQgx0) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy) | [Song I Believe In](https://open.spotify.com/album/3Pxyz1unwIXl0kh2M2Dehv) | 3:15 |
+| 23 | [Song I Believe In](https://open.spotify.com/track/1KXWD5G4e4mBHl4kqrQgx0) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy) | [Song I Believe In](https://open.spotify.com/album/3Pxyz1unwIXl0kh2M2Dehv) | 3:15 |
+| 24 | [We Don't Talk](https://open.spotify.com/track/7eXIQjn66MGgQsPIwkooqR) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Player](https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx) | 3:25 |
 | 25 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 |
 | 26 | [Crown](https://open.spotify.com/track/0rFerK60tXKPQrAqKfiTmu) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3aXZQpHysgW9zjKC5RPRIG) | 3:42 |
 | 27 | [don't jump the gun](https://open.spotify.com/track/5A4IUiCLfZAjEME2QPgf8P) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [don't jump the gun](https://open.spotify.com/album/3GrECJ07gyegeBtv5ZMG7T) | 2:35 |
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 43 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 |
 | 44 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 |
 | 45 | [Pata Pata Saguquka](https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Pata Pata Saguquka](https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB) | 5:25 |
-| 46 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
-| 47 | [Distant Shouts](https://open.spotify.com/track/5tz21jP1zSzw7Ke5EaR78P) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Distant Shouts](https://open.spotify.com/album/2mUurk1uS8I9v7dcNJFOCY) | 3:10 |
+| 46 | [Distant Shouts](https://open.spotify.com/track/5tz21jP1zSzw7Ke5EaR78P) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Distant Shouts](https://open.spotify.com/album/2mUurk1uS8I9v7dcNJFOCY) | 3:10 |
+| 47 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
 | 48 | [Is That True?](https://open.spotify.com/track/7ktkeXuvYXobpsOahNhJgT) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Is That True?](https://open.spotify.com/album/05XRy1OIW1ZScKXlevm4wS) | 4:09 |
-| 49 | [Mott St](https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE) | 2:55 |
-| 50 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 |
+| 49 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 |
+| 50 | [Mott St](https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE) | 2:55 |
 | 51 | [Busy](https://open.spotify.com/track/1MotJM9gUDBLEPXn84V1U0) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Acting Funny](https://open.spotify.com/album/2kR4SRc4Fi7SpfmbNxEvFk) | 2:46 |
 | 52 | [Se Eu Acordar](https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5) | [João Não](https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [Se Eu Acordar](https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2) | 2:30 |
 | 53 | [Allure](https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Enjoy Your Stay](https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk) | 3:10 |
-| 54 | [Mi Amor](https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Mi Amor](https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE) | 2:38 |
-| 55 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
+| 54 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
+| 55 | [Mi Amor](https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Mi Amor](https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE) | 2:38 |
 | 56 | [Strawberry](https://open.spotify.com/track/6y5kt39E6zh272WSGReg3p) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Seashell Cassette](https://open.spotify.com/album/2is1JGLmcYbojlQAZENVYL) | 2:42 |
 | 57 | [Preacher](https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:17 |
 | 58 | [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 74 | [Tajiharu Samba](https://open.spotify.com/track/4btSl2loLADohlFJAEaHIS) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu) | [5000 trillion per hour](https://open.spotify.com/album/4mlm9EFYJlXKysgOBbmWqI) | 3:13 |
 | 75 | [KiSeKi](https://open.spotify.com/track/2wrcTquPKyQoMmGeVX1vhZ) | [Sho Takahashi](https://open.spotify.com/artist/642xssKVEVaV5IJXySEUsh) | [KiSeKi](https://open.spotify.com/album/4riJBNvT3yhoUO1Y7LTlcB) | 5:15 |
 
-Snapshot ID: `MCw3ZTBmZGViMWZkZjU3ZWZhZTYwNzhjNTgyMGVjMmZmZjhiYzZmZjBh`
+Snapshot ID: `MCw5OWFmNjI0M2E5YTZkN2MzZTA0ZGY5ZDIwMGJlY2Y0OTAzNDY5ZGUx`

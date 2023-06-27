@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,191 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,214 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 39 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 | 40 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 |
 | 41 | [お家へ帰ろう](https://open.spotify.com/track/4iQrfpgyQGOxpJsNS48I1Q) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [ムスヒ](https://open.spotify.com/album/0MvWp84fGgQhRUUMCkXE9u) | 3:58 |
-| 42 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 |
+| 42 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 43 | [Nectar.](https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar.](https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe) | 3:00 |
 | 44 | [MOONLIGHT](https://open.spotify.com/track/2AmftacZfB4ryvX6mzWvP4) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [MOONLIGHT](https://open.spotify.com/album/1OKelYkx4MDM1diKDsg107) | 3:16 |
 | 45 | [ミアネ](https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [306](https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF) | 3:35 |
-| 46 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 46 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 |
 | 47 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
 | 48 | [Dark Energy](https://open.spotify.com/track/3kdhlzVT1e8XGFGSawkKPO) | [Shōtaro Aoyama](https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR) | [Dark Energy](https://open.spotify.com/album/4OmjTbUvRXLA5KJmklQhdb) | 6:14 |
-| 49 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 |
+| 49 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 |
 | 50 | [She Don’t Want \- ft\. HMLT](https://open.spotify.com/track/0ccMXvrfYJrH8K4EJyIb4N) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy) | [She Don’t Want \(ft\. HMLT\)](https://open.spotify.com/album/1QZ0w6xapkb62YH2gmn3d3) | 2:48 |
-| 51 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 |
+| 51 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 |
 | 52 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
 | 53 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 |
 | 54 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 59 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 |
 | 60 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 |
 
-Snapshot ID: `MCxmMTE3NzI5NjU2NTYxYmI3NzcwMzVhNmNhOTVhMjE2NmM2ODljNGY2`
+Snapshot ID: `MCw2NTEyYTJlN2UxZjMzY2M3OWUyYmE5ZmE4OWZjMjhiNjZlYjU4OTkw`

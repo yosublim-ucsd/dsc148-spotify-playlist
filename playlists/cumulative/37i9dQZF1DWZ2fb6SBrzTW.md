@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-285 songs - 14 hr 49 min
+286 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Girls Just Wanna Have Funds](https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Girls Just Wanna Have Funds](https://open.spotify.com/album/339HC2ut5KYXJIBryrAgUf) | 3:35 | 2022-12-18 | 2023-01-28 |
 | [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 | 2022-11-15 | 2022-12-19 |
 | [Gone Far](https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gone Far](https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO) | 2:28 | 2021-10-08 | 2023-02-07 |
+| [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 | 2023-06-26 |  |
 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-02-16 |  |
 | [Gyalist](https://open.spotify.com/track/5LtlXbJXk1kcJfL1a4NXpQ) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 2:28 | 2023-06-02 |  |
 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 | 2023-05-04 |  |
@@ -208,7 +209,7 @@
 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 | 2022-08-12 | 2022-12-13 |
 | [Party](https://open.spotify.com/track/0RdO7NC6LgugflNKRmNeAn) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Party](https://open.spotify.com/album/2nUeJg5EVfIFZBqZkGYjhB) | 2:25 | 2022-06-30 | 2022-08-22 |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-17 |  |
-| [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-23 |  |
+| [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-23 | 2023-06-27 |
 | [Pause](https://open.spotify.com/track/7qL5oEcwbPl9PNIFZSNLeP) | [Dj Consequence](https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Pause](https://open.spotify.com/album/0sa6xFYCA07CmjYS1Tf5jS) | 3:14 | 2022-05-26 | 2022-07-29 |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-16 | 2023-06-10 |
 | [Peru \- Remix](https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Peru \(Remix\)](https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md) | 3:06 | 2022-02-11 | 2023-02-24 |

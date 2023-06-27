@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 9729,
+  "num_followers": 9733,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2IzMjMxY2E4MjNiYzUzYzI4MzA0YjBlYTM1YjdmZTA1ZmRlYjlh",
+  "snapshot_id": "MCw3MTM2YjRmZmEwYmNiYTYwODZhZWRiN2NmMWI0OTZhOWNlNDRkZTdi",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -167,6 +167,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Too Drunk To Drive Drunk",
+      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Blues Summit",
         "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 150667,
       "name": "Shake Your Money Maker",
       "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Too Drunk To Drive Drunk",
-      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -7703,6 +7703,24 @@
     },
     {
       "album": {
+        "name": "Last Word",
+        "url": "https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5"
+      },
+      "artists": [
+        {
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377560,
+      "name": "Last Word",
+      "url": "https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98"
+    },
+    {
+      "album": {
         "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
         "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
       },

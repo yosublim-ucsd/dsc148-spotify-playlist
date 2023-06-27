@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Radical Redemption
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,200 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,441 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Out Of The Frame](https://open.spotify.com/track/1gXIL1SScEEYv9MxlRN9hj) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [Out Of The Frame](https://open.spotify.com/album/4j7BWorgsb8kd6OumLsm0Z) | 3:28 |
 | 100 | [Next Level](https://open.spotify.com/track/3rYbbTaZpgTkgTVM0TgaSo) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Next Level](https://open.spotify.com/album/4V5Unm0OwUFn32saWfnqgU) | 3:28 |
 
-Snapshot ID: `MCxjZjFlYTdmOTMxYmI4ZjNjMjcxOGViYmFlOTMxMDI4ZjlkNjhmMWVi`
+Snapshot ID: `MCxjYTljMDYwN2ZkYTA4NGViMzFmYzljYzM3MWRhOGQwYWEzNDAzZDgw`

@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 69527,
+  "num_followers": 69531,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTQxMzU3ZDQ2ZmY4ZTVlOWI0N2YwYWNkZmRlMzA3OWUzMTUyODli",
+  "snapshot_id": "MCw1NWJmYTMzMzk2NGY0M2MyYzM1OGRhOWJmOTBiYjc1NWFlNDIwZjNk",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Porche Carrera",
         "url": "https://open.spotify.com/album/5pOOSzT6PNhrEQOHLTeuFX"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 328148,
       "name": "Baby Schai - Remix",
       "url": "https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Orgullo",
         "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/0stTNi5KJMdoruNe8JG6by"
       },
@@ -967,26 +967,6 @@
       "duration_ms": 184000,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/0aOcyrtTn2Fpit2GIeaGwO"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Soluci\u00f3n",
-        "url": "https://open.spotify.com/album/2vi8w5TScVrMNUV6Z1hTQd"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        },
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 219361,
-      "name": "Soluci\u00f3n",
-      "url": "https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1027,6 +1007,26 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Soluci\u00f3n",
+        "url": "https://open.spotify.com/album/2vi8w5TScVrMNUV6Z1hTQd"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 219361,
+      "name": "Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "L3tra 2",
         "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Reggaet\u00f3n Sex",
-        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 165473,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 165473,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "MARTINI",
         "url": "https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Dime Algo",
-        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
-      },
-      "artists": [
-        {
-          "name": "Remers",
-          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
-        }
-      ],
-      "duration_ms": 143639,
-      "name": "Dime Algo",
-      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Gucci Prada",
         "url": "https://open.spotify.com/album/5PhmFSll4LVvCaQFWOD8lK"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 183352,
       "name": "Gucci Prada",
       "url": "https://open.spotify.com/track/1DpyhxXcebRC3STmwMBXH3"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Dime Algo",
+        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
+      },
+      "artists": [
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        }
+      ],
+      "duration_ms": 143639,
+      "name": "Dime Algo",
+      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Randy Johnson",
+        "url": "https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "Randy Johnson",
+      "url": "https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "dale Play",
         "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Randy Johnson",
-        "url": "https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85"
-      },
-      "artists": [
-        {
-          "name": "Hanzel La H",
-          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Randy Johnson",
-      "url": "https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Por Amor",
         "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
       },
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+        "name": "TRAPPHONE",
+        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
       },
       "artists": [
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Hedonismo",
-      "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
+      "duration_ms": 107984,
+      "name": "TRAPPHONE",
+      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "TRAPPHONE",
-        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
       "artists": [
         {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 107984,
-      "name": "TRAPPHONE",
-      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
+      "duration_ms": 190840,
+      "name": "Hedonismo",
+      "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "BRUJULA",
-        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "BRUJULA",
-      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "X Polis",
         "url": "https://open.spotify.com/album/4ZhSdJwBxMmO0p6BYdhSci"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 205575,
       "name": "X Polis",
       "url": "https://open.spotify.com/track/3lakbQ9dTK8c2KxGwTYnAD"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "BRUJULA",
+        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "BRUJULA",
+      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Trending",
-        "url": "https://open.spotify.com/album/75a1tCKYhGYYaQeNoDklwc"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Jonniel Rythmz",
-          "url": "https://open.spotify.com/artist/5wcCS0O8zB98kNPZu61Gab"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/6Ee9z5UtJ9oRX4YaAwefml"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "19 Crema",
         "url": "https://open.spotify.com/album/69lwdO2wfRE7UICTvC2nC6"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 209192,
       "name": "Bonnie and Clyde",
       "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Trending",
+        "url": "https://open.spotify.com/album/75a1tCKYhGYYaQeNoDklwc"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Jonniel Rythmz",
+          "url": "https://open.spotify.com/artist/5wcCS0O8zB98kNPZu61Gab"
+        }
+      ],
+      "duration_ms": 167741,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/6Ee9z5UtJ9oRX4YaAwefml"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Nube",
+        "url": "https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l"
+      },
+      "artists": [
+        {
+          "name": "Paradize",
+          "url": "https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4"
+        },
+        {
+          "name": "JC Karo",
+          "url": "https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl"
+        }
+      ],
+      "duration_ms": 223399,
+      "name": "Nube",
+      "url": "https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "C\u00f3digos",
         "url": "https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 215000,
       "name": "NANANA",
       "url": "https://open.spotify.com/track/3cjm5VQKY4lKbZQPv0AxNE"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Nube",
-        "url": "https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l"
-      },
-      "artists": [
-        {
-          "name": "Paradize",
-          "url": "https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4"
-        },
-        {
-          "name": "JC Karo",
-          "url": "https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl"
-        }
-      ],
-      "duration_ms": 223399,
-      "name": "Nube",
-      "url": "https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s"
     },
     {
       "added_at": "2023-06-09 02:27:24",

@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: xena giam\. Artwork: Isu Kim.
 
-467 songs - 1 day 1 hr 43 min
+468 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Cross The Line](https://open.spotify.com/track/2TmoiudjLpYhqtAyRUTBBu) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Cross The Line](https://open.spotify.com/album/0DXGBQT0czeVAhYpzIkve0) | 3:53 | 2022-01-13 | 2022-03-25 |
 | [Cross Your Ts](https://open.spotify.com/track/7ntV3iO4MlBJ2rQpugkcOz) | [The Colour Fool](https://open.spotify.com/artist/0WkO6vRNHwdCiW2Zirn4Th) | [Cross Your Ts](https://open.spotify.com/album/6tmj6PVA4FR3ML1iEaQedL) | 3:35 | 2022-10-27 | 2023-03-18 |
 | [cry.](https://open.spotify.com/track/45DuBvXgIRhfxwdvRXlSdO) | [Kitty Purrnaz](https://open.spotify.com/artist/5CRMilXf5gELXf6m2Ml3dx) | [cry.](https://open.spotify.com/album/1WMcSusB1B2ovJrKXyGlSv) | 3:36 | 2021-12-01 | 2022-01-14 |
+| [Curbside](https://open.spotify.com/track/45owrs44Fa3IW2HwVqpgzV) | [tammie](https://open.spotify.com/artist/1Gxrj4vLRdOAqw0ERUgnfb) | [Curbside](https://open.spotify.com/album/4HZvNaCq58PbPRMaHlwCPd) | 2:40 | 2023-06-26 |  |
 | [dance](https://open.spotify.com/track/5LydD1if5g27ED6dbzWl7w) | [Jean Tan](https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ) | [dance](https://open.spotify.com/album/4xApFzYPLxIqildPk6RtDu) | 3:08 | 2023-03-09 | 2023-06-23 |
 | [Dance The Night Away](https://open.spotify.com/track/3arJqa1D6ApaB4wYZSTSEC) | [Caspar](https://open.spotify.com/artist/7mc37Uyetmxgzq7nOKGiAI), [Ines Lavigne](https://open.spotify.com/artist/7en6B2DNfQfMx9LmFAj7j5) | [I miss u](https://open.spotify.com/album/47vRSoeI7cYt5pIK7XpYEp) | 4:42 | 2022-06-30 | 2022-09-16 |
 | [Dance The Night Away](https://open.spotify.com/track/0CMWhL6cSNRPGfUd9sCVqG) | [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ), [esther](https://open.spotify.com/artist/1AXlrzu0pUJc8FB2rJJmq7) | [Moments](https://open.spotify.com/album/71tu3WeVwuEQxTXUbantb6) | 3:15 | 2022-01-20 | 2022-06-17 |

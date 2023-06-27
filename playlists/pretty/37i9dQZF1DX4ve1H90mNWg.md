@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\.  Cover: Mike Dimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,438 likes - 64 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,463 likes - 64 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Abracadabra \(feat\. Travis Scott\)](https://open.spotify.com/track/4Zsi5pyvmZBxvRg0KeDFMC) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 4:07 |
 | 2 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
-| 3 | [ARSENAL \(feat\. Denzel Curry\)](https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 3:15 |
+| 3 | [ARSENAL \(I SMELL BITCH\) \(feat\. Denzel Curry\)](https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 3:15 |
 | 4 | [DEEP END \(feat\. Don Toliver\)](https://open.spotify.com/track/63YcOq8SNXtnZtCfjyEpmq) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:34 |
 | 5 | [MYLIFE](https://open.spotify.com/track/42iH0gPDJXKgtCFeahTx5D) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [MYLIFE](https://open.spotify.com/album/1seXam7zaKVvNcwhmeGrTF) | 2:30 |
 | 6 | [Givin’ Up \(Not The One\) \(Don Toliver & 21 Savage, 2 Chainz\)](https://open.spotify.com/track/0KoBrntyQ2x6Y1eZwgGe5P) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:54 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 63 | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9) | 3:18 |
 | 64 | [fine now](https://open.spotify.com/track/0JqDi8LOuWRWtAXT0I33iG) | [rari!](https://open.spotify.com/artist/5R1AkKSoonPBWqJslyuJRC), [Forbiddenwillows](https://open.spotify.com/artist/5kl7QygFfeEjpsfxFqnTq5) | [fine now](https://open.spotify.com/album/3deQeyVDYrRu2ndjJqNa7u) | 2:04 |
 
-Snapshot ID: `MCw4ZDJjMDRiOWJmOWFmMDkyOTNjNjQ4YzJhODRmNzNlY2M5ODJmZGZj`
+Snapshot ID: `MCw2NjViZDM0MDJlOGQ1ODgxN2FkOWUxMzNkYTFhNzliYjg5ODhiMjU2`

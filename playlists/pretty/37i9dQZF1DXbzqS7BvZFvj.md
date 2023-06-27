@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,662 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,675 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 23 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 |
 | 24 | [Too Gone \(ft\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2isEZrfcQCpPsW97VJWwpk) | [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [YOU'RE THE PROBLEM](https://open.spotify.com/album/49EeerD9g11QOcsueBGR4H) | 3:59 |
 | 25 | [Robberies](https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Robberies](https://open.spotify.com/album/2TTGhSL8VlgeoPac0G4aK0) | 2:08 |
-| 26 | [ARSENAL \(feat\. Denzel Curry\)](https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 3:15 |
+| 26 | [ARSENAL \(I SMELL BITCH\) \(feat\. Denzel Curry\)](https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 3:15 |
 | 27 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 |
 | 28 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 |
 | 29 | [No Good](https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR) | 4:12 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 84 | [Theme of +81 Connect Mix](https://open.spotify.com/track/3fgywJ88l0n6O4ExCP12pk) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Theme of +81 Connect EP](https://open.spotify.com/album/7LKI9DciQsxaf41Aw6c3nf) | 7:31 |
 | 85 | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/track/4lSIx6Q1RNuTtESCrhaI1R) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd) | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/album/5l1ICrjNUg784zp3FXfYRk) | 2:12 |
 
-Snapshot ID: `MCxlMDkzM2Y2YzQ0NDhkZDU3NWE3YzQwNGZmZTkzNzhkZGE0MGFmYzQ2`
+Snapshot ID: `MCw5MzQzNDNiZTFiMTRiOWI0ZGM3YmIzZDRlYjQ4YjQ5NGI3ZDRiMmIy`

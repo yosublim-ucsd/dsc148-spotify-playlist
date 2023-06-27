@@ -4,7 +4,7 @@
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-123 songs - 5 hr 58 min
+124 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Bum Bum Tam Tam](https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bum Bum Tam Tam](https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm) | 3:33 | 2023-02-24 |  |
 | [Bumbum caliente \(Participação especial de De La Ghetto\)](https://open.spotify.com/track/2WXpTKDvFRRAKKwaNbT6OW) | [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Bumbum caliente \(Participação especial de De La Ghetto\)](https://open.spotify.com/album/6D1FwIdsvzNSEKtOXKzTTU) | 2:30 | 2023-02-24 |  |
 | [Bumbum granada](https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq) | [MC's Zaac](https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Bumbum granada](https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV) | 3:07 | 2022-05-20 |  |
-| [Bumbum Granada](https://open.spotify.com/track/261vtIjvKdSBzhvvu8q4nv) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7IZRQWJAd9E8qwh22Ijjar) | 3:07 | 2022-10-07 |  |
+| [Bumbum Granada](https://open.spotify.com/track/261vtIjvKdSBzhvvu8q4nv) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7IZRQWJAd9E8qwh22Ijjar) | 3:07 | 2022-10-07 | 2023-06-27 |
 | [Bumbum Granada](https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16) | 3:07 | 2021-11-19 | 2022-07-29 |
 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 | 2022-05-20 |  |
 | [Cara Bacana](https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU) | 3:52 | 2021-11-19 | 2022-07-29 |
@@ -108,6 +108,7 @@
 | [Sentou e Gostou](https://open.spotify.com/track/6AQHdnPnoNoSpCJIO23KsX) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe) | 2:43 | 2022-05-20 |  |
 | [Sentou e Gostou](https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY) | 2:43 | 2021-11-19 | 2022-07-29 |
 | [Separei](https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Separei](https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM) | 2:42 | 2021-11-19 |  |
+| [Social Narga e Piscina](https://open.spotify.com/track/1L3enLPv2RjsaytQFXTpuN) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK) | [Social Narga e Piscina](https://open.spotify.com/album/0qEFGepeUYo1t85SpbNCtT) | 3:05 | 2023-06-26 |  |
 | [Solo Seduzente](https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea) | [Dani Russo](https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r) | [Solo Seduzente](https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC) | 2:05 | 2023-02-24 |  |
 | [Solta a batida](https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Solta a batida](https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4) | 2:49 | 2023-02-24 |  |
 | [Surtada \- Remix Brega Funk](https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r) | [Dadá Boladão](https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX), [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Surtada \(Remix Brega Funk\)](https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj) | 2:32 | 2021-11-19 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-623 songs - 1 day 13 hr 27 min
+624 songs - 1 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Ciao](https://open.spotify.com/track/5liLMCOcyXU45BY9LzyC6r) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Ciao](https://open.spotify.com/album/49E9WqCcwPoxlJ288eFG69) | 4:33 | 2021-06-20 | 2022-01-23 |
 | [Coin](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:13 | 2021-03-27 | 2021-04-03 |
 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 | 2022-05-21 | 2022-06-01 |
+| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-06-26 |  |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-10 | 2023-06-03 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-08 |  |
 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-02 | 2023-06-04 |
@@ -144,7 +145,7 @@
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/1sVm0BuqORY7fdazHTCS3K) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:57 | 2022-05-21 | 2022-05-25 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2021-03-27\* | 2021-04-21 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-09-01 | 2021-09-12 |
-| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-03 | 2023-06-26 |
+| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-03 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-11 | 2022-11-28 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-11 |  |
 | [i don't smoke & i don't drink](https://open.spotify.com/track/2BQIL0U5QdqK17n5o8KZB1) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [i don't smoke & i don't drink](https://open.spotify.com/album/3p2buXwB34FSSt8c7PJxc4) | 2:50 | 2022-03-24 | 2022-08-18 |
@@ -179,7 +180,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-27 |
 | [Kitsch](https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/12p68ehzb26xvidlV2ypur) | 3:15 | 2023-03-28 | 2023-03-30 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-29 | 2023-04-13 |
-| [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-12 | 2023-06-26 |
+| [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-12 |  |
 | [K同學](https://open.spotify.com/track/2QOMOEdrKdYjTJVi7aGIyG) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:00 | 2021-09-01 | 2021-09-02 |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-27 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-11-02 |
@@ -443,7 +444,7 @@
 | [另一個諾貝爾](https://open.spotify.com/track/56Aal9B8gurDIRmlw4y74a) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [另一個諾貝爾](https://open.spotify.com/album/3zlC4E72LhS3svz4GFWvTR) | 4:14 | 2021-07-07 | 2021-08-24 |
 | [只收一半](https://open.spotify.com/track/4rtBWaUKppPfnOjH1sehyt) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:18 | 2021-09-01 | 2021-09-02 |
 | [只限成人入場](https://open.spotify.com/track/2dP4NbqdzIQhMuCF3Y4Q1I) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 3:23 | 2023-01-21 | 2023-01-27 |
-| [同居陌生人 \(ViuTV劇集: 百萬同居計劃歌曲\)](https://open.spotify.com/track/5L3pDOYct21zjioooK0IqX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [同居陌生人 \(ViuTV劇集: 百萬同居計劃歌曲\)](https://open.spotify.com/album/3EU37B6hp38S984Nxu0iFT) | 3:05 | 2022-12-14 |  |
+| [同居陌生人 \(ViuTV劇集: 百萬同居計劃歌曲\)](https://open.spotify.com/track/5L3pDOYct21zjioooK0IqX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [同居陌生人 \(ViuTV劇集: 百萬同居計劃歌曲\)](https://open.spotify.com/album/3EU37B6hp38S984Nxu0iFT) | 3:05 | 2022-12-14 | 2023-06-27 |
 | [呼吸之間](https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [呼吸之間](https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR) | 4:13 | 2022-07-09 | 2022-08-03 |
 | [呼吸有害](https://open.spotify.com/track/4t53NE3uBLkTwW9rUgiHC8) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [呼吸有害](https://open.spotify.com/album/3He2V83TzOwwyrdCJTeJeR) | 3:12 | 2021-03-27\* | 2021-06-18 |
 | [哪裡只得我共你](https://open.spotify.com/track/6oHNXUrt4s5JJIM1WoOwsZ) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [101](https://open.spotify.com/album/3einZWT5Kn6SEDLXiJ70BD) | 4:30 | 2021-07-10 | 2021-09-30 |
@@ -468,7 +469,7 @@
 | [宋代SAD BOY](https://open.spotify.com/track/7uo5PgFlHaRpdigxdzP0i7) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:53 | 2021-09-01 | 2021-09-02 |
 | [尋找隱世巨聲 \(feat\. Young Hysan\)](https://open.spotify.com/track/5EsbPLjrFIOHRndKFxbVnx) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL), [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [尋找隱世巨聲 \(feat\. Young Hysan\)](https://open.spotify.com/album/0FH9XolUtz2VSuYCkuy3pc) | 3:28 | 2023-06-10 | 2023-06-13 |
 | [小心地滑](https://open.spotify.com/track/3U1sSlezn9BdzqsEx4VfHT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [小心地滑](https://open.spotify.com/album/3wlXOb1nMLgJr1jz2bTjAm) | 3:59 | 2022-04-15 | 2023-01-22 |
-| [小心地滑](https://open.spotify.com/track/5awK4mHW8B2bCuX8G0Grvb) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 3:59 | 2023-01-21 |  |
+| [小心地滑](https://open.spotify.com/track/5awK4mHW8B2bCuX8G0Grvb) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 3:59 | 2023-01-21 | 2023-06-27 |
 | [小林不動產](https://open.spotify.com/track/4Mt3D6I02Pu2iv2KWW0hO6) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [小林不動產](https://open.spotify.com/album/2ECDGQbU9ra2jYK7ZbqwKb) | 3:05 | 2023-02-23 | 2023-04-10 |
 | [小諧星](https://open.spotify.com/track/4Pzi0povbtMOuVyGKGNOKu) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [小諧星](https://open.spotify.com/album/19F3jFJst7yhZ7U5ziGuaj) | 4:37 | 2021-07-25 | 2022-10-03 |
 | [年青有為](https://open.spotify.com/track/5dhzpjvwo4tkSuUS7otPoF) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [年青有為](https://open.spotify.com/album/21mjvuCpLVh8tvSEFUG8Of) | 4:18 | 2021-11-21 | 2021-12-04 |
@@ -536,7 +537,7 @@
 | [沒有人可以為你的幸福負責](https://open.spotify.com/track/2lkYHFcSUywPfVhXEkFM4p) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [沒有人可以為你的幸福負責](https://open.spotify.com/album/2YBZzO6Y9cogGy6H662L1r) | 3:33 | 2022-03-12 | 2022-03-16 |
 | [沒有無緣無故的恨](https://open.spotify.com/track/6YI4OXOVtZ29Rc7GxOI4sY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [沒有無緣無故的恨](https://open.spotify.com/album/3UugGjG8QfPiwvBDbRuhL8) | 3:45 | 2021-08-27 | 2021-12-24 |
 | [沒有翅膀的天使](https://open.spotify.com/track/1VU4roZEde9uI25e4rUOuU) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [沒有翅膀的天使](https://open.spotify.com/album/65wTjD7QDdhpMedeTA2XDe) | 3:18 | 2023-04-29 |  |
-| [洗面](https://open.spotify.com/track/3a9EtOIDDtBel1IEXf6fYl) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Cleanse](https://open.spotify.com/album/34T3MdB25TSeAooi2QxCRz) | 3:51 | 2023-06-03 |  |
+| [洗面](https://open.spotify.com/track/3a9EtOIDDtBel1IEXf6fYl) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Cleanse](https://open.spotify.com/album/34T3MdB25TSeAooi2QxCRz) | 3:51 | 2023-06-03 | 2023-06-27 |
 | [烏梅子醬](https://open.spotify.com/track/4p9jbhD6N7HpuECGusu6iT) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 4:17 | 2023-03-07 | 2023-04-20 |
 | [無人不知的戰果 \(ViuTV劇集: 季前賽主題曲\)](https://open.spotify.com/track/6rLZknU66zYG9Q2NI4fCYl) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [無人不知的戰果 \(ViuTV劇集: 季前賽主題曲\)](https://open.spotify.com/album/6wYuPp9Bt8JVDtxImuGng0) | 4:07 | 2022-11-18 | 2023-03-19 |
 | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/track/5DuzFa95k6It0RXVTUwMYH) | [Coca\-Cola Hong Kong](https://open.spotify.com/artist/0wTxCGuTsFbWO9ePajJ8Y6) | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/album/6Z4AfMmvAOMxnx69HbGzxD) | 1:07 | 2023-03-17 |  |

@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-260 songs - 18 hr 56 min
+261 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Adiós Batata \- Cerrero Dub Mix](https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Adiós Batata \(Cerrero Dub Mix\)](https://open.spotify.com/album/7o7iFlxztqfLv1FbaSg8Zo) | 6:47 | 2021-11-26 | 2022-06-17 |
 | [Agujeros Blancos](https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3) | 2:24 | 2022-04-15 | 2023-04-30 |
 | [Agujeros Blancos](https://open.spotify.com/track/74spSIGR2o7FrjHSG4AVM3) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2kle3HDOBmnyx5BrR9B8EW) | 2:24 | 2021-11-26 | 2022-06-04 |
-| [Agujeros Blancos](https://open.spotify.com/track/7IqNYA6InoqletEJBVrgnm) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY) | 2:24 | 2023-02-13 |  |
+| [Agujeros Blancos](https://open.spotify.com/track/7IqNYA6InoqletEJBVrgnm) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY) | 2:24 | 2023-02-13 | 2023-06-27 |
 | [Agüita del Equilibrio \(Remix\)](https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Juan Campodonico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Agüita del Equilibrio \(Remix\)](https://open.spotify.com/album/43lARNcRvw8swQlr54FofW) | 4:47 | 2021-11-26 | 2022-07-23 |
 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 | 2021-11-26 |  |
 | [Alma mía \- Baiuca Remix](https://open.spotify.com/track/4l6mBSYOrtPMdGG4KzW6UW) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Alma mía](https://open.spotify.com/album/46CtsbjvsgUoTTRaKI6l14) | 5:15 | 2021-11-26 | 2022-07-28 |
@@ -194,6 +194,7 @@
 | [Qué Bonito](https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad) | [Primo Son](https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb) | [Qué Bonito](https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp) | 3:46 | 2022-04-15 | 2022-04-21 |
 | [Reasons to Fight \(feat\. Ziggy Marley\)](https://open.spotify.com/track/1828klsRwI6LODnQ7dg5jG) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 5:13 | 2021-11-26 | 2022-07-29 |
 | [Resiliencia](https://open.spotify.com/track/1sYbjIz5jBAqE8n9nbdDDI) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resiliencia](https://open.spotify.com/album/6WiwJthVBqLR7rd5tQ4jzz) | 4:49 | 2021-11-26 | 2022-07-28 |
+| [Resiliencia](https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx) | 4:49 | 2023-02-13 |  |
 | [Resiliencia](https://open.spotify.com/track/590gL4Fk4eHhLazuvVefLn) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX) | 4:49 | 2023-02-13 | 2023-04-30 |
 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 | 2021-11-26 | 2023-06-11 |
 | [Roma \- En Vivo](https://open.spotify.com/track/4eqttIGVlY0K0ZHM2ktQqM) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [En Vivo Desde Acosmo Sound \- Malmö, Suecia](https://open.spotify.com/album/3znRk8OoMxqCjJX6AMhsHw) | 6:25 | 2021-11-26 | 2022-02-10 |

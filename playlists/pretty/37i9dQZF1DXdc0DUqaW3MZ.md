@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,252 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,332 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 20 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 |
 | 21 | [Downers](https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers](https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt) | 3:38 |
 | 22 | [Work It Out](https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [Work It Out](https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ) | 3:06 |
-| 23 | [Apocalypse](https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP) | 1:01 |
-| 24 | [soulboy \- IZCO Remix](https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [soulboy \(IZCO Remix\)](https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX) | 3:49 |
+| 23 | [soulboy \- IZCO Remix](https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [soulboy \(IZCO Remix\)](https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX) | 3:49 |
+| 24 | [Apocalypse](https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP) | 1:01 |
 | 25 | [Young Love](https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 4:24 |
 | 26 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 |
 | 27 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 55 | [FVR105 \- p\-rallel Remix](https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Bone Slim](https://open.spotify.com/artist/5VoreVetRqMEFui6KpGdt2), [Lorenzorsv](https://open.spotify.com/artist/6ikQz0CCwjFMtT7Hzxn9mY), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FVR105 \(p\-rallel Remix\)](https://open.spotify.com/album/6LMCxZc1m2uTJ1ZSNwgjYz) | 3:13 |
 | 56 | [Moving](https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:15 |
 | 57 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 |
-| 58 | [Hot In Herre](https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot In Herre](https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW) | 3:05 |
-| 59 | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ) | 3:49 |
+| 58 | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ) | 3:49 |
+| 59 | [Hot In Herre](https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot In Herre](https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW) | 3:05 |
 | 60 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 |
 | 61 | [Half Hour Verve](https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 4:05 |
 | 62 | [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 67 | [Deep Blue](https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Deep Blue](https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY) | 3:16 |
 | 68 | [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 |
 | 69 | [Above](https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Above](https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv) | 3:05 |
-| 70 | [Boy Blue](https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN) | [Buddy Love](https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf) | [Pleasure \(Now & Forever\)](https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn) | 4:06 |
+| 70 | [LoveConfusion](https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W) | [Karnaval Blues](https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3) | [LoveConfusion](https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP) | 4:18 |
 
-Snapshot ID: `MCw4NjNmYjJjYTQ5MjEwZmI0NWI0ZDk2NjdlOWE5YzcxNGI3ZDk4MTgy`
+Snapshot ID: `MCxlZjY0NTU3NDM5NjVhMmI1NzEzMDRkZjYxZTNiZGEyYTY1OWFlOGVi`

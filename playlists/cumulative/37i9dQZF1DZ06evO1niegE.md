@@ -4,7 +4,7 @@
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 9 min
+42 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Enferma Despedida](https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Enferma Despedida](https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2) | 2:32 | 2023-03-24 |  |
 | [Esperándote](https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:46 | 2023-03-24 |  |
 | [FAKE](https://open.spotify.com/track/6cKuuY7SnsPvW4sQFisrk0) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:39 | 2023-03-24 | 2023-04-21 |
-| [fior](https://open.spotify.com/track/5BQUCm2vmsddy6AaHyn2Gi) | [Efelante](https://open.spotify.com/artist/2RBUJpND98jnw4EwFCJiiX), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [fior](https://open.spotify.com/album/5zzz22tSzU3NHE85lzSkeq) | 5:11 | 2023-03-24 |  |
+| [fior](https://open.spotify.com/track/5BQUCm2vmsddy6AaHyn2Gi) | [Efelante](https://open.spotify.com/artist/2RBUJpND98jnw4EwFCJiiX), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [fior](https://open.spotify.com/album/5zzz22tSzU3NHE85lzSkeq) | 5:11 | 2023-03-24 | 2023-06-27 |
+| [fior](https://open.spotify.com/track/6GtWgDj1nK1TBahvOwYLvg) | [Efelante](https://open.spotify.com/artist/2RBUJpND98jnw4EwFCJiiX), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [fior](https://open.spotify.com/album/6zbSHO2tNXiuCTOIjhgZnD) | 5:11 | 2023-06-26 |  |
 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 | 2023-03-24 |  |
 | [Hoy Me Siento Bien](https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:10 | 2023-03-24 |  |
 | [Intenciones](https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Intenciones](https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3) | 2:43 | 2023-03-24 |  |

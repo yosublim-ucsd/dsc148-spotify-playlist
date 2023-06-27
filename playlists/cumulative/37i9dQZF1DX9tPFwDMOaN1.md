@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Let's turn ON the movement! Cover: KANGDANIEL
+> Let's turn ON the movement! Cover: SHINee
 
-305 songs - 16 hr 35 min
+306 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Hair Cut](https://open.spotify.com/track/4ZYSJfjSuR1XqcUPaTxjuG) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Overload](https://open.spotify.com/album/76XckkqatimbtN2NspL4N5) | 3:25 | 2022-11-11 | 2023-01-28 |
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2022-12-30 | 2023-04-25 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-13 | 2022-03-01 |
+| [HARD](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [HARD \- The 8th Album](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) | 2:56 | 2023-06-26 |  |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-07-01 | 2022-10-13 |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-24 | 2022-01-27 |
 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-12 | 2023-03-25 |
@@ -248,7 +249,7 @@
 | [Somebody!](https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Somebody](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) | 2:57 | 2022-08-03 | 2022-10-13 |
 | [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-06-19 |  |
 | [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 | 2022-10-12 | 2023-02-07 |
-| [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 | 2023-03-31 |  |
+| [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 | 2023-03-31 | 2023-06-27 |
 | [Sparkling](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:06 | 2022-07-12 | 2022-09-24 |
 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-08 |  |
 | [Stamp On It](https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Stamp On It \- The 1st Mini Album](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) | 3:52 | 2023-01-20 | 2023-04-01 |

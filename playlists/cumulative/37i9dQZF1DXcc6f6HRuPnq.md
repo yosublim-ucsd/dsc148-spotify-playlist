@@ -4,14 +4,14 @@
 
 > Late night cool and the sound of smooth blues.
 
-104 songs - 8 hr 24 min
+105 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 | 2022-04-08 |  |
 | [Ain’t No Love In The Heart Of The City](https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 5:36 | 2022-04-08 |  |
 | [Along About Midnight](https://open.spotify.com/track/0LUEBWAnO3CGjASnVqqUkV) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/76qQVzA1tljhUASkx17h8O) | 4:05 | 2022-04-08 | 2022-07-29 |
-| [Along About Midnight](https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr) | 4:05 | 2022-10-14 |  |
+| [Along About Midnight](https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr) | 4:05 | 2022-10-14 | 2023-06-27 |
 | [Another Night to Cry](https://open.spotify.com/track/49awu7g0tzOjAL2dygxYbC) | [Blue Moon Marquee](https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1), [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Scream, Holler & Howl](https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ) | 5:53 | 2023-02-08 |  |
 | [As The Years Go Passing By](https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [I Hear Some Blues Downstairs](https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3) | 4:48 | 2022-04-08 |  |
 | [As The Years Go Passing By](https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 7:44 | 2022-04-08 |  |
@@ -95,6 +95,7 @@
 | [Suffering The Blues](https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Ike & Tina Turner \- The Complete Collection](https://open.spotify.com/album/0Y8QtwYhF7RhMNRyHx3CL2) | 2:22 | 2022-10-14 |  |
 | [Sweet Little Angel](https://open.spotify.com/track/0vUyPyd5cuIZIxTrvrtbR1) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/1JQtDephsJMr9tWdtYgv2y) | 5:30 | 2022-04-08 | 2022-07-29 |
 | [Sweet Little Angel](https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 5:30 | 2022-07-08 |  |
+| [Sweet Slumber](https://open.spotify.com/track/0jEaukzFANr3SRJC53KkBb) | [Jimmy Witherspoon](https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb), [Jack McDuff](https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs) | [The Blues Is Now](https://open.spotify.com/album/7eIAMxI6NVQuDVwoFGrA3o) | 3:49 | 2023-06-09 |  |
 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 | 2022-04-08 |  |
 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 | 2022-11-17 |  |
 | [That's Why I Play the Blues](https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Power of the Blues](https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv) | 4:04 | 2022-04-08 |  |

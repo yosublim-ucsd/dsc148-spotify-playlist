@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,124 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,160 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 38 | [777 Pt\. 1](https://open.spotify.com/track/4vUeHbV4moHsvwqdwZNEQo) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 1:20 |
 | 39 | [Down \(feat\. Latto\)](https://open.spotify.com/track/3tLhjMOfbdRGQNudmIABp4) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Down \(feat\. Latto\)](https://open.spotify.com/album/4fN30wOcfdGOYY1BYDqUHD) | 3:37 |
 | 40 | [Quarantine Thick \(feat\. Latto\)](https://open.spotify.com/track/4JfCA7yaiEORC7NcKBS9nk) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [So Help Me God!](https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF) | 3:10 |
-| 41 | [In n Out \(feat\. City Girls\)](https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:14 |
+| 41 | [Wet \(feat\. Latto\) \- Remix](https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Wet \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL) | 3:31 |
 | 42 | [Soufside](https://open.spotify.com/track/7aQckZHyuls0Oa9LjUISDu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 1:50 |
-| 43 | [Wet \(feat\. Latto\) \- Remix](https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Wet \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL) | 3:31 |
+| 43 | [In n Out \(feat\. City Girls\)](https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:14 |
 | 44 | [I Just Called \(feat\. Latto\) \- Acoustic](https://open.spotify.com/track/2JDUfuNQUIeCwwydcYcHA0) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called \(feat\. Latto\) \[Acoustic\]](https://open.spotify.com/album/1Uu9vckoyHklvJUMQSs9LO) | 2:29 |
 | 45 | [Rain Down \(feat\. PnB Rock & Latto\)](https://open.spotify.com/track/3j2c4L32wU4LkILIkDzqse) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Rain Down \(feat\. PnB Rock & Latto\)](https://open.spotify.com/album/355DHb4BopJuvV7YWW0IG6) | 3:53 |
 | 46 | [Like A Thug \(feat\. Lil Durk\)](https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Step It Up](https://open.spotify.com/track/4tpSjqtLO12aIUHcSBR9rp) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 |
 | 50 | [He Say She Say](https://open.spotify.com/track/2wGXzIAux8In47rYvvy1YS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say](https://open.spotify.com/album/2nGyZR9qS22ChEozzV59tq) | 2:24 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDBmZTlhYTNmOTBjZGJlMDg2MmYxYmI2Y2QyMWY4MmUxMw==`
+Snapshot ID: `MjgxMjk2OTUsMDAwMDAwMDA1MjRmZjhjMGJiNDVhNmViMDdlMzBlODk0OWFhN2JiYg==`

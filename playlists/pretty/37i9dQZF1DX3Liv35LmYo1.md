@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,530 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,527 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 21 | [Bleu \- Radio Edit](https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Bleu](https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid) | 3:48 |
 | 22 | [Sea To Sky](https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8) | 4:24 |
 | 23 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 |
-| 24 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 |
-| 25 | [Closure \(feat\. Helena\)](https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [Helena](https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm) | [Closure \(feat\. Helena\)](https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM) | 4:30 |
-| 26 | [Revelation \- Barry Can't Swim Remix](https://open.spotify.com/track/4Z8pgVix2UNvTxqOx2V34n) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [PBSR](https://open.spotify.com/artist/1hcR66sinceJiPFq2AgCGs), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Revelation \(Barry Can't Swim Remix\)](https://open.spotify.com/album/3VUcoDNEPn4JneLFXXltLZ) | 4:21 |
+| 24 | [Closure \(feat\. Helena\)](https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [Helena](https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm) | [Closure \(feat\. Helena\)](https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM) | 4:30 |
+| 25 | [Revelation \- Barry Can't Swim Remix](https://open.spotify.com/track/4Z8pgVix2UNvTxqOx2V34n) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [PBSR](https://open.spotify.com/artist/1hcR66sinceJiPFq2AgCGs), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Revelation \(Barry Can't Swim Remix\)](https://open.spotify.com/album/3VUcoDNEPn4JneLFXXltLZ) | 4:21 |
+| 26 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 |
 | 27 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
 | 28 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 |
 | 29 | [Whatever Happens, Happens](https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Whatever Happens, Happens](https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8) | 3:47 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 49 | [Sometimes](https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW) | 5:29 |
 | 50 | [Change Your Mind](https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Change Your Mind](https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG) | 5:17 |
 | 51 | [Take Them](https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Take Them](https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp) | 4:47 |
-| 52 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
-| 53 | [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Kendl](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 |
-| 54 | [Strange Sounds](https://open.spotify.com/track/62dLbHvGjxAOwWt38CwQ2w) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Electronic Arts](https://open.spotify.com/album/2Clka6a46Wgtzy8Cc15pZT) | 5:51 |
-| 55 | [SFC \- Hommage Mix](https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Basic Instinct](https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q) | 4:44 |
-| 56 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 |
+| 52 | [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Kendl](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 |
+| 53 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
+| 54 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 |
+| 55 | [Strange Sounds](https://open.spotify.com/track/62dLbHvGjxAOwWt38CwQ2w) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Electronic Arts](https://open.spotify.com/album/2Clka6a46Wgtzy8Cc15pZT) | 5:51 |
+| 56 | [SFC \- Hommage Mix](https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Basic Instinct](https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q) | 4:44 |
 | 57 | [Higher Elevation](https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04) | 6:13 |
 | 58 | [Halcyon & On \- Logic1000 Mix](https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Halcyon \(30 Something\) \[Remixes\]](https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W) | 4:52 |
 | 59 | [Plastic Future](https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV) | 5:37 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 68 | [ENCLOSURE](https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [ENCLOSURE](https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0) | 4:19 |
 | 69 | [Desert](https://open.spotify.com/track/0a8LoorG8xRgwHltPh4iMT) | [WaTa](https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0) | [Desert](https://open.spotify.com/album/3J55fcmO15upttdki07D9U) | 4:02 |
 | 70 | [Justine](https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Justine](https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt) | 3:39 |
-| 71 | [Blue Skies](https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 3:23 |
-| 72 | [Coasting](https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie) | [Coasting](https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ) | 4:03 |
+| 71 | [Coasting](https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie) | [Coasting](https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ) | 4:03 |
+| 72 | [Blue Skies](https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 3:23 |
 | 73 | [Sweet Memory](https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD) | [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7) | [Sweet Memory](https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z) | 3:31 |
-| 74 | [Work It Out](https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Work It Out](https://open.spotify.com/album/6e3hBCINZWL2rhBWKrrpqK) | 4:02 |
-| 75 | [Asterisms](https://open.spotify.com/track/4NibZrr4VDvu9N7MyYOqRc) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Asterisms](https://open.spotify.com/album/6zUFswV0IH03dppHSDTWMP) | 4:17 |
+| 74 | [Asterisms](https://open.spotify.com/track/4NibZrr4VDvu9N7MyYOqRc) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Asterisms](https://open.spotify.com/album/6zUFswV0IH03dppHSDTWMP) | 4:17 |
+| 75 | [Work It Out](https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Work It Out](https://open.spotify.com/album/6e3hBCINZWL2rhBWKrrpqK) | 4:02 |
 
-Snapshot ID: `MCw5MWJmZWM5MTIzYWM5OTdjZDVkYTNhNjYzMDEzYjhiYWE5OWY0YmVm`
+Snapshot ID: `MCw5ZjVhNGZmNGM4Mjc1MjQ4Y2UwOTY2ZDQyNDIzMGVmNGQ5OTBhNWVl`

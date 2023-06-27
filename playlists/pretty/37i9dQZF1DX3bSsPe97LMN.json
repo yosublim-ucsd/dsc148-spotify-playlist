@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. ElArturo & DAAZ en portada.",
-  "num_followers": 55113,
+  "num_followers": 55122,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDlhYzNjN2QzMjBjY2E1ZTliYjQ4ODI1ZTZhZjUxZjIxN2UwMWMy",
+  "snapshot_id": "MCw3ZWZkMDhkMzFlN2I4ZmY3MDZlMzJjMmNmYzFjNjU4MjQ4Y2Q3YTNk",
   "tracks": [
     {
       "added_at": "2023-06-23 06:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Un Tabaco (En Vivo)",
-        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
+        "name": "Se Te Va A Caer La Baba",
+        "url": "https://open.spotify.com/album/1jL1MgfG1nRvwi3iDiDQoo"
       },
       "artists": [
         {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
         }
       ],
-      "duration_ms": 207625,
-      "name": "Un Tabaco (En Vivo)",
-      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+      "duration_ms": 223881,
+      "name": "Se Te Va A Caer La Baba",
+      "url": "https://open.spotify.com/track/6b06oCGEBRYgdqDzvDp9kv"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Se Te Va A Caer La Baba",
-        "url": "https://open.spotify.com/album/1jL1MgfG1nRvwi3iDiDQoo"
+        "name": "Un Tabaco (En Vivo)",
+        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
       "artists": [
         {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
         }
       ],
-      "duration_ms": 223881,
-      "name": "Se Te Va A Caer La Baba",
-      "url": "https://open.spotify.com/track/6b06oCGEBRYgdqDzvDp9kv"
+      "duration_ms": 207625,
+      "name": "Un Tabaco (En Vivo)",
+      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Esta Borrachera Va Por Ti (Chalino por Camilo)",
-        "url": "https://open.spotify.com/album/2hXb1mTtXkbmcZPgJKcUEy"
-      },
-      "artists": [
-        {
-          "name": "Al Tiro de Armando Ramos",
-          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
-        }
-      ],
-      "duration_ms": 148213,
-      "name": "Esta Borrachera Va Por Ti (Chalino por Camilo)",
-      "url": "https://open.spotify.com/track/2r0llg6rLNN99PaTiAjUA7"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "La Vida Es Bella",
         "url": "https://open.spotify.com/album/3X2lM2vUzWvCb4OjFiFN4u"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 174546,
       "name": "La Vida Es Bella",
       "url": "https://open.spotify.com/track/0E3tJRyG1FMEMFSovJEMUe"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Esta Borrachera Va Por Ti (Chalino por Camilo)",
+        "url": "https://open.spotify.com/album/2hXb1mTtXkbmcZPgJKcUEy"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        }
+      ],
+      "duration_ms": 148213,
+      "name": "Esta Borrachera Va Por Ti (Chalino por Camilo)",
+      "url": "https://open.spotify.com/track/2r0llg6rLNN99PaTiAjUA7"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
+        "name": "Te Cre\u00ed",
+        "url": "https://open.spotify.com/album/0yNjMJrt4BgcK3VTp4HUHT"
       },
       "artists": [
         {
-          "name": "Drupys",
-          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
+      "duration_ms": 237953,
+      "name": "Te Cre\u00ed",
+      "url": "https://open.spotify.com/track/4lO8cuxrYtgMGe15RJpm0f"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -823,6 +823,22 @@
       "duration_ms": 186666,
       "name": "Poses",
       "url": "https://open.spotify.com/track/7gtAGhDr9su6NvZ1sqg4Tf"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
+      },
+      "artists": [
+        {
+          "name": "Drupys",
+          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -899,6 +915,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "De Este Lado",
+        "url": "https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG"
+      },
+      "artists": [
+        {
+          "name": "Jose Torres El Rey De Alto Mando",
+          "url": "https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "De Este Lado",
+      "url": "https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Rosas",
         "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
       },
@@ -931,18 +963,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "De Este Lado",
-        "url": "https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG"
+        "name": "Dir\u00e9",
+        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
       },
       "artists": [
         {
-          "name": "Jose Torres El Rey De Alto Mando",
-          "url": "https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o"
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
         }
       ],
-      "duration_ms": 187500,
-      "name": "De Este Lado",
-      "url": "https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT"
+      "duration_ms": 197293,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -963,22 +995,6 @@
       "duration_ms": 165919,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Dir\u00e9",
-        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Dir\u00e9",
-      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1083,30 +1099,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "El Sello Adixion",
-        "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
-      },
-      "artists": [
-        {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
-        },
-        {
-          "name": "Equipo Reforzado",
-          "url": "https://open.spotify.com/artist/79l11SbRoVI27ZHUMZ05Ru"
-        },
-        {
-          "name": "Inoboiz",
-          "url": "https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "El Sello Adixion",
-      "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Como Me Miran",
         "url": "https://open.spotify.com/album/6WcReiZ2XZJzZZ3qr9z6cc"
       },
@@ -1151,6 +1143,30 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "El Sello Adixion",
+        "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
+      },
+      "artists": [
+        {
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        },
+        {
+          "name": "Equipo Reforzado",
+          "url": "https://open.spotify.com/artist/79l11SbRoVI27ZHUMZ05Ru"
+        },
+        {
+          "name": "Inoboiz",
+          "url": "https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "El Sello Adixion",
+      "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "En Un Instante",
         "url": "https://open.spotify.com/album/3Nbmmq4IWNvOEaJo99GUph"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 171785,
       "name": "En Un Instante",
       "url": "https://open.spotify.com/track/4HePjcbUwHlbK94YtB03vo"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Te Cre\u00ed",
-        "url": "https://open.spotify.com/album/0yNjMJrt4BgcK3VTp4HUHT"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 237953,
-      "name": "Te Cre\u00ed",
-      "url": "https://open.spotify.com/track/4lO8cuxrYtgMGe15RJpm0f"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1215,6 +1215,22 @@
       "duration_ms": 175588,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "El Ni\u00f1o De La Amapola",
+        "url": "https://open.spotify.com/album/1rygGMDNJ46kjKiwRzGC9Y"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "duration_ms": 214707,
+      "name": "El Ni\u00f1o De La Amapola",
+      "url": "https://open.spotify.com/track/76sWBFlOhZeChOSdrAfpCd"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "El Ni\u00f1o De La Amapola",
-        "url": "https://open.spotify.com/album/1rygGMDNJ46kjKiwRzGC9Y"
+        "name": "Barba De Herencia",
+        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
       },
       "artists": [
         {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
         }
       ],
-      "duration_ms": 214707,
-      "name": "El Ni\u00f1o De La Amapola",
-      "url": "https://open.spotify.com/track/76sWBFlOhZeChOSdrAfpCd"
+      "duration_ms": 204675,
+      "name": "Barba De Herencia",
+      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1375,22 +1391,6 @@
       "duration_ms": 264003,
       "name": "De La Nada",
       "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Barba De Herencia",
-        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 204675,
-      "name": "Barba De Herencia",
-      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "AS\u00cd ME ENAMOR\u00c9",
-        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 164096,
-      "name": "\u00bfY que pensabas?",
-      "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Ven Conmigo",
         "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "AS\u00cd ME ENAMOR\u00c9",
+        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "duration_ms": 164096,
+      "name": "\u00bfY que pensabas?",
+      "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "INERCIA",
         "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
       },
@@ -1523,6 +1523,26 @@
       "duration_ms": 153732,
       "name": "Odio",
       "url": "https://open.spotify.com/track/05Mh0eLIDdkUwQDOTe8VYZ"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Vivir Sin Ti ( Version Acustica )",
+        "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
+      },
+      "artists": [
+        {
+          "name": "Ana Emilia",
+          "url": "https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 172813,
+      "name": "Vivir Sin Ti ( Version Acustica )",
+      "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1563,22 +1583,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Vivir Sin Ti ( Version Acustica )",
-        "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
+        "name": "INFIERNO",
+        "url": "https://open.spotify.com/album/3QcR7ZgPZ940A9ae8R7J0R"
       },
       "artists": [
         {
-          "name": "Ana Emilia",
-          "url": "https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Pr\u00f3digo Secreto",
+          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
         }
       ],
-      "duration_ms": 172813,
-      "name": "Vivir Sin Ti ( Version Acustica )",
-      "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
+      "duration_ms": 178076,
+      "name": "INFIERNO",
+      "url": "https://open.spotify.com/track/1sbCNvLF93dBZAlvSeO5FH"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1595,22 +1611,6 @@
       "duration_ms": 193920,
       "name": "Qui\u00e9n Te Entiende - En Vivo",
       "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "INFIERNO",
-        "url": "https://open.spotify.com/album/3QcR7ZgPZ940A9ae8R7J0R"
-      },
-      "artists": [
-        {
-          "name": "Pr\u00f3digo Secreto",
-          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
-        }
-      ],
-      "duration_ms": 178076,
-      "name": "INFIERNO",
-      "url": "https://open.spotify.com/track/1sbCNvLF93dBZAlvSeO5FH"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Bloqueado",
-        "url": "https://open.spotify.com/album/6CClgwR7m644jsRJoF69Xb"
-      },
-      "artists": [
-        {
-          "name": "La Fase 3",
-          "url": "https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Bloqueado",
-      "url": "https://open.spotify.com/track/31u0xddM70KxFebPyLawpR"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Quiero Abrazarte Tanto",
         "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Nada Contigo",
-        "url": "https://open.spotify.com/album/2eCgfwIDUkkfDC70C4EHkM"
+        "name": "Bloqueado",
+        "url": "https://open.spotify.com/album/6CClgwR7m644jsRJoF69Xb"
       },
       "artists": [
         {
-          "name": "Los de la GS",
-          "url": "https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW"
+          "name": "La Fase 3",
+          "url": "https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj"
         }
       ],
-      "duration_ms": 179413,
-      "name": "Nada Contigo",
-      "url": "https://open.spotify.com/track/2GH7nxSCfsR6vAtzID3S89"
+      "duration_ms": 181894,
+      "name": "Bloqueado",
+      "url": "https://open.spotify.com/track/31u0xddM70KxFebPyLawpR"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1723,6 +1707,42 @@
       "duration_ms": 209026,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Calibrado",
+        "url": "https://open.spotify.com/album/6kuu3p0fmwiqm81d4M3Rwz"
+      },
+      "artists": [
+        {
+          "name": "David Bernal",
+          "url": "https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS"
+        },
+        {
+          "name": "Sebastian Romero",
+          "url": "https://open.spotify.com/artist/7xsHRG2SdyT7pOgHDW4RZN"
+        }
+      ],
+      "duration_ms": 142591,
+      "name": "Calibrado",
+      "url": "https://open.spotify.com/track/0Wkz1MEP9L5aB0lHgkSj0q"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Nada Contigo",
+        "url": "https://open.spotify.com/album/2eCgfwIDUkkfDC70C4EHkM"
+      },
+      "artists": [
+        {
+          "name": "Los de la GS",
+          "url": "https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW"
+        }
+      ],
+      "duration_ms": 179413,
+      "name": "Nada Contigo",
+      "url": "https://open.spotify.com/track/2GH7nxSCfsR6vAtzID3S89"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1751,26 +1771,6 @@
       "duration_ms": 202132,
       "name": "Pa Mis Viejos",
       "url": "https://open.spotify.com/track/7gF5ozUnWcMIpnyIneQrZ7"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Calibrado",
-        "url": "https://open.spotify.com/album/6kuu3p0fmwiqm81d4M3Rwz"
-      },
-      "artists": [
-        {
-          "name": "David Bernal",
-          "url": "https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS"
-        },
-        {
-          "name": "Sebastian Romero",
-          "url": "https://open.spotify.com/artist/7xsHRG2SdyT7pOgHDW4RZN"
-        }
-      ],
-      "duration_ms": 142591,
-      "name": "Calibrado",
-      "url": "https://open.spotify.com/track/0Wkz1MEP9L5aB0lHgkSj0q"
     },
     {
       "added_at": "2023-06-23 06:00:00",

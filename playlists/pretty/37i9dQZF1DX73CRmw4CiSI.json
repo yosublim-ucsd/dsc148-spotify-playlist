@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 71378,
+  "num_followers": 71444,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmY0NTgyNmYwZWE2YmMzY2U1MzZiMGM2OWJiZDAyODQ4YTMwODNj",
+  "snapshot_id": "MCw3YTE0ZTRmMDliZjBlMDVhOTBjNmUyNTQ2ZThlMDBlYzlhYmQ4YTBm",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Por la boca vive el pez",
+      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
         "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
       },
@@ -259,18 +275,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+        "name": "Estopa",
+        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
       },
       "artists": [
         {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         }
       ],
-      "duration_ms": 269373,
-      "name": "Por la boca vive el pez",
-      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+      "duration_ms": 202826,
+      "name": "Por la Raja de Tu Falda",
+      "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -307,22 +323,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Furia Latina",
-        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
-      },
-      "artists": [
-        {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Quiero tener tu presencia",
-      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Aviones",
         "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
       },
@@ -339,18 +339,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Estopa",
-        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
+        "name": "Furia Latina",
+        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
       },
       "artists": [
         {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Por la Raja de Tu Falda",
-      "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 251453,
-      "name": "Sincericidio",
-      "url": "https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Esclava De Tu Piel",
         "url": "https://open.spotify.com/album/4cllWOyTixZqsWOLj5BvPB"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 211866,
       "name": "Solo Se Vive una Vez",
       "url": "https://open.spotify.com/track/0ATzislS5SvAp69hjHczej"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 251453,
+      "name": "Sincericidio",
+      "url": "https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -587,6 +587,22 @@
       "duration_ms": 221373,
       "name": "La lista de la compra (feat. Mar\u00eda Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "La taberna del Buda",
+        "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "La taberna del Buda",
+      "url": "https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -635,22 +651,6 @@
       "duration_ms": 189133,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "La taberna del Buda",
-        "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "La taberna del Buda",
-      "url": "https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Hasta luego",
+        "url": "https://open.spotify.com/album/17zbU7662bSZyECndKCYio"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/3RN4lB7qvjqTBuMXPOO18r"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "La Extraordinaria Paradoja Del Sonido Quijano",
         "url": "https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 271160,
       "name": "Kalikeno - Rumba",
       "url": "https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Hasta luego",
-        "url": "https://open.spotify.com/album/17zbU7662bSZyECndKCYio"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/3RN4lB7qvjqTBuMXPOO18r"
     },
     {
       "added_at": "2022-01-25 22:47:02",

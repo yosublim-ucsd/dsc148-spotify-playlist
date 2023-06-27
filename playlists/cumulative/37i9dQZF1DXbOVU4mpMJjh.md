@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-791 songs - 2 day 8 hr 8 min
+792 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Comin' Home Baby](https://open.spotify.com/track/6OH7UCFY7SEJxxQkaYfAv8) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo) | [Atlantic Jazz: Soul](https://open.spotify.com/album/5Pi9gvFQLlXGdgI19hb6IR) | 8:39 | 2022-04-14 | 2022-04-28 |
 | [Coming Back To Me](https://open.spotify.com/track/0FAzOeaWZi4CCZgkJFkgwc) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Långholmen Sessions Vol\. 1](https://open.spotify.com/album/2TUvJj2iY6UHIGQCVLtIIe) | 3:56 | 2022-04-14 |  |
 | [Conceptions](https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Conceptions](https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw) | 3:16 | 2023-01-19 |  |
+| [Confusion](https://open.spotify.com/track/1sfrJ2DKdKEjDccAxJR3be) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Confusion](https://open.spotify.com/album/4sejLrOmf7ooG9OK3y9sHm) | 3:09 | 2023-06-22 |  |
 | [Constantly Changing](https://open.spotify.com/track/51mO5KysnUohGZS49sH3OM) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Constantly Changing](https://open.spotify.com/album/4DFOdq7KsYcOB1b5bTMDPJ) | 3:17 | 2022-05-24 |  |
 | [Cool Out](https://open.spotify.com/track/489alJQIWUauqzKTMuXRjm) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Hutson](https://open.spotify.com/album/6d7pfxv2QlODnSChi8BJiq) | 2:59 | 2022-04-14 | 2022-06-22 |
 | [Cool Out](https://open.spotify.com/track/5Pp7GAMJHAW31meFVjNg58) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Hutson](https://open.spotify.com/album/6zCa58ecglc4JUPqbexUfp) | 3:00 | 2022-06-30 | 2022-09-23 |
@@ -556,7 +557,7 @@
 | [Pot of gold](https://open.spotify.com/track/3UFfw35PZHkM0ZM8IvIGDB) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Pot of gold](https://open.spotify.com/album/7uXT61j09e3hcu2Ncm6mfq) | 3:27 | 2023-06-15 |  |
 | [PRAYER](https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [PRAYER](https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs) | 7:45 | 2022-04-14 | 2022-05-14 |
 | [Prelude To A Kiss](https://open.spotify.com/track/4Csbgu7LMDGPLjhPgHfQmZ) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Prelude To A Kiss](https://open.spotify.com/album/4cSn217ednrXznxx6lIKvA) | 4:35 | 2022-09-13 |  |
-| [Pretty Women](https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Crime Zone](https://open.spotify.com/album/45XJNADDsniF16VElBvwr8) | 6:21 | 2022-04-14 |  |
+| [Pretty Women](https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Crime Zone](https://open.spotify.com/album/45XJNADDsniF16VElBvwr8) | 6:21 | 2022-04-14 | 2023-06-27 |
 | [Prez Delight](https://open.spotify.com/track/6lGjkXzEE95Q0qma4QFVQL) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Prez Delight](https://open.spotify.com/album/3kdLQMUzpzQrGr23eznj7S) | 3:35 | 2023-03-09 |  |
 | [Pristine](https://open.spotify.com/track/4wZIBxMTZYbSGzWEAqIwKF) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Pristine](https://open.spotify.com/album/315gZl71MLwJo5GwBXgudJ) | 3:56 | 2022-10-13 |  |
 | [Questar](https://open.spotify.com/track/1ChYuSIoOFDVY6fHSXF6zS) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [My Song](https://open.spotify.com/album/6ID17PzjagQlFsc1KFha5v) | 9:10 | 2022-04-14 | 2022-10-08 |

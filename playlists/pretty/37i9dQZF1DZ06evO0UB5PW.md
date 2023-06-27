@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,865 likes - 43 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,900 likes - 43 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 34 | [Sleeping Giant](https://open.spotify.com/track/1Ph2EtzV2wW7I4AC2YjoJn) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 5:36 |
 | 35 | [Blue Walsh](https://open.spotify.com/track/60DY0OKJPAtAbXZydBxtXz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:12 |
 | 36 | [March of the Fire Ants](https://open.spotify.com/track/5SoTqdQPiBu4XmZyXeNs4M) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 4:25 |
-| 37 | [The Czar: Usurper / Escape / Martyr / Spiral](https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 10:54 |
+| 37 | [Quintessence](https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:27 |
 | 38 | [This Mortal Soil](https://open.spotify.com/track/2dqT4WPOLNm9wIRFOAMTLl) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 5:00 |
 | 39 | [Fallen Torches](https://open.spotify.com/track/55PBokVAiehQnFfapP54PK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:22 |
 | 40 | [The Sparrow](https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7lObP1GanG65wToWzufQtq) | 5:30 |
-| 41 | [Quintessence](https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:27 |
+| 41 | [The Czar: Usurper / Escape / Martyr / Spiral](https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 10:54 |
 | 42 | [Capillarian Crest](https://open.spotify.com/track/4GZ3qSMYlQODUdxAzM1S1E) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 4:25 |
 | 43 | [Ghost of Karelia](https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:24 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDAzZjc0M2MzMzEyZGUyOTQ3ZjVjMDkxOWNmYTdkNzI5Yw==`
+Snapshot ID: `MjgxMjk2OTUsMDAwMDAwMDBmYTQ4YzNmZDEzNzY5NWE0ODVkNWJlMmEwY2NjNWFkNg==`

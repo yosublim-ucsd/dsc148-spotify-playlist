@@ -1,13 +1,45 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 1017041,
+  "num_followers": 1017066,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmYwNjNlNjNkNDViOWIyOWJhNWNhMDNhMGEzZTM3YzQ3NWRiYzAy",
+  "snapshot_id": "MCw2YjcyYzk1NTBhZTAxMTJlODdlMjIzOWMwYWU3ZTRkMmJkZjJlMjk5",
   "tracks": [
+    {
+      "added_at": "2023-06-26 13:13:06",
+      "album": {
+        "name": "Until I End Up Dead",
+        "url": "https://open.spotify.com/album/7FqeGIj2CoHAbWTyqeOpGu"
+      },
+      "artists": [
+        {
+          "name": "Dream",
+          "url": "https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Until I End Up Dead",
+      "url": "https://open.spotify.com/track/5bVTkc2s7TQbTbVZZn2fXn"
+    },
+    {
+      "added_at": "2023-06-26 13:34:45",
+      "album": {
+        "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 252340,
+      "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
+      "url": "https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP"
+    },
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
@@ -813,22 +845,6 @@
       "url": "https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3"
     },
     {
-      "added_at": "2022-09-20 14:50:15",
-      "album": {
-        "name": "YES MOM",
-        "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
-      },
-      "artists": [
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 162364,
-      "name": "YES MOM",
-      "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
-    },
-    {
       "added_at": "2022-07-28 15:31:40",
       "album": {
         "name": "Metamorph",
@@ -927,22 +943,6 @@
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "CANDYMAN",
-        "url": "https://open.spotify.com/album/5x2Pu8eIiPR0sAOZo6bY1w"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        }
-      ],
-      "duration_ms": 164686,
-      "name": "CANDYMAN",
-      "url": "https://open.spotify.com/track/2LKw5pI3tXyMI8fpUibCiZ"
     }
   ],
   "unique_name": "Now Loading",

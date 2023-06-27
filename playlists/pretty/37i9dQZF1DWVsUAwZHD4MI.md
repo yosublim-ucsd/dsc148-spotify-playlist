@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,291 likes - 78 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,330 likes - 78 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 77 | [Joyride](https://open.spotify.com/track/5gqatnMPLOzT9s2oW0hTW7) | [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Joyride](https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP) | 2:46 |
 | 78 | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/track/3VlqU2BNVsIl5MQpNOAbG7) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/album/4pWJWWFJFknXNb0rFrV8zl) | 3:06 |
 
-Snapshot ID: `MCwyYTFjNzdmN2M0MjdmNWY3YTIyMGI1OTc5YWU3NzIxMTZjZWQzNDU2`
+Snapshot ID: `MCwyOTMzYzIyZTNlMTBjYzg4OGY3ZWI3OThiMGFmNTlkNzM5ZjQ5YjY5`

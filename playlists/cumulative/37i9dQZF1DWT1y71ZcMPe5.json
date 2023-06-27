@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Doja Cat",
+  "description": "The hottest songs you need to listen to right now. Cover: The Weeknd",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 175802,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
@@ -311,6 +311,32 @@
     },
     {
       "album": {
+        "name": "Barbie World (with Aqua) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109750,
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "album": {
         "name": "Be The One (with Khalid)",
         "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
       },
@@ -366,6 +392,24 @@
       "duration_ms": 185675,
       "name": "Boat",
       "url": "https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast"
+    },
+    {
+      "album": {
+        "name": "Broken Melodies",
+        "url": "https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Broken Melodies",
+      "url": "https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6"
     },
     {
       "album": {
@@ -764,7 +808,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 175247,
       "name": "favorite kind of high",
       "url": "https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9"
@@ -1010,7 +1054,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
@@ -1068,7 +1112,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 184308,
       "name": "High In California",
       "url": "https://open.spotify.com/track/4arF67s3pUxVFuMlMLrJc3"
@@ -1319,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Feed The Beast",
+        "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "King of Hearts",
+      "url": "https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS"
+    },
+    {
+      "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
       },
@@ -1360,7 +1422,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 271893,
       "name": "LEFT RIGHT REMIXX - FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS",
       "url": "https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar"
@@ -1530,6 +1592,24 @@
       "duration_ms": 153037,
       "name": "Meltdown",
       "url": "https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb"
+    },
+    {
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/262HbecHKS7KHGzwGveBOh"
+      },
+      "artists": [
+        {
+          "name": "Sezairi",
+          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/12T4WzDi9sw8EP9Dq810HB"
     },
     {
       "album": {
@@ -1711,6 +1791,32 @@
     },
     {
       "album": {
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "album": {
         "name": "Only Girl",
         "url": "https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl"
       },
@@ -1846,7 +1952,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
@@ -2318,6 +2424,24 @@
       "duration_ms": 172325,
       "name": "this is what losing someone feels like",
       "url": "https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ"
+    },
+    {
+      "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
       "album": {

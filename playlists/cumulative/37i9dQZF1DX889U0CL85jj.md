@@ -4,7 +4,7 @@
 
 > Just chill.
 
-526 songs - 1 day 6 hr 17 min
+527 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2023-04-11 |  |
 | [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2023-04-11 | 2023-04-30 |
 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2019-07-26 | 2022-09-20 |
+| [Cerca De Ti](https://open.spotify.com/track/4LY7VZhDLlRpsUlBIOZ7Ew) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hoy Como Ayer](https://open.spotify.com/album/28NDhMP2u9FUfp7grF1LhM) | 1:48 | 2023-06-26 |  |
 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 | 2022-08-19 |  |
 | [Charlie](https://open.spotify.com/track/3EbPZ8puT1QdOVDfnREDrn) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Courage](https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD) | 3:05 | 2022-08-19 |  |
 | [Charlie](https://open.spotify.com/track/43PsEYuMZRBFFA0udH9Y3K) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Charlie](https://open.spotify.com/album/34Yflaq5AUfcIl3f7kWji0) | 3:05 | 2022-08-19 | 2022-10-14 |
@@ -508,7 +509,7 @@
 | [Way Up](https://open.spotify.com/track/2dcA5V4ADoZQ7jpJwPsGjK) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Way Up](https://open.spotify.com/album/60nfJFRPMc5mhdDwqPnULw) | 2:57 | 2019-09-06 | 2022-08-09 |
 | [Weirdo](https://open.spotify.com/track/2DhST4YlvdtsAbYrPHY0Jc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Weirdo](https://open.spotify.com/album/43pEu8e86LTOto3PsKu8tK) | 3:12 | 2020-04-14 | 2022-01-22 |
 | [Welcome To Kookoo Island](https://open.spotify.com/track/0Y9DRICxOWCErR6Aly5nPV) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/7FaJ9dTtCmlQHbCkKWZsRk) | 2:52 | 2022-08-05 | 2022-11-12 |
-| [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 | 2022-11-25 |  |
+| [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 | 2022-11-25 | 2023-06-27 |
 | [What if](https://open.spotify.com/track/2nQSYKTUonp2v4HjMeZz0e) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [What if](https://open.spotify.com/album/0fD5MbkW3FkVy7XbbDpiwy) | 3:43 | 2021-06-07 | 2022-01-22 |
 | [When the World is Ending](https://open.spotify.com/track/6atRhZ7LJMJ7yVkqBP2xW3) | [Divine Sweater](https://open.spotify.com/artist/6QhdyISn8fmch9ULKyqUoH) | [When the World is Ending](https://open.spotify.com/album/6O5JkJitX7yLMoyKeHNp81) | 3:50 | 2023-03-09 |  |
 | [When Will I Learn](https://open.spotify.com/track/2ScZesPRtAwvZvajHgxDdQ) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [When Will I Learn](https://open.spotify.com/album/57AipIrXqa433GDNRygUsC) | 2:49 | 2021-06-07 | 2022-05-03 |

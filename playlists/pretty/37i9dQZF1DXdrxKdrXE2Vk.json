@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. This week we are featuring some of the favorite live worship tracks of our Guest Curators, <a href=\"https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM?si=EwHmkSyiQ0mQ2r3x1bE4dA\">Pastor Steven Furtick</a> and <a href=\"https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=fExbtuHsTv2HzZgvB0XlCw\">Elevation Worship</a>",
-  "num_followers": 876695,
+  "num_followers": 876787,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGJlNjNmNTE1MTA5MWRhYzdhYWRiNThhOTQ4MTI4Y2YwZmE4ODFm",
+  "snapshot_id": "MCw1MDFjNTBlNzZhNDFjZmU5YTkzMDcwZGE3M2E3ZTM5NWQ2OWIxOWYw",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -355,6 +355,50 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Heart Cry",
+        "url": "https://open.spotify.com/album/29KBqH474Kpmrfc6cCtzWF"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        }
+      ],
+      "duration_ms": 416946,
+      "name": "Monday Morning Faith",
+      "url": "https://open.spotify.com/track/7qMRmcVM1ki7z6YgiPmXrU"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 507306,
+      "name": "The Blessing (Live)",
+      "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Worthy of My Song (Worthy of It All)",
         "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
       },
@@ -383,26 +427,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Heart Cry",
-        "url": "https://open.spotify.com/album/29KBqH474Kpmrfc6cCtzWF"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Chelsea Plank",
-          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
-        }
-      ],
-      "duration_ms": 416946,
-      "name": "Monday Morning Faith",
-      "url": "https://open.spotify.com/track/7qMRmcVM1ki7z6YgiPmXrU"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "God Is Good! (Live)",
         "url": "https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH"
       },
@@ -423,26 +447,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+        "name": "This Is The Gospel",
+        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 507306,
-      "name": "The Blessing (Live)",
-      "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
+      "duration_ms": 305674,
+      "name": "This Is The Gospel",
+      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -519,26 +539,6 @@
       "duration_ms": 269000,
       "name": "I've Witnessed It - Single Version",
       "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "This Is The Gospel",
-        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 305674,
-      "name": "This Is The Gospel",
-      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 147945,
+      "name": "Growing Pains Pt. 2",
+      "url": "https://open.spotify.com/track/3JT72Odgjboph3SnXhDbzk"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
         "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 418333,
       "name": "Gratitude - LIVE from Miracle Nights",
       "url": "https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 147945,
-      "name": "Growing Pains Pt. 2",
-      "url": "https://open.spotify.com/track/3JT72Odgjboph3SnXhDbzk"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "House Of Miracles (Live)",
-        "url": "https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 453980,
-      "name": "House Of Miracles - Live",
-      "url": "https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
       },
@@ -843,6 +827,26 @@
       "duration_ms": 456000,
       "name": "I Believe - Live",
       "url": "https://open.spotify.com/track/6p9Frj8pPOCWol6HMFihSs"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Land I'm Livin' In (Live)",
+        "url": "https://open.spotify.com/album/0GHvAtGhtpQxwi9VPi8C9V"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 598982,
+      "name": "I Am Your Beloved - Live",
+      "url": "https://open.spotify.com/track/3wNS3dTyxxEQQdfDz3yFeK"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -871,26 +875,6 @@
       "duration_ms": 522994,
       "name": "Canvas & Clay (King of My Heart) [feat. DOE & Jonathan Traylor]",
       "url": "https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Land I'm Livin' In (Live)",
-        "url": "https://open.spotify.com/album/0GHvAtGhtpQxwi9VPi8C9V"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 598982,
-      "name": "I Am Your Beloved - Live",
-      "url": "https://open.spotify.com/track/3wNS3dTyxxEQQdfDz3yFeK"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -931,6 +915,42 @@
       "duration_ms": 273245,
       "name": "Never Walk Alone - Live At Team Night",
       "url": "https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "House Of Miracles (Live)",
+        "url": "https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 453980,
+      "name": "House Of Miracles - Live",
+      "url": "https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 337956,
+      "name": "Starlight - Live",
+      "url": "https://open.spotify.com/track/13t0zj4RPKM1asysCWgRaU"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -995,26 +1015,6 @@
       "duration_ms": 374546,
       "name": "Good Things",
       "url": "https://open.spotify.com/track/1CSSjxVMn8S51x1kC2yJ4z"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Starlight (Live)",
-        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 337956,
-      "name": "Starlight - Live",
-      "url": "https://open.spotify.com/track/13t0zj4RPKM1asysCWgRaU"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1087,46 +1087,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Deep Dive - EP",
-        "url": "https://open.spotify.com/album/20sBygY4CkOu8vRvPHfWWU"
+        "name": "As The Deer",
+        "url": "https://open.spotify.com/album/0Yirn4Rly93od1ImzN86mH"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Sydney James",
-          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 292440,
-      "name": "Deep Dive",
-      "url": "https://open.spotify.com/track/3wMRsY0WxkPQ8PYJNHhlZS"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Look To The Lamb",
-        "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 414391,
-      "name": "Look To The Lamb",
-      "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
+      "duration_ms": 305493,
+      "name": "As The Deer",
+      "url": "https://open.spotify.com/track/0O4JOPpHz1JdshdQ8PuGNe"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1151,18 +1123,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "As The Deer",
-        "url": "https://open.spotify.com/album/0Yirn4Rly93od1ImzN86mH"
+        "name": "Deep Dive - EP",
+        "url": "https://open.spotify.com/album/20sBygY4CkOu8vRvPHfWWU"
       },
       "artists": [
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Sydney James",
+          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
         }
       ],
-      "duration_ms": 305493,
-      "name": "As The Deer",
-      "url": "https://open.spotify.com/track/0O4JOPpHz1JdshdQ8PuGNe"
+      "duration_ms": 292440,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/3wMRsY0WxkPQ8PYJNHhlZS"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1191,6 +1167,30 @@
       "duration_ms": 624840,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/5xMD8CYZ9VbQS43Yr8JlFC"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Look To The Lamb",
+        "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 414391,
+      "name": "Look To The Lamb",
+      "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Live From Camp",
+        "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        }
+      ],
+      "duration_ms": 365185,
+      "name": "Christ Our King - Live From Camp",
+      "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "To The One Who Is Seated On The Throne (Live)",
         "url": "https://open.spotify.com/album/2ByngD9J0kQSo9tUgiPiZh"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 668013,
       "name": "To The One Who Is Seated On The Throne - Live",
       "url": "https://open.spotify.com/track/3zc8HnAS2WJ7VNsV1OEt13"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Live From Camp",
-        "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Rachel Halbach",
-          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
-        }
-      ],
-      "duration_ms": 365185,
-      "name": "Christ Our King - Live From Camp",
-      "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Forever & Amen",
-        "url": "https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 590208,
-      "name": "Forever & Amen (with Kari Jobe) - Live",
-      "url": "https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Greater (Live)",
         "url": "https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 374437,
       "name": "Pursuit (As The Deer) - Live",
       "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Forever & Amen",
+        "url": "https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 590208,
+      "name": "Forever & Amen (with Kari Jobe) - Live",
+      "url": "https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Heal My Heart (Live)",
+        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 458797,
+      "name": "Heal My Heart - Live",
+      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Jesus Now",
         "url": "https://open.spotify.com/album/0qLUPWE9SikEjGsvSEDQ5W"
       },
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Heal My Heart (Live)",
-        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 458797,
-      "name": "Heal My Heart - Live",
-      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Faith in Our Time (Deluxe LP)",
         "url": "https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh"
       },
@@ -1691,26 +1691,6 @@
       "duration_ms": 414375,
       "name": "Ask Seek Pray",
       "url": "https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "A King Like No Other (Live)",
-        "url": "https://open.spotify.com/album/7p7bRCJkZUAOPaRfhp52Fi"
-      },
-      "artists": [
-        {
-          "name": "Community Music",
-          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
-        },
-        {
-          "name": "Lucas & Evelyn Cortazio",
-          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
-        }
-      ],
-      "duration_ms": 482355,
-      "name": "Come And Behold - Live",
-      "url": "https://open.spotify.com/track/5k5jMmyP88T81vwcg1OOGJ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1751,6 +1731,26 @@
       "duration_ms": 349560,
       "name": "Easy to Worship (Live in New Orleans)",
       "url": "https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "A King Like No Other (Live)",
+        "url": "https://open.spotify.com/album/7p7bRCJkZUAOPaRfhp52Fi"
+      },
+      "artists": [
+        {
+          "name": "Community Music",
+          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
+        },
+        {
+          "name": "Lucas & Evelyn Cortazio",
+          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
+        }
+      ],
+      "duration_ms": 482355,
+      "name": "Come And Behold - Live",
+      "url": "https://open.spotify.com/track/5k5jMmyP88T81vwcg1OOGJ"
     },
     {
       "added_at": "2023-05-19 04:00:00",

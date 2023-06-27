@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,609 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,728 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Still Loving You](https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 6:43 |
-| 2 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 |
-| 3 | [Send Me An Angel](https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:33 |
-| 4 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 |
-| 5 | [Follow Your Heart](https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Follow Your Heart](https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB) | 4:05 |
+| 1 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
+| 2 | [Still Loving You](https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 6:43 |
+| 3 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 |
+| 4 | [Follow Your Heart](https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Follow Your Heart](https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB) | 4:05 |
+| 5 | [Send Me An Angel](https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:33 |
 | 6 | [Always Somewhere](https://open.spotify.com/track/6Ok4D4w117mSi9OP8tmrpg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/7aIgGWlHdcPXOfONtXVliK) | 4:57 |
 | 7 | [Wind of Change](https://open.spotify.com/track/5WSsTyBvMEFG3ac6JKb9gY) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 5:08 |
 | 8 | [Under The Same Sun](https://open.spotify.com/track/0NHBt8bp6tloebOWV3U3fN) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [No Pain No Gain](https://open.spotify.com/track/1sVtCOmdRKyXQZmoS5psN7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 3:54 |
 | 50 | [When Love Kills Love \- Live](https://open.spotify.com/track/0AyyJowMxulbgEQpcn9xVK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 4:53 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDBiMmRlZjBiZWIzMWRlNzE2N2ZjOWNmZjk1MTlkZTYyNg==`
+Snapshot ID: `MjgxMjk2OTYsMDAwMDAwMDA1OWZmODNlMzU5Y2QxYjZhMjI3YTBjZGNjMzgxY2E4Yg==`

@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 6 | [Mama's Eyes](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [Mama's Eyes](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
 | 7 | [Stormy Skies \(Diamonds\)](https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Stormy Skies \(Diamonds\)](https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv) | 3:33 |
 | 8 | [Both Of Us](https://open.spotify.com/track/2Mtj4On4ARe1gnJER2g57a) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:46 |
-| 9 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 |
-| 10 | [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 |
-| 11 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
-| 12 | [The Band And I](https://open.spotify.com/track/4gEYooYobqQWokcdP4aKPr) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:55 |
-| 13 | [by the end of the night](https://open.spotify.com/track/0yrGcbCjEwowGuETML0NOT) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/5N7c9Ii7LTUFs7lwHx8JKT) | 2:58 |
-| 14 | [Therapy](https://open.spotify.com/track/7s9gcI3vON7hpTzQO2PEun) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:57 |
+| 9 | [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 |
+| 10 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 |
+| 11 | [The Band And I](https://open.spotify.com/track/4gEYooYobqQWokcdP4aKPr) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:55 |
+| 12 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
+| 13 | [Therapy](https://open.spotify.com/track/7s9gcI3vON7hpTzQO2PEun) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:57 |
+| 14 | [by the end of the night](https://open.spotify.com/track/0yrGcbCjEwowGuETML0NOT) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/5N7c9Ii7LTUFs7lwHx8JKT) | 2:58 |
 
-Snapshot ID: `MjgxMjkxMzAsMDAwMDAwMDAyZjU2M2Q2OGVmMjU2MGM3MDlhMWI2Y2I4NDRkODhiZQ==`
+Snapshot ID: `MjgxMzA1NjAsMDAwMDAwMDA1NTk2NjgwNTVlYTgzODM0NmQ2MDExZTFhMDJiMWI0MQ==`

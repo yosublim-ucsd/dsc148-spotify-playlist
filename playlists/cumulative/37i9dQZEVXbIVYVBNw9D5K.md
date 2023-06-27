@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-708 songs - 1 day 11 hr 37 min
+709 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Al Aramızdan](https://open.spotify.com/track/6Uaw8GEKP6AxIMNUyi6q6w) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Al Aramızdan](https://open.spotify.com/album/6hxlscwVxcHll5lq1bHnZl) | 2:51 | 2023-04-15 | 2023-06-18 |
 | [Al Sevgilim](https://open.spotify.com/track/0UguFn9xs4WQshHabcxUxH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Al Sevgilim](https://open.spotify.com/album/3ToGL3pGP4wYodmOBxj9lA) | 3:12 | 2022-04-12 | 2022-12-13 |
 | [Alaz Alaz](https://open.spotify.com/track/3lJOIGsFylH947nMpYzfGO) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Başka Hikayeler](https://open.spotify.com/album/10SYL3StnN0Gxqr9jGkDxS) | 2:59 | 2021-03-29 | 2021-09-16 |
+| [Ali Cabbar](https://open.spotify.com/track/1u9oZzM8CTeCMXsdTXaOtY) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:09 | 2023-06-26 |  |
 | [Allah’ından Bul](https://open.spotify.com/track/350aUOZhGtTOK1dQbQFKNc) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Allah’ından Bul](https://open.spotify.com/album/7kvSA869nORwy8uzrHxUko) | 3:01 | 2021-03-27\* | 2021-09-05 |
 | [Altüst Olmuşum](https://open.spotify.com/track/2VnefbnGEWUiCLXHKOtE6x) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Altüst Olmuşum](https://open.spotify.com/album/5Zthwi7wMKTFPRUyJpJXqF) | 3:19 | 2021-10-12 | 2022-03-18 |
 | [Altüst Olmuşum](https://open.spotify.com/track/13THdxqHT11aSk3G8nUDzZ) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Altüst Olmuşum](https://open.spotify.com/album/2ZvaHFZIZqdXz4S1CTa1LX) | 3:22 | 2022-03-18 | 2023-06-17 |
@@ -698,7 +699,7 @@
 | [Zor](https://open.spotify.com/track/2vZPTcwHQTBydrwxOuxJ9F) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:00 | 2021-05-30 | 2021-06-01 |
 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 | 2022-09-10 | 2023-06-13 |
 | [Çarşamba Tatili](https://open.spotify.com/track/4324xYtPWZH1XbIh8UkBiZ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Çarşamba Tatili](https://open.spotify.com/album/0EcMkdfM1SyrhUR3LN0WkY) | 1:43 | 2021-07-18 | 2021-08-08 |
-| [Çağır](https://open.spotify.com/track/5Q6cDjM0JuvGu2mxulXGwo) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:07 | 2023-06-03 |  |
+| [Çağır](https://open.spotify.com/track/5Q6cDjM0JuvGu2mxulXGwo) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:07 | 2023-06-03 | 2023-06-27 |
 | [Çift Gökkuşağı \(Ada Masalı Orijinal Dizi Müziği\)](https://open.spotify.com/track/23mm9aftN5GODdix3IY64M) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Çift Gökkuşağı \(Ada Masalı Orijinal Dizi Müziği\)](https://open.spotify.com/album/11QO5v6BppeVyIfe0TxRM9) | 2:22 | 2021-07-08 | 2021-07-18 |
 | [Çiftetelli](https://open.spotify.com/track/34MM2UIWX7JOdI7NmnVNyD) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Çiftetelli](https://open.spotify.com/album/40KYcI9yGdQhAWIOYyaE1L) | 2:11 | 2021-07-04 | 2021-07-16 |
 | [Çok Kolay](https://open.spotify.com/track/4BBee59kamxuAF3J0pS6GT) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [Çok Kolay](https://open.spotify.com/album/7hz72trerdO3cg4JP9TGx1) | 3:30 | 2022-08-13 | 2022-08-15 |

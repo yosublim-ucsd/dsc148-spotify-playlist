@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Junior Zamora. Updates every Wednesday.",
-  "num_followers": 170573,
+  "num_followers": 170572,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2RlNzY3NTE4NjA4ODYxNzAxYjI1YWNhMGYwMjQ5NmE5YjAwOTNh",
+  "snapshot_id": "MCw3YjA5ODljN2YzOGJlZDNiZTg4MjRmMGI4NTYyMzc4MThmMzMyMWMw",
   "tracks": [
     {
       "added_at": "2023-06-21 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/0bz7vf4TEZdYT5K39QFDVH"
-      },
-      "artists": [
-        {
-          "name": "Erick Oyarvide",
-          "url": "https://open.spotify.com/artist/2A2c09DtgYJ5qHzfuHTwBv"
-        }
-      ],
-      "duration_ms": 156757,
-      "name": "Deber\u00edamos",
-      "url": "https://open.spotify.com/track/1rzM4YIAj3ni3UwSGHXKoO"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "Siempre Fuiste Vos",
         "url": "https://open.spotify.com/album/7lHGFf03FMycxt1DQ7IoAW"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/0bz7vf4TEZdYT5K39QFDVH"
+      },
+      "artists": [
+        {
+          "name": "Erick Oyarvide",
+          "url": "https://open.spotify.com/artist/2A2c09DtgYJ5qHzfuHTwBv"
+        }
+      ],
+      "duration_ms": 156757,
+      "name": "Deber\u00edamos",
+      "url": "https://open.spotify.com/track/1rzM4YIAj3ni3UwSGHXKoO"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
         "name": "MARIPOSAS",
         "url": "https://open.spotify.com/album/31optYeNRe79sh5FIMBGJl"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Dame M\u00e1s",
-        "url": "https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy"
-      },
-      "artists": [
-        {
-          "name": "Jinzo",
-          "url": "https://open.spotify.com/artist/0dsqYtPZHuvhqwNDnPrgsn"
-        }
-      ],
-      "duration_ms": 225299,
-      "name": "Dame M\u00e1s",
-      "url": "https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "La Sensaci\u00f3n",
         "url": "https://open.spotify.com/album/0Aj2XmEa9fcoqydXr9Rrh5"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 218211,
       "name": "Solo los Dos",
       "url": "https://open.spotify.com/track/3t1gIKQljAz0AUin4tWRdA"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "Dame M\u00e1s",
+        "url": "https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy"
+      },
+      "artists": [
+        {
+          "name": "Jinzo",
+          "url": "https://open.spotify.com/artist/0dsqYtPZHuvhqwNDnPrgsn"
+        }
+      ],
+      "duration_ms": 225299,
+      "name": "Dame M\u00e1s",
+      "url": "https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -711,30 +711,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Tecito E' Buenas Intenciones",
-        "url": "https://open.spotify.com/album/4FGhuyf7GS3nNI0b2CRcIC"
-      },
-      "artists": [
-        {
-          "name": "OHM",
-          "url": "https://open.spotify.com/artist/2KWuMq9ta5YVbzAHmLCXEP"
-        },
-        {
-          "name": "Laura Sof\u00eda",
-          "url": "https://open.spotify.com/artist/7JX6rkw6bRQ5ZPwPbtLbpf"
-        },
-        {
-          "name": "RI",
-          "url": "https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU"
-        }
-      ],
-      "duration_ms": 159761,
-      "name": "Tecito E' Buenas Intenciones",
-      "url": "https://open.spotify.com/track/6kgEBezCakZKiQvhxCHM1k"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "Libre (feat. Juan Jos\u00e9 Garc\u00eda & Rafael Lozina)",
         "url": "https://open.spotify.com/album/2ypwHaPEXujHuzQjrCtNEL"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 191000,
       "name": "Libre (feat. Juan Jos\u00e9 Garc\u00eda & Rafael Lozina)",
       "url": "https://open.spotify.com/track/5BXFmljuSgquI0IkWs52BM"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "Tecito E' Buenas Intenciones",
+        "url": "https://open.spotify.com/album/4FGhuyf7GS3nNI0b2CRcIC"
+      },
+      "artists": [
+        {
+          "name": "OHM",
+          "url": "https://open.spotify.com/artist/2KWuMq9ta5YVbzAHmLCXEP"
+        },
+        {
+          "name": "Laura Sof\u00eda",
+          "url": "https://open.spotify.com/artist/7JX6rkw6bRQ5ZPwPbtLbpf"
+        },
+        {
+          "name": "RI",
+          "url": "https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU"
+        }
+      ],
+      "duration_ms": 159761,
+      "name": "Tecito E' Buenas Intenciones",
+      "url": "https://open.spotify.com/track/6kgEBezCakZKiQvhxCHM1k"
     },
     {
       "added_at": "2023-06-21 04:00:00",

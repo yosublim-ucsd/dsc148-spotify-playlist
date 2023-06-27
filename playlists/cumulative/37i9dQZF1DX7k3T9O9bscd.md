@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. L.A Priest on cover.
 
-284 songs - 22 hr 57 min
+286 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [At Night in Dreams](https://open.spotify.com/track/163jsgXXOKqhuQdT6pRPc5) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/5Zisnw28sCEenTsdH1D8Hj) | 4:04 | 2021-11-12 |  |
 | [At Night In Dreams](https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz) | 4:04 | 2021-11-12 | 2023-06-23 |
 | [At Night in Dreams](https://open.spotify.com/track/6ZeOVOdxz0Sf0o9yf6imUX) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/6BcETfqZtiIw2TmpQGvAGS) | 4:04 | 2021-11-12 | 2022-07-29 |
+| [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 | 2023-06-26 |  |
 | [Automation](https://open.spotify.com/track/2xrOwkZ4t3qMTaP3oti1Xx) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Automation](https://open.spotify.com/album/7h72n5kHGmCYkoXkBoL3II) | 3:29 | 2021-11-12 | 2022-07-29 |
 | [Back to Land](https://open.spotify.com/track/6ylxuxxLEcbZKtVTf0Feg2) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/1VyWvAkunNZTJ0PCUv81dj) | 5:17 | 2021-11-12 | 2022-07-15 |
 | [Back to Land](https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:17 | 2021-11-12 |  |
@@ -50,7 +51,7 @@
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2021-11-12 |  |
 | [Busca Ayuda](https://open.spotify.com/track/60zGVY9oWBrgvR4dMOyYjy) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [Busca Ayuda](https://open.spotify.com/album/4sPthmuHoRguvoxG4KkOMi) | 3:51 | 2023-03-16 | 2023-03-25 |
 | [Caballerango](https://open.spotify.com/track/5k8NaRExvqn0ob1MrvU8Kf) | [Dorotheo](https://open.spotify.com/artist/7Bqd6UDHfc6xlAC4nOmITW) | [Caballerango](https://open.spotify.com/album/1X3BkJvSoJehqCpxpb3B6V) | 4:25 | 2021-11-12 | 2022-07-29 |
-| [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 | 2023-01-07 |  |
+| [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 | 2023-01-07 | 2023-06-27 |
 | [Cardboard Pile](https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Cardboard Pile](https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x) | 4:06 | 2022-04-12 | 2022-07-29 |
 | [Catatumbo Lightnings](https://open.spotify.com/track/4oxgLPTh8G6keUBjmMm6ey) | [Marie Byrd Land Band](https://open.spotify.com/artist/1qfKVN8ef3WUy7OU08YvYu) | [Lost Lands](https://open.spotify.com/album/00WN8FG1ICNDQlK3kvF1KV) | 4:15 | 2021-11-12 | 2022-07-24 |
 | [Changing Faces](https://open.spotify.com/track/329NblipbfswPVKLsA8ljD) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [Panoramas](https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW) | 4:30 | 2021-11-12 | 2022-07-25 |
@@ -174,6 +175,7 @@
 | [nijimu](https://open.spotify.com/track/6mSoV1VR4E0q7imROwCYw7) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [nijimusi](https://open.spotify.com/album/7HzdnY7KZwknO1dhQ9i5Wt) | 4:21 | 2021-11-12 | 2022-07-14 |
 | [Ninja Partisi](https://open.spotify.com/track/1civ8niQt12qzLrgiAeJ8I) | [Lalalar](https://open.spotify.com/artist/6CWQ7KWveleaeFagKCz26T) | [Ninja Partisi](https://open.spotify.com/album/4onGiuk6cVH5MTREVJb2ZX) | 2:35 | 2021-11-12 | 2022-07-19 |
 | [No Me Conoces](https://open.spotify.com/track/2dluCYr9wx0vkzp9bwrHqT) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [No Me Conoces](https://open.spotify.com/album/4UP0FdMJwjCiJxXRZfONDN) | 3:06 | 2022-02-12 | 2022-07-18 |
+| [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 | 2023-06-26 |  |
 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-30 | 2022-10-03 |
 | [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 | 2022-09-30 | 2023-03-08 |
 | [Nànnuflày](https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 5:03 | 2021-11-12 |  |
@@ -184,7 +186,7 @@
 | [Otto](https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Radar, Vol\. 1](https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z) | 5:00 | 2021-11-12 | 2022-07-13 |
 | [Panic In Babylon](https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Aufheben](https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn) | 4:38 | 2021-11-12 |  |
 | [Panic In Babylon](https://open.spotify.com/track/6nh4bNcaY1DHZ2k6lQEcLi) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Aufheben](https://open.spotify.com/album/63XqaziPkNvU0DgABaitR1) | 4:38 | 2021-11-12 | 2022-07-25 |
-| [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-01-12 |  |
+| [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-01-12 | 2023-06-27 |
 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 | 2021-11-12 |  |
 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 | 2022-09-30 |  |
 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 | 2021-11-12 |  |

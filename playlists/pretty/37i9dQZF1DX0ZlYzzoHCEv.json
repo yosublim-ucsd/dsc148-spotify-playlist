@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 34810,
+  "num_followers": 34847,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmExMjI5MmZlMDVjMzBkZTJkMTc2NmQ1ZDQ2YjExODNlNWY1OGQ1",
+  "snapshot_id": "MCw2OTU3ZmUwZDdhNzlhZDBmMGViOGE4ZDlkNjAyZTRiMjE4ODgyYTRi",
   "tracks": [
     {
       "added_at": "2023-06-05 08:59:12",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
       "added_at": "2023-06-05 08:59:12",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2023-06-05 08:59:12",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
-    },
-    {
-      "added_at": "2023-06-05 08:59:12",
-      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 185573,
       "name": "Shinunoga E-Wa",
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
+    },
+    {
+      "added_at": "2023-06-05 08:59:12",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
     },
     {
       "added_at": "2023-06-05 08:59:12",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "added_at": "2023-06-05 08:59:12",
+      "album": {
         "name": "I Know (PR1SVX Edit)",
         "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 133829,
       "name": "I Know - PR1SVX Edit",
       "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
-    },
-    {
-      "added_at": "2023-06-05 08:59:12",
-      "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2023-06-05 08:59:12",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
+        "name": "My Ordinary Life",
+        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "My Ordinary Life",
+      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
+    },
+    {
+      "added_at": "2023-06-05 08:59:12",
+      "album": {
         "name": "Kill Bill (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 175836,
       "name": "Kill Bill (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
-    },
-    {
-      "added_at": "2023-06-05 08:59:12",
-      "album": {
-        "name": "My Ordinary Life",
-        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
-      },
-      "artists": [
-        {
-          "name": "The Living Tombstone",
-          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "My Ordinary Life",
-      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
     },
     {
       "added_at": "2023-06-05 08:59:12",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 153294,
-      "name": "Still Don't Know My Name",
-      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
-    },
-    {
-      "added_at": "2023-06-05 08:59:12",
-      "album": {
         "name": "Parado no Bail\u00e3o",
         "url": "https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 171692,
       "name": "Parado no Bail\u00e3o",
       "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
+    },
+    {
+      "added_at": "2023-06-05 08:59:12",
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 153294,
+      "name": "Still Don't Know My Name",
+      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
     },
     {
       "added_at": "2023-06-05 08:59:12",
@@ -1291,26 +1291,22 @@
     {
       "added_at": "2023-06-05 08:59:12",
       "album": {
-        "name": "unfortunately yours,",
-        "url": "https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs"
+        "name": "LIVE FOREVER",
+        "url": "https://open.spotify.com/album/4hiArqU343m8BUT0lymyLO"
       },
       "artists": [
         {
-          "name": "GenriX",
-          "url": "https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx"
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
         },
         {
-          "name": "CORBAL",
-          "url": "https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+          "name": "rainy bear",
+          "url": "https://open.spotify.com/artist/080kPbQFzomkrfHW8U4XkZ"
         }
       ],
-      "duration_ms": 195605,
-      "name": "novocaine",
-      "url": "https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V"
+      "duration_ms": 85360,
+      "name": "nuts",
+      "url": "https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK"
     }
   ],
   "unique_name": "la mia testa:",

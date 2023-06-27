@@ -1,12 +1,12 @@
 {
   "description": "Relax with these timeless tunes. Cover: Yusuf / Cat Stevens",
-  "num_followers": 655416,
+  "num_followers": 655737,
   "original_name": "Mellow Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjFmMWIzZmQyMDllMWUyOGI2YWNmMTcwZTRkZWU3Y2Q2ZTcwN2Ix",
+  "snapshot_id": "MCxkMTQxMDY4MTYzNTkwNTRlMzkyYjg5M2E0ZTIzYTEwYTY4NWYyMDJm",
   "tracks": [
     {
       "added_at": "2023-05-31 04:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -263,6 +247,54 @@
       "duration_ms": 205613,
       "name": "Into the Mystic - 2013 Remaster",
       "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -299,38 +331,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Music From Big Pink (Remastered)",
-        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 274493,
-      "name": "The Weight - Remastered 2000",
-      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 180693,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 156653,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -379,22 +395,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 156653,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Daryl Hall & John Oates (The Silver Album)",
-        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Sara Smile",
-      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Rubber Soul (Remastered)",
         "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 146333,
       "name": "In My Life - Remastered 2009",
       "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Daryl Hall & John Oates (The Silver Album)",
+        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Sara Smile",
+      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
     },
     {
       "added_at": "2022-06-29 17:37:06",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 109386,
-      "name": "April Come She Will",
-      "url": "https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 109386,
+      "name": "April Come She Will",
+      "url": "https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -603,6 +603,22 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
         "name": "My Cherie Amour",
         "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
       },
@@ -631,38 +647,6 @@
       "duration_ms": 238573,
       "name": "Carolina in My Mind",
       "url": "https://open.spotify.com/track/2T5Ch09nefwckOu5NQvjIk"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
     },
     {
       "added_at": "2022-09-13 14:34:43",
@@ -715,6 +699,22 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
         "name": "The Best: Loggins & Messina Sittin' In Again",
         "url": "https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 254653,
       "name": "Danny's Song",
       "url": "https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89"
-    },
-    {
-      "added_at": "2023-01-30 18:09:25",
-      "album": {
-        "name": "Silk Purse",
-        "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Long Long Time",
-      "url": "https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1"
     },
     {
       "added_at": "2022-09-13 14:34:43",
@@ -759,6 +743,22 @@
       "duration_ms": 217400,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+    },
+    {
+      "added_at": "2023-01-30 18:09:25",
+      "album": {
+        "name": "Silk Purse",
+        "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Long Long Time",
+      "url": "https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2HBiEHyRhKl6dxWBKQpxID"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 256399,
-      "name": "Leader of the Band",
-      "url": "https://open.spotify.com/track/3O4s2m47MFhnGqmpkjoKYk"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 330533,
       "name": "Mr. Tambourine Man",
       "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2HBiEHyRhKl6dxWBKQpxID"
+      },
+      "artists": [
+        {
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Leader of the Band",
+      "url": "https://open.spotify.com/track/3O4s2m47MFhnGqmpkjoKYk"
     },
     {
       "added_at": "2022-02-28 20:05:01",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 341626,
-      "name": "Tangled up in Blue",
-      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 235626,
-      "name": "So Far Away",
-      "url": "https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl"
+      "duration_ms": 341626,
+      "name": "Tangled up in Blue",
+      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
     },
     {
       "added_at": "2022-04-25 13:48:17",
@@ -1015,6 +999,22 @@
       "duration_ms": 196466,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl"
     },
     {
       "added_at": "2021-09-30 18:53:37",

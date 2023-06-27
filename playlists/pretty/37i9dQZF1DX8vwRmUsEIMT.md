@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Gwen Stefani
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,983 likes - 79 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,987 likes - 79 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 78 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 |
 | 79 | [Silly Me](https://open.spotify.com/track/5qXmsKaUlKaRzVpmtCYfqr) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Silly Me](https://open.spotify.com/album/7HBMhkR1VpAQQF93biR19H) | 3:19 |
 
-Snapshot ID: `MCxmZmQyZjU1ODMyMmJhNWEwNWI1YTRiOTlhNDAzNmE2MmEwNGVlOGRl`
+Snapshot ID: `MCwxNWU2OTg3MTg3MDBkMjY0MjUzOTQ3YzgyYzY0ZTUyNjdiY2EwYWU0`

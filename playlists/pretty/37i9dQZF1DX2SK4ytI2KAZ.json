@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 696516,
+  "num_followers": 696573,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjhlMTVkNjcxNTY1NDVjNGI3YTFjYzNiMWQzZTIyMzM3Y2NiN2E2",
+  "snapshot_id": "MCxkMDM2OGFjYjAwNjUzMDEyZDhmYjhmZTkwN2Y2NjRiZmM0OTJhMTky",
   "tracks": [
     {
       "added_at": "2023-06-07 02:51:32",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
-        "name": "sail away",
-        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
       },
       "artists": [
         {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 179000,
-      "name": "sail away",
-      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2023-06-07 02:51:32",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
         }
       ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+      "duration_ms": 179000,
+      "name": "sail away",
+      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
     },
     {
       "added_at": "2023-06-07 02:51:32",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
-        "name": "Glitterbug (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 209557,
-      "name": "Greek Tragedy",
-      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
-    },
-    {
-      "added_at": "2023-06-07 02:51:32",
-      "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 251906,
       "name": "Freakin' Out On the Interstate",
       "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
+    },
+    {
+      "added_at": "2023-06-07 02:51:32",
+      "album": {
+        "name": "Glitterbug (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 209557,
+      "name": "Greek Tragedy",
+      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
     },
     {
       "added_at": "2023-06-07 02:51:32",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
+        "name": "I've Got Some Living To Do",
+        "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 186324,
+      "name": "Stella Brown",
+      "url": "https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH"
+    },
+    {
+      "added_at": "2023-06-07 02:51:32",
+      "album": {
         "name": "The Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
-    },
-    {
-      "added_at": "2023-06-07 02:51:32",
-      "album": {
-        "name": "I've Got Some Living To Do",
-        "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Stella Brown",
-      "url": "https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH"
     },
     {
       "added_at": "2023-06-07 02:51:32",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Deleter",
-      "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
-    },
-    {
-      "added_at": "2023-06-07 02:51:32",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/6GG2d6j3ELpLafcUoaJw6T"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 167556,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/7fioUXJZrCUn91UZJV2mQD"
+    },
+    {
+      "added_at": "2023-06-07 02:51:32",
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Deleter",
+      "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
     },
     {
       "added_at": "2023-06-07 02:51:32",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
-        "name": "Always Get This Way",
-        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 174258,
-      "name": "Always Get This Way",
-      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
-    },
-    {
-      "added_at": "2023-06-07 02:51:32",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
+    },
+    {
+      "added_at": "2023-06-07 02:51:32",
+      "album": {
+        "name": "Always Get This Way",
+        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 174258,
+      "name": "Always Get This Way",
+      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
     },
     {
       "added_at": "2023-06-07 02:51:32",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-06-07 02:51:32",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 196739,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
-    },
-    {
-      "added_at": "2023-06-07 02:51:32",
-      "album": {
         "name": "2 Heads",
         "url": "https://open.spotify.com/album/7l6O4yFBhc8t0rs0C3MAcP"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 213706,
       "name": "2 Heads",
       "url": "https://open.spotify.com/track/3bi8yEuK44vLcbjHkPH0u1"
+    },
+    {
+      "added_at": "2023-06-07 02:51:32",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
     },
     {
       "added_at": "2023-06-07 02:51:32",

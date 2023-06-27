@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Major RD",
-  "num_followers": 112408,
+  "num_followers": 112628,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzJiNTM3MTY2YTIxOGI2ZWMzOGMyMjRmMmU0ZmM4MzEwZjkxYTBl",
+  "snapshot_id": "MCxhNjlmNWM2ODQ4MjBmMDRkMGVkYTM3NjhjNWI1MjA4NGYyNWI0Nzk2",
   "tracks": [
     {
       "added_at": "2023-06-23 03:01:00",
@@ -423,34 +423,6 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Clickbait",
-        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "Clickbait",
-      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
-    },
-    {
-      "added_at": "2023-06-23 03:01:00",
-      "album": {
         "name": "INEF\u00c1VEL",
         "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
@@ -479,26 +451,30 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "N\u00c9 SEGREDO",
-        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
+        "name": "Clickbait",
+        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
       },
       "artists": [
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         },
         {
-          "name": "Bairro 13",
-          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
         }
       ],
-      "duration_ms": 155771,
-      "name": "N\u00c9 SEGREDO",
-      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
+      "duration_ms": 161344,
+      "name": "Clickbait",
+      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2023-06-23 03:01:00",
@@ -535,6 +511,50 @@
       "duration_ms": 154838,
       "name": "Vit\u00f3ria Dobrada",
       "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
+    },
+    {
+      "added_at": "2023-06-23 03:01:00",
+      "album": {
+        "name": "Balmain",
+        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Balmain",
+      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
+    },
+    {
+      "added_at": "2023-06-23 03:01:00",
+      "album": {
+        "name": "N\u00c9 SEGREDO",
+        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Bairro 13",
+          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
+        }
+      ],
+      "duration_ms": 155771,
+      "name": "N\u00c9 SEGREDO",
+      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
     },
     {
       "added_at": "2023-06-23 03:01:00",
@@ -583,26 +603,6 @@
       "duration_ms": 229894,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
-    },
-    {
-      "added_at": "2023-06-23 03:01:00",
-      "album": {
-        "name": "Balmain",
-        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
-      },
-      "artists": [
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Balmain",
-      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
     },
     {
       "added_at": "2023-06-23 03:01:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Posturad\u00e3o",
-        "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
-      },
-      "artists": [
-        {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Posturad\u00e3o",
-      "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
-    },
-    {
-      "added_at": "2023-06-23 03:01:00",
-      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -747,86 +727,22 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Marid\u00e3o (feat. Borges & Orochi)",
-        "url": "https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP"
+        "name": "Posturad\u00e3o",
+        "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
       },
       "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Feek",
-          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        }
-      ],
-      "duration_ms": 322622,
-      "name": "Marid\u00e3o (feat. Borges & Orochi)",
-      "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
-    },
-    {
-      "added_at": "2023-06-23 03:01:00",
-      "album": {
-        "name": "Maturidade",
-        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 142026,
-      "name": "Maturidade",
-      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
-    },
-    {
-      "added_at": "2023-06-23 03:01:00",
-      "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
         {
           "name": "DomLaike",
           "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
         },
         {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         }
       ],
-      "duration_ms": 307692,
-      "name": "Vida Cara",
-      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
+      "duration_ms": 162782,
+      "name": "Posturad\u00e3o",
+      "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
     },
     {
       "added_at": "2023-06-23 03:01:00",
@@ -859,6 +775,62 @@
       "duration_ms": 194634,
       "name": "Desde Menorzin",
       "url": "https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr"
+    },
+    {
+      "added_at": "2023-06-23 03:01:00",
+      "album": {
+        "name": "Maturidade",
+        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 142026,
+      "name": "Maturidade",
+      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
+    },
+    {
+      "added_at": "2023-06-23 03:01:00",
+      "album": {
+        "name": "Marid\u00e3o (feat. Borges & Orochi)",
+        "url": "https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        }
+      ],
+      "duration_ms": 322622,
+      "name": "Marid\u00e3o (feat. Borges & Orochi)",
+      "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
     },
     {
       "added_at": "2023-06-23 03:01:00",
@@ -911,6 +883,34 @@
       "duration_ms": 183652,
       "name": "Jovens do Reggae",
       "url": "https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o"
+    },
+    {
+      "added_at": "2023-06-23 03:01:00",
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 307692,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
     },
     {
       "added_at": "2023-06-23 03:01:00",
@@ -987,30 +987,6 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Dolce & Gabbana",
-        "url": "https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 145307,
-      "name": "Dolce & Gabbana",
-      "url": "https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY"
-    },
-    {
-      "added_at": "2023-06-23 03:01:00",
-      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo"
       },
@@ -1059,34 +1035,54 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         },
         {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         },
         {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
-        },
-        {
-          "name": "Buccy",
-          "url": "https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT"
+          "name": "A Jolly Child",
+          "url": "https://open.spotify.com/artist/1OJliXxNuEF6RlPefYFz1D"
         }
       ],
-      "duration_ms": 293009,
-      "name": "X6",
-      "url": "https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4"
+      "duration_ms": 140800,
+      "name": "Luxo No Morro",
+      "url": "https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm"
+    },
+    {
+      "added_at": "2023-06-23 03:01:00",
+      "album": {
+        "name": "Dolce & Gabbana",
+        "url": "https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 145307,
+      "name": "Dolce & Gabbana",
+      "url": "https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY"
     },
     {
       "added_at": "2023-06-23 03:01:00",
@@ -1119,34 +1115,6 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "A Jolly Child",
-          "url": "https://open.spotify.com/artist/1OJliXxNuEF6RlPefYFz1D"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Luxo No Morro",
-      "url": "https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm"
-    },
-    {
-      "added_at": "2023-06-23 03:01:00",
-      "album": {
         "name": "Hugo Boss",
         "url": "https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho"
       },
@@ -1175,6 +1143,38 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        },
+        {
+          "name": "Buccy",
+          "url": "https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT"
+        }
+      ],
+      "duration_ms": 293009,
+      "name": "X6",
+      "url": "https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4"
+    },
+    {
+      "added_at": "2023-06-23 03:01:00",
+      "album": {
         "name": "Isso Que \u00c9 Bom",
         "url": "https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-06-23 03:01:00",
       "album": {
-        "name": "PATY",
-        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
-      },
-      "artists": [
-        {
-          "name": "Welisson",
-          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "PATY",
-      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
-    },
-    {
-      "added_at": "2023-06-23 03:01:00",
-      "album": {
         "name": "Animais Traidores",
         "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 196173,
       "name": "Animais Traidores",
       "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
+    },
+    {
+      "added_at": "2023-06-23 03:01:00",
+      "album": {
+        "name": "PATY",
+        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "PATY",
+      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
       "added_at": "2023-06-23 03:01:00",

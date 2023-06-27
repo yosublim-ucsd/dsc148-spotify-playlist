@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,253 likes - 48 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,266 likes - 48 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 47 | [Disconnected](https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:00 |
 | 48 | [An Intimate Close Up Of A Street Punk Trouble Maker](https://open.spotify.com/track/7IejBxjTUvI6A1Kprlxqfz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:34 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDAyOTI2Y2I0MTJmNTg4YmU1MmQ1NDhhODA2ZDhiMjE1ZA==`
+Snapshot ID: `MjgxMjk2OTYsMDAwMDAwMDAwODMzZWVhZTY4YTc0YjA1OTY1YzU3YmIxOTU0N2E0Mg==`

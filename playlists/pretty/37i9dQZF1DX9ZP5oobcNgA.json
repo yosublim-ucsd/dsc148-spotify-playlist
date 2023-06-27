@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 111136,
+  "num_followers": 111183,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzJiMmZlN2Q3MzBhOTMxOTM0ZWRjMDVhMWUwNjhmNDU4MGFjMjQ3",
+  "snapshot_id": "MCw0MDY4NGM4OTE0MmJlNTgzMzJhMzFmNTdhMWNiN2ZjMzQ3ZmU2MDJk",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1335,30 +1335,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "John Eliot Gardiner Conducts Handel",
-        "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "duration_ms": 131479,
-      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
-      "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Water Music/Sonatas etc.",
         "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
       },
@@ -1379,6 +1355,30 @@
       "duration_ms": 84693,
       "name": "Water Music (ed. Boyling) (1999 Digital Remaster), Suite no.3 in G: Lento",
       "url": "https://open.spotify.com/track/0sHaJUGowZZkbjtC4FoPCl"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "John Eliot Gardiner Conducts Handel",
+        "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "duration_ms": 131479,
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1479,34 +1479,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Rodelinda",
-        "url": "https://open.spotify.com/album/5XShHnZAUtGkczKq62J2o1"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Marijana Mijanovic",
-          "url": "https://open.spotify.com/artist/1vLaIsYTkk542cZ0ZUEnH7"
-        },
-        {
-          "name": "Il Complesso Barocco",
-          "url": "https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87"
-        },
-        {
-          "name": "Alan Curtis",
-          "url": "https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR"
-        }
-      ],
-      "duration_ms": 324413,
-      "name": "Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato",
-      "url": "https://open.spotify.com/track/1hc8nadCBhW9jyNyQyfaCh"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Judas Maccabaeus",
         "url": "https://open.spotify.com/album/7aIYizHCqmbKfn7vK8PINm"
       },
@@ -1535,6 +1507,34 @@
       "duration_ms": 395026,
       "name": "Judas Maccabaeus, HWV 63, Act III: Duet \"O lovely peace\"",
       "url": "https://open.spotify.com/track/1o8KteyWoKK4HGEuUOCzS6"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Rodelinda",
+        "url": "https://open.spotify.com/album/5XShHnZAUtGkczKq62J2o1"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marijana Mijanovic",
+          "url": "https://open.spotify.com/artist/1vLaIsYTkk542cZ0ZUEnH7"
+        },
+        {
+          "name": "Il Complesso Barocco",
+          "url": "https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87"
+        },
+        {
+          "name": "Alan Curtis",
+          "url": "https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR"
+        }
+      ],
+      "duration_ms": 324413,
+      "name": "Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato",
+      "url": "https://open.spotify.com/track/1hc8nadCBhW9jyNyQyfaCh"
     },
     {
       "added_at": "2022-06-28 08:56:25",

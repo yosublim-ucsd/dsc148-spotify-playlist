@@ -1,12 +1,12 @@
 {
   "description": "Legendary tracks featured in music video games and rhythm games over the years.",
-  "num_followers": 13596,
+  "num_followers": 13661,
   "original_name": "Expert Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2ZiODk0ZWJkY2Y3ZTZiMThmMzNkMjY2ODQxYThmYjY1NzRmZjcz",
+  "snapshot_id": "MCw5NTNkOWZlOTcwYjFmOGMwZTZmZGFlNjk5YjNhZjNjNGIyYjcyZjcy",
   "tracks": [
     {
       "added_at": "2022-10-12 16:09:56",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-10-12 16:09:56",
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
-    },
-    {
-      "added_at": "2022-10-12 16:09:56",
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "added_at": "2022-10-12 16:09:56",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
     },
     {
       "added_at": "2022-10-12 16:09:56",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-10-12 16:09:56",
       "album": {
-        "name": "Ill Communication",
-        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
-    },
-    {
-      "added_at": "2022-10-12 16:09:56",
-      "album": {
         "name": "Agents Of Fortune",
         "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 308120,
       "name": "(Don't Fear) The Reaper",
       "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "added_at": "2022-10-12 16:09:56",
+      "album": {
+        "name": "Ill Communication",
+        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
     },
     {
       "added_at": "2022-10-12 16:09:56",

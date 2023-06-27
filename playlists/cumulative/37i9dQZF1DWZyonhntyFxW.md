@@ -2,7 +2,7 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: عفروتو
+> أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: <a href="https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q?si=amIjA4IaQo2ruk0jUnQuoQ"> ويجز </a>
 
 198 songs - 10 hr 8 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 76276,
+  "num_followers": 76579,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTE3ZDI3YmI1YWJjYWU0MWI3NTg3ZDk1MDdhYzFiYzA2YTM0ODE4",
+  "snapshot_id": "MCxiZTE3YmE5NzE5ZWMzODY3ZTc5YzFhNzQ3MzBjZGU4M2I2MjllMWJh",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust in You",
-      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "See A Victory",
         "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 244040,
       "name": "Raise a Hallelujah (Studio Version)",
       "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "No Impossible with You",
-      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 251714,
       "name": "Love Theory",
       "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "No Impossible with You",
+      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/1QcPl6AFNTiczxCuSpOoEM"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 230610,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/68Vm2W4oURsPV3121vUZgB"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "You Cannot Be Stopped",
         "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 261360,
       "name": "You Cannot Be Stopped",
       "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1QcPl6AFNTiczxCuSpOoEM"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 230610,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/68Vm2W4oURsPV3121vUZgB"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 281160,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "The Best Yet",
         "url": "https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 246826,
       "name": "Dare You to Move",
       "url": "https://open.spotify.com/track/45sziCSqS4BWSQWUlLRpyf"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 281160,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4nrfC2KI741CXHq1wqvHoY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "It's Gonna Get Better",
+      "url": "https://open.spotify.com/track/2FAe8dckXKBLgKoiDEkdi8"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "REBELS",
         "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 226933,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/4nrfC2KI741CXHq1wqvHoY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "It's Gonna Get Better",
-      "url": "https://open.spotify.com/track/2FAe8dckXKBLgKoiDEkdi8"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Faultlines Vol. I",
-        "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
-      },
-      "artists": [
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Only Ever",
         "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "God Knows (Must Be Love) - Radio Edit",
-        "url": "https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0"
+        "name": "Faultlines Vol. I",
+        "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
         }
       ],
-      "duration_ms": 236453,
-      "name": "God Knows (Must Be Love) - Radio Edit",
-      "url": "https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo"
+      "duration_ms": 172500,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1215,6 +1199,22 @@
       "duration_ms": 234666,
       "name": "Future",
       "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "God Knows (Must Be Love) - Radio Edit",
+        "url": "https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "God Knows (Must Be Love) - Radio Edit",
+      "url": "https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo"
     },
     {
       "added_at": "2023-02-07 17:43:16",

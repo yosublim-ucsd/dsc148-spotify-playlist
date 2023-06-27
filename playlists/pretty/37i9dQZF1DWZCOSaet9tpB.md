@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=RoHD2EHUSPCtcCoNZRtGxA"> Fireboy DML</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,591 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,653 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 69 | [Yoga](https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Yoga](https://open.spotify.com/album/63GoanBcE6J4MDIuSQi7jc) | 2:48 |
 | 70 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
 
-Snapshot ID: `MCxhMTM4YzM1OGQ4NmMwMmFkNzY3YjMyNDJiZmU1YTc5MWUyNGI5NjZl`
+Snapshot ID: `MCw0ZGZjNDdjMDFhNjY0NmQzMWI1ZDMwYzk0MzUwZTY2ZjcyMmYxMDJk`

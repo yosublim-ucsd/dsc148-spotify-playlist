@@ -120,7 +120,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 161236,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq"
@@ -600,6 +600,32 @@
       "duration_ms": 171944,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+    },
+    {
+      "album": {
+        "name": "Careless Whisper",
+        "url": "https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI"
+      },
+      "artists": [
+        {
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        },
+        {
+          "name": "ALUR",
+          "url": "https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
     },
     {
       "album": {

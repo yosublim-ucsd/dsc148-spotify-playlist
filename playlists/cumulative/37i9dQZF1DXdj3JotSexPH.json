@@ -7315,6 +7315,24 @@
     },
     {
       "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61673,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
+    },
+    {
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },

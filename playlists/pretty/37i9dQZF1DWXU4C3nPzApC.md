@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 
 > The best music with a Nashville flavour\. Cover: Twinnie
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,449 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,457 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 49 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 |
 | 50 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 |
 
-Snapshot ID: `MCw0ZjY4MDU3YTQ4MTNjMjg3ODE1MzY0ZmQ4ZDFjNDg1YWYwMWUzOTlh`
+Snapshot ID: `MCw2OWQzYzNlM2M1NjZjNGIxMjE5YjNjNzg4YmY2Y2E0YTcxYmI3ZWNj`

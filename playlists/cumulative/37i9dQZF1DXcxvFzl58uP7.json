@@ -4741,6 +4741,24 @@
     },
     {
       "album": {
+        "name": "Untitled '91",
+        "url": "https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu"
+      },
+      "artists": [
+        {
+          "name": "Hector Gachan",
+          "url": "https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87966,
+      "name": "Flook",
+      "url": "https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/3tadYy0gBmqmIMpxWBfwJT"
       },
@@ -14568,7 +14586,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 200547,
       "name": "VVS",
       "url": "https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO"

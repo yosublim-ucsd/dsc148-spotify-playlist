@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,801 likes - 51 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,863 likes - 51 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 24 | [\#1](https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:27 |
 | 25 | [Petiatil Cx Htdui](https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:11 |
 | 26 | [Polynomial\-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Xylem Tube EP](https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX) | 4:46 |
-| 27 | [Goon Gumpas](https://open.spotify.com/track/61mG2PGpS0GDSVnjMmhzC4) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 2:02 |
+| 27 | [4](https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:37 |
 | 28 | [\#13](https://open.spotify.com/track/3jRCZkYVcDniUrXjL71QwE) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:20 |
 | 29 | [minipops 67 \[120.2\]\[source field mix\]](https://open.spotify.com/track/00xFfMsOn9TbRe3sZcdABm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 4:47 |
 | 30 | [piano un1 arpej](https://open.spotify.com/track/3s2ID3iHa7h3K8Fv1NnnLi) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01) | 0:50 |
-| 31 | [4](https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:37 |
+| 31 | [Goon Gumpas](https://open.spotify.com/track/61mG2PGpS0GDSVnjMmhzC4) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 2:02 |
 | 32 | [\#7](https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 8:51 |
 | 33 | [produk 29 \[101\]](https://open.spotify.com/track/2oe8134WXw7Pw0ixstdOu8) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:03 |
 | 34 | [piano un10 it happened](https://open.spotify.com/track/75NjAlMKrabtXiM2P89E5F) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01) | 1:48 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 50 | [Cow Cud Is A Twin](https://open.spotify.com/track/1rfsweNl8UOYQnugjH5b5g) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:33 |
 | 51 | [Wax The Nip](https://open.spotify.com/track/4OLn9JczgVsRespw6XSlHc) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 4:18 |
 
-Snapshot ID: `MjgxMjgyMTksMDAwMDAwMDAyMzJhZDg3MWEwMjQxYjEwMTJhMzg1MDI0YTAwOGI5NQ==`
+Snapshot ID: `MjgxMjk2OTYsMDAwMDAwMDBlNmI0ODI0Mjc0YjkwODEwYTIyYzExMDY2ZTVmYTQ4NQ==`

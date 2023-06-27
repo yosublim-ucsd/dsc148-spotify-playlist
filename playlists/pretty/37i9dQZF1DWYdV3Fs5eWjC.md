@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,208 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,226 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 18 | [Honey](https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Honey](https://open.spotify.com/album/2D37uNhXgherfImusGBKTx) | 3:19 |
 | 19 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 |
 | 20 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 |
-| 21 | [IN THE AIR](https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:16 |
-| 22 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
-| 23 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 |
-| 24 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
-| 25 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 |
+| 21 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 |
+| 22 | [IN THE AIR](https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:16 |
+| 23 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
+| 24 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 |
+| 25 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
 | 26 | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7) | 4:02 |
 | 27 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
 | 28 | [Bisexual Anthem](https://open.spotify.com/track/4O5vkTY3ivnCv5oY6UXAPd) | [Domo Wilson](https://open.spotify.com/artist/2h2fB0j2IN50sSwolVO1AZ) | [Chapter 25: Domonique](https://open.spotify.com/album/6hN3Sw6FzfmfGhEeD78cVU) | 3:07 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 44 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 |
 | 45 | [Stand \(feat\. Cor.Ece\) \- Edit](https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv) | [Stand \(feat\. Cor.Ece\)](https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf) | 3:02 |
 | 46 | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/album/4slIaFabUZiXFQt1LJXTu1) | 3:18 |
-| 47 | [Camille](https://open.spotify.com/track/6OqDwiemWUNCb2yRzWNoza) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Camille](https://open.spotify.com/album/34IwZWZlJYs7D3cEiJdYLE) | 2:16 |
-| 48 | [Body Move](https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/20v7NPIDPBIRXIBEnJdoQg) | 2:56 |
-| 49 | [Culture](https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 4:08 |
+| 47 | [Culture](https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 4:08 |
+| 48 | [Camille](https://open.spotify.com/track/6OqDwiemWUNCb2yRzWNoza) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Camille](https://open.spotify.com/album/34IwZWZlJYs7D3cEiJdYLE) | 2:16 |
+| 49 | [Body Move](https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/20v7NPIDPBIRXIBEnJdoQg) | 2:56 |
 | 50 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 |
 
-Snapshot ID: `MCwwYTNkMjM1N2QxNDUzMGY1Y2FiYjNmM2NiMzA5MmNhMWIxMDM3YzNm`
+Snapshot ID: `MCwyODkzNDFiZGVhNjdiNDJmOTAwYjMzYTI5YTI4ZGUyOGJiNTA2MDFi`

@@ -858,7 +858,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 172192,
       "name": "Aia e",
       "url": "https://open.spotify.com/track/4DtQZIcQCsZx89Ur1ouilo"
@@ -3172,7 +3172,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 202478,
       "name": "Buzele Cu Rosu Inchis",
       "url": "https://open.spotify.com/track/2daDEsJ0IztRdLzUSLss6f"
@@ -7002,7 +7002,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 142165,
       "name": "Fata cu paharul",
       "url": "https://open.spotify.com/track/26i4jKBlWSrlzpiB9V9gDB"
@@ -9650,7 +9650,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -12074,7 +12074,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 166788,
       "name": "Lumea asta",
       "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
@@ -12468,7 +12468,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 158297,
       "name": "MARATON - From \"Haita De Ac\u021biune\" The Movie",
       "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"
@@ -19657,6 +19657,32 @@
     },
     {
       "album": {
+        "name": "SUNETE 2",
+        "url": "https://open.spotify.com/album/2CSdv5brTnCOhv9HxWlCxl"
+      },
+      "artists": [
+        {
+          "name": "andrei",
+          "url": "https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2"
+        },
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        },
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0CubchptrDNV9ei0oA5u3k"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134519,
+      "name": "SUNETE 2",
+      "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -19972,7 +19998,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 169541,
       "name": "S\u00e2nge pe pat \u0219i pe podea",
       "url": "https://open.spotify.com/track/0AFTEC66MiVSaRN0AobM2n"
@@ -20208,7 +20234,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 139780,
       "name": "Tarabanele",
       "url": "https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm"
@@ -23616,7 +23642,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 156734,
       "name": "\u00cen golul t\u0103u",
       "url": "https://open.spotify.com/track/4aozcUwwPK4A8cfRti0mhI"

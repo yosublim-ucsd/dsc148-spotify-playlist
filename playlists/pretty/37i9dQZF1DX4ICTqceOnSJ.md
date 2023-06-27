@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,108 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,114 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 49 | [Rayos X](https://open.spotify.com/track/0JoK7s0dnUY09u7oTtSK8L) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Rayos X](https://open.spotify.com/album/7qPnZe48YvcrH1UPB7kjkb) | 3:13 |
 | 50 | [Mis Amantes](https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Mis Amantes](https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc) | 3:49 |
 
-Snapshot ID: `MCxjNzk4MmZmMGU0NDE2YzlhM2FiODAwZmMwZGIwYzk3MmEwOGE5MjA5`
+Snapshot ID: `MCxhZGJjMzQ5NGNlMDA4Y2E3MGUxNGQzYWRmNDZiNzg4YmI1YjQ3NWJm`

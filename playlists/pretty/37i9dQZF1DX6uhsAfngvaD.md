@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,386 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,431 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 24 | [Tenderness](https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 4:01 |
 | 25 | [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 |
 | 26 | [Days](https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc) | 5:20 |
-| 27 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 |
-| 28 | [Drag](https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Headcase](https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT) | 3:09 |
-| 29 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 |
-| 30 | [Lean Into Life](https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 5:27 |
+| 27 | [Drag](https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Headcase](https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT) | 3:09 |
+| 28 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 |
+| 29 | [Lean Into Life](https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 5:27 |
+| 30 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 |
 | 31 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 32 | [Plum](https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:24 |
 | 33 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 40 | [If I Come Home](https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm) | [lil rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [If I Come Home](https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45) | 3:36 |
 | 41 | [Keep You Warm](https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [This Empty Town](https://open.spotify.com/album/4BOldAGooVBHr4LZsyVjAL) | 4:16 |
 | 42 | [Paralyzed](https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV) | [Swiss Portrait](https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE) | [Paralyzed](https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7) | 2:40 |
-| 43 | [The Clouds Cleared the Way](https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [The Clouds Cleared the Way](https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8) | 4:04 |
-| 44 | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8) | 3:10 |
-| 45 | [Deceiver](https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:29 |
+| 43 | [Deceiver](https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:29 |
+| 44 | [The Clouds Cleared the Way](https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [The Clouds Cleared the Way](https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8) | 4:04 |
+| 45 | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8) | 3:10 |
 | 46 | [Roll With The Punches](https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 3:46 |
-| 47 | [Vibrate](https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:34 |
-| 48 | [Quicksand](https://open.spotify.com/track/6LhSsOUN9BRqiXKfGBkNp6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:11 |
+| 47 | [Quicksand](https://open.spotify.com/track/6LhSsOUN9BRqiXKfGBkNp6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:11 |
+| 48 | [Vibrate](https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:34 |
 | 49 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
 | 50 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
 | 51 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 |
 | 80 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
 
-Snapshot ID: `MCw4MDFlNGM1YjIyNDQwMDVhMjA3NTZhYTg5NmNmMDJjYmEwYmYzM2M4`
+Snapshot ID: `MCxlN2RiNjdiY2UzMTE3OGYxODkxNzVmNjhiZWFiODdhNTFkYTA4MTQ5`

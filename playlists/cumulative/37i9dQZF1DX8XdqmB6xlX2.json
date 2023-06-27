@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/2woiwhAylaCMs9TaOLCRka"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/7dGXSUVah5IfIeymPFZ5vM"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 179280,
       "name": "Bruise",
       "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
@@ -222,7 +240,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -244,7 +262,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 229747,
       "name": "Champ (feat. Edgar Winter)",
       "url": "https://open.spotify.com/track/3OHYElP3QCFKfnReFTZ2nw"
@@ -323,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Cowboys And Angels",
+        "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133973,
+      "name": "Cowboys And Angels",
+      "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
+    },
+    {
+      "album": {
         "name": "Daddy Issues (Remix) feat. Syd",
         "url": "https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS"
       },
@@ -356,7 +392,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 145059,
       "name": "Dare Me",
       "url": "https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl"
@@ -410,7 +446,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 145093,
       "name": "Dummy",
       "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
@@ -428,7 +464,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
@@ -446,7 +482,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -561,6 +597,32 @@
     },
     {
       "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369626,
+      "name": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "url": "https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq"
+    },
+    {
+      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -615,6 +677,24 @@
     },
     {
       "album": {
+        "name": "girls like me don't cry (sped up)",
+        "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "girls like me don't cry (sped up)",
+      "url": "https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C"
+    },
+    {
+      "album": {
         "name": "Here Comes The Cowboy",
         "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
       },
@@ -648,6 +728,24 @@
       "duration_ms": 231910,
       "name": "heights",
       "url": "https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V"
+    },
+    {
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "album": {
@@ -738,6 +836,24 @@
       "duration_ms": 204014,
       "name": "Hot Rod",
       "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
+    },
+    {
+      "album": {
+        "name": "hotline (edit)",
+        "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60719,
+      "name": "hotline (edit)",
+      "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
     },
     {
       "album": {
@@ -915,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "lie",
+        "url": "https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214044,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh"
+    },
+    {
+      "album": {
         "name": "Z-Sides",
         "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
       },
@@ -962,7 +1096,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 173369,
       "name": "Living In A Haze",
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
@@ -1024,6 +1158,42 @@
       "duration_ms": 224520,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb"
+    },
+    {
+      "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "album": {
+        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
     },
     {
       "album": {
@@ -1104,7 +1274,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
@@ -1180,7 +1350,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 235853,
       "name": "Phone",
       "url": "https://open.spotify.com/track/6CmtXPRckXzOCYh6aw0kqk"
@@ -1220,7 +1390,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 232200,
       "name": "Pumped Up Kicks - Gus Dapperton Version",
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
@@ -1417,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215448,
+      "name": "Snow Angel",
+      "url": "https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K"
+    },
+    {
+      "album": {
         "name": "Solitude (Felsmann + Tiley Reinterpretation)",
         "url": "https://open.spotify.com/album/7mCzA6gqtv4ZtfInpJXm52"
       },
@@ -1497,6 +1685,28 @@
     },
     {
       "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "album": {
         "name": "The Perfect Girl",
         "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
       },
@@ -1548,6 +1758,24 @@
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
+    },
+    {
+      "album": {
+        "name": "EVOLution",
+        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"
     },
     {
       "album": {
@@ -1744,7 +1972,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 264320,
       "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ"

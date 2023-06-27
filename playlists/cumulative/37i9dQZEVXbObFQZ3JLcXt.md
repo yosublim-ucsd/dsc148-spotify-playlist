@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-415 songs - 1 day 1 hr 14 min
+416 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Diggity](https://open.spotify.com/track/2JEaSgRiEra5OQrZlnyqXG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:29 | 2021-05-12 | 2021-05-16 |
 | [Dinda](https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda](https://open.spotify.com/album/5uAiw6BRqGyyJ3jFsrvRY0) | 3:31 | 2021-09-19 | 2021-10-22 |
 | [Diri](https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:00 | 2022-03-05 | 2022-11-07 |
-| [Disenchanted](https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:55 | 2023-05-13 |  |
+| [Disenchanted](https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:55 | 2023-05-13 | 2023-06-27 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-21 | 2023-05-14 |
 | [Dive Into You](https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:12 | 2021-05-12 | 2021-05-30 |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-06-09 | 2021-06-20 |
@@ -407,6 +407,7 @@
 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 | 2021-12-12 | 2022-04-29 |
 | [Walking in the Wind](https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:22 | 2021-06-18 | 2021-07-04 |
 | [Weak](https://open.spotify.com/track/07MW63ok3ptSKwaTWEN0o8) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Weak](https://open.spotify.com/album/5RzTetLXRT1w3Nbt0V0XLz) | 2:39 | 2021-03-27\* | 2021-07-11 |
+| [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 | 2023-06-26 |  |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-03 | 2022-12-05 |
 | [Wish You Were Here](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 4:08 | 2022-02-25 | 2022-08-05 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-25 | 2022-06-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Immy Owusu Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,266 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,264 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [You're Makin' Me High](https://open.spotify.com/track/1wxxQ4IFAnriUdkEHB2Aog) | [John Course](https://open.spotify.com/artist/4haTTVtSXPi13E8LdQMSL2) | [You're Makin' Me High](https://open.spotify.com/album/5Kzw4yLtPJbHbmoIqdVaGF) | 3:32 |
 | 100 | [4EVA](https://open.spotify.com/track/2LftHOFPfXdPtPK6yCnZXj) | [thndo](https://open.spotify.com/artist/4NKTT4ovD0uyL6YssNGF2n) | [4EVA](https://open.spotify.com/album/5VK922NbC81kfS2tCnDAM0) | 2:39 |
 
-Snapshot ID: `MCxkNGZmMmE4ZDA5M2QyZjAwN2RlMWNhODhmYTZmMTlkMmVhMTlkNzEx`
+Snapshot ID: `MCw0M2I4Yzc2ZDljZGU2ZWFhNjAwN2JmYzNhMTMwMWIyODVjYjQ1MTAz`

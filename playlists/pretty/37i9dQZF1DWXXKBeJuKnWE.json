@@ -1,12 +1,12 @@
 {
   "description": "The home for heavy rockers. Cover: Bring Me The Horizon",
-  "num_followers": 30902,
+  "num_followers": 30920,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjA2ZmM3MWVmMTEzODBiZDc3YjJjYmIyNzJhMjM0NjBhMTY5NGU3",
+  "snapshot_id": "MCwzNmVkM2VlYmE1NDlmNTIwMmI3OTViMGMwNWNkZDk2NmIzNjBhZDcx",
   "tracks": [
     {
       "added_at": "2023-06-08 12:47:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "added_at": "2023-06-08 12:47:00",
+      "album": {
         "name": "Take Me Back To Eden",
         "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
       },
@@ -167,34 +183,18 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
-        "name": "Scoring The End Of The World",
-        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 206648,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3"
-    },
-    {
-      "added_at": "2023-06-08 12:47:00",
-      "album": {
-        "name": "LosT",
-        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 205368,
-      "name": "LosT",
-      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+      "duration_ms": 201428,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -215,18 +215,22 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
-        "name": "Meteora 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 201428,
-      "name": "Fighting Myself",
-      "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
+      "duration_ms": 220041,
+      "name": "Kingslayer (feat. BABYMETAL)",
+      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -247,6 +251,22 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
+        "name": "Scoring The End Of The World",
+        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 206648,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3"
+    },
+    {
+      "added_at": "2023-06-08 12:47:00",
+      "album": {
         "name": "Life Is But a Dream\u2026",
         "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
       },
@@ -259,22 +279,6 @@
       "duration_ms": 226066,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
-    },
-    {
-      "added_at": "2023-06-08 12:47:00",
-      "album": {
-        "name": "Dark Void",
-        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Dark Void",
-      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -311,18 +315,18 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
-        "name": "Emotion Sickness",
-        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         }
       ],
-      "duration_ms": 271076,
-      "name": "Emotion Sickness",
-      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -343,22 +347,18 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+        "name": "Emotion Sickness",
+        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 220041,
-      "name": "Kingslayer (feat. BABYMETAL)",
-      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7"
+      "duration_ms": 271076,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -375,6 +375,22 @@
       "duration_ms": 267826,
       "name": "Shotgun Blues",
       "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
+    },
+    {
+      "added_at": "2023-06-08 12:47:00",
+      "album": {
+        "name": "DiE4u",
+        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 207141,
+      "name": "DiE4u",
+      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
-        "name": "DiE4u",
-        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 207141,
-      "name": "DiE4u",
-      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
-    },
-    {
-      "added_at": "2023-06-08 12:47:00",
-      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
-        "name": "YOU NEEDED A HIT//",
-        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 120149,
-      "name": "YOU NEEDED A HIT//",
-      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
-    },
-    {
-      "added_at": "2023-06-08 12:47:00",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
+    },
+    {
+      "added_at": "2023-06-08 12:47:00",
+      "album": {
+        "name": "YOU NEEDED A HIT//",
+        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 120149,
+      "name": "YOU NEEDED A HIT//",
+      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
-    },
-    {
-      "added_at": "2023-06-08 12:47:00",
-      "album": {
         "name": "Welcome To Horrorwood: The Silver Scream 2",
         "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 224586,
       "name": "Funeral Derangements",
       "url": "https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ"
+    },
+    {
+      "added_at": "2023-06-08 12:47:00",
+      "album": {
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -855,38 +855,6 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
-        "name": "Vore",
-        "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 339606,
-      "name": "Vore",
-      "url": "https://open.spotify.com/track/3lYdGoYMQVn8ywkbd6X6fZ"
-    },
-    {
-      "added_at": "2023-06-08 12:47:00",
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
-    },
-    {
-      "added_at": "2023-06-08 12:47:00",
-      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -907,18 +875,34 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
-        "name": "Armageddon",
-        "url": "https://open.spotify.com/album/2upzE8LFUkusltO5v5SeTV"
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 213706,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/2vGdoV7Cp8HcLTtFVaXkOw"
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "added_at": "2023-06-08 12:47:00",
+      "album": {
+        "name": "Vore",
+        "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 339606,
+      "name": "Vore",
+      "url": "https://open.spotify.com/track/3lYdGoYMQVn8ywkbd6X6fZ"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -935,6 +919,22 @@
       "duration_ms": 211457,
       "name": "San Quentin",
       "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
+    },
+    {
+      "added_at": "2023-06-08 12:47:00",
+      "album": {
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/2upzE8LFUkusltO5v5SeTV"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/2vGdoV7Cp8HcLTtFVaXkOw"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
-        "name": "More Than Misery",
-        "url": "https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        },
-        {
-          "name": "TELLE",
-          "url": "https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2"
-        }
-      ],
-      "duration_ms": 221531,
-      "name": "More Than Misery",
-      "url": "https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD"
-    },
-    {
-      "added_at": "2023-06-08 12:47:00",
-      "album": {
         "name": "EXPLOSIONS",
         "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
@@ -1011,18 +991,22 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+        "name": "More Than Misery",
+        "url": "https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        },
+        {
+          "name": "TELLE",
+          "url": "https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
+      "duration_ms": 221531,
+      "name": "More Than Misery",
+      "url": "https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -1039,6 +1023,22 @@
       "duration_ms": 221892,
       "name": "Hard Skool",
       "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
+    },
+    {
+      "added_at": "2023-06-08 12:47:00",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
     },
     {
       "added_at": "2023-06-08 12:47:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-06-08 12:47:00",
       "album": {
+        "name": "Won\u2019t Stand Down",
+        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
+    },
+    {
+      "added_at": "2023-06-08 12:47:00",
+      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 198067,
       "name": "Yellowjacket (feat. Sam Carter)",
       "url": "https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez"
-    },
-    {
-      "added_at": "2023-06-08 12:47:00",
-      "album": {
-        "name": "Won\u2019t Stand Down",
-        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 209061,
-      "name": "Won\u2019t Stand Down",
-      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
     },
     {
       "added_at": "2023-06-08 12:47:00",

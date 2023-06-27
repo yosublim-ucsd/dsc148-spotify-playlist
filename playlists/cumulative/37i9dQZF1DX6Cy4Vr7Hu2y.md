@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: MIRANI\(미란이\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-332 songs - 18 hr 47 min
+333 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Shiny Light](https://open.spotify.com/track/0qpfmbAzsdXiKIQWokdSYB) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Shiny Light](https://open.spotify.com/album/1JcGAEZQGlg7DRkkFJzDyx) | 3:16 | 2021-11-21 | 2022-07-26 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-21 |  |
 | [Sigh](https://open.spotify.com/track/1ALdeY7yEfgcyu5Q6iNR33) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Sigh](https://open.spotify.com/album/1pM9nvMw4SU5wgEpTJOwiH) | 3:54 | 2022-03-22 | 2022-04-20 |
-| [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-19 |  |
+| [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-19 | 2023-06-27 |
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-08-01 |  |
 | [So What](https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:03 | 2022-05-31 | 2022-07-20 |
 | [SOLO](https://open.spotify.com/track/2XIaetAZTyR7oQfHh8DZ2B) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/68GNh1ZjfSewE8uBCH3UnR) | 2:49 | 2021-11-21 | 2022-07-29 |
@@ -327,6 +327,7 @@
 | [You are crying](https://open.spotify.com/track/1RzGO4GqUocNck4l8iTD5r) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Vol.9\] You Hee yul's Sketchbook 10th Anniversary Project : 4th Voice 'Sketchbook X Hwa Sa'](https://open.spotify.com/album/31nohp4LjTGVNE6Xp26rrh) | 3:35 | 2021-11-21 | 2022-07-26 |
 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 | 2021-11-21 | 2022-09-26 |
 | [youknowbetter 니가 더 잘 알잖아](https://open.spotify.com/track/1ej66Z3M6DfmoZeJCSrOxN) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [youknowbetter 니가 더 잘 알잖아](https://open.spotify.com/album/3uMVRM9uNZS8T26PhWwRwr) | 3:38 | 2021-11-21 | 2022-07-03 |
+| [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 | 2023-06-22 |  |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-14 | 2023-06-08 |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-04 | 2023-04-21 |
 | [Zimzalabim](https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 1](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) | 3:10 | 2021-11-21 | 2022-01-20 |

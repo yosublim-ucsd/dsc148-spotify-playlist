@@ -4,7 +4,7 @@
 
 > The best alternative rock tracks right now.
 
-402 songs - 23 hr 16 min
+403 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [The Old School Way](https://open.spotify.com/track/2s03Z86G09dg3K0ogdwcjR) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [The Old School Way](https://open.spotify.com/album/0cpDwmTqLL5iqiSCofJb1d) | 3:31 | 2022-12-15 | 2023-02-03 |
 | [The Perfume of Decay](https://open.spotify.com/track/7cGKdI3BvJOKYzs9dRdvFj) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [The Perfume of Decay](https://open.spotify.com/album/7jzP2HrR4TyQA6wC5xJ56S) | 3:40 | 2022-10-14 | 2023-03-03 |
 | [The Woods](https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK), [Brad Wilk](https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o) | [The Woods](https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn) | 2:53 | 2022-06-16 | 2022-09-01 |
+| [The World Don't Owe You Anything](https://open.spotify.com/track/0xx0gEmYnP3CAEGb7Ub1bY) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/4GVU0koa6BTvPE0pU79E26) | 3:09 | 2023-06-23 |  |
 | [Therapy 2](https://open.spotify.com/track/5Xch2bmKG4TBYuKPWIMpMt) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [The Therapy Sessions](https://open.spotify.com/album/4Ree7F8kKBluzkGcKcFo0P) | 3:02 | 2022-03-24 | 2022-09-07 |
 | [This is All There Is](https://open.spotify.com/track/3yamFr9Mxqozi4fOLFNnTw) | [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [The Atheist](https://open.spotify.com/album/6TKSQWBrlXifkLPGUrbKW6) | 2:50 | 2022-11-25 | 2022-12-16 |
 | [This Part of Me](https://open.spotify.com/track/1aEoyo49oGyAv47gVqvvSe) | [7xvn](https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h), [ZANDV](https://open.spotify.com/artist/3MCb4hKg6bu2Ivg6ZBM4B0) | [This Part of Me](https://open.spotify.com/album/6t3pu0a7OPjjiMKvPGSEtQ) | 3:43 | 2023-02-09 |  |

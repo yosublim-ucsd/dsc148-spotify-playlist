@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 70529,
+  "num_followers": 70586,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODAxNDVjNjllYzYyZDk1ZDJlMGE4NDM1NDBlYmJhMzMxZmQ3ZDU4",
+  "snapshot_id": "MCxlMTE0ZWNjYjVkNjA1MjIyMjYzMjdjNGE0NDA4NDcyMTQwNGM0MzQw",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -303,38 +303,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "i hope ur miserable until ur dead",
-        "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 177582,
-      "name": "i hope ur miserable until ur dead",
-      "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Life's Not Out To Get You",
         "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
       },
@@ -351,18 +319,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 138306,
-      "name": "then i met her",
-      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -387,22 +355,34 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+        "name": "i hope ur miserable until ur dead",
+        "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq"
+      "duration_ms": 177582,
+      "name": "i hope ur miserable until ur dead",
+      "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "then i met her",
+      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
     },
     {
       "added_at": "2023-05-19 14:21:26",
@@ -423,6 +403,26 @@
       "duration_ms": 178263,
       "name": "Misfits",
       "url": "https://open.spotify.com/track/6W9CY1yt4FoAi2vKiqQLz0"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq"
     },
     {
       "added_at": "2023-05-19 14:21:26",
@@ -457,6 +457,22 @@
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
     },
     {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "kiss kiss",
+      "url": "https://open.spotify.com/track/69LvvkHnFFnX3d5eNObtMo"
+    },
+    {
       "added_at": "2022-12-08 13:00:09",
       "album": {
         "name": "I\u2019m a Mess (with YUNGBLUD)",
@@ -475,22 +491,6 @@
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 138097,
-      "name": "kiss kiss",
-      "url": "https://open.spotify.com/track/69LvvkHnFFnX3d5eNObtMo"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "papercuts",
-        "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ"
+        "name": "Real Life Sux",
+        "url": "https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg"
       },
       "artists": [
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
         }
       ],
-      "duration_ms": 180370,
-      "name": "papercuts",
-      "url": "https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX"
+      "duration_ms": 143529,
+      "name": "Real Life Sux",
+      "url": "https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -627,18 +627,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Real Life Sux",
-        "url": "https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg"
+        "name": "papercuts",
+        "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ"
       },
       "artists": [
         {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 143529,
-      "name": "Real Life Sux",
-      "url": "https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6"
+      "duration_ms": 180370,
+      "name": "papercuts",
+      "url": "https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -687,26 +687,6 @@
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
-        "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -771,6 +751,26 @@
       "duration_ms": 182568,
       "name": "Pieces of You",
       "url": "https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
+        "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo"
     },
     {
       "added_at": "2022-08-16 22:06:35",

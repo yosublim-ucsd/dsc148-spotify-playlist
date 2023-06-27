@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,707 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,714 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 19 | [First Love](https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [First Love](https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp) | 4:18 |
 | 20 | [Something in Morning Rain](https://open.spotify.com/track/7cpqOWd3kKHcPL0IzGmNUz) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Something in Morning Rain](https://open.spotify.com/album/3f7DZuUfcxsb1D0lUY0bWs) | 5:28 |
 | 21 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 |
-| 22 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 |
+| 22 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 |
 | 23 | [Toumei na Nukumori](https://open.spotify.com/track/76QXx63Sqbf4WvyS0QtaM4) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [Risa Nakagawa](https://open.spotify.com/artist/35TXIIWvd5KWK5Y13cF8Hf) | [Toumei na Nukumori](https://open.spotify.com/album/7eElRimtFlrVjEx2a5ufXS) | 3:17 |
-| 24 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 |
+| 24 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 |
 | 25 | [Emptyspace](https://open.spotify.com/track/3WWLffqIAv0G92awt7Z8FR) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Emptyspace](https://open.spotify.com/album/7ap2UPq1GW3YZN6DzwaKWK) | 3:45 |
 | 26 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 |
 | 27 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 43 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
 | 44 | [You & I \(with Zack Tabudlo\)](https://open.spotify.com/track/2YZRBM2w68HXHgbKaRTlyw) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [You & I \(with Zack Tabudlo\)](https://open.spotify.com/album/0FPnGwztFm9X3r7C8kyX6l) | 2:32 |
 | 45 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
-| 46 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 |
-| 47 | [Tell Her](https://open.spotify.com/track/5skNWeBOrOJ99OBeVjdoIB) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Tell Her](https://open.spotify.com/album/0nrrVN6cFEhjTWL0VgUDAY) | 2:43 |
+| 46 | [Tell Her](https://open.spotify.com/track/5skNWeBOrOJ99OBeVjdoIB) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Tell Her](https://open.spotify.com/album/0nrrVN6cFEhjTWL0VgUDAY) | 2:43 |
+| 47 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 |
 | 48 | [Glacier Meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Glacier Meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 |
 | 49 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 |
 | 50 | [Dreamin' of You](https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Dreamin' of You](https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk) | 3:08 |
 
-Snapshot ID: `MCxkNTdlMGUzODhjZTdjMGQyZTIzNjUzM2U5NzRhNjI5YjdlNGNkN2Jj`
+Snapshot ID: `MCxkMGM0MTM3ZjQ1NmZjYjY0ZWRmYmNiMjg4YjliNzFmYTk3ODJkNmMx`

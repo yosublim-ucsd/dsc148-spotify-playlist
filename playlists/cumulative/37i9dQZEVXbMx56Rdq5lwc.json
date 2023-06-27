@@ -909,6 +909,28 @@
     },
     {
       "album": {
+        "name": "Apie Tave",
+        "url": "https://open.spotify.com/album/073955oPrA5AIajhHgbFcZ"
+      },
+      "artists": [
+        {
+          "name": "OG Version",
+          "url": "https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5"
+        },
+        {
+          "name": "Proflame",
+          "url": "https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225103,
+      "name": "Apie Tave",
+      "url": "https://open.spotify.com/track/5VyK7sfeFwmywksYXNTlhy"
+    },
+    {
+      "album": {
         "name": "A\u0161 sakydamas kursiu",
         "url": "https://open.spotify.com/album/5paQn36dIWkKgmmYFrqipn"
       },
@@ -1772,7 +1794,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -2746,7 +2768,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 205419,
       "name": "Bum ajajai",
       "url": "https://open.spotify.com/track/4MYXiDm8WZlxVYmt1pdZjv"
@@ -3674,7 +3696,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -9906,7 +9928,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -10186,7 +10208,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 182070,
       "name": "Kunigunda",
       "url": "https://open.spotify.com/track/4Kt624sTGjRZ3hFBvlQaWC"
@@ -11258,7 +11280,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 138240,
       "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
       "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
@@ -13492,7 +13514,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 163240,
       "name": "Myliu",
       "url": "https://open.spotify.com/track/1F61F4SNfrF1kYVA6Hwpn5"
@@ -19504,7 +19526,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
@@ -20988,7 +21010,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"

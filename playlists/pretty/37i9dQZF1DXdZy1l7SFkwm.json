@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 34933,
+  "num_followers": 34939,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTNjYWY3MmMxNDIzM2M5NThlNzg0NDY2YTQwYmYzOThhZWIzNWFi",
+  "snapshot_id": "MCxhMDc1ODgyYmM2NjRiM2VmM2ZjMGRkODNkNzFiZGE3ZDg1M2ZjNjM2",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -159,22 +159,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "A Valentine For You",
         "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 127186,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -223,6 +223,26 @@
       "duration_ms": 445080,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 137560,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -295,42 +315,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
-      },
-      "artists": [
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 137560,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "El Rey Bravo",
-        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 274018,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -351,6 +335,50 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "El Rey Bravo",
+        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 139986,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars) - Single Version",
+      "url": "https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -399,34 +427,6 @@
       "duration_ms": 150613,
       "name": "Garota de Ipanema",
       "url": "https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Getz/Gilberto (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 139986,
-      "name": "Corcovado (Quiet Nights Of Quiet Stars) - Single Version",
-      "url": "https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 155493,
-      "name": "Bebete V\u00e3obora",
-      "url": "https://open.spotify.com/track/3vST7tho4iT90949PEtM7i"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "On the Beach: The Anthology",
         "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 164066,
       "name": "Many Rivers To Cross",
       "url": "https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "Bebete V\u00e3obora",
+      "url": "https://open.spotify.com/track/3vST7tho4iT90949PEtM7i"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Buenos Hermanos",
-        "url": "https://open.spotify.com/album/2U4d397MrGSUt8c289VZVT"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "Boliviana",
-      "url": "https://open.spotify.com/track/0c3dYyhdKUFd2zUSL4tdvz"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Elegance: The Birth Of The Modern Jazz Quartet",
         "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
       },
@@ -1179,6 +1163,38 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Inmortales de To\u00f1a la Negra",
+        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 147931,
+      "name": "Piensa en Mi",
+      "url": "https://open.spotify.com/track/4XpEUhAR4n6F85VRx2AoTq"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Buenos Hermanos",
+        "url": "https://open.spotify.com/album/2U4d397MrGSUt8c289VZVT"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "Boliviana",
+      "url": "https://open.spotify.com/track/0c3dYyhdKUFd2zUSL4tdvz"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Inmortales de To\u00f1a la Negra",
-        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 147931,
-      "name": "Piensa en Mi",
-      "url": "https://open.spotify.com/track/4XpEUhAR4n6F85VRx2AoTq"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Para Todo el Mundo, Vol. 2",
         "url": "https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2"
       },
@@ -1243,26 +1243,6 @@
       "duration_ms": 220080,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1311,6 +1291,26 @@
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Beach Samba",
-        "url": "https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 92533,
-      "name": "Canoeiro",
-      "url": "https://open.spotify.com/track/5vGjcafbPf55xNWI5pP9cy"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 224360,
       "name": "Our Day Will Come",
       "url": "https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Beach Samba",
+        "url": "https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 92533,
+      "name": "Canoeiro",
+      "url": "https://open.spotify.com/track/5vGjcafbPf55xNWI5pP9cy"
     },
     {
       "added_at": "2021-03-15 16:04:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dcp04pqxsR.md) - [plain]
 
 > Let the hum of calming white noise box fans lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437 likes - 63 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 468 likes - 63 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dcp04pqxsR.md) - [plain]
 | 62 | [Pedestal Floor Fan](https://open.spotify.com/track/0gYbTUF1cPlMjbsApYpps9) | [Bona Nochy](https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL) | [Fans For Resting](https://open.spotify.com/album/4kXNVSB7wuEvwzKogxSL7s) | 3:22 |
 | 63 | [Drifting Air Vent](https://open.spotify.com/track/1xM18RpJ9Iex80uXZ4QyHs) | [Drowse Off](https://open.spotify.com/artist/318hciCz2MiTnD1Mgb0BBG) | [Air Circulator](https://open.spotify.com/album/3y6cbkSQKYq7FPB5wZ0MNZ) | 3:26 |
 
-Snapshot ID: `MCxmNzdiMDRjM2ZkMzg1ZmU3NDJkZWJhMmY2ZTllMDAxNDQ3YmE1MDI5`
+Snapshot ID: `MCwwOTIzZWQ5ZmU1ZGExMTFiNjU4NDIxODJmNTI4MzdmNGUxOWUyODMy`

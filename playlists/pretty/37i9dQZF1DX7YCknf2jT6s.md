@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Reuben James
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,269 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,427 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [You Don't Have To](https://open.spotify.com/track/6Q4CTfhsXqM38qygqtSuv3) | [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc), [The Estuary 21](https://open.spotify.com/artist/3AvaTJVo7L7mvvw7JpFAjo) | [You Don't Have To](https://open.spotify.com/album/2JkXV0X85ENDw9EvL5myJZ) | 4:15 |
 | 100 | [Luto](https://open.spotify.com/track/4xM3r4hsW5NNNIDfwcR2Ot) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Luto](https://open.spotify.com/album/07UniKiqwPReakQGnnpIQP) | 3:42 |
 
-Snapshot ID: `MCw3MGNmODc2NGI5N2NkMjA2YWEwNjFjYTg0NzRkNjAwZjk0MGIwMjAy`
+Snapshot ID: `MCxmMGEyYjRiNjRlYTkxY2FmMGYyOGU1NzJjM2RlMDFlOTIyNThlZTc2`

@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring Rawayana & Simon Grossman.",
-  "num_followers": 150877,
+  "num_followers": 150909,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODRiZDk5M2Q3NWRiNmFiOTVhMmEzZDBjNjFkZWUyM2Q3ZWY2MGVk",
+  "snapshot_id": "MCw1ZWZiZTJjY2EzZWNkZTQxMmE1MWQ2NGYzNmJlYzgzOGU1MjY1NWRj",
   "tracks": [
     {
       "added_at": "2023-06-16 04:30:51",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-06-16 04:30:51",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
-      "added_at": "2023-06-16 04:30:51",
-      "album": {
         "name": "Nunca Tristes (Me Vale Madre)",
         "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 204826,
       "name": "Nunca Tristes (Me Vale Madre)",
       "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "added_at": "2023-06-16 04:30:51",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-06-16 04:30:51",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-06-16 04:30:51",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 134860,
-      "name": "Como Te Quiero Yo",
-      "url": "https://open.spotify.com/track/2VxQqF52M7IPkiLd4XmTNi"
-    },
-    {
-      "added_at": "2023-06-16 04:30:51",
-      "album": {
         "name": "Buen Pez",
         "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
@@ -215,22 +199,6 @@
       "duration_ms": 193426,
       "name": "Somos Instantes",
       "url": "https://open.spotify.com/track/4eWC4PIRnCAiSo028OWh62"
-    },
-    {
-      "added_at": "2023-06-16 04:30:51",
-      "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 318058,
-      "name": "Esta canci\u00f3n",
-      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2023-06-16 04:30:51",
@@ -251,6 +219,22 @@
     {
       "added_at": "2023-06-16 04:30:51",
       "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
+    },
+    {
+      "added_at": "2023-06-16 04:30:51",
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2023-06-16 04:30:51",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 134860,
+      "name": "Como Te Quiero Yo",
+      "url": "https://open.spotify.com/track/2VxQqF52M7IPkiLd4XmTNi"
     },
     {
       "added_at": "2023-06-16 04:30:51",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-06-16 04:30:51",
       "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2023-06-16 04:30:51",
+      "album": {
         "name": "PRISMARAMA",
         "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 204613,
       "name": "Continental",
       "url": "https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I"
-    },
-    {
-      "added_at": "2023-06-16 04:30:51",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2023-06-16 04:30:51",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-06-16 04:30:51",
       "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
+    },
+    {
+      "added_at": "2023-06-16 04:30:51",
+      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 167218,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
-    },
-    {
-      "added_at": "2023-06-16 04:30:51",
-      "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
     },
     {
       "added_at": "2023-06-16 04:30:51",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-06-16 04:30:51",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+    },
+    {
+      "added_at": "2023-06-16 04:30:51",
+      "album": {
         "name": "Recuerdos Que Torturan",
         "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 233680,
       "name": "Las Manos (feat. Leo Rizzi)",
       "url": "https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0"
-    },
-    {
-      "added_at": "2023-06-16 04:30:51",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
     },
     {
       "added_at": "2023-06-16 04:30:51",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-06-16 04:30:51",
       "album": {
-        "name": "en la ciudad",
-        "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        },
-        {
-          "name": "d\u00f3ntia",
-          "url": "https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "en la ciudad",
-      "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
-    },
-    {
-      "added_at": "2023-06-16 04:30:51",
-      "album": {
         "name": "me perdono",
         "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
       },
@@ -1019,22 +999,22 @@
     {
       "added_at": "2023-06-16 04:30:51",
       "album": {
-        "name": "Muerta de Fr\u00edo",
-        "url": "https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY"
+        "name": "en la ciudad",
+        "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
       "artists": [
         {
-          "name": "K!ngdom",
-          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
         },
         {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+          "name": "d\u00f3ntia",
+          "url": "https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx"
         }
       ],
-      "duration_ms": 258883,
-      "name": "Muerta de Fr\u00edo",
-      "url": "https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc"
+      "duration_ms": 211986,
+      "name": "en la ciudad",
+      "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
     },
     {
       "added_at": "2023-06-16 04:30:51",
@@ -1059,18 +1039,22 @@
     {
       "added_at": "2023-06-16 04:30:51",
       "album": {
-        "name": "Match",
-        "url": "https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79"
+        "name": "Muerta de Fr\u00edo",
+        "url": "https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY"
       },
       "artists": [
         {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+          "name": "K!ngdom",
+          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
+        },
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
         }
       ],
-      "duration_ms": 205160,
-      "name": "Match",
-      "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
+      "duration_ms": 258883,
+      "name": "Muerta de Fr\u00edo",
+      "url": "https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc"
     },
     {
       "added_at": "2023-06-16 04:30:51",
@@ -1087,6 +1071,22 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
+    },
+    {
+      "added_at": "2023-06-16 04:30:51",
+      "album": {
+        "name": "Match",
+        "url": "https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Match",
+      "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
     },
     {
       "added_at": "2023-06-16 04:30:51",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-06-16 04:30:51",
       "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 138742,
-      "name": "un poco m\u00e1s",
-      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
-    },
-    {
-      "added_at": "2023-06-16 04:30:51",
-      "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 251520,
       "name": "Te Espero Aqu\u00ed",
       "url": "https://open.spotify.com/track/5cTyKJd1pHOxTt8pt8hAi7"
+    },
+    {
+      "added_at": "2023-06-16 04:30:51",
+      "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 138742,
+      "name": "un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
     },
     {
       "added_at": "2023-06-16 04:30:51",

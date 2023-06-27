@@ -3179,6 +3179,28 @@
     },
     {
       "album": {
+        "name": "Kentucky for Me",
+        "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
+      },
+      "artists": [
+        {
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Dave Adkins",
+          "url": "https://open.spotify.com/artist/3RyXAPEFlMjXqy8dFADBaz"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188840,
+      "name": "Stop Draggin' My Heart Around",
+      "url": "https://open.spotify.com/track/4dVdOYwqfTceuuiUdUWhsx"
+    },
+    {
+      "album": {
         "name": "Strawberries",
         "url": "https://open.spotify.com/album/7iBMQhkySSkMR80Mv5miFA"
       },

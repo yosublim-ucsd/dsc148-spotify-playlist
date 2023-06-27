@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Nicki Minaj & Ice Spice
 
-3,371 songs - 6 day 23 hr 49 min
+3,373 songs - 6 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1826,6 +1826,7 @@
 | [Look My Age](https://open.spotify.com/track/7G2EKtPn075VsIjDphUbbA) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Look My Age](https://open.spotify.com/album/1YkhoHHXb3TTkxWgleWwRw) | 2:58 | 2023-03-03 | 2023-03-25 |
 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-04-07 | 2023-04-22 |
 | [Looking for Trouble](https://open.spotify.com/track/67CCjpC8R4pWs2xaqkn3op) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Looking for Trouble](https://open.spotify.com/album/1SXRmp8DSW8ewbGB1DRnAO) | 3:46 | 2022-09-30 | 2022-10-15 |
+| [Looking U Up](https://open.spotify.com/track/5Idv9rz66FFJufVurbtcFG) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Looking U Up](https://open.spotify.com/album/1zomS3G7NNxjtNAbs2fAg9) | 3:20 | 2023-06-26 |  |
 | [Looping](https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Looping](https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk) | 3:13 | 2023-05-12 | 2023-05-27 |
 | [Loose](https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Loose](https://open.spotify.com/album/4beJq426gqDrSeqP8p5Xnl) | 2:41 | 2022-02-25 | 2022-03-05 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-06-23 |  |
@@ -2999,6 +3000,7 @@
 | [this is what sadness feels like](https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:11 | 2022-09-23 | 2022-10-13 |
 | [this is what sadness feels like](https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:11 | 2022-10-07 | 2022-10-15 |
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-06 | 2022-05-28 |
+| [This Moment \(from Ruby Gillman, Teenage Kraken\)](https://open.spotify.com/track/1sF8QGZN3Vcnh2jM0ruSyF) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [This Moment \(from Ruby Gillman, Teenage Kraken\)](https://open.spotify.com/album/1dKVxIUGfgWms8qdRosmGm) | 3:57 | 2023-06-26 |  |
 | [This Time \(I Don't Wanna\)](https://open.spotify.com/track/5McIkhN2bSvCcjNUaMoWYZ) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [This Time \(I Don't Wanna\)](https://open.spotify.com/album/49gfNZqgZJ8StTogeghXGM) | 3:01 | 2023-03-03 | 2023-03-18 |
 | [this town is a little less mine](https://open.spotify.com/track/4NtxiZ0LM2IWZecXKhY4MK) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [this town is a little less mine](https://open.spotify.com/album/7Gr5p3X05a1cnlX5UI8oIT) | 2:07 | 2022-09-02 | 2022-09-17 |
 | [Thorns](https://open.spotify.com/track/2fsDv1dsMkGh2cDTF6zhh3) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Thorns](https://open.spotify.com/album/4ezY7qHYsFkP4apaA8Gg2C) | 3:13 | 2022-06-10 | 2022-06-25 |

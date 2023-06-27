@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 254334,
+  "num_followers": 254371,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjhiN2VlMmZhMDYxOWJhYTY3NTZlMzAzYzgxMjMxYjRkM2RhZGUz",
+  "snapshot_id": "MCxlODY0YWJhYzYzZDNhNWY0ZDcxMGNkYzdjYWI3OGUzNmI4YTAxNTdk",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -199,22 +199,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
-      },
-      "artists": [
-        {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 199603,
       "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
       "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -531,6 +531,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Homegrown (Remixes)",
         "url": "https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 335180,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -927,22 +927,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Self Edit",
-        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
-      },
-      "artists": [
-        {
-          "name": "Vesce",
-          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Zender",
-      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "They Came Along",
         "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
+        "name": "Self Edit",
+        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
       },
       "artists": [
         {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+          "name": "Vesce",
+          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
+      "duration_ms": 236842,
+      "name": "Zender",
+      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -987,6 +971,22 @@
       "duration_ms": 254010,
       "name": "Nylon",
       "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
+      },
+      "artists": [
+        {
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
       "added_at": "2018-12-11 21:12:31",

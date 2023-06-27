@@ -4,7 +4,7 @@
 
 > The songs that defined a golden era of British indie.
 
-141 songs - 9 hr 58 min
+142 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 | 2022-05-04 |  |
 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 | 2021-04-15 |  |
 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 | 2022-05-04 | 2023-06-25 |
+| [Richard III \- 2021 \- Remaster](https://open.spotify.com/track/2T59dX55GGQ00ulyKnfqBG) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It for the Money \(2021 Remaster \- Deluxe Expanded Edition\)](https://open.spotify.com/album/4eskbEqGfhyOV3ILrneK4G) | 3:13 | 2022-05-04 |  |
 | [Road Rage](https://open.spotify.com/track/1A7pz58VR2Lpc19c58QdSo) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a) | 5:08 | 2021-04-15 | 2022-07-29 |
 | [Road Rage](https://open.spotify.com/track/439IqYqbfvhbioXkvaeg20) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5JKgetvj4148279DoZG7XE) | 5:09 | 2022-05-04 |  |
 | [Rock 'n' Roll Star](https://open.spotify.com/track/5vy5D17mK3XU0Pc7odmjsG) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Stop The Clocks](https://open.spotify.com/album/1zaPsC8dBFfesoY62MwMFa) | 5:20 | 2022-05-04 | 2022-11-13 |
@@ -144,7 +145,7 @@
 | [Wide Open Space](https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ) | 4:31 | 2021-04-15 | 2022-07-29 |
 | [Wide Open Space](https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL) | 4:31 | 2022-05-04 |  |
 | [You & Me Song](https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB) | [The Wannadies](https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh) | [Be A Girl](https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI) | 2:50 | 2021-04-15 |  |
-| [You Stole The Sun From My Heart](https://open.spotify.com/track/2couS7LmXsbTaTJWVzk1KS) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/7CCkQQvhSAUjuzLQAV8S5a) | 4:20 | 2022-05-04 |  |
+| [You Stole The Sun From My Heart](https://open.spotify.com/track/2couS7LmXsbTaTJWVzk1KS) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/7CCkQQvhSAUjuzLQAV8S5a) | 4:20 | 2022-05-04 | 2023-06-27 |
 | [You Stole the Sun from My Heart](https://open.spotify.com/track/75Ii3Myt6vRsbjzaTbwDQt) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW) | 4:20 | 2021-04-15 | 2022-07-29 |
 | [You're Gorgeous](https://open.spotify.com/track/6RGi9jE8sgHZztW0vrywQY) | [Babybird](https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh) | [You're Gorgeous](https://open.spotify.com/album/0w3Xv8KShYNkRmbwA8596X) | 3:42 | 2022-05-04 | 2022-11-13 |
 | [You're Gorgeous](https://open.spotify.com/track/5COBer69wpwkCPPaLr1gFb) | [Babybird](https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh) | [Ugly Beautiful](https://open.spotify.com/album/1jDQR7dZB0TrGIZJ4vcrLb) | 3:42 | 2022-05-04 |  |

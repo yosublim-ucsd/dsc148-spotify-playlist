@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-496 songs - 1 day 14 hr 22 min
+497 songs - 1 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Canadian Trees](https://open.spotify.com/track/1N0XuJdOccAkBjWl37BxKh) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Canadian Trees](https://open.spotify.com/album/60d8GQmsHc8SQIzGedDClG) | 3:14 | 2023-03-10 |  |
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-12 |  |
 | [Casa](https://open.spotify.com/track/5W2c7aQe4ZbFNPOBS19q7z) | [Antonio Mazzei](https://open.spotify.com/artist/6Qt5MWQmYnJAEtRi385Ref), [David Xirgu](https://open.spotify.com/artist/3E27UZd7y2kH1DLQKKNxBT), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq) | [Casa](https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy) | 4:20 | 2022-06-08 |  |
-| [Catania](https://open.spotify.com/track/6UTpD8V1LjuiFstPVKthsc) | [Joey Calderazzo](https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4) | [Joey Calderazzo](https://open.spotify.com/album/614JGsEtl6hNxZmsoWttpD) | 8:14 | 2022-02-10 |  |
+| [Catania](https://open.spotify.com/track/6UTpD8V1LjuiFstPVKthsc) | [Joey Calderazzo](https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4) | [Joey Calderazzo](https://open.spotify.com/album/614JGsEtl6hNxZmsoWttpD) | 8:14 | 2022-02-10 | 2023-06-27 |
 | [Central Park West](https://open.spotify.com/track/4HMx9XCTgwwbQELIfWN9b5) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 7:26 | 2022-02-10 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-11-12 |  |
 | [Chelsea Bridge](https://open.spotify.com/track/4Hy5FWDo8kKW3iPga7YmrF) | [Juho Valjakka](https://open.spotify.com/artist/0aKY7KV2w80cRCZfEwwipw) | [Liminal Spaces](https://open.spotify.com/album/2gqbWgPLtXP5tWusQTcI67) | 4:38 | 2023-03-10 |  |
@@ -305,6 +305,7 @@
 | [November](https://open.spotify.com/track/4qD7gLqAtSXFmS83Bj9Qyp) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:29 | 2022-03-17 |  |
 | [Now that we are here](https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Now that we are here](https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8) | 2:42 | 2023-03-02 |  |
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-11-12 |  |
+| [Ol' Man River](https://open.spotify.com/track/3w76lFh4V9mNpxGelN7U44) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Ol' Man River](https://open.spotify.com/album/6rFrgssgHkHnZknkv70EOe) | 5:42 | 2023-06-22 |  |
 | [Old Folks \- Live](https://open.spotify.com/track/0w6BWAytSQFGUW5paTcKzd) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [After The Fall \(Live\)](https://open.spotify.com/album/6KCtVTAKemrqpVZLLdxB2c) | 9:23 | 2022-02-10 | 2022-11-09 |
 | [Old Georgie](https://open.spotify.com/track/5TUShaJuppEAb1FVctgy6V) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Old Georgie](https://open.spotify.com/album/4Hfo3rFHpvtatFFe4Suba9) | 3:02 | 2023-03-02 |  |
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2022-12-22 |  |

@@ -8175,6 +8175,24 @@
     },
     {
       "album": {
+        "name": "Whatever Will Be",
+        "url": "https://open.spotify.com/album/1lQs3tvAI1Sqh2kPAnCR56"
+      },
+      "artists": [
+        {
+          "name": "Chloe Doyle",
+          "url": "https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112802,
+      "name": "Whatever Will Be",
+      "url": "https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6"
+    },
+    {
+      "album": {
         "name": "A Drop in the Ocean",
         "url": "https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM"
       },

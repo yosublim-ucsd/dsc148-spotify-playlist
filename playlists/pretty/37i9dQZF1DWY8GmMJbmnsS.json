@@ -1,12 +1,12 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: Percy Sledge",
-  "num_followers": 330094,
+  "num_followers": 330142,
   "original_name": "Timeless Soul Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDJjMjI4MDY1ZjAzNzIzOTNlMzJmYjcwYmEyMDNhNjFlYjE5MzFi",
+  "snapshot_id": "MCwxNDE1MDYzYjhiYjgyZDU3OWQyY2ZjMzM5OWE0ZjNiMjRiOGNiNWI4",
   "tracks": [
     {
       "added_at": "2022-03-04 21:48:30",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 156653,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
         "name": "Pain in My Heart",
         "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 156653,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
+        "name": "Woman to Woman [Stax Remasters]",
+        "url": "https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I"
+      },
+      "artists": [
+        {
+          "name": "Shirley Brown",
+          "url": "https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Woman To Woman",
+      "url": "https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
         "name": "A Change Is Gonna Come",
         "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 153986,
       "name": "The Dark End of the Street",
       "url": "https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "Woman to Woman [Stax Remasters]",
-        "url": "https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I"
-      },
-      "artists": [
-        {
-          "name": "Shirley Brown",
-          "url": "https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Woman To Woman",
-      "url": "https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1"
     },
     {
       "added_at": "2022-03-04 21:48:30",

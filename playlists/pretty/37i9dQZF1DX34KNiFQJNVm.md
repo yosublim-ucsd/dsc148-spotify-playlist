@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ferrugem e Luísa Sonza, Anitta, Elza Soares, Zé Neto e Cristiano e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,884,881 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,885,252 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Cantar do Grilo](https://open.spotify.com/track/4fEd6B6qeVh5fz1lImhH88) | [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Alulu Paranhos](https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW) | [Pra Dançar Colada \(MangoLab conv\. Alulu Paranhos\)](https://open.spotify.com/album/65oy3xvu7a7bC7hbawTGRW) | 2:39 |
 | 100 | [Maldito Medo](https://open.spotify.com/track/6atSqj4VjdV5z9snjOfSLM) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot), [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [Maldito Medo](https://open.spotify.com/album/2fastvrlnmHnYa1j6ljx9C) | 2:59 |
 
-Snapshot ID: `MCwyZjAyYmExNzZmZGEwNmY2NGYwMGI5MjA1ZjdkZmUyYzhkOTYzYzE3`
+Snapshot ID: `MCxhMDU4ODlhOGUzYWFhOWM3Y2IxNzdlMTY5ZjFlZDlmMzQ2YzRkZjk3`

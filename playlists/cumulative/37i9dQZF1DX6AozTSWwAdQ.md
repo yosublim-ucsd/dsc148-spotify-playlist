@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-286 songs - 15 hr 10 min
+287 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [jealous of my friends](https://open.spotify.com/track/5Elsfzs4R5AhZMrfepTxwV) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [jealous of my friends](https://open.spotify.com/album/4rRgE2wgNlVoxWi8aeVFbb) | 2:44 | 2023-03-20 | 2023-03-28 |
 | [Just Thought You Should Know](https://open.spotify.com/track/0VE5fZ1BILydCtqg4yDGRl) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty, Pt\. 1](https://open.spotify.com/album/19GamUBcGLTBx9n7OjqGcw) | 3:23 | 2022-06-06 | 2022-07-28 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-25 |  |
+| [Kiss Me](https://open.spotify.com/track/1ELMCVbADOtZj8tYdS01nI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:49 | 2023-06-26 |  |
 | [Kiss Me](https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:49 | 2022-09-05 | 2022-10-11 |
 | [Kiss Me](https://open.spotify.com/track/2hFDO1f9t96wZZdQnn5ejI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:49 | 2022-10-17 | 2022-11-22 |
 | [Kiss Me](https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:49 | 2022-11-21 | 2023-06-19 |
@@ -273,7 +274,7 @@
 | [Twinkle Twinkle Little Bitch](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle Little Bitch](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-06-27 | 2022-07-05 |
 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 | 2023-01-09 | 2023-01-17 |
 | [Unconditional](https://open.spotify.com/track/6WuVqsLi3eUp08vBgdEZmB) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Unconditional](https://open.spotify.com/album/2vrOVWbygbxGa5Y0qfE5p7) | 3:13 | 2022-06-06 | 2022-07-29 |
-| [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 | 2023-05-22 |  |
+| [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 | 2023-05-22 | 2023-06-27 |
 | [UwU](https://open.spotify.com/track/7CNUEREC4jtFB6fRvqaEzX) | [The Sundown](https://open.spotify.com/artist/48iq3dtGs3M8P66dZtJ6Mu) | [UwU](https://open.spotify.com/album/6uHem5ARqIuNCCvtvLxqsI) | 3:20 | 2022-06-06 | 2022-07-29 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-07-25 | 2022-08-24 |
 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2022-09-12 | 2022-09-20 |

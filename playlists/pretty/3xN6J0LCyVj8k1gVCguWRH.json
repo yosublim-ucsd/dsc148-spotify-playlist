@@ -1,12 +1,12 @@
 {
   "description": "Which is going to be the next Song of the Summer!? (Includes the 2022 &amp; 2021 edition + bonus tracks)",
-  "num_followers": 102382,
+  "num_followers": 102820,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDg5Niw3NTdjZjVmNTQwNThkNGEzZWU5MmNiYTg2MTVlZjE2ODEzMTY4OTA2",
+  "snapshot_id": "NDkyNCw2ZDc1M2QxODFmZGUzZjNiNmQ3MmQ3MjMxMWU3MTE2OWNlNWQ1YmI0",
   "tracks": [
     {
       "added_at": "2023-06-01 20:35:17",
@@ -153,6 +153,30 @@
       "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
     },
     {
+      "added_at": "2023-06-24 13:16:10",
+      "album": {
+        "name": "VAGABUNDO",
+        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "VAGABUNDO",
+      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+    },
+    {
       "added_at": "2023-06-23 23:51:05",
       "album": {
         "name": "Give It To Me",
@@ -167,6 +191,22 @@
       "duration_ms": 243539,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq"
+    },
+    {
+      "added_at": "2023-06-26 14:17:16",
+      "album": {
+        "name": "Sprung In The Summer",
+        "url": "https://open.spotify.com/album/5QN5wZ2KmgAwh4MZIvK86P"
+      },
+      "artists": [
+        {
+          "name": "tobi zo\u00eb",
+          "url": "https://open.spotify.com/artist/3XW7jQ3zJZRJHQVK6zqLkm"
+        }
+      ],
+      "duration_ms": 179662,
+      "name": "Sprung In The Summer",
+      "url": "https://open.spotify.com/track/2XXVq3lBlOo6aG4pWAW2dc"
     },
     {
       "added_at": "2023-06-23 23:49:46",
@@ -269,6 +309,22 @@
       "url": "https://open.spotify.com/track/4EZqTGsY8UxFyr5GLRMBvO"
     },
     {
+      "added_at": "2023-06-24 11:04:36",
+      "album": {
+        "name": "Good Medicine",
+        "url": "https://open.spotify.com/album/5p9CiKZWW4h5U8f2kXDT7U"
+      },
+      "artists": [
+        {
+          "name": "Cody Ellis",
+          "url": "https://open.spotify.com/artist/3xrYyxHp2V0jQEE8wZdVjg"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Rough Old Friend",
+      "url": "https://open.spotify.com/track/1ZiQ8AldPsAIKrq1n3OPta"
+    },
+    {
       "added_at": "2023-06-01 20:27:23",
       "album": {
         "name": "SOS",
@@ -283,6 +339,42 @@
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "added_at": "2023-06-24 20:31:20",
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/6XHM11XnA3hDS74qOKUHar"
+      },
+      "artists": [
+        {
+          "name": "\u043c\u0438\u043a\u0430",
+          "url": "https://open.spotify.com/artist/0yYZZ377KkGhYbFUPm4fUM"
+        }
+      ],
+      "duration_ms": 171075,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/0rTgTSd9xvlDSl06YuHHXt"
+    },
+    {
+      "added_at": "2023-06-24 13:16:10",
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Karma (feat. Ice Spice)",
+      "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
     },
     {
       "added_at": "2023-06-23 14:24:27",
@@ -321,56 +413,40 @@
       "url": "https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD"
     },
     {
-      "added_at": "2023-06-23 00:06:10",
+      "added_at": "2023-06-26 18:55:27",
       "album": {
-        "name": "Oversized Sweater",
-        "url": "https://open.spotify.com/album/2VdV8oZPmNe0K4PsJcEMyB"
+        "name": "about a bee",
+        "url": "https://open.spotify.com/album/7x2RacjyXkbYQcPfZnXjAm"
       },
       "artists": [
         {
-          "name": "Shamir",
-          "url": "https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj"
+          "name": "Axel Leather Jacket",
+          "url": "https://open.spotify.com/artist/5xEGxb8BJXoxqjMmtCWfkI"
         }
       ],
-      "duration_ms": 234295,
-      "name": "Oversized Sweater",
-      "url": "https://open.spotify.com/track/5IfvcgCQJhU6kjbxj5wjcf"
+      "duration_ms": 124829,
+      "name": "about a bee",
+      "url": "https://open.spotify.com/track/1YPpuDqn6seux3PDCc6q6F"
     },
     {
-      "added_at": "2023-06-09 17:35:25",
+      "added_at": "2023-06-25 20:59:20",
       "album": {
-        "name": "J.X.B. presents...",
-        "url": "https://open.spotify.com/album/5hNvSPdQm5x1Y6Zci8gqxo"
+        "name": "The Neptunes Present... Clones",
+        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
       },
       "artists": [
         {
-          "name": "J.X.B.",
-          "url": "https://open.spotify.com/artist/623xmS6ELt4gDnzvAzYoIe"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         },
         {
-          "name": "Emajor",
-          "url": "https://open.spotify.com/artist/3NY8NrTtJPBnlSRQ1nwbsG"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 261510,
-      "name": "Sweet Soul",
-      "url": "https://open.spotify.com/track/5JcJZZE19uQvSgMd99QLQv"
-    },
-    {
-      "added_at": "2023-06-20 13:43:50",
-      "album": {
-        "name": "Middle of the Night",
-        "url": "https://open.spotify.com/album/19YCI3DBhpf9r47UxQylH7"
-      },
-      "artists": [
-        {
-          "name": "Shy Olson",
-          "url": "https://open.spotify.com/artist/1VPLAsqWhrQ2aW2KDHYcvr"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Middle of the Night",
-      "url": "https://open.spotify.com/track/7uhUEDSvsh5xmzciywmo1v"
+      "duration_ms": 236506,
+      "name": "Frontin' (feat. Jay-Z) - Club Mix",
+      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
       "added_at": "2023-06-01 20:26:07",
@@ -391,6 +467,86 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2023-06-25 20:32:42",
+      "album": {
+        "name": "Sweet summer night",
+        "url": "https://open.spotify.com/album/4zAeV6HadwdNGhqXA2ybTU"
+      },
+      "artists": [
+        {
+          "name": "Poppi",
+          "url": "https://open.spotify.com/artist/2HQvTJxzZEZqi31duKJscf"
+        }
+      ],
+      "duration_ms": 212715,
+      "name": "Sweet summer night",
+      "url": "https://open.spotify.com/track/3ZhKbSA5EtBAIDTl8AR2Tj"
+    },
+    {
+      "added_at": "2023-06-25 16:14:58",
+      "album": {
+        "name": "Ojay",
+        "url": "https://open.spotify.com/album/3OvXXEWQsoszMOPKVgdZUi"
+      },
+      "artists": [
+        {
+          "name": "Ari Morgan",
+          "url": "https://open.spotify.com/artist/1EeyV1OJruocrWkphr12mX"
+        }
+      ],
+      "duration_ms": 199157,
+      "name": "Ojay",
+      "url": "https://open.spotify.com/track/6l7T5UuzKpu4gh097Fbrod"
+    },
+    {
+      "added_at": "2023-06-23 00:06:10",
+      "album": {
+        "name": "Oversized Sweater",
+        "url": "https://open.spotify.com/album/2VdV8oZPmNe0K4PsJcEMyB"
+      },
+      "artists": [
+        {
+          "name": "Shamir",
+          "url": "https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj"
+        }
+      ],
+      "duration_ms": 234295,
+      "name": "Oversized Sweater",
+      "url": "https://open.spotify.com/track/5IfvcgCQJhU6kjbxj5wjcf"
+    },
+    {
+      "added_at": "2023-06-24 13:46:25",
+      "album": {
+        "name": "Solsticio",
+        "url": "https://open.spotify.com/album/7dz02tZraKvPPuDmm4znHL"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 237420,
+      "name": "Solsticio",
+      "url": "https://open.spotify.com/track/29Q552BxMc52LxxFhWm25E"
+    },
+    {
+      "added_at": "2023-06-20 13:43:50",
+      "album": {
+        "name": "Middle of the Night",
+        "url": "https://open.spotify.com/album/19YCI3DBhpf9r47UxQylH7"
+      },
+      "artists": [
+        {
+          "name": "Shy Olson",
+          "url": "https://open.spotify.com/artist/1VPLAsqWhrQ2aW2KDHYcvr"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Middle of the Night",
+      "url": "https://open.spotify.com/track/7uhUEDSvsh5xmzciywmo1v"
     },
     {
       "added_at": "2023-06-15 13:59:49",
@@ -473,6 +629,22 @@
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
+      "added_at": "2023-06-26 13:18:48",
+      "album": {
+        "name": "On The Radio",
+        "url": "https://open.spotify.com/album/5myFOAiaZ7BPWiCsm9D0j4"
+      },
+      "artists": [
+        {
+          "name": "The Electric Silence",
+          "url": "https://open.spotify.com/artist/0QtNNDOVHALNKyA2dbwHek"
+        }
+      ],
+      "duration_ms": 234406,
+      "name": "On The Radio",
+      "url": "https://open.spotify.com/track/3MKS6fvArUEeRIF7xegosQ"
+    },
+    {
       "added_at": "2023-06-01 20:27:00",
       "album": {
         "name": "Boy's a liar Pt. 2",
@@ -505,6 +677,22 @@
       "url": "https://open.spotify.com/track/1FK8IoeJXZs9nhd1581l4i"
     },
     {
+      "added_at": "2023-06-26 14:31:30",
+      "album": {
+        "name": "Ways",
+        "url": "https://open.spotify.com/album/1CE5Y5N9LKosNmqQn1Rbd0"
+      },
+      "artists": [
+        {
+          "name": "Cayden Corbett",
+          "url": "https://open.spotify.com/artist/3T4QtVn8YElPGVh2c4OOjD"
+        }
+      ],
+      "duration_ms": 183125,
+      "name": "Ways",
+      "url": "https://open.spotify.com/track/6PpXzZybf3bGDcAnI0zkPU"
+    },
+    {
       "added_at": "2023-05-29 15:48:13",
       "album": {
         "name": "All The Best",
@@ -519,42 +707,6 @@
       "duration_ms": 318693,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/6UgSIl72NG9gTLxqHQ8qqP"
-    },
-    {
-      "added_at": "2023-06-13 17:32:01",
-      "album": {
-        "name": "Las Vegas Will You Marry Me",
-        "url": "https://open.spotify.com/album/07PoqhcscnvZxIGV34j75B"
-      },
-      "artists": [
-        {
-          "name": "Dennis Bono",
-          "url": "https://open.spotify.com/artist/2PNqDNuYzvppDUV0tKHJT9"
-        },
-        {
-          "name": "Dan Slider & The Vegas Headliner Big Band",
-          "url": "https://open.spotify.com/artist/0zGQ8R1ViCcF5nYCg8DMmj"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Las Vegas Will You Marry Me",
-      "url": "https://open.spotify.com/track/33xZh3jEHKNIWCTmvvyL81"
-    },
-    {
-      "added_at": "2023-06-06 13:38:37",
-      "album": {
-        "name": "Simply in Love",
-        "url": "https://open.spotify.com/album/2SqSLXleVQNc7MIxIEfuSF"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rising",
-          "url": "https://open.spotify.com/artist/0BeAuKNzkpVr6w0nLi5tro"
-        }
-      ],
-      "duration_ms": 227054,
-      "name": "Simply in Love",
-      "url": "https://open.spotify.com/track/2l3vDZiOi6c8NLoMv3LmP1"
     },
     {
       "added_at": "2023-06-13 18:13:36",
@@ -1191,6 +1343,22 @@
       "duration_ms": 324240,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/10yY7i70r9wtllofw0GIpx"
+    },
+    {
+      "added_at": "2023-06-24 13:00:50",
+      "album": {
+        "name": "Dance Me To The End Of Love",
+        "url": "https://open.spotify.com/album/0fUzax7BW6f1fLEMRI6r6T"
+      },
+      "artists": [
+        {
+          "name": "Carbon Mass",
+          "url": "https://open.spotify.com/artist/2PWtiOKyGeze2XKHILvf2L"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Dance Me To The End Of Love",
+      "url": "https://open.spotify.com/track/2sVbCgXJiVwqBj1fyM8TmK"
     },
     {
       "added_at": "2022-07-26 20:22:09",
@@ -2343,22 +2511,6 @@
       "duration_ms": 288000,
       "name": "In Vain",
       "url": "https://open.spotify.com/track/4Z5wIipDEocABTVuSFYVV2"
-    },
-    {
-      "added_at": "2023-06-09 00:04:29",
-      "album": {
-        "name": "drift astray",
-        "url": "https://open.spotify.com/album/3ORf0su7mTbZzRvlx8S7wA"
-      },
-      "artists": [
-        {
-          "name": "danny orange",
-          "url": "https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT"
-        }
-      ],
-      "duration_ms": 109291,
-      "name": "drift astray",
-      "url": "https://open.spotify.com/track/20lRCd80AR69YkQzzf4gwf"
     },
     {
       "added_at": "2023-06-09 00:06:16",

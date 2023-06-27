@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 628929,
+  "num_followers": 628907,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDZlZmIyODRjNDEzNjAwMWNjOWEzNDY1ODY4ODBhOTY1M2I4NGU1",
+  "snapshot_id": "MCxlMjQ3ZTE5MGIyZjY4ODQ4ZTYwMThkZGE3NDFmNTJhZGIyMzAwOTk0",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "D\u00c1KITI",
         "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 193226,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -323,6 +323,38 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "China",
+        "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 301714,
+      "name": "China",
+      "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -363,38 +395,6 @@
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "China",
-        "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 301714,
-      "name": "China",
-      "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Qu\u00e9 M\u00e1s Pues?",
-        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz)",
         "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 189817,
       "name": "Baila Conmigo (feat. Kelly Ruiz)",
       "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Qu\u00e9 M\u00e1s Pues?",
+        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Amarillo",
-      "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
         "url": "https://open.spotify.com/album/4PTxbJPI4jj0Kx8hwr1v0T"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 192745,
       "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
       "url": "https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Amarillo",
+      "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 211130,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "#7DJ (7 D\u00edas En Jamaica)",
         "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
       },
@@ -1055,6 +1035,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "AYA",
+        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 147076,
+      "name": "Jolie nana",
+      "url": "https://open.spotify.com/track/65RWVU6N81CeH65nu52K1U"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx"
       },
@@ -1071,6 +1067,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 211130,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Ponte Pa' Mi",
         "url": "https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 202373,
       "name": "Ponte Pa' Mi",
       "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "AYA",
-        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 147076,
-      "name": "Jolie nana",
-      "url": "https://open.spotify.com/track/65RWVU6N81CeH65nu52K1U"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 183934,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/36wm1WBVArEbnIgtkT3abj"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 152080,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Silent Sun",
-        "url": "https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3"
-      },
-      "artists": [
-        {
-          "name": "WOAK",
-          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
-        },
-        {
-          "name": "Sillaz",
-          "url": "https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F"
-        },
-        {
-          "name": "RodMac",
-          "url": "https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP"
-        }
-      ],
-      "duration_ms": 171245,
-      "name": "Silent Sun",
-      "url": "https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Para",
         "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
       },
@@ -1855,6 +1831,30 @@
       "duration_ms": 208449,
       "name": "Roses - (Imanbek Remix) [Latino Gang]",
       "url": "https://open.spotify.com/track/2JCOFv3vvv6HIfw7QOqpIz"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Silent Sun",
+        "url": "https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3"
+      },
+      "artists": [
+        {
+          "name": "WOAK",
+          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
+        },
+        {
+          "name": "Sillaz",
+          "url": "https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F"
+        },
+        {
+          "name": "RodMac",
+          "url": "https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP"
+        }
+      ],
+      "duration_ms": 171245,
+      "name": "Silent Sun",
+      "url": "https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq"
     },
     {
       "added_at": "2023-02-17 03:00:00",

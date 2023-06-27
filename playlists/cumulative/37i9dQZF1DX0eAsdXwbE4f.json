@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Green Noise Vol. 1",
+        "url": "https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw"
+      },
+      "artists": [
+        {
+          "name": "JBE Noise Factory",
+          "url": "https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139224,
+      "name": "Green Noise - Early Summer Birds",
+      "url": "https://open.spotify.com/track/2K0J7mQTEpY1Vhus3usBT4"
+    },
+    {
+      "album": {
         "name": "Sleep Rain",
         "url": "https://open.spotify.com/album/17xuXcpMcRLHGbUb7AsUrs"
       },
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-27",
       "duration_ms": 120656,
       "name": "Scandinavian Birds In The Forest",
       "url": "https://open.spotify.com/track/76mlCK9rDlN2ThdRQfTzRx"

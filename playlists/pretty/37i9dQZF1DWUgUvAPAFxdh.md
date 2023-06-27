@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgUvAPAFxdh.md) - [plain]
 
 > The story of Cal Kestis continues in Star Wars Jedi: Survivor, a third person galaxy\-spanning action\-adventure game from Respawn Entertainment, developed in collaboration with Lucasfilm Games.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,705 likes - 59 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,760 likes - 59 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgUvAPAFxdh.md) - [plain]
 | 58 | [Through Darkness](https://open.spotify.com/track/6Q2SOb3ZVThGFOFKEsOFhb) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 5:35 |
 | 59 | [Cold Dawn](https://open.spotify.com/track/1qbr7BPoNtScCHrAbdkvKg) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 3:32 |
 
-Snapshot ID: `MCxlYTgyZDQ3N2FhYzQ2ZGVkMGQzY2I3NmZlMDZhZTYwNTA2YzEwNmM0`
+Snapshot ID: `MCw2MWU0MmRkMjFmZWIzZTg4YjkwNjg4NjQ5ZTVkMmQyY2UxOTRhNjI2`

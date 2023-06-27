@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Maisie Peters
 
-115 songs - 5 hr 51 min
+116 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Mourning](https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Mourning](https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX) | 2:27 | 2023-06-15 |  |
 | [Never Ending Song](https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Never Ending Song](https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI) | 2:35 | 2023-06-15 |  |
 | [NEWS](https://open.spotify.com/track/4LdFhvSwioFDEdOuRQp2MV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [NEWS](https://open.spotify.com/album/1Rp96rbYxQJgiksH8datBA) | 2:27 | 2023-06-15 |  |
+| [NIGHTS LIKE THIS](https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz) | 3:03 | 2023-06-26 |  |
 | [No Man's Land](https://open.spotify.com/track/68HjC78NoNtXkpfse3vwcK) | [ASHY](https://open.spotify.com/artist/6c47JwRK2Sd1zeisuIgKhO) | [Status](https://open.spotify.com/album/3lZpCFlqJ4uMU4qSa0yfPw) | 2:40 | 2023-06-15 | 2023-06-23 |
 | [OK](https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [OK](https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V) | 4:23 | 2023-06-15 |  |
 | [On My Own](https://open.spotify.com/track/581RQr3HXrnCbVqfwmRnEj) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [On My Own](https://open.spotify.com/album/6iJaI3mbYF4tlPPUnAhJ2l) | 3:04 | 2023-06-15 |  |

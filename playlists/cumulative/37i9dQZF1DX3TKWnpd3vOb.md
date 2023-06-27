@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Bunkers
 
-243 songs - 15 hr 30 min
+244 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [Diversion](https://open.spotify.com/track/3wNMVSpqdIEilxI5eH2vMK) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Flores Plásticas](https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4) | 2:58 | 2022-07-01 | 2023-03-03 |
 | [Don´t Dream It´s Over](https://open.spotify.com/track/1f0jGDnI25u0l1jM3C0fkf) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Don´t Dream It´s Over](https://open.spotify.com/album/4p8CVAYlRBbG8xnNJljOLU) | 4:18 | 2022-04-08 | 2022-12-17 |
 | [Dormir en Cadenas](https://open.spotify.com/track/1KgQYMZgyY7c1eGk0MVzvq) | [Cede](https://open.spotify.com/artist/5gg0cZdcWGowFq4M0PiO7C) | [Dormir en Cadenas](https://open.spotify.com/album/6qCPo2VJtEa7o9lRLCvzWu) | 4:30 | 2022-04-08 | 2022-07-27 |
+| [Dual](https://open.spotify.com/track/0RFhbOwk4IWANsiZGeedTr) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 4:24 | 2023-06-23 |  |
 | [Dual](https://open.spotify.com/track/1i12FygtGjwPG3UBf6Nb8l) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Dual](https://open.spotify.com/album/3WywOeCZ9nXNnnTu5MBGIX) | 4:24 | 2022-04-08 | 2023-03-12 |
-| [Dual](https://open.spotify.com/track/2DZ3nXTxxmwBe9f7D7ruFE) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Dual](https://open.spotify.com/album/6PPyGzsdOpAwX1RQBakY5Y) | 4:24 | 2023-03-03 |  |
+| [Dual](https://open.spotify.com/track/2DZ3nXTxxmwBe9f7D7ruFE) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Dual](https://open.spotify.com/album/6PPyGzsdOpAwX1RQBakY5Y) | 4:24 | 2023-03-03 | 2023-06-27 |
 | [Eclipse](https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Eclipse](https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I) | 5:19 | 2022-04-08 | 2023-04-11 |
 | [El As de Espadas](https://open.spotify.com/track/3ThndZ3i2hOcp54n87h4xc) | [Los Mox!](https://open.spotify.com/artist/3vOhBYpEKYtJhZcQWh0Q4Q) | [El As de Espadas](https://open.spotify.com/album/0oWW1AYG83mNnjWtt1DHUa) | 2:33 | 2022-04-08 | 2023-03-03 |
 | [El Detenido](https://open.spotify.com/track/5Me7VPFRjI9qs5pRbcW6ux) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [El Detenido](https://open.spotify.com/album/1yuzU28kJviQyvk7iwdNKF) | 5:11 | 2022-04-08 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 34931,
+  "num_followers": 34971,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWJmOTZiZDRhODI5OWNiNjQ2YzI0OWY1ODI3OGNkODE5MDFmN2E3",
+  "snapshot_id": "MCxhN2FkYmQyMWFiNTZhZTQyNjUzZjYxNjExMWYzMWQyMGU5ZDI5MjNh",
   "tracks": [
     {
       "added_at": "2023-06-22 23:00:00",
@@ -143,26 +143,18 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
+        "name": "Deepak Looper",
+        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
       },
       "artists": [
         {
-          "name": "FRANKIEONTHEGUITAR",
-          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 223100,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
+      "duration_ms": 193492,
+      "name": "Impec",
+      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -215,18 +207,26 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Deepak Looper",
-        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
       },
       "artists": [
         {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 193492,
-      "name": "Impec",
-      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
+      "duration_ms": 223100,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Gota D'Espa\u00e7o",
-        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Ar",
-      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Reflexo",
-        "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
+        "name": "Gota D'Espa\u00e7o",
+        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
       },
       "artists": [
         {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 306733,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
+      "duration_ms": 236571,
+      "name": "Ar",
+      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -619,6 +603,22 @@
       "duration_ms": 204320,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Reflexo",
+        "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 306733,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "PRA MIM",
-        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 153858,
-      "name": "PRA MIM",
-      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Estrela Maior",
         "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
       },
@@ -751,18 +735,34 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Jony Driver",
-        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf"
       },
       "artists": [
         {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+          "name": "Cairo",
+          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
         }
       ],
-      "duration_ms": 257500,
-      "name": ".Sais e Minerais",
-      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
+      "duration_ms": 183529,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "PRA MIM",
+        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 153858,
+      "name": "PRA MIM",
+      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -787,34 +787,18 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf"
+        "name": "Jony Driver",
+        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
       "artists": [
         {
-          "name": "Cairo",
-          "url": "https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP"
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 183529,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+      "duration_ms": 257500,
+      "name": ".Sais e Minerais",
+      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -831,22 +815,6 @@
       "duration_ms": 314009,
       "name": "Conversas",
       "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 279423,
-      "name": "Depois da Chuva",
-      "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -891,26 +859,50 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "ELEVEM",
-        "url": "https://open.spotify.com/album/3CHSG0tS9y5CWLKh2DrhUw"
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 279423,
+      "name": "Depois da Chuva",
+      "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Madruga",
+        "url": "https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA"
       },
       "artists": [
         {
           "name": "Mike11",
           "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
-        },
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Jaca",
-          "url": "https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH"
         }
       ],
-      "duration_ms": 258260,
-      "name": "Ref\u00fagio",
-      "url": "https://open.spotify.com/track/3i8WqrMisc11UHB9Ja9cIW"
+      "duration_ms": 206315,
+      "name": "Madruga",
+      "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -963,22 +955,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "EU SEI",
-        "url": "https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa"
-      },
-      "artists": [
-        {
-          "name": "Wayn Dior",
-          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "EU SEI",
-      "url": "https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "O Brilho de Viver",
         "url": "https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9"
       },
@@ -995,6 +971,38 @@
       "duration_ms": 255652,
       "name": "O Brilho de Viver",
       "url": "https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 256144,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "EU SEI",
+        "url": "https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa"
+      },
+      "artists": [
+        {
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
+        }
+      ],
+      "duration_ms": 223961,
+      "name": "EU SEI",
+      "url": "https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1019,38 +1027,6 @@
       "duration_ms": 176000,
       "name": "N\u00e3o Me Faz Bem",
       "url": "https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 256144,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Madruga",
-        "url": "https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA"
-      },
-      "artists": [
-        {
-          "name": "Mike11",
-          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "Madruga",
-      "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1115,22 +1091,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq"
-      },
-      "artists": [
-        {
-          "name": "TT",
-          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
-        }
-      ],
-      "duration_ms": 173052,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Parque",
         "url": "https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb"
       },
@@ -1143,6 +1103,22 @@
       "duration_ms": 141818,
       "name": "Parque",
       "url": "https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq"
+      },
+      "artists": [
+        {
+          "name": "TT",
+          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
+        }
+      ],
+      "duration_ms": 173052,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1163,6 +1139,22 @@
       "duration_ms": 200869,
       "name": "Toca",
       "url": "https://open.spotify.com/track/1hIXfKQYuMl1aioQkvzNCM"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Compensa",
+        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Compensa",
+      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1190,11 +1182,31 @@
         {
           "name": "Mike11",
           "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
       "duration_ms": 216000,
       "name": "I Own This",
       "url": "https://open.spotify.com/track/4s4ap06sE6JjOcXupz8qWg"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Metamorfose",
+        "url": "https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0"
+      },
+      "artists": [
+        {
+          "name": "Mirai",
+          "url": "https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC"
+        }
+      ],
+      "duration_ms": 248275,
+      "name": "Metamorfose",
+      "url": "https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1219,22 +1231,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Compensa",
-        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
-      },
-      "artists": [
-        {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Compensa",
-      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "To My Favorite Ex",
         "url": "https://open.spotify.com/album/1WeTkoxi7ICEveQ8xcXx58"
       },
@@ -1251,22 +1247,6 @@
       "duration_ms": 186000,
       "name": "To My Favorite Ex",
       "url": "https://open.spotify.com/track/5fLidbjAFMytaMWclTjmuX"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Crime Scene",
-        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
-      },
-      "artists": [
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        }
-      ],
-      "duration_ms": 178443,
-      "name": "Crime Scene",
-      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1295,6 +1275,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Crime Scene",
+        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "duration_ms": 178443,
+      "name": "Crime Scene",
+      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Sou Eu",
         "url": "https://open.spotify.com/album/6KrkHvd0AyGtVJNZKxyikb"
       },
@@ -1307,22 +1303,6 @@
       "duration_ms": 214641,
       "name": "Sou Eu",
       "url": "https://open.spotify.com/track/2ZxwGr1ke9B1sfefxq18sI"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Metamorfose",
-        "url": "https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0"
-      },
-      "artists": [
-        {
-          "name": "Mirai",
-          "url": "https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC"
-        }
-      ],
-      "duration_ms": 248275,
-      "name": "Metamorfose",
-      "url": "https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1363,6 +1343,22 @@
       "duration_ms": 197627,
       "name": "Negritude",
       "url": "https://open.spotify.com/track/4rgoNviXWceudmqv6B0ul2"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Teus Olhos",
+        "url": "https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "duration_ms": 200412,
+      "name": "Teus Olhos",
+      "url": "https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6"
     }
   ],
   "unique_name": "Seda",

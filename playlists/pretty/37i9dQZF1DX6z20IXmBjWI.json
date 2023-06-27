@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2142145,
+  "num_followers": 2142119,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjk3MWQ5YmUxZGZjNmEyZTk0NTJhZGMzYzM4ZTY0MGM1ZDQ2Zjdl",
+  "snapshot_id": "MCxhMTBjOGE4NTZjOGZjMmY5MTkyYjc0ZDk3MTBmOTc3MjQ3NGYyMWEw",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+      "duration_ms": 246133,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 246133,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Old Sea Brigade",
-        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Love Brought Weight",
-      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 219093,
       "name": "Nothing Arrived - Live from Spotify London",
       "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Old Sea Brigade",
+        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Love Brought Weight",
+      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Wait for You",
-        "url": "https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 193935,
-      "name": "Wait for You",
-      "url": "https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Keep 'Em on They Toes",
         "url": "https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Wait for You",
+        "url": "https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 193935,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Without/Within",
+        "url": "https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 304493,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Idle Mind",
         "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Without/Within",
-        "url": "https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 304493,
-      "name": "Sophie",
-      "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Volume I",
-        "url": "https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84"
-      },
-      "artists": [
-        {
-          "name": "Belle Mt.",
-          "url": "https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "Hollow - Acoustic",
-      "url": "https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Pharmakon",
         "url": "https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 155352,
       "name": "Pharmakon",
       "url": "https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Volume I",
+        "url": "https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84"
+      },
+      "artists": [
+        {
+          "name": "Belle Mt.",
+          "url": "https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Hollow - Acoustic",
+      "url": "https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Age of Apathy",
-        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "B61",
-      "url": "https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 264452,
       "name": "Motion Sickness (Demo - Bonus Track)",
       "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "B61",
+      "url": "https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Maria Taylor",
+          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
+        }
+      ],
+      "duration_ms": 234079,
+      "name": "Summer's End - Spotify Singles",
+      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 237126,
       "name": "Only Children",
       "url": "https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Maria Taylor",
-          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
-        }
-      ],
-      "duration_ms": 234079,
-      "name": "Summer's End - Spotify Singles",
-      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Build Me Up From Bones",
         "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
@@ -1675,8 +1659,24 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
       },
       "artists": [
         {
@@ -1684,25 +1684,9 @@
           "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+      "duration_ms": 245653,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1719,6 +1703,22 @@
       "duration_ms": 183767,
       "name": "Siren Song",
       "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1751,6 +1751,22 @@
       "duration_ms": 182805,
       "name": "It'll Work Itself Out",
       "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1823,22 +1839,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "The Wolves",
-      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "The Barrel",
         "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
       },
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 211688,
+      "name": "Echo (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "NUDES",
         "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 211794,
       "name": "The Rains",
       "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 211688,
-      "name": "Echo (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Location 13 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "duration_ms": 255191,
+      "name": "Letter to Lady J",
+      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "The Closest Thing to Home",
         "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
       },
@@ -2295,22 +2311,6 @@
       "duration_ms": 189282,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Location 13 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
-      },
-      "artists": [
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 255191,
-      "name": "Letter to Lady J",
-      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "The Widow Knows E.P.",
-        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
-      },
-      "artists": [
-        {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
-        }
-      ],
-      "duration_ms": 252816,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Nervous At Night",
         "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 187133,
       "name": "Planet With Water",
       "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "The Widow Knows E.P.",
+        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+      },
+      "artists": [
+        {
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+        }
+      ],
+      "duration_ms": 252816,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -2655,18 +2655,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+        "name": "tidal wave",
+        "url": "https://open.spotify.com/album/1gvPVsUNYltKKOuz2cXnu4"
       },
       "artists": [
         {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+      "duration_ms": 241173,
+      "name": "tidal wave",
+      "url": "https://open.spotify.com/track/1qJ4G36THbntJM8w1xyLL8"
     }
   ],
   "unique_name": "Infinite Acoustic",

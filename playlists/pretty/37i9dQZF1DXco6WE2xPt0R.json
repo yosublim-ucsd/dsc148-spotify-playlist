@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 93630,
+  "num_followers": 93811,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTM0ODljNmRmNzY1MzhhYzMzOGM0MDcwZjg3YTBkMzVmYmUwMmU2",
+  "snapshot_id": "MCw3OGI5NGQ1YzcwOWU1ZmRkZjQ4NDIwM2E1Yzk2MDY4ZjNmN2E4YmZm",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "DYING 4 YOUR LOVE",
-      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 214455,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "DYING 4 YOUR LOVE",
+      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 130981,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 219729,
       "name": "What's Up (feat. Jagged Edge)",
       "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "PHO EP",
-        "url": "https://open.spotify.com/album/1x6E0JYj6wKFHfZQFQCpnU"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 147106,
-      "name": "GOAT",
-      "url": "https://open.spotify.com/track/1MVpa4w2TsjgUoJxMRAP0Z"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Souled Out",
         "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 237573,
       "name": "The Pressure",
       "url": "https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "PHO EP",
+        "url": "https://open.spotify.com/album/1x6E0JYj6wKFHfZQFQCpnU"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 147106,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/1MVpa4w2TsjgUoJxMRAP0Z"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Good Morning Gorgeous (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 174636,
       "name": "Good Morning Gorgeous (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "No Longer in the Suburbs",
-        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 174163,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Let Me See Your Phone",
+        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 202371,
+      "name": "Let Me See Your Phone",
+      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Devil In A Dress (RHEAMIX)",
         "url": "https://open.spotify.com/album/5nYbtOgKv3csvwdXvE8dad"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Let Me See Your Phone",
-        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 202371,
-      "name": "Let Me See Your Phone",
-      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Milly",
         "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 188797,
       "name": "Genius",
       "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Chocolate Covered Strawberries",
+        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Chocolate Covered Strawberries",
+      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1611,22 +1627,6 @@
       "duration_ms": 236493,
       "name": "ILM",
       "url": "https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Chocolate Covered Strawberries",
-        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Chocolate Covered Strawberries",
-      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
     },
     {
       "added_at": "2023-05-19 03:01:00",

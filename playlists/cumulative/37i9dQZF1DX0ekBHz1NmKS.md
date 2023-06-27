@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-727 songs - 1 day 14 hr 27 min
+728 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Aska](https://open.spotify.com/track/7IDJTVebvZSHH5coPgvxIq) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Vi](https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX) | 3:54 | 2022-07-28 | 2022-09-16 |
 | [Att vara själv och inte ensam alls](https://open.spotify.com/track/2kg9iuONImcFwLYanWJfvp) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Att vara själv och inte ensam alls](https://open.spotify.com/album/49dwPU6YrNSCtMEP1RyXQZ) | 3:42 | 2021-12-16 | 2022-03-10 |
 | [aura](https://open.spotify.com/track/7A63dexDM5NCXlICgq8RUc) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd) | [ikväll, inatt, men aldrig imorgon](https://open.spotify.com/album/2iHZ5X0FRetrOOK6A97G9N) | 2:52 | 2023-02-23 | 2023-04-07 |
-| [Autopilot](https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Autopilot](https://open.spotify.com/album/42YP4aQ1sTjUZm54n5pRUI) | 2:51 | 2023-02-16 |  |
+| [Autopilot](https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Autopilot](https://open.spotify.com/album/42YP4aQ1sTjUZm54n5pRUI) | 2:51 | 2023-02-16 | 2023-06-27 |
 | [Avundsjuk på regnet](https://open.spotify.com/track/08jUQzPgECVJW9eQDHOiz7) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 2:42 | 2021-12-16 | 2022-09-16 |
 | [Baby Blue](https://open.spotify.com/track/3MJSu8SbYVcRRfi5faaMQd) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Baby Blue](https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n) | 2:54 | 2022-04-01 | 2022-04-21 |
 | [Bad One](https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b) | 2:41 | 2023-06-22 |  |
@@ -423,7 +423,7 @@
 | [Moonshine](https://open.spotify.com/track/3r2M7ITabcpBF6ZmaQr5LL) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Moonshine](https://open.spotify.com/album/1mYP0VnPraUurStDyEyRex) | 3:41 | 2021-12-16 | 2022-02-10 |
 | [More Than Words](https://open.spotify.com/track/6mss39f2NvXx3IshtHqldT) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [More Than Words](https://open.spotify.com/album/2nNSUxI7Loz154Ytgoaq1e) | 2:52 | 2021-12-16 | 2022-04-02 |
 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-01-12 | 2023-03-26 |
-| [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-04-01 | 2023-06-26 |
+| [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-04-01 |  |
 | [Morning](https://open.spotify.com/track/5NQ8oXv0nbpwUn51Nzu45H) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Swedish Summer Edition\)](https://open.spotify.com/album/2tJdPK9VjOY8XV6VM6s1Cy) | 2:54 | 2021-12-16 | 2022-02-09 |
 | [Moving Like That](https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Moving Like That](https://open.spotify.com/album/32FC7UO1DuuzlTgkoLP7VJ) | 2:49 | 2022-02-05 | 2022-04-28 |
 | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5) | 3:48 | 2022-05-12 | 2023-02-11 |
@@ -654,6 +654,7 @@
 | [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 | 2023-05-10 |
 | [Touch Yourself](https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Best You've Ever Had](https://open.spotify.com/album/0BpjvQJqOL7eXISjVFdRVe) | 2:58 | 2021-12-16 | 2022-04-02 |
 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 | 2022-04-01 | 2022-04-21 |
+| [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 |  |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 | 2023-02-24 |
 | [Tusen gånger om \(feat\. Newkid\)](https://open.spotify.com/track/3EsUkO1XncklrPvQaabHaz) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Tusen gånger om \(feat\. Newkid\)](https://open.spotify.com/album/6MW4cZxYvBtl4ptt5cODZ2) | 3:16 | 2022-06-02 |  |
 | [Två steg från helvetet](https://open.spotify.com/track/2Rnovc1XuaXP1yc7X1AqbK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Två steg från helvetet](https://open.spotify.com/album/6tdvSwpWnFTRkpnvX0CP76) | 3:18 | 2022-03-10 | 2022-09-16 |
@@ -698,7 +699,7 @@
 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 | 2023-05-19 |  |
 | [Waiting on Your Love](https://open.spotify.com/track/24Xb1t3v9EmLIxGrkezlys) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Waiting on Your Love](https://open.spotify.com/album/5W5j070IXwKqX2mq6laTwX) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2022-11-10 | 2023-04-28 |
-| [We Fall in Love Sometimes](https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Where the Tragic Happens](https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo) | 2:53 | 2023-06-22 |  |
+| [We Fall in Love Sometimes](https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Where the Tragic Happens](https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo) | 2:53 | 2023-06-22 | 2023-06-27 |
 | [What If I](https://open.spotify.com/track/2c2O7ChAwj2jioNr1yDOH1) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [What If I](https://open.spotify.com/album/4eq3D1g5XmBKafdSOni4mr) | 3:05 | 2021-12-16 | 2022-04-02 |
 | [What You Were Made For](https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [What You Were Made For](https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw) | 3:14 | 2022-05-26 | 2023-03-08 |
 | [When You’re Young](https://open.spotify.com/track/5bui8E7DuqEilW7x1UYpmx) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [When You’re Young](https://open.spotify.com/album/0llHoi4wBf98uJcmtHKyrv) | 2:44 | 2023-02-09 | 2023-04-28 |
