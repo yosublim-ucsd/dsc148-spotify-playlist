@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,711 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,801 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Come On Now](https://open.spotify.com/track/0jC2XPH7vnNK5ol0bfC8Zs) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinda Kinks \(Deluxe\)](https://open.spotify.com/album/73anEcke1iGiFLxWhXnco8) | 1:48 |
+| 1 | [Come On Now](https://open.spotify.com/track/0jC2XPH7vnNK5ol0bfC8Zs) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinda Kinks \(Deluxe\)](https://open.spotify.com/album/73anEcke1iGiFLxWhXnco8) | 1:45 |
 | 2 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
 | 3 | [Looking at You](https://open.spotify.com/track/50w6PJJmcNzmqlQwts40x1) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf) | [Back In The USA](https://open.spotify.com/album/67NkpPGMcxoIiumOW3oRpL) | 3:01 |
 | 4 | [Psycho](https://open.spotify.com/track/77DvhwGhnmfrXWwiJzeIMC) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Maintaining My Cool](https://open.spotify.com/album/5joOZaTA1gkFmw0eLM8ASR) | 2:20 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MCwyNjE4NTcxMTBhMzYxODRiOWVhYThkMWZhM2Q3MzQzN2Q1ZmJmNmEw`
+Snapshot ID: `MCxlYzY3ZWZhM2Y2NzFlNmIxMzU1OTNmMGY4MmFlNmU1N2Y4ZDE5Zjdi`

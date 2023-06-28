@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,085 likes - 220 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,075 likes - 220 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 219 | [in A Mangè](https://open.spotify.com/track/5lBz5nknYlW3d2yVRSfMR3) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 2:59 |
 | 220 | [Cozy Fireplace](https://open.spotify.com/track/6l29buL3HPRKy36vzDuNJp) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 1:52 |
 
-Snapshot ID: `MCxlNjM0NmMzN2E4YTY4YWJkZjk5ZjgxMTg5YmJjYjg3NzU0YzlkODJj`
+Snapshot ID: `MCxjZTM2MDViMzBmZDVhMDg0NTU2M2FmZGExMjM4ZTMyOTYyMzI3YzJi`

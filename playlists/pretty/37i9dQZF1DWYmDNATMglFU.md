@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. meet me @ the altar
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,082 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,074 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [Even When I’m Not With You](https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 2:54 |
 | 85 | [MY HEAD](https://open.spotify.com/track/4Ky0M6BP4lKfw7lyJabZxi) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [ARRIVED](https://open.spotify.com/album/5BC8FN2b91LD7tyym1ocsa) | 2:35 |
 
-Snapshot ID: `MCxmOWVjZTZiNTA3YjkxOTkxYWYyODk2ZmFkNmY1YjhmZDdkMjc5ZTFk`
+Snapshot ID: `MCwwMjVhMTI3MmFmMzI4NDM5N2FlYWM1MDE0MWY4MjNkZmU5MzdkOTIw`

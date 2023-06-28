@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 23 | [Summer](https://open.spotify.com/track/2eVl7KmAVQNbDUpd7Dkka3) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 5:01 |
 | 24 | [Chrome Neon Jesus](https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:43 |
 
-Snapshot ID: `MjgxMjk2OTYsMDAwMDAwMDA3MTI5ZmViM2M4N2YxYzViMzNiMzQ0ZjE5NzhhNjNjYw==`
+Snapshot ID: `MjgxMzExNTUsMDAwMDAwMDBhZGI1ZGQyZDE2MDlkYWI4ZDljNjM0NzBmZDE0MzkzOA==`

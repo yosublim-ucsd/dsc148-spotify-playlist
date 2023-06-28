@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Jazzy.
 
-616 songs - 1 day 13 hr 56 min
+617 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Everyman \- Dam Swindle Remix](https://open.spotify.com/track/0YNivNwnO2TwAS5b6NBMIf) | [Double Exposure](https://open.spotify.com/artist/2ycdPM6Y4ioJzcmZRlp4Db), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Ten Percent \(Deluxe Edition\)](https://open.spotify.com/album/7tGfhFCR7Ex1uATx9j5l4O) | 5:57 | 2022-12-28 | 2023-01-06 |
 | [Everyone](https://open.spotify.com/track/1b27zUMtkjBkLpxtK77gR8) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Everyone](https://open.spotify.com/album/5r0RFbLJaZ1u7PLuL6Dk8C) | 3:06 | 2021-03-27\* | 2021-04-03 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-10 |  |
-| [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 | 2023-06-23 |  |
+| [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 | 2023-06-23 | 2023-06-28 |
 | [Fantasy](https://open.spotify.com/track/4oIm6Nv85IWMOPv4Gq0EMN) | [Jamie Roy](https://open.spotify.com/artist/79ABJJGvLA87FSIayREkBM), [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Fantasy](https://open.spotify.com/album/1fEfDgrXuU5yjQ8gu87AXV) | 2:57 | 2021-12-31 | 2022-07-24 |
 | [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-04-21 |  |
 | [Feel It](https://open.spotify.com/track/2MhH5aAORsvCgl3E8aOC1q) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Feel It](https://open.spotify.com/album/0Xlrltos3265GCIltt7uXX) | 3:00 | 2022-05-27 | 2022-07-25 |
@@ -371,6 +371,7 @@
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-03-27\* | 2021-06-12 |
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-06-24 | 2023-02-11 |
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-03-27\* | 2021-07-17 |
+| [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-06-23 |  |
 | [Miami](https://open.spotify.com/track/3IVE4PaCFVFJauGDkoWke7) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [Once I Was Young](https://open.spotify.com/album/5YqMEy9J5JIskfp4zDti83) | 4:43 | 2022-12-28 | 2023-01-06 |
 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 | 2021-08-28 | 2022-04-21 |
 | [Middle](https://open.spotify.com/track/7pk1VW7qa7zBQDbqMWydUD) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Middle](https://open.spotify.com/album/6xsGcIH2ZZyjQXv6YISOH0) | 3:01 | 2021-06-12 | 2022-07-29 |

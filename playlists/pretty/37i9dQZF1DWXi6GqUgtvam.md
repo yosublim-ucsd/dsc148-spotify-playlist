@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,683 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,839 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 31 | [Douce dame jolie](https://open.spotify.com/track/16EFosNh2wJGWP6KotAsK8) | [Guillaume de Machaut](https://open.spotify.com/artist/26CZyrNgtF9nzfUE8C8LFd), [Munir Beken](https://open.spotify.com/artist/6IJoqCY61xwIYOaOAigOv6), [August Denhard](https://open.spotify.com/artist/4jShwDgkACpP3mIHRrytrK) | [A Meeting Place: Medieval & Renaissance Music for Lute & Ud](https://open.spotify.com/album/7sYQxue1rCYb4d4yJQuxkO) | 3:31 |
 | 32 | [Around the Fire](https://open.spotify.com/track/0JP97EPP5NkoemtNNjQYPR) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 3:09 |
 | 33 | [Toccata & Fugue in D minor, BWV565](https://open.spotify.com/track/0wKd0Fgi4rS4dU5tfUrAHq) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Edin Karamazov](https://open.spotify.com/artist/0RNSa2Wzuwz8Rsf7YeFNk4) | [The Lute Is A Song](https://open.spotify.com/album/37o038msWAFI8I6bSQyNeP) | 8:45 |
-| 34 | [Ecco la primavera](https://open.spotify.com/track/7zthdBWe8AUP730iCyOahN) | [Francesco Landini](https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI), [Jessica Baran\-Surel](https://open.spotify.com/artist/3SD6u8y8I74U62Dzb05FuE) | [Aremorica \- Land of Elves](https://open.spotify.com/album/7BvELdzrU8gN4V6fTB2Xq6) | 3:13 |
+| 34 | [Ecco la primavera](https://open.spotify.com/track/7zthdBWe8AUP730iCyOahN) | [Jessica Baran\-Surel](https://open.spotify.com/artist/3SD6u8y8I74U62Dzb05FuE), [Francesco Landini](https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI) | [Aremorica \- Land of Elves](https://open.spotify.com/album/7BvELdzrU8gN4V6fTB2Xq6) | 3:13 |
 | 35 | [Lute music \- Italy: Ricercar XIII](https://open.spotify.com/track/1KiKxwDqfCMqbg0Wt8Hcuw) | [Vincenzo Capirola](https://open.spotify.com/artist/7GYOs5iBpaqT2KBV4pteU7), [Konrad Ragossnig](https://open.spotify.com/artist/3qJX1xoYrbUmU2Uz4gZzuQ) | [Works For Lute](https://open.spotify.com/album/6CosqW2KLJ7qxTpKwAwk9a) | 3:31 |
 | 36 | [2ème livre de tabulature de leut: Fantaisie](https://open.spotify.com/track/2L1qQGIWPNfMiCxmBXghL3) | [Guillaume Morlaye](https://open.spotify.com/artist/49kLXAk0bbAnCYhuPSbUO1), [Federico Marincola](https://open.spotify.com/artist/2bsj7EbJXWVagbqIEsN9li) | [Morlaye : Pièces pour luth, Pièces pour guitare](https://open.spotify.com/album/0PYQjBPvCcpdg90Nnn8u8O) | 3:17 |
 | 37 | [Fantasia](https://open.spotify.com/track/1wtICs9nvS3zl27bCgBaUP) | [Cuthbert Hely](https://open.spotify.com/artist/0796Sa4MsgLbiCIFgSPLAn), [Jakob Lindberg](https://open.spotify.com/artist/75oA7nyJ60AqDyOpB5Jbs9) | [Jacobean Lute Music](https://open.spotify.com/album/6Is0LZIez8POle2AUYu2LH) | 4:03 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 50 | [The Master Chef of Gastrobury](https://open.spotify.com/track/0aycbYuLLKP00Vxk8nLXtB) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Sims Medieval, Vol\. 2](https://open.spotify.com/album/3DwRaQhxTq7o9a0GAnILbD) | 2:08 |
 | 51 | [Quan je voy le duç](https://open.spotify.com/track/35VIYtvrvDsaAv7HNW62C0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Early Music Festival](https://open.spotify.com/album/3OWVzjvXl5cq42I7Nc7cpQ) | 2:18 |
 
-Snapshot ID: `MCw4NWFhNjIyOTRlMjM2ZDA0YTUxOGIyMDhkNTM5Njc5NGExYzJlYzQ1`
+Snapshot ID: `MCwyOTc3NjUzYzE4YjkyMDQ3YTdmNDk5MGU0OWVkYTVkZjdlOTQ3NGUy`

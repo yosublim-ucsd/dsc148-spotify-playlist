@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Ferrugem e Luísa Sonza, Anitta, Elza Soares, Zé Neto e Cristiano e muito mais!
 
-6,809 songs - 14 day 12 hr 33 min
+6,810 songs - 14 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1897,7 +1897,8 @@
 | [DV](https://open.spotify.com/track/2mP9QHqgY7aobfiTE3YRje) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L) | [DV](https://open.spotify.com/album/6aP9WeNXB0gsJ2CI06zeVA) | 3:39 | 2022-07-15 | 2022-07-23 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-03-05 |
 | [Dá Intimidade Pra Ver \- Ao Vivo](https://open.spotify.com/track/0j8nXyOr5UXWHqy0BBnZ6L) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 2](https://open.spotify.com/album/0nSCmDQ8GRpsu4sAKKhaBM) | 2:23 | 2022-01-21 | 2022-01-29 |
-| [Déjalo En Visto](https://open.spotify.com/track/47muEluwzPvFgpCGo5PT0m) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW) | 3:09 | 2023-06-23 |  |
+| [Déjalo En Visto](https://open.spotify.com/track/47muEluwzPvFgpCGo5PT0m) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW) | 3:09 | 2023-06-23 | 2023-06-28 |
+| [Déjalo En Visto](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 | 2023-06-23 |  |
 | [Déjame Ser](https://open.spotify.com/track/5GUjpNZrwANcwCyaohXOrd) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL) | [Déjame Ser](https://open.spotify.com/album/7orkeKxM7Yp0k4G6rPL8nN) | 3:47 | 2022-06-03 | 2022-06-11 |
 | [Dígitos](https://open.spotify.com/track/5BbyseWL7c4TRJG850rMBo) | [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Dígitos](https://open.spotify.com/album/3SO3cIxzjrbdA5gj5nwAX7) | 3:48 | 2022-11-18 | 2022-11-26 |
 | [Dó Do Meu Colchão](https://open.spotify.com/track/5O0H87JV9yM4BHrHafCG5T) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Dó Do Meu Colchão](https://open.spotify.com/album/60ApehyHqdqjcqBAS0jF4I) | 2:15 | 2023-03-17 | 2023-03-25 |

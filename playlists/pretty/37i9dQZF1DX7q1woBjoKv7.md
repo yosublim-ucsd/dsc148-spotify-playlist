@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: PHABO
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,066 likes - 53 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,082 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,15 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 41 | [Stutter](https://open.spotify.com/track/2oMFMuDI3p05ncKqltBAgp) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Stutter](https://open.spotify.com/album/6bZg43jmUCts6gW2mi4AAm) | 2:37 |
 | 42 | [Slow Dancing \- Remix](https://open.spotify.com/track/1n7PH7mid9qAtgrWQY8Ff9) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Kincy](https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53) | [Slow Dancing \(Remix\)](https://open.spotify.com/album/19BXqBoy3CeCMLB4d8GXU1) | 3:33 |
 | 43 | [Leave it Behind](https://open.spotify.com/track/0AleScLkrP6aQcJPBBzPPK) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Leave It Behind](https://open.spotify.com/album/15OP5lGJB4ra76N5qGT9ua) | 2:51 |
-| 44 | [Loving You](https://open.spotify.com/track/4EZ631ou9c5Wh0hk3bxsxC) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Loving You](https://open.spotify.com/album/3Y80apTdeTfiP82fkSqqsW) | 2:48 |
-| 45 | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 |
-| 46 | [Games \(feat\. 03 Greedo & Bino Rideaux\)](https://open.spotify.com/track/4NmmRqiGVrPqg4pLpyFfdQ) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [GEEZYWORLD 2](https://open.spotify.com/album/5zs9qUyhrUbvhGicNAzJWV) | 2:49 |
-| 47 | [Touch IT](https://open.spotify.com/track/22fRivcrnRqbgxq5m6vMDW) | [Donn John$on](https://open.spotify.com/artist/2JTNs3kBwswBjsHvwgkQ8y), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Touch IT](https://open.spotify.com/album/2cnoCSanWPupvaFNPaLNRv) | 2:33 |
-| 48 | [Bla$t Bak](https://open.spotify.com/track/3KR8I2Hh9XmRjgmfFy8FX9) | [Bla$ta](https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ) | [Bla$t Bak](https://open.spotify.com/album/1lkC0OrYumPxt9n9qONgba) | 2:39 |
-| 49 | [Top Opp](https://open.spotify.com/track/1NP1V2tjeDmyFG1pSvAvL1) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Hotboiiz:4L](https://open.spotify.com/album/2g0gYRnewHwt4unRqznlRo) | 1:54 |
-| 50 | [One Pic](https://open.spotify.com/track/26uouQ0wnleZOoWLhN7fMh) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [One Pic](https://open.spotify.com/album/135jcZOvD8gg1mtDXKfJmt) | 1:23 |
-| 51 | [dive](https://open.spotify.com/track/6MLc0jhaddaE3AM6mII84m) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [dive](https://open.spotify.com/album/3GbNd90Ziey535gGuNxMPV) | 2:59 |
-| 52 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 |
-| 53 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 |
+| 44 | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 |
+| 45 | [Games \(feat\. 03 Greedo & Bino Rideaux\)](https://open.spotify.com/track/4NmmRqiGVrPqg4pLpyFfdQ) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [GEEZYWORLD 2](https://open.spotify.com/album/5zs9qUyhrUbvhGicNAzJWV) | 2:49 |
+| 46 | [Touch IT](https://open.spotify.com/track/22fRivcrnRqbgxq5m6vMDW) | [Donn John$on](https://open.spotify.com/artist/2JTNs3kBwswBjsHvwgkQ8y), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Touch IT](https://open.spotify.com/album/2cnoCSanWPupvaFNPaLNRv) | 2:33 |
+| 47 | [Bla$t Bak](https://open.spotify.com/track/3KR8I2Hh9XmRjgmfFy8FX9) | [Bla$ta](https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ) | [Bla$t Bak](https://open.spotify.com/album/1lkC0OrYumPxt9n9qONgba) | 2:39 |
+| 48 | [Top Opp](https://open.spotify.com/track/1NP1V2tjeDmyFG1pSvAvL1) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Hotboiiz:4L](https://open.spotify.com/album/2g0gYRnewHwt4unRqznlRo) | 1:54 |
+| 49 | [One Pic](https://open.spotify.com/track/26uouQ0wnleZOoWLhN7fMh) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [One Pic](https://open.spotify.com/album/135jcZOvD8gg1mtDXKfJmt) | 1:23 |
+| 50 | [dive](https://open.spotify.com/track/6MLc0jhaddaE3AM6mII84m) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [dive](https://open.spotify.com/album/3GbNd90Ziey535gGuNxMPV) | 2:59 |
+| 51 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 |
+| 52 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 |
 
-Snapshot ID: `MCw1ZWEyNWNhYWEzNTNmNjJhMmZlYjQxYzVkZmYyNDE2YmFjNGIzOWQz`
+Snapshot ID: `MCxlZWFmYTQ4M2JhYjBjOTRjYTdhZWE3MDcyNmI2OGYwZjlhOTU2ZjMz`

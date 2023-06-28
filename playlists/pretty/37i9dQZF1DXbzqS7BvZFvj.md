@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,675 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,699 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 84 | [Theme of +81 Connect Mix](https://open.spotify.com/track/3fgywJ88l0n6O4ExCP12pk) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Theme of +81 Connect EP](https://open.spotify.com/album/7LKI9DciQsxaf41Aw6c3nf) | 7:31 |
 | 85 | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/track/4lSIx6Q1RNuTtESCrhaI1R) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd) | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/album/5l1ICrjNUg784zp3FXfYRk) | 2:12 |
 
-Snapshot ID: `MCw5MzQzNDNiZTFiMTRiOWI0ZGM3YmIzZDRlYjQ4YjQ5NGI3ZDRiMmIy`
+Snapshot ID: `MCxlMDkzM2Y2YzQ0NDhkZDU3NWE3YzQwNGZmZTkzNzhkZGE0MGFmYzQ2`

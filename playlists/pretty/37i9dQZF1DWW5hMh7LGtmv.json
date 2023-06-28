@@ -1,12 +1,12 @@
 {
   "description": "The ultimate line-up of Summer anthems, strap in !!!",
-  "num_followers": 34141,
+  "num_followers": 34180,
   "original_name": "Summer: The Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTE2ZjNlMDYxZjVhODNlYmQ3MTE4ZjQ2MzA1ZDA5ODRmMzA5YzQ1",
+  "snapshot_id": "MCw5ZmU4ZDVhNTRkNTdmNDE4ZDkxOWZiZmViZjJiZGRkNTNhMTQzNjc4",
   "tracks": [
     {
       "added_at": "2023-02-28 16:56:35",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Lola's Theme",
-        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+        "name": "Year Of The Gentleman (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
       },
       "artists": [
         {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 207066,
-      "name": "Lola's Theme - Radio Edit",
-      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
+      "duration_ms": 234360,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr"
     },
     {
       "added_at": "2023-02-28 16:56:35",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Year Of The Gentleman (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
         }
       ],
-      "duration_ms": 234360,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr"
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     },
     {
       "added_at": "2023-02-28 16:56:35",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Jubel (Radio Edit)",
-        "url": "https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ"
-      },
-      "artists": [
-        {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
-        }
-      ],
-      "duration_ms": 148440,
-      "name": "Jubel - Radio Edit",
-      "url": "https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
         "name": "Life (Deluxe)",
         "url": "https://open.spotify.com/album/44OSVbfmYeai7d1Euvqwpx"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 245186,
       "name": "Feel the Love (feat. John Newman)",
       "url": "https://open.spotify.com/track/2VvCoqF4p46cvyVbhbDsaJ"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "Jubel (Radio Edit)",
+        "url": "https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ"
+      },
+      "artists": [
+        {
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+        }
+      ],
+      "duration_ms": 148440,
+      "name": "Jubel - Radio Edit",
+      "url": "https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO"
     },
     {
       "added_at": "2023-02-28 16:56:35",

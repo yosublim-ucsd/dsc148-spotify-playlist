@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Diplo, Harry Styles &amp; more! Cover: Diplo &amp; Elle King
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,396 likes - 34 songs - 1 hr 51 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,395 likes - 34 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

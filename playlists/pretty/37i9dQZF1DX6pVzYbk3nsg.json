@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 1818,
+  "num_followers": 1824,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2Y3YmU0MTM0ZmY1YWE2MjQwMjc2MGEyM2I0YjNmMDI4MGNiYTVh",
+  "snapshot_id": "MCxmZWFlMzE0NDdlMTBlMTBjZGQ0MjRjZDMzNmY4YmFhNWYyOGFiYzlm",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Para Todos Ustedes",
+        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        }
+      ],
+      "duration_ms": 454466,
+      "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
+      "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Para Todos Ustedes",
-        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
+        "name": "Los Pleneros del Quinto Olivo",
+        "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
       },
       "artists": [
         {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+          "name": "Los Pleneros del Quinto Olivo",
+          "url": "https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG"
         }
       ],
-      "duration_ms": 454466,
-      "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
-      "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
+      "duration_ms": 227000,
+      "name": "Una Noche En Borinquen",
+      "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -683,22 +699,6 @@
       "duration_ms": 192786,
       "name": "Candela (Seis Corrido) [Live]",
       "url": "https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Los Pleneros del Quinto Olivo",
-        "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros del Quinto Olivo",
-          "url": "https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Una Noche En Borinquen",
-      "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -731,26 +731,6 @@
       "duration_ms": 174345,
       "name": "A La Buena Si",
       "url": "https://open.spotify.com/track/3BKuNccgeCFlAQ7KHljZ3V"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
-      },
-      "artists": [
-        {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gua\u00f1eco pi\u00e9",
-      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -799,6 +779,26 @@
       "duration_ms": 223293,
       "name": "Plena De San Anton",
       "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+      },
+      "artists": [
+        {
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gua\u00f1eco pi\u00e9",
+      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
     },
     {
       "added_at": "2023-06-13 22:15:19",

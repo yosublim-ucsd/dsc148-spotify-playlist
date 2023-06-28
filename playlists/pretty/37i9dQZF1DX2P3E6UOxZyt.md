@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: 壞特 \(?te\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,534 likes - 67 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,542 likes - 67 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [Get Out Of My Life](https://open.spotify.com/track/5os91GLjmBf8xYlqg7w5uu) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [Get Out Of My Life](https://open.spotify.com/album/1DzjVFvnV2ubg8rfGYrcPZ) | 2:42 |
 | 67 | [Listen to Me](https://open.spotify.com/track/4ctBtGioje65qUZbWPd4EK) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Listen to Me](https://open.spotify.com/album/1t3hYYECO3j2I69DNzC7WM) | 3:46 |
 
-Snapshot ID: `MCxhYThlYWE5MmMwZTRiNTFiMmI1MjZkOWI1MWIzYzMwYzI2YjFkYzFk`
+Snapshot ID: `MCxlY2QyMGZhODRlNDY0OTEyOWJiMjU5MDIzZTI1MjJhMjk4OWFmMTlk`

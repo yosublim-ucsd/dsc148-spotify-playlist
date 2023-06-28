@@ -4,7 +4,7 @@
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-131 songs - 11 hr 49 min
+134 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,9 +49,11 @@
 | [Endure](https://open.spotify.com/track/4CnIziHXEXDsRIMhmwSVPp) | [MedMan \(UK\)](https://open.spotify.com/artist/7jyAYNZEkd5MgtjOv1JCD4) | [Respekt Rebels, Vol\. 4](https://open.spotify.com/album/65AIbwBS7j6HSf6uD47Hda) | 3:36 | 2022-12-28 |  |
 | [Fear](https://open.spotify.com/track/0JqMQDPOIHFNVTmk8I0H5g) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4), [Mark Michael](https://open.spotify.com/artist/4h5c1OI66KXOmOODqS62GI) | [Fear](https://open.spotify.com/album/15qZw55ojhGLj9qpwcoKYw) | 6:45 | 2023-03-09 |  |
 | [Flash \- Wehbba Remix](https://open.spotify.com/track/1fCapWoH1RpiKEZHU1siAI) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Zøe](https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Flash \(Wehbba Remix\)](https://open.spotify.com/album/2Ketv7thFn0MGG2mX7outD) | 6:27 | 2022-11-25 | 2023-04-24 |
+| [Flashback](https://open.spotify.com/track/1piLDURJz4sxyWtKDpn5uV) | [Kos:mo](https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr) | [Flashback EP](https://open.spotify.com/album/0dScobrIUwSFuDCXhmhMMU) | 3:51 | 2023-06-27 |  |
 | [Free Your Mind \- Alex Stein Remix](https://open.spotify.com/track/4uU140mhIS8nZycSuW2QI1) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Free Your Mind](https://open.spotify.com/album/7Fz04q3ibCWPzyZIjlRkds) | 5:43 | 2023-03-09 |  |
 | [Growing Tension \- Original Mix](https://open.spotify.com/track/5pIKU41QDlwXpmYRLz3kxj) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [The Fire Inside](https://open.spotify.com/album/3sGW94Ai9v7OHmSk8b5g5I) | 4:32 | 2022-04-18 |  |
 | [Hardwired](https://open.spotify.com/track/6S1SMFtcc1ejdWEfgnHrtv) | [Ignacio Arfeli](https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp) | [Hardwired](https://open.spotify.com/album/4TcaHXEDqkxIZgCHLUS94H) | 3:26 | 2022-04-18 |  |
+| [Here & Now](https://open.spotify.com/track/3LGIbU1IYx7vFi8GVbPguo) | [Kos:mo](https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr) | [Flashback EP](https://open.spotify.com/album/0dScobrIUwSFuDCXhmhMMU) | 3:36 | 2023-06-27 |  |
 | [Hinterland \- Thomas Schumacher Edit](https://open.spotify.com/track/789XgQTcDtt9zuUNzH4CYU) | [Mark Porter](https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Your Future Is](https://open.spotify.com/album/1lj9N6USYPJkskRbZ97AKw) | 4:07 | 2023-03-09 |  |
 | [Hold Me](https://open.spotify.com/track/5jZXg80ehvYNY5RZgOE04o) | [Jody 6](https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y) | [Hold Me](https://open.spotify.com/album/6AMeLl62dBE7iqSjBWswGD) | 3:32 | 2023-01-25 |  |
 | [Hope](https://open.spotify.com/track/0iiVsLzLvth1usasLqva9o) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Hope](https://open.spotify.com/album/1LFsNoA9oC2fBGa5aAxZbQ) | 6:18 | 2022-04-18 |  |
@@ -112,6 +114,7 @@
 | [Sirens of Time](https://open.spotify.com/track/1FXRvs2oEQKT7ofCqbvo9H) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Disintegrate](https://open.spotify.com/album/1IeOO326Q8ZPprvUoUUhx5) | 7:01 | 2023-02-05 |  |
 | [Solar Deity](https://open.spotify.com/track/1EGRJ6ekCKA3DigfsFTce6) | [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Solar Deity](https://open.spotify.com/album/259ZhVkGqI3NqzLKn4W9ZK) | 6:24 | 2023-03-09 |  |
 | [Solarsystem \- Tiger Stripes remix](https://open.spotify.com/track/21pFMJNzZxO0l60WpoBb76) | [Kai Anschau](https://open.spotify.com/artist/6KRQGhShvA2cnqHDuqk7ZL), [Mallory N](https://open.spotify.com/artist/4coDD6tDLMFFJwVnlMHabX), [Tiger Stripes](https://open.spotify.com/artist/5L56gAwU2WofuHHOpLC0BU) | [Solarsystem](https://open.spotify.com/album/7xvPDg4Km0txSWBNWQfh3O) | 5:47 | 2022-04-18 |  |
+| [Sonic Motion](https://open.spotify.com/track/2aF0uXFiMvIx8cnLyq5CNd) | [Kos:mo](https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr) | [Flashback EP](https://open.spotify.com/album/0dScobrIUwSFuDCXhmhMMU) | 3:56 | 2023-06-27 |  |
 | [Soul Spirit](https://open.spotify.com/track/2tBsIetiH9ex7UgTz57niz) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Electric Human EP](https://open.spotify.com/album/0b3j1CYx16Lr2Hj2lJduQK) | 6:42 | 2022-04-18 |  |
 | [Styx](https://open.spotify.com/track/6BGLpHleabwEG5V1xEcuVc) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Styx](https://open.spotify.com/album/4dy6VS8wNPwakQJygZaCWA) | 6:38 | 2022-05-17 |  |
 | [Take Me Up](https://open.spotify.com/track/5QdVkqOYWZU83JgAPqHU6j) | [Gary Burrows](https://open.spotify.com/artist/7g4gebdPslleCHko2QBpW3) | [Take Me Up](https://open.spotify.com/album/5yZexvBI78iFXA0jTVz64G) | 5:50 | 2022-04-18 |  |

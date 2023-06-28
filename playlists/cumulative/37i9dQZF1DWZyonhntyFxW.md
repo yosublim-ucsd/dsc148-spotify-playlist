@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: <a href="https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q?si=amIjA4IaQo2ruk0jUnQuoQ"> ويجز </a>
 
-198 songs - 10 hr 8 min
+199 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Double Face](https://open.spotify.com/track/0NvYDGanr7AUEmynCDhfIN) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [Double Face](https://open.spotify.com/album/2YbDf25DxNHXRnP5wm9G2i) | 3:00 | 2022-05-10 | 2022-06-21 |
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 | 2023-05-12 |
 | [El 3asefa](https://open.spotify.com/track/6AunR7FkXRm1EEEdWYFLWg) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El 3asefa](https://open.spotify.com/album/0pET0nC1WwLXIjlOXKW54v) | 2:29 | 2023-05-11 | 2023-06-04 |
-| [El 3asefa](https://open.spotify.com/track/665TwdtuLDvcosWE631uEL) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El 3asefa](https://open.spotify.com/album/6lH9q9RdXfuewaVEu2et8A) | 2:35 | 2023-06-03 |  |
+| [El 3asefa](https://open.spotify.com/track/665TwdtuLDvcosWE631uEL) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El 3asefa](https://open.spotify.com/album/6lH9q9RdXfuewaVEu2et8A) | 2:35 | 2023-06-03 | 2023-06-28 |
 | [EL ASEMA](https://open.spotify.com/track/7xGbfFIhE3fNwS9Djjjq7P) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 6:18 | 2023-02-13 |  |
 | [EL BABA](https://open.spotify.com/track/5hqTZ3iZFOZAeojDVC9QPJ) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [EL BABA](https://open.spotify.com/album/5aXEcbeROqVWPx9zYCYeBJ) | 3:23 | 2022-05-10 | 2022-06-21 |
 | [El Baba](https://open.spotify.com/track/5RJ36vbZUMFzS70hX6nx0k) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [El Baba](https://open.spotify.com/album/0RVaaq1N7PBzB5ZAXgo7qy) | 3:04 | 2023-01-16 | 2023-03-15 |
@@ -110,6 +110,7 @@
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-05-10 | 2022-09-28 |
 | [Matloob](https://open.spotify.com/track/3GFCoYz5FJHXuU81xkICJs) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 3:23 | 2023-05-25 |  |
 | [MAWAWEL](https://open.spotify.com/track/4pHTYFhKIdmDWHBi9oliWv) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAWAWEL](https://open.spotify.com/album/2UKKXEuzmNF6RW0ZfOq1rN) | 2:53 | 2022-12-29 |  |
+| [Melok El Scene](https://open.spotify.com/track/3m3mUrLGCe65i4MOugQSZf) | [MR YASEEN](https://open.spotify.com/artist/17ffht4Wa7TD9dhalJDw6K), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Melok El Scene](https://open.spotify.com/album/2EAY4ezzVKdRd7KrzEEmxN) | 3:40 | 2023-06-27 |  |
 | [Men El Akher](https://open.spotify.com/track/2qzHA1TrDl6EhnaCZpM2yx) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Men El Akher](https://open.spotify.com/album/41jloKy8Li6pfkwSrLxZ0r) | 4:21 | 2022-12-30 | 2023-02-17 |
 | [Mesabek](https://open.spotify.com/track/6FLWYkD96VoBh2Sv2SWewV) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Mesabek](https://open.spotify.com/album/33eGSVyONMDWu2bBpGNMCP) | 4:09 | 2023-02-22 |  |
 | [MESAMA3EEN](https://open.spotify.com/track/6gg53gW5wlz0jSQmOcqIfY) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [MESAMA3EEN \(Deluxe\)](https://open.spotify.com/album/0F05Bs9oMtCyuAd22o4xKQ) | 3:00 | 2022-12-15 |  |

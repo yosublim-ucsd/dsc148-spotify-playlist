@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5681,
+  "num_followers": 5695,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWQ1MWUzZjgzNjUwNTk5OWNhM2NhNmZkMGQ4OTMyNTczYjQ0Zjlh",
+  "snapshot_id": "MCwwYzU4ZWI4NGY1MjUwNTg0OGNlZTkzMzA1YzE3YWI0MzhlZDM4YTJl",
   "tracks": [
     {
       "added_at": "2023-06-16 14:17:19",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-06-16 14:17:19",
       "album": {
+        "name": "Exorcist",
+        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
+      },
+      "artists": [
+        {
+          "name": "Selwyn Birchwood",
+          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
+        }
+      ],
+      "duration_ms": 278657,
+      "name": "Done Cryin'",
+      "url": "https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP"
+    },
+    {
+      "added_at": "2023-06-16 14:17:19",
+      "album": {
         "name": "What Can I Do?",
         "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 175320,
       "name": "Ramble No More",
       "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
-    },
-    {
-      "added_at": "2023-06-16 14:17:19",
-      "album": {
-        "name": "Exorcist",
-        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
-      },
-      "artists": [
-        {
-          "name": "Selwyn Birchwood",
-          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
-        }
-      ],
-      "duration_ms": 278657,
-      "name": "Done Cryin'",
-      "url": "https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP"
     },
     {
       "added_at": "2023-06-16 14:17:19",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-06-16 14:17:19",
       "album": {
+        "name": "Mexico (I Want You Back)",
+        "url": "https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Deal With the Devil (You'll Get Yours)",
+      "url": "https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr"
+    },
+    {
+      "added_at": "2023-06-16 14:17:19",
+      "album": {
         "name": "Gotta Bleed (Remix)",
         "url": "https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 197800,
       "name": "So Free",
       "url": "https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR"
-    },
-    {
-      "added_at": "2023-06-16 14:17:19",
-      "album": {
-        "name": "Mexico (I Want You Back)",
-        "url": "https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Deal With the Devil (You'll Get Yours)",
-      "url": "https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr"
     },
     {
       "added_at": "2023-06-16 14:17:19",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-16 14:17:19",
       "album": {
-        "name": "Guitar Kingdom",
-        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
-      },
-      "artists": [
-        {
-          "name": "Dudley Taft",
-          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
-        }
-      ],
-      "duration_ms": 200773,
-      "name": "The Great Beyond",
-      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
-    },
-    {
-      "added_at": "2023-06-16 14:17:19",
-      "album": {
         "name": "Stop Signs and Fence Lines",
         "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 170854,
       "name": "Ten Beer Job",
       "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
+    },
+    {
+      "added_at": "2023-06-16 14:17:19",
+      "album": {
+        "name": "Guitar Kingdom",
+        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
+      },
+      "artists": [
+        {
+          "name": "Dudley Taft",
+          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
+        }
+      ],
+      "duration_ms": 200773,
+      "name": "The Great Beyond",
+      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
     },
     {
       "added_at": "2023-06-16 14:17:19",

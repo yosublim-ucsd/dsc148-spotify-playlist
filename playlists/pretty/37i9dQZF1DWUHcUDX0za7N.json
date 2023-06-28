@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT?si=Lio3TRvZT262-3BFuFBXCw\"> Major AJ </a> and <a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=TQ2dWLOuSYaYmdlku-j7dQ\"> Blaqbonez </a> ",
-  "num_followers": 21292,
+  "num_followers": 21329,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDk4YTZkN2Y5ODhlNTA5N2JhMmQyMjQxOTBkMGYyN2U2ODAxNTZm",
+  "snapshot_id": "MCw3MzNjYTZlYjYzMDYzN2E5NjdkN2NhMGZhMThlY2QzYWZmOGRkNDYx",
   "tracks": [
     {
       "added_at": "2023-06-22 23:00:00",
@@ -280,7 +280,7 @@
           "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
         }
       ],
-      "duration_ms": 150500,
+      "duration_ms": 152142,
       "name": "STAMINA",
       "url": "https://open.spotify.com/track/6I7hrUazMFnJgMRFGlf2gZ"
     },
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "High Tension 2.0",
+        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
+      },
+      "artists": [
+        {
+          "name": "Dangbana Republik",
+          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Devil Agent (2 Fighting)",
         "url": "https://open.spotify.com/album/5bYg6iGA8bULUtNUlovZUK"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 192731,
       "name": "Devil Agent (2 Fighting)",
       "url": "https://open.spotify.com/track/6nFL2WU0fb8VEu9NVfGtw6"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "High Tension 2.0",
-        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
-      },
-      "artists": [
-        {
-          "name": "Dangbana Republik",
-          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Omo X 100",
-        "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
-      },
-      "artists": [
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 126750,
-      "name": "Omo X 100",
-      "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Soundtrack To The Good Life",
         "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 235081,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Omo X 100",
+        "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
+      },
+      "artists": [
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 126750,
+      "name": "Omo X 100",
+      "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
     },
     {
       "added_at": "2023-06-22 23:00:00",

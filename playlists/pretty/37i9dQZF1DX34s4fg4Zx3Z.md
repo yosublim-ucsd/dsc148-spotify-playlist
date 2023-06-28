@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Juliet; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,422 likes - 101 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,437 likes - 101 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 54 | [Mười Tám](https://open.spotify.com/track/0MnBOCxUlrM6IhamhBOyuj) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9), [akiie.](https://open.spotify.com/artist/7sFX2i5I57OTLSASnufcIh) | [Mười Tám](https://open.spotify.com/album/6FkQ6GDk0acgrIVlJsFTu7) | 3:34 |
 | 55 | [LIPMARK](https://open.spotify.com/track/6p0BH9EjoKf2UqDgovzEfi) | [M NAIVE](https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS), [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3) | [LIPMARK](https://open.spotify.com/album/6HRPE6A88PepgrskVHQDpl) | 3:13 |
 | 56 | [Dead Love](https://open.spotify.com/track/26iVc5vaRt7hkgikjDlJW5) | [Hades](https://open.spotify.com/artist/3zQEWWhSn1fng6zz4sgqFh), [Minh Trang](https://open.spotify.com/artist/0XMACkBYhq2KY5sv28eFzT) | [Dead Love](https://open.spotify.com/album/6XUaR0n9JLmH01Jqz4QT6V) | 3:09 |
-| 57 | [Rung Động Lần Nữa](https://open.spotify.com/track/6xCzt8vaZMRgeS6CT8h4Nd) | [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3), [HuuBui](https://open.spotify.com/artist/1IesmZl59OwxHAQs3DwOh4) | [Rung Động Lần Nữa](https://open.spotify.com/album/5YHvEAowUqOhtCNHiMRCS3) | 3:06 |
+| 57 | [Rung Động Lần Nữa](https://open.spotify.com/track/6xCzt8vaZMRgeS6CT8h4Nd) | [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3), [HUUBUI](https://open.spotify.com/artist/1VA4Q9uW2yxcWzV9dx5D2o) | [Rung Động Lần Nữa](https://open.spotify.com/album/5YHvEAowUqOhtCNHiMRCS3) | 3:06 |
 | 58 | [MAI MAI](https://open.spotify.com/track/2hBERr1FrSzZD78reQl0UK) | [Tee G](https://open.spotify.com/artist/4x7PL3qkv5slbZe8OwnRvq), [shi](https://open.spotify.com/artist/1i2NUr3ZPfZcUlf9C9oGXZ) | [MAI MAI](https://open.spotify.com/album/1UbBinKwyfxf0RSDUtMePZ) | 2:24 |
 | 59 | [last day on earth](https://open.spotify.com/track/0jLQeN30gdbLXOp7mGwAnA) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [sinh](https://open.spotify.com/album/4tS2XfjFQjNYG8Z96y5lge) | 2:52 |
 | 60 | [Chẳng Biết Phải Làm Sao](https://open.spotify.com/track/6bv1AmKHLlAKEn3d1a702t) | [Jackie Njine](https://open.spotify.com/artist/3taOSFlvxaSINTTnKhjMQz) | [Chẳng Biết Phải Làm Sao](https://open.spotify.com/album/1bow0knZOT43RlETgxu9Sd) | 3:53 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 100 | [CANXA](https://open.spotify.com/track/09S7Sxkzj0ZmeR1J2fg1sg) | [F](https://open.spotify.com/artist/6N1GalqlOIZSPMAJqrAOYn), [1DEE](https://open.spotify.com/artist/1b9USL8WQoqdSDSrdMNk8g), [YU](https://open.spotify.com/artist/33vksNsMUiqqy6zNM1FRyy) | [CANXA](https://open.spotify.com/album/1VEuaNZXvNDEnQuHwN05F1) | 3:26 |
 | 101 | [Gonna be you](https://open.spotify.com/track/1qGD0pluRScUcMhojxeyrk) | [Linh Ka](https://open.spotify.com/artist/6gXUsziOuoRCgmtm62Nrny), [Will](https://open.spotify.com/artist/3HMWKU43x9GxkGWVP1KjQT) | [CHU](https://open.spotify.com/album/1o5Q4upUUQxQv5P5me3Nid) | 4:18 |
 
-Snapshot ID: `MCwxNGQ1NjM3MDNlYmE0OThjMTc5M2NmZjdlNjc2ZTc3NjgxMjA4ZDdl`
+Snapshot ID: `MCwyMWY4ODc1NTZjYWJiYjQwYTc2NDBlN2E4MjMzZDJkZTVkNGE0ODI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,052 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,069 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 13 | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/track/5mivWWWtw7x1H7TCBTDS5g) | [郁可唯](https://open.spotify.com/artist/4XOgZBMcpRQqKHbE8L9zW1) | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/album/0adwWPry7ob0mHUSNJyobe) | 3:51 |
 | 14 | [孤獨娛樂](https://open.spotify.com/track/1DuFU3yhIFi8kYwI3BlmnA) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [重拾\_快樂](https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm) | 3:59 |
 | 15 | [He Says, She Says](https://open.spotify.com/track/426lTZ051McVamaBnlbCaR) | [徐靖玟](https://open.spotify.com/artist/5xnz0Uwx90USsDrdTkskup) | [He Says, She Says](https://open.spotify.com/album/4J10tX4X1ygODR1tZraVeS) | 4:24 |
-| 16 | [即使這個世界令人絕望](https://open.spotify.com/track/63lhU8p2u5ZtzvLRWjAyQt) | [侑彤](https://open.spotify.com/artist/2vlL7Et8yZ8O39P0On7cbH) | [即使這個世界令人絕望](https://open.spotify.com/album/5MysFAKmMxd05UGm5fMoxs) | 5:07 |
+| 16 | [即使這個世界令人絕望](https://open.spotify.com/track/63lhU8p2u5ZtzvLRWjAyQt) | [Verity](https://open.spotify.com/artist/5u3xgkpRIAibSLXstBWJTf) | [即使這個世界令人絕望](https://open.spotify.com/album/5MysFAKmMxd05UGm5fMoxs) | 5:07 |
 | 17 | [平分慚愧](https://open.spotify.com/track/7A8oik3md31IzkgyDur4md) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [平分慚愧](https://open.spotify.com/album/1UfbxRaKju8W3BoATMcdyj) | 4:43 |
 | 18 | [微陌生的朋友](https://open.spotify.com/track/6txtLZLvSaujzYK27Aohl0) | [蜜雪薇琪](https://open.spotify.com/artist/2PvxkWnXNsFWiZVnXSf4Mq) | [微陌生的朋友](https://open.spotify.com/album/1ZiXjVmopblFsSBXQSOXkU) | 3:49 |
 | 19 | [一輩子](https://open.spotify.com/track/7zsrHeWwGO9jYTCxvbqeLD) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [一輩子](https://open.spotify.com/album/5aVUn9xupWjSnqhDEw0CHg) | 4:59 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 88 | [會後悔的決定 \- 電影《不能流淚的悲傷》插曲](https://open.spotify.com/track/3e4a1G5xmsuW703qAxvYOb) | [Where Chou](https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno) | [會後悔的決定](https://open.spotify.com/album/6b3OWXuVUK3vrKMxeyd7fJ) | 3:56 |
 | 89 | [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 |
 | 90 | [but hey](https://open.spotify.com/track/1obhDlN13dIweXsiaaEOZj) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [but hey](https://open.spotify.com/album/5NZOKz4ufCgyL0Q4oZw5tO) | 3:05 |
-| 91 | [納西瑟斯的舞會](https://open.spotify.com/track/6I8dkswK7ST4grWqnEExoV) | [侑彤](https://open.spotify.com/artist/2vlL7Et8yZ8O39P0On7cbH), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [光陰](https://open.spotify.com/album/6g3XFDhBxwDgio1046FvN7) | 3:32 |
+| 91 | [納西瑟斯的舞會](https://open.spotify.com/track/6I8dkswK7ST4grWqnEExoV) | [Verity](https://open.spotify.com/artist/5u3xgkpRIAibSLXstBWJTf), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [光陰](https://open.spotify.com/album/6g3XFDhBxwDgio1046FvN7) | 3:32 |
 | 92 | [迷宮](https://open.spotify.com/track/6tQI5p9KkqpAxyKBxi8Oai) | [step.jad](https://open.spotify.com/artist/2jGquYVg6oxsetfzxYNgkD) | [迷宮](https://open.spotify.com/album/4rFrfDXSwj87JqvJKmptxD) | 3:37 |
 | 93 | [I Will Be There For You](https://open.spotify.com/track/4FSPhuA8X0JxVEHbQPHkR6) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu), [Vera Yen](https://open.spotify.com/artist/08VvDNRmZUZ99QZb63qXgU) | [I Will Be There For You](https://open.spotify.com/album/1Q0SXqF8x0pGQUsxjHOzo2) | 3:07 |
 | 94 | [我說了謊 \- 《你在我心上》電影主題曲](https://open.spotify.com/track/7B6qvkY9cVoly9GKIFRIFm) | [張庭瑚](https://open.spotify.com/artist/3UeFOb0UQEgIbRjYON9Xo2) | [我說了謊 \(《你在我心上》電影主題曲\)](https://open.spotify.com/album/2tDMmzqCJw7oAdh0NyrsRI) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [你的愛比我重要 \(W劇場《因為你如此耀眼》片尾曲\)](https://open.spotify.com/track/3SQliXBU61AQOg5ZM8WMyR) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [你的愛比我重要](https://open.spotify.com/album/3dKTJoKUyGq0yLfRoNnHKg) | 4:00 |
 | 100 | [Listen to Me](https://open.spotify.com/track/4ctBtGioje65qUZbWPd4EK) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Listen to Me](https://open.spotify.com/album/1t3hYYECO3j2I69DNzC7WM) | 3:46 |
 
-Snapshot ID: `MCxlNmQyNTZmYzIyOTRlODUxOWRhY2QzNWQ1ZTViMzZmODEzZGY4MTc5`
+Snapshot ID: `MCxmNjgyMDIzMGNkMjk5YWI4MjU3ZWUwNDYwMDI4ZTdlOTdjZWMxYWQ1`

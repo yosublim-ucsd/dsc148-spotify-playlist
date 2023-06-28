@@ -5738,7 +5738,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 165070,
       "name": "Ensi-ilta (feat. Aliisa Syrj\u00e4)",
       "url": "https://open.spotify.com/track/7eD54tHF8xDxUKsAeCm9DE"
@@ -9962,6 +9962,24 @@
       "duration_ms": 209490,
       "name": "Isomunanen mies",
       "url": "https://open.spotify.com/track/2ANDdGDSf4EWGM0aPkaPKt"
+    },
+    {
+      "album": {
+        "name": "Istun sun kyytiin",
+        "url": "https://open.spotify.com/album/2Vqx1K5J821RGpTZ7ZS8L4"
+      },
+      "artists": [
+        {
+          "name": "Karri Koira",
+          "url": "https://open.spotify.com/artist/1sQJfOZnTxWUPFb2wjgba5"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186402,
+      "name": "Istun sun kyytiin",
+      "url": "https://open.spotify.com/track/7m0SQdWFREWDD0PupHanED"
     },
     {
       "album": {
@@ -17752,7 +17770,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 217223,
       "name": "Neiti Kes\u00e4hein\u00e4",
       "url": "https://open.spotify.com/track/1pJbvYH5FiR8FVY8Hpx9XX"
@@ -18122,7 +18140,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 163287,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3YujyLPiBYIxiicSYTTzbQ"
@@ -20726,7 +20744,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 179585,
       "name": "Ram pam pam",
       "url": "https://open.spotify.com/track/3HkGWngSgieI9DdklKeFkt"
@@ -21500,7 +21518,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 183926,
       "name": "Samaa taivasta katsotaan",
       "url": "https://open.spotify.com/track/6ISLBKxChtxZ5Ws6nO6Cbi"
@@ -23606,7 +23624,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 171507,
       "name": "Suomen kes\u00e4",
       "url": "https://open.spotify.com/track/67A13FUQH1vp3jmjwJKsA5"
@@ -24412,7 +24430,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 187700,
       "name": "Tapoit mut (feat. Yks Kaisa)",
       "url": "https://open.spotify.com/track/3fzEUmPYVpPyn42fQxLQEc"

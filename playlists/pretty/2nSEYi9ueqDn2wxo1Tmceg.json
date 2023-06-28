@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78591,
+  "num_followers": 78594,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzcwOCw3MGI0YzFjYmY4ZmIwYjE0M2Q3MzExYzQ0MzQ1ZGRjYTExMWI2MTY1",
+  "snapshot_id": "MzcwOSwxYzJhOWU0YjRlMDAyMTE5ZjdmYTI0NjE4ODFlZjUyZjk1ZjgxNThh",
   "tracks": [
+    {
+      "added_at": "2023-06-27 09:25:56",
+      "album": {
+        "name": "Defeat",
+        "url": "https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 1318174,
+      "name": "Defeat",
+      "url": "https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB"
+    },
     {
       "added_at": "2023-06-21 16:01:56",
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-657 songs - 1 day 4 hr 24 min
+659 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Me And My Piano](https://open.spotify.com/track/2M2AbefWfWKK9Pf08jRAew) | [HRDY](https://open.spotify.com/artist/6NR5GQDkybW9GBp3N9Azn4) | [Me And My Piano](https://open.spotify.com/album/1PjKM6ChtggdF8rlBhe3I1) | 2:30 | 2022-01-04 | 2022-07-20 |
 | [Meandering](https://open.spotify.com/track/4jpRyLpvGSUPVSx8oO8xWo) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Meandering](https://open.spotify.com/album/2Q4TRJ0g4yMoOUcCciKZr9) | 2:53 | 2022-03-01 | 2022-07-20 |
 | [Med lukkede øyne](https://open.spotify.com/track/2E7s7HybOzu68ug7gJWeL0) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Med lukkede øyne](https://open.spotify.com/album/39hfQ5HdJ6I1WL3858QOVr) | 2:29 | 2022-04-07 |  |
+| [Med solen i øynene](https://open.spotify.com/track/0jw7ZhzCPQVAR6b7rQT1QJ) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Med solen i øynene](https://open.spotify.com/album/1ryTkAZErijdDtxLoMHklz) | 2:27 | 2023-06-27 |  |
 | [Melodrome](https://open.spotify.com/track/27ftHERJqvYDHTPpcebRsb) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Melodrome](https://open.spotify.com/album/2ZEJfWjjBJBhENAQKKkmQk) | 2:51 | 2021-12-07 | 2022-07-20 |
 | [Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Parterre](https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv) | 2:08 | 2021-12-07 |  |
 | [Memoria](https://open.spotify.com/track/1ZWLEXzTlMvJVT80NpsoR4) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Memoria](https://open.spotify.com/album/4vHvAO3vlJBIjwBeyaNHqw) | 2:01 | 2021-12-07 | 2023-04-19 |
@@ -441,6 +442,7 @@
 | [Pink Leaves](https://open.spotify.com/track/0vVHC00JNA3FjAAKVcOOEf) | [v i v](https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX) | [Pink Leaves](https://open.spotify.com/album/5EuxY0r4AtvyPikjyZyCC4) | 4:30 | 2023-02-07 |  |
 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 | 2021-12-07 |  |
 | [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 | 2021-12-07 | 2022-09-13 |
+| [Poletje](https://open.spotify.com/track/3VJ0vnnH8Q4OeUsLpAae3s) | [Valbona Ceferin](https://open.spotify.com/artist/2iH6SSywrGgmHMA5ODnZcJ) | [Poletje](https://open.spotify.com/album/3VaIqSs3sZT75qKjysHgUP) | 2:16 | 2023-06-27 |  |
 | [Postcards](https://open.spotify.com/track/5LHsps6yM7U1ogxSQpEsxM) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Postcards](https://open.spotify.com/album/3eEKFsABkKbQ4nlOZzmG0M) | 2:35 | 2021-12-07 | 2022-08-13 |
 | [Postcards](https://open.spotify.com/track/6CpwzWJVFzXbh1QRYeogzK) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Images](https://open.spotify.com/album/79tOBdX8qqoeTOMyb561af) | 2:35 | 2022-08-09 | 2023-05-04 |
 | [Pourquoi](https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Pourquoi](https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z) | 2:58 | 2022-02-15 | 2022-07-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: Doe Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,183 likes - 56 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,200 likes - 56 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 55 | [let him cooketh \(No Bev\)](https://open.spotify.com/track/4Je3shjTH5uUyFQJS0Tuvz) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [let him cooketh \(No Bev\)](https://open.spotify.com/album/7A2yxNKZivHUrgV0pHbFwb) | 2:15 |
 | 56 | [Let Down My Guard](https://open.spotify.com/track/35fpJrAudPdQL0ToRhavUN) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:12 |
 
-Snapshot ID: `MCxmMzM5OTIzODdhNjI3MDc1OWI5Mzc2YTdmNmU3NmMwMzdjYTFhODY5`
+Snapshot ID: `MCwwOWQxN2RiYmY0NWYzNWU2ODQ5ODI5MzAxMDk0NDRmN2ExMGVhMTM0`

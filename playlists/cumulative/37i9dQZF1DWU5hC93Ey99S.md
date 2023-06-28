@@ -4,7 +4,7 @@
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-159 songs - 8 hr 56 min
+160 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Lost My Mind \(Wake Up\)](https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Lost My Mind \(Wake Up\)](https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw) | 2:27 | 2023-04-13 |  |
 | [Loved Ones](https://open.spotify.com/track/1xdL8Se8SeSSRr0dJxcaJH) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Loved Ones](https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu) | 3:18 | 2023-04-27 |  |
 | [loveday](https://open.spotify.com/track/4elhu7NjJVs0udPIRghYM5) | [JHN](https://open.spotify.com/artist/0Q4ED8iQV0gQYKYRZddTnk), [a friend of mine](https://open.spotify.com/artist/4tdnRkg56fz9johr2Qw5L8) | [loveday](https://open.spotify.com/album/6PPtMdjarGcwj5otZi0R9X) | 2:28 | 2023-06-15 |  |
-| [Manzanita](https://open.spotify.com/track/3ADu5Dhw9m8ggJm2m1LEAP) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/0KKp0vor85RZ6qHjA9myx6) | 2:44 | 2023-06-22 |  |
+| [Manzanita](https://open.spotify.com/track/3ADu5Dhw9m8ggJm2m1LEAP) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/0KKp0vor85RZ6qHjA9myx6) | 2:44 | 2023-06-22 | 2023-06-28 |
+| [Manzanita](https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt) | 2:44 | 2023-06-22 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2023-04-13 |  |
 | [Meant To Be](https://open.spotify.com/track/3qYjAxjvzzlGinGsOV8RWu) | [Leondis](https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8) | [Meant To Be](https://open.spotify.com/album/2EYjefWs2a5hdQqrr0rE9E) | 2:50 | 2023-04-13 |  |
 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 | 2023-05-26 |  |

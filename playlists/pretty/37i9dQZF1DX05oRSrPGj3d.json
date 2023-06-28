@@ -1,12 +1,12 @@
 {
   "description": "Texas' own Parker McCollum is taking over to celebrate the release of his new album \"Never Enough\"! ",
-  "num_followers": 230027,
+  "num_followers": 230136,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzY4ZTIxNzJjZjAxN2E4Y2JlOTM1OWZjMDYzMWY1Zjk4ZjcwNzky",
+  "snapshot_id": "MCw5OTE5MzFhNDZmMTc5ZmNkMGQwZDMwMjkyYzkzNTViMDIwMmQzMDE5",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Pecos & the Rooftops",
+        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "This Damn Song",
+      "url": "https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Front Row Seat",
         "url": "https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 222400,
       "name": "Marfa Lights",
       "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 224027,
-      "name": "Happier Alone",
-      "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
     },
     {
       "added_at": "2023-06-09 04:01:00",

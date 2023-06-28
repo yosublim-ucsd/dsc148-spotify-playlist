@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,979 likes - 64 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,033 likes - 64 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 63 | [NRG](https://open.spotify.com/track/4OCAw0wZ9wDemyYdUIZKFv) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz) | [Chippy Nonstop & dj genderfluid](https://open.spotify.com/album/3Vhrt89XhIFEKsRGnZldYF) | 3:41 |
 | 64 | [Mutant Future](https://open.spotify.com/track/5a5FOSEEq8NKxS9umr8S0q) | [D.Dan](https://open.spotify.com/artist/7kocSfpPxPoSIRa1yNIQvB) | [Mutant Future](https://open.spotify.com/album/4aCVRkj9c61qEsXlm0yR3o) | 5:36 |
 
-Snapshot ID: `MCw2YTBhM2QyN2U0MmJkOWE2MGQyM2MxYTlhMmJmZTk0NTAzNTE5ZjAx`
+Snapshot ID: `MCw0OWVmNGY1OWZjMDhlZmIzYThjMzEzMGJiOTE1MWZlOTgyMzc2NGU2`

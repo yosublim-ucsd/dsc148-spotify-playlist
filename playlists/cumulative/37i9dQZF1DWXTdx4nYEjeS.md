@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-946 songs - 2 day 9 hr 44 min
+947 songs - 2 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Amor Diamantino](https://open.spotify.com/track/4HMp0WEtsySLzMKxqRwFto) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/4qJQXvSgPdJz3crYm4t0uO) | 2:54 | 2022-04-08 | 2022-04-18 |
 | [Amor En Silencio](https://open.spotify.com/track/0d6jcLcqLCSQ0hLwbKnbd2) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Amor En Silencio](https://open.spotify.com/album/5mrebxYgmW2IZV9U21o3Mw) | 3:46 | 2022-04-01 | 2022-04-10 |
 | [Amor Es Dinero / Remo Erdosain](https://open.spotify.com/track/7pExh21ZPAIiH5mPn3sjYB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Futurología Arlt](https://open.spotify.com/album/3ohXbHtGxu0wDg70yOjeCn) | 1:34 | 2022-04-08 | 2022-04-21 |
+| [Amor Express](https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Amor Express](https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT) | 3:34 | 2023-06-27 |  |
 | [Amor Fatal](https://open.spotify.com/track/5rTbIHJG1Qh4CSXI6VMVZm) | [Chimono Guitar Club](https://open.spotify.com/artist/0KvwSzVGTSGCaB64hUeZrr) | [Amor Fatal](https://open.spotify.com/album/1Las8yc2tOQwEnHbglXCEV) | 2:50 | 2022-03-24 | 2022-04-21 |
 | [Amor Loco](https://open.spotify.com/track/5VeTnCn59BLrrk95uNRiBL) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Amor Loco](https://open.spotify.com/album/4gRAYd28yhRu60FVCU6Gcq) | 3:46 | 2021-12-24 | 2022-07-29 |
 | [Amor Secreto](https://open.spotify.com/track/2dquDiw1qxO860dKDMl1m8) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8) | [Amor Secreto](https://open.spotify.com/album/5z9d0aoOTMeo5S7LXZFnUA) | 4:15 | 2022-03-28 | 2022-04-21 |
@@ -120,7 +121,7 @@
 | [Bendiciones](https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl) | 3:30 | 2022-04-13 | 2022-04-19 |
 | [Beso](https://open.spotify.com/track/0dpoWGBWs8HZrCV7OsfxF4) | [Julieta Diaz](https://open.spotify.com/artist/5Rsf5ssoL1u7kInV5NK7qF), [Diego Presa](https://open.spotify.com/artist/3ocrfk5U9Q5V2j6F0T8fjT) | [Beso](https://open.spotify.com/album/1UKdo71goXKpKnX09oZYIv) | 1:58 | 2022-04-01 | 2022-04-18 |
 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 | 2022-04-01 | 2022-04-03 |
-| [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2022-07-25 |  |
+| [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2022-07-25 | 2023-06-28 |
 | [Big Girls Don't Cry \- Bossanova](https://open.spotify.com/track/3vetyGs0vfHn5BE8LpsElU) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Big Girls Don't Cry \(Bossanova\)](https://open.spotify.com/album/5aEbSlv30UgTywehDuQ2vL) | 4:29 | 2022-03-24 | 2022-04-18 |
 | [BLENDER](https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:27 | 2022-09-23 |  |
 | [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 | 2022-07-25 | 2022-11-13 |

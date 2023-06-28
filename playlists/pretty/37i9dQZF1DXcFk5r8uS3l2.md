@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,205 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,257 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 81 | [Mood](https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Mood](https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s) | 3:29 |
 | 82 | [Not Ready To Let Go](https://open.spotify.com/track/4nXIogA01ib6VLHPPKZPxt) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Not Ready To Let Go](https://open.spotify.com/album/1q1jyVZyIQwzq3DG8z9qVR) | 3:58 |
 | 83 | [Shake! Shake! Shake!](https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40), [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Shake! Shake! Shake!](https://open.spotify.com/album/6ys0lM4z9JxdSdnpTjBPG8) | 3:08 |
-| 84 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 |
+| 84 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2BrKBhvGdc2l0OTd8YSwCw) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:03 |
 | 85 | [Throw That Stone](https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Throw That Stone](https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV) | 2:58 |
 | 86 | [Still Go Marching In \(Live\)](https://open.spotify.com/track/3np14vGyPYEnbQU3bHjItw) | [Wille and the Bandits](https://open.spotify.com/artist/0TBTCmsm3UDvlFvksSiEWD), [Helm DeVegas](https://open.spotify.com/artist/6q6MksNiBbvkAWaJUvcWTL) | [The Kernow Sessions \(Live\)](https://open.spotify.com/album/0QjrKDQK2r6QLDHt03byiz) | 6:26 |
 | 87 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [I'll Come Running Back To You](https://open.spotify.com/track/6dxXeEvVdW6WocdZGEDFLh) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [Established 1972](https://open.spotify.com/album/0trs4EF7qmHMw6qzUPTvwk) | 4:11 |
 | 100 | [500 Miles](https://open.spotify.com/track/7Im3HTE5xwZHJnHEgVBX6E) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:30 |
 
-Snapshot ID: `MCw5YzE5ZGZmYWI3MzE2NDcxZTI0YjY4MmQ2NjY2ZDI0Y2IzOWIyN2U4`
+Snapshot ID: `MCxhMTM2NGIwZDExZjVlMWRhYWUzOTg3MGM4NDAzOGJhZjYwZjg0NDhl`

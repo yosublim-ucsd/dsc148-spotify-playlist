@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,220 likes - 61 songs - 3 hr 31 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,217 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,6 +68,5 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 58 | [Lightbringer](https://open.spotify.com/track/1LMuEvPbC5NvWIK2H9g4Ng) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Lightbringer](https://open.spotify.com/album/5FoXz8GMqoM0caVx9F7Izw) | 3:52 |
 | 59 | [Talk To You](https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Talk To You](https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3) | 4:06 |
 | 60 | [Vermin](https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Vermin](https://open.spotify.com/album/47lB5nD266T3nhDeSJjRdv) | 2:56 |
-| 61 | [Saganaki](https://open.spotify.com/track/04iOj6dE03qS7icw2Y4qtK) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Saganaki](https://open.spotify.com/album/6i0N9UHCiTXb8bRI7aKQob) | 3:28 |
 
-Snapshot ID: `NDI4Miw4YjExNWI2YWM4MDY2YzhhM2Y5YjAyOTU4MTk2MGU1OWI1NjlmMjZh`
+Snapshot ID: `NDI4Myw5MjM5M2U0ODE5NjFjZDhjODcyZTBjZDQ0OWQ2Zjk5YTJkN2IxZDI5`

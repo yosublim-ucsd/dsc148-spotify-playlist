@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: Faye Webster
 
-2,272 songs - 5 day 2 hr 13 min
+2,274 songs - 5 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Cléo](https://open.spotify.com/track/4XeOoFtBcUbtgTyygdzX0s) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Cléo](https://open.spotify.com/album/6cw0g0xUnBvDK0MBZJ4wQz) | 3:34 | 2022-12-02 | 2023-01-19 |
 | [Coax & Botany](https://open.spotify.com/track/227bXIqHWP8Z7gycUGO1sY) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Where Polly People Go to Read](https://open.spotify.com/album/4qSYIc2q02zeCN2fB2hBBR) | 2:53 | 2021-12-22 | 2022-01-15 |
 | [Coca Cola](https://open.spotify.com/track/7CxbBqDi1LdfsQX2v3OYgN) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Where Have All the Flowers Gone?](https://open.spotify.com/album/39JWmffb0CchVAr9AMyY7I) | 3:05 | 2021-09-11 | 2021-11-13 |
+| [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 | 2023-06-27 |  |
 | [Coke & Henny Pt\. 1](https://open.spotify.com/track/0Njj8da23AV97wrQTrP577) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coke & Henny Pt\. 1](https://open.spotify.com/album/7pU90hr9PdteGEQqp0XSU9) | 2:29 | 2019-10-10 | 2020-01-10 |
 | [Coke & Henny Pt\. 2](https://open.spotify.com/track/1gBn3RRt2jPquDW6AhHJrs) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 2](https://open.spotify.com/album/04AgepNbaInpCwPDV2MjDc) | 2:37 | 2019-07-30\* | 2019-10-10 |
 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 | 2020-08-20 | 2020-09-12 |
@@ -428,6 +429,7 @@
 | [Come Over](https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 1](https://open.spotify.com/album/1AQvLVWkgAxzSa8zJbYkdW) | 2:15 | 2020-11-20 | 2020-12-23 |
 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2023-01-18 | 2023-05-20 |
 | [come ovr](https://open.spotify.com/track/01PN1v5FRjaIZsjzK0c6DV) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [come ovr/skype calls](https://open.spotify.com/album/6WlsGn24BvEIiQCyCXtvfG) | 2:35 | 2019-11-14 | 2020-04-22 |
+| [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 | 2023-06-27 |  |
 | [comehangoutcuzimagoodtime](https://open.spotify.com/track/09s8UzqAWCxZUVl0nM3ygC) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ) | [comehangoutcuzimagoodtime](https://open.spotify.com/album/2e5NBgKrt4jNPI3Yg6RRyI) | 2:39 | 2019-08-30 | 2020-02-20 |
 | [comethru \(with Bea Miller\)](https://open.spotify.com/track/0PgYPBGqF6Wm5KFHQ81nq5) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [comethru](https://open.spotify.com/album/10Dr3GO6OzrOwJwoY11IoH) | 3:01 | 2019-07-30\* | 2019-10-03 |
 | [Comfort Crowd](https://open.spotify.com/track/48Kszfw1hinlKdMrnE85sg) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Comfort Crowd](https://open.spotify.com/album/6WTXcblKHvnTAfVbqXLmoA) | 2:54 | 2019-09-06 | 2019-11-14 |

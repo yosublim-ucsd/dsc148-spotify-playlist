@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-393 songs - 21 hr 19 min
+394 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [If I Can't Have You](https://open.spotify.com/track/2QaTtQ3bvllhg2Ot5CpgtC) | [Emmie Reins](https://open.spotify.com/artist/0VmhvPRTiSbS9ndW7wjuDb) | [If I Can't Have You](https://open.spotify.com/album/4SDJD7TxUqwR7yvqkJ6VLF) | 3:29 | 2021-03-11 | 2022-11-26 |
 | [If I Wasn't Me](https://open.spotify.com/track/3Xb3Ryh1vF9i4CKtMNphoD) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [If I Wasn't Me](https://open.spotify.com/album/6rg7brnp2fmvI9mi1V7Uyz) | 2:53 | 2023-03-31 |  |
 | [If I'm Being Honest](https://open.spotify.com/track/4JizrXo9waLOAqSJoA6MsA) | [Tim Schou](https://open.spotify.com/artist/5XThsmRraC5gvRpetD2S1q) | [If I'm Being Honest](https://open.spotify.com/album/1xtPhACexlKPMpTO8YTMxc) | 3:51 | 2021-03-11 | 2023-01-05 |
-| [If We Ever Broke Up](https://open.spotify.com/track/5krUQJ8Luu2P44Qpqaa33S) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [If We Ever Broke Up](https://open.spotify.com/album/17eugw7y0jcABlG8x6EDEa) | 2:21 | 2023-05-12 |  |
+| [If We Ever Broke Up](https://open.spotify.com/track/5krUQJ8Luu2P44Qpqaa33S) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [If We Ever Broke Up](https://open.spotify.com/album/17eugw7y0jcABlG8x6EDEa) | 2:21 | 2023-05-12 | 2023-06-28 |
 | [If You Knew Better](https://open.spotify.com/track/0yWmKkenmsSXb7CIK40IOn) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [If You Knew Better](https://open.spotify.com/album/3nW8vls0RsII5CHzvfzhWI) | 2:25 | 2021-03-11 | 2022-10-01 |
 | [if you weren't you](https://open.spotify.com/track/0Orpd7icIIR6tp5cmJcHsu) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [If You Weren't You](https://open.spotify.com/album/34HGxfz7qE6dRtaKoYx4KU) | 4:09 | 2021-03-11 | 2022-07-29 |
 | [if you weren't you](https://open.spotify.com/track/3LLLJj3zqDi7A7Fci919xh) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/1FFVMjftTGqNyNGkDBMOaS) | 4:09 | 2022-09-30 | 2022-11-12 |
@@ -227,6 +227,7 @@
 | [Let Me Love You](https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Let Me Love You](https://open.spotify.com/album/0UkPFZiEY8VJLDiWFuYiqd) | 3:11 | 2023-04-14 |  |
 | [Levitating \- Acoustic](https://open.spotify.com/track/4Os3dG99565BnXqMD1JbrR) | [Megan Nicole](https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT) | [Levitating \(Acoustic\)](https://open.spotify.com/album/0SIo3r1UqmssC14q77voTp) | 2:05 | 2022-08-31 | 2022-12-17 |
 | [Lifetime \- Acoustic Version](https://open.spotify.com/track/3tdcEMfuERuOd39eO7UlXK) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [Lifetime \(VIP & Acoustic\)](https://open.spotify.com/album/1Ax5labB08CGc2CDHmyqKF) | 3:07 | 2021-03-11 |  |
+| [Lift Me Up](https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Lift Me Up](https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ) | 2:49 | 2023-06-22 |  |
 | [Light On \- Acoustic](https://open.spotify.com/track/0jYvXzBclRZWMh3G4Q1zpU) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Light On \- Acoustic](https://open.spotify.com/album/0imzEngLXNZ5hJdqvYtrYC) | 3:29 | 2023-01-04 | 2023-03-10 |
 | [Light Switch \- Acoustic](https://open.spotify.com/track/7ul00JABAebIdiCvJlqsNh) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Fresh Acoustic](https://open.spotify.com/album/6qQCPP6vbF7hNZGdFM7goh) | 3:06 | 2022-10-14 | 2023-06-24 |
 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 | 2022-08-31 |  |

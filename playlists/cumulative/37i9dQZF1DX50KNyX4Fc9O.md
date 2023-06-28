@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Maisie Peters
 
-116 songs - 5 hr 54 min
+117 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Boy](https://open.spotify.com/track/3CwFZZhuI7MjUcoKq4VbXH) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Boy](https://open.spotify.com/album/51W87FN1JTbDlLEmhI2V7y) | 2:51 | 2023-06-15 |  |
 | [Buy Me A Dream](https://open.spotify.com/track/5L7VfKJtyDkBYX41ctKC5Y) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Buy Me A Dream](https://open.spotify.com/album/4znFn1iWTnW4n5x3SrBaSB) | 2:39 | 2023-06-22 |  |
 | [Can I Shower At Yours](https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours](https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj) | 1:54 | 2023-06-22 |  |
+| [Changes](https://open.spotify.com/track/13CoTwU7uuvbnCfejIhH7n) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh), [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d) | [Changes](https://open.spotify.com/album/29MhV870Wmh41zik9fFSZK) | 3:07 | 2023-06-27 |  |
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-06-15 |  |
 | [cindy](https://open.spotify.com/track/0YZCAtwtnboKKuNO3nV32j) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [is nothing sacred?](https://open.spotify.com/album/5NX9yYMvKC9zBAIbRpJ3yd) | 3:21 | 2023-06-15 |  |
 | [Control](https://open.spotify.com/track/4teRcnCDwEenL5A5PlO5ho) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [Control](https://open.spotify.com/album/2W5wol7TM13nKGI8IaardE) | 3:40 | 2023-06-15 |  |

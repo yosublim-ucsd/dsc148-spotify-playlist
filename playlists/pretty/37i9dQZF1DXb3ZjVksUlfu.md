@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,884 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,964 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 71 | [Blank Generation \- 2013 Remaster](https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Spurts: The Richard Hell Story \(2013 Remaster\)](https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF) | 2:47 |
 | 72 | [\(I Married a\) Monster from Outer Space](https://open.spotify.com/track/0FnmRkP81O1I6oeOeU1xXS) | [John Cooper Clarke](https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32) | [Disguise In Love](https://open.spotify.com/album/1aIqKIruBug4AOhVuu9AGh) | 3:31 |
 | 73 | [One Of These Things First](https://open.spotify.com/track/0hNVjU6JKydHts0SAjHCno) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 4:50 |
-| 74 | [Outdoor Miner \- 2006 Remastered Version](https://open.spotify.com/track/4Lk86divN6elNG9ShrqSuZ) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Chairs Missing](https://open.spotify.com/album/7tWxaE1as1wy12Yd1De41r) | 1:44 |
+| 74 | [Outdoor Miner \- 2006 Remastered Version](https://open.spotify.com/track/4Lk86divN6elNG9ShrqSuZ) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Chairs Missing \(2006 Remastered Version\)](https://open.spotify.com/album/7tWxaE1as1wy12Yd1De41r) | 1:44 |
 | 75 | [I'm Stranded](https://open.spotify.com/track/6pXcyjABZyf6LKzL4wsj9k) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [\(I'm\) Stranded](https://open.spotify.com/album/10hYjKl40Yu64cV3313uhU) | 3:32 |
 | 76 | [Alison](https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:24 |
 | 77 | [Born to Lose](https://open.spotify.com/track/150NSrON3DeZM1aLyz3MoM) | [Johnny Thunders & The Heartbreakers](https://open.spotify.com/artist/1SrtY5x33d2gF27chigCGg) | [L.A.M.F\. \- The Lost '77 Mixes](https://open.spotify.com/album/4CLnHCjgBVBEoCU6e4kts1) | 3:04 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 84 | [I Want More](https://open.spotify.com/track/1ynemPxsPrCwUb87VmGFuq) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Flow Motion \(Remastered\)](https://open.spotify.com/album/6pcp2R35M3b1lscjpmCxUl) | 3:30 |
 | 85 | [My Sex](https://open.spotify.com/track/4uq0OuAtODFKsEMO478Lt8) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ultravox!](https://open.spotify.com/album/09H76Y3uRhgJSu7u5f3e6f) | 3:02 |
 
-Snapshot ID: `MCw3NDZiYTkxYjI2YjhlNzkwMGVmZjA3ODliN2Q4ZGMyZjdlN2MyZDAy`
+Snapshot ID: `MCxlN2YwN2RjNGQ0NGRlOGIyZDcyZTg4MGNmYjVmOTFlODZkNWQ0MDAw`

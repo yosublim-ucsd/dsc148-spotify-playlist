@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 10024,
+  "num_followers": 10032,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDBiMDE5Mjg5ZTM4M2VlMDExMmU4NjY2MTRmMWFiNzNhMzhhNzQy",
+  "snapshot_id": "MCw2M2JkMWY4YmYyNzU0N2E2YThmYjU3OTA1NGNlNDc3MjdmYTBhNmQ1",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -607,6 +607,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "A Ghost Is Born (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 642200,
+      "name": "Spiders (Kidsmoke)",
+      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "The Music of Grand Theft Auto V, Vol. 2: The Score",
         "url": "https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 330708,
       "name": "A Haze Of Patriotic Fervor",
       "url": "https://open.spotify.com/track/7vRplv4cDf3zUzYJk6CgVI"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "A Ghost Is Born (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 642200,
-      "name": "Spiders (Kidsmoke)",
-      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
     },
     {
       "added_at": "2023-01-25 02:05:47",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Murder of the Universe",
-        "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 141800,
-      "name": "Han-Tyumi, The Confused Cyborg",
-      "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Empty Estate",
         "url": "https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 205586,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Murder of the Universe",
+        "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 141800,
+      "name": "Han-Tyumi, The Confused Cyborg",
+      "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
     },
     {
-      "added_at": "2023-01-25 02:05:47",
-      "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
-      },
-      "artists": [
-        {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
-        }
-      ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "The Power Out",
@@ -819,6 +803,22 @@
       "duration_ms": 324333,
       "name": "Love Builds Up",
       "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
+    },
+    {
+      "added_at": "2023-01-25 02:05:47",
+      "album": {
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+      },
+      "artists": [
+        {
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+        }
+      ],
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -871,22 +871,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Boxed In",
-        "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
-      },
-      "artists": [
-        {
-          "name": "Boxed In",
-          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "All Your Love is Gone",
-      "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Floating Coffin",
         "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 266120,
       "name": "No Spell",
       "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Boxed In",
+        "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
+      },
+      "artists": [
+        {
+          "name": "Boxed In",
+          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "All Your Love is Gone",
+      "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
     },
     {
+      "added_at": "2023-01-12 03:40:17",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+    },
+    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Not The Time / Callous",
@@ -987,38 +1003,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Lodger (2017 Remaster)",
-        "url": "https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 225440,
-      "name": "Red Sails - 2017 Remaster",
-      "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
-    },
-    {
-      "added_at": "2023-01-12 03:40:17",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "void beats/invocation trex",
         "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 387200,
       "name": "Autoroute",
       "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Lodger (2017 Remaster)",
+        "url": "https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 225440,
+      "name": "Red Sails - 2017 Remaster",
+      "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "NEU! 75",
-        "url": "https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
       },
       "artists": [
         {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
         }
       ],
-      "duration_ms": 431800,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc"
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1197,6 +1181,22 @@
       "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "NEU! 75",
+        "url": "https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l"
+      },
+      "artists": [
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "duration_ms": 431800,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc"
+    },
+    {
       "added_at": "2022-03-04 01:55:34",
       "album": {
         "name": "Mandatory Enjoyment",
@@ -1211,6 +1211,22 @@
       "duration_ms": 184013,
       "name": "Final Weapon",
       "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "No Shouts, No Calls",
+        "url": "https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 295026,
+      "name": "To the East",
+      "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
     },
     {
       "added_at": "2022-11-19 05:33:06",
@@ -1231,22 +1247,6 @@
       "duration_ms": 239107,
       "name": "Nightcrawler",
       "url": "https://open.spotify.com/track/58J2w5yqne5YfzbmYi2mvY"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "No Shouts, No Calls",
-        "url": "https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB"
-      },
-      "artists": [
-        {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "To the East",
-      "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1361,22 +1361,6 @@
       "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6llakzoid",
-          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
-        }
-      ],
-      "duration_ms": 391881,
-      "name": "9",
-      "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
-    },
-    {
       "added_at": "2022-03-18 05:36:55",
       "album": {
         "name": "Osa Polar",
@@ -1391,6 +1375,22 @@
       "duration_ms": 282169,
       "name": "Osa Polar",
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6llakzoid",
+          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
+        }
+      ],
+      "duration_ms": 391881,
+      "name": "9",
+      "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
     },
     {
       "added_at": "2021-07-30 14:56:06",

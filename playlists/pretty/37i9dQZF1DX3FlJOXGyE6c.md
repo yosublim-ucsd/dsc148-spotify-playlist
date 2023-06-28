@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FlJOXGyE6c.md) - [plain]
 
 > The world of”TOUKEN RANBU”! PCブラウザ・スマホアプリゲーム「刀剣乱舞\-ONLINE\-」。<br/>Musical、Animation、Movieと広がる革命的な世界を彩る楽曲を一つのプレイリストで！ \(C\)2015 EXNOA LLC/Nitroplus
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,568 likes - 87 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,590 likes - 87 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FlJOXGyE6c.md) - [plain]
 | 27 | [Love Story](https://open.spotify.com/track/1e8jvWXSQnOaGLDHoTPcJQ) | [刀剣男士 team三条](https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx), [加州清光](https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [刀剣乱舞\(プレス限定盤B\)](https://open.spotify.com/album/48mjcpdcVkmdRWJarbliTT) | 4:38 |
 | 28 | [解けない魔法](https://open.spotify.com/track/5jHbUEF596juTSvrX5xu1T) | [刀剣男士 team三条](https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx), [加州清光](https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [刀剣乱舞\(プレス限定盤F\)](https://open.spotify.com/album/6arnYeego9yaPIvGTKNDQZ) | 4:16 |
 | 29 | [Beautiful Life!!](https://open.spotify.com/track/3YNhIK3AtIRn5foyDjTkQm) | [刀剣男士 formation of つはもの](https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [ミュージカル『刀剣乱舞』 \~つはものどもがゆめのあと\~](https://open.spotify.com/album/6hqtv0hP6FSldh8U9sdWtk) | 3:22 |
-| 30 | [Million Melodies](https://open.spotify.com/track/6g2czfw2i7xi2Zwd59We2O) | [刀剣男士 team幕末](https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j), [巴形薙刀](https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9) | [ミュージカル『刀剣乱舞』 \~結びの響、始まりの音\~ \(通常盤\)](https://open.spotify.com/album/4gcs0PuKztB2NOFwZi0Vs4) | 4:31 |
+| 30 | [Million Melodies](https://open.spotify.com/track/38MKsKtQgJiUGsbqV0lpQu) | [刀剣男士 team幕末](https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j), [巴形薙刀](https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9) | [Touken Ranbu:The Musical \-Musubi no Hibiki, Hajimari no Ne\- \(Tsujouban\)](https://open.spotify.com/album/7AtIy4JCAjvv4Ez2haXHSK) | 4:31 |
 | 31 | [Additional Times](https://open.spotify.com/track/4hON8qLuhKNgrC1PtLUmpP) | [刀剣男士 team三条](https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx), [加州清光](https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [刀剣乱舞\(プレス限定盤A\)](https://open.spotify.com/album/1HzcG8TbZnGq8LSV7N1WSh) | 3:19 |
 | 32 | [刀剣乱舞](https://open.spotify.com/track/17lsS5Q2p1oOyAV7Jo8yLQ) | [刀剣男士 team三条](https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx), [加州清光](https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [ミュージカル『刀剣乱舞』 \~阿津賀志山異聞\~](https://open.spotify.com/album/4JWftAfzMc1Pd1dK61nQKE) | 4:43 |
 | 33 | [Mahoroba ni](https://open.spotify.com/track/5MDsbvzfTraFDaEtdPCZmL) | [刀剣男士 大編成 壽2021](https://open.spotify.com/artist/2pBAx7TMWSq0K2tZvsk65L), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Hogiuta](https://open.spotify.com/album/5NUMzaHKpGKOA0VSL77V3p) | 4:53 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FlJOXGyE6c.md) - [plain]
 | 86 | [心魂の在処](https://open.spotify.com/track/5GjmkFhEjtY1MF5IGDyz9f) | [へし切長谷部\(CV:新垣樽助\)](https://open.spotify.com/artist/7rNYTxMPMCkqDQU6rXvLEM), [宗三左文字\(CV:泰勇気\)](https://open.spotify.com/artist/02PmNSUpGAJ2h0r8kRlOAo), [薬研藤四郎\(CV:山下誠一郎\)](https://open.spotify.com/artist/4cGZ8RazSokp3IiVGR96aF), [刀剣乱舞\-花丸\-](https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116) | [TVアニメ「刀剣乱舞\-花丸\-」歌詠集 \(其の二\)](https://open.spotify.com/album/7ExK4q11IO8UUVxHLn66q7) | 3:32 |
 | 87 | [UNBROKEN](https://open.spotify.com/track/2CZoAt0yAQbKtgPfEDGdHO) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [SINGularity](https://open.spotify.com/album/0z6d7zSYf9ZFkQA9kFsmEe) | 4:35 |
 
-Snapshot ID: `MCwzMjkyZGFkNDdjODJmMTk5OWM0NGYxNGMxZTFlMmNmMzBlZmFkYTNh`
+Snapshot ID: `MCwzNWY4NjIwYWY0NGRjNTIxMGE2Y2RmYTliYjQ4ZDYxNjg4NTQ5MDQw`

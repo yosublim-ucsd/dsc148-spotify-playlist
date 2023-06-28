@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-424 songs - 1 day 12 hr 34 min
+426 songs - 1 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Chernobyl Blues \- Live at Slipper Room](https://open.spotify.com/track/4coCbcc2diO04CaUquMQ4W) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [An Evening With Imperial Triumphant \(Live at Slipper Room\)](https://open.spotify.com/album/1gKZvyVWVA4rtfJNRWe08H) | 7:32 | 2021-12-17 | 2022-07-29 |
 | [Chimera Soldiers](https://open.spotify.com/track/3fJ9brORCmKrlr7K5zCVn5) | [Kommand](https://open.spotify.com/artist/2ARiBdiOC3x2yKOjttPE63) | [Chimera Soldiers](https://open.spotify.com/album/4oq5EM4pMUV4pIGKlQ4A05) | 4:37 | 2023-03-01 | 2023-04-01 |
 | [Christraping Black Metal](https://open.spotify.com/track/3X5u1hrPeBiZ0FjZe4B70v) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Panzer Division](https://open.spotify.com/album/0622BIcoA1UXnLCQXDG0bF) | 3:45 | 2022-07-13 | 2022-07-29 |
-| [Chrononautilus](https://open.spotify.com/track/00iPeuzy7UIKEN3wbrEK8r) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [Chrononautilus](https://open.spotify.com/album/5m1mc5MBFWvTthWiE1A1iv) | 5:04 | 2023-05-05 |  |
+| [Chrononautilus](https://open.spotify.com/track/00iPeuzy7UIKEN3wbrEK8r) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [Chrononautilus](https://open.spotify.com/album/5m1mc5MBFWvTthWiE1A1iv) | 5:04 | 2023-05-05 | 2023-06-28 |
+| [Chrononautilus](https://open.spotify.com/track/1nwG0AkxnwCrqxmTN1spim) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [The Singularity \(Phase II \- Xenotaph\)](https://open.spotify.com/album/5Rf3QTxZ42Lghe4pgIxc2o) | 5:04 | 2023-06-23 |  |
 | [Cicada](https://open.spotify.com/track/6xGKkmQ7TTGJIMlOepu0M9) | [Blindfolded and Led to the Woods](https://open.spotify.com/artist/4yBKoaWwA9iMFSdNd26G9C) | [Rejecting Obliteration](https://open.spotify.com/album/6fLYgbsENDl7dLQJIDrvNd) | 5:24 | 2023-05-19 | 2023-06-17 |
 | [Cold Burn](https://open.spotify.com/track/25dw1ON5dplrkOIhMBt7fl) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Cold Burn](https://open.spotify.com/album/6DPQA4mhrq7KKjI7oIZQvm) | 9:41 | 2021-12-17 | 2022-01-15 |
 | [Coming Storm](https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Modern Primitive](https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88) | 4:50 | 2022-05-20 |  |
@@ -314,7 +315,8 @@
 | [Satan Divine](https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Kiss The Goat](https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v) | 3:59 | 2022-07-13 | 2023-03-13 |
 | [Satan's Hunger](https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Sworn to the Dark](https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3) | 6:45 | 2022-07-13 | 2023-06-03 |
 | [Scars In The Landscape Of God](https://open.spotify.com/track/6gmMDrXjVOLZJXCxKdBl3w) | [Abigor](https://open.spotify.com/artist/3YQNyPeDonpYjB9N92VclR) | [Nachthymnen / Orkblut \- The Retaliation](https://open.spotify.com/album/5DlUPLWGhIW5KcsS4zMYMI) | 6:13 | 2022-07-13 | 2022-07-24 |
-| [Scorched Quadrant](https://open.spotify.com/track/2tWlyKenaHIuKtjIEHEgI6) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [Scorched Quadrant](https://open.spotify.com/album/3S0WC5y5lHxpW42aAGf3Sf) | 5:05 | 2023-03-31 |  |
+| [Scorched Quadrant](https://open.spotify.com/track/2jEtngpITq9GPbxN9aRbGc) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [The Singularity \(Phase II \- Xenotaph\)](https://open.spotify.com/album/5Rf3QTxZ42Lghe4pgIxc2o) | 5:05 | 2023-06-23 |  |
+| [Scorched Quadrant](https://open.spotify.com/track/2tWlyKenaHIuKtjIEHEgI6) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [Scorched Quadrant](https://open.spotify.com/album/3S0WC5y5lHxpW42aAGf3Sf) | 5:05 | 2023-03-31 | 2023-06-28 |
 | [Scourge of the Offspring](https://open.spotify.com/track/68xQkT5Ww6SZBzbQzreOju) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [Scourge of the Offspring](https://open.spotify.com/album/0EOXYZmf3RXHG8ERn4iElN) | 4:28 | 2023-03-31 |  |
 | [Screaming at Forgotten Tears](https://open.spotify.com/track/62aAEJfIS8Vi5JCU9z4ZRl) | [Xasthur](https://open.spotify.com/artist/0nH9qzKJMfrJNnF37nDaVj) | [To Violate the Obvious](https://open.spotify.com/album/09hdLksOJb99vfLRACtw9C) | 8:15 | 2022-07-13 | 2023-02-16 |
 | [Scum](https://open.spotify.com/track/7fsMuMbwSdEhKSMpVR4QUc) | [A Lie Nation](https://open.spotify.com/artist/56tUivD4LuAu4fSuTdhI9h) | [Scum](https://open.spotify.com/album/3Ild09QvSzjh5ChKrvJK5o) | 4:06 | 2022-04-29 | 2022-07-19 |

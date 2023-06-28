@@ -2,7 +2,7 @@
 
 ### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. Alvaro Diaz en portada.
+> Una selección de temas de amor y desamor, con mucho feeling\. Tini y Tiago PZK en portada.
 
 117 songs - 6 hr 15 min
 

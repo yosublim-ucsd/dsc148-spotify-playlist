@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 293013,
       "name": "Longseller Tornado",
       "url": "https://open.spotify.com/track/4dKHCuRPW5BXkXYA46l6BK"
@@ -1837,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "Rhapsody in Summer",
+        "url": "https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258183,
+      "name": "Rhapsody in Summer",
+      "url": "https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6"
+    },
+    {
+      "album": {
         "name": "Run&Gun",
         "url": "https://open.spotify.com/album/3iHVZqJeO5pzwTK00S8tTT"
       },
@@ -2305,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "T.H.E. (Instrumental)",
+        "url": "https://open.spotify.com/album/4cNyNFudfHb9txaVpToJ3D"
+      },
+      "artists": [
+        {
+          "name": "SMOKIN\u2019theJAZZ",
+          "url": "https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285770,
+      "name": "T.H.E. - Instrumental",
+      "url": "https://open.spotify.com/track/7urvwSOF8IWNynEpoQOSik"
+    },
+    {
+      "album": {
         "name": "Thanks For Emily",
         "url": "https://open.spotify.com/album/6SnmxEiNhgy8qvJGOsUOb8"
       },
@@ -2338,7 +2374,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 132853,
       "name": "The Great U's Train",
       "url": "https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v"

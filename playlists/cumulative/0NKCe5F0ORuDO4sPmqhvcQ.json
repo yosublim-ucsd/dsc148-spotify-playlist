@@ -3307,6 +3307,28 @@
     },
     {
       "album": {
+        "name": "Free Yourself",
+        "url": "https://open.spotify.com/album/4t9ySdBRxL6KchQWrXL8Jz"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "Sofasound",
+          "url": "https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230977,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/6hBXPSKrmGBiRVD65Rpqot"
+    },
+    {
+      "album": {
         "name": "Get To You",
         "url": "https://open.spotify.com/album/68Kb2V3PP0mmHrerQpspM5"
       },

@@ -10595,6 +10595,24 @@
     },
     {
       "album": {
+        "name": "Lamar",
+        "url": "https://open.spotify.com/album/4c5Gfky06RAq4RB3HkYYO9"
+      },
+      "artists": [
+        {
+          "name": "Kubi",
+          "url": "https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170108,
+      "name": "Lamar",
+      "url": "https://open.spotify.com/track/3dLSeHlZzHOtR80FZOh7iM"
+    },
+    {
+      "album": {
         "name": "Lasting Luv",
         "url": "https://open.spotify.com/album/20dFBAkObm5jeBie83Y9hC"
       },

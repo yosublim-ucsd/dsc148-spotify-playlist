@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ozuna & Omah Lay",
-  "num_followers": 110329,
+  "num_followers": 110372,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzQ1YjRhY2FjNWM4M2E5YTFlYzk1MTMxYjBkMjk1Yzk0MTMzMjcy",
+  "snapshot_id": "MCwxMGY1NTJmNDAwOTUxZmUzMzZlYTFiNGRlNTUyZGYwNWFkNzA4YzY5",
   "tracks": [
     {
       "added_at": "2023-05-26 17:02:35",
@@ -775,30 +775,6 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "Drogba (Joanna) [Global Latin Version]",
-        "url": "https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Chosen Few",
-          "url": "https://open.spotify.com/artist/35Btqnex8RxQg68iBRD16v"
-        }
-      ],
-      "duration_ms": 197214,
-      "name": "Drogba (Joanna) - Global Latin Version",
-      "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
         "name": "Getting Late",
         "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 192108,
       "name": "Guava Rose",
       "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
+        "name": "Drogba (Joanna) [Global Latin Version]",
+        "url": "https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Chosen Few",
+          "url": "https://open.spotify.com/artist/35Btqnex8RxQg68iBRD16v"
+        }
+      ],
+      "duration_ms": 197214,
+      "name": "Drogba (Joanna) - Global Latin Version",
+      "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1455,30 +1455,30 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "Diggy Dee (Remix)",
-        "url": "https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN"
+        "name": "Son of the City",
+        "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
       },
       "artists": [
         {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
         },
         {
-          "name": "Sak Noel",
-          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
         },
         {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+          "name": "Exray",
+          "url": "https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo"
         },
         {
-          "name": "Tarik Jazzy T Thompson",
-          "url": "https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD"
+          "name": "Nellythegoon",
+          "url": "https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7"
         }
       ],
-      "duration_ms": 196973,
-      "name": "Diggy Dee - Remix",
-      "url": "https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq"
+      "duration_ms": 334000,
+      "name": "Cheza Kama Wewe",
+      "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
     }
   ],
   "unique_name": "Afro Ritmo",

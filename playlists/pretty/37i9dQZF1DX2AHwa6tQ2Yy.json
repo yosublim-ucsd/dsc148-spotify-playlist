@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 37525,
+  "num_followers": 37551,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDJhNDQ2MTdlZWU4MTM5YzE5MWNiZGQzYmI3ODhiYTQ5ZjkyOWZk",
+  "snapshot_id": "MCw3ZDYyN2U2ZjUwYjU0Nzg0YThjMDQ1NDU4MGI1Y2RiZGNiYjMxNTQ1",
   "tracks": [
     {
       "added_at": "2023-06-16 00:58:32",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "KIWANUKA",
-        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 233053,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/3aLq93pLZHx25jcFhfbEee"
-    },
-    {
-      "added_at": "2023-06-16 00:58:32",
-      "album": {
         "name": "Unconditionally",
         "url": "https://open.spotify.com/album/1X4HVedRMhLlr8qMaEGtKO"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 186053,
-      "name": "SOW",
-      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
+      "duration_ms": 233053,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/3aLq93pLZHx25jcFhfbEee"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -495,6 +479,22 @@
       "duration_ms": 254722,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
+    },
+    {
+      "added_at": "2023-06-16 00:58:32",
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "SOW",
+      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+        "name": "Just Fine",
+        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
         }
       ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+      "duration_ms": 174000,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "Just Fine",
-        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
       "artists": [
         {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Just Fine",
-      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 174614,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT"
-    },
-    {
-      "added_at": "2023-06-16 00:58:32",
-      "album": {
         "name": "Jaime (Reimagined)",
         "url": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 207280,
       "name": "No Need 2 Be Sorry, Call Me? (ft. Maverick Sabre)",
       "url": "https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8"
+    },
+    {
+      "added_at": "2023-06-16 00:58:32",
+      "album": {
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 174614,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -899,22 +899,6 @@
       "duration_ms": 230920,
       "name": "Falling in Love Again",
       "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
-    },
-    {
-      "added_at": "2023-06-16 00:58:32",
-      "album": {
-        "name": "No Flowers",
-        "url": "https://open.spotify.com/album/4AVeqsCo8ewXf9uN3IF9gs"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 184557,
-      "name": "No Flowers",
-      "url": "https://open.spotify.com/track/5NOViHpW9RmHc2HQKxewyb"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -1019,6 +1003,22 @@
       "duration_ms": 252616,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
+    },
+    {
+      "added_at": "2023-06-16 00:58:32",
+      "album": {
+        "name": "No Flowers",
+        "url": "https://open.spotify.com/album/4AVeqsCo8ewXf9uN3IF9gs"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 184557,
+      "name": "No Flowers",
+      "url": "https://open.spotify.com/track/5NOViHpW9RmHc2HQKxewyb"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
       "artists": [
         {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 256560,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+      "duration_ms": 157152,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/71KtVFmu7lY2AsKgdG1cZl"
     },
     {
       "added_at": "2023-06-16 00:58:32",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-06-16 00:58:32",
       "album": {
-        "name": "High Off You",
-        "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
       },
       "artists": [
         {
-          "name": "alayna",
-          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
         }
       ],
-      "duration_ms": 233760,
-      "name": "High Off You",
-      "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
+      "duration_ms": 256560,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
     }
   ],
   "unique_name": "Soulful",

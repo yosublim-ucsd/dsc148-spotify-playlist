@@ -3032,7 +3032,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 205463,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 200931,
       "name": "Morning like a breath",
       "url": "https://open.spotify.com/track/0c18p3EEnRPjWmfwyEefXf"
@@ -3524,6 +3524,24 @@
       "duration_ms": 228885,
       "name": "Paper Boy",
       "url": "https://open.spotify.com/track/3M3oBRNhyF1u9kGSbGk9WR"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5nLHY1doRZ0jVRcRcU8NOw"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219829,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7Mcpr4dcL5FIrLQkAl2ThC"
     },
     {
       "album": {
@@ -5630,6 +5648,24 @@
       "duration_ms": 298292,
       "name": "\u5fae\u71b1 (\u79cb)",
       "url": "https://open.spotify.com/track/4blBGh56WnJOb2VVubD4yF"
+    },
+    {
+      "album": {
+        "name": "\u604b\u306e\u30d0\u30cd",
+        "url": "https://open.spotify.com/album/3FXaTXzFzy17Vyhn90InBA"
+      },
+      "artists": [
+        {
+          "name": "Merchant",
+          "url": "https://open.spotify.com/artist/6Znnlm7AdtM0ulJk5cuk0W"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186705,
+      "name": "\u604b\u306e\u30d0\u30cd",
+      "url": "https://open.spotify.com/track/5gjrO7df7lZWszwE07LSTP"
     },
     {
       "album": {

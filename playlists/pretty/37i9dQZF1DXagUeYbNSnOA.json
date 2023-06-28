@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Junior Zamora. Updates every Wednesday.",
-  "num_followers": 170572,
+  "num_followers": 170588,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjA5ODljN2YzOGJlZDNiZTg4MjRmMGI4NTYyMzc4MThmMzMyMWMw",
+  "snapshot_id": "MCwzY2RlNzY3NTE4NjA4ODYxNzAxYjI1YWNhMGYwMjQ5NmE5YjAwOTNh",
   "tracks": [
     {
       "added_at": "2023-06-21 04:00:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Camino Dorado",
-        "url": "https://open.spotify.com/album/2zIO6vgZtXTV3No8H6SHLU"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
       },
       "artists": [
         {
-          "name": "Lola Cobach",
-          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
         }
       ],
-      "duration_ms": 191746,
-      "name": "Camino Dorado",
-      "url": "https://open.spotify.com/track/4ZqWMX8vgit2ZZqSctYqfj"
+      "duration_ms": 137584,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
+        "name": "Camino Dorado",
+        "url": "https://open.spotify.com/album/2zIO6vgZtXTV3No8H6SHLU"
       },
       "artists": [
         {
-          "name": "El Culto Casero",
-          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+          "name": "Lola Cobach",
+          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
         }
       ],
-      "duration_ms": 137584,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
+      "duration_ms": 191746,
+      "name": "Camino Dorado",
+      "url": "https://open.spotify.com/track/4ZqWMX8vgit2ZZqSctYqfj"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/4FDFHXQo1pZc20K4SURGyw"
-      },
-      "artists": [
-        {
-          "name": "tais",
-          "url": "https://open.spotify.com/artist/0eBqEhLtBJIWAM3IprQ773"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Alter Ego",
-      "url": "https://open.spotify.com/track/5K3pkjlNbjTyqKuPPKKaFo"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/5tX8PaOg2pHnq9vj85YlTE"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 223928,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/1QjlMVJzywhUcCFu3vGXgt"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/4FDFHXQo1pZc20K4SURGyw"
+      },
+      "artists": [
+        {
+          "name": "tais",
+          "url": "https://open.spotify.com/artist/0eBqEhLtBJIWAM3IprQ773"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/5K3pkjlNbjTyqKuPPKKaFo"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "La Sensaci\u00f3n",
-        "url": "https://open.spotify.com/album/0Aj2XmEa9fcoqydXr9Rrh5"
-      },
-      "artists": [
-        {
-          "name": "El Peligro de los Vientos",
-          "url": "https://open.spotify.com/artist/233QcEovKcNYRw1NskNj5r"
-        }
-      ],
-      "duration_ms": 218211,
-      "name": "Solo los Dos",
-      "url": "https://open.spotify.com/track/3t1gIKQljAz0AUin4tWRdA"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "Dame M\u00e1s",
         "url": "https://open.spotify.com/album/0i67vj1BbUmJmdvMb6cpzy"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 225299,
       "name": "Dame M\u00e1s",
       "url": "https://open.spotify.com/track/7xIidupF1ILLPX7gr4bmZ4"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "La Sensaci\u00f3n",
+        "url": "https://open.spotify.com/album/0Aj2XmEa9fcoqydXr9Rrh5"
+      },
+      "artists": [
+        {
+          "name": "El Peligro de los Vientos",
+          "url": "https://open.spotify.com/artist/233QcEovKcNYRw1NskNj5r"
+        }
+      ],
+      "duration_ms": 218211,
+      "name": "Solo los Dos",
+      "url": "https://open.spotify.com/track/3t1gIKQljAz0AUin4tWRdA"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "qu\u00e9 pretendes hacer conmigo",
-        "url": "https://open.spotify.com/album/0FY8R3pZbRuHZ04fhhv4Fv"
-      },
-      "artists": [
-        {
-          "name": "Sara Ontaneda",
-          "url": "https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC"
-        }
-      ],
-      "duration_ms": 170218,
-      "name": "qu\u00e9 pretendes hacer conmigo",
-      "url": "https://open.spotify.com/track/4KId7hIHJCihRrQV2XI22X"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "Libre (feat. Juan Jos\u00e9 Garc\u00eda & Rafael Lozina)",
         "url": "https://open.spotify.com/album/2ypwHaPEXujHuzQjrCtNEL"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 159761,
       "name": "Tecito E' Buenas Intenciones",
       "url": "https://open.spotify.com/track/6kgEBezCakZKiQvhxCHM1k"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "qu\u00e9 pretendes hacer conmigo",
+        "url": "https://open.spotify.com/album/0FY8R3pZbRuHZ04fhhv4Fv"
+      },
+      "artists": [
+        {
+          "name": "Sara Ontaneda",
+          "url": "https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC"
+        }
+      ],
+      "duration_ms": 170218,
+      "name": "qu\u00e9 pretendes hacer conmigo",
+      "url": "https://open.spotify.com/track/4KId7hIHJCihRrQV2XI22X"
     },
     {
       "added_at": "2023-06-21 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-21 04:00:00",
       "album": {
-        "name": "Rayo De Mayo",
-        "url": "https://open.spotify.com/album/7DQFOxQSP8uzOWYtQbvR2F"
-      },
-      "artists": [
-        {
-          "name": "El Banner",
-          "url": "https://open.spotify.com/artist/1TqMGmr38iMBZiTOj4erkB"
-        }
-      ],
-      "duration_ms": 201481,
-      "name": "Rayo De Mayo",
-      "url": "https://open.spotify.com/track/4Vw5SSZbKzZVwfkwoLuz0q"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
         "name": "Luces De Ne\u00f3n",
         "url": "https://open.spotify.com/album/33xuuFalm7xdz2hoicktib"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 236000,
       "name": "Luces De Ne\u00f3n",
       "url": "https://open.spotify.com/track/2betzzZgd64GqHljmHZ0GK"
+    },
+    {
+      "added_at": "2023-06-21 04:00:00",
+      "album": {
+        "name": "Rayo De Mayo",
+        "url": "https://open.spotify.com/album/7DQFOxQSP8uzOWYtQbvR2F"
+      },
+      "artists": [
+        {
+          "name": "El Banner",
+          "url": "https://open.spotify.com/artist/1TqMGmr38iMBZiTOj4erkB"
+        }
+      ],
+      "duration_ms": 201481,
+      "name": "Rayo De Mayo",
+      "url": "https://open.spotify.com/track/4Vw5SSZbKzZVwfkwoLuz0q"
     },
     {
       "added_at": "2023-06-21 04:00:00",

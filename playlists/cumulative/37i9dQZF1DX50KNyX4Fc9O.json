@@ -297,6 +297,28 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/29MhV870Wmh41zik9fFSZK"
+      },
+      "artists": [
+        {
+          "name": "Amila",
+          "url": "https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh"
+        },
+        {
+          "name": "Rhys Rich",
+          "url": "https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187994,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/13CoTwU7uuvbnCfejIhH7n"
+    },
+    {
+      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
       },

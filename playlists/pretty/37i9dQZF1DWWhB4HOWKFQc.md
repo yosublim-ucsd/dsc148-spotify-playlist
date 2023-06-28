@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Salma Salsabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,730 likes - 76 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,363 likes - 76 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 75 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
 | 76 | [HEAVEN AND BACK](https://open.spotify.com/track/5dewQ7ojISR32NAYNHFYWC) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [PHASES](https://open.spotify.com/album/22DL6IRGNYNenKej7aw8pO) | 4:08 |
 
-Snapshot ID: `MCwwN2VhNjhlZDVhOTQ1ZThiNjI5Y2VmNmRlZDE1ZjIwYWY4YWYwYzFl`
+Snapshot ID: `MCxjODc3NmU0OWExODg5ZGE0NzFkY2Y4MWYyYWVhMTMyOGUzMzFmMGI5`

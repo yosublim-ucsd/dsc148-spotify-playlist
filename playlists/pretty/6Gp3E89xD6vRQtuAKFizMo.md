@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,464 likes - 50 songs - 2 hr 23 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,463 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 4 | [Go Back](https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Go Back](https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf) | 2:26 |
 | 5 | [Move Your Body](https://open.spotify.com/track/3sX6nnMGqC5WS88TcaOBfM) | [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Move Your Body](https://open.spotify.com/album/79GIJFnwlmxctKHpo0dLqJ) | 2:48 |
 | 6 | [Believer](https://open.spotify.com/track/7dYBCDao1pYAKvqzAexYod) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Believer](https://open.spotify.com/album/7LgLoJOnLn4yvDOe6vFthx) | 2:09 |
-| 7 | [Dance With Me](https://open.spotify.com/track/3PKXTGsIpCDoBdUvb1FV2b) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ) | [Dance With Me](https://open.spotify.com/album/4EmOb8yIboAzx3XZp9gbTb) | 2:48 |
-| 8 | [Se Paga](https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [No Es Igual](https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw) | 3:58 |
+| 7 | [Se Paga](https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [No Es Igual](https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw) | 3:58 |
+| 8 | [Dance With Me](https://open.spotify.com/track/3PKXTGsIpCDoBdUvb1FV2b) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ) | [Dance With Me](https://open.spotify.com/album/4EmOb8yIboAzx3XZp9gbTb) | 2:48 |
 | 9 | [I Don't Need You \(feat\. Blasé\)](https://open.spotify.com/track/6UqFkScHnQt2nOBXqUKEHp) | [KULTIVATE](https://open.spotify.com/artist/6ZeCz9p9x3KPpHTGD16vlL), [BLASE](https://open.spotify.com/artist/7EABimSw8VPqaOEfQHMMj0) | [I Don't Need You \(feat\. Blasé\)](https://open.spotify.com/album/3EyhxTmX8kx4C6RNfWbdIp) | 3:29 |
 | 10 | [Something To Luv For \(with Advokid\)](https://open.spotify.com/track/5iq4IyI8oj7gHiRGxo8qLO) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Advokid](https://open.spotify.com/artist/3aO9yUQwH6uBCtV9c5kflf) | [Something To Luv For \(with Advokid\)](https://open.spotify.com/album/1Lm5PKdzBTNBwR2WxPmJnP) | 2:33 |
 | 11 | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/track/5jjGgAp2RC0ZFlhEcLkAyv) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Ramlode](https://open.spotify.com/artist/5bVbzfyZTpqz8pys7V9Yk7), [2ka](https://open.spotify.com/artist/2YxZgUNsMMQABXjllqeQC6) | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/album/2o7w2FNR74JTSKERxiwCOV) | 2:35 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 27 | [Switch \(with Nat James\)](https://open.spotify.com/track/6hncI5tUk2z4KwtGT5sxSM) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Switch \(with Nat James\)](https://open.spotify.com/album/1rTeQInxlDWx708GG11jK4) | 2:35 |
 | 28 | [Bad For U](https://open.spotify.com/track/6QSJ6YykdSXSXIXEIyXDjz) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Mevil](https://open.spotify.com/artist/1gEv29AYdZDyZxaEZEz1xW), [Enigmix](https://open.spotify.com/artist/4t60Tdbrh9XXcIUVShQbZL) | [Bad For U](https://open.spotify.com/album/5rF6MSD64uT4ylAjpukdXW) | 2:37 |
 | 29 | [MOTION](https://open.spotify.com/track/4EzW52mbVR93yJVnHYi710) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [MOTION](https://open.spotify.com/album/7wLPe5WdB6xkxmEEQV1kqy) | 2:13 |
-| 30 | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/album/7jji2t4yyGdhWW4e1LKj47) | 2:55 |
-| 31 | [Disengage](https://open.spotify.com/track/5NGLGbbClZvq7n8L4VRnfy) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP) | [Disengage](https://open.spotify.com/album/0yytK65AucnQcLwfMbiKB9) | 3:17 |
+| 30 | [Disengage](https://open.spotify.com/track/5NGLGbbClZvq7n8L4VRnfy) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP) | [Disengage](https://open.spotify.com/album/0yytK65AucnQcLwfMbiKB9) | 3:17 |
+| 31 | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/album/7jji2t4yyGdhWW4e1LKj47) | 2:55 |
 | 32 | [Hooyah!](https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Hooyah!](https://open.spotify.com/album/15IjJw4B6jvRPPtbuwHHkI) | 2:12 |
 | 33 | [Esa Fui Yo](https://open.spotify.com/track/0x50zDF6SsQqas9BzzfL49) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Esa Fui Yo](https://open.spotify.com/album/4kRO16rJRxAFkSv4WN1bWE) | 2:06 |
 | 34 | [Cute Without The E \(Ziri\)](https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Cute Without The E \(Ziri\)](https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 49 | [Anarchy](https://open.spotify.com/track/7EQr5uQA2EafjldVAV2vkx) | [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Anarchy](https://open.spotify.com/album/5jTGJaYpZ8ifetpJAjRQmK) | 3:17 |
 | 50 | [Wait For Me](https://open.spotify.com/track/1gTHSh2ZkRZ1EuS3OGEKfG) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [echod](https://open.spotify.com/artist/7CO8JKfeXoJEIGQKYmp84I) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 2:49 |
 
-Snapshot ID: `NjI2NyxlMTdiZGM3ZDNmOTEwODM1YTJhMGNmYjE4NDY5ZWVmZmM0M2I0Y2Zj`
+Snapshot ID: `NjI3MSwyMWU2OWJhOWI4MGVhN2FmMDViNjJlYjI5N2RkNWQ4MWEwYmZlMDEy`

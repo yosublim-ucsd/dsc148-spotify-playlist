@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. El Bebeto & Luciano Pereyra en portada. ",
-  "num_followers": 126891,
+  "num_followers": 126898,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTA0MzNjYTNmMTgxNzI1YzY3MmU2ZTdlZGU0ZTA3NTYzMzJmOWU2",
+  "snapshot_id": "MCw1MmNkNTZjOTc1M2RhOTBhOTEzZmM1NWE0ZWYxMTg4N2VmMzE0OTBm",
   "tracks": [
     {
       "added_at": "2023-06-23 06:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Me Pase de Tragos",
-        "url": "https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn"
-      },
-      "artists": [
-        {
-          "name": "Alexis Escobar",
-          "url": "https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Me Pase de Tragos",
-      "url": "https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Fue un Placer Amarte",
         "url": "https://open.spotify.com/album/6lkzoOCU8gJ1Vtt6cV9659"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 229030,
       "name": "Fue un Placer Amarte",
       "url": "https://open.spotify.com/track/1GdDYZX7Woh8hxkNVGe6vQ"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Me Pase de Tragos",
+        "url": "https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn"
+      },
+      "artists": [
+        {
+          "name": "Alexis Escobar",
+          "url": "https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Me Pase de Tragos",
+      "url": "https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -999,22 +999,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Algo Est\u00e1 Pasando",
-        "url": "https://open.spotify.com/album/361bDQTsRAM8cnZ19z0uJv"
+        "name": "Se Disfraz\u00f3",
+        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
       },
       "artists": [
         {
-          "name": "Amparanoia",
-          "url": "https://open.spotify.com/artist/23xlCr6Espgfu0IQExvjU6"
-        },
-        {
-          "name": "Artistas del Gremio",
-          "url": "https://open.spotify.com/artist/0Kat39J9rHV3jXOqlZxa2i"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 195014,
-      "name": "Algo Est\u00e1 Pasando",
-      "url": "https://open.spotify.com/track/59eEkxtW8l9OzjsyFi6K9y"
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1035,22 +1031,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Se Disfraz\u00f3",
-        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 206383,
-      "name": "Se Disfraz\u00f3",
-      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
         "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 180773,
       "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
       "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Algo Est\u00e1 Pasando",
+        "url": "https://open.spotify.com/album/361bDQTsRAM8cnZ19z0uJv"
+      },
+      "artists": [
+        {
+          "name": "Amparanoia",
+          "url": "https://open.spotify.com/artist/23xlCr6Espgfu0IQExvjU6"
+        },
+        {
+          "name": "Artistas del Gremio",
+          "url": "https://open.spotify.com/artist/0Kat39J9rHV3jXOqlZxa2i"
+        }
+      ],
+      "duration_ms": 195014,
+      "name": "Algo Est\u00e1 Pasando",
+      "url": "https://open.spotify.com/track/59eEkxtW8l9OzjsyFi6K9y"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1187,22 +1187,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Todo Me Recuerda A Ti",
-        "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
+        "name": "MALAMANTE (en carne viva)",
+        "url": "https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ"
       },
       "artists": [
         {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+          "name": "Veronica Orozco",
+          "url": "https://open.spotify.com/artist/1Te0peWkDd6h5Rnd0qjaKm"
         },
         {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+          "name": "Diana Hoyos",
+          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
         }
       ],
-      "duration_ms": 208106,
-      "name": "Todo Me Recuerda A Ti",
-      "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
+      "duration_ms": 200546,
+      "name": "MALAMANTE (en carne viva)",
+      "url": "https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "MALAMANTE (en carne viva)",
-        "url": "https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ"
+        "name": "Todo Me Recuerda A Ti",
+        "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
       },
       "artists": [
         {
-          "name": "Veronica Orozco",
-          "url": "https://open.spotify.com/artist/1Te0peWkDd6h5Rnd0qjaKm"
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
         },
         {
-          "name": "Diana Hoyos",
-          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
         }
       ],
-      "duration_ms": 200546,
-      "name": "MALAMANTE (en carne viva)",
-      "url": "https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi"
+      "duration_ms": 208106,
+      "name": "Todo Me Recuerda A Ti",
+      "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
     },
     {
       "added_at": "2023-06-23 06:00:00",

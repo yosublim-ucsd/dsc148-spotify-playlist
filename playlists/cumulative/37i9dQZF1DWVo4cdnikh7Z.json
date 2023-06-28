@@ -1007,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "Veeran",
+        "url": "https://open.spotify.com/album/6UWbVlGPOBvtpR7wgfo7Nh"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Senthil Ganesh",
+          "url": "https://open.spotify.com/artist/4tJdetTsMFHnS8UzgopPzn"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173752,
+      "name": "Andome Kidukidunga (Climax Song) (From \"Veeran\")",
+      "url": "https://open.spotify.com/track/5Xi3nJALlykwc1BmRwuiBc"
+    },
+    {
+      "album": {
         "name": "Pattathu Arasan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2IBkciBEY2GmBbDqsXH9g0"
       },

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Virgin Miri
 
-3,031 songs - 6 day 10 hr 26 min
+3,032 songs - 6 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2138,7 +2138,8 @@
 | [RADIO SILENCE](https://open.spotify.com/track/2XnKHgfNOJOMj2B7u5qiD4) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80) | [GARDENING](https://open.spotify.com/album/7geyON27pFNOLshvNKiYqk) | 4:15 | 2020-10-22 | 2020-11-12 |
 | [Radio Silence](https://open.spotify.com/track/0NBpksHKbou0VYFtPohCS9) | [Ceara Cavalieri](https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW) | [Radio Silence](https://open.spotify.com/album/5uquHiEeAjCQgkVU5ovP5D) | 2:46 | 2022-03-09 | 2022-04-07 |
 | [Rag Doll](https://open.spotify.com/track/5lHSeM4mRiQHloub1pFjZo) | [Grace Savage](https://open.spotify.com/artist/7jpzB6T94uYgdqP7oJ4hNM) | [Rag Doll](https://open.spotify.com/album/0QjNDpe039FCkLHji6wGRz) | 3:27 | 2021-03-25 | 2021-04-22 |
-| [Rain In California](https://open.spotify.com/track/7e7Ahta2Z36i0kxM6JkSxi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [Rain In California](https://open.spotify.com/album/0R6IlEAhvgQkcfcsMc6E0Z) | 2:28 | 2023-05-10 |  |
+| [Rain In California](https://open.spotify.com/track/7e7Ahta2Z36i0kxM6JkSxi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [Rain In California](https://open.spotify.com/album/0R6IlEAhvgQkcfcsMc6E0Z) | 2:28 | 2023-05-10 | 2023-06-28 |
+| [Rain In California](https://open.spotify.com/track/3uLWWGfrQUUEbBRLru9zKO) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [Rain In California](https://open.spotify.com/album/7sVmdfwKVReBMtUV8wEniC) | 2:28 | 2023-05-10 |  |
 | [Rainbow](https://open.spotify.com/track/12Ir8MQzqu6X78vMwsublK) | [Grace Pelle](https://open.spotify.com/artist/0sBS1xdoktPWXbo6iNOx8p) | [Rainbow](https://open.spotify.com/album/0yJzuT4T9Rf5H4sV1OFGsk) | 3:24 | 2022-03-23 | 2022-04-28 |
 | [Rainbow Alley](https://open.spotify.com/track/6t9iK4zQRM3ORMPYfn8rqo) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Rainbow Alley](https://open.spotify.com/album/5egodvlltbFcR4EzkZ6OXz) | 2:35 | 2022-01-26 | 2022-03-03 |
 | [Raincoat](https://open.spotify.com/track/22hlnlZezvwEVF0UCXh8wW) | [Why\-Axis](https://open.spotify.com/artist/6SbBBsbKTQTYNYwjPkOZCU) | [Raincoat](https://open.spotify.com/album/78fzGzbHTj62HOdRVesXdl) | 2:30 | 2021-02-04 | 2021-03-06 |

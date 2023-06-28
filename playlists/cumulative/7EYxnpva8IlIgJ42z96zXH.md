@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-668 songs - 1 day 11 hr 22 min
+669 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Blip](https://open.spotify.com/track/5HvNPQrx34MJKnvoecVLxz) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Blip](https://open.spotify.com/album/6FeQh0v9766yT2fvM4H3EK) | 2:42 | 2022-10-07 | 2022-12-10 |
 | [Blow My Mind](https://open.spotify.com/track/0ZJYKFYQYO0kL8lYuILAGx) | [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH), [Nadim](https://open.spotify.com/artist/04r4bpYoO5pcJD0Ga8u6T6), [AmeliaCee](https://open.spotify.com/artist/5Cs12AhGIsXew1VY65kvFV) | [Blow My Mind](https://open.spotify.com/album/3ZiXEgZ2wwzScYcxvkvwR1) | 2:15 | 2023-01-27 | 2023-03-25 |
 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 | 2022-06-09 | 2022-09-17 |
-| [Borderline](https://open.spotify.com/track/0ZubZMXWYS3qUK0zJ68dKn) | [Jakka](https://open.spotify.com/artist/4QsjdD4tkCOSUqRSDoazaM) | [Borderline](https://open.spotify.com/album/6vuUdsB96N2J713lnhW7Pm) | 3:38 | 2023-03-24 |  |
+| [Borderline](https://open.spotify.com/track/0ZubZMXWYS3qUK0zJ68dKn) | [Jakka](https://open.spotify.com/artist/4QsjdD4tkCOSUqRSDoazaM) | [Borderline](https://open.spotify.com/album/6vuUdsB96N2J713lnhW7Pm) | 3:38 | 2023-03-24 | 2023-06-28 |
 | [Bossin'](https://open.spotify.com/track/5SAPd066YNFApqsIYveQIS) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Bossin'](https://open.spotify.com/album/0wLW3xr8vF7nqW3p9Ebo01) | 2:15 | 2022-08-26 | 2023-02-11 |
 | [Bossin' \(Shake Daddy Remix\)](https://open.spotify.com/track/1waM1OEKXjNnrdsuZTVIdg) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp), [Shake Daddy](https://open.spotify.com/artist/0FJHBL4Pu8l6ND4yZNSUQc) | [Bossin' \(Shake Daddy Remix\)](https://open.spotify.com/album/1mcjHbIbwWEoPyuTe7HJjp) | 4:16 | 2022-11-04 | 2022-12-16 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-03 | 2023-02-20 |
@@ -468,6 +468,7 @@
 | [Psycho! \- Topic & B\-Case Remix](https://open.spotify.com/track/2VwRXGDCd0Lr2RxwPc2vm3) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [B\-Case](https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj) | [Psycho! \(Topic & B\-Case Remix\)](https://open.spotify.com/album/73eSw2EoLoeDUmSTiLyDSu) | 2:29 | 2020-11-03\* | 2021-02-06 |
 | [Pump The Brakes](https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump The Brakes](https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ) | 3:40 | 2021-03-30 | 2021-07-24 |
 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-07-29 | 2022-11-19 |
+| [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-06-27 |  |
 | [Questions](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions](https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR) | 2:57 | 2022-06-03 | 2022-08-27 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-03-01 | 2022-07-01 |
 | [Rave Shake](https://open.spotify.com/track/6vJrnybmqS082z1aWP5Gyk) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [Rave Shake](https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b) | 2:04 | 2023-03-03 | 2023-06-09 |

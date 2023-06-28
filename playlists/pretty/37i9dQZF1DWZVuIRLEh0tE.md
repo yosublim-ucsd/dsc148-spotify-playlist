@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Rochy RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,217 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,373 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 19 | [Rico Feo](https://open.spotify.com/track/36AdYWyVOERiPFL4SfpJCM) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Polojoa](https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt) | [Rico Feo](https://open.spotify.com/album/4xYqfbtDwQBdZwgfUy4XQJ) | 3:59 |
 | 20 | [Rabia Freestyle](https://open.spotify.com/track/4aDVlzSeH5aqzh3MZDEUny) | [Hemphil Otra Nota](https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9), [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW) | [Rabia Freestyle](https://open.spotify.com/album/0Ao0eUVWgAypwUJhP7eeI7) | 2:02 |
 | 21 | [1:00 Am](https://open.spotify.com/track/0lGyrbBoaDY01jJzK7MxVT) | [Carlos uzi](https://open.spotify.com/artist/6Kks7YDYdfbqWrfbWTN8R3), [Quintuple](https://open.spotify.com/artist/0tLuBB2WmsWCI8FThxG2vU) | [1:00 Am](https://open.spotify.com/album/4bdicd0eUQ4mUkvopZA5Ev) | 2:43 |
-| 22 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
+| 22 | [Gogo Dance](https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [SABIDURIA](https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc) | 2:53 |
 | 23 | [Siclompatada](https://open.spotify.com/track/71W9k3wJYrBoKSBml96mjZ) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Siclompatada](https://open.spotify.com/album/4ZKJdmrDwXDT85V2GB1rq1) | 3:36 |
 | 24 | [Lokisla](https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Lokisla](https://open.spotify.com/album/6tQmUnaSJ4TkqvdfujoYIZ) | 4:24 |
 | 25 | [Dinero](https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9) | [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Dinero](https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 74 | [El Anillo el Reloj](https://open.spotify.com/track/5Nj2GgTU78oXnqoZXQooDw) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/4oQk366EGQWn2nmkBrFt8X) | 2:52 |
 | 75 | [Un Poco De Amor](https://open.spotify.com/track/1JiiG7NrwtVLzdSKqGC9fb) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Un Poco De Amor](https://open.spotify.com/album/6awvZolH9XPQ67f8UgAzik) | 3:00 |
 
-Snapshot ID: `MCw2NjVlZmZiMzJhOWI1NDFmMzZhMmIyZTUwNGRiYmYzMWNlY2YxYTUz`
+Snapshot ID: `MCxjZGU2N2JhMzZmZmM1N2MzYmY2NjcwN2I2ZjM5YjIwMmY4MDA5MmIx`

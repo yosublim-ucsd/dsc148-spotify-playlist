@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 69675,
+  "num_followers": 69743,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmQyNjczMTBjMWM1MTMwMzU5NDEyYmMzZTZmZDI1YzkzOWIwNjEx",
+  "snapshot_id": "MCxmZTEzODA3MmQ5NGU2MWNlZDc3YTcwNzhjN2QwNTY0MzhkZmZhNmJm",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Discos Del Mill\u00f3n",
-        "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
-        }
-      ],
-      "duration_ms": 162906,
-      "name": "Creo Estar So\u00f1ando",
-      "url": "https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "El rock de la c\u00e1rcel (Remastered)",
         "url": "https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 141635,
       "name": "Bule bule - Remastered",
       "url": "https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Discos Del Mill\u00f3n",
+        "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
+        }
+      ],
+      "duration_ms": 162906,
+      "name": "Creo Estar So\u00f1ando",
+      "url": "https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -651,8 +651,8 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
-        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
+        "name": "La Plaga",
+        "url": "https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId"
       },
       "artists": [
         {
@@ -660,25 +660,9 @@
           "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
         }
       ],
-      "duration_ms": 128626,
-      "name": "Presumida - High Class Baby [Remasterizado]",
-      "url": "https://open.spotify.com/track/6U3Az2TWNkjzeqV5RztJw7"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
-        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
-      },
-      "artists": [
-        {
-          "name": "Los Hitters",
-          "url": "https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT"
-        }
-      ],
-      "duration_ms": 149146,
-      "name": "Un hombre respet",
-      "url": "https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM"
+      "duration_ms": 143699,
+      "name": "La Plaga",
+      "url": "https://open.spotify.com/track/2auNSn5gZXZBzn2wxpRjId"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -695,6 +679,22 @@
       "duration_ms": 165840,
       "name": "Cuando Era un Jovencito",
       "url": "https://open.spotify.com/track/7B1VlOOC2K4UkWNJNXbG6w"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
+        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
+      },
+      "artists": [
+        {
+          "name": "Los Hitters",
+          "url": "https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT"
+        }
+      ],
+      "duration_ms": 149146,
+      "name": "Un hombre respet",
+      "url": "https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -795,8 +795,8 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Plaga",
-        "url": "https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId"
+        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
+        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
         }
       ],
-      "duration_ms": 143699,
-      "name": "La Plaga",
-      "url": "https://open.spotify.com/track/2auNSn5gZXZBzn2wxpRjId"
+      "duration_ms": 128626,
+      "name": "Presumida - High Class Baby [Remasterizado]",
+      "url": "https://open.spotify.com/track/6U3Az2TWNkjzeqV5RztJw7"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
-      },
-      "artists": [
-        {
-          "name": "Los Hooligans",
-          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
-        }
-      ],
-      "duration_ms": 134746,
-      "name": "Adios A Jamaica [Album Version]",
-      "url": "https://open.spotify.com/track/4k9kb8ykwYIlDX3Kvai0tX"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Grandes \u00c9xitos Vol.2",
         "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 145658,
       "name": "Adan y Eva",
       "url": "https://open.spotify.com/track/0YKzNVdniFbIygZieYMeBW"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Hooligans",
+          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
+        }
+      ],
+      "duration_ms": 134746,
+      "name": "Adios A Jamaica [Album Version]",
+      "url": "https://open.spotify.com/track/4k9kb8ykwYIlDX3Kvai0tX"
     },
     {
       "added_at": "2020-04-17 21:51:59",

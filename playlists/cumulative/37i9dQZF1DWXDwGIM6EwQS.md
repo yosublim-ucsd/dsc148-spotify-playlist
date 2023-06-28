@@ -4,7 +4,7 @@
 
 > pov: you're crying and dancing at the same time.
 
-193 songs - 10 hr 23 min
+194 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 | 2022-07-08 | 2022-12-24 |
 | [No Es Normal](https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Se Siente Diferente](https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y) | 3:32 | 2022-03-21 | 2022-07-09 |
 | [No La Encuentro](https://open.spotify.com/track/4CnhTzgKFkne8I9sAVCjI8) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [No La Encuentro](https://open.spotify.com/album/1I4D571ICbgvJ3J4IVaHhn) | 3:29 | 2022-04-19 | 2022-07-09 |
-| [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 | 2023-03-24 |  |
+| [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 | 2023-03-24 | 2023-06-28 |
 | [No Me Llames](https://open.spotify.com/track/2Ks0PhKTP1i1LQwaTehK5u) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [No Me Llames](https://open.spotify.com/album/1HQ9hzQNRYdms0EBBSOzmC) | 3:10 | 2022-03-21 | 2022-04-20 |
 | [No Te Debí Besar](https://open.spotify.com/track/1KdwnsWOvhM53vezy5ROuf) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [No Te Debí Besar](https://open.spotify.com/album/1VIVJSQidZ6nddSJoEEYt7) | 3:02 | 2022-07-08 |  |
 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 | 2022-03-21 |  |
@@ -192,6 +192,7 @@
 | [Volau](https://open.spotify.com/track/5IGGuisUdpJ1by7x5l67kx) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Vice](https://open.spotify.com/artist/7oIZnD6vDWk0nXmGiKbtAA) | [Full Discoteka](https://open.spotify.com/album/2BocamJ6jCNKUzUJQ88PRj) | 3:03 | 2022-07-08 | 2022-12-24 |
 | [Vuelve](https://open.spotify.com/track/30zRVzH3FUvbtqYwLvd5fc) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:14 | 2022-03-21 | 2022-07-09 |
 | [Vuelve](https://open.spotify.com/track/1W4JOY9MYgqKSIygbapHcK) | [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS), [Don Patricio](https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9) | [1996](https://open.spotify.com/album/4zAhXUcXtehKa2wBjOjJWW) | 2:37 | 2022-04-19 | 2022-07-09 |
+| [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 | 2023-06-27 |  |
 | [Wu Wu](https://open.spotify.com/track/4qUBWszQ0OOSVw2ik497YS) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Corazón Cromado](https://open.spotify.com/album/06K7B814dzQ3XUaszFMO02) | 3:27 | 2022-07-18 | 2022-12-24 |
 | [x100](https://open.spotify.com/track/0sFB4g96SSfbxXH03hJL4X) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [x100](https://open.spotify.com/album/397NL1IlW8u4bnd2KUZkDa) | 2:52 | 2023-04-03 | 2023-05-13 |
 | [Ya no siento nada](https://open.spotify.com/track/3JUaCIDpLc2kmY86lCm3aT) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 3:12 | 2022-07-08 | 2022-12-24 |

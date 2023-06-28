@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Little Dragon
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,338 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,347 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Summer & Smoke \- Trikk Selva Furia Remix](https://open.spotify.com/track/2hbIOgTUnun0uQqQFsgUOM) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU), [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Summer & Smoke \(The Remixes\)](https://open.spotify.com/album/6qNbDRjMcjbzkHqJVYjLga) | 3:44 |
 | 75 | [Finally Dancing \- Radio Edit](https://open.spotify.com/track/0yXAPv7nVDyXxmCvah6Nlc) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [Finally Dancing](https://open.spotify.com/album/0ohn99T1dBbsBaegkf53NU) | 3:30 |
 
-Snapshot ID: `MCxkNjQ3MGRjMDJiZDRlOWIyYTcyNTI5MmU2M2IwYWZkNGM2ZDZkOTBi`
+Snapshot ID: `MCwxNzllZTJjYTRiMGY2ODNlY2Q5ZDg5MWVhZjBmNGRkMmRhZTM1Njc3`

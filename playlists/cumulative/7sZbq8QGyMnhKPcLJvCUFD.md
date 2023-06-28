@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-308 songs - 15 hr 30 min
+309 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Home](https://open.spotify.com/track/1b8pnOzyvGcV2mkTyb7DMg) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Home](https://open.spotify.com/album/6Ylx3tJ8nATOEKSXGoybHH) | 2:49 | 2022-09-15 |  |
 | [Hurt Me](https://open.spotify.com/track/7IT4rIcgqQ3XjCOgp5a82V) | [Evanly](https://open.spotify.com/artist/7HQ2jxEKsBZjF78Vd8sUFu) | [Hurt Me](https://open.spotify.com/album/6Z8I2YQa7kgdeJ4XFM2Z6c) | 2:12 | 2022-05-31 | 2023-04-28 |
 | [Hyperphantasia](https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hyperphantasia](https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp) | 3:58 | 2022-07-01 | 2023-04-28 |
+| [I Don't Wanna Know](https://open.spotify.com/track/3rkViZW8u35YjiKR3NV3Pb) | [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [I Don't Wanna Know](https://open.spotify.com/album/0mUbrbUetoIgyeW43jpihp) | 2:45 | 2023-06-27 |  |
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 | 2023-04-28 |
 | [If I Disappear](https://open.spotify.com/track/5mIcxmKHXnhY1lJJDKJGxW) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Tom Mårtensson](https://open.spotify.com/artist/43Rudxki6fpPr4tX8F7BeU) | [If I Disappear](https://open.spotify.com/album/0QefDAEkbSEFUIXkbgZAl7) | 3:28 | 2022-05-06 | 2023-04-28 |
 | [If Looks Can Kill](https://open.spotify.com/track/01tiKfFX4FYKPbLWjDx0SD) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d) | [If Looks Can Kill](https://open.spotify.com/album/4dCEskpKoFGqaD7vcZFhfC) | 2:11 | 2023-04-27 |  |

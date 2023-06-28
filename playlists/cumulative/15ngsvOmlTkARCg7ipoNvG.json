@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 100636,
       "name": "Air",
       "url": "https://open.spotify.com/track/2y7pV9xnmqZKdbdHK7RiWK"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 100645,
       "name": "Always My Home",
       "url": "https://open.spotify.com/track/7pjOYX1cvbXbUN7bbX2fxa"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 82166,
       "name": "Ancient Love",
       "url": "https://open.spotify.com/track/5fsGqXrJnldzBkSXynAjlh"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 98387,
       "name": "Arms Wide Open",
       "url": "https://open.spotify.com/track/3woP0fNEJ1lVf7H1RtXZaR"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 99173,
       "name": "At Last",
       "url": "https://open.spotify.com/track/1yTj91vUbgHPKQW0c0WthZ"
@@ -1180,6 +1180,24 @@
       "duration_ms": 60618,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5S0fH5Qyi4yxa4JXTbVCVC"
+    },
+    {
+      "album": {
+        "name": "Two Ambient Cello Preludes",
+        "url": "https://open.spotify.com/album/0eIrD6HWVSGLHqnIHQ3y48"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60618,
+      "name": "Aurora Arr. For Cello",
+      "url": "https://open.spotify.com/track/0HhPAEHrTScWAID2XJ5MLi"
     },
     {
       "album": {
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 97432,
       "name": "Bare",
       "url": "https://open.spotify.com/track/5ccbZRLFO7X9TJkALMRLKZ"
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 93626,
       "name": "Beautiful Harmony",
       "url": "https://open.spotify.com/track/64pOzUuE17nwlEbTAZ0GMY"
@@ -3214,7 +3232,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 87580,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/4QteNpG8JoPGxODeJy1CdK"
@@ -3268,7 +3286,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 70897,
       "name": "Clover",
       "url": "https://open.spotify.com/track/7yLlFo6EGzpQuxS6eYiuHS"
@@ -4706,7 +4724,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 91703,
       "name": "Droplets",
       "url": "https://open.spotify.com/track/1n19cwfHt0V6zSwYbnWACR"
@@ -4958,7 +4976,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 97262,
       "name": "Empathy",
       "url": "https://open.spotify.com/track/1Cclyh75ndDN37ysbM8YZS"
@@ -5218,6 +5236,24 @@
       "duration_ms": 61224,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/5qCnWiR74NovsB91Bovwqx"
+    },
+    {
+      "album": {
+        "name": "Two Ambient Cello Preludes",
+        "url": "https://open.spotify.com/album/0eIrD6HWVSGLHqnIHQ3y48"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60300,
+      "name": "Everlasting Arr. For Cello",
+      "url": "https://open.spotify.com/track/1Dwf1lQMYleRwzqyvtjxAR"
     },
     {
       "album": {
@@ -5888,7 +5924,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 81168,
       "name": "First Lullaby",
       "url": "https://open.spotify.com/track/0wMfWiyHjtq7oXJCYH92IQ"
@@ -6140,7 +6176,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 74789,
       "name": "Flowers In The Sun",
       "url": "https://open.spotify.com/track/0TMtPVhTDQIfPGDHaBTMc1"
@@ -6482,7 +6518,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 100280,
       "name": "Found In Stillness",
       "url": "https://open.spotify.com/track/3Isgkwl2QlHFVQpvWOMhfR"
@@ -7220,7 +7256,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 100296,
       "name": "Glowing Beauty",
       "url": "https://open.spotify.com/track/2qlFa5xzPVlhfiroMPaj9f"
@@ -8520,7 +8556,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 96230,
       "name": "Largo Reimagined",
       "url": "https://open.spotify.com/track/6VVygTksotaGbvfyPxMKQ2"
@@ -12828,7 +12864,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 99198,
       "name": "Rising of the Moon",
       "url": "https://open.spotify.com/track/7G1ytuw9UNt317srYJqRYc"
@@ -13480,7 +13516,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 86613,
       "name": "Shadowdance",
       "url": "https://open.spotify.com/track/5gqimSN23zJpllY8lI6QrJ"
@@ -15482,7 +15518,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 95764,
       "name": "Taking the Long Way Home",
       "url": "https://open.spotify.com/track/6RC1ZBbIVyNkqrN3ufLHDw"
@@ -17758,7 +17794,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 103208,
       "name": "Winter Sunshine",
       "url": "https://open.spotify.com/track/3jK42lBL023nhRIzsFqIX2"

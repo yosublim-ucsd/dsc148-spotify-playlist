@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: PNW](https://open.spotify.com/playlist/37i9dQZF1DWVKZ0Z9y3Qew)
 
-> Pacific Northwest music breaking waves\. Cover, Gifted Gab
+> Pacific Northwest music breaking waves\. Cover: lophiile
 
 583 songs - 1 day 3 hr 13 min
 

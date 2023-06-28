@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor, tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,857 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,962 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 31 | [Moletom](https://open.spotify.com/track/75c80jJ4IAuFvcItfJFR6Q) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Moletom](https://open.spotify.com/album/6BqKpBwX2jUAXAi09lcOeJ) | 3:47 |
 | 32 | [Veneno](https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn) | [Arcano 19 \(Deluxe\)](https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ) | 4:09 |
 | 33 | [Peça Rara \(Tapa Tapa\)](https://open.spotify.com/track/6rHj0nfcYDDFkhsRiMbePy) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [O Que Vem Depois](https://open.spotify.com/album/0A4L7nluxjOflqGHupldFF) | 2:51 |
-| 34 | [Te Levo](https://open.spotify.com/track/6RW929tcNPs4hqGVsKDK5s) | [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [V1ttinho](https://open.spotify.com/artist/5uM0ZrdHKEQkM03AbNv4Rx), [Neytxn](https://open.spotify.com/artist/7L1wqmAtk7pQwj2xtPWIbq) | [Te Levo](https://open.spotify.com/album/4zfUPIprdvHstoQlvkS7Fz) | 2:32 |
+| 34 | [Te Levo](https://open.spotify.com/track/6RW929tcNPs4hqGVsKDK5s) | [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [V1ttinho](https://open.spotify.com/artist/5alkS1mnHn6Z9BBeIz3XZw), [Neytxn](https://open.spotify.com/artist/7L1wqmAtk7pQwj2xtPWIbq) | [Te Levo](https://open.spotify.com/album/4zfUPIprdvHstoQlvkS7Fz) | 2:32 |
 | 35 | [Mas Existe um Lugar \- speed](https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar \(speed\)](https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w) | 2:21 |
 | 36 | [FOGO E GASOLINA](https://open.spotify.com/track/52EYWdjiulHaehpexuowyh) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [Red](https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:01 |
 | 37 | [A Volta Do Astro\-Rei](https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [A Volta Do Astro\-Rei](https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Meu Grande Amor](https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [BXD IN JAZZ](https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX) | 2:53 |
 | 75 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
 
-Snapshot ID: `MCxjMzllOTVkMTc5OTllY2M4MDQyZDRmYTY4NTUyMGUzYTUwYzM0MTkz`
+Snapshot ID: `MCxhMjhkNDk1ZDU2YTQ1NWZhNDMxNzQ5OTk2MjE2OGNjMGNlZWViZjM0`

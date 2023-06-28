@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 
 > ¡Cerveza, Sudor y Garage hasta la muerte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198 likes - 66 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 206 likes - 66 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 | 11 | [Cara Hecha Mierda](https://open.spotify.com/track/4uCw2JAXAIG6NpBQVWdTJL) | [Los Negretes](https://open.spotify.com/artist/3EEUPEInQCVIjDBmS4eaVX) | [Los Ultimos Diez Minutos de María Duval](https://open.spotify.com/album/3ynxNC9GjGupz45cZinavC) | 4:10 |
 | 12 | [Nightmares](https://open.spotify.com/track/2lf8U8fST2bDCSU1recY6m) | [Jay Reatard](https://open.spotify.com/artist/3cAGUcRbwsFHwKbJv8FT4T) | [Blood Visions](https://open.spotify.com/album/38njU9hUDO2ruEJN8SzEvl) | 2:12 |
 | 13 | [Cents](https://open.spotify.com/track/6kZqVWt0OA8Ltd6sf1ADb8) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Singles 2007\-2010](https://open.spotify.com/album/7qpOwPnuo4CS85QmW5tJcN) | 2:04 |
-| 14 | [Vete de Vago](https://open.spotify.com/track/4OBySmzPwjX21laH1Hseks) | [The Americonojones Experience](https://open.spotify.com/artist/42r78qjvZCPn60kETf6jNe) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 5:05 |
+| 14 | [Vete de Vago](https://open.spotify.com/track/4OBySmzPwjX21laH1Hseks) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 5:05 |
 | 15 | [Windows 98](https://open.spotify.com/track/7AXBjjN8lh8XaEaP7rYgAY) | [The Parrots](https://open.spotify.com/artist/34UH1BNxUlj7CjvivyS5Ev) | [Los Niños Sin Miedo](https://open.spotify.com/album/5jjilNYvDbMh1KdhpouY7R) | 2:30 |
 | 16 | [Bang](https://open.spotify.com/track/0H1R47NHbipGTKQKOxSCWv) | [Veo Muertos](https://open.spotify.com/artist/38CG9FwCPHtwtgLYjUeVaG) | [Tu Cola](https://open.spotify.com/album/6DCKkpkeZF8o1bfRU9sWUn) | 3:22 |
 | 17 | [Main Offender](https://open.spotify.com/track/4N9NC8JCz2hSimtbspc6Ng) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 2:33 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 | 65 | [Alpaca](https://open.spotify.com/track/1aKLAx0q6575E5EjhSIgMl) | [Deathorcist](https://open.spotify.com/artist/5TNeUEygdPYbGmqHsSfoGk) | [Alpaca](https://open.spotify.com/album/3ymomE4E1aESx1hiUg5lyt) | 4:06 |
 | 66 | [Get Up!](https://open.spotify.com/track/3MAvDDp5U2EOBA6kQCTZPv) | [TRASH DAY](https://open.spotify.com/artist/7atgGb1JGbFC3OGbuQDYiF) | [Get Up!](https://open.spotify.com/album/10Hq07ay4eXDwaNwwyiMQ2) | 2:53 |
 
-Snapshot ID: `MCxhZTBlZDEwN2EyMzJjYTIwOWIwZTcwZWRjY2M2ZjI2NDhhMTU2Njg0`
+Snapshot ID: `MCw5ZTg3Y2Y4MzRhOTE4MGMwMjRmNmEyMGFhNTk0YWYyZjQ3ZDUyY2I1`

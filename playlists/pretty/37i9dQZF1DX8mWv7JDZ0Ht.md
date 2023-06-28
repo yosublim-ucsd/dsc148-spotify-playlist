@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Giulia Be
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,528 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,620 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 75 | [Sanidade Mental](https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Sanidade Mental](https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY) | 1:59 |
 | 76 | [Retrato de Maria Lúcia](https://open.spotify.com/track/4mjBM5IAzxuKcYIgrH0oDF) | [Ítallo](https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9), [Marina Nemesio](https://open.spotify.com/artist/1jLb1hc9fbV18QKGtkclMR) | [Tarde no Walkiria](https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr) | 4:07 |
 | 77 | [Eu Vou](https://open.spotify.com/track/2BFCkaAduWLMqXOTzzjA1C) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg), [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Eu Vou](https://open.spotify.com/album/5FHWaoHjuzvpb78PspRXt3) | 3:14 |
-| 78 | [Me Leva](https://open.spotify.com/track/5qmLMvvMJm8nUAmqJOLB4h) | [Anttónia](https://open.spotify.com/artist/6ljjgnmjb0ayUyMaXVAwf7), [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1) | [Me Leva](https://open.spotify.com/album/1LB7ZCjFraDVz6f99To24u) | 2:54 |
-| 79 | [pra onde vai o amor](https://open.spotify.com/track/6Jjm1Gej7GoQWbFCNH40VX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [AMAR](https://open.spotify.com/album/2BNNeYztxm3YUL93ry9nhh) | 3:28 |
+| 78 | [pra onde vai o amor](https://open.spotify.com/track/6Jjm1Gej7GoQWbFCNH40VX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [AMAR](https://open.spotify.com/album/2BNNeYztxm3YUL93ry9nhh) | 3:28 |
+| 79 | [Me Leva](https://open.spotify.com/track/5qmLMvvMJm8nUAmqJOLB4h) | [Anttónia](https://open.spotify.com/artist/6ljjgnmjb0ayUyMaXVAwf7), [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1) | [Me Leva](https://open.spotify.com/album/1LB7ZCjFraDVz6f99To24u) | 2:54 |
 | 80 | [Sorria que Volta](https://open.spotify.com/track/3C7AFvzk3oWWUiKd6i8l2w) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Sorria que Volta](https://open.spotify.com/album/1uNYs9ighCEIJWSzwiDH2O) | 2:21 |
 
-Snapshot ID: `MCw4ZWIzOTVkYTM3MmQ1ZmFkMDg5ODAwNTY5NDgzYmExN2M5NzczMDA4`
+Snapshot ID: `MCwyZDNjMjY1YjI4ZDViZTljNzkxOTU3ZjIzZGFiZGRkNzU3YzkyODgz`

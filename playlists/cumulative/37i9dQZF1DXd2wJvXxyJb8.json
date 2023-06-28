@@ -2975,6 +2975,28 @@
     },
     {
       "album": {
+        "name": "KAROLINA",
+        "url": "https://open.spotify.com/album/6AHqWjWMhUBPlHwzJ9xVJW"
+      },
+      "artists": [
+        {
+          "name": "h$mza",
+          "url": "https://open.spotify.com/artist/0H4EMH4ocavcSymPjUL5Yr"
+        },
+        {
+          "name": "h$lil",
+          "url": "https://open.spotify.com/artist/1CFViPIECHw3a7XOvcAB5H"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "KAROLINA",
+      "url": "https://open.spotify.com/track/37FKV1o2tcqHwSi2q0Yxgp"
+    },
+    {
+      "album": {
         "name": "Em Cima Sempre",
         "url": "https://open.spotify.com/album/1z6nTcZk7ak4nJET7R3GAE"
       },
@@ -3004,7 +3026,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 146718,
       "name": "Karolina",
       "url": "https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8"

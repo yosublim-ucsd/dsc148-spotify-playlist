@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,120 songs - 2 day 16 hr 6 min
+1,121 songs - 2 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [La La La](https://open.spotify.com/track/1EmhWg1fKL7uNZNPXKPvFI) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [La La La](https://open.spotify.com/album/39uV0vJiStSIuebZ1nDma8) | 3:07 | 2022-06-24 | 2022-07-02 |
 | [La Samba](https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [La Samba](https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH) | 2:43 | 2023-03-17 | 2023-03-25 |
 | [La Vida](https://open.spotify.com/track/6DKnfTDqRV6UXfbtIXMYZn) | [Gibson Parker](https://open.spotify.com/artist/7pmS98qub9BnSfqTHvogQD), [Jon Milk](https://open.spotify.com/artist/532lWG2ChILJOu6O9qTbGF) | [La Vida](https://open.spotify.com/album/4Ib0JU8qN332l7Rg3pnhCq) | 3:12 | 2022-12-16 | 2023-01-07 |
+| [Lamar](https://open.spotify.com/track/3dLSeHlZzHOtR80FZOh7iM) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Lamar](https://open.spotify.com/album/4c5Gfky06RAq4RB3HkYYO9) | 2:50 | 2023-06-27 |  |
 | [Lasting Luv](https://open.spotify.com/track/36iYdxDLgTk96AasxJaUXv) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Lasting Luv](https://open.spotify.com/album/20dFBAkObm5jeBie83Y9hC) | 3:05 | 2022-09-23 | 2022-10-01 |
 | [Lately](https://open.spotify.com/track/63uUbh2wl4FYvzLdOKJ8nq) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Leah Rose](https://open.spotify.com/artist/7JB5It5zOFEGkYJKipsBZj) | [Lately](https://open.spotify.com/album/63Zj3oMRhWuzAHcV6bhdxS) | 3:30 | 2023-01-28 | 2023-02-11 |
 | [Latency](https://open.spotify.com/track/74HILcn049c6tYJNfpvFtz) | [PEACE MAKER!](https://open.spotify.com/artist/5L0wOxjuK5GaS1T90yNmmg) | [Latency](https://open.spotify.com/album/0pjdrfRwRSwoOqHNQ5JaFD) | 4:45 | 2022-06-24 | 2022-07-02 |

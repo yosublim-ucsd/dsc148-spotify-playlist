@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Manu Crooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,253 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,254 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 15 | [Laced Up](https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Laced Up](https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q) | 3:22 |
 | 16 | [ENERGY II](https://open.spotify.com/track/0AfVqoSqgrwP1w6GjcxOFN) | [Gino October](https://open.spotify.com/artist/4mN7hfy6TrESlZz7DMNzQI) | [ENERGY II](https://open.spotify.com/album/2Q5ie4a94M6BwiRCglDnOd) | 3:03 |
 | 17 | [Kool\-Aid](https://open.spotify.com/track/6RZseaq0Avcn1rFXFvw5G5) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [Kool\-Aid](https://open.spotify.com/album/6nox35DswydstEnDGj0FFA) | 3:12 |
-| 18 | [Better Let Me In](https://open.spotify.com/track/0o3wEUGWvGYD3a4uIrqwRG) | [Miggy](https://open.spotify.com/artist/6ZJbpAPpHzzA3IqAzO6IPu), [Eternal Engine](https://open.spotify.com/artist/6OerlvzuxuCVGYfxwuNDLB), [DAYSHAWN](https://open.spotify.com/artist/6A5zU0mCwDtWHo13LSzvX5) | [Better Let Me In](https://open.spotify.com/album/4wRlrsuVvkvZro3uvqyLAv) | 2:29 |
+| 18 | [Better Let Me In](https://open.spotify.com/track/0o3wEUGWvGYD3a4uIrqwRG) | [Miggy](https://open.spotify.com/artist/6ZJbpAPpHzzA3IqAzO6IPu), [Eternal Engine](https://open.spotify.com/artist/6OerlvzuxuCVGYfxwuNDLB), [DAYSHAWN](https://open.spotify.com/artist/6A5zU0mCwDtWHo13LSzvX5), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M), [Danté Knows](https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs) | [Better Let Me In](https://open.spotify.com/album/4wRlrsuVvkvZro3uvqyLAv) | 2:29 |
 | 19 | [Melanin](https://open.spotify.com/track/5tj4mOsSHvTaivDLlg7ZqL) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab), [lxrdmc](https://open.spotify.com/artist/5jwVGdn7Uw3im5PtL6owZZ), [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [Melanin](https://open.spotify.com/album/3HcSMiiBfkIRSzwrdqLYMV) | 2:31 |
 | 20 | [Spain](https://open.spotify.com/track/58BxlRQ1k8MPTEVFppp4Hk) | [SheWantSev](https://open.spotify.com/artist/6ZtJ96ByRPhrhusA2SInLB) | [Spain](https://open.spotify.com/album/0NTbIhmtwXBMfCIS2lrL0m) | 2:55 |
 | 21 | [YAPPA YAPPA](https://open.spotify.com/track/78SgARD9dvoL6P3E3WSXWA) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [YAPPA YAPPA](https://open.spotify.com/album/1pmOITLVQEkNOp5QCdB2A4) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Nicest](https://open.spotify.com/track/5PESfQdzPDEEoWkKEzQMqj) | [J\-MILLA](https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0), [Thir13teen](https://open.spotify.com/artist/2rczA6Nwwgc543MuPuxJNq) | [Nicest](https://open.spotify.com/album/5uTQXMkn8LjfIFAS4EDwnH) | 2:55 |
 | 100 | [plug call](https://open.spotify.com/track/59hWa9eLP3jw1eIycAx28H) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [plug call](https://open.spotify.com/album/6mUqZUlaAaHlWEfdm39k3j) | 2:34 |
 
-Snapshot ID: `MCxlZjExNTEzNDdlNDkxM2YxNTRiYTQ3MmEzOWJlMzZjYWY2M2NlMWQ4`
+Snapshot ID: `MCwxZTI5NWNhMDE1MTMxNDg0OGE1MGU2M2QwMmVjYzFiOGY0NmI3Y2Q5`

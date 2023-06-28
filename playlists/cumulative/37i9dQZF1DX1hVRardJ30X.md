@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Bizarrap & Rauw Alejandro
 
-4,518 songs - 9 day 22 hr 30 min
+4,519 songs - 9 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1190,7 +1190,8 @@
 | [Dura](https://open.spotify.com/track/0QDc73zt34RicpTSQTohWl) | [Jey G](https://open.spotify.com/artist/3O5TMxEbadMK1xbBuK5kd4), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Dura](https://open.spotify.com/album/3WX2grfkRPayqPlDGgAUms) | 3:58 | 2022-09-16 | 2022-09-24 |
 | [DURO](https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Jenny "La Sexy Voz"](https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr) | [DURO](https://open.spotify.com/album/6uE584km2jae91nY5N9yE4) | 3:38 | 2022-11-04 | 2022-11-12 |
 | [Dákiti](https://open.spotify.com/track/6Vd4yU6UaMqUDsBKmOXZ2y) | [Café](https://open.spotify.com/artist/1LABrN28jMKW5QQ6pXXXaj), [DEMOS records](https://open.spotify.com/artist/46mbWvlWV2LRkeK4md6yWv) | [Dákiti](https://open.spotify.com/album/2LZW54SRVeeaUtu2KsFdVr) | 3:43 | 2022-04-22 | 2022-04-29 |
-| [Déjalo En Visto](https://open.spotify.com/track/47muEluwzPvFgpCGo5PT0m) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW) | 3:09 | 2023-06-23 |  |
+| [Déjalo En Visto](https://open.spotify.com/track/47muEluwzPvFgpCGo5PT0m) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW) | 3:09 | 2023-06-23 | 2023-06-28 |
+| [Déjalo En Visto](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 | 2023-06-23 |  |
 | [Déjalo Ir \- Live](https://open.spotify.com/track/0GG5sGn9OC4fiazlZgatXY) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4), [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Déjalo Ir \(Live\)](https://open.spotify.com/album/1WGPvdz3m5do4yKAtcAVyp) | 4:17 | 2023-01-20 | 2023-01-28 |
 | [Déjame](https://open.spotify.com/track/61VtGWPJuMD8aaWTQQoy87) | [Melodico](https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Déjame](https://open.spotify.com/album/0ffYIWrKXdO059EGqIvygv) | 3:38 | 2022-06-24 | 2022-07-02 |
 | [Déjame Hacerme La Buena](https://open.spotify.com/track/3kMuVMPFrBcUgfK7Z6kBgV) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Ciegas](https://open.spotify.com/album/6iLktFdW6hFXyDKh7RSDuA) | 2:48 | 2023-05-19 | 2023-05-27 |

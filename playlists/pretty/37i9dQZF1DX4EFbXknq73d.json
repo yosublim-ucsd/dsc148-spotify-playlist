@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 32383,
+  "num_followers": 32493,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Njc3YzA0MGY1YTUxNjJiMTY4MjI2MGRiODJkODZkN2RmNzAyNzIy",
+  "snapshot_id": "MCwwYTI5NTMxNTc4MGEyMjBiNmFhNGI1NzM2MmQyMDFmOTc2YzU5ZmI5",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Light Fuse Get Away",
+        "url": "https://open.spotify.com/album/0El4sQIrpXQXcbyGV4J0Qx"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "duration_ms": 844693,
+      "name": "Diner",
+      "url": "https://open.spotify.com/track/3wF5YHX5PgPrIIVXL7Zgcl"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
         "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 756334,
       "name": "Scarlet Begonias / I Know You Rider - Live",
       "url": "https://open.spotify.com/track/00D3kP7H8OfHJDrZ6iU55e"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Light Fuse Get Away",
-        "url": "https://open.spotify.com/album/0El4sQIrpXQXcbyGV4J0Qx"
-      },
-      "artists": [
-        {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
-        }
-      ],
-      "duration_ms": 844693,
-      "name": "Diner",
-      "url": "https://open.spotify.com/track/3wF5YHX5PgPrIIVXL7Zgcl"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "The Baker's Dozen: Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/2b44uUnUGLSEv5cHeZJmNq"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 1445506,
-      "name": "Chalk Dust Torture (Live) - 7/28/17 Chocolate",
-      "url": "https://open.spotify.com/track/2o5CwcwWsxLY6N6jB6RArZ"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Leftover Salmon: Live",
         "url": "https://open.spotify.com/album/5dtrGyP5IdOUcXXBGRr1yM"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 763266,
       "name": "Railroad Highway",
       "url": "https://open.spotify.com/track/6hYWzQahtAyysqR5ndtvLr"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "The Baker's Dozen: Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/2b44uUnUGLSEv5cHeZJmNq"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 1445506,
+      "name": "Chalk Dust Torture (Live) - 7/28/17 Chocolate",
+      "url": "https://open.spotify.com/track/2o5CwcwWsxLY6N6jB6RArZ"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "11/17/98 Calvin Theatre, Northampton, MA",
-        "url": "https://open.spotify.com/album/02BIsMTC3oRpFYCVld4fk3"
-      },
-      "artists": [
-        {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
-        }
-      ],
-      "duration_ms": 437691,
-      "name": "Climb to Safety",
-      "url": "https://open.spotify.com/track/5rd5B3BbGkiXlyf49rGpHb"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Port Chester, NY :: 2016-12-30",
         "url": "https://open.spotify.com/album/51hoGQVue2tbf1mZ0RfTWf"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 1069773,
       "name": "Throwing Stones - Live 2016-12-30",
       "url": "https://open.spotify.com/track/7xVUy4JFdnR3a27MzHwRxY"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "11/17/98 Calvin Theatre, Northampton, MA",
+        "url": "https://open.spotify.com/album/02BIsMTC3oRpFYCVld4fk3"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "duration_ms": 437691,
+      "name": "Climb to Safety",
+      "url": "https://open.spotify.com/track/5rd5B3BbGkiXlyf49rGpHb"
     },
     {
       "added_at": "2023-04-06 15:04:32",

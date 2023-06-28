@@ -4510,7 +4510,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 236300,
       "name": "Monster 1",
       "url": "https://open.spotify.com/track/7DRpF8gLkdWJ01S29MVaOa"
@@ -4648,6 +4648,24 @@
       "duration_ms": 179405,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/2jZUVdZXDCWvw9DZPQhDnA"
+    },
+    {
+      "album": {
+        "name": "Murmuration",
+        "url": "https://open.spotify.com/album/4VX10kdyMurYSZUMr2wQ8o"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219159,
+      "name": "Murmuration",
+      "url": "https://open.spotify.com/track/3yxKPO1837XIbJca6D0oSW"
     },
     {
       "album": {
@@ -6416,7 +6434,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 264786,
       "name": "Stay in the light - reprise",
       "url": "https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh"
@@ -7390,6 +7408,32 @@
       "duration_ms": 126583,
       "name": "Waltz in Bb Minor",
       "url": "https://open.spotify.com/track/5d7h5dhyoncJuJmg0jV5gU"
+    },
+    {
+      "album": {
+        "name": "Wayfinder",
+        "url": "https://open.spotify.com/album/4C5F0OIC0ONaV5aXOKVyKM"
+      },
+      "artists": [
+        {
+          "name": "Dai Fujikura",
+          "url": "https://open.spotify.com/artist/5yFyiRuJTD0qgV64fByLMg"
+        },
+        {
+          "name": "Norio Sato",
+          "url": "https://open.spotify.com/artist/1U3WCiLneJRvIHEERMo0gt"
+        },
+        {
+          "name": "ENSEMBLE NOMAD",
+          "url": "https://open.spotify.com/artist/3avtDznurwP82lPxSYm6x0"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1370026,
+      "name": "Wayfinder - Viola Concerto - (Ensemble Version)",
+      "url": "https://open.spotify.com/track/1G9QsKn11TbI34XDiwCR5b"
     },
     {
       "album": {

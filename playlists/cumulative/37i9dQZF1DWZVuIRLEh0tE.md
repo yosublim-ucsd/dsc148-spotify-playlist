@@ -4,7 +4,7 @@
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Rochy RD
 
-169 songs - 8 hr 34 min
+170 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Fan de Tus Fotos](https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fan de Tus Fotos](https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T) | 3:17 | 2022-03-15 | 2022-04-15 |
 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 | 2022-05-27 |  |
 | [Gass Pure](https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Gass Pure](https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW) | 2:17 | 2023-01-06 |  |
-| [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2023-05-19 |  |
+| [Gogo Dance](https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [SABIDURIA](https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc) | 2:53 | 2023-05-19 |  |
+| [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2023-05-19 | 2023-06-28 |
 | [Guanguan](https://open.spotify.com/track/4qGfvoFPX3DmooDxvM9kTs) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV) | [Guanguan](https://open.spotify.com/album/0vPaYmSaXflyKSRqcOEwKc) | 2:49 | 2022-06-03 |  |
 | [Harto de la Foto](https://open.spotify.com/track/0Oh1NYBD8JUsUGXO5tbxdc) | [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Harto de la Foto](https://open.spotify.com/album/7u0FahLOjU1D67JjZgQffh) | 3:23 | 2022-03-15 | 2022-07-29 |
 | [Harto De La Foto](https://open.spotify.com/track/1H70PFtpxHzVwXLyk8THHh) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [Harto De La Foto](https://open.spotify.com/album/0DPxDEr8oD8gbJaArkfcsn) | 3:23 | 2022-06-03 | 2022-12-24 |

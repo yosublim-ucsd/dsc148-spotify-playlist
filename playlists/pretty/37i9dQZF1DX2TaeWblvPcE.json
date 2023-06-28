@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6813,
+  "num_followers": 6819,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mjk2MjI2YmU2YmQwNjQ0M2IxYWNmOWE3YmFkMGU2MjU2MjlhYTYx",
+  "snapshot_id": "MCw0ODYzNGU3NGU1MDgwYTUxYWVhYzc4Y2I3Yjk1ODY0YjNlM2E5NjQ2",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 262720,
-      "name": "Moonchild Ballad - Instrumental",
-      "url": "https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Mr. Sunshine (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 290078,
       "name": "Sad Ending",
       "url": "https://open.spotify.com/track/5Zl4NyyonixQ2cqgd4Y2Mo"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 262720,
+      "name": "Moonchild Ballad - Instrumental",
+      "url": "https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -383,8 +383,8 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The Best of BTS | Piano Cover Collection",
-        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Spring Day (Orchestra Version)",
-      "url": "https://open.spotify.com/track/7DCzN1YJlO2XbECum9zMFg"
+      "duration_ms": 232055,
+      "name": "Feel Special (Sad Ver.)",
+      "url": "https://open.spotify.com/track/1KnxMIoj6vvru9055Le3II"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Goodbye - Instrumental",
+      "url": "https://open.spotify.com/track/2tbYVzWr0YUqFC8AHcbxRx"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "Mr. Sunshine (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Goodbye - Instrumental",
-      "url": "https://open.spotify.com/track/2tbYVzWr0YUqFC8AHcbxRx"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "A Poem a Day (tvN DRAMA) OST Part.7",
         "url": "https://open.spotify.com/album/01neY4Yc8lzmHDagkIuYW2"
       },
@@ -499,8 +499,8 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "KPOP Piano Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+        "name": "The Best of BTS | Piano Cover Collection",
+        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 232055,
-      "name": "Feel Special (Sad Ver.)",
-      "url": "https://open.spotify.com/track/1KnxMIoj6vvru9055Le3II"
+      "duration_ms": 289200,
+      "name": "Spring Day (Orchestra Version)",
+      "url": "https://open.spotify.com/track/7DCzN1YJlO2XbECum9zMFg"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Another Miss Oh (Original Television Soundtrack), Pt 8",
-        "url": "https://open.spotify.com/album/2ozr4kGDH8Wmn6OjY93AwE"
-      },
-      "artists": [
-        {
-          "name": "EZ Kim",
-          "url": "https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os"
-        }
-      ],
-      "duration_ms": 241257,
-      "name": "Scattered (Inst.)",
-      "url": "https://open.spotify.com/track/5uMnT9Q0IRw3LPMHETHlp9"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 224720,
       "name": "When We Were Together - Instrumental",
       "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Another Miss Oh (Original Television Soundtrack), Pt 8",
+        "url": "https://open.spotify.com/album/2ozr4kGDH8Wmn6OjY93AwE"
+      },
+      "artists": [
+        {
+          "name": "EZ Kim",
+          "url": "https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os"
+        }
+      ],
+      "duration_ms": 241257,
+      "name": "Scattered (Inst.)",
+      "url": "https://open.spotify.com/track/5uMnT9Q0IRw3LPMHETHlp9"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "A Poem a Day (tvN DRAMA) OST Part.2",
+        "url": "https://open.spotify.com/album/65cfy1V5lJQbP32hG9dlVr"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "duration_ms": 249448,
+      "name": "Feeling - Instrumental",
+      "url": "https://open.spotify.com/track/6iuQh2MJfEqnTuWxIAyno9"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "When the Camellia Blooms (Original Television Soundtrack) Pt.3",
         "url": "https://open.spotify.com/album/2KNWyrKE9ltZRXUzO7x0tw"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 238653,
       "name": "You Are My Vitamin - Instrumental",
       "url": "https://open.spotify.com/track/1qOtB0eHvyIWZ31Ml4PhKH"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "A Poem a Day (tvN DRAMA) OST Part.2",
-        "url": "https://open.spotify.com/album/65cfy1V5lJQbP32hG9dlVr"
-      },
-      "artists": [
-        {
-          "name": "O.WHEN",
-          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
-        }
-      ],
-      "duration_ms": 249448,
-      "name": "Feeling - Instrumental",
-      "url": "https://open.spotify.com/track/6iuQh2MJfEqnTuWxIAyno9"
     },
     {
       "added_at": "2022-11-02 13:40:53",

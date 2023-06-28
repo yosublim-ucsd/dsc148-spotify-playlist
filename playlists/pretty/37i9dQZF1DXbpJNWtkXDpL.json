@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Bienvenida Generaci\u00f3n RADAR 2023! Los Aptos en portada. ",
-  "num_followers": 70540,
+  "num_followers": 70556,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2U0ODM5NjVlMjE0NWZkYTViYjM0ZDY3MWNiY2YyNmU1YjQ0Mzc2",
+  "snapshot_id": "MCxiOTY3MDZhNmQyMDRmZTgyNmMyMjFmYTliMjU0YmUyMDcxYWQzMDA4",
   "tracks": [
     {
       "added_at": "2023-06-23 19:36:50",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-06-23 19:36:50",
       "album": {
+        "name": "AS\u00cd ME ENAMOR\u00c9",
+        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "duration_ms": 177910,
+      "name": "AS\u00cd ME ENAMOR\u00c9",
+      "url": "https://open.spotify.com/track/6MaBIBdKCf1Y4jPrNY7PcA"
+    },
+    {
+      "added_at": "2023-06-23 19:36:50",
+      "album": {
         "name": "Tirando Flow Sesh #9",
         "url": "https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 187297,
       "name": "Tirando Flow Sesh #9",
       "url": "https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe"
-    },
-    {
-      "added_at": "2023-06-23 19:36:50",
-      "album": {
-        "name": "AS\u00cd ME ENAMOR\u00c9",
-        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 177910,
-      "name": "AS\u00cd ME ENAMOR\u00c9",
-      "url": "https://open.spotify.com/track/6MaBIBdKCf1Y4jPrNY7PcA"
     },
     {
       "added_at": "2023-06-23 19:36:50",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-06-23 19:36:50",
       "album": {
-        "name": "Mi Propuesta",
-        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx"
       },
       "artists": [
         {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+          "name": "Reto\u00f1os Del Rio",
+          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
         }
       ],
-      "duration_ms": 205075,
-      "name": "Mi Propuesta",
-      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
+      "duration_ms": 182229,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7"
     },
     {
       "added_at": "2023-06-23 19:36:50",
@@ -699,34 +699,18 @@
     {
       "added_at": "2023-06-23 19:36:50",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx"
+        "name": "Mi Propuesta",
+        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
       },
       "artists": [
         {
-          "name": "Reto\u00f1os Del Rio",
-          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
         }
       ],
-      "duration_ms": 182229,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7"
-    },
-    {
-      "added_at": "2023-06-23 19:36:50",
-      "album": {
-        "name": "Tres Mundos",
-        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 169548,
-      "name": "Cambio De Canci\u00f3n",
-      "url": "https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi"
+      "duration_ms": 205075,
+      "name": "Mi Propuesta",
+      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
     },
     {
       "added_at": "2023-06-23 19:36:50",
@@ -743,6 +727,22 @@
       "duration_ms": 163251,
       "name": "Fuerza De Voluntad",
       "url": "https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm"
+    },
+    {
+      "added_at": "2023-06-23 19:36:50",
+      "album": {
+        "name": "Tres Mundos",
+        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 169548,
+      "name": "Cambio De Canci\u00f3n",
+      "url": "https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi"
     },
     {
       "added_at": "2023-06-23 19:36:50",

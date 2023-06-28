@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-120 songs - 7 hr 11 min
+123 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Naku Breakup Ayyindoch](https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Naku Breakup Ayyindoch](https://open.spotify.com/album/0NC6F3B8BYECN2xB7skKqL) | 3:52 | 2023-06-02 |  |
 | [Nanu Kalchesave](https://open.spotify.com/track/31tVd72hvyazi3YM3RPa4m) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Nanu Kalchesave](https://open.spotify.com/album/1WBJy6c9vvTefmDmsf3Af0) | 1:43 | 2023-01-16 |  |
 | [Nee Kosam](https://open.spotify.com/track/4P7t79MRfREzq1Je631jpj) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nee Kosam](https://open.spotify.com/album/6P4m7QctAiX2WBjX8HJyNI) | 2:59 | 2023-05-19 | 2023-05-26 |
+| [Nee Kosam](https://open.spotify.com/track/1oML0e4HFyAvNCNrNdxpDg) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Nee Kosam](https://open.spotify.com/album/65B5rk7dznh1ma7nV0H6DO) | 3:12 | 2023-06-27 |  |
 | [Nee Mayalle](https://open.spotify.com/track/5TSYat36WSJnohMX2Vh9w4) | [Madduri Hemant](https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L) | [Nee Mayalle](https://open.spotify.com/album/2wqQzZ8OoBGrkO560T65UR) | 4:20 | 2023-05-25 |  |
 | [Nee Vallane](https://open.spotify.com/track/6j7rVNsyDzoFPNhGmNy0k2) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR) | [Nee Vallane](https://open.spotify.com/album/6hZWewhZ3b2Q4CJxK3wU2C) | 3:45 | 2023-02-13 |  |
 | [Nee Vente](https://open.spotify.com/track/57O4fulvIzyo54nkGC6Knr) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Nee Vente](https://open.spotify.com/album/0OtksZElojFdeGaM52yPLB) | 2:32 | 2023-02-14 | 2023-06-03 |
@@ -87,6 +88,7 @@
 | [Noi](https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0) | [Noi](https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V) | 4:45 | 2023-03-06 |  |
 | [Nuv Lenide](https://open.spotify.com/track/0Cz5N91JbdypWxGoQMCSLd) | [K S Harisankar](https://open.spotify.com/artist/5xChfd59lzEVrY85cCQHeU) | [Nuv Lenide](https://open.spotify.com/album/2YTVIdEEygqyJF969Va698) | 3:43 | 2022-07-18 | 2023-05-23 |
 | [Nuvve Oka Sainyam](https://open.spotify.com/track/3BF1XYVHGSB1ijw3qDVwZ5) | [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb) | [Nuvve Oka Sainyam](https://open.spotify.com/album/6ypkqH11ztrhbFQXTDYoDP) | 2:31 | 2023-03-16 | 2023-05-26 |
+| [Nuvvele](https://open.spotify.com/track/3KAAehMv5l1x239SONwaDw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Nee Kosam](https://open.spotify.com/album/65B5rk7dznh1ma7nV0H6DO) | 3:39 | 2023-06-27 |  |
 | [Nuvvunte Acoustic](https://open.spotify.com/track/3YfCpxpyXviMwEmrvSkzqx) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Nuvvunte Acoustic](https://open.spotify.com/album/1rUB6pntj9LVvjrH8f9pZR) | 3:12 | 2023-04-17 | 2023-05-23 |
 | [O Pilla \(TELUGU\)](https://open.spotify.com/track/1hmHzSfyVerXSYiY1Qq4Vx) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [O Pilla \(TELUGU\)](https://open.spotify.com/album/0lCTbSr2qTIXfRTHy2cWXp) | 3:21 | 2022-10-11 | 2023-05-23 |
 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/4vFm3dGHcpeuBAcn0mCNyi) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/2XDzMJ73yjD3ffYyWCGcbP) | 3:13 | 2022-07-18 |  |
@@ -128,5 +130,6 @@
 | [Yekamaipodhuma](https://open.spotify.com/track/54fIpgWWmUySFWwgdC8eNr) | [Sai Deva Harsha](https://open.spotify.com/artist/723KW0hW8iVh0ckRZZDUgB), [Brinda](https://open.spotify.com/artist/2GPdVUg9TCQY9B0nDUgMJt) | [Yekamaipodhuma](https://open.spotify.com/album/3pydpMyNsxUtKIW8jYFTAa) | 4:50 | 2023-02-15 | 2023-05-23 |
 | [Yemaiundacho](https://open.spotify.com/track/3S7IadsjeS0DXkAaHSREkM) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Yemaiundacho](https://open.spotify.com/album/2QfB98RhYr6Y3YqwK5tbFx) | 5:25 | 2022-07-18 | 2023-05-23 |
 | [Yenduko Manasu](https://open.spotify.com/track/0GDSYW0LaOvYZvsAGGLMDv) | [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO), [Bharath Gundi](https://open.spotify.com/artist/3iO5DnfZzC2LYxT1vndPxr), [Muralidhar Gidijala](https://open.spotify.com/artist/6lddttOlEDnsODN9Wo2e2R) | [Yenduko Manasu](https://open.spotify.com/album/5umJOE9WhS2PxPkv2iljb9) | 3:06 | 2023-01-24 |  |
+| [Yevaro \- Tune In For Love](https://open.spotify.com/track/19mpCjxB2QVnD9UPbMBRGh) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Yevaro \- Tune In For Love](https://open.spotify.com/album/4LPlNuelafPwQ6Ut6ux86S) | 3:31 | 2023-06-27 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,803 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,147 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 25 | [Same Page](https://open.spotify.com/track/39uCoYHGaI6ShUUBfqezNQ) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Same Page](https://open.spotify.com/album/7Hi0hHfhJL4q2g6aCq5b1l) | 3:23 |
 | 26 | [Toil and Trouble](https://open.spotify.com/track/7sSJOnYFVHh04AOMuY7hAx) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Toil and Trouble](https://open.spotify.com/album/4ovJJhIrbom7VNyUfIwKbd) | 2:23 |
 | 27 | [My Old Man](https://open.spotify.com/track/62bQlzpi2X72D59ROPDoAi) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [My Old Man](https://open.spotify.com/album/03JXfzPjyNoCaRNraHdokq) | 3:23 |
-| 28 | [You Can't Stay The Same](https://open.spotify.com/track/0VwC2KolUyFeL9MmNqJu0K) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 3:35 |
+| 28 | [You Can't Stay The Same](https://open.spotify.com/track/0VwC2KolUyFeL9MmNqJu0K) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 3:35 |
 | 29 | [walls](https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [character development](https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj) | 0:55 |
 | 30 | [Déjà Vu \(Electric Deluxe Session\)](https://open.spotify.com/track/69i3h4bIrfbHav4bgCvfEs) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Déjà Vu \(Electric Deluxe Session\)](https://open.spotify.com/album/1TeIcohQYwiHqg4dkUCNov) | 2:38 |
 | 31 | [Quiet Eyes](https://open.spotify.com/track/10IrJGEY0f48OGywIkZauw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Quiet Eyes](https://open.spotify.com/album/4aZBqoFGmmFpRvS8TW6jXW) | 3:37 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Paint Me](https://open.spotify.com/track/4ENQSmhYsS5kp4n1Ymi0Ah) | [Juniper](https://open.spotify.com/artist/2vUurb7JcES3VO0gkx1yGW) | [Paint Me](https://open.spotify.com/album/7oWChAVBRmb9dbLfIqGG62) | 3:45 |
 | 150 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 |
 
-Snapshot ID: `MCxhY2NkZDdiNDEwZWNmYzViZDM3MjM1ZDFmOTEyOGUyZDU1YjEzYWJm`
+Snapshot ID: `MCw0ZDgwZGI0OGRjMTdlYWQ5NjE3YTU3OWJiNjZlNmYxNTAxZjRmZWYx`

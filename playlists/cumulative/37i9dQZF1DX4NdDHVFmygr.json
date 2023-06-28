@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 189549,
       "name": "Ahlam",
       "url": "https://open.spotify.com/track/6cS2fCLwfLs7HueULbZUlJ"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 176000,
       "name": "Denbi",
       "url": "https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV"
@@ -3455,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "Mriyech",
+        "url": "https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Fadili",
+          "url": "https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208436,
+      "name": "Mriyech",
+      "url": "https://open.spotify.com/track/7735rwGeak348luaiQVRNE"
+    },
+    {
+      "album": {
         "name": "ASL",
         "url": "https://open.spotify.com/album/5ssgImQoCEOMysDTkyAkxi"
       },
@@ -3804,6 +3822,28 @@
       "duration_ms": 200534,
       "name": "Omri",
       "url": "https://open.spotify.com/track/0UoPZZKHTNXyAKvnQC0PrY"
+    },
+    {
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/7vCo5OA7SXaGSa1ntOcnHl"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Douaa Lahyaoui",
+          "url": "https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128828,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/7jUxtWSgaVzJ4C6wEA0LQ6"
     },
     {
       "album": {

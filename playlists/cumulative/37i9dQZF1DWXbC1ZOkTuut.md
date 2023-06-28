@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Peso Pluma
 
-141 songs - 7 hr 27 min
+144 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [La Sombra Más Grande](https://open.spotify.com/track/3hKH904x14DrinjO7sbQ5U) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Entre Amigos](https://open.spotify.com/album/7v1XFpws6JNWe5fwOC8vPZ) | 2:50 | 2023-05-19 | 2023-06-24 |
 | [LADY GAGA](https://open.spotify.com/track/0WCxpmafw3tOlUmiilGbsy) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 3:32 | 2023-06-23 |  |
 | [Lagrimas](https://open.spotify.com/track/7HOQatcw2VUZx6UZXQqY4M) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 4:22 | 2023-05-19 | 2023-06-24 |
-| [Las Crías Del M](https://open.spotify.com/track/3NMerQwuQPX4qUGRAdE5bd) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 3:05 | 2023-06-23 |  |
+| [Las Crías Del M](https://open.spotify.com/track/4PB83udmnANMq3uouy4kDO) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 3:03 | 2023-06-23 |  |
+| [Las Crías Del M](https://open.spotify.com/track/3NMerQwuQPX4qUGRAdE5bd) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 3:05 | 2023-06-23 | 2023-06-28 |
 | [Las Ganas](https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 4:17 | 2023-05-19 |  |
 | [Le Voy A Amanecer](https://open.spotify.com/track/1I2kZS9VXNsqlxpBgYQ4HD) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [Lo Dice El Corazón](https://open.spotify.com/album/6ph2dLGEKh4XvWRx6kCVB7) | 2:45 | 2023-05-19 |  |
 | [Lider En La Region](https://open.spotify.com/track/2kSgafErZRSLWAyr3Kgqoh) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [INSURGENTE](https://open.spotify.com/album/3EF9OFj3hQxwiNQrEbLqjr) | 3:39 | 2023-06-16 |  |
@@ -88,7 +89,8 @@
 | [Los 3 Tipos](https://open.spotify.com/track/0gAh4p8QTyCms9HnGuLF7K) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 3:15 | 2023-05-19 |  |
 | [Los Mitotes \(En Vivo\)](https://open.spotify.com/track/7nwBCUNXwvcDxXk13zrqEX) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Desde La Capital Del Corrido, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/60ZMVCYSqlQ5ncMIH0Z92q) | 3:15 | 2023-05-19 |  |
 | [Los Ninis](https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:26 | 2023-05-19 |  |
-| [Los Pasajes Del Sera](https://open.spotify.com/track/4dDXH4yw3zDjI0CNyHy426) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 2:45 | 2023-06-23 |  |
+| [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 | 2023-06-23 |  |
+| [Los Pasajes Del Sera](https://open.spotify.com/track/4dDXH4yw3zDjI0CNyHy426) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 2:45 | 2023-06-23 | 2023-06-28 |
 | [LUNA](https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:43 | 2023-06-23 |  |
 | [Marco Arturo \- En Vivo](https://open.spotify.com/track/59bBMJRygWwrolsqhLLNT6) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Jorge Santacruz Y Su Grupo Quinto Elemento](https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ) | [Bienvenidos A Casa \(En Vivo\)](https://open.spotify.com/album/2OVAUCW5Zv1ISWd1lQW1qr) | 2:24 | 2023-05-19 |  |
 | [Marito Choclos](https://open.spotify.com/track/1VuOtZn9Xb7ac0Jssqsy7G) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 4:00 | 2023-05-19 |  |
@@ -97,7 +99,8 @@
 | [Me Haces Tan Bien](https://open.spotify.com/track/6Z2Aq7uaWQZAUlDIIvrTwz) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 2:48 | 2023-05-19 |  |
 | [Me Perdí De Un Amor](https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Segunda Temporada](https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt) | 2:37 | 2023-05-19 |  |
 | [Mi Mejor Plan Eres Tu](https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:56 | 2023-05-19 |  |
-| [Mi Nivel](https://open.spotify.com/track/4TjNTspwdEi9eEZj9NlsE9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 2:29 | 2023-06-23 |  |
+| [Mi Nivel](https://open.spotify.com/track/5EOQKKLbi2Xv6KzMd6pK19) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:27 | 2023-06-23 |  |
+| [Mi Nivel](https://open.spotify.com/track/4TjNTspwdEi9eEZj9NlsE9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 2:29 | 2023-06-23 | 2023-06-28 |
 | [Mini Castillo](https://open.spotify.com/track/2CYlMOCS6sx7aF4AZ7GvOQ) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Se Alinearon Los Planetas](https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ) | 3:11 | 2023-05-19 |  |
 | [Más Que Tu Amigo](https://open.spotify.com/track/5sBCpZI95tSRPa7FSNAJsl) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:11 | 2023-05-19 |  |
 | [Mía, Mía, Mía](https://open.spotify.com/track/3TdSdPw3WsKeATJTASUWsq) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Segunda Temporada](https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt) | 2:48 | 2023-05-19 |  |

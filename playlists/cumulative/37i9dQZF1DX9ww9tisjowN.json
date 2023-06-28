@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "CODE GE4SS",
+        "url": "https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "CODE GE4SS",
+      "url": "https://open.spotify.com/track/5OPX3g6IIYtLQJe6GEcXsN"
+    },
+    {
+      "album": {
         "name": "Comedy",
         "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
       },
@@ -706,7 +724,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 185668,
       "name": "Love Groovin'",
       "url": "https://open.spotify.com/track/5vXhl78aOAmAV1sLKJotwI"
@@ -963,6 +981,32 @@
     },
     {
       "album": {
+        "name": "PEEK-A-BOO [feat. \u9234\u6728\u512a\u4eba & \u304b\u3066\u3043\u3093(\u89d2\u91ce\u96bc\u6597) with \u9ebb\u5e03\u5b66\u5712OB+\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9]",
+        "url": "https://open.spotify.com/album/0scNuFoGoUmCWEC8VNHZiM"
+      },
+      "artists": [
+        {
+          "name": "PIKOTARO",
+          "url": "https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2"
+        },
+        {
+          "name": "\u9234\u6728\u512a\u4eba",
+          "url": "https://open.spotify.com/artist/5OcbTVDfV9qxI7va2CwpNX"
+        },
+        {
+          "name": "\u304b\u3066\u3043\u3093(\u89d2\u91ce\u96bc\u6597)",
+          "url": "https://open.spotify.com/artist/3pFcOAkJezpIkzIFurpXA9"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "PEEK-A-BOO - feat. \u9234\u6728\u512a\u4eba & \u304b\u3066\u3043\u3093(\u89d2\u91ce\u96bc\u6597) with \u9ebb\u5e03\u5b66\u5712OB+\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
+      "url": "https://open.spotify.com/track/0BghOAtqgizpuVtJFUCFxn"
+    },
+    {
+      "album": {
         "name": "WINK",
         "url": "https://open.spotify.com/album/105329tEvmR4S5ofi0EZig"
       },
@@ -1198,7 +1242,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 125333,
       "name": "Sugar Junky",
       "url": "https://open.spotify.com/track/6fMnx6sbjk9saMZGlSevrz"

@@ -2,7 +2,7 @@
 
 ### [R&B Latino](https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3)
 
-> Disfruta del más fino R&B creado en el continente y España\. Latin Mafia en portada.
+> Disfruta del más fino R&B creado en el continente y España\. Legallyrxx en portada.
 
 252 songs - 13 hr 18 min
 

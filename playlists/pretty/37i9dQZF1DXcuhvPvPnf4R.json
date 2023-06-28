@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 5753,
+  "num_followers": 5769,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzVkYjcwZDAyZjk0ZmU2NmU4ZjY1MGU4ZDA0NmIwM2FhZGNhZmE3",
+  "snapshot_id": "MCw3MTYzOTA1Njg4ZTdjYWIwODljMjBkNzI3ZTUyYTFkNjRmMmFkOWI3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "The Big Bang",
+        "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Gangsta (Remix)",
         "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 216000,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "The Big Bang",
-        "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
     },
     {
       "added_at": "2022-10-01 16:43:03",

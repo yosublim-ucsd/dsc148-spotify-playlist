@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7?si=Y2MD7VxxSWO\-YUyBY\-DseQ">راغب علامة </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,638 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,756 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Ana Mesh Ma'ahom](https://open.spotify.com/track/5QT7rd7uxV3CWBVemTJoR7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Ana Mesh Ma'ahom](https://open.spotify.com/album/2c0lYJykdAYkNQLvUtBFuE) | 4:22 |
 | 50 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 |
 
-Snapshot ID: `MCwzMzQ1ZDkzZDlmZmZkZTU4YWY3NjU2ZjRkMzM2NmZhY2IzMDAyZjli`
+Snapshot ID: `MCxkNjRhYjI1ODNmZDhkYzIxYjBhMjFmODUyOGUyY2NmNGFhNGRmMjE2`

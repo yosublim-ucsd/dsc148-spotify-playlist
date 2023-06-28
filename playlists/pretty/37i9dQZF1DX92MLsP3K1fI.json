@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Emilia y LUDMILLA en portada.",
-  "num_followers": 68868,
+  "num_followers": 68898,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjA3NzM4MjBkNmYwYWQ4OTY5NjUxMWEzNjM4Nzc5MmNhYTIyOGY1",
+  "snapshot_id": "MCw0NzgyMTNiMmRkMDFkNjE0ZWRjZmMwYWViYmNlYzA1YWZjNGQ0YTc3",
   "tracks": [
     {
       "added_at": "2023-05-19 16:47:32",
@@ -687,22 +687,18 @@
     {
       "added_at": "2023-05-19 16:47:32",
       "album": {
-        "name": "Bendita",
-        "url": "https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr"
+        "name": "OTRA CANCI\u00d3N DE AMOR",
+        "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
       },
       "artists": [
         {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        },
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
         }
       ],
-      "duration_ms": 199138,
-      "name": "Bendita",
-      "url": "https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS"
+      "duration_ms": 99173,
+      "name": "Cosas Por Decir",
+      "url": "https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i"
     },
     {
       "added_at": "2023-05-19 16:47:32",
@@ -723,6 +719,26 @@
     {
       "added_at": "2023-05-19 16:47:32",
       "album": {
+        "name": "Bendita",
+        "url": "https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 199138,
+      "name": "Bendita",
+      "url": "https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS"
+    },
+    {
+      "added_at": "2023-05-19 16:47:32",
+      "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 103520,
       "name": "X Tu Casa",
       "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
-    },
-    {
-      "added_at": "2023-05-19 16:47:32",
-      "album": {
-        "name": "OTRA CANCI\u00d3N DE AMOR",
-        "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
-      },
-      "artists": [
-        {
-          "name": "Nashy-Nashai",
-          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
-        }
-      ],
-      "duration_ms": 99173,
-      "name": "Cosas Por Decir",
-      "url": "https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i"
     },
     {
       "added_at": "2023-05-19 16:47:32",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-05-19 16:47:32",
       "album": {
-        "name": "Darte Un Beso - Spotify Singles",
-        "url": "https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML"
+        "name": "Tus Besos",
+        "url": "https://open.spotify.com/album/5S9MvHxcWp1l7fwhxm0r42"
       },
       "artists": [
         {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Darte Un Beso - Spotify Singles",
-      "url": "https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48"
+      "duration_ms": 182994,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN"
     }
   ],
   "unique_name": "Oye Pop",

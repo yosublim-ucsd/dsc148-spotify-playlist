@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Destra ",
-  "num_followers": 181009,
+  "num_followers": 181091,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTBmYzQ4ZDFjNjcwM2RkOWQ3ZjY2Yzk2YWI0NzQ5ZTg2Y2YxNTkw",
+  "snapshot_id": "MCw0NzAwNmVjYjI4ZGY5Y2I4MTEzNGQ0MDNmNTliMTFlNzY0NGUyYmE3",
   "tracks": [
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "YAGO",
-        "url": "https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa"
-      },
-      "artists": [
-        {
-          "name": "Freetown Collective",
-          "url": "https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG"
-        },
-        {
-          "name": "DJ Private Ryan",
-          "url": "https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp"
-        }
-      ],
-      "duration_ms": 207192,
-      "name": "Feel The Love",
-      "url": "https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Osaka Riddim (Soca 2019 Trinidad and Tobago Carnival) (Edited Version)",
         "url": "https://open.spotify.com/album/1fTFGTyXRg6QhDuWx9bvfv"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 211856,
       "name": "Right for Somebody",
       "url": "https://open.spotify.com/track/2uYttFNneozAQKGf2jgoS4"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "YAGO",
+        "url": "https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa"
+      },
+      "artists": [
+        {
+          "name": "Freetown Collective",
+          "url": "https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG"
+        },
+        {
+          "name": "DJ Private Ryan",
+          "url": "https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp"
+        }
+      ],
+      "duration_ms": 207192,
+      "name": "Feel The Love",
+      "url": "https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 210210,
+      "name": "Shake Yuh Bum",
+      "url": "https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "Happy Papi",
         "url": "https://open.spotify.com/album/6hIspcoRzN0T6Cj7zUgzEg"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 180480,
       "name": "Happy Papi",
       "url": "https://open.spotify.com/track/5UybbwE6CyCt5U3XuP1dOP"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 210210,
-      "name": "Shake Yuh Bum",
-      "url": "https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Faluma",
-      "url": "https://open.spotify.com/track/0jIiX4Vb30zGHX9aLOHhIR"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 151250,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Faluma",
+      "url": "https://open.spotify.com/track/0jIiX4Vb30zGHX9aLOHhIR"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
+        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
+        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
+      },
+      "artists": [
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        }
+      ],
+      "duration_ms": 194222,
+      "name": "Yuh Bad (No Stressing)",
+      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
         "name": "In The Mood",
         "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 166809,
       "name": "Buddy Bye (feat. Konshens & Noah Powa)",
       "url": "https://open.spotify.com/track/55clF0PIQvjkXfRqrNI7jS"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
-        "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
-        "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
-      },
-      "artists": [
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        }
-      ],
-      "duration_ms": 194222,
-      "name": "Yuh Bad (No Stressing)",
-      "url": "https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m"
     },
     {
       "added_at": "2023-05-15 02:33:18",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-05-15 02:33:18",
       "album": {
-        "name": "Forever Vol.1",
-        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
-      },
-      "artists": [
-        {
-          "name": "Lord Kitchener",
-          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
-        }
-      ],
-      "duration_ms": 365240,
-      "name": "Sugar Bum Bum",
-      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
-    },
-    {
-      "added_at": "2023-05-15 02:33:18",
-      "album": {
         "name": "Kan Kan Riddim",
         "url": "https://open.spotify.com/album/66FwUGgw5yPa4fql5ZtKkx"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 257600,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
+    },
+    {
+      "added_at": "2023-05-15 02:33:18",
+      "album": {
+        "name": "Forever Vol.1",
+        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        }
+      ],
+      "duration_ms": 365240,
+      "name": "Sugar Bum Bum",
+      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
     }
   ],
   "unique_name": "Massive Soca Hits",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjEwZjJiZDQyYTM0ZTE2NWJlNjVjY2M2YjE4NjA0OGYyYzM4NjM5",
+  "snapshot_id": "MCw4YWM4ZThhYjFjMmFjZDk5NjVmYjQ4MDg1ZjZlYTI0YTc5OTcyMWQy",
   "tracks": [
     {
       "added_at": "2023-06-22 15:14:21",
@@ -444,7 +444,7 @@
       "added_at": "2023-06-22 15:14:21",
       "album": {
         "name": "Napping",
-        "url": "https://open.spotify.com/album/0onTYCoBPN2eFQsDWQUlAL"
+        "url": "https://open.spotify.com/album/7jH1JHG94gRMNicnluBVT1"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
         }
       ],
-      "duration_ms": 115465,
+      "duration_ms": 115519,
       "name": "Napping",
-      "url": "https://open.spotify.com/track/7MO7WcQUSM1zr4WZpxvVSK"
+      "url": "https://open.spotify.com/track/1E7VlV1Stul9E9UCasIPD7"
     },
     {
       "added_at": "2023-06-22 15:14:21",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-06-22 15:14:21",
       "album": {
-        "name": "Do the Right Thing",
-        "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
-      },
-      "artists": [
-        {
-          "name": "Shuko",
-          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
-        },
-        {
-          "name": "Hannah V",
-          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
-        }
-      ],
-      "duration_ms": 121320,
-      "name": "Do the Right Thing",
-      "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
-    },
-    {
-      "added_at": "2023-06-22 15:14:21",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 142677,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
+    },
+    {
+      "added_at": "2023-06-22 15:14:21",
+      "album": {
+        "name": "Do the Right Thing",
+        "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
+      },
+      "artists": [
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        },
+        {
+          "name": "Hannah V",
+          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
+        }
+      ],
+      "duration_ms": 121320,
+      "name": "Do the Right Thing",
+      "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
     },
     {
       "added_at": "2023-06-22 15:14:21",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-06-22 15:14:21",
       "album": {
+        "name": "Paddling pool",
+        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
+      },
+      "artists": [
+        {
+          "name": "S I M",
+          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
+        }
+      ],
+      "duration_ms": 167874,
+      "name": "Paddling pool",
+      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
+    },
+    {
+      "added_at": "2023-06-22 15:14:21",
+      "album": {
         "name": "Couch Business",
         "url": "https://open.spotify.com/album/6AR8RyloFDRFf30SCzPB3x"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 104506,
       "name": "Fog\u00e0o Love",
       "url": "https://open.spotify.com/track/0sJ6oCjiYDCk0LH5ZpEQ4Y"
-    },
-    {
-      "added_at": "2023-06-22 15:14:21",
-      "album": {
-        "name": "Paddling pool",
-        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
-      },
-      "artists": [
-        {
-          "name": "S I M",
-          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
-        }
-      ],
-      "duration_ms": 167874,
-      "name": "Paddling pool",
-      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
     },
     {
       "added_at": "2023-06-22 15:14:21",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-06-22 15:14:21",
       "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
+    },
+    {
+      "added_at": "2023-06-22 15:14:21",
+      "album": {
         "name": "Clout Chaser",
         "url": "https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 112065,
       "name": "Clout Chaser",
       "url": "https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5"
-    },
-    {
-      "added_at": "2023-06-22 15:14:21",
-      "album": {
-        "name": "easy",
-        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
-      },
-      "artists": [
-        {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "easy",
-      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
     },
     {
       "added_at": "2023-06-22 15:14:21",

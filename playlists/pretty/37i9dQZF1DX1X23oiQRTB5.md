@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Werenoi au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,078 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,564 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 |
 | 40 | [GOGETA](https://open.spotify.com/track/7qyTPWGS7llsgSbwXDDW7e) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7) | [GOGETA](https://open.spotify.com/album/2OTTq3fLrommVqcfGplayX) | 2:48 |
 
-Snapshot ID: `MCxkMzE5YWUyZDAwYjc1MDQ4YzFlZjdkMGU0NWI5OTRjOGUzMDM1M2E2`
+Snapshot ID: `MCwwNWMxMjhiNjQwYWU0OGQ5MjRiODA3MzY2Y2IzNjgzNWY3OGY5ZWIz`

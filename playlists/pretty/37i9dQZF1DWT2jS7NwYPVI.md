@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Militarie Gun
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,062 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,119 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 100 | [Hex](https://open.spotify.com/track/2uoXrVoBd2HElECNhtgcF8) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Hex](https://open.spotify.com/album/4pVGk3QdNaRz6J6WFIM0dv) | 2:34 |
 | 101 | [\[swiffer\]](https://open.spotify.com/track/2NkAY2jusfzCksQ8QD2awT) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r), [Alysdare](https://open.spotify.com/artist/6yOBXIYRbIDaUgqa9frzxD) | [\[swiffer\]](https://open.spotify.com/album/4ePiQiVJMBua2tZhAhst7D) | 2:15 |
 
-Snapshot ID: `MCw0ZWI4Y2ZjMDE1MTc2MDhmZDBmZjJiM2UxMDFhZTczNjRmZDE5MTZj`
+Snapshot ID: `MCwwZjZjMWE5OTU3MGQ3NTAyN2Q2YjRmOTBmOWRlNDcwNTM5ZGEzZjM3`

@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65206,
+  "num_followers": 65212,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmU2MWE1NDM1NGE5NjBiMWY0OTc0NDNiYmJhNDE3NTgyNzU2NzY5",
+  "snapshot_id": "MCw4NjAzMDgyZDE1YTRmMjcxMzEwNmU0YzdhNGFlMDc2OTIwNDAwYjFj",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Only Teardrops",
-        "url": "https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp"
-      },
-      "artists": [
-        {
-          "name": "Emmelie de Forest",
-          "url": "https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Only Teardrops",
-      "url": "https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Bucks Fizz",
         "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Love Shine a Light (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/29gNuIQQWjYgtsDOeoYkTk"
+        "name": "Only Teardrops",
+        "url": "https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp"
       },
       "artists": [
         {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+          "name": "Emmelie de Forest",
+          "url": "https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G"
         }
       ],
-      "duration_ms": 187947,
-      "name": "Love Shine a Light",
-      "url": "https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz"
+      "duration_ms": 183240,
+      "name": "Only Teardrops",
+      "url": "https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -331,18 +315,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Rise Like A Phoenix",
-        "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
+        "name": "Love Shine a Light (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/29gNuIQQWjYgtsDOeoYkTk"
       },
       "artists": [
         {
-          "name": "Conchita Wurst",
-          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
         }
       ],
-      "duration_ms": 181989,
-      "name": "Rise Like A Phoenix",
-      "url": "https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3"
+      "duration_ms": 187947,
+      "name": "Love Shine a Light",
+      "url": "https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -359,6 +343,22 @@
       "duration_ms": 171080,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/6zBdVVksaTQeAzwfszbovz"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Rise Like A Phoenix",
+        "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
+      },
+      "artists": [
+        {
+          "name": "Conchita Wurst",
+          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
+        }
+      ],
+      "duration_ms": 181989,
+      "name": "Rise Like A Phoenix",
+      "url": "https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3"
     },
     {
       "added_at": "2023-05-05 17:20:54",

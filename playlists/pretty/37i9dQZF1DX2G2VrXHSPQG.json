@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 66745,
+  "num_followers": 66790,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDA0NjhmMmVmYWVmYmM0NGNiMzgxNmQ5ODY4MGQyMWQxMWZmOGE3",
+  "snapshot_id": "MCxiZDNiZmNkYmUxMjVhMDE2Njk0NTJkNjQyZTNlZmEyZDFiNzk4OTQw",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 241800,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     }
   ],
   "unique_name": "Your Alternative",

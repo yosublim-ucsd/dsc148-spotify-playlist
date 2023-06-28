@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Neima Ezza, Rhove, Lazza, Sfera Ebbasta e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,367 likes - 85 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,378 likes - 85 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [SCEICCO](https://open.spotify.com/track/2BEJ7Z4Suob9ZFKMsY01Ln) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [SCEICCO](https://open.spotify.com/album/1TOcWdGxbf3OUUjB8eMXO4) | 2:34 |
 | 85 | [Vero \(feat\. 8blevrai & Swan\)](https://open.spotify.com/track/16fa0zXHJZfTMjtsbfXCvB) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Swan](https://open.spotify.com/artist/5vjkHRMoB3hWGn3BvNqGcj) | [EP 5/2 \(feat\. 8blevrai\)](https://open.spotify.com/album/1MjbO2LyNAOeYlE4NlfIb1) | 1:52 |
 
-Snapshot ID: `MCwyNzFmNWFkMGEzNDNmZGFlMjQxZmVlNzE2ZTQ2NzdjMjZlNTFkNDVk`
+Snapshot ID: `MCwxNWE5YWYwMWViNDQwYTYzZjQ1Y2M2NzZmZWFiZjEyMjU5YTJkMWU4`

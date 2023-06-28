@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 137575,
+  "num_followers": 137604,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTFhOTE0ZmQ0NmI4N2VhM2I3MmVlNGQ2YWIyMGEwNTVhYWNhZWEz",
+  "snapshot_id": "MCxiMzg1ZjgzMTcwZWQwNjFkYzE0YTZiZWM4NzE4YmMyZjMyZjQxNTNk",
   "tracks": [
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
+      },
+      "artists": [
+        {
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+        }
+      ],
+      "duration_ms": 135499,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
         "name": "AGEN WIDA",
         "url": "https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 199047,
       "name": "AGEN WIDA",
       "url": "https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "So What",
-        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
-      },
-      "artists": [
-        {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
-        }
-      ],
-      "duration_ms": 135499,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1731,30 +1731,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
-      },
-      "artists": [
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        },
-        {
-          "name": "dayvan",
-          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
-        },
-        {
-          "name": "Evar",
-          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
-        }
-      ],
-      "duration_ms": 160149,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY"
       },
@@ -1775,6 +1751,30 @@
       "duration_ms": 192760,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "dayvan",
+          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        }
+      ],
+      "duration_ms": 160149,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8"
     },
     {
       "added_at": "2023-05-15 15:50:08",

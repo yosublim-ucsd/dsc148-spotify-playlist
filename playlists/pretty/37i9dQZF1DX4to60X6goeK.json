@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 44681,
+  "num_followers": 44715,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjc5YTVkMTIzZDUwNTZjMmZkYjk5NWZiMjI1YTg4Y2ZiOWFkYjRh",
+  "snapshot_id": "MCxhMTg0MDdkYTEzODlhYjlhMmUxOTVmYzRlNDMxMjI0YjcyNGNkMDQ2",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Lady Petrol",
-        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Lady Petrol",
-      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 367542,
       "name": "Empire",
       "url": "https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Lady Petrol",
+        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 309986,
+      "name": "Lady Petrol",
+      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
     },
     {
       "added_at": "2022-08-12 16:34:51",

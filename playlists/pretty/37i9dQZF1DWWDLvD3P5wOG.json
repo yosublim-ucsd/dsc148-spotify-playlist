@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks you can catch a wine to.",
-  "num_followers": 525488,
+  "num_followers": 525878,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGQ3MzE4MjEzODMxNzNiYTY4YjkxYjdlZWRmNGMzMmM3MTIwMTgw",
+  "snapshot_id": "MCw4MmY1OGEwOWIxYzMzNDQzYWIwOWFiZjZjODgzOWYyNWZmNWU2ODk3",
   "tracks": [
     {
       "added_at": "2021-02-24 08:50:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Broad Out",
-        "url": "https://open.spotify.com/album/3nwS8SobIYJ74TywjJfiax"
-      },
-      "artists": [
-        {
-          "name": "RDX",
-          "url": "https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Broad Out - Raw",
-      "url": "https://open.spotify.com/track/3pTQs1htsNk3NYKDpturZU"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Dance & Sweep! - Adventures Of The Energy God",
         "url": "https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 128240,
       "name": "Nuh Linga",
       "url": "https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Broad Out",
+        "url": "https://open.spotify.com/album/3nwS8SobIYJ74TywjJfiax"
+      },
+      "artists": [
+        {
+          "name": "RDX",
+          "url": "https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Broad Out - Raw",
+      "url": "https://open.spotify.com/track/3pTQs1htsNk3NYKDpturZU"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
+        "name": "Strictly The Best Vol 33",
+        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Willie Bounce",
+      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
         "name": "First Semester: Dancehall",
         "url": "https://open.spotify.com/album/6dMkzA6Tv5vyMCjbW3ccdx"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 158955,
       "name": "Click Mi Finger",
       "url": "https://open.spotify.com/track/2gUCdANxjdifegHVvt9BVC"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
-        "name": "Kotch EP",
-        "url": "https://open.spotify.com/album/0xXIL4sAD2GXXjUk1NFV2y"
-      },
-      "artists": [
-        {
-          "name": "RDX",
-          "url": "https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws"
-        }
-      ],
-      "duration_ms": 189013,
-      "name": "Bend Ova",
-      "url": "https://open.spotify.com/track/6ajqSWogEt8ngg7ErtEaVa"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Strictly The Best Vol 33",
-        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
+        "name": "Kotch EP",
+        "url": "https://open.spotify.com/album/0xXIL4sAD2GXXjUk1NFV2y"
       },
       "artists": [
         {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+          "name": "RDX",
+          "url": "https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws"
         }
       ],
-      "duration_ms": 250520,
-      "name": "Willie Bounce",
-      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
+      "duration_ms": 189013,
+      "name": "Bend Ova",
+      "url": "https://open.spotify.com/track/6ajqSWogEt8ngg7ErtEaVa"
     },
     {
       "added_at": "2021-02-24 08:50:00",

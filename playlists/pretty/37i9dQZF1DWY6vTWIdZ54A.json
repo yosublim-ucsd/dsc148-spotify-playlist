@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Royal Blood",
-  "num_followers": 468533,
+  "num_followers": 468759,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTM5MzY3NzcwOTZlZjQ3NDk0NjIyZjhhNjYzYjQ2NTZlMjhiZmUw",
+  "snapshot_id": "MCw4ZTYzN2E5NjdmNTc2OTQyZjY5NmNiYzI2NjU3OTI2ZWNiZTNiNmQ5",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Asking For A Ride",
         "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Sound & Color",
-        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
+        "name": "Heart On",
+        "url": "https://open.spotify.com/album/2WcK8D30CYZQxCUv5mEnMT"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
         }
       ],
-      "duration_ms": 232546,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
+      "duration_ms": 135853,
+      "name": "Wannabe in L.A",
+      "url": "https://open.spotify.com/track/3B7mbMbbcuKdfWssAcyvG8"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Heart On",
-        "url": "https://open.spotify.com/album/2WcK8D30CYZQxCUv5mEnMT"
-      },
-      "artists": [
-        {
-          "name": "Eagles Of Death Metal",
-          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
-        }
-      ],
-      "duration_ms": 135853,
-      "name": "Wannabe in L.A",
-      "url": "https://open.spotify.com/track/3B7mbMbbcuKdfWssAcyvG8"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Pressure & Time",
         "url": "https://open.spotify.com/album/7uVg7wY0NO9dtxGQOgxZgA"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "-!- (Deluxe)",
-        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 224306,
-      "name": ".CoDA.",
-      "url": "https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "This is Our Life",
         "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 224306,
       "name": "This is Our Life",
       "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "-!- (Deluxe)",
+        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 224306,
+      "name": ".CoDA.",
+      "url": "https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "In The Wild (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 181797,
       "name": "Raised By Wolves",
       "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2023-06-09 04:00:00",

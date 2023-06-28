@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:7Ao4PRYc1rFAZVkr0FKnrt">INVERNO</a>
+> Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:3rDfIbUdjA6QL4Y32wEpb2">GBRESCI</a>
 
-805 songs - 1 day 16 hr 11 min
+810 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [cervo](https://open.spotify.com/track/3HVqnTNYNYmQ3KiSJ24sPb) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [cervo](https://open.spotify.com/album/76kKupZrSsTkqvN8DCsymN) | 3:33 | 2023-03-16 | 2023-04-19 |
 | [che bel Q](https://open.spotify.com/track/552b4OFgtQnlcyIfAnhERN) | [G Sepe](https://open.spotify.com/artist/5UxongVGYs56VccNMmnIgz), [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk) | [che bel Q](https://open.spotify.com/album/56fkH0e1MwkDTBkFMyPC75) | 3:21 | 2023-03-16 | 2023-04-19 |
 | [Che caldo che c'è](https://open.spotify.com/track/30rqAn2cCVQ3qF9PtODUba) | [Esma](https://open.spotify.com/artist/150z0GzBQU8W02VLhw1dCF) | [Che caldo che c'è](https://open.spotify.com/album/1ywzpVez42m0ecGZx6be7p) | 3:02 | 2022-07-22 | 2022-08-27 |
+| [CHE CAZZO STAI FACENDO?](https://open.spotify.com/track/4SM47IqsIvb4ZmbBHx2FIR) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [CHE CAZZO STAI FACENDO?](https://open.spotify.com/album/31NOhXA45tGA3kqG16X5t4) | 1:53 | 2023-06-27 |  |
 | [Che ce ne fotte](https://open.spotify.com/track/2jXqI9XFWwGS735IF4VJy3) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Che ce ne fotte](https://open.spotify.com/album/513N1be9b9WpVgTT9crAet) | 2:40 | 2022-07-14 | 2022-09-12 |
 | [che ci vuoi fare?](https://open.spotify.com/track/07qsn3su8RW8cxFkYlWT7b) | [Juli](https://open.spotify.com/artist/2sK3zc7YU0Jhx9VczDkCkF) | [che ci vuoi fare?](https://open.spotify.com/album/7H5bgp5mtygQ1pFSk6VqkR) | 2:22 | 2022-03-24 | 2022-05-20 |
 | [Che sera](https://open.spotify.com/track/41JsNduRhAuFLEU7gy9ckf) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Che sera](https://open.spotify.com/album/4VdWz9znOuVApJnqBcBcbl) | 4:11 | 2022-07-14 | 2023-01-06 |
@@ -312,6 +313,7 @@
 | [How](https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD) | [dollsaway](https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT) | [How](https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt) | 2:39 | 2023-02-16 | 2023-04-05 |
 | [How I Became A House](https://open.spotify.com/track/0D8ehZMw3J9KO0ELNXMyyh) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH) | [How I Became A House](https://open.spotify.com/album/4Vr4N8QUW8kCerju7BJgyh) | 2:59 | 2022-01-06 | 2022-02-18 |
 | [Humanitas](https://open.spotify.com/track/1ACsftfzft7sCqccfIQovV) | [Coma](https://open.spotify.com/artist/2K6TBg4VeFmf4oXv9TxjOf), [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU) | [Exp](https://open.spotify.com/album/7egNgfWvHZGv8t3GQqwVuK) | 2:07 | 2022-05-27 | 2022-07-01 |
+| [Hype](https://open.spotify.com/track/7zcmoCMq7ZlLL6GXnqfAJO) | [I Sentinelle](https://open.spotify.com/artist/1BITu6YeNG6WCgJHxU80sa) | [Hype](https://open.spotify.com/album/7c8gbDswIM3vkdDAOhkkpj) | 2:40 | 2023-06-27 |  |
 | [Hyperion](https://open.spotify.com/track/7excphdpqwL6l5vMMd0da4) | [Itaca Reveski](https://open.spotify.com/artist/49GUPy9DIYPq3yKqCUs1ev) | [Hyperion](https://open.spotify.com/album/5joDcRBcJ39guv4r5mqJEa) | 4:12 | 2022-02-17 | 2022-03-04 |
 | [Hyperpunk](https://open.spotify.com/track/3aJqoxQ1LmgcH2jucTMIrz) | [Peri](https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl) | [Hyperpunk](https://open.spotify.com/album/3sBoXMMJ5Jfpy0rWIQCXUX) | 2:22 | 2022-06-30 | 2022-07-23 |
 | [I Just Lost Marcel](https://open.spotify.com/track/3xiKxZGQEWanBehKjLXZIX) | [Biemsix](https://open.spotify.com/artist/1akamESwYotC264hdUKCzY) | [Highway High Way Too High](https://open.spotify.com/album/4XyQa6nd1wqIZpXOhYtP16) | 6:16 | 2022-06-23 | 2022-07-23 |
@@ -355,6 +357,7 @@
 | [Kubrick a gela](https://open.spotify.com/track/0CyeNX6CdmlR52K2SMKUAa) | [Pufuleti](https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A), [Zutera](https://open.spotify.com/artist/3KQur0YWqvQYgn5PdXHnn0) | [Kubrick a gela](https://open.spotify.com/album/6uvUq8eIrPfa7N6AUdTRVH) | 2:16 | 2022-02-24 | 2022-03-18 |
 | [Kucina Disco Dance](https://open.spotify.com/track/0DUxLdVsLX5PSqC8ZGNEqG) | [Samuele Stanco e i Gabbiani Malvagi](https://open.spotify.com/artist/13OTLSSmiVx2KbPqLGU95f) | [Kucina Disco Dance](https://open.spotify.com/album/3hCLqhbDeeXhLIkr2y8wpG) | 3:08 | 2023-03-02 | 2023-03-25 |
 | [L'amore su Tinder](https://open.spotify.com/track/5epRVbuwPkQBzG9WhMGcJJ) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [L'amore su Tinder](https://open.spotify.com/album/52F2qZX6vqgGh8jbuv5kmc) | 2:23 | 2022-05-19 | 2023-01-06 |
+| [L'ansia del casello](https://open.spotify.com/track/0tOZTDemzETWOETHrrhnWy) | [Samuele Stanco e i Gabbiani Malvagi](https://open.spotify.com/artist/13OTLSSmiVx2KbPqLGU95f) | [L'ansia del casello](https://open.spotify.com/album/44ybQSEjANBMQ3uyRosggp) | 3:41 | 2023-06-27 |  |
 | [L'aria](https://open.spotify.com/track/0W7oTk0xAN6mCZUZd9hQPa) | [Paolo Schiamazzi](https://open.spotify.com/artist/6xfsJIm7RMM0U0Ueuw9a4E) | [Aiutante magico](https://open.spotify.com/album/77QSGHiRVKt68cQAQY5TLe) | 2:45 | 2022-07-14 | 2022-09-30 |
 | [L'invenzione della dance](https://open.spotify.com/track/2x14trnSSKMrJS9Q5feHJF) | [Tiso](https://open.spotify.com/artist/2o4EzEyBSByCnZwaVgh99h) | [L'invenzione della dance](https://open.spotify.com/album/6bGoTJvrI6reJJG0S9o5qM) | 3:26 | 2022-06-09 | 2022-07-15 |
 | [La Mappa](https://open.spotify.com/track/36fOYS1iO2L1iKkq4zVgaG) | [Leo Fulcro](https://open.spotify.com/artist/2DNRcOVx4Av8wuZsLGp9Wj) | [La Mappa](https://open.spotify.com/album/5f9ng5e24rrBZPEIxYCiXp) | 3:31 | 2023-03-16 | 2023-05-03 |
@@ -398,6 +401,7 @@
 | [LUNES](https://open.spotify.com/track/3ux6HhWQNXS4fjTGuyZcru) | [Marianna Mancini](https://open.spotify.com/artist/5kEjbi0NY9b82y85keg2hY) | [LUNES](https://open.spotify.com/album/5rMv8OvpZ9HTyTn5UkGeO5) | 3:00 | 2022-05-05 | 2022-06-03 |
 | [Lungomare Paranoia](https://open.spotify.com/track/1NeP3GBZ65OxTCz03f4jnv) | [Diomira](https://open.spotify.com/artist/6aXLsoZzPvUUIYWNLiA5Ul) | [Lungomare Paranoia](https://open.spotify.com/album/2vKa3keHihewelPapadiUK) | 2:34 | 2022-10-10 | 2022-11-11 |
 | [Lusso](https://open.spotify.com/track/0gbIBa5IHQsEfTM2tOFViW) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [Lusso](https://open.spotify.com/album/60QDEwfUZ2EcEF3cYdueg7) | 3:44 | 2023-02-02 | 2023-03-18 |
+| [L’estate dopo la maturità](https://open.spotify.com/track/5bcgmatCYSzMk4Vc8UXar4) | [Sacchini](https://open.spotify.com/artist/28UUItU2du0iVaXnBFiTx4) | [L’estate dopo la maturità](https://open.spotify.com/album/0u1zebBszXzlQmZB4WG9Th) | 3:07 | 2023-06-27 |  |
 | [Ma se restassi?](https://open.spotify.com/track/5qzWIQ9ebIoRyvrZmTy8Ns) | [Giuliana Setzes](https://open.spotify.com/artist/7HvjaaYGNpPqu8HyCVzTBw) | [Ma se restassi?](https://open.spotify.com/album/7dCyuQ69ADLDwyXgz7OZh1) | 2:53 | 2022-10-14 | 2022-11-11 |
 | [Ma tu ci tieni a me?](https://open.spotify.com/track/0KeF7ceyOpu0Ibo6H0xUD0) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Ma tu ci tieni a me?](https://open.spotify.com/album/7xVTEaPyoS67yHalgjQi8u) | 3:01 | 2023-01-26 | 2023-03-03 |
 | [MADE IN U.E.](https://open.spotify.com/track/1DQ6CRbAAAJAe0l0G9LkBK) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MADE IN U.E.](https://open.spotify.com/album/75qg7zzpqzcLaE3KBgRilX) | 2:22 | 2022-11-17 | 2022-12-01 |
@@ -594,6 +598,7 @@
 | [Prospettive](https://open.spotify.com/track/5IGD344MavP3etx4RXHtPP) | [Futura](https://open.spotify.com/artist/6B2ORGxHNTapk3uSzkcEfb) | [Carta Bianca](https://open.spotify.com/album/49vHdowclIjyvT9bimN9pZ) | 2:31 | 2023-05-30 |  |
 | [Proteggiti](https://open.spotify.com/track/0nLn8jBwnZ5h6gqm9JooV6) | [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Senza numero civico](https://open.spotify.com/album/3mGiVaDrGHyuM5qYezBSLE) | 2:16 | 2023-04-18 | 2023-04-27 |
 | [Psicopatica](https://open.spotify.com/track/5SPNH8BYnpSvBVrFajky0G) | [Catalin Colciu](https://open.spotify.com/artist/4NCBkzG0mMrUGwBTLmr3Kc) | [Psicopatica](https://open.spotify.com/album/1zBaANuc6noRMzTNMvb4fu) | 2:39 | 2023-01-19 | 2023-02-17 |
+| [Pugni in Pancia](https://open.spotify.com/track/5msgHsIgcXodmjpbD615L4) | [Kasto](https://open.spotify.com/artist/4DQI9ZdYLfBZ7UjsJp1c42) | [Pugni in Pancia](https://open.spotify.com/album/7GxPkeC2fIw1HAmypKE1vs) | 3:15 | 2023-06-27 |  |
 | [Punto e a capo](https://open.spotify.com/track/5avRtlxCtBeeGKqTilmkeq) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Punto e a capo](https://open.spotify.com/album/1mB5d9KmlC62drAZxz4BVd) | 3:07 | 2022-05-26 | 2022-07-08 |
 | [QUADRO](https://open.spotify.com/track/6etY8fRSW6QOOOEnHywbKq) | [BOTTICELLI](https://open.spotify.com/artist/251Rwp6R66yiiiEajMxUvy) | [QUADRO](https://open.spotify.com/album/1SOEWwq7iQVhJiNID99Lib) | 3:09 | 2022-11-10 | 2022-12-01 |
 | [Qualcosa di Speciale](https://open.spotify.com/track/4o0fBO8aUszRidx4QAbnsf) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh) | [Qualcosa di speciale](https://open.spotify.com/album/5nLD2f5T4GZ57wUwB9efde) | 2:53 | 2022-07-07 | 2022-08-19 |

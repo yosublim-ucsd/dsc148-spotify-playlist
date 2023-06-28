@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 284842,
+  "num_followers": 284961,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTlhNmY0ZTVkOTNlNmIwNWVjMzRiNmRlODQwNzQ2MjBiMjQ0M2Ey",
+  "snapshot_id": "MCwyYzU2OWY2YjRmYWQ2YzFmZTcxNDczOTZlNTcyNmZkNjFhOThkOWE0",
   "tracks": [
     {
       "added_at": "2023-05-05 05:09:11",
@@ -41,10 +41,10 @@
       "url": "https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR"
     },
     {
-      "added_at": "2023-05-05 05:09:11",
+      "added_at": "2023-06-27 15:22:27",
       "album": {
-        "name": "New Messiah",
-        "url": "https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem"
+        "name": "Re-Industrialized",
+        "url": "https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 270466,
-      "name": "New Messiah",
-      "url": "https://open.spotify.com/track/784D068nWk6mUvEXkufPnF"
+      "duration_ms": 249360,
+      "name": "Recharger",
+      "url": "https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Bites",
-        "url": "https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA"
+        "name": "New Messiah",
+        "url": "https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem"
       },
       "artists": [
         {
-          "name": "Skinny Puppy",
-          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 416706,
-      "name": "Assimilate",
-      "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
+      "duration_ms": 270466,
+      "name": "New Messiah",
+      "url": "https://open.spotify.com/track/784D068nWk6mUvEXkufPnF"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -667,6 +667,22 @@
       "duration_ms": 436000,
       "name": "We're In This Together",
       "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Bites",
+        "url": "https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA"
+      },
+      "artists": [
+        {
+          "name": "Skinny Puppy",
+          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
+        }
+      ],
+      "duration_ms": 416706,
+      "name": "Assimilate",
+      "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Global Warning",
-        "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
-      },
-      "artists": [
-        {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Naitu",
-      "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "The Mind Is a Terrible Thing to Taste",
         "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 301426,
       "name": "Thieves",
       "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Global Warning",
+        "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Naitu",
+      "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -819,38 +835,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "A Drug Against War",
-      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Omen X",
-        "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
-      },
-      "artists": [
-        {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
-        }
-      ],
-      "duration_ms": 206147,
-      "name": "Totuus",
-      "url": "https://open.spotify.com/track/110q5eExcmrgf0fsE610ON"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Modern Demon",
         "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 285019,
       "name": "Modern Demon",
       "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "A Drug Against War",
+      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Omen X",
+        "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "duration_ms": 206147,
+      "name": "Totuus",
+      "url": "https://open.spotify.com/track/110q5eExcmrgf0fsE610ON"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 179733,
       "name": "After the Flesh",
       "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "HY\u00cbNA",
-        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 302940,
-      "name": "HY\u00cbNA",
-      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -975,6 +975,22 @@
       "duration_ms": 316701,
       "name": "Into the Void",
       "url": "https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "HY\u00cbNA",
+        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 302940,
+      "name": "HY\u00cbNA",
+      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "The War Of Art",
-        "url": "https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl"
-      },
-      "artists": [
-        {
-          "name": "American Head Charge",
-          "url": "https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "A Violent Reaction",
-      "url": "https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Confessions of a Knife",
         "url": "https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 243446,
       "name": "Bits and Razors",
       "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "The War Of Art",
+        "url": "https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl"
+      },
+      "artists": [
+        {
+          "name": "American Head Charge",
+          "url": "https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "A Violent Reaction",
+      "url": "https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Industrial Machine Musick",
-        "url": "https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf"
-      },
-      "artists": [
-        {
-          "name": "Die Krupps",
-          "url": "https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "To The Hilt",
-      "url": "https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Out For Blood",
         "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 220026,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Industrial Machine Musick",
+        "url": "https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf"
+      },
+      "artists": [
+        {
+          "name": "Die Krupps",
+          "url": "https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "To The Hilt",
+      "url": "https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1599,38 +1615,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Dirty Freddy (Remix)",
-        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
+        "name": "For the Beaten",
+        "url": "https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T"
       },
       "artists": [
         {
-          "name": "Extize",
-          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
-        },
-        {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Dirty Freddy - Remix",
-      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
-      },
-      "artists": [
-        {
-          "name": "Prick",
-          "url": "https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz"
-        }
-      ],
-      "duration_ms": 255111,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH"
+      "duration_ms": 211450,
+      "name": "For the Beaten",
+      "url": "https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u"
     }
   ],
   "unique_name": "Industrial Metal",

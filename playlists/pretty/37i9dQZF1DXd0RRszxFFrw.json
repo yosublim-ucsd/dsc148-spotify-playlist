@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 48233,
+  "num_followers": 48267,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTM4Y2FiYWJmZDI4NDBiOGM1NWMzNWVlNDA5OTYxMmE5YTI2ODNl",
+  "snapshot_id": "MCwzY2ExMDI3OWIyNWZlNzZlNzIyMjdhOWEzNzNlZDQ1ZjM4MDlkZWZl",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Vibrante",
-        "url": "https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc"
+        "name": "Toda Esta Gente",
+        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
       },
       "artists": [
         {
-          "name": "Gabriella Vargas Luna",
-          "url": "https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 196111,
-      "name": "Vibrante",
-      "url": "https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9"
+      "duration_ms": 151250,
+      "name": "Toda Esta Gente",
+      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Toda Esta Gente",
-        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
+        "name": "Vibrante",
+        "url": "https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Gabriella Vargas Luna",
+          "url": "https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O"
         }
       ],
-      "duration_ms": 151250,
-      "name": "Toda Esta Gente",
-      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
+      "duration_ms": 196111,
+      "name": "Vibrante",
+      "url": "https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -523,26 +523,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "De Cerca",
-        "url": "https://open.spotify.com/album/2pdYwg9y5DyRnhwQynk59A"
+        "name": "Bossa Nova Sounds EP",
+        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
       },
       "artists": [
         {
-          "name": "Josemi Carmona",
-          "url": "https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh"
-        },
-        {
-          "name": "Javier Colina",
-          "url": "https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW"
-        },
-        {
-          "name": "Bandolero",
-          "url": "https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN"
+          "name": "Rio Mendes",
+          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
         }
       ],
-      "duration_ms": 403000,
-      "name": "Morente Habichuela - Alegr\u00edas",
-      "url": "https://open.spotify.com/track/21kpXwKXpa2FRP5L5h7WFs"
+      "duration_ms": 180860,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -563,18 +555,26 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Bossa Nova Sounds EP",
-        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
+        "name": "De Cerca",
+        "url": "https://open.spotify.com/album/2pdYwg9y5DyRnhwQynk59A"
       },
       "artists": [
         {
-          "name": "Rio Mendes",
-          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
+          "name": "Josemi Carmona",
+          "url": "https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh"
+        },
+        {
+          "name": "Javier Colina",
+          "url": "https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW"
+        },
+        {
+          "name": "Bandolero",
+          "url": "https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN"
         }
       ],
-      "duration_ms": 180860,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e"
+      "duration_ms": 403000,
+      "name": "Morente Habichuela - Alegr\u00edas",
+      "url": "https://open.spotify.com/track/21kpXwKXpa2FRP5L5h7WFs"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Re-Foc",
-        "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "30 De Marzo",
-      "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Recital Flamenco. 12 de Sus Toques Originales",
         "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 279293,
       "name": "El Ca\u00f1averal - Guajira",
       "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Re-Foc",
+        "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "30 De Marzo",
+      "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
     },
     {
       "added_at": "2022-10-27 22:01:00",

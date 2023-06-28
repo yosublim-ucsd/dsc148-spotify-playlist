@@ -2,9 +2,9 @@
 
 ### [FRONTEO](https://open.spotify.com/playlist/37i9dQZF1DX6jW9mPgBGv2)
 
-> El rango más alto\. Ellos lo tienen y lo saben\. Don Omar y Coscullela plantando cara.
+> El rango más alto\. Ellos lo tienen y lo saben\. Duki y Jhayco  plantando cara.
 
-87 songs - 5 hr 30 min
+88 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Plata o Plomo](https://open.spotify.com/track/229sfiAhUrcl53cRSOkkdb) | [Son Gotten](https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox), [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD), [El Goldo De Las Conec](https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr) | [Plata o Plomo](https://open.spotify.com/album/5hg2rdw9l36rUswjzVTAAk) | 3:01 | 2023-03-17 |  |
 | [Puesto pal' Millón \- Remix](https://open.spotify.com/track/1csGDtYYiqJmQi2E8ZYl6O) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Puesto pal' Millón \(Remix\)](https://open.spotify.com/album/3zLaa4J3ZOMzlo52FlaMMA) | 5:18 | 2021-12-01 |  |
 | [Quien Va a Frontiar](https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Quien Va a Frontiar](https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf) | 2:54 | 2023-01-13 |  |
+| [RoCKSTAR 2.0](https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [RoCKSTAR 2.0](https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD) | 2:53 | 2023-06-27 |  |
 | [Ronca](https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:29 | 2021-12-01 |  |
 | [Roncan](https://open.spotify.com/track/4whycC4uXJxmdraZDDCxGD) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Lui on the Beat](https://open.spotify.com/artist/4vTf9qg5h5mO9DAoOma9Nl), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC) | [Roncan](https://open.spotify.com/album/0z1U39KMAPDYxZfsqtiLuy) | 3:24 | 2023-06-09 |  |
 | [Sauce Boy Freestyle III](https://open.spotify.com/track/4Fdots9nLaSYVe9nZ9QNnJ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boy Freestyle III](https://open.spotify.com/album/0Muum5bu2hmAIb6yBXQkAU) | 2:45 | 2021-12-01 |  |

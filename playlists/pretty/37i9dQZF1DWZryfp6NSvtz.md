@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Ayron Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,207 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,329 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Haunt](https://open.spotify.com/track/46O6gF8rqcekIOb5dEAdBx) | [Better Half](https://open.spotify.com/artist/078nV9Dk8bSocpZGLLMIQ6) | [Haunt](https://open.spotify.com/album/0kP8Q3LtUu2u6gNWeeoco6) | 2:55 |
 | 50 | [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 |
 
-Snapshot ID: `MCwyZDRjM2E5NWQ4MGFhNTYyZGI2NDM1NWQ5NWRmZTMxMDc2ZjFlNDM2`
+Snapshot ID: `MCw0N2ExZjc2YjRjMjM4NmJiMmJkMDdmODM2ZWQ5MWRjOGIwMTQ3YThl`

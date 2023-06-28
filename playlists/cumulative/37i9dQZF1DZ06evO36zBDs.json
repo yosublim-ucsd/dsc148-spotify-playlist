@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 263440,
       "name": "\u30b9\u30ce\u30fc\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/0Kb74cofcnavVwe4Tpcdv9"
@@ -1436,6 +1436,24 @@
       "duration_ms": 266670,
       "name": "\u6dcb\u3057\u3044\u71b1\u5e2f\u9b5a",
       "url": "https://open.spotify.com/track/1oNBmN9FfWYE94BRiIGeBM"
+    },
+    {
+      "album": {
+        "name": "\u6dcb\u3057\u3044\u71b1\u5e2f\u9b5a",
+        "url": "https://open.spotify.com/album/5RhxWqFO2DZvw1NJjByTET"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240360,
+      "name": "\u6dcb\u3057\u3044\u71b1\u5e2f\u9b5a -SCRAMBLES ver.-",
+      "url": "https://open.spotify.com/track/6vIANGW9UVlwgRYP4oolrY"
     },
     {
       "album": {

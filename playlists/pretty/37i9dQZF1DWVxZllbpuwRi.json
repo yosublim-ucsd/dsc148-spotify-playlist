@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 628907,
+  "num_followers": 628889,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjQ3ZTE5MGIyZjY4ODQ4ZTYwMThkZGE3NDFmNTJhZGIyMzAwOTk0",
+  "snapshot_id": "MCwyMDZlZmIyODRjNDEzNjAwMWNjOWEzNDY1ODY4ODBhOTY1M2I4NGU1",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Ya T\u00fa Me Conoces",
+        "url": "https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Ya T\u00fa Me Conoces",
+      "url": "https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "MAMACITA (remixes)",
         "url": "https://open.spotify.com/album/2lp5TTSc5rQcb8RAtI0Owq"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 138439,
       "name": "MAMACITA (Rafinha RSQ remix) (feat. Rafinha RSQ)",
       "url": "https://open.spotify.com/track/7kDbReexSaT5kuJrPeKSpE"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Ya T\u00fa Me Conoces",
-        "url": "https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Ya T\u00fa Me Conoces",
-      "url": "https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE"
     },
     {
       "added_at": "2023-02-17 03:00:00",

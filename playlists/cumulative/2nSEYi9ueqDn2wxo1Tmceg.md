@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-515 songs - 1 day 10 hr 45 min
+516 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Dedicated to Tar Feather](https://open.spotify.com/track/1R8JYDFCXIL24j94ikm9dF) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko), [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Beloved! Paradise! Jazz!?](https://open.spotify.com/album/79cZfoRuFR4M6y8Fcn58E3) | 2:36 | 2023-06-07 |  |
 | [Deep In The Glowing Heart \- Night Version](https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Deep In The Glowing Heart \(Night Version\)](https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ) | 7:00 | 2022-06-15 | 2022-08-04 |
 | [Deeper](https://open.spotify.com/track/6XwMOx54frtlaAPFNQaotw) | [The Soft Pink Truth](https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei) | [Is It Going To Get Any Deeper Than This?](https://open.spotify.com/album/2qVmEJd2GUCtKd7QpC4Flc) | 11:19 | 2022-11-09 | 2022-12-08 |
+| [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 | 2023-06-27 |  |
 | [Devil’s Den](https://open.spotify.com/track/6QLTumcZQ3dHN8pUj9T9C7) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [O Monolith](https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI) | 3:05 | 2023-06-14 |  |
 | [discreet](https://open.spotify.com/track/0f7tActmPGO7AyO4iQsjOP) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [seven songs](https://open.spotify.com/album/6EdNh4gZ8wWePCXwmQXnP8) | 2:05 | 2022-12-07 | 2023-02-02 |
 | [Does](https://open.spotify.com/track/08oX34sRjy7JlEgzfPVBF6) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh), [Aga Ujma](https://open.spotify.com/artist/3LSdhKfnqxaRzj5rzdOKRj) | [Signal](https://open.spotify.com/album/3bahlgCR0bNGq1pZX1GipN) | 3:07 | 2022-11-23 | 2023-01-19 |

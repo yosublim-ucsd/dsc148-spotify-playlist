@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Loredana
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,242 likes - 121 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,246 likes - 121 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 101 | [pick up the phone](https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [pick up the phone](https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf) | 2:25 |
 | 102 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
 | 103 | [Rewind](https://open.spotify.com/track/6jghPafxcUElC16mOirqq0) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Rewind](https://open.spotify.com/album/5bZvB1xoIqyK3MvLEYJNOr) | 2:44 |
-| 104 | [Egal](https://open.spotify.com/track/15kfasEzeqJeyqgJF3lk7S) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Whitey](https://open.spotify.com/artist/3ZlRGybBEip8IocnqABSvF) | [Egal](https://open.spotify.com/album/4lta8wNEEceVpWXnKoWkaq) | 2:27 |
+| 104 | [Egal](https://open.spotify.com/track/15kfasEzeqJeyqgJF3lk7S) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [Egal](https://open.spotify.com/album/4lta8wNEEceVpWXnKoWkaq) | 2:27 |
 | 105 | [Rock Climbing \(feat\. M Huncho\)](https://open.spotify.com/track/0Mkn2M0bfkt1kBlJA1Z9tw) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [High Profile](https://open.spotify.com/album/3FbUUs5VxCKExl9DPTBFf6) | 2:50 |
 | 106 | [Layla](https://open.spotify.com/track/0klmQDAOLoljdcwE1rkDB5) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/4g20c8SqGL2SSpKO7gZl1t) | 2:43 |
 | 107 | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ) | 2:24 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 120 | [Lana Del Rey](https://open.spotify.com/track/1sjCEHDAtwOn39XtkJNvhD) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD) | [Lana Del Rey](https://open.spotify.com/album/2f2ANdJQblnof2IrlxxYwk) | 2:46 |
 | 121 | [High Life](https://open.spotify.com/track/5wWQkOZCLx9c13bgDeokkQ) | [CRIMER](https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX), [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [High Life](https://open.spotify.com/album/5k4zYRni7GFF65W9EMIoeD) | 3:08 |
 
-Snapshot ID: `MCw0MTNkNDQ4NzdmMzY4NDgwM2FiNGZjNDJmMTY5NzFhZWIzYmIyNzAz`
+Snapshot ID: `MCwyZTA0MDM3MWViZGRmNjk1NGVlNWIwMWE0ZTg1YWZjOTYyYzg3ZTlm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ferrugem e Luísa Sonza, Anitta, Elza Soares, Zé Neto e Cristiano e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,885,252 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,885,697 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 68 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 |
 | 69 | [Borboleta](https://open.spotify.com/track/7M7LwDM76QlNCie8KLG6qf) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Borboleta](https://open.spotify.com/album/2p52v9xFZiI37yQrMz3To8) | 2:18 |
 | 70 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 |
-| 71 | [Déjalo En Visto](https://open.spotify.com/track/47muEluwzPvFgpCGo5PT0m) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW) | 3:09 |
+| 71 | [Déjalo En Visto](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 |
 | 72 | [Saudade](https://open.spotify.com/track/1gZzv7fdOTv1qQ8LZL1FC8) | [Mc Tikão](https://open.spotify.com/artist/4nUFa8jPQkxf3CTj5XzAly), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Nunca Foi Sorte](https://open.spotify.com/album/5HVTFI2kO7XkCILhUXa9pS) | 3:08 |
 | 73 | [Viciado em Você](https://open.spotify.com/track/6ICvI9uVJefqGANLOSwrTt) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Viciado em Você](https://open.spotify.com/album/6lPVem3TX0KU7zpcCXFSmG) | 2:36 |
 | 74 | [Não Era Amor](https://open.spotify.com/track/5wIzFxsPx2yUiD5SzPVqif) | [Motta](https://open.spotify.com/artist/34IQpbynCd4V50MWXIpGHy), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Oframe](https://open.spotify.com/artist/1Ypveoe8x8UyHG9r8d5uDS) | [Não Era Amor](https://open.spotify.com/album/6yPvNGSdOr3lyligbeqaMJ) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Cantar do Grilo](https://open.spotify.com/track/4fEd6B6qeVh5fz1lImhH88) | [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym), [Alulu Paranhos](https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW) | [Pra Dançar Colada \(MangoLab conv\. Alulu Paranhos\)](https://open.spotify.com/album/65oy3xvu7a7bC7hbawTGRW) | 2:39 |
 | 100 | [Maldito Medo](https://open.spotify.com/track/6atSqj4VjdV5z9snjOfSLM) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot), [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [Maldito Medo](https://open.spotify.com/album/2fastvrlnmHnYa1j6ljx9C) | 2:59 |
 
-Snapshot ID: `MCxhMDU4ODlhOGUzYWFhOWM3Y2IxNzdlMTY5ZjFlZDlmMzQ2YzRkZjk3`
+Snapshot ID: `MCwyZjAyYmExNzZmZGEwNmY2NGYwMGI5MjA1ZjdkZmUyYzhkOTYzYzE3`

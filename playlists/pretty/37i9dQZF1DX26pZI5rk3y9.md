@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,681 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,695 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,23 +29,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 19 | [Counting Colors](https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi) | [GrandVille](https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK) | [GrandVille](https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY) | 6:08 |
 | 20 | [Ugly Brain \- Single Version](https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Ugly Brain](https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM) | 4:36 |
 | 21 | [She Moved On](https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [She Moved On](https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU) | 2:47 |
-| 22 | [What Can I Do?](https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A) | [The Black Belles](https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1) | [What Can I Do?](https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b) | 3:06 |
-| 23 | [Chrysomallousa](https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq) | [Demetris Mesimeris](https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A) | [Chrysomallousa](https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m) | 3:39 |
-| 24 | [Al Infierno que Vayas](https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2023](https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR) | 2:15 |
-| 25 | [Sweet Tooth](https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Sweet Tooth](https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq) | 2:11 |
-| 26 | [Ramble No More](https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Ramble No More](https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC) | 2:55 |
-| 27 | [Done Cryin'](https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [Exorcist](https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL) | 4:38 |
+| 22 | [Done Cryin'](https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [Exorcist](https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL) | 4:38 |
+| 23 | [What Can I Do?](https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A) | [The Black Belles](https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1) | [What Can I Do?](https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b) | 3:06 |
+| 24 | [Chrysomallousa](https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq) | [Demetris Mesimeris](https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A) | [Chrysomallousa](https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m) | 3:39 |
+| 25 | [Al Infierno que Vayas](https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2023](https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR) | 2:15 |
+| 26 | [Sweet Tooth](https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Sweet Tooth](https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq) | 2:11 |
+| 27 | [Ramble No More](https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Ramble No More](https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC) | 2:55 |
 | 28 | [Love Sick](https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L) | [The Dust Coda](https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP) | [Love Sick](https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ) | 4:34 |
 | 29 | [Buffalo Road](https://open.spotify.com/track/6iSopPflVbtSJjLRCmksfl) | [Gabe Carter](https://open.spotify.com/artist/57rLxwICLUV38lrrMrQROd) | [Buffalo Road](https://open.spotify.com/album/29p1rFGBhwEVQf5BYS0heD) | 2:58 |
 | 30 | [A Good Thing](https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8) | [Handsome Jack](https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr) | [A Good Thing](https://open.spotify.com/album/57syR4Vje7gemU7560rhtl) | 3:34 |
 | 31 | [Broken Lines](https://open.spotify.com/track/5mtGGswKLHP5o2piJtMepK) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Miracles](https://open.spotify.com/album/0J0KUFFKsjbeuUKpQS0NSK) | 5:22 |
 | 32 | [Good Love Goes Bad](https://open.spotify.com/track/4SAdnN5F4nOZW0R1CjwYDv) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Good Love Goes Bad](https://open.spotify.com/album/0s1mtwlKIxnASFrd442eW9) | 3:55 |
 | 33 | [Can Opener](https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 4:08 |
-| 34 | [Gotta Bleed \- Remix](https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt) | [Bacon Fat Louis](https://open.spotify.com/artist/6smClsEV3ACst2Jul8FxAk), [miXendorp](https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP) | [Gotta Bleed \(Remix\)](https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe) | 3:34 |
-| 35 | [Crime](https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:30 |
-| 36 | [Keep On Rocking](https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl) | [Max Poolman](https://open.spotify.com/artist/5VGuMO5Cj2dyuSiU4gWQys) | [Roads Go On Forever](https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o) | 3:57 |
-| 37 | [So Free](https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [So Free](https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L) | 3:17 |
-| 38 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 2:50 |
+| 34 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 2:50 |
+| 35 | [Gotta Bleed \- Remix](https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt) | [Bacon Fat Louis](https://open.spotify.com/artist/6smClsEV3ACst2Jul8FxAk), [miXendorp](https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP) | [Gotta Bleed \(Remix\)](https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe) | 3:34 |
+| 36 | [Crime](https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:30 |
+| 37 | [Keep On Rocking](https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl) | [Max Poolman](https://open.spotify.com/artist/5VGuMO5Cj2dyuSiU4gWQys) | [Roads Go On Forever](https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o) | 3:57 |
+| 38 | [So Free](https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [So Free](https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L) | 3:17 |
 | 39 | [Gimme Your Love](https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 4:37 |
 | 40 | [Walk The Wire](https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp) | [Brent Lindsay](https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO) | [Walk The Wire](https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X) | 2:04 |
 | 41 | [Porcelain God](https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb) | [Ingrid and the Ministers](https://open.spotify.com/artist/7s0yVj46UXMWsJLk8lKr4A) | [Porcelain God](https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd) | 4:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 45 | [Rubber Hits the Road](https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44) | [SUSU](https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv) | [Rubber Hits the Road](https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz) | 3:01 |
 | 46 | [Take My Rider](https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl) | [Douglas Avery](https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz) | [Take My Rider](https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y) | 5:12 |
 | 47 | [Flood of 2019](https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq) | [Aaron Reynolds & Tombstone Mind](https://open.spotify.com/artist/6jusbN97Wy0bKDBLQ42V46) | [Flood of 2019](https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv) | 3:59 |
-| 48 | [The Great Beyond](https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq) | [Dudley Taft](https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ) | [Guitar Kingdom](https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y) | 3:20 |
-| 49 | [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 |
+| 48 | [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 |
+| 49 | [The Great Beyond](https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq) | [Dudley Taft](https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ) | [Guitar Kingdom](https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y) | 3:20 |
 | 50 | [Cassanova Kirk Daniel](https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3) | [Mittch](https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV) | [Cassanova Kirk Daniel](https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR) | 3:23 |
 
-Snapshot ID: `MCwxYWQ1MWUzZjgzNjUwNTk5OWNhM2NhNmZkMGQ4OTMyNTczYjQ0Zjlh`
+Snapshot ID: `MCwwYzU4ZWI4NGY1MjUwNTg0OGNlZTkzMzA1YzE3YWI0MzhlZDM4YTJl`

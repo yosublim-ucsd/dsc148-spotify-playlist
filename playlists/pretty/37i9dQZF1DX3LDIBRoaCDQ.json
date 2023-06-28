@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1510388,
+  "num_followers": 1510604,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGE0MjUxNTgyZDdkODE3NzZkYWExMDI2YzFlOTU2Zjc5MjI4ODAy",
+  "snapshot_id": "MCw1ZWUwNGNmZTc1NzhlOWJmZDM5ZTA1YTA1ZmVmYjdlMDA3OWRmNzIw",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -595,18 +595,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+        "name": "Collection 2",
+        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
       "artists": [
         {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        },
+        {
+          "name": "Glenn Danzig",
+          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
         }
       ],
-      "duration_ms": 106693,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
+      "duration_ms": 119826,
+      "name": "Last Caress",
+      "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -643,22 +647,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Collection 2",
-        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
       "artists": [
         {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        },
-        {
-          "name": "Glenn Danzig",
-          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 119826,
-      "name": "Last Caress",
-      "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
+      "duration_ms": 106693,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
     },
     {
       "added_at": "2022-11-28 15:26:19",

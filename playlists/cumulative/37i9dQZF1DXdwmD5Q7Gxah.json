@@ -7551,6 +7551,24 @@
     },
     {
       "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124080,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
+    },
+    {
+      "album": {
         "name": "Coke & Henny Pt. 1",
         "url": "https://open.spotify.com/album/7pU90hr9PdteGEQqp0XSU9"
       },
@@ -7830,6 +7848,24 @@
       "duration_ms": 155044,
       "name": "come ovr",
       "url": "https://open.spotify.com/track/01PN1v5FRjaIZsjzK0c6DV"
+    },
+    {
+      "album": {
+        "name": "COME WITH ME",
+        "url": "https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154777,
+      "name": "COME WITH ME",
+      "url": "https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu"
     },
     {
       "album": {

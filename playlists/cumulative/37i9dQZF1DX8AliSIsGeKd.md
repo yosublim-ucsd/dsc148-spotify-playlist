@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Boris Brejcha
 
-2,033 songs - 7 day 15 hr 52 min
+2,034 songs - 7 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1131,7 +1131,8 @@
 | [Mankind](https://open.spotify.com/track/521p9zLwWdFrfWwGpgtIbF) | [Mitch De Klein](https://open.spotify.com/artist/7zGEI2pEvhrGrD2Vqrhpwg) | [Mankind](https://open.spotify.com/album/3Q1QrU32ydYQrPMZofU4lZ) | 3:46 | 2022-12-01 | 2022-12-16 |
 | [Mann:Frau](https://open.spotify.com/track/1C1dpAoDKXvrVWO37WpZS5) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Vulnerability](https://open.spotify.com/album/1IxdSZRUrH7K4w8YrrrjLo) | 3:16 | 2022-10-20 | 2022-11-04 |
 | [Mantra](https://open.spotify.com/track/2FZStCHAHy3l16yWl9ELpe) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Mantra](https://open.spotify.com/album/7ci9mlATFQyvvFIxigMOCH) | 4:21 | 2023-05-19 | 2023-06-09 |
-| [Manzanita](https://open.spotify.com/track/3ADu5Dhw9m8ggJm2m1LEAP) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/0KKp0vor85RZ6qHjA9myx6) | 2:44 | 2023-06-22 |  |
+| [Manzanita](https://open.spotify.com/track/3ADu5Dhw9m8ggJm2m1LEAP) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/0KKp0vor85RZ6qHjA9myx6) | 2:44 | 2023-06-22 | 2023-06-28 |
+| [Manzanita](https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt) | 2:44 | 2023-06-23 |  |
 | [Margaret](https://open.spotify.com/track/12wYDnBY01LvrQno8E6zgD) | [Sebra Cruz](https://open.spotify.com/artist/2OaoLYNZqzNVMM4H7KL5ye), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Margaret](https://open.spotify.com/album/3t4PGj02T0PhMCH1RBrBHY) | 3:05 | 2022-12-09 | 2022-12-30 |
 | [MARIMBA](https://open.spotify.com/track/7LUE03dkjQnkkxV6DEet8G) | [EC Twins](https://open.spotify.com/artist/6QACkIioo2Na2EKEwJzCKK) | [MARIMBA](https://open.spotify.com/album/465ISX2uZQcUlhwjZzvm9O) | 5:37 | 2022-09-22 | 2022-10-14 |
 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 | 2023-06-09 |  |

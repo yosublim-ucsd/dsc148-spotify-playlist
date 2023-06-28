@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Slowdive
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,018 likes - 84 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,037 likes - 84 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 83 | [stuck in san antonio](https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [stuck in san antonio](https://open.spotify.com/album/5i6JV5RaAEXYbwQx3si9Mo) | 2:33 |
 | 84 | [Fare Thee Well My Dearest Dear](https://open.spotify.com/track/13PyP4V5A44QVPlLZ9a2wk) | [Shirley Collins](https://open.spotify.com/artist/5rilpZJIb2NWJZVGtCdg6u) | [Archangel Hill](https://open.spotify.com/album/3D1ay6vbbFAhpaZcDnKFDp) | 3:16 |
 
-Snapshot ID: `MCxkNmMyZjZlMmVkMTMzNGQyY2QwODdkYjJjNjIwZGZlNzY3ZmIyMjZk`
+Snapshot ID: `MCxlMzhiODBmOGU4YWQ2MjdhNmE3NmJhYmQyZDZlYzM4YjIzMzJiMTFh`

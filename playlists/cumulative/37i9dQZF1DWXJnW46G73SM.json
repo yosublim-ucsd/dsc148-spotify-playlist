@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u064a\u0648\u0645\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641:  <a href=\"https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V?si=bXmyTIiMRa63zfReyz9xCg\"> \u0627\u062d\u0645\u062f \u0633\u0639\u062f </a> \n",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641:  <a href=\"https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V?si=bXmyTIiMRa63zfReyz9xCg\"> \u0627\u062d\u0645\u062f \u0633\u0639\u062f </a> \n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 156000,
       "name": "7 PM",
       "url": "https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3"
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 214809,
       "name": "El Gaw Wallaa",
       "url": "https://open.spotify.com/track/7FY8MdpmT94uz7QEwGuv8W"
@@ -6584,7 +6584,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 172711,
       "name": "Ya Khabar",
       "url": "https://open.spotify.com/track/3FQFEFkm0aRQOTez0p5rrU"
@@ -6996,6 +6996,24 @@
       "duration_ms": 176311,
       "name": "\u0627\u0644\u0628\u064a\u062a \u0648\u062d\u0634 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u062c\u0631\u0648\u0628 \u0627\u0644\u0645\u0627\u0645\u064a\u0632",
       "url": "https://open.spotify.com/track/0xywthPv9nCu6lgpU5nMcA"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u062c\u0648 \u0648\u0644\u0639",
+        "url": "https://open.spotify.com/album/4fI2rUMGuMonjwntO2YgUW"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214809,
+      "name": "\u0627\u0644\u062c\u0648 \u0648\u0644\u0639",
+      "url": "https://open.spotify.com/track/0vzm1POq1H0JVHwSOaufio"
     },
     {
       "album": {
@@ -7546,7 +7564,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 154285,
       "name": "\u062a\u062c\u0631\u064a \u0648\u0631\u0627\u064a\u0627 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u0647\u0627\u0631\u0644\u064a",
       "url": "https://open.spotify.com/track/77poO713J8VlBYcLXAhQUx"
@@ -7572,6 +7590,24 @@
       "duration_ms": 85240,
       "name": "\u062c\u0627\u064a\u0629 \u062c\u0627\u064a\u0629",
       "url": "https://open.spotify.com/track/4pphE4xWp08tPAkBW8p1ni"
+    },
+    {
+      "album": {
+        "name": "\u062d\u0628\u0627\u064a\u0628\u0646\u0627",
+        "url": "https://open.spotify.com/album/6FOVMHlP4eAAeX1B3NASpW"
+      },
+      "artists": [
+        {
+          "name": "Hakim",
+          "url": "https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "\u062d\u0628\u0627\u064a\u0628\u0646\u0627",
+      "url": "https://open.spotify.com/track/6fM4O75eAUoRxUdsbI0vc3"
     },
     {
       "album": {
@@ -8305,6 +8341,24 @@
     },
     {
       "album": {
+        "name": "\u0643\u0644 \u0644\u064a\u0644",
+        "url": "https://open.spotify.com/album/67ZFyMPeTn5L5FAZC94WAY"
+      },
+      "artists": [
+        {
+          "name": "Farid",
+          "url": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242926,
+      "name": "\u0643\u0644 \u0644\u064a\u0644",
+      "url": "https://open.spotify.com/track/3FmjlI2P0aYuVbSo5fzSZs"
+    },
+    {
+      "album": {
         "name": "\u0643\u0644\u0627\u0645 \u0643\u0628\u0627\u0631",
         "url": "https://open.spotify.com/album/4EJnHL42dS4JXcda5oFIIn"
       },
@@ -8360,6 +8414,28 @@
       "duration_ms": 221379,
       "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
       "url": "https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt"
+    },
+    {
+      "album": {
+        "name": "\u0644\u0641\u064a\u062a \u0627\u0644\u062f\u0646\u064a\u0627",
+        "url": "https://open.spotify.com/album/6hBfYe9PE9Wp1CAs9C2nRq"
+      },
+      "artists": [
+        {
+          "name": "Reda El Bahrawy",
+          "url": "https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM"
+        },
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200046,
+      "name": "\u0644\u0641\u064a\u062a \u0627\u0644\u062f\u0646\u064a\u0627",
+      "url": "https://open.spotify.com/track/4Vm5J277k6HH6CNZEZXAE9"
     },
     {
       "album": {

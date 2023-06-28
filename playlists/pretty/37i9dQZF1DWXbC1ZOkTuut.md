@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 834 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 853 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 4 | [Hace Mucho Tiempo](https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:16 |
 | 5 | [A Mi](https://open.spotify.com/track/12AOcB3zbD5HTS6ksOGV5V) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 2:51 |
 | 6 | [Solo Tu](https://open.spotify.com/track/2EXBHEndxcIlOF9H3QwARz) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:13 |
-| 7 | [Los Pasajes Del Sera](https://open.spotify.com/track/4dDXH4yw3zDjI0CNyHy426) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 2:45 |
-| 8 | [Las Crías Del M](https://open.spotify.com/track/3NMerQwuQPX4qUGRAdE5bd) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 3:05 |
-| 9 | [Mi Nivel](https://open.spotify.com/track/4TjNTspwdEi9eEZj9NlsE9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 2:29 |
+| 7 | [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 |
+| 8 | [Las Crías Del M](https://open.spotify.com/track/4PB83udmnANMq3uouy4kDO) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 3:03 |
+| 9 | [Mi Nivel](https://open.spotify.com/track/5EOQKKLbi2Xv6KzMd6pK19) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:27 |
 | 10 | [6 Millones Empolvados \(N1N1\)](https://open.spotify.com/track/44jbEHnG8wE1rZXkBFXeb4) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [INSURGENTE](https://open.spotify.com/album/3EF9OFj3hQxwiNQrEbLqjr) | 4:08 |
 | 11 | [Lider En La Region](https://open.spotify.com/track/2kSgafErZRSLWAyr3Kgqoh) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [INSURGENTE](https://open.spotify.com/album/3EF9OFj3hQxwiNQrEbLqjr) | 3:39 |
 | 12 | [Yo Se Que Se Siente](https://open.spotify.com/track/7t9Bqf5BPAQ5bygjqOpSrH) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [INSURGENTE](https://open.spotify.com/album/3EF9OFj3hQxwiNQrEbLqjr) | 3:56 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 98 | [El Salado](https://open.spotify.com/track/7nxBGmL17XLT5al1Lf7vTv) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Fiesta, Fiesta](https://open.spotify.com/album/5oMNdms9HuOfAtlUf3mF8J) | 2:17 |
 | 99 | [El Cirujano](https://open.spotify.com/track/4JqlSj43y3ipac3QMPC2q1) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Fiesta, Fiesta](https://open.spotify.com/album/5oMNdms9HuOfAtlUf3mF8J) | 2:31 |
 
-Snapshot ID: `MCw5MTc5M2IxYmZiZmRhNjU4NzJiNTVlMjE5NDA5OGNhZTg5YzA2ZDJj`
+Snapshot ID: `MCxlOTZhM2VlYjc0MWFhMmE0YzAxZDRiNjU1YTM4YWVlOGRkYTdiZWE5`

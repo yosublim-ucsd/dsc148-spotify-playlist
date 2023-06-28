@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 4407,
+  "num_followers": 4429,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmMzNmNhZWFkMjY0NTA1ZTEwNDI2NjA0MmM2N2U2MzIyODA4MGQ4",
+  "snapshot_id": "MCxjM2IxM2ZhYzg2YzBlNzk4ODA4MmFjY2FhMzY3ZjJlMTdkOGJlYmQy",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "A Turn of Breath - Extended",
+        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
+      },
+      "artists": [
+        {
+          "name": "Ian William Craig",
+          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
+        }
+      ],
+      "duration_ms": 192559,
+      "name": "Before Meaning Comes",
+      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Balsams",
         "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 214668,
       "name": "Opening",
       "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "A Turn of Breath - Extended",
-        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
-      },
-      "artists": [
-        {
-          "name": "Ian William Craig",
-          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Before Meaning Comes",
-      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "duration_ms": 544810,
+      "name": "Moonstone",
+      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 227458,
       "name": "Faded Earth",
       "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
-      },
-      "artists": [
-        {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
-        }
-      ],
-      "duration_ms": 544810,
-      "name": "Moonstone",
-      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "LUX 1",
-        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 212839,
-      "name": "LUX 1.4",
-      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Narkopop",
         "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 249700,
       "name": "Narkopop 4",
       "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "LUX 1",
+        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 212839,
+      "name": "LUX 1.4",
+      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Music For Installations",
+        "url": "https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 483566,
+      "name": "Kites I",
+      "url": "https://open.spotify.com/track/51Wa3SEDS3FQHxtvcCter8"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "A Turn of Breath - Extended",
         "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Music For Installations",
-        "url": "https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq"
+        "name": "Xen",
+        "url": "https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 483566,
-      "name": "Kites I",
-      "url": "https://open.spotify.com/track/51Wa3SEDS3FQHxtvcCter8"
+      "duration_ms": 129553,
+      "name": "Wound",
+      "url": "https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1371,22 +1387,6 @@
       "duration_ms": 962000,
       "name": "The Last of Our Time Together",
       "url": "https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Xen",
-        "url": "https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 129553,
-      "name": "Wound",
-      "url": "https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        }
+      ],
+      "duration_ms": 373003,
+      "name": "Imprint (Bonus Track)",
+      "url": "https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Glider 10: Reworks",
         "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 464874,
       "name": "Without Motion - Leandro Fresco Remix",
       "url": "https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Reassemblage",
-        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
-      },
-      "artists": [
-        {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        }
-      ],
-      "duration_ms": 373003,
-      "name": "Imprint (Bonus Track)",
-      "url": "https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "We Will Always Be",
-        "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 364253,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Breaks My Heart Each Time",
         "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 558877,
       "name": "Diminishing Emotion",
       "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "We Will Always Be",
+        "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 364253,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "It All Falls Apart",
-        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 374186,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Drifters / Love Is the Devil",
         "url": "https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "It All Falls Apart",
+        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 374186,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Similes",
         "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
       },
@@ -1647,22 +1647,6 @@
       "duration_ms": 209560,
       "name": "Nightmare 5",
       "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "The Best Driving Music in the World Ever",
-        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
-      },
-      "artists": [
-        {
-          "name": "Sean Curtis Patrick",
-          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
-        }
-      ],
-      "duration_ms": 188062,
-      "name": "Simon & Anna",
-      "url": "https://open.spotify.com/track/0TQjK1RWoPmtRQDaUUBywl"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1683,22 +1667,34 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Glider 10: Reworks",
-        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
+        "name": "The Best Driving Music in the World Ever",
+        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
       },
       "artists": [
         {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        },
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+          "name": "Sean Curtis Patrick",
+          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
         }
       ],
-      "duration_ms": 348750,
-      "name": "Further Away - Beno\u00eet Pioulard Rework",
-      "url": "https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw"
+      "duration_ms": 188062,
+      "name": "Simon & Anna",
+      "url": "https://open.spotify.com/track/0TQjK1RWoPmtRQDaUUBywl"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Centralia",
+        "url": "https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "Living Lens",
+      "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1719,18 +1715,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Centralia",
-        "url": "https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG"
+        "name": "Sunlight of Oneness and Very Amazing Now",
+        "url": "https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v"
       },
       "artists": [
         {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+          "name": "Phillip Wilkerson",
+          "url": "https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp"
         }
       ],
-      "duration_ms": 296133,
-      "name": "Living Lens",
-      "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
+      "duration_ms": 556007,
+      "name": "Sunlight of Oneness",
+      "url": "https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI"
     }
   ],
   "unique_name": "Ambient 2010s",

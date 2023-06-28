@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Yahritza y Su Esencia, Yuridia, Ángela Aguilar.
 
-3,009 songs - 6 day 14 hr 19 min
+3,010 songs - 6 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1697,7 +1697,8 @@
 | [Los Mitotes \(En Vivo\)](https://open.spotify.com/track/4ZOPCvIXPrGu6kVTOq2kQg) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Los Mitotes \(En Vivo\)](https://open.spotify.com/album/6WS9pFo1tWDb3jnzkyoK6w) | 3:17 | 2022-12-23 | 2023-01-07 |
 | [Los Ninis](https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:26 | 2023-03-31 | 2023-04-09 |
 | [Los Pajaros \(En Vivo\)](https://open.spotify.com/track/5cDiDT7E88eUXiVhkUYEpf) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Los Pajaros \(En Vivo\)](https://open.spotify.com/album/3V1HnCC6js35Pw7NFctA6Y) | 2:31 | 2022-07-22 | 2022-07-30 |
-| [Los Pasajes Del Sera](https://open.spotify.com/track/4dDXH4yw3zDjI0CNyHy426) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 2:45 | 2023-06-23 |  |
+| [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 | 2023-06-23 |  |
+| [Los Pasajes Del Sera](https://open.spotify.com/track/4dDXH4yw3zDjI0CNyHy426) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 2:45 | 2023-06-23 | 2023-06-28 |
 | [Los Payasos \- En Vivo](https://open.spotify.com/track/5om12CFoyPT8gtMnhFtaAJ) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Los Payasos \(En Vivo\)](https://open.spotify.com/album/1e1vhavWVfMTDbyHrvrQE8) | 4:21 | 2023-04-07 | 2023-04-15 |
 | [Los Piratitas \(En Vivo\)](https://open.spotify.com/track/6nRj2PrDyGyKIz964KK4eG) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Los Piratitas \(En Vivo\)](https://open.spotify.com/album/6f7KY61tzg61KZq8Ac46dK) | 3:26 | 2022-12-02 | 2022-12-10 |
 | [Los Toritos](https://open.spotify.com/track/6N8HTPH78LJwL1WYvpF63c) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [Los Toritos](https://open.spotify.com/album/2bw9mrWd35tnbAHwhtdJHh) | 2:52 | 2022-12-09 | 2022-12-17 |

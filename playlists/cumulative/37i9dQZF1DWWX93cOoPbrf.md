@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2023\. La Receta en portada.
 
-659 songs - 1 day 9 hr 59 min
+661 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Ando en la Fea \(En Vivo\)](https://open.spotify.com/track/5ed9exnSCZn7OVxLYcHuRb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Banda La Veintona](https://open.spotify.com/artist/22mUBA7P0AY1inU2zHAicS) | [Ando en la Fea \(En Vivo\)](https://open.spotify.com/album/5wb3Aa6Q3iFieGD9zhSgnd) | 3:26 | 2022-07-15 | 2022-09-03 |
 | [Ando Enfocado](https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ando Enfocado](https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq) | 3:04 | 2022-11-18 | 2023-04-09 |
 | [Anillos](https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Anillos](https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa) | 3:23 | 2023-04-14 |  |
-| [Apenas Es Martes](https://open.spotify.com/track/42ZNenu9YedH7ICwaj2HBE) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 3:20 | 2023-06-23 |  |
+| [Apenas Es Martes](https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 3:20 | 2023-06-26 |  |
+| [Apenas Es Martes](https://open.spotify.com/track/42ZNenu9YedH7ICwaj2HBE) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 3:20 | 2023-06-23 | 2023-06-28 |
 | [Aqui Ando En El Caloron \- En Vivo](https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Aqui Ando En El Caloron \(En Vivo\)](https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn) | 3:52 | 2022-12-16 | 2023-05-27 |
 | [Aquiles](https://open.spotify.com/track/22975rjV37uDOd0P9HgmAV) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o), [Cessar Roman y Su Grupo FuerzAerea](https://open.spotify.com/artist/2XtWQmwyhmy5OCeaUA0uS6) | [Aquiles](https://open.spotify.com/album/04ljISvNTGstr3g8suWBpG) | 3:15 | 2023-06-26 |  |
 | [Aquí Andamos](https://open.spotify.com/track/0TOsDKRNmnAsyVihPwHwiy) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Aquí Andamos](https://open.spotify.com/album/7glpXyS1prFn7q4hwH7X8s) | 2:42 | 2022-12-09 | 2022-12-24 |
@@ -462,7 +463,8 @@
 | [Los Hermanos](https://open.spotify.com/track/3ZAWnRZ9STLvBSBxoheC9H) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Los Hermanos](https://open.spotify.com/album/0old6hxis8rO7QgKH7Rw5d) | 3:37 | 2023-04-21 | 2023-06-03 |
 | [Los Medios Suenan](https://open.spotify.com/track/2T6uWv12GY7luN3TDtqHyd) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Los Medios Suenan](https://open.spotify.com/album/25fSEdtDsDfk7BdhvqKF1x) | 2:29 | 2023-04-28 | 2023-05-06 |
 | [Los Mitotes \(En Vivo\)](https://open.spotify.com/track/4ZOPCvIXPrGu6kVTOq2kQg) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Los Mitotes \(En Vivo\)](https://open.spotify.com/album/6WS9pFo1tWDb3jnzkyoK6w) | 3:17 | 2022-12-23 | 2023-01-14 |
-| [Los Pasajes Del Sera](https://open.spotify.com/track/4dDXH4yw3zDjI0CNyHy426) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 2:45 | 2023-06-23 |  |
+| [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 | 2023-06-26 |  |
+| [Los Pasajes Del Sera](https://open.spotify.com/track/4dDXH4yw3zDjI0CNyHy426) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/0vyohIT4lsuOXNUe7ADAmk) | 2:45 | 2023-06-23 | 2023-06-28 |
 | [Los Piratitas \(En Vivo\)](https://open.spotify.com/track/6nRj2PrDyGyKIz964KK4eG) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Los Piratitas \(En Vivo\)](https://open.spotify.com/album/6f7KY61tzg61KZq8Ac46dK) | 3:26 | 2022-12-02 | 2022-12-24 |
 | [LP De Bellavista](https://open.spotify.com/track/5S0gvxl82dA8IMQ8J67VMx) | [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d) | [LP De Bellavista](https://open.spotify.com/album/0QWu32ROVpBtShAnKDJ7ga) | 4:17 | 2022-10-07 | 2022-10-15 |
 | [Lujos Y Damitas](https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jr Heguertty](https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU) | [Lujos Y Damitas](https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU) | 2:34 | 2023-05-19 | 2023-06-17 |

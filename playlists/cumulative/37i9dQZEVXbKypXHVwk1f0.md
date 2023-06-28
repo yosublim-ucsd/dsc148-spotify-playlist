@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-800 songs - 1 day 21 hr 36 min
+801 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Ayahuasca](https://open.spotify.com/track/19XCnhEryQmS1TLWQyawZl) | [Bring55](https://open.spotify.com/artist/0vZbLlOGDqBhS25bc4fp73) | [Ayahuasca](https://open.spotify.com/album/111EWQtg07nn7Rt44ONX0A) | 3:23 | 2023-04-13 | 2023-06-17 |
 | [Ayahuasca](https://open.spotify.com/track/4l9bFChPNg0okIw6RK3NBI) | [Faster](https://open.spotify.com/artist/7HhjjbbHFmD12RKvEiguP8), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ayahuasca](https://open.spotify.com/album/5ZoaSwYCNDcyH9K7qG1kGG) | 3:22 | 2023-06-16 | 2023-06-22 |
 | [Ayahuasca](https://open.spotify.com/track/721VRv9NNN7pPDjo1V0HpG) | [Last Dud Music](https://open.spotify.com/artist/3a0m7xegA51QIRns7ixqSC) | [Ayahuasca](https://open.spotify.com/album/2bpkyooD63amWi9iqyS2Bb) | 3:23 | 2023-04-19 | 2023-04-21 |
+| [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 | 2023-06-27 |  |
 | [BABY OTAKU](https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ) | [Pablo Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [BABY OTAKU](https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G) | 2:56 | 2022-10-15 | 2022-10-19 |
 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 | 2023-06-09 | 2023-06-14 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 | 2022-08-11 |
@@ -101,7 +102,7 @@
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2021-03-27\* | 2021-03-27 |
 | [BIENVENIDA AL PARAÍSO](https://open.spotify.com/track/6v3fbkLKRH6jsa6dho9ocx) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 1:43 | 2022-11-05 | 2022-11-07 |
 | [Billetes De 100](https://open.spotify.com/track/4tWOrZqaelCejCT3Th8Phq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:44 | 2021-09-12 | 2021-09-13 |
-| [Billie Jean](https://open.spotify.com/track/0l90VdNkRiV1bNO78bRrBh) | [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Billie Jean](https://open.spotify.com/album/1e64VyVn3rtJjbVqu1V6KW) | 2:11 | 2023-06-24 |  |
+| [Billie Jean](https://open.spotify.com/track/0l90VdNkRiV1bNO78bRrBh) | [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Billie Jean](https://open.spotify.com/album/1e64VyVn3rtJjbVqu1V6KW) | 2:11 | 2023-06-24 | 2023-06-28 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2021-04-17 |
 | [Bomba en Navidad](https://open.spotify.com/track/2kIawdmEzVhR9F0Z8EsOns) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Felices Pascuas](https://open.spotify.com/album/5ZfFl3nLmKSGdN3pKrVBQ6) | 5:06 | 2021-12-25 | 2022-12-28 |
 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 | 2021-03-27\* | 2021-04-17 |

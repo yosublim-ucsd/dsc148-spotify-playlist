@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 651208,
+  "num_followers": 651483,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjkzNWUwNmNkYjcxMTA1ZTJjMDY2NDAzYzVlZWIxYzdiN2Y1Mzg3",
+  "snapshot_id": "MCw0M2FkNGNhNzQ4NjUwYmYzZTJlNDEyM2E1NzI1NDFjMmEzYTcyY2E5",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Edgar Joel",
-        "url": "https://open.spotify.com/album/1qUYwSVh93Qe3IHBAdk8lk"
-      },
-      "artists": [
-        {
-          "name": "Edgar Joel",
-          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
-        }
-      ],
-      "duration_ms": 284108,
-      "name": "Hasta el Sol de Hoy",
-      "url": "https://open.spotify.com/track/5Wa6Ve3VfV79Mng5MSBxAY"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "El Arrollador",
         "url": "https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 294440,
       "name": "Salsa Con Coco",
       "url": "https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Edgar Joel",
+        "url": "https://open.spotify.com/album/1qUYwSVh93Qe3IHBAdk8lk"
+      },
+      "artists": [
+        {
+          "name": "Edgar Joel",
+          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
+        }
+      ],
+      "duration_ms": 284108,
+      "name": "Hasta el Sol de Hoy",
+      "url": "https://open.spotify.com/track/5Wa6Ve3VfV79Mng5MSBxAY"
     },
     {
       "added_at": "2023-03-17 00:48:14",

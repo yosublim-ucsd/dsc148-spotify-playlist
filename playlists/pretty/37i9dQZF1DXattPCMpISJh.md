@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,057 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,142 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [I Won't Walk Away](https://open.spotify.com/track/1s3v94X2Y4GSAetgiWZxx4) | [Samantha LaPorta](https://open.spotify.com/artist/0PT3uYshYiUCfK0jxYKMqb) | [I Won't Walk Away](https://open.spotify.com/album/24ntKGAFS4II7wLzkhrIba) | 3:03 |
 | 100 | [Under the Light](https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY) | [LeMarquis](https://open.spotify.com/artist/6w9iqkoyGAs9PRssKIvq9G) | [Origin](https://open.spotify.com/album/6sCftII6Jd2YAU3Yxs9Cw8) | 2:48 |
 
-Snapshot ID: `MCwwMjY0YzMzZDUyMzJmZTVjZDBhNDBjOWNhMDNiMDMyZjNjMDI1ODhk`
+Snapshot ID: `MCxhYzliMWRkYzI1OTg5MmE1M2YyY2Y1NTQ0ZmVlMWY1MzEzYjJmZWNm`

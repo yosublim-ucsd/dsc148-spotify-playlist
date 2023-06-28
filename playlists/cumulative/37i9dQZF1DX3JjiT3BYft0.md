@@ -4,12 +4,13 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-352 songs - 1 day 1 hr 37 min
+354 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!NVADE SHOW!](https://open.spotify.com/track/4EqT5Y6FEicelhWTbmCzPr) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/28b3WsvQkZZvOZYN95BdSi) | 4:25 | 2022-05-17 | 2022-07-22 |
 | [\-HEROIC ADVENT\-](https://open.spotify.com/track/1wUsBNR7p92LWE8sTj6gTA) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/6qpvaZAmX8QxKpnRDiKVi6) | 3:39 | 2022-09-20 | 2022-10-03 |
+| [\-N\-E\-M\-E\-S\-I\-S\-](https://open.spotify.com/track/5skDEFT2MJYyNTrSf3pMlF) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [\-N\-E\-M\-E\-S\-I\-S\-](https://open.spotify.com/album/1ihbPDqN2WKEcfp9TimN35) | 4:27 | 2023-06-27 |  |
 | [1000回潤んだ空](https://open.spotify.com/track/0auqVPmbobwbmqwJbPu0Tr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TVアニメ「BanG Dream!」OP主題歌「ときめきエクスペリエンス!」](https://open.spotify.com/album/6W45N04MKzCr9KOK1MELWh) | 5:31 | 2022-05-17 | 2022-07-27 |
 | [A DECLARATION OF ×××](https://open.spotify.com/track/2zidm9e4RyoubevfU7VHYM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 5:15 | 2022-06-23 | 2022-10-02 |
 | [A DECLARATION OF ×××](https://open.spotify.com/track/5tmdbGdlFk5MckinctDpMj) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 5:15 | 2022-09-20 | 2023-06-01 |
@@ -184,7 +185,7 @@
 | [That is How I Roll!](https://open.spotify.com/track/2rUfkE2dKqc3x4Rk0B25nO) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 3:59 | 2022-06-23 | 2022-06-30 |
 | [That Is How I Roll!](https://open.spotify.com/track/2Kuv5okNDlV19y81tkiqdp) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [That Is How I Roll!](https://open.spotify.com/album/1S6QsRtMbeb3p5JFO7zhKc) | 3:59 | 2022-05-17 | 2022-06-25 |
 | [THE HISTORIC...](https://open.spotify.com/track/50mZB404Mh36IcnDvkGqqX) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1) | 4:31 | 2022-05-17 | 2022-07-29 |
-| [THE WAY OF LIFE](https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 3:57 | 2022-12-13 |  |
+| [THE WAY OF LIFE](https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 3:57 | 2022-12-13 | 2023-06-28 |
 | [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 | 2023-05-09 |  |
 | [Time Lapse](https://open.spotify.com/track/5T8colb4YzBDdOboom5twr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Time Lapse](https://open.spotify.com/album/1YMySyG5al3QpCnXQLey9R) | 4:05 | 2022-05-17 | 2022-07-01 |
 | [Tokimeki Experience!](https://open.spotify.com/track/5uxhAPNplFMEkvXNNLzEZl) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL) | 4:17 | 2022-06-23 | 2022-08-19 |
@@ -223,7 +224,7 @@
 | [きゅ\~まい\*flower](https://open.spotify.com/track/2fJThhwR3Y4kGXIFRGtGtt) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 3:40 | 2022-09-20 |  |
 | [きゅ〜まい\*flower](https://open.spotify.com/track/09VlBUV2bN1Hk8KtXD59HS) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [きゅ〜まい\*flower](https://open.spotify.com/album/0hHVUOsumXqR5YJ9ueTcgx) | 3:39 | 2022-06-23 | 2022-07-28 |
 | [きらっ☆と キミフェス!](https://open.spotify.com/track/2iiluETgWgme5fGx5OhXFq) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きらっ☆と キミフェス!](https://open.spotify.com/album/5RgYvLQbOe6akYE244N6mk) | 3:50 | 2022-06-23 | 2022-07-29 |
-| [きらっ☆と キミフェス!](https://open.spotify.com/track/3hRX4ZDtIkhmnXOwH5fKnC) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きらっ☆と キミフェス!](https://open.spotify.com/album/6D88Xy9TraFcANYAOxZWb2) | 3:51 | 2022-09-20 |  |
+| [きらっ☆と キミフェス!](https://open.spotify.com/track/3hRX4ZDtIkhmnXOwH5fKnC) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きらっ☆と キミフェス!](https://open.spotify.com/album/6D88Xy9TraFcANYAOxZWb2) | 3:51 | 2022-09-20 | 2023-06-28 |
 | [ぎゅっDAYS♪](https://open.spotify.com/track/70tTb2mO6V8XpjhoijNsgl) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [ワクワクmeetsトリップ](https://open.spotify.com/album/4KWijoVg4ZVDStYSwRv0Lz) | 4:13 | 2022-05-17 | 2022-07-27 |
 | [ここから先は歌にならない](https://open.spotify.com/track/3zrDR47uavNOm3f4i53n2l) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/0qEUvpIcVXtvXvsWJKcMhK) | 4:37 | 2022-05-17 | 2022-07-25 |
 | [しゅわりん☆どり\~みん](https://open.spotify.com/track/4viy9f3Ka81kR1Gf2U9hAY) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 3:55 | 2022-09-20 |  |
@@ -269,6 +270,7 @@
 | [キミがいなくちゃっ!](https://open.spotify.com/track/5VHNQC58J2b2XGziQZUdFx) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/19s8qe8u31NWdy8uadZp1T) | 4:02 | 2022-05-17 | 2022-07-28 |
 | [キミがいなくちゃっ!](https://open.spotify.com/track/3EoWSf3jmiMPN1h5V1X9IJ) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 4:03 | 2022-09-20 |  |
 | [キミにもらったもの](https://open.spotify.com/track/6cKlNgYeJXz94KNfV5t6YB) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [クリスマスのうた](https://open.spotify.com/album/5FsEglOG4BOtUmXoVZ7sKb) | 3:54 | 2022-06-23 | 2022-07-20 |
+| [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/track/6UvgtXRglHbv8TMZs12DCK) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/album/25kdZKiHYjFDfnzQUEheQH) | 3:55 | 2023-06-27 |  |
 | [キラキラだとか夢だとか 〜Sing Girls〜](https://open.spotify.com/track/0V1DIariXWpmS20mpaC7bn) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TVアニメ「BanG Dream!」ED主題歌「キラキラだとか夢だとか 〜Sing Girls〜」](https://open.spotify.com/album/3AFkgSh1JVkEujfHxItEpy) | 5:05 | 2022-06-23 | 2022-07-29 |
 | [クインティプル☆すまいる](https://open.spotify.com/track/38h0Hs77kE2C1nRN9KgZqp) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [クインティプル☆すまいる](https://open.spotify.com/album/7jSTcMdYALUXD6hZWdsw5J) | 4:03 | 2022-09-20 |  |
 | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/track/1ZPkTBKxZqk1DqccCHeLrD) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 3:40 | 2022-06-23 | 2022-07-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 119629,
+  "num_followers": 119695,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODUxMTIxM2MyMGQzYzIyOWY0MTc2Y2Y5ZThmZWFhZjJkMjZlNzU2",
+  "snapshot_id": "MCxiMDVlYzc3MjdmZGQzOTkxMzU4YjdhMTVhNmEzYzUwYmU2MzllMjc5",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -463,22 +463,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
-        "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX"
       },
       "artists": [
         {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Lisset",
-          "url": "https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Nada Personal",
-      "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
+      "duration_ms": 165680,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/3Bn5su26JosHjkbIrxgz0j"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -539,18 +535,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX"
+        "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
+        "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Lisset",
+          "url": "https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW"
         }
       ],
-      "duration_ms": 165680,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/3Bn5su26JosHjkbIrxgz0j"
+      "duration_ms": 191306,
+      "name": "Nada Personal",
+      "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
     },
     {
       "added_at": "2022-05-06 18:32:26",

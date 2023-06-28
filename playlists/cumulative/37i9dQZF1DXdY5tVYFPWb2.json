@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 217059,
       "name": "Blue Flight",
       "url": "https://open.spotify.com/track/1a3YHWlfkazgVfLyrBg0j3"
@@ -2161,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "FLYME",
+        "url": "https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5"
+      },
+      "artists": [
+        {
+          "name": "dawgss",
+          "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221937,
+      "name": "FLYME",
+      "url": "https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN"
+    },
+    {
+      "album": {
         "name": "INTERWEAVE 02",
         "url": "https://open.spotify.com/album/2ujuanUjHgl8sDGvipTmq3"
       },
@@ -2216,6 +2234,24 @@
       "duration_ms": 229653,
       "name": "friends",
       "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
+    },
+    {
+      "album": {
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230813,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/4Yo0r2wyWLIOVzAnyJwbIc"
     },
     {
       "album": {
@@ -3140,7 +3176,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Last Train",
       "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
@@ -4294,7 +4330,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 212300,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/4FatsmenVVArCsRw6J7cBU"
@@ -4488,7 +4524,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 276333,
       "name": "Open The Window feat. JQ from Nulbarich",
       "url": "https://open.spotify.com/track/4utjbNJwBD9sy817QOP1wc"
@@ -8603,6 +8639,24 @@
     },
     {
       "album": {
+        "name": "CAN",
+        "url": "https://open.spotify.com/album/6NCNTq6njeQ9mkk091oSx8"
+      },
+      "artists": [
+        {
+          "name": "pachae",
+          "url": "https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191466,
+      "name": "\u30c0\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/16B2RmB3Zrle55oDMIeAtG"
+    },
+    {
+      "album": {
         "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
         "url": "https://open.spotify.com/album/6nDOpp1BlN1SSZYl1NAmSD"
       },
@@ -9498,7 +9552,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 258295,
       "name": "\u590f\u306e\u30af\u30e9\u30af\u30b7\u30e7\u30f3 feat. \u6bd4\u5c4b\u5b9a\u7be4\u5b50",
       "url": "https://open.spotify.com/track/39wTz92UaUNta2Qd3xFLbP"

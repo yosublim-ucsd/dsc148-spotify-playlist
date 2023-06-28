@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Nuevo rock alternativo argentino\. <br/>📷 La Piba Berreta
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,919 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,940 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 59 | [La Luz](https://open.spotify.com/track/6htVnNXldV7pX7hiyAdXwr) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 2:35 |
 | 60 | [Natalia Dice](https://open.spotify.com/track/4Lg1a3ptSavkUgjV5nwBIC) | [J](https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0), [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r), [Srta\. Trueno Negro](https://open.spotify.com/artist/5hVTdFTyOgwBKn5CWKnwrQ) | [Natalia Dice](https://open.spotify.com/album/4KKMxWPrXOZauEAQUKpo0A) | 4:11 |
 
-Snapshot ID: `MCw4MmFlNzgwNTk5ZmM5MDYxNDgwOGUzNzYyYjJjNDgwNWU3NDY2MmIz`
+Snapshot ID: `MCxhZGQ5NDRiYzRiNTE2MDZiMDk5M2UwOGRhMWVlMDhhY2EzMWY0MWUz`

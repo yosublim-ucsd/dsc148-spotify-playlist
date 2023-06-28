@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 436263,
+  "num_followers": 436339,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjQ2MDQ3MzIzZDZhYmI4NDEyNGJlYmM3NDM1ZDQyY2MyMmI3MDE3",
+  "snapshot_id": "MCwzMjM4MmVmMmNhOWI3OGE5MWVjNTg1MWQ0OTgzOTI1ZWNlMjAwODhi",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus)",
+      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Eternal Flame",
         "url": "https://open.spotify.com/album/7tb7dGLxrTJDQvF0kGdf3e"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 162546,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/4v2L78a6CUNGucM9hRyDiP"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love (Bonus)",
-      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Siamese Dream",
-        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 255633,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Come As You Are",
         "url": "https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 165309,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Siamese Dream",
+        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 255633,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Robyn Sherwell",
         "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 170399,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1107,6 +1107,22 @@
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Thinking In Textures",
+        "url": "https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw"
-      },
-      "artists": [
-        {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
-        }
-      ],
-      "duration_ms": 266863,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Passionfruit",
         "url": "https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 212306,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw"
+      },
+      "artists": [
+        {
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+        }
+      ],
+      "duration_ms": 266863,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1287,22 +1303,6 @@
       "duration_ms": 204160,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Thinking In Textures",
-        "url": "https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/5eAqisChf22yDfAABxciv1"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/75ysa8MFPtBmESXm8bcgvd"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Here Comes The Sun (feat. dodie)",
         "url": "https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 236129,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/5eAqisChf22yDfAABxciv1"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/75ysa8MFPtBmESXm8bcgvd"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/0qpOhvO4u3yCRQbtrGiHMG"
-      },
-      "artists": [
-        {
-          "name": "will hyde",
-          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/3NiHRFN1Wvx9c2IYRPD1Zf"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Undercover Bros.",
         "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 248590,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/0qpOhvO4u3yCRQbtrGiHMG"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/3NiHRFN1Wvx9c2IYRPD1Zf"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "For The Young",
-        "url": "https://open.spotify.com/album/6qd53x1EBxp5wSlmqv9R7B"
-      },
-      "artists": [
-        {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
-        }
-      ],
-      "duration_ms": 249400,
-      "name": "Show Me The Meaning Of Being Lonely",
-      "url": "https://open.spotify.com/track/4AxIU7R7grPIgl8m6xhvke"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Nothing's Gonna Hurt You Baby (From \"Promising Young Woman\" Soundtrack)",
         "url": "https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 197864,
       "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
       "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "For The Young",
+        "url": "https://open.spotify.com/album/6qd53x1EBxp5wSlmqv9R7B"
+      },
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+        }
+      ],
+      "duration_ms": 249400,
+      "name": "Show Me The Meaning Of Being Lonely",
+      "url": "https://open.spotify.com/track/4AxIU7R7grPIgl8m6xhvke"
     }
   ],
   "unique_name": "Chill Covers",

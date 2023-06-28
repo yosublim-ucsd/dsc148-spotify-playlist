@@ -2,7 +2,7 @@
 
 ### [Urbano Fresh](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Lo nuevo del popetón y reggaetón emergente en MX, con Mar Lucas, Kenia Os, Beéle
+> Lo nuevo del popetón y reggaetón emergente en MX, con Ghetto Kids, El Malilla y EMJAY
 
 271 songs - 13 hr 54 min
 

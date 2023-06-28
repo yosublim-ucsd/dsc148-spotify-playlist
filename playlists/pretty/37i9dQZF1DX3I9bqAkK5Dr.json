@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : Ram Miriyala",
-  "num_followers": 27483,
+  "num_followers": 27501,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmRiNmVlNDYwZWY4ZGIwYTJiZTk1YWNlZWU3NmZkMTlkMzljYjc0",
+  "snapshot_id": "MCw0NGZjYWFjMzZhYWRjMDZkMjVlMzE0NTI0Nzk4ZmEyODYzNTQ3ZDI5",
   "tracks": [
     {
       "added_at": "2023-05-12 08:55:25",
@@ -101,6 +101,30 @@
       "url": "https://open.spotify.com/track/0B79xEGpoO6gubw7EXdqhG"
     },
     {
+      "added_at": "2023-06-27 09:52:07",
+      "album": {
+        "name": "Yevaro - Tune In For Love",
+        "url": "https://open.spotify.com/album/4LPlNuelafPwQ6Ut6ux86S"
+      },
+      "artists": [
+        {
+          "name": "Sujith Benjamin",
+          "url": "https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz"
+        },
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "duration_ms": 211276,
+      "name": "Yevaro - Tune In For Love",
+      "url": "https://open.spotify.com/track/19mpCjxB2QVnD9UPbMBRGh"
+    },
+    {
       "added_at": "2023-05-18 06:03:12",
       "album": {
         "name": "London Bridge",
@@ -135,6 +159,26 @@
       "duration_ms": 232149,
       "name": "Naku Breakup Ayyindoch",
       "url": "https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV"
+    },
+    {
+      "added_at": "2023-06-27 09:58:03",
+      "album": {
+        "name": "Nee Kosam",
+        "url": "https://open.spotify.com/album/65B5rk7dznh1ma7nV0H6DO"
+      },
+      "artists": [
+        {
+          "name": "T\u00f6rk",
+          "url": "https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy"
+        },
+        {
+          "name": "AKSH",
+          "url": "https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Nee Kosam",
+      "url": "https://open.spotify.com/track/1oML0e4HFyAvNCNrNdxpDg"
     },
     {
       "added_at": "2023-04-05 06:19:22",
@@ -187,6 +231,26 @@
       "duration_ms": 176912,
       "name": "Madana Mohana",
       "url": "https://open.spotify.com/track/3zgwUXkrvDhdw7Sm5iHTRv"
+    },
+    {
+      "added_at": "2023-06-27 09:59:08",
+      "album": {
+        "name": "Nee Kosam",
+        "url": "https://open.spotify.com/album/65B5rk7dznh1ma7nV0H6DO"
+      },
+      "artists": [
+        {
+          "name": "T\u00f6rk",
+          "url": "https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy"
+        },
+        {
+          "name": "AKSH",
+          "url": "https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "Nuvvele",
+      "url": "https://open.spotify.com/track/3KAAehMv5l1x239SONwaDw"
     },
     {
       "added_at": "2023-06-16 08:51:58",

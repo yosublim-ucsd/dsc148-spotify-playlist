@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: KIM JAE HWAN(\uae40\uc7ac\ud658))",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: HanSeungWoo(\ud55c\uc2b9\uc6b0))",
   "name": "New Music K-Pop",
   "tracks": [
     {
@@ -1446,6 +1446,24 @@
       "duration_ms": 194506,
       "name": "458",
       "url": "https://open.spotify.com/track/4FHnQdUyWz3clxy3d7loOY"
+    },
+    {
+      "album": {
+        "name": "4:ever",
+        "url": "https://open.spotify.com/album/4P0kjkeTg5XEX1ELCLBBLv"
+      },
+      "artists": [
+        {
+          "name": "24 o'clock",
+          "url": "https://open.spotify.com/artist/5IkOAv3Mw4XdaMtSysTUbs"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "4:ever",
+      "url": "https://open.spotify.com/track/3SmHyaTCDWnJjlrWQs5Chx"
     },
     {
       "album": {
@@ -22545,6 +22563,24 @@
     },
     {
       "album": {
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
+      },
+      "artists": [
+        {
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
+    },
+    {
+      "album": {
         "name": "Dive into spring",
         "url": "https://open.spotify.com/album/5kLHqde1s7QePfDzMBYjre"
       },
@@ -27846,6 +27882,24 @@
       "duration_ms": 216250,
       "name": "Everywhere (feat. Sojung)",
       "url": "https://open.spotify.com/track/6ZXE8tjsYMewC160pFbs6s"
+    },
+    {
+      "album": {
+        "name": "UNCHARTED DRIFT",
+        "url": "https://open.spotify.com/album/61W392PxSk764yUZnI8eyR"
+      },
+      "artists": [
+        {
+          "name": "8TURN",
+          "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170783,
+      "name": "EXCEL",
+      "url": "https://open.spotify.com/track/0hPbVp26JuqHo0N3JPvdDZ"
     },
     {
       "album": {
@@ -37157,6 +37211,24 @@
     },
     {
       "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "HARD",
+      "url": "https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB"
+    },
+    {
+      "album": {
         "name": "Red Balloon OST Part.3",
         "url": "https://open.spotify.com/album/5fvFvfK7fzy9jTZdiqGPNS"
       },
@@ -37234,6 +37306,28 @@
       "duration_ms": 172440,
       "name": "Hate me (Love me) (Feat. Kang Butter)",
       "url": "https://open.spotify.com/track/1LHq4YSzTK2c5IOrxCRk0I"
+    },
+    {
+      "album": {
+        "name": "HATE XX",
+        "url": "https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181013,
+      "name": "Hate Rodrigo (Feat. YUQI)",
+      "url": "https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9"
     },
     {
       "album": {
@@ -43504,6 +43598,24 @@
       "duration_ms": 191159,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/2WOAu8tgfIZUyPMWAGZrFn"
+    },
+    {
+      "album": {
+        "name": "Heartbeat (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1SppqHeF2hRV1aydHRDTZJ"
+      },
+      "artists": [
+        {
+          "name": "HAN SEUNG YUN",
+          "url": "https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178240,
+      "name": "I Revive",
+      "url": "https://open.spotify.com/track/7p0ioxh3zkPuvpnVdqVJ2K"
     },
     {
       "album": {
@@ -86076,6 +86188,24 @@
       "duration_ms": 235858,
       "name": "Summer In Love",
       "url": "https://open.spotify.com/track/2GWN9DZzufK8Yo1ahtqZIm"
+    },
+    {
+      "album": {
+        "name": "SEOUL WAVE",
+        "url": "https://open.spotify.com/album/5KIYmkL4tCXhsCy9L3sRRJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Areum",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233712,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/0bcNarvzhwBVfc6DaVI16H"
     },
     {
       "album": {

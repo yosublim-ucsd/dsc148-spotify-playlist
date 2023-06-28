@@ -2815,6 +2815,24 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Know",
+        "url": "https://open.spotify.com/album/0mUbrbUetoIgyeW43jpihp"
+      },
+      "artists": [
+        {
+          "name": "Moav",
+          "url": "https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/3rkViZW8u35YjiKR3NV3Pb"
+    },
+    {
+      "album": {
         "name": "I GOT YOU",
         "url": "https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN"
       },

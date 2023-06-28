@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 29497,
+  "num_followers": 29520,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTIxODNkZmMwZmI3OWEwYjYwYmJmNmY4ZDQ3YmQwNmQzYzc4ZTU2",
+  "snapshot_id": "MCxhNDk4NzQxM2MwOWE3YTgzYTQ4NzJlMzU1ZGJhNDI4M2NmOTNlNzRm",
   "tracks": [
     {
       "added_at": "2023-06-09 12:35:28",
@@ -867,22 +867,18 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "No. 4",
-        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
+        "name": "Welfare / Practice",
+        "url": "https://open.spotify.com/album/1O05SuJmpU1j9PtraWRaXc"
       },
       "artists": [
         {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+          "name": "Lucy Liyou",
+          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
         }
       ],
-      "duration_ms": 170613,
-      "name": "At Dawn",
-      "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
+      "duration_ms": 231731,
+      "name": "How to build an automaton",
+      "url": "https://open.spotify.com/track/1yOj6SKeaEpGYwVbhMN9a7"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -903,18 +899,22 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Welfare / Practice",
-        "url": "https://open.spotify.com/album/1O05SuJmpU1j9PtraWRaXc"
+        "name": "No. 4",
+        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
       "artists": [
         {
-          "name": "Lucy Liyou",
-          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
         }
       ],
-      "duration_ms": 231731,
-      "name": "How to build an automaton",
-      "url": "https://open.spotify.com/track/1yOj6SKeaEpGYwVbhMN9a7"
+      "duration_ms": 170613,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Angel Tears in Sunlight",
-        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 243232,
-      "name": "The Eighteen Beautiful Memories",
-      "url": "https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
         "name": "Collagen",
         "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 321693,
       "name": "In Her Hair",
       "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
+        "name": "Angel Tears in Sunlight",
+        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 243232,
+      "name": "The Eighteen Beautiful Memories",
+      "url": "https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Epistasis",
-        "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
-      },
-      "artists": [
-        {
-          "name": "Maria w Horn",
-          "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
-        }
-      ],
-      "duration_ms": 571000,
-      "name": "Epistasis",
-      "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
         "name": "The Fifth Season (Versions)",
         "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 674042,
       "name": "You, at the End - Laurel Halo Version",
       "url": "https://open.spotify.com/track/0mpoJatIQQiyxaAvAS6H9e"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
+        "name": "Epistasis",
+        "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
+      },
+      "artists": [
+        {
+          "name": "Maria w Horn",
+          "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
+        }
+      ],
+      "duration_ms": 571000,
+      "name": "Epistasis",
+      "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Headflush",
-        "url": "https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj"
+        "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
+        "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
       },
       "artists": [
         {
-          "name": "Leila Bordreuil",
-          "url": "https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35"
+          "name": "Hannah Lee",
+          "url": "https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy"
+        },
+        {
+          "name": "El Le\u00f3n Pardo",
+          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
         }
       ],
-      "duration_ms": 557973,
-      "name": "Sleep Cycle",
-      "url": "https://open.spotify.com/track/3jqcYNQZCNuPL7AHl5TbRQ"
+      "duration_ms": 1792000,
+      "name": "Sino Algo Que Produce Sombras?",
+      "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1687,22 +1691,18 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
-        "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
+        "name": "Headflush",
+        "url": "https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj"
       },
       "artists": [
         {
-          "name": "Hannah Lee",
-          "url": "https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy"
-        },
-        {
-          "name": "El Le\u00f3n Pardo",
-          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
+          "name": "Leila Bordreuil",
+          "url": "https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35"
         }
       ],
-      "duration_ms": 1792000,
-      "name": "Sino Algo Que Produce Sombras?",
-      "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
+      "duration_ms": 557973,
+      "name": "Sleep Cycle",
+      "url": "https://open.spotify.com/track/3jqcYNQZCNuPL7AHl5TbRQ"
     }
   ],
   "unique_name": "EQUAL Ambient",

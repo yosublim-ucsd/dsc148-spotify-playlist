@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Ash Lauryn\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,635 likes - 99 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,691 likes - 99 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 98 | [BTR2](https://open.spotify.com/track/3XPdD1amupx8Jj7J5cPfAx) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU), [MADELEINE](https://open.spotify.com/artist/6KLwe6l8iwIv4ijdPgdiSK) | [BTR2](https://open.spotify.com/album/4Ro7Rk9JCDOpx8gKfnx37X) | 5:22 |
 | 99 | [Holding On](https://open.spotify.com/track/5PC1KQ3dxXljDvWSMuduJh) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Holding On](https://open.spotify.com/album/0NuHhyZAE3iAdFYAOYoycv) | 4:17 |
 
-Snapshot ID: `MCxkM2MzZjljZTAzYThhZjY2YmY1NTlhNDRhMTdmNzA5MjMzYmYxNTc4`
+Snapshot ID: `MCxjZDNlMWRmZTkzNjFhMzMwYjFiMzQ5ZjMzZWQ0NTE5YTQ3MzdmZjZj`

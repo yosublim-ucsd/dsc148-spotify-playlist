@@ -1,12 +1,12 @@
 {
   "description": "Solo il meglio dello street rap italiano. Cover: Tedua",
-  "num_followers": 844917,
+  "num_followers": 845034,
   "original_name": "Street Culto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDJlMGI1NWMxNDM3Y2ZhMzA1NDM2OTg2ZjdmNGQ3NzM0YWRjOTZh",
+  "snapshot_id": "MCxlODliNjM3Y2QwMWVkNjA2YzQwOTU2MWJhMGFjOGQ5OTJjN2E5YmVj",
   "tracks": [
     {
       "added_at": "2023-06-22 22:01:00",
@@ -267,6 +267,26 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "Aspettative (feat. Medy)",
+        "url": "https://open.spotify.com/album/3J0jkkvPh2SxG2kHauCRWi"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Aspettative (feat. Medy)",
+      "url": "https://open.spotify.com/track/4qEfhwGPxuryUCtVdA14lV"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "INNOCENTE",
         "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 147253,
       "name": "Tony Montana (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/201JJbyPScX7NO7DnjhNnD"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Quarto di Bue",
-        "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
-      },
-      "artists": [
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        },
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        }
-      ],
-      "duration_ms": 152800,
-      "name": "Massafghanistan",
-      "url": "https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -359,30 +359,6 @@
       "duration_ms": 133858,
       "name": "Pel\u00e9",
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "WE ON EM (feat. NLE Choppa)",
-        "url": "https://open.spotify.com/album/7udyn4k5NezxJxkmogAuxK"
-      },
-      "artists": [
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 192558,
-      "name": "WE ON EM (feat. NLE Choppa)",
-      "url": "https://open.spotify.com/track/4dxGWEYW7UBxG1piCzVH6F"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -547,26 +523,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Aspettative (feat. Medy)",
-        "url": "https://open.spotify.com/album/3J0jkkvPh2SxG2kHauCRWi"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9za",
-          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
-        },
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Aspettative (feat. Medy)",
-      "url": "https://open.spotify.com/track/4qEfhwGPxuryUCtVdA14lV"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
       },
@@ -603,6 +559,30 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "WE ON EM (feat. NLE Choppa)",
+        "url": "https://open.spotify.com/album/7udyn4k5NezxJxkmogAuxK"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 192558,
+      "name": "WE ON EM (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/4dxGWEYW7UBxG1piCzVH6F"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Pararara",
         "url": "https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q"
       },
@@ -635,42 +615,6 @@
       "duration_ms": 169714,
       "name": "Vodka (feat. ANNA)",
       "url": "https://open.spotify.com/track/5PenP8v9fJ3ccElGKOKT9s"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Pas De Salam",
-        "url": "https://open.spotify.com/album/3XmmEZ7dvQw18C8KsRKWhf"
-      },
-      "artists": [
-        {
-          "name": "SPOOKYPBL",
-          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
-        },
-        {
-          "name": "Keta",
-          "url": "https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn"
-        }
-      ],
-      "duration_ms": 159742,
-      "name": "Pas De Salam",
-      "url": "https://open.spotify.com/track/4odaNK2WriH7cXdTOaOxKH"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 144930,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -791,30 +735,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "Digital Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
-        }
-      ],
-      "duration_ms": 160319,
-      "name": "NIKE (feat. Tony Boy, Digital Astro)",
-      "url": "https://open.spotify.com/track/5rKeKZlZ3u0bT7QvWMts7C"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Il Doc 3 (feat. Tony Effe, Slings & MamboLosco)",
         "url": "https://open.spotify.com/album/0Us36d7YZAKpS3YjY1oVNk"
       },
@@ -847,6 +767,26 @@
       "duration_ms": 211429,
       "name": "Il Doc 3 (feat. Tony Effe, Slings & MamboLosco)",
       "url": "https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Quarto di Bue",
+        "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 152800,
+      "name": "Massafghanistan",
+      "url": "https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -891,30 +831,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Metropolitana",
-        "url": "https://open.spotify.com/album/4VFiQpAxljv9ikIK9QXTEQ"
-      },
-      "artists": [
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "Mojobeatz",
-          "url": "https://open.spotify.com/artist/1Pwd1KP0QpMW7BZq6EdTB0"
-        }
-      ],
-      "duration_ms": 179067,
-      "name": "Metropolitana",
-      "url": "https://open.spotify.com/track/2LefQOKsenY4CsqByGwNDC"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "BRUTTE COSE (feat. MINUR)",
         "url": "https://open.spotify.com/album/5JFv3cliyAn44LE6HeYSID"
       },
@@ -955,6 +871,42 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "Pas De Salam",
+        "url": "https://open.spotify.com/album/3XmmEZ7dvQw18C8KsRKWhf"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        },
+        {
+          "name": "Keta",
+          "url": "https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn"
+        }
+      ],
+      "duration_ms": 159742,
+      "name": "Pas De Salam",
+      "url": "https://open.spotify.com/track/4odaNK2WriH7cXdTOaOxKH"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "In Mezzo ai Guai (feat. Neima Ezza)",
         "url": "https://open.spotify.com/album/0xO0SQjczFWJFUk2wSSQh9"
       },
@@ -987,6 +939,54 @@
       "duration_ms": 144400,
       "name": "Passaggi Di Mano",
       "url": "https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        }
+      ],
+      "duration_ms": 160319,
+      "name": "NIKE (feat. Tony Boy, Digital Astro)",
+      "url": "https://open.spotify.com/track/5rKeKZlZ3u0bT7QvWMts7C"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Metropolitana",
+        "url": "https://open.spotify.com/album/4VFiQpAxljv9ikIK9QXTEQ"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Mojobeatz",
+          "url": "https://open.spotify.com/artist/1Pwd1KP0QpMW7BZq6EdTB0"
+        }
+      ],
+      "duration_ms": 179067,
+      "name": "Metropolitana",
+      "url": "https://open.spotify.com/track/2LefQOKsenY4CsqByGwNDC"
     },
     {
       "added_at": "2023-06-22 22:01:00",

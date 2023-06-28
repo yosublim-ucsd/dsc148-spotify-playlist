@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 25 | [Samba Em Prelúdio \(Un Jour Sans Toi\) \- The Paris Sessions](https://open.spotify.com/track/3ePM3xbtMJ9KpsMBSLXN4B) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux \(The Paris Sessions\)](https://open.spotify.com/album/2UfbvrTEAQ7mupKd1bgOXy) | 7:13 |
 | 26 | [Mississippi Goddam \- Live](https://open.spotify.com/track/501mPDOvG6oHVHe4iFfHPV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Mississippi Goddam \(Live\)](https://open.spotify.com/album/006qHkILPYjq0wwcmDkFWA) | 6:50 |
 | 27 | [Paranoid \(Live in San Antonio, May 13, 1982\) \- 2023 Remix](https://open.spotify.com/track/0452Vi5AOizUNy12JGw2Fd) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Live Evil \(40th Anniversary Super Deluxe\)](https://open.spotify.com/album/76pSxqLWTQeaTtE2CM3Tjj) | 4:23 |
-| 28 | [Piano Concerto No\. 3: Movement I](https://open.spotify.com/track/3OyT9dfB866ipDjG0Op1rE) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Alexey Botvinov](https://open.spotify.com/artist/2ncOVlwWHKWi5CnO9HkhVf), [New Century Chamber Orchestra](https://open.spotify.com/artist/7hOM6GsmiRE9I1eM1Eldhw), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur) | [Music for a New Century](https://open.spotify.com/album/6GzCM6xDYDX4gJSvuEFSTt) | 8:10 |
+| 28 | [Double Concerto for Violin, Piano, and String Orchestra with Percussion: III\. Misterioso](https://open.spotify.com/track/1GFOrfX6ypNk6VqvlKXlAj) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Alexey Botvinov](https://open.spotify.com/artist/2ncOVlwWHKWi5CnO9HkhVf), [New Century Chamber Orchestra](https://open.spotify.com/artist/7hOM6GsmiRE9I1eM1Eldhw) | [Music for a New Century](https://open.spotify.com/album/6GzCM6xDYDX4gJSvuEFSTt) | 5:33 |
 | 29 | [The Glass](https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:49 |
 | 30 | [Crash The Car](https://open.spotify.com/track/5VtjjJlCiWOeDmnxURCtfl) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [Crash The Car](https://open.spotify.com/album/7wvAhyTMzbDsgz03Tp21d1) | 5:36 |
 
-Snapshot ID: `MjgxMjQ4ODAsMDAwMDAwMDBjY2I4MGQwODUzYzE2Yzc1NDk5NTdjNzA4YTZiMzM1Zg==`
+Snapshot ID: `MjgxMjQ4ODAsMDAwMDAwMDBmNzlhMTdiZWEwOWZkM2U5MDBhOTg0ZjFmOGIwYjAzNg==`

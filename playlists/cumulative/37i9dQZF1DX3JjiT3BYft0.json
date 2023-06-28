@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "-N-E-M-E-S-I-S-",
+        "url": "https://open.spotify.com/album/1ihbPDqN2WKEcfp9TimN35"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267900,
+      "name": "-N-E-M-E-S-I-S-",
+      "url": "https://open.spotify.com/track/5skDEFT2MJYyNTrSf3pMlF"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300dOP\u4e3b\u984c\u6b4c\u300c\u3068\u304d\u3081\u304d\u30a8\u30af\u30b9\u30da\u30ea\u30a8\u30f3\u30b9!\u300d",
         "url": "https://open.spotify.com/album/6W45N04MKzCr9KOK1MELWh"
       },
@@ -3296,7 +3314,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 237900,
       "name": "THE WAY OF LIFE",
       "url": "https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq"
@@ -3998,7 +4016,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 231166,
       "name": "\u304d\u3089\u3063\u2606\u3068 \u30ad\u30df\u30d5\u30a7\u30b9!",
       "url": "https://open.spotify.com/track/3hRX4ZDtIkhmnXOwH5fKnC"
@@ -4844,6 +4862,24 @@
       "duration_ms": 234533,
       "name": "\u30ad\u30df\u306b\u3082\u3089\u3063\u305f\u3082\u306e",
       "url": "https://open.spotify.com/track/6cKlNgYeJXz94KNfV5t6YB"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30df\u3092 \u308c\u3063\u3064\u30fb\u306f\u3076\u30fb\u3075\u3041\u3093\u266a",
+        "url": "https://open.spotify.com/album/25kdZKiHYjFDfnzQUEheQH"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "\u30ad\u30df\u3092 \u308c\u3063\u3064\u30fb\u306f\u3076\u30fb\u3075\u3041\u3093\u266a",
+      "url": "https://open.spotify.com/track/6UvgtXRglHbv8TMZs12DCK"
     },
     {
       "album": {

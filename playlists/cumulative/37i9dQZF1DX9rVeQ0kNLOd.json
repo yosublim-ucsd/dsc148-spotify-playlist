@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 150672,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/6KrRLTu0znn13IY3HD6bdr"
@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "silky",
+        "url": "https://open.spotify.com/album/58qnZnXarK7UW0F1C0VPDV"
+      },
+      "artists": [
+        {
+          "name": "showmore",
+          "url": "https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257077,
+      "name": "silky",
+      "url": "https://open.spotify.com/track/3bVJmvwK9808yDjqcfKhKe"
+    },
+    {
+      "album": {
         "name": "Simple and Sweet",
         "url": "https://open.spotify.com/album/1cYffJtaJx5J1eQJ3Arwxe"
       },
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 185378,
       "name": "snow jam",
       "url": "https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG"
@@ -1893,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "sweet moratorium",
+        "url": "https://open.spotify.com/album/3nN4eds8EEDfJJCPBwJozs"
+      },
+      "artists": [
+        {
+          "name": "Emi Okamoto",
+          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "sweet moratorium",
+      "url": "https://open.spotify.com/track/4176uZIGkBroM4czZZTtte"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
       },
@@ -1908,6 +1944,28 @@
       "duration_ms": 162253,
       "name": "Tada de Futotta Jinsei",
       "url": "https://open.spotify.com/track/2Qb4apNFWlRnZNfTtLGL4F"
+    },
+    {
+      "album": {
+        "name": "that place is burning",
+        "url": "https://open.spotify.com/album/4f6Ex2xbmAJLAxkp8d39ea"
+      },
+      "artists": [
+        {
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+        },
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335187,
+      "name": "that place is burning",
+      "url": "https://open.spotify.com/track/79pgNxvDw79toohZTCOgOR"
     },
     {
       "album": {
@@ -2998,7 +3056,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 248246,
       "name": "\u54b2\u307e\u3046",
       "url": "https://open.spotify.com/track/07kglGIdrAd9p2NdtCLEaD"
@@ -3234,7 +3292,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 186683,
       "name": "\u6570\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb",
       "url": "https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf"
@@ -3570,6 +3628,28 @@
       "duration_ms": 412813,
       "name": "\u88c5\u7f6e",
       "url": "https://open.spotify.com/track/3qcFmvkjpqZnB4feONa3Wy"
+    },
+    {
+      "album": {
+        "name": "\u89e6\u308c\u3066\u307f\u305f (feat. \u67f4\u7530\u8061\u5b50)",
+        "url": "https://open.spotify.com/album/5qjkFGBVFE8wnn0JvosdO6"
+      },
+      "artists": [
+        {
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
+        },
+        {
+          "name": "\u67f4\u7530\u8061\u5b50",
+          "url": "https://open.spotify.com/artist/6TrjIt01m7LDspNlsD7Ry6"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301459,
+      "name": "\u89e6\u308c\u3066\u307f\u305f - feat. \u67f4\u7530\u8061\u5b50",
+      "url": "https://open.spotify.com/track/76LY83ZAtI4FgaGoZhnMyW"
     },
     {
       "album": {

@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "A\u011fa\u00e7 Kabuklar\u0131",
+        "url": "https://open.spotify.com/album/5FfYlSH73NT8QgZ2yQU6xV"
+      },
+      "artists": [
+        {
+          "name": "GOSS",
+          "url": "https://open.spotify.com/artist/4Jg1d2IdzvSjuOzbIRMu2f"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "A\u011fa\u00e7 Kabuklar\u0131",
+      "url": "https://open.spotify.com/track/0h12XwODRtzhQ7NlG9uR3R"
+    },
+    {
+      "album": {
         "name": "A\u015fk Olsun",
         "url": "https://open.spotify.com/album/13MiF9U01OzKRBXEjqg8pj"
       },
@@ -632,7 +650,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 229125,
       "name": "Bana Biraz Romantizm Gerek",
       "url": "https://open.spotify.com/track/0ea8CUvbK1pGB6kUWV7leU"
@@ -1247,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Bulamazlar Seni",
+        "url": "https://open.spotify.com/album/66Ucmc9rIFI4PGhUIx1q1a"
+      },
+      "artists": [
+        {
+          "name": "Nab\u0131caz",
+          "url": "https://open.spotify.com/artist/78k8fo1xwd4ec0telN59Lu"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240396,
+      "name": "Bulamazlar Seni",
+      "url": "https://open.spotify.com/track/3j2fugPFm1f8koPEBcX3ot"
+    },
+    {
+      "album": {
         "name": "B\u00f6ylesi Kel",
         "url": "https://open.spotify.com/album/3J8ksdnTswo4JRjG4JYy7I"
       },
@@ -1850,7 +1886,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 210000,
       "name": "d\u00fcnyadaki tek k\u0131z sensin",
       "url": "https://open.spotify.com/track/71LptqKJTRGrcI5oYoP4OI"
@@ -2824,7 +2860,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 171152,
       "name": "Hayalet",
       "url": "https://open.spotify.com/track/4wrNOh6gyFxr4mF6uMebE4"
@@ -6057,6 +6093,24 @@
     },
     {
       "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/2hTodoOvZQYj3Yxpff46JW"
+      },
+      "artists": [
+        {
+          "name": "\u0130nsan M\u0131y\u0131z",
+          "url": "https://open.spotify.com/artist/6rhzUB6lAmzEpEDVkBIi7T"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210545,
+      "name": "Ten",
+      "url": "https://open.spotify.com/track/4YoEK5Q7xEEMKKUXqJGBBd"
+    },
+    {
+      "album": {
         "name": "toksik",
         "url": "https://open.spotify.com/album/6PKa5aULDxNjo8NtkYs6L1"
       },
@@ -7204,7 +7258,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 101725,
       "name": "\u00c7ekil Yolumdan",
       "url": "https://open.spotify.com/track/2tRD73ndIvRhdevvPznAng"

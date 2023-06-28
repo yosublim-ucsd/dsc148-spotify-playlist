@@ -1,12 +1,12 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 256262,
+  "num_followers": 256317,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmQ5ZTlhZGIyOTcwZjEzZTM2Y2QxMTNmOWY1ODc4YzcyMGQ2ZWY4",
+  "snapshot_id": "MCw0MzE5ZTA2Y2ExOThhOTYxYTE0MGI5MzNhMmY1OThhMWQ4MzlmZjcz",
   "tracks": [
     {
       "added_at": "2022-05-24 13:35:26",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Nothing Can Come Between Us - Remastered",
-      "url": "https://open.spotify.com/track/6pBDa5KwQ51kbs4WusIPPw"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "Faithfully",
         "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 267160,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Nothing Can Come Between Us - Remastered",
+      "url": "https://open.spotify.com/track/6pBDa5KwQ51kbs4WusIPPw"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/7dnGdy8zcBQtfXAJQBi0oM"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 467733,
-      "name": "Show Me the Way (feat. Raphael Saadiq)",
-      "url": "https://open.spotify.com/track/3d47DFYwKsWsXkwfaktsmk"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "Say So",
         "url": "https://open.spotify.com/album/7nc9NmxMiErW3UeeKeQ4Hq"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 212973,
       "name": "Say So",
       "url": "https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/7dnGdy8zcBQtfXAJQBi0oM"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 467733,
+      "name": "Show Me the Way (feat. Raphael Saadiq)",
+      "url": "https://open.spotify.com/track/3d47DFYwKsWsXkwfaktsmk"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -839,22 +839,18 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Back Together (feat. Rick James)",
-        "url": "https://open.spotify.com/album/47m94t0suSEty3IMVmiCKL"
+        "name": "Positivity",
+        "url": "https://open.spotify.com/album/45BNZeFrf7HSGAogA2CZ5M"
       },
       "artists": [
         {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        },
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+          "name": "Incognito",
+          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
         }
       ],
-      "duration_ms": 238717,
-      "name": "Back Together (feat. Rick James)",
-      "url": "https://open.spotify.com/track/42CgYmz74tNngUErbZ48x6"
+      "duration_ms": 394773,
+      "name": "Deep Waters",
+      "url": "https://open.spotify.com/track/0XCigmR8QYuE1hz9jSv8Eh"
     }
   ],
   "unique_name": "Wine & Dine",

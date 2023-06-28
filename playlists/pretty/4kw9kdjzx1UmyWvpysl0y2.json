@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127220,
+  "num_followers": 127217,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDI4Miw4YjExNWI2YWM4MDY2YzhhM2Y5YjAyOTU4MTk2MGU1OWI1NjlmMjZh",
+  "snapshot_id": "NDI4Myw5MjM5M2U0ODE5NjFjZDhjODcyZTBjZDQ0OWQ2Zjk5YTJkN2IxZDI5",
   "tracks": [
     {
       "added_at": "2023-06-26 20:11:01",
@@ -1131,22 +1131,6 @@
       "duration_ms": 176444,
       "name": "Vermin",
       "url": "https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5"
-    },
-    {
-      "added_at": "2023-04-04 16:26:07",
-      "album": {
-        "name": "Saganaki",
-        "url": "https://open.spotify.com/album/6i0N9UHCiTXb8bRI7aKQob"
-      },
-      "artists": [
-        {
-          "name": "Dokho",
-          "url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Saganaki",
-      "url": "https://open.spotify.com/track/04iOj6dE03qS7icw2Y4qtK"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

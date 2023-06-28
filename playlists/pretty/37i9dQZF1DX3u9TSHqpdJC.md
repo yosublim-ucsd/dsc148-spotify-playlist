@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Virgin Miri
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,844 likes - 105 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,899 likes - 105 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 70 | [Cold](https://open.spotify.com/track/2d5orsE02tsi1j0a0zHpxr) | [Medhanit](https://open.spotify.com/artist/6d47pDeW16qbk4CiGFkmW7) | [Cold](https://open.spotify.com/album/7oxgzFBrKobdBo9NeKX4Tl) | 2:53 |
 | 71 | [Midnight Train From Marylebone](https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o) | [Isaac Stuart](https://open.spotify.com/artist/7vqrMptsKefoZat5ztYapE) | [Skyline](https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2) | 3:21 |
 | 72 | [Euphoria](https://open.spotify.com/track/0aeOa10DSMZqVh6C7aTHac) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Euphoria](https://open.spotify.com/album/6Pb81ahYdhNVwfElML7KQW) | 3:00 |
-| 73 | [Rain In California](https://open.spotify.com/track/7e7Ahta2Z36i0kxM6JkSxi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [Rain In California](https://open.spotify.com/album/0R6IlEAhvgQkcfcsMc6E0Z) | 2:28 |
+| 73 | [Rain In California](https://open.spotify.com/track/3uLWWGfrQUUEbBRLru9zKO) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [Rain In California](https://open.spotify.com/album/7sVmdfwKVReBMtUV8wEniC) | 2:28 |
 | 74 | [Sweet Nothings](https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Sweet Nothings](https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge) | 2:15 |
 | 75 | [Mississippi Air](https://open.spotify.com/track/7rTNTUxQW3Ekv5HX90BFSO) | [Caroline Romano](https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol) | [Mississippi Air](https://open.spotify.com/album/6zeZ9qDPwT8EHn5FLikcpR) | 3:28 |
 | 76 | [Blueberry Mojito](https://open.spotify.com/track/0ajLglsDN2MJlf4pX6EpaP) | [Elli Moore](https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir) | [Drink Me](https://open.spotify.com/album/5UlTq1mAwoKZkSMmixCkou) | 3:21 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 104 | [NERVE](https://open.spotify.com/track/06FYjJDuCF2agn3rJBuNiv) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [NERVE](https://open.spotify.com/album/2beatj9EGiW7MRNWbMVARe) | 2:28 |
 | 105 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 |
 
-Snapshot ID: `MCxmM2I2OGJiYWY5ZWNlZGIzMjA0ZDliZjIxYWY4NTBmODYxMzkyOWUy`
+Snapshot ID: `MCw5OWEwZWExMDM1N2I2MDFlMWQyMDhhNmZiODEyYjk1MDFlZjQ1N2Zm`

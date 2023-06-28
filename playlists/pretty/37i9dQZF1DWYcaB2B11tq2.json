@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 368704,
+  "num_followers": 368927,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2U4NmM5YTQ3NzY2ODE0ODk2NmYyMGM0MDBkMTQxN2VhNWM1NmJk",
+  "snapshot_id": "MCw1Y2M1NzgwMjc2NzYyNzdmOWVkNDQxOWQ3YjE5ZDU4MGMxOTM3ZWQ1",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -999,6 +999,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Vive en M\u00ed",
+        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 240704,
+      "name": "Pintas el Aire",
+      "url": "https://open.spotify.com/track/3zfklhEEk5zfyBi3IL4Nk8"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Speak Revival",
         "url": "https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 367760,
       "name": "Fullness",
       "url": "https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Fragmentos del Cielo",
-        "url": "https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 212806,
-      "name": "Mi Roca",
-      "url": "https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Fragmentos del Cielo",
+        "url": "https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 212806,
+      "name": "Mi Roca",
+      "url": "https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
         "url": "https://open.spotify.com/album/47bDlzZt1dpN1gladBQiYF"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 409217,
       "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
       "url": "https://open.spotify.com/track/3DTZ3zRoH5QajNRxLFiLEL"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Vive en M\u00ed",
-        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 240704,
-      "name": "Pintas el Aire",
-      "url": "https://open.spotify.com/track/3zfklhEEk5zfyBi3IL4Nk8"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Jes\u00fas (feat. Marcos Witt)",
+        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 305981,
+      "name": "Jes\u00fas (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Ha Vencido, Ha Triunfado",
         "url": "https://open.spotify.com/album/1FRK1QimwIYurLiKbpngDl"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Jes\u00fas (feat. Marcos Witt)",
-        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
+        "name": "Vive en M\u00ed",
+        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         }
       ],
-      "duration_ms": 305981,
-      "name": "Jes\u00fas (feat. Marcos Witt)",
-      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
+      "duration_ms": 210932,
+      "name": "Soy Libre",
+      "url": "https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1283,26 +1299,6 @@
       "duration_ms": 249519,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "No Te Olvides",
-        "url": "https://open.spotify.com/album/1GZFd6QKMYeS72xziUk0ue"
-      },
-      "artists": [
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        },
-        {
-          "name": "Inlight",
-          "url": "https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc"
-        }
-      ],
-      "duration_ms": 249133,
-      "name": "No Te Olvides",
-      "url": "https://open.spotify.com/track/3IkRM0J6C71Bc7to3zJJHx"
     }
   ],
   "unique_name": "Creo En Ti",

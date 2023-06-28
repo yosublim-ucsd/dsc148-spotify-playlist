@@ -4,7 +4,7 @@
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-161 songs - 10 hr 23 min
+162 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Manque d'Amour](https://open.spotify.com/track/7d8TyewztC4p7naRZlPFDe) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Petite Amie](https://open.spotify.com/album/38biaM9WgBOPLYGN5rJTkF) | 3:06 | 2021-02-06 | 2022-07-29 |
 | [Mille fois par jour](https://open.spotify.com/track/45oUYmvEEzXwGpT6Zk5hQf) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part 2 \- EP](https://open.spotify.com/album/6zCtp5lmfpLYmvPfSSSBim) | 3:27 | 2021-02-06 | 2022-07-29 |
 | [Milles fois par jour](https://open.spotify.com/track/3KNWGc3CrZFWML2P9jNE9r) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:26 | 2021-02-06 |  |
-| [Moi, Elsie](https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [There Will Be Stars](https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9) | 5:18 | 2021-02-06 |  |
+| [Moi, Elsie](https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [There Will Be Stars](https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x) | 5:18 | 2021-02-06 |  |
+| [Moi, Elsie](https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [There Will Be Stars](https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9) | 5:18 | 2021-02-06 | 2023-06-28 |
 | [Nord\-est](https://open.spotify.com/track/46sn5XL1p64JBI7YwpsrGz) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Nord\-est](https://open.spotify.com/album/2McznR3vgPxnnBH9Knu6PE) | 4:03 | 2021-02-06 | 2022-07-29 |
 | [Nord\-est](https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Nord\-est](https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0) | 4:03 | 2021-02-06 |  |
 | [Nostos](https://open.spotify.com/track/7bSK3VEURjfxNp7H9wLNqE) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr), [BUFFLO](https://open.spotify.com/artist/53f0gOO8G7iK7hWJNFaLs2) | [Il](https://open.spotify.com/album/6rFWeVAaT4ExiW4Lx33NWS) | 4:31 | 2021-02-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 9151,
+  "num_followers": 9164,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjBjZjcyNWMyNTkzODM1YjhlYTJmY2UwMmI0ZDJmYmZhMTdmNTZm",
+  "snapshot_id": "MCw5OWJjMDYyOTA5ZDZhZDZjODY3ZTI2NzU4NzZiMTIyZWU3Y2UyODM2",
   "tracks": [
     {
       "added_at": "2023-05-05 08:20:58",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
         "name": "How did you (feat. Baek Yerin)",
         "url": "https://open.spotify.com/album/1QAenbdPhvPmioXem29cTV"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 249723,
       "name": "How did you (feat. Baek Yerin)",
       "url": "https://open.spotify.com/track/2mVb3RIBLffHQsauvkHBuf"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
     },
     {
       "added_at": "2023-05-05 08:20:58",

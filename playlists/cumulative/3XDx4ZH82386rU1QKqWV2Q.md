@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-200 songs - 9 hr 0 min
+201 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Flashback](https://open.spotify.com/track/2Iks5m5CbOIjgOq129erIA) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Elina Born](https://open.spotify.com/artist/70ANZII0p7JCQ4ArAesCbA) | [Flashback](https://open.spotify.com/album/4keoQuXpVddhauneIBzePG) | 2:26 | 2023-06-18 |  |
 | [Freaks](https://open.spotify.com/track/1DNgSHMgLGotUiHaTKBed1) | [Dehko](https://open.spotify.com/artist/1xV2xLgsPO74FavF7Tz083), [Lil Blade](https://open.spotify.com/artist/5pGTbK2D27MKEYrBcgvU1K) | [Tektroit](https://open.spotify.com/album/5uA7WPYDfREdjLacHolhqK) | 2:35 | 2023-06-12 |  |
 | [Gain Up](https://open.spotify.com/track/6UV0YZurgcVJ7TTGzcva1E) | [Ultimacy](https://open.spotify.com/artist/5MhOTGE7F2ox8OGiKe5N8K) | [Gain Up](https://open.spotify.com/album/3VaG3gm3HS5V9QREq3bGQy) | 2:37 | 2023-06-25 |  |
-| [GAME OVER](https://open.spotify.com/track/48GIOUqGyv1Owohu1FByUt) | [BLXCK FRiDAY](https://open.spotify.com/artist/7hdxfwLkH42g2xOpc695pS) | [GAME OVER](https://open.spotify.com/album/7sF7V2nOpSVIUtX5yAYwzJ) | 2:09 | 2023-06-12 |  |
+| [GAME OVER](https://open.spotify.com/track/48GIOUqGyv1Owohu1FByUt) | [BLXCK FRiDAY](https://open.spotify.com/artist/7hdxfwLkH42g2xOpc695pS) | [GAME OVER](https://open.spotify.com/album/7sF7V2nOpSVIUtX5yAYwzJ) | 2:09 | 2023-06-12 | 2023-06-28 |
 | [Gangsta's Paradise](https://open.spotify.com/track/7lQWRAjyhTpCWFC0jmclT4) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0fYctMs4EvoEqzDh8Kmg5g) | 4:00 | 2023-06-12 |  |
 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 | 2023-06-12 |  |
 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 | 2023-06-12 |  |
@@ -183,9 +183,10 @@
 | [The Old East End Tonight \- Jason Bye Remix Radio Edit](https://open.spotify.com/track/4Qaz7k8wA9iYuQ8p9BNp0j) | [Gary Driscoll](https://open.spotify.com/artist/2uW07oq2oBadeC9LgxkyOt) | [The Old East End Tonight \(The Remixes\)](https://open.spotify.com/album/4bL0vmMXTlA7g0E31kMrYl) | 3:44 | 2023-06-12 | 2023-06-19 |
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2023-06-12 |  |
 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 | 2023-06-12 |  |
+| [The Runaways](https://open.spotify.com/track/7oG8KZVUvBBA1oMNpbpDmZ) | [1of1](https://open.spotify.com/artist/16xUu0jxpkJahfbALyUyEV) | [The Runaways](https://open.spotify.com/album/5GqVw2ssi0DTV1znSBr5Ok) | 2:57 | 2023-06-27 |  |
 | [Total Annihilation](https://open.spotify.com/track/5KdeRVmXibuL5oOdOHf5YJ) | [James Dece](https://open.spotify.com/artist/5gjFmHkcGaw4xa0n5MH13y) | [Shimmer / Total Annihilation](https://open.spotify.com/album/7hRfChEEypuOdLCKn9pUSy) | 3:13 | 2023-06-12 |  |
 | [Transgender](https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:04 | 2023-06-12 |  |
-| [Trap](https://open.spotify.com/track/2toKCghubrFGSVvW8cAaoC) | [OG Gold](https://open.spotify.com/artist/0dWPDIQZZ07g4LfrtxtiwK) | [Trap](https://open.spotify.com/album/5yfF2zq1BIDgrcFUD8BUtU) | 3:13 | 2023-06-14 |  |
+| [Trap](https://open.spotify.com/track/2toKCghubrFGSVvW8cAaoC) | [OG Gold](https://open.spotify.com/artist/0dWPDIQZZ07g4LfrtxtiwK) | [Trap](https://open.spotify.com/album/5yfF2zq1BIDgrcFUD8BUtU) | 3:13 | 2023-06-14 | 2023-06-28 |
 | [True Faith \- 2011 Total Version](https://open.spotify.com/track/0E8IiKUfS98p3cUbQgh3yO) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [TOTAL](https://open.spotify.com/album/3rPC5Y8e9S6dGGkWvRYPRD) | 4:12 | 2023-06-12 |  |
 | [Trunk](https://open.spotify.com/track/4ksthl89nVr3tzPF4AFWM2) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Trunk](https://open.spotify.com/album/04FG9gwVAhiqj66ocmrbu7) | 2:05 | 2023-06-12 |  |
 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 | 2023-06-12 |  |

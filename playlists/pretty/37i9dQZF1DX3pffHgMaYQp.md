@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > Música para insubordinados\. Carolina Durante en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,375 likes - 79 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,394 likes - 79 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 45 | [Ícaro](https://open.spotify.com/track/1mw0oMAkcFDjsnGrhTqvvE) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [Ícaro](https://open.spotify.com/album/5zXJByZzyJNoECnZotuc71) | 2:33 |
 | 46 | [Tibio \(feat\. Alo\)](https://open.spotify.com/track/4YYkqEGlnnUP1Veadfw3kW) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/4vsAT0CdijFI9X3BUks2uv) | 6:24 |
 | 47 | [Hombre Animal](https://open.spotify.com/track/31mpricQVCFX9EnGmNcJ9L) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 3:27 |
-| 48 | [Dónde Está El Placer](https://open.spotify.com/track/4tacrYRq0mfv2jlD2ZQ63c) | [The Americonojones Experience](https://open.spotify.com/artist/42r78qjvZCPn60kETf6jNe) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 3:52 |
+| 48 | [Dónde Está El Placer](https://open.spotify.com/track/4tacrYRq0mfv2jlD2ZQ63c) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 3:52 |
 | 49 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 |
 | 50 | [Soy Basura](https://open.spotify.com/track/5mwejIKy819KOkrl7RmNXD) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Soy Basura](https://open.spotify.com/album/3ESj5vJEa3xuiT8Bc0rQhu) | 1:48 |
 | 51 | [Ya No Dueles Más](https://open.spotify.com/track/2HAiOXH71idwbKym8n44hu) | [Los Joules](https://open.spotify.com/artist/6Ct0NYlkBFM7SXNwfF7wjx) | [Ya No Dueles Más](https://open.spotify.com/album/4bEw9hMd0ZksSnrICyaNOu) | 3:40 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 78 | [Panteón](https://open.spotify.com/track/4stvgopAieFBf2zabV5BKf) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 1:35 |
 | 79 | [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 |
 
-Snapshot ID: `MCwxOTMyOTZlZGI4YTkwOWU3YjY1ZjRlMDJhMzgyY2FhM2Q4ZDU0YmJk`
+Snapshot ID: `MCw2NDY2ZDAyZDJhMDFkZGUxMjQxOWU4NjNmNTQ2MTQ1Njc4OWMwMDdh`

@@ -4074,10 +4074,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 115465,
       "name": "Napping",
       "url": "https://open.spotify.com/track/7MO7WcQUSM1zr4WZpxvVSK"
+    },
+    {
+      "album": {
+        "name": "Napping",
+        "url": "https://open.spotify.com/album/7jH1JHG94gRMNicnluBVT1"
+      },
+      "artists": [
+        {
+          "name": "KO-ney",
+          "url": "https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115519,
+      "name": "Napping",
+      "url": "https://open.spotify.com/track/1E7VlV1Stul9E9UCasIPD7"
     },
     {
       "album": {

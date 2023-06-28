@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-344 songs - 18 hr 53 min
+345 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Ser Tua](https://open.spotify.com/track/5FbRfLcCPfony92UnLd2vQ) | [Mia Rose](https://open.spotify.com/artist/6yzNtbywm70v7PTGZSKqU2), [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF) | [Ser Tua](https://open.spotify.com/album/3eC2nn5A7uEXKNKTcrspu6) | 2:56 | 2023-03-01 |  |
 | [SINAIS](https://open.spotify.com/track/649ZuviVZzF7JnZSe5Z8ft) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/22NWHS3nYaoo34h7CSGFme) | [SINAIS](https://open.spotify.com/album/4TQEeYV8ixyAnV2s4MOmFI) | 2:29 | 2023-01-20 | 2023-02-10 |
 | [Sinergy](https://open.spotify.com/track/6psG1I3i4mW8Fe97svskoK) | [YANAGUI](https://open.spotify.com/artist/2hDOcSFCU43glzID9X24dU), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U) | [Sinergy](https://open.spotify.com/album/3Qh36m1JoKoZyXg4FNyWth) | 4:06 | 2023-05-11 | 2023-06-02 |
+| [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 | 2023-06-22 |  |
 | [Slow Motion](https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE) | [Camy Breezy](https://open.spotify.com/artist/1j8AO6p658k4Zv7q7WMWZZ) | [Slow Motion](https://open.spotify.com/album/3wMiRqzoARY1TtiPOvAnAg) | 3:06 | 2022-10-13 | 2022-11-18 |
 | [So In Love](https://open.spotify.com/track/2Nc8rUi8Hqnfnqr1FtCR9y) | [Also](https://open.spotify.com/artist/2nmwVsly6vXKUSKy6MW0Xm), [Luís Braz Teixeira](https://open.spotify.com/artist/6kjqZjez1wv0g2s2BiE0Z4) | [So In Love](https://open.spotify.com/album/5xb7REvTxublNuPzzat1Fz) | 3:45 | 2023-05-25 | 2023-06-09 |
 | [Sobe & Desce](https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Aiane](https://open.spotify.com/artist/2eP7lavTD1B0gEeX1ZQrUP) | [Sobe & Desce](https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY) | 2:28 | 2023-01-20 | 2023-03-18 |
@@ -311,7 +312,7 @@
 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 | 2022-07-07 |  |
 | [Teu Eternamente](https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 2:55 | 2022-07-07 | 2023-03-18 |
 | [Teu Eternamente](https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF) | 2:55 | 2023-03-17 |  |
-| [Teus Olhos](https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Teus Olhos](https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ) | 3:20 | 2023-06-22 |  |
+| [Teus Olhos](https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Teus Olhos](https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ) | 3:20 | 2023-06-22 | 2023-06-28 |
 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 | 2022-07-07 |  |
 | [Time](https://open.spotify.com/track/327d58CiAlFKwANkMW1cKC) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 3:29 | 2022-12-02 | 2022-12-03 |
 | [To My Favorite Ex](https://open.spotify.com/track/5fLidbjAFMytaMWclTjmuX) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [To My Favorite Ex](https://open.spotify.com/album/1WeTkoxi7ICEveQ8xcXx58) | 3:06 | 2023-06-15 |  |

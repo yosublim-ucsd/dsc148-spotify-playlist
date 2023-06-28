@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-77 songs - 3 hr 40 min
+78 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Hollow in the Ferns](https://open.spotify.com/track/7ChcR1Vdev6qnpcELoU5tI) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 3:38 | 2021-11-19 |  |
 | [I Feel Alive](https://open.spotify.com/track/2GP6cPGsGLtiy99uJZ5ZL5) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [The Mountain Between Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4m1tneZGVaqxQ43cy3dP0p) | 2:39 | 2021-11-19 | 2023-01-11 |
 | [I Remember My Name](https://open.spotify.com/track/65AGQ1piJE3BRpul7jEpip) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:13 | 2021-11-19 | 2022-05-28 |
+| [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 | 2023-06-27 |  |
 | [Just Me and You](https://open.spotify.com/track/75KucxgJRpZwgptDI2oLWs) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [The Mountain Between Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4m1tneZGVaqxQ43cy3dP0p) | 2:11 | 2021-11-19 | 2023-01-11 |
 | [Les bijoux](https://open.spotify.com/track/2ouBCzavu59F6ZcJlb1kZ6) | [Alexandre Azaria](https://open.spotify.com/artist/6wFoIuf6haS7FtdH3RHQZE) | [Par instinct \(Bande originale du film\)](https://open.spotify.com/album/6fFbr0S4b7NTXnMQwspzmi) | 3:07 | 2021-11-19 |  |
 | [London 1998](https://open.spotify.com/track/4LlS0nNtGd8SuFkyVRpXY3) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Denial \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29TiQwxSFV2hyxaA6tSlmN) | 1:41 | 2021-11-19 |  |

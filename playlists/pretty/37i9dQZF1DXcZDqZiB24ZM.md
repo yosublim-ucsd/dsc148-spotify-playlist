@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,604 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,607 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 42 | [Pour la vie](https://open.spotify.com/track/3uMyq8MxiJlrKJAEhRiOBZ) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:04 |
 | 43 | [Dead Summer](https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Dead Summer](https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5) | 2:45 |
 | 44 | [Bando](https://open.spotify.com/track/3TockaqZaBW4hPSP5UqdzE) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Cerbère](https://open.spotify.com/album/4FXtD2a2crSUwtpZsrgsfA) | 3:57 |
-| 45 | [Krève](https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Indélébile](https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf) | 2:46 |
-| 46 | [Plume](https://open.spotify.com/track/3KEAAQ6ftipgLCKyUv6v3s) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Personne ne touche le ciel](https://open.spotify.com/album/48KJxkDN6HsfsZFDNf8kjT) | 2:37 |
+| 45 | [Plume](https://open.spotify.com/track/3KEAAQ6ftipgLCKyUv6v3s) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Personne ne touche le ciel](https://open.spotify.com/album/48KJxkDN6HsfsZFDNf8kjT) | 2:37 |
+| 46 | [Krève](https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Indélébile](https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf) | 2:46 |
 | 47 | [Chill?](https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Fouette Saint\-Patrick](https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce) | 2:43 |
 | 48 | [Chacun son récit](https://open.spotify.com/track/2465tuccWnYlZzvebuBJOB) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Blacklist](https://open.spotify.com/album/3ZoYcp29VE8yLSWsS7kQA2) | 3:51 |
 | 49 | [Fugueuse](https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Mafia](https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm) | 2:50 |
-| 50 | [PLG](https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:29 |
-| 51 | [Basilic](https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8) | [Qualité Motel](https://open.spotify.com/artist/6GZTbbzfV1dP2hCgUcDynC), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Curieux Bégin](https://open.spotify.com/artist/0YBkOnbAd0384Cis3ur3HO), [Vinny Bombay](https://open.spotify.com/artist/1a20rLp5UIw3OOwYrL0jaH), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [C'est pas la qualité qui compte](https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX) | 2:39 |
-| 52 | [Bâtiment](https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB) | [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl), [Dix](https://open.spotify.com/artist/5DnW1DjeRoeHEiD1d2Q0oN), [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Bâtiment](https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp) | 2:47 |
+| 50 | [Basilic](https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8) | [Qualité Motel](https://open.spotify.com/artist/6GZTbbzfV1dP2hCgUcDynC), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Curieux Bégin](https://open.spotify.com/artist/0YBkOnbAd0384Cis3ur3HO), [Vinny Bombay](https://open.spotify.com/artist/1a20rLp5UIw3OOwYrL0jaH), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [C'est pas la qualité qui compte](https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX) | 2:39 |
+| 51 | [Bâtiment](https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB) | [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl), [Dix](https://open.spotify.com/artist/5DnW1DjeRoeHEiD1d2Q0oN), [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Bâtiment](https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp) | 2:47 |
+| 52 | [PLG](https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:29 |
 | 53 | [Badman](https://open.spotify.com/track/6JmVD6HWmhgUKMqAz11qIk) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Bonhomme Pendu \(Chapitre 3\)](https://open.spotify.com/album/590NTKVPSghzSqjd7QX5fn) | 3:26 |
 | 54 | [Jack Sparrow](https://open.spotify.com/track/3l84IuZ7KdXYT1cFbDyh8G) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:16 |
 | 55 | [24 heures à vivre](https://open.spotify.com/track/4KgeccIkAwdLFNe2MyBmlG) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8) | [Confession risquée](https://open.spotify.com/album/2kKFkpgObsTYrFLdCjuVwW) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Wow](https://open.spotify.com/track/3T1bB8PzL5Gi0XlvB9hDxU) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Soft](https://open.spotify.com/artist/24tG8onRIqNr5bFhVkROUF), [VNCE CARTER](https://open.spotify.com/artist/11zy6I3LeMtIrIztaTl5rO) | [Canicule, Vol.1](https://open.spotify.com/album/31u0rjLg49Ae8T7VHysfwP) | 2:25 |
 | 100 | [Paranoia](https://open.spotify.com/track/2jnNLZ4GcmstGoS0d591jD) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Paranoia](https://open.spotify.com/album/0ce1MQn7HJBr1OPyJOoDB3) | 3:34 |
 
-Snapshot ID: `MCxhNTIxOTM0MGVkYTVlYjBhYzU3ZWRhZTY4ZDBhZWZjZWI2ODBhZWJl`
+Snapshot ID: `MCwzNzFlNjgyMDVmYzY3YjY1NzE3MGUwNjZlN2U0ZmM5MDNkZGJjMjRj`

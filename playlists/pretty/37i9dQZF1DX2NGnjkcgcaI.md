@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,678 likes - 59 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,735 likes - 59 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 35 | [Spring Will Come and We Will Open the Windows](https://open.spotify.com/track/3U4HbEVFnO9jq8qQF780ox) | [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [A Touch of Seafields](https://open.spotify.com/album/7KB3Lic993iqXlCu3deMXb) | 10:06 |
 | 36 | [Svanis](https://open.spotify.com/track/0ut7vOTIhJp2HqQHilFjch) | [Dubkrans](https://open.spotify.com/artist/5z5XAcdNSYN1mQS2aFMq0k) | [Svanis](https://open.spotify.com/album/5FKBkn6f0W0KYDabOFETnY) | 4:40 |
 | 37 | [We Out Here](https://open.spotify.com/track/1RCHyoaZY2dQ2LmHUobHvM) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Karma Baby EP](https://open.spotify.com/album/2EL95PlWudjVVnpnd9UOi1) | 7:12 |
-| 38 | [Deep In Dub \- Zzzzra Minimal Techno](https://open.spotify.com/track/03fF86uquiqMjstKl0oxeE) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE) | [Minimal Techhouse Journey](https://open.spotify.com/album/6LDC5NWtBgI0WsMoxUAtMg) | 7:24 |
+| 38 | [Deep In Dub \- Zzzzra Minimal Techno Mix](https://open.spotify.com/track/0pfmRTCjCfZKn53A5HUPVc) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE) | [Deeplife Selection 01](https://open.spotify.com/album/6W5pFubOmnJjE2zexYlhbd) | 7:24 |
 | 39 | [Cold Inside](https://open.spotify.com/track/3Ik0jxcyJvYrY0JY7AXACW) | [Brickman](https://open.spotify.com/artist/2xBjIclLb9V8Q26jsZqWGj) | [The Dark](https://open.spotify.com/album/72NevgD4TY58xdvLtLppe5) | 7:24 |
 | 40 | [Stairs & Stars](https://open.spotify.com/track/4S1bE87vDFBD33bsvE5zsj) | [SCSI\-9](https://open.spotify.com/artist/7JTgP1gZgyg0SvuDezzyGo) | [Squares And Circles LP](https://open.spotify.com/album/6ndfjWWSS15vlq57RqgQuP) | 7:35 |
 | 41 | [Wave Motion](https://open.spotify.com/track/6cv6gb6YMR3g2FDbM81Mow) | [R.Hz](https://open.spotify.com/artist/5wJTUWsSMc6QuhAn1oxcKn) | [2020 YELLOW](https://open.spotify.com/album/3GQ3BjcCgeqcWnYCPIFc0a) | 8:50 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 58 | [Salvia](https://open.spotify.com/track/3oxu3Z9MAKJM9dNTLWue5b) | [Ambra Dubs](https://open.spotify.com/artist/5YXK1fJjoQxk6YkqxTSv1y) | [Salvia](https://open.spotify.com/album/6aDEJH5AFyVcsnsdPf6ATr) | 5:23 |
 | 59 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
 
-Snapshot ID: `MCw1ODQyMzI5ZjdlMzI1NTVkY2Y5YTQ1NmQzZTllMGQ1ZTg1YWRkMjc4`
+Snapshot ID: `MCw4ZGEyODk2NWQ0NGViZDI5N2E5YmE2ZjQxZTkyMWUxY2YxM2UwYTVh`

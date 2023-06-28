@@ -4,7 +4,7 @@
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-76 songs - 4 hr 20 min
+77 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [Hellhound on My Trail](https://open.spotify.com/track/5VBWZll59ggYjEl3taGHNm) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac \(1968\)](https://open.spotify.com/album/7H79aLBXfSGwnYgPnKHRWP) | 2:05 | 2020-11-13 | 2022-07-29 |
 | [Hellhound on My Trail \- Take 1](https://open.spotify.com/track/1JKsia6kNlSeqDnPfJgKvH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:05 | 2020-11-13 |  |
 | [I Put A Spell On You](https://open.spotify.com/track/0oInlz2qTVyXpfdAkJDluQ) | [Jesse Cook](https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA) | [The Blue Guitar Sessions](https://open.spotify.com/album/6SP4J2wiXpV5v6mubCnHD8) | 2:57 | 2020-11-13 | 2022-07-29 |
-| [I Put a Spell on You](https://open.spotify.com/track/1dFlAV0eMcsSPwZsIHdf4y) | [Jesse Cook](https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA) | [The Blue Guitar Sessions](https://open.spotify.com/album/4xe69ZZD8TIi0Axgl3a0Np) | 2:58 | 2023-01-03 |  |
+| [I Put a Spell on You](https://open.spotify.com/track/1dFlAV0eMcsSPwZsIHdf4y) | [Jesse Cook](https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA) | [The Blue Guitar Sessions](https://open.spotify.com/album/4xe69ZZD8TIi0Axgl3a0Np) | 2:58 | 2023-01-03 | 2023-06-28 |
 | [I Put a Spell on You](https://open.spotify.com/track/7sNbMDi5Yyi54pP1T1IbDS) | [Jesse Cook](https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA) | [The Blue Guitar Sessions](https://open.spotify.com/album/4DkJcM9PIM5LArvEm83r2h) | 2:58 | 2020-11-13 | 2023-04-30 |
+| [I Put a Spell on You](https://open.spotify.com/track/0g3IVRP1pMB0TfTO1nXo2r) | [Jesse Cook](https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA), [Emma\-Lee](https://open.spotify.com/artist/1OD4aWTiLRPAijuuIahCPS) | [The Blue Guitar Sessions](https://open.spotify.com/album/3Qlsmc3uOXNynNGGMPjbUO) | 2:58 | 2023-01-03 |  |
 | [Lady Weeping At The Crossroads](https://open.spotify.com/track/2fHeCbp3pCJbd3g5wQF636) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [No Promises](https://open.spotify.com/album/1GOhEzYqUHO4ROrrupcVVH) | 3:37 | 2020-11-13 |  |
 | [Lady Weeping at the Crossroads](https://open.spotify.com/track/446SWPkCoDTG2ibVD4bVHr) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [No Promises](https://open.spotify.com/album/6NQG3cFQMkz7Y9OPLG7yxx) | 3:37 | 2020-11-13 | 2022-07-29 |
 | [Let's Have Some Fun](https://open.spotify.com/track/4krvAl6zfhfDfWL1KdvQAa) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/7iVYk6SKIzwsUf11kxoNS6) | 4:27 | 2020-11-13 |  |

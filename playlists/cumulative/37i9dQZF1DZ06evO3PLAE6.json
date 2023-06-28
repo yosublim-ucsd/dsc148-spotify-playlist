@@ -663,6 +663,28 @@
     },
     {
       "album": {
+        "name": "Everyday Amen",
+        "url": "https://open.spotify.com/album/2EVfi6XfZjOuH0ovIXP0MY"
+      },
+      "artists": [
+        {
+          "name": "Felix Riebl",
+          "url": "https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283146,
+      "name": "Saturday Night (Speckles Of Light)",
+      "url": "https://open.spotify.com/track/5sYlg1stKUfVaOAjnBNPkE"
+    },
+    {
+      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },

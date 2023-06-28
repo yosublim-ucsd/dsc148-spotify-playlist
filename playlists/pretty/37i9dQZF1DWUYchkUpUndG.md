@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=F5cGlo7CQ6ycJg\-zCr9\-Lg">Onos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,093 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,179 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 33 | [I will soar](https://open.spotify.com/track/1Eag9P72ROslztON6d2z15) | [Nene Olajide](https://open.spotify.com/artist/7cHiOiU3cpE8yU89jgN37F) | [Your Glory](https://open.spotify.com/album/0pBJZL8J11JQGc70j4IcWQ) | 5:08 |
 | 34 | [I No Dey Alone](https://open.spotify.com/track/3ICJn3nSKXcLg3EknAsuC8) | [Xpected](https://open.spotify.com/artist/0XpBhywbPNnwXvmbTui6zI) | [I No Dey Alone](https://open.spotify.com/album/1ukCErZOiUaljdzC1HXuEA) | 3:34 |
 | 35 | [We the Forgiven](https://open.spotify.com/track/0mlqXss7EiDxxv0sZ7J0FW) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [We the Forgiven](https://open.spotify.com/album/7MAvgcD8XDlxRxKKWPArf5) | 5:54 |
-| 36 | [Exposed](https://open.spotify.com/track/3FLkBZOfQWxcxUruKO3hhQ) | [J\. Idahosa](https://open.spotify.com/artist/3828644WeUb0vBaRcrInkx), [Foehw](https://open.spotify.com/artist/0pjGl7nx6nFrgISJFmNOQH) | [Exposed](https://open.spotify.com/album/6bSAG4x9iSySP7rD9SbyBE) | 3:38 |
+| 36 | [Exposed](https://open.spotify.com/track/7kwHZG9ylcxS3TbsvjPNEq) | [J\. Idahosa](https://open.spotify.com/artist/3828644WeUb0vBaRcrInkx), [Foehw](https://open.spotify.com/artist/0pjGl7nx6nFrgISJFmNOQH) | [Exposed](https://open.spotify.com/album/0pllqIWkD0mKl5iR9lmWK4) | 3:38 |
 | 37 | [Give Me Time \(Gimme\)](https://open.spotify.com/track/5xrlv9xFTnzqraUOtStgCD) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Give Me Time \(Gimme\)](https://open.spotify.com/album/21ICHmCBp2my574mRH2otm) | 3:00 |
 | 38 | [Maombi Ina Lipaka](https://open.spotify.com/track/5nHaTH2TvdZJWjGzu92Bbq) | [Pst Jeremie Safari](https://open.spotify.com/artist/1uCN4qjVUjBFof4Fl6eoE1) | [Maombi Ina Lipaka](https://open.spotify.com/album/46RuxyBgpDRNwzb7HqgcS2) | 4:16 |
 | 39 | [Spirit worship](https://open.spotify.com/track/2fp5qnNVfVaeQdBalTYt2o) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Spirit worship](https://open.spotify.com/album/1CMVIBXGLRaUCGUo9KFRNs) | 10:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 79 | [Thank You Lord](https://open.spotify.com/track/6TWd4GIzS9qzEbDqtaqq6d) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Rejoice Again](https://open.spotify.com/album/5Vd9mbXOqMKMZIZlN6wYkx) | 4:55 |
 | 80 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 |
 
-Snapshot ID: `MCwxYjkyZGJjMmRjMjgxMjIzMDI3YTczZWUzNGQ2Nzk1MWVkOGJlZTA2`
+Snapshot ID: `MCwxZDgyYzE3NjZlYzgxNzIzNjlkMzNlNzljZmViMjc1YjhkZmFkNTJm`

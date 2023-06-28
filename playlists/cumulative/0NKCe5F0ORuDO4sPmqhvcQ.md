@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-459 songs - 1 day 1 hr 50 min
+460 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [forever, for now \(feat\. riley biederer\)](https://open.spotify.com/track/3Lh4hk4TO9lKLV1uz1Ctd2) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [forever, for now \(feat\. riley biederer\)](https://open.spotify.com/album/7kXtJjpsQNnpPhgnD8Ky2l) | 2:38 | 2022-07-22 | 2022-09-19 |
 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 | 2022-01-18 | 2022-02-05 |
 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 | 2023-03-02 | 2023-04-01 |
+| [Free Yourself](https://open.spotify.com/track/6hBXPSKrmGBiRVD65Rpqot) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Free Yourself](https://open.spotify.com/album/4t9ySdBRxL6KchQWrXL8Jz) | 3:50 | 2023-06-27 |  |
 | [Get To You](https://open.spotify.com/track/4jfySsGwhaA7TT4RsYzDvM) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Get To You](https://open.spotify.com/album/68Kb2V3PP0mmHrerQpspM5) | 3:46 | 2023-02-24 | 2023-06-23 |
 | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/track/2afb6GwatIa0DC1u9rd6Fu) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/album/7BIZ9jNR3XG7q6AsNs4z3e) | 2:42 | 2022-09-16 |  |
 | [Glimmer](https://open.spotify.com/track/5viOqMYnOlMeuCQmhqxyzg) | [West End Cove](https://open.spotify.com/artist/64WV3o80jWUNafJmMYFLze) | [Glimmer](https://open.spotify.com/album/6oOnyCD8sfO4ysaycHGFdJ) | 3:42 | 2022-11-22 | 2023-01-30 |

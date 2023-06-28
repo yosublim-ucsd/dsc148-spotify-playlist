@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-371 songs - 14 hr 26 min
+372 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [My Cat Picks Cactus Flowers](https://open.spotify.com/track/6yi6V9pR18642tim9GlHdG) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [My Cat Picks Cactus Flowers](https://open.spotify.com/album/2tDJDcZyS9wTgIxj7qz4wu) | 2:17 | 2023-06-06 |  |
 | [Mystery](https://open.spotify.com/track/5osOZa0RijrAylQbDyjq2C) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Mystery](https://open.spotify.com/album/5RahEEJCsoksPWFpxtxuF8) | 2:04 | 2022-11-25 |  |
 | [Mystiqa](https://open.spotify.com/track/4RwJDAOh06mjuEGXjr9JbL) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Mystiqa](https://open.spotify.com/album/6M3oABRnIDaxJs6K6g0NJ4) | 2:21 | 2022-05-27 |  |
-| [Napping](https://open.spotify.com/track/7MO7WcQUSM1zr4WZpxvVSK) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/0onTYCoBPN2eFQsDWQUlAL) | 1:55 | 2022-05-27 |  |
+| [Napping](https://open.spotify.com/track/7MO7WcQUSM1zr4WZpxvVSK) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/0onTYCoBPN2eFQsDWQUlAL) | 1:55 | 2022-05-27 | 2023-06-28 |
+| [Napping](https://open.spotify.com/track/1E7VlV1Stul9E9UCasIPD7) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/7jH1JHG94gRMNicnluBVT1) | 1:55 | 2023-06-06 |  |
 | [Nice monsters and scary spirits](https://open.spotify.com/track/7iaf0xFvyWxFOaGZoSuo8R) | [SlowFly](https://open.spotify.com/artist/2Pi1SjVtZboevr4pxULaLb) | [Nice monsters and scary spirits](https://open.spotify.com/album/1kQo97XMQg6OjLSL1sRPar) | 2:34 | 2022-07-15 |  |
 | [Nice To Meet U](https://open.spotify.com/track/1Pb35g6g0mTuT2FIMSqHwa) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [dave.wav](https://open.spotify.com/artist/4ZJQECwTUYezRbVJkzjis2) | [Nice To Meet U](https://open.spotify.com/album/6pzwzsHqn2aUf2JP1IdnWr) | 2:07 | 2022-11-11 |  |
 | [Nice To Meet U](https://open.spotify.com/track/6jadCrE6dGrv0vFAzv9hg4) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [dave.wav](https://open.spotify.com/artist/4ZJQECwTUYezRbVJkzjis2) | [Nice To Meet U](https://open.spotify.com/album/5FXjwQMfXqgHOqmsTghIaC) | 2:07 | 2022-05-27 | 2022-11-20 |

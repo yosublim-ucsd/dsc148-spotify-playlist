@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ice Spice + Nicki Minaj \(pictured\), Stormzy + Fredo, Maisie Peters and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,741 likes - 124 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,770 likes - 124 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 85 | [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 |
 | 86 | [Over](https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Over](https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ) | 3:10 |
 | 87 | [lay down](https://open.spotify.com/track/7Ky8TpcVYK449vGZJY3pao) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [lay down](https://open.spotify.com/album/11udH98Q0K8dN4Z1BT1tsK) | 3:10 |
-| 88 | [STAMINA](https://open.spotify.com/track/6I7hrUazMFnJgMRFGlf2gZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B) | [STAMINA](https://open.spotify.com/album/0IVPvx3l7SAbf0XmcGkgPw) | 2:30 |
+| 88 | [STAMINA](https://open.spotify.com/track/6I7hrUazMFnJgMRFGlf2gZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B) | [STAMINA](https://open.spotify.com/album/0IVPvx3l7SAbf0XmcGkgPw) | 2:32 |
 | 89 | [the alternative](https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:03 |
 | 90 | [BANG BANG! \(My Neurodivergent Anthem\)](https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [BANG BANG! \(My Neurodivergent Anthem\)](https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo) | 2:47 |
 | 91 | [limbo](https://open.spotify.com/track/57E3YhK11DA3pd5uHbH7Ai) | [RO](https://open.spotify.com/artist/4cpCvNho3wsQq6lhD1kkPh) | [limbo](https://open.spotify.com/album/3jC8iE6N8wooiJYo6rN63G) | 3:32 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 123 | [Naturally](https://open.spotify.com/track/6HgRlxArGgB008qXcLdPMh) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Naturally](https://open.spotify.com/album/5FnTa6yPpvCArS6IbsZN8E) | 3:19 |
 | 124 | [Hardcore Will Never Die](https://open.spotify.com/track/6pW0H701jW3bUQJtcYC4h1) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0) | [Hardcore Will Never Die](https://open.spotify.com/album/7riXW7fPMUccYmvn1DTlKA) | 5:00 |
 
-Snapshot ID: `MCxjOTYxNTU4ZDY0N2M0MDU4MmUyYWEyZWYyZmQyOGI5YWI3YzBlMTQx`
+Snapshot ID: `MCwzZDVhOTkyZGE0OWFkNGZjNGExODQxNDUyNDlkZTU3NTIzNjk0MzA2`

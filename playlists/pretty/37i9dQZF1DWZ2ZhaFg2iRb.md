@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2ZhaFg2iRb.md) - [plain]
 
 > Speciální vydání věnované Olympijskému dni\. Kurátor: Peťo Sagan
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,220 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,285 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2ZhaFg2iRb.md) - [plain]
 | 39 | [Come On!](https://open.spotify.com/track/5rqwuONfwOeJx4yutdzxJs) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Lex Hives \(Deluxe Edition\)](https://open.spotify.com/album/0zu9Yx4jC1Kp7E6LliKfzI) | 1:08 |
 | 40 | [I've Been Everywhere](https://open.spotify.com/track/59J3FhCGYl18G3ouDReUge) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American II: Unchained](https://open.spotify.com/album/59RjxVKpH3c80E4a86yP7b) | 3:16 |
 | 41 | [Open Your Eyes](https://open.spotify.com/track/5zexQeS900o7GFeYO6HvKc) | [Guano Apes](https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E) | [Proud Like A God](https://open.spotify.com/album/6shHhkvGZjAHTrJWdvzSc5) | 3:08 |
-| 42 | [I Started a Joke \(feat\. Becky Hanson\)](https://open.spotify.com/track/7qoiIJeepTkwzXMAItJe8T) | [ConfidentialMX](https://open.spotify.com/artist/6SIzX2yHlfa3V0xDHLmrbe), [Becky Hanson](https://open.spotify.com/artist/4JIWFelmLQYJKziG7xE8X2) | [Suicide Squad: The Album](https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8) | 3:10 |
-| 43 | [Count Your Last Blessings](https://open.spotify.com/track/4ZDZOuiAWO0PZktCuKfdGo) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:03 |
+| 42 | [Count Your Last Blessings](https://open.spotify.com/track/4ZDZOuiAWO0PZktCuKfdGo) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:03 |
+| 43 | [I Started a Joke \(feat\. Becky Hanson\)](https://open.spotify.com/track/7qoiIJeepTkwzXMAItJe8T) | [ConfidentialMX](https://open.spotify.com/artist/6SIzX2yHlfa3V0xDHLmrbe), [Becky Hanson](https://open.spotify.com/artist/4JIWFelmLQYJKziG7xE8X2) | [Suicide Squad: The Album](https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8) | 3:10 |
 | 44 | [Pitbull Terrier](https://open.spotify.com/track/4Zl4u5XQLxs9FQCSR040eJ) | [Die Antwoord](https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM) | [Donker Mag](https://open.spotify.com/album/5eqhQF3HIVdgwfotwNPMFK) | 3:40 |
 | 45 | [One Piece at a Time](https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tennessee Three](https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp) | [One Piece At A Time](https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67) | 4:01 |
 | 46 | [Trouble](https://open.spotify.com/track/7JO9xpBP2uwgMMINJkc43y) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [King Creole](https://open.spotify.com/album/7hdMmwpZmRf8efyh7G2pOl) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2ZhaFg2iRb.md) - [plain]
 | 49 | [Love Is A Drug](https://open.spotify.com/track/0uEJuGXKNWV3y5mRjh3uGw) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [New Politics](https://open.spotify.com/album/43cZxQ6ncbNzHglfNu5OUQ) | 3:15 |
 | 50 | [Snoopy Vs\. The Red Baron \- Edit](https://open.spotify.com/track/1IPVeBCK9j0wKIKf6tJRgw) | [The Royal Guardsmen](https://open.spotify.com/artist/2ltpcCK86foogli20z9raq) | [The Best Of The Royal Guardsmen](https://open.spotify.com/album/6BZj1lvjWHGHUhWj9zB1XS) | 2:46 |
 
-Snapshot ID: `MCxhNTg3YTQyNzAzNTk4ODMyNmQ1Zjk0ZjE1NGQzOTkzN2U3YTQzZDgw`
+Snapshot ID: `MCwzNjAzODcxNWU4MjhmZjU0M2QyYWFiODBhY2I5ODc3NzkyZjE0ZTZj`

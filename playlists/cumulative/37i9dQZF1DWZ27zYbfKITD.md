@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-84 songs - 4 hr 6 min
+85 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Hello Rocks \- from Hoa \- Original Soundtrack](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(from Hoa \- Original Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 | 2022-08-05 |  |
 | [Into The Sea](https://open.spotify.com/track/6gywoZQXz6atqEGt7hponB) | [Stuart Earl](https://open.spotify.com/artist/54T53xiM58rmjU9dbA2Lu8) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 1:39 | 2023-02-01 |  |
 | [It's a Process](https://open.spotify.com/track/0KSwoOoIKqUZhQhmm0NnSP) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Moneyball \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3l4qPqECm6fywG03Rwke6r) | 1:52 | 2022-08-05 |  |
+| [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 | 2023-06-27 |  |
 | [Lady Steph and Henry](https://open.spotify.com/track/25CNdDtmkXxnAogRTVQ89P) | [Jan Valta](https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9), [Adam Sporka](https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4) | [Kingdom Come: Deliverance \(Original Soundtrack Essentials\)](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) | 1:55 | 2022-08-05 |  |
 | [Lost Love](https://open.spotify.com/track/3WiLTYZ0QqFOsHx3qSI1kY) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [The Lightkeepers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6jOwyfWCjP78gXn49Q1zf2) | 6:19 | 2022-08-05 |  |
 | [Mae](https://open.spotify.com/track/0UI8Jk6Ps9tHcvIchV1nuO) | [Berlinist](https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn) | [Gris \(Original Game Soundtrack\)](https://open.spotify.com/album/2YMWspDGtbDgYULXvVQFM6) | 2:33 | 2022-08-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "-8 LUFS if you can. Ft. mykel online",
-  "num_followers": 20126,
+  "num_followers": 20182,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTdmMDc2ZTVjZGIyMGY2NTk5NmU3MGE5OWI3MDU3OWUyYTE4Y2I4",
+  "snapshot_id": "MCw1MTRmYjgwYWU2NDU2NzkzMGU5OTBkYmRhOGVmNTRlNDdhOWJiZjli",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW"
     },
     {
-      "added_at": "2023-05-31 17:22:45",
-      "album": {
-        "name": "Delusional",
-        "url": "https://open.spotify.com/album/3nG1CK2bOhi74cNDtCYppx"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Think About It",
-      "url": "https://open.spotify.com/track/4zfHRKOXhzjAoSsN5OZqSn"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Tea Parties With Dale Earnhardt",
@@ -391,6 +375,22 @@
       "duration_ms": 101075,
       "name": "Tea Parties With Dale Earnhardt",
       "url": "https://open.spotify.com/track/68CmROYNRCJWTJOx34pCSk"
+    },
+    {
+      "added_at": "2023-05-31 17:22:45",
+      "album": {
+        "name": "Delusional",
+        "url": "https://open.spotify.com/album/3nG1CK2bOhi74cNDtCYppx"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/4zfHRKOXhzjAoSsN5OZqSn"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -465,6 +465,26 @@
       "url": "https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "the world is big",
+        "url": "https://open.spotify.com/album/0qEHh7yrNMM4UGTE3jmAAS"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "the world is big",
+      "url": "https://open.spotify.com/track/0M3jtTVHW0iK9mkQsqQc93"
+    },
+    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "update failed",
@@ -495,6 +515,26 @@
       "duration_ms": 117394,
       "name": "draugr",
       "url": "https://open.spotify.com/track/1UrZ6imOCcIUuENbqhbTjS"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "junkie",
+        "url": "https://open.spotify.com/album/3Rjox1mLxaJLl0P5RwjLnP"
+      },
+      "artists": [
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        },
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "poison",
+      "url": "https://open.spotify.com/track/4E6RRv2D91G1P665WSBADB"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -529,60 +569,20 @@
       "url": "https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "the world is big",
-        "url": "https://open.spotify.com/album/0qEHh7yrNMM4UGTE3jmAAS"
+        "name": "dark out",
+        "url": "https://open.spotify.com/album/2WobrgmAwkqkh8iCKEoMa7"
       },
       "artists": [
         {
-          "name": "Godly the Ruler",
-          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
-        },
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+          "name": "Max Fry",
+          "url": "https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy"
         }
       ],
-      "duration_ms": 161500,
-      "name": "the world is big",
-      "url": "https://open.spotify.com/track/0M3jtTVHW0iK9mkQsqQc93"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "junkie",
-        "url": "https://open.spotify.com/album/3Rjox1mLxaJLl0P5RwjLnP"
-      },
-      "artists": [
-        {
-          "name": "Vaeo",
-          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
-        },
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 117333,
-      "name": "poison",
-      "url": "https://open.spotify.com/track/4E6RRv2D91G1P665WSBADB"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "never let you leave",
-        "url": "https://open.spotify.com/album/0wH8IuDVBd99eCGypnOuII"
-      },
-      "artists": [
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        }
-      ],
-      "duration_ms": 126296,
-      "name": "never let you leave",
-      "url": "https://open.spotify.com/track/4pwYRwB6wlFdpeltboxC4N"
+      "duration_ms": 145696,
+      "name": "dark out",
+      "url": "https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -627,6 +627,22 @@
       "duration_ms": 142290,
       "name": "SOS",
       "url": "https://open.spotify.com/track/6VadjsKC8hvS4E6FQGUKIc"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "never let you leave",
+        "url": "https://open.spotify.com/album/0wH8IuDVBd99eCGypnOuII"
+      },
+      "artists": [
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "duration_ms": 126296,
+      "name": "never let you leave",
+      "url": "https://open.spotify.com/track/4pwYRwB6wlFdpeltboxC4N"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -679,22 +695,6 @@
       "duration_ms": 77300,
       "name": "battle",
       "url": "https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "dark out",
-        "url": "https://open.spotify.com/album/2WobrgmAwkqkh8iCKEoMa7"
-      },
-      "artists": [
-        {
-          "name": "Max Fry",
-          "url": "https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy"
-        }
-      ],
-      "duration_ms": 145696,
-      "name": "dark out",
-      "url": "https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9"
     },
     {
       "added_at": "2023-05-19 12:36:59",
@@ -813,6 +813,22 @@
       "url": "https://open.spotify.com/track/6i94abfEAkbOluMpdcbS7w"
     },
     {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "Cdbaby<3 (underscores remix)",
+        "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 133305,
+      "name": "Cdbaby<3 - underscores remix",
+      "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
+    },
+    {
       "added_at": "2023-05-19 12:36:59",
       "album": {
         "name": "Gossip Team",
@@ -831,22 +847,6 @@
       "duration_ms": 193000,
       "name": "newlyweds",
       "url": "https://open.spotify.com/track/0qxeW8peAWYm9iF6bvE7tq"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "Cdbaby<3 (underscores remix)",
-        "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 133305,
-      "name": "Cdbaby<3 - underscores remix",
-      "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/5tnlIXsXfQTTEptv129Swp"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "bestfriends girl",
-        "url": "https://open.spotify.com/album/2ypBYf95W9pRjbMuOFJJBE"
-      },
-      "artists": [
-        {
-          "name": "adan diaz",
-          "url": "https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP"
-        }
-      ],
-      "duration_ms": 151519,
-      "name": "bestfriends girl",
-      "url": "https://open.spotify.com/track/5z20DkZvTsPejzPFHs3aI0"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Started With",
@@ -1211,6 +1195,22 @@
       "duration_ms": 125647,
       "name": "Started With",
       "url": "https://open.spotify.com/track/0HItsiWHdkju9IHa1wUAIv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "bestfriends girl",
+        "url": "https://open.spotify.com/album/2ypBYf95W9pRjbMuOFJJBE"
+      },
+      "artists": [
+        {
+          "name": "adan diaz",
+          "url": "https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP"
+        }
+      ],
+      "duration_ms": 151519,
+      "name": "bestfriends girl",
+      "url": "https://open.spotify.com/track/5z20DkZvTsPejzPFHs3aI0"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "House",
-        "url": "https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw"
-      },
-      "artists": [
-        {
-          "name": "heavn",
-          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Where I Met U",
-      "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Birds Fly",
         "url": "https://open.spotify.com/album/4N0VLGbDm2Bmmxm19qlg88"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 181578,
       "name": "Birds Fly",
       "url": "https://open.spotify.com/track/5D0F0NUf3nhgAZPiVIdwRq"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw"
+      },
+      "artists": [
+        {
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "Where I Met U",
+      "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -1371,22 +1371,6 @@
       "duration_ms": 157674,
       "name": "the world is ending and i can't stop crying over these frog boots",
       "url": "https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "catherine never broke again",
-        "url": "https://open.spotify.com/album/0SS7QRTl0W0CBbUCPkmmaM"
-      },
-      "artists": [
-        {
-          "name": "saoirse dream",
-          "url": "https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf"
-        }
-      ],
-      "duration_ms": 114582,
-      "name": "catherine never broke again",
-      "url": "https://open.spotify.com/track/2RP8p6uDqJCMvpXxfo3L7s"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1409,20 +1393,20 @@
       "url": "https://open.spotify.com/track/6ZuapdXPe54vleFxBSQMqL"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-03-15 19:57:27",
       "album": {
-        "name": "Nothin",
-        "url": "https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES"
+        "name": "catherine never broke again",
+        "url": "https://open.spotify.com/album/0SS7QRTl0W0CBbUCPkmmaM"
       },
       "artists": [
         {
-          "name": "Worry Club",
-          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+          "name": "saoirse dream",
+          "url": "https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf"
         }
       ],
-      "duration_ms": 167112,
-      "name": "Nothin",
-      "url": "https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga"
+      "duration_ms": 114582,
+      "name": "catherine never broke again",
+      "url": "https://open.spotify.com/track/2RP8p6uDqJCMvpXxfo3L7s"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1443,22 +1427,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Fortune Cookie",
-        "url": "https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 141782,
-      "name": "Vexed",
-      "url": "https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Gossip Team",
         "url": "https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM"
       },
@@ -1475,6 +1443,78 @@
       "duration_ms": 183414,
       "name": "wow!",
       "url": "https://open.spotify.com/track/5SF29ZGgnigCJvpzdIZkJU"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Nothin",
+        "url": "https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES"
+      },
+      "artists": [
+        {
+          "name": "Worry Club",
+          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+        }
+      ],
+      "duration_ms": 167112,
+      "name": "Nothin",
+      "url": "https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Fortune Cookie",
+        "url": "https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 141782,
+      "name": "Vexed",
+      "url": "https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "TM2TB",
+        "url": "https://open.spotify.com/album/5DnpgZxfgasXEuoZQ6Hirv"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+        }
+      ],
+      "duration_ms": 109090,
+      "name": "TM2TB",
+      "url": "https://open.spotify.com/track/5e5auPZ8BxQHdNKqu2FsWe"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Burning Angel",
+        "url": "https://open.spotify.com/album/07mBF3CloQiwm9RItifrcG"
+      },
+      "artists": [
+        {
+          "name": "Damazein",
+          "url": "https://open.spotify.com/artist/4Vr5ULgjQOQQRZS0FVvQMi"
+        },
+        {
+          "name": "kimj",
+          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
+        }
+      ],
+      "duration_ms": 118235,
+      "name": "Burning Angel",
+      "url": "https://open.spotify.com/track/0y3yMEAlP3S11L4oSuR3uq"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1519,22 +1559,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Burning Angel",
-        "url": "https://open.spotify.com/album/07mBF3CloQiwm9RItifrcG"
+        "name": "Sick Sad Obsession",
+        "url": "https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb"
       },
       "artists": [
         {
-          "name": "Damazein",
-          "url": "https://open.spotify.com/artist/4Vr5ULgjQOQQRZS0FVvQMi"
-        },
-        {
-          "name": "kimj",
-          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
+          "name": "heffy",
+          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
         }
       ],
-      "duration_ms": 118235,
-      "name": "Burning Angel",
-      "url": "https://open.spotify.com/track/0y3yMEAlP3S11L4oSuR3uq"
+      "duration_ms": 123642,
+      "name": "Borderline Personality",
+      "url": "https://open.spotify.com/track/2XQh0Gvc6KGOIPQRm30M3K"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1551,22 +1587,6 @@
       "duration_ms": 153495,
       "name": "hold it love it",
       "url": "https://open.spotify.com/track/7pKwKqGnRjLJNFbbP7kBbI"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Sick Sad Obsession",
-        "url": "https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb"
-      },
-      "artists": [
-        {
-          "name": "heffy",
-          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
-        }
-      ],
-      "duration_ms": 123642,
-      "name": "Borderline Personality",
-      "url": "https://open.spotify.com/track/2XQh0Gvc6KGOIPQRm30M3K"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1671,26 +1691,6 @@
       "duration_ms": 218181,
       "name": "I'll Be Damned",
       "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "TM2TB",
-        "url": "https://open.spotify.com/album/5DnpgZxfgasXEuoZQ6Hirv"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        },
-        {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
-        }
-      ],
-      "duration_ms": 109090,
-      "name": "TM2TB",
-      "url": "https://open.spotify.com/track/5e5auPZ8BxQHdNKqu2FsWe"
     },
     {
       "added_at": "2023-03-15 19:57:27",

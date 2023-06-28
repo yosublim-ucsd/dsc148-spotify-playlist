@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Barbi Recanati.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,330 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,328 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 15 | [Terremoto](https://open.spotify.com/track/50fHlG70LL8olJ2e2kbFLW) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DUM](https://open.spotify.com/album/2VHHU1Sr4sweqmFJXhk2dS) | 2:43 |
 | 16 | [Pensamientos intrusivos](https://open.spotify.com/track/00fA8U2HVDVBHgpfoCXdmE) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [La Fuerza](https://open.spotify.com/album/6Z9DBFIWEnKxGyx0Vgs4ee) | 4:17 |
 | 17 | [Clavícula](https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 2:49 |
-| 18 | [Trago Sin Terminar](https://open.spotify.com/track/4jstoiX3RRUewwyMIpNPgS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 3:13 |
-| 19 | [Donde Vamos](https://open.spotify.com/track/4AZ6wOO96okzltCfEDhDn4) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [Donde Vamos](https://open.spotify.com/album/7efZ3CZiFymj7AH5wOMWJ0) | 2:56 |
+| 18 | [Donde Vamos](https://open.spotify.com/track/4AZ6wOO96okzltCfEDhDn4) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [Donde Vamos](https://open.spotify.com/album/7efZ3CZiFymj7AH5wOMWJ0) | 2:56 |
+| 19 | [Trago Sin Terminar](https://open.spotify.com/track/4jstoiX3RRUewwyMIpNPgS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 3:13 |
 | 20 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
 | 21 | [La Casa De Tu Mamá](https://open.spotify.com/track/347RGsSgCXlzIlZYb2gEwu) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [La Casa De Tu Mamá](https://open.spotify.com/album/05SDUU6l3vytYY5Jld0b00) | 3:13 |
 | 22 | [ULTRASONICO](https://open.spotify.com/track/2W4qLB4rniOvtnt5ywiEGo) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 2:53 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 37 | [Plaza de Mayo](https://open.spotify.com/track/5cbbAhQ3hUl9Y9PYMBNek4) | [Valen Bonetto](https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd) | [Plaza de Mayo](https://open.spotify.com/album/3pvuQJ6YkLj8JXLIA4BFxQ) | 3:32 |
 | 38 | [Camino](https://open.spotify.com/track/7yGV8rGE3cme3t6RVnrEIj) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Camino](https://open.spotify.com/album/3ZiNjuZj0pj5EEUpr5jCDL) | 2:14 |
 | 39 | [Enciendo](https://open.spotify.com/track/6NH6YjyjO7V1NqB1hIcJp1) | [Luz Pereyra](https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA) | [Enciendo](https://open.spotify.com/album/4ASuzsCnMU7i1b8PGexYEI) | 2:46 |
-| 40 | [KRONOS](https://open.spotify.com/track/1T39NuEaeKzrDWAlMMMsxV) | [EMILIA SALŪM](https://open.spotify.com/artist/0ZrwqNDhNGrqOxPxjKb40A) | [Ēgida](https://open.spotify.com/album/4jhlKu0ZjhMj9QWBQ4kXOQ) | 3:54 |
-| 41 | [Región Central](https://open.spotify.com/track/4g3x4LkiDpakj6Hn2ydpND) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Región Central](https://open.spotify.com/album/68PixL0dQOezVWEAMdPL6q) | 4:07 |
+| 40 | [Región Central](https://open.spotify.com/track/4g3x4LkiDpakj6Hn2ydpND) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Región Central](https://open.spotify.com/album/68PixL0dQOezVWEAMdPL6q) | 4:07 |
+| 41 | [KRONOS](https://open.spotify.com/track/1T39NuEaeKzrDWAlMMMsxV) | [EMILIA SALŪM](https://open.spotify.com/artist/0ZrwqNDhNGrqOxPxjKb40A) | [Ēgida](https://open.spotify.com/album/4jhlKu0ZjhMj9QWBQ4kXOQ) | 3:54 |
 | 42 | [XPERIMENTO](https://open.spotify.com/track/3LY2H6WiscVciPMQpsAFwY) | [Livia](https://open.spotify.com/artist/2uXb2DAztD4Gv2ZrLMW7dW), [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [XPERIMENTO](https://open.spotify.com/album/1IDTvTbyEyeoOfKzQvTi39) | 3:56 |
 | 43 | [Labios Perdidos](https://open.spotify.com/track/0xAVz2meL2yaZZnGgW3LJn) | [Hija de Tigre](https://open.spotify.com/artist/3CnynS3VsGSiSmCli4EWQK) | [Labios perdidos](https://open.spotify.com/album/1GF0eBlLv6k573bjA1LDlT) | 3:06 |
 | 44 | [Indefinido](https://open.spotify.com/track/4vTglJvQbbJGseyT8MxndO) | [Lux Raptor](https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq) | [Transparente](https://open.spotify.com/album/0Q4t1ZDpkRPK2DFrktPGtc) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Serpientes](https://open.spotify.com/track/0Uu56M8h27DWtDRS0WB8wo) | [Paula y Los Pájaros](https://open.spotify.com/artist/5ieJxCq2svgyLpVgL7Xalk) | [Serpientes](https://open.spotify.com/album/5WnrMugZ9igrl5RQlZb0C3) | 4:16 |
 | 50 | [Aplaudan](https://open.spotify.com/track/536hF72EgZwGrnxAfKMiAS) | [Maria Florencia Silva](https://open.spotify.com/artist/3lPDxSUaNbNXR3h4U8PYUu), [Animales de Poder](https://open.spotify.com/artist/0HHIbLHHbWHtLokGrFztwF) | [Aplaudan](https://open.spotify.com/album/77Z2tqEa6SgV7HO2ii5Gsk) | 3:40 |
 
-Snapshot ID: `MCwzMTU5ZmRkYzczNDY2MzQ5YzZkMjRmOGFmYWU4ZDc4NDE2NzBhZTI0`
+Snapshot ID: `MCw3NjZhY2EyMTkzMTczYTM0MjQ3MzJmZjJiODQwMWQzYzFhMjZjNWI3`

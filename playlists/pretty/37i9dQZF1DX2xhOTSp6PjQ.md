@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=4h9axPT0SQSrdxb5feKJYw">Inkabi Zezwe</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,800 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,910 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 12 | [Eshu Wesokalami](https://open.spotify.com/track/6UFkLF40TBGfVFry7LXSxJ) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Intencane](https://open.spotify.com/album/7doGg6TOO86pTXiyploISV) | 3:51 |
 | 13 | [Uthando Lunye](https://open.spotify.com/track/6vT6ApD2icv6IjGfEMdRHo) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Uthando Lunye](https://open.spotify.com/album/185M5vZmISiDK7Q4ufbAMr) | 4:13 |
 | 14 | [Umcebo](https://open.spotify.com/track/4wPKQWzPiKBBf1AUmAQbA2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi \(Gold Deluxe\)](https://open.spotify.com/album/6TE4E8HVGy0HM4lT3vgHWz) | 3:52 |
-| 15 | [Uyangithanda](https://open.spotify.com/track/15RuL9oTamznOswkGKF8rD) | [Mzukulu](https://open.spotify.com/artist/6opKhHzvL2v5u42eTzEmjN) | [Eyokuza](https://open.spotify.com/album/0r4p4Z9eRFUsKYq5OQiuHJ) | 4:12 |
+| 15 | [Uyangithanda](https://open.spotify.com/track/15RuL9oTamznOswkGKF8rD) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Eyokuza](https://open.spotify.com/album/0r4p4Z9eRFUsKYq5OQiuHJ) | 4:12 |
 | 16 | [Isilingo](https://open.spotify.com/track/5Df0fXk01kB3ZgVPg3uwmk) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhloko Nes'xhanti](https://open.spotify.com/album/6uKsbOxDnGwYTfdVp2qIuP) | 3:40 |
 | 17 | [Ngomthetho Omdala \- Remake](https://open.spotify.com/track/3QHCcH3mQ7kVT7RgFWSIsI) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [Ngomthetho Omdala \(Remake\)](https://open.spotify.com/album/5R8ColLxaWu79CDJVFcSRn) | 4:29 |
 | 18 | [Emendweni \(Official Audio\)](https://open.spotify.com/track/7y7rkoxppjGCyanzPR1Ni3) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Inhlupheko](https://open.spotify.com/album/0COaJfx04ihKeZxxcw4j3x) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 49 | [Ngeke Ungiphathe](https://open.spotify.com/track/2g1yV6PlYp2qYOdP6K2ui4) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Ngeke Ungiphathe](https://open.spotify.com/album/0G0VUPHu7fDuvVrCWlGJTM) | 4:40 |
 | 50 | [Ujola Wedwa](https://open.spotify.com/track/4ap6aES5uDnSV0LZUHHKUC) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Imeya KaZwelonke](https://open.spotify.com/artist/3zl4AeNCAnBdEVhjNt0PNQ) | [Fortaleza De Sol](https://open.spotify.com/album/4qp4clBnx37iNwbKlfNlzK) | 3:21 |
 
-Snapshot ID: `MCw4NjlmYTU4OTk1MzRkZWYwNTgxMTdjZDU5MzBhZTIwMzJjYWQzNmYz`
+Snapshot ID: `MCw3NDI2NjZhMmM4YzUzZTQ1OTY1MDEwODhlMmU0ZjRkZTc2MzQzNjlj`

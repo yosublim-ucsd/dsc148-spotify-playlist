@@ -436,12 +436,12 @@
       },
       "artists": [
         {
-          "name": "Guillaume Dufay",
-          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
-        },
-        {
           "name": "Jessica Baran-Surel",
           "url": "https://open.spotify.com/artist/3SD6u8y8I74U62Dzb05FuE"
+        },
+        {
+          "name": "Guillaume Dufay",
+          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
         }
       ],
       "duration_ms": 193465,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,301 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,306 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [Acero Inmortal](https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M) | [Voltax](https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2) | [Fugitive State of Mind](https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai) | 3:47 |
 | 50 | [Alteración](https://open.spotify.com/track/3uSkIkwZ1TBJn0PQUExgtw) | [Arcadia Libre](https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q) | [Alteración](https://open.spotify.com/album/3iqUDLXxfCK023eFFqZp0c) | 3:13 |
 
-Snapshot ID: `MCxlNzI0NjMyNjk4ZTZhZjc1ZDc0ZDZjOTE5MTI4ZWM5MzNhNmMzY2Zi`
+Snapshot ID: `MCwyMTg0Y2Y0YTdhZmFkYjgzYThhYjM4Mjc1NzExMjViMTg0ZmIyMzJl`

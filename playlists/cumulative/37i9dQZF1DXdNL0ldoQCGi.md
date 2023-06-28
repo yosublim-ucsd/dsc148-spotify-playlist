@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-380 songs - 19 hr 25 min
+381 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bafora o Lança \- Remix](https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn) | [Mario Mc](https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn), [Menor Adr](https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT) | [Bafora o Lança \(Remix\)](https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt) | 3:32 | 2022-08-08 | 2022-11-08 |
 | [Bagulho É Loco Mano \- Ao Vivo](https://open.spotify.com/track/5D6xHKz2ma8odghPs5zMgG) | [João Carreiro](https://open.spotify.com/artist/3BwCvUfnT11B2jJtFZMtfH) | [Ao Vivo em Campo Grande, Pt\. 1](https://open.spotify.com/album/20uR4CAa9i14AVEWUuxlo8) | 2:43 | 2022-08-22 | 2022-11-29 |
 | [Baile de Favela \- Remix](https://open.spotify.com/track/70v2lrNsFa38VeEEWKCjLP) | [Piero da Vinci & Fr4nk Cr4nk](https://open.spotify.com/artist/5h4fVp3m9YtTT2LLDi6azy) | [Baile de Favela \(Remix\)](https://open.spotify.com/album/2QooHZjnY08kc69Dnrdb4V) | 4:11 | 2022-10-06 | 2022-11-08 |
-| [Balmain](https://open.spotify.com/track/44U6wTQDkos958gqTbilSw) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Balmain](https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA) | 3:17 | 2022-11-17 |  |
+| [Balmain](https://open.spotify.com/track/44U6wTQDkos958gqTbilSw) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU) | [Balmain](https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA) | 3:17 | 2022-11-17 |  |
 | [Bandida](https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl) | [Bruna Griphao](https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo) | [Bandida](https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ) | 2:20 | 2023-03-06 | 2023-04-25 |
 | [Bandido Não Dança](https://open.spotify.com/track/5WGTBzRLbjj0Sm3Br8X1rI) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bandido Não Dança](https://open.spotify.com/album/6pGEl2UutstK1XclQQgFz0) | 2:06 | 2023-01-10 |  |
 | [Bandoleros](https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Los Bandoleros](https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw) | 5:05 | 2023-05-29 |  |
@@ -168,8 +168,9 @@
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-05-25 | 2022-09-06 |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2022-05-25 | 2022-08-26 |
 | [Jungle](https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Vs Head Vs Heart](https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8) | 3:22 | 2022-05-25 | 2022-08-18 |
+| [KAROLINA](https://open.spotify.com/track/37FKV1o2tcqHwSi2q0Yxgp) | [h$mza](https://open.spotify.com/artist/0H4EMH4ocavcSymPjUL5Yr), [h$lil](https://open.spotify.com/artist/1CFViPIECHw3a7XOvcAB5H) | [KAROLINA](https://open.spotify.com/album/6AHqWjWMhUBPlHwzJ9xVJW) | 2:25 | 2023-06-27 |  |
 | [Karolina](https://open.spotify.com/track/1DUzZHTgtCpw3UOlaCHR9k) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/1z6nTcZk7ak4nJET7R3GAE) | 2:25 | 2023-06-19 | 2023-06-27 |
-| [Karolina](https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/7neil7gV2W2xRlEmveJfXD) | 2:26 | 2023-06-08 |  |
+| [Karolina](https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/7neil7gV2W2xRlEmveJfXD) | 2:26 | 2023-06-08 | 2023-06-28 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-01-03 | 2023-03-11 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-08-30 | 2022-09-29 |
 | [La Ele](https://open.spotify.com/track/36e9tQXmpCsaqaesQcOWwS) | [Caneta Azul](https://open.spotify.com/artist/3Naf9sMkKUzO64ozAkbVXi) | [La Ele](https://open.spotify.com/album/5TxzHKyJGK4Eo2I9tsY3Ci) | 2:24 | 2023-01-09 | 2023-01-12 |

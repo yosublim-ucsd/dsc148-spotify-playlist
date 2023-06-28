@@ -4,7 +4,7 @@
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-60 songs - 7 hr 15 min
+61 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Concrete Dub](https://open.spotify.com/track/1eopkiDHKgx8YATy1mbrDS) | [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Morning Star EP](https://open.spotify.com/album/05MqT0TbUqEujSLRB8aF7l) | 6:28 | 2022-11-30 |  |
 | [Darkness Falls](https://open.spotify.com/track/5gmXnGeozKOzIglwa8FVyX) | [Deepchord](https://open.spotify.com/artist/45g23Apmqo2x4obM7LjmpW) | [Functional Designs](https://open.spotify.com/album/65mmHlZPWc1L3wkfWzG0n9) | 7:13 | 2023-01-10 |  |
 | [Dawn](https://open.spotify.com/track/4J5JQ3xfGZGkxa78b1x9Dn) | [Faserklang](https://open.spotify.com/artist/7iVGJlT8IYlQC9o21K77sP) | [Nu Ways](https://open.spotify.com/album/45QVsvEWNzwrE4cQiA6Lb3) | 7:32 | 2022-11-30 |  |
-| [Deep In Dub \- Zzzzra Minimal Techno](https://open.spotify.com/track/03fF86uquiqMjstKl0oxeE) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE) | [Minimal Techhouse Journey](https://open.spotify.com/album/6LDC5NWtBgI0WsMoxUAtMg) | 7:24 | 2022-11-30 |  |
+| [Deep In Dub \- Zzzzra Minimal Techno](https://open.spotify.com/track/03fF86uquiqMjstKl0oxeE) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE) | [Minimal Techhouse Journey](https://open.spotify.com/album/6LDC5NWtBgI0WsMoxUAtMg) | 7:24 | 2022-11-30 | 2023-06-28 |
+| [Deep In Dub \- Zzzzra Minimal Techno Mix](https://open.spotify.com/track/0pfmRTCjCfZKn53A5HUPVc) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE) | [Deeplife Selection 01](https://open.spotify.com/album/6W5pFubOmnJjE2zexYlhbd) | 7:24 | 2023-02-14 |  |
 | [Donjon 64 \- Original Mix](https://open.spotify.com/track/7eupsoz9v0rann0SSTCHfZ) | [Zzzzra](https://open.spotify.com/artist/0Z1HUzAek6bJBuBhz8mx0q) | [Biology 004 VA](https://open.spotify.com/album/1yQ8NRBUA79qGGt3MJHezC) | 8:11 | 2022-11-30 |  |
 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 | 2022-11-30 |  |
 | [Dub Seekers](https://open.spotify.com/track/2M5lNIJiiGskmRelYftHvi) | [Coma conscience](https://open.spotify.com/artist/7tBKvZthaXQCVkOeub7FY4) | [Cascades](https://open.spotify.com/album/0VKu2h9Nmos4NcBJ4Tw4j3) | 6:48 | 2022-11-30 |  |

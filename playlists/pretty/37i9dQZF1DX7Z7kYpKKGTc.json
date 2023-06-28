@@ -1,12 +1,12 @@
 {
   "description": "The romantic side of classic rock and metal",
-  "num_followers": 599539,
+  "num_followers": 599925,
   "original_name": "Rock Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYThlNTNjMjQwMzkxNDdhOTc0MGI0MDMwYmU3OTYwMzNjZDA1YjAx",
+  "snapshot_id": "MCw3N2UyYTM2YThhZDkwNTg3MDEyNjZiYTViNzdiMGEzNGUwNGEzYTgx",
   "tracks": [
     {
       "added_at": "2023-03-26 23:54:36",
@@ -75,6 +75,86 @@
     {
       "added_at": "2023-03-26 23:54:36",
       "album": {
+        "name": "Chicago 17 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 283733,
+      "name": "Hard Habit to Break - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3Tows9RnoAq9CmMJaII2cO"
+    },
+    {
+      "added_at": "2023-03-26 23:54:36",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "The Search Is Over",
+      "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
+    },
+    {
+      "added_at": "2023-03-26 23:54:36",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "I Won't Hold You Back",
+      "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
+    },
+    {
+      "added_at": "2023-03-26 23:54:36",
+      "album": {
+        "name": "Alias",
+        "url": "https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF"
+      },
+      "artists": [
+        {
+          "name": "Alias",
+          "url": "https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ"
+        }
+      ],
+      "duration_ms": 234196,
+      "name": "More Than Words Can Say",
+      "url": "https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl"
+    },
+    {
+      "added_at": "2023-03-26 23:54:36",
+      "album": {
+        "name": "Street Talk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw"
+      },
+      "artists": [
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Foolish Heart",
+      "url": "https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9"
+    },
+    {
+      "added_at": "2023-03-26 23:54:36",
+      "album": {
         "name": "Aerosmith",
         "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
       },
@@ -139,6 +219,22 @@
     {
       "added_at": "2023-03-26 23:54:36",
       "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "added_at": "2023-03-26 23:54:36",
+      "album": {
         "name": "Agent Provocateur",
         "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
       },
@@ -167,22 +263,6 @@
       "duration_ms": 285133,
       "name": "More Than a Feeling",
       "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2023-03-26 23:54:36",
-      "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
       "added_at": "2023-03-26 23:54:36",
@@ -523,50 +603,18 @@
     {
       "added_at": "2023-03-26 23:54:36",
       "album": {
-        "name": "Mr. Bad Guy (Special Edition)",
-        "url": "https://open.spotify.com/album/6Dn35TYdEp2Kyr2MUxemjs"
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
       "artists": [
         {
-          "name": "Freddie Mercury",
-          "url": "https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 225100,
-      "name": "Love Me Like There's No Tomorrow - Special Edition",
-      "url": "https://open.spotify.com/track/1nx4C7WpgRVTIeAmWIX8FD"
-    },
-    {
-      "added_at": "2023-03-26 23:54:36",
-      "album": {
-        "name": "Perdida",
-        "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "Perdida",
-      "url": "https://open.spotify.com/track/37AWxJfFokpKZhn6b0o483"
-    },
-    {
-      "added_at": "2023-03-26 23:54:36",
-      "album": {
-        "name": "Ritchie Blackmore's Rainbow",
-        "url": "https://open.spotify.com/album/3LXOrVXLXwRiOguE446OZo"
-      },
-      "artists": [
-        {
-          "name": "Rainbow",
-          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
-        }
-      ],
-      "duration_ms": 396466,
-      "name": "Catch The Rainbow",
-      "url": "https://open.spotify.com/track/7FtRUrOEDUHTvenvp1BqZo"
+      "duration_ms": 323706,
+      "name": "Separate Ways (Worlds Apart)",
+      "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
     },
     {
       "added_at": "2023-03-26 23:54:36",
@@ -587,18 +635,18 @@
     {
       "added_at": "2023-03-26 23:54:36",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
     },
     {
       "added_at": "2023-03-26 23:54:36",
@@ -619,56 +667,8 @@
     {
       "added_at": "2023-03-26 23:54:36",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Seven Wonders - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx"
-    },
-    {
-      "added_at": "2023-03-26 23:54:36",
-      "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/2DirJHZVTDYehQiwpWglKo"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "When It Comes to Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4MLBWjhQ1uUssFEaO66jjE"
-    },
-    {
-      "added_at": "2023-03-26 23:54:36",
-      "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "Lovesong - 2010 Remaster",
-      "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
-    },
-    {
-      "added_at": "2023-03-26 23:54:36",
-      "album": {
-        "name": "Tambu",
-        "url": "https://open.spotify.com/album/6euMPZz8wRBQBf9U2W91Xw"
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
       "artists": [
         {
@@ -676,57 +676,9 @@
           "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 303626,
-      "name": "If You Belong to Me",
-      "url": "https://open.spotify.com/track/759c8iDFYOtthJJ7ZaVuyv"
-    },
-    {
-      "added_at": "2023-03-26 23:54:36",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 323706,
-      "name": "Separate Ways (Worlds Apart)",
-      "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
-    },
-    {
-      "added_at": "2023-03-26 23:54:36",
-      "album": {
-        "name": "Armageddon - The Album",
-        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
-    },
-    {
-      "added_at": "2023-03-26 23:54:36",
-      "album": {
-        "name": "MTV Unplugged In New York",
-        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 306066,
-      "name": "Where Did You Sleep Last Night",
-      "url": "https://open.spotify.com/track/551qy5vUgrUfEUc4dCNfht"
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2023-03-26 23:54:36",
@@ -763,50 +715,110 @@
     {
       "added_at": "2023-03-26 23:54:36",
       "album": {
-        "name": "Ten Summoner's Tales",
-        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+        "name": "Secret Treaties",
+        "url": "https://open.spotify.com/album/0cs4Eli5HS6BomzJ9yfrAw"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
         }
       ],
-      "duration_ms": 279226,
-      "name": "Shape Of My Heart",
-      "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
+      "duration_ms": 383973,
+      "name": "Astronomy",
+      "url": "https://open.spotify.com/track/2g02rt0UFudctbAnmJsm22"
     },
     {
       "added_at": "2023-03-26 23:54:36",
       "album": {
-        "name": "Chicago 17 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
+        "name": "Love Songs (2020 Remix)",
+        "url": "https://open.spotify.com/album/36Fg5BRhoXvdqIH3qwTF9m"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        },
+        {
+          "name": "Chris Collier",
+          "url": "https://open.spotify.com/artist/1taWFSDSElKxklyuXIJaEy"
         }
       ],
-      "duration_ms": 229240,
-      "name": "You're the Inspiration - 2006 Remaster",
-      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
+      "duration_ms": 251953,
+      "name": "Now You're Gone - 2020 Remix",
+      "url": "https://open.spotify.com/track/6DAfgSEnyItLmTsxczl9DU"
     },
     {
       "added_at": "2023-03-26 23:54:36",
       "album": {
-        "name": "New Miserable Experience",
-        "url": "https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f"
+        "name": "Horrorscope",
+        "url": "https://open.spotify.com/album/73VlOsBgtM73Qh8iivxEMo"
       },
       "artists": [
         {
-          "name": "Gin Blossoms",
-          "url": "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
         }
       ],
-      "duration_ms": 233400,
-      "name": "Found Out About You",
-      "url": "https://open.spotify.com/track/5WmDRnuGYo31xrWNDcYaps"
+      "duration_ms": 325800,
+      "name": "Soulitude",
+      "url": "https://open.spotify.com/track/7oF0ipAluvQNCw6VruGEEN"
+    },
+    {
+      "added_at": "2023-03-26 23:54:36",
+      "album": {
+        "name": "On Target",
+        "url": "https://open.spotify.com/album/3wUPnwIc4xkttsmabaNQiC"
+      },
+      "artists": [
+        {
+          "name": "Bangalore Choir",
+          "url": "https://open.spotify.com/artist/56uhy4QIapl87ojDRRz92a"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "Hold on to You",
+      "url": "https://open.spotify.com/track/1mSqcdYiCrXqJV1zHW6F66"
+    },
+    {
+      "added_at": "2023-03-26 23:54:36",
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/0yLfXULLuRtVj2L4DIrwO7"
+    },
+    {
+      "added_at": "2023-03-26 23:54:36",
+      "album": {
+        "name": "The Age Of The Understatement",
+        "url": "https://open.spotify.com/album/1Rsm7e7fnLx87MDgV7w7ZM"
+      },
+      "artists": [
+        {
+          "name": "The Last Shadow Puppets",
+          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+        },
+        {
+          "name": "Alex Turner",
+          "url": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
+        },
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "In The Heat Of The Morning",
+      "url": "https://open.spotify.com/track/2pAm0eho3UtxAK1bsRuOK7"
     }
   ],
   "unique_name": "Rock Love Songs",

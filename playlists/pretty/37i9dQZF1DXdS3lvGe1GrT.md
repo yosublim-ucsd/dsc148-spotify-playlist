@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Lutalo \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,713 likes - 101 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,736 likes - 101 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 100 | [Out of Phase](https://open.spotify.com/track/4GG49U8YQtn540h1s73ZGA) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Ceremony](https://open.spotify.com/album/4tBpKBm6L4eBnueME7lIaD) | 3:33 |
 | 101 | [Everlasting Snow](https://open.spotify.com/track/4q4zGsjgfqhbpnBXQP8YfH) | [Margaux](https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp) | [Everlasting Snow](https://open.spotify.com/album/6SxuqWQFQfAxq9Ucv6PUaS) | 2:35 |
 
-Snapshot ID: `MCxhNzUxODQ5YjM0MTY1MDRmNGQyZDNkMDhlNzNjZWI2NGE1MzQwZjA5`
+Snapshot ID: `MCwxMTNjMTBiMzcwODJiYTQ4MTQ3N2JlZTM3NDc4ZmRmY2NmYTRjOTA3`

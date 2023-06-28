@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Nagalli, Borges, Veigh, Kyan, Vulgo FK
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,908 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,139 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 71 | [Brinca Demais](https://open.spotify.com/track/1JzMOnuyabzpRuSudDD4Cq) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 3:14 |
 | 72 | [VALHO NADA](https://open.spotify.com/track/3qGvQ7IdsiVrex3LcH6hRB) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Bairro 13](https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Brutos](https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6), [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [VALHO NADA](https://open.spotify.com/album/2zHIz8N1VMO6XeoVgMNzQX) | 3:37 |
 | 73 | [Fe Blindada](https://open.spotify.com/track/0qqvEDm3PXlgOa9okZSARf) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Gênio](https://open.spotify.com/album/32l0hsTM6EprmOp8lEVRGe) | 2:58 |
-| 74 | [Balmain](https://open.spotify.com/track/44U6wTQDkos958gqTbilSw) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Balmain](https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA) | 3:17 |
+| 74 | [Balmain](https://open.spotify.com/track/44U6wTQDkos958gqTbilSw) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU) | [Balmain](https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA) | 3:17 |
 | 75 | [Licor 43](https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Licor 43](https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9) | 2:22 |
 
-Snapshot ID: `MCxlNWZjYzdiMmM2YzEwMWVjZTA3ZGU2NWEzNDQ5ODM0NmZjYzYzMmY4`
+Snapshot ID: `MCw2MWFlMWZlZGIyNjYwZTJiMjA4YmZiMDk0MThlODRmNjI4MWY3YjA4`

@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 59046,
+  "num_followers": 59067,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDg5NGY3ZWQ3YWVkN2Q5MmYwYmU0ZjUzODQ3M2RkNzg4OGM0YmY0",
+  "snapshot_id": "MCwxZWE4NDg0ODUwNDc4OTg0OTA1N2ZlZmY5MDZmZDA5MGM4NGZkZDFj",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -251,6 +251,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "The Rollercoaster",
+        "url": "https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "duration_ms": 219046,
+      "name": "The Rollercoaster",
+      "url": "https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Rhodes Island",
         "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 444150,
       "name": "Silver Machine",
       "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "The Rollercoaster",
-        "url": "https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF"
-      },
-      "artists": [
-        {
-          "name": "Yuksek",
-          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
-        }
-      ],
-      "duration_ms": 219046,
-      "name": "The Rollercoaster",
-      "url": "https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v"
     },
     {
       "added_at": "2021-08-27 15:45:01",

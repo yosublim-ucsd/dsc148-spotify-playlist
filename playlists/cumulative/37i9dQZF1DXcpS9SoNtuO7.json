@@ -2395,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "\u4fe1\u9577\u306e\u91ce\u671b \u5168\u30fb\u56fd\u30fb\u7248/\u4e09\u570b\u5fd7",
+        "url": "https://open.spotify.com/album/57WRhJWJvBcWOcPHALD4sz"
+      },
+      "artists": [
+        {
+          "name": "\u30b3\u30fc\u30a8\u30fc\u30c6\u30af\u30e2\u30b5\u30a6\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/3ajnX0cwvrpQ5tbryVQyQn"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49960,
+      "name": "OVERTURE \u301c\u4fe1\u9577\u306e\u91ce\u671b\u301c",
+      "url": "https://open.spotify.com/track/5uZQ8Ovbok7azYUzwFMYpU"
+    },
+    {
+      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -3232,6 +3250,24 @@
       "duration_ms": 272893,
       "name": "suddenly~\u5de1\u308a\u5408\u3048\u3066~",
       "url": "https://open.spotify.com/track/2Jg1umSdTxZOGnHkyEwv16"
+    },
+    {
+      "album": {
+        "name": "TryAgain",
+        "url": "https://open.spotify.com/album/1Wap9CfRYVOT6YbGWa9mox"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "Sunset \u30ab\u30f3\u30d5\u30fc",
+      "url": "https://open.spotify.com/track/2jQVJAUS8dveRnCR6pksEr"
     },
     {
       "album": {
@@ -5171,6 +5207,24 @@
     },
     {
       "album": {
+        "name": "Ghost Pop",
+        "url": "https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249204,
+      "name": "\u30e1\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/7yi9GtzcszqW9qnCcwD0dg"
+    },
+    {
+      "album": {
         "name": "\u300eARIA The NATURAL\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u30e6\u30fc\u30d5\u30a9\u30ea\u30a2\u300d",
         "url": "https://open.spotify.com/album/0X2jxOSFpYaxkaYBiF68Yw"
       },
@@ -6480,6 +6534,24 @@
       "duration_ms": 406920,
       "name": "\u82b1",
       "url": "https://open.spotify.com/track/2K5HWYTtLQOx9UFT5nU4jO"
+    },
+    {
+      "album": {
+        "name": "\u83ef\u9e97\u30ef\u30f3\u30bf\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/5Gu4DBIvLsOtPIPXSBAG7Y"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263613,
+      "name": "\u83ef\u9e97\u30ef\u30f3\u30bf\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/3E7PYVYZ5YfmeJpzEv4PYf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7?si=EpbuER2WSkWUr55kACCteg"> Wiffi Drips</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,998 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,045 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 79 | [I Know](https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [I Know](https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv) | 2:15 |
 | 80 | [God No Go Shame Us](https://open.spotify.com/track/6oHUaQylY7C9vpLDrLR32C) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [God No Go Shame Us](https://open.spotify.com/album/5hjyGoHHqyLyliSIGJrpTo) | 2:29 |
 
-Snapshot ID: `MCw1MzcwYTZlNWYxODgwNDkzMDI4Zjk0NDU3ZmZmNzBkMTYyNmUxOTlm`
+Snapshot ID: `MCxkMWM3OTQ5N2ZlNTc5NmI0ZjdhZjgyNjdhYWVlYmI1MzYzYzlhOTYx`

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ghostly Kisses
 
-1,922 songs - 4 day 6 hr 46 min
+1,923 songs - 4 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Démons](https://open.spotify.com/track/3gAEAmxdP1GIjgQ3Zud2mE) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 4:11 | 2021-12-31 | 2022-01-22 |
 | [Démons \- live orchestral](https://open.spotify.com/track/0sGTe0XXW28rCjrsx8VrD2) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nonante\-Cinq](https://open.spotify.com/album/2kL80GlrYJfxLHLB7PMr8f) | 3:54 | 2022-03-04 | 2022-03-18 |
 | [Dépotoir](https://open.spotify.com/track/7HabPxO3C9KQBQGEhepYNh) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Dépotoir](https://open.spotify.com/album/6kOh93M2REASQ1GF8Hbf26) | 3:13 | 2022-04-15 | 2022-04-29 |
+| [Désert](https://open.spotify.com/track/5WXSQ6fdFGybbY6ZdknoLr) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:17 | 2023-06-23 |  |
 | [désert alimentaire](https://open.spotify.com/track/59TJbm04rprGfGZRSzKrse) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [désert alimentaire](https://open.spotify.com/album/7vN3Q76FIrnHxPs2DElKyk) | 3:10 | 2023-05-19 | 2023-05-27 |
 | [Désolée de vous déranger](https://open.spotify.com/track/61DbsM7z2tDRvQpS6al7fG) | [Melissa Ouimet](https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth) | [Sans tomber](https://open.spotify.com/album/74EiP9IkxZgQQzRBmlIX7f) | 2:55 | 2022-05-06 | 2022-05-20 |
 | [Désordre insensé](https://open.spotify.com/track/0LG9F3iWjlzR6q6RpbyJNS) | [Désirée](https://open.spotify.com/artist/7igTH5z3uoVbKRvQ3M10fG) | [Les souvenirs flous](https://open.spotify.com/album/2qiD7xcB164I74T1fzHb6c) | 3:30 | 2023-02-17 | 2023-03-04 |
@@ -765,7 +766,7 @@
 | [J'ai trouvé une maison](https://open.spotify.com/track/7McNrQcwu0LFKllaM2mDq8) | [Marie\-Pier Allard](https://open.spotify.com/artist/1k9EofoaPv24MrAfJkSAYW) | [J’ai trouvé une maison](https://open.spotify.com/album/3ZYELekc9V1oP1NoMELc80) | 4:06 | 2022-01-14 | 2022-01-22 |
 | [J'ai vendu mon shack \- Acoustique](https://open.spotify.com/track/5z8RQZYj8LHSHEXp8Kf9EY) | [Phil G\. Smith](https://open.spotify.com/artist/6YpIE8UFTcFZ5eDQVCvwz9) | [On est encore là..\. au chalet ! \(Acoustique\)](https://open.spotify.com/album/5UBaGzpGowzzgnMSHnNXEj) | 3:04 | 2022-09-16 | 2022-09-24 |
 | [J'aime la rue](https://open.spotify.com/track/3cuzOzCuWHpYyMtEm8JZYt) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh), [Black Picsou](https://open.spotify.com/artist/5Lpv2OESh4prU1ko6Rx6wN) | [J'aime la rue](https://open.spotify.com/album/27MKgCDdFJa9idrDf1OWpJ) | 2:45 | 2023-02-24 | 2023-03-11 |
-| [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-06-23 |  |
+| [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-06-23 | 2023-06-28 |
 | [J'aime quand on danse \(tes mains sur mes hanches\)](https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C), [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [J'aime quand on danse \(tes mains sur mes hanches\)](https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV) | 3:34 | 2023-03-17 | 2023-04-15 |
 | [j'aime quand tu te déshabilles](https://open.spotify.com/track/1eTxcSqGcYEVGBL2CjszMR) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [j'aime quand tu te déshabilles](https://open.spotify.com/album/7IPpuCYfoYZGL0frdEHDKN) | 2:43 | 2022-07-22 | 2022-08-20 |
 | [J'aime ta photo](https://open.spotify.com/track/000mlZk4su6mh0WvFlNUOc) | [Ellemetue](https://open.spotify.com/artist/3DYW5k3Q20xKcomupznCRo) | [Les crucifiés figuratifs](https://open.spotify.com/album/6zGLsViSVtPNcUi4Mz92YY) | 3:33 | 2022-02-25 | 2022-03-05 |

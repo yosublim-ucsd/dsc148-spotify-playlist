@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Sam Austins makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,632 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,615 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Painless](https://open.spotify.com/track/4hMjAmwoUCDCXHO0aAnshF) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Painless](https://open.spotify.com/album/5srVsRgd3pNpsc8ccpAGL7) | 3:14 |
 | 100 | [Late Once Again](https://open.spotify.com/track/1H3VTQJPtdZ1pBJh467AuM) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Late Once Again](https://open.spotify.com/album/710wHUIqceJOfMHq41VK1l) | 3:25 |
 
-Snapshot ID: `MCw1ZDY2MWU5YTczMWU1NWJkMDZjMTE0ZTljMTQzMmVkYmY1YzNlZWU2`
+Snapshot ID: `MCwyNTM1N2MxMzgzMmNjYTQwMDNkY2I2NTIwYjQ1NDk4ZTVkZjU5NjRh`

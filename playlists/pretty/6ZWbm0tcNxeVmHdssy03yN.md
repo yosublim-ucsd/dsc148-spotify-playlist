@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,523 likes - 95 songs - 4 hr 50 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,534 likes - 95 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 5 | [Terror da Cidade](https://open.spotify.com/track/6YYCK0t9NAz1p7cXLe4xqL) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Terror da Cidade](https://open.spotify.com/album/3Y5GTDoyf5CiaDIwlYOYWF) | 3:06 |
 | 6 | [Get Up!!!](https://open.spotify.com/track/2EeVQXBjpbAU1Jv8jUeX7t) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [Spite Will Save Me](https://open.spotify.com/album/35hLhQt688HkGZe9OwZD7m) | 3:24 |
 | 7 | [U&ME](https://open.spotify.com/track/1iFF00cvNGx7wifX9hK5OR) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [BETTER LEFT UNSAID](https://open.spotify.com/album/3cCLcNCX9Om2ewNHYlFtaL) | 2:57 |
-| 8 | [Better Let Me In](https://open.spotify.com/track/0o3wEUGWvGYD3a4uIrqwRG) | [Miggy](https://open.spotify.com/artist/6ZJbpAPpHzzA3IqAzO6IPu), [Eternal Engine](https://open.spotify.com/artist/6OerlvzuxuCVGYfxwuNDLB), [DAYSHAWN](https://open.spotify.com/artist/6A5zU0mCwDtWHo13LSzvX5) | [Better Let Me In](https://open.spotify.com/album/4wRlrsuVvkvZro3uvqyLAv) | 2:29 |
+| 8 | [Better Let Me In](https://open.spotify.com/track/0o3wEUGWvGYD3a4uIrqwRG) | [Miggy](https://open.spotify.com/artist/6ZJbpAPpHzzA3IqAzO6IPu), [Eternal Engine](https://open.spotify.com/artist/6OerlvzuxuCVGYfxwuNDLB), [DAYSHAWN](https://open.spotify.com/artist/6A5zU0mCwDtWHo13LSzvX5), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M), [Danté Knows](https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs) | [Better Let Me In](https://open.spotify.com/album/4wRlrsuVvkvZro3uvqyLAv) | 2:29 |
 | 9 | [Alive](https://open.spotify.com/track/6tDQGhK5dxmT0fc2YogtSM) | [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Alive](https://open.spotify.com/album/3OUCxWJ5iD4UpgnZ0L5olz) | 2:26 |
-| 10 | [bikeboy](https://open.spotify.com/track/1avoBlmfVzxpnHAGB5nKzI) | [moonboy](https://open.spotify.com/artist/6Cq6gf2fnK1Xl9jH99jGUl) | [bikeboy](https://open.spotify.com/album/3mXKDuMwCctpqKsoDC9I3Z) | 2:49 |
+| 10 | [bikeboy](https://open.spotify.com/track/1avoBlmfVzxpnHAGB5nKzI) | [OSWRLD](https://open.spotify.com/artist/7qTTUaxCgwJsHTXjiFY5Kl) | [bikeboy](https://open.spotify.com/album/3mXKDuMwCctpqKsoDC9I3Z) | 2:49 |
 | 11 | [sunsets](https://open.spotify.com/track/5HwZnNtIQI8sI5wFhagyNa) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [sunsets](https://open.spotify.com/album/3PDR382gURrdZcaqFFT3EI) | 3:13 |
 | 12 | [Self Sabotage \- Ben Medveczky Remix](https://open.spotify.com/track/35rBwYBFaSPj7eujik9z6p) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Self Sabotage \(Ben Medveczky Remix\)](https://open.spotify.com/album/7qfTtAFO0Urtvj3xfox0sq) | 3:02 |
 | 13 | [Your Darkest Hour](https://open.spotify.com/track/4fxA01XWeErpfcfGVPdwCi) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Your Darkest Hour](https://open.spotify.com/album/7kXpuYfN9BJP5gnyaegG0i) | 4:12 |

@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-300 songs - 13 hr 57 min
+301 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 | 2022-08-25 |  |
 | [HAALAND](https://open.spotify.com/track/0LOCSZsi6mwN14aWHi8VCI) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X) | [HAALAND](https://open.spotify.com/album/6oBrrSkRLcvyVWe9ZwIvMl) | 1:44 | 2022-08-31 | 2022-10-14 |
 | [Hald deg fast](https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Hald deg fast](https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh) | 3:21 | 2023-03-03 |  |
-| [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 | 2021-12-16 |  |
+| [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 | 2021-12-16 | 2023-06-28 |
 | [Harryhandel Halleluja](https://open.spotify.com/track/2nERzk99mUpwd8XrBOVADz) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Harryhandel Halleluja](https://open.spotify.com/album/7CX0XAiJpBFkFr2sA376fo) | 2:03 | 2021-12-16 | 2022-06-30 |
 | [Heidis](https://open.spotify.com/track/6KEt31AgbIWvf9EIc4A8UW) | [Jövial](https://open.spotify.com/artist/4J67wA6BzNiosOXRTR6MPf) | [Heidis](https://open.spotify.com/album/4poJNaMxQW1OtK1pZeY33G) | 2:18 | 2022-02-17 | 2022-04-29 |
 | [Heidi´s i kveld](https://open.spotify.com/track/14GK1ZYM4q8bOpRO9bEt2T) | [TuVeia](https://open.spotify.com/artist/07BGSPHXFOdX2Ln6McOd1z) | [Heidi’s i kveld](https://open.spotify.com/album/68z4K2Gpakq9cc0Dlb97Cs) | 2:36 | 2022-05-19 | 2022-07-16 |
@@ -280,6 +280,7 @@
 | [To steg fram og attende tri](https://open.spotify.com/track/69SFfLMl6pnZRJn3gevXi2) | [Lothepus](https://open.spotify.com/artist/2HEAdsUVqQO9KqF1wKmHOO) | [Cowboyhjarta](https://open.spotify.com/album/53F5EooenK4mtYHnmFC2PK) | 3:02 | 2022-03-24 | 2022-04-17 |
 | [TOP GUN](https://open.spotify.com/track/4gobB2WY2C6HNFITwj5IPE) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [TOP GUN](https://open.spotify.com/album/3RgXPQL8B8CoOnXTXSQk8c) | 2:20 | 2023-02-23 |  |
 | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/track/0u8AMrMBM6S3YBDfPYwMfe) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/album/0oYqqPkucziudAvLm4tyfa) | 2:04 | 2023-01-26 | 2023-04-05 |
+| [TRUCKER MOTHERFUCKER](https://open.spotify.com/track/2a6NdKqYB9CaMT2yfiXZnE) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [TRUCKER MOTHERFUCKER](https://open.spotify.com/album/12b3VQAefRu3rAFj0uZwdC) | 3:23 | 2023-06-27 |  |
 | [Två Tölver](https://open.spotify.com/track/2UpB2xTnTenWwxTVg87msr) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [Två Tölver](https://open.spotify.com/album/4X7kcwcsUFzrIxtYuWZlEp) | 2:18 | 2022-10-15 | 2022-11-16 |
 | [Ung full och dum](https://open.spotify.com/track/6kh3aDbjz2VzP0hPYXw9Ty) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Ung full och dum](https://open.spotify.com/album/0btUOD4njBKXk157NpWBpH) | 2:20 | 2022-02-03 | 2022-07-26 |
 | [Unkarsvisa](https://open.spotify.com/track/5cahfdirvDllSTqi4dIArN) | [Gunnar Fjeldseth Band](https://open.spotify.com/artist/6IB3AURFYan3pLv4fFJblt) | [Det Er Hælj](https://open.spotify.com/album/7njZWyee7fcCok23SIcOde) | 3:23 | 2022-03-31 | 2022-04-20 |

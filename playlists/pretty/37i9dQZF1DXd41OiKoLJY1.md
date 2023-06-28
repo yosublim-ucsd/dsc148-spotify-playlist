@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: allen&elle Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,822 likes - 74 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,824 likes - 74 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [Baby tawag ka saakin](https://open.spotify.com/track/0WroUls7oIdGXMcfzRUYVJ) | [MJ.G](https://open.spotify.com/artist/7GP7pyoLjDnm7N1V9WkT1Z) | [Baby tawag ka saakin](https://open.spotify.com/album/5c11OvgxGxQMJOs5HQuFbC) | 3:02 |
 | 74 | [Edi](https://open.spotify.com/track/1AtFclPcKPLZ2OxkptHCUy) | [David Amarillo](https://open.spotify.com/artist/2YJOOuuXBLdG1ZKOzsxTxO), [Zyrus Gonzalvo](https://open.spotify.com/artist/54SktmFr8sMHqp1nQ9FIvN) | [Edi](https://open.spotify.com/album/2nAn5HOUeqhCUcqVQKl4BO) | 3:14 |
 
-Snapshot ID: `MCxkYTQ0OWZkOTc3NzFkOGQ3MmZiZmE0MmRkMjU1Nzg5OTY3ZjgyMTNi`
+Snapshot ID: `MCwwY2NkMzczNDcxNjU4ZGQ0ZmNhZTc0MjFkOWQ2NWFiMGJmYWRlODNi`

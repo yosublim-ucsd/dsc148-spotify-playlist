@@ -2080,7 +2080,7 @@
     {
       "album": {
         "name": "Fear in a Handful of Dust",
-        "url": "https://open.spotify.com/album/3OtMIEV8K692kqcjrlDbo9"
+        "url": "https://open.spotify.com/album/5JntKJacrklh6D69IsETO7"
       },
       "artists": [
         {
@@ -2091,6 +2091,24 @@
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216892,
+      "name": "On a Hilltop Sat the Moon",
+      "url": "https://open.spotify.com/track/3182ZGsY58yGqlr1BJZBgZ"
+    },
+    {
+      "album": {
+        "name": "Fear in a Handful of Dust",
+        "url": "https://open.spotify.com/album/3OtMIEV8K692kqcjrlDbo9"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
       "duration_ms": 216892,
       "name": "On a Hilltop Sat the Moon",
       "url": "https://open.spotify.com/track/5oE9k6fuMgWqpGltV7zfsc"
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 96188,
       "name": "Once Upon a Time",
       "url": "https://open.spotify.com/track/0VBQD4cV9vRm4jJ4luSAzO"
@@ -2371,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "How Do You Live",
+        "url": "https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303033,
+      "name": "Rise to Ashes",
+      "url": "https://open.spotify.com/track/0bjo8nQLLKuiaIYj3xVNt1"
+    },
+    {
+      "album": {
         "name": "Rise to Ashes",
         "url": "https://open.spotify.com/album/2dqgzGar4KPhJRFcUs002L"
       },
@@ -2400,7 +2436,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 303033,
       "name": "Rise to Ashes",
       "url": "https://open.spotify.com/track/79ZAX8dFqBW4PxMlaqHZtN"
@@ -3432,6 +3468,24 @@
       "duration_ms": 258888,
       "name": "Watermelon Woman - Edit",
       "url": "https://open.spotify.com/track/31DpPo7QGMkDpCmaPhCJaa"
+    },
+    {
+      "album": {
+        "name": "Wood & Water",
+        "url": "https://open.spotify.com/album/0rIY5iFDlZ2Yiqy41tBxOj"
+      },
+      "artists": [
+        {
+          "name": "Talik",
+          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257752,
+      "name": "What Do You Feel",
+      "url": "https://open.spotify.com/track/4aoXyc65wTNDw4kQE8cS0V"
     },
     {
       "album": {

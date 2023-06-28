@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Amy Shark
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,967 likes - 93 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,973 likes - 93 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 72 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 |
 | 73 | [Prepaid Wireless](https://open.spotify.com/track/1c2B1ScCR9I5WCaLNrvVrj) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Mr Big Shot](https://open.spotify.com/album/3RGUy7030oWwk9ZoFi1GXr) | 2:56 |
 | 74 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 |
-| 75 | [Better Let Me In](https://open.spotify.com/track/0o3wEUGWvGYD3a4uIrqwRG) | [Miggy](https://open.spotify.com/artist/6ZJbpAPpHzzA3IqAzO6IPu), [Eternal Engine](https://open.spotify.com/artist/6OerlvzuxuCVGYfxwuNDLB), [DAYSHAWN](https://open.spotify.com/artist/6A5zU0mCwDtWHo13LSzvX5) | [Better Let Me In](https://open.spotify.com/album/4wRlrsuVvkvZro3uvqyLAv) | 2:29 |
+| 75 | [Better Let Me In](https://open.spotify.com/track/0o3wEUGWvGYD3a4uIrqwRG) | [Miggy](https://open.spotify.com/artist/6ZJbpAPpHzzA3IqAzO6IPu), [Eternal Engine](https://open.spotify.com/artist/6OerlvzuxuCVGYfxwuNDLB), [DAYSHAWN](https://open.spotify.com/artist/6A5zU0mCwDtWHo13LSzvX5), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M), [Danté Knows](https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs) | [Better Let Me In](https://open.spotify.com/album/4wRlrsuVvkvZro3uvqyLAv) | 2:29 |
 | 76 | [Believe In Me](https://open.spotify.com/track/0mmx3GtImfx9CQ9u7RAd7B) | [Yourboymars](https://open.spotify.com/artist/5ouiVfEBsyRSAGOZiJHYQD) | [Believe In Me](https://open.spotify.com/album/1DGBv6e7CHWG3gn9BhmNAi) | 2:30 |
 | 77 | [Move It](https://open.spotify.com/track/2wfsZraYJMgUE8Rg6JuzqM) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Move It](https://open.spotify.com/album/3GCMoYx54rVyRSxQFqntuR) | 2:26 |
 | 78 | [BigBag](https://open.spotify.com/track/0RBxEXzaKvC3ZQIQV5WftZ) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [BigBag](https://open.spotify.com/album/7ralSpCQ95a2tiw6TOeS4N) | 2:17 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [The Luck You Had](https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [The Luck You Had](https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2) | 4:24 |
 | 93 | [Get Up!!!](https://open.spotify.com/track/2EeVQXBjpbAU1Jv8jUeX7t) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [Spite Will Save Me](https://open.spotify.com/album/35hLhQt688HkGZe9OwZD7m) | 3:24 |
 
-Snapshot ID: `MCxjNTg2MThiY2U2OWE3YmEyNmQ1OGY3MDA2YTQ2Yjk1YzJkOTM4NjA2`
+Snapshot ID: `MCw0ZjY5NWVmZjU1MjEyMmM0NTJmYTk3OWFiMmFiY2RiYTJlNjAxOWQ5`

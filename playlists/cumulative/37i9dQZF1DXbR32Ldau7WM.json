@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now! Cover: BAWDIES",
+  "description": "The biggest rock bands/artists in Japan right now! Cover: \u304f\u308b\u308a",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 221773,
       "name": "abnormalize (10th anniversary mix)",
       "url": "https://open.spotify.com/track/0QKp0szQKadRZyv8Z41Xsz"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 279511,
       "name": "All Things Must Pass",
       "url": "https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 136866,
       "name": "ANGRY ANGRY",
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 163466,
       "name": "Baby's Alright",
       "url": "https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 214500,
       "name": "BANTAM",
       "url": "https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 235720,
       "name": "Boys Jump The Midnight",
       "url": "https://open.spotify.com/track/3N6gdBZfDk9KDJAbPCU4g9"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 220580,
       "name": "Bug",
       "url": "https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH"
@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Dark Crow",
+        "url": "https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278186,
+      "name": "Dark Crow",
+      "url": "https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3"
+    },
+    {
+      "album": {
         "name": "REARRANGE THE BACK HORN",
         "url": "https://open.spotify.com/album/7yZouODY50zeShsVwq4wDB"
       },
@@ -1174,6 +1192,24 @@
       "duration_ms": 213546,
       "name": "Destruction Baby - LIVE",
       "url": "https://open.spotify.com/track/4hHsq2OToBt2HVWRGBqcwS"
+    },
+    {
+      "album": {
+        "name": "THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",
+        "url": "https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186026,
+      "name": "Devil in Your Heart",
+      "url": "https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI"
     },
     {
       "album": {
@@ -1332,7 +1368,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 227000,
       "name": "Dramatic",
       "url": "https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB"
@@ -1523,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Endless Etude",
+        "url": "https://open.spotify.com/album/1sXnSFVrTXhc3mmAP85Kho"
+      },
+      "artists": [
+        {
+          "name": "Base Ball Bear",
+          "url": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216526,
+      "name": "Endless Etude",
+      "url": "https://open.spotify.com/track/5apzPf5lbcJRTxjxGUOaJP"
+    },
+    {
+      "album": {
         "name": "Entertain",
         "url": "https://open.spotify.com/album/2bnZXiHyF1C2F1cMZWn2zX"
       },
@@ -1664,7 +1718,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 272333,
       "name": "Fantasista",
       "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
@@ -1812,7 +1866,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 250219,
       "name": "Focus on me",
       "url": "https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU"
@@ -1874,7 +1928,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 233678,
       "name": "From Today",
       "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
@@ -2128,6 +2182,24 @@
       "duration_ms": 169866,
       "name": "GIMME GIMME feat. \u30aa\u30ab\u30e2\u30c8\u30b7\u30e7\u30a6",
       "url": "https://open.spotify.com/track/1ugozcVrbEiQppq5l45JMk"
+    },
+    {
+      "album": {
+        "name": "GO!!!(20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/3XMc4oQZGmdkKRznV1TTMf"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239427,
+      "name": "GO!!!(20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
+      "url": "https://open.spotify.com/track/2xviYduF3PGpFsxyGp4f0B"
     },
     {
       "album": {
@@ -2561,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "In Your Life",
+        "url": "https://open.spotify.com/album/62QURXULvXlv2swtJXLLq4"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "In Your Life",
+      "url": "https://open.spotify.com/track/0wCLmoOwQPtJTSkqel7A8W"
+    },
+    {
+      "album": {
         "name": "Rilakkuma's Theme Park Adventure Original Soundtrack (NETFLIX SERIES)",
         "url": "https://open.spotify.com/album/0dtLFEATqgCBNRVrrneqj0"
       },
@@ -2759,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "All That We Have Now",
+        "url": "https://open.spotify.com/album/5a8NyykjKg0IDUKHslgNgm"
+      },
+      "artists": [
+        {
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218573,
+      "name": "Just Awake",
+      "url": "https://open.spotify.com/track/1Gqpa08T7eBAvPQj9O9L2Q"
+    },
+    {
+      "album": {
         "name": "Just Kids .ep",
         "url": "https://open.spotify.com/album/7r4IHmJNgqsvXGwJyNQsMY"
       },
@@ -2806,7 +2914,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 222666,
       "name": "kaleido proud fiesta",
       "url": "https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3"
@@ -2846,7 +2954,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 297692,
       "name": "KANASHIBARI",
       "url": "https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO"
@@ -2943,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "FIXION",
+        "url": "https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250973,
+      "name": "Kyouran Hey Kids!!",
+      "url": "https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm"
+    },
+    {
+      "album": {
         "name": "LADY",
         "url": "https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW"
       },
@@ -3016,6 +3142,24 @@
       "duration_ms": 203000,
       "name": "LET JERRY ROLL",
       "url": "https://open.spotify.com/track/0JZktsU7GvVhhvbmmcqA7Y"
+    },
+    {
+      "album": {
+        "name": "Feeling of Unity",
+        "url": "https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY"
+      },
+      "artists": [
+        {
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225546,
+      "name": "Let Me Hear",
+      "url": "https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS"
     },
     {
       "album": {
@@ -3318,7 +3462,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 261385,
       "name": "LOVE ROCKETS",
       "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
@@ -3430,7 +3574,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 224919,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM"
@@ -3736,7 +3880,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 246518,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
@@ -4382,7 +4526,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 276333,
       "name": "Open The Window feat. JQ from Nulbarich",
       "url": "https://open.spotify.com/track/4utjbNJwBD9sy817QOP1wc"
@@ -4526,7 +4670,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 241153,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA"
@@ -4696,6 +4840,24 @@
       "duration_ms": 230400,
       "name": "Rakuenkyosokyoku",
       "url": "https://open.spotify.com/track/6dwIyS9wjHibWSOLXqcbTL"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30eb\u30d5\u30a1",
+        "url": "https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "Re:Re:",
+      "url": "https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD"
     },
     {
       "album": {
@@ -5202,6 +5364,24 @@
       "duration_ms": 194784,
       "name": "September",
       "url": "https://open.spotify.com/track/4NAnGLls4LVlk1zOedIZV2"
+    },
+    {
+      "album": {
+        "name": "The World's On Fire",
+        "url": "https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Seven Deadly Sins",
+      "url": "https://open.spotify.com/track/2s2fORtcrwKwsmC4jNc8mJ"
     },
     {
       "album": {
@@ -6108,7 +6288,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 285700,
       "name": "THE LAST ROCKSTARS (PARIS MIX)",
       "url": "https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k"
@@ -6166,6 +6346,42 @@
       "duration_ms": 220799,
       "name": "The Rumbling",
       "url": "https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR"
+    },
+    {
+      "album": {
+        "name": "The Rumbling",
+        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220799,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
+    },
+    {
+      "album": {
+        "name": "The Rumbling (TV Size)",
+        "url": "https://open.spotify.com/album/3Ri7zFBo3zWabQvOVN1DXu"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90265,
+      "name": "The Rumbling (TV Size)",
+      "url": "https://open.spotify.com/track/0KCSJzsQVxkloxoT7dyrqV"
     },
     {
       "album": {
@@ -6436,7 +6652,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 212440,
       "name": "Tonight, Tonight",
       "url": "https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg"
@@ -6674,7 +6890,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 190840,
       "name": "Unleash!!!!!",
       "url": "https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H"
@@ -6804,7 +7020,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
@@ -7785,6 +8001,24 @@
     },
     {
       "album": {
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207368,
+      "name": "\u3068\u3082\u306b",
+      "url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3"
+    },
+    {
+      "album": {
         "name": "\u3044\u3064\u3082\u4f55\u51e6\u304b\u3067",
         "url": "https://open.spotify.com/album/6AZoPAUs9xfsXqQvwlCRE1"
       },
@@ -7951,6 +8185,24 @@
     },
     {
       "album": {
+        "name": "\u3072\u305f\u3080\u304d",
+        "url": "https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "\u3072\u305f\u3080\u304d",
+      "url": "https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t"
+    },
+    {
+      "album": {
         "name": "\u3082\u3046\u4e00\u5ea6 \u6b69\u3044\u3066\u3044\u3053\u3046",
         "url": "https://open.spotify.com/album/6mslJfVFvtnLsfFySAToTO"
       },
@@ -7966,6 +8218,24 @@
       "duration_ms": 221896,
       "name": "\u3082\u3046\u4e00\u5ea6 \u6b69\u3044\u3066\u3044\u3053\u3046",
       "url": "https://open.spotify.com/track/5xRYNMDGPzjclwpb0k38U6"
+    },
+    {
+      "album": {
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "\u3084\u3063\u3066\u307f\u3088\u3046",
+      "url": "https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz"
     },
     {
       "album": {
@@ -8024,6 +8294,42 @@
       "duration_ms": 203307,
       "name": "\u30a2\u30a4\u30e0\u30ea\u30a2\u30eb",
       "url": "https://open.spotify.com/track/2ILWgaW2fK1IzShTZdOhqe"
+    },
+    {
+      "album": {
+        "name": "COMINATCHA!!",
+        "url": "https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214088,
+      "name": "\u30a2\u30b2\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
+    },
+    {
+      "album": {
+        "name": "\u30ef\u30fc\u30eb\u30c9 \u30ef\u30fc\u30eb\u30c9 \u30ef\u30fc\u30eb\u30c9",
+        "url": "https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "\u30a2\u30d5\u30bf\u30fc\u30c0\u30fc\u30af",
+      "url": "https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6"
     },
     {
       "album": {
@@ -8301,6 +8607,24 @@
     },
     {
       "album": {
+        "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240533,
+      "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg"
+    },
+    {
+      "album": {
         "name": "\u30b3\u30b3\u30ab\u30e9\u9280\u5ea7",
         "url": "https://open.spotify.com/album/7j4JuldCckd7krjlvHcVfC"
       },
@@ -8392,6 +8716,24 @@
       "duration_ms": 267792,
       "name": "\u30b5\u30e8\u30ca\u30e9\u306e\u77ac\u9593",
       "url": "https://open.spotify.com/track/5QbQyTQ9cB9wT2NZnoipYY"
+    },
+    {
+      "album": {
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219530,
+      "name": "\u30b7\u30b0\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq"
     },
     {
       "album": {
@@ -8612,7 +8954,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 214213,
       "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
       "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
@@ -8810,7 +9152,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 238586,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp"
@@ -9012,6 +9354,24 @@
       "duration_ms": 180500,
       "name": "\u30d5\u30a7\u30ce\u30e1\u30ca\u30eb\u30de\u30f3",
       "url": "https://open.spotify.com/track/5kgEllLZhQRrQjG90PWH7r"
+    },
+    {
+      "album": {
+        "name": "BEST HIT AKG 2 (2012-2018)",
+        "url": "https://open.spotify.com/album/1z1fiHGAKZmCXcZCRH1fma"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222826,
+      "name": "\u30d6\u30e9\u30c3\u30c9\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2sFBiCSUNc3ptKrCR8JABx"
     },
     {
       "album": {
@@ -9235,6 +9595,24 @@
     },
     {
       "album": {
+        "name": "\u30bd\u30eb\u30d5\u30a1",
+        "url": "https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225493,
+      "name": "\u30ea\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ"
+    },
+    {
+      "album": {
         "name": "TODAY",
         "url": "https://open.spotify.com/album/0DsM76Alyvsrq649owb7Xf"
       },
@@ -9340,6 +9718,24 @@
       "duration_ms": 244386,
       "name": "\u4f1a\u3044\u306b\u884c\u304f",
       "url": "https://open.spotify.com/track/1WAl0QDIFiNELLu2ecJdBs"
+    },
+    {
+      "album": {
+        "name": "\u4f4e\u6c17\u5727\u306e\u305b\u3044",
+        "url": "https://open.spotify.com/album/10VSjS5qHqeYjzhVQzcYHP"
+      },
+      "artists": [
+        {
+          "name": "TsuShiMaMiRe",
+          "url": "https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204399,
+      "name": "\u4f4e\u6c17\u5727\u306e\u305b\u3044",
+      "url": "https://open.spotify.com/track/59yxpxb7OTJLXJHlXWJAAG"
     },
     {
       "album": {
@@ -9538,7 +9934,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 89563,
       "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
       "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
@@ -11319,6 +11715,24 @@
     },
     {
       "album": {
+        "name": "\u5922\u4e2d\u5922",
+        "url": "https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267363,
+      "name": "\u8703\u6c17\u697c",
+      "url": "https://open.spotify.com/track/2pedGdJaB5160FLTCCz2g2"
+    },
+    {
+      "album": {
         "name": "\u30b5\u30fc\u30d5 \u30d6\u30f3\u30ac\u30af \u30ab\u30de\u30af\u30e9 (\u534a\u30ab\u30fc\u30c8\u30f3)",
         "url": "https://open.spotify.com/album/6O5gIlE93Ym8DeAlyJI4P3"
       },
@@ -11330,7 +11744,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 221080,
       "name": "\u897f\u65b9\u30b3\u30fc\u30b9\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc",
       "url": "https://open.spotify.com/track/1YH7Rv0BpvNyjtno88MxXY"
@@ -11514,6 +11928,24 @@
       "duration_ms": 318000,
       "name": "\u9060\u96f7",
       "url": "https://open.spotify.com/track/4pBwrxwaEjKytWr1Pg7SXw"
+    },
+    {
+      "album": {
+        "name": "BEST HIT AKG",
+        "url": "https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243346,
+      "name": "\u9065\u304b\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL"
     },
     {
       "album": {

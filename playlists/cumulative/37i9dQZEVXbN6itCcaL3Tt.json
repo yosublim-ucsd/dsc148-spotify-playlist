@@ -3936,7 +3936,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 182149,
       "name": "Caf\u00e9 de Paris",
       "url": "https://open.spotify.com/track/15MCdPISBROidl1RLTF6Jr"
@@ -4046,7 +4046,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -4286,7 +4286,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 86857,
       "name": "Chcia\u0142em to na Intro",
       "url": "https://open.spotify.com/track/5TNbWIpmTK9P3YsYHpFzAD"
@@ -7748,7 +7748,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 179555,
       "name": "Fatamorgana",
       "url": "https://open.spotify.com/track/35XEhELJFZ1wEN1a444t9t"
@@ -10382,6 +10382,24 @@
       "duration_ms": 167204,
       "name": "Jakbym Mia\u0142 W R\u0119ku Klamk\u0119",
       "url": "https://open.spotify.com/track/6npsMnV7o71LwWMGsjsOsK"
+    },
+    {
+      "album": {
+        "name": "Pokolenie Ko\u0144ca \u015awiata",
+        "url": "https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168351,
+      "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
+      "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
     },
     {
       "album": {
@@ -14528,7 +14546,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"

@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-203 songs - 14 hr 36 min
+204 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Cachaca](https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 4:03 | 2021-07-12 |  |
 | [Can You Feel It](https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Can You Feel It](https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh) | 4:03 | 2021-07-12 |  |
 | [Can't Let Go](https://open.spotify.com/track/09MR2oVNj1mnc6VMEo6ZgH) | [Rock Hendricks](https://open.spotify.com/artist/4bOB5AZPIctPJscn1cMU3I) | [Can't Let Go](https://open.spotify.com/album/1G94VFIPkUW03EbrqgPp08) | 4:54 | 2021-07-12 | 2022-11-13 |
-| [Carnival Fever](https://open.spotify.com/track/7MB4RWR8LbYstvl2L9qFOQ) | [Elan Trotman](https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww) | [Carnival Fever](https://open.spotify.com/album/4qUIjzS6a92kB4D2O22r1A) | 4:23 | 2021-07-12 |  |
+| [Carnival Fever](https://open.spotify.com/track/7MB4RWR8LbYstvl2L9qFOQ) | [Elan Trotman](https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww) | [Carnival Fever](https://open.spotify.com/album/4qUIjzS6a92kB4D2O22r1A) | 4:23 | 2021-07-12 | 2023-06-28 |
 | [Caught Me By Surprise](https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Echoes Of The Heart](https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP) | 4:01 | 2021-07-12 |  |
 | [Chill AF](https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [30](https://open.spotify.com/album/2uLQpzNicgtkOX2HnuQz7f) | 4:05 | 2021-07-12 |  |
 | [Chill Factor](https://open.spotify.com/track/5RBz7DhODMg5hVM5vJ9NrM) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:58 | 2021-07-12 |  |
@@ -50,6 +50,7 @@
 | [Crazy Groove](https://open.spotify.com/track/4a76ZiSAzc4QSTEtAxx4Ga) | [Terje Lie](https://open.spotify.com/artist/5n0kJCCEI7AWiJrK1EY7yw), [Tony Moore](https://open.spotify.com/artist/6y8waT0TeanLgo4Zn5hNPR), [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Urban Vacation](https://open.spotify.com/album/7h10IM2i9d9NDgDr3ftsth) | 4:27 | 2021-07-12 | 2022-07-26 |
 | [Crown Royal](https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR) | [Jeanette Harris](https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn) | [Chocolate Vibez](https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk) | 4:14 | 2021-07-12 |  |
 | [Dare 2 Dream](https://open.spotify.com/track/23Cf4ipUpPiGYl9lYtbUhH) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' Thru](https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI) | 3:57 | 2021-07-12 | 2022-07-28 |
+| [Dare 2 Dream](https://open.spotify.com/track/6YD15Hzv3d1oEE6eiw9CJV) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' thru](https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog) | 3:57 | 2021-07-12 |  |
 | [Daydream](https://open.spotify.com/track/2BpfSRsdfTW9Ea8M2ikM1R) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [30](https://open.spotify.com/album/2uLQpzNicgtkOX2HnuQz7f) | 4:11 | 2021-07-12 | 2022-07-28 |
 | [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 | 2023-06-09 |  |
 | [Desert Rose](https://open.spotify.com/track/2ai8niXm8wl651b2gGxzas) | [Ed Calle](https://open.spotify.com/artist/6r8MZZRBkAXqyzaFLk5YRe) | [Soulful Nights](https://open.spotify.com/album/7dmh5uEjU9X4fD6pFIumJf) | 3:58 | 2022-08-12 | 2022-09-30 |
@@ -57,7 +58,7 @@
 | [Double Trouble](https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr) | [Greg Chambers](https://open.spotify.com/artist/0oj9oLaApiDmqUbY0Q6WnN) | [No Looking Back](https://open.spotify.com/album/7Ls3fvAbt1xvsDKZZ6WW9j) | 4:21 | 2021-10-01 | 2022-07-29 |
 | [Down for the Count](https://open.spotify.com/track/2MxQ2DvL2ALwUggq8bb9du) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [In Hi\-Fi Stereo](https://open.spotify.com/album/2Og1zZ7wQvG03ZdBj8eJwu) | 4:08 | 2021-07-12 | 2022-04-21 |
 | [Espresso Shot](https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Darnell Showcase Taylor](https://open.spotify.com/artist/1V4CTe8w8LFvPmwvNDIyia) | [And Coffee](https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd) | 3:32 | 2021-07-12 |  |
-| [Essence](https://open.spotify.com/track/0UyiDNoxlWfrJIeNXGOE5I) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Essence](https://open.spotify.com/album/3quqcEs11KQm0IpKDGBbsW) | 4:19 | 2022-06-17 | 2023-04-14 |
+| [Essence](https://open.spotify.com/track/0UyiDNoxlWfrJIeNXGOE5I) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Essence](https://open.spotify.com/album/3quqcEs11KQm0IpKDGBbsW) | 4:19 | 2022-06-17 |  |
 | [Everything Happens for a Reason](https://open.spotify.com/track/5I2OHhQvOrh5qBcZn8wpCL) | [Andrew Neu](https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF) | [Everything Happens for a Reason](https://open.spotify.com/album/1D3fCngTbAv9o1euFPxAi1) | 5:31 | 2021-07-12 | 2022-07-24 |
 | [Eye Of The Storm](https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Eye Of The Storm](https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d) | 4:16 | 2021-07-12 |  |
 | [Feed The Id](https://open.spotify.com/track/4CJZDnyEHyl8ZZlQ9WJxeF) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Golden Hour](https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1) | 4:09 | 2021-07-12 | 2022-09-24 |
@@ -156,7 +157,7 @@
 | [Shake It](https://open.spotify.com/track/38BIvmt1L43arCyEXT7HC7) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP) | 4:37 | 2021-07-12 | 2023-04-11 |
 | [Shake It](https://open.spotify.com/track/3xKJKfGApC1yoX2qk17bqA) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0OVCEpYRo8LwltB5256P9r) | 4:37 | 2021-07-12 | 2022-07-29 |
 | [Sharon's Groove](https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ) | [Tom Braxton](https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK) | [Lookin' Up](https://open.spotify.com/album/4RbIzwLIasB2M2l5cmPmdk) | 4:11 | 2021-08-06 | 2023-03-21 |
-| [She's Ready](https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ) | [Another Time](https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM) | 4:33 | 2021-07-12 |  |
+| [She's Ready](https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ) | [Another Time](https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM) | 4:33 | 2021-07-12 | 2023-06-28 |
 | [Side by Side](https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Fly Away](https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv) | 5:04 | 2021-07-12 |  |
 | [Skinny Dippin'](https://open.spotify.com/track/5pzOW4Bw5BKWx3I5yYiY0I) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/5e7v05kF0hFrTtLnZ57WxJ) | 4:33 | 2021-07-12 | 2022-07-25 |
 | [Slam Dunk](https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 4:40 | 2021-07-12 |  |

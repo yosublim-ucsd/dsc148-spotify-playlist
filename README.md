@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6240\)
+## Playlists \(6242\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -216,6 +216,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [4AM Perreo](/playlists/pretty/37i9dQZF1DX0J2sZQ1dV6f.md)
 - [4th of July Family Fun](/playlists/pretty/37i9dQZF1DWUs5ZfyIp6hP.md)
 - [4th of July Party](/playlists/pretty/37i9dQZF1DX4nYqGKSH0ld.md)
+- [4th of July Perreo Party](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md)
 - [50 Himnos del Rock en Español](/playlists/pretty/37i9dQZF1DX5d5pMk8ynO3.md)
 - [50 Irish Folk Songs](/playlists/pretty/37i9dQZF1DX7Y2xcY13mN1.md)
 - [50 Songs for Snow](/playlists/pretty/4sEKPcBYLcW3woDviiaigj.md)
@@ -4330,7 +4331,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Summer K\-Pop Hits \(썸머 히트\)](/playlists/pretty/37i9dQZF1DX1lU51fgoMhF.md)
 - [Summer Love](/playlists/pretty/37i9dQZF1DWY0BsMpCzERZ.md)
 - [Summer Party](/playlists/pretty/37i9dQZF1DX5Ozry5U6G0d.md)
-- [Summer Perreo Party](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md)
 - [Summer Pop](/playlists/pretty/37i9dQZF1DX9nkam6FKfgM.md)
 - [Summer Reading](/playlists/pretty/37i9dQZF1DX51qI8MDEx8N.md)
 - [Summer Rock 2023](/playlists/pretty/37i9dQZF1DX72tt7n9B4TV.md)
@@ -6030,6 +6030,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [lofi chill](/playlists/pretty/37i9dQZF1DWYoYGBbGKurt.md)
 - [lofi covers](/playlists/pretty/37i9dQZF1DX4nNmLlb3JR2.md)
 - [lofi hip hop chill/study music](/playlists/pretty/0Wd4x2oJ5GDXP6QXroSGD9.md)
+- [lofi latino](/playlists/pretty/37i9dQZF1DWUafkC32lvPY.md)
 - [lofi meditation](/playlists/pretty/37i9dQZF1DWURfu7Lk3xJ1.md)
 - [lofi rap](/playlists/pretty/37i9dQZF1DX67OeJYvkpAy.md)
 - [lofi sleep](/playlists/pretty/37i9dQZF1DX2PQDq3PdrHQ.md)
@@ -6215,6 +6216,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [’80s Hard Rock](/playlists/pretty/37i9dQZF1DX68H8ZujdnN7.md)
 - [’80s Jam Session](/playlists/pretty/37i9dQZF1DX0H8hDpv38Ju.md)
 - [✨ dreamy ✨](/playlists/pretty/37i9dQZF1DXecqWg9vXl0U.md)
+- [【OSHI NO KO】【推しの子】](/playlists/pretty/37i9dQZF1DX3m0MM377d1k.md)
 - [すとぷり \-Strawberry Prince\-](/playlists/pretty/37i9dQZF1DXaMXPT7ghdqO.md)
 - [まどろみの中で](/playlists/pretty/37i9dQZF1DX9rVeQ0kNLOd.md)
 - [アイドリッシュセブン \-IDOLiSH7\-](/playlists/pretty/37i9dQZF1DXd7fmFWnsK8n.md)

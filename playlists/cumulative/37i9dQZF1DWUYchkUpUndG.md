@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=F5cGlo7CQ6ycJg\-zCr9\-Lg">Onos</a>
 
-186 songs - 15 hr 18 min
+187 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Energy](https://open.spotify.com/track/7Gx1vqpMlIubCjumPzommm) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul 2](https://open.spotify.com/album/4BZDq8c68mmVeho3adc5MF) | 2:49 | 2023-06-09 |  |
 | [Eternal](https://open.spotify.com/track/2ECmkqN4StzFuvZWJdoMAs) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Eternal](https://open.spotify.com/album/7H45aomkqJlduhR9EBXARo) | 9:37 | 2023-05-26 | 2023-06-09 |
 | [Everyday](https://open.spotify.com/track/70zpVcstBTCPnlgCseJ8mi) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Everyday](https://open.spotify.com/album/5SnQiZ3C9GbZtEKxRuT77r) | 3:02 | 2023-06-23 |  |
-| [Exposed](https://open.spotify.com/track/3FLkBZOfQWxcxUruKO3hhQ) | [J\. Idahosa](https://open.spotify.com/artist/3828644WeUb0vBaRcrInkx), [Foehw](https://open.spotify.com/artist/0pjGl7nx6nFrgISJFmNOQH) | [Exposed](https://open.spotify.com/album/6bSAG4x9iSySP7rD9SbyBE) | 3:38 | 2023-06-23 |  |
+| [Exposed](https://open.spotify.com/track/3FLkBZOfQWxcxUruKO3hhQ) | [J\. Idahosa](https://open.spotify.com/artist/3828644WeUb0vBaRcrInkx), [Foehw](https://open.spotify.com/artist/0pjGl7nx6nFrgISJFmNOQH) | [Exposed](https://open.spotify.com/album/6bSAG4x9iSySP7rD9SbyBE) | 3:38 | 2023-06-23 | 2023-06-28 |
+| [Exposed](https://open.spotify.com/track/7kwHZG9ylcxS3TbsvjPNEq) | [J\. Idahosa](https://open.spotify.com/artist/3828644WeUb0vBaRcrInkx), [Foehw](https://open.spotify.com/artist/0pjGl7nx6nFrgISJFmNOQH) | [Exposed](https://open.spotify.com/album/0pllqIWkD0mKl5iR9lmWK4) | 3:38 | 2023-06-23 |  |
 | [Far Away](https://open.spotify.com/track/4BsESP6KASlgiX2qPOLr1S) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH), [Latest gospel praise worship Africa](https://open.spotify.com/artist/1L5Z3bIr274qPHQmxcX8Kp), [Latest Nigerian Gospel](https://open.spotify.com/artist/3Ckv0s7EJRHpmvpjEbd8hC), [Gospel Praise Worship](https://open.spotify.com/artist/7oY1QaWEK1lNeCvcDn5DwZ), [latest Nigerian Release](https://open.spotify.com/artist/1Dn8PMkY1JE2T9dhAxoi7b), [9javibs Gospel Music](https://open.spotify.com/artist/2W0mhvc7qZyxjg1E3UvqWB), [Naija Gospel Praise Worship Team](https://open.spotify.com/artist/4f3B6CochreNZP7neW93kK) | [Far Away](https://open.spotify.com/album/3brGghS70KRzvWHK7tHioZ) | 2:14 | 2023-06-16 |  |
 | [Faraway](https://open.spotify.com/track/5tiqR6s5xXPAZRXmmJuAKh) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Faraway](https://open.spotify.com/album/2Vsa1OG52P17RJmin9iHW2) | 2:25 | 2023-05-26 | 2023-06-09 |
 | [Farawe \- Live at KDB Studios](https://open.spotify.com/track/1ayjh8vDhZ3VgREcv05Rh1) | [Tissann](https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X) | [Farawe](https://open.spotify.com/album/2MzVwxkf2d4LHH9XbJGC2r) | 3:40 | 2023-05-19 | 2023-06-02 |

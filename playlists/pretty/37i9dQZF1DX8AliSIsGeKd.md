@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Boris Brejcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,844 likes - 90 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,309 likes - 90 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 9 | [Raw](https://open.spotify.com/track/0wwD4YNYXH2vCO390PYwW7) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Raw](https://open.spotify.com/album/2ZBgn1iDyfUSHC0m2rElFh) | 5:55 |
 | 10 | [Serenity](https://open.spotify.com/track/2nzWf9oHcn6uXBQ4Gsq0Nc) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Serenity](https://open.spotify.com/album/7HbFStkVZ2gnHmCq6HPrCh) | 3:44 |
 | 11 | [The Last Soul](https://open.spotify.com/track/73vlQdAyfYfAf2979ScSxb) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 6](https://open.spotify.com/album/7vAIv84cl0OqOI7xvjOdGh) | 7:14 |
-| 12 | [Manzanita](https://open.spotify.com/track/3ADu5Dhw9m8ggJm2m1LEAP) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/0KKp0vor85RZ6qHjA9myx6) | 2:44 |
+| 12 | [Manzanita](https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt) | 2:44 |
 | 13 | [Yeah \- Let's Do It!](https://open.spotify.com/track/50jgMoVUHt1vw3gWhy30o4) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Yeah \- Let's Do It!](https://open.spotify.com/album/3WjUW6uEMC9e2dDVhLxZ2y) | 3:15 |
 | 14 | [In White Rooms \- 2023 Remix](https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [In White Rooms \(2023 Remix\)](https://open.spotify.com/album/2i8LUozW0ddEp5ldWDVfYV) | 6:11 |
 | 15 | [Plus Ultra](https://open.spotify.com/track/2aft2C6Yv7wMAeWjprhGCq) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Plus Ultra](https://open.spotify.com/album/6nJmtaUaNMNV9c0tIMauBi) | 6:09 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 |
 | 90 | [Utopia](https://open.spotify.com/track/6rR5Epmg8KUTP9pSDJsZVJ) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [FreiTrieb](https://open.spotify.com/artist/28nOdLDsi4Iu3rALhtPDef), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Utopia](https://open.spotify.com/album/2WUlmeNd7oZFJONBADAma3) | 4:18 |
 
-Snapshot ID: `MCw1ZGJmZDk2N2FjYWQ5OGIwMWUzYjMzYWFiNDkwNjA4MWRhNDRkNWUx`
+Snapshot ID: `MCxhY2JjNmE3NjQxNGFmYjc5Y2I4ZTE0N2ViZTZlNzk1Nzg3Zjk4MjNi`

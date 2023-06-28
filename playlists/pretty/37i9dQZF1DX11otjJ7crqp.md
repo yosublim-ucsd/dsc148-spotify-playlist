@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Nicki Minaj & Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,264 likes - 102 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,333 likes - 102 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 101 | [Don’t Call Me](https://open.spotify.com/track/2amtS6j1pIwE9haEjmDTyD) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Don’t Call Me](https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V) | 2:28 |
 | 102 | [Ultraviolet](https://open.spotify.com/track/6TDrZ6dHw9ql7kN6sjcXsy) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Ultraviolet](https://open.spotify.com/album/5j6OGQCIWoTcKan2M7z703) | 3:26 |
 
-Snapshot ID: `MCxjODc2ZDcwMDlkMDBiNjBkNWUwMDI0ZGFjYTM2ZTZjNzBmM2M5NmJl`
+Snapshot ID: `MCw3ZjMxMDc0ZjM5MjdhNTQ3MWM5YTdmZTFhN2Q1YzA4YzEzMTgxZmM0`

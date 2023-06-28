@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,057 likes - 23 songs - 1 hr 15 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,056 likes - 24 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,5 +31,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 21 | [Rewind](https://open.spotify.com/track/6jghPafxcUElC16mOirqq0) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Rewind](https://open.spotify.com/album/5bZvB1xoIqyK3MvLEYJNOr) | 2:44 |
 | 22 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |
 | 23 | [In & Out](https://open.spotify.com/track/6xxnvkIzK4v3Zikxby6iaX) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [In & Out](https://open.spotify.com/album/16i9dIlGUZDgdM2zRmxG5P) | 3:25 |
+| 24 | [Lamar](https://open.spotify.com/track/3dLSeHlZzHOtR80FZOh7iM) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Lamar](https://open.spotify.com/album/4c5Gfky06RAq4RB3HkYYO9) | 2:50 |
 
-Snapshot ID: `NzIwMCxiNDI2ZWZkNzFiZjBiMTE1ZWQ2NWIxYjJiNmMxMmNkMjU1MTY4YWY1`
+Snapshot ID: `NzIwMSw5Y2QyYjllMzgzZTU4OWQ3YmFiNjI0N2YxNzUwODJhNWI0Mjg2Mzlj`

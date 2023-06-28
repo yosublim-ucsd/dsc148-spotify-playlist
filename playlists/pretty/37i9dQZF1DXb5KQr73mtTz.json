@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 10508,
+  "num_followers": 10519,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2JiZDhlYzY3YzM5NWQwNzYzZTA4N2M1MTA4OTI0ZTk1Nzg4ODZh",
+  "snapshot_id": "MCxhMmE3Mjc0YWExMzdiZDExZWZkMjRiODM2OGQxNTQyNDM0YzI0ZTAw",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:21",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
-      },
-      "artists": [
-        {
-          "name": "88-Keys",
-          "url": "https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "The Island",
-      "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
-    },
-    {
-      "added_at": "2023-06-13 08:58:21",
-      "album": {
         "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
         "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 251689,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
+    },
+    {
+      "added_at": "2023-06-13 08:58:21",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
+      },
+      "artists": [
+        {
+          "name": "88-Keys",
+          "url": "https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "The Island",
+      "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
+        "name": "Why break up? (My love X Jeon Sang Keun)",
+        "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
         }
       ],
-      "duration_ms": 282118,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
+      "duration_ms": 271280,
+      "name": "Why break up? (My love X Jeon Sang Keun)",
+      "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
     },
     {
       "added_at": "2023-06-13 08:58:21",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-06-13 08:58:21",
       "album": {
-        "name": "Why break up? (My love X Jeon Sang Keun)",
-        "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
       },
       "artists": [
         {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
         }
       ],
-      "duration_ms": 271280,
-      "name": "Why break up? (My love X Jeon Sang Keun)",
-      "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
+      "duration_ms": 282118,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
     },
     {
       "added_at": "2023-06-13 08:58:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,051 likes - 283 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,499 likes - 283 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,7 +249,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 239 | [Alone In Town](https://open.spotify.com/track/3YSMxn9PMuLn25EXyBplpd) | [Gereoux](https://open.spotify.com/artist/1Euv0945nayOdRB6RTLDZz) | [Alone In Town](https://open.spotify.com/album/1cXiG685Ny0feXVwplO4XI) | 2:33 |
 | 240 | [Rites of Summer \- All Love](https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Rites of Summer \(All Love\)](https://open.spotify.com/album/1DYT6iXMPKG6B6JZD0imU5) | 1:32 |
 | 241 | [Bravado](https://open.spotify.com/track/7sBADAbyjri5eDaU8qtCOK) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Feeling Something](https://open.spotify.com/album/4NQa8HcFQvWCheoZlMzMAc) | 2:07 |
-| 242 | [Napping](https://open.spotify.com/track/7MO7WcQUSM1zr4WZpxvVSK) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/0onTYCoBPN2eFQsDWQUlAL) | 1:55 |
+| 242 | [Napping](https://open.spotify.com/track/1E7VlV1Stul9E9UCasIPD7) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/7jH1JHG94gRMNicnluBVT1) | 1:55 |
 | 243 | [Till dig](https://open.spotify.com/track/2qcPi2BKIrArJ0Cnb06kqC) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Ta Paus](https://open.spotify.com/album/4sWUPjRnNBlT7GYfU9aPaU) | 3:35 |
 | 244 | [Get By](https://open.spotify.com/track/1EJh8OljwnAkky8n2eqVnN) | [Manchester Lock](https://open.spotify.com/artist/5MtAUCEKXc1pUn2mcieuDG) | [Get By](https://open.spotify.com/album/22lgRuNopsEIllTdgQ5vRN) | 3:22 |
 | 245 | [Motto](https://open.spotify.com/track/1ENJ8Fg32aGAxoh8mZdfCX) | [Happy Chap](https://open.spotify.com/artist/1a6c3Rh1y3kQ1KKfy58EyZ) | [Motto](https://open.spotify.com/album/0innXMWH0PqamCZQIFSTSa) | 3:52 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 282 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 283 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MCxiMzk0ODM4ZWQyNzRkZTYxOTQ1ZDcyMzY2MTU5YmVlYjMwOGQwMGUw`
+Snapshot ID: `MCwwOGY2ODNmNDAwNDdlZTNkZGRkMDUyYWUwMTE1Yzg4MDg2Yzc1YTg3`

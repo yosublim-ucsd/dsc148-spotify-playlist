@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-827 songs - 2 day 6 hr 5 min
+828 songs - 2 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Fantôme](https://open.spotify.com/track/42ud39t8ONOZvb8DJLKvB3) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Fantôme](https://open.spotify.com/album/35LP1ys9GIAUAIrk7XT3RZ) | 5:06 | 2021-06-04 | 2022-04-19 |
 | [FEEL LIKE](https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 3:08 | 2022-09-02 | 2023-03-07 |
 | [FEEL LIKE](https://open.spotify.com/track/6MFtTpEpk8Q2hZKKfid7SE) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/1eIaahZPGk6xyVETQmZ8pu) | 3:08 | 2021-10-18 | 2022-10-13 |
-| [feelings](https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [innerdialogue](https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde) | 4:56 | 2023-01-06 |  |
+| [feelings](https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [innerdialogue](https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde) | 4:56 | 2023-01-06 | 2023-06-28 |
 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 | 2022-07-11 | 2022-10-26 |
 | [Feels So Good](https://open.spotify.com/track/1X0GH4jrFy1tDUcMXMfhLP) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Feels So Good](https://open.spotify.com/album/653ugBySrH6gPqqAu9tIK0) | 3:15 | 2023-01-20 | 2023-04-29 |
 | [Fever](https://open.spotify.com/track/58gYZpNEBSJUajiS7zDg0O) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Apoptosis](https://open.spotify.com/album/3IPA2O6NvIY88V7ASaTAI8) | 2:54 | 2021-10-08 | 2022-10-13 |
@@ -516,6 +516,7 @@
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-25 |  |
 | [No Nee Ta Slode Aln](https://open.spotify.com/track/0XUkl3jNKrJgZh6fTxYe01) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [No Nee Ta Slode Aln](https://open.spotify.com/album/4k9jGaOalPTQexjjM3UxMH) | 4:01 | 2021-04-02 | 2022-04-20 |
 | [No Ties](https://open.spotify.com/track/0a15Ha6ZMnjSiw15ySklwZ) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [No Ties](https://open.spotify.com/album/6kRjmdctxNWgLm0x5Sj7Xw) | 3:37 | 2023-04-21 |  |
+| [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 | 2023-06-27 |  |
 | [Nobody Taught Me](https://open.spotify.com/track/5bVZ4C7MFM1tgsb8VjvLb3) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Nobody Taught Me](https://open.spotify.com/album/5Wjjrn5PxAzqwHDSSFfjtY) | 3:49 | 2021-07-19 | 2022-06-26 |
 | [Nomad](https://open.spotify.com/track/1JC5wIc1y4aIVt5PDXE7dY) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Nomad](https://open.spotify.com/album/4dYOz9ubqYpjlRf2nb2Exp) | 3:44 | 2022-06-17 | 2022-07-29 |
 | [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 | 2022-07-22 |  |

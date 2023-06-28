@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luiza Martins e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,984 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,116 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,18 +17,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 7 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/0P0k5KoLcxi0kf1jik4v8X) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Mari Fernandez Ao Vivo Em São Paulo](https://open.spotify.com/album/4GBXBjWiyAfZiKph3ThZTZ) | 3:21 |
 | 8 | [Te Superei \- Ao Vivo](https://open.spotify.com/track/5mua37IcypCqAL3cw0et4a) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Te Superei \(Ao Vivo\)](https://open.spotify.com/album/7JVxQOZjbbLWr2yUNWeNxS) | 3:23 |
 | 9 | [Indereço](https://open.spotify.com/track/1xuDwnaE7yctEiUNUpx9lB) | [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Indereço](https://open.spotify.com/album/49MLg9Tz4RI7LNHV7GyDH1) | 2:37 |
-| 10 | [Pra Ficar com Você](https://open.spotify.com/track/5IsHGxVRgWBcsQYZHfmjPz) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias](https://open.spotify.com/album/7l7O18Vj86XDa46RroXjpJ) | 2:00 |
-| 11 | [Quem É o Louco Entre Nós](https://open.spotify.com/track/07wcQ1j2RrORokWq3HaXex) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Quem É o Louco Entre Nós](https://open.spotify.com/album/5iz3ooADhhU2gQP76pxqyV) | 3:28 |
+| 10 | [Quem É o Louco Entre Nós](https://open.spotify.com/track/07wcQ1j2RrORokWq3HaXex) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Quem É o Louco Entre Nós](https://open.spotify.com/album/5iz3ooADhhU2gQP76pxqyV) | 3:28 |
+| 11 | [Pra Ficar com Você](https://open.spotify.com/track/5IsHGxVRgWBcsQYZHfmjPz) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias](https://open.spotify.com/album/7l7O18Vj86XDa46RroXjpJ) | 2:00 |
 | 12 | [Coração Traumatizado \- Ao Vivo](https://open.spotify.com/track/2eya8ky7v8mG5OuMndUW27) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:58 |
 | 13 | [Frouxo \- Ao Vivo](https://open.spotify.com/track/0AnE7nJjSINcdhlYe3dMTc) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Frouxo \(Ao Vivo\)](https://open.spotify.com/album/61CI0zIwGcwX1J8tRkK6yq) | 3:48 |
 | 14 | [Cê Bateu na Cama Errada \- Ao Vivo](https://open.spotify.com/track/76WUtIbIJyBzyQfHgj5DkC) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Cê Bateu na Cama Errada \(Ao Vivo\)](https://open.spotify.com/album/3xEo4lfh245Vfkyd2n0AQ0) | 2:03 |
 | 15 | [Nunca Vai Ser um Adeus \- Ao Vivo](https://open.spotify.com/track/2ZtBO7eGYv1TVT0Sij4M9c) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade \(Ao Vivo\)](https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP) | 2:48 |
-| 16 | [Má Intenção](https://open.spotify.com/track/5NkHJxqK2bEKRUKK0FAqPg) | [Karol kailler](https://open.spotify.com/artist/3Uroh9qzMYt6Qo9WsrwiXg) | [Má Intenção](https://open.spotify.com/album/1VlyIbUwpdW8AX6GY3OXfu) | 2:41 |
-| 17 | [Amiga Vagabunda \- Piseiro Remix](https://open.spotify.com/track/0icfYQa0IOLbZ98SAR0IOP) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Amiga Vagabunda \(Piseiro Remix\)](https://open.spotify.com/album/61sK1Lso3T4JGG79JuB5ek) | 2:56 |
-| 18 | [Disse Adeus](https://open.spotify.com/track/4QDD34IiZHZvImtqnZEBER) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Disse Adeus](https://open.spotify.com/album/211y2GMUoTn5QvzAlZiQuk) | 4:03 |
+| 16 | [Disse Adeus](https://open.spotify.com/track/4QDD34IiZHZvImtqnZEBER) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Disse Adeus](https://open.spotify.com/album/211y2GMUoTn5QvzAlZiQuk) | 4:03 |
+| 17 | [Má Intenção](https://open.spotify.com/track/5NkHJxqK2bEKRUKK0FAqPg) | [Karol kailler](https://open.spotify.com/artist/3Uroh9qzMYt6Qo9WsrwiXg) | [Má Intenção](https://open.spotify.com/album/1VlyIbUwpdW8AX6GY3OXfu) | 2:41 |
+| 18 | [Não Era Pra Ser Assim](https://open.spotify.com/track/6ZWduAEWEoROYHSFQo0IRj) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:51 |
 | 19 | [Tenta Me Esquecer \- Ao Vivo](https://open.spotify.com/track/1FuO2H4RYVisRLOMG9Riae) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Tenta Me Esquecer \(Ao Vivo\)](https://open.spotify.com/album/76PoWln8uqwwWMJIwS87Ll) | 2:15 |
 | 20 | [Certo Pelo Duvidoso \- Ao Vivo](https://open.spotify.com/track/1mkgVm7zMwOVFovBE0wtv5) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade \(Ao Vivo\)](https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP) | 3:03 |
-| 21 | [Não Era Pra Ser Assim](https://open.spotify.com/track/6ZWduAEWEoROYHSFQo0IRj) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:51 |
+| 21 | [Amiga Vagabunda \- Piseiro Remix](https://open.spotify.com/track/0icfYQa0IOLbZ98SAR0IOP) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Amiga Vagabunda \(Piseiro Remix\)](https://open.spotify.com/album/61sK1Lso3T4JGG79JuB5ek) | 2:56 |
 | 22 | [Foguete Não Tem Ré \- Ao Vivo](https://open.spotify.com/track/2DoMETGKcN6LiOUTbigNgs) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH) | [Foguete Não Tem Ré \(Ao Vivo\)](https://open.spotify.com/album/75DoChMx25gB3AHFxOaojF) | 3:48 |
 | 23 | [Dois Fugitivos \- Ao Vivo](https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7) | 2:53 |
 | 24 | [Ex De Ninguém \- Ao Vivo](https://open.spotify.com/track/1ZZJNyNnTXQS0siCpnWNUL) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Te Quero Eternamente](https://open.spotify.com/track/21pfVjpRcAXdCKnKsQoZtB) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia Fellipe Metalizada](https://open.spotify.com/album/3ZF1YPToWlPIx0lUFiymZl) | 3:03 |
 | 50 | [Viva Agora \(Exclusive\)](https://open.spotify.com/track/5vw61mHf6sco91iAm9osJ1) | [Anna Cintia](https://open.spotify.com/artist/2bCzAhuKNFcviyqGaqnZcF) | [Agora](https://open.spotify.com/album/6WkokGx8QhjYHYjpx6fUK6) | 2:33 |
 
-Snapshot ID: `MCwwMjE4MDQzZTJkMDJhNGNlYTRjMjAyYTMyOWI4NGMwYjhkNTFkYjE1`
+Snapshot ID: `MCxhNzM5ZTU5ZTM0YmU5NDlkYzgwNjJjODJhYThlY2Q1NDU0MjY3MGU1`

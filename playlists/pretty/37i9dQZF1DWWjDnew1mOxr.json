@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Arctic Monkeys",
-  "num_followers": 108929,
+  "num_followers": 108984,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmRlYTA5NTBmNDgzYzZlZTE4MzU1MDJmMjJiYjY3YjAwYjhmNDFh",
+  "snapshot_id": "MCw0YmI0NmMwYTdiOGY4MDQ2NWIyYmVhMDdmMWMzMTY5ODg4MGYzMWU3",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:04",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Right Time",
-        "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 240214,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "One More Night With No One",
         "url": "https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 200147,
       "name": "One More Night With No One",
       "url": "https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Right Time",
+        "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 240214,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 187683,
       "name": "Good Luck Charm",
       "url": "https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 211119,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "What a Shame",
-        "url": "https://open.spotify.com/album/6B45cam0D4Uw3NfleBOPrb"
-      },
-      "artists": [
-        {
-          "name": "Dylan John Thomas",
-          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "What a Shame",
-      "url": "https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Just Move",
         "url": "https://open.spotify.com/album/1g5uEvVcsGl0nMRjGRcGy6"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 186562,
       "name": "Just Move",
       "url": "https://open.spotify.com/track/64fVObugIv5tiWtN6LhCRf"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "What a Shame",
+        "url": "https://open.spotify.com/album/6B45cam0D4Uw3NfleBOPrb"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "What a Shame",
+      "url": "https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8"
-      },
-      "artists": [
-        {
-          "name": "The Royston Club",
-          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "Cherophobe",
-      "url": "https://open.spotify.com/track/08VN91L0UaY6B2wcSd4ojR"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "The Enemy",
         "url": "https://open.spotify.com/album/4t250HKL2vikczwZILscU5"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 188336,
       "name": "The Enemy",
       "url": "https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8"
+      },
+      "artists": [
+        {
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "Cherophobe",
+      "url": "https://open.spotify.com/track/08VN91L0UaY6B2wcSd4ojR"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Fashion",
-        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
-      },
-      "artists": [
-        {
-          "name": "Bilk",
-          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
-        }
-      ],
-      "duration_ms": 174379,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Propaganda",
         "url": "https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 146865,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
+      },
+      "artists": [
+        {
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+        }
+      ],
+      "duration_ms": 174379,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Electric Kool-Aid (Pt. 2)",
-        "url": "https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI"
-      },
-      "artists": [
-        {
-          "name": "The Blinders",
-          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
-        }
-      ],
-      "duration_ms": 237422,
-      "name": "Ritual Of The Crocodile Men",
-      "url": "https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Fashion",
         "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 230467,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Electric Kool-Aid (Pt. 2)",
+        "url": "https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI"
+      },
+      "artists": [
+        {
+          "name": "The Blinders",
+          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
+        }
+      ],
+      "duration_ms": 237422,
+      "name": "Ritual Of The Crocodile Men",
+      "url": "https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y"
     },
     {
       "added_at": "2023-06-13 08:58:04",

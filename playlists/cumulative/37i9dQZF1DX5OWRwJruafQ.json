@@ -297,6 +297,36 @@
     },
     {
       "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/74xZFmbJV28PX8ZzHG4iBn"
+      },
+      "artists": [
+        {
+          "name": "Jigar",
+          "url": "https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        },
+        {
+          "name": "Narinder Batth",
+          "url": "https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182195,
+      "name": "Badmashi",
+      "url": "https://open.spotify.com/track/0CDDcwKKEemSQCZIEtXJDZ"
+    },
+    {
+      "album": {
         "name": "FAME",
         "url": "https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg"
       },
@@ -696,6 +726,28 @@
       "duration_ms": 185429,
       "name": "Death Row",
       "url": "https://open.spotify.com/track/0dDDt47pVAToheSPh12utX"
+    },
+    {
+      "album": {
+        "name": "Defender",
+        "url": "https://open.spotify.com/album/0jhvzKYhasAq4RzgeVK3A9"
+      },
+      "artists": [
+        {
+          "name": "Deep Karan",
+          "url": "https://open.spotify.com/artist/2rAC8yC2Aqdo2utiGuDto2"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144255,
+      "name": "Defender",
+      "url": "https://open.spotify.com/track/1QGUZ1pSmeJv7U677bSVN9"
     },
     {
       "album": {

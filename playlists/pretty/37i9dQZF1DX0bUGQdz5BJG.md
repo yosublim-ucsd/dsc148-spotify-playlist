@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,664 likes - 202 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,733 likes - 202 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 201 | [End Up In a Song](https://open.spotify.com/track/6YhEPsP4m6k22kN4kFXcWK) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [End Up In a Song](https://open.spotify.com/album/1Qbs78GmL4ZGFCVY7JWrM6) | 2:28 |
 | 202 | [Take the Lonely](https://open.spotify.com/track/6A0iA4AgvF9qHZgXnCplWA) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Take the Lonely](https://open.spotify.com/album/7izgMSkUbZQIt7ZFMDatoz) | 3:08 |
 
-Snapshot ID: `MCw3MzNlZTU4Zjk1NjE5ZmNiODY4ZjQ3MWU0MjUwN2UzZDE1Y2RiMmI4`
+Snapshot ID: `MCwxMzA1NmEwODYzNTU4ZDg3OWY1MTYyYTk5YmIzNTFmMGFiZDJmOGQ0`

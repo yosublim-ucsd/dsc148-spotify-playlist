@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-376 songs - 1 day 2 hr 49 min
+377 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bombenhagel](https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Bombenhagel](https://open.spotify.com/album/3OWGH02j9Ituqld8RF4emS) | 6:06 | 2021-12-17 | 2022-12-03 |
 | [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 | 2022-07-13 |  |
 | [Bonded by Blood](https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:44 | 2022-07-13 |  |
-| [Born of Hate](https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Years of Aggression](https://open.spotify.com/album/6S3yE9xu0weg5pulOBJPs5) | 4:17 | 2022-07-13 |  |
+| [Born of Hate](https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Years of Aggression](https://open.spotify.com/album/6S3yE9xu0weg5pulOBJPs5) | 4:17 | 2022-07-13 | 2023-06-28 |
 | [Born of Hate](https://open.spotify.com/track/7snzHEKAaNQvzl4VBhN9xQ) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Born of Hate](https://open.spotify.com/album/0GCuoA1qUQQS507pkgUkJo) | 4:17 | 2021-12-17 | 2022-07-29 |
 | [Born to Perish](https://open.spotify.com/track/5n5Vp0U7rNR3H0UMP65n1k) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Born to Perish](https://open.spotify.com/album/1TUkDjkEpouUqM25s8seIy) | 5:20 | 2021-12-17 | 2022-07-29 |
 | [Bow Down To the Clowns](https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Bow Down To the Clowns](https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1) | 4:50 | 2021-12-17 | 2022-07-28 |
@@ -250,6 +250,7 @@
 | [Pleasure to Kill](https://open.spotify.com/track/1ZZjbRbY0uLQLeNddMqZJ2) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [1985\-1992 Past Life Trauma](https://open.spotify.com/album/22Ad1HDSVfWzPfOwY4DyG6) | 4:09 | 2022-07-13 | 2022-07-15 |
 | [Point Of No Return](https://open.spotify.com/track/5YJILvImepN7U7Vonz2VkB) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Point Of No Return EP](https://open.spotify.com/album/6diYp1uiFuHfCbbapfIC6y) | 4:37 | 2022-07-13 | 2023-05-07 |
 | [Point Of No Return](https://open.spotify.com/track/5nx2UgWzyJAjDvpvvnRAZ8) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Point Of No Return EP](https://open.spotify.com/album/5mO4PY6XyJAzLFOBJfx88b) | 4:37 | 2022-12-15 |  |
+| [Poison for the Lost](https://open.spotify.com/track/2bdvS1A5vGy90aOpjCHFux) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Poison for the Lost](https://open.spotify.com/album/6yV6pWGyElpB3UvTZ2aspM) | 4:19 | 2023-06-27 |  |
 | [Possessed by Fire](https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy) | [Exumer](https://open.spotify.com/artist/03sDKsD3y34NBAjeRHucde) | [Possessed by Fire](https://open.spotify.com/album/5C8Mjwwruh2IFfg4WbdnlR) | 5:00 | 2022-07-13 | 2022-10-05 |
 | [Post\-Truth Era](https://open.spotify.com/track/0sQJS58QryP50hsYo2CI8u) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Post\-Truth Era](https://open.spotify.com/album/0omA3faLxpyUINQMCeq4ly) | 3:53 | 2021-12-17 | 2022-07-27 |
 | [Practice What You Preach](https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 4:57 | 2022-07-13 |  |

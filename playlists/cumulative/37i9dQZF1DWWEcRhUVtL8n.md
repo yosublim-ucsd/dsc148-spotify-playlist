@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sarah Kinsley
 
-1,590 songs - 3 day 11 hr 55 min
+1,591 songs - 3 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [d e e p e r](https://open.spotify.com/track/2nG3GpzBnzwIjd7ahxatje) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [d e e p e r](https://open.spotify.com/album/5QuYd1kH5AZPIFOxXiv2G2) | 2:10 | 2022-06-17 | 2022-07-29 |
 | [D.M.T.](https://open.spotify.com/track/7kausMmJLNEieRLe2WLn84) | [STACEY](https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ) | [D.M.T.](https://open.spotify.com/album/0BEeSBYWiBLAqFMBVOLyUl) | 3:54 | 2020-10-13\* | 2020-11-10 |
 | [Daddy](https://open.spotify.com/track/06paPnT9vsd9qonDCsOzTX) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Daddy](https://open.spotify.com/album/0IrcO4h2IURsFVFiyciNiO) | 2:50 | 2021-01-25 | 2021-05-28 |
+| [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 | 2023-06-16 |  |
 | [Damn Bean](https://open.spotify.com/track/3eZReaCGyJoXQvXCN9HuG9) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Damn Bean](https://open.spotify.com/album/0L6Wmjz8QhjXqKn8ZNaTtl) | 2:54 | 2021-02-28 | 2021-05-26 |
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-01-07 | 2022-04-10 |
 | [Dance No More](https://open.spotify.com/track/1MgfRvRsXVIsSYsCgCAtM7) | [Swaine Delgado](https://open.spotify.com/artist/1RZtEnSRJblsLRzGNrCGof) | [Dance No More](https://open.spotify.com/album/2SQfMYYWtX9Y2pNv57Z3gq) | 3:12 | 2021-02-24 | 2021-02-26 |
@@ -1075,7 +1076,7 @@
 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 | 2022-10-07 |  |
 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 | 2022-09-23 | 2022-10-13 |
 | [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 | 2023-01-13 | 2023-04-01 |
-| [Paper Houses](https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:59 | 2023-04-28 |  |
+| [Paper Houses](https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:59 | 2023-04-28 | 2023-06-28 |
 | [Paper Mache World](https://open.spotify.com/track/7ai2SCMNgZQOSdxh5Oq9Ke) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You To Know](https://open.spotify.com/album/5zFw70dBof3n5bva2TcWQH) | 2:59 | 2020-11-20 | 2021-06-03 |
 | [Papercut](https://open.spotify.com/track/2eWz1ODTF9DcKikcwxsc9A) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/3FKnPiVfCOLhNeSlzpkJ3D) | 3:13 | 2021-05-03 | 2021-06-03 |
 | [Papercuts](https://open.spotify.com/track/2X2zzq2qi2MqQb878Sw82q) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Papercuts](https://open.spotify.com/album/7wps4tNNOWDpLBiD9in4JI) | 2:52 | 2021-02-08 | 2021-03-21 |

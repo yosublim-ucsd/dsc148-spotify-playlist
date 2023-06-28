@@ -4,7 +4,7 @@
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-105 songs - 5 hr 42 min
+106 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [AxF](https://open.spotify.com/track/33NajUG4pJPuqMKKJwxaCS) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [AxF](https://open.spotify.com/album/4yBA0wf3nS28POADhT90GQ) | 3:06 | 2023-06-09 |  |
 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 | 2023-06-09 |  |
 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 | 2023-06-09 |  |
+| [Billete](https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib) | [Chen](https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu) | [Billete](https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ) | 2:43 | 2023-06-09 |  |
 | [Blessings](https://open.spotify.com/track/0aOcyrtTn2Fpit2GIeaGwO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Blessings](https://open.spotify.com/album/0stTNi5KJMdoruNe8JG6by) | 3:04 | 2023-06-09 |  |
 | [Bonnie and Clyde](https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Bonnie and Clyde](https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7) | 3:29 | 2023-06-09 |  |
 | [BRUJULA](https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [BRUJULA](https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti) | 2:45 | 2023-06-09 |  |
@@ -92,7 +93,7 @@
 | [Soy Lebron](https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Soy Lebron](https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi) | 2:29 | 2023-06-09 |  |
 | [STÜSSY](https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3) | [STÜSSY](https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N) | 2:24 | 2023-06-09 |  |
 | [Tan Rico](https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Clandestino & Yailemm](https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi) | [Tan Rico](https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0) | 4:06 | 2023-06-09 |  |
-| [Tasty](https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Tasty](https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n) | 3:17 | 2023-06-09 |  |
+| [Tasty](https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Tasty](https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n) | 3:17 | 2023-06-09 | 2023-06-28 |
 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 | 2023-06-09 |  |
 | [Tenemos Historia \- Live](https://open.spotify.com/track/1tloOK33CzVoM9ttNhz8Fy) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Tenemos Historia \(Live\)](https://open.spotify.com/album/74wSSRGYHTm7lCc0XQjurz) | 4:26 | 2023-06-09 |  |
 | [Tesoro Mío](https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mío](https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD) | 4:02 | 2023-06-09 |  |

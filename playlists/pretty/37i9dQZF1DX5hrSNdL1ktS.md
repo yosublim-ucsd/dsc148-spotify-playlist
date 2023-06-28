@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 ### [Urbano Fresh](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Lo nuevo del popetón y reggaetón emergente en MX, con Mar Lucas, Kenia Os, Beéle
+> Lo nuevo del popetón y reggaetón emergente en MX, con Ghetto Kids, El Malilla y EMJAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,180 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,202 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 |
-| 2 | [EN EL GHETTO \#2 \(Perriando\)](https://open.spotify.com/track/2nPK7MNs9kYzurlsbJ17vk) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [EN EL GHETTO \#2 \(Perriando\)](https://open.spotify.com/album/21HFqQ5a6nqncZXYivLvIU) | 3:04 |
+| 1 | [EN EL GHETTO \#2 \(Perriando\)](https://open.spotify.com/track/2nPK7MNs9kYzurlsbJ17vk) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [EN EL GHETTO \#2 \(Perriando\)](https://open.spotify.com/album/21HFqQ5a6nqncZXYivLvIU) | 3:04 |
+| 2 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 |
 | 3 | [Tuci y Perreo](https://open.spotify.com/track/2VClOmlW0HlgnRAVdwVmCC) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Tuci y Perreo](https://open.spotify.com/album/1zRFrvhxG6b38nddak0T3N) | 2:22 |
 | 4 | [Stamina](https://open.spotify.com/track/6G5oj73kH8E1kFC3rWiELn) | [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [Gromm](https://open.spotify.com/artist/7uWzDWF8wJVCT8Mt2gpN8f) | [Stamina](https://open.spotify.com/album/4rPbogIWvNR0UbggZPDT4t) | 2:49 |
 | 5 | [Por qué te demoras](https://open.spotify.com/track/5j8XtymlRNSR3BXFCAXhNr) | [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y), [Naity OG](https://open.spotify.com/artist/1D47r3MM6EJjF5wXg4bgrq) | [Por qué te demoras](https://open.spotify.com/album/53BxVaRUgBFZPYG5iKnzQh) | 3:47 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 98 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 |
 | 99 | [Sabes](https://open.spotify.com/track/24lfgBbcrVKe3njykuW89K) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Karely Ruíz](https://open.spotify.com/artist/0gADqrzsPZ7MgRsyvToWuC) | [Sabes](https://open.spotify.com/album/3Ntn7x1ExfBPzgtBEEQWPB) | 3:42 |
 
-Snapshot ID: `MCw1MmQwNzE3MDAxODgzMjllMWMyMGY2YTIxMDNkNjMwN2NhYjI0YTgy`
+Snapshot ID: `MCw4ZTE4OTJkNjQyMjk3NGY3OGI1OGVlY2E1NWJkNjMzYTM2ZGFkZjU0`

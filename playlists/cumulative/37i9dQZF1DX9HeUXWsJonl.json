@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "6G",
+        "url": "https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "6G",
+      "url": "https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer"
+    },
+    {
+      "album": {
         "name": "7 Snin",
         "url": "https://open.spotify.com/album/5q6JhGTERJe7fWAQOJwz1W"
       },
@@ -401,6 +419,42 @@
     },
     {
       "album": {
+        "name": "Ba3douk (\u0628\u0639\u062f\u0648\u0643)",
+        "url": "https://open.spotify.com/album/0Lul8TagxbnjhRZpX2aX0o"
+      },
+      "artists": [
+        {
+          "name": "Sanfara",
+          "url": "https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140288,
+      "name": "Ba3douk - \u0628\u0639\u062f\u0648\u0643",
+      "url": "https://open.spotify.com/track/7lZxuhO0ZlFieEOkXvvs2e"
+    },
+    {
+      "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/0GvXMvJ9iEKSmvFYN7rCLQ"
+      },
+      "artists": [
+        {
+          "name": "Mortadha Ftiti",
+          "url": "https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273221,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/36h8chyy24HG3382bLeKbz"
+    },
+    {
+      "album": {
         "name": "Bad Love",
         "url": "https://open.spotify.com/album/4spBd91JN0Z6286LG86wDv"
       },
@@ -644,7 +698,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 206316,
       "name": "Chlonak",
       "url": "https://open.spotify.com/track/3rkuOoH3o33ni0sNOEZQs7"
@@ -1126,7 +1180,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 203958,
       "name": "Hkeyetkom Wfet",
       "url": "https://open.spotify.com/track/7bzfVYSm6pU0gwuX20rFuY"
@@ -1238,7 +1292,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 204631,
       "name": "Kberna",
       "url": "https://open.spotify.com/track/3qPuUbEjX7fBcj4WPUkbh4"
@@ -1366,7 +1420,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 246990,
       "name": "KI NKHAMMEM FIK",
       "url": "https://open.spotify.com/track/1IfYpioyU828cGgXJK44Bi"
@@ -2283,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "S3ib",
+        "url": "https://open.spotify.com/album/3AyOnjxyeUuCwoqrkrsVyI"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219498,
+      "name": "S3ib",
+      "url": "https://open.spotify.com/track/3Y6NRw8kCkZxMfWDXA4auF"
+    },
+    {
+      "album": {
         "name": "Sabeba",
         "url": "https://open.spotify.com/album/4EiDJaH5SidMjAfhnErZse"
       },
@@ -2394,7 +2466,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 235186,
       "name": "Sous tension",
       "url": "https://open.spotify.com/track/6h0sdTa2cXLsHuxjd29clN"
@@ -2580,6 +2652,24 @@
       "duration_ms": 216520,
       "name": "Tunisie",
       "url": "https://open.spotify.com/track/1fj8TuCYneYtKsVmIJG4N6"
+    },
+    {
+      "album": {
+        "name": "Va Bene",
+        "url": "https://open.spotify.com/album/45pTrdiBG1DmQ5YfZPmsgt"
+      },
+      "artists": [
+        {
+          "name": "Yousfi",
+          "url": "https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146608,
+      "name": "Va Bene",
+      "url": "https://open.spotify.com/track/6NYQhiBDgiliWFSQzHqpmZ"
     },
     {
       "album": {
@@ -2887,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "Yamma",
+        "url": "https://open.spotify.com/album/3a5o2trBcQBLmPWOfmPTTf"
+      },
+      "artists": [
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251214,
+      "name": "Yamma",
+      "url": "https://open.spotify.com/track/2rPfXfRD6eAVSiJBY2x1Ne"
+    },
+    {
+      "album": {
         "name": "Yammi",
         "url": "https://open.spotify.com/album/3bjWzuvIOn8LIKZX0U7txb"
       },
@@ -2916,7 +3024,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 245633,
       "name": "Youm Wara Youm",
       "url": "https://open.spotify.com/track/5qicaloS3NlXFjw9HupZa6"

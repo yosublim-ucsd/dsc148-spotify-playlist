@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452207,
+      "name": "500 ascended",
+      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
+    },
+    {
+      "album": {
         "name": "A Time To Blossom",
         "url": "https://open.spotify.com/album/2YZ4RouJ3GNu7xHxWoa30g"
       },
@@ -1583,6 +1601,28 @@
     },
     {
       "album": {
+        "name": "Luces (Remix)",
+        "url": "https://open.spotify.com/album/6rySQJGYP8imuRNPGg7UC2"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Renato del Real",
+          "url": "https://open.spotify.com/artist/5js8GdUIAckJjkMEur6dw6"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199657,
+      "name": "Luces (Remix)",
+      "url": "https://open.spotify.com/track/6qR4XWoqRIZFmrnHwGlQW4"
+    },
+    {
+      "album": {
         "name": "Make My Way Back Home",
         "url": "https://open.spotify.com/album/12cV7xYYdoT5h8DqUjJR42"
       },
@@ -2070,7 +2110,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 166039,
       "name": "Perfect Blue",
       "url": "https://open.spotify.com/track/4c7nNdZi1x61Pjvrgww4HD"
@@ -3034,7 +3074,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 119449,
       "name": "White Wine in the Shower",
       "url": "https://open.spotify.com/track/4vxXarFM1XhQMgkSaN76BE"

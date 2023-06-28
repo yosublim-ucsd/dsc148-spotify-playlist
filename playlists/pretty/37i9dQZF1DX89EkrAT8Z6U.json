@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 508981,
+  "num_followers": 509559,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmYxN2ZkNTAzNTJmNzRkMWFiMDIzYmRlZmIyNDY1YWRjZWE0Mzhj",
+  "snapshot_id": "MCw0ZTZhNjBiYzhhYzkwYzI3ODIzMzI0NzA1ODc0MmVhZGUxMTA2ZGJh",
   "tracks": [
     {
       "added_at": "2023-05-22 17:40:06",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-05-22 17:40:06",
       "album": {
+        "name": "ALL GIRLS ARE THE SAME",
+        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+        }
+      ],
+      "duration_ms": 121949,
+      "name": "ALL GIRLS ARE THE SAME",
+      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
+    },
+    {
+      "added_at": "2023-05-22 17:40:06",
+      "album": {
         "name": "chinatown!",
         "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 145115,
       "name": "chinatown!",
       "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
-    },
-    {
-      "added_at": "2023-05-22 17:40:06",
-      "album": {
-        "name": "ALL GIRLS ARE THE SAME",
-        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
-        }
-      ],
-      "duration_ms": 121949,
-      "name": "ALL GIRLS ARE THE SAME",
-      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
     },
     {
       "added_at": "2023-05-22 17:40:06",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
     },
     {
-      "added_at": "2023-05-26 12:29:51",
-      "album": {
-        "name": "Strawberries & Creamin'",
-        "url": "https://open.spotify.com/album/1dJvlcnASsdAl2OuyUQH4B"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 115147,
-      "name": "Strawberries & Creamin'",
-      "url": "https://open.spotify.com/track/2fGVMa4oQQCKdBBbx8Nagg"
-    },
-    {
       "added_at": "2023-05-22 17:40:06",
       "album": {
         "name": "Cyberfreak",
@@ -1303,6 +1287,22 @@
       "duration_ms": 118093,
       "name": "Cyberfreak",
       "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
+    },
+    {
+      "added_at": "2023-05-26 12:29:51",
+      "album": {
+        "name": "Strawberries & Creamin'",
+        "url": "https://open.spotify.com/album/1dJvlcnASsdAl2OuyUQH4B"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "duration_ms": 115147,
+      "name": "Strawberries & Creamin'",
+      "url": "https://open.spotify.com/track/2fGVMa4oQQCKdBBbx8Nagg"
     }
   ],
   "unique_name": "sh\u014dnen",

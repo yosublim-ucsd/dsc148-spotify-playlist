@@ -39216,10 +39216,28 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 148150,
       "name": "Rain In California",
       "url": "https://open.spotify.com/track/7e7Ahta2Z36i0kxM6JkSxi"
+    },
+    {
+      "album": {
+        "name": "Rain In California",
+        "url": "https://open.spotify.com/album/7sVmdfwKVReBMtUV8wEniC"
+      },
+      "artists": [
+        {
+          "name": "VIBI",
+          "url": "https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148160,
+      "name": "Rain In California",
+      "url": "https://open.spotify.com/track/3uLWWGfrQUUEbBRLru9zKO"
     },
     {
       "album": {

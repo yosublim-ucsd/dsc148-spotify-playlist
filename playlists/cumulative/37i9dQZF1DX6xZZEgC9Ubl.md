@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-816 songs - 1 day 13 hr 1 min
+817 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [3NIGHTS \(feat\. guardin\) \[Remix\]](https://open.spotify.com/track/3CbuiJ89E4gazRhtybqxOw) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [3NIGHTS \(feat\. guardin\) \[Remix\]](https://open.spotify.com/album/4rmPfdnqpbegd8cS9fSlPe) | 2:31 | 2021-05-08 | 2022-06-29 |
 | [4 Gold Chains \- \(feat\. Clams Casino\)](https://open.spotify.com/track/2PlrYKsGndAMJ0qqVVPCoV) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [4 Gold Chains \(feat\. Clams Casino\)](https://open.spotify.com/album/3DoW9KcHndntkq2Xq5Bzm7) | 3:29 | 2021-10-22 | 2021-12-21 |
 | [4444](https://open.spotify.com/track/4ZaFdY8xawqMWsEpubPXLl) | [Forevrboy](https://open.spotify.com/artist/4wJhSgsWL7nh95rwdZEdSe) | [4444](https://open.spotify.com/album/14b61BLHcgs66P89LSgTDD) | 2:12 | 2022-03-11 | 2022-04-19 |
+| [4AM](https://open.spotify.com/track/2O2kaMSTwJqeKaE44YNthA) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [XFOREVER](https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n) | 2:45 | 2023-05-24 |  |
 | [4LIFE](https://open.spotify.com/track/5XTQnvbXFcovuewZfoCFXA) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [EAT YOUR HEART OUT](https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC) | 2:20 | 2021-03-09 | 2021-07-01 |
 | [6 Kiss](https://open.spotify.com/track/7tgjDlQsMR8RvkdlNCJA58) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 3:19 | 2022-10-21 | 2023-01-28 |
 | [8TEEN](https://open.spotify.com/track/4U4Zdkmg6bLIGJnBkc0TFM) | [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [8TEEN](https://open.spotify.com/album/2AhRYncPJO9H9AlSma8taj) | 2:02 | 2022-01-21 | 2022-07-27 |
@@ -122,7 +123,7 @@
 | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/3n0If8GidXp4KziBDoMe99) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/album/2de9oXO3uW9iMpVtTknJAy) | 3:04 | 2021-07-31 | 2022-07-28 |
 | [Cherry Blossoms](https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9) | 2:18 | 2022-05-23 |  |
 | [Cherry Blossoms](https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI) | 2:18 | 2022-08-30 | 2023-04-16 |
-| [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-04-12 |  |
+| [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-04-12 | 2023-06-28 |
 | [Choose](https://open.spotify.com/track/0WnLpQOHjfVwPw2zbrIsPN) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [HIGH FASHION](https://open.spotify.com/album/5ajnqokZWzTySQgUt2RgLW) | 3:32 | 2021-12-03 | 2022-07-27 |
 | [CHROME HEART](https://open.spotify.com/track/0Fqz94aIhKIfnbnUgDRbLH) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [KALEIDOSCOPE](https://open.spotify.com/album/1ZyR3m6dXdqBHb96BrtlSZ) | 2:39 | 2022-03-18 | 2022-04-16 |
 | [CHXSE](https://open.spotify.com/track/4vZCkAXIcD8A050VeirCwj) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [BEAUTY IN DEATH \(DELUXE EDITION\)](https://open.spotify.com/album/4tb9KRJe8FNjYIRbvtGTG5) | 3:29 | 2022-05-06 | 2022-05-14 |

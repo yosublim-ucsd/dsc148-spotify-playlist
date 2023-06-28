@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Aline Brasil",
-  "num_followers": 301823,
+  "num_followers": 301935,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjQyZGM0MDE4YjZkMWMyNDAwNDA1NDhjZTRhOGI3ZjI2YTNlMDdl",
+  "snapshot_id": "MCw2ZGMwZjhkZDkzODNiMzJmZDQ0YzBiMTUwZDA5NDdiYmI2MWVjZTdm",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Nada Te Perturbe",
-        "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        }
-      ],
-      "duration_ms": 225326,
-      "name": "Nada Te Perturbe",
-      "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Deus V\u00ea",
         "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 249940,
       "name": "Deus V\u00ea",
       "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Nada Te Perturbe",
+        "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "duration_ms": 225326,
+      "name": "Nada Te Perturbe",
+      "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
     },
     {
       "added_at": "2023-06-02 03:00:00",

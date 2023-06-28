@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-321 songs - 18 hr 31 min
+322 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ay de Mi!](https://open.spotify.com/track/4wI84MgkVbVyP9VQ8A8xIU) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Mucho Chino](https://open.spotify.com/album/02j0e4gNaEeGdo4qK6fgfD) | 2:49 | 2022-04-07 | 2022-07-07 |
 | [Azul \(with Rodrigo Amarante\)](https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 4:51 | 2021-12-09 | 2022-10-28 |
 | [Bachata Rosa](https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Bachata Rosa](https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV) | 4:15 | 2021-12-09 |  |
+| [Barro, Cemento y Sal \(feat\. Silvana Estrada Beverido\)](https://open.spotify.com/track/6ILQZiGqQFvDawuu45ZCOe) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Silvana Estrada Beverido](https://open.spotify.com/artist/15e8wAIPW8vihGAOQiTUv4) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 4:23 | 2023-06-16 |  |
 | [Barro, Cemento y Sal \(feat\. Silvana Estrada\)](https://open.spotify.com/track/67507AwT1mSegl0VA5qSCE) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Barro, Cemento y Sal \(feat\. Silvana Estrada\)](https://open.spotify.com/album/7g0hzIsFEDIcTBLpcnZk1Q) | 4:24 | 2022-04-07 | 2022-04-21 |
 | [Batida do Amor](https://open.spotify.com/track/5KFdGVgTD4wLrlUesiWiVc) | [Francisca La Braza](https://open.spotify.com/artist/1m6KQa90x6qi9RJAZco74B), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Francisca La Braza](https://open.spotify.com/album/6Xj8zgaUSBRrrDgmz4y4lS) | 3:54 | 2022-04-07 |  |
 | [Bebesina \(Nada Más Que Estar Contigo\)](https://open.spotify.com/track/2TFURBkXGWzxdf2OLMLtDq) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 3:54 | 2022-05-14 |  |
@@ -71,7 +72,7 @@
 | [Cartagena](https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc), [Melo Gía](https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU) | [Cartagena](https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9) | 3:41 | 2021-12-09 |  |
 | [Casi Algo](https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Casi Algo](https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw) | 3:12 | 2023-06-16 |  |
 | [Celebration](https://open.spotify.com/track/25TsNPHlxwbF8e7vb0Ccim) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 2:56 | 2022-04-07 | 2022-04-21 |
-| [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-12-09 |  |
+| [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-12-09 | 2023-06-28 |
 | [Chachachá \- acústico](https://open.spotify.com/track/7lFcRLIrpzjPd2Ytp13Ml3) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Chachachá \(acústico\)](https://open.spotify.com/album/79immCdVvW18wwjtgnfiHK) | 3:28 | 2022-12-30 |  |
 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 | 2021-12-09 |  |
 | [Ciudad Hembra \(La Habana\)](https://open.spotify.com/track/6swmCwTX7kHTHCBhWCY41f) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm) | [Ciudad Hembra \(La Habana\)](https://open.spotify.com/album/4q4EcWgffH5Cr6Ylfzk9pp) | 3:32 | 2021-12-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 171200,
+  "num_followers": 171436,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2YwNjA0NDEzMmI5ZWVlMzI0NzE4NzI4N2JmMTUyMzE3ODU0ZGJi",
+  "snapshot_id": "MCwwYTNiMjIwZDJiYjg5MGRhYjkzMmY3MWM1ZmY1YzZiNmE2ZDYzNGU4",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -271,6 +271,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "A Swingin' Safari (Remastered)",
+        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
         "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 179703,
       "name": "BLUE DOLPHIN",
       "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "A Swingin' Safari (Remastered)",
-        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "Afrikaan Beat",
-      "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -843,6 +843,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Presentando a La Orquesta Cuerdas y Metales",
+        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Cuerdas Y Metales",
+          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/0oZjygEjDC17poCvwnTnYu"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "101% Cine",
         "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 234962,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a La Orquesta Cuerdas y Metales",
-        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Cuerdas Y Metales",
-          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Soleado",
-      "url": "https://open.spotify.com/track/0oZjygEjDC17poCvwnTnYu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Favoritas Instrumentales,Vol. 4",
-        "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Borges",
-          "url": "https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G"
-        },
-        {
-          "name": "National Philarmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Svezia, Inferno E Paradiso",
         "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
       },
@@ -1075,6 +1055,26 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Grandes Favoritas Instrumentales,Vol. 4",
+        "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Borges",
+          "url": "https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G"
+        },
+        {
+          "name": "National Philarmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS"
+        }
+      ],
+      "duration_ms": 175906,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Best of Pop Concerto Orchestra",
         "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 156773,
       "name": "Lady Milady",
       "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Sue\u00f1o azul",
-        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
-      },
-      "artists": [
-        {
-          "name": "Robson Miguel y grupo",
-          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Concierto para una sola voz",
-      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Sue\u00f1o azul",
+        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
+      },
+      "artists": [
+        {
+          "name": "Robson Miguel y grupo",
+          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Concierto para una sola voz",
+      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Boleros Bonitos",
         "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
-        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Never On Sunday",
-      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "100 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 142986,
       "name": "Les Parapluies de Cherbourg",
       "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
+        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Never On Sunday",
+      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Blue Navajo",
         "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 257633,
       "name": "The Shuffle",
       "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Presentando a La Orquesta Cuerdas y Metales",
+        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Cuerdas Y Metales",
+          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Im\u00e1genes",
+      "url": "https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "A Regar La Polilla",
         "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 167133,
       "name": "Midnight Cowboy",
       "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a La Orquesta Cuerdas y Metales",
-        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Cuerdas Y Metales",
-          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Im\u00e1genes",
-      "url": "https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Celebration: A Musical Journey",
-        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '77",
-          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Promise Of A Fisherman (Promessa De Pescador)",
-      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Stay Awhile",
         "url": "https://open.spotify.com/album/1fpwIpDPPXrNNPbHckzwbA"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 168626,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2I3iX9yeYYzK6ebFhaxPLp"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Celebration: A Musical Journey",
+        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '77",
+          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Promise Of A Fisherman (Promessa De Pescador)",
+      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Danke Schoen - Helmut Zacharias",
-        "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
-      },
-      "artists": [
-        {
-          "name": "Helmut Zacharias",
-          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "16 Joyas Del New Age",
         "url": "https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 228213,
       "name": "Aria on Air",
       "url": "https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Danke Schoen - Helmut Zacharias",
+        "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
+      },
+      "artists": [
+        {
+          "name": "Helmut Zacharias",
+          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "Claire",
+      "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
     },
     {
       "added_at": "2020-12-08 19:02:01",

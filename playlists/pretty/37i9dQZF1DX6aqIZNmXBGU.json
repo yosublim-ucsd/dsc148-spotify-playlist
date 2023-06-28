@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17351,
+  "num_followers": 17352,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODQxMjRhN2RkNDdjZmI3YzNiNzM4YzgwOGUzNzc0ZDYyMDQ2Yzgw",
+  "snapshot_id": "MCxjZDQyYjFjMTQ4MDFjNjYwYTkwNjA1YWY3YTUyMzA1ZTdlYWFhYmY1",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -863,6 +863,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "Indie Rock",
+        "url": "https://open.spotify.com/album/6JrppNJBxpKvGTRyVYXDuV"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Lets Go Surfing",
+      "url": "https://open.spotify.com/track/5g127reXmYqHrWHIJ8TJvC"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Gb City",
         "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Glazin'",
-        "url": "https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69"
-      },
-      "artists": [
-        {
-          "name": "Jacuzzi Boys",
-          "url": "https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB"
-        }
-      ],
-      "duration_ms": 203906,
-      "name": "Glazin'",
-      "url": "https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Manipulator",
         "url": "https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 242013,
       "name": "Tall Man Skinny Lady",
       "url": "https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Glazin'",
+        "url": "https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69"
+      },
+      "artists": [
+        {
+          "name": "Jacuzzi Boys",
+          "url": "https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "Glazin'",
+      "url": "https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -955,22 +971,6 @@
       "duration_ms": 240600,
       "name": "No Song Unheard",
       "url": "https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Indie Rock",
-        "url": "https://open.spotify.com/album/6JrppNJBxpKvGTRyVYXDuV"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Lets Go Surfing",
-      "url": "https://open.spotify.com/track/5g127reXmYqHrWHIJ8TJvC"
     }
   ],
   "unique_name": "Sun & Surf",

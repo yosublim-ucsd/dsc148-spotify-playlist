@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,086 likes - 200 songs - 15 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,330 likes - 200 songs - 15 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 11 | [Galaxy](https://open.spotify.com/track/0PXtPC7EtkqcbHpIZtGVAb) | [Levent Canseven](https://open.spotify.com/artist/3NUEjMOsAkYQHImzKatM3o), [Levthand](https://open.spotify.com/artist/7pQsw5jT4ZGfjo47JFQTXN) | [Galaxy](https://open.spotify.com/album/2wLWkg1Hvypn6O7hPnbfit) | 2:08 |
 | 12 | [Is This Jazz?](https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Is This Jazz?](https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8) | 3:01 |
 | 13 | [Rake Stepper](https://open.spotify.com/track/4MKQjdR7rPwlxtn2SMosQ1) | [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr), [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Rake Stepper](https://open.spotify.com/album/775CFaTdkDsy2ywp3zhGVl) | 3:32 |
-| 14 | [Freeman Square](https://open.spotify.com/track/7aWuAaepHToCUIMROd80Ze) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Freeman Square](https://open.spotify.com/album/1mJmd8HI5eo9hmKwKqLv8X) | 5:14 |
+| 14 | [Freeman Square](https://open.spotify.com/track/7aWuAaepHToCUIMROd80Ze) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe) | [Freeman Square](https://open.spotify.com/album/1mJmd8HI5eo9hmKwKqLv8X) | 5:14 |
 | 15 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:07 |
 | 16 | [Jimmy's Groove](https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2) | 6:17 |
 | 17 | [Pluto](https://open.spotify.com/track/66BTQQnzdtn921AG13dO6D) | [Apollo Suns](https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW) | [Pluto](https://open.spotify.com/album/2KhSWuSSxItYsUYIXbhyyq) | 4:17 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 |
 | 200 | [Green Chimneys \- Juffie \- Instrumental](https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Green Chimneys – Juffie](https://open.spotify.com/album/0U4Q2KC5lZA6woOZtzHM6T) | 3:31 |
 
-Snapshot ID: `MCxkZWJkYWQ1M2Q3ZTc5MDY0MWM0MGJlMTQ3ZTBiYTY0NGYxZTAxMjJi`
+Snapshot ID: `MCwxY2FlNTgyZTRhYzdjYzIwYTJmYTIxNDk5YmY3ZWZkYjIxMjMyOWRl`

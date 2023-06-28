@@ -914,7 +914,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 178651,
       "name": "I Put a Spell on You",
       "url": "https://open.spotify.com/track/1dFlAV0eMcsSPwZsIHdf4y"
@@ -936,6 +936,28 @@
       "duration_ms": 178651,
       "name": "I Put a Spell on You",
       "url": "https://open.spotify.com/track/7sNbMDi5Yyi54pP1T1IbDS"
+    },
+    {
+      "album": {
+        "name": "The Blue Guitar Sessions",
+        "url": "https://open.spotify.com/album/3Qlsmc3uOXNynNGGMPjbUO"
+      },
+      "artists": [
+        {
+          "name": "Jesse Cook",
+          "url": "https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA"
+        },
+        {
+          "name": "Emma-Lee",
+          "url": "https://open.spotify.com/artist/1OD4aWTiLRPAijuuIahCPS"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178651,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/0g3IVRP1pMB0TfTO1nXo2r"
     },
     {
       "album": {

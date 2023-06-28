@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:7Ao4PRYc1rFAZVkr0FKnrt\">INVERNO</a>",
+  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:3rDfIbUdjA6QL4Y32wEpb2\">GBRESCI</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -2870,6 +2870,24 @@
       "duration_ms": 182400,
       "name": "Che caldo che c'\u00e8",
       "url": "https://open.spotify.com/track/30rqAn2cCVQ3qF9PtODUba"
+    },
+    {
+      "album": {
+        "name": "CHE CAZZO STAI FACENDO?",
+        "url": "https://open.spotify.com/album/31NOhXA45tGA3kqG16X5t4"
+      },
+      "artists": [
+        {
+          "name": "AYLE",
+          "url": "https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113454,
+      "name": "CHE CAZZO STAI FACENDO?",
+      "url": "https://open.spotify.com/track/4SM47IqsIvb4ZmbBHx2FIR"
     },
     {
       "album": {
@@ -5857,6 +5875,24 @@
     },
     {
       "album": {
+        "name": "Hype",
+        "url": "https://open.spotify.com/album/7c8gbDswIM3vkdDAOhkkpj"
+      },
+      "artists": [
+        {
+          "name": "I Sentinelle",
+          "url": "https://open.spotify.com/artist/1BITu6YeNG6WCgJHxU80sa"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160544,
+      "name": "Hype",
+      "url": "https://open.spotify.com/track/7zcmoCMq7ZlLL6GXnqfAJO"
+    },
+    {
+      "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/5joDcRBcJ39guv4r5mqJEa"
       },
@@ -6668,6 +6704,24 @@
       "duration_ms": 143850,
       "name": "L'amore su Tinder",
       "url": "https://open.spotify.com/track/5epRVbuwPkQBzG9WhMGcJJ"
+    },
+    {
+      "album": {
+        "name": "L'ansia del casello",
+        "url": "https://open.spotify.com/album/44ybQSEjANBMQ3uyRosggp"
+      },
+      "artists": [
+        {
+          "name": "Samuele Stanco e i Gabbiani Malvagi",
+          "url": "https://open.spotify.com/artist/13OTLSSmiVx2KbPqLGU95f"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221284,
+      "name": "L'ansia del casello",
+      "url": "https://open.spotify.com/track/0tOZTDemzETWOETHrrhnWy"
     },
     {
       "album": {
@@ -7498,6 +7552,24 @@
       "duration_ms": 224000,
       "name": "Lusso",
       "url": "https://open.spotify.com/track/0gbIBa5IHQsEfTM2tOFViW"
+    },
+    {
+      "album": {
+        "name": "L\u2019estate dopo la maturit\u00e0",
+        "url": "https://open.spotify.com/album/0u1zebBszXzlQmZB4WG9Th"
+      },
+      "artists": [
+        {
+          "name": "Sacchini",
+          "url": "https://open.spotify.com/artist/28UUItU2du0iVaXnBFiTx4"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "L\u2019estate dopo la maturit\u00e0",
+      "url": "https://open.spotify.com/track/5bcgmatCYSzMk4Vc8UXar4"
     },
     {
       "album": {
@@ -11246,6 +11318,24 @@
       "duration_ms": 159939,
       "name": "Psicopatica",
       "url": "https://open.spotify.com/track/5SPNH8BYnpSvBVrFajky0G"
+    },
+    {
+      "album": {
+        "name": "Pugni in Pancia",
+        "url": "https://open.spotify.com/album/7GxPkeC2fIw1HAmypKE1vs"
+      },
+      "artists": [
+        {
+          "name": "Kasto",
+          "url": "https://open.spotify.com/artist/4DQI9ZdYLfBZ7UjsJp1c42"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195286,
+      "name": "Pugni in Pancia",
+      "url": "https://open.spotify.com/track/5msgHsIgcXodmjpbD615L4"
     },
     {
       "album": {

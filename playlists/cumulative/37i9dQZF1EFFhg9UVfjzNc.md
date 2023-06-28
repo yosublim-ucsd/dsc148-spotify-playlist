@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2JRW3jis8XpwJlqecAV4Id">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-73 songs - 7 hr 1 min
+74 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [O Teu Amor](https://open.spotify.com/track/5rGVWeJK826Da7y0Cu9Z0n) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Teu Amor](https://open.spotify.com/album/4mxmO91KWLo3sHapuGM9Jb) | 4:39 | 2022-06-04 |  |
 | [O Teu Amor Dura Pra Sempre](https://open.spotify.com/track/2nEvHXtOmvXtqJFgCeYb2o) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 4:51 | 2022-06-04 | 2022-09-23 |
 | [Pai de Amor](https://open.spotify.com/track/2ikIpRpEDSIcKwURQsaKkT) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Pai de Amor](https://open.spotify.com/album/2vf8p7EbRXBHPC9tUDWr0U) | 5:59 | 2022-06-04 | 2022-09-23 |
-| [Pai de Amor \- Live](https://open.spotify.com/track/751TdDZzsr7Wrv4naigRLL) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [André Aquino, Vol\. 2 \(Live\)](https://open.spotify.com/album/3y39KwTuUMQ4Gmz3R59bW6) | 8:34 | 2022-09-22 |  |
+| [Pai de Amor \- Live](https://open.spotify.com/track/5qp1tzBKcKLT2jd8cmXL5r) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Pai de Amor \(Live\)](https://open.spotify.com/album/5QUzFdB8bwFIR1L6P9Mhpf) | 8:34 | 2023-06-27 |  |
+| [Pai de Amor \- Live](https://open.spotify.com/track/751TdDZzsr7Wrv4naigRLL) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [André Aquino, Vol\. 2 \(Live\)](https://open.spotify.com/album/3y39KwTuUMQ4Gmz3R59bW6) | 8:34 | 2022-09-22 | 2023-06-28 |
 | [Poesia Acústica \#7: Céu Azul](https://open.spotify.com/track/2FGhB10Gon36GgFcOTMQEW) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Ducon](https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica \#7: Céu Azul](https://open.spotify.com/album/5IkIpMWgmSaXO0x9gzgelo) | 9:32 | 2022-09-22 | 2023-04-06 |
 | [Que o Incenso Suba](https://open.spotify.com/track/1GhwTkRpAGNLxvMAHfH8KM) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 5:18 | 2022-09-22 |  |
 | [Que O Incenso Suba](https://open.spotify.com/track/6jJPimdOkKWRSukmtRsBwi) | [Som Do Reino](https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq), [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Som Do Secreto Vol\. 2: Noite](https://open.spotify.com/album/3FhUryFU39lZCMX7JOB0qt) | 12:55 | 2022-06-04 | 2022-09-23 |

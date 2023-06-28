@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Zefe e Néza in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,034 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,068 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [KILI KILI](https://open.spotify.com/track/6DwWJkGnsCpJPlP7hqT8Wb) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [KILI KILI](https://open.spotify.com/album/6CUBYWEmpFpyKa1RXnU2kk) | 2:59 |
 | 50 | [White Tee](https://open.spotify.com/track/3CxHQO2JR1JgTrMSQEF154) | [Spinas](https://open.spotify.com/artist/4Cox9N9TeGWWSfyvPEex5m), [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [White Tee](https://open.spotify.com/album/0Y5Zm1jQxk5uzIIJemDPD4) | 2:08 |
 
-Snapshot ID: `MCwxZjQ5ODBlMDk4ZGNlNWVjNzYyZDM3OWM0MzFhNTU4OGY4ODJhYzA0`
+Snapshot ID: `MCwzOWFjMzhhMjY2YmMzMjI3OTZiYjY4NGRiYTRlYjUwMDczMjgwZThi`

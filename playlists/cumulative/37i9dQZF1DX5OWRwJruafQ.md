@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Inderpal Moga & Channi Nattan
 
-144 songs - 6 hr 56 min
+146 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Aloof](https://open.spotify.com/track/1CqkvBoq1vYh0TVX67aVFe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [YOLO](https://open.spotify.com/album/4xBhPWyrysJmW2bnaGKXOV) | 2:46 | 2023-03-29 |  |
 | [Area De Jatt](https://open.spotify.com/track/4rSERGLZ8k4AV7GXsfU5Ji) | [Darsh Dhaliwal](https://open.spotify.com/artist/3kTRwHuAvpLQmaxjtCUEXq), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Area De Jatt](https://open.spotify.com/album/05MRUTVqjKYuIUBn0gmeK4) | 4:12 | 2023-03-29 | 2023-04-25 |
 | [Bad Boy](https://open.spotify.com/track/405XCqBuCIDDqVnaRYWKr6) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Bad Boy](https://open.spotify.com/album/6r6cbSRfx2jw0Ih1xB7KfW) | 3:00 | 2023-06-08 |  |
+| [Badmashi](https://open.spotify.com/track/0CDDcwKKEemSQCZIEtXJDZ) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [5 Star](https://open.spotify.com/album/74xZFmbJV28PX8ZzHG4iBn) | 3:02 | 2023-06-27 |  |
 | [Balcony](https://open.spotify.com/track/6qDHgeUBJFKYAGPBj3eVD6) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:43 | 2023-03-29 |  |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-29 |  |
 | [BBBB](https://open.spotify.com/track/0BUMpBR4SqkIQNTLV6m0kN) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [BBBB](https://open.spotify.com/album/0sgCrpfFug0BxvOvmrpSv3) | 3:42 | 2023-03-29 |  |
@@ -41,6 +42,7 @@
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-03-29 |  |
 | [DEAD ZONE](https://open.spotify.com/track/5RTQ7QLKmUyWMl0jdPJzhp) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jay Dee](https://open.spotify.com/artist/35sUjoeFA3eopTY3PXEjVA) | [DEAD ZONE](https://open.spotify.com/album/0mjJN14v2RlLGi4irooXVm) | 2:49 | 2023-03-29 |  |
 | [Death Row](https://open.spotify.com/track/0dDDt47pVAToheSPh12utX) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Death Row](https://open.spotify.com/album/7oq6Bm8RUggWkrXdsBMgfm) | 3:05 | 2023-04-27 |  |
+| [Defender](https://open.spotify.com/track/1QGUZ1pSmeJv7U677bSVN9) | [Deep Karan](https://open.spotify.com/artist/2rAC8yC2Aqdo2utiGuDto2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Defender](https://open.spotify.com/album/0jhvzKYhasAq4RzgeVK3A9) | 2:24 | 2023-06-27 |  |
 | [Doaba Zone](https://open.spotify.com/track/4aPJDwEXwpND92r8VVfgvi) | [Shivjot Suchipind](https://open.spotify.com/artist/7dIWDfVELEshdx6pQvN6KJ) | [Doaba Zone](https://open.spotify.com/album/7hkWGmP36F8gFpCshqK04g) | 3:05 | 2023-03-29 | 2023-04-09 |
 | [Don’T Care](https://open.spotify.com/track/4AGDZS12QtecmUYaIdIxZ5) | [Gur\. V](https://open.spotify.com/artist/28zEsrNPBJJSsmRjsysTvY), [Jot Dhindsa](https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Don’T Care](https://open.spotify.com/album/1ZbZn6xKNv0PDn7hq2B9Av) | 2:50 | 2023-04-17 | 2023-04-21 |
 | [Duphare](https://open.spotify.com/track/6Yd2Qe4m4DHNrOYoGz46Us) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:05 | 2023-03-29 | 2023-04-15 |

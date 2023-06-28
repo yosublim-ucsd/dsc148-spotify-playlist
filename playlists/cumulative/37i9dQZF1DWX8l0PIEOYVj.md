@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Dabin.
 
-383 songs - 23 hr 3 min
+384 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All We Needed](https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [All We Needed](https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt) | 4:01 | 2022-07-22 |  |
 | [Almost Home \- MitiS Remix](https://open.spotify.com/track/2ddJ5eXea7HzGwAC745jOr) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Almost Home \(The Remixes\)](https://open.spotify.com/album/0xEGWXpT3SZhB5KyIbOKZ7) | 3:14 | 2022-07-08 |  |
 | [Alone Together](https://open.spotify.com/track/53KjctJV93bOFxG8Dbngcs) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Alone Together](https://open.spotify.com/album/6sdU4VQM4Nck0qwl8fI79d) | 3:27 | 2023-06-16 |  |
+| [Anchor](https://open.spotify.com/track/3ve63z69WsTdqBoC3LzjaX) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [Ashley Drake](https://open.spotify.com/artist/2j5xv1bAFJ3Rpd8jNSJrUA) | [Anchor](https://open.spotify.com/album/7CbXY0Rn7WcsPqhMu62lxZ) | 3:28 | 2023-06-23 |  |
 | [ANEMONE](https://open.spotify.com/track/5YvjSiIeHcn2eV3NZLxMj8) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [ANEMONE](https://open.spotify.com/album/4ubXh9LjM4YuWTiOuw7efI) | 3:15 | 2023-03-10 | 2023-04-16 |
 | [Angel](https://open.spotify.com/track/1qX54AHbcvUeGCLM9lzorU) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Angel](https://open.spotify.com/album/0mojBj3o9EM3B13S5AaY52) | 3:22 | 2022-07-08 | 2022-12-03 |
 | [Angel](https://open.spotify.com/track/5BHTAblv4q9jJSffiLNvR3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Angel](https://open.spotify.com/album/0Zs75HDpdepTEcZOGpwfNd) | 3:22 | 2023-03-31 | 2023-06-09 |
@@ -158,7 +159,7 @@
 | [Half A World Away \(feat\. Sarah de Warren\)](https://open.spotify.com/track/0Uyi3DHJMoGURtYihR6LAN) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [The Way Back Up](https://open.spotify.com/album/6JI14Iisr1vEyw3YiMe1rs) | 4:27 | 2022-07-08 |  |
 | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/track/3RgEkU0pFALv7sQhPlaFLd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ashley Drake](https://open.spotify.com/artist/2j5xv1bAFJ3Rpd8jNSJrUA) | [Halfway Down \(with Ashley Drake\)](https://open.spotify.com/album/5kgb4YbeYYRAQ7fnFpBRBP) | 5:10 | 2022-07-08 | 2023-03-04 |
 | [Hallelujah](https://open.spotify.com/track/3p34ioNEg5sjBhEwB1ycPr) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Devon Baldwin](https://open.spotify.com/artist/5JYReWgOGu4JKm5pqmACqG) | [Hallelujah](https://open.spotify.com/album/1WKoH6keTsd74roqzafGIG) | 4:18 | 2022-07-08 | 2022-08-06 |
-| [Hallowed](https://open.spotify.com/track/1mCuubKYj4wx69lWrSPmkW) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Hallowed](https://open.spotify.com/album/44AMc70Cs2l1IkuT6qzHhC) | 3:18 | 2023-03-10 |  |
+| [Hallowed](https://open.spotify.com/track/1mCuubKYj4wx69lWrSPmkW) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Hallowed](https://open.spotify.com/album/44AMc70Cs2l1IkuT6qzHhC) | 3:18 | 2023-03-10 | 2023-06-28 |
 | [Happy Tears](https://open.spotify.com/track/75yiYJ0pJqVTga43SY6V8T) | [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [AYMEN](https://open.spotify.com/artist/32lU7sOuIPtLOisKqlqNos) | [Happy Tears](https://open.spotify.com/album/3Wh4FHappW3aUJBx7pZxul) | 3:26 | 2022-09-16 |  |
 | [Hard Part's Over](https://open.spotify.com/track/2InIRfPZRlTO6k1qCxRsRj) | [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [Page](https://open.spotify.com/artist/5Fzm75kD7tt6ldqv3TInbG) | [Hard Part's Over](https://open.spotify.com/album/2VCtXsszH8Ky5MXoYrCgP7) | 3:14 | 2022-10-07 |  |
 | [Hate This Kind of Love \(feat\. HOLT\)](https://open.spotify.com/track/0bMzCNqq4U5pQakqcyfJHR) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Hate This Kind of Love \(feat\. HOLT\)](https://open.spotify.com/album/7tWS1OfcBKgvupJiebvvu8) | 3:46 | 2022-07-08 | 2023-04-09 |

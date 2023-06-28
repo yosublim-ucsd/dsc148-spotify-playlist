@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMjQ4ODAsMDAwMDAwMDBjY2I4MGQwODUzYzE2Yzc1NDk5NTdjNzA4YTZiMzM1Zg==",
+  "snapshot_id": "MjgxMjQ4ODAsMDAwMDAwMDBmNzlhMTdiZWEwOWZkM2U5MDBhOTg0ZjFmOGIwYjAzNg==",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -520,8 +520,12 @@
       },
       "artists": [
         {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+          "name": "Tan Dun",
+          "url": "https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
         },
         {
           "name": "Alexey Botvinov",
@@ -530,15 +534,11 @@
         {
           "name": "New Century Chamber Orchestra",
           "url": "https://open.spotify.com/artist/7hOM6GsmiRE9I1eM1Eldhw"
-        },
-        {
-          "name": "Daniel Hope",
-          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
         }
       ],
-      "duration_ms": 490000,
-      "name": "Piano Concerto No. 3: Movement I",
-      "url": "https://open.spotify.com/track/3OyT9dfB866ipDjG0Op1rE"
+      "duration_ms": 333480,
+      "name": "Double Concerto for Violin, Piano, and String Orchestra with Percussion: III. Misterioso",
+      "url": "https://open.spotify.com/track/1GFOrfX6ypNk6VqvlKXlAj"
     },
     {
       "added_at": "2023-06-23 04:00:00",

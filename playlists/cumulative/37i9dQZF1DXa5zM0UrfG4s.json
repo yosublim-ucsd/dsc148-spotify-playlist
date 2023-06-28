@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 236387,
       "name": "Hardanger",
       "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
@@ -5438,6 +5438,32 @@
       "duration_ms": 124000,
       "name": "TRAKTEN TILL EPAN (feat 1.Cuz & FR\u00d6KEN SNUSK)",
       "url": "https://open.spotify.com/track/0u8AMrMBM6S3YBDfPYwMfe"
+    },
+    {
+      "album": {
+        "name": "TRUCKER MOTHERFUCKER",
+        "url": "https://open.spotify.com/album/12b3VQAefRu3rAFj0uZwdC"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        },
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203100,
+      "name": "TRUCKER MOTHERFUCKER",
+      "url": "https://open.spotify.com/track/2a6NdKqYB9CaMT2yfiXZnE"
     },
     {
       "album": {

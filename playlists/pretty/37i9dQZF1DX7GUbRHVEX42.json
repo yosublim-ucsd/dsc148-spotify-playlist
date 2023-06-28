@@ -1,12 +1,12 @@
 {
   "description": "The best current contemporary Reggae. Cover: Buju Banton",
-  "num_followers": 114594,
+  "num_followers": 114679,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDYzNmFlYzhlMGVkNjA2YmE5ZjkxODFiNDQ5M2ZkNzhlNjA2OWM0",
+  "snapshot_id": "MCxjMWM5YjI1OGQwNzJkMDA4MTg3NzBjMWRmMDFhZmYzYTY2MWZkZWU2",
   "tracks": [
     {
       "added_at": "2023-06-09 14:45:48",
@@ -67,22 +67,18 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Waiting In Vain (Feat. Tiwa Savage)",
-        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
+        "name": "Do To Me",
+        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 243450,
-      "name": "Waiting In Vain (Feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
+      "duration_ms": 225103,
+      "name": "Do To Me",
+      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -107,18 +103,22 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Do To Me",
-        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
+        "name": "Waiting In Vain (Feat. Tiwa Savage)",
+        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 225103,
-      "name": "Do To Me",
-      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
+      "duration_ms": 243450,
+      "name": "Waiting In Vain (Feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -423,18 +423,30 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Nice Up The Dance",
-        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
       },
       "artists": [
         {
           "name": "Kabaka Pyramid",
           "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
         }
       ],
-      "duration_ms": 212795,
-      "name": "Nice Up The Dance",
-      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
+      "duration_ms": 213977,
+      "name": "The Kalling",
+      "url": "https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -623,30 +635,18 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "The Kalling",
-        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
+        "name": "Nice Up The Dance",
+        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
       },
       "artists": [
         {
           "name": "Kabaka Pyramid",
           "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        },
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Jesse Royal",
-          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
         }
       ],
-      "duration_ms": 213977,
-      "name": "The Kalling",
-      "url": "https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa"
+      "duration_ms": 212795,
+      "name": "Nice Up The Dance",
+      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/4wkKZpR4yqXAvWLxzQj97e"
+        "name": "Ekundayo",
+        "url": "https://open.spotify.com/album/1DHs1TPC3rOV2Y9lFpjZxY"
       },
       "artists": [
         {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
         }
       ],
-      "duration_ms": 247756,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/27RAZKSDzCpLCSaLBK8BNg"
+      "duration_ms": 196949,
+      "name": "Cold & Clear",
+      "url": "https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Ekundayo",
-        "url": "https://open.spotify.com/album/1DHs1TPC3rOV2Y9lFpjZxY"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4wkKZpR4yqXAvWLxzQj97e"
       },
       "artists": [
         {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "duration_ms": 196949,
-      "name": "Cold & Clear",
-      "url": "https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm"
+      "duration_ms": 247756,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/27RAZKSDzCpLCSaLBK8BNg"
     },
     {
       "added_at": "2023-06-09 14:45:48",

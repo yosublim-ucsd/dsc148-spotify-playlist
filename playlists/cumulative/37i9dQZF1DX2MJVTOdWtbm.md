@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: 3AM
 
-306 songs - 16 hr 12 min
+307 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 | 2022-09-13 | 2023-02-18 |
 | [El Día Que Me Odies](https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [El Día Que Me Odies](https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE) | 3:05 | 2022-02-11 | 2022-05-20 |
 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 | 2022-05-20 | 2023-05-13 |
+| [Emiliana](https://open.spotify.com/track/6YRbXDDO4qYimOJB2wLwMr) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Drama Vol\. 1](https://open.spotify.com/album/5SoVXEF6lDQzvKAHqdf5sM) | 2:44 | 2023-06-23 |  |
 | [Empty Doors](https://open.spotify.com/track/6lZfjc2akugF9a71uLzhBk) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [SAFEPLACE \(Safer Edition\)](https://open.spotify.com/album/4K32T8piHzWlyfdRE4yXPK) | 3:33 | 2022-03-25 | 2022-04-21 |
 | [En un Rinconcito](https://open.spotify.com/track/3R44xWwx1miSjN58p7vlkd) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Fernanda Perochena](https://open.spotify.com/artist/3DxcAMHSrWV5c8PQafU2qS), [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6) | [Lo Que Muere No Acaba](https://open.spotify.com/album/7CSLDt5x0jtwohF2QlGmUo) | 3:32 | 2022-02-11 | 2022-09-07 |
 | [Eres Mi Aire](https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86) | 3:45 | 2023-05-05 |  |
@@ -217,7 +218,7 @@
 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 | 2022-02-11 | 2022-09-07 |
 | [NUDE](https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [NUDE](https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP) | 2:55 | 2022-12-30 |  |
 | [nuestra historia](https://open.spotify.com/track/66gTt3LAz9w8Xlrlj3zoJU) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [coffee & a cig](https://open.spotify.com/album/4NefaGha9X5oeSKH2UHG1d) | 4:01 | 2022-02-11 | 2022-07-27 |
-| [Nébula](https://open.spotify.com/track/7tEjGRlhJmbMvn392vLNYm) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Nébula](https://open.spotify.com/album/1ZZwFyP0WM5IphedsSgS44) | 2:30 | 2023-05-12 |  |
+| [Nébula](https://open.spotify.com/track/7tEjGRlhJmbMvn392vLNYm) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Nébula](https://open.spotify.com/album/1ZZwFyP0WM5IphedsSgS44) | 2:30 | 2023-05-12 | 2023-06-28 |
 | [Odiame o Quiereme](https://open.spotify.com/track/1rLwwHaXkZUOBQU1vd2pPt) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Odiame o Quiereme](https://open.spotify.com/album/0cMIt86ttp5wqaYlhlk83N) | 4:34 | 2022-02-11 | 2022-05-20 |
 | [Ojos Tristes \(feat\. Karin B.\)](https://open.spotify.com/track/4LyInTQ5BgnQuDud2JAUdf) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Karin B.](https://open.spotify.com/artist/0bjRjeUe0JxWX6s8sxnZsc) | [Ojos Tristes \(feat\. Karin B.\)](https://open.spotify.com/album/2pyPc0slNJ0OLxrN3owx9E) | 3:38 | 2022-02-11 | 2022-09-07 |
 | [oportUNO](https://open.spotify.com/track/7t2ghIdjkElp0FUb0RlzaM) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [oportUNO](https://open.spotify.com/album/3i8CtqJD1n76oXJeaKXAdQ) | 2:36 | 2022-09-06 | 2022-12-07 |

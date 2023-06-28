@@ -1048,21 +1048,21 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         },
         {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        },
-        {
           "name": "JVKE",
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
         {
           "name": "Muni Long",
           "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 175802,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -21182,7 +21182,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 190909,
       "name": "\u0418\u043c\u0435\u0442\u043e \u0442\u0438",
       "url": "https://open.spotify.com/track/2UPWn6Sjpmbq9FT8TXZkCp"
@@ -22460,6 +22460,24 @@
       "duration_ms": 173561,
       "name": "\u0421\u0442\u0440\u0435\u0441 \u0442\u0435\u0441\u0442",
       "url": "https://open.spotify.com/track/6i3e7v3Wclce3OJgYD5dy1"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0430\u043a\u043e\u0432\u0430 \u043b\u0443\u0434\u043e \u043a\u0430\u0442\u043e \u0442\u0435\u0431",
+        "url": "https://open.spotify.com/album/0aI857dsCKAk0jc7uYuld8"
+      },
+      "artists": [
+        {
+          "name": "Krisko",
+          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198455,
+      "name": "\u0422\u0430\u043a\u043e\u0432\u0430 \u043b\u0443\u0434\u043e \u043a\u0430\u0442\u043e \u0442\u0435\u0431",
+      "url": "https://open.spotify.com/track/4tEWk9mU5uI46beOxhsGkh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Federico Rossi
 
-179 songs - 8 hr 22 min
+180 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amelie](https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Amelie](https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q) | 3:18 | 2023-04-13 | 2023-05-19 |
 | [amore analcolico](https://open.spotify.com/track/0kKNI31j7xj7em602bytCb) | [Anima](https://open.spotify.com/artist/78KLSh5jP52tMwFeDpR5Ml), [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC) | [amore analcolico](https://open.spotify.com/album/1v0clnNzLMjfscCQKIYVs0) | 2:07 | 2023-06-22 |  |
 | [Amore Bianco](https://open.spotify.com/track/7omuQEx0gZX4TjXKX58AGl) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [Amore Bianco](https://open.spotify.com/album/53ouXegw7U2gjuMsl0jnqg) | 2:21 | 2023-03-23 | 2023-03-31 |
+| [Ancora](https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Ancora](https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6) | 2:51 | 2023-06-27 |  |
 | [Anima Tormentata](https://open.spotify.com/track/7C1cnKPhNwieQsKORc0hE1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:56 | 2023-04-13 | 2023-05-19 |
 | [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 | 2023-05-15 |  |
 | [ARANCIATA](https://open.spotify.com/track/4X24I8ugXKgRgdtC9LzmlP) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [ARANCIATA](https://open.spotify.com/album/0I9Kc8iR7JAf52TITuMyhK) | 3:14 | 2023-06-08 |  |

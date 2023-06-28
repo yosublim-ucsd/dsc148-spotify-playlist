@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 38849,
+  "num_followers": 38876,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmU2MjhmNjVmODA2YTIwZThiMzgyNTllZmFlOGQxZTY5MjFiYWRj",
+  "snapshot_id": "MCxiOThlMDNlZTljYWM5NzQ5YjYwMmNkOGMzNWVlNjIzMDhlY2U4YzM1",
   "tracks": [
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "TAXI DRIVER (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 205358,
-      "name": "APNEA - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
-    },
-    {
-      "added_at": "2023-06-15 22:01:00",
-      "album": {
         "name": "Mille Pezzi",
         "url": "https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+        "name": "TAXI DRIVER (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         }
       ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+      "duration_ms": 205358,
+      "name": "APNEA - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 180278,
       "name": "Sotto lo zero",
       "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
+    },
+    {
+      "added_at": "2023-06-15 22:01:00",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1391,18 +1391,22 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "poster",
-        "url": "https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge"
+        "name": "Shama \u00e8 buono",
+        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
       },
       "artists": [
         {
-          "name": "Cicco Sanchez",
-          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
         }
       ],
-      "duration_ms": 169795,
-      "name": "poster",
-      "url": "https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz"
+      "duration_ms": 144750,
+      "name": "Shama \u00e8 buono",
+      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1443,22 +1447,18 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "Shama \u00e8 buono",
-        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
+        "name": "poster",
+        "url": "https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge"
       },
       "artists": [
         {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
         }
       ],
-      "duration_ms": 144750,
-      "name": "Shama \u00e8 buono",
-      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
+      "duration_ms": 169795,
+      "name": "poster",
+      "url": "https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "Cosa Siamo Noi Ora",
-        "url": "https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "OPPOSTI",
-      "url": "https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv"
-    },
-    {
-      "added_at": "2023-06-15 22:01:00",
-      "album": {
         "name": "Credimi ancora",
         "url": "https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 215283,
       "name": "Credimi ancora",
       "url": "https://open.spotify.com/track/4xTg0JYQVlDsIiNTbHIQOQ"
+    },
+    {
+      "added_at": "2023-06-15 22:01:00",
+      "album": {
+        "name": "Cosa Siamo Noi Ora",
+        "url": "https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "OPPOSTI",
+      "url": "https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv"
     },
     {
       "added_at": "2023-06-15 22:01:00",
@@ -1739,18 +1739,26 @@
     {
       "added_at": "2023-06-15 22:01:00",
       "album": {
-        "name": "oggi ho pianto",
-        "url": "https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M"
+        "name": "bellacomestai",
+        "url": "https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM"
       },
       "artists": [
         {
-          "name": "outcast.",
-          "url": "https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9"
+          "name": "Tear&Drugz",
+          "url": "https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT"
+        },
+        {
+          "name": "tobehonest",
+          "url": "https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV"
+        },
+        {
+          "name": "pippx",
+          "url": "https://open.spotify.com/artist/78N7nP5wUagUYUax3I5Ldv"
         }
       ],
-      "duration_ms": 132231,
-      "name": "oggi ho pianto",
-      "url": "https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C"
+      "duration_ms": 118928,
+      "name": "bellacomestai",
+      "url": "https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U"
     }
   ],
   "unique_name": "ragazzo triste",

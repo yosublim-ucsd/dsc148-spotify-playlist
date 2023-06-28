@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,231 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,236 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 4 | [Weit weit weg](https://open.spotify.com/track/75Scr7XSVfoAozRo3GyhHJ) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Weit weit weg](https://open.spotify.com/album/7dTTAuYUxkDjf1OL1Jfp0u) | 2:52 |
 | 5 | [Can't Choose \(feat\. Kiara Nelson\)](https://open.spotify.com/track/6LAlZuA1IhylVnInqNWo2j) | [LARI LUKE](https://open.spotify.com/artist/4CTjrUu7zgqHjGDjFKYTAm), [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [Can't Choose \(feat\. Kiara Nelson\)](https://open.spotify.com/album/0XKxoMgjpIgS7drq1OI0yZ) | 2:31 |
 | 6 | [powerpuff girl](https://open.spotify.com/track/5YF9p1smYRawOJ0377rqpI) | [CARAMELLA](https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ) | [powerpuff girl](https://open.spotify.com/album/2pyC2xsBMW1Vhn1JgZLxCv) | 1:54 |
-| 7 | [ANTI](https://open.spotify.com/track/7jtAl9ic1lF5w7ZNX72mk5) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [ANTI](https://open.spotify.com/album/7zVJWO7TYb0NAuyYpI5pSL) | 2:24 |
-| 8 | [BTS](https://open.spotify.com/track/0PeWtgdkQU1cRhbKuxL0sq) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [BTS](https://open.spotify.com/album/3iL80PElX9RqZdXZ5kui1W) | 2:08 |
+| 7 | [BTS](https://open.spotify.com/track/0PeWtgdkQU1cRhbKuxL0sq) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [BTS](https://open.spotify.com/album/3iL80PElX9RqZdXZ5kui1W) | 2:08 |
+| 8 | [ANTI](https://open.spotify.com/track/7jtAl9ic1lF5w7ZNX72mk5) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [ANTI](https://open.spotify.com/album/7zVJWO7TYb0NAuyYpI5pSL) | 2:24 |
 | 9 | [Chardonnay](https://open.spotify.com/track/7CtzSZgxabb1QDh5B7GI4b) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Chardonnay](https://open.spotify.com/album/00lEHgrp0Y4zqdMBRa4AhH) | 2:20 |
 | 10 | [Bitte Bitte](https://open.spotify.com/track/1jeFAGnFiB961m9IrLhnLg) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Bitte Bitte](https://open.spotify.com/album/0ZjjSQNPUwuzbxGv7VOiQf) | 3:42 |
 | 11 | [Durch die Nacht](https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [Perlen](https://open.spotify.com/album/1n5G19KN2dpBAtdaC1VZBn) | 3:12 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 22 | [Lieber für mich](https://open.spotify.com/track/671auplSl17WIJSefMXsjN) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Lieber für mich](https://open.spotify.com/album/2fws4o7IMCnaDjOEvigDRV) | 2:14 |
 | 23 | [Warning Signs](https://open.spotify.com/track/1Fj3PeeNmoLHaYLJcDTO5d) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [SOAMI](https://open.spotify.com/album/0mTbr4UVWZVZ06SldpT0ZL) | 3:25 |
 | 24 | [Come Alive](https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
-| 25 | [Better Off](https://open.spotify.com/track/4L9YBaBP34DCEoETaQHk7S) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [Better Off](https://open.spotify.com/album/3IbJi8T9OfwEWCk8Oybljo) | 2:45 |
-| 26 | [Polly Pocket](https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4) | [Nya Polo](https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS) | [Polly Pocket](https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF) | 2:49 |
+| 25 | [Polly Pocket](https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4) | [Nya Polo](https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS) | [Polly Pocket](https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF) | 2:49 |
+| 26 | [Better Off](https://open.spotify.com/track/4L9YBaBP34DCEoETaQHk7S) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [Better Off](https://open.spotify.com/album/3IbJi8T9OfwEWCk8Oybljo) | 2:45 |
 | 27 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
 | 28 | [eye to eye](https://open.spotify.com/track/19RHyDJTYWnZq54f3UyCgl) | [may](https://open.spotify.com/artist/0xCMgjZjdbW6hsiCRR05Cn) | [eye to eye](https://open.spotify.com/album/40OD1XXC6HSpcEJyDwZj5G) | 2:15 |
 | 29 | [The House of House](https://open.spotify.com/track/6cyctoQI5xU2ZI5MLslxPs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [The House of House EP](https://open.spotify.com/album/7wkd8RasRwQYJ07htKGEIN) | 3:36 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 36 | [Roll the Dice](https://open.spotify.com/track/0lWjdNnMq8SbeSulckVQMY) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Roll the Dice](https://open.spotify.com/album/4h90wABKg7XSFkJxcsFzhc) | 3:36 |
 | 37 | [Is it weird?](https://open.spotify.com/track/4CTC48IGRZiCPIbG1TKjIn) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Is it weird?](https://open.spotify.com/album/1wtljFgyAcMtr0mDSpRZ7Z) | 3:01 |
 | 38 | [Killer](https://open.spotify.com/track/5IrenNXIBzq2YPD8Qbo3Gj) | [Brenda Blitz](https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd) | [Killer](https://open.spotify.com/album/4vovkbUOIW9zkyZQy0WilV) | 2:35 |
-| 39 | [In Theory Depression](https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR) | 3:09 |
-| 40 | [Sie reden so laut](https://open.spotify.com/track/0yzLAV4bq5nxDuNYL7beas) | [Bipolar Feminin](https://open.spotify.com/artist/7HOiyvAQxMFt0gvH3IcAsX) | [Ein fragiles System](https://open.spotify.com/album/79GMIRMBiDngaFQjxQNqfF) | 2:27 |
+| 39 | [Sie reden so laut](https://open.spotify.com/track/0yzLAV4bq5nxDuNYL7beas) | [Bipolar Feminin](https://open.spotify.com/artist/7HOiyvAQxMFt0gvH3IcAsX) | [Ein fragiles System](https://open.spotify.com/album/79GMIRMBiDngaFQjxQNqfF) | 2:27 |
+| 40 | [In Theory Depression](https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR) | 3:09 |
 | 41 | [Direct Flight To Seattle](https://open.spotify.com/track/79JtOQixt6WItl0FOy616K) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Direct Flight To Seattle](https://open.spotify.com/album/0OMP9x5gMyj0zDuYVdXpqr) | 4:05 |
 | 42 | [Lauf](https://open.spotify.com/track/7d8mo4A255IToerZNguieR) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Lauf](https://open.spotify.com/album/6xYlmcdkzu7vopLPtjdxxE) | 2:23 |
 | 43 | [Lose My Mind \- Original Mix](https://open.spotify.com/track/4U4q4PqXLX3gec1kOV20Gq) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Lose My Mind EP](https://open.spotify.com/album/0sSztlUpgFcLnucqg2m8t9) | 6:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Kookoo](https://open.spotify.com/track/0QmlqqHjplKegcZv8IoDOD) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [All Eyes On The Revolution](https://open.spotify.com/album/2kOxElxYMxesQOsshjNJGU) | 3:58 |
 | 50 | [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 |
 
-Snapshot ID: `MCxhYjQxMjBhZjM4ZWIxNDY0YTZkNDE4NjM5ZDllMGYwM2Y3ODdhOTcy`
+Snapshot ID: `MCw0NjcwN2MwMjgzMzc0MGMzM2Y1ZTM5NjFiNDBmOTM2ZWFjMDA2Zjhl`

@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-348 songs - 1 day 8 hr 20 min
+349 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Kiss From A Rose](https://open.spotify.com/track/72vt5HsXp8V9R6Xu3CABi1) | [Julia Hülsmann Trio](https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG) | [The End Of A Summer](https://open.spotify.com/album/7cyyk6fFk21dJwK2m8nItZ) | 4:05 | 2020-05-02\* | 2021-05-28 |
 | [Lament](https://open.spotify.com/track/3u5U1SG291e4HfJUm4MMQV) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Lament](https://open.spotify.com/album/6cFgakb3roXl3GgOqr3XHS) | 6:28 | 2022-02-24 |  |
 | [Largo](https://open.spotify.com/track/3AxQSzHc2vYjqMZLyPyy2H) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:22 | 2021-04-24 |  |
-| [Let Us Not Forget To Be Kind](https://open.spotify.com/track/6dxX3lE5atGmus7Cax42fL) | [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W), [Roni Eytan](https://open.spotify.com/artist/6AQpvrd4EM7xY2dWW0QAn6) | [What Does it Mean to be Free?](https://open.spotify.com/album/6qFrQ3lMRdKrBwvcIKQQCX) | 5:38 | 2022-05-05 |  |
+| [Let Us Not Forget To Be Kind](https://open.spotify.com/track/6dxX3lE5atGmus7Cax42fL) | [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W), [Roni Eytan](https://open.spotify.com/artist/6AQpvrd4EM7xY2dWW0QAn6) | [What Does it Mean to be Free?](https://open.spotify.com/album/6qFrQ3lMRdKrBwvcIKQQCX) | 5:38 | 2022-05-05 | 2023-06-28 |
 | [Life And Death](https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG) | [Into The Silence](https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD) | 9:18 | 2020-05-02\* |  |
 | [Lina](https://open.spotify.com/track/2fYcpbTFptY9uRcaY56NRu) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Nadi](https://open.spotify.com/album/3kvzs5jLHsGyDZnz5oAaA4) | 5:38 | 2020-05-02\* | 2021-09-17 |
 | [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 | 2022-07-21 |  |
@@ -188,6 +188,7 @@
 | [Misty](https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sony Jazz Collection](https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI) | 5:23 | 2020-05-02\* | 2022-07-29 |
 | [Mo' Better Blues \(feat\. Terence Blanchard\)](https://open.spotify.com/track/78P3mF3w6APwFpnd6UFH4J) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [MUSIC FROM MO' BETTER BLUES \(feat\. Terence Blanchard\)](https://open.spotify.com/album/0p9pjx1LrmYBb70ns5lMGz) | 3:38 | 2020-05-02\* | 2022-01-25 |
 | [Moment](https://open.spotify.com/track/225tB4D1tSQe09i4LfeaCQ) | [Hyuntae Kim](https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS) | [Remembering](https://open.spotify.com/album/2elaIEGm1mApCONikdISZD) | 4:59 | 2023-01-05 |  |
+| [Monet](https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J) | [Mikkel Ploug](https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Sean Carpio](https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f), [Jeppe Skovbakke](https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg) | [Nocturnes](https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV) | 6:24 | 2023-06-20 |  |
 | [Mood](https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P.](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 8:50 | 2021-02-26 | 2022-03-11 |
 | [Mother Stands for Comfort](https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 4:07 | 2023-06-01 |  |
 | [Mother Stands for Comfort](https://open.spotify.com/track/5e7Cm6pTeymXvHKfsXyJMx) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Mother Stands For Comfort](https://open.spotify.com/album/3VMS5nN5sKgqt1GAvihrkt) | 4:07 | 2023-03-02 | 2023-05-17 |

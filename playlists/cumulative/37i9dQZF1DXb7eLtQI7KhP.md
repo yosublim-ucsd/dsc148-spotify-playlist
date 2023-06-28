@@ -4,7 +4,7 @@
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-132 songs - 6 hr 9 min
+135 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aqua Tacet](https://open.spotify.com/track/1dGj3FCziIKrm7IAG9KNYL) | [Paix Sonique](https://open.spotify.com/artist/5g4W27S2ZTFOatbUBDXCwd) | [Aqua Tacet](https://open.spotify.com/album/3k9jcwQk6tlH3QJc7Otd4i) | 2:40 | 2022-04-28 |  |
 | [As I Was](https://open.spotify.com/track/4yOpcry4CWaSCjUQgdwN6z) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [As I Was](https://open.spotify.com/album/5su4E0BtsA1PmsiFjp7Rg1) | 5:11 | 2022-07-27 |  |
 | [Asana](https://open.spotify.com/track/1tgbowhuwXlzBy0hPEGkEq) | [Marta Delgado](https://open.spotify.com/artist/0B8IFmmZxB0JtGg29Qzat2) | [Asana](https://open.spotify.com/album/5qTx1yvL5ARNo7GmhSd6E6) | 3:41 | 2022-11-14 |  |
+| [Astre Azuré](https://open.spotify.com/track/4trDEyDLEUebecnun5Iqp5) | [Enormousness](https://open.spotify.com/artist/7H1K6r71caJTKrd0oFLYN2) | [Astre Azuré](https://open.spotify.com/album/059cxiXDnCF9c4OxuSuNNW) | 3:08 | 2023-06-27 |  |
 | [At dawn](https://open.spotify.com/track/3s8OzufTF0QYthWCQErO32) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Meadow](https://open.spotify.com/album/3PCWuBlBNCd8XTqF1wVpNl) | 2:26 | 2023-01-26 | 2023-02-07 |
 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 | 2022-04-28 |  |
 | [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 | 2022-07-27 |  |
@@ -93,6 +94,7 @@
 | [Placidity](https://open.spotify.com/track/5wcgCvE1hRAhczfhjOHTXI) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Placidity](https://open.spotify.com/album/4qGUtb48292vSAyProSG9H) | 2:49 | 2022-04-28 |  |
 | [Portal](https://open.spotify.com/track/3911VlhVPRt6oZuNkgfnNz) | [Quiet Circuit](https://open.spotify.com/artist/0aGqlIPL6nyYEpKkhULp5U) | [Portal](https://open.spotify.com/album/4uQx6ZECB7mOShAJEpYWnS) | 1:54 | 2022-04-28 | 2022-07-28 |
 | [Pragmatique](https://open.spotify.com/track/5lLjOkaJ7pqx2qOS7bN22M) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Pragmatique](https://open.spotify.com/album/4Ex97kKG6Boz9EYF6hivhc) | 2:00 | 2022-04-28 |  |
+| [Propiedad](https://open.spotify.com/track/6MysP2eNvGa4IRQNO9juVo) | [Lapeito](https://open.spotify.com/artist/4g9wSQI9AFFbUpuFqxvrEW) | [Propiedad](https://open.spotify.com/album/0b3xlz4urzMppNQbDWP8ud) | 3:32 | 2023-06-27 |  |
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2022-04-28 |  |
 | [Quiet And Its Consequences](https://open.spotify.com/track/19fkav9BQtc6EL75ZRPMjQ) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Quiet And Its Consequences](https://open.spotify.com/album/21E5SUaJvK0AH2GMAuN9UT) | 1:57 | 2022-04-28 |  |
 | [Quiet Changes](https://open.spotify.com/track/7Dkqii9tqdGUvbUtAEFdLT) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Persistence](https://open.spotify.com/album/6orrmY7UOM4QMlFLnFwobd) | 4:07 | 2022-04-28 |  |
@@ -127,6 +129,7 @@
 | [Tiger Face](https://open.spotify.com/track/5uegoJLNJ1Y8hBliXUeTtC) | [Lyam Roelof](https://open.spotify.com/artist/64GaFeqfcIl6At2Bpc3fxU) | [Tiger Face](https://open.spotify.com/album/6vRm1JHnsnWFJLtUxwEumf) | 2:51 | 2022-04-28 | 2023-03-15 |
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2022-04-28 |  |
 | [Under The Sky](https://open.spotify.com/track/5u4tzKR7fFLFVcr3u6h1JF) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Under The Sky](https://open.spotify.com/album/36IP6uCEgs7X9qI29Qz9KA) | 2:03 | 2022-04-28 |  |
+| [Upwards](https://open.spotify.com/track/5l3eFTPbL0a4XkGH9c6Th4) | [Adriana Ferreira](https://open.spotify.com/artist/5qMdhPixXWa5PKUlMQZoH2) | [Upwards](https://open.spotify.com/album/4IHdGqtq6WyPbaEyqqVS4i) | 2:37 | 2023-06-27 |  |
 | [Visions](https://open.spotify.com/track/5h3851Qxv7ASuTSNi4T3oN) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Visions](https://open.spotify.com/album/0xU18dAYezTrxCcQbVNx2o) | 4:14 | 2022-04-28 |  |
 | [Volare](https://open.spotify.com/track/0eLjghxjAToU8mKhUqx4LX) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Volare](https://open.spotify.com/album/2VxTB9hSRKD4tCZbTbePvi) | 2:52 | 2022-04-28 |  |
 | [Wait For Me There](https://open.spotify.com/track/4QzIxJwbhqbUEnaJOZBJxR) | [Xavier H Summers](https://open.spotify.com/artist/18ql1O0CcgLfH59H18jrOc) | [Wait For Me There](https://open.spotify.com/album/6y22baRCRZ2gZtFMU544ec) | 2:45 | 2022-07-27 |  |

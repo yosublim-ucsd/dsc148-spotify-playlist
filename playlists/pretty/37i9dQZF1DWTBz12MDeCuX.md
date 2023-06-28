@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: MilleniumKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,540 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,681 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 27 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
 | 28 | [I'm Not Human](https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I'm Not Human \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY) | 3:15 |
 | 29 | [tut nicht mehr weh](https://open.spotify.com/track/07XTtv3NAqVg2YOgcL70Lz) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [tut nicht mehr weh](https://open.spotify.com/album/5HWtySzdcSbJ0zPbgmtWo0) | 2:52 |
-| 30 | [Egal](https://open.spotify.com/track/15kfasEzeqJeyqgJF3lk7S) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Whitey](https://open.spotify.com/artist/3ZlRGybBEip8IocnqABSvF) | [Egal](https://open.spotify.com/album/4lta8wNEEceVpWXnKoWkaq) | 2:27 |
+| 30 | [Egal](https://open.spotify.com/track/15kfasEzeqJeyqgJF3lk7S) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [Egal](https://open.spotify.com/album/4lta8wNEEceVpWXnKoWkaq) | 2:27 |
 | 31 | [Zelten auf Kies](https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Zelten auf Kies](https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY) | 2:17 |
 | 32 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 |
 | 33 | [Clandestina \- JVSTIN Remix](https://open.spotify.com/track/1VutwUjHPwEELxHkwdhMkz) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0), [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Jvstin](https://open.spotify.com/artist/7yx9U0pCgGRvOPLjT75Rgd) | [Clandestina \(JVSTIN Remix\)](https://open.spotify.com/album/35ADWQ8p7cIVqFs0h1PVdW) | 2:25 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 98 | [WENN ICH KÖNNTE](https://open.spotify.com/track/7CKTMGXC49FnMPoD2bBxjx) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe), [Whitey en vogue](https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM) | [WENN ICH KÖNNTE](https://open.spotify.com/album/04DRSNN9bzA2k7P912ZC4c) | 2:09 |
 | 99 | [PRiNZESSiN](https://open.spotify.com/track/0w5qokcBPOrdqefqp3vNQZ) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [PRiNZESSiN](https://open.spotify.com/album/77pzd3wtag6QL9bThafT9L) | 2:34 |
 
-Snapshot ID: `MCwxMTEyNGE2OWFkNmM1NWFmMjViNjIyMDQwMTI5N2EyYzc3MTEwMzFm`
+Snapshot ID: `MCxkMWRhZjRmOGY4Y2I5NGZjZTYxYTA5OTIzZjAxMzJlODQxMTc4YTQ1`

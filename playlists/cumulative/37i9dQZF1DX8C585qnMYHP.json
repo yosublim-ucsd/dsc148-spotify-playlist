@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new Experimental by independent artists and labels, with Yama Warashi on cover. Artwork Thami Nabil. Updates every Wednesday.",
+  "description": "The best new Experimental by independent artists and labels, with \"uh\" on cover. Artwork Thami Nabil. Updates every Wednesday.",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -312,6 +312,24 @@
       "duration_ms": 212599,
       "name": "50 Rapid",
       "url": "https://open.spotify.com/track/4BDBcYQkkIoyHMXblLBrbz"
+    },
+    {
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452207,
+      "name": "500 ascended",
+      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
     },
     {
       "album": {
@@ -1979,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Asa De Menino Chapter 2",
+        "url": "https://open.spotify.com/album/0iZIAcvk4pHh9GizYvoTMh"
+      },
+      "artists": [
+        {
+          "name": "Arthur Liory",
+          "url": "https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98115,
+      "name": "Asa De Menino Chapter 2",
+      "url": "https://open.spotify.com/track/7Ctmgg8dk0cSiFersf7nwZ"
+    },
+    {
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/4Iwk2ewnpoNveZYtyUOkVh"
       },
@@ -2142,6 +2178,24 @@
       "duration_ms": 304551,
       "name": "Atone//Blankface",
       "url": "https://open.spotify.com/track/2JRCY9le2r6uPJUQGNwbu5"
+    },
+    {
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "album": {
@@ -7446,7 +7500,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 1644221,
       "name": "False Dawn",
       "url": "https://open.spotify.com/track/28KDQ7ENkgRytD9eErP62Z"
@@ -7534,7 +7588,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 61000,
       "name": "Fatality",
       "url": "https://open.spotify.com/track/6bq2m1soYmjqtJ0YllOl4w"
@@ -8750,7 +8804,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 145000,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/1uPXx7l762KqBSHEUFGyMN"
@@ -9751,6 +9805,24 @@
     },
     {
       "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277273,
+      "name": "hit",
+      "url": "https://open.spotify.com/track/3hIaXXHvDNuc3CV5TPaMX4"
+    },
+    {
+      "album": {
         "name": "Hoarsely Cry",
         "url": "https://open.spotify.com/album/2N66e5YhtkiwenkgfuvCFd"
       },
@@ -10128,6 +10200,24 @@
       "duration_ms": 359172,
       "name": "Human Thing",
       "url": "https://open.spotify.com/track/6fg9XEp8Dwh3uYZriypviw"
+    },
+    {
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303216,
+      "name": "humanus",
+      "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
     },
     {
       "album": {
@@ -11166,7 +11256,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 248074,
       "name": "Infinite Spin",
       "url": "https://open.spotify.com/track/6NVCeKcMGdTIFbaTKhraFM"
@@ -11696,6 +11786,28 @@
       "duration_ms": 258771,
       "name": "Island Birdy",
       "url": "https://open.spotify.com/track/14XSTI6JmWf0WsNBMHSW6G"
+    },
+    {
+      "album": {
+        "name": "Island Family (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc"
+      },
+      "artists": [
+        {
+          "name": "Pictish Trail",
+          "url": "https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F"
+        },
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269399,
+      "name": "Island Family - uh Remix",
+      "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
       "album": {
@@ -13504,6 +13616,24 @@
       "duration_ms": 207532,
       "name": "Manifesting Plastic Sorrow",
       "url": "https://open.spotify.com/track/1hpP38nUgRJx0P1q0iLxI5"
+    },
+    {
+      "album": {
+        "name": "Path Integral VII - 4",
+        "url": "https://open.spotify.com/album/4SiyvWP7jyE6jSRAm3sVGf"
+      },
+      "artists": [
+        {
+          "name": "G\u00e1me (MX)",
+          "url": "https://open.spotify.com/artist/3DG8ncTGcqgOIXpEFIdh3j"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384965,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/0I3Lw6POSM0MAVDkwPqWMJ"
     },
     {
       "album": {
@@ -15492,7 +15622,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 220285,
       "name": "Nightpainting",
       "url": "https://open.spotify.com/track/0ZbSaHwd5OOiLdr3srsjMN"
@@ -15630,6 +15760,24 @@
       "duration_ms": 190985,
       "name": "no vacancy",
       "url": "https://open.spotify.com/track/0RCXebMfBjjNoflA5DaxiM"
+    },
+    {
+      "album": {
+        "name": "No Way In",
+        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246125,
+      "name": "No Way In",
+      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
     },
     {
       "album": {
@@ -18868,7 +19016,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 214466,
       "name": "Saku Saku (\u30b5\u30af\u30b5\u30af)",
       "url": "https://open.spotify.com/track/75QD1PVCs0B2yWSqexcZ1P"
@@ -20023,6 +20171,24 @@
     },
     {
       "album": {
+        "name": "In Phases",
+        "url": "https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze"
+      },
+      "artists": [
+        {
+          "name": "Azamiah",
+          "url": "https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58202,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/7oqm7wpNm8CLNGS1Rn5may"
+    },
+    {
+      "album": {
         "name": "solace",
         "url": "https://open.spotify.com/album/2aUHOmO2xQETf8kVVPNrVA"
       },
@@ -21168,7 +21334,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 103973,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/7m94SkZHuCLsK6bIv30hpO"
@@ -21732,7 +21898,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 363828,
       "name": "The Ballad of Ultima Thule",
       "url": "https://open.spotify.com/track/4zxm4cBGsKORkT6o4WqH11"
@@ -22454,7 +22620,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 263333,
       "name": "The Tallest Man on the Moon",
       "url": "https://open.spotify.com/track/30UFWYYAEalHmirbkBDsaC"
@@ -23108,7 +23274,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 285181,
       "name": "Too Many Colors To See At Once",
       "url": "https://open.spotify.com/track/4GnU4UTOoj3AtZrIUyvSgg"
@@ -23704,7 +23870,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-28",
       "duration_ms": 70000,
       "name": "Twilight Serenade",
       "url": "https://open.spotify.com/track/0iY4vyb2sX4mNe3GmiXmg3"
@@ -25129,6 +25295,24 @@
     },
     {
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/5wJHXFxOdrJo2l4sU6jyYW"
+      },
+      "artists": [
+        {
+          "name": "air hunger",
+          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212472,
+      "name": "Way Things Aren't",
+      "url": "https://open.spotify.com/track/0iupNUfxhGo1AEPlfHz4m6"
+    },
+    {
+      "album": {
         "name": "Decayed",
         "url": "https://open.spotify.com/album/18AMIcRykPQMNwQaBeca0a"
       },
@@ -25256,6 +25440,24 @@
       "duration_ms": 270891,
       "name": "What are you running towards?",
       "url": "https://open.spotify.com/track/7vzetKouwT6eP3rE0VdUFW"
+    },
+    {
+      "album": {
+        "name": "Wood & Water",
+        "url": "https://open.spotify.com/album/0rIY5iFDlZ2Yiqy41tBxOj"
+      },
+      "artists": [
+        {
+          "name": "Talik",
+          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257752,
+      "name": "What Do You Feel",
+      "url": "https://open.spotify.com/track/4aoXyc65wTNDw4kQE8cS0V"
     },
     {
       "album": {

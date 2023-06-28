@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Coi Leray, Lil Tjay and more\. Cover: Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,312 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,415 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 21 | [Too Many Shots](https://open.spotify.com/track/06X0rs30RJPW8lKXCPWSpc) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [See Ya](https://open.spotify.com/album/1QneW5vELH5DFkrvHGb9QL) | 2:23 |
 | 22 | [Spend It \(with Saucy Santana\)](https://open.spotify.com/track/3blQ6aLNUmmY9FIzZiA8iL) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:11 |
 | 23 | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [No Cap](https://open.spotify.com/artist/3o2XvAddxTcAXl5wwWrrPZ) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 |
-| 24 | [Demons](https://open.spotify.com/track/0bgHaekoNA5WT3oSHxRlw0) | [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Demons](https://open.spotify.com/album/23cyGrIH9iVKlngeTnndpr) | 3:06 |
+| 24 | [Demons](https://open.spotify.com/track/0bgHaekoNA5WT3oSHxRlw0) | [OG Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Demons](https://open.spotify.com/album/23cyGrIH9iVKlngeTnndpr) | 3:06 |
 | 25 | [Shoe Box](https://open.spotify.com/track/0bc1ZvIhIJC3iWu3qOC9s2) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [HorHey](https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW) | 2:53 |
 | 26 | [Stop Going M.I.A](https://open.spotify.com/track/4SbIiCuEMft30y2EaxJNP6) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Half Man, Half Vamp](https://open.spotify.com/album/3wdcTPB9iPnfFa9dDKRoUz) | 2:46 |
 | 27 | [Rock Climbing \(feat\. M Huncho\)](https://open.spotify.com/track/0Mkn2M0bfkt1kBlJA1Z9tw) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [High Profile](https://open.spotify.com/album/3FbUUs5VxCKExl9DPTBFf6) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 |
 | 50 | [She Say](https://open.spotify.com/track/4cHgAYefaapWB4QRIpZxbH) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W) | [Bohunk](https://open.spotify.com/album/1s8mvXwmfnbnfT7IkqSyr6) | 2:49 |
 
-Snapshot ID: `MCwwZWUwNWMwMmMzZjllNzI4YWMwYjM0ZDMzMmYwNTg0MjlkNDFlODhl`
+Snapshot ID: `MCwxZDdhNTdlYTkwODVjZWUxNDlhNzFjNzJjMTI1Y2E4ZDIwYmY0YmJk`
