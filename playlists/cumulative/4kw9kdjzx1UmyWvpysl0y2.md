@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-506 songs - 1 day 5 hr 33 min
+508 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [B.T.W\. \(The Whistle\)](https://open.spotify.com/track/2ERXSwA2OOOurhDraYDT39) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Slaughter House](https://open.spotify.com/album/63G2PgaJYMpzrsvQ9G3Uek) | 4:00 | 2023-04-13 |  |
 | [Back to Me](https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Back to Me](https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp) | 4:28 | 2023-01-10 | 2023-03-25 |
 | [back2u](https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [back2u](https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug) | 2:54 | 2022-05-20 | 2022-08-02 |
+| [Backseat Lovers](https://open.spotify.com/track/1ZfkZlBTFl804LoRIvAvdq) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Melodramatic](https://open.spotify.com/album/5ioDu9pPJd1Jty8OuH9if7) | 2:52 | 2023-06-28 |  |
 | [Bad For You](https://open.spotify.com/track/0vWynZjfMnx8wtQx4CpwgS) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Hammerhead](https://open.spotify.com/artist/6sckmaSXwZnsOR3kB4Hk75), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Bad For You](https://open.spotify.com/album/6hNHNhff93z7BmdBHfnBFS) | 4:03 | 2022-07-11 | 2022-09-23 |
 | [Bad Habits](https://open.spotify.com/track/700H13fA0yvHTxLlaTFw0X) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Mike Robert](https://open.spotify.com/artist/32CfvJx4uPDyBZ8PFzEQe8) | [Bad Habits](https://open.spotify.com/album/5gglMONUNcpPxnr7S5jpUa) | 2:58 | 2022-11-24 | 2023-02-18 |
 | [Bad Luck](https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Kiz Keyz](https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS) | [Bad Luck](https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q) | 2:51 | 2022-08-18 | 2022-11-01 |
@@ -75,6 +76,7 @@
 | [Blood Rush \- Spotify Singles](https://open.spotify.com/track/487irnHaIRbh6VOWFf9qGs) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 3:17 | 2022-11-09 | 2023-02-04 |
 | [Blossom](https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g) | [Blossom](https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE) | 4:09 | 2022-03-18 | 2022-05-31 |
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 | 2022-08-11 |
+| [Break It Down](https://open.spotify.com/track/1KY425EZEJPqgeisOplYGJ) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Break It Down](https://open.spotify.com/album/6kR6ZW6AdWViJksGqmLzEO) | 2:41 | 2023-06-28 |  |
 | [Breathe Me Back To Life](https://open.spotify.com/track/0EI9hyJzyEOeRqQzQyitQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Breathe Me Back To Life](https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3) | 2:26 | 2023-01-06 | 2023-03-22 |
 | [Bring Me Back](https://open.spotify.com/track/6Bw3VVF2X0YmZWYPl8wE44) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Bring Me Back](https://open.spotify.com/album/2O9vrpCCTCKdgd6eMGjm8h) | 3:33 | 2022-11-28 | 2023-02-23 |
 | [Brushes](https://open.spotify.com/track/7sYIVXdHSk466cayCTwAgt) | [Woven](https://open.spotify.com/artist/4NSmulp0hBy5rJyK0doyUO) | [Brushes](https://open.spotify.com/album/1VbJtajKClF79HRsb7O5Lv) | 3:53 | 2023-02-03 | 2023-04-25 |
@@ -484,7 +486,7 @@
 | [Used to Losing You](https://open.spotify.com/track/0A4VK9bpXxGWyHQPm8D81s) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Used to Losing You](https://open.spotify.com/album/0SO9gIl0UKy42daxkuXtNT) | 4:25 | 2023-02-03 | 2023-04-22 |
 | [Used To The Silence](https://open.spotify.com/track/5DEwagnzNafeFjWNIDNdgy) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Used To The Silence](https://open.spotify.com/album/1AicQE6OrucDFv8RYhB1Ho) | 3:09 | 2023-05-30 |  |
 | [Valhalla](https://open.spotify.com/track/4nQAwNLKpcn0g54dPedQBi) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Valhalla](https://open.spotify.com/album/49ViXJDQNm2nV1bCMFMcAJ) | 3:57 | 2023-03-01 | 2023-05-30 |
-| [Vermin](https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Vermin](https://open.spotify.com/album/47lB5nD266T3nhDeSJjRdv) | 2:56 | 2023-04-05 |  |
+| [Vermin](https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Vermin](https://open.spotify.com/album/47lB5nD266T3nhDeSJjRdv) | 2:56 | 2023-04-05 | 2023-06-29 |
 | [Waiting](https://open.spotify.com/track/3CAjk7ddvkqAT5iGRYTYGy) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:40 | 2022-11-04 | 2022-11-22 |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-03-04 | 2022-05-18 |
 | [Warmer](https://open.spotify.com/track/3J2KzuvIYC9Ao489gZSsIM) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [Warmer](https://open.spotify.com/album/05PEAJk2RAUtqaAbixRJAG) | 2:51 | 2022-01-11 | 2022-03-19 |

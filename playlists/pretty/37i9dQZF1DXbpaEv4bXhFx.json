@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 9057,
+  "num_followers": 9066,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGE5MTI0MjA5MjlhYmY3NGJlYmI2ZDE3YmNhMGY1ZDgwN2I2NTY2",
+  "snapshot_id": "MCxiZmY0YmMzMTQyOTEyNDNjZTJiNWY1Y2M5Y2ZmNDVjYjZmMTVmNDY5",
   "tracks": [
     {
       "added_at": "2023-06-15 05:13:06",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-06-15 05:13:06",
       "album": {
+        "name": "STABLE MINDSET",
+        "url": "https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 212371,
+      "name": "On A Rainy Day",
+      "url": "https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF"
+    },
+    {
+      "added_at": "2023-06-15 05:13:06",
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 252986,
       "name": "Gray So Gray (Feat. Younha)",
       "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
-    },
-    {
-      "added_at": "2023-06-15 05:13:06",
-      "album": {
-        "name": "STABLE MINDSET",
-        "url": "https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 212371,
-      "name": "On A Rainy Day",
-      "url": "https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF"
     },
     {
       "added_at": "2023-06-15 05:13:06",

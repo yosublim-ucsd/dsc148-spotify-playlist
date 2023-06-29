@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Boris Brejcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,309 likes - 90 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,675 likes - 90 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 66 | [Timeshift](https://open.spotify.com/track/0FKXPAV9mtvWDwdkEbuqOW) | [Chloe Lula](https://open.spotify.com/artist/7vxPwcFFJef1ifZkQLIqLx) | [Timeshift](https://open.spotify.com/album/3SgUZUKpngQE68O7Gf0lOP) | 4:29 |
 | 67 | [Other Side](https://open.spotify.com/track/7k2W9SICYysybtnLVhq3Ao) | [TIMANTI](https://open.spotify.com/artist/41a6BgFAvZc0eIzBIcfWMA), [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [Other Side](https://open.spotify.com/album/0UarWjqHerdMwRiNvgui8K) | 3:16 |
 | 68 | [Charu](https://open.spotify.com/track/7zFSXAiV4pwPV7m6iFIYhI) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Charu](https://open.spotify.com/album/1ADKPhIEmCpWaXNeslYeFA) | 8:03 |
-| 69 | [Crystal Volcano \- Chloé Remix](https://open.spotify.com/track/7kCnJw5UvQwV886Z9djjna) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Chloé](https://open.spotify.com/artist/6GTuBd8nijspVle5BTr9xk) | [Crystal Volcano \(Chloé Remix\)](https://open.spotify.com/album/1xLHetlSx6AT9GBLzuqp6r) | 7:06 |
+| 69 | [Crystal Volcano \- Chloé \(Thévenin\) Remix](https://open.spotify.com/track/7kCnJw5UvQwV886Z9djjna) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Crystal Volcano \[Chloé \(Thévenin\) Remix\]](https://open.spotify.com/album/1xLHetlSx6AT9GBLzuqp6r) | 7:06 |
 | 70 | [Primeiro](https://open.spotify.com/track/5XH1MzeSmmNdPPVxCSj9Yn) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Primeiro](https://open.spotify.com/album/3NmhS1ioEnfoe9ZQnsGY70) | 3:38 |
 | 71 | [Don't Let Me Go](https://open.spotify.com/track/0o7CCFPmPXR6Mzr4Z9c9L0) | [Solique](https://open.spotify.com/artist/0RIUSfIxj9TP0NcloqxKiR) | [Don't Let Me Go](https://open.spotify.com/album/0ASLTdvB3ssEhGf5dHA3bk) | 6:01 |
 | 72 | [Control](https://open.spotify.com/track/56RbULJOHHWMtNT1z0Xrqu) | [Tom Peters](https://open.spotify.com/artist/0yUYrvHPgCOeATNI3tHGPo) | [Control](https://open.spotify.com/album/5H3M9Q1qFfperyWpNYGAqt) | 5:35 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 |
 | 90 | [Utopia](https://open.spotify.com/track/6rR5Epmg8KUTP9pSDJsZVJ) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [FreiTrieb](https://open.spotify.com/artist/28nOdLDsi4Iu3rALhtPDef), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Utopia](https://open.spotify.com/album/2WUlmeNd7oZFJONBADAma3) | 4:18 |
 
-Snapshot ID: `MCxhY2JjNmE3NjQxNGFmYjc5Y2I4ZTE0N2ViZTZlNzk1Nzg3Zjk4MjNi`
+Snapshot ID: `MCw1ZGJmZDk2N2FjYWQ5OGIwMWUzYjMzYWFiNDkwNjA4MWRhNDRkNWUx`

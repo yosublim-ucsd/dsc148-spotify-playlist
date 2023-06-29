@@ -320,7 +320,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180005,
-      "name": "Bewakoofyaan Kare",
+      "name": "Bewakoofiyaan Kare",
       "url": "https://open.spotify.com/track/73mYX4I9cu6kA0Q8v1M8Z2"
     },
     {
@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 192000,
       "name": "Ek Hi Toh Dil",
       "url": "https://open.spotify.com/track/3R8doGdVk3wSQonbXmuKGs"
@@ -998,6 +998,32 @@
       "duration_ms": 129908,
       "name": "Khala",
       "url": "https://open.spotify.com/track/5XgB4ThkJOi2dWT1GRSQZ6"
+    },
+    {
+      "album": {
+        "name": "Khamoshiyan",
+        "url": "https://open.spotify.com/album/10iAmqk2jZP9mzbYlT5xsn"
+      },
+      "artists": [
+        {
+          "name": "Mahimma Bhardwaj",
+          "url": "https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j"
+        },
+        {
+          "name": "Jazim Sharma",
+          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
+        },
+        {
+          "name": "Sushant Shankar",
+          "url": "https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202472,
+      "name": "Khamoshiyan",
+      "url": "https://open.spotify.com/track/5RNfzomY9DGKDbWg6Su06Q"
     },
     {
       "album": {

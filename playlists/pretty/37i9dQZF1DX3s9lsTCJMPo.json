@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 57424,
+  "num_followers": 57461,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2I2MGU0YTkwOTM5NTg5NzRiMGEyNGI5NTg2NmM5ZTcxYjNkNWMx",
+  "snapshot_id": "MCwzYTg5Y2NlMWU1MjQxYjY1NGM5ZDNjZTk2NGJmNjc2MzBmNWQzNmY2",
   "tracks": [
     {
       "added_at": "2023-05-15 08:13:13",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Klateye",
-        "url": "https://open.spotify.com/album/0teLxFa4tEdlKQ0TbGzfio"
-      },
-      "artists": [
-        {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
-        }
-      ],
-      "duration_ms": 230772,
-      "name": "Swing Engine",
-      "url": "https://open.spotify.com/track/1tGLCHoPHnRH7VuGx5GJzo"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Full Extreme",
         "url": "https://open.spotify.com/album/5DvUeZrPvke7dtSJThioeA"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 232500,
       "name": "Full Extreme",
       "url": "https://open.spotify.com/track/056rMI3dZnxayijd58GaNf"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Klateye",
+        "url": "https://open.spotify.com/album/0teLxFa4tEdlKQ0TbGzfio"
+      },
+      "artists": [
+        {
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+        }
+      ],
+      "duration_ms": 230772,
+      "name": "Swing Engine",
+      "url": "https://open.spotify.com/track/1tGLCHoPHnRH7VuGx5GJzo"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2004",
-        "url": "https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c"
-      },
-      "artists": [
-        {
-          "name": "Maximus Dan",
-          "url": "https://open.spotify.com/artist/1T213oTvwbDupFzm82HsXx"
-        }
-      ],
-      "duration_ms": 294360,
-      "name": "Soca Train",
-      "url": "https://open.spotify.com/track/261w2wPdink0sBpxaucSHY"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Charlie's Golden Hitz of Calypso & Soca",
         "url": "https://open.spotify.com/album/2vqpWf13PYMn6vuXDAMrew"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 347600,
       "name": "Gee Me the Ting",
       "url": "https://open.spotify.com/track/7wls4oEjXyIU7Rmzw392T6"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold 2004",
+        "url": "https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c"
+      },
+      "artists": [
+        {
+          "name": "Maximus Dan",
+          "url": "https://open.spotify.com/artist/1T213oTvwbDupFzm82HsXx"
+        }
+      ],
+      "duration_ms": 294360,
+      "name": "Soca Train",
+      "url": "https://open.spotify.com/track/261w2wPdink0sBpxaucSHY"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "D'soca Zone - The 2ND Wine",
-        "url": "https://open.spotify.com/album/4AxjAtUc57rivT8Z1RxApy"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds & David Rudder",
-          "url": "https://open.spotify.com/artist/73YH3fBByh0xEhpNYLzHQO"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "GLOW",
-      "url": "https://open.spotify.com/track/0YZ1vakJa3mEF1wXZzmw2S"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Debble-Ish Rage",
         "url": "https://open.spotify.com/album/7qzOetyDNaHjI146S6tRpr"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 190853,
       "name": "Get on Bad",
       "url": "https://open.spotify.com/track/0zuzRk0l3EWZroyXi4KtCg"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "D'soca Zone - The 2ND Wine",
+        "url": "https://open.spotify.com/album/4AxjAtUc57rivT8Z1RxApy"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds & David Rudder",
+          "url": "https://open.spotify.com/artist/73YH3fBByh0xEhpNYLzHQO"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "GLOW",
+      "url": "https://open.spotify.com/track/0YZ1vakJa3mEF1wXZzmw2S"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
+          "name": "Mr. Dale",
+          "url": "https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Soka Junkie",
+      "url": "https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+        "name": "Caribbean Road March 2001 and More",
+        "url": "https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP"
       },
       "artists": [
         {
-          "name": "Mr. Dale",
-          "url": "https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD"
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Soka Junkie",
-      "url": "https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz"
+      "duration_ms": 273693,
+      "name": "Tay Lay Lay",
+      "url": "https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -779,22 +795,6 @@
       "duration_ms": 197293,
       "name": "Breathless (feat. Blaxx)",
       "url": "https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Caribbean Road March 2001 and More",
-        "url": "https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP"
-      },
-      "artists": [
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Tay Lay Lay",
-      "url": "https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -863,54 +863,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca for De World",
-        "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
-      },
-      "artists": [
-        {
-          "name": "Nigel Lewis",
-          "url": "https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F"
-        }
-      ],
-      "duration_ms": 317857,
-      "name": "Movin To De Left",
-      "url": "https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Sparrow's Dance Party",
-        "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Sparrow",
-          "url": "https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV"
-        }
-      ],
-      "duration_ms": 370933,
-      "name": "Congo Man",
-      "url": "https://open.spotify.com/track/6bEimNsHW93GcjvUqogT94"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
-        "name": "Soca Gold",
-        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
-      },
-      "artists": [
-        {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT"
-        }
-      ],
-      "duration_ms": 395866,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "Heavy Duty",
         "url": "https://open.spotify.com/album/4rw2BiS4oNLnrHuT5drVs7"
       },
@@ -931,18 +883,50 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "The Very Best of Super Blue",
-        "url": "https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI"
+        "name": "Sparrow's Dance Party",
+        "url": "https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ"
       },
       "artists": [
         {
-          "name": "Super Blue",
-          "url": "https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM"
+          "name": "The Mighty Sparrow",
+          "url": "https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV"
         }
       ],
-      "duration_ms": 393693,
-      "name": "Get Something and Wave",
-      "url": "https://open.spotify.com/track/0qfXpnvNnGozj1YFbxyYUn"
+      "duration_ms": 370933,
+      "name": "Congo Man",
+      "url": "https://open.spotify.com/track/6bEimNsHW93GcjvUqogT94"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca for De World",
+        "url": "https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN"
+      },
+      "artists": [
+        {
+          "name": "Nigel Lewis",
+          "url": "https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F"
+        }
+      ],
+      "duration_ms": 317857,
+      "name": "Movin To De Left",
+      "url": "https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Gold",
+        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT"
+        }
+      ],
+      "duration_ms": 395866,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -959,6 +943,22 @@
       "duration_ms": 219896,
       "name": "X Man",
       "url": "https://open.spotify.com/track/2CTqniOs0vAGM2LvANZcl1"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "The Very Best of Super Blue",
+        "url": "https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI"
+      },
+      "artists": [
+        {
+          "name": "Super Blue",
+          "url": "https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM"
+        }
+      ],
+      "duration_ms": 393693,
+      "name": "Get Something and Wave",
+      "url": "https://open.spotify.com/track/0qfXpnvNnGozj1YFbxyYUn"
     },
     {
       "added_at": "2023-05-15 08:13:13",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-15 08:13:13",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Arrow!!!",
-          "url": "https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa"
-        }
-      ],
-      "duration_ms": 410573,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC"
-    },
-    {
-      "added_at": "2023-05-15 08:13:13",
-      "album": {
         "name": "The Best of the Shadow Vol. 1",
         "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 305388,
       "name": "Bassman",
       "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
+    },
+    {
+      "added_at": "2023-05-15 08:13:13",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Arrow!!!",
+          "url": "https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa"
+        }
+      ],
+      "duration_ms": 410573,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC"
     },
     {
       "added_at": "2023-05-15 08:13:13",

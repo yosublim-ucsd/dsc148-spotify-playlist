@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-497 songs - 1 day 14 hr 27 min
+498 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-19 |  |
 | [Roundabout](https://open.spotify.com/track/2yjH5G7UFZLNEXZBUayln2) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg), [Kenny Washington](https://open.spotify.com/artist/4ern8uIUTeqcI4AE8Q5ZnO), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp) | [All Through The Night](https://open.spotify.com/album/1ZAmPpqvbbsMa1lXu4YjWR) | 5:21 | 2022-02-10 |  |
 | [Rubicon](https://open.spotify.com/track/2ZkAAVVr0wuSN0pYdXBGmI) | [Spiral TRIO](https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f) | [Broken Blue](https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX) | 6:10 | 2022-04-22 |  |
-| [Ruby, My Dear](https://open.spotify.com/track/53ROPqJRDrefqoLEGZ8khW) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [The Dancing Monk](https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV) | 6:02 | 2022-02-10 |  |
+| [Ruby, My Dear](https://open.spotify.com/track/53ROPqJRDrefqoLEGZ8khW) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [The Dancing Monk](https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV) | 6:02 | 2022-02-10 | 2023-06-29 |
 | [Ruins II](https://open.spotify.com/track/3DT8dSU0Vz2mjpyHfIn04W) | [Ayumi Tanaka Trio](https://open.spotify.com/artist/3ay6T09fpLYwib1MxOW9G1) | [Ruins II](https://open.spotify.com/album/62hzQtcRAnkV1nUdFlvckl) | 2:42 | 2022-02-25 |  |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-12 |  |
 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 | 2023-01-12 |  |
@@ -412,6 +412,7 @@
 | [The Art of Flying \- Edit](https://open.spotify.com/track/38j4V8qkda6o4ta0BCJvKJ) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [The Art of Flying \(Edit\)](https://open.spotify.com/album/63PWCBZVpIcVFJkH3godc5) | 4:08 | 2022-06-03 |  |
 | [The Art of Letting Go](https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [The Art of Letting Go](https://open.spotify.com/album/0FsvqEQCqEHrI7qhkVlULW) | 3:20 | 2023-05-11 |  |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2022-11-12 |  |
+| [The Choice You Never Had](https://open.spotify.com/track/4wpzDbTUK2GeDVxHRjSpfB) | [Aron Talas Trio](https://open.spotify.com/artist/4ZTURqePaDYfOBO6Yw3Dib) | [New Questions, Old Answers](https://open.spotify.com/album/57dlZujKmuC8Ixhj9Z8RId) | 3:05 | 2023-06-22 |  |
 | [The Circle](https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:56 | 2022-04-07 |  |
 | [The Dance That Never Was](https://open.spotify.com/track/2IUAOAEEDYwnfVZB1tQRoT) | [Kevin Day](https://open.spotify.com/artist/1eytUg0DncW4jwVXM6NXGs), [Josh Trentadue](https://open.spotify.com/artist/0c3PuoczwnUfQEcEKcdEFi) | [The Dance That Never Was](https://open.spotify.com/album/3eRGSCF9oZ9PkPIVe55htw) | 7:19 | 2022-02-25 |  |
 | [The Day that I Felt](https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:18 | 2023-02-16 |  |

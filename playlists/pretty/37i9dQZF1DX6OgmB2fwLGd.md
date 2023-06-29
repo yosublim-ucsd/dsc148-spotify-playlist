@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,371,115 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,371,714 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [ONLY NEED MY BABY! \(SMOAGT\)](https://open.spotify.com/track/2lIPicEikuMfrsD5cP3Xyp) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [ONLY NEED MY BABY! \(SMOAGT\)](https://open.spotify.com/album/6FcMYOv8OfISsNm6VRudsV) | 1:39 |
 | 100 | [F&F](https://open.spotify.com/track/2RtPfdY7tlSCH1lObqppYx) | [Coults](https://open.spotify.com/artist/1wssEB4lovC6SFyCOQr2XQ) | [COULTURE](https://open.spotify.com/album/65rfeH5KpPd6DvQgt3v3gi) | 2:01 |
 
-Snapshot ID: `MCwxNTRhZGQyNTViZDNhYjQzYjllOWYxNWJiMjhhOTdmNWVjYjkyMmFk`
+Snapshot ID: `MCxmZGM1ZTcyYzgwN2U0Y2RkZmNjMTkyNGVkMDg1NzBiNmY5M2MyY2Qy`

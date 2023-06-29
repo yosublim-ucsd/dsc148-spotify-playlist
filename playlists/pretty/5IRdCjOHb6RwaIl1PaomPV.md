@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New single from Aluna, plus the latest cuts from Jam City, MJ Nebreda and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,356 likes - 80 songs - 4 hr 37 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,357 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 |
+| 1 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 |
 | 2 | [Wild n Sweet](https://open.spotify.com/track/2g1eL34ZVxifL8VYe1FsNK) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Jam City Presents EFM](https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR) | 3:26 |
 | 3 | [Hoboken](https://open.spotify.com/track/0i3pE7eoqghj9gdRoBd8tU) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Hoboken](https://open.spotify.com/album/6DuIkYLO8uu4Yz1GEsMivZ) | 4:08 |
 | 4 | [8Ball](https://open.spotify.com/track/6Jb5W71q9RjyAIU3OWfaDe) | [AgonyOST](https://open.spotify.com/artist/1XUDvMVQEJ5HkfG3qzN6yt) | [The Final Nail In The Coffin](https://open.spotify.com/album/4NgnuZTn5V7CucGFB8b1tS) | 6:46 |

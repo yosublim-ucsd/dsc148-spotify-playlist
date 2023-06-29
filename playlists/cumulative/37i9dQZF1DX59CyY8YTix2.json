@@ -1741,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "E-R-T-H-C-Na-H-Q-ka-H-K-M-B-Ne-Z-Om",
+        "url": "https://open.spotify.com/album/5OWUfCVXL9QZHzMIdipGdR"
+      },
+      "artists": [
+        {
+          "name": "BiS",
+          "url": "https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233424,
+      "name": "E-R-T-H-C-Na-H-Q-ka-H-K-M-B-Ne-Z-Om",
+      "url": "https://open.spotify.com/track/18mcIcXC3YMnF1akgaYGDR"
+    },
+    {
+      "album": {
         "name": "The Natural Diet",
         "url": "https://open.spotify.com/album/0FROvwBj7H0OOj0JPKFXtA"
       },
@@ -1975,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/3M3qDZvausX3UPMNXyf3gM"
+      },
+      "artists": [
+        {
+          "name": "Cocco",
+          "url": "https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290690,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2MgbC998HppX4J2PD1B9CW"
+    },
+    {
+      "album": {
         "name": "Ferris wheel",
         "url": "https://open.spotify.com/album/3pBmKM8qfK0J5Ng5LKv9rG"
       },
@@ -2134,6 +2170,24 @@
       "duration_ms": 277223,
       "name": "Futaba",
       "url": "https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4"
+    },
+    {
+      "album": {
+        "name": "Fuzzy",
+        "url": "https://open.spotify.com/album/7ry322fIhLAxswrY2iQXeP"
+      },
+      "artists": [
+        {
+          "name": "Kuhakugokko",
+          "url": "https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224628,
+      "name": "Fuzzy",
+      "url": "https://open.spotify.com/track/6wOiypD8mvXz732pnbGX75"
     },
     {
       "album": {
@@ -4896,6 +4950,24 @@
       "duration_ms": 197023,
       "name": "narashite - Audiotree Live Version",
       "url": "https://open.spotify.com/track/71fkJnR1lE164GspbrcFUA"
+    },
+    {
+      "album": {
+        "name": "Natsumekuru",
+        "url": "https://open.spotify.com/album/1Ajg8uvF9XilRxxiI1iqt5"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195288,
+      "name": "Natsumekuru",
+      "url": "https://open.spotify.com/track/2asuOWVUOKcrkrQ4rtn4Qb"
     },
     {
       "album": {
@@ -8308,10 +8380,28 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 128710,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/0ehS06b4aXxq6MLCHM8j7S"
+    },
+    {
+      "album": {
+        "name": "Wrecked",
+        "url": "https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128710,
+      "name": "Wrecked",
+      "url": "https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH"
     },
     {
       "album": {
@@ -10372,7 +10462,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 233424,
       "name": "\u30a4\u30fc\u30a2\u30fc\u30c6\u30a3\u30a8\u30a4\u30c1\u30b9\u30a3\u30fc\u30ca\u30fc\u30a8\u30a4\u30c1\u30ad\u30e5\u30fc\u30ab\u30fc\u30a8\u30a4\u30c1\u30b1\u30fc\u30e0\u30d3\u30fc\u30cd\u30fc\u30ba\u30a3\u30fc\u30a6\u30fc\u30aa\u30e0",
       "url": "https://open.spotify.com/track/2p4pU9Hxjd5UEeJJAe6ezh"
@@ -11614,7 +11704,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 195288,
       "name": "\u30ca\u30c4\u30e1\u30af\u30eb",
       "url": "https://open.spotify.com/track/1K1MRN7pf8EfYGZ5f5jJUi"
@@ -12226,7 +12316,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 224628,
       "name": "\u30d5\u30a1\u30b8\u30fc",
       "url": "https://open.spotify.com/track/5lFS16CHGu1uZcFaXIG2Dp"
@@ -12262,7 +12352,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 290690,
       "name": "\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
       "url": "https://open.spotify.com/track/2jhVNef2cwn9fWaltdNUIx"

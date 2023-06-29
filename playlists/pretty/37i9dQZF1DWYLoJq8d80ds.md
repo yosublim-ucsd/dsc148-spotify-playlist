@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Soledad
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,758 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,786 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 50 | [Corazón Carnavalero](https://open.spotify.com/track/4NdkVqa59EUihYeaeNxJkk) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Tierrita](https://open.spotify.com/album/5W5arztiaKJ9k1dQsZEyXa) | 3:13 |
 | 51 | [Vale La Pena Vivir La Vida](https://open.spotify.com/track/5srtp4tKDoae5pL9vwDu29) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 3:04 |
 | 52 | [Todos a bailar](https://open.spotify.com/track/5Y5mSH2yYRK8f0jlyP03Kq) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq) | [Todos a bailar](https://open.spotify.com/album/2fQyZxI828ZzSf5N0tOe9v) | 2:20 |
-| 53 | [Mi Lunita Cordobesa](https://open.spotify.com/track/3KwPOIFTWpcVUop3RQ71xo) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/7ztRmseXurOD6k0H0Du74U) | 2:29 |
+| 53 | [Mi Lunita Cordobesa](https://open.spotify.com/track/5CdVPqzKaMfVNW4n4Kf1ug) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/68VpK263eWI3odk21VUfAt) | 2:29 |
 | 54 | [Carnavalito\-Cumbia](https://open.spotify.com/track/3LmrwJkgv0FnU8Jw9sFIF2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnavalito\-Cumbia](https://open.spotify.com/album/7m71siD2EP9qJfuaK3iOWk) | 2:39 |
 | 55 | [Uno a la Vez](https://open.spotify.com/track/7deoF9pTQ8H8pOt2KzYf6u) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Uno a la Vez](https://open.spotify.com/album/4GJ4McfXOysNotzUqo0the) | 3:14 |
 | 56 | [Hay Que Esperar](https://open.spotify.com/track/2idxkMAtyKTQ7t4Xuu8W2T) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 3:39 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 100 | [Nuestras Flores](https://open.spotify.com/track/6wk1i2Wi2eYX4YjPoGnljA) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Nuestras Flores](https://open.spotify.com/album/6DE4XqVKpCNKf59JvyIcRE) | 4:29 |
 | 101 | [Lo Jujeño](https://open.spotify.com/track/74WFDFXIP58qhGYkklkH20) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Lo Jujeño](https://open.spotify.com/album/5ruxuaQ8tKTXlNMqSZu3hX) | 2:14 |
 
-Snapshot ID: `MCxiNjI0NGMxODI5ZDFmZmE3ZGI4NjJjMTI0MDQ1ZTRlMWI1MGY0MGI2`
+Snapshot ID: `MCxlNDVkNmRkY2ZlZTA0NGRiM2YxYTViYjI5ZjEyZTQ4N2YyZmFjMzFj`

@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 68784,
+  "num_followers": 68864,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjZmNDM1M2ZjY2VjODZmMTNiNGM0ZDYzYTQwNWM2MWUxMWFiMWJj",
+  "snapshot_id": "MCwxYzNlOGNmM2YyZjY0ZTYwMzlkMjkyNTJhMTU0ZDQ0ODkyYzg2M2Ni",
   "tracks": [
     {
       "added_at": "2022-10-04 12:35:58",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Cusco 2",
-        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Lake of the Ozarks",
-      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Equinoxe",
         "url": "https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 425133,
       "name": "Equinoxe, Pt. 4",
       "url": "https://open.spotify.com/track/362MZclYQ5wRw468UxT5Uf"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Cusco 2",
+        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Lake of the Ozarks",
+      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -323,6 +323,22 @@
       "duration_ms": 351533,
       "name": "Clair de Lune, No. 3",
       "url": "https://open.spotify.com/track/7cwPQGHgob1v9pek8WnQRx"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Oxygene, Pt. 3",
+      "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -419,22 +435,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Oxygene, Pt. 3",
-      "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
       },
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "The Celts",
-        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
+        "name": "The Essential Yanni",
+        "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
       },
       "artists": [
         {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
         }
       ],
-      "duration_ms": 185773,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A"
+      "duration_ms": 225786,
+      "name": "The Mermaid",
+      "url": "https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "The Celts",
+        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 377200,
       "name": "See My Wings Shining: Brow / 3rd Eye Chakra",
       "url": "https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "The Essential Yanni",
-        "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
-      },
-      "artists": [
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "The Mermaid",
-      "url": "https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Best Of Tim Weisberg: Smile!",
-        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
-      },
-      "artists": [
-        {
-          "name": "Tim Weisberg",
-          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Dion Blue",
-      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Hergest Ridge (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 1161586,
       "name": "Hergest Ridge Part One - 2010 Mix / Previously Unreleased",
       "url": "https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Best Of Tim Weisberg: Smile!",
+        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+      },
+      "artists": [
+        {
+          "name": "Tim Weisberg",
+          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Dion Blue",
+      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
     },
     {
       "added_at": "2022-10-04 12:35:58",

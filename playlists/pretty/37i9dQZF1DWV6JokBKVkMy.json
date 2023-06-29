@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 991,
+  "num_followers": 997,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTY2MjNkN2ZkZTNlMThiMjkyOTBiNmM4NzM4ZGY1YTA3MGYzODYx",
+  "snapshot_id": "MCw5OWZiMDNiYmQ3ZTdiMmIzMTYwYWQxYTRkMzQzNmI4OTNlMzI2MzUy",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Elle danse",
-        "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
-      },
-      "artists": [
-        {
-          "name": "Gary Victor",
-          "url": "https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1"
-        }
-      ],
-      "duration_ms": 202185,
-      "name": "Pomper",
-      "url": "https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Tik tiker",
         "url": "https://open.spotify.com/album/6FPK9Rz9fKmNgOmtY7jQKW"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 246880,
       "name": "Tik tike",
       "url": "https://open.spotify.com/track/5cTWHkZlLsAGF2yZKqSz5g"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Elle danse",
+        "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
+      },
+      "artists": [
+        {
+          "name": "Gary Victor",
+          "url": "https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1"
+        }
+      ],
+      "duration_ms": 202185,
+      "name": "Pomper",
+      "url": "https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
-        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Claude",
-          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Dhobi de classe",
-      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Sega Ar Pwa",
         "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 209128,
       "name": "Longanis",
       "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
+        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Claude",
+          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Dhobi de classe",
+      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 287316,
+      "name": "Sega Ar Pwa",
+      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Zalouzi",
         "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
       },
@@ -523,38 +539,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sa Pa Zot Traka",
-        "url": "https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H"
-      },
-      "artists": [
-        {
-          "name": "Lin",
-          "url": "https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN"
-        }
-      ],
-      "duration_ms": 285882,
-      "name": "Sa Pa Zot Traka",
-      "url": "https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
-      },
-      "artists": [
-        {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
-        }
-      ],
-      "duration_ms": 287316,
-      "name": "Sega Ar Pwa",
-      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "La Route Karanbol",
         "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 287711,
       "name": "La Route Karanbol",
       "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sa Pa Zot Traka",
+        "url": "https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H"
+      },
+      "artists": [
+        {
+          "name": "Lin",
+          "url": "https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN"
+        }
+      ],
+      "duration_ms": 285882,
+      "name": "Sa Pa Zot Traka",
+      "url": "https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sort' dovan (La compil)",
-        "url": "https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0"
-      },
-      "artists": [
-        {
-          "name": "Morgan",
-          "url": "https://open.spotify.com/artist/0WuwdC5RXZ3UNa1CI64O6p"
-        }
-      ],
-      "duration_ms": 285431,
-      "name": "Ma demand aou pardon",
-      "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Zalouzi",
         "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 281917,
       "name": "Madame ohh",
       "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sort' dovan (La compil)",
+        "url": "https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0"
+      },
+      "artists": [
+        {
+          "name": "Morgan",
+          "url": "https://open.spotify.com/artist/0WuwdC5RXZ3UNa1CI64O6p"
+        }
+      ],
+      "duration_ms": 285431,
+      "name": "Ma demand aou pardon",
+      "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
     },
     {
       "added_at": "2022-08-11 10:05:16",

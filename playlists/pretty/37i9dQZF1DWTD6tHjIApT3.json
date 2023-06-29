@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u4f50\u85e4\u5343\u4e9c\u5983",
-  "num_followers": 97441,
+  "num_followers": 97459,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGI1OTkwNTA5NjgyNmM4YTliZjZkYjJlZTMxMWU1NWY0NzY5N2Fi",
+  "snapshot_id": "MCxlMDJjMjQwNTllZGY1YWM3MzE2ZWVkOWI1Y2I4YTBiMzMzNGE1MzRm",
   "tracks": [
     {
       "added_at": "2023-06-27 15:00:00",
@@ -119,8 +119,8 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
-        "url": "https://open.spotify.com/album/5M8u7W7hux33amwQ8ltxii"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/3M3qDZvausX3UPMNXyf3gM"
       },
       "artists": [
         {
@@ -129,8 +129,8 @@
         }
       ],
       "duration_ms": 290690,
-      "name": "\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
-      "url": "https://open.spotify.com/track/2jhVNef2cwn9fWaltdNUIx"
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2MgbC998HppX4J2PD1B9CW"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -151,18 +151,26 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "\u661f\u6708\u591c",
-        "url": "https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ"
+        "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
+        "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
       },
       "artists": [
         {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
         }
       ],
-      "duration_ms": 265714,
-      "name": "\u661f\u6708\u591c",
-      "url": "https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm"
+      "duration_ms": 193039,
+      "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
+      "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -248,7 +256,7 @@
       "added_at": "2023-06-27 15:00:00",
       "album": {
         "name": "silky",
-        "url": "https://open.spotify.com/album/58qnZnXarK7UW0F1C0VPDV"
+        "url": "https://open.spotify.com/album/5D4AJjp6ggGo9NvwFs7QAR"
       },
       "artists": [
         {
@@ -258,7 +266,7 @@
       ],
       "duration_ms": 257077,
       "name": "silky",
-      "url": "https://open.spotify.com/track/3bVJmvwK9808yDjqcfKhKe"
+      "url": "https://open.spotify.com/track/0MKUVUddZJj3ZMyEs8rRoa"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -279,26 +287,18 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
-        "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
+        "name": "\u661f\u6708\u591c",
+        "url": "https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ"
       },
       "artists": [
         {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        },
-        {
-          "name": "Candee",
-          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
-        },
-        {
-          "name": "ZOT on the WAVE",
-          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
         }
       ],
-      "duration_ms": 193039,
-      "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
-      "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
+      "duration_ms": 265714,
+      "name": "\u661f\u6708\u591c",
+      "url": "https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "pink blue",
-        "url": "https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0"
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 236413,
-      "name": "\u30d4\u30f3\u30af\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk"
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+        "name": "pink blue",
+        "url": "https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+      "duration_ms": 236413,
+      "name": "\u30d4\u30f3\u30af\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -811,8 +811,8 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "\u3055\u304f\u3089\u3093\u307c\u307f\u305f\u3044\u306a\u604b\u304c\u3057\u305f\u3044",
-        "url": "https://open.spotify.com/album/2Ojbfx57bkUiyN2BQZvrvS"
+        "name": "I want to be loved like \"Sakuranbo\"",
+        "url": "https://open.spotify.com/album/2FtZL6TkQ0a51twIavqPMJ"
       },
       "artists": [
         {
@@ -821,8 +821,8 @@
         }
       ],
       "duration_ms": 209090,
-      "name": "\u3055\u304f\u3089\u3093\u307c\u307f\u305f\u3044\u306a\u604b\u304c\u3057\u305f\u3044",
-      "url": "https://open.spotify.com/track/0tKD6WN6sHgPiaE9a2yP9C"
+      "name": "I want to be loved like \"Sakuranbo\"",
+      "url": "https://open.spotify.com/track/1wYhLZQ6UaYh287OmZjNEj"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -844,7 +844,7 @@
       "added_at": "2023-06-27 15:00:00",
       "album": {
         "name": "TIME",
-        "url": "https://open.spotify.com/album/6dh0VmS3ng5rCcnzfkVfqg"
+        "url": "https://open.spotify.com/album/7CkTwAm1r9QJGYiyqlydlq"
       },
       "artists": [
         {
@@ -854,7 +854,7 @@
       ],
       "duration_ms": 194333,
       "name": "TIME",
-      "url": "https://open.spotify.com/track/1wRCsed7GgU9WCBMGZvBkk"
+      "url": "https://open.spotify.com/track/5QxVQtsN36qJXn1Iow3RFc"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -908,7 +908,7 @@
       "added_at": "2023-06-27 15:00:00",
       "album": {
         "name": "sweet moratorium",
-        "url": "https://open.spotify.com/album/3nN4eds8EEDfJJCPBwJozs"
+        "url": "https://open.spotify.com/album/0z7Uxp2r3dDeOcUPZtiqJW"
       },
       "artists": [
         {
@@ -918,7 +918,7 @@
       ],
       "duration_ms": 186093,
       "name": "sweet moratorium",
-      "url": "https://open.spotify.com/track/4176uZIGkBroM4czZZTtte"
+      "url": "https://open.spotify.com/track/3FSfhJGSLRu45IVkwUG4Tg"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -972,7 +972,7 @@
       "added_at": "2023-06-27 15:00:00",
       "album": {
         "name": "JUMP",
-        "url": "https://open.spotify.com/album/14GblrQZ6PohKYPVh3tHek"
+        "url": "https://open.spotify.com/album/1QiXs3hhTjLXRHuPl9X7KM"
       },
       "artists": [
         {
@@ -982,7 +982,7 @@
       ],
       "duration_ms": 230566,
       "name": "JUMP",
-      "url": "https://open.spotify.com/track/7ap0cN5hnMhYxjkEiOGzME"
+      "url": "https://open.spotify.com/track/5Gwkv9371mMZLOBbOZ4JBW"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "Sketch",
-        "url": "https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy"
-      },
-      "artists": [
-        {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "\u30b5\u30fc\u30af\u30eb",
-      "url": "https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe"
-    },
-    {
-      "added_at": "2023-06-27 15:00:00",
-      "album": {
         "name": "\u7d14\u611b\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
         "url": "https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 277453,
       "name": "\u3042\u305f\u3057\u304c\u6b7b\u3093\u3067\u3082",
       "url": "https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm"
+    },
+    {
+      "added_at": "2023-06-27 15:00:00",
+      "album": {
+        "name": "Sketch",
+        "url": "https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "\u30b5\u30fc\u30af\u30eb",
+      "url": "https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "ai no hana",
-        "url": "https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 242792,
-      "name": "ai no hana",
-      "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
-    },
-    {
-      "added_at": "2023-06-27 15:00:00",
-      "album": {
         "name": "\u305d\u3070\u306b\u3044\u308b\u3088",
         "url": "https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 249134,
       "name": "\u305d\u3070\u306b\u3044\u308b\u3088",
       "url": "https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K"
+    },
+    {
+      "added_at": "2023-06-27 15:00:00",
+      "album": {
+        "name": "ai no hana",
+        "url": "https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 242792,
+      "name": "ai no hana",
+      "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "\u6625\u4e00\u756a",
-        "url": "https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "\u6625\u4e00\u756a",
-      "url": "https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP"
-    },
-    {
-      "added_at": "2023-06-27 15:00:00",
-      "album": {
         "name": "Pre-Romance",
         "url": "https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 192954,
       "name": "Pre-Romance",
       "url": "https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I"
+    },
+    {
+      "added_at": "2023-06-27 15:00:00",
+      "album": {
+        "name": "\u6625\u4e00\u756a",
+        "url": "https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 197529,
+      "name": "\u6625\u4e00\u756a",
+      "url": "https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "STAR",
-        "url": "https://open.spotify.com/album/1T3cfCAGazVAsH9RXXcHwL"
-      },
-      "artists": [
-        {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/5bwPyia2DynSxLYUrv43mH"
-    },
-    {
-      "added_at": "2023-06-27 15:00:00",
-      "album": {
         "name": "\u30c9\u30ad\u30e1\u30ad\u30c0\u30a4\u30a2\u30ea\u30fc",
         "url": "https://open.spotify.com/album/5Io1ahGqk87sEbxtGLbOum"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 199453,
       "name": "\u30c9\u30ad\u30e1\u30ad\u30c0\u30a4\u30a2\u30ea\u30fc",
       "url": "https://open.spotify.com/track/3Pc8ezs3771mswvKvaSauO"
+    },
+    {
+      "added_at": "2023-06-27 15:00:00",
+      "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/1T3cfCAGazVAsH9RXXcHwL"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/5bwPyia2DynSxLYUrv43mH"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "\u6625\u306f\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/2OOwhS1081u3gK30zV6rNC"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "\u6625\u306f\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/3h8LPb3uuQu20hSgQftGDr"
-    },
-    {
-      "added_at": "2023-06-27 15:00:00",
-      "album": {
         "name": "Kokorone",
         "url": "https://open.spotify.com/album/0tmQTiDf8sdswXxCwwyeP5"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 190026,
       "name": "Kokorone",
       "url": "https://open.spotify.com/track/43nVvwOh89GG7LXWhmZFkd"
+    },
+    {
+      "added_at": "2023-06-27 15:00:00",
+      "album": {
+        "name": "\u6625\u306f\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/2OOwhS1081u3gK30zV6rNC"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "\u6625\u306f\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3h8LPb3uuQu20hSgQftGDr"
     },
     {
       "added_at": "2023-06-27 15:00:00",

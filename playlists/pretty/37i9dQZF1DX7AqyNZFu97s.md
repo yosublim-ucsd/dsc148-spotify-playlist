@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: KIRBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,056 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,080 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [DUCKHEAD!](https://open.spotify.com/track/1ry6svTh4Ax5mqHFUh8PWk) | [Uppbeat](https://open.spotify.com/artist/3VymVJxAJTgqI3RouTkwMU), [Mitch the Hero](https://open.spotify.com/artist/3eaZn4lW3Th8Hk1ZF8HeC1), [XO LU](https://open.spotify.com/artist/1QuS8XFGkFeFQdAQwSR1Uf) | [DUCKHEAD!](https://open.spotify.com/album/2MgKGL4mu5FeEcLdAkoubx) | 2:47 |
 | 80 | [Two Wrongs](https://open.spotify.com/track/4uGJXn1fxI3hHVAgCYs4cI) | [Samana](https://open.spotify.com/artist/0gf5phmsYQSLhOvHfgazMz) | [Dharma](https://open.spotify.com/album/4H8xgtULPiAMZKPOBvTppe) | 6:09 |
 
-Snapshot ID: `MCw1NmQ3NTViMDdjNTRhMWU5NzU2N2VjMTg4NzU0NjJhNDAwZDQ5ODZk`
+Snapshot ID: `MCxkNWJiZjhlMGNhNmM5ZTFkN2VhZTJiNGRkMWJiODVlZGQxMTFjMDIx`

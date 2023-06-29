@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-394 songs - 21 hr 22 min
+395 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Dancing with Tears in My Eyes \- Acoustic Version](https://open.spotify.com/track/3ISO5uPwAdDcfyVDxJovDt) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Dancing with Tears in My Eyes \(Acoustic Version\)](https://open.spotify.com/album/0N9AXQpUkXEBY2o2Ekes5C) | 3:30 | 2021-03-11 | 2023-04-14 |
 | [Demons \- Acoustic](https://open.spotify.com/track/3TAr9I2A2kwQt9iCi1iRFN) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Demons \- Acoustic Cover](https://open.spotify.com/album/6mcNDNhARQFWyHzRG9Yz8K) | 3:04 | 2022-12-02 | 2023-03-10 |
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8) | 3:14 | 2021-03-11 | 2022-12-02 |
-| [Die For You](https://open.spotify.com/track/6IrCjGPCRIyALjoR8UuUIy) | [Hanster](https://open.spotify.com/artist/1dGQPw9YakyRaUuDGF0AKt) | [Die For You](https://open.spotify.com/album/6ZaquWVb3EXIUAR7Fey5Gq) | 3:47 | 2023-04-14 |  |
+| [Die For You](https://open.spotify.com/track/6IrCjGPCRIyALjoR8UuUIy) | [Hanster](https://open.spotify.com/artist/1dGQPw9YakyRaUuDGF0AKt) | [Die For You](https://open.spotify.com/album/6ZaquWVb3EXIUAR7Fey5Gq) | 3:47 | 2023-04-14 | 2023-06-29 |
 | [Dilemma](https://open.spotify.com/track/5MZYOtR8fcaZoWzweBNdMm) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK), [Taylor Manns](https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9) | [Dilemma](https://open.spotify.com/album/5Jj8Jcob18UYy4GhRNrSMq) | 4:07 | 2022-08-31 | 2023-04-14 |
 | [Don't Call Me Up \- Acoustic](https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up \(Acoustic\)](https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr) | 3:32 | 2022-11-11 |  |
 | [Don't Kill My Vibe \- Acoustic](https://open.spotify.com/track/73RAIXaQS2gQWXMA2d0cwB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Don't Kill My Vibe \(Acoustic Versions\)](https://open.spotify.com/album/5WYqdwCfGxEnjLQjChhLoF) | 3:06 | 2022-10-14 |  |
@@ -181,6 +181,7 @@
 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 | 2022-10-14 | 2023-03-31 |
 | [I Like Me Better](https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Ysabelle](https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1) | 3:09 | 2022-08-31 |  |
 | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh) | [Raye Mills](https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe) | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3) | 4:13 | 2021-03-11 | 2023-03-10 |
+| [I Was Never There](https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe) | [Parker Clair](https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr) | [I Was Never There](https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz) | 2:59 | 2023-06-22 |  |
 | [I'll Save A Place](https://open.spotify.com/track/5f1yZuAiLBdKVXzzBQ1g5j) | [Carly Rose](https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe) | [I'll Save A Place](https://open.spotify.com/album/673L0hxi8CysOnbBUot1fZ) | 3:01 | 2023-01-20 |  |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/0GU7mjplm8DvhlBPPyB3VP) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [lifeline sad pop](https://open.spotify.com/album/522309wFWxwkT7FguIQqvG) | 2:33 | 2022-11-11 | 2023-02-11 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/1NbGvDjCF1s7pH62AjKUdJ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Luv Starved \- Sad Pop](https://open.spotify.com/album/2jzJSgieL4xBi7Fq794ZTx) | 2:33 | 2023-01-20 | 2023-02-13 |

@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Gene Farris
 
-1,144 songs - 2 day 18 hr 35 min
+1,145 songs - 2 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/track/0TTMHvVELhQrH1Hit65Yc6) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Like That \(feat\. Tyler Graves\)](https://open.spotify.com/album/1U1xk9VZDquRwDoUeBAtvd) | 2:48 | 2023-06-09 |  |
 | [Like This](https://open.spotify.com/track/0ivA7bMXyVNFaQOceVI8EX) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Like This](https://open.spotify.com/album/5c2BKb5ZyD3H3h5tenKJSU) | 2:50 | 2023-04-28 | 2023-05-21 |
 | [Like This](https://open.spotify.com/track/5A29lmXOMxoUnFsatOI8Vf) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Like This](https://open.spotify.com/album/5Vvm9U5FZTpCccflpqvAXT) | 2:27 | 2022-08-05 | 2022-12-03 |
+| [Lingerie](https://open.spotify.com/track/59SiZ1Bz65rRdCuHdgzsd7) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Lingerie](https://open.spotify.com/album/5jFYSwhhM3JAByX71yM0hS) | 3:48 | 2023-06-23 |  |
 | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Robbie Rise](https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A) | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7) | 3:46 | 2022-12-09 | 2023-05-27 |
 | [Liquor Store](https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Liquor Store](https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF) | 3:21 | 2022-02-25 | 2022-06-04 |
 | [Live Is Life](https://open.spotify.com/track/3TojJdhEJcj2eTtOjKUqQi) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [ATIØPE](https://open.spotify.com/artist/3a8hvN6h6yukZCh1k8tmDF) | [Live Is Life](https://open.spotify.com/album/02xGsQl2qAGOqXYTyW1lZC) | 2:43 | 2023-06-09 |  |
@@ -1079,7 +1080,7 @@
 | [Vibra](https://open.spotify.com/track/2zDRd03uz04B7DQUhvWjQh) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [Vibra](https://open.spotify.com/album/0WPLjbdmPdSPvUEaXS6R1H) | 3:18 | 2022-12-28 | 2023-01-06 |
 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-09 |  |
 | [Virus](https://open.spotify.com/track/0jMyDN8P41tn4trFqdWXel) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Virus](https://open.spotify.com/album/3FS3baaVmYrTCRITC5uMMf) | 3:18 | 2023-02-17 | 2023-03-05 |
-| [Voicemail](https://open.spotify.com/track/05aj6znylffDdZiwnTgCRj) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Voicemail](https://open.spotify.com/album/4M3KYXtqTM9RH9iuFXSGO5) | 2:53 | 2023-06-09 |  |
+| [Voicemail](https://open.spotify.com/track/05aj6znylffDdZiwnTgCRj) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Voicemail](https://open.spotify.com/album/4M3KYXtqTM9RH9iuFXSGO5) | 2:53 | 2023-06-09 | 2023-06-29 |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-03-10 |  |
 | [Vowlume](https://open.spotify.com/track/6wMVISAUvgKhGLDKn93S5m) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Vowlume EP](https://open.spotify.com/album/0cNvSUxNhcoKTwWIn8V9uz) | 3:17 | 2022-09-23 | 2022-10-29 |
 | [Voy](https://open.spotify.com/track/7eVAueNTldeMplUKSlOKs9) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL) | [Voy](https://open.spotify.com/album/5vBQCLIMqBMZ1zyoidUtm7) | 3:05 | 2022-11-11 | 2023-04-09 |

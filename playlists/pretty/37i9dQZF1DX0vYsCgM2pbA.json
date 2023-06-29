@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 121826,
+  "num_followers": 121837,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTg4YmY5MmIyNGRkOThiMDdkMzUyYjhjNWU1Njc5ZTFjODEzNTNh",
+  "snapshot_id": "MCxiZDU4NmI3MmVjZDA4YjBmYjczYTQ3OTUxYTVkYzNmODlmOWZhNTA2",
   "tracks": [
     {
       "added_at": "2023-06-22 14:59:08",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-06-22 14:59:08",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2kZN7G2OX9dEeQUIrPFxO8"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5lDCOzLzBfCOj3y5w1NdOo"
+    },
+    {
+      "added_at": "2023-06-22 14:59:08",
+      "album": {
         "name": "Changes (Timmy Trumpet Remix)",
         "url": "https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 146250,
       "name": "Changes - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU"
-    },
-    {
-      "added_at": "2023-06-22 14:59:08",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2kZN7G2OX9dEeQUIrPFxO8"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5lDCOzLzBfCOj3y5w1NdOo"
     },
     {
       "added_at": "2023-06-22 14:59:08",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-06-22 14:59:08",
       "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
+    },
+    {
+      "added_at": "2023-06-22 14:59:08",
+      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2023-06-22 14:59:08",
-      "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
     },
     {
       "added_at": "2023-06-22 14:59:08",

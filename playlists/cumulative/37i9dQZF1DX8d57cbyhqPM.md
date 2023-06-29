@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: LU KALA
 
-233 songs - 14 hr 59 min
+234 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Choco](https://open.spotify.com/track/0xFQrovDKSpOG6rWlcKcnV) | [Moerson](https://open.spotify.com/artist/6I4CPoQeM3qI54JeCqySdW) | [Chocomix](https://open.spotify.com/album/0aeGlsQjatfwXPZwA2VOxh) | 2:56 | 2023-03-17 | 2023-04-29 |
 | [Christina](https://open.spotify.com/track/6DLE4EbQwkxkisd7OftpuG) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Christina](https://open.spotify.com/album/6rCymUM7vsU20Rwvar8dWO) | 2:42 | 2023-03-17 |  |
 | [Coeur](https://open.spotify.com/track/3utX56OQ1D5JtcZc2s3VGv) | [Ange Mbyal](https://open.spotify.com/artist/6z4tOCECU3Q9hducn5MzIg) | [Coeur](https://open.spotify.com/album/03EK6fSqFPAYOAjyHsKbcv) | 3:25 | 2023-02-03 | 2023-03-18 |
-| [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-17 |  |
+| [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:12 | 2023-06-23 |  |
+| [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-17 | 2023-06-29 |
 | [Coeur moderne](https://open.spotify.com/track/7KaKOgkc3CTg0JONapvnrd) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Gomme, Vol\. 1](https://open.spotify.com/album/1f3mA2NLEXe6asrUMQbWRL) | 4:37 | 2023-02-17 | 2023-03-11 |
 | [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-30 | 2023-03-18 |
 | [Dendisa](https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Dendisa](https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L) | 4:06 | 2023-05-19 |  |

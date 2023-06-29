@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,710 songs - 3 day 4 hr 46 min
+1,713 songs - 3 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Balance](https://open.spotify.com/track/1HVU6DOb7GB4UPpf7TgfVL) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Balance](https://open.spotify.com/album/6zuVowgH43GihK6JnkLxKe) | 2:26 | 2021-03-21 | 2022-06-10 |
 | [Balance](https://open.spotify.com/track/2ShLPeSikg5Rn4wtyNx5bo) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 2:49 | 2021-04-12 | 2022-06-17 |
 | [Ballade d'amour](https://open.spotify.com/track/4ibd4ESFpgbPpO1NxhoT3q) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Ballade d'amour](https://open.spotify.com/album/1gdBJYSFRJGXydJNbarSGq) | 2:07 | 2022-05-31 | 2022-06-21 |
-| [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 | 2023-04-25 |  |
+| [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 | 2023-04-25 | 2023-06-29 |
 | [Ballerina Light](https://open.spotify.com/track/5Eq3qZckwqaLZq2yEsUAvU) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Ballerina Light](https://open.spotify.com/album/1E1NYgXEpG8vZWzJl7Y3Mh) | 2:41 | 2021-04-21 | 2022-04-16 |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/5eIifmrzK2XxqiABsZhYGK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 2:06 | 2021-05-14 | 2021-05-15 |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2021-03-27 | 2022-04-22 |
@@ -342,6 +342,7 @@
 | [Deco](https://open.spotify.com/track/2SIHJo8TXKvFvaW0XvMztF) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Charles Bolt](https://open.spotify.com/album/3j0aL8TLtJ43y0Yd2gGz7O) | 1:32 | 2021-05-10 | 2022-04-19 |
 | [Deep Blue](https://open.spotify.com/track/1WjrIgtffeCEOikYpqduGR) | [Max Newton](https://open.spotify.com/artist/57QrpEfCKHYw5EyuM3Fgos) | [Deep Blue](https://open.spotify.com/album/7uQPcMJhZR35VBgqHemIiN) | 4:01 | 2021-04-29 | 2022-04-21 |
 | [Deep Sensation](https://open.spotify.com/track/0aBfDx1APM3cJt1118v32T) | [Carl Bonet](https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x) | [Center of Gravity](https://open.spotify.com/album/53A24jAS0pIuBHGINApD71) | 4:39 | 2021-04-24 | 2022-06-28 |
+| [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 | 2023-06-27 |  |
 | [Delicate](https://open.spotify.com/track/648uIXFNwQBgemMz1kk1Be) | [Max Arnolds](https://open.spotify.com/artist/272NYvyxL9shy4vUzsvz23) | [Delicate](https://open.spotify.com/album/56DezvcqC1Ar63BjQ5mqCJ) | 2:34 | 2022-05-03 | 2022-05-10 |
 | [Delicate Transitions](https://open.spotify.com/track/3WzXJhi5jtc29EoOwjPf2D) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Drifting Among Strangers](https://open.spotify.com/album/11tvEp8VByXTg3hOljnDBF) | 2:28 | 2021-04-21 | 2022-04-09 |
 | [Delightful](https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:57 | 2022-12-22 |  |
@@ -616,7 +617,7 @@
 | [Hers](https://open.spotify.com/track/6HJovBuWj41I2jL94QpVj5) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [The Arcadian Wild](https://open.spotify.com/album/6vauG8ctomuW8Koa6bGMJB) | 2:41 | 2021-05-20 | 2022-03-27 |
 | [Herz gebrochen](https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ) | [Frida Frisk](https://open.spotify.com/artist/7xLTHxwZlyswxyMpdZzI8C) | [Herz gebrochen](https://open.spotify.com/album/6MMQUxAJVvAbp1Vi3Rx2oL) | 2:14 | 2022-03-29 | 2022-04-06 |
 | [Hideaway](https://open.spotify.com/track/3poVmAGCtZCM3Y0iRO1zWA) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Deep Blue Sea](https://open.spotify.com/album/0i5XbMBrhhikBCn2ExEWSt) | 2:56 | 2021-12-13 | 2022-04-14 |
-| [Hideaway](https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Hideaway](https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy) | 2:28 | 2022-12-22 |  |
+| [Hideaway](https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Hideaway](https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy) | 2:28 | 2022-12-22 | 2023-06-29 |
 | [Hideaway](https://open.spotify.com/track/3MKCO2mNSbhTbRu7x5qxev) | [India Atanasie](https://open.spotify.com/artist/6yBWntJNNKBu66b5Jy6sVg) | [Hideaway](https://open.spotify.com/album/00wr0WdNovcbqyteByPHyc) | 2:21 | 2022-05-03 | 2022-05-08 |
 | [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 | 2022-02-15 | 2022-09-29 |
 | [Highlands](https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Highlands](https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC) | 2:05 | 2021-03-15 | 2022-04-18 |
@@ -650,6 +651,7 @@
 | [Hrepenenje](https://open.spotify.com/track/5EwJB5TdPUwRIktulYQNlk) | [Jani Lechleiter](https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU) | [Hrepenenje](https://open.spotify.com/album/3rXlqu8jNa6rNb2jCvKKW9) | 1:46 | 2021-04-23 | 2021-05-04 |
 | [Human](https://open.spotify.com/track/2SMT5fwEqzZIu5VGFYL6qH) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Seasons](https://open.spotify.com/album/2ev06zAeaGpVlOkOTD1JUb) | 3:22 | 2021-03-06\* | 2021-10-13 |
 | [Human](https://open.spotify.com/track/3xSMHqImMckctNyDwbc6dy) | [Leyton Stills](https://open.spotify.com/artist/3l92unFN6V13msGRVZZQwE) | [Human](https://open.spotify.com/album/6AaAowUpbHG5fkBpHpAGis) | 1:44 | 2021-04-28 | 2021-12-18 |
+| [Humble](https://open.spotify.com/track/2NAxjo2ZpDVCoVZ22h3es4) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Humble](https://open.spotify.com/album/1ghQt2Oct3J7y0slly5esX) | 1:50 | 2023-06-27 |  |
 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 | 2021-03-23 | 2022-07-28 |
 | [Hvaležni](https://open.spotify.com/track/5WMk136o7hpTMaFh1UeLz9) | [Valbona Ceferin](https://open.spotify.com/artist/2iH6SSywrGgmHMA5ODnZcJ) | [Hvaležni](https://open.spotify.com/album/4wzC7DTYF8Bw6IqgUsmWVd) | 2:03 | 2021-04-27 | 2021-05-05 |
 | [Hvorhen du end går](https://open.spotify.com/track/6fwGU5vdnXBUHiEMW7FAnB) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Hvorhen du end går](https://open.spotify.com/album/5GPuiMrxFPHRBES2itNeYp) | 2:28 | 2021-04-30 | 2021-12-18 |
@@ -934,6 +936,7 @@
 | [Mirage](https://open.spotify.com/track/28SIY2M7W3bs1s5K5yxhBC) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Mirage](https://open.spotify.com/album/6CQKX5bb2MZHTDTOurFBB0) | 2:56 | 2021-03-20 | 2021-12-21 |
 | [Mirror Song](https://open.spotify.com/track/5Z6pY8kv0bYE72QKBYes0s) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Mirror Song](https://open.spotify.com/album/3L25gHwm471Vec1YrXysmp) | 3:35 | 2021-04-28 | 2022-06-11 |
 | [Misli na tebe](https://open.spotify.com/track/33dahwAOW1V1quRlxh1Ffp) | [Frano Stanić](https://open.spotify.com/artist/0zlGbeqBJRLfirr9UTEpV9) | [Misli na tebe](https://open.spotify.com/album/3PEQD0rAwurBJiYIiT1OLx) | 1:53 | 2021-05-25 | 2022-04-18 |
+| [Missing You](https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Missing You](https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c) | 2:28 | 2023-06-27 |  |
 | [Missy](https://open.spotify.com/track/31Ym8LjfKv5dpgppLUmpWs) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Missy](https://open.spotify.com/album/76M1XQdN9UnipO6FQG3TJc) | 2:45 | 2021-03-08 | 2022-04-17 |
 | [Mist](https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY) | [Sarah Keen](https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE) | [Mist](https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc) | 2:02 | 2022-09-29 | 2023-06-01 |
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2021-08-06 | 2022-09-19 |
@@ -943,7 +946,7 @@
 | [Monastral](https://open.spotify.com/track/59Y2voKQ0Ie6ptgS5VrnEn) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Aureolin](https://open.spotify.com/album/3x7NlTjKHUuwxq4pgO8nnT) | 2:03 | 2021-03-09 | 2022-04-18 |
 | [Monmartre](https://open.spotify.com/track/2iOeUalTtkixjGZbwkEiGd) | [Serouj](https://open.spotify.com/artist/2S4Y2TX5b3gYApFYtIzzU2) | [Monmartre](https://open.spotify.com/album/5o4AGZzBjLYVNupbR9GZFE) | 1:41 | 2021-04-27 | 2021-05-13 |
 | [Monschau](https://open.spotify.com/track/1niyEXDHJ74O7tCyn2un9S) | [Maik Kuefer](https://open.spotify.com/artist/7dDWo6Yh2ZWKRrvnZ87rEe) | [Monschau](https://open.spotify.com/album/5Ol8cnBY7IaGOBoqbLcTsG) | 1:54 | 2021-03-08 | 2022-04-10 |
-| [Monte Viso](https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi) | [Gente di Toscana](https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q) | [Monte Viso](https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya) | 1:35 | 2022-12-22 |  |
+| [Monte Viso](https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi) | [Gente di Toscana](https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q) | [Monte Viso](https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya) | 1:35 | 2022-12-22 | 2023-06-29 |
 | [Monuments](https://open.spotify.com/track/3UuRldDkQBgFmEkgWG42Ge) | [Daníel Fannar](https://open.spotify.com/artist/5N36wGewpkol8rMbwxx0nj) | [Monuments](https://open.spotify.com/album/0vq2GgBYof806maqlWvTky) | 2:48 | 2021-09-01 | 2022-04-07 |
 | [Moods of the Valley](https://open.spotify.com/track/1yarqgJfk6Mb93UV7qsKGE) | [Otto Wahl](https://open.spotify.com/artist/7A5OxuJ5yEzHTM43In5fHF) | [Moods Of The Valley](https://open.spotify.com/album/3LyoBVnCfJ5yk6cC4b6SdR) | 3:47 | 2021-03-11 | 2022-04-21 |
 | [Moon Dust](https://open.spotify.com/track/4UIRvHGednKbGc4aLmy9zC) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Moon Dust](https://open.spotify.com/album/46KaBI2LQmSKpYWINT9wIS) | 3:22 | 2021-05-13 | 2021-12-19 |

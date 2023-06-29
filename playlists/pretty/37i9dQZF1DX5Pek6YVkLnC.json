@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228276,
+  "num_followers": 228285,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
+  "snapshot_id": "MCxjNzM2NWU3ODE2YmUzOTVmNWRhZjE5NGYwMDI0NDNjNzQ1YjI0YzZk",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -259,6 +259,26 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Porche Carrera",
+        "url": "https://open.spotify.com/album/5pOOSzT6PNhrEQOHLTeuFX"
+      },
+      "artists": [
+        {
+          "name": "DimeWest",
+          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Porche Carrera",
+      "url": "https://open.spotify.com/track/7BnUNwbu4ITOkwrS6nGoVb"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "1% (Remix)",
         "url": "https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 290053,
       "name": "1% - Remix",
       "url": "https://open.spotify.com/track/1F4Vm45mboD6k5VAx83pJu"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Porche Carrera",
-        "url": "https://open.spotify.com/album/5pOOSzT6PNhrEQOHLTeuFX"
-      },
-      "artists": [
-        {
-          "name": "DimeWest",
-          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Porche Carrera",
-      "url": "https://open.spotify.com/track/7BnUNwbu4ITOkwrS6nGoVb"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Tentretiene",
+        "url": "https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "Tentretiene",
+      "url": "https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "512",
         "url": "https://open.spotify.com/album/17JfLaj2zx8k9whBHN8wiI"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 188965,
       "name": "512",
       "url": "https://open.spotify.com/track/4zANwdkLMw3vQ2Xijg4WY8"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Tentretiene",
-        "url": "https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Tentretiene",
-      "url": "https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB"
     },
     {
       "added_at": "2023-06-09 20:20:12",

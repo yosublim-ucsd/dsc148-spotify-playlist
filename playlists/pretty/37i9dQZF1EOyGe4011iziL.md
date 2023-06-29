@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOyGe4011iziL.md) - [plain]
 | 10 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
 | 11 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |
 
-Snapshot ID: `MjY3NzQ5MzEsMDAwMDAwMDAwNjJlZDUzMWJiNzI2Y2RhNDcxY2Y5YzZiNzI1N2FiZA==`
+Snapshot ID: `MjY3NzQ5MzEsMDAwMDAwMDBhODJkYTBhODRmZmI5MTdiMWU3YmQyY2VkN2Q3M2I5ZA==`

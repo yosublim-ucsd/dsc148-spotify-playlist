@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 27397,
+  "num_followers": 27411,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDFmNWMyZmQ5NmU1MjdlZTI3NjA5NWY4OWU3YWM5MThjMWMzZGU5",
+  "snapshot_id": "MCw2ZGYwZjJkYTkzOTg1Nzc0Zjc2ZGRkZDNjNTBmMzRlMTBiOGQzOTQ5",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
+      },
+      "artists": [
+        {
+          "name": "Jane Maximova",
+          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
+        }
+      ],
+      "duration_ms": 298208,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Buya",
         "url": "https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 464182,
       "name": "Buya - Da Capo Remix",
       "url": "https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
-      },
-      "artists": [
-        {
-          "name": "Jane Maximova",
-          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
-        }
-      ],
-      "duration_ms": 298208,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Highlife World Series: Cuba",
-        "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
-      },
-      "artists": [
-        {
-          "name": "Auntie Flo",
-          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
-        }
-      ],
-      "duration_ms": 356313,
-      "name": "Mother Theresa - Original Mix",
-      "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Tanto Tiempo",
         "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
       },
@@ -667,22 +651,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "See-Line Woman",
-        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
+        "name": "Highlife World Series: Cuba",
+        "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
       },
       "artists": [
         {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
         }
       ],
-      "duration_ms": 226000,
-      "name": "See-Line Woman - Main Mix",
-      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
+      "duration_ms": 356313,
+      "name": "Mother Theresa - Original Mix",
+      "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -699,6 +679,26 @@
       "duration_ms": 280895,
       "name": "Laamore",
       "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "See-Line Woman",
+        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "See-Line Woman - Main Mix",
+      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -787,6 +787,30 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Boro",
+        "url": "https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        },
+        {
+          "name": "Jonoa",
+          "url": "https://open.spotify.com/artist/5LQIuS4eO4Gx8Nc2qCXhAl"
+        },
+        {
+          "name": "Rachel Shirley",
+          "url": "https://open.spotify.com/artist/5Hy4oRldFJc1zGOOrmjW0r"
+        }
+      ],
+      "duration_ms": 352909,
+      "name": "Golden Gai",
+      "url": "https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
@@ -831,30 +855,6 @@
       "duration_ms": 205816,
       "name": "Theme from Selva",
       "url": "https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Boro",
-        "url": "https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB"
-      },
-      "artists": [
-        {
-          "name": "Yarni",
-          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
-        },
-        {
-          "name": "Jonoa",
-          "url": "https://open.spotify.com/artist/5LQIuS4eO4Gx8Nc2qCXhAl"
-        },
-        {
-          "name": "Rachel Shirley",
-          "url": "https://open.spotify.com/artist/5Hy4oRldFJc1zGOOrmjW0r"
-        }
-      ],
-      "duration_ms": 352909,
-      "name": "Golden Gai",
-      "url": "https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p"
     },
     {
       "added_at": "2021-10-08 17:36:35",

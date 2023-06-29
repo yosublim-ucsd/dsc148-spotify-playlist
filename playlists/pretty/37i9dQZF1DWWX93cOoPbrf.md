@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. La Receta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,841 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,895 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Juan Ayon](https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Rolitas De Oro](https://open.spotify.com/album/0zI12JLhcVts2MxbS1z4Ox) | 4:18 |
 | 75 | [El Beisbolero \- En Vivo](https://open.spotify.com/track/54k1cyoG9pOKRQjbE2UKVk) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Beisbolero \(En Vivo\)](https://open.spotify.com/album/74pgex0gAHhQhxlYmUZ68l) | 3:27 |
 
-Snapshot ID: `MCxiOTA0NDFkMGMzYWY1ODg3OWM4YjhmYjQ5MmJiZjVkMTAxMGNmNWMy`
+Snapshot ID: `MCwxYTg3NTJjNGM4NjJkZjdjODJjYzk0N2ZhMzFhNDc0MDdjNWY0NjUz`

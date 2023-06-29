@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 428070,
+  "num_followers": 428237,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmIwY2YzNzIyNDU1YWQ5YWExZTkwYTVkNjBmODJkMmQ1NDNmYThj",
+  "snapshot_id": "MCxmNTk0MWQ3M2RjMDMzMGFhYzM1NTg2YTVmYWQ2ODAyMThkNDk4Mjc0",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "i'm closing my eyes",
+        "url": "https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 118302,
+      "name": "i'm closing my eyes",
+      "url": "https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "I'll Keep You Safe",
         "url": "https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 185875,
       "name": "I'll Keep You Safe",
       "url": "https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "i'm closing my eyes",
-        "url": "https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 118302,
-      "name": "i'm closing my eyes",
-      "url": "https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "[oops]",
+        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 142182,
+      "name": "[oops]",
+      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 157524,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "[oops]",
-        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "[oops]",
-      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
     },
     {
       "added_at": "2023-02-16 22:50:07",

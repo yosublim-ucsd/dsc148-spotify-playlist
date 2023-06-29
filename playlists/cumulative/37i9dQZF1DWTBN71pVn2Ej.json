@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best alternative rock tracks right now.",
+  "description": "The best alternative rock tracks right now. Cover: Late 90s",
   "name": "Alternative Noise",
   "tracks": [
     {
@@ -1036,6 +1036,24 @@
       "duration_ms": 166509,
       "name": "BWBB",
       "url": "https://open.spotify.com/track/1t9TGGopVWBYQX8Jfecrae"
+    },
+    {
+      "album": {
+        "name": "California King",
+        "url": "https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233146,
+      "name": "California King",
+      "url": "https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51"
     },
     {
       "album": {
@@ -2092,7 +2110,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 184931,
       "name": "Eye For An Eye",
       "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"

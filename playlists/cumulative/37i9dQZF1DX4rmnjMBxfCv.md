@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Jad Halal
 
-135 songs - 9 hr 1 min
+136 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2023-06-23 |  |
 | [Galbek Ween](https://open.spotify.com/track/6v0bOBKwDxzpkXhoi14FpN) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Galbek Ween](https://open.spotify.com/album/0y4SxrazWfNf55cdxhZ0v7) | 3:42 | 2022-03-30 | 2022-08-23 |
 | [Ghareeb Alay \- R3HAB Remix](https://open.spotify.com/track/1U2BAJq4kvET6pN9gZnOvv) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghareeb Alay \(R3HAB Remix\)](https://open.spotify.com/album/78zVdyVqcYzpQNQWBWVjQv) | 2:02 | 2022-05-26 | 2023-06-24 |
-| [Goumi \- R3HAB MDLBEAST Remix](https://open.spotify.com/track/7zU9vK9isaFQGAOAHecHdS) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Goumi \(R3HAB MDLBEAST Remix\)](https://open.spotify.com/album/0UQKnfwY5K0f4yE6aJG8lN) | 3:14 | 2023-06-02 |  |
+| [Goumi \- R3HAB MDLBEAST Remix](https://open.spotify.com/track/7zU9vK9isaFQGAOAHecHdS) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Goumi \(R3HAB MDLBEAST Remix\)](https://open.spotify.com/album/0UQKnfwY5K0f4yE6aJG8lN) | 3:14 | 2023-06-02 | 2023-06-29 |
 | [Habibi Ana](https://open.spotify.com/track/06wwtZKCpnImRq1N9Sg3k5) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [Habibi Ana](https://open.spotify.com/album/7k0LvrMEmMVoAoL9JztDFU) | 4:34 | 2022-03-30 | 2022-08-23 |
 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 | 2022-08-01 | 2023-02-16 |
 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/3AwmOjkzr9WZUqEewrskM1) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 2:35 | 2023-02-02 | 2023-06-24 |
@@ -66,6 +66,7 @@
 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 | 2022-06-02 | 2022-07-31 |
 | [Hiya hiya New Distribution](https://open.spotify.com/track/3GDe4ABAWZWP6XKYCPmrhc) | [Mustafa Hussam](https://open.spotify.com/artist/1ZVYNea11w8l7t5pqZUYoM) | [Hiya hiya New Distribution](https://open.spotify.com/album/4iJJ8pkyW3CY41C53B6KVq) | 3:37 | 2022-08-23 | 2022-09-01 |
 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 | 2023-06-23 |  |
+| [IRAQ FOREVER](https://open.spotify.com/track/0lRzw2qxLfIgLmuJJeeYPA) | [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Sandhill](https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2) | [IRAQ FOREVER](https://open.spotify.com/album/5wRrxTSwPCCHdeLEFunn2l) | 2:15 | 2023-06-29 |  |
 | [Khidni Habibi](https://open.spotify.com/track/2k2vv7Pvl2gYfHkdVRnHZl) | [DJ Carlos B](https://open.spotify.com/artist/6Zc4YkIlrrgNXpcTXoj9M6), [Maher Salame](https://open.spotify.com/artist/2E82x2YXapSBHgdoxplfdP), [Rana Saab](https://open.spotify.com/artist/6ZErECsxugfPTnmJwIbEgA) | [Khidni Habibi](https://open.spotify.com/album/5MSHUA4LGMP1vzGUUjfT22) | 4:52 | 2022-03-30 | 2022-11-26 |
 | [Kindir Suprise](https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Kindir Surprise](https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM) | 4:48 | 2023-06-23 |  |
 | [Ksser Essouk](https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [Ksser Essouk](https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh) | 5:26 | 2023-03-01 |  |

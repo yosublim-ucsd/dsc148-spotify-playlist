@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 224204,
+  "num_followers": 224323,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjM5YjIwMWExYzFmMDAzMzg5MzVjZmNiOTQzMTc5ZGNlNmU1NGVl",
+  "snapshot_id": "MCxiOGYyOGRiOWQzYjAyNDc0YWVjMjQ0ZGVmODQzOGIwZGRhYTkwMTI2",
   "tracks": [
     {
       "added_at": "2023-01-02 17:44:56",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Struttin' My Stuff",
-        "url": "https://open.spotify.com/album/2z2y977JvwU1rbnVO97RmY"
+        "name": "Let's Keep It That Way",
+        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
       },
       "artists": [
         {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Fooled Around And Fell In Love",
-      "url": "https://open.spotify.com/track/2hE5Lm5XOHR4t3xlhIFauP"
+      "duration_ms": 220266,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
     }
   ],
   "unique_name": "70s Ballads",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,147 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,296 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Paint Me](https://open.spotify.com/track/4ENQSmhYsS5kp4n1Ymi0Ah) | [Juniper](https://open.spotify.com/artist/2vUurb7JcES3VO0gkx1yGW) | [Paint Me](https://open.spotify.com/album/7oWChAVBRmb9dbLfIqGG62) | 3:45 |
 | 150 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 |
 
-Snapshot ID: `MCw0ZDgwZGI0OGRjMTdlYWQ5NjE3YTU3OWJiNjZlNmYxNTAxZjRmZWYx`
+Snapshot ID: `MCxhY2NkZDdiNDEwZWNmYzViZDM3MjM1ZDFmOTEyOGUyZDU1YjEzYWJm`

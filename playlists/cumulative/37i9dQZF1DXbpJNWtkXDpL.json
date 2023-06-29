@@ -846,7 +846,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 163141,
       "name": "Como Intento",
       "url": "https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf"
@@ -868,6 +868,24 @@
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
+    },
+    {
+      "album": {
+        "name": "COMO YO NO HAY DOS",
+        "url": "https://open.spotify.com/album/10hGBacgDz8cseX4Yz8Mqw"
+      },
+      "artists": [
+        {
+          "name": "Chiken Lira",
+          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278106,
+      "name": "COMO YO NO HAY DOS",
+      "url": "https://open.spotify.com/track/1ZmrG1ghcwKEBBdXIPUQuP"
     },
     {
       "album": {

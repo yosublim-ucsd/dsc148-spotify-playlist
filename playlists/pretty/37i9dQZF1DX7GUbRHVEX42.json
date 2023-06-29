@@ -1,12 +1,12 @@
 {
   "description": "The best current contemporary Reggae. Cover: Buju Banton",
-  "num_followers": 114679,
+  "num_followers": 114766,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWM5YjI1OGQwNzJkMDA4MTg3NzBjMWRmMDFhZmYzYTY2MWZkZWU2",
+  "snapshot_id": "MCxiNDYzNmFlYzhlMGVkNjA2YmE5ZjkxODFiNDQ5M2ZkNzhlNjA2OWM0",
   "tracks": [
     {
       "added_at": "2023-06-09 14:45:48",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "Love And Mercy",
-        "url": "https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62"
-      },
-      "artists": [
-        {
-          "name": "Samory I",
-          "url": "https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Love And Mercy",
-      "url": "https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
         "name": "The Kalling",
         "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 229057,
       "name": "Red Gold and Green",
       "url": "https://open.spotify.com/track/3G2JE7DiHUhEizVPLiU0vw"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "Love And Mercy",
+        "url": "https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62"
+      },
+      "artists": [
+        {
+          "name": "Samory I",
+          "url": "https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Love And Mercy",
+      "url": "https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
-      },
-      "artists": [
-        {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
         "name": "BLEU, Vol. 1",
         "url": "https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 201250,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/14b19xNkaa81ANXj5arAhS"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
     },
     {
       "added_at": "2023-06-09 14:45:48",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2023-06-09 14:45:48",
       "album": {
+        "name": "Oh Jah",
+        "url": "https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        },
+        {
+          "name": "Ireland Boss",
+          "url": "https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT"
+        }
+      ],
+      "duration_ms": 241219,
+      "name": "Oh Jah",
+      "url": "https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ"
+    },
+    {
+      "added_at": "2023-06-09 14:45:48",
+      "album": {
         "name": "GOODLOVE",
         "url": "https://open.spotify.com/album/56GCZRwzq8fAHUpdeebIuv"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 247706,
       "name": "GOODLOVE",
       "url": "https://open.spotify.com/track/1qA672RAmDGPSuCiwxwOm4"
-    },
-    {
-      "added_at": "2023-06-09 14:45:48",
-      "album": {
-        "name": "Oh Jah",
-        "url": "https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj"
-      },
-      "artists": [
-        {
-          "name": "Jah Cure",
-          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
-        },
-        {
-          "name": "Ireland Boss",
-          "url": "https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT"
-        }
-      ],
-      "duration_ms": 241219,
-      "name": "Oh Jah",
-      "url": "https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ"
     },
     {
       "added_at": "2023-06-09 14:45:48",

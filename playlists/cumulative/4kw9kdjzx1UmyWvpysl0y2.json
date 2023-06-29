@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Melodramatic",
+        "url": "https://open.spotify.com/album/5ioDu9pPJd1Jty8OuH9if7"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Backseat Lovers",
+      "url": "https://open.spotify.com/track/1ZfkZlBTFl804LoRIvAvdq"
+    },
+    {
+      "album": {
         "name": "Bad For You",
         "url": "https://open.spotify.com/album/6hNHNhff93z7BmdBHfnBFS"
       },
@@ -1360,6 +1378,24 @@
       "duration_ms": 177120,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh"
+    },
+    {
+      "album": {
+        "name": "Break It Down",
+        "url": "https://open.spotify.com/album/6kR6ZW6AdWViJksGqmLzEO"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161777,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/1KY425EZEJPqgeisOplYGJ"
     },
     {
       "album": {
@@ -9772,7 +9808,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 176444,
       "name": "Vermin",
       "url": "https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5"

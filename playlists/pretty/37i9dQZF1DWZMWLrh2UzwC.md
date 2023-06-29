@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Sezairi
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,394 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,396 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 99 | [23 \(Too Deep, Too Much\)](https://open.spotify.com/track/31fAGtmvKBM2e86zzWtd5g) | [Kalya Islamadina](https://open.spotify.com/artist/1DayT5WZ713uGDCbpmejfE) | [23 \(Too Deep, Too Much\)](https://open.spotify.com/album/3LKZjzbsogFZhhlFskYZQH) | 4:23 |
 | 100 | [STUFF IM DEALIN WITH](https://open.spotify.com/track/2e3vf9LaqijmrqK4AJbSmL) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [STUFF IM DEALIN WITH](https://open.spotify.com/album/2ZMiTkSDgvLWth7ioSPacp) | 2:41 |
 
-Snapshot ID: `MCwwM2UzZTRjZTRlZGU4YTg5MzBhZmY4MmViOTZjNDU1OTk1MmVlMGQ4`
+Snapshot ID: `MCxlZjRlYmE0Mzc5NmZhOWJiYjk0ZjVhNTg3MjVlZmJiNjliMzk0OTFm`

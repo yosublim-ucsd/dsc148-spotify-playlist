@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Inderpal Moga & Channi Nattan
 
-146 songs - 7 hr 1 min
+148 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Calaboose](https://open.spotify.com/track/2wHTMZwkLbpM6LNkUBs2Xt) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:05 | 2023-03-29 |  |
 | [Can't Judge](https://open.spotify.com/track/7HI8nsYQlsdz3DA02qbEpl) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Kelly](https://open.spotify.com/artist/4rJT3c6YMsd8gcZNgLpGS5) | [Versatile](https://open.spotify.com/album/7EDCJpN41sqQERoxzIsk4V) | 1:59 | 2023-04-14 | 2023-04-21 |
 | [Case](https://open.spotify.com/track/2fRHKT0pS5NyKW32fhLIUb) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w) | [Case](https://open.spotify.com/album/3U4DrXSmQRhFQGU7NYvaBs) | 2:04 | 2023-05-17 |  |
+| [Check It Out](https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Check It Out](https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV) | 3:15 | 2023-06-28 |  |
 | [Chup Chup](https://open.spotify.com/track/1gwu4J4HIbbQrPUHHRc415) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 2:35 | 2023-03-29 | 2023-05-06 |
 | [COLT](https://open.spotify.com/track/1Fw5ukhflInIR231hZlCKm) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [COLT](https://open.spotify.com/album/6WscZt1HboXCS8fTfLn3Lr) | 3:26 | 2023-03-29 |  |
 | [Compulsory](https://open.spotify.com/track/326eZ9C7qpDj6NSsEiKvoW) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:36 | 2023-03-29 |  |
@@ -131,6 +132,7 @@
 | [Small Circle](https://open.spotify.com/track/1PrLCrX3eY1gs7Bytw71qg) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Small Circle](https://open.spotify.com/album/6vaip7iNjz4dElaxbsq9yu) | 2:32 | 2023-03-29 |  |
 | [Snack](https://open.spotify.com/track/570I8T5ZKKwKlZfl2C7KYO) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Snack](https://open.spotify.com/album/38uXiZjaet6rj7xZN1ptzT) | 2:55 | 2023-06-05 |  |
 | [Sorry Dad](https://open.spotify.com/track/68OVeyL8exUytFImXPS0pn) | [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Sorry Dad](https://open.spotify.com/album/6ZtYRa1Xryr6FzKFD36mba) | 2:33 | 2023-03-29 |  |
+| [Stag Entry](https://open.spotify.com/track/4oy3rN2WstnyC1UxstIe6W) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Stag Entry](https://open.spotify.com/album/0IohoDqCDUX4RgAm533C4R) | 2:37 | 2023-06-28 |  |
 | [Stick Talk](https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Stick Talk](https://open.spotify.com/album/776yBgdEdhEUPmyErZuIu0) | 2:39 | 2023-05-18 |  |
 | [Style](https://open.spotify.com/track/4qNCoi29Sy2wjqltNCs0uV) | [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Jashan dandiwal](https://open.spotify.com/artist/4hDhWCwjFx2gm00vBrN4tA) | [Style](https://open.spotify.com/album/2aaiIRxkz5XNJI5sClUmdk) | 2:46 | 2023-06-12 |  |
 | [TALK LESS](https://open.spotify.com/track/2FdHYqak0QNYVvvvYfTKLN) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [TALK LESS](https://open.spotify.com/album/0GPjytkpi73o0Uuz8J5yjz) | 2:21 | 2023-03-29 | 2023-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Ashley Cooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,168 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,004 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Outlaw Side Of Me](https://open.spotify.com/track/0ZFQExzpuRh8aZqbbYGMRJ) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [The Outlaw Side Of Me](https://open.spotify.com/album/4cp8Sbd4AguoCXt2qw4Dn2) | 3:26 |
 | 100 | [Penniless & Broke](https://open.spotify.com/track/26TL1SaQwfeu2RUEpICMOh) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Penniless & Broke](https://open.spotify.com/album/16lLoTcCLcQTGQ2jc6RSZx) | 3:39 |
 
-Snapshot ID: `MCxmZjI5MTU5NzAzOGI4ZmQ5OGJiZGMyMzcwNjQ4MzY4MTYyMzMxNTM5`
+Snapshot ID: `MCxkMWYyN2I2MTc3NTk0NDEwMjJkNjI2ZGVhM2I0NWFmODdmMTAxMTA0`

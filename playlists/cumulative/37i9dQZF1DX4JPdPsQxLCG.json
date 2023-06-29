@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 167979,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
@@ -562,6 +562,24 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245281,
+      "name": "Borrow Trouble",
+      "url": "https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b"
     },
     {
       "album": {
@@ -1671,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "The Loneliest Time",
+        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Go Find Yourself or Whatever",
+      "url": "https://open.spotify.com/track/0nrKz8Ez1mQ1wiv1oqc7Ld"
+    },
+    {
+      "album": {
         "name": "Akimbo Alogo",
         "url": "https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO"
       },
@@ -2618,7 +2654,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 236453,
       "name": "Leather Jacket",
       "url": "https://open.spotify.com/track/7iDPOnnIRfhsau33KevZ2r"
@@ -3000,7 +3036,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 210466,
       "name": "Monster Hospital",
       "url": "https://open.spotify.com/track/3cFumR9mKXUyQutmdLELqb"
@@ -4220,6 +4256,24 @@
       "duration_ms": 346533,
       "name": "Sinking Like A Sunset",
       "url": "https://open.spotify.com/track/25uc621mjv2Qh02hwYxUvM"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL"
     },
     {
       "album": {

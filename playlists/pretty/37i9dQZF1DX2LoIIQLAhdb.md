@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Joé Dwèt Filé x Dadju
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,108 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,188 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 17 | [Mère ya Palais](https://open.spotify.com/track/40XrmyoNFxG5KehHeFvrKT) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Mère ya Palais](https://open.spotify.com/album/6URO16cnGDleeYxQFZE8Yj) | 3:16 |
 | 18 | [KM](https://open.spotify.com/track/3JAhkNrtJBjeAoJB2B5Aei) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [UNE LARME DE +](https://open.spotify.com/album/5p22pIQyjHxtEU9ZflwmKc) | 2:39 |
 | 19 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 |
-| 20 | [LUNDI \(feat\. Low Jay\)](https://open.spotify.com/track/1YRYV4VUyDB0ju9DlZ0Xmm) | [Soid](https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [LUNDI \(feat\. Low Jay\)](https://open.spotify.com/album/7rKKsX9Jqwqfn9JOODsm2q) | 2:48 |
+| 20 | [LUNDI](https://open.spotify.com/track/1YRYV4VUyDB0ju9DlZ0Xmm) | [Soid](https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [LUNDI](https://open.spotify.com/album/7rKKsX9Jqwqfn9JOODsm2q) | 2:48 |
 | 21 | [Assez \(épisode 1\)](https://open.spotify.com/track/5knL7kkdGRwHHS1sjZIH5H) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw) | 3:23 |
 | 22 | [Une Femme](https://open.spotify.com/track/5QV9n75vtzTzXuVUZDWyt9) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Une Femme](https://open.spotify.com/album/0mbq63Bpo92pg9pCX1uxcp) | 2:50 |
 | 23 | [Paradis](https://open.spotify.com/track/11UPOVNoEDQT16KypWgRR8) | [Meiitod](https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS) | [Paradis](https://open.spotify.com/album/5LfYlTPsOjWOniv1s96cJE) | 2:40 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [M'en Aller](https://open.spotify.com/track/298V78s5qaoPu1xC4go6QV) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [M'en Aller](https://open.spotify.com/album/78DXohpeC4uMICjoUxHQXh) | 2:34 |
 | 40 | [Nefertiti](https://open.spotify.com/track/3Zf16Lx6ShUcUgw7X8HwBR) | [iambillies](https://open.spotify.com/artist/6mvtHZpx2xlegpmqCZ3UpG) | [Nefertiti](https://open.spotify.com/album/09xs6YQteSjNMB3LLS5gbo) | 3:15 |
 
-Snapshot ID: `MCwyNGZjYTIyZDZmMzU1NmRjYzFmMGJlNjYyOTllODAyYmY5MzIzOGQx`
+Snapshot ID: `MCw2Y2I2OWE0MjgzMzdkY2RlOGFjZTdiYmU3NDc5Yjg2NzA3MWE5MmQ1`

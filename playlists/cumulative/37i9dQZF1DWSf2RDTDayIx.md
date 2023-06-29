@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-359 songs - 19 hr 9 min
+360 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 | 2022-10-05 |  |
 | [Be My One](https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1) | 2:22 | 2022-04-08 |  |
 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 | 2022-10-28 |  |
-| [Beautiful Life](https://open.spotify.com/track/0H6Bd7IcSfYmo87CJGA2D2) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Beautiful Life](https://open.spotify.com/album/5KEo013MN3nFfw2ZsbTRfd) | 2:48 | 2023-05-12 |  |
+| [Beautiful Life](https://open.spotify.com/track/0H6Bd7IcSfYmo87CJGA2D2) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Beautiful Life](https://open.spotify.com/album/5KEo013MN3nFfw2ZsbTRfd) | 2:48 | 2023-05-12 | 2023-06-29 |
 | [Bedroom Eyes \(feat\. Studio Killers\)](https://open.spotify.com/track/4XP2xY8tUYed1cceuh24Q8) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Bedroom Eyes \(feat\. Studio Killers\)](https://open.spotify.com/album/2rOw4IFkPQWBo6gG3hB7qY) | 2:58 | 2021-12-03 | 2023-05-13 |
 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-28 |  |
 | [Best Is Yet To Come \(with Kyle Reynolds\)](https://open.spotify.com/track/2gZwBmkSmsVfEPFWGuWTDk) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Best Is Yet To Come \(with Kyle Reynolds\)](https://open.spotify.com/album/2YNA1Y8T91S15TPTzMCaFx) | 3:35 | 2021-12-03 |  |
@@ -290,6 +290,7 @@
 | [Somebody Like You](https://open.spotify.com/track/3d5sy82qemYO5B5TljeoBs) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Legacy](https://open.spotify.com/album/6NnwmqK1adZp3yXObpoD0W) | 3:28 | 2021-12-03 | 2022-01-08 |
 | [Somebody To Love](https://open.spotify.com/track/2KTO4mRnARHCqXhV8f6MBj) | [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Somebody To Love](https://open.spotify.com/album/4nTaBQgE0Qy3vEQCvZL8cJ) | 2:55 | 2022-07-08 |  |
 | [Something About Your Love](https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 5:23 | 2022-07-08 |  |
+| [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-06-23 |  |
 | [Special Thing](https://open.spotify.com/track/2OGcwhOAldo9aiDwBnXMfc) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Gilligan Moss](https://open.spotify.com/album/5wuxthfn38zXXuN8RlzOy9) | 4:57 | 2022-07-22 | 2023-05-13 |
 | [Special Thing](https://open.spotify.com/track/2uFII0hcLjEbbn1e6Ft1Qd) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Special Thing](https://open.spotify.com/album/5yZsNqyu3wzeWcyyiGbCQt) | 4:57 | 2021-12-03 | 2022-07-29 |
 | [Stargazing](https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Stargazing](https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC) | 3:59 | 2022-09-23 |  |

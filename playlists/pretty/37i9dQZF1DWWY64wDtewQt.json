@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 5751811,
+  "num_followers": 5760825,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTZkNDg5OTkxOGUzYzY5NzE1ZDgyMGUxZmVlZTY4NmZkYjJkZGM4",
+  "snapshot_id": "MCxlYzM5MGMwNDI0YzkyYjJjZmFhOTJmOTQ5MDQ3ZDU3M2Q5YjYxZTUz",
   "tracks": [
     {
       "added_at": "2022-05-20 10:12:52",
@@ -1432,10 +1432,6 @@
           "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
         },
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
           "name": "Bone Thugs-N-Harmony",
           "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
         },
@@ -1703,18 +1699,26 @@
     {
       "added_at": "2021-05-12 14:02:59",
       "album": {
-        "name": "High As Fuck",
-        "url": "https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h"
+        "name": "Swaggin' At The Partment",
+        "url": "https://open.spotify.com/album/3kSQ0XnUYVSwg4muMAQi85"
       },
       "artists": [
         {
-          "name": "Ghostface Playa",
-          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+          "name": "\u00c7a\u011foflex",
+          "url": "https://open.spotify.com/artist/1NyMcjsNqYyEheSdBUGjqX"
+        },
+        {
+          "name": "Greekgods",
+          "url": "https://open.spotify.com/artist/485pS8dHVx4I3x7OSoiOuZ"
+        },
+        {
+          "name": "Mirin Brah",
+          "url": "https://open.spotify.com/artist/3zRntkZATrw8kMT6rWGeyN"
         }
       ],
-      "duration_ms": 124540,
-      "name": "Swaggin' at the Partment",
-      "url": "https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN"
+      "duration_ms": 124667,
+      "name": "Swaggin' At The Partment",
+      "url": "https://open.spotify.com/track/7ITCyjmVcBWKAe38V8epGU"
     },
     {
       "added_at": "2022-08-26 10:49:32",

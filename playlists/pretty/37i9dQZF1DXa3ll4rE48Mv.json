@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 152000,
+  "num_followers": 152169,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGZiZTVmMjYxMmU5YmYyZDFkZDNkNzdkMjI1ZGE4MTI0ZTg0OWVl",
+  "snapshot_id": "MCwyMzgzZDkzY2I2MDhjNGE1YTNiMzUzMmU0MzlhMWUzNWZkOWNmYjYx",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Make Yr Life",
-        "url": "https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ"
-      },
-      "artists": [
-        {
-          "name": "The Butchies",
-          "url": "https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "She's so Lovely",
-      "url": "https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Free Bleedin'",
         "url": "https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 197052,
       "name": "Tinder Girl",
       "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Make Yr Life",
+        "url": "https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ"
+      },
+      "artists": [
+        {
+          "name": "The Butchies",
+          "url": "https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "She's so Lovely",
+      "url": "https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Friends. Lovers. Favorites",
-        "url": "https://open.spotify.com/album/6GEy3owNRRCycgZVqNdwVv"
-      },
-      "artists": [
-        {
-          "name": "The Hirs Collective",
-          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
-        }
-      ],
-      "duration_ms": 63466,
-      "name": "It's Ok to Be Sick",
-      "url": "https://open.spotify.com/track/2M2TubCJPMDJXj8OEJiV1L"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Every Now and Then",
         "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 154618,
       "name": "Dream Partner",
       "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Friends. Lovers. Favorites",
+        "url": "https://open.spotify.com/album/6GEy3owNRRCycgZVqNdwVv"
+      },
+      "artists": [
+        {
+          "name": "The Hirs Collective",
+          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
+        }
+      ],
+      "duration_ms": 63466,
+      "name": "It's Ok to Be Sick",
+      "url": "https://open.spotify.com/track/2M2TubCJPMDJXj8OEJiV1L"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Girls With Glasses",
-        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
+        "name": "Home Recordings 2020 - 2021",
+        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
       },
       "artists": [
         {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
         }
       ],
-      "duration_ms": 129706,
-      "name": "Girls With Glasses",
-      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
+      "duration_ms": 86842,
+      "name": "Eden on Acid",
+      "url": "https://open.spotify.com/track/5h8VuvFvYuQ0dzJhxPcqjZ"
     }
   ],
   "unique_name": "Queercore",

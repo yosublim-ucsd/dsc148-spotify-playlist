@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Anthony Hervey Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Sen Morimoto Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -3690,7 +3690,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 317408,
       "name": "Cavelight",
       "url": "https://open.spotify.com/track/2myFC8H8H4DlMSXVxoVo7t"
@@ -4540,7 +4540,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 160151,
       "name": "Corridue",
       "url": "https://open.spotify.com/track/1qgaNwx2A6vihmUY97ELup"
@@ -5102,7 +5102,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 370813,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/1A1w6Y198iavOeemQlGOPy"
@@ -5198,6 +5198,24 @@
       "duration_ms": 397042,
       "name": "Despu\u00e9s de la lluvia - Jazz Online Club Sessions",
       "url": "https://open.spotify.com/track/6tSDhCifJlHWmXYrOOwhHE"
+    },
+    {
+      "album": {
+        "name": "Diagnosis",
+        "url": "https://open.spotify.com/album/3aZsnirge4waNPaR1nvZRE"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "Diagnosis",
+      "url": "https://open.spotify.com/track/7vlddLsCrx8WdhCHgvHd7b"
     },
     {
       "album": {
@@ -5382,7 +5400,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 184190,
       "name": "Distracted",
       "url": "https://open.spotify.com/track/3DxZNgpKQvUFQ29s9soRUz"
@@ -5706,6 +5724,32 @@
       "duration_ms": 195378,
       "name": "Driving Me Insane",
       "url": "https://open.spotify.com/track/4bbmKQSab2j4wRVvhQGJ3v"
+    },
+    {
+      "album": {
+        "name": "Drum Of Stories",
+        "url": "https://open.spotify.com/album/2IPgkvuvlCJHZNuVOrE0dC"
+      },
+      "artists": [
+        {
+          "name": "John Hadfield",
+          "url": "https://open.spotify.com/artist/1xRCMJJtUe7hOOSiZmgKeI"
+        },
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
+        },
+        {
+          "name": "Chris Jennings",
+          "url": "https://open.spotify.com/artist/2B9Gls4wGkUKOLA7vLwol1"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Drum of Stories (feat. Gr\u00e9gory Privat; Chris Jennings)",
+      "url": "https://open.spotify.com/track/1IgapmQrpvvFDjdNjcSSdx"
     },
     {
       "album": {
@@ -6134,6 +6178,24 @@
       "duration_ms": 231929,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/5QKvAzrST1NxGnb52sR0th"
+    },
+    {
+      "album": {
+        "name": "Elisir",
+        "url": "https://open.spotify.com/album/5GdBBYPMy4nA0seHhCy5Sa"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201801,
+      "name": "Elisir",
+      "url": "https://open.spotify.com/track/6tagbIoTWyXwbHXd1i25Iv"
     },
     {
       "album": {
@@ -8227,6 +8289,28 @@
     },
     {
       "album": {
+        "name": "Have You Seen This Queen",
+        "url": "https://open.spotify.com/album/6l7P1b0pigacSs533pF5Zr"
+      },
+      "artists": [
+        {
+          "name": "All Day Breakfast Cafe",
+          "url": "https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd"
+        },
+        {
+          "name": "Roella Oloro",
+          "url": "https://open.spotify.com/artist/3W4gAVUv2yhldRba1vE8Hu"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342654,
+      "name": "Have You Seen This Queen",
+      "url": "https://open.spotify.com/track/0iYMXQSe4SsPqIcnM7hVYl"
+    },
+    {
+      "album": {
         "name": "Hayden Tract (Dusk)",
         "url": "https://open.spotify.com/album/7AgfrmZnU8ww3IFdRfTCHB"
       },
@@ -8524,6 +8608,32 @@
       "duration_ms": 308438,
       "name": "Hoodie Beats",
       "url": "https://open.spotify.com/track/08wBXGjYmkjfnkiqwj6bp8"
+    },
+    {
+      "album": {
+        "name": "Hopes and Dreams",
+        "url": "https://open.spotify.com/album/1Is10Y8DQnb8RIKDfl4hHe"
+      },
+      "artists": [
+        {
+          "name": "Addison Frei",
+          "url": "https://open.spotify.com/artist/4NfMAQV9vkPudAdPGTDKSq"
+        },
+        {
+          "name": "Julia Easterlin",
+          "url": "https://open.spotify.com/artist/4f4k9MkmDmRToDktQomwrX"
+        },
+        {
+          "name": "Mike Brun",
+          "url": "https://open.spotify.com/artist/7aznf5FSlgVx37GziHBNDD"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286986,
+      "name": "Hopes and Dreams",
+      "url": "https://open.spotify.com/track/1Ju7jwZPIMa39lV5DWx4aC"
     },
     {
       "album": {
@@ -11934,7 +12044,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 151874,
       "name": "Lucmagn",
       "url": "https://open.spotify.com/track/2UqOt5qiGiWmfmuM40D2oQ"
@@ -14467,6 +14577,24 @@
     },
     {
       "album": {
+        "name": "ON THAT SIDE (Live)",
+        "url": "https://open.spotify.com/album/220uNRzPU6AHl96pXVmBMQ"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174597,
+      "name": "ON THAT SIDE - Live",
+      "url": "https://open.spotify.com/track/54moRd4yBbYOmXeoY75G6b"
+    },
+    {
+      "album": {
         "name": "On the Other Side",
         "url": "https://open.spotify.com/album/13hiwu3h80VxxLOuWSABCX"
       },
@@ -15010,6 +15138,24 @@
       "duration_ms": 98666,
       "name": "Parade",
       "url": "https://open.spotify.com/track/4PLkRm8kqmbUcyOtZNEOHr"
+    },
+    {
+      "album": {
+        "name": "Paradiso",
+        "url": "https://open.spotify.com/album/6ENaqTLyj5Zplts75jtInL"
+      },
+      "artists": [
+        {
+          "name": "Nick Marks",
+          "url": "https://open.spotify.com/artist/24oDE0vaH0JH83VNAQ7pGL"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381586,
+      "name": "Paradiso",
+      "url": "https://open.spotify.com/track/0ESyJO8ZJLJ8ruHj2Rx0KU"
     },
     {
       "album": {
@@ -16093,6 +16239,28 @@
     },
     {
       "album": {
+        "name": "Raised by Conservatives",
+        "url": "https://open.spotify.com/album/0b9Or60Bvb4SuNrChpI93H"
+      },
+      "artists": [
+        {
+          "name": "Gerald Bailey",
+          "url": "https://open.spotify.com/artist/0ZKZwZhlCV6E3RSS2X66zx"
+        },
+        {
+          "name": "Kyle Hodges",
+          "url": "https://open.spotify.com/artist/1nzbH7agHYeRORFpQCVqyI"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123653,
+      "name": "Raised by Conservatives",
+      "url": "https://open.spotify.com/track/0n4yQY4XrRjVTlus30ev9c"
+    },
+    {
+      "album": {
         "name": "Raze",
         "url": "https://open.spotify.com/album/3xEdobLAbw0Ghyer0PkmX8"
       },
@@ -16334,7 +16502,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 419379,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4XKZrjzQI4FKrqR7sahVEp"
@@ -17632,7 +17800,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 378839,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/57bfuyhyiUI3clhgozihNJ"
@@ -20098,7 +20266,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 249611,
       "name": "The Fact of Rain",
       "url": "https://open.spotify.com/track/70kMaKVSf7H4hBbPoZBj5a"
@@ -23768,7 +23936,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 244107,
       "name": "Zaharan Oasis (Pt 1)",
       "url": "https://open.spotify.com/track/1D68PsHZ0VFpRAJMeF3it6"
@@ -23790,6 +23958,24 @@
       "duration_ms": 221639,
       "name": "ZANGYO",
       "url": "https://open.spotify.com/track/5hqJ9w8sbwPWnZBIDsLlF9"
+    },
+    {
+      "album": {
+        "name": "Zenna",
+        "url": "https://open.spotify.com/album/7wjEFvkl2zftP0aR2BcBIM"
+      },
+      "artists": [
+        {
+          "name": "Wandering Monster",
+          "url": "https://open.spotify.com/artist/76qpgEBPZBE8obznb3DBHy"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443666,
+      "name": "Zenna",
+      "url": "https://open.spotify.com/track/3SzVPug79tufstgxOYG5Bp"
     },
     {
       "album": {

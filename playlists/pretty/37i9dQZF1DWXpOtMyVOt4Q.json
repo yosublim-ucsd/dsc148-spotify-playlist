@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 236319,
+  "num_followers": 236371,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODYwN2FkM2ZhOGMyMDY0NzBmNDBjOGE5ZWY5Mjc4OTA5Y2E4NzI4",
+  "snapshot_id": "MCxmMjI3YmZlZmM5ZjY0Yjk3OTJjZDI3NzY2OGJjODRlZWVmMjdiMDAz",
   "tracks": [
     {
       "added_at": "2023-02-27 20:56:19",
@@ -471,26 +471,6 @@
     {
       "added_at": "2023-02-27 20:56:19",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7"
-      },
-      "artists": [
-        {
-          "name": "Peak Twilight",
-          "url": "https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx"
-        },
-        {
-          "name": "amies",
-          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Until We Meet Again",
-      "url": "https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1"
-    },
-    {
-      "added_at": "2023-02-27 20:56:19",
-      "album": {
         "name": "scenes I",
         "url": "https://open.spotify.com/album/32VEzvjaCrWCdoSUB67Wvf"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 250344,
       "name": "Crazy for You",
       "url": "https://open.spotify.com/track/7y128njgv0ipvbzIPycOgx"
+    },
+    {
+      "added_at": "2023-02-27 20:56:19",
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7"
+      },
+      "artists": [
+        {
+          "name": "Peak Twilight",
+          "url": "https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx"
+        },
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Until We Meet Again",
+      "url": "https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1"
     },
     {
       "added_at": "2023-02-27 20:56:19",

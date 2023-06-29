@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-942 songs - 2 day 3 hr 32 min
+943 songs - 2 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [All Cried Out \(feat\. Alex Newell\) \- Don Diablo Remix](https://open.spotify.com/track/5wusiZe1lYYfgfrMZPo3bJ) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Reconstructions](https://open.spotify.com/album/4bMk4WQ6nRNkmNLofkqfts) | 4:29 | 2020-05-22\* | 2020-09-06 |
 | [All I Know](https://open.spotify.com/track/122vZqxDr7xtRuNhZZPUda) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [All I Know](https://open.spotify.com/album/1HflDVwmJaYYJCvnusHcAw) | 2:28 | 2020-05-22\* | 2020-09-06 |
 | [All Night](https://open.spotify.com/track/5aUmuq6558VklXn7ccDEgs) | [Soundstream](https://open.spotify.com/artist/06Bb7O2LqLNb7kRayt2tfV) | [All Night](https://open.spotify.com/album/68NuE55yBJanWp9SVwns6B) | 8:33 | 2020-07-01 | 2021-12-21 |
-| [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-04-06 |  |
+| [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 | 2023-06-23 |  |
+| [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-04-06 | 2023-06-29 |
 | [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2022-12-16 |  |
 | [All Over The World](https://open.spotify.com/track/0XS2z0E0ox7F4JHYKKR4wK) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [All Over The World](https://open.spotify.com/album/1RRCrllIhLM6hfW366vsvP) | 2:25 | 2020-05-22\* | 2022-04-19 |
 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 | 2023-05-26 | 2023-06-07 |

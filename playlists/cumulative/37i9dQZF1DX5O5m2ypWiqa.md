@@ -2,7 +2,7 @@
 
 ### [Clásicas de Banda](https://open.spotify.com/playlist/37i9dQZF1DX5O5m2ypWiqa)
 
-> ¡Y qué retumbe la bandona, pariente! Julión Álvarez y su Norteño Banda en portada.
+> ¡Y qué retumbe la bandona, pariente! Banda MS en portada
 
 195 songs - 10 hr 51 min
 

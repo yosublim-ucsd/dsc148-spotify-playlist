@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,790 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,799 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Right Here \(feat\. Benny Sings\)](https://open.spotify.com/track/0pceDOsozyHPaki99kCSJQ) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Right Here \(feat\. Benny Sings\)](https://open.spotify.com/album/1FONSSx47AfEC6DBTumU2W) | 2:29 |
 | 50 | [Giant Feelings](https://open.spotify.com/track/7wCFToKO63HYn4oP6xZMHh) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:19 |
 
-Snapshot ID: `MCwxZDg2NjIxM2M5MjFhYzBhOWYxYTVhYjhjY2E4NGM1MDljNDVlMDBk`
+Snapshot ID: `MCxmZmFhMDc5NTA5ODY2OWFkNmM2NTY1Njg0NzBmN2M0ZjRjNDljN2Y1`

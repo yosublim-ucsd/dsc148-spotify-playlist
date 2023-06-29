@@ -4,12 +4,13 @@
 
 > autumn leaves falling like pieces into place
 
-132 songs - 8 hr 37 min
+133 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Dream I Had in My Past Life](https://open.spotify.com/track/01nLwmCA68K6rqlVQwV6bs) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/6TZ0b8gl6YLKGYGaeMGbRO) | 1:32 | 2022-09-21 |  |
+| [A Dream I Had in My Past Life](https://open.spotify.com/track/01nLwmCA68K6rqlVQwV6bs) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/6TZ0b8gl6YLKGYGaeMGbRO) | 1:32 | 2022-09-21 | 2023-06-29 |
 | [A Dream I Had in My Past Life](https://open.spotify.com/track/5ressNYvOIWP7ofL9iYCoW) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/0QmuKbsoNn6GUxMJBTaQon) | 1:32 | 2022-09-21 | 2022-10-22 |
+| [A Dream I Had in My Past Life](https://open.spotify.com/track/63umB3lJqNwWyGUV7PaFUv) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/2Yp9WilrLmcvqRtYC9JLbX) | 1:32 | 2022-10-24 |  |
 | [A Lack of Color](https://open.spotify.com/track/6LNwTodkmxsc2dKRJWQr6y) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 3:35 | 2022-09-21 | 2023-04-29 |
 | [A Lack of Color](https://open.spotify.com/track/7eODmTZh5wkd032bW1xK4l) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 3:35 | 2022-10-24 |  |
 | [A Lack of Color](https://open.spotify.com/track/1nuqzCMgj2lxZCmpdCmIGv) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The O.C\. Vol\. 2](https://open.spotify.com/album/0kJwmMAkfeZds5rz5NK7ID) | 3:36 | 2022-10-24 | 2022-11-14 |

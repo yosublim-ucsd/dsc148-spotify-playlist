@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain](/playlists/plain/37i9dQZF1DX5cXGtVmblSB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5cXGtVmblSB)
 
-### [Cat Calming Music](https://open.spotify.com/playlist/37i9dQZF1DX5cXGtVmblSB)
+### [Calming Cat Music](https://open.spotify.com/playlist/37i9dQZF1DX5cXGtVmblSB)
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,639 likes - 35 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,680 likes - 35 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 34 | [Rusty's Ballad](https://open.spotify.com/track/2GB1uEIsHWNoXldwN6mtyI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Rusty's Ballad](https://open.spotify.com/album/0TSPCRCHOY6rnGxcCklrxF) | 3:21 |
 | 35 | [Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile": II\. Andante](https://open.spotify.com/track/6IKPX55mQL42ELcLIkK0Ci) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: Piano Sonatas Nos\. 15 & 16; Rondo in A minor](https://open.spotify.com/album/6krZ3BTfSZmA4OVceOAttH) | 7:00 |
 
-Snapshot ID: `MCw5NTIzMDZkNGEwMWE5NzhlYzMxMTgwMzY3M2U1MjNlODhmNGQ0ZjYz`
+Snapshot ID: `MCxkODBkMjE2MjAwZTY2OGRiZjU5MDI1NGI1YTQ2ZGVjZGYwODI2MzBj`

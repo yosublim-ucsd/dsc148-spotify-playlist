@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Raghavendra Stores
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,883 likes - 79 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,900 likes - 79 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 78 | [Daari Savidu \(From "Nodada Putagalu"\)](https://open.spotify.com/track/7LZOb0IK8TdxPQ4EKx1eoU) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Vignesh Menon](https://open.spotify.com/artist/3rUb0UcwcnZpNvirKf8dmP), [Raghunath\. L](https://open.spotify.com/artist/5g9SBIU1iy01bQ30TJhLHz), [Vasanth Kumar\. S](https://open.spotify.com/artist/68NoIPDFFy3LOcPR6IeSKT) | [Daari Savidu \(From "Nodada Putagalu"\)](https://open.spotify.com/album/0brGjt7kehCzgoEe30GNTa) | 4:00 |
 | 79 | [Malegaala Bantu Saniha \(From "Pranayam"\)](https://open.spotify.com/track/6vKoE9pjqjiziMhEOOaNXS) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Mano Murthy](https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj), [Jayanth Kaikini](https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57) | [Malegaala Bantu Saniha \(From "Pranayam"\)](https://open.spotify.com/album/1Xq7I3gsMPVef2SjifpzFk) | 4:29 |
 
-Snapshot ID: `MCw5MzQwZjU2NjMzMTQ0YTY0NWE0YjM3MWUwNzFkMGEwNGM0MDBjYmMw`
+Snapshot ID: `MCxlNWM0NDg2MTk0MTRmMmQ1NjQzMTY5N2ZjNzNhZDYzMzkwMzA4MWQx`

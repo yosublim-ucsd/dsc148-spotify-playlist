@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: Vallerie Muthoni
+> The best of bars, beats & rhymes from the 254\. Cover: Khaligraph Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,395 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,418 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [Talk 1](https://open.spotify.com/track/2IEMb0weVldFdaFNKk3S2e) | [Zische](https://open.spotify.com/artist/0JB6umTJU4N8s89kqt63yZ) | [Talk 1](https://open.spotify.com/album/1fyB2EcRkCsLybJBhdDKRz) | 2:37 |
 | 60 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 |
 
-Snapshot ID: `MCw1MzlmZmJkNDc4OTFmNDhjMTc3MGVlMGQwYTdkMjQzZGM4YjliYTdm`
+Snapshot ID: `MCxiNDM2MWYzMjFjNDQ4ZDJjOTBkMjk2NjkxYzBhYmFkN2NkYmU2ZTQ5`

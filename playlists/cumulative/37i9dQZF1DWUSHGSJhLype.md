@@ -4,7 +4,7 @@
 
 > aquele rodízio de pizza com sushi e frango com farofa do jeitinho q o brasileiro gosta
 
-110 songs - 5 hr 12 min
+111 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Cria Da Ivete \- Ao Vivo](https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Chega Mais \(Ao Vivo\)](https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c) | 3:57 | 2023-05-15 |  |
 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Deixa Eu Viver \(Ao Vivo\)](https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B) | 3:21 | 2023-05-15 |  |
 | [DEUS É MUITO BOM \- Ao Vivo](https://open.spotify.com/track/235CP5ItAYMS6usv3C8jkP) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [DEUS É MUITO BOM \(Ao Vivo\)](https://open.spotify.com/album/49T6GunhdUuSCbYBZ156AD) | 2:54 | 2023-05-29 |  |
-| [Diferentão \- Ao Vivo](https://open.spotify.com/track/6KqDX602MYtNGTbSpSzNxd) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Diferentão \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/4eYzFUOOiaSq8pp7ftEfX3) | 2:43 | 2023-05-15 |  |
+| [Diferentão \- Ao Vivo](https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 2:43 | 2023-06-01 |  |
+| [Diferentão \- Ao Vivo](https://open.spotify.com/track/6KqDX602MYtNGTbSpSzNxd) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Diferentão \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/4eYzFUOOiaSq8pp7ftEfX3) | 2:43 | 2023-05-15 | 2023-06-29 |
 | [Digo ou Não Digo \- Ao Vivo](https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Digo ou Não Digo \(Ao Vivo\)](https://open.spotify.com/album/4rrEzh5Y8zLVH7njdRIECu) | 3:09 | 2023-05-15 |  |
 | [DONA DE MIM](https://open.spotify.com/track/7sopDXkuzXtHt8AQpdBxmT) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [DONA DE MIM](https://open.spotify.com/album/6gUUHKk5qcIHyffnbfApNO) | 2:25 | 2023-05-15 |  |
 | [Duas Três](https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Adriano Rhod](https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF) | [Duas Três](https://open.spotify.com/album/3wqvUHnPBKg34UfjlGouEr) | 2:36 | 2023-05-15 |  |

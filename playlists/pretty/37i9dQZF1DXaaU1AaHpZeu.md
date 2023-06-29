@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Los Aptos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,108 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,116 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Solsticio](https://open.spotify.com/track/29Q552BxMc52LxxFhWm25E) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Solsticio](https://open.spotify.com/album/7dz02tZraKvPPuDmm4znHL) | 3:57 |
 | 50 | [APAGUE MI CELULAR](https://open.spotify.com/track/2yGxjr5f3HzCRegbYo3Pj1) | [ESCHICANO](https://open.spotify.com/artist/04p4tk3TWeE5bJHQtkgP9Q) | [APAGUE MI CELULAR](https://open.spotify.com/album/4gg93Rvu1kriXt8pjxOpc8) | 3:02 |
 
-Snapshot ID: `MCxkY2FlZDRhZGMwODgzNTZlODdiNTJiM2E3NDVmYWYzNDE2ZWRjOTE5`
+Snapshot ID: `MCxkYmI2ZDYwNmNjNWFhMjI4MzNjMWMxMjFlMDI1OTE0ZGM4ODMwM2Ew`

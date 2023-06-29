@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,627 likes - 41 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,647 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 23 | [Days Of Gold](https://open.spotify.com/track/2MT6v18Jwdeldtfpd3tAw5) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [The Cadillac Three](https://open.spotify.com/album/6xor8OxsOmdzUfn2d0LVud) | 4:44 |
 | 24 | [Personal Jesus](https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:19 |
 | 25 | [In Time](https://open.spotify.com/track/5XnXpQM5FR8ZQyvDY8RKQS) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [The Punisher: The Album](https://open.spotify.com/album/35bHrnMSA8aZ0P5nemqhIp) | 2:45 |
-| 26 | [God's Gonna Cut You Down](https://open.spotify.com/track/0e8mTKsfKFirEXMkXArYuy) | [Caves](https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD), [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [God's Gonna Cut You Down](https://open.spotify.com/album/7zauCoFZ0Q5kOtnpnVOtlD) | 3:58 |
+| 26 | [God's Gonna Cut You Down](https://open.spotify.com/track/1UAyV3FCIrowgu6zCKtUYZ) | [The Band Caves](https://open.spotify.com/artist/0Wl9hMD8mnS2rks8rkDtC6), [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [God's Gonna Cut You Down](https://open.spotify.com/album/0x7e8onPAMxkvD1og5sjlt) | 3:58 |
 | 27 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 |
 | 28 | [Make Me No King](https://open.spotify.com/track/51VlHF8o4GlnZTNwUJvcXQ) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Make Me No King](https://open.spotify.com/album/0ggCg1U7w5k7j7fyoKzJM8) | 3:51 |
 | 29 | [Monsters](https://open.spotify.com/track/4ZQAlNuSk4bEnRvq2rNGSO) | [Heidi Mays](https://open.spotify.com/artist/6z8Uva3jdHUeS4J56jXVPO) | [Monsters](https://open.spotify.com/album/7t6XBMyawfnwxPPxjjv1Ae) | 3:13 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 40 | [Haunted](https://open.spotify.com/track/6i8lkIyU8XiCIzfPwRtMPE) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 3:33 |
 | 41 | [O Children Come](https://open.spotify.com/track/5UlOGXhDP4qXbSKHyLnQoM) | [JJ Weeks Band](https://open.spotify.com/artist/6fXIdyfCq00oaElvH64eri) | [O Children Come](https://open.spotify.com/album/1MlHJSY1EH0AQaYYUnTNga) | 3:41 |
 
-Snapshot ID: `MCxlMTU0MWZmY2U0YmIxOGE0OTIyZGFlYTlmNTY2ZWMwMmFkZjMyNTc5`
+Snapshot ID: `MCxhMDliNTNlZTdhOTc4MzY5YjAyYzRlNzA3MTBjNGIzYWI3MzQ3Y2Jm`

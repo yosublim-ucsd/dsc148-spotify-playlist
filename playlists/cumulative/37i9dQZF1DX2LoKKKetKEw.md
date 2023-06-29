@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad">Guvna B</a>
 
-133 songs - 6 hr 48 min
+134 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Hosanna](https://open.spotify.com/track/6OLJqYcAfhqd91ZnvH8Sst) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c) | 3:21 | 2022-07-30 | 2023-02-11 |
 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 | 2022-07-30 |  |
 | [I Know](https://open.spotify.com/track/7i2iaClUDWgPcqhGCrDCO0) | [Moses Onofeghara](https://open.spotify.com/artist/5kGx50WZX5gqEa706mmOqT), [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [I Know](https://open.spotify.com/album/24dKzAeT4p0xNoF1RZb9c6) | 3:39 | 2023-05-19 |  |
-| [I Need You](https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [GAV](https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge) | [I Need You](https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC) | 2:35 | 2022-12-16 |  |
+| [I Need You](https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [GAV](https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge) | [I Need You](https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC) | 2:35 | 2022-12-16 | 2023-06-29 |
 | [I No Send](https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS) | 3:53 | 2023-05-19 |  |
 | [I Will Sing \(Refreshed\)](https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [I Will Sing \(Refreshed\)](https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD) | 5:50 | 2022-07-30 |  |
 | [Idols](https://open.spotify.com/track/7gPYRjhBoy72zlXzvVTEjP) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Idols](https://open.spotify.com/album/2BsgQxCEn4Vg5lPgbdXqS6) | 2:41 | 2022-09-18 | 2023-05-17 |
@@ -66,6 +66,7 @@
 | [King](https://open.spotify.com/track/3taZaAT7ZjTKqmZv4ahX5B) | [Martin Toe](https://open.spotify.com/artist/3qQlOGleEEh9SPVX0Jx5JK) | [King](https://open.spotify.com/album/1mlJct71ayzMOAS7oTiaqW) | 2:25 | 2022-12-16 | 2023-02-25 |
 | [Kulosa Gospel Cover \- Remix](https://open.spotify.com/track/68P1UKOPTMt5iQloTD571k) | [elnazor Obi](https://open.spotify.com/artist/2JLGAnT20pYCjVCLFPDLT7) | [Kulosa Gospel Cover \(Remix\)](https://open.spotify.com/album/28A4C03hGLqeNH23gCCIdO) | 1:17 | 2023-05-19 |  |
 | [Lay Low](https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Lay Low](https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd) | 2:54 | 2022-07-30 |  |
+| [Legacy \- Remix](https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T) | [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Legacy \(Remix\)](https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M) | 2:59 | 2023-05-19 |  |
 | [Light](https://open.spotify.com/track/24yzTiIIm6voL9ez0AUOZ1) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0) | [Light](https://open.spotify.com/album/1eukwQKbKTyHhnQDGU0ZfC) | 2:18 | 2022-08-16 |  |
 | [Lotta Things](https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Lotta Things](https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5) | 2:36 | 2022-07-30 | 2023-05-20 |
 | [Made Whole](https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Made Whole](https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM) | 3:32 | 2022-07-30 | 2023-06-13 |

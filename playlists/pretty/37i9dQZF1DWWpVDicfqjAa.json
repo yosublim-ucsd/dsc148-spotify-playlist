@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:5ITI6SEoUZMIXXkzCfr4oE\">Aluna</a>'s favorite tracks. Updated regularly. Curated by Aluna. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 32100,
+  "num_followers": 32139,
   "original_name": "Aluna's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGYwZmJjMTIzYWU3ZTM2NjQ3MDk4ZTVhMTZjOTFkMzUwMmEwNWQ0",
+  "snapshot_id": "MCwwOTZlMzE0ZjhhYWRjYzJlMTI4NjIwMzE4OTgyOWZhZWRiZWI5ZDgz",
   "tracks": [
     {
       "added_at": "2023-06-22 21:50:35",
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         },
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
           "name": "MNEK",
           "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
           "name": "Eden Prince",

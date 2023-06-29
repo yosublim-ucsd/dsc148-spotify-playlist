@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. 🌍 Photo: LU KALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,081 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,146 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 27 | [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 |
 | 28 | [Maboko Milayi](https://open.spotify.com/track/3oa2Af68PY4x3tvNaqhptZ) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Maboko Milayi](https://open.spotify.com/album/5BwHaXF0mtcqxBjSHyIwvw) | 4:04 |
 | 29 | [Mood Pt.2](https://open.spotify.com/track/1Rm5415K4UyrcpQOvey81t) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Mood Pt.2](https://open.spotify.com/album/2tBx4UzTVjncOnm8oYVMZs) | 1:12 |
-| 30 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 |
+| 30 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:12 |
 | 31 | [Acolyte \(feat\. Dadju & Ninho\)](https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [MRTHN](https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g) | 2:49 |
 | 32 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 |
 | 33 | [Y'a pas ton 2](https://open.spotify.com/track/6WHEOnwNQHgIaXvyLQYt5I) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Y'a pas ton 2](https://open.spotify.com/album/5rj2ibJyKssCqvzE4PMKKD) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 79 | [Zigida](https://open.spotify.com/track/0VF1VyAiS0oRk3O22mv13k) | [Light Music Villa Nova](https://open.spotify.com/artist/0MP7DZOrBSfEEhLHz1dG2r), [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Cursus, Vol\. 2](https://open.spotify.com/album/7JyPd01Qu6N2dvj6PTYfSe) | 3:36 |
 | 80 | [Wosso](https://open.spotify.com/track/1BXm3Tq7FI0ZViLTQUaZM0) | [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb) | [Wosso](https://open.spotify.com/album/4PZ3zMNWTBompKMYzwJYWj) | 6:37 |
 
-Snapshot ID: `MCwyMTY5MTk0MjI4MGFkN2M2OTk3NjFkODE0YTFjMGFiNGEwM2EwNjRm`
+Snapshot ID: `MCw1M2U4MmUwMDg1YjBmOWNjMGU4NDczZTc4OTQ3Njg1YmExODhmNzBk`

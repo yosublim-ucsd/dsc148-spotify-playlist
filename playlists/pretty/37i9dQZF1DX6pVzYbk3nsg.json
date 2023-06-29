@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 1824,
+  "num_followers": 1832,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWFlMzE0NDdlMTBlMTBjZGQ0MjRjZDMzNmY4YmFhNWYyOGFiYzlm",
+  "snapshot_id": "MCw5M2MyZGJmMzMzMjk1OTdlOTVmZWY0Y2Q4NjdmMzE5ZmQ4ZDRkZmJl",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Regalo de Navidad",
-        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
       "artists": [
         {
-          "name": "Gary Nu\u00f1ez & Plena Libre",
-          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
         }
       ],
-      "duration_ms": 411213,
-      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
-      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
+      "duration_ms": 150333,
+      "name": "Yuba La Marile",
+      "url": "https://open.spotify.com/track/2mPf6A9J7WHdiHAgmqrLk2"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+        "name": "Regalo de Navidad",
+        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
       },
       "artists": [
         {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+          "name": "Gary Nu\u00f1ez & Plena Libre",
+          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
         }
       ],
-      "duration_ms": 150333,
-      "name": "Yuba La Marile",
-      "url": "https://open.spotify.com/track/2mPf6A9J7WHdiHAgmqrLk2"
+      "duration_ms": 411213,
+      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
+      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
         }
       ],
-      "duration_ms": 270226,
-      "name": "El Galo Canta",
-      "url": "https://open.spotify.com/track/6hEwsZGS0656EENLI1LTU5"
+      "duration_ms": 383000,
+      "name": "Lamento Borincano",
+      "url": "https://open.spotify.com/track/2cAVI7mFlCPPGBYnKoknWQ"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -615,22 +615,6 @@
       "duration_ms": 365600,
       "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
       "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
-        }
-      ],
-      "duration_ms": 176773,
-      "name": "Bombero Eh",
-      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "duration_ms": 176773,
+      "name": "Bombero Eh",
+      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Buya (Live)",
         "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+      },
+      "artists": [
+        {
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gua\u00f1eco pi\u00e9",
+      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Zona de Bomba",
         "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 223293,
       "name": "Plena De San Anton",
       "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
-      },
-      "artists": [
-        {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gua\u00f1eco pi\u00e9",
-      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
     },
     {
       "added_at": "2023-06-13 22:15:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Corinne Bailey Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,095 likes - 125 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,110 likes - 125 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 |
 | 125 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 |
 
-Snapshot ID: `MCw5OWJmNmM5YzVhMzczNGEyNDFkNjRkM2FjOGFhOGQ0MTE0MWM5YjU3`
+Snapshot ID: `MCwwZmQ4OWMxNDkyMjE0NGMyNDA0ZDVhNGRmMGM0MjllZTBlM2FjMWFi`

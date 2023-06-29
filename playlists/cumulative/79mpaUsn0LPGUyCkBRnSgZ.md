@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-272 songs - 17 hr 59 min
+274 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 | 2022-04-21 |  |
 | [Great No One](https://open.spotify.com/track/4c03SdScyZkFELVKv70fna) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Future Me Hates Me](https://open.spotify.com/album/3tEbzW0ERmSIPNVekmeYOl) | 3:22 | 2022-12-09 |  |
 | [Hands](https://open.spotify.com/track/6NjDSYmK9gIMXL05v55nql) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Rounds](https://open.spotify.com/album/1ehwJGN59cUxk9LuHRHJdv) | 5:41 | 2023-05-20 |  |
-| [Hangout at the Gallows](https://open.spotify.com/track/45EAxE8XCkBQyKDHOgSUvY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd) | 4:55 | 2023-06-19 |  |
+| [Hangout at the Gallows](https://open.spotify.com/track/45EAxE8XCkBQyKDHOgSUvY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd) | 4:55 | 2023-06-19 | 2023-06-29 |
 | [Hanif Reads Toni](https://open.spotify.com/track/4qTGN4ThY42Zl4N02II7rX) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko), [Hanif](https://open.spotify.com/artist/4XbJPicIyitMdRuYN1gE7K) | [Beloved! Paradise! Jazz!?](https://open.spotify.com/album/79cZfoRuFR4M6y8Fcn58E3) | 2:23 | 2023-06-22 |  |
 | [Haunted House on Zillow](https://open.spotify.com/track/6WDNTF2UZH8eGHFUH3xkcO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [HORSESHIT ON ROUTE 66](https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF) | 1:14 | 2023-04-25 |  |
 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2022-04-23 |  |
@@ -183,6 +183,7 @@
 | [Outside](https://open.spotify.com/track/5s0oWj51ttqiINWWJynNPz) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [By the Time I Get to Phoenix](https://open.spotify.com/album/7L7oMPboBCeyGLJVsHSWM2) | 6:14 | 2023-02-18 |  |
 | [Overdrive](https://open.spotify.com/track/5WjKzP0MY4COScm6VPrLqU) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:14 | 2022-07-30 |  |
 | [Pantyhose](https://open.spotify.com/track/7m6xr2HY0BYmBDTh2UIx02) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 2:57 | 2023-04-25 | 2023-05-11 |
+| [Peace To All Freaks](https://open.spotify.com/track/1gSk8vyR6ExYlSqIhEzpSO) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [UR FUN](https://open.spotify.com/album/0PvImlnEVBSPGeaCQhjkZH) | 4:44 | 2023-06-28 |  |
 | [Penitentiary Philosophy](https://open.spotify.com/track/4Nngx0azfbJibdS5oT3dG8) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:09 | 2023-04-12 |  |
 | [People of the Sun](https://open.spotify.com/track/3QjQp2bfAvLTCSi8Zhzqis) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 2:30 | 2022-11-24 |  |
 | [Perth](https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:22 | 2022-03-30 |  |
@@ -234,6 +235,7 @@
 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 | 2022-10-22 | 2023-04-03 |
 | [Suspended From Class](https://open.spotify.com/track/2YDmCSVs46QrhD2sqYGGqx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 3:46 | 2023-06-08 |  |
 | [Sweet Mickey](https://open.spotify.com/track/7LYPaZ2vyJBN6i99MJLqOS) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Paraffin](https://open.spotify.com/album/1LkgalktPs3mJMbcD9dhY8) | 2:29 | 2021-08-26 |  |
+| [Tears Of Rage \- Remastered 2000](https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:19 | 2023-06-28 |  |
 | [Teeth Like God's Shoeshine](https://open.spotify.com/track/5aUn8l6MaYrh9yNBzrLEBF) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 6:53 | 2022-09-20 |  |
 | [Tekka](https://open.spotify.com/track/4JDdbnKobkyn7j2o76D1mV) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:08 | 2023-01-07 |  |
 | [Testing](https://open.spotify.com/track/5Pnq7mIrqBkedxb59iyqv7) | [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5) | [Oh Me Oh My](https://open.spotify.com/album/1jXTqjpWJXAd2PtGcnp8pe) | 3:24 | 2023-05-31 |  |

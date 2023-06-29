@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 42503,
+  "num_followers": 42559,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjExZmU4ZmYzODBjMzExMzE4MDg0NDU5MGJmMThiM2E5ZTVlZThl",
+  "snapshot_id": "MCwwOTM2MGYzNzBkZDE0MzIxYzI3NjEwNDllMGFiZmEyN2M2YzcwMWMy",
   "tracks": [
     {
       "added_at": "2023-04-21 10:26:47",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 213093,
       "name": "Souled Out On You",
       "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Blues Hangover",
-      "url": "https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Put In a Little Time",
         "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 280062,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Blues Hangover",
+      "url": "https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 339466,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 259733,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 339466,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 208732,
-      "name": "It Serves Me Right to Suffer - Remastered",
-      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Jackie Sings The Blues",
         "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 124786,
       "name": "Please Tell Me Why",
       "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 208732,
+      "name": "It Serves Me Right to Suffer - Remastered",
+      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
+        "name": "Slow Burning Love",
+        "url": "https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0"
+      },
+      "artists": [
+        {
+          "name": "Oscar LaDell",
+          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
+        },
+        {
+          "name": "Chris Armour",
+          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Slow Burning Love",
+      "url": "https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
         "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 223477,
       "name": "What Am I Living For",
       "url": "https://open.spotify.com/track/0TgKinC3YFchPPeNE8M8nd"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
-        "name": "Slow Burning Love",
-        "url": "https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0"
-      },
-      "artists": [
-        {
-          "name": "Oscar LaDell",
-          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
-        },
-        {
-          "name": "Chris Armour",
-          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Slow Burning Love",
-      "url": "https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
-      },
-      "artists": [
-        {
-          "name": "Mud Morganfield",
-          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
-        }
-      ],
-      "duration_ms": 214194,
-      "name": "You Can't Lose What You Ain't Never Had",
-      "url": "https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 455967,
       "name": "Abandoned Child",
       "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
+      },
+      "artists": [
+        {
+          "name": "Mud Morganfield",
+          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
+        }
+      ],
+      "duration_ms": 214194,
+      "name": "You Can't Lose What You Ain't Never Had",
+      "url": "https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc"
     },
     {
       "added_at": "2023-04-21 10:26:47",

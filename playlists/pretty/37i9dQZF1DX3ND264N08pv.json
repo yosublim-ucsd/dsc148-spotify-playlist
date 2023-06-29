@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 47762,
+  "num_followers": 47849,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTQ0M2ZkMGQ4YzkyNGYzZmIxN2M4OGRmZDZkNmY0ZDdmMjI3OTA3",
+  "snapshot_id": "MCwxMzhiNDQyMmVhYTRhNDM3YmI1MGJkMGYzMTk5MWMwZjNiZmY2NDFm",
   "tracks": [
     {
       "added_at": "2023-06-26 15:24:42",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-06-26 15:24:42",
       "album": {
-        "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
-        "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 231102,
-      "name": "Enter The Dome - Official Thunderdome 2022 Anthem",
-      "url": "https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf"
-    },
-    {
-      "added_at": "2023-06-26 15:24:42",
-      "album": {
         "name": "Dirty Thoughts",
         "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 158421,
       "name": "Dirty Thoughts",
       "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
+    },
+    {
+      "added_at": "2023-06-26 15:24:42",
+      "album": {
+        "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
+        "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 231102,
+      "name": "Enter The Dome - Official Thunderdome 2022 Anthem",
+      "url": "https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf"
     },
     {
       "added_at": "2023-06-26 15:24:42",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-06-26 15:24:42",
       "album": {
+        "name": "Fight Them All",
+        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Fight Them All",
+      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
+    },
+    {
+      "added_at": "2023-06-26 15:24:42",
+      "album": {
         "name": "Dead Limit (Evil Activities Remix)",
         "url": "https://open.spotify.com/album/37IiaHO3iZ8k6v2b2Aiiv4"
       },
@@ -1187,42 +1207,6 @@
     {
       "added_at": "2023-06-26 15:24:42",
       "album": {
-        "name": "Fight Them All",
-        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Fight Them All",
-      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
-    },
-    {
-      "added_at": "2023-06-26 15:24:42",
-      "album": {
-        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
-        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
-      },
-      "artists": [
-        {
-          "name": "GridKiller",
-          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
-        }
-      ],
-      "duration_ms": 322666,
-      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
-      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
-    },
-    {
-      "added_at": "2023-06-26 15:24:42",
-      "album": {
         "name": "Attack",
         "url": "https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 194117,
       "name": "Attack",
       "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
+    },
+    {
+      "added_at": "2023-06-26 15:24:42",
+      "album": {
+        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
+      },
+      "artists": [
+        {
+          "name": "GridKiller",
+          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
+        }
+      ],
+      "duration_ms": 322666,
+      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
+      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
     },
     {
       "added_at": "2023-06-26 15:24:42",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-26 15:24:42",
       "album": {
-        "name": "The Bones Collection",
-        "url": "https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Hardcore Style",
-      "url": "https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr"
-    },
-    {
-      "added_at": "2023-06-26 15:24:42",
-      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2023-06-26 15:24:42",
+      "album": {
+        "name": "The Bones Collection",
+        "url": "https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Hardcore Style",
+      "url": "https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr"
     },
     {
       "added_at": "2023-06-26 15:24:42",
@@ -1447,6 +1447,38 @@
     {
       "added_at": "2023-06-26 15:24:42",
       "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2023-06-26 15:24:42",
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
+      },
+      "artists": [
+        {
+          "name": "Bloodfire",
+          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
+    },
+    {
+      "added_at": "2023-06-26 15:24:42",
+      "album": {
         "name": "Jongens van de straat",
         "url": "https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt"
       },
@@ -1483,38 +1515,6 @@
       "duration_ms": 178975,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
-    },
-    {
-      "added_at": "2023-06-26 15:24:42",
-      "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
-    },
-    {
-      "added_at": "2023-06-26 15:24:42",
-      "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
-      },
-      "artists": [
-        {
-          "name": "Bloodfire",
-          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
     },
     {
       "added_at": "2023-06-26 15:24:42",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2023-06-26 15:24:42",
       "album": {
-        "name": "Het Verbond",
-        "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
-      },
-      "artists": [
-        {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
-        },
-        {
-          "name": "Da Mouth of Madness",
-          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
-        }
-      ],
-      "duration_ms": 256457,
-      "name": "Het Verbond",
-      "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
-    },
-    {
-      "added_at": "2023-06-26 15:24:42",
-      "album": {
         "name": "Demonic Rage",
         "url": "https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 196636,
       "name": "Demonic Rage",
       "url": "https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B"
+    },
+    {
+      "added_at": "2023-06-26 15:24:42",
+      "album": {
+        "name": "Het Verbond",
+        "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
+      },
+      "artists": [
+        {
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+        }
+      ],
+      "duration_ms": 256457,
+      "name": "Het Verbond",
+      "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
     },
     {
       "added_at": "2023-06-26 15:24:42",

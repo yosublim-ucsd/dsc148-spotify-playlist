@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOzWgMvuIQ4pQ.md) - [plain]
 | 10 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
 | 11 | [Somethin' I'm Good At](https://open.spotify.com/track/6DRsEO5yuEGBF87qpyMB4d) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:37 |
 
-Snapshot ID: `MjY3NzQ5MTUsMDAwMDAwMDBhNWE5YzE4ZjIyMTY4ZTA1ZTdhOWFiM2Y1MmVkNDZjZg==`
+Snapshot ID: `MjY3NzQ5MTUsMDAwMDAwMDBjMTIwODAyZjNiZjA1ZjZlY2Y5ZTllNDBkMDg2ZTQwNQ==`

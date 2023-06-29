@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXap0h4PBqZpr.md) - [plain]
 
 > Fina selección musical por el legendario ídolo del Rock Latinoamericano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,787 likes - 29 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,809 likes - 29 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXap0h4PBqZpr.md) - [plain]
 | 28 | [Hipercandombe](https://open.spotify.com/track/0h9QE6kspuK23cB8AYwmjZ) | [La Maquina De Hacer Pájaros](https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h) | [Peliculas](https://open.spotify.com/album/6hlwylwLskentQQsbTKpcj) | 4:30 |
 | 29 | [La Balsa](https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:56 |
 
-Snapshot ID: `MCwzMzYxODM0NGNkN2E5YTFlYWE2MDQ5MDNkOTlkMWZhZWVlMmExMzg3`
+Snapshot ID: `MCxjOTAzYmE3MmJiY2RiZDdjM2Y0Yzk1YTBjYzkxODE4ODc2Y2QzMjBm`

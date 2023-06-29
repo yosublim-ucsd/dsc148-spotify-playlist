@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 ### [Turnt Mode](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
-> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Durk
+> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Durk \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Pre game Pregame
 
 [Filtr US](https://open.spotify.com/user/myplay.com) - 40,436 likes - 127 songs - 6 hr 2 min
 
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 126 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 |
 | 127 | [Computer Murderers](https://open.spotify.com/track/4N9YvASsNimNYJmSAVHA9f) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220 \(Reloaded\)](https://open.spotify.com/album/42q2L3R0LUPv3tM1Mabvyl) | 2:19 |
 
-Snapshot ID: `MzQ1MywwYmMyMzBiYjEzYTlhY2YzYWVlYWVmMDVmYmZmMzA0YTgyM2ViMzgy`
+Snapshot ID: `MzQ1NCxmMGY0ZGQ3ZGZhZDg1ZTAxNzg4Yjg4ZjlhNzhjY2NiNjE4MDIwZjg3`

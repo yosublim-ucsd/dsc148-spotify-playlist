@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Rodell Duff, Artwork: Fan\u00e9lie Muselier",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Hayden Coffman, Artwork: Fan\u00e9lie Muselier",
   "name": "Fresh Finds Country",
   "tracks": [
+    {
+      "album": {
+        "name": "'01",
+        "url": "https://open.spotify.com/album/0i7CY6Cd07kw0lOqacgrAO"
+      },
+      "artists": [
+        {
+          "name": "MaRynn Taylor",
+          "url": "https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193692,
+      "name": "'01",
+      "url": "https://open.spotify.com/track/3DxTQBQcziBLi1DS67BqVD"
+    },
     {
       "album": {
         "name": "1 Pretty Girl",
@@ -2111,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Bad Man",
+        "url": "https://open.spotify.com/album/0cPN4kgJujENogw6DBFzLk"
+      },
+      "artists": [
+        {
+          "name": "Twinnie",
+          "url": "https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/58Q3EaAlzdXd54oHyq9S7Z"
+    },
+    {
+      "album": {
         "name": "Bad Relationships",
         "url": "https://open.spotify.com/album/14kiik7IDH924GLUiBVX6U"
       },
@@ -2162,6 +2198,28 @@
       "duration_ms": 183269,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/53JlTg2Od9OClsaNt7IBNE"
+    },
+    {
+      "album": {
+        "name": "Bad Whiskey (feat. Ashland Craft)",
+        "url": "https://open.spotify.com/album/1ivVKUOln40Eww07wPZNuk"
+      },
+      "artists": [
+        {
+          "name": "Faren Rachels",
+          "url": "https://open.spotify.com/artist/2HweKwi0jfedpODDq7r2XN"
+        },
+        {
+          "name": "Ashland Craft",
+          "url": "https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Bad Whiskey (feat. Ashland Craft)",
+      "url": "https://open.spotify.com/track/2uPkfofR8HXRKr8greFuQN"
     },
     {
       "album": {
@@ -2494,6 +2552,24 @@
       "duration_ms": 173805,
       "name": "Been There Loved You",
       "url": "https://open.spotify.com/track/2PgmDGVpDKhdp0vyLVpipY"
+    },
+    {
+      "album": {
+        "name": "Beer Ain't Cold",
+        "url": "https://open.spotify.com/album/152aC3wuj0kctm8xXbnJhQ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167877,
+      "name": "Beer Ain't Cold",
+      "url": "https://open.spotify.com/track/2Xaoay7pqwm3PvASeNJfeK"
     },
     {
       "album": {
@@ -5108,7 +5184,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 209879,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/3aY1KcqJBhCdGouzAPR4dR"
@@ -5988,6 +6064,24 @@
       "duration_ms": 202500,
       "name": "Damn You Denver",
       "url": "https://open.spotify.com/track/3wPCsH91UN61hy5fPz3lV5"
+    },
+    {
+      "album": {
+        "name": "Damn You July",
+        "url": "https://open.spotify.com/album/4GRFk5KnfUlY2BAy69voAb"
+      },
+      "artists": [
+        {
+          "name": "Hailey Benedict",
+          "url": "https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185338,
+      "name": "Damn You July",
+      "url": "https://open.spotify.com/track/1TkWEehkUjihVb60San0YJ"
     },
     {
       "album": {
@@ -12742,7 +12836,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 188800,
       "name": "I Know Myself",
       "url": "https://open.spotify.com/track/4GfyxBHdFVnracxEQdj0kE"
@@ -12984,6 +13078,24 @@
       "duration_ms": 193165,
       "name": "I WILL, I SWEAR, I DO",
       "url": "https://open.spotify.com/track/5qkzYOVjOAcKE1zhmNBsL9"
+    },
+    {
+      "album": {
+        "name": "I Wish That I Could Call You",
+        "url": "https://open.spotify.com/album/0JmrHbVhfO3zUdyjyedXRD"
+      },
+      "artists": [
+        {
+          "name": "Maddie Wilson",
+          "url": "https://open.spotify.com/artist/10PPtrO31Yu7b1gVJ5RM4W"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193178,
+      "name": "I Wish That I Could Call You",
+      "url": "https://open.spotify.com/track/7awUoWPrD5LqYkQJCcl3Q5"
     },
     {
       "album": {
@@ -14014,10 +14126,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 222586,
       "name": "It's Still January",
       "url": "https://open.spotify.com/track/5tsecZZhFatEW7sf4cjNKP"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Never Drinking Again",
+        "url": "https://open.spotify.com/album/13DVGcQBBnBI94jU0j8jCd"
+      },
+      "artists": [
+        {
+          "name": "Claudia Tripp",
+          "url": "https://open.spotify.com/artist/5I0T6nRUCHMYv7zytK5zPB"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198949,
+      "name": "I\u2019m Never Drinking Again",
+      "url": "https://open.spotify.com/track/4tFdZ7jnYW3zjSzIKuYbfi"
     },
     {
       "album": {
@@ -15542,7 +15672,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 196165,
       "name": "Little Man",
       "url": "https://open.spotify.com/track/1nw44fWnZ6qp1RXzmoomzX"
@@ -15712,6 +15842,24 @@
       "duration_ms": 219600,
       "name": "Long Shot",
       "url": "https://open.spotify.com/track/3oXRaRLJZNFEsx58NZme9C"
+    },
+    {
+      "album": {
+        "name": "Long Story Short",
+        "url": "https://open.spotify.com/album/7cId6xAPgK8BtkpifDg4qC"
+      },
+      "artists": [
+        {
+          "name": "Timmy McKeever",
+          "url": "https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203633,
+      "name": "Long Story Short",
+      "url": "https://open.spotify.com/track/2w35uDeNHV7XHefJhGrxkz"
     },
     {
       "album": {
@@ -17725,6 +17873,24 @@
     },
     {
       "album": {
+        "name": "n.u.m.b.",
+        "url": "https://open.spotify.com/album/2iMqMHX5gdZhmwp18Nfcun"
+      },
+      "artists": [
+        {
+          "name": "Clayton Shay",
+          "url": "https://open.spotify.com/artist/70paYnUiMhlriyqsG4D0CR"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139352,
+      "name": "n.u.m.b.",
+      "url": "https://open.spotify.com/track/658F7q8ZZVuQNlMcMWjBsS"
+    },
+    {
+      "album": {
         "name": "Naive",
         "url": "https://open.spotify.com/album/3u0p3sbi4mWFXBoiyYmNcQ"
       },
@@ -19121,6 +19287,24 @@
     },
     {
       "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/2WnD5GaQWKvmTUCZvtz5Rg"
+      },
+      "artists": [
+        {
+          "name": "Clare Dunn",
+          "url": "https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230736,
+      "name": "Out of the Blue",
+      "url": "https://open.spotify.com/track/2HrgOXVI4LvL16bI6493X9"
+    },
+    {
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/46ZLJTYD4DaRTPdKyFoJqP"
       },
@@ -19572,6 +19756,24 @@
       "duration_ms": 224594,
       "name": "Placeholder",
       "url": "https://open.spotify.com/track/3aoa7CcYtxfOPlpQXYgEni"
+    },
+    {
+      "album": {
+        "name": "Point Your Finger",
+        "url": "https://open.spotify.com/album/3HfVK8zc4wKpOsjRWcEhrg"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214989,
+      "name": "Point Your Finger",
+      "url": "https://open.spotify.com/track/0T2CbANTd4zG2j5WuyuMx1"
     },
     {
       "album": {
@@ -21405,6 +21607,24 @@
     },
     {
       "album": {
+        "name": "Shoulda Known Better",
+        "url": "https://open.spotify.com/album/2k3BC0SBNWrdzjYarwpkrl"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Shoulda Known Better",
+      "url": "https://open.spotify.com/track/6XaHVhca3v1P0P7F3bLrqs"
+    },
+    {
+      "album": {
         "name": "Shy Guy",
         "url": "https://open.spotify.com/album/4Ku2khJtRlMy93GQJJ1Hop"
       },
@@ -21852,6 +22072,24 @@
       "duration_ms": 204422,
       "name": "Slow Drawl",
       "url": "https://open.spotify.com/track/5wcNGshAee2se3RfknUaVS"
+    },
+    {
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/5w71QnOkMJtiVoBQ2gI4Dp"
+      },
+      "artists": [
+        {
+          "name": "Todd Cameron",
+          "url": "https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213688,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/7iktIdboIAWlvf6vLixtdG"
     },
     {
       "album": {
@@ -23995,6 +24233,24 @@
     },
     {
       "album": {
+        "name": "Tell it to the Whiskey",
+        "url": "https://open.spotify.com/album/6k4RabLc6kq4gn4uzq6VqX"
+      },
+      "artists": [
+        {
+          "name": "Chris Colston",
+          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182004,
+      "name": "Tell it to the Whiskey",
+      "url": "https://open.spotify.com/track/4vlBuPkqoXI5DCMwPLTcKJ"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/4hmU2BXKGj9VpQ79lEBylq"
       },
@@ -25361,6 +25617,24 @@
     },
     {
       "album": {
+        "name": "This Guy",
+        "url": "https://open.spotify.com/album/5NqF4ZCqFwVwzDuEF4g5Ls"
+      },
+      "artists": [
+        {
+          "name": "Abby Anderson",
+          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194058,
+      "name": "This Guy",
+      "url": "https://open.spotify.com/track/7aylgKQwFdzYcOFNgZk9Yi"
+    },
+    {
+      "album": {
         "name": "This Is How The World Ends",
         "url": "https://open.spotify.com/album/7rkl2Xycwutn1woYzD2HVb"
       },
@@ -25466,6 +25740,24 @@
       "duration_ms": 203770,
       "name": "Thought I'd Be",
       "url": "https://open.spotify.com/track/248bBT5MTTMQ3Pai8q4NFX"
+    },
+    {
+      "album": {
+        "name": "Three Words",
+        "url": "https://open.spotify.com/album/5OhaGX31faRlYAzLIDOOdK"
+      },
+      "artists": [
+        {
+          "name": "Shelby Darrall",
+          "url": "https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176252,
+      "name": "Three Words",
+      "url": "https://open.spotify.com/track/7ACQy7iKFQ7kEJGe2LxXJ2"
     },
     {
       "album": {
@@ -26795,6 +27087,24 @@
     },
     {
       "album": {
+        "name": "Well Tequila",
+        "url": "https://open.spotify.com/album/6igm25OJZaTyAianvQmMoq"
+      },
+      "artists": [
+        {
+          "name": "Karissa Ella",
+          "url": "https://open.spotify.com/artist/60SgxHhlYxHNXdA6obPu6X"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186225,
+      "name": "Well Tequila",
+      "url": "https://open.spotify.com/track/6mareM63ZInxXlsZWtNKUA"
+    },
+    {
+      "album": {
         "name": "Weren't The One",
         "url": "https://open.spotify.com/album/3HabG5PIJOBTP9LyhD3U92"
       },
@@ -27231,6 +27541,24 @@
     },
     {
       "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/2cCMCEExWcZnZlRrJGIJub"
+      },
+      "artists": [
+        {
+          "name": "Lauren Rice",
+          "url": "https://open.spotify.com/artist/5uQJQgqzshlHlSsDx3EQoa"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222206,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/6ChsoKi8Oo4yInekXGK5IL"
+    },
+    {
+      "album": {
         "name": "When You're Sober",
         "url": "https://open.spotify.com/album/2sK14UBWr9ChSgEaBAX7AQ"
       },
@@ -27372,6 +27700,24 @@
       "duration_ms": 224743,
       "name": "Whiskey and You",
       "url": "https://open.spotify.com/track/4OV3UQwaTCjKJjCqoI6FN8"
+    },
+    {
+      "album": {
+        "name": "Whiskey Burns",
+        "url": "https://open.spotify.com/album/29FwqJ8oxRq0prtUNhJATy"
+      },
+      "artists": [
+        {
+          "name": "Zach McPhee",
+          "url": "https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205194,
+      "name": "Whiskey Burns",
+      "url": "https://open.spotify.com/track/4JnNWYp18rUF4ZSrxBOQQO"
     },
     {
       "album": {

@@ -3895,6 +3895,36 @@
     },
     {
       "album": {
+        "name": "\u3044\u305f\u3060\u304d\u30d0\u30d9\u30eb (Aiobahn Remix)",
+        "url": "https://open.spotify.com/album/6tFad3cyOcWJNfouUeWx6E"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+        },
+        {
+          "name": "Hidefumi Kenmochi",
+          "url": "https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg"
+        },
+        {
+          "name": "\u9ed2\u9244\u305f\u307e (CV: \u79cb\u5948)",
+          "url": "https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181953,
+      "name": "\u3044\u305f\u3060\u304d\u30d0\u30d9\u30eb - Aiobahn Remix",
+      "url": "https://open.spotify.com/track/2HsbIyJ1SmvoPDSvm4JMXg"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30ad\u30d020XX",
         "url": "https://open.spotify.com/album/5uDQtaKfJgJZZgwHTB0NiW"
       },

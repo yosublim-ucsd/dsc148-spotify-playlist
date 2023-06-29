@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Soledad
 
-145 songs - 8 hr 6 min
+146 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,8 +93,9 @@
 | [Lágrimas de Amor](https://open.spotify.com/track/1BYoQjba1juC70CeBkbtTV) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 3:06 | 2021-12-31 | 2022-03-12 |
 | [Mi Fe](https://open.spotify.com/track/3SeELV9ls4SHFg6bsbNqW6) | [Los Rojas](https://open.spotify.com/artist/2Jro2lFfaK1LiUIIY8Ff48) | [Mi Fe](https://open.spotify.com/album/6OT3Ld1cSlVqhH7VoyYRmj) | 2:13 | 2021-12-31 |  |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 |  |
-| [Mi Lunita Cordobesa](https://open.spotify.com/track/3KwPOIFTWpcVUop3RQ71xo) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/7ztRmseXurOD6k0H0Du74U) | 2:29 | 2022-07-01 |  |
+| [Mi Lunita Cordobesa](https://open.spotify.com/track/3KwPOIFTWpcVUop3RQ71xo) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/7ztRmseXurOD6k0H0Du74U) | 2:29 | 2022-07-01 | 2023-06-29 |
 | [Mi Lunita Cordobesa](https://open.spotify.com/track/3qsDt6tpHNSWf7CsFCaOvm) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/4u0P9UEKJZzvU9bULx7LM0) | 2:29 | 2021-12-31 | 2022-07-29 |
+| [Mi Lunita Cordobesa](https://open.spotify.com/track/5CdVPqzKaMfVNW4n4Kf1ug) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/68VpK263eWI3odk21VUfAt) | 2:29 | 2023-06-02 |  |
 | [Mi Regreso](https://open.spotify.com/track/1CfwzL2EwovUSJk12fhNva) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Mi Regreso](https://open.spotify.com/album/6IQdh1uIQiHyUuqfoCFtP4) | 2:59 | 2021-12-31 |  |
 | [Mientes](https://open.spotify.com/track/6w8vrqjspBrCckBZOerReI) | [Ceibo](https://open.spotify.com/artist/77AuP9c2svnUoh7JK5HrOp) | [Ceibo](https://open.spotify.com/album/1bop3bvcBDJjOFRhyVBIGs) | 3:36 | 2021-12-31 |  |
 | [Mundo](https://open.spotify.com/track/2jL5pH60kWWSNEyoxENRol) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mundo](https://open.spotify.com/album/3irWZcLfE9HCACenWfVp3E) | 3:42 | 2021-12-31 |  |

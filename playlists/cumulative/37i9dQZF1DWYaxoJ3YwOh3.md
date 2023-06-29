@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-94 songs - 5 hr 59 min
+95 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Yarımburgaz](https://open.spotify.com/track/0jJDpZFapjoiU2kUW2SFXa) | [Anatolian Flute](https://open.spotify.com/artist/2WDfPwwWs8loSU6HnjENBZ) | [Yarımburgaz](https://open.spotify.com/album/5HIh6H9CdZJp7mKV7ERAPb) | 4:04 | 2023-04-26 |  |
 | [Yeraz \(Rêverie\)](https://open.spotify.com/track/1tcS0ucLhGsAdq0auceswE) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1CXw0TDT7av2Ew5PB4w25l) | 2:57 | 2022-09-06 | 2022-10-14 |
 | [Yeraz \(Rêverie\)](https://open.spotify.com/track/4hGW5Ok07tg4YW2gwWNG03) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1mfk0GmQ52LjueSqEvhC7i) | 2:57 | 2022-09-30 |  |
-| [Yohanan \- Live '21](https://open.spotify.com/track/13kA7Nt2p6Njz8ziYi2w0b) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL), [Urban Faint](https://open.spotify.com/artist/2O4LS78mktVWpMilMzy2q1) | [Yohanan \(Live '21\)](https://open.spotify.com/album/4LRYq5AbAytHDhvBenaziu) | 6:01 | 2023-01-09 |  |
+| [Yohanan \- Live '21](https://open.spotify.com/track/13kA7Nt2p6Njz8ziYi2w0b) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL), [Urban Faint](https://open.spotify.com/artist/2O4LS78mktVWpMilMzy2q1) | [Yohanan \(Live '21\)](https://open.spotify.com/album/4LRYq5AbAytHDhvBenaziu) | 6:01 | 2023-01-09 | 2023-06-29 |
+| [Yohanan \- Live '21](https://open.spotify.com/track/4xkgCxxOtZhek27JGYaf1o) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL), [Urban Faint](https://open.spotify.com/artist/2O4LS78mktVWpMilMzy2q1) | [Urban Faint \(Live '21\)](https://open.spotify.com/album/2v9ND2c4LQ9NiVxXrwEwbX) | 6:01 | 2023-04-26 |  |
 | [Искусство цигун](https://open.spotify.com/track/6kujJnkMNAv8gaQGbTVCRz) | [Духовная медитация академия](https://open.spotify.com/artist/1xhosPIWji99GNfmj5A9uu) | [Китайская медитация беззвучного освещения \(Поиск просветления, Концентрированный ум, Единая душа, Путешествие глубокого пробуждения\)](https://open.spotify.com/album/2aZuABxTR9fF6fPklX7NM8) | 3:50 | 2022-09-06 | 2022-10-01 |
 | [الموسيقى الشرقية](https://open.spotify.com/track/0yjSKEPwxq23mlW5UKgBMI) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [إيقاعات شرقية](https://open.spotify.com/album/36MW3rnu3O3ljTirs4WrJC) | 3:38 | 2022-09-06 |  |
 | [داري يا قلبي](https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [نمرة لاونج](https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2) | 4:54 | 2022-12-21 | 2023-01-25 |

@@ -119,8 +119,8 @@
     },
     {
       "album": {
-        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u3064\u306f\u3082\u306e\u3069\u3082\u304c\u3086\u3081\u306e\u3042\u3068~",
-        "url": "https://open.spotify.com/album/6hqtv0hP6FSldh8U9sdWtk"
+        "name": "BE IN SIGHT (Type A)",
+        "url": "https://open.spotify.com/album/1Cov6huyPRROOEYa2oo19v"
       },
       "artists": [
         {
@@ -132,12 +132,12 @@
           "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
-      "date_added": "2022-05-24",
+      "date_added": "2023-02-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 271133,
+      "duration_ms": 269642,
       "name": "BE IN SIGHT",
-      "url": "https://open.spotify.com/track/3djsvruhTOCBmQedsJZPkc"
+      "url": "https://open.spotify.com/track/3srU6EeBHkXVJ6wnxqeXGE"
     },
     {
       "album": {
@@ -156,7 +156,51 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 271133,
+      "name": "BE IN SIGHT",
+      "url": "https://open.spotify.com/track/3djsvruhTOCBmQedsJZPkc"
+    },
+    {
+      "album": {
+        "name": "BE IN SIGHT (Type D)",
+        "url": "https://open.spotify.com/album/21FaNSlRqq0VXBibdclNBB"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201318,
+      "name": "Beautiful Life!!",
+      "url": "https://open.spotify.com/track/2kYTNAqhInwSAdQAceHWFf"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u3064\u306f\u3082\u306e\u3069\u3082\u304c\u3086\u3081\u306e\u3042\u3068~",
+        "url": "https://open.spotify.com/album/6hqtv0hP6FSldh8U9sdWtk"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
       "duration_ms": 202600,
       "name": "Beautiful Life!!",
       "url": "https://open.spotify.com/track/3YNhIK3AtIRn5foyDjTkQm"
@@ -252,10 +296,36 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 240213,
       "name": "Bokugairubasho song by Horikawakunihiro",
       "url": "https://open.spotify.com/track/5LD8fnANdpXtfGxzEdIudf"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Musubi no Hibiki, Hajimari no Ne- (Tsujouban)",
+        "url": "https://open.spotify.com/album/7AtIy4JCAjvv4Ez2haXHSK"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "Bokugairubasho song by Horikawakunihiro",
+      "url": "https://open.spotify.com/track/51lTPVhpQjGcgnIwK1xkI6"
     },
     {
       "album": {
@@ -811,6 +881,28 @@
     },
     {
       "album": {
+        "name": "BE IN SIGHT (Type E)",
+        "url": "https://open.spotify.com/album/7DeO0LGRoAqBe5sHbIHuOF"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225461,
+      "name": "Just Time song by \u9aed\u5207\u30fb\u819d\u4e38",
+      "url": "https://open.spotify.com/track/3lRRqgKZS9WcMNRPln0sOv"
+    },
+    {
+      "album": {
         "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u3064\u306f\u3082\u306e\u3069\u3082\u304c\u3086\u3081\u306e\u3042\u3068~",
         "url": "https://open.spotify.com/album/6hqtv0hP6FSldh8U9sdWtk"
       },
@@ -826,7 +918,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 227320,
       "name": "Just Time song by \u9aed\u5207\u30fb\u819d\u4e38",
       "url": "https://open.spotify.com/track/1yVJrx7Ubk4jit93xbLqpC"
@@ -877,6 +969,32 @@
     },
     {
       "album": {
+        "name": "Touken Ranbu:The Musical -Musubi no Hibiki, Hajimari no Ne- (Tsujouban)",
+        "url": "https://open.spotify.com/album/7AtIy4JCAjvv4Ez2haXHSK"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241586,
+      "name": "Kemono",
+      "url": "https://open.spotify.com/track/3S7nVmctqQqRdq3aSY34s4"
+    },
+    {
+      "album": {
         "name": "Kessennotoki (Type B)",
         "url": "https://open.spotify.com/album/3uaxDUiSXRZM86KyxA0ujo"
       },
@@ -896,10 +1014,36 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 241786,
       "name": "Kemono",
       "url": "https://open.spotify.com/track/4KaGisBsgnGpd4tJUshjNE"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Musubi no Hibiki, Hajimari no Ne- (Tsujouban)",
+        "url": "https://open.spotify.com/album/7AtIy4JCAjvv4Ez2haXHSK"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291760,
+      "name": "Kessennotoki",
+      "url": "https://open.spotify.com/track/2cpDMutpW3j6LsaH1DA0Ok"
     },
     {
       "album": {
@@ -922,7 +1066,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 293146,
       "name": "Kessennotoki",
       "url": "https://open.spotify.com/track/1OF80Sqs7jwItIAsCuIYzA"
@@ -1497,6 +1641,28 @@
     },
     {
       "album": {
+        "name": "BE IN SIGHT (Type C)",
+        "url": "https://open.spotify.com/album/21LcGSyMqx3rORtta9Gl30"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259362,
+      "name": "SA\u30fbKA\u30fbZU\u30fbKI \u83ef\u5144\u5f1f! song by \u5ca9\u878d\u30fb\u4eca\u5263",
+      "url": "https://open.spotify.com/track/4bYELOSXLyauCw8MIM9Pls"
+    },
+    {
+      "album": {
         "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u3064\u306f\u3082\u306e\u3069\u3082\u304c\u3086\u3081\u306e\u3042\u3068~",
         "url": "https://open.spotify.com/album/6hqtv0hP6FSldh8U9sdWtk"
       },
@@ -1512,7 +1678,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 259760,
       "name": "SA\u30fbKA\u30fbZU\u30fbKI \u83ef\u5144\u5f1f! song by \u5ca9\u878d\u30fb\u4eca\u5263",
       "url": "https://open.spotify.com/track/1asXfq9oasHgSDvB1Ztvb4"
@@ -1564,7 +1730,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 227853,
       "name": "Secret Sign",
       "url": "https://open.spotify.com/track/5g4BjF3wWollvYgBbBqpjN"
@@ -1594,6 +1760,32 @@
       "duration_ms": 228320,
       "name": "Secret Sign",
       "url": "https://open.spotify.com/track/0l9zbev6rrCKYtpkH9Mb6F"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Musubi no Hibiki, Hajimari no Ne- (Tsujouban)",
+        "url": "https://open.spotify.com/album/7AtIy4JCAjvv4Ez2haXHSK"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228320,
+      "name": "Secret Sign",
+      "url": "https://open.spotify.com/track/1sfqn5UgJrMPC1BBkKkx5u"
     },
     {
       "album": {

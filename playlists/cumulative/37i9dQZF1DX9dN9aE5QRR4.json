@@ -307,6 +307,28 @@
     },
     {
       "album": {
+        "name": "Donner",
+        "url": "https://open.spotify.com/album/3dzEWGuhgrpeVQS3PiVcHe"
+      },
+      "artists": [
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR"
+        },
+        {
+          "name": "Slkrack",
+          "url": "https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227369,
+      "name": "Donner",
+      "url": "https://open.spotify.com/track/7mxliPI4zN8R3nHP8daeAN"
+    },
+    {
+      "album": {
         "name": "East London (Nouvelle \u00c9cole)",
         "url": "https://open.spotify.com/album/73eKX4McFo7e9al5CaSEzU"
       },
@@ -518,6 +540,28 @@
       "duration_ms": 179426,
       "name": "La kiffance",
       "url": "https://open.spotify.com/track/4CWcaGtaOyAqBDKIeZMUe0"
+    },
+    {
+      "album": {
+        "name": "Le jour se l\u00e8ve",
+        "url": "https://open.spotify.com/album/3k3Os3Ekj0WGCcIVY10Xxd"
+      },
+      "artists": [
+        {
+          "name": "Arka",
+          "url": "https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG"
+        },
+        {
+          "name": "Lpee",
+          "url": "https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Le jour se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3yIxVwVr33e5tW453JRlCt"
     },
     {
       "album": {
@@ -776,7 +820,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 129360,
       "name": "Soundcheck",
       "url": "https://open.spotify.com/track/1PfoqIN2zTEtcCRt9QUJyW"

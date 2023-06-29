@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 172443,
+  "num_followers": 172645,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTNmZjQ4OThkNzA2YjY5ZjQ3NmQ1Yzg4MzZkNzk2MGQxZjUyODkx",
+  "snapshot_id": "MCw3Y2FkNzgzMGFkMDhiMmY1OGQ2NjhiZGJhNjRiODdjMTc1N2RiMTI4",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Body Back (feat. Maia Wright)",
+      "url": "https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "BRONSON",
         "url": "https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 209600,
       "name": "HEART ATTACK",
       "url": "https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Body Back (feat. Maia Wright)",
-      "url": "https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Black Mascara.",
-        "url": "https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 241264,
-      "name": "Black Mascara.",
-      "url": "https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "My Mistake",
         "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 195757,
       "name": "My Mistake",
       "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Black Mascara.",
+        "url": "https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 241264,
+      "name": "Black Mascara.",
+      "url": "https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "What's Your Pleasure?",
-        "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 331933,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/0EtcGmf2mVZbHWq2ZGP3t7"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "I Want You (feat. Braev)",
         "url": "https://open.spotify.com/album/2PBu4Kc89jFrsNZqt4ISSx"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 258295,
       "name": "I Want You (feat. Braev)",
       "url": "https://open.spotify.com/track/31kN6sakkWj7SxVjm0d0gd"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "What's Your Pleasure?",
+        "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 331933,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/0EtcGmf2mVZbHWq2ZGP3t7"
     },
     {
       "added_at": "2023-06-09 04:00:00",

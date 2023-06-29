@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-359 songs - 22 hr 17 min
+360 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Roll On My Friend](https://open.spotify.com/track/7KHM6neYujtUbRj0yp3Dfl) | [Pharis & Jason Romero](https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS) | [Bet On Love](https://open.spotify.com/album/2sWycRzmxMPHQ8rVAv0wBr) | 3:22 | 2022-01-21 | 2022-07-29 |
 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 | 2021-12-10 | 2022-07-26 |
 | [Rust](https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U) | [Sam Moss](https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j) | [Neon](https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ) | 2:31 | 2021-12-10 | 2022-07-29 |
-| [SAGA \- acoustic](https://open.spotify.com/track/2aJhQLQJtjASZEBmP49EdQ) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [SAGA \(acoustic\)](https://open.spotify.com/album/0whlIYiW5B77Z2WzQfok6s) | 4:14 | 2023-02-21 |  |
+| [SAGA \- acoustic](https://open.spotify.com/track/2aJhQLQJtjASZEBmP49EdQ) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [SAGA \(acoustic\)](https://open.spotify.com/album/0whlIYiW5B77Z2WzQfok6s) | 4:14 | 2023-02-21 | 2023-06-29 |
+| [SAGA \- acoustic](https://open.spotify.com/track/6wsWkkTwmcbhXysqx7yzwV) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH \(deluxe edition\)](https://open.spotify.com/album/2ESrJww86pMgR7RSfvU8dM) | 4:14 | 2023-05-26 |  |
 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 | 2021-12-10 |  |
 | [Santa Barbara](https://open.spotify.com/track/0v6lbGn9fC1YEa7WQZjFNX) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/3uyniBJKkgZfYsM25bBa8T) | 3:14 | 2021-12-10 | 2022-07-29 |
 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 | 2022-06-08 |  |

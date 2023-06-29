@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170,952 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,289 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Supafly \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0lkZ62PtOr82RFbVJVk8Yn) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Supafly \(feat\. BigXthaPlug / FAST X Soundtrack\)](https://open.spotify.com/album/2fIo1CPdRHVae7GbQdpi3b) | 2:58 |
 | 50 | [Cuban Links](https://open.spotify.com/track/70PwWKcHVAMSpdNAuq1P7i) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Cuban Links & Drug Habits](https://open.spotify.com/album/2E2XaelGPkXXJCQ1LDWOgD) | 2:38 |
 
-Snapshot ID: `MCwyMjJlNTlmNDUxODk1ZjEwMmEwYzYyYTZmMWNmN2I4MjhkM2MxMzFk`
+Snapshot ID: `MCw0NjMxODdiOTE2OGE2ZGU0ZDhkNWRlNzk1OThhZWI5MDE1YmE5ZjAw`

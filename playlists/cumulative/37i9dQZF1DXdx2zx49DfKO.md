@@ -4,7 +4,7 @@
 
 > The fastest growing genre in 2022.
 
-60 songs - 2 hr 21 min
+61 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR) | [Xantesha](https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em) | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM) | 2:18 | 2022-11-30 |  |
 | [Swaggin At The Partment](https://open.spotify.com/track/2V9IH2TQZHqxPrOqxIx2wt) | [erdemelchavo](https://open.spotify.com/artist/7LZb79enPgbO33Xui57a7S), [meto atesoglu](https://open.spotify.com/artist/3V9aE7Kd0AD3ADaWHagbQc), [ciya](https://open.spotify.com/artist/5PTAd6Npb9E3Z0OVL8mnmB) | [Swaggin At The Partment](https://open.spotify.com/album/2Ib42pemOfj6m0a87wNqvA) | 2:04 | 2022-11-30 | 2023-06-28 |
 | [Swaggin' at the Partment](https://open.spotify.com/track/7MNyh8ecfu0cE2hkXIvZAo) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Chappo](https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz) | [Swaggin' at the Partment](https://open.spotify.com/album/66zLalLqmD8cv653QsaC8B) | 2:04 | 2022-11-30 | 2023-06-26 |
-| [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 | 2022-11-30 |  |
+| [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 | 2022-11-30 | 2023-06-29 |
+| [Swaggin' At The Partment](https://open.spotify.com/track/7ITCyjmVcBWKAe38V8epGU) | [Çağoflex](https://open.spotify.com/artist/1NyMcjsNqYyEheSdBUGjqX), [Greekgods](https://open.spotify.com/artist/485pS8dHVx4I3x7OSoiOuZ), [Mirin Brah](https://open.spotify.com/artist/3zRntkZATrw8kMT6rWGeyN) | [Swaggin' At The Partment](https://open.spotify.com/album/3kSQ0XnUYVSwg4muMAQi85) | 2:04 | 2022-11-30 |  |
 | [TECHNO KILLA](https://open.spotify.com/track/5kr9HU28PSpkmQZ6z9Z1Mx) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [TECHNO KILLA](https://open.spotify.com/album/5SLohcmYkWYidTWBEY2XmW) | 2:10 | 2022-11-30 |  |
 | [TOKYO DRIFT](https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [TOKYO DRIFT](https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi) | 2:04 | 2022-11-30 |  |
 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 | 2022-11-30 |  |

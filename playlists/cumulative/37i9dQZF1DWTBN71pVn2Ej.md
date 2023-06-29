@@ -2,9 +2,9 @@
 
 ### [Alternative Noise](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The best alternative rock tracks right now.
+> The best alternative rock tracks right now\. Cover: Late 90s
 
-403 songs - 23 hr 19 min
+404 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Burnt \(By the Sun\)](https://open.spotify.com/track/0LcU62QpwyqPy0kTylVvkQ) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Somebody's Closer](https://open.spotify.com/album/3TGCf5xW77jYE9JbzM0SiC) | 2:51 | 2021-12-16 | 2022-04-15 |
 | [bury me.](https://open.spotify.com/track/7IdjwIpuBjKePJr8erOepG) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [bury me.](https://open.spotify.com/album/0gjniTbXyqfgZoviud4RyC) | 3:51 | 2023-04-14 |  |
 | [BWBB](https://open.spotify.com/track/1t9TGGopVWBYQX8Jfecrae) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [BWBB](https://open.spotify.com/album/0hM0Y3rcMNL57znId5EISZ) | 2:46 | 2021-12-16 | 2022-03-11 |
+| [California King](https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [California King](https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54) | 3:53 | 2023-06-28 |  |
 | [Call It Home](https://open.spotify.com/track/4LbhFWgp6MeYvrHNRbhrC7) | [Of Allies](https://open.spotify.com/artist/5fYc93nNjMlAsoaXen9elQ) | [Epoch](https://open.spotify.com/album/16Le5bzGb1VGLfx9BFaK1i) | 4:04 | 2021-12-16 | 2022-01-21 |
 | [Can't Deny It](https://open.spotify.com/track/0tgTrj69uTFZaRK669acBF) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/6iPxylWvEfxFqJoTlVOZV2) | 3:58 | 2022-11-04 | 2023-03-03 |
 | [Can't Deny It](https://open.spotify.com/track/3wJ7DkVyjux3jCNTakOahw) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/7jcDqi4m5XF2q4DVMYSDcF) | 3:58 | 2022-09-30 | 2022-11-09 |
@@ -122,7 +123,7 @@
 | [Easy Living](https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Park](https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621) | 6:06 | 2022-03-24 | 2022-05-13 |
 | [Eleven the Fair](https://open.spotify.com/track/1LffL6iYYSPCwKzbX9tRId) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [HLA\-11TF](https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj) | 4:16 | 2022-04-14 | 2022-09-07 |
 | [Emteevee](https://open.spotify.com/track/7nkkaFxgDNEWYwDVm8A42L) | [Indigo Blaze](https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf) | [Emteevee](https://open.spotify.com/album/4HvMajvIdrVQJGWpxKRJFD) | 2:49 | 2022-11-11 | 2022-12-16 |
-| [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 | 2023-02-21 |  |
+| [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 | 2023-02-21 | 2023-06-29 |
 | [Eyes Won't See](https://open.spotify.com/track/1pyypCHNVxC3Ju8LUMfm4z) | [Vain Valkyries](https://open.spotify.com/artist/2NMfkZdWVg1LFSQRYMoAI7) | [The Great Suffering](https://open.spotify.com/album/0faVxGhKDgCeekHyOyrEuq) | 2:06 | 2023-02-24 | 2023-04-09 |
 | [Face Down](https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [I Want](https://open.spotify.com/album/66fM2xo6aWI1z0nsmTXeD0) | 3:23 | 2022-09-06 | 2023-04-15 |
 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-05-26 |  |

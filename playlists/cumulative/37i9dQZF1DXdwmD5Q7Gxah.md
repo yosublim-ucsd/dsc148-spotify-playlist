@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: Faye Webster
 
-2,274 songs - 5 day 2 hr 18 min
+2,275 songs - 5 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2153,6 +2153,7 @@
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2019-07-30\* | 2021-12-02 |
 | [We Own The Sky](https://open.spotify.com/track/44jJCNW8frQLEWpYuAQz47) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE) | 5:04 | 2021-12-22 | 2022-01-08 |
 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 | 2019-07-30\* | 2019-10-10 |
+| [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 | 2023-06-28 |  |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-03-28 | 2022-05-12 |
 | [Weather \(feat\. Spill Tab\)](https://open.spotify.com/track/37gqLs74suBBjQf4nPv5UV) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Weather \(feat\. Spill Tab\)](https://open.spotify.com/album/6d0IKj81ve9Pj76Aw1wn6B) | 2:23 | 2021-07-04 | 2021-07-31 |
 | [Wednesday](https://open.spotify.com/track/7EXbCpipmm2seCQPQ2ulpz) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Wednesday](https://open.spotify.com/album/7LFHDTcWP4pyOEZ9PyEf0q) | 3:22 | 2021-11-20 | 2022-01-08 |

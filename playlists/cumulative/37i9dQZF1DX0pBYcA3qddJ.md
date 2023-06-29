@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-461 songs - 1 day 7 hr 9 min
+462 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,8 @@
 | [Mother's Eyes](https://open.spotify.com/track/7lbiv5n30fGuKtTVsITlE4) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Mother's Eyes](https://open.spotify.com/album/0KhR7WLsUuaEn8QNb4fjJL) | 3:04 | 2023-02-07 | 2023-02-09 |
 | [Mother’s Broom \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Mother’s Broom \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5) | 3:49 | 2023-04-18 |  |
 | [Moving On](https://open.spotify.com/track/2jZUVdZXDCWvw9DZPQhDnA) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Moving On](https://open.spotify.com/album/70ZGqbv7G5Q81ZH40hcOF6) | 2:59 | 2022-11-03 | 2022-12-02 |
-| [Murmuration](https://open.spotify.com/track/3yxKPO1837XIbJca6D0oSW) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Murmuration](https://open.spotify.com/album/4VX10kdyMurYSZUMr2wQ8o) | 3:39 | 2023-06-27 |  |
+| [Murmuration](https://open.spotify.com/track/2VQVj1SJLHofQFC4JlueAl) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Murmuration](https://open.spotify.com/album/2ne5G2WYk0dXwwYvqi7vJq) | 3:39 | 2023-06-27 |  |
+| [Murmuration](https://open.spotify.com/track/3yxKPO1837XIbJca6D0oSW) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Murmuration](https://open.spotify.com/album/4VX10kdyMurYSZUMr2wQ8o) | 3:39 | 2023-06-27 | 2023-06-29 |
 | [My Innocence](https://open.spotify.com/track/7E9h1udUWTkqmOoNWnI1gO) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [My Innocence](https://open.spotify.com/album/1wHXxMbeFl5EOOgUnDe5vG) | 3:12 | 2023-01-24 | 2023-03-22 |
 | [natsu](https://open.spotify.com/track/3VO0L3IzlrHaLunIgkhOTz) | [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [cosui](https://open.spotify.com/album/7vN3T7X2e1tHWxOwO4qHcD) | 1:48 | 2023-06-13 |  |
 | [Nature undisclosed](https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Nature undisclosed](https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6) | 2:27 | 2022-12-01 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-223 songs - 13 hr 9 min
+224 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-03-16 |  |
 | [All I Want](https://open.spotify.com/track/3gThsMtkS4ferms1umtnqL) | [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4) | [Taste](https://open.spotify.com/album/4GabZkqfT3U88nTRefv4uN) | 2:57 | 2022-11-18 | 2022-12-17 |
 | [Alors Alors](https://open.spotify.com/track/4BOZst1a8mfanfRSfdRzi9) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Alors Alors](https://open.spotify.com/album/6NW9xEZgwyhhNal3GoUOWl) | 2:12 | 2022-12-16 |  |
-| [AMBER](https://open.spotify.com/track/5Q967UCPfCsQeEgFhT1umT) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:02 | 2023-04-18 |  |
+| [AMBER](https://open.spotify.com/track/3OFAB9JacVGaz4CWSsfZhZ) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:02 | 2023-04-18 |  |
+| [AMBER](https://open.spotify.com/track/5Q967UCPfCsQeEgFhT1umT) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:02 | 2023-04-18 | 2023-06-29 |
 | [Ancestors \(feat\. Blackout J.A\)](https://open.spotify.com/track/6hlTh8yYEpeJhMgFbNVq9P) | [Sentinel 793](https://open.spotify.com/artist/7DcbgLtzRiniDgbNmOf4rg), [Blackout J.A](https://open.spotify.com/artist/0hnwFCW4DxGkFw8bbpE5AN) | [Solar returns](https://open.spotify.com/album/0dOFZ5vfXTX15g4YVzb8Vd) | 4:49 | 2023-02-13 |  |
 | [Anywhere With You](https://open.spotify.com/track/0RG81CtArQ6WWE5W7cGocf) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Anywhere With You EP](https://open.spotify.com/album/5So0sPYfpNBhyNpvQOjnVi) | 2:42 | 2022-09-08 | 2022-11-19 |
 | [Atypical](https://open.spotify.com/track/4nbSY5TATD9WVXR5CKaUfZ) | [nuum](https://open.spotify.com/artist/6BAW0yDEeA4wOskLv8y1qe) | [Atypical](https://open.spotify.com/album/7caSEro6pNRSCTMDOvSWD3) | 3:27 | 2022-11-18 | 2023-02-14 |

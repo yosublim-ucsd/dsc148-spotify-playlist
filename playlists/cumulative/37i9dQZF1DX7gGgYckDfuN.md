@@ -4,7 +4,7 @@
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-58 songs - 5 hr 56 min
+59 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Stardust Crusaders](https://open.spotify.com/track/1xsExFad0m5ikHaejXZrcA) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \[Departure\]](https://open.spotify.com/album/0eF8omWNFE3HQEcKoZZhDC) | 5:07 | 2021-12-09 |  |
 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 | 2021-12-09 |  |
 | [STONE OCEAN \- English Ver.](https://open.spotify.com/track/37jKhtJXXIEMBt7FDe0ldB) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/5oi3REKib6gbSmPjigEEOB) | 3:29 | 2021-12-09 |  |
-| [Theme of Stone Ocean](https://open.spotify.com/track/61mLwf16eBgltPVQ487rPT) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 ストーンオーシャン O.S.T.](https://open.spotify.com/album/0jkIDp65gHymoVhF62qUWw) | 4:43 | 2023-06-27 |  |
+| [Theme of Stone Ocean](https://open.spotify.com/track/3puQsyxs4ZCgCzt8GQHpNW) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-STONE OCEAN O.S.T.](https://open.spotify.com/album/59jHnSsQJNpDH0emUDfPXR) | 4:43 | 2023-06-27 |  |
+| [Theme of Stone Ocean](https://open.spotify.com/track/61mLwf16eBgltPVQ487rPT) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 ストーンオーシャン O.S.T.](https://open.spotify.com/album/0jkIDp65gHymoVhF62qUWw) | 4:43 | 2023-06-27 | 2023-06-29 |
 | [Uragirimonono Requiem \- Diavolo Ver.](https://open.spotify.com/track/4CoTazwZS0VXFHgqgmVT85) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.3 Finare](https://open.spotify.com/album/3MYc7n3EUljB6Qq2pwzECI) | 3:44 | 2021-12-09 |  |
 | [Uragirimonono Requiem \- Giorno Ver.](https://open.spotify.com/track/3q7hI6kxCAbj0yDTR4asML) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.3 Finare](https://open.spotify.com/album/3MYc7n3EUljB6Qq2pwzECI) | 3:39 | 2021-12-09 |  |
 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 | 2021-12-09 |  |

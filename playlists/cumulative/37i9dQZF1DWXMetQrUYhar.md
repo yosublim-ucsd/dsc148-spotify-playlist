@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-242 songs - 15 hr 0 min
+243 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [I'll Call You Mine \- Spotify Singles](https://open.spotify.com/track/0hnpXKmUIqvgY0gj2Q1J7m) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:26 | 2022-09-01 |  |
 | [I'll Call You Mine \- Spotify Singles](https://open.spotify.com/track/4xAozCywkOU2rkKn0lmZJv) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:26 | 2022-09-01 | 2022-10-13 |
 | [I'm Goin' Down \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 3:27 | 2021-10-27 |  |
-| [If I Ever Was A Child \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 3:12 | 2021-10-27 |  |
+| [If I Ever Was A Child \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 3:12 | 2021-10-27 | 2023-06-29 |
 | [In Cold Blood \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/4rqBVkiHkv7RovTm5CFyyt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 3:22 | 2021-10-27 | 2023-01-12 |
 | [J\-Boy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0aSAkZFJXRPx4DmzanThFQ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Spotify Singles](https://open.spotify.com/album/4Xw3godmGRmZfTB8DeCVHh) | 3:50 | 2022-10-26 | 2023-01-08 |
 | [J\-Boy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/20fBriFnVXdyjj7IiESVUf) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Spotify Singles](https://open.spotify.com/album/6fyZpMCv7ynKO7qn9ZsGuS) | 3:50 | 2021-10-27 | 2022-07-29 |
@@ -182,6 +182,7 @@
 | [Screaming Infidelities \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/21BXnWZKWkbuMBulyq6nIk) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 4:47 | 2022-03-30 | 2023-01-12 |
 | [Screaming Infidelities \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2oQzXAcwkpB5BmVqQVldAi) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP) | 4:47 | 2021-10-27 | 2022-10-13 |
 | [Seventeen \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6qeP5qZPiycfpOMRvhTJYv) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:55 | 2021-10-27 | 2022-10-16 |
+| [sex money feelings die \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0MRGc7t0cM9mLlQlfM7LFI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Spotify Singles](https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe) | 2:39 | 2023-01-11 |  |
 | [Shades of Blue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Js2KuiUtuv5o9eu5hy5s1) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/1iCPl6KTM3OyL2rHgWorNH) | 2:55 | 2022-03-30 | 2023-01-12 |
 | [Shades of Blue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6eqaU4suKIW8M2P6uDnZSd) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/5dJeEVpkKTZ8s9Xr4inHTT) | 2:55 | 2021-10-27 | 2022-07-29 |
 | [Shine \- Jim Eno Sessions](https://open.spotify.com/track/0TposDOdKP9MUfn9zxkYUK) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Spotify Singles](https://open.spotify.com/album/0JSV7pb2t7Krg2ohhZpx5a) | 4:46 | 2021-10-27 | 2022-07-29 |

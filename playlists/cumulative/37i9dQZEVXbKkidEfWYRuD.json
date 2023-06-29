@@ -7372,7 +7372,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 152925,
       "name": "OneShot",
       "url": "https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM"
@@ -15287,6 +15287,28 @@
     },
     {
       "album": {
+        "name": "\u043a\u0430\u043a \u0436\u0435 \u043e\u043d \u0441\u0438\u043b\u0451\u043d",
+        "url": "https://open.spotify.com/album/77hI2ZqdzX75nAYWjYsC6v"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0415\u0420\u0415\u0413\u0410 \u041f\u0418\u0420\u0410\u0422",
+          "url": "https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7"
+        },
+        {
+          "name": "Barikader",
+          "url": "https://open.spotify.com/artist/6TkS0ajI5AKah8k4NN0AAD"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174527,
+      "name": "\u043a\u0430\u043a \u0436\u0435 \u043e\u043d \u0441\u0438\u043b\u0451\u043d",
+      "url": "https://open.spotify.com/track/4DSv3lnsjCH6QEG7StCiJD"
+    },
+    {
+      "album": {
         "name": "\u041d\u043e\u0441\u0442\u0430\u043b\u044c\u0433\u0438\u044f",
         "url": "https://open.spotify.com/album/2orZvcMdBAZrh9iO1SX1FD"
       },
@@ -18854,7 +18876,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 124800,
       "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"
@@ -20992,7 +21014,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 149584,
       "name": "\u0425\u0432\u0438\u043b\u044f\u043c\u0438",
       "url": "https://open.spotify.com/track/5u6TLP2prHSvtKi0SPUKFI"

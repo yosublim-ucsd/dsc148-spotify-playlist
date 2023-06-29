@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-262 songs - 13 hr 9 min
+263 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [Who You Are](https://open.spotify.com/track/5vgnRvuUVkic3Dhy1oGORc) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 3:38 | 2023-05-05 |  |
 | [Wicked Games](https://open.spotify.com/track/0FXSdzre3I9GaBB444umzh) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Wicked Games \(From Westworld: Season 3\)](https://open.spotify.com/album/1raeE4103hULnR9XjAUhzF) | 5:31 | 2021-12-20 | 2022-07-09 |
 | [World On The Move](https://open.spotify.com/track/4VLgTzZqAJmvYgoOgrxDz5) | [Jasha Klebe](https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3), [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu), [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [Our Planet II \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7sN39aRsV6AQEOWELmxYaT) | 2:31 | 2023-06-23 |  |
-| [Worlds Collide](https://open.spotify.com/track/5s3kCq0CzYs1lb2TPjU3MC) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Worlds Collide / Run \(from "The Flash"\)](https://open.spotify.com/album/7IoCIyv2Ji5oGxrGF9S0mt) | 2:29 | 2023-05-12 |  |
+| [Worlds Collide](https://open.spotify.com/track/5s3kCq0CzYs1lb2TPjU3MC) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Worlds Collide / Run \(from "The Flash"\)](https://open.spotify.com/album/7IoCIyv2Ji5oGxrGF9S0mt) | 2:29 | 2023-05-12 | 2023-06-29 |
+| [Worlds Collide \- Superman Version](https://open.spotify.com/track/5ARCZN2egn3LjuyBRZkR0C) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [The Flash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Iwcke5WByZdDlIv0WucmX) | 2:31 | 2023-06-23 |  |
 | [Wrap Up](https://open.spotify.com/track/4jHpdfiSeaiE4n3ef9fVay) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Star Trek: Discovery \(Season 4\) \[Original Series Soundtrack\]](https://open.spotify.com/album/5XleeeAeYOAQV1bLKDnNQl) | 4:29 | 2022-08-26 |  |
 | [Xu Shang\-Chi](https://open.spotify.com/track/0U1X5zc0wvbT6C3YQEpK0q) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 2:55 | 2021-12-20 |  |
 | [You Are One of Us](https://open.spotify.com/track/0pMuFnl4nOtuFSoC9PI0GI) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 3 \- Vol\. 1 \(Chapters 17\-20\) \[Original Score\]](https://open.spotify.com/album/2JtB7K4gMmfC7Ow9Y4pz4b) | 3:55 | 2023-03-31 |  |

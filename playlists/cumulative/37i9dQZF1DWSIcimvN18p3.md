@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-381 songs - 23 hr 17 min
+382 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 | 2021-03-05 |  |
 | [Hours Are the New Days](https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Hours Are the New Days](https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ) | 4:04 | 2021-03-05 | 2022-07-29 |
 | [House Of The Rising Sun](https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:56 | 2022-03-08 |  |
-| [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 | 2022-03-08 |  |
+| [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 | 2022-03-08 | 2023-06-29 |
 | [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-03-05 |  |
 | [How Come You Never Go There](https://open.spotify.com/track/1T6ujnAPpCTz0r5ahuwhsH) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [How Come You Never Go There](https://open.spotify.com/album/4AZXANxP6UPWsuRZmaq9cG) | 3:23 | 2021-03-05 | 2022-07-28 |
 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 | 2021-03-05 |  |
@@ -258,6 +258,7 @@
 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae and the Meanwhiles](https://open.spotify.com/artist/1F6SXx16NcfbanBYeBfWdQ), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 | 2021-03-05 | 2022-07-10 |
 | [Poor Wayfaring Stranger](https://open.spotify.com/track/1UmURbhcP4VgQpUK9DZJCg) | [Eliza Carthy](https://open.spotify.com/artist/3ZSRiAJKs42ymp2KYA80Qh), [Norma Waterson](https://open.spotify.com/artist/4HFBKIBwNoiuovUGQGAu4k) | [Gift](https://open.spotify.com/album/2df2qG6eg1bfpGvsqkjhYQ) | 6:30 | 2021-03-05 | 2022-07-29 |
 | [Porch Light](https://open.spotify.com/track/03x3IZ5tHNueztt7tbmzjT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour](https://open.spotify.com/album/1sfz6tIsPAhgsqvcCZ6fvw) | 3:17 | 2021-03-05 | 2023-04-30 |
+| [Porch Light](https://open.spotify.com/track/1w9WCqGYdaEUMPs7BAvemm) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour](https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe) | 3:17 | 2023-03-08 |  |
 | [Porch Light](https://open.spotify.com/track/3fUle3MRHVnEspDxGMrvNQ) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In The Magic Hour](https://open.spotify.com/album/3ntBsLDs4YznKmxScj8K4f) | 3:17 | 2021-03-05 | 2022-07-25 |
 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 | 2021-03-05 | 2022-03-09 |
 | [Pretty Bird \(feat\. Linda Ronstadt\)](https://open.spotify.com/track/6aViDQHPdw0UUYDGIKV8k1) | [Laurie Lewis](https://open.spotify.com/artist/4TFUM3dwVVxsJ6vCnMDVCb), [The Right Hands](https://open.spotify.com/artist/5HX5Sobk5iJykT62FXMOvw), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [The Hazel and Alice Sessions](https://open.spotify.com/album/13onfRu5O11Vp0pR9muCjQ) | 2:38 | 2021-03-05 | 2022-07-27 |

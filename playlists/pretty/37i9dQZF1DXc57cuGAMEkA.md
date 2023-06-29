@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。BECK & Phoenix, Coi Leray, Nicki Minaj & Ice Spice, Aphex Twin and more! cover: BECK, Phoenix
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,695 likes - 87 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,705 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 86 | [Growing Pains](https://open.spotify.com/track/1XUcmMksyUn0HwGaE7smrz) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Growing Pains](https://open.spotify.com/album/2jXg4NPRQFiJRoQtuEoh3H) | 3:36 |
 | 87 | [When Will the Sun Rise Again](https://open.spotify.com/track/0zDr3eeCehW8JZQR4fAh2l) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Belongs on a Place Called Earth](https://open.spotify.com/album/25BE6yXxEcxZHk5XWRn9JL) | 4:06 |
 
-Snapshot ID: `MCxhMTU2ZjkxN2M4NTA5YzExOGI4NTY0M2FiNDFmZDM5MGJmZWM1Mjhl`
+Snapshot ID: `MCw5N2MwZjdjZGMzNWVjMWZhMTcyZDE3OTcwYjIyM2UyZGU1ODNmNWMx`

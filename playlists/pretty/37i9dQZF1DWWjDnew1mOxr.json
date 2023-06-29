@@ -1,18 +1,34 @@
 {
-  "description": "Boss music for boss people. Cover: Arctic Monkeys",
-  "num_followers": 108984,
+  "description": "Boss music for boss people. Cover: Jamie T",
+  "num_followers": 109040,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmI0NmMwYTdiOGY4MDQ2NWIyYmVhMDdmMWMzMTY5ODg4MGYzMWU3",
+  "snapshot_id": "MCxhNGJjZjZmZTBjYmM1YzczMDJhMTUzYmRmNmY4NjI5MWNhNTA4MTVj",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+        "name": "The Theory Of Whatever",
+        "url": "https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "The Old Style Raiders",
+      "url": "https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
       "artists": [
         {
@@ -20,9 +36,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+      "duration_ms": 272394,
+      "name": "Do I Wanna Know?",
+      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -139,22 +155,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 204543,
-      "name": "Diamond In The Dark",
-      "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Seventeen Going Under (Deluxe)",
         "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
@@ -169,26 +169,10 @@
       "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
     },
     {
-      "added_at": "2023-06-13 08:58:04",
+      "added_at": "2023-06-28 10:49:55",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 272394,
-      "name": "Do I Wanna Know?",
-      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "The Theory Of Whatever",
-        "url": "https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV"
+        "name": "Hippodrome",
+        "url": "https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc"
       },
       "artists": [
         {
@@ -196,9 +180,41 @@
           "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
         }
       ],
-      "duration_ms": 235666,
-      "name": "The Old Style Raiders",
-      "url": "https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW"
+      "duration_ms": 161816,
+      "name": "Hippodrome",
+      "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 204543,
+      "name": "Diamond In The Dark",
+      "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -299,22 +315,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Baggio",
-        "url": "https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 221389,
-      "name": "Baggio",
-      "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Troubled Son",
+        "url": "https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 200482,
+      "name": "Troubled Son",
+      "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "Reeling",
         "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 260462,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Troubled Son",
-        "url": "https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 200482,
-      "name": "Troubled Son",
-      "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Somebody's Child",
-        "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
+        "name": "Baggio",
+        "url": "https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg"
       },
       "artists": [
         {
-          "name": "Somebody's Child",
-          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
         }
       ],
-      "duration_ms": 193120,
-      "name": "Give It Up To Love",
-      "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
+      "duration_ms": 221389,
+      "name": "Baggio",
+      "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -503,6 +503,22 @@
       "duration_ms": 160250,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/2TfDppfA0KZ3rTQT0dgrTo"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Somebody's Child",
+        "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
+      },
+      "artists": [
+        {
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Give It Up To Love",
+      "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "One More Night With No One",
-        "url": "https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 200147,
-      "name": "One More Night With No One",
-      "url": "https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Right Time",
         "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
       },
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Anxiety Replacement Therapy",
-        "url": "https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu"
+        "name": "One More Night With No One",
+        "url": "https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7"
       },
       "artists": [
         {
-          "name": "The Lottery Winners",
-          "url": "https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b"
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
         }
       ],
-      "duration_ms": 186083,
-      "name": "Sertraline",
-      "url": "https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK"
+      "duration_ms": 200147,
+      "name": "One More Night With No One",
+      "url": "https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Anxiety Replacement Therapy",
+        "url": "https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu"
+      },
+      "artists": [
+        {
+          "name": "The Lottery Winners",
+          "url": "https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b"
+        }
+      ],
+      "duration_ms": 186083,
+      "name": "Sertraline",
+      "url": "https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "Lovers Come and Lovers Go",
         "url": "https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Cavalryman",
-        "url": "https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt"
-      },
-      "artists": [
-        {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "Cavalryman",
-      "url": "https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 211119,
       "name": "3AM",
       "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Cavalryman",
+        "url": "https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt"
+      },
+      "artists": [
+        {
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "Cavalryman",
+      "url": "https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Wide Asleep",
-        "url": "https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 252253,
-      "name": "Wide Asleep",
-      "url": "https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "I Let Go",
         "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 141265,
       "name": "I Let Go",
       "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Wide Asleep",
+        "url": "https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "Wide Asleep",
+      "url": "https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "nothing's on but everyone's watching",
-        "url": "https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd"
-      },
-      "artists": [
-        {
-          "name": "DAYTIME TV",
-          "url": "https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8"
-        }
-      ],
-      "duration_ms": 174829,
-      "name": "little victories",
-      "url": "https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Skirts & Salads",
         "url": "https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 144896,
       "name": "Skirts & Salads",
       "url": "https://open.spotify.com/track/1hU13my44YNmIVuNor31Te"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "nothing's on but everyone's watching",
+        "url": "https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd"
+      },
+      "artists": [
+        {
+          "name": "DAYTIME TV",
+          "url": "https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8"
+        }
+      ],
+      "duration_ms": 174829,
+      "name": "little victories",
+      "url": "https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -983,6 +999,22 @@
       "duration_ms": 211701,
       "name": "CHEMICALS",
       "url": "https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI"
+    },
+    {
+      "added_at": "2023-06-28 10:49:55",
+      "album": {
+        "name": "Panic Prevention",
+        "url": "https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 259813,
+      "name": "Sheila",
+      "url": "https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1131,22 +1163,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "SITUATIONS",
-        "url": "https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5"
-      },
-      "artists": [
-        {
-          "name": "Retro Video Club",
-          "url": "https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3"
-        }
-      ],
-      "duration_ms": 179618,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Propaganda",
         "url": "https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr"
       },
@@ -1159,6 +1175,22 @@
       "duration_ms": 146865,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "SITUATIONS",
+        "url": "https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5"
+      },
+      "artists": [
+        {
+          "name": "Retro Video Club",
+          "url": "https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3"
+        }
+      ],
+      "duration_ms": 179618,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1243,22 +1275,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Fashion",
-        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
-      },
-      "artists": [
-        {
-          "name": "Bilk",
-          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
-        }
-      ],
-      "duration_ms": 230467,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Electric Kool-Aid (Pt. 2)",
         "url": "https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 237422,
       "name": "Ritual Of The Crocodile Men",
       "url": "https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "World Full Of Worry",
-        "url": "https://open.spotify.com/album/0PHGvVPQqVpEr8e6GsuOjl"
-      },
-      "artists": [
-        {
-          "name": "Peaness",
-          "url": "https://open.spotify.com/artist/0bHVjNgsMH7b4XxmWhR7Tl"
-        }
-      ],
-      "duration_ms": 233074,
-      "name": "Kaizen",
-      "url": "https://open.spotify.com/track/3uFjKZi6ksKM8AyUBxIeXo"
     }
   ],
   "unique_name": "Proper Belters",

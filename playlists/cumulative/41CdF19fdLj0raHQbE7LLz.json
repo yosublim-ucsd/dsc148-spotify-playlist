@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 491154,
       "name": "Ancient Dream",
       "url": "https://open.spotify.com/track/5utYhzfINlpLxPxyFfXeeE"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 410409,
       "name": "Catalepsia",
       "url": "https://open.spotify.com/track/59AJFyxHGuBq4KTaEJDRV3"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 358841,
       "name": "Cosmic Order - Original Mix",
       "url": "https://open.spotify.com/track/5VSGGWcXdr7w59G4gKYhyV"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 290008,
       "name": "Dirty Lagoon",
       "url": "https://open.spotify.com/track/4JvutGrckEHMwqvezbMRwB"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 347214,
       "name": "Disaster Zone",
       "url": "https://open.spotify.com/track/5etCwSpntPqQNFXpq7vvug"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 231437,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 206829,
       "name": "Don't Stop Now",
       "url": "https://open.spotify.com/track/3u3rokXcDXPlgUZwTcwrDk"
@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/5zdyXn9AECuCPqiikwaNbo"
+      },
+      "artists": [
+        {
+          "name": "Timmo",
+          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374429,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/4dmwyyrtLrQxD6WeTsq6sn"
+    },
+    {
+      "album": {
         "name": "Flash (Wehbba Remix)",
         "url": "https://open.spotify.com/album/2Ketv7thFn0MGG2mX7outD"
       },
@@ -805,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Free Love",
+        "url": "https://open.spotify.com/album/3e7MU4F0etgZ7IPc3rGGq9"
+      },
+      "artists": [
+        {
+          "name": "Justus",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241600,
+      "name": "Free Love",
+      "url": "https://open.spotify.com/track/5TWhGtRzMtCNdcQUj23eVY"
+    },
+    {
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/7Fz04q3ibCWPzyZIjlRkds"
       },
@@ -838,7 +874,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 272444,
       "name": "Growing Tension - Original Mix",
       "url": "https://open.spotify.com/track/5pIKU41QDlwXpmYRLz3kxj"
@@ -976,7 +1012,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 232727,
       "name": "I Feel so Free",
       "url": "https://open.spotify.com/track/63pwXzqYI7oolrfSCp3BJp"
@@ -1070,6 +1106,24 @@
       "duration_ms": 207985,
       "name": "Is It...",
       "url": "https://open.spotify.com/track/4kxx1ZJ9Dk07BzyECFb4uN"
+    },
+    {
+      "album": {
+        "name": "I Want to See",
+        "url": "https://open.spotify.com/album/28HXkm4OCYHAc0udQFbiwu"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241832,
+      "name": "It's Then",
+      "url": "https://open.spotify.com/track/4sHrSTZYaMKMFFNrSSpKEC"
     },
     {
       "album": {
@@ -1290,7 +1344,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 241615,
       "name": "Luminary",
       "url": "https://open.spotify.com/track/7pl0IVNgrlMoEf5CwN4N3Z"
@@ -1351,6 +1405,28 @@
     },
     {
       "album": {
+        "name": "Metamorphosis (Remixes)",
+        "url": "https://open.spotify.com/album/57pdwokXUIOHrmM272v7qk"
+      },
+      "artists": [
+        {
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377867,
+      "name": "Metamorphosis - Marie Vaunt Remix",
+      "url": "https://open.spotify.com/track/0bfeRvbX6Y7BU13QqeA7wf"
+    },
+    {
+      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/63Na9YZpFISSGqT18sxl54"
       },
@@ -1362,7 +1438,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 303891,
       "name": "Mind - Original Mix",
       "url": "https://open.spotify.com/track/4rligyWL6twc28nliDzgB2"
@@ -1615,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/53kkvZnrWCe8HOFQGr7o3h"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/4kh3BO905A2aAY17lug2eV"
+    },
+    {
+      "album": {
         "name": "Phantom Limb",
         "url": "https://open.spotify.com/album/1h5mTzaWLLIvAq67lohsut"
       },
@@ -1648,6 +1742,24 @@
       "duration_ms": 210216,
       "name": "Premonition",
       "url": "https://open.spotify.com/track/6J9qHbjXv37EGTLO8aK0jA"
+    },
+    {
+      "album": {
+        "name": "Physical Change EP",
+        "url": "https://open.spotify.com/album/0QeMDNqrQdFQoBNcem9UqF"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453158,
+      "name": "Pulse Of Progression",
+      "url": "https://open.spotify.com/track/54hcdCs31JKzViz8hVXgpV"
     },
     {
       "album": {
@@ -1731,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Rastanta",
+        "url": "https://open.spotify.com/album/0B7YcfcvKHR8qDXnJtakq0"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Rastanta",
+      "url": "https://open.spotify.com/track/2hzx3uyfKREol3ZrIhMdeE"
+    },
+    {
+      "album": {
         "name": "Roll",
         "url": "https://open.spotify.com/album/1vYApAmugZIaBjonjqlSQC"
       },
@@ -1803,6 +1933,28 @@
     },
     {
       "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/7dVQk4IqAYbp15APZ5hf5v"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "Maketech",
+          "url": "https://open.spotify.com/artist/31jG1iSnjTnEoLgbe8uDTb"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225375,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/33jUhN85Ly3yaOdSoVyp1d"
+    },
+    {
+      "album": {
         "name": "Restore My Soul (Remix)",
         "url": "https://open.spotify.com/album/7bfdsv9IXDHvBwIYrDDCDs"
       },
@@ -1840,7 +1992,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 188458,
       "name": "Revolt",
       "url": "https://open.spotify.com/track/1VuoCAvzMWUiHqEaLnO3hU"
@@ -1902,7 +2054,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 393461,
       "name": "Sentinella Meccanica",
       "url": "https://open.spotify.com/track/5fyCP0uZrzFOmEU5XeL7WI"
@@ -2058,7 +2210,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 402923,
       "name": "Soul Spirit",
       "url": "https://open.spotify.com/track/2tBsIetiH9ex7UgTz57niz"
@@ -2083,6 +2235,28 @@
     },
     {
       "album": {
+        "name": "Switch (Alex Stein Remix)",
+        "url": "https://open.spotify.com/album/3zuD6J3tJHwg7Ed7b55y9F"
+      },
+      "artists": [
+        {
+          "name": "Beckers",
+          "url": "https://open.spotify.com/artist/0VWBw0F5CvBFM9xEqbfhDg"
+        },
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191363,
+      "name": "Switch - Alex Stein Remix",
+      "url": "https://open.spotify.com/track/6gNDuHiTw1wVJvYsId2PXb"
+    },
+    {
+      "album": {
         "name": "Take Me Up",
         "url": "https://open.spotify.com/album/5yZexvBI78iFXA0jTVz64G"
       },
@@ -2094,7 +2268,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 350280,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/5QdVkqOYWZU83JgAPqHU6j"
@@ -2112,7 +2286,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 305670,
       "name": "Tape Space",
       "url": "https://open.spotify.com/track/6M25z3vrIhgqND5fiZxsAm"
@@ -2181,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "The Fact",
+        "url": "https://open.spotify.com/album/09HyPrzIMfSBTaBw2K2x7K"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "The Fact",
+      "url": "https://open.spotify.com/track/4xEYeXp2yF6T7xngP8fph7"
+    },
+    {
+      "album": {
         "name": "The Fire Inside",
         "url": "https://open.spotify.com/album/3sGW94Ai9v7OHmSk8b5g5I"
       },
@@ -2192,7 +2384,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 276444,
       "name": "The Fire Inside - Original Mix",
       "url": "https://open.spotify.com/track/7ja3cGCCbpBXmWpE7ZkvBn"
@@ -2370,7 +2562,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 185454,
       "name": "Time & Place - Spencer Dunning Remix",
       "url": "https://open.spotify.com/track/47yWDDVJWtMZ9S67WhhokF"
@@ -2388,7 +2580,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 343000,
       "name": "Time Of Time",
       "url": "https://open.spotify.com/track/2wqqmfrG9QyA7r5TSlXRTL"
@@ -2500,10 +2692,28 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 388524,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/3muMXKLJO1BYQT99CTCNRd"
+    },
+    {
+      "album": {
+        "name": "In Memoro",
+        "url": "https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292173,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/3WaBT0YVA8akM8nMLqpQ39"
     },
     {
       "album": {
@@ -2558,6 +2768,24 @@
       "duration_ms": 414545,
       "name": "You Are Mine - Original Mix",
       "url": "https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5"
+    },
+    {
+      "album": {
+        "name": "Your Future Is",
+        "url": "https://open.spotify.com/album/1lj9N6USYPJkskRbZ97AKw"
+      },
+      "artists": [
+        {
+          "name": "Mark Porter",
+          "url": "https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273357,
+      "name": "Your Future Is",
+      "url": "https://open.spotify.com/track/0dvWa3f9wSmZtnflUvx1Av"
     }
   ],
   "url": "https://open.spotify.com/playlist/41CdF19fdLj0raHQbE7LLz"

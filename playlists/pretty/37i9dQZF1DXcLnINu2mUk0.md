@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,015 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,042 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 37 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 38 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 |
 | 39 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
-| 40 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
-| 41 | [Lágrimas](https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI) | [Cairo](https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP) | [Lágrimas](https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf) | 3:03 |
+| 40 | [Lágrimas](https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI) | [Cairo](https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP) | [Lágrimas](https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf) | 3:03 |
+| 41 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 42 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 43 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
 | 44 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 50 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
 | 51 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
 | 52 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
-| 53 | [Lágrima na Mão](https://open.spotify.com/track/1JuohEccDVgCrOEtHZhq4M) | [TAY](https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu) | [Lágrima na Mão](https://open.spotify.com/album/5JpFm0EZf3mL0IllJQraku) | 3:15 |
-| 54 | [O Brilho de Viver](https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Macaia](https://open.spotify.com/artist/3sF7V5L7Ovcim65sPkuToM) | [O Brilho de Viver](https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9) | 4:15 |
+| 53 | [O Brilho de Viver](https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Macaia](https://open.spotify.com/artist/3sF7V5L7Ovcim65sPkuToM) | [O Brilho de Viver](https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9) | 4:15 |
+| 54 | [Lágrima na Mão](https://open.spotify.com/track/1JuohEccDVgCrOEtHZhq4M) | [TAY](https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu) | [Lágrima na Mão](https://open.spotify.com/album/5JpFm0EZf3mL0IllJQraku) | 3:15 |
 | 55 | [Backstage](https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:16 |
 | 56 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 |
 | 57 | [Não Me Faz Bem](https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2) | [Wavy](https://open.spotify.com/artist/6DGmebMhwunFzbWodIcMsW), [Shugga](https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK), [Fábio S](https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU) | [Não Me Faz Bem](https://open.spotify.com/album/0vHSJYrRzXNSQ37LcnPwDr) | 2:56 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 60 | [Parque](https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c) | [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Parque](https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb) | 2:21 |
 | 61 | [Bandida](https://open.spotify.com/track/4HxrqfAx5EZQkuv89PnpRn) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Bandida](https://open.spotify.com/album/4PAIFsRKhxbXaSidwqmFLq) | 2:53 |
 | 62 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
-| 63 | [Toca](https://open.spotify.com/track/1hIXfKQYuMl1aioQkvzNCM) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1), [Uami Ndongadas](https://open.spotify.com/artist/5Zk9sDo6b2WArX9zr7I4BC) | [Toca](https://open.spotify.com/album/6eBmDkYHMMin2VZ5cyfUw6) | 3:20 |
-| 64 | [Metamorfose](https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Metamorfose](https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0) | 4:08 |
+| 63 | [Metamorfose](https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Metamorfose](https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0) | 4:08 |
+| 64 | [Toca](https://open.spotify.com/track/1hIXfKQYuMl1aioQkvzNCM) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1), [Uami Ndongadas](https://open.spotify.com/artist/5Zk9sDo6b2WArX9zr7I4BC) | [Toca](https://open.spotify.com/album/6eBmDkYHMMin2VZ5cyfUw6) | 3:20 |
 | 65 | [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 |
 | 66 | [I Own This](https://open.spotify.com/track/4s4ap06sE6JjOcXupz8qWg) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ELEVEM](https://open.spotify.com/album/3CHSG0tS9y5CWLKh2DrhUw) | 3:36 |
 | 67 | [Mexeu Contigo \(Remix\)](https://open.spotify.com/track/2ZFBSjOAw8qMW31p51mCX0) | [Lorena Pollock](https://open.spotify.com/artist/57aJV1lubomzRmN7U39Wmh), [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Mexeu Contigo \(Remix\)](https://open.spotify.com/album/5pharZhhyldorgOlMpdtdk) | 4:02 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 71 | [To My Favorite Ex](https://open.spotify.com/track/5fLidbjAFMytaMWclTjmuX) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [To My Favorite Ex](https://open.spotify.com/album/1WeTkoxi7ICEveQ8xcXx58) | 3:06 |
 | 72 | [Sou Eu](https://open.spotify.com/track/2ZxwGr1ke9B1sfefxq18sI) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Sou Eu](https://open.spotify.com/album/6KrkHvd0AyGtVJNZKxyikb) | 3:34 |
 | 73 | [Quero Mais](https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Quero Mais](https://open.spotify.com/album/7fRIESyi6XlgpQVpnCXXk6) | 3:09 |
-| 74 | [Negritude](https://open.spotify.com/track/4rgoNviXWceudmqv6B0ul2) | [Euryy](https://open.spotify.com/artist/0mYDvl1DdVl3KHSWckVwUp), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Negritude](https://open.spotify.com/album/5fFdfNqLJPrhi1s98xlrsE) | 3:17 |
+| 74 | [Teus Olhos](https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Teus Olhos](https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ) | 3:20 |
 | 75 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
 
-Snapshot ID: `MCxhYWJmOTZiZDRhODI5OWNiNjQ2YzI0OWY1ODI3OGNkODE5MDFmN2E3`
+Snapshot ID: `MCxhN2FkYmQyMWFiNTZhZTQyNjUzZjYxNjExMWYzMWQyMGU5ZDI5MjNh`

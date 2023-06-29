@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 
 > Summer Barbeque grilling essentials for your backyard party\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 83,882 likes - 187 songs - 12 hr 26 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 83,898 likes - 187 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 | 186 | [Only Love Can Save Us Now \- KC Lights Remix](https://open.spotify.com/track/6TFvY0ZUAG3RMFsoXu5JMx) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Only Love Can Save Us Now \(Remixes\)](https://open.spotify.com/album/4ETSuFiVuUSga7g9Tb4Vu1) | 3:33 |
 | 187 | [818](https://open.spotify.com/track/03KI9skAfLitNzANOWhZJi) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Melodies on Hiatus](https://open.spotify.com/album/23zBt9O5whbd4zh23XAi11) | 3:56 |
 
-Snapshot ID: `ODQ2LGNhZGQ5YWQxZjQ3MmNhOGExZTUyZjczODIxZTNhZTJmNmIyYWM1NGI=`
+Snapshot ID: `ODQ4LGVjNDI3MGE3NTFiMWY4MjBkZjExN2UzODdkMDkxMGQyZDg3Y2MzMmQ=`

@@ -2443,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Ando Sola",
+        "url": "https://open.spotify.com/album/29GVWbVQEICyv9UtQmoyMv"
+      },
+      "artists": [
+        {
+          "name": "Ariel Assad",
+          "url": "https://open.spotify.com/artist/7ciV3Sbbl4XKYLLhtLzm8p"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170013,
+      "name": "Ando Sola",
+      "url": "https://open.spotify.com/track/1iMJ37IxhxfWoNCJLODZLq"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -8568,6 +8586,36 @@
       "duration_ms": 315739,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/0hzSetvPTEgHqyQx9dm0Z9"
+    },
+    {
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Cool About It",
+      "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
     },
     {
       "album": {

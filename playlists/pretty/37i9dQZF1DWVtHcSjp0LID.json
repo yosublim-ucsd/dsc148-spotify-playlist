@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 57807,
+  "num_followers": 57840,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjAzOTUyYmYxMDgwNDc3NGQzMGVmZjUzYWQ5Y2YyMGM5OWJjZGYz",
+  "snapshot_id": "MCw2YjYzZjdkYjY4OTIwOWIyNGIzMWY5OWRkNzJjM2IyM2QxNGVhYTc1",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "LNOE Introducing Vol. 1",
-        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 322058,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Kopernikus EP",
         "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 440118,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "LNOE Introducing Vol. 1",
+        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 322058,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -857,20 +857,32 @@
       "url": "https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb"
     },
     {
-      "added_at": "2023-06-09 18:05:35",
+      "added_at": "2023-06-23 14:51:15",
       "album": {
-        "name": "Doorways",
-        "url": "https://open.spotify.com/album/77BphdStN47PTh2OOBwXaE"
+        "name": "Simple Child",
+        "url": "https://open.spotify.com/album/3YRYyLIIgyWaCZ5okstYIi"
       },
       "artists": [
         {
-          "name": "Cinnamon Chasers",
-          "url": "https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B"
+          "name": "Meloko",
+          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
+        },
+        {
+          "name": "LKF Project",
+          "url": "https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d"
+        },
+        {
+          "name": "Selim Sivade",
+          "url": "https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn"
+        },
+        {
+          "name": "Rondo Mo",
+          "url": "https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG"
         }
       ],
-      "duration_ms": 228480,
-      "name": "3010",
-      "url": "https://open.spotify.com/track/4VM51LB2UMAitSSunxVrnV"
+      "duration_ms": 376000,
+      "name": "Simple Child",
+      "url": "https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X"
     }
   ],
   "unique_name": "Deep Study",

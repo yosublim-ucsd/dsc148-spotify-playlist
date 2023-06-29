@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT93ZDwDlVYL.md) - [plain]
 
 > Podcast che devi avere sul tuo RADAR: Bouquet of Madness, Dear Alice, Caffè Design.<br/>Foto: Caffè Design.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,231 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCw4ZGFlYWI3MTRlZDFmYTFjNzg3MWI4M2Y2OWY2NTI2MmI0ODcwM2Zm`
+Snapshot ID: `MCw1Yzc5YjE1ZDAyOWZiNWRjMDhlNTE1OTE4YzJlOWQ0OGViNzI0YzA4`

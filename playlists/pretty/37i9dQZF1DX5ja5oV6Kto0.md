@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=QhfQ3TpCQ6KhVigAP4CU5g"> Lady Donli </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,271 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,383 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 69 | [Next Move](https://open.spotify.com/track/349xUXpwkSwnNif0xxECZR) | [Forever Boy](https://open.spotify.com/artist/1lyZ6cpt2PAztZxbZzx7iz), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Next Move](https://open.spotify.com/album/0psr5kCPCMwyjvtdsURhmu) | 2:42 |
 | 70 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 
-Snapshot ID: `MCw2NGE0YjcyMjYwYzEzNGFlZGUwNWRkYTI2MWZiNmI0YjlkNmEwZDAy`
+Snapshot ID: `MCxkMThhOGE4OTIzNDY5ZGM1ODYyMmM0OGU5MjNiMDQ4YmM0YmFiZGQ0`

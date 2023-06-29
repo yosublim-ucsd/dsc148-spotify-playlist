@@ -4,7 +4,7 @@
 
 > ¡Bienvenida Generación RADAR 2023! Los Aptos en portada.
 
-275 songs - 14 hr 47 min
+276 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Claridad Extática \- Tayhana Remix](https://open.spotify.com/track/0OqgbKpcSIieXmzEZWAsP7) | [Sueuga Kamau](https://open.spotify.com/artist/1PO6esSj88BOLjfrnCdUFM), [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Claridad Extática \(Tayhana Remix\)](https://open.spotify.com/album/5iN0iaMcTTbJvwNtKwJmv9) | 4:06 | 2022-05-13 | 2022-07-17 |
 | [Cohete](https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:39 | 2021-10-01 | 2022-05-11 |
 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-05-11 | 2022-07-24 |
-| [Como Intento](https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Como Intento](https://open.spotify.com/album/1ZTJ3I8M7jANe5qBYCU5Ee) | 2:43 | 2023-04-18 |  |
+| [Como Intento](https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Como Intento](https://open.spotify.com/album/1ZTJ3I8M7jANe5qBYCU5Ee) | 2:43 | 2023-04-18 | 2023-06-29 |
 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-08-01 | 2023-04-19 |
+| [COMO YO NO HAY DOS](https://open.spotify.com/track/1ZmrG1ghcwKEBBdXIPUQuP) | [Chiken Lira](https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn) | [COMO YO NO HAY DOS](https://open.spotify.com/album/10hGBacgDz8cseX4Yz8Mqw) | 4:38 | 2023-06-23 |  |
 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 | 2022-05-09 | 2023-04-19 |
 | [Consumo](https://open.spotify.com/track/39Yj12OXiBmQf7JmNh6gnI) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Consumo](https://open.spotify.com/album/4USFiLBxSrjMfuXuZaxv4T) | 3:32 | 2022-05-13 | 2023-04-19 |
 | [Consumo](https://open.spotify.com/track/6YP8S9DHfoVSmHqXI4fusp) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Consumo](https://open.spotify.com/album/6Y2XVuQ2WwQXecT6XkFKTQ) | 3:32 | 2022-05-13 | 2022-07-25 |

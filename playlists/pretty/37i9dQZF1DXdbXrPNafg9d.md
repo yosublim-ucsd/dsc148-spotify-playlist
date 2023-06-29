@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Bakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,646 likes - 145 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279,711 likes - 145 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 144 | [Wishing Well](https://open.spotify.com/track/5ORDNYVGGRdmSmrz4DqKbf) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Wishing Well](https://open.spotify.com/album/7ahguEsUuw2DfJlNELZFBA) | 3:56 |
 | 145 | [Think About It](https://open.spotify.com/track/4zfHRKOXhzjAoSsN5OZqSn) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Delusional](https://open.spotify.com/album/3nG1CK2bOhi74cNDtCYppx) | 2:20 |
 
-Snapshot ID: `MCxjMGVhOTA3ODEyYjJmMjU2MjExNWNlNmIyMWI4MTNjOWYzMjY2NjA0`
+Snapshot ID: `MCwzY2I3ZTk2OGQ2YjI2MWY3Njg2ZTAwNzczYmRiY2NhYjFhMGNkMGU5`

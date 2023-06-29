@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOFM7UBh5tcSG.md) - [plain]
 | 10 | [Confident](https://open.spotify.com/track/0Mn3amMRMoabaoTf1Publ4) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/3HV3ecmJJ2GmHM93vVVKXF) | 3:25 |
 | 11 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
 
-Snapshot ID: `MjY3ODM0MDYsMDAwMDAwMDBkNDFiMDIzNTFmZDNkZjljMzdhODk2NDc5M2E0MDM1Ng==`
+Snapshot ID: `MjY3ODM0MDYsMDAwMDAwMDBmZDI3NDRiODM1Mjc5ZDU4NzA0Nzg5NzRjY2VmYjUxNw==`

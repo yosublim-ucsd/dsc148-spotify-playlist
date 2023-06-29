@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjAzMGIwNDQ2ZTExYjE2YTFkNjg4ODg4OWY4ZDk5YWNjOTQ2ZTE4",
+  "snapshot_id": "MCxhYTFkZDA5ODFmMGQ3NzI3NTI0YmE2ZWQ1YWIzMGFmZjZkYzY5MTMx",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "christmas will break your heart",
-        "url": "https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "christmas will break your heart",
-      "url": "https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "The Holidays With You",
         "url": "https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 125146,
       "name": "The Holidays With You",
       "url": "https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "christmas will break your heart",
+        "url": "https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "christmas will break your heart",
+      "url": "https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "The Hotel Caf\u00e9 presents... Winter Songs",
-        "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
+        "name": "Cole, Christmas & Kids",
+        "url": "https://open.spotify.com/album/6L559yGVxmFOW8ViMMbWI1"
       },
       "artists": [
         {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 130506,
-      "name": "Frosty the Snowman",
-      "url": "https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp"
+      "duration_ms": 153466,
+      "name": "The Little Boy That Santa Claus Forgot - 1990 Remaster",
+      "url": "https://open.spotify.com/track/4nYhFybm5G4ETNt19pcKzs"
     }
   ],
   "unique_name": "sad xmas",

@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Ark",
+        "url": "https://open.spotify.com/album/2CDot1UAkvjF5J2Zr2h5MA"
+      },
+      "artists": [
+        {
+          "name": "Bastian Benjamin",
+          "url": "https://open.spotify.com/artist/3qMm1Wmx2QJI3KNk9hzi3q"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220683,
+      "name": "Ark",
+      "url": "https://open.spotify.com/track/25YGk04mE0QyKs46svac1V"
+    },
+    {
+      "album": {
         "name": "Arterial",
         "url": "https://open.spotify.com/album/0t3mZVc3l8zwo8b8la2jfM"
       },

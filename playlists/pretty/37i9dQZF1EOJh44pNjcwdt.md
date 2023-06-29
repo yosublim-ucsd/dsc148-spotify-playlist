@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOJh44pNjcwdt.md) - [plain]
 | 10 | [Man On The Moon](https://open.spotify.com/track/78T9DulqSBWqkaxczcGBfk) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day \(Deluxe\)](https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3) | 3:30 |
 | 11 | [WAKE UP](https://open.spotify.com/track/20MuVazoNMv6xjKPnRFOxG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:51 |
 
-Snapshot ID: `MjY3NzQ5MDEsMDAwMDAwMDAxYWNmY2JjMTFhYWI5NDJmNzUyZTg0YWI2ZDMxMDM4Zg==`
+Snapshot ID: `MjY3NzQ5MDEsMDAwMDAwMDA1YmM5NzhiZjg1YTVmZDhiZGUyNTFhMmE5Zjk1NWFjZA==`

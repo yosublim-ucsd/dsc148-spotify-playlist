@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Portraits Of Tracy
 
-1,642 songs - 3 day 17 hr 47 min
+1,644 songs - 3 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Around](https://open.spotify.com/track/1rxlKYkqpoq67Pzw9YHTNE) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Around](https://open.spotify.com/album/6iLsJBQLbWdFRUeiuPnoc0) | 2:30 | 2023-04-19 | 2023-05-11 |
 | [Around](https://open.spotify.com/track/58W4eow72ceda18OWfqZol) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Around](https://open.spotify.com/album/1D1N4s26kktiCG5cspFnsL) | 2:30 | 2023-04-19 | 2023-05-18 |
 | [Arrow](https://open.spotify.com/track/7oCoSMovt6hD62FYKkNxsr) | [Savagery](https://open.spotify.com/artist/4YwTBYZnp107pGgOv3So3e) | [Arrow](https://open.spotify.com/album/4KXz0UKvLhfRtoWojUcjIc) | 3:17 | 2023-02-15 | 2023-03-09 |
-| [Art House](https://open.spotify.com/track/2GkjgiuBawwpL48d0TGQEL) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Art House](https://open.spotify.com/album/1ysnBkxshLq1mn6dftQowP) | 2:57 | 2023-04-26 |  |
+| [Art House](https://open.spotify.com/track/2GkjgiuBawwpL48d0TGQEL) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Art House](https://open.spotify.com/album/1ysnBkxshLq1mn6dftQowP) | 2:57 | 2023-04-26 | 2023-06-29 |
 | [Aspartame](https://open.spotify.com/track/3sOjbZb9y1MdjW5MCrHas9) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [Aspartame](https://open.spotify.com/album/7BvnB6aLcGcYcEIOZBVNrv) | 3:15 | 2023-04-12 | 2023-05-18 |
 | [aspirin](https://open.spotify.com/track/2HurtZFEBFbHBhMg1ROnan) | [elisadont](https://open.spotify.com/artist/4T5EPU720M8KwkdYWms28l), [villent](https://open.spotify.com/artist/7iyXuJrnFdoVpKKnrQ4DFE) | [aspirin](https://open.spotify.com/album/0MKJPbpTtV5QDezVPaKifE) | 3:17 | 2022-08-31 | 2022-10-20 |
 | [Asthma](https://open.spotify.com/track/3Dg3AZOd8xL6hQ3CHRB83h) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Asthma](https://open.spotify.com/album/7hPfdQW6kT0l2prcJsV7c8) | 3:15 | 2022-01-26 | 2023-01-12 |
@@ -129,6 +129,7 @@
 | [Au Revoir Simone](https://open.spotify.com/track/27rRkT8rI5H3Hono2gC3On) | [Coach Kit](https://open.spotify.com/artist/0arm3LZulm5N0xeidcdvWQ) | [Au Revoir Simone](https://open.spotify.com/album/1IRz0QDcydj4JMbm9pHDiE) | 3:31 | 2022-09-28 | 2022-10-13 |
 | [Ava](https://open.spotify.com/track/2UFNep9nbVcfkleCG9icRd) | [Aidan Jack Finnecy](https://open.spotify.com/artist/1WhVurXzCBmvdyXpmR2A22) | [Ava](https://open.spotify.com/album/2kHVasHvva7dlsArXSO1ic) | 3:46 | 2022-08-04 | 2022-08-11 |
 | [Awake](https://open.spotify.com/track/7bB11pVkZkLe6UEjEqJd88) | [Echo Ladies](https://open.spotify.com/artist/6oVcSUWav1AjjopB8cKJ4m) | [Awake](https://open.spotify.com/album/6oDzf3C2ZvPmMJFud90q8g) | 3:56 | 2023-06-14 | 2023-06-28 |
+| [Awful Thing](https://open.spotify.com/track/3SeQJb8SJrGhURSdMHneMO) | [The McCharmlys](https://open.spotify.com/artist/09l8Gk7eyahBzFK3FxnFAT) | [The McCharmlys](https://open.spotify.com/album/3Cj6EtB4yjFGmWbyTQ3iMd) | 3:26 | 2023-06-28 |  |
 | [Baby](https://open.spotify.com/track/6ZoFADmGCXaRVc3K5OEVP8) | [YOUR ANGEL](https://open.spotify.com/artist/2TM9SCQxFsKKROUtDpC1yA) | [A Star in the Headlights](https://open.spotify.com/album/56OQJH1PdhkgnmC5p1LO2y) | 4:12 | 2023-03-22 | 2023-04-06 |
 | [Baby Teeth](https://open.spotify.com/track/432XHTjEw7vr8DAX39XVsC) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/661QuZQLSPVdLOxRKNknu8) | 3:16 | 2022-11-30 | 2023-01-12 |
 | [Baby Teeth](https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/7GVHPxSJrUJcb3sA7DhiDS) | 3:16 | 2022-03-16 | 2022-04-27 |
@@ -871,6 +872,7 @@
 | [Long Sleeves](https://open.spotify.com/track/3FhR2wKrImxzGWbLEk8323) | [Love You Later](https://open.spotify.com/artist/5NnHZjAQDhWUb5ISZO7FSw) | [Long Sleeves](https://open.spotify.com/album/25TWkHnNyeUDIq6nkB1baW) | 2:50 | 2023-05-03 | 2023-05-31 |
 | [Look the Other Way](https://open.spotify.com/track/1ThdBhDTOyVxk2VcN8DaTI) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Look the Other Way](https://open.spotify.com/album/3g3OR1LmPmzp9ufa5cF3o5) | 2:33 | 2023-06-14 |  |
 | [Lookin' 4 Pleasure](https://open.spotify.com/track/2zpFidqnzXMpzQCLTBHTtA) | [Dominic Sen](https://open.spotify.com/artist/152t0HrYcs72GHrhM6x5gF) | [Lookin' 4 Pleasure](https://open.spotify.com/album/40iGpxXRNe5Hx9K9ac26WF) | 3:39 | 2022-05-19 | 2022-05-26 |
+| [Looking at You](https://open.spotify.com/track/0qYNUduazu2fVQ78BiMkGp) | [Juniper Honey](https://open.spotify.com/artist/0KwqvjIByt3CTj5OnldokY) | [Looking at You](https://open.spotify.com/album/1hQanJQ8o0l3Sgf63MtrlL) | 3:26 | 2023-06-28 |  |
 | [Looking Backward](https://open.spotify.com/track/478ZW3J7G43YjMRLUlisaq) | [Darksoft](https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE) | [Cryo](https://open.spotify.com/album/5Y27T3hgkcXG4cCVIqNyZp) | 3:29 | 2022-01-26 | 2022-04-07 |
 | [Loser](https://open.spotify.com/track/5O3wRzvkT0Zao9qoheio6v) | [Wild Love](https://open.spotify.com/artist/2HgUSKcdkOOicatZDmzdn6) | [Loser](https://open.spotify.com/album/0bnuwweufvxmO4hl2acsBK) | 2:52 | 2022-08-24 | 2022-09-07 |
 | [losing my mind](https://open.spotify.com/track/7pyi0IwbpspklysMl3pduX) | [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [losing my mind](https://open.spotify.com/album/6x77PGYcBbHht5jN5YqQRA) | 3:08 | 2022-08-03 | 2022-09-20 |
@@ -931,7 +933,7 @@
 | [minuit](https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L) | [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [minuit](https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89) | 3:45 | 2022-01-12 | 2023-01-12 |
 | [Minute To Rest](https://open.spotify.com/track/4zdOIMF9I9o7kIh3IdHZjL) | [MAUGER](https://open.spotify.com/artist/0xYTp14znacYOEZ1ieRsvD) | [Minute To Rest](https://open.spotify.com/album/4kBi8qub65IWOvE2qHhHuv) | 3:48 | 2022-05-25 | 2022-06-30 |
 | [minutia](https://open.spotify.com/track/0rcqTYBsiz0prQQJHAbGbj) | [Spilly Cave](https://open.spotify.com/artist/67mzMEdm10hCcDU3E4RH3l) | [SPILLY CAVE](https://open.spotify.com/album/4Mh7WkzK3JhOZFo0n1Dx8v) | 2:16 | 2023-01-11 | 2023-02-09 |
-| [Mio](https://open.spotify.com/track/6cl3amT9HIxuSYxNZnPmlY) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Mio](https://open.spotify.com/album/03cZqgLuOhAhpuFBiDP2AL) | 4:13 | 2023-05-17 |  |
+| [Mio](https://open.spotify.com/track/6cl3amT9HIxuSYxNZnPmlY) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Mio](https://open.spotify.com/album/03cZqgLuOhAhpuFBiDP2AL) | 4:13 | 2023-05-17 | 2023-06-29 |
 | [Miracle Mile](https://open.spotify.com/track/3QkQvfVhWMMmc1yD0xBDhj) | [Alton Allen](https://open.spotify.com/artist/5sQbmL5ZGPpkwWNVxCJ2nq) | [We Might Not Be Friends After This](https://open.spotify.com/album/6fivd6PMKJaYncQrPLfMzh) | 4:40 | 2023-01-18 | 2023-02-09 |
 | [Mirrors](https://open.spotify.com/track/0I9nzGvanBKqltILu0tbXJ) | [Creature Canyon](https://open.spotify.com/artist/2dNInv9DAqXZhseHpSHbV6) | [Mirrors](https://open.spotify.com/album/29xDBFJM5VJU54RLSEO0o4) | 4:32 | 2022-03-30 | 2022-04-27 |
 | [Miss You](https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Making You Up](https://open.spotify.com/album/6TIqQfv8TZHzAsdmggbxF8) | 3:39 | 2023-03-15 | 2023-05-11 |

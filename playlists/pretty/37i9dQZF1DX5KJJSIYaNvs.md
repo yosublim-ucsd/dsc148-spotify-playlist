@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover: Aastha Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,291 likes - 43 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,352 likes - 43 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kyun](https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Kyun](https://open.spotify.com/album/6GxIBsdJ8kYdHgnpKRByFM) | 2:26 |
 | 2 | [Dil Khanjar](https://open.spotify.com/track/4EP0ThaLieQ06qEpPWSUe6) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Dil Khanjar](https://open.spotify.com/album/0XnagSUuTh5EqmVykyKgEM) | 3:09 |
-| 3 | [Ranjha \- Sid X Kiara Version](https://open.spotify.com/track/1nvvaiJbrhCkM3Az74N1pM) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Prerna Arora](https://open.spotify.com/artist/44OCqb4De16h6EY5QfzYp7), [Ashwani Basoya](https://open.spotify.com/artist/37Zo1pexxNhKlFtkYTGngm), [The Wedding Filmer](https://open.spotify.com/artist/6nKrBsgkTLIBbNdZhYr1kO), [Kingshuk Chakravarty](https://open.spotify.com/artist/0MmHrkXeuapU1nIUa8qDnx), [Mayank Choudhary](https://open.spotify.com/artist/5wLDdmvqrXgfwRQtSjA9mD) | [Ranjha \(Sid X Kiara Version\)](https://open.spotify.com/album/0BJ8hGiNXBa38eAUHRB3Mm) | 1:57 |
+| 3 | [Ranjha \- Sid X Kiara Version](https://open.spotify.com/track/1nvvaiJbrhCkM3Az74N1pM) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [The Wedding Filmer](https://open.spotify.com/artist/6nKrBsgkTLIBbNdZhYr1kO), [Kingshuk Chakravarty](https://open.spotify.com/artist/0MmHrkXeuapU1nIUa8qDnx), [Mayank Choudhary](https://open.spotify.com/artist/5wLDdmvqrXgfwRQtSjA9mD), [Prerna Arora](https://open.spotify.com/artist/44OCqb4De16h6EY5QfzYp7), [Ashwani Basoya](https://open.spotify.com/artist/37Zo1pexxNhKlFtkYTGngm) | [Ranjha \(Sid X Kiara Version\)](https://open.spotify.com/album/0BJ8hGiNXBa38eAUHRB3Mm) | 1:58 |
 | 4 | [Barsaat Aa Gayi](https://open.spotify.com/track/1JBm3IDx7yiXnB4LrnQ7k5) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Barsaat Aa Gayi](https://open.spotify.com/album/2UhvMG2lTLXYnmNZAfukNo) | 3:40 |
 | 5 | [Ghodey Pe Sawaar](https://open.spotify.com/track/7wqNKCHh87HfIOGNgfyRCk) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Qala \(Music From The Netflix Film\)](https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW) | 3:13 |
 | 6 | [Aise Kyun \- Ghazal Version](https://open.spotify.com/track/02wf1NAQdIpe5S1NJYPwvB) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 5:29 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 42 | [Tu Hai](https://open.spotify.com/track/7dZU2M1wzwOixYS6OoSMfO) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Jammin \- Season 1](https://open.spotify.com/album/2TOpxaq3s212H86RbwKx4z) | 3:29 |
 | 43 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 |
 
-Snapshot ID: `MCw3N2RlY2NmMzllNDRkYThiNGI2NmM0MjViZDgzNDY3MjU4MzMwYjk4`
+Snapshot ID: `MCw0YWM4NzEyMTYzMGZiNTQ5NTViNjJlODg4Y2EwMjMyOGI1ZmU4NDJk`

@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 111153,
+  "num_followers": 111273,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGUyYjk2N2E4ODIxNThiNjc2YzZjYmE5YzllZmU2ZjEwNjU1YTYy",
+  "snapshot_id": "MCw2YjEwZjdlMTg0ZjI0Y2QwMDg1MDYzNTAwOWM5MWQzZTUxMTJmNGZh",
   "tracks": [
     {
       "added_at": "2023-04-28 19:03:48",
@@ -271,26 +271,18 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Carried",
-        "url": "https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw"
+        "name": "Rastros e Trilha",
+        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
       },
       "artists": [
         {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        },
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        },
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
         }
       ],
-      "duration_ms": 352159,
-      "name": "Close to Me - Acoustic",
-      "url": "https://open.spotify.com/track/4UYzYk1EG7iP8PzL4seLRe"
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -311,18 +303,26 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Rastros e Trilha",
-        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+        "name": "Carried",
+        "url": "https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw"
       },
       "artists": [
         {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        },
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        },
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
         }
       ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+      "duration_ms": 352159,
+      "name": "Close to Me - Acoustic",
+      "url": "https://open.spotify.com/track/4UYzYk1EG7iP8PzL4seLRe"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Aben\u00e7oada",
-        "url": "https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 189919,
-      "name": "Aben\u00e7oada",
-      "url": "https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Infinito Amor",
         "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 243417,
       "name": "Infinito Amor",
       "url": "https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Aben\u00e7oada",
+        "url": "https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 189919,
+      "name": "Aben\u00e7oada",
+      "url": "https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Miseric\u00f3rdia \u00c9s",
-        "url": "https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 154104,
-      "name": "Miseric\u00f3rdia \u00c9s",
-      "url": "https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Primeiro",
         "url": "https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "Miseric\u00f3rdia \u00c9s",
+        "url": "https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 154104,
+      "name": "Miseric\u00f3rdia \u00c9s",
+      "url": "https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Eu Quero Voltar",
         "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Simples Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 242829,
-      "name": "Simples Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Descansar em Ti",
         "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 225230,
       "name": "Descansar em Ti",
       "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Simples Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 242829,
+      "name": "Simples Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Do Meu Interior",
-        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 159629,
-      "name": "Sobre Viver",
-      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Sonhadora (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 236199,
       "name": "Sonhadora (Vers\u00e3o Alternativa) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Do Meu Interior",
+        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 159629,
+      "name": "Sobre Viver",
+      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Leidy Murilho Ac\u00fastico",
-        "url": "https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 227046,
-      "name": "Filho - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Coragem",
         "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 265982,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Leidy Murilho Ac\u00fastico",
+        "url": "https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 227046,
+      "name": "Filho - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS"
     },
     {
       "added_at": "2023-04-28 19:03:48",

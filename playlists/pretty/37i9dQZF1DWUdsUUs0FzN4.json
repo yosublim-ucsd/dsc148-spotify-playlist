@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. El Alfa y Peso Pluma en portada ",
-  "num_followers": 7955,
+  "num_followers": 7968,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWQzZTFkYmE1MDkyNTc2ZmI2NjEwOWQ5MjJiODMwNTgxOTg0NTY0",
+  "snapshot_id": "MCw2OGZjMTExNDE2YTRlODA5Y2Y1MjFiNjU4ZDA5ODUzZThiN2FjODRl",
   "tracks": [
     {
       "added_at": "2023-06-23 06:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "OG CITY",
-        "url": "https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 241341,
-      "name": "No Traje Naki",
-      "url": "https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Metele",
         "url": "https://open.spotify.com/album/57XcVUDgQmW2OWvHIu4I3l"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 195625,
       "name": "Metele",
       "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "OG CITY",
+        "url": "https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 241341,
+      "name": "No Traje Naki",
+      "url": "https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1207,22 +1207,26 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Perreo Chakalon",
-        "url": "https://open.spotify.com/album/6yiD7DcSWqTeh4s7M9cMo1"
+        "name": "Puta Rara, Puta Dominicana",
+        "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
       },
       "artists": [
         {
-          "name": "DJ ETER",
-          "url": "https://open.spotify.com/artist/74d5JvA21aJKseU1ISn9CW"
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
         },
         {
-          "name": "Alexito Mix",
-          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "marceu inovadora",
+          "url": "https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7"
         }
       ],
-      "duration_ms": 136162,
-      "name": "Perreo Chakalon",
-      "url": "https://open.spotify.com/track/3Mwty5hFEbRARdiMsS6Kyr"
+      "duration_ms": 140643,
+      "name": "Puta Rara, Puta Dominicana",
+      "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1251,26 +1255,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Puta Rara, Puta Dominicana",
-        "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
+        "name": "Perreo Chakalon",
+        "url": "https://open.spotify.com/album/6yiD7DcSWqTeh4s7M9cMo1"
       },
       "artists": [
         {
-          "name": "MC Menor MT",
-          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+          "name": "DJ ETER",
+          "url": "https://open.spotify.com/artist/74d5JvA21aJKseU1ISn9CW"
         },
         {
-          "name": "Dixson Waz",
-          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
-        },
-        {
-          "name": "marceu inovadora",
-          "url": "https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7"
+          "name": "Alexito Mix",
+          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
         }
       ],
-      "duration_ms": 140643,
-      "name": "Puta Rara, Puta Dominicana",
-      "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
+      "duration_ms": 136162,
+      "name": "Perreo Chakalon",
+      "url": "https://open.spotify.com/track/3Mwty5hFEbRARdiMsS6Kyr"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "La M\u00e1s Linda",
-        "url": "https://open.spotify.com/album/6GF8sUee8vHLzq3OFAW81J"
-      },
-      "artists": [
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "La M\u00e1s Linda",
-      "url": "https://open.spotify.com/track/19ImEdyUwLNz3NIxtUA0tk"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Likes",
         "url": "https://open.spotify.com/album/36DmgVkBI3hDOxqFlFigZ6"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 122774,
       "name": "Likes",
       "url": "https://open.spotify.com/track/2MSQ5nSg740lxwalZ2YIiR"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "La M\u00e1s Linda",
+        "url": "https://open.spotify.com/album/6GF8sUee8vHLzq3OFAW81J"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "La M\u00e1s Linda",
+      "url": "https://open.spotify.com/track/19ImEdyUwLNz3NIxtUA0tk"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Esto No Es Un \u00c1lbum",
-        "url": "https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF"
-      },
-      "artists": [
-        {
-          "name": "Yoiker",
-          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
-        }
-      ],
-      "duration_ms": 158013,
-      "name": "Gr\u00e1bate",
-      "url": "https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Bugu",
         "url": "https://open.spotify.com/album/2WPELRRTwKBNh48B32Xd7Q"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 209302,
       "name": "Bugu",
       "url": "https://open.spotify.com/track/6WV7h73AArddBvXjExvYS9"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Esto No Es Un \u00c1lbum",
+        "url": "https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF"
+      },
+      "artists": [
+        {
+          "name": "Yoiker",
+          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "Gr\u00e1bate",
+      "url": "https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "To' to' to'",
-        "url": "https://open.spotify.com/album/3oDe5dREfsr34yvFW95M3V"
-      },
-      "artists": [
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        },
-        {
-          "name": "Alnz G",
-          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
-        }
-      ],
-      "duration_ms": 144489,
-      "name": "To' to' to'",
-      "url": "https://open.spotify.com/track/1wnfv6zW14hCVXaN2Vi6RW"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Rkt",
         "url": "https://open.spotify.com/album/3kGB4NVBhJH02h2OhW67EF"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 171789,
       "name": "Aplaude",
       "url": "https://open.spotify.com/track/0XOzKFrzY8ZLh7m4ldN9q8"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "To' to' to'",
+        "url": "https://open.spotify.com/album/3oDe5dREfsr34yvFW95M3V"
+      },
+      "artists": [
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "To' to' to'",
+      "url": "https://open.spotify.com/track/1wnfv6zW14hCVXaN2Vi6RW"
     },
     {
       "added_at": "2023-06-23 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 
 > Focus, study or let yourself daydream to these atmospheric, instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,261 likes - 47 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,300 likes - 47 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 | 46 | [Languid](https://open.spotify.com/track/2jV0okvamtMJ4ie5hZcjo1) | [Nick Costa](https://open.spotify.com/artist/3lKLF6TNNdWGXtWkD6mV7h) | [Lull](https://open.spotify.com/album/6TMlDVw6gmsxAZzCs9ujf5) | 4:45 |
 | 47 | [Sista Snön](https://open.spotify.com/track/0neGZAdlsgCXrSk27SWYcK) | [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn) | [Sista Snön](https://open.spotify.com/album/03U2UdnlI94HsoaMVk9qn2) | 1:58 |
 
-Snapshot ID: `MCxmOWJlOTU2NGZlY2FhODI1NDU2ZTA5OWZjMTRmZDQ3NTljNjkzOGE0`
+Snapshot ID: `MCw2NmE2ZTc1M2NlYmQyMTkwMzIzZTI1Y2E0N2MwOTU1NjU5MjY2MTky`

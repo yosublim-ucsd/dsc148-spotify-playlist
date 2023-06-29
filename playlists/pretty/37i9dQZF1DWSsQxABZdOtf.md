@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,385 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,390 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 8 | [O LYCOX É LOKO](https://open.spotify.com/track/5EjHMS06PRlS680rQykLU2) | [DJ Lycox](https://open.spotify.com/artist/6HPUbM6BB61jpGbYOYMQ9C) | [AREA 93](https://open.spotify.com/album/3StiJgzyQwEDZMWPMIXmBR) | 3:16 |
 | 9 | [1x1](https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [1x1](https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv) | 3:24 |
 | 10 | [Heartbroken](https://open.spotify.com/track/2x42QGgGtkPaXJ5dAg5qvP) | [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [King of BBM](https://open.spotify.com/album/0mRfNhYEVF7w1qkMcWEVLd) | 1:56 |
-| 11 | [AMBER](https://open.spotify.com/track/5Q967UCPfCsQeEgFhT1umT) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:02 |
+| 11 | [AMBER](https://open.spotify.com/track/3OFAB9JacVGaz4CWSsfZhZ) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:02 |
 | 12 | [✨ mum is calling ✨](https://open.spotify.com/track/27fusRmYpex94O3REevU1F) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4rT7zzBMEzrHJ0i7X81Rdv) | 3:18 |
 | 13 | [Crush Me \- Yash Bansal Remix](https://open.spotify.com/track/4TEhqvkBE6amkZZ0K3y2NS) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [Yash Bansal](https://open.spotify.com/artist/3sqpT2IVKtrhy6tfv0NosT) | [Second Nature \(Remixes\)](https://open.spotify.com/album/4C4V7xWan1E9J5zC30ySqD) | 2:38 |
 | 14 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 69 | [F.I.A.S.O.M\. Pt\. 2](https://open.spotify.com/track/7vy5cKebs6nFSpvAzzWKoP) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [MATA](https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX) | 2:49 |
 | 70 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 
-Snapshot ID: `MCxkM2RlNzE5YjI3ODcxYjA0MGM4M2E4MmE0Njg4MTc3N2NiYWYzYWVi`
+Snapshot ID: `MCxiZGQxZTkzMjk4ZTgyY2FkY2U1NmE0MmM4ZjZmMzYxODYyNjBiMjRh`

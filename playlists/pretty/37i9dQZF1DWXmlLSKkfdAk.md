@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,748,501 likes - 213 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,748,646 likes - 213 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,7 +200,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 190 | [Maps](https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Maps](https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX) | 3:21 |
 | 191 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 |
 | 192 | [What Do You Mean / Where Are Ü Now \(Acoustic Mashup\) \[feat\. Kaya May\]](https://open.spotify.com/track/2p0SmPbFXRfJAU9EYqaNX4) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [What Do You Mean / Where Are Ü Now \(Acoustic Mashup\) \[feat\. Kaya May\]](https://open.spotify.com/album/3o9xQjnwRpbEfVDix0gpIa) | 3:36 |
-| 193 | [Stayin Out All Night / Habits \(Acoustic Mashup\)](https://open.spotify.com/track/4NkQfLPOtO9lyr4bIUQFXI) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Emily Hackett](https://open.spotify.com/artist/4dTcd3R8sIuVhoOlqgqr0V) | [Stayin Out All Night / Habits \(Acoustic Mashup\)](https://open.spotify.com/album/37AWn0kDhAkvf5JxokIyxy) | 3:45 |
+| 193 | [Stayin Out All Night / Habits \(Acoustic Mashup\)](https://open.spotify.com/track/4NkQfLPOtO9lyr4bIUQFXI) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [Stayin Out All Night / Habits \(Acoustic Mashup\)](https://open.spotify.com/album/37AWn0kDhAkvf5JxokIyxy) | 3:45 |
 | 194 | [Why Georgia \- RAWsession](https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [RAWsession \- 5.25.10](https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP) | 4:26 |
 | 195 | [Sign of the Times \[Acoustic Cover\]](https://open.spotify.com/track/3IuZkOwna8fITHHJaEZMBm) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Sign of the Times \[Acoustic Cover\]](https://open.spotify.com/album/3KPk7vVX1VPVfEwIhI0Pmc) | 3:50 |
 | 196 | [Pompeii](https://open.spotify.com/track/7M288uc13UNSvwOSPfuEAL) | [Ark Rhodes](https://open.spotify.com/artist/3FOgrJd8jReZNmJ80a5PvO), [Savannah Outen](https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX) | [Pompeii](https://open.spotify.com/album/3kJ5JBWRaoOgfz2alG0r5u) | 2:53 |
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 212 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 213 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 
-Snapshot ID: `MCw2ZjdiZWUzOTczOTgyMDFlNTRjZDRjOWExYmZkNDQ0ZDZkZGU4OTUy`
+Snapshot ID: `MCwxY2E0MGEzNWZmMTczMWJlMmQ0Yjg0OTI0MTc5YTI2OWI2ZTc2ZjY5`

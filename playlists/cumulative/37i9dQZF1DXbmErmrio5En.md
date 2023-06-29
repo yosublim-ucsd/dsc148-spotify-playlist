@@ -4,7 +4,7 @@
 
 > \-8 LUFS if you can\. Ft\. mykel online
 
-227 songs - 9 hr 59 min
+228 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [apartmnt](https://open.spotify.com/track/0dOY28G8B0lshppMnrs8vS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [apartmnt](https://open.spotify.com/album/1mqj22B6EL8FsqVOBfRtFJ) | 1:34 | 2022-12-04 | 2023-02-18 |
 | [areyouhome?](https://open.spotify.com/track/44WqG6hr6gOyUkGtbHeKF5) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [teeth](https://open.spotify.com/album/2kwMpS2boGu2KgvT4UIxCh) | 1:34 | 2023-06-23 |  |
 | [BABYBOY](https://open.spotify.com/track/0f4iY83d7HGIljumcbKb8H) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [BABYBOY](https://open.spotify.com/album/24x0SeAnpIRPEsKK3IuV9E) | 2:01 | 2023-06-23 |  |
-| [back off](https://open.spotify.com/track/0plJogJkP6ebQz5CQGON5g) | [tracey brakes](https://open.spotify.com/artist/4HxJn7KUC4EOTekD9BPEq2), [DJ Re:Code](https://open.spotify.com/artist/04r9MV32OBMdMv1eJ9I1CP) | [back off](https://open.spotify.com/album/1EGCtKynGx4BW1iILmPCkz) | 2:35 | 2023-06-23 |  |
+| [back off](https://open.spotify.com/track/0plJogJkP6ebQz5CQGON5g) | [tracey brakes](https://open.spotify.com/artist/4HxJn7KUC4EOTekD9BPEq2), [DJ Re:Code](https://open.spotify.com/artist/04r9MV32OBMdMv1eJ9I1CP) | [back off](https://open.spotify.com/album/1EGCtKynGx4BW1iILmPCkz) | 2:35 | 2023-06-23 | 2023-06-29 |
 | [Bargain \(with ThxSoMch\)](https://open.spotify.com/track/6ZuapdXPe54vleFxBSQMqL) | [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [One Step Of The Way](https://open.spotify.com/album/5wrUP92c9qZFYQYi7UPTGm) | 2:57 | 2023-06-16 |  |
 | [battle](https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [battle](https://open.spotify.com/album/5ggDewxZAS4HZNwdb4MBsx) | 1:17 | 2023-03-07 |  |
 | [before i go](https://open.spotify.com/track/7oRWfs4HVAglIlSK7ytUuf) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [psychosis](https://open.spotify.com/album/42gnvKERgMw72qxGnEIEhN) | 2:15 | 2022-12-16 | 2023-06-24 |
@@ -41,6 +41,7 @@
 | [Burning Angel](https://open.spotify.com/track/0y3yMEAlP3S11L4oSuR3uq) | [Damazein](https://open.spotify.com/artist/4Vr5ULgjQOQQRZS0FVvQMi), [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw) | [Burning Angel](https://open.spotify.com/album/07mBF3CloQiwm9RItifrcG) | 1:58 | 2023-06-23 |  |
 | [Butterfly](https://open.spotify.com/track/3isB66Bn1418EHQ2Z9aLUp) | [nomu.](https://open.spotify.com/artist/2NSBzBPu05xNzAUv10mdTc) | [Butterfly](https://open.spotify.com/album/0slkV34l718fubBPy4GzOB) | 2:28 | 2023-02-17 | 2023-06-24 |
 | [can we change the subject?](https://open.spotify.com/track/2Ogq99MVLM7DaxzIymjE26) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [can we change the subject?](https://open.spotify.com/album/3nunKtSZya6RJ1uuaozqYr) | 2:40 | 2023-04-21 |  |
+| [care](https://open.spotify.com/track/7idSFgXU9XQt31br2PF45w) | [memorex](https://open.spotify.com/artist/3u2aoxF8pOGqWEM5bWHM5k), [Maki Adams](https://open.spotify.com/artist/0KAO4SIZLFTQ7wEcZ3DET8), [mykel online](https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [memorex](https://open.spotify.com/album/5t632OgcIt7nXaxC6FaeOS) | 3:10 | 2023-06-23 |  |
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-13 | 2023-04-15 |
 | [catherine never broke again](https://open.spotify.com/track/2RP8p6uDqJCMvpXxfo3L7s) | [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [catherine never broke again](https://open.spotify.com/album/0SS7QRTl0W0CBbUCPkmmaM) | 1:54 | 2023-02-24 |  |
 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 | 2022-12-04 |  |

@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Rokotsu",
+        "url": "https://open.spotify.com/album/6pMjiLpATCNcK3SgvCZb9w"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218466,
+      "name": "Hajisarashi",
+      "url": "https://open.spotify.com/track/6mRLp4hqRLcotWUpt9YwQA"
+    },
+    {
+      "album": {
         "name": "Hanabie Ressha",
         "url": "https://open.spotify.com/album/3w7T4FyK8MOgQRoXlKDBep"
       },
@@ -2689,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "luv bomb!!!",
+        "url": "https://open.spotify.com/album/2Bk7bhegFe57hoWMzD9NHE"
+      },
+      "artists": [
+        {
+          "name": "issey",
+          "url": "https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216355,
+      "name": "luv bomb!!!",
+      "url": "https://open.spotify.com/track/3YDifAivPM7V8dURt1zJaD"
+    },
+    {
+      "album": {
         "name": "Luxury Spoon",
         "url": "https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh"
       },
@@ -2898,6 +2934,24 @@
       "duration_ms": 247441,
       "name": "Mr.\u30b7\u30e3\u30fc\u30c7\u30f3\u30d5\u30ed\u30a4\u30c7",
       "url": "https://open.spotify.com/track/501T1i6UuMqL2cpovNqvso"
+    },
+    {
+      "album": {
+        "name": "Nakimushi Schrodinger",
+        "url": "https://open.spotify.com/album/6fsuQLB9fxWBpGX2nlZXrg"
+      },
+      "artists": [
+        {
+          "name": "Utrecht",
+          "url": "https://open.spotify.com/artist/0y3zz3pSjcGLwxaQvsd7uZ"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201573,
+      "name": "Nakimushi Schrodinger",
+      "url": "https://open.spotify.com/track/5zlXoFrESLW2U94AK6fQnu"
     },
     {
       "album": {
@@ -9364,7 +9418,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 216355,
       "name": "\u30e9\u30f4\u30dc\u30e0!!!",
       "url": "https://open.spotify.com/track/1bLRygyEj46OyTzfe4wvzD"
@@ -11224,7 +11278,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 218466,
       "name": "\u6065\u3055\u3089\u3057",
       "url": "https://open.spotify.com/track/0hPclHnMZKlhUpkiB1jnnE"
@@ -12154,7 +12208,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 201573,
       "name": "\u6ce3\u304d\u866b\u30b7\u30e5\u30ec\u30c7\u30a3\u30f3\u30ac\u30fc",
       "url": "https://open.spotify.com/track/4xckwNKkRmmvgT1s3w22yq"

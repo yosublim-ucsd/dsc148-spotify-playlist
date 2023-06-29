@@ -1,12 +1,12 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: zeyne\n\n",
-  "num_followers": 8885,
+  "num_followers": 8940,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmViODIzMjVkM2Y0ZTE3OWUyZThkYzNkZmUzYmJkMDk5Y2UxYmRj",
+  "snapshot_id": "MCxkYjFmZWVlYTUwOThhZmNkOTZlMDM5MjdkMjUxYjNjNTY3NzY2MWUz",
   "tracks": [
     {
       "added_at": "2023-06-25 20:20:57",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-06-25 20:20:57",
       "album": {
-        "name": "Five Seasons",
-        "url": "https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq"
-      },
-      "artists": [
-        {
-          "name": "Dina El Wedidi",
-          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
-        }
-      ],
-      "duration_ms": 193205,
-      "name": "tab eh",
-      "url": "https://open.spotify.com/track/3KageFXJDD7z1EehXS2N3J"
-    },
-    {
-      "added_at": "2023-06-25 20:20:57",
-      "album": {
         "name": "Baadou Albi",
         "url": "https://open.spotify.com/album/3pm4xg93LDoNqYbEWC7dnZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 216111,
       "name": "Baadou Albi",
       "url": "https://open.spotify.com/track/1QWgfJSKW7nKXEpK1Xwzat"
+    },
+    {
+      "added_at": "2023-06-25 20:20:57",
+      "album": {
+        "name": "Five Seasons",
+        "url": "https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq"
+      },
+      "artists": [
+        {
+          "name": "Dina El Wedidi",
+          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
+        }
+      ],
+      "duration_ms": 193205,
+      "name": "tab eh",
+      "url": "https://open.spotify.com/track/3KageFXJDD7z1EehXS2N3J"
     },
     {
       "added_at": "2023-06-25 20:20:57",
@@ -639,18 +639,22 @@
     {
       "added_at": "2023-06-25 20:20:57",
       "album": {
-        "name": "Baaet Aada",
-        "url": "https://open.spotify.com/album/2fPu8XfcLZZyrlDkM4X4ap"
+        "name": "Nostalgic Tunes",
+        "url": "https://open.spotify.com/album/08oinkS3h7CesbkNVo9LSj"
       },
       "artists": [
         {
-          "name": "Sheme",
-          "url": "https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw"
+          "name": "Doaa El Sebaii",
+          "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
+        },
+        {
+          "name": "Maher El Mallakh",
+          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
         }
       ],
-      "duration_ms": 260164,
-      "name": "Baaet Aada",
-      "url": "https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh"
+      "duration_ms": 141492,
+      "name": "Ergaa Ya Zaman",
+      "url": "https://open.spotify.com/track/3Qe19N89iEGLX7CqhyhuXU"
     },
     {
       "added_at": "2023-06-25 20:20:57",
@@ -671,22 +675,18 @@
     {
       "added_at": "2023-06-25 20:20:57",
       "album": {
-        "name": "Nostalgic Tunes",
-        "url": "https://open.spotify.com/album/08oinkS3h7CesbkNVo9LSj"
+        "name": "Baaet Aada",
+        "url": "https://open.spotify.com/album/2fPu8XfcLZZyrlDkM4X4ap"
       },
       "artists": [
         {
-          "name": "Doaa El Sebaii",
-          "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
-        },
-        {
-          "name": "Maher El Mallakh",
-          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
+          "name": "Sheme",
+          "url": "https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw"
         }
       ],
-      "duration_ms": 141492,
-      "name": "Ergaa Ya Zaman",
-      "url": "https://open.spotify.com/track/3Qe19N89iEGLX7CqhyhuXU"
+      "duration_ms": 260164,
+      "name": "Baaet Aada",
+      "url": "https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh"
     },
     {
       "added_at": "2023-06-25 20:20:57",
@@ -719,6 +719,22 @@
       "duration_ms": 179110,
       "name": "\u0627\u0633\u062a\u0648\u0649",
       "url": "https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW"
+    },
+    {
+      "added_at": "2023-06-25 20:20:57",
+      "album": {
+        "name": "Dandana",
+        "url": "https://open.spotify.com/album/1YClS4T4KtiPRSuErccnLM"
+      },
+      "artists": [
+        {
+          "name": "Farah Chreim",
+          "url": "https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Dandana",
+      "url": "https://open.spotify.com/track/0Jxc621ZPErwELUjuQCrXr"
     },
     {
       "added_at": "2023-06-25 20:20:57",
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-06-25 20:20:57",
       "album": {
-        "name": "Dandana",
-        "url": "https://open.spotify.com/album/1YClS4T4KtiPRSuErccnLM"
-      },
-      "artists": [
-        {
-          "name": "Farah Chreim",
-          "url": "https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Dandana",
-      "url": "https://open.spotify.com/track/0Jxc621ZPErwELUjuQCrXr"
-    },
-    {
-      "added_at": "2023-06-25 20:20:57",
-      "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/2xuSq58iRiMwy96wN9rV4C"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-06-25 20:20:57",
       "album": {
+        "name": "Feeling Cool",
+        "url": "https://open.spotify.com/album/28LsjxEF3blmrXgGwGzeVT"
+      },
+      "artists": [
+        {
+          "name": "Nicole Saba",
+          "url": "https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Feeling Cool",
+      "url": "https://open.spotify.com/track/2qkhYIpplFRmIqVAG5QfYG"
+    },
+    {
+      "added_at": "2023-06-25 20:20:57",
+      "album": {
         "name": "3azezy Elakt2ab",
         "url": "https://open.spotify.com/album/7BJKAonV5Z0ilcWt3qyLhI"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 216073,
       "name": "3azezy Elakt2ab",
       "url": "https://open.spotify.com/track/7Mg9ZscmtD2zt3OEcyDbsT"
-    },
-    {
-      "added_at": "2023-06-25 20:20:57",
-      "album": {
-        "name": "Shof Galbi",
-        "url": "https://open.spotify.com/album/0bL0jJFjvRneRInaGQDVkf"
-      },
-      "artists": [
-        {
-          "name": "Eman AlShmety",
-          "url": "https://open.spotify.com/artist/6m0P4htB7F19GZ2VYlpofd"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Shof Galbi",
-      "url": "https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK"
     }
   ],
   "unique_name": "EQUAL Arabia ",

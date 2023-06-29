@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist",
-  "num_followers": 1564,
+  "num_followers": 1565,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWFhNGJmMjFjODY2NWJmZjdiMmY5ZDE4ODAyOWJmMGM4YTBhM2My",
+  "snapshot_id": "MCw4ODUwNmE5NGEzMzdmY2MxYmU0NzE0ZmE0YmFlOGUyOGFkMWUxY2Ew",
   "tracks": [
     {
       "added_at": "2023-06-09 13:18:44",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-06-09 13:18:44",
       "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
-      },
-      "artists": [
-        {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
-    },
-    {
-      "added_at": "2023-06-09 13:18:44",
-      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 227027,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
+    },
+    {
+      "added_at": "2023-06-09 13:18:44",
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+      },
+      "artists": [
+        {
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
     },
     {
       "added_at": "2023-06-09 13:18:44",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-09 13:18:44",
       "album": {
-        "name": "Nkwata Bulungi (Bailamos)",
-        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Nkwata Bulungi (Bailamos)",
-      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
-    },
-    {
-      "added_at": "2023-06-09 13:18:44",
-      "album": {
         "name": "Pretty Young Thing",
         "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 190000,
       "name": "Pretty Young Thing",
       "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
+    },
+    {
+      "added_at": "2023-06-09 13:18:44",
+      "album": {
+        "name": "Nkwata Bulungi (Bailamos)",
+        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Nkwata Bulungi (Bailamos)",
+      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
     },
     {
       "added_at": "2023-06-09 13:18:44",
@@ -451,18 +451,22 @@
     {
       "added_at": "2023-06-09 13:18:44",
       "album": {
-        "name": "Omwana",
-        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
       },
       "artists": [
         {
-          "name": "Juliana Kanyomozi",
-          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Omwana",
-      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     },
     {
       "added_at": "2023-06-09 13:18:44",
@@ -487,22 +491,18 @@
     {
       "added_at": "2023-06-09 13:18:44",
       "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+        "name": "Omwana",
+        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+          "name": "Juliana Kanyomozi",
+          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
         }
       ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+      "duration_ms": 212903,
+      "name": "Omwana",
+      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
     },
     {
       "added_at": "2023-06-09 13:18:44",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-06-09 13:18:44",
       "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
+    },
+    {
+      "added_at": "2023-06-09 13:18:44",
+      "album": {
         "name": "Longitude 20",
         "url": "https://open.spotify.com/album/4IBmJv65ZPVeywf20poi8K"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 222309,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/3aYlnF0Pwbhj0tB8WLfdvp"
-    },
-    {
-      "added_at": "2023-06-09 13:18:44",
-      "album": {
-        "name": "BESTIE",
-        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "BESTIE",
-      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
     },
     {
       "added_at": "2023-06-09 13:18:44",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-09 13:18:44",
       "album": {
-        "name": "Plan Ki",
-        "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Plan Ki",
-      "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
-    },
-    {
-      "added_at": "2023-06-09 13:18:44",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 174905,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J"
+    },
+    {
+      "added_at": "2023-06-09 13:18:44",
+      "album": {
+        "name": "Plan Ki",
+        "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Plan Ki",
+      "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
     },
     {
       "added_at": "2023-06-09 13:18:44",

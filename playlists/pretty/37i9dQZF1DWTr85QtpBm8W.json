@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 9249,
+  "num_followers": 9306,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDUzNzU3NjU0Nzg5ODUwOWIyNDQ2OGM1ZmRlNDU2MjFjNWE4ZDIw",
+  "snapshot_id": "MCw2OTA3YTA3NDI0NmE0MzU4ODMyOGFhMzUzNTdlZmM4OWI4MjgyODQy",
   "tracks": [
     {
       "added_at": "2023-06-07 15:22:01",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "Silent Motels",
-      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Vir\u00f0ulegu forsetar",
         "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 78579,
       "name": "Part 1.2",
       "url": "https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "Silent Motels",
+      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 344560,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
+        "name": "Sings Reign Rebuilder",
+        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 102239,
+      "name": "Jesus / Pop",
+      "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
         "name": "After The Night Falls",
         "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Sings Reign Rebuilder",
-        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
       "artists": [
         {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
         }
       ],
-      "duration_ms": 102239,
-      "name": "Jesus / Pop",
-      "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
+      "duration_ms": 344560,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+        "name": "Yesterday Was Dramatic \u2013 Today Is OK",
+        "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
       },
       "artists": [
         {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+          "name": "m\u00fam",
+          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
         }
       ],
-      "duration_ms": 273186,
-      "name": "Piano Abg",
-      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
+      "duration_ms": 391466,
+      "name": "There Is A Number Of Small Things",
+      "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -931,22 +931,6 @@
       "duration_ms": 243506,
       "name": "How Distant Your Heart",
       "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "Yesterday Was Dramatic \u2013 Today Is OK",
-        "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
-      },
-      "artists": [
-        {
-          "name": "m\u00fam",
-          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
-        }
-      ],
-      "duration_ms": 391466,
-      "name": "There Is A Number Of Small Things",
-      "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 273186,
+      "name": "Piano Abg",
+      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
         "name": "L'Orange L'Orange",
         "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Telegraphs in Negative / Mouths Trapped in Static",
-        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
-      },
-      "artists": [
-        {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
-        }
-      ],
-      "duration_ms": 135293,
-      "name": "Your Guts Are Like Mine",
-      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Riceboy Sleeps (2019 Remaster)",
         "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 315386,
       "name": "All The Big Trees - 2019 Remaster",
       "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Telegraphs in Negative / Mouths Trapped in Static",
+        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 135293,
+      "name": "Your Guts Are Like Mine",
+      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Through the Cardial Window",
-        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
+        "name": "Imperial",
+        "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
       },
       "artists": [
         {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 350360,
-      "name": "Coral Gables",
-      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
+      "duration_ms": 387293,
+      "name": "Thunderbird Road",
+      "url": "https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1315,38 +1315,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Imperial",
-        "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 387293,
-      "name": "Thunderbird Road",
-      "url": "https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Von Schn\u00e4beln",
-      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Utop\u00eda",
         "url": "https://open.spotify.com/album/0xl7DiPmp1326SSgIi6fEY"
       },
@@ -1363,6 +1331,38 @@
       "duration_ms": 269680,
       "name": "Muim (Colleen Mix)",
       "url": "https://open.spotify.com/track/5LASgA67i9jE76J8e0ikTb"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Through the Cardial Window",
+        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
+      },
+      "artists": [
+        {
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+        }
+      ],
+      "duration_ms": 350360,
+      "name": "Coral Gables",
+      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
+      },
+      "artists": [
+        {
+          "name": "Philip Jeck",
+          "url": "https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK"
+        }
+      ],
+      "duration_ms": 506760,
+      "name": "Wholesome",
+      "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
         "name": "Imperial",
         "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Prism of Eternal Now",
-        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
-      },
-      "artists": [
-        {
-          "name": "White Rainbow",
-          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
-        }
-      ],
-      "duration_ms": 404200,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
+        "name": "Prism of Eternal Now",
+        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
       },
       "artists": [
         {
-          "name": "Philip Jeck",
-          "url": "https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK"
+          "name": "White Rainbow",
+          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
         }
       ],
-      "duration_ms": 506760,
-      "name": "Wholesome",
-      "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
+      "duration_ms": 404200,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
+        "name": "MP3 Collection",
+        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
       },
       "artists": [
         {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
         }
       ],
-      "duration_ms": 158080,
-      "name": "Arves\u00f8lv",
-      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
+      "duration_ms": 438066,
+      "name": "Raamat",
+      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "MP3 Collection",
-        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
       },
       "artists": [
         {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
         }
       ],
-      "duration_ms": 438066,
-      "name": "Raamat",
-      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
+      "duration_ms": 158080,
+      "name": "Arves\u00f8lv",
+      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1603,22 +1603,6 @@
       "duration_ms": 45986,
       "name": "Verdantique",
       "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
-      },
-      "artists": [
-        {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "S\u00f8vnens Kvelertak",
-      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1671,6 +1655,22 @@
       "duration_ms": 197280,
       "name": "Ripple and Fade",
       "url": "https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
+      },
+      "artists": [
+        {
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "S\u00f8vnens Kvelertak",
+      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
     },
     {
       "added_at": "2023-06-07 15:22:01",

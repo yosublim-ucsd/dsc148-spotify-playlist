@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Rochy RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,373 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,554 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 32 | [De Kabra A Tiguere](https://open.spotify.com/track/2tYAhcLaNAogPhIUO5ksdT) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN), [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [De Kabra A Tiguere](https://open.spotify.com/album/2sPIMpTiFft4Hkh81Qkeml) | 2:21 |
 | 33 | [El Dembow](https://open.spotify.com/track/4xtgafRxEKOeoCKJPEKVJx) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Junior Caldera](https://open.spotify.com/artist/7sSQhiZqON8wvc8G9dLyjZ), [Oliwi](https://open.spotify.com/artist/6ozK3vgRIbMStCqHrNOGlu), [Afro Nigga](https://open.spotify.com/artist/1Tg94XXFoMEZvT2ezxPZbQ) | [El Dembow](https://open.spotify.com/album/3GBlpYp75FWUKCRTFOIt0L) | 3:36 |
 | 34 | [Malabu](https://open.spotify.com/track/6cIDPdoQ9RaKT9raNW6TsJ) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Malabu](https://open.spotify.com/album/6lZyKKjwxqciNXhikIj75A) | 2:48 |
-| 35 | [Doggy Doggy](https://open.spotify.com/track/5WOzZJJJIEuh0thdCS0LkF) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Doggy Doggy](https://open.spotify.com/album/4meeL0ZVvnYmaEjA8iz7HX) | 4:08 |
+| 35 | [Doggy Doggy](https://open.spotify.com/track/54IHyBqqUjslbwtkSGVo4Z) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 4:08 |
 | 36 | [Cuba](https://open.spotify.com/track/2O1RpyrV0qV4iKltBgkDU7) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Cuba](https://open.spotify.com/album/0oCzmFgq7v3uSTZXRpN2lE) | 2:53 |
-| 37 | [Paketum](https://open.spotify.com/track/1Tam1wR5Hm7CudXEcX6dU9) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Pablo Piddy](https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Paketum](https://open.spotify.com/album/2lN8KHVPTWKxvxpy0qbjz2) | 3:44 |
+| 37 | [Paketum](https://open.spotify.com/track/6hL2ueGsHbV7SgMSwMmTcR) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Pablo Piddy](https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [SAGITARIO](https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb) | 3:44 |
 | 38 | [Gass Pure](https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Gass Pure](https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW) | 2:17 |
 | 39 | [Un Chin](https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Un Chin](https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz) | 2:25 |
 | 40 | [Lo Rafaguie](https://open.spotify.com/track/6oB33MiHmxDTMVLoPX5dv7) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Lo Rafaguie](https://open.spotify.com/album/0PNfohwBm4XqbY83CA39BV) | 2:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 74 | [El Anillo el Reloj](https://open.spotify.com/track/5Nj2GgTU78oXnqoZXQooDw) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/4oQk366EGQWn2nmkBrFt8X) | 2:52 |
 | 75 | [Un Poco De Amor](https://open.spotify.com/track/1JiiG7NrwtVLzdSKqGC9fb) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Un Poco De Amor](https://open.spotify.com/album/6awvZolH9XPQ67f8UgAzik) | 3:00 |
 
-Snapshot ID: `MCxjZGU2N2JhMzZmZmM1N2MzYmY2NjcwN2I2ZjM5YjIwMmY4MDA5MmIx`
+Snapshot ID: `MCw2NjVlZmZiMzJhOWI1NDFmMzZhMmIyZTUwNGRiYmYzMWNlY2YxYTUz`

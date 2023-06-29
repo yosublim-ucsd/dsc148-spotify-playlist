@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 245867,
+  "num_followers": 246026,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzRhNDgyMzJhOTM5ODFjYjU3OWE3OWU0ZGQyOTYyYThhNTE3NWEw",
+  "snapshot_id": "MCw5Y2FkNjAyNGZhZDBlMDA2MzkxMzVhNjMzNjVmNGE4ZTQyODY4Nzhi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -125,22 +125,6 @@
       "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Handshakes With Snakes",
@@ -155,6 +139,22 @@
       "duration_ms": 117857,
       "name": "Handshakes With Snakes",
       "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -273,22 +273,6 @@
       "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 244258,
-      "name": "Light and Darkness",
-      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
-    },
-    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "I Wish A Bitch Would",
@@ -303,6 +287,22 @@
       "duration_ms": 206617,
       "name": "I Wish A Bitch Would",
       "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -487,6 +487,26 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "All Fine / eniF llA",
+        "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        },
+        {
+          "name": "Get Scared",
+          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Puppet",
+      "url": "https://open.spotify.com/track/7fFp5wxVb3oJxthl73J1pT"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Yuve Yuve Yu",
         "url": "https://open.spotify.com/album/2ot7qJ6yU06AkwkAn9xeoP"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 133888,
       "name": "BURNING RUBBER",
       "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Puppet",
-        "url": "https://open.spotify.com/album/5KqCYl5glzwAcnF0Gg9LJD"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        },
-        {
-          "name": "Get Scared",
-          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Puppet",
-      "url": "https://open.spotify.com/track/46ZAZCCvb8DKNmQhWu4oEL"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "LXVE",
-        "url": "https://open.spotify.com/album/4WxYoN03IGMt48MxwQaLhi"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        }
-      ],
-      "duration_ms": 191301,
-      "name": "LXVE",
-      "url": "https://open.spotify.com/track/5RqMRQphaSAQekmaqRGpHH"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "RedZone / Dead or Alive",
         "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
       },
@@ -835,22 +819,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Blood Year",
-        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
-      },
-      "artists": [
-        {
-          "name": "Russian Circles",
-          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
-        }
-      ],
-      "duration_ms": 393026,
-      "name": "Arluck",
-      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Kosmik",
         "url": "https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP"
       },
@@ -863,6 +831,22 @@
       "duration_ms": 214250,
       "name": "Contact",
       "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Blood Year",
+        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
+      },
+      "artists": [
+        {
+          "name": "Russian Circles",
+          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
+        }
+      ],
+      "duration_ms": 393026,
+      "name": "Arluck",
+      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "ABEYANCE",
+        "url": "https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH"
+      },
+      "artists": [
+        {
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 193281,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "ABEYANCE",
-        "url": "https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH"
-      },
-      "artists": [
-        {
-          "name": "alt.",
-          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "WRAITH",
-      "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Demon Supreme",
+        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
+      },
+      "artists": [
+        {
+          "name": "Lordi",
+          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
+        }
+      ],
+      "duration_ms": 211759,
+      "name": "Demon Supreme",
+      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "May Our Chambers Be Full",
         "url": "https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 234600,
       "name": "Ancestral Recall",
       "url": "https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Demon Supreme",
-        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
-      },
-      "artists": [
-        {
-          "name": "Lordi",
-          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
-        }
-      ],
-      "duration_ms": 211759,
-      "name": "Demon Supreme",
-      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -1371,6 +1355,22 @@
       "duration_ms": 293173,
       "name": "Arcana Imperii",
       "url": "https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "80486DX",
+        "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
+      },
+      "artists": [
+        {
+          "name": "MASTER BOOT RECORD",
+          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "80486DX",
+      "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
     }
   ],
   "unique_name": "Alternative Metal",

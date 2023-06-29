@@ -6981,6 +6981,36 @@
     },
     {
       "album": {
+        "name": "Thando",
+        "url": "https://open.spotify.com/album/64kXhw73F5xUcVYXZerAtx"
+      },
+      "artists": [
+        {
+          "name": "Wanitwa Mos",
+          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Seemah",
+          "url": "https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF"
+        },
+        {
+          "name": "Lowsheen",
+          "url": "https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290248,
+      "name": "Thando",
+      "url": "https://open.spotify.com/track/74csF4EizLF5y0yT2qoSHH"
+    },
+    {
+      "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
         "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
       },
@@ -7890,36 +7920,6 @@
       "duration_ms": 250434,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/4eGBrIPFNNILwvHU5THfQj"
-    },
-    {
-      "album": {
-        "name": "Uthando",
-        "url": "https://open.spotify.com/album/64kXhw73F5xUcVYXZerAtx"
-      },
-      "artists": [
-        {
-          "name": "Wanitwa Mos",
-          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
-        },
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Seemah",
-          "url": "https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF"
-        },
-        {
-          "name": "Lowsheen",
-          "url": "https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU"
-        }
-      ],
-      "date_added": "2023-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 290248,
-      "name": "Uthando",
-      "url": "https://open.spotify.com/track/74csF4EizLF5y0yT2qoSHH"
     },
     {
       "album": {

@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6242\)
+## Playlists \(6243\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -945,6 +945,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Calm Kids](/playlists/pretty/37i9dQZF1DXcr2UzLGERUU.md)
 - [Calming Acoustic](/playlists/pretty/37i9dQZF1DXaImRpG7HXqp.md)
 - [Calming Carols](/playlists/pretty/37i9dQZF1DX27YQi4aQ8cE.md)
+- [Calming Cat Music](/playlists/pretty/37i9dQZF1DX5cXGtVmblSB.md)
 - [Calming Christian](/playlists/pretty/37i9dQZF1DXbhg05xUNqBY.md)
 - [Calming Classical](/playlists/pretty/37i9dQZF1DWVFeEut75IAL.md)
 - [Calming Instrumental Covers](/playlists/pretty/37i9dQZF1DX9j444F9NCBa.md)
@@ -985,7 +986,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Carta Malaysia 50](/playlists/pretty/37i9dQZF1DXb1RLKxkHZ77.md)
 - [Casa Spotify Puerto Rico](/playlists/pretty/37i9dQZF1DX7q2IbWQxB4U.md)
 - [Casal Mandrake](/playlists/pretty/37i9dQZF1DX0prPGsXNyt4.md)
-- [Cat Calming Music](/playlists/pretty/37i9dQZF1DX5cXGtVmblSB.md)
 - [Catz 'n Dogz' track IDs](/playlists/pretty/37i9dQZF1DX6h7s1SXA0eN.md)
 - [Celtic Punk](/playlists/pretty/37i9dQZF1DXb1IUaS6F7Z8.md)
 - [Cena con Amigos](/playlists/pretty/37i9dQZF1DWWLmaNnR9HlL.md)
@@ -3116,6 +3116,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [NIOH \-仁王\-](/playlists/pretty/37i9dQZF1DX9o0sjdAbiLJ.md)
 - [NIÑXS HÉROES](/playlists/pretty/37i9dQZF1DXcm1CGW3MuuF.md)
 - [NKVT](/playlists/pretty/37i9dQZF1DXdnOj1VEuhgb.md)
+- [NYvsNY](/playlists/pretty/37i9dQZF1DWWjwbwZzTyfD.md)
 - [Na Zona](/playlists/pretty/37i9dQZF1DXdpF2suW27SP.md)
 - [Na Zona: O melhor de 2022](/playlists/pretty/37i9dQZF1DXcyEXGEtvzUv.md)
 - [Naija Bars](/playlists/pretty/37i9dQZF1DWUHcUDX0za7N.md)

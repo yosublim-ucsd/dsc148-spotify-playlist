@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,712 likes - 30 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,724 likes - 30 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 17 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
 | 18 | [MISAWA \)](https://open.spotify.com/track/6tsdStu2dRwRTVIurMi3Nr) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL) | [MISAWA \)](https://open.spotify.com/album/6bbs4aTcWo5P5a4jvbAQZT) | 3:51 |
 | 19 | [BAG CHASER](https://open.spotify.com/track/1EMB4lzN4rvQvjQLy0ygl2) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [BAG CHASER](https://open.spotify.com/album/1GTr5KHkZQiP2uddxsUzLC) | 2:49 |
-| 20 | [Good Times Bad Times](https://open.spotify.com/track/1GxDH1lbE3q3wg9SWXsTHg) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD), [DoggyStyleeee](https://open.spotify.com/artist/5IqBRBBh8xpnrvE0lkFAFb) | [For the Hood](https://open.spotify.com/album/72Qs7WVuNMwizR3mI6vEME) | 2:46 |
-| 21 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
+| 20 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
+| 21 | [Good Times Bad Times](https://open.spotify.com/track/1GxDH1lbE3q3wg9SWXsTHg) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD), [DoggyStyleeee](https://open.spotify.com/artist/5IqBRBBh8xpnrvE0lkFAFb) | [For the Hood](https://open.spotify.com/album/72Qs7WVuNMwizR3mI6vEME) | 2:46 |
 | 22 | [Pozole](https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Brick Wolfpack](https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Pozole](https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3) | 2:28 |
 | 23 | [Vivid Dreams](https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Vivid Dreams](https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK) | 2:56 |
 | 24 | [Call Me](https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Tony Choc](https://open.spotify.com/artist/3ElWJfZUUmEtHbgn8RymjE) | [Call Me](https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j) | 2:33 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 29 | [All I Need](https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [All I Need](https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi) | 2:36 |
 | 30 | [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 |
 
-Snapshot ID: `MCxjNDVkZTYxZDg5MmVkODYwZGQ0NzRhNGJmMWQ3NjlmODU1YzcxOGMy`
+Snapshot ID: `MCxlNTNmNmRjNjEwMDY3OTE0Y2YzY2U4ZTIxMmEyNjFjOGE0NTI2ZjM1`

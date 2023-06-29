@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: くるり
 
-661 songs - 1 day 19 hr 48 min
+664 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Emotions](https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Intergalactic](https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2) | 3:24 | 2022-09-13 | 2022-09-28 |
 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 | 2022-05-17 | 2022-08-17 |
 | [Enchanted](https://open.spotify.com/track/4Qt59YsDr0umqWYiQ8OowQ) | [ACME](https://open.spotify.com/artist/2TYzphz979sCxQxUStlg2Z) | [Enchanted](https://open.spotify.com/album/2HifaapZH6K97MZvHcVuzU) | 4:33 | 2022-05-17 | 2022-06-14 |
-| [Endless Etude](https://open.spotify.com/track/5apzPf5lbcJRTxjxGUOaJP) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude](https://open.spotify.com/album/1sXnSFVrTXhc3mmAP85Kho) | 3:36 | 2023-06-27 |  |
+| [Endless Etude](https://open.spotify.com/track/5apzPf5lbcJRTxjxGUOaJP) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude](https://open.spotify.com/album/1sXnSFVrTXhc3mmAP85Kho) | 3:36 | 2023-06-27 | 2023-06-29 |
+| [Endless Etude](https://open.spotify.com/track/7KQSQIp6HjMywrbBQcRK8k) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude](https://open.spotify.com/album/0SLhCyL023hUc10Klx7Wxw) | 3:36 | 2023-06-27 |  |
 | [Entertain](https://open.spotify.com/track/6jxS9Z1610FPfKcT339Kfb) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [Entertain](https://open.spotify.com/album/2bnZXiHyF1C2F1cMZWn2zX) | 3:36 | 2022-09-08 | 2022-09-15 |
 | [EPISODE 7](https://open.spotify.com/track/0UkJuv4tuSYAq07KW2XUUL) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [THE NEW ALBUM](https://open.spotify.com/album/1oUP4voVB2HB89sPPsXCzO) | 4:59 | 2022-05-17 | 2022-06-15 |
 | [ETA](https://open.spotify.com/track/0XeyTwIqd2GPPcIFpM10IX) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu) | 4:47 | 2022-05-31 | 2022-06-23 |
@@ -150,7 +151,8 @@
 | [In My Hurts Again](https://open.spotify.com/track/4x5dcwacdIW5aIrKCBAHtp) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 5:09 | 2022-11-22 | 2022-11-30 |
 | [In The Air, In The Error](https://open.spotify.com/track/4JWcLsPrJPaSxBzvX8nNaO) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 4:22 | 2022-11-22 | 2022-12-14 |
 | [In The Sun](https://open.spotify.com/track/6k7NdIO13fOUQIKlG0rDF0) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [In The Sun](https://open.spotify.com/album/0i1IFwKiJhNCctxSfn6UKv) | 3:40 | 2022-05-12 | 2022-06-21 |
-| [In Your Life](https://open.spotify.com/track/0wCLmoOwQPtJTSkqel7A8W) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [In Your Life](https://open.spotify.com/album/62QURXULvXlv2swtJXLLq4) | 3:55 | 2023-06-27 |  |
+| [In Your Life](https://open.spotify.com/track/0wCLmoOwQPtJTSkqel7A8W) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [In Your Life](https://open.spotify.com/album/62QURXULvXlv2swtJXLLq4) | 3:55 | 2023-06-27 | 2023-06-29 |
+| [In Your Life](https://open.spotify.com/track/5s94xrIDUhNwtZt26V0MiN) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [In Your Life](https://open.spotify.com/album/20yZQbH7TZ1cCZ0MRyrGVh) | 3:55 | 2023-06-27 |  |
 | [In Your Pocket](https://open.spotify.com/track/7zVLnfbwom5vEHhHfNjv8c) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Rilakkuma's Theme Park Adventure Original Soundtrack \(NETFLIX SERIES\)](https://open.spotify.com/album/0dtLFEATqgCBNRVrrneqj0) | 5:39 | 2022-08-23 | 2022-09-07 |
 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 | 2022-09-20 | 2023-02-01 |
 | [influencer](https://open.spotify.com/track/5notliDFZDp6H5m95UmQve) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/3X1Y5nukifVvhjmyAcsZ6o) | 3:23 | 2022-09-20 | 2022-09-22 |
@@ -214,6 +216,7 @@
 | [Merry\-Go\-Round](https://open.spotify.com/track/3tGXnGvZpT4fzua650wrRh) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Merry\-Go\-Round](https://open.spotify.com/album/4DTvXuio482igL0edC2jsZ) | 4:03 | 2022-05-12 | 2022-05-17 |
 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 | 2023-01-19 | 2023-03-08 |
 | [midsummer sunset](https://open.spotify.com/track/5GkJ9PJ7Yokkn4wFRRyf9S) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [midsummer sunset](https://open.spotify.com/album/5zu1i14LSDhd9EdwMKtQiT) | 8:44 | 2022-10-11 | 2022-10-29 |
+| [Mirage](https://open.spotify.com/track/24B1pivOBr5KpJbwwIS05q) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Dream in Dream](https://open.spotify.com/album/55pmZFcK0E5yTcAqvs26qX) | 4:27 | 2023-06-27 |  |
 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 | 2023-03-23 | 2023-03-29 |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-17 | 2023-01-25 |
 | [Moonlight](https://open.spotify.com/track/4hfBibBqDQFOPANcqR2ODh) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Moonlight](https://open.spotify.com/album/5Qkw9pXEw3swmDQRmB1xQg) | 3:39 | 2022-05-10 | 2022-07-29 |
@@ -643,7 +646,7 @@
 | [聖者](https://open.spotify.com/track/517o2A0yrq1wb0yZN6K8MB) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [聖者](https://open.spotify.com/album/0pQaWBOfNMQHG6d9ApL7bP) | 3:26 | 2022-08-09 | 2022-09-13 |
 | [花降る空に不滅の歌を](https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 4:24 | 2023-03-28 | 2023-05-10 |
 | [落下ドライブ](https://open.spotify.com/track/5VNBQNzwh1hTgt4pIi1Owl) | [benzo](https://open.spotify.com/artist/3hfD8RIdPqEcmH9AwCqc34) | [落下ドライブ](https://open.spotify.com/album/6nkuezwaJgpg10I4ByyoJr) | 4:11 | 2023-01-10 | 2023-01-18 |
-| [蜃気楼](https://open.spotify.com/track/2pedGdJaB5160FLTCCz2g2) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 4:27 | 2023-06-27 |  |
+| [蜃気楼](https://open.spotify.com/track/2pedGdJaB5160FLTCCz2g2) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 4:27 | 2023-06-27 | 2023-06-29 |
 | [西方コーストストーリー](https://open.spotify.com/track/1YH7Rv0BpvNyjtno88MxXY) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(半カートン\)](https://open.spotify.com/album/6O5gIlE93Ym8DeAlyJI4P3) | 3:41 | 2023-06-13 | 2023-06-28 |
 | [証](https://open.spotify.com/track/1Nm8xR8SIiphGCW1sn11Qr) | [ZIGGY](https://open.spotify.com/artist/1be5pBkzQZ3kVJFWroppbb) | [証](https://open.spotify.com/album/2JqFzGT35Ted5pM3PKP6Os) | 3:26 | 2022-05-12 | 2022-07-26 |
 | [証 \- A Spring Breath ver.](https://open.spotify.com/track/2NtwiDUuV1NlaS9oh7r1cN) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [A Spring Breath](https://open.spotify.com/album/1r4OmtQDqbrWo5llPSIWue) | 5:32 | 2022-05-31 | 2022-07-23 |

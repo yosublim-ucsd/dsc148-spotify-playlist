@@ -3463,32 +3463,6 @@
     },
     {
       "album": {
-        "name": "Nh\u1ecbp C\u1ea7u Tri \u00c2m",
-        "url": "https://open.spotify.com/album/3CpUiRoMBxPSTlaklbTPXk"
-      },
-      "artists": [
-        {
-          "name": "Dan Nguyen",
-          "url": "https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn"
-        },
-        {
-          "name": "B\u1eb1ng Ki\u1ec1u",
-          "url": "https://open.spotify.com/artist/0KWdVd7ZYhtlm0CLHIFBya"
-        },
-        {
-          "name": "Quang Le",
-          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
-        }
-      ],
-      "date_added": "2022-03-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 353413,
-      "name": "\u0110a\u0306\u0301p Mo\u0323\u0302 Cuo\u0323\u0302c Ti\u0300nh",
-      "url": "https://open.spotify.com/track/1hGexH7KKW1QsN3UJK5U7H"
-    },
-    {
-      "album": {
         "name": "\u0110\u00eam Ti\u1ec1n \u0110\u1ed3n",
         "url": "https://open.spotify.com/album/41r121vcZn2s6kcfj5jGzu"
       },
@@ -3544,6 +3518,32 @@
       "duration_ms": 303066,
       "name": "\u0110\u00f4i ng\u1ea3 chia ly",
       "url": "https://open.spotify.com/track/6QvOnwQ1wkSV7ZAyQnaqH2"
+    },
+    {
+      "album": {
+        "name": "Nh\u1ecbp C\u1ea7u Tri \u00c2m",
+        "url": "https://open.spotify.com/album/3CpUiRoMBxPSTlaklbTPXk"
+      },
+      "artists": [
+        {
+          "name": "Dan Nguyen",
+          "url": "https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn"
+        },
+        {
+          "name": "B\u1eb1ng Ki\u1ec1u",
+          "url": "https://open.spotify.com/artist/0KWdVd7ZYhtlm0CLHIFBya"
+        },
+        {
+          "name": "Quang Le",
+          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353413,
+      "name": "\u0110\u1eafp M\u1ed9 Cu\u1ed9c T\u00ecnh",
+      "url": "https://open.spotify.com/track/1hGexH7KKW1QsN3UJK5U7H"
     },
     {
       "album": {

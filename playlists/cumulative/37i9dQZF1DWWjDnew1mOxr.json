@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: Arctic Monkeys",
+  "description": "Boss music for boss people. Cover: Jamie T",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 230467,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM"
@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Hippodrome",
+        "url": "https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161816,
+      "name": "Hippodrome",
+      "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP"
       },
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 233074,
       "name": "Kaizen",
       "url": "https://open.spotify.com/track/3uFjKZi6ksKM8AyUBxIeXo"
@@ -1712,6 +1730,24 @@
       "duration_ms": 297933,
       "name": "Seventeen Going Under",
       "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
+    },
+    {
+      "album": {
+        "name": "Panic Prevention",
+        "url": "https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259813,
+      "name": "Sheila",
+      "url": "https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA"
     },
     {
       "album": {

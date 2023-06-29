@@ -2,7 +2,7 @@
 
 ### [\*hits different\*](https://open.spotify.com/playlist/37i9dQZF1DX6wk8dYln4y0)
 
-> 'Now my life is sweet like cinnamon' \- Lana Del Rey
+> music that just..\. cover: Billie Eilish twemoji graphics: Twitter licensed under CC\-BY 4.0
 
 135 songs - 7 hr 39 min
 

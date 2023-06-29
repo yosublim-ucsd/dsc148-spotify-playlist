@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,691 likes - 78 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,712 likes - 78 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 77 | [Legacy](https://open.spotify.com/track/1OgAf9ByjzHnZ23Ydy8RU4) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Legacy](https://open.spotify.com/album/1RkCyQuBZqB9RbHUOouEJL) | 2:56 |
 | 78 | [Saagu Nee](https://open.spotify.com/track/5LHpNNd7MqPfYUAzcAQj2Y) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Saagu Nee](https://open.spotify.com/album/0REHSlVg6yr2q0bv1grZ4w) | 2:43 |
 
-Snapshot ID: `MCw3YzNhNWRiMjQ1MTg5MmRmMzU0YjQzYzAyMDlhZDAxOTUwY2VmYWFh`
+Snapshot ID: `MCxmY2IxYjVlNjgzZGM5MDgxZmFhYTRmNjliNTViMzNmNDc4OGJmY2Qz`

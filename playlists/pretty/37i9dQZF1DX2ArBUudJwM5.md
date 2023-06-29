@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Barbi Recanati.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,328 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,326 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 33 | [Papaia](https://open.spotify.com/track/16wY8MJs9xPNuUBmCrPoN8) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Papaia](https://open.spotify.com/album/6IVrCqj3aiMmr7byrRNQny) | 2:40 |
 | 34 | [Lento](https://open.spotify.com/track/4DnVYaILlOP8hmakfhihoq) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lento](https://open.spotify.com/album/5qV1Lre7WqcT9UJCDMZyed) | 3:12 |
 | 35 | [Miedos](https://open.spotify.com/track/6UXudjXSWptc6VpyYOYsmm) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Miedos](https://open.spotify.com/album/1QYyoy26hsRmLSTZWUAjgH) | 3:05 |
-| 36 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
-| 37 | [Plaza de Mayo](https://open.spotify.com/track/5cbbAhQ3hUl9Y9PYMBNek4) | [Valen Bonetto](https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd) | [Plaza de Mayo](https://open.spotify.com/album/3pvuQJ6YkLj8JXLIA4BFxQ) | 3:32 |
+| 36 | [Plaza de Mayo](https://open.spotify.com/track/5cbbAhQ3hUl9Y9PYMBNek4) | [Valen Bonetto](https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd) | [Plaza de Mayo](https://open.spotify.com/album/3pvuQJ6YkLj8JXLIA4BFxQ) | 3:32 |
+| 37 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
 | 38 | [Camino](https://open.spotify.com/track/7yGV8rGE3cme3t6RVnrEIj) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Camino](https://open.spotify.com/album/3ZiNjuZj0pj5EEUpr5jCDL) | 2:14 |
 | 39 | [Enciendo](https://open.spotify.com/track/6NH6YjyjO7V1NqB1hIcJp1) | [Luz Pereyra](https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA) | [Enciendo](https://open.spotify.com/album/4ASuzsCnMU7i1b8PGexYEI) | 2:46 |
 | 40 | [Región Central](https://open.spotify.com/track/4g3x4LkiDpakj6Hn2ydpND) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Región Central](https://open.spotify.com/album/68PixL0dQOezVWEAMdPL6q) | 4:07 |
 | 41 | [KRONOS](https://open.spotify.com/track/1T39NuEaeKzrDWAlMMMsxV) | [EMILIA SALŪM](https://open.spotify.com/artist/0ZrwqNDhNGrqOxPxjKb40A) | [Ēgida](https://open.spotify.com/album/4jhlKu0ZjhMj9QWBQ4kXOQ) | 3:54 |
-| 42 | [XPERIMENTO](https://open.spotify.com/track/3LY2H6WiscVciPMQpsAFwY) | [Livia](https://open.spotify.com/artist/2uXb2DAztD4Gv2ZrLMW7dW), [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [XPERIMENTO](https://open.spotify.com/album/1IDTvTbyEyeoOfKzQvTi39) | 3:56 |
-| 43 | [Labios Perdidos](https://open.spotify.com/track/0xAVz2meL2yaZZnGgW3LJn) | [Hija de Tigre](https://open.spotify.com/artist/3CnynS3VsGSiSmCli4EWQK) | [Labios perdidos](https://open.spotify.com/album/1GF0eBlLv6k573bjA1LDlT) | 3:06 |
+| 42 | [Labios Perdidos](https://open.spotify.com/track/0xAVz2meL2yaZZnGgW3LJn) | [Hija de Tigre](https://open.spotify.com/artist/3CnynS3VsGSiSmCli4EWQK) | [Labios perdidos](https://open.spotify.com/album/1GF0eBlLv6k573bjA1LDlT) | 3:06 |
+| 43 | [XPERIMENTO](https://open.spotify.com/track/3LY2H6WiscVciPMQpsAFwY) | [Livia](https://open.spotify.com/artist/2uXb2DAztD4Gv2ZrLMW7dW), [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [XPERIMENTO](https://open.spotify.com/album/1IDTvTbyEyeoOfKzQvTi39) | 3:56 |
 | 44 | [Indefinido](https://open.spotify.com/track/4vTglJvQbbJGseyT8MxndO) | [Lux Raptor](https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq) | [Transparente](https://open.spotify.com/album/0Q4t1ZDpkRPK2DFrktPGtc) | 2:23 |
 | 45 | [A Cara de Perr4](https://open.spotify.com/track/3cf5XuJ0dbJoeo6ly2JSQB) | [Rebelión en la Zanja](https://open.spotify.com/artist/2jzPsfoptoYtn0QO20peft), [DJ DEMON10](https://open.spotify.com/artist/4900tzL324zNZXrc9Nl2EH) | [A cara de Perr4](https://open.spotify.com/album/6GR2Qg5ibTeOdhHRMfPfch) | 2:08 |
 | 46 | [Ego](https://open.spotify.com/track/5Iku361RKkGY4j2Bs0fpcg) | [Nube de magallanes](https://open.spotify.com/artist/5ZvzaUuX9L4BzMUvmMhFul) | [Ego](https://open.spotify.com/album/0RdnnfVy7EYNJpJw4iknOY) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Serpientes](https://open.spotify.com/track/0Uu56M8h27DWtDRS0WB8wo) | [Paula y Los Pájaros](https://open.spotify.com/artist/5ieJxCq2svgyLpVgL7Xalk) | [Serpientes](https://open.spotify.com/album/5WnrMugZ9igrl5RQlZb0C3) | 4:16 |
 | 50 | [Aplaudan](https://open.spotify.com/track/536hF72EgZwGrnxAfKMiAS) | [Maria Florencia Silva](https://open.spotify.com/artist/3lPDxSUaNbNXR3h4U8PYUu), [Animales de Poder](https://open.spotify.com/artist/0HHIbLHHbWHtLokGrFztwF) | [Aplaudan](https://open.spotify.com/album/77Z2tqEa6SgV7HO2ii5Gsk) | 3:40 |
 
-Snapshot ID: `MCw3NjZhY2EyMTkzMTczYTM0MjQ3MzJmZjJiODQwMWQzYzFhMjZjNWI3`
+Snapshot ID: `MCwzMTU5ZmRkYzczNDY2MzQ5YzZkMjRmOGFmYWU4ZDc4NDE2NzBhZTI0`

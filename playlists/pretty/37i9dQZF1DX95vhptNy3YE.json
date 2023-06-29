@@ -1,12 +1,12 @@
 {
   "description": "Tz da Coronel e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 205571,
+  "num_followers": 205839,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDNmMzY4MmMxMzExNTQ3NTM1Mjk2YzViYjVlOTc1MzA1NGU1MzE4",
+  "snapshot_id": "MCw0N2Q3ZmE0YTFjODNmNzI0MTBjNWYxMzdhOTQ4MWIzZWJiNTZhM2Qx",
   "tracks": [
     {
       "added_at": "2023-06-23 23:22:34",
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-06-23 23:22:34",
       "album": {
+        "name": "Me Sinto Oruam",
+        "url": "https://open.spotify.com/album/4GLkH4xYjYb07Tlq6CrdGS"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Me Sinto Oruam",
+      "url": "https://open.spotify.com/track/3tcmVyAn7Xq5hRnsTr4vnS"
+    },
+    {
+      "added_at": "2023-06-23 23:22:34",
+      "album": {
         "name": "Assunto Particular",
         "url": "https://open.spotify.com/album/2ul05472ZKutZcmEx4Rk2j"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 248000,
       "name": "Assunto Particular",
       "url": "https://open.spotify.com/track/44v9eNGRuwFDXzPWu2GkHP"
-    },
-    {
-      "added_at": "2023-06-23 23:22:34",
-      "album": {
-        "name": "Me Sinto Oruam",
-        "url": "https://open.spotify.com/album/4GLkH4xYjYb07Tlq6CrdGS"
-      },
-      "artists": [
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Me Sinto Oruam",
-      "url": "https://open.spotify.com/track/3tcmVyAn7Xq5hRnsTr4vnS"
     },
     {
       "added_at": "2023-06-23 23:22:34",

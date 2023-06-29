@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Major RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,795 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,014 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [lobby](https://open.spotify.com/track/3vhfAnsZ8jRFzKBRpbsPVM) | [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6), [Núcleo Label](https://open.spotify.com/artist/6VAhN8DojlOaHm37LEVc55), [Oushanz](https://open.spotify.com/artist/3Fh99Av2TM4lnJT2KBXElb) | [lobby](https://open.spotify.com/album/1ehCUTfatBsdCD5qU3ZW3C) | 2:35 |
 | 50 | [Puffer](https://open.spotify.com/track/0ERDOEfSi7dwOY02PSpsKY) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Ozelami](https://open.spotify.com/artist/46PMSGreQpT1JclBbOEpjd), [FUNNI'E](https://open.spotify.com/artist/5qGiMrL9ktgBTKqTTntPLT) | [Puffer](https://open.spotify.com/album/3MvAXFfiUn9o3RvdYc9ol9) | 3:17 |
 
-Snapshot ID: `MCw2Y2ZkNjk2NWU0ZTcwNmYyOTlmMDg1YmQ5NTc3ZjhmMjAwZGZiZjRl`
+Snapshot ID: `MCw1MjdmYjQ3MWQ5YmUwNTVlMTMzNTkzZDYzNjk4NTk0YzJiOTljYjVm`

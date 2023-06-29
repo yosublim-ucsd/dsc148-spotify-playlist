@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,148 likes - 123 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,353 likes - 123 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 122 | [Trouble](https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Trouble](https://open.spotify.com/album/065YosCANMb3iddT5Dv53h) | 3:15 |
 | 123 | [My Bad Alice](https://open.spotify.com/track/1z4VodQtJDaAGwVXfCDhYg) | [Jenova Collective](https://open.spotify.com/artist/7jfErUM4CHGxIaqCEgkxJm) | [My Bad Alice](https://open.spotify.com/album/2pH12IxeGG3g9EfVQN3Yyo) | 4:43 |
 
-Snapshot ID: `MCxiMTE4Y2M0NjNjNDZmYzNlMGZmNGEzYWYwNjk1MjA4NDk3OGFkYTBi`
+Snapshot ID: `MCxjODk0MjExYzk1NzlmMTExMDEyNjgwMTM2OWZhMmFhMDBlOGIwNDBk`

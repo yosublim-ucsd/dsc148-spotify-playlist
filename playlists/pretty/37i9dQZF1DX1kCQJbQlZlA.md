@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,534 likes - 75 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,537 likes - 75 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 15 | [Người Em Vỹ Dạ](https://open.spotify.com/track/2PEx4noRPrnRTRNjwYg7Er) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Tình Đẹp Hậu Giang](https://open.spotify.com/album/1akqLcjS1PEOJU5mseD8lQ) | 4:32 |
 | 16 | [Rước Tình Về Với Quê Hương](https://open.spotify.com/track/5ylXo4mtv7pXu7I2mHwCaD) | [Cẩm Ly](https://open.spotify.com/artist/5sXudh7NFkU6fjQL6BQOj0), [Quốc Đại](https://open.spotify.com/artist/5KrlkQWeqxunuIHhqRN7uQ) | [Tuyệt Phẩm Hoàng Thi Thơ](https://open.spotify.com/album/2RlLrRz6I6cwIKKAfdmmeU) | 3:56 |
 | 17 | [Sắc Màu Quê Hương](https://open.spotify.com/track/2m2NbJ3C6YmarZQI4YuzTd) | [Hien Thuc](https://open.spotify.com/artist/6xQUSqDu9uizDib9Ww47yO), [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Sắc Màu Quê Hương](https://open.spotify.com/album/0JyTZIgMK0IprOS5MMkzQM) | 4:47 |
-| 18 | [Hành Trình Trên Đất Phù Sa](https://open.spotify.com/track/1q9nzKilNQd5hUvwo0hhmD) | [Hương Thủy](https://open.spotify.com/artist/4bQ2P3p1cgvh1oeLAuXjho), [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Thương Nhớ Cậu Hai](https://open.spotify.com/album/2tpBn7ctbcP0NQXt6HKjpr) | 4:45 |
+| 18 | [Hành Trình Trên Đất Phù Sa](https://open.spotify.com/track/1q9nzKilNQd5hUvwo0hhmD) | [Hương Thủy](https://open.spotify.com/artist/62fblWo293n6H96ETSYmxR), [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Thương Nhớ Cậu Hai](https://open.spotify.com/album/2tpBn7ctbcP0NQXt6HKjpr) | 4:45 |
 | 19 | [Tát Nước Đầu Đình](https://open.spotify.com/track/4lW0zwt8ldnR6Y6cDLNihS) | [Sơn Tuyền](https://open.spotify.com/artist/0fyBq02ZMDgu857S5JaW9H) | [Tình Là Gì](https://open.spotify.com/album/79pLdkBrst1icsDhBCBNqV) | 5:02 |
 | 20 | [Miền Tây Thương Nhớ](https://open.spotify.com/track/4ZPyWUjFoHhSyA73lmaqOa) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Miền Tây Thương Nhớ](https://open.spotify.com/album/6k9COrPyTaqcfwadGhL2jm) | 5:16 |
 | 21 | [Đẹp Mối Duyên Quê \(feat\. Ngọc Kiều Oanh\)](https://open.spotify.com/track/1aRoFrHr1Jv2fKrKC0mgld) | [Lê Sang](https://open.spotify.com/artist/1F5d5qNLZ2T1AxZ4fnOnxJ), [Ngọc Kiều Oanh](https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8) | [Tổng Hợp Bài Hát Của Lê Sang](https://open.spotify.com/album/5uMNk9HqwKVVzh3TuVLYkS) | 4:53 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 35 | [Trên Dòng Sông Nhỏ](https://open.spotify.com/track/7dhaxUr0uDCGjgRm9qZSeu) | [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Thà Giết Người Yêu](https://open.spotify.com/album/6sGNU2iucs0IhCUz6LA7NC) | 5:40 |
 | 36 | [Hương Sắc Miền Nam](https://open.spotify.com/track/3XClJRr3tGYVDP8oGHs6e1) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tổng Hợp Bài Hát Của Lưu Ánh Loan](https://open.spotify.com/album/27NpiWC1xTS6TyfNXn8BVq) | 4:00 |
 | 37 | [Hướng Về Miền Tây](https://open.spotify.com/track/32YRj4tlS0V6e5o28tPOLL) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Hướng Về Miền Tây](https://open.spotify.com/album/50ODB17Fi7iDfMr91To6T8) | 5:04 |
-| 38 | [Nắng Đẹp Miền Nam & Khúc Ca Ngày Mùa](https://open.spotify.com/track/6qNtUwwISUIMjIXxP2IhvC) | [Ha Phuong](https://open.spotify.com/artist/5JrB3x7l6ij0DyDh8LXQJq), [Hương Thủy](https://open.spotify.com/artist/1oKiKaQy9INTaqicKQNHmQ) | [Phút Cuối \- Tình Khúc Lam Phương](https://open.spotify.com/album/1mGCc2IS8UvzRwhP6Fv1Y7) | 5:25 |
+| 38 | [Nắng Đẹp Miền Nam & Khúc Ca Ngày Mùa](https://open.spotify.com/track/6qNtUwwISUIMjIXxP2IhvC) | [Ha Phuong](https://open.spotify.com/artist/5JrB3x7l6ij0DyDh8LXQJq), [Hương Thủy](https://open.spotify.com/artist/62fblWo293n6H96ETSYmxR) | [Phút Cuối \- Tình Khúc Lam Phương](https://open.spotify.com/album/1mGCc2IS8UvzRwhP6Fv1Y7) | 5:25 |
 | 39 | [Quê Em Mùa Nước Lũ](https://open.spotify.com/track/0mm6hB3TYv3neIktDv2btT) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Quê Em Mùa Nước Lũ](https://open.spotify.com/album/1HEZ7nWbot5p5O4CwIFwZS) | 4:56 |
 | 40 | [Hồng Ngự Lúa Cá Tình Quê](https://open.spotify.com/track/3WqA5jPwVz9C6gx7hwQvsc) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC), [Lam Quang Long](https://open.spotify.com/artist/1DsOdF7Wsrwj1wGXeMowtK) | [Hồng Ngự Lúa Cá Tình Quê](https://open.spotify.com/album/0eFjabrgYgwqVA5xtvc6fj) | 4:48 |
 | 41 | [Tình Thắm Duyên Quê \(feat\. Tuấn Hải\)](https://open.spotify.com/track/08rPtjcJX0PAqCkjaYnVtf) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Tuấn Hải](https://open.spotify.com/artist/4B7hhylN1PiEpEMQ00RsBp) | [Tuyển Tập Các Ca Khúc Trữ Tình Dương Hồng Loan](https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL) | 4:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Cô Thắm Không Về](https://open.spotify.com/track/1WdnyGs1uSntpCLgjwc3ps) | [Phát Hồ](https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv), [JokeS Bii](https://open.spotify.com/artist/1FTyDLNQFIES677l00FdzD), [Thiện](https://open.spotify.com/artist/5Ey2QDV20TPGPcSdbOU3Gh) | [Cô Thắm Không Về](https://open.spotify.com/album/1r9489p9ZRlLMNj2qruAXG) | 4:05 |
 | 75 | [Về Thăm Quê Mẹ](https://open.spotify.com/track/5UuB5YlnUR9s5KMeVi37Ml) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP) | [Về Thăm Quê Mẹ](https://open.spotify.com/album/5sMsNnRGNhKZRoBqcTR3Mi) | 4:34 |
 
-Snapshot ID: `MCw3MDlmNzc2NzUwZTIxMTk5NzVhNTVlOTYyMWRkNmUwNmUwYmE1M2My`
+Snapshot ID: `MCxkN2M2NzI5ZWFmMzdkZDhhNGY0NTg3OWM3ZDFjNDNmYmNlMDhmMDI2`

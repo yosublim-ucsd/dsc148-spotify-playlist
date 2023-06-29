@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 229333,
       "name": "Garden",
       "url": "https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ"
@@ -6978,7 +6978,7 @@
     {
       "album": {
         "name": "BREAK POINT",
-        "url": "https://open.spotify.com/album/56PXRjWzmiwZ0vqbj65g1B"
+        "url": "https://open.spotify.com/album/43T8WbhPCFjtOqrEyB9EgU"
       },
       "artists": [
         {
@@ -6997,6 +6997,32 @@
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178487,
+      "name": "U THINK",
+      "url": "https://open.spotify.com/track/3sLrzUeK6tiFbqIf3bKu7s"
+    },
+    {
+      "album": {
+        "name": "BREAK POINT",
+        "url": "https://open.spotify.com/album/56PXRjWzmiwZ0vqbj65g1B"
+      },
+      "artists": [
+        {
+          "name": "voquote",
+          "url": "https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR"
+        },
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        },
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
       "duration_ms": 178487,
       "name": "U THINK",
       "url": "https://open.spotify.com/track/7AhEAatRnOAO1nfaa5qyB6"
@@ -7232,7 +7258,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 242922,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"

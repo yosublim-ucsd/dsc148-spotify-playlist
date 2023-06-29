@@ -4,7 +4,7 @@
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-62 songs - 3 hr 58 min
+63 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Bokuwa, Tori ni Naru.](https://open.spotify.com/track/1vkrI9ZS7jYczbsOSY73aH) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [CODE GEASS Lelouch of the Rebellion R2 Original Motion Picture Soundtrack 2](https://open.spotify.com/album/3IIFkA4CF46RTRyiDUz4tx) | 5:08 | 2022-10-01 | 2022-11-13 |
 | [Callin'](https://open.spotify.com/track/7beDzK8J9846WEcbOLObWx) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [my souls](https://open.spotify.com/album/7Bw1OfGpVCcKBqSa9B8jSX) | 4:36 | 2022-08-04 |  |
 | [Callin'](https://open.spotify.com/track/3usJTOBcEUdN2OvElJ7rOf) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [CODE GEASS Lelouch of the Rebellion Original Motion Picture Soundtrack 2](https://open.spotify.com/album/1tjAa8I8rFlgavizBlAGdc) | 4:37 | 2022-10-01 | 2022-11-13 |
-| [CODE GE4SS](https://open.spotify.com/track/5OPX3g6IIYtLQJe6GEcXsN) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z) | 2:32 | 2023-06-27 |  |
+| [CODE GE4SS](https://open.spotify.com/track/5OPX3g6IIYtLQJe6GEcXsN) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z) | 2:32 | 2023-06-27 | 2023-06-29 |
+| [CODE GE4SS](https://open.spotify.com/track/5bIptZAYkYhWutd3iNXM5E) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:32 | 2023-06-27 |  |
 | [COLORS](https://open.spotify.com/track/6bPPyigCphBBQ9781j6eKM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:38 | 2022-08-04 |  |
 | [COLORS](https://open.spotify.com/track/0k0dEdzBMwxuy9wYMpakOa) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 3:39 | 2022-10-01 | 2022-11-13 |
 | [Continued Story](https://open.spotify.com/track/4TXiq6zA8ODPU53eZa3ciT) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [Angel Feather Voice 2](https://open.spotify.com/album/2MpUgcKkLgZ0xKzUoaXHNh) | 5:13 | 2022-08-04 |  |

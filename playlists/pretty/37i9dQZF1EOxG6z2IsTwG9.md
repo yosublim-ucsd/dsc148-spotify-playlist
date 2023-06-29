@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOxG6z2IsTwG9.md) - [plain]
 | 10 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 | 11 | [Kinfolks](https://open.spotify.com/track/53F1MVa1BWUkTBbVqgVAfN) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Kinfolks](https://open.spotify.com/album/625MA4PZ4GUROYHFK9kl31) | 3:01 |
 
-Snapshot ID: `MjY3ODM0MDYsMDAwMDAwMDA2ODc1NDhhOGI4NzhkYTcxYTJmODgyODc1ZmNiYTM1OA==`
+Snapshot ID: `MjY3ODM0MDYsMDAwMDAwMDBhNGQyZmNlZjdhOWM3MmEwZGUyMmU5ZGNhYjI4MzkwZg==`

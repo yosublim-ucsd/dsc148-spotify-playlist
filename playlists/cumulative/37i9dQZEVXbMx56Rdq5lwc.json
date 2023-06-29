@@ -4129,7 +4129,7 @@
     },
     {
       "album": {
-        "name": "Dealas",
+        "name": "DEALAS",
         "url": "https://open.spotify.com/album/5mdZsGKnTQnmnJA7PSgYGj"
       },
       "artists": [
@@ -4142,7 +4142,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 118604,
-      "name": "Dealas",
+      "name": "DEALAS",
       "url": "https://open.spotify.com/track/7nDIe2gzqIA6n2azvWixNx"
     },
     {
@@ -15312,7 +15312,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 215992,
       "name": "Patogu",
       "url": "https://open.spotify.com/track/4MXAjSbfE8R8ugq99HKHUS"
@@ -21828,7 +21828,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 147190,
       "name": "Vakar Vakare",
       "url": "https://open.spotify.com/track/51IryH1WKRsubEPLdEIqJl"

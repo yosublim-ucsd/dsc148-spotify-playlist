@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 64202,
+  "num_followers": 64249,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjgzOGMzZTFkMjVkYTU3Y2JiNWZjZTE3NjA2ZWMyNDcxNzFkZTgy",
+  "snapshot_id": "MCw5MzNiNzBjNWZkOGMyZGQyYTMxYTlkMDRkYmRlNDEzZjQwM2ViNzI2",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "El \u00daltimo Jaripeo (En Vivo)",
-        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Un Idiota - En Vivo",
-      "url": "https://open.spotify.com/track/4SOuLV8CIh8hrcfLL4BjLK"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Desde El Lunario, Ciudad De M\u00e9xico (En Vivo Desde El Lunario/Mariachi/Banda)",
         "url": "https://open.spotify.com/album/0OciUfz9VZIm5N4ZHIHlg5"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 187640,
       "name": "Seremos - En Vivo Desde El Lunario/Mariachi/Banda",
       "url": "https://open.spotify.com/track/0Kguq4LDvq2YrUU4QDVBW3"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "El \u00daltimo Jaripeo (En Vivo)",
+        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Un Idiota - En Vivo",
+      "url": "https://open.spotify.com/track/4SOuLV8CIh8hrcfLL4BjLK"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "El \u00daltimo Jaripeo (En Vivo)",
-        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "Eso Y M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/5pyDbFYIStAPuJ94QSliVc"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Con Ustedes... Car10s Rivera en Vivo",
         "url": "https://open.spotify.com/album/249ZBjtCsCYklCPuQDqyo2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 293693,
       "name": "La Malague\u00f1a - En Vivo",
       "url": "https://open.spotify.com/track/0QK9r9sfr18lojfOIwPZE2"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "El \u00daltimo Jaripeo (En Vivo)",
+        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Eso Y M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/5pyDbFYIStAPuJ94QSliVc"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -751,18 +751,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "El \u00daltimo Jaripeo (En Vivo)",
-        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 199640,
-      "name": "Estuve - En Vivo",
-      "url": "https://open.spotify.com/track/3FYqBFgxf9xTSqOv07BVSy"
+      "duration_ms": 163120,
+      "name": "El Rey - En Vivo",
+      "url": "https://open.spotify.com/track/2tJH8dxiDkTAeHWjHzKsH9"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -783,18 +783,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+        "name": "El \u00daltimo Jaripeo (En Vivo)",
+        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 163120,
-      "name": "El Rey - En Vivo",
-      "url": "https://open.spotify.com/track/2tJH8dxiDkTAeHWjHzKsH9"
+      "duration_ms": 199640,
+      "name": "Estuve - En Vivo",
+      "url": "https://open.spotify.com/track/3FYqBFgxf9xTSqOv07BVSy"
     },
     {
       "added_at": "2021-12-29 23:15:19",

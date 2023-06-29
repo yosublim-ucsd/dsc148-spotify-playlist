@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du kan spelle i kjerra! Cover: Hagle",
-  "num_followers": 100011,
+  "num_followers": 100055,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTE2MTBmYTBiYjVlNzcyYzI0NDdkZTcwNmNkNzI4ZjI3M2NmODIy",
+  "snapshot_id": "MCw5MTM3YTNhMTkxZGRjNTBiMjI1OGE3ZTJmYTc0MzE3ZTU3NjA0ZjEz",
   "tracks": [
     {
       "added_at": "2023-06-27 07:23:40",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-06-27 07:23:40",
       "album": {
+        "name": "Fy Faen S\u00e5 Deilig",
+        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "duration_ms": 156913,
+      "name": "Fy Faen S\u00e5 Deilig",
+      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
+    },
+    {
+      "added_at": "2023-06-27 07:23:40",
+      "album": {
         "name": "Gamleveien",
         "url": "https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 137816,
       "name": "Gamleveien",
       "url": "https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir"
-    },
-    {
-      "added_at": "2023-06-27 07:23:40",
-      "album": {
-        "name": "Fy Faen S\u00e5 Deilig",
-        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
-      },
-      "artists": [
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        }
-      ],
-      "duration_ms": 156913,
-      "name": "Fy Faen S\u00e5 Deilig",
-      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
     },
     {
       "added_at": "2023-06-27 07:23:40",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-27 07:23:40",
       "album": {
-        "name": "R\u00f6d Chevrolet",
-        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Det regnar och regnar",
-      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
-    },
-    {
-      "added_at": "2023-06-27 07:23:40",
-      "album": {
         "name": "Shakira",
         "url": "https://open.spotify.com/album/5GOs9VMAYF6Ot8GUwCjTNb"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 118461,
       "name": "Shakira",
       "url": "https://open.spotify.com/track/6kGas3qqqBNAoDdgwvuuxT"
+    },
+    {
+      "added_at": "2023-06-27 07:23:40",
+      "album": {
+        "name": "R\u00f6d Chevrolet",
+        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Det regnar och regnar",
+      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
     },
     {
       "added_at": "2023-06-27 07:23:40",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-27 07:23:40",
       "album": {
-        "name": "Berre i natt",
-        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 229433,
-      "name": "Berre i natt",
-      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
-    },
-    {
-      "added_at": "2023-06-27 07:23:40",
-      "album": {
         "name": "N\u00e5 Koser Vi Oss",
         "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 169466,
       "name": "N\u00e5 Koser Vi Oss",
       "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
+    },
+    {
+      "added_at": "2023-06-27 07:23:40",
+      "album": {
+        "name": "Berre i natt",
+        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 229433,
+      "name": "Berre i natt",
+      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
     },
     {
       "added_at": "2023-06-27 07:23:40",
@@ -927,6 +927,30 @@
     {
       "added_at": "2023-06-27 07:23:40",
       "album": {
+        "name": "Mawbys",
+        "url": "https://open.spotify.com/album/43BorH9aWDTNcbCWGreg0I"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        },
+        {
+          "name": "Thomskalle",
+          "url": "https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn"
+        },
+        {
+          "name": "Ginger Joe",
+          "url": "https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS"
+        }
+      ],
+      "duration_ms": 184508,
+      "name": "Mawbys",
+      "url": "https://open.spotify.com/track/0afgcFu473Mm5dyKQgNQGq"
+    },
+    {
+      "added_at": "2023-06-27 07:23:40",
+      "album": {
         "name": "Eventyr",
         "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
       },
@@ -963,30 +987,6 @@
     {
       "added_at": "2023-06-27 07:23:40",
       "album": {
-        "name": "Mawbys",
-        "url": "https://open.spotify.com/album/43BorH9aWDTNcbCWGreg0I"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        },
-        {
-          "name": "Thomskalle",
-          "url": "https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn"
-        },
-        {
-          "name": "Ginger Joe",
-          "url": "https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS"
-        }
-      ],
-      "duration_ms": 184508,
-      "name": "Mawbys",
-      "url": "https://open.spotify.com/track/0afgcFu473Mm5dyKQgNQGq"
-    },
-    {
-      "added_at": "2023-06-27 07:23:40",
-      "album": {
         "name": "Levva Livet!",
         "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 274053,
       "name": "Levva Livet",
       "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
+    },
+    {
+      "added_at": "2023-06-27 07:23:40",
+      "album": {
+        "name": "Splitter Pine (Remastered 2015)",
+        "url": "https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee"
+      },
+      "artists": [
+        {
+          "name": "Dumdum Boys",
+          "url": "https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Splitter Pine",
+      "url": "https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c"
     },
     {
       "added_at": "2023-06-27 07:23:40",
@@ -1019,22 +1035,6 @@
       "duration_ms": 167543,
       "name": "Jag Vill Vara Din Margareta",
       "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
-    },
-    {
-      "added_at": "2023-06-27 07:23:40",
-      "album": {
-        "name": "Splitter Pine (Remastered 2015)",
-        "url": "https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee"
-      },
-      "artists": [
-        {
-          "name": "Dumdum Boys",
-          "url": "https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Splitter Pine",
-      "url": "https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c"
     },
     {
       "added_at": "2023-06-27 07:23:40",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-06-27 07:23:40",
       "album": {
+        "name": "Bygdas Rebell",
+        "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
+      },
+      "artists": [
+        {
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+        }
+      ],
+      "duration_ms": 221833,
+      "name": "Bygdas Rebell",
+      "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
+    },
+    {
+      "added_at": "2023-06-27 07:23:40",
+      "album": {
         "name": "H\u00d6RRU BARTENDER",
         "url": "https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 145925,
       "name": "H\u00d6RRU BARTENDER",
       "url": "https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx"
-    },
-    {
-      "added_at": "2023-06-27 07:23:40",
-      "album": {
-        "name": "Bygdas Rebell",
-        "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
-      },
-      "artists": [
-        {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
-        }
-      ],
-      "duration_ms": 221833,
-      "name": "Bygdas Rebell",
-      "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
     },
     {
       "added_at": "2023-06-27 07:23:40",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-06-27 07:23:40",
       "album": {
-        "name": "Skal du ikke bade, Petter?",
-        "url": "https://open.spotify.com/album/0E8nlq1upBwcm0V5XpF2Au"
-      },
-      "artists": [
-        {
-          "name": "Sl\u00e6m D\u00f8nk",
-          "url": "https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ"
-        },
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        }
-      ],
-      "duration_ms": 146315,
-      "name": "Skal du ikke bade, Petter?",
-      "url": "https://open.spotify.com/track/3XkGqWAbP5iqPy8HzCFgTc"
-    },
-    {
-      "added_at": "2023-06-27 07:23:40",
-      "album": {
         "name": "Den fineste Tesla\u00b4n",
         "url": "https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th"
       },
@@ -1247,22 +1227,6 @@
       "duration_ms": 184377,
       "name": "Den fineste Tesla\u00b4n",
       "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
-    },
-    {
-      "added_at": "2023-06-27 07:23:40",
-      "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
     },
     {
       "added_at": "2023-06-27 07:23:40",
@@ -1291,26 +1255,54 @@
     {
       "added_at": "2023-06-27 07:23:40",
       "album": {
-        "name": "En drikkesang",
-        "url": "https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl"
+        "name": "Skal du ikke bade, Petter?",
+        "url": "https://open.spotify.com/album/0E8nlq1upBwcm0V5XpF2Au"
       },
       "artists": [
         {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+          "name": "Sl\u00e6m D\u00f8nk",
+          "url": "https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ"
         },
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
         }
       ],
-      "duration_ms": 134973,
-      "name": "En drikkesang",
-      "url": "https://open.spotify.com/track/2z12HXARpuQP9teW2tGyz0"
+      "duration_ms": 146315,
+      "name": "Skal du ikke bade, Petter?",
+      "url": "https://open.spotify.com/track/3XkGqWAbP5iqPy8HzCFgTc"
+    },
+    {
+      "added_at": "2023-06-27 07:23:40",
+      "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2023-06-27 07:23:40",
+      "album": {
+        "name": "\u00c6rbesk\u00e6r",
+        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 135542,
+      "name": "\u00c6rbesk\u00e6r",
+      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

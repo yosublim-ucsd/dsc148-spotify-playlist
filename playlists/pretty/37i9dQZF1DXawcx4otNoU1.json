@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 491953,
+  "num_followers": 492091,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjJmN2E3Zjk4NDNiODA4NTMzZmUzZTIzMjViMGIxNjdlYzc0MmI4",
+  "snapshot_id": "MCxhOThkYmVjNjRjNzQ3ZjFkYWY5YTRkMmU4NjgzZjg2ZjBhYzFkNzk2",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Halcyon Nights",
+        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Halcyon Nights",
-        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 253208,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "So Close To Magic",
+        "url": "https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 202289,
+      "name": "So Close To Magic",
+      "url": "https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Heaven on Earth",
         "url": "https://open.spotify.com/album/08R8TFMIdn2IwhDOmfKmqA"
       },
@@ -2045,20 +2061,20 @@
       "url": "https://open.spotify.com/track/3FTpb7bVZEK503Ldoiewm1"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
+      "added_at": "2023-05-22 07:17:53",
       "album": {
-        "name": "So Close To Magic",
-        "url": "https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1"
+        "name": "ALL MINE",
+        "url": "https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb"
       },
       "artists": [
         {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
         }
       ],
-      "duration_ms": 202289,
-      "name": "So Close To Magic",
-      "url": "https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg"
+      "duration_ms": 179104,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2075,22 +2091,6 @@
       "duration_ms": 190104,
       "name": "Radio",
       "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
-    },
-    {
-      "added_at": "2023-05-22 07:17:53",
-      "album": {
-        "name": "ALL MINE",
-        "url": "https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb"
-      },
-      "artists": [
-        {
-          "name": "PANIA",
-          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
-        }
-      ],
-      "duration_ms": 179104,
-      "name": "ALL MINE",
-      "url": "https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2293,22 +2293,6 @@
       "url": "https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI"
     },
     {
-      "added_at": "2023-04-21 12:01:04",
-      "album": {
-        "name": "Teach",
-        "url": "https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Teach",
-      "url": "https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Glasshouse (Deluxe Edition)",
@@ -2339,6 +2323,22 @@
       "duration_ms": 168080,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/5ewnuTcT10UI7zOx3OWRmQ"
+    },
+    {
+      "added_at": "2023-04-21 12:01:04",
+      "album": {
+        "name": "Teach",
+        "url": "https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Teach",
+      "url": "https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Beautiful Lies",
-        "url": "https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID"
-      },
-      "artists": [
-        {
-          "name": "CokeCarl",
-          "url": "https://open.spotify.com/artist/4la2pVycKuAABaLuWNnYCU"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/5FEURlJJerhVZqQT43aKFj"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Put D'Angelo On",
         "url": "https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 187438,
       "name": "Put D'Angelo On",
       "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID"
+      },
+      "artists": [
+        {
+          "name": "CokeCarl",
+          "url": "https://open.spotify.com/artist/4la2pVycKuAABaLuWNnYCU"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/5FEURlJJerhVZqQT43aKFj"
     },
     {
       "added_at": "2023-02-10 11:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 212306,
+  "num_followers": 212311,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTg0Y2Y0YTdhZmFkYjgzYThhYjM4Mjc1NzExMjViMTg0ZmIyMzJl",
+  "snapshot_id": "MCxlNzI0NjMyNjk4ZTZhZjc1ZDc0ZDZjOTE5MTI4ZWM5MzNhNmMzY2Zi",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Por Tu Honor",
-        "url": "https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12"
-      },
-      "artists": [
-        {
-          "name": "Horcas",
-          "url": "https://open.spotify.com/artist/0R0FEEepfDr3js3lsGPykq"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "En la Jaula",
-      "url": "https://open.spotify.com/track/4gTmUJIVkIBKIhuWcepu7q"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Rebeli\u00f3n En El Chiquero",
         "url": "https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 150602,
       "name": "Eres Tan Mala Como la Carne de Puerco",
       "url": "https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Por Tu Honor",
+        "url": "https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12"
+      },
+      "artists": [
+        {
+          "name": "Horcas",
+          "url": "https://open.spotify.com/artist/0R0FEEepfDr3js3lsGPykq"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "En la Jaula",
+      "url": "https://open.spotify.com/track/4gTmUJIVkIBKIhuWcepu7q"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Llora Chiapas",
-        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
-      },
-      "artists": [
-        {
-          "name": "Leprosy",
-          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
-        }
-      ],
-      "duration_ms": 312447,
-      "name": "Residentes Olvidados",
-      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "No Anesthesia",
         "url": "https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6"
       },
@@ -803,18 +787,34 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Alteraci\u00f3n",
-        "url": "https://open.spotify.com/album/3iqUDLXxfCK023eFFqZp0c"
+        "name": "Llora Chiapas",
+        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
       },
       "artists": [
         {
-          "name": "Arcadia Libre",
-          "url": "https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q"
+          "name": "Leprosy",
+          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
         }
       ],
-      "duration_ms": 193358,
-      "name": "Alteraci\u00f3n",
-      "url": "https://open.spotify.com/track/3uSkIkwZ1TBJn0PQUExgtw"
+      "duration_ms": 312447,
+      "name": "Residentes Olvidados",
+      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "No Money No Fiesta",
+        "url": "https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq"
+      },
+      "artists": [
+        {
+          "name": "Dia De Los Muertos",
+          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
+        }
+      ],
+      "duration_ms": 169130,
+      "name": "Cantina Del Infierno",
+      "url": "https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2"
     }
   ],
   "unique_name": "Metal del Nuestro",

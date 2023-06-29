@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: MYA, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: MATONDO, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 155546,
       "name": "AVATAR",
       "url": "https://open.spotify.com/track/7K4zORag3matTGq7WcacQZ"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 214532,
       "name": "Breath",
       "url": "https://open.spotify.com/track/0w80B8Qah90Owttcvu9xR1"
@@ -2092,6 +2092,24 @@
       "duration_ms": 186403,
       "name": "By the Sea",
       "url": "https://open.spotify.com/track/3HsUSsTHJS6Xt1ZVrUM9DM"
+    },
+    {
+      "album": {
+        "name": "TEll A ViSiON",
+        "url": "https://open.spotify.com/album/1WA1kM9ZEYsdz07hFCEot8"
+      },
+      "artists": [
+        {
+          "name": "TEll A VISION",
+          "url": "https://open.spotify.com/artist/0o4PC35iPXR3eK4CPkl353"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "CAll ME BY MY NAME",
+      "url": "https://open.spotify.com/track/2apZfYtSYye5BmK5OTxujV"
     },
     {
       "album": {
@@ -2248,6 +2266,24 @@
       "duration_ms": 263882,
       "name": "Cats (Not The Musical)",
       "url": "https://open.spotify.com/track/6VjTBUdQS6CPwmFeIMtBUb"
+    },
+    {
+      "album": {
+        "name": "Caught Up in Life",
+        "url": "https://open.spotify.com/album/3I07uH3c7XUZeF3rBHiaVS"
+      },
+      "artists": [
+        {
+          "name": "Hotbeanwater",
+          "url": "https://open.spotify.com/artist/04dGXAe8uA6V2ipdX42yeJ"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132809,
+      "name": "Caught Up in Life",
+      "url": "https://open.spotify.com/track/0I9SPOCU4tG90wBtfuocON"
     },
     {
       "album": {
@@ -3670,6 +3706,28 @@
     {
       "album": {
         "name": "Egal",
+        "url": "https://open.spotify.com/album/4lta8wNEEceVpWXnKoWkaq"
+      },
+      "artists": [
+        {
+          "name": "ELA",
+          "url": "https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb"
+        },
+        {
+          "name": "Whitey",
+          "url": "https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Egal",
+      "url": "https://open.spotify.com/track/15kfasEzeqJeyqgJF3lk7S"
+    },
+    {
+      "album": {
+        "name": "Egal",
         "url": "https://open.spotify.com/album/5fI8PismtnGhQ5DT2OPswV"
       },
       "artists": [
@@ -4858,7 +4916,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 138795,
       "name": "GESPIELTE GEF\u00dcHLE",
       "url": "https://open.spotify.com/track/5GXWLdJwSvJkYIswhnFF7B"
@@ -5739,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Complex I",
+        "url": "https://open.spotify.com/album/0VyoeAVms2S9Z2DTQlkntt"
+      },
+      "artists": [
+        {
+          "name": "MATONDO",
+          "url": "https://open.spotify.com/artist/4wLcJ0gkSmc381jcHAEjxt"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100437,
+      "name": "Hide and Peak",
+      "url": "https://open.spotify.com/track/10pnX71sFeDJZpBQvD83CW"
+    },
+    {
+      "album": {
         "name": "Hide And Seek",
         "url": "https://open.spotify.com/album/1KHPuMuMIVVXtJalNjkaVi"
       },
@@ -5750,7 +5826,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 197013,
       "name": "Hide And Seek",
       "url": "https://open.spotify.com/track/3O7p4Q0e63OjkpD4dU7sjp"
@@ -8434,7 +8510,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 216001,
       "name": "More than I Wanted",
       "url": "https://open.spotify.com/track/2gDmDJy9HLmgoDUrhfjHjJ"
@@ -8939,7 +9015,7 @@
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 231173,
+      "duration_ms": 225569,
       "name": "Not Close Enough To You",
       "url": "https://open.spotify.com/track/14iqL2LF1ylry92sdS35ed"
     },
@@ -9400,6 +9476,24 @@
       "duration_ms": 233799,
       "name": "Pacemaker",
       "url": "https://open.spotify.com/track/4is1qAjhTeOD4bKV0aZ304"
+    },
+    {
+      "album": {
+        "name": "Die Neue Dehnbarkeit",
+        "url": "https://open.spotify.com/album/0EqgZYdsCmL30oI8MrF5BP"
+      },
+      "artists": [
+        {
+          "name": "Tropen Tropen",
+          "url": "https://open.spotify.com/artist/5wK3kj0ljsEqziHVzCKNTr"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287806,
+      "name": "Paola",
+      "url": "https://open.spotify.com/track/0O27352iWIhoEzogT3svW1"
     },
     {
       "album": {
@@ -10356,6 +10450,24 @@
       "duration_ms": 144405,
       "name": "Robbed",
       "url": "https://open.spotify.com/track/5cjowzySTlIjoGRghGtFVI"
+    },
+    {
+      "album": {
+        "name": "Rockstar Girl",
+        "url": "https://open.spotify.com/album/2cAbRnIIdwIkNzNVwfV5ff"
+      },
+      "artists": [
+        {
+          "name": "Samt",
+          "url": "https://open.spotify.com/artist/17jJpG6K8SbUCWqlhGjHhj"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153296,
+      "name": "Rockstar Girl",
+      "url": "https://open.spotify.com/track/3qjf9XVTewiGj4haOQimeB"
     },
     {
       "album": {
@@ -11380,7 +11492,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 166655,
       "name": "Speedrunning",
       "url": "https://open.spotify.com/track/0fsvjq664RFmqcDgEb3Gho"
@@ -12524,6 +12636,24 @@
       "duration_ms": 156693,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/4GIsIMkEvyLLlsqrTVpkGH"
+    },
+    {
+      "album": {
+        "name": "Toxisch",
+        "url": "https://open.spotify.com/album/5Bg0G5KWlxCY4JMVj6HPyT"
+      },
+      "artists": [
+        {
+          "name": "Die Krux",
+          "url": "https://open.spotify.com/artist/2SLzDQT4gRA9vDbUB2BxMp"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198417,
+      "name": "Toxisch",
+      "url": "https://open.spotify.com/track/0xXg49Q95WwUIVc3TC9eK7"
     },
     {
       "album": {
@@ -14266,7 +14396,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 231600,
       "name": "Zimmer 4",
       "url": "https://open.spotify.com/track/0ClAr95oTIz2yx8a1wIEdk"

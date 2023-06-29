@@ -4,7 +4,7 @@
 
 > ESPN is turning up the heat this season as the Rockstars of Racing embark on a world tour\. Listen to the drivers favorite tracks here.
 
-322 songs - 21 hr 11 min
+324 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2022-08-05 | 2023-05-04 |
 | [Believer \(feat\. Lil Wayne\)](https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Believer \(feat\. Lil Wayne\)](https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT) | 3:39 | 2022-08-05 | 2023-05-04 |
 | [Best Friend](https://open.spotify.com/track/7jdzEA44GdSp4laVCF3Ztw) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack](https://open.spotify.com/album/5D2CHiTlb8MXWJsZWXjkZf) | 4:11 | 2023-05-03 |  |
+| [Big Boom](https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Big Boom](https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz) | 2:14 | 2023-06-28 |  |
 | [Big Pimpin'](https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Vol\. 3..\. Life And Times Of S\. Carter](https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ) | 4:43 | 2022-05-16 | 2022-06-24 |
 | [Black Ice \(Sky High\) \(feat\. Outkast\)](https://open.spotify.com/track/0Uu8BPsWQGZk5AiRN3uBwn) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Still Standing](https://open.spotify.com/album/0MMxX1jX2lwR1iKRuB7yG7) | 3:25 | 2022-05-16 | 2022-06-24 |
 | [Bling Bling](https://open.spotify.com/track/5q186AzhWeOEoFnApajHgR) | [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS) | [Chopper City In The Ghetto](https://open.spotify.com/album/71UI6dxPwSUiJUH4DM226k) | 5:12 | 2022-05-16 | 2022-06-24 |
@@ -150,6 +151,7 @@
 | [Just Because I'm a Woman](https://open.spotify.com/track/60XKXfrjh0qhAHw4QfNO6j) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Just Because I'm A Woman](https://open.spotify.com/album/1GisbvCqXtNW2ntajcMNdB) | 3:03 | 2022-06-23 | 2022-08-06 |
 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 | 2022-05-16 | 2022-06-24 |
 | [Kids on the Run](https://open.spotify.com/track/3Z1qelLeL16u46bWyqHRw1) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [VARGEN](https://open.spotify.com/artist/0L3cTKutNivypmL0Gsbu4i) | [Kids on the Run](https://open.spotify.com/album/2ZwAYU8JNzmLHrGZK0bGlo) | 2:53 | 2023-05-26 |  |
+| [Kiwi](https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 2:56 | 2023-06-28 |  |
 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 | 2022-05-16 | 2022-06-24 |
 | [Ladies First](https://open.spotify.com/track/76eqlAukVuAvxovEbCK3uh) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [All Hail the Queen](https://open.spotify.com/album/6Agl4DVuihiDPuxuN1L8Jv) | 3:58 | 2022-06-23 | 2022-08-06 |
 | [last day on earth](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [last day on earth](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2023-05-03 |  |

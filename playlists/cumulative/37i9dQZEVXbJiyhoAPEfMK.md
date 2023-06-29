@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-1,821 songs - 3 day 22 hr 24 min
+1,822 songs - 3 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [All Eyez On Me \- Gangsta Remix](https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc) | [Dj Belite](https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF), [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [All Eyez On Me \(Gangsta Remix\)](https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS) | 2:45 | 2023-05-02 | 2023-05-06 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-11-16 | 2022-12-31 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-16 | 2023-05-27 |
-| [All Night](https://open.spotify.com/track/798N3AVTpnPSuYPh7KBCKA) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [XV](https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi) | 2:33 | 2023-06-24 |  |
+| [All Night](https://open.spotify.com/track/798N3AVTpnPSuYPh7KBCKA) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [XV](https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi) | 2:33 | 2023-06-24 | 2023-06-29 |
 | [All Night](https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [All Night](https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm) | 2:33 | 2023-04-01 | 2023-06-03 |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2021-11-21 | 2021-11-25 |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-17 | 2021-11-19 |
@@ -203,6 +203,7 @@
 | [Because You Move Me](https://open.spotify.com/track/1F80MEkZA9yTlpMQp9dhht) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/0kiACKi07rmYB4J56QkEuM) | 3:16 | 2021-09-16 | 2022-04-30 |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2021-07-01 | 2021-09-16 |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2021-04-26 | 2021-07-01 |
+| [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2023-06-28 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-06 | 2022-02-16 |
 | [Behute](https://open.spotify.com/track/7l4SCt0ebVQnbQNEXyH7F7) | [Senidah](https://open.spotify.com/artist/1C5jQlkf0TrFu6rmHZp2X5) | [Behute](https://open.spotify.com/album/26AiaZEoKcmfADRHBpclRn) | 3:40 | 2022-02-06 | 2022-02-17 |
 | [Bei Nacht](https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Weisses Herz](https://open.spotify.com/album/3TGzhEgQ0A1ijA6bnyrsJH) | 2:54 | 2022-10-17 | 2022-11-02 |

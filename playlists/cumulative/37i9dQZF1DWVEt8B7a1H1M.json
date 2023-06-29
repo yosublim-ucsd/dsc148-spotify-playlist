@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 106326,
       "name": "A Forest of Feathers",
       "url": "https://open.spotify.com/track/2DCdLTEL6p5JXqFpEGiVWD"
@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "A Symphony of the Sky",
+        "url": "https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft"
+      },
+      "artists": [
+        {
+          "name": "Ruidos de la Selva",
+          "url": "https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "Birds and Creeks",
+      "url": "https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8"
+    },
+    {
+      "album": {
         "name": "Birds and Nest Noise",
         "url": "https://open.spotify.com/album/6RCImJPRCPLXJRnZV8AbhY"
       },
@@ -520,7 +538,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 133989,
       "name": "Birds Chorus",
       "url": "https://open.spotify.com/track/4jf5KQAc8AUqgZ1qIHYmIz"
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-22",
+      "date_removed": null,
       "duration_ms": 157525,
       "name": "My Forest",
       "url": "https://open.spotify.com/track/5CpOvsRAL1bGrQJkh6BhKp"

@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOpIiOtUcbBqI.md) - [plain]
 | 10 | [Another Day](https://open.spotify.com/track/01UPzueYKNIRn4R9l5neB5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:46 |
 | 11 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 |
 
-Snapshot ID: `MjY3NzQ5MDYsMDAwMDAwMDBkY2E1NTIzOGZlMGExNzMzYTdmNDBiNmE4ZGFkNzUwOQ==`
+Snapshot ID: `MjY3NzQ5MDYsMDAwMDAwMDAzODFjZTBiOWIzZjA3OTRmM2I4YTQ1YTM3ODhkYTdjYg==`

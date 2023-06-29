@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,419 likes - 56 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,456 likes - 56 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [デイドリーム ビリーヴァー](https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [デイドリーム ビリーヴァー](https://open.spotify.com/album/4pHB7QiyMIyOrzaToBoS3d) | 3:37 |
-| 2 | [CODE GE4SS](https://open.spotify.com/track/5OPX3g6IIYtLQJe6GEcXsN) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z) | 2:32 |
+| 2 | [CODE GE4SS](https://open.spotify.com/track/5bIptZAYkYhWutd3iNXM5E) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:32 |
 | 3 | [Z.E.R.O.](https://open.spotify.com/track/72q1f85sG2GZRo3i9GdkOg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Z.E.R.O.](https://open.spotify.com/album/1Oz6fVlYIPMO4VKT8UmPPx) | 4:05 |
 | 4 | [Face2](https://open.spotify.com/track/5N1bKDzbdCKnReop9O2YEG) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Face2](https://open.spotify.com/album/15eTxMxc2yzCOC4wveboLD) | 3:41 |
 | 5 | [無色透明](https://open.spotify.com/track/77aCXRxRhlcMod8dJLPIAB) | [山下優太郎](https://open.spotify.com/artist/2jxEVw1ciKVmQzo1EK0KUO) | [無色透明](https://open.spotify.com/album/3m41noXBvwKfjJCDbeNUve) | 3:59 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 55 | [Upheaval](https://open.spotify.com/track/04RuAp7fyZdSXaWoKHCJAk) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:00 |
 | 56 | [Serious Landscape](https://open.spotify.com/track/6fWhrSFAm5ISISLcY97L4c) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:05 |
 
-Snapshot ID: `MCxmZTUyZjg5ZjhmNGI1YWM3NWI1ZDFkNzcyNDRmNTUyMWIxYjEwN2M4`
+Snapshot ID: `MCwxYzJkZTM3ZDU2OGIzYmE0Y2E5MmJlNzdiMDkzZjA2MzA3ZTA4NTU5`

@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 344136,
+  "num_followers": 344182,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTBkMDRlNjg1MzhiNTFkMDZiZjQ3ODk4NTFhYWEyZGUwN2M0NGYy",
+  "snapshot_id": "MCxhMWQ2MmRmZTRiOTY0Mzc4MmRjMDZlMjU2YTljN2E1YzA3NjQ0Njg1",
   "tracks": [
     {
       "added_at": "2023-06-23 16:02:31",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-06-23 16:02:31",
       "album": {
-        "name": "JOY (God Only Knows)",
-        "url": "https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "JOY (God Only Knows)",
-      "url": "https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt"
-    },
-    {
-      "added_at": "2023-06-23 16:02:31",
-      "album": {
         "name": "Ain't No Other Man (Rework)",
         "url": "https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 154560,
       "name": "Ain't No Other Man - Rework",
       "url": "https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl"
+    },
+    {
+      "added_at": "2023-06-23 16:02:31",
+      "album": {
+        "name": "JOY (God Only Knows)",
+        "url": "https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "JOY (God Only Knows)",
+      "url": "https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt"
     },
     {
       "added_at": "2023-06-23 16:02:31",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-06-23 16:02:31",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
+    },
+    {
+      "added_at": "2023-06-23 16:02:31",
+      "album": {
         "name": "My Own Way",
         "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
-    },
-    {
-      "added_at": "2023-06-23 16:02:31",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
     },
     {
       "added_at": "2023-06-23 16:02:31",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-23 16:02:31",
       "album": {
-        "name": "The Best Rapper Alive",
-        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
-      },
-      "artists": [
-        {
-          "name": "Dj Streaks",
-          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
-        }
-      ],
-      "duration_ms": 487619,
-      "name": "The Best Rapper Alive",
-      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
-    },
-    {
-      "added_at": "2023-06-23 16:02:31",
-      "album": {
         "name": "Off My Mind",
         "url": "https://open.spotify.com/album/2wfCtn1trmG5Vtq5emR0jc"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 168196,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/2S2uzei41Epnb1TndFTS9l"
+    },
+    {
+      "added_at": "2023-06-23 16:02:31",
+      "album": {
+        "name": "The Best Rapper Alive",
+        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
+      },
+      "artists": [
+        {
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+        }
+      ],
+      "duration_ms": 487619,
+      "name": "The Best Rapper Alive",
+      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
     },
     {
       "added_at": "2023-06-23 16:02:31",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-23 16:02:31",
       "album": {
-        "name": "Voodoo Babe",
-        "url": "https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 249002,
-      "name": "Voodoo Babe",
-      "url": "https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO"
-    },
-    {
-      "added_at": "2023-06-23 16:02:31",
-      "album": {
         "name": "Everything Happens for a Reason",
         "url": "https://open.spotify.com/album/1tKDdlmv0HPOEcwN3j7dmP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 189000,
       "name": "Everything Happens for a Reason",
       "url": "https://open.spotify.com/track/24XXMhcnFDkF7c1PAvt42b"
+    },
+    {
+      "added_at": "2023-06-23 16:02:31",
+      "album": {
+        "name": "Voodoo Babe",
+        "url": "https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 249002,
+      "name": "Voodoo Babe",
+      "url": "https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO"
     },
     {
       "added_at": "2023-06-23 16:02:31",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-06-23 16:02:31",
       "album": {
+        "name": "Disco Hearts",
+        "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        },
+        {
+          "name": "Laura Davie",
+          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Disco Hearts",
+      "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
+    },
+    {
+      "added_at": "2023-06-23 16:02:31",
+      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/6JLIydfqzCoS4pf53mqdrQ"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 311968,
       "name": "Flame - Dan Shake Broken Mix",
       "url": "https://open.spotify.com/track/2txuYleYPl5dOQMv70tlWD"
-    },
-    {
-      "added_at": "2023-06-23 16:02:31",
-      "album": {
-        "name": "Disco Hearts",
-        "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
-      },
-      "artists": [
-        {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        },
-        {
-          "name": "Laura Davie",
-          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Disco Hearts",
-      "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
     },
     {
       "added_at": "2023-06-23 16:02:31",

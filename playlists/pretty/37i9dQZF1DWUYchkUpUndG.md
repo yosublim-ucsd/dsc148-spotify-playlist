@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=F5cGlo7CQ6ycJg\-zCr9\-Lg">Onos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,179 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,265 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 54 | [If No Be God \- Speed up](https://open.spotify.com/track/2fKL4EV6M8x8RXOfykbGHI) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [If No Be God \(Speed up\)](https://open.spotify.com/album/2wvWZqB6gObZjktwst3qqz) | 1:36 |
 | 55 | [Soupir \(Eyaa!\)](https://open.spotify.com/track/6Na20qii8brBz8CmOgisOv) | [Doulos jk](https://open.spotify.com/artist/3mC1dmha7uzy7zGOo2n1vM) | [Soupir \(Eyaa!\)](https://open.spotify.com/album/7lvH9idL0Si8bVKvcWqkHv) | 4:32 |
 | 56 | [Nyame bi](https://open.spotify.com/track/1AVzWB52ITejheEP9lPbIS) | [Motoo Onit](https://open.spotify.com/artist/3p3bVDAH1orWfCExebCPY2), [Mike Kesse](https://open.spotify.com/artist/3gTI9CTDGd52LQouVIL5Ds) | [Nyame bi](https://open.spotify.com/album/0lcXGaX2gUnsj04O1kk8ZL) | 3:53 |
-| 57 | [All in All](https://open.spotify.com/track/4Xv7URg3SYCDFNBPjfYCd9) | [Glenn Barnes](https://open.spotify.com/artist/0biIkjNVgihbgL1V4RBILY), [Champs](https://open.spotify.com/artist/5x3gROZgPs4tOs5uEYR7tZ) | [All in All](https://open.spotify.com/album/4wj9LDl2efBCaLCpKPH7Cl) | 6:34 |
+| 57 | [All in All](https://open.spotify.com/track/4Xv7URg3SYCDFNBPjfYCd9) | [Glenn Barnes](https://open.spotify.com/artist/0biIkjNVgihbgL1V4RBILY) | [All in All](https://open.spotify.com/album/4wj9LDl2efBCaLCpKPH7Cl) | 6:34 |
 | 58 | [Jayamma](https://open.spotify.com/track/7w8z5NGki17G0vHVDeaaIi) | [Chidex Obani](https://open.spotify.com/artist/7rZz3fF3EonzYf4j2qmcoX) | [Jayamma](https://open.spotify.com/album/1XgVrPDBHrTXYkPKun5A71) | 5:04 |
 | 59 | [Portrait](https://open.spotify.com/track/38aaA1lbMTzngn85dhJevO) | [RapNotic](https://open.spotify.com/artist/3xe4vjkxwUIJZSo9RialY4) | [Portrait](https://open.spotify.com/album/3TA1TYQsD60BuCPTX9e4Cg) | 3:01 |
 | 60 | [Muradi \(Desire\)](https://open.spotify.com/track/7yvLi9MJ8yzGO6OJZYuZRl) | [Pst\. Solomon TK](https://open.spotify.com/artist/5OCApsR2lIZUqeCjVGoWqm), [D manifest crew](https://open.spotify.com/artist/1S088r0e3wlBRsOVx4v2Rm) | [Muradi \(Desire\)](https://open.spotify.com/album/6C4jM6uxhsQgNxZTkt6wjt) | 5:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 79 | [Thank You Lord](https://open.spotify.com/track/6TWd4GIzS9qzEbDqtaqq6d) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Rejoice Again](https://open.spotify.com/album/5Vd9mbXOqMKMZIZlN6wYkx) | 4:55 |
 | 80 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 |
 
-Snapshot ID: `MCwxZDgyYzE3NjZlYzgxNzIzNjlkMzNlNzljZmViMjc1YjhkZmFkNTJm`
+Snapshot ID: `MCwxYjkyZGJjMmRjMjgxMjIzMDI3YTczZWUzNGQ2Nzk1MWVkOGJlZTA2`

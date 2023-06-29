@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB?si=T5gwpdDoS6CXedMMets1sQ">Nasrene</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,312 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,319 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 93 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 |
 | 94 | [Hold Me](https://open.spotify.com/track/3xRWTT9ouokK5wFAFCgs4Y) | [Love Jungle](https://open.spotify.com/artist/5WIZAH5FThf16VjKWaHG33) | [Double Moon](https://open.spotify.com/album/2tvu05twUtcPg5S3YARanf) | 3:29 |
 | 95 | [My Time](https://open.spotify.com/track/3gbtNslUtnjb4GioHrR7qH) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [My Time](https://open.spotify.com/album/7FGBbHrwxSy7IMF7kFnDKp) | 2:47 |
-| 96 | [CONCIOUS IS A FOX](https://open.spotify.com/track/0h2uflPrk8v5cGFToZsPac) | [CLUB VALLEY](https://open.spotify.com/artist/0QA1gqKpLcVh4poXeglSHn) | [INFINITE PROPORTIONS EP](https://open.spotify.com/album/5ddIYNdWTFkM1hN2LsU8lt) | 3:41 |
+| 96 | [CONCIOUS IS A FOX](https://open.spotify.com/track/0h2uflPrk8v5cGFToZsPac) | [CLUB VALLEY](https://open.spotify.com/artist/0QA1gqKpLcVh4poXeglSHn) | [INFINITE PROPORTIONS](https://open.spotify.com/album/5ddIYNdWTFkM1hN2LsU8lt) | 3:41 |
 | 97 | [Obsession](https://open.spotify.com/track/6Q1HlpBc55tZYp1mfdForo) | [Gabriel Espi](https://open.spotify.com/artist/2uGq7mB5MymL4sjLxhsOA0) | [Obsession](https://open.spotify.com/album/1H9MhTPpUUEN3RmNftiY1S) | 3:17 |
 | 98 | [streetlights](https://open.spotify.com/track/17QqOrzmlENNS0PFCyASiE) | [Bakai](https://open.spotify.com/artist/5O7M8SLNNzWp0TJWufgUxA), [Valley Sixteen](https://open.spotify.com/artist/4F67Td1MFg10RECDJz3YU6), [Modern Horror](https://open.spotify.com/artist/1wmdNuXm5JzpHWbyYEofFY) | [supernova passion lightning](https://open.spotify.com/album/40OF26SNLr59fownrntELZ) | 3:05 |
 | 99 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 100 | [Friends Once More / Outro](https://open.spotify.com/track/2bRQOhXThjQ3CiCHzloECX) | [Pat McKeown](https://open.spotify.com/artist/4CiBxATRLg1i9QyAQsLIcH) | [Songs for the Afternoon](https://open.spotify.com/album/2XckmmWD1kg8auQsAJpxzp) | 5:49 |
 
-Snapshot ID: `MCxhMDBjZDZmYWMxMDJjMTMxN2I3MzNhZDQyYmY5YmJjNjMxMWZkNGY2`
+Snapshot ID: `MCw4MWY3ZTJjYzYwZDg1YTkxZWQ2M2U1YTgyNzUxODBjMTk3YTQ0MTRi`

@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Jazzy.
 
-617 songs - 1 day 13 hr 59 min
+618 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Do It All Night](https://open.spotify.com/track/3orvoGKOfx3H2WB0qYbHs7) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Do It All Night](https://open.spotify.com/album/49lw5mtUNmodv1q9r8B9sC) | 7:46 | 2022-01-28 | 2022-07-07 |
 | [Do It For Yourself](https://open.spotify.com/track/4znWmau1H1ythOHAUQ44bS) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Galactic Portal](https://open.spotify.com/album/4ikHBLy2rf3eGyqpvVsdCg) | 4:31 | 2022-04-06 | 2022-07-19 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-08-28 | 2023-04-22 |
+| [Do My Thing](https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Do My Thing](https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu) | 3:02 | 2023-06-23 |  |
 | [Do Yo Dance \- Edit](https://open.spotify.com/track/61eRcJsVERA029H1ZXXfwT) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Conquer Jones](https://open.spotify.com/artist/07QL1ZOB6Uq7ucRf6poEiW) | [Do Yo Dance EP](https://open.spotify.com/album/4Ykl4ICMUgT3czcF39HlFF) | 3:55 | 2021-11-13 | 2022-07-22 |
 | [Do You Remember](https://open.spotify.com/track/4l8YHDorwOW8xeczmSfn0a) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Do You Remember](https://open.spotify.com/album/0Zi1gMTlmBrvZ5tUB4xQqf) | 3:26 | 2021-03-27\* | 2022-07-27 |
 | [Dominoes \(feat\. Sam Phay\)](https://open.spotify.com/track/23TU00ZacXcRMkL4iclubv) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Sam Phay](https://open.spotify.com/artist/0zTCoyOV9kZ4RNUWpZsLTb) | [Dominoes \(feat\. Sam Phay\)](https://open.spotify.com/album/1OmjAxwm3U3mxCEkYAioMX) | 4:27 | 2021-10-31 | 2022-07-14 |
@@ -371,7 +372,7 @@
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-03-27\* | 2021-06-12 |
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-06-24 | 2023-02-11 |
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-03-27\* | 2021-07-17 |
-| [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-06-23 |  |
+| [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-06-23 | 2023-06-29 |
 | [Miami](https://open.spotify.com/track/3IVE4PaCFVFJauGDkoWke7) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [Once I Was Young](https://open.spotify.com/album/5YqMEy9J5JIskfp4zDti83) | 4:43 | 2022-12-28 | 2023-01-06 |
 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 | 2021-08-28 | 2022-04-21 |
 | [Middle](https://open.spotify.com/track/7pk1VW7qa7zBQDbqMWydUD) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Middle](https://open.spotify.com/album/6xsGcIH2ZZyjQXv6YISOH0) | 3:01 | 2021-06-12 | 2022-07-29 |

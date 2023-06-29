@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Immy Owusu Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,273 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,284 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 19 | [Nothing's Stopping Me Now](https://open.spotify.com/track/4UjQm1Qfdjh4NXdisHSuve) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Nothing's Stopping Me Now](https://open.spotify.com/album/7KwlS3OCShHi4ArDNFyyRf) | 3:06 |
 | 20 | [Analogue](https://open.spotify.com/track/6G03vyXV3PPZCHE2hNmcTi) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Analogue/ I Heard](https://open.spotify.com/album/1EwoZdizHLkjrRoxiu9B2x) | 3:46 |
 | 21 | [Too Fast](https://open.spotify.com/track/6IDHk0p2Rt7cfof8mONQ2g) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Too Fast](https://open.spotify.com/album/0QBxcn7dmqPAfGkIlyBILQ) | 2:40 |
-| 22 | [Don't Know Why](https://open.spotify.com/track/5UErcw2Sb736E1C9dEgl01) | [MUTO](https://open.spotify.com/artist/4899wIU2stpjOmoq2mgyeW), [H\. Kenneth](https://open.spotify.com/artist/5Nc1ukGfwNnaT3B56gGc4c) | [Hour Glass](https://open.spotify.com/album/6FYDRoGiB1myyRBNAjQQZj) | 3:04 |
+| 22 | [Don't Know Why](https://open.spotify.com/track/5UErcw2Sb736E1C9dEgl01) | [MUTO](https://open.spotify.com/artist/4899wIU2stpjOmoq2mgyeW), [H\. Kenneth](https://open.spotify.com/artist/5Nc1ukGfwNnaT3B56gGc4c) | [Hourglass](https://open.spotify.com/album/6FYDRoGiB1myyRBNAjQQZj) | 3:04 |
 | 23 | [No Reason](https://open.spotify.com/track/1HVQoAQTm4S3ATj0om5igi) | [ABRZY](https://open.spotify.com/artist/0GIxnPuJrbOyBfyYkMzJRo) | [No Reason](https://open.spotify.com/album/4dAqrnledBoCmsJJI5h5wb) | 2:37 |
 | 24 | [Kool\-Aid](https://open.spotify.com/track/6RZseaq0Avcn1rFXFvw5G5) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [Kool\-Aid](https://open.spotify.com/album/6nox35DswydstEnDGj0FFA) | 3:12 |
 | 25 | [Make It Right](https://open.spotify.com/track/3WJk3ssSuZW1J3c2zILQbh) | [Avon Stringer](https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU) | [Make It Right](https://open.spotify.com/album/3B0e4Khpnl39gTagbafaRH) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [You're Makin' Me High](https://open.spotify.com/track/1wxxQ4IFAnriUdkEHB2Aog) | [John Course](https://open.spotify.com/artist/4haTTVtSXPi13E8LdQMSL2) | [You're Makin' Me High](https://open.spotify.com/album/5Kzw4yLtPJbHbmoIqdVaGF) | 3:32 |
 | 100 | [4EVA](https://open.spotify.com/track/2LftHOFPfXdPtPK6yCnZXj) | [thndo](https://open.spotify.com/artist/4NKTT4ovD0uyL6YssNGF2n) | [4EVA](https://open.spotify.com/album/5VK922NbC81kfS2tCnDAM0) | 2:39 |
 
-Snapshot ID: `MCxkNGZmMmE4ZDA5M2QyZjAwN2RlMWNhODhmYTZmMTlkMmVhMTlkNzEx`
+Snapshot ID: `MCw0M2I4Yzc2ZDljZGU2ZWFhNjAwN2JmYzNhMTMwMWIyODVjYjQ1MTAz`

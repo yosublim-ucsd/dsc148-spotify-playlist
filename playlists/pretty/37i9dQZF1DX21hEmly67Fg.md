@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,638 likes - 78 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,751 likes - 78 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 77 | [Just The Way You Are](https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Just The Way You Are](https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq) | 3:28 |
 | 78 | [Hallelujah](https://open.spotify.com/track/3OIuwKMMuO3tVZ9futeIfb) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/5iFn9WyVbL1FIRJACbkdlR) | 2:45 |
 
-Snapshot ID: `MCwxNGVmNDQ1MTBlODU1ZmFiMzkwZjhmOGQ4ZDBjNzkyMTUzOGE2YThm`
+Snapshot ID: `MCw4NjczMDkzODI5MjU2NGFhMTRiMWU3YzI4NzM5ZDQ5ODQ0MzQ5MDFi`

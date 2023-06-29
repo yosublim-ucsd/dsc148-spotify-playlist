@@ -1,12 +1,12 @@
 {
   "description": "Which is going to be the next Song of the Summer!? (Includes the 2022 &amp; 2021 edition + bonus tracks)",
-  "num_followers": 102880,
+  "num_followers": 102949,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDk0Myw2OGJkYjBiNTVjZThiNGM5Mjc1ODNiNzRjMzRjNTA2OGZlOGM5NmMw",
+  "snapshot_id": "NDk0OCw4ZGE5YTM4OTA4OWQ5ZDgzMmUyOTlmMDNkNTgzNTk2YjBhZjc3ODRl",
   "tracks": [
     {
       "added_at": "2023-06-01 20:35:17",
@@ -371,6 +371,34 @@
       "duration_ms": 166624,
       "name": "Stories",
       "url": "https://open.spotify.com/track/4EZqTGsY8UxFyr5GLRMBvO"
+    },
+    {
+      "added_at": "2023-06-28 14:44:27",
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Cool About It",
+      "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
     },
     {
       "added_at": "2023-06-24 11:04:36",
@@ -771,6 +799,22 @@
       "duration_ms": 183125,
       "name": "Ways",
       "url": "https://open.spotify.com/track/6PpXzZybf3bGDcAnI0zkPU"
+    },
+    {
+      "added_at": "2023-06-28 22:31:54",
+      "album": {
+        "name": "Ando Sola",
+        "url": "https://open.spotify.com/album/29GVWbVQEICyv9UtQmoyMv"
+      },
+      "artists": [
+        {
+          "name": "Ariel Assad",
+          "url": "https://open.spotify.com/artist/7ciV3Sbbl4XKYLLhtLzm8p"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Ando Sola",
+      "url": "https://open.spotify.com/track/1iMJ37IxhxfWoNCJLODZLq"
     },
     {
       "added_at": "2023-05-29 15:48:13",

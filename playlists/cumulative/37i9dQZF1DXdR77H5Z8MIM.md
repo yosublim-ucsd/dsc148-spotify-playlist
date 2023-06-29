@@ -4,7 +4,7 @@
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: MONSTA X
 
-370 songs - 21 hr 1 min
+371 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Dejavu](https://open.spotify.com/track/1VAwnMFpVRc0CvdRRsHDrP) | [NU'EST W](https://open.spotify.com/artist/0gdWU9IX6LIiuPvXh95pas) | [WHO, YOU](https://open.spotify.com/album/3W93QQ0j8poUcMM6LJu9bR) | 3:19 | 2022-02-23 | 2022-06-03 |
 | [Destiny](https://open.spotify.com/track/6oS5qBlnci7unQjdLiok41) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 4:07 | 2021-11-17 | 2022-02-26 |
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2023-01-04 | 2023-06-07 |
+| [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2023-04-26 |  |
 | [Dingga](https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Dingga](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) | 2:59 | 2021-11-17 | 2022-07-03 |
 | [DINOSAUR](https://open.spotify.com/track/3UMjZ9bAT1AnpcWD4aKyP8) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SUMMER EPISODE](https://open.spotify.com/album/38x3xlcIBGevQrWHCY6TPs) | 4:00 | 2021-11-17 | 2022-01-30 |
 | [DNA](https://open.spotify.com/track/2ngmiq1KoYn3x25VOmvd8F) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:43 | 2022-06-18 | 2022-07-27 |
@@ -368,7 +369,7 @@
 | [You make Me](https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:38 | 2021-11-17 | 2022-07-29 |
 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 | 2021-11-17 | 2022-07-29 |
 | [Zimzalabim](https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 1](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) | 3:10 | 2021-11-17 | 2022-05-22 |
-| [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-06-18 |  |
+| [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-06-18 | 2023-06-29 |
 | [花요일 Blooming Day](https://open.spotify.com/track/4kmp56RAtXEzHOANS0BaLX) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [Blooming Days \- The 2nd Mini Album](https://open.spotify.com/album/14zRuZjpOkB4IrUkFsrN31) | 3:19 | 2021-11-17 | 2022-02-07 |
 | [노래가 늘었어](https://open.spotify.com/track/4E0DacxZNENaEeNgHWHq0X) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [노래가 늘었어](https://open.spotify.com/album/3Mk8qMQEeN8SUZ28oUREw4) | 3:19 | 2022-02-23 | 2022-02-26 |
 | [놓아 놓아 놓아 Letting Go](https://open.spotify.com/track/0682jZkOYxyttK29Qrk6d0) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [DAYDREAM](https://open.spotify.com/album/6FShBZFJ2H6OEIXOrhcX6L) | 3:49 | 2021-11-17 | 2022-06-17 |

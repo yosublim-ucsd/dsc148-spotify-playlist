@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-126 songs - 5 hr 47 min
+127 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Merits](https://open.spotify.com/track/2BVSKW7MV2zVhew0GcbW9G) | [yud.](https://open.spotify.com/artist/7k6535rJWtEv2TKhv1T6v7) | [Merits](https://open.spotify.com/album/6PAaMZ7PcRN3LtLg1F7ifY) | 1:43 | 2023-01-12 | 2023-05-02 |
 | [Modified Strat Mode](https://open.spotify.com/track/3PPGiojAjFUI7nuaW3mNAY) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Modified Strat Mode](https://open.spotify.com/album/24ziSm20W3yM9ZGsqqawZG) | 1:57 | 2023-04-20 |  |
 | [Moonshine](https://open.spotify.com/track/0MWcu0NXEJszqLvK19n0hy) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Moonshine / Starshine](https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf) | 1:53 | 2023-01-12 | 2023-03-29 |
-| [Mostly Toasted](https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Mostly Toasted](https://open.spotify.com/album/4q5FfpWNKHAcsEZlouU0jc) | 1:41 | 2023-01-13 |  |
+| [Mostly Toasted](https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Mostly Toasted](https://open.spotify.com/album/4q5FfpWNKHAcsEZlouU0jc) | 1:41 | 2023-01-13 | 2023-06-29 |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-01-12 |  |
 | [New Levels](https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [New Levels](https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m) | 3:52 | 2023-01-12 |  |
 | [Night Service](https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Heemo\*](https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip) | [Healing](https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl) | 3:02 | 2023-01-12 |  |
@@ -98,6 +98,7 @@
 | [Pivot](https://open.spotify.com/track/70eLlZeUn31MKzLaVlSlbP) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Every Story / Pivot](https://open.spotify.com/album/4D9eXpTDXXLDO8OUyj2VZi) | 3:18 | 2023-01-12 |  |
 | [places i have yet to see](https://open.spotify.com/track/0ScamXll3uLlIp5Pt5s8Ze) | [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [places i have yet to see](https://open.spotify.com/album/1Uh4HKvQmuBWqaIshTEyiE) | 2:16 | 2023-06-15 |  |
 | [Pouring Margarita](https://open.spotify.com/track/0ibru2bNyCrClfqznOVXFI) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Pouring Margarita](https://open.spotify.com/album/0dhtfQ82luu5zclu117YwH) | 1:30 | 2023-01-19 |  |
+| [Pyramids Revisited](https://open.spotify.com/track/3vXrrNtaV8I6opIxPniy2j) | [Electrotastica](https://open.spotify.com/artist/5q5uMW70FwqROgeYo3ojb8) | [Pyramids Revisited](https://open.spotify.com/album/0B8x8wor9Hv9ahYC0naaTA) | 3:18 | 2023-06-20 |  |
 | [Reflection](https://open.spotify.com/track/20rDMAV7nHVWN0ih5vLdLc) | [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [yujeongcokr](https://open.spotify.com/artist/3mspVlD1WihY46b7keRPyf) | [Reflection](https://open.spotify.com/album/168btAQtCTUue1WU0bpJz7) | 2:56 | 2023-01-12 |  |
 | [Reflections](https://open.spotify.com/track/2zgbN6Db0WvF2pyVuSisnt) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:20 | 2023-01-12 |  |
 | [Refractions](https://open.spotify.com/track/5T78R7NpMs9DJVSaxEowuM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [mishingo](https://open.spotify.com/artist/4h3GbEbbDBcyrICmI4QUAK) | [Refractions](https://open.spotify.com/album/03KrQZCLUNTSaqnx1GHBsT) | 2:16 | 2023-01-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 47370,
+  "num_followers": 47420,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjQxMDFiMzQ0YjU2Y2MyZDg4NWYwNjhiMzMwMzVjZDNiNzM2MDc4",
+  "snapshot_id": "MCwyYzk2NzRhZDk3YmRhZDQxNTI3MWViMTgyOTNiNWJjM2FiNzI0NmJk",
   "tracks": [
     {
       "added_at": "2023-06-22 23:00:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Louco",
+        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        },
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Louco",
+      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Eurotape",
         "url": "https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 176000,
       "name": "Fada",
       "url": "https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Louco",
-        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
-      },
-      "artists": [
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        },
-        {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Louco",
-      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
     },
     {
       "added_at": "2023-06-22 23:00:00",

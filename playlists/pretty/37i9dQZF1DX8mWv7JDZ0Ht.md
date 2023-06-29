@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Giulia Be
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,620 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,715 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 18 | [saudade boa](https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:56 |
 | 19 | [Lua Vai, Lua Vem](https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS) | [Thaïs Morell](https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB) | [Lua Vai, Lua Vem](https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX) | 3:36 |
 | 20 | [Intuição \(Envolvidão\) \- Ao Vivo](https://open.spotify.com/track/3WmCgLfple2ny5iHO3t2Nv) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Live Sessions](https://open.spotify.com/album/10vWV3vu3aAY0kthCLVQHS) | 3:08 |
-| 21 | [Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl) | 3:48 |
-| 22 | [Mais Que Ontem](https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 2:57 |
+| 21 | [Mais Que Ontem](https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 2:57 |
+| 22 | [Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl) | 3:48 |
 | 23 | [CAIXA POSTAL](https://open.spotify.com/track/6lJ1FbMTeRrmee0eqE7XPl) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [CAIXA POSTAL](https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c) | 3:05 |
 | 24 | [REWIND DOIS](https://open.spotify.com/track/7E7cd7fZV1ZsLjBO1rQAeK) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [REWIND DOIS](https://open.spotify.com/album/2S4ZruzfwuQWkoVYk4ibrZ) | 3:04 |
 | 25 | [Amor das Minhas Vidas](https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Amor das Minhas Vidas](https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx) | 2:57 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 73 | [Olimpo ou Razão](https://open.spotify.com/track/2rXdrKghnoYK6NJVqE5y6I) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Olimpo ou Razão](https://open.spotify.com/album/50vx9RdFlaRbd4xbEMMPaI) | 3:41 |
 | 74 | [elevador](https://open.spotify.com/track/0n5NRgLTUUfpyHn7rnSoZ5) | [zawa](https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0) | [elevador](https://open.spotify.com/album/3UutSTPmjMboGfAaZprrMa) | 2:42 |
 | 75 | [Sanidade Mental](https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Sanidade Mental](https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY) | 1:59 |
-| 76 | [Retrato de Maria Lúcia](https://open.spotify.com/track/4mjBM5IAzxuKcYIgrH0oDF) | [Ítallo](https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9), [Marina Nemesio](https://open.spotify.com/artist/1jLb1hc9fbV18QKGtkclMR) | [Tarde no Walkiria](https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr) | 4:07 |
-| 77 | [Eu Vou](https://open.spotify.com/track/2BFCkaAduWLMqXOTzzjA1C) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg), [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Eu Vou](https://open.spotify.com/album/5FHWaoHjuzvpb78PspRXt3) | 3:14 |
+| 76 | [Eu Vou](https://open.spotify.com/track/2BFCkaAduWLMqXOTzzjA1C) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg), [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Eu Vou](https://open.spotify.com/album/5FHWaoHjuzvpb78PspRXt3) | 3:14 |
+| 77 | [Retrato de Maria Lúcia](https://open.spotify.com/track/4mjBM5IAzxuKcYIgrH0oDF) | [Ítallo](https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9), [Marina Nemesio](https://open.spotify.com/artist/1jLb1hc9fbV18QKGtkclMR) | [Tarde no Walkiria](https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr) | 4:07 |
 | 78 | [pra onde vai o amor](https://open.spotify.com/track/6Jjm1Gej7GoQWbFCNH40VX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [AMAR](https://open.spotify.com/album/2BNNeYztxm3YUL93ry9nhh) | 3:28 |
 | 79 | [Me Leva](https://open.spotify.com/track/5qmLMvvMJm8nUAmqJOLB4h) | [Anttónia](https://open.spotify.com/artist/6ljjgnmjb0ayUyMaXVAwf7), [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1) | [Me Leva](https://open.spotify.com/album/1LB7ZCjFraDVz6f99To24u) | 2:54 |
 | 80 | [Sorria que Volta](https://open.spotify.com/track/3C7AFvzk3oWWUiKd6i8l2w) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Sorria que Volta](https://open.spotify.com/album/1uNYs9ighCEIJWSzwiDH2O) | 2:21 |
 
-Snapshot ID: `MCwyZDNjMjY1YjI4ZDViZTljNzkxOTU3ZjIzZGFiZGRkNzU3YzkyODgz`
+Snapshot ID: `MCw4ZWIzOTVkYTM3MmQ1ZmFkMDg5ODAwNTY5NDgzYmExN2M5NzczMDA4`

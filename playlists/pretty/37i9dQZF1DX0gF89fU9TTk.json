@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 118957,
+  "num_followers": 119009,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjgxYTE4Zjg5ZjMxY2EwOGRmMjk3OWU3OGNkNjAzODYzMDM5MGI0",
+  "snapshot_id": "MCw0YmNiNDRhZGEzNjQ1OWZiZGRmZjBhYmUwNTNkYTk3ZjllNDE5MDdj",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/3qCRd5R6usAqUMpRYzJPFx"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/452Q2BzTFo0st9C4oXgtmi"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "You Got This",
         "url": "https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 194680,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/3qCRd5R6usAqUMpRYzJPFx"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/452Q2BzTFo0st9C4oXgtmi"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -399,22 +399,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
+        "name": "Be Okay - EP",
+        "url": "https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ"
       },
       "artists": [
         {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        },
-        {
-          "name": "Eric Gilmour",
-          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
         }
       ],
-      "duration_ms": 209739,
-      "name": "Rest On Us",
-      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
+      "duration_ms": 194374,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -443,18 +439,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Be Okay - EP",
-        "url": "https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ"
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
       },
       "artists": [
         {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Eric Gilmour",
+          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
         }
       ],
-      "duration_ms": 194374,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
+      "duration_ms": 209739,
+      "name": "Rest On Us",
+      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "BETTER WITH YOU",
-        "url": "https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz"
+        "name": "Majesty",
+        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
         }
       ],
-      "duration_ms": 166405,
-      "name": "BETTER WITH YOU",
-      "url": "https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT"
+      "duration_ms": 500000,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Majesty",
-        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
+        "name": "BETTER WITH YOU",
+        "url": "https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz"
       },
       "artists": [
         {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 500000,
-      "name": "Majesty",
-      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
+      "duration_ms": 166405,
+      "name": "BETTER WITH YOU",
+      "url": "https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 233947,
       "name": "Eyes On You - Live",
       "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/6O3f8tfqgEyfNeW2AQYaBH"
+        "name": "Motion Worship",
+        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
       },
       "artists": [
         {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
         }
       ],
-      "duration_ms": 222551,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/1KkHP4XsCdH3e8d2rrntHA"
+      "duration_ms": 226568,
+      "name": "Freedom Wild",
+      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Motion Worship",
-        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/6O3f8tfqgEyfNeW2AQYaBH"
       },
       "artists": [
         {
-          "name": "Motion Worship",
-          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
         }
       ],
-      "duration_ms": 226568,
-      "name": "Freedom Wild",
-      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
+      "duration_ms": 222551,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/1KkHP4XsCdH3e8d2rrntHA"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Love Running Wild",
-        "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
       "artists": [
         {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
         }
       ],
-      "duration_ms": 201371,
-      "name": "I Belong to You",
-      "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
+      "duration_ms": 206960,
+      "name": "Right Where You Want Me",
+      "url": "https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
+        "name": "Love Running Wild",
+        "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
       },
       "artists": [
         {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
         }
       ],
-      "duration_ms": 206960,
-      "name": "Right Where You Want Me",
-      "url": "https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA"
+      "duration_ms": 201371,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "It's Coming",
         "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 154305,
       "name": "It's Coming",
       "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2023-02-18 04:35:24",

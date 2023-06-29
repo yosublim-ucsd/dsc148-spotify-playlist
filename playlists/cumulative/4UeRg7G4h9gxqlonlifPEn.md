@@ -2,7 +2,7 @@
 
 ### [Turnt Mode](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
-> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Durk
+> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Durk \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Pre game Pregame
 
 251 songs - 11 hr 45 min
 

@@ -1,28 +1,208 @@
 {
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Shirina Biswas , Artwork: Isu Kim",
-  "num_followers": 44774,
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Perfect Strangers , Artwork: Isu Kim",
+  "num_followers": 44792,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGM1ZDY5ODk5ZjBkMDg1MDRiMDg4NDFjNTNiNjljOThkNjJmZGYz",
+  "snapshot_id": "MCwwMTNiZTYzYWM5OGZiNmIxYWI4MzQwMDVkZjRmODhjMzExOTM0Zjhj",
   "tracks": [
     {
-      "added_at": "2023-06-21 07:39:40",
+      "added_at": "2023-06-28 06:31:01",
       "album": {
-        "name": "Wonderlands In Alice",
-        "url": "https://open.spotify.com/album/2sJRhepc1zmIHgU7EDeI1h"
+        "name": "On the wild side",
+        "url": "https://open.spotify.com/album/0QWIDqLVkMAhsgUYxSofxn"
       },
       "artists": [
         {
-          "name": "Shirina Biswas",
-          "url": "https://open.spotify.com/artist/2UPyJ2affDvadQFO30lsjD"
+          "name": "Perfect Strangers",
+          "url": "https://open.spotify.com/artist/1y4wjdfM3kbBe7zWjormz9"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Wonderlands In Alice",
-      "url": "https://open.spotify.com/track/5QCcXJBCqF8kSCd5ulaf4h"
+      "duration_ms": 321523,
+      "name": "On the wild side",
+      "url": "https://open.spotify.com/track/1nPMkWngNytyhVaYlE3YGe"
+    },
+    {
+      "added_at": "2023-06-28 06:31:01",
+      "album": {
+        "name": "Kaho na",
+        "url": "https://open.spotify.com/album/3z1UN7JGoHwRv8E1gwoG6E"
+      },
+      "artists": [
+        {
+          "name": "Abir",
+          "url": "https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO"
+        }
+      ],
+      "duration_ms": 134857,
+      "name": "Kaho na",
+      "url": "https://open.spotify.com/track/5znUlfypbCVjEzqGvzy0Xw"
+    },
+    {
+      "added_at": "2023-06-28 07:55:33",
+      "album": {
+        "name": "Hamraahi",
+        "url": "https://open.spotify.com/album/2TZMNG5wZpRLkkx5ZAVtvk"
+      },
+      "artists": [
+        {
+          "name": "Kushal Chokshi",
+          "url": "https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa"
+        },
+        {
+          "name": "Shubhra Agnihotri",
+          "url": "https://open.spotify.com/artist/6LHtfZj7IMdtlyYGh2JeUS"
+        }
+      ],
+      "duration_ms": 174363,
+      "name": "Hamraahi",
+      "url": "https://open.spotify.com/track/2OFov6zJDzeDvkueIcu8Vr"
+    },
+    {
+      "added_at": "2023-06-28 07:53:07",
+      "album": {
+        "name": "Gulabi",
+        "url": "https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        }
+      ],
+      "duration_ms": 165436,
+      "name": "Gulabi",
+      "url": "https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx"
+    },
+    {
+      "added_at": "2023-06-28 06:55:53",
+      "album": {
+        "name": "Toota Tara",
+        "url": "https://open.spotify.com/album/5yfTxgoMMRcjf5cbewxavo"
+      },
+      "artists": [
+        {
+          "name": "Neeraj Rajawat",
+          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
+        }
+      ],
+      "duration_ms": 161777,
+      "name": "Toota Tara",
+      "url": "https://open.spotify.com/track/6GKBRK5qbS5nRg2NDmyU3B"
+    },
+    {
+      "added_at": "2023-06-28 06:55:53",
+      "album": {
+        "name": "Aaja",
+        "url": "https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP"
+      },
+      "artists": [
+        {
+          "name": "Shubham Kabra",
+          "url": "https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy"
+        }
+      ],
+      "duration_ms": 253846,
+      "name": "Aaja",
+      "url": "https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ"
+    },
+    {
+      "added_at": "2023-06-28 06:55:53",
+      "album": {
+        "name": "Raani",
+        "url": "https://open.spotify.com/album/3tMB4bOEijsXTubopMmGlq"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Bulusu",
+          "url": "https://open.spotify.com/artist/0OxO7c4K0ozx5CTPDhFOXO"
+        }
+      ],
+      "duration_ms": 292399,
+      "name": "Raani",
+      "url": "https://open.spotify.com/track/4Kd45JGzTjzkmfcT1eeKV6"
+    },
+    {
+      "added_at": "2023-06-21 07:39:40",
+      "album": {
+        "name": "Fitoor",
+        "url": "https://open.spotify.com/album/2SCFdzQvcBHANGALzgeB61"
+      },
+      "artists": [
+        {
+          "name": "Third Hour",
+          "url": "https://open.spotify.com/artist/64h4PgJYGBgxo4UNFAJfxJ"
+        }
+      ],
+      "duration_ms": 140210,
+      "name": "Fitoor",
+      "url": "https://open.spotify.com/track/4epUtWMaUTjrk15xWzDVsk"
+    },
+    {
+      "added_at": "2023-06-28 06:55:53",
+      "album": {
+        "name": "Waqt Guzar Jayega",
+        "url": "https://open.spotify.com/album/5VNnNeLQ4CgSVFzmcJKyUw"
+      },
+      "artists": [
+        {
+          "name": "Himanshu Hansraj",
+          "url": "https://open.spotify.com/artist/7d15Obeo5bBqzIfOZ2ehYi"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Waqt Guzar Jayega",
+      "url": "https://open.spotify.com/track/6nEDKjale9u5l9QgVxCS8U"
+    },
+    {
+      "added_at": "2023-06-28 06:55:53",
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/3jEIH0wZxd7vCxSiai2evI"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5JXRLytkmf5esR8R53rCsX"
+        }
+      ],
+      "duration_ms": 169874,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/3I07KeMy2a8t3R2z6Xob10"
+    },
+    {
+      "added_at": "2023-06-28 06:55:53",
+      "album": {
+        "name": "EASY LOVE (Side A)",
+        "url": "https://open.spotify.com/album/4QDPjViVB8F8jgVbkVgLBO"
+      },
+      "artists": [
+        {
+          "name": "TARRA",
+          "url": "https://open.spotify.com/artist/0zeS3VoQckGiXlZudEnWqx"
+        }
+      ],
+      "duration_ms": 223529,
+      "name": "Wrong Number",
+      "url": "https://open.spotify.com/track/0CBdB3FuqIvHT0nnqt07yJ"
+    },
+    {
+      "added_at": "2023-06-28 06:55:53",
+      "album": {
+        "name": "Coin Parota",
+        "url": "https://open.spotify.com/album/5MyFDBiqAIWMdjZeDu1O5O"
+      },
+      "artists": [
+        {
+          "name": "Polite Punches",
+          "url": "https://open.spotify.com/artist/6At5navhP5mBfnor80LhAV"
+        }
+      ],
+      "duration_ms": 154266,
+      "name": "Silly Boi",
+      "url": "https://open.spotify.com/track/3Bmeyll7lAi07ITXYGHhhF"
     },
     {
       "added_at": "2023-06-21 07:39:40",
@@ -59,22 +239,6 @@
     {
       "added_at": "2023-06-21 07:39:40",
       "album": {
-        "name": "Fitoor",
-        "url": "https://open.spotify.com/album/2SCFdzQvcBHANGALzgeB61"
-      },
-      "artists": [
-        {
-          "name": "Third Hour",
-          "url": "https://open.spotify.com/artist/64h4PgJYGBgxo4UNFAJfxJ"
-        }
-      ],
-      "duration_ms": 140210,
-      "name": "Fitoor",
-      "url": "https://open.spotify.com/track/4epUtWMaUTjrk15xWzDVsk"
-    },
-    {
-      "added_at": "2023-06-21 07:39:40",
-      "album": {
         "name": "Tu Mera Hua",
         "url": "https://open.spotify.com/album/2wGBJjqmgEGzjkQXgSXB4j"
       },
@@ -107,18 +271,18 @@
     {
       "added_at": "2023-06-21 07:39:40",
       "album": {
-        "name": "Comfortable Paralyses and Effortless Fallacies",
-        "url": "https://open.spotify.com/album/61LHs9CWp3Un17pGzNjxGe"
+        "name": "Wonderlands In Alice",
+        "url": "https://open.spotify.com/album/2sJRhepc1zmIHgU7EDeI1h"
       },
       "artists": [
         {
-          "name": "The Sitch",
-          "url": "https://open.spotify.com/artist/4i7pfkt1ODSa56cOkQ9zcn"
+          "name": "Shirina Biswas",
+          "url": "https://open.spotify.com/artist/2UPyJ2affDvadQFO30lsjD"
         }
       ],
-      "duration_ms": 249041,
-      "name": "Comfortable Paralyses and Effortless Fallacies",
-      "url": "https://open.spotify.com/track/61kSxrUSHRzBXcA08sMGUx"
+      "duration_ms": 196360,
+      "name": "Wonderlands In Alice",
+      "url": "https://open.spotify.com/track/5QCcXJBCqF8kSCd5ulaf4h"
     },
     {
       "added_at": "2023-06-14 06:08:17",
@@ -153,6 +317,22 @@
       "url": "https://open.spotify.com/track/4WQoBNo2Op8q5dpglN1Htx"
     },
     {
+      "added_at": "2023-06-28 06:55:53",
+      "album": {
+        "name": "Dua",
+        "url": "https://open.spotify.com/album/3o4gOENu2emRF7xWohvK09"
+      },
+      "artists": [
+        {
+          "name": "Squarez Attached",
+          "url": "https://open.spotify.com/artist/6hVxUHGpDp6z78mutDBdAa"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Dua",
+      "url": "https://open.spotify.com/track/4z9RQe6xyZoUyHMLLrVcGT"
+    },
+    {
       "added_at": "2023-06-14 06:08:17",
       "album": {
         "name": "Meri Raaton Mein",
@@ -185,6 +365,22 @@
       "url": "https://open.spotify.com/track/24ZHu2tphIiAxsoSv2RpUN"
     },
     {
+      "added_at": "2023-06-21 07:39:40",
+      "album": {
+        "name": "Comfortable Paralyses and Effortless Fallacies",
+        "url": "https://open.spotify.com/album/61LHs9CWp3Un17pGzNjxGe"
+      },
+      "artists": [
+        {
+          "name": "The Sitch",
+          "url": "https://open.spotify.com/artist/4i7pfkt1ODSa56cOkQ9zcn"
+        }
+      ],
+      "duration_ms": 249041,
+      "name": "Comfortable Paralyses and Effortless Fallacies",
+      "url": "https://open.spotify.com/track/61kSxrUSHRzBXcA08sMGUx"
+    },
+    {
       "added_at": "2023-06-14 06:08:17",
       "album": {
         "name": "Jindadi",
@@ -215,22 +411,6 @@
       "duration_ms": 258571,
       "name": "You're Alright",
       "url": "https://open.spotify.com/track/24tCoU9TN4HTTQ1ShgoeLi"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "I'm Bad At Love",
-        "url": "https://open.spotify.com/album/6pBH271tRXuuWCwWJoNSnV"
-      },
-      "artists": [
-        {
-          "name": "XooFa",
-          "url": "https://open.spotify.com/artist/7jBi5RIIa9LBwZ1n4LhWR5"
-        }
-      ],
-      "duration_ms": 147300,
-      "name": "I'm Bad At Love",
-      "url": "https://open.spotify.com/track/3Ki3nqQVZaj1djhNSUmsxJ"
     },
     {
       "added_at": "2023-06-21 07:39:40",
@@ -919,30 +1099,6 @@
     {
       "added_at": "2023-06-14 06:08:17",
       "album": {
-        "name": "Colours of Marwa",
-        "url": "https://open.spotify.com/album/4S0rsS1wEwKyYnVUgA5Cs0"
-      },
-      "artists": [
-        {
-          "name": "Sounds of Optimism",
-          "url": "https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6"
-        },
-        {
-          "name": "Ishaan Nigam",
-          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
-        },
-        {
-          "name": "Deepesh Sanmal",
-          "url": "https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O"
-        }
-      ],
-      "duration_ms": 169341,
-      "name": "Colours of Marwa",
-      "url": "https://open.spotify.com/track/5CE98KJAJvOuQ4V4JNRXnk"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
         "name": "Premika",
         "url": "https://open.spotify.com/album/6InQ4ZaYRfxJQ9rjnHcmYb"
       },
@@ -975,26 +1131,6 @@
       "duration_ms": 225205,
       "name": "Jahan Bhi Ho",
       "url": "https://open.spotify.com/track/2JBtmxNroYCUwI3JnP4PzT"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "Saajna",
-        "url": "https://open.spotify.com/album/1OnnUxFZH3qFtEHBsCJ5ms"
-      },
-      "artists": [
-        {
-          "name": "Rahul Mehra",
-          "url": "https://open.spotify.com/artist/7uFu6YjDrFDuCSEcIr1yBn"
-        },
-        {
-          "name": "Vaishnavi Mishra",
-          "url": "https://open.spotify.com/artist/6e9ILhRy8CbAlNjjih7FLj"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Saajna",
-      "url": "https://open.spotify.com/track/59rx2y7zZ6Rn6PCJ1LFKpg"
     },
     {
       "added_at": "2023-06-14 06:08:17",
@@ -1331,22 +1467,6 @@
     {
       "added_at": "2023-06-14 06:08:17",
       "album": {
-        "name": "Fake It",
-        "url": "https://open.spotify.com/album/0OvbS06QupGdvdpeDWJBY0"
-      },
-      "artists": [
-        {
-          "name": "Archita Ajgaokar",
-          "url": "https://open.spotify.com/artist/72jrhtmMkan7AZq1vGm7FP"
-        }
-      ],
-      "duration_ms": 117969,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/2wI2bnnvKFWUIn1xulNz6y"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
         "name": "Sohneya",
         "url": "https://open.spotify.com/album/53s2xpTqkmrzgQVK3j1tgn"
       },
@@ -1519,22 +1639,6 @@
     {
       "added_at": "2023-06-14 06:08:17",
       "album": {
-        "name": "Khidhki",
-        "url": "https://open.spotify.com/album/7k3oL8GeSMNFcJBcjZcnew"
-      },
-      "artists": [
-        {
-          "name": "Abhinab Dan",
-          "url": "https://open.spotify.com/artist/1fiHm3FohHFTqYkgLrDDtQ"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Tasveerain",
-      "url": "https://open.spotify.com/track/1iB2MKaoaKqyTYPEYQ7E7n"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
         "name": "Oh Rangreza",
         "url": "https://open.spotify.com/album/6e8gnHEpDhq6CsFAhk6G5m"
       },
@@ -1551,22 +1655,6 @@
       "duration_ms": 262025,
       "name": "Oh Rangreza",
       "url": "https://open.spotify.com/track/4JrTCU3JOJoGgu46aSMB4M"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/3KPI0zjrAAqSuw8zfpLL5e"
-      },
-      "artists": [
-        {
-          "name": "Ridi",
-          "url": "https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81"
-        }
-      ],
-      "duration_ms": 178890,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/6jBijDZuMlDZva99GE2Wq5"
     },
     {
       "added_at": "2023-06-14 06:08:17",
@@ -1599,74 +1687,6 @@
       "duration_ms": 265000,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/7qUXtrjjf0KqCCxD9SAw3Q"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "Bairagi",
-        "url": "https://open.spotify.com/album/4JcawIAmMgqdkLTDl94sHy"
-      },
-      "artists": [
-        {
-          "name": "Mayank Maurya (Maadhyam)",
-          "url": "https://open.spotify.com/artist/1FUnLCGy5ilhIFXqZinTdU"
-        },
-        {
-          "name": "Shobbay",
-          "url": "https://open.spotify.com/artist/3VeAXXDi295SjyEJqyEcVw"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Bairagi",
-      "url": "https://open.spotify.com/track/35kI7c8aUgLiGZlsiyduDW"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "Raste",
-        "url": "https://open.spotify.com/album/4sfpgiSzN5BLK93P6iRhPO"
-      },
-      "artists": [
-        {
-          "name": "Rahul Upadhyaya",
-          "url": "https://open.spotify.com/artist/0AwVy4riEHYqrGhWX1mQc0"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Raste",
-      "url": "https://open.spotify.com/track/5l5SZaPK0yn9EAjYbWGUzV"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "Rahi Sahi",
-        "url": "https://open.spotify.com/album/0dCYN5lGJ8JIb6DmiWx9mq"
-      },
-      "artists": [
-        {
-          "name": "Retromind",
-          "url": "https://open.spotify.com/artist/239gNsBCsmwL7h5d0hoIYO"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Rahi Sahi",
-      "url": "https://open.spotify.com/track/6DpVQN2Jg32ry6h4tQvrNg"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "Thaam Lo Na",
-        "url": "https://open.spotify.com/album/7f8wgcG4ndmY8lEY25Q22B"
-      },
-      "artists": [
-        {
-          "name": "Abhishek Gaur",
-          "url": "https://open.spotify.com/artist/1bFjJGx0Kn8WXy4nAcr6wO"
-        }
-      ],
-      "duration_ms": 294314,
-      "name": "Thaam Lo Na",
-      "url": "https://open.spotify.com/track/5KpoMexwvmHhfNU5x7uMtd"
     },
     {
       "added_at": "2023-06-14 06:08:17",
@@ -1715,38 +1735,6 @@
       "duration_ms": 242242,
       "name": "Humsafar",
       "url": "https://open.spotify.com/track/0576MAgEyAJMQpviMUNfvZ"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "We Made Us",
-        "url": "https://open.spotify.com/album/5xc7upsqYIw2yjyJ03h1ka"
-      },
-      "artists": [
-        {
-          "name": "Vaani Bhasin",
-          "url": "https://open.spotify.com/artist/7cyFNq6i4cJ66n45MMI0WS"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "We Made Us",
-      "url": "https://open.spotify.com/track/7v8E0RGHpZlhgDQuQEyKe2"
-    },
-    {
-      "added_at": "2023-06-14 06:08:17",
-      "album": {
-        "name": "Banja Beimaan",
-        "url": "https://open.spotify.com/album/5iiyu8Old8pPtzM0HULCVE"
-      },
-      "artists": [
-        {
-          "name": "Siddharth Agarwal",
-          "url": "https://open.spotify.com/artist/0khYzwgAKUdtcnxx3ETNRs"
-        }
-      ],
-      "duration_ms": 272033,
-      "name": "Banja Beimaan",
-      "url": "https://open.spotify.com/track/4F6hIftaEtiZqX7O9qohUo"
     }
   ],
   "unique_name": "Fresh Finds India",

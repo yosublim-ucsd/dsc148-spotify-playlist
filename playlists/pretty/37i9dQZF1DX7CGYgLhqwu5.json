@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 357477,
+  "num_followers": 357595,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmJjOTdhZDA5NjgzMjViMDI2NjViOGRkMmIxMGY5OTU1ZTk2Y2Ez",
+  "snapshot_id": "MCwxNDA5ZmQ0NTQ2OWM1OWEyZTIyNDAyNTJiNzE0YmYyMjZkNmEyZmRk",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 102400,
-      "name": "Dang Me",
-      "url": "https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "21 #1 Hits: The Ultimate Collection",
         "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 133866,
       "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 102400,
+      "name": "Dang Me",
+      "url": "https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
+        "name": "Connie Smith",
+        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
       },
       "artists": [
         {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+          "name": "Connie Smith",
+          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
         }
       ],
-      "duration_ms": 181800,
-      "name": "Ballad Of Forty Dollars",
-      "url": "https://open.spotify.com/track/1phh5V7T5JAaiIww22ARZk"
+      "duration_ms": 140120,
+      "name": "Once a Day",
+      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Connie Smith",
-        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
       "artists": [
         {
-          "name": "Connie Smith",
-          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
         }
       ],
-      "duration_ms": 140120,
-      "name": "Once a Day",
-      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
+      "duration_ms": 181800,
+      "name": "Ballad Of Forty Dollars",
+      "url": "https://open.spotify.com/track/1phh5V7T5JAaiIww22ARZk"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "May the Bird of Paradise Fly Up Your Nose",
-        "url": "https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR"
-      },
-      "artists": [
-        {
-          "name": "Little Jimmy Dickens",
-          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "May the Bird of Paradise Fly up Your Nose",
-      "url": "https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 179373,
       "name": "Green Green Grass Of Home",
       "url": "https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "May the Bird of Paradise Fly Up Your Nose",
+        "url": "https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR"
+      },
+      "artists": [
+        {
+          "name": "Little Jimmy Dickens",
+          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "May the Bird of Paradise Fly up Your Nose",
+      "url": "https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM"
     },
     {
       "added_at": "2023-05-19 04:01:00",

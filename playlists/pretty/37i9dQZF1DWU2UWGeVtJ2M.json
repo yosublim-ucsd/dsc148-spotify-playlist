@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 149604,
+  "num_followers": 149655,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTUzZjYwMGE5ZjgxZDllYTBmZmNmMDBkODExZGM2OGU5OGQ5Y2Yz",
+  "snapshot_id": "MCwyZTM3YzQ3OTU1ODk2Y2JlOTFmOWE4YTY4MmFjZjhlOGFkZTZkNjQ3",
   "tracks": [
     {
       "added_at": "2023-06-26 02:59:39",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-06-26 02:59:39",
       "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 181140,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
-    },
-    {
-      "added_at": "2023-06-26 02:59:39",
-      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 158726,
       "name": "R.I.P. (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/4wJ8dJKBAxdDe5cUx8K779"
+    },
+    {
+      "added_at": "2023-06-26 02:59:39",
+      "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 181140,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
     },
     {
       "added_at": "2023-06-26 02:59:39",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-26 02:59:39",
       "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 155845,
-      "name": "daydreams",
-      "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
-    },
-    {
-      "added_at": "2023-06-26 02:59:39",
-      "album": {
         "name": "Mood Valiant",
         "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 203266,
       "name": "And We Go Gentle",
       "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+    },
+    {
+      "added_at": "2023-06-26 02:59:39",
+      "album": {
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 155845,
+      "name": "daydreams",
+      "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
     },
     {
       "added_at": "2023-06-26 02:59:39",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-26 02:59:39",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
-    },
-    {
-      "added_at": "2023-06-26 02:59:39",
-      "album": {
         "name": "Feels (feat. Khalid)",
         "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 221974,
       "name": "Feels (feat. Khalid)",
       "url": "https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG"
+    },
+    {
+      "added_at": "2023-06-26 02:59:39",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2023-06-26 02:59:39",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-06-26 02:59:39",
       "album": {
-        "name": "Me In Dat Blue",
-        "url": "https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx"
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
       },
       "artists": [
         {
-          "name": "LINION",
-          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 259680,
-      "name": "Can't Find",
-      "url": "https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf"
+      "duration_ms": 177206,
+      "name": "Till Death",
+      "url": "https://open.spotify.com/track/3wJVQr9ZfLZfcj19aIfjub"
     },
     {
       "added_at": "2023-06-26 02:59:39",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-06-26 02:59:39",
       "album": {
-        "name": "Soft Sounds from Another Planet",
-        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+        "name": "Me In Dat Blue",
+        "url": "https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "LINION",
+          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
         }
       ],
-      "duration_ms": 177206,
-      "name": "Till Death",
-      "url": "https://open.spotify.com/track/3wJVQr9ZfLZfcj19aIfjub"
+      "duration_ms": 259680,
+      "name": "Can't Find",
+      "url": "https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf"
     },
     {
       "added_at": "2023-06-26 02:59:39",

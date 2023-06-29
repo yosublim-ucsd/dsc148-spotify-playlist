@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635,181 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,635,353 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 43 | [All Around The World \(La La La\) \- Alan Walker Remix](https://open.spotify.com/track/3zwqiYQQblStb1qHxge8g7) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [All Around The World \(La La La\) \[Alan Walker Remix\]](https://open.spotify.com/album/77ePyl2cHKlMqKd1ciW2Ju) | 2:05 |
 | 44 | [World We Used To Know](https://open.spotify.com/track/5I9Qa1LfGcQGCIC32lh9Ka) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:41 |
 | 45 | [Ghost](https://open.spotify.com/track/5TgS4dcUAU8EEb506d8wAT) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Ghost](https://open.spotify.com/album/0ol5Chz853Na284gRXNVvJ) | 2:57 |
-| 46 | [Are You Lonely](https://open.spotify.com/track/5a1Cm3iYkS0nWn9fTijOq4) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [Neon Future IV](https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc) | 2:37 |
-| 47 | [That's What I Like \- Alan Walker Remix](https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [That's What I Like \(Alan Walker Remix\)](https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S) | 3:15 |
+| 46 | [That's What I Like \- Alan Walker Remix](https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [That's What I Like \(Alan Walker Remix\)](https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S) | 3:15 |
+| 47 | [Are You Lonely](https://open.spotify.com/track/5a1Cm3iYkS0nWn9fTijOq4) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [Neon Future IV](https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc) | 2:37 |
 | 48 | [Time \- Alan Walker Remix](https://open.spotify.com/track/5H9S7RaxxSAgY77Mb0CSPz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Time \(Alan Walker Remix\)](https://open.spotify.com/album/6Enr9Ghbsfd3Gs9QLrj612) | 2:30 |
 | 49 | [Avem \(The Aviation Theme\)](https://open.spotify.com/track/0NBD4g9Zwy1rMAMWBYS6Ju) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Avem \(The Aviation Theme\)](https://open.spotify.com/album/7Cf1ov9ofReIxvRh5hkFPD) | 3:19 |
 | 50 | [Dead Girl! \(Shake My Head\)](https://open.spotify.com/track/4inWxO0vnDzZsq32p0cHJm) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dead Girl! \(Shake My Head\)](https://open.spotify.com/album/1crG1m31BhNqSgiLHruph7) | 3:14 |
 
-Snapshot ID: `MjgxMzExNTUsMDAwMDAwMDA0MDRmZWFhZTlkODY2MTZjODBkYjcyMzAyZGVhNjU2NA==`
+Snapshot ID: `MjgxMzI2NzAsMDAwMDAwMDA2MDNiN2Y3YzA3ZGViYjZjZmZjMTlkZDk5OTNhZTYyZA==`

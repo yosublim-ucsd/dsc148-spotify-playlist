@@ -1167,6 +1167,56 @@
     },
     {
       "album": {
+        "name": "Mendelssohn: Works for String Instruments",
+        "url": "https://open.spotify.com/album/0C6tNDAtJSr55Jc9uuDVyC"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Lucy Gould",
+          "url": "https://open.spotify.com/artist/4qhXo1SXU9cEWqthc9a12E"
+        },
+        {
+          "name": "Sophie Besancon",
+          "url": "https://open.spotify.com/artist/5TOseWWSSdyELV3s0GMLNl"
+        },
+        {
+          "name": "Christian Eisenberger",
+          "url": "https://open.spotify.com/artist/1ag6zy5T5R7ezSp20pghdZ"
+        },
+        {
+          "name": "Pascal Siffert",
+          "url": "https://open.spotify.com/artist/0FUTQ5ph4iLFQx4yWXvuR9"
+        },
+        {
+          "name": "Stewart Eaton",
+          "url": "https://open.spotify.com/artist/0goCBfLBPGkB72ubAzArK9"
+        },
+        {
+          "name": "William Conway",
+          "url": "https://open.spotify.com/artist/5GmW493xxhG8rIMfQ772y5"
+        },
+        {
+          "name": "Kate Gould",
+          "url": "https://open.spotify.com/artist/7Hr8yGiHNPwWEEDnLggEln"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 829040,
+      "name": "Octet in E-Flat Major, Op. 20, MWV R20: I. Allegro moderato, ma con fuoco",
+      "url": "https://open.spotify.com/track/05biefrvRNIiIN8BXwmfLJ"
+    },
+    {
+      "album": {
         "name": "DG 120 \u2013 Chamber Music 2 (1984-2007)",
         "url": "https://open.spotify.com/album/2Jv69sW4cjawk593Usq5w6"
       },
@@ -2450,7 +2500,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 359906,
       "name": "Symphony No. 4 In A Major, Op. 90, MWV N 16 - \"Italian\": 2. Andante con moto",
       "url": "https://open.spotify.com/track/0WUPWmIjSPT00q2kng8oHy"

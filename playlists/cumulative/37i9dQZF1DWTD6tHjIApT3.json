@@ -4293,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/3M3qDZvausX3UPMNXyf3gM"
+      },
+      "artists": [
+        {
+          "name": "Cocco",
+          "url": "https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290690,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2MgbC998HppX4J2PD1B9CW"
+    },
+    {
+      "album": {
         "name": "fantasy",
         "url": "https://open.spotify.com/album/3U4MMe9HUEe25g3XLqvlAH"
       },
@@ -6035,6 +6053,24 @@
     },
     {
       "album": {
+        "name": "I want to be loved like \"Sakuranbo\"",
+        "url": "https://open.spotify.com/album/2FtZL6TkQ0a51twIavqPMJ"
+      },
+      "artists": [
+        {
+          "name": "Yuko Ando",
+          "url": "https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "I want to be loved like \"Sakuranbo\"",
+      "url": "https://open.spotify.com/track/1wYhLZQ6UaYh287OmZjNEj"
+    },
+    {
+      "album": {
         "name": "I'm Calling You",
         "url": "https://open.spotify.com/album/6TDVhqH3gOj6m2v0EFccK8"
       },
@@ -6828,7 +6864,7 @@
     {
       "album": {
         "name": "JUMP",
-        "url": "https://open.spotify.com/album/14GblrQZ6PohKYPVh3tHek"
+        "url": "https://open.spotify.com/album/1QiXs3hhTjLXRHuPl9X7KM"
       },
       "artists": [
         {
@@ -6839,6 +6875,24 @@
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230566,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5Gwkv9371mMZLOBbOZ4JBW"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/14GblrQZ6PohKYPVh3tHek"
+      },
+      "artists": [
+        {
+          "name": "Sakurako Ohara",
+          "url": "https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
       "duration_ms": 230566,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/7ap0cN5hnMhYxjkEiOGzME"
@@ -12110,7 +12164,7 @@
     {
       "album": {
         "name": "silky",
-        "url": "https://open.spotify.com/album/58qnZnXarK7UW0F1C0VPDV"
+        "url": "https://open.spotify.com/album/5D4AJjp6ggGo9NvwFs7QAR"
       },
       "artists": [
         {
@@ -12121,6 +12175,24 @@
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 257077,
+      "name": "silky",
+      "url": "https://open.spotify.com/track/0MKUVUddZJj3ZMyEs8rRoa"
+    },
+    {
+      "album": {
+        "name": "silky",
+        "url": "https://open.spotify.com/album/58qnZnXarK7UW0F1C0VPDV"
+      },
+      "artists": [
+        {
+          "name": "showmore",
+          "url": "https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
       "duration_ms": 257077,
       "name": "silky",
       "url": "https://open.spotify.com/track/3bVJmvwK9808yDjqcfKhKe"
@@ -13552,7 +13624,7 @@
     {
       "album": {
         "name": "sweet moratorium",
-        "url": "https://open.spotify.com/album/3nN4eds8EEDfJJCPBwJozs"
+        "url": "https://open.spotify.com/album/0z7Uxp2r3dDeOcUPZtiqJW"
       },
       "artists": [
         {
@@ -13563,6 +13635,24 @@
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186093,
+      "name": "sweet moratorium",
+      "url": "https://open.spotify.com/track/3FSfhJGSLRu45IVkwUG4Tg"
+    },
+    {
+      "album": {
+        "name": "sweet moratorium",
+        "url": "https://open.spotify.com/album/3nN4eds8EEDfJJCPBwJozs"
+      },
+      "artists": [
+        {
+          "name": "Emi Okamoto",
+          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
       "duration_ms": 186093,
       "name": "sweet moratorium",
       "url": "https://open.spotify.com/track/4176uZIGkBroM4czZZTtte"
@@ -14154,10 +14244,28 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 194333,
       "name": "TIME",
       "url": "https://open.spotify.com/track/1wRCsed7GgU9WCBMGZvBkk"
+    },
+    {
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/7CkTwAm1r9QJGYiyqlydlq"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194333,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/5QxVQtsN36qJXn1Iow3RFc"
     },
     {
       "album": {
@@ -17192,7 +17300,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 209090,
       "name": "\u3055\u304f\u3089\u3093\u307c\u307f\u305f\u3044\u306a\u604b\u304c\u3057\u305f\u3044",
       "url": "https://open.spotify.com/track/0tKD6WN6sHgPiaE9a2yP9C"
@@ -20318,7 +20426,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 290690,
       "name": "\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
       "url": "https://open.spotify.com/track/2jhVNef2cwn9fWaltdNUIx"

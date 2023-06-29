@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 47719,
+  "num_followers": 47784,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWRlZTI1ZDA2M2RiNmVkM2I4NWUwOTAzNDIwNDIzZGFmYzlhOTBm",
+  "snapshot_id": "MCxhODJlYzlkZjdlODExZmVmMDY0MTYwZmY4ODI4ZGJiZTRjNmU5MzU4",
   "tracks": [
     {
       "added_at": "2023-06-16 14:16:03",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-06-16 14:16:03",
       "album": {
-        "name": "Essential Recordings: One Bourbon, One Scotch, One Beer",
-        "url": "https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi"
-      },
-      "artists": [
-        {
-          "name": "George Thorogood & The Destroyers",
-          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "Move It On Over",
-      "url": "https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE"
-    },
-    {
-      "added_at": "2023-06-16 14:16:03",
-      "album": {
         "name": "Rock 'N' Roll Rarities",
         "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 169000,
       "name": "Nadine - Stereo Remix",
       "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
+    },
+    {
+      "added_at": "2023-06-16 14:16:03",
+      "album": {
+        "name": "Essential Recordings: One Bourbon, One Scotch, One Beer",
+        "url": "https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi"
+      },
+      "artists": [
+        {
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Move It On Over",
+      "url": "https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE"
     },
     {
       "added_at": "2023-06-16 14:16:03",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-16 14:16:03",
       "album": {
-        "name": "Watch Your Back",
-        "url": "https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW"
-      },
-      "artists": [
-        {
-          "name": "Guitar Shorty",
-          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/54sI3jSzu7Q3xaiU9o2nI7"
-    },
-    {
-      "added_at": "2023-06-16 14:16:03",
-      "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 158200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
+    },
+    {
+      "added_at": "2023-06-16 14:16:03",
+      "album": {
+        "name": "Watch Your Back",
+        "url": "https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW"
+      },
+      "artists": [
+        {
+          "name": "Guitar Shorty",
+          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/54sI3jSzu7Q3xaiU9o2nI7"
     },
     {
       "added_at": "2023-06-16 14:16:03",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-06-16 14:16:03",
       "album": {
+        "name": "Hail To The Kings!",
+        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
+      },
+      "artists": [
+        {
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
+      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
+    },
+    {
+      "added_at": "2023-06-16 14:16:03",
+      "album": {
         "name": "Traveler's Blues",
         "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 265386,
       "name": "Roadhouse Blues",
       "url": "https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy"
-    },
-    {
-      "added_at": "2023-06-16 14:16:03",
-      "album": {
-        "name": "Hail To The Kings!",
-        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
-      },
-      "artists": [
-        {
-          "name": "The Cash Box Kings",
-          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
-      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
     },
     {
       "added_at": "2023-06-16 14:16:03",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-06-16 14:16:03",
       "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Sharecropper\u2019s Son",
+      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+    },
+    {
+      "added_at": "2023-06-16 14:16:03",
+      "album": {
         "name": "That's What Love Will Make You Do",
         "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 245173,
       "name": "That's What Love Will Make You Do",
       "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
-    },
-    {
-      "added_at": "2023-06-16 14:16:03",
-      "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Sharecropper\u2019s Son",
-      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
     },
     {
       "added_at": "2023-06-16 14:16:03",

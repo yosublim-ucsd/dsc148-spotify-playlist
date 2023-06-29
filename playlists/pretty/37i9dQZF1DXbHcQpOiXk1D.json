@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Reuben James",
-  "num_followers": 289843,
+  "num_followers": 289930,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWM2ZjFhNTlkNTQzMjRlM2Q0NDgxZjY1ZDRkODFmYWIzY2I1NGM1",
+  "snapshot_id": "MCwzZGJmNzBjYzdlM2FmZGRjNzNjYjNkZjI5ZTI5ZWU2YzkwM2JjZTVm",
   "tracks": [
     {
       "added_at": "2023-06-22 23:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0f9Rw9re4jbEx7vhueDfCt"
+      },
+      "artists": [
+        {
+          "name": "Kay Young",
+          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/1xnarNBibYchqPjKRuwZzO"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Did It Yesterday",
         "url": "https://open.spotify.com/album/0m6WGHrwytB2bwuREPC7uR"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 426240,
       "name": "The Spoon",
       "url": "https://open.spotify.com/track/0uv10KTgGsYAnC9m5io5D9"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0f9Rw9re4jbEx7vhueDfCt"
-      },
-      "artists": [
-        {
-          "name": "Kay Young",
-          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
-        }
-      ],
-      "duration_ms": 220204,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/1xnarNBibYchqPjKRuwZzO"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Annie's Tune",
-        "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Charlie Stacey",
-          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
-        }
-      ],
-      "duration_ms": 263333,
-      "name": "Annie's Tune",
-      "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 204120,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Annie's Tune",
+        "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "Annie's Tune",
+      "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -843,8 +843,8 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+        "name": "Berlin 1",
+        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
         }
       ],
-      "duration_ms": 389240,
-      "name": "Feet Down South",
-      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
+      "duration_ms": 302160,
+      "name": "Berlin 1",
+      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -931,30 +931,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Grief",
-        "url": "https://open.spotify.com/album/7oVN7H11MsBBUybYfC0z7H"
-      },
-      "artists": [
-        {
-          "name": "Joe Armon-Jones",
-          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
-        },
-        {
-          "name": "Maxwell Owin",
-          "url": "https://open.spotify.com/artist/1BY3jPCSTYtgNJoqSnxt3f"
-        },
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 257140,
-      "name": "Grief",
-      "url": "https://open.spotify.com/track/09XxBJrprneCpmO6CQLKrT"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "The Morning Side of Love",
         "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
@@ -987,6 +963,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 352633,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "May The Funk Be With You",
         "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
       },
@@ -1003,8 +995,8 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Berlin 1",
-        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
       },
       "artists": [
         {
@@ -1012,25 +1004,33 @@
           "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
         }
       ],
-      "duration_ms": 302160,
-      "name": "Berlin 1",
-      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
     },
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
+        "name": "Grief",
+        "url": "https://open.spotify.com/album/7oVN7H11MsBBUybYfC0z7H"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Maxwell Owin",
+          "url": "https://open.spotify.com/artist/1BY3jPCSTYtgNJoqSnxt3f"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
         }
       ],
-      "duration_ms": 352633,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
+      "duration_ms": 257140,
+      "name": "Grief",
+      "url": "https://open.spotify.com/track/09XxBJrprneCpmO6CQLKrT"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Statue",
-        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
+        "name": "Wave Decay",
+        "url": "https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh"
       },
       "artists": [
         {
-          "name": "Tilly Valentine",
-          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
         }
       ],
-      "duration_ms": 204254,
-      "name": "Statue",
-      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
+      "duration_ms": 291293,
+      "name": "Wave Decay",
+      "url": "https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1111,6 +1111,58 @@
       "duration_ms": 292306,
       "name": "(Why You So) Green With Envy",
       "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Statue",
+        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
+      },
+      "artists": [
+        {
+          "name": "Tilly Valentine",
+          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
+        }
+      ],
+      "duration_ms": 204254,
+      "name": "Statue",
+      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Love Theme For Leisure Trip",
+        "url": "https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT"
+      },
+      "artists": [
+        {
+          "name": "Hemai",
+          "url": "https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz"
+        },
+        {
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+        }
+      ],
+      "duration_ms": 209020,
+      "name": "Love Theme For Leisure Trip",
+      "url": "https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Late Night People",
+        "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Late Night People",
+      "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1139,42 +1191,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Wave Decay",
-        "url": "https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "Wave Decay",
-      "url": "https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Love Theme For Leisure Trip",
-        "url": "https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT"
-      },
-      "artists": [
-        {
-          "name": "Hemai",
-          "url": "https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz"
-        },
-        {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
-        }
-      ],
-      "duration_ms": 209020,
-      "name": "Love Theme For Leisure Trip",
-      "url": "https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "ducks ina row",
         "url": "https://open.spotify.com/album/2hifLHOF3K333Xps2wweDF"
       },
@@ -1191,38 +1207,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
-      },
-      "artists": [
-        {
-          "name": "Ugolino",
-          "url": "https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Late Night People",
-        "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "Late Night People",
-      "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 220853,
       "name": "We Give Thanks",
       "url": "https://open.spotify.com/track/6FIREyvQivhLO6wQ9BdHwn"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
+      },
+      "artists": [
+        {
+          "name": "Ugolino",
+          "url": "https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/3krG8OERqEnDXqZec3pU09"
-      },
-      "artists": [
-        {
-          "name": "Ishmael Ensemble",
-          "url": "https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY"
-        },
-        {
-          "name": "Rider Shafique",
-          "url": "https://open.spotify.com/artist/3Q0LSoV64A2FTwAFCzyDyq"
-        }
-      ],
-      "duration_ms": 292495,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/0afUusMZLIOvAJNdAoDRQm"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Yellow (Deluxe)",
         "url": "https://open.spotify.com/album/43qGIZWwRrL3wQLvNyLxQz"
       },
@@ -1319,18 +1299,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/3krG8OERqEnDXqZec3pU09"
       },
       "artists": [
         {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+          "name": "Ishmael Ensemble",
+          "url": "https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY"
+        },
+        {
+          "name": "Rider Shafique",
+          "url": "https://open.spotify.com/artist/3Q0LSoV64A2FTwAFCzyDyq"
         }
       ],
-      "duration_ms": 308600,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
+      "duration_ms": 292495,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/0afUusMZLIOvAJNdAoDRQm"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1363,6 +1347,22 @@
       "duration_ms": 212000,
       "name": "COME ON NOW",
       "url": "https://open.spotify.com/track/3QD4S81ddphPVQaMGLc8Sl"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 308600,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1407,6 +1407,22 @@
       "duration_ms": 212762,
       "name": "Lemon Squeezy",
       "url": "https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Pluo",
+        "url": "https://open.spotify.com/album/68wWpQKiRDp2EtS6hbAPl4"
+      },
+      "artists": [
+        {
+          "name": "Thallo",
+          "url": "https://open.spotify.com/artist/18KqjLGyab2PDhaO986hIB"
+        }
+      ],
+      "duration_ms": 177999,
+      "name": "Pluo",
+      "url": "https://open.spotify.com/track/5E6LCQkcEuJW709HAyOUMn"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1471,22 +1487,6 @@
       "duration_ms": 194614,
       "name": "Miles Chases New Voodoo In The Church - Single Edit",
       "url": "https://open.spotify.com/track/6yRAQX1d91AQEcwwYXsCfb"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Pluo",
-        "url": "https://open.spotify.com/album/68wWpQKiRDp2EtS6hbAPl4"
-      },
-      "artists": [
-        {
-          "name": "Thallo",
-          "url": "https://open.spotify.com/artist/18KqjLGyab2PDhaO986hIB"
-        }
-      ],
-      "duration_ms": 177999,
-      "name": "Pluo",
-      "url": "https://open.spotify.com/track/5E6LCQkcEuJW709HAyOUMn"
     }
   ],
   "unique_name": "Jazz UK",

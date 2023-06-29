@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Una selezione speciale a cura di <a href="spotify:artist:6nPFcBOpXLW2vzvor5xo6E">Marco Bardoscia</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,342 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,352 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 7 | [Toral](https://open.spotify.com/track/2eQtLni0YhVgVpjGVR3E7P) | [Bebo Ferra](https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB) | [Mari Pintau](https://open.spotify.com/album/7pmESqvMBX3KdKfVcbUjLK) | 5:03 |
 | 8 | [Pannonica \- Live](https://open.spotify.com/track/1vuNmMepR1I0PM9Psaqi1A) | [Franco D'Andrea](https://open.spotify.com/artist/7d3yjuXATtfpkDIk1bUp4M) | [Franco D'Andrea Plays Monk \(Live at Metastasio Jazz\)](https://open.spotify.com/album/5q0j1MVOE2APTIVdIMhZPB) | 6:00 |
 | 9 | [G\. Continuo](https://open.spotify.com/track/3AysbOjtY3rcDSnLEjHv6e) | [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ) | [Koine'](https://open.spotify.com/album/4PfDpofG0M3YtpFjpmXg1t) | 6:25 |
-| 10 | [There Is No Greater Love](https://open.spotify.com/track/2SFv7tvxXGAK2ufG6ckLyg) | [Dado Moroni](https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz), [Jesper Lundgaard](https://open.spotify.com/artist/162KggIDGRImG9BUPWKsxf), [Lee Pearson](https://open.spotify.com/artist/2aRPoXG8PwA0OS2TKG2EZK) | [There is No Greater Love](https://open.spotify.com/album/5RxHFq0sc6IFfhFzBevJ6v) | 11:57 |
+| 10 | [There Is No Greater Love](https://open.spotify.com/track/2SFv7tvxXGAK2ufG6ckLyg) | [Dado Moroni](https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz), [Jesper Lundgaard](https://open.spotify.com/artist/162KggIDGRImG9BUPWKsxf), [Lee Pearson](https://open.spotify.com/artist/6zTSAPQ1M1W1pdZK9I4G1K) | [There is No Greater Love](https://open.spotify.com/album/5RxHFq0sc6IFfhFzBevJ6v) | 11:57 |
 | 11 | [Your Song](https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3) | [Doctor 3](https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y) | [The Tales Of Doctor 3](https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI) | 7:02 |
 | 12 | [For a Film](https://open.spotify.com/track/3bExIkI6AUuWrlvdJnuo4G) | [Mirko Signorile](https://open.spotify.com/artist/2hbBpDiXjmYjUzcq9Lh4Vq) | [Soundtrack Cinema \(Music for Movie\)](https://open.spotify.com/album/307CWhGmG2NeFRVTrcBl5d) | 3:57 |
 | 13 | [Far Flow](https://open.spotify.com/track/1Pv9Zh7qPiz7SpFokXkXlr) | [Francesco Cafiso](https://open.spotify.com/artist/5K2IliiwJ3H2z3LYsCJqYP) | [Irene of Boston \- Conversation Avec Corto Maltese](https://open.spotify.com/album/35n9ryD9cWUZ6QtBA1U8BS) | 5:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 49 | [Coco](https://open.spotify.com/track/7g515Mz8SRffzZSFwNvixS) | [Sade Mangiaracina](https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb), [Greg Osby](https://open.spotify.com/artist/1O62I5mxJcYBXcIzY6IMYT) | [Le mie donne](https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY) | 4:37 |
 | 50 | [Wood](https://open.spotify.com/track/3Fp1Vbc2aFtZJJQXj5hVy8) | [Francesco Ciniglio](https://open.spotify.com/artist/75zzu0VU3laESlh6KrqvNj), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Joe Sanders](https://open.spotify.com/artist/37FavLKAfuARIuUxBOyyY7) | [Wood](https://open.spotify.com/album/0OJOvZLRv40GWrE49yVic4) | 6:22 |
 
-Snapshot ID: `MCwwMmMwNDFiNzQyN2Q3NmQwMDM3YmY4MDMxNWNhY2ZiYjNmN2Y3ZWVm`
+Snapshot ID: `MCwyMjU2ZWZjNzY1MGZiOWMwNjZmNjZjYjVjMDc2ZGZhYzRkM2YwNmI1`

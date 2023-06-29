@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 853 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 882 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 98 | [El Salado](https://open.spotify.com/track/7nxBGmL17XLT5al1Lf7vTv) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Fiesta, Fiesta](https://open.spotify.com/album/5oMNdms9HuOfAtlUf3mF8J) | 2:17 |
 | 99 | [El Cirujano](https://open.spotify.com/track/4JqlSj43y3ipac3QMPC2q1) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Fiesta, Fiesta](https://open.spotify.com/album/5oMNdms9HuOfAtlUf3mF8J) | 2:31 |
 
-Snapshot ID: `MCxlOTZhM2VlYjc0MWFhMmE0YzAxZDRiNjU1YTM4YWVlOGRkYTdiZWE5`
+Snapshot ID: `MCw5MTc5M2IxYmZiZmRhNjU4NzJiNTVlMjE5NDA5OGNhZTg5YzA2ZDJj`

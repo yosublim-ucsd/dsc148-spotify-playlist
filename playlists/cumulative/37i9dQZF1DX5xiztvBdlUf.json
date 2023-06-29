@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 392000,
       "name": "I Care For You",
       "url": "https://open.spotify.com/track/56qUxaZzScPivbjwCcXnUs"
@@ -2826,6 +2826,32 @@
       "duration_ms": 395203,
       "name": "Inherently Deep",
       "url": "https://open.spotify.com/track/7uvLegwoUsnra3oZzimE4a"
+    },
+    {
+      "album": {
+        "name": "Inner Child (Patrice B\u00e4umel Remix)",
+        "url": "https://open.spotify.com/album/4AVJ3orR0WTENQDm3mn67f"
+      },
+      "artists": [
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        },
+        {
+          "name": "GPU Panic",
+          "url": "https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3"
+        },
+        {
+          "name": "Patrice B\u00e4umel",
+          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253195,
+      "name": "Inner Child - Patrice B\u00e4umel Remix",
+      "url": "https://open.spotify.com/track/6oFYHUfDjBTGvR5M3RzSUE"
     },
     {
       "album": {

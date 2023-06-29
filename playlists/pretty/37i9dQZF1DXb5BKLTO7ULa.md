@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,298 likes - 102 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,313 likes - 102 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 101 | [I Want To Be Near You](https://open.spotify.com/track/7i8eUyG4tlXSQKdIrcF8nG) | [The Sunset Society](https://open.spotify.com/artist/1ZXfQxTLk25XK3ePd8EwtU) | [I Want To Be Near You](https://open.spotify.com/album/7aBprekOIvyr3k5v0Iy0o2) | 2:42 |
 | 102 | [F\*cked Up](https://open.spotify.com/track/42z62xW25Lldm08pr9O2q5) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [F\*cked Up](https://open.spotify.com/album/679M14aVNDFfyMUGHR7o5J) | 3:19 |
 
-Snapshot ID: `MCxmNjAxNzA1MmU3NTQ1MDAyOTc1YTA4ODhhMGMzOGFiZDRlZDg1NDA2`
+Snapshot ID: `MCw5ZDg5YzY2MTM0YjM4OTI5MGYxYzA1OGY4NGU0MGUzYzdjOGZjMmU4`

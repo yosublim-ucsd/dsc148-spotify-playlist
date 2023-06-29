@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Home Recordings 2020 - 2021",
+        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
+      },
+      "artists": [
+        {
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86842,
+      "name": "Eden on Acid",
+      "url": "https://open.spotify.com/track/5h8VuvFvYuQ0dzJhxPcqjZ"
+    },
+    {
+      "album": {
         "name": "Personal Best",
         "url": "https://open.spotify.com/album/2CcIyIyNax2Zim1Ii5pHRK"
       },
@@ -898,7 +916,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 129706,
       "name": "Girls With Glasses",
       "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"

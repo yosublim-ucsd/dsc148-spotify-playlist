@@ -5289,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "Sin Restricciones",
+        "url": "https://open.spotify.com/album/3y8BGx724C7LyKk7qXlyqc"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163019,
+      "name": "Sin Restricciones",
+      "url": "https://open.spotify.com/track/2ZpLsRQ91fK22gPhXGxx0A"
+    },
+    {
+      "album": {
         "name": "Sindrome De Estocolmo",
         "url": "https://open.spotify.com/album/0pLGZyin7yXLHfXsAK2H0k"
       },
@@ -6142,7 +6160,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 160426,
       "name": "Ya Fue Suficiente",
       "url": "https://open.spotify.com/track/6DxehmTpQ7gPuQzIl4oJ67"

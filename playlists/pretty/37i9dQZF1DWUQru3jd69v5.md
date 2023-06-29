@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Zefe e Néza in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,068 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,102 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 18 | [Passaggi Di Mano](https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Passaggi Di Mano](https://open.spotify.com/album/078xzTGG29Ef2GowUOGWDt) | 2:24 |
 | 19 | [Intrappolato](https://open.spotify.com/track/1sQMclTeT9jLoQ56XrqU8p) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [Intrappolato](https://open.spotify.com/album/1nyzvotDOn6DVTaIoWyB3N) | 2:49 |
 | 20 | [ZONE](https://open.spotify.com/track/4ojFWkavYUbStOneW5c8ZF) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [ZONE](https://open.spotify.com/album/16Cwm5LSfuvTbk9y13nxXx) | 3:28 |
-| 21 | [Diretto al Top](https://open.spotify.com/track/7fnqPrisSobHY5vsTrnqpB) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Diretto al Top](https://open.spotify.com/album/4vYfCxce8wPlHFlnpA9e06) | 2:28 |
+| 21 | [Diretto al top](https://open.spotify.com/track/7fnqPrisSobHY5vsTrnqpB) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Diretto al top](https://open.spotify.com/album/4vYfCxce8wPlHFlnpA9e06) | 2:28 |
 | 22 | [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 |
 | 23 | [4LIFE](https://open.spotify.com/track/5DnrCph0cmu2eVZMmzsE1w) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [4LIFE](https://open.spotify.com/album/6cBDkNIuMXeRVGOQIKzluw) | 1:56 |
 | 24 | [Maradona \(feat\. Freek\)](https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Maradona \(feat\. Freek\)](https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [KILI KILI](https://open.spotify.com/track/6DwWJkGnsCpJPlP7hqT8Wb) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [KILI KILI](https://open.spotify.com/album/6CUBYWEmpFpyKa1RXnU2kk) | 2:59 |
 | 50 | [White Tee](https://open.spotify.com/track/3CxHQO2JR1JgTrMSQEF154) | [Spinas](https://open.spotify.com/artist/4Cox9N9TeGWWSfyvPEex5m), [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [White Tee](https://open.spotify.com/album/0Y5Zm1jQxk5uzIIJemDPD4) | 2:08 |
 
-Snapshot ID: `MCwzOWFjMzhhMjY2YmMzMjI3OTZiYjY4NGRiYTRlYjUwMDczMjgwZThi`
+Snapshot ID: `MCwxZjQ5ODBlMDk4ZGNlNWVjNzYyZDM3OWM0MzFhNTU4OGY4ODJhYzA0`

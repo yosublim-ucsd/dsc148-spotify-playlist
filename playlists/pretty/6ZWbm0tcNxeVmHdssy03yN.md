@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,534 likes - 95 songs - 4 hr 50 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,536 likes - 95 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 13 | [Your Darkest Hour](https://open.spotify.com/track/4fxA01XWeErpfcfGVPdwCi) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Your Darkest Hour](https://open.spotify.com/album/7kXpuYfN9BJP5gnyaegG0i) | 4:12 |
 | 14 | [Tshwarelo](https://open.spotify.com/track/0IVpcBKljhvyPXJJgqqPBZ) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh) | [Tshwarelo](https://open.spotify.com/album/0vLETRViHGdIDFGJawTwbJ) | 4:00 |
 | 15 | [For Me](https://open.spotify.com/track/0aPbPH2PfxnK2I4GvL95nd) | [Lady Jay](https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [For Me](https://open.spotify.com/album/3O0pjgaoT7xYk6JGOn7GBX) | 3:48 |
-| 16 | [River Nile](https://open.spotify.com/track/2yn2B9ElJsLWxlnUXvLuCO) | [Rossi](https://open.spotify.com/artist/10ItdDWpT93AwmbCfQ8Gm0), [Belly Squad](https://open.spotify.com/artist/1EWnP7piatUeXggTXofm5g) | [River Nile](https://open.spotify.com/album/1UwWaN6oRoixiZ40G83BJ8) | 3:05 |
+| 16 | [River Nile](https://open.spotify.com/track/2yn2B9ElJsLWxlnUXvLuCO) | [Ross Belly](https://open.spotify.com/artist/07dFNmsd7ZdWzd3x5ftEHK), [Belly Squad](https://open.spotify.com/artist/1EWnP7piatUeXggTXofm5g) | [River Nile](https://open.spotify.com/album/1UwWaN6oRoixiZ40G83BJ8) | 3:05 |
 | 17 | [The Risk](https://open.spotify.com/track/0gJT5VzZhQL3GEcSbWsMkQ) | [Max Valentine](https://open.spotify.com/artist/6ZIZTVBwbAcLVOfcsSsb9Y) | [The Risk](https://open.spotify.com/album/55foSkPgiUMdFvwFnT3DHa) | 3:05 |
 | 18 | [Wag1](https://open.spotify.com/track/58KSc2Ik5yQF8fzGg2QCMQ) | [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [a2z](https://open.spotify.com/artist/1APZxUHYrPQgBNkbUjtDbr) | [Wag1](https://open.spotify.com/album/6cox76FrMczdquTb2WLdZ1) | 2:38 |
 | 19 | [Rock With You](https://open.spotify.com/track/3WDCJPeTF0nxYaGDazmBxV) | [Taite Imogen](https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL) | [Rock With You](https://open.spotify.com/album/2XG2MQWbgtMax6Inextxoi) | 2:28 |

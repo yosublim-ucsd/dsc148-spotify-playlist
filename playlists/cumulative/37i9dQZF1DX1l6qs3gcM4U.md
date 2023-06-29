@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Yasmine.
 
-315 songs - 19 hr 1 min
+317 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Apaixonado / Magico / Dam bo amor / Cada vez mais / So 1 momento \- Acoustic Session 1](https://open.spotify.com/track/6Nq3psIgjMvHfSN26gVKtK) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Apaixonado / Magico / Dam bo amor / Cada vez mais / So 1 momento \(Acoustic Session 1\)](https://open.spotify.com/album/6ZZ5iSN6iPO6PtlV6E1q1W) | 3:51 | 2022-04-29 | 2022-07-27 |
 | [Aperta](https://open.spotify.com/track/101bSnuKjwls52XChDbfvg) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mirror](https://open.spotify.com/album/77BKN39eVEPX2baKEJwqtN) | 3:59 | 2021-12-10 | 2022-04-24 |
 | [Ar que eu Respiro](https://open.spotify.com/track/5VNEmowzM1mq3aDXBHt0K8) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Ar que eu Respiro](https://open.spotify.com/album/3JL8oqCrugYHWSw72nSkOX) | 3:08 | 2022-07-07 | 2022-07-25 |
-| [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 | 2022-05-26 |  |
+| [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 | 2022-05-26 | 2023-06-29 |
 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 | 2021-12-10 |  |
 | [AVÉ](https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [AVÉ](https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA) | 2:52 | 2022-11-18 |  |
 | [Ayah](https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Ayah](https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY) | 2:43 | 2023-03-30 |  |
@@ -194,7 +194,9 @@
 | [Nu Tenta Evita](https://open.spotify.com/track/3euTZvtjT9UFtbkO3tWkgU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE) | [Nu Tenta Evita](https://open.spotify.com/album/3bKdYaCbOWaSbASO5DT9mN) | 3:18 | 2023-05-25 |  |
 | [Nubian Queen](https://open.spotify.com/track/0ZWU5lJs0mA085Phf8PJA2) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Nubian Queen](https://open.spotify.com/album/7fk3arz1TJEFTtwUWUbYGS) | 4:04 | 2021-12-10 | 2022-06-14 |
 | [Number One](https://open.spotify.com/track/0rauOsfmlYgBGkWFc4NHft) | [Boy Teddy](https://open.spotify.com/artist/14W9ZwBj7ccu21CPJtenCh) | [Number One](https://open.spotify.com/album/3avFebwaW78qZoLNXmBhLx) | 3:46 | 2022-03-25 | 2022-10-21 |
+| [Nunca Vou Deixar](https://open.spotify.com/track/7nakVmFtcM16ztz8iCN8cD) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Nunca Vou Deixar](https://open.spotify.com/album/72taV8uVUgA7ShvfQaNvG0) | 2:52 | 2023-06-22 |  |
 | [Não Custa Nada](https://open.spotify.com/track/1JJOK1OQcBfJ3Rmm7QlnbZ) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Não Custa Nada](https://open.spotify.com/album/1LOM2FTOJny66rKn9cxu0y) | 3:23 | 2021-12-10 | 2022-07-29 |
+| [Não Devia \(feat\. Loony Johnson\)](https://open.spotify.com/track/1PW7sj7JWnx2tZVHFQGiXj) | [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Sentido](https://open.spotify.com/album/28WZuF1LX2Uro8jknHSjZc) | 2:58 | 2023-06-22 |  |
 | [Não Posso](https://open.spotify.com/track/0wVFtfUnFotGMSxPlG56a7) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Não Posso](https://open.spotify.com/album/4Jz4rivUmmAZiHQIzoDjHb) | 3:48 | 2021-12-10 | 2022-09-23 |
 | [Não Pára](https://open.spotify.com/track/3XXtwKEHyPJsgHurZFMWMt) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Não Pára](https://open.spotify.com/album/3uCgWZ3De9XUlmkfQXm4z4) | 3:01 | 2022-01-27 | 2022-05-14 |
 | [Não Quero Mais](https://open.spotify.com/track/64zKbo8TgrcW16NYD7AnzC) | [Shaddy](https://open.spotify.com/artist/0qu004hwOrkcLjrizMySth) | [Não Quero Mais](https://open.spotify.com/album/0guLJZ43mNQPp0aeSmBWam) | 3:21 | 2022-02-18 | 2022-02-25 |
@@ -247,7 +249,7 @@
 | [S'apitou](https://open.spotify.com/track/6DBpfXVlshm41vlnUIc0RL) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [DJ Nilson](https://open.spotify.com/artist/71pH8gMX4QzfxUfY1MMmoN) | [S'apitou](https://open.spotify.com/album/2G20nv24mp39VjRtegQ0GT) | 3:04 | 2022-06-24 | 2022-07-05 |
 | [Santiago](https://open.spotify.com/track/6n2wC4XVCaSVpJMxBPrJMN) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Newborn](https://open.spotify.com/album/2e4NJhy245HEz7npStshbg) | 2:56 | 2021-12-10 | 2022-07-28 |
 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 | 2021-12-10 | 2023-03-22 |
-| [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 | 2022-11-04 |  |
+| [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 | 2022-11-04 | 2023-06-29 |
 | [Se Eu Pudesse](https://open.spotify.com/track/1Fpz7A3F56VQKfqz1KhGF5) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/1LvNFjKKFeCHlHkvB6Tdte) | 3:17 | 2021-12-10 | 2022-07-28 |
 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 | 2021-12-10 |  |
 | [Segredo](https://open.spotify.com/track/4pZKBbkkV1PqWNGyWDE1RN) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Segredo](https://open.spotify.com/album/0da7PRnY1SCzqWPJt5dtjv) | 3:50 | 2021-12-10 | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36\">Trip Lee</a>",
-  "num_followers": 127147,
+  "num_followers": 127275,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTMwZWVjZTJhNWY4M2U4ODUxMjY0OWZhYTM1ODA4Y2I2M2IzMDBm",
+  "snapshot_id": "MCwxODM4ZDhlN2ZlYzFiZWQ4ZmVkNzFjYzA4Yzg3MmRiNDAxOTE1OGJj",
   "tracks": [
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Ficky Ficky",
-        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 104147,
-      "name": "Ficky Ficky",
-      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Backslide",
         "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 150875,
       "name": "Backslide",
       "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Ficky Ficky",
+        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 104147,
+      "name": "Ficky Ficky",
+      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "SOBER!",
-        "url": "https://open.spotify.com/album/63ZNSkfIx2QC0f0tYFRHpF"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "SOBER!",
-      "url": "https://open.spotify.com/track/5kr9X90ujv331cdOeRbnCZ"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
       },
@@ -1343,6 +1327,26 @@
       "duration_ms": 123478,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "H O L O G R A P H I C",
+        "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "NK4",
+          "url": "https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc"
+        }
+      ],
+      "duration_ms": 164886,
+      "name": "Slidin'",
+      "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1403,22 +1407,18 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "H O L O G R A P H I C",
-        "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
+        "name": "Pray 2 God",
+        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
       },
       "artists": [
         {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "NK4",
-          "url": "https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc"
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
         }
       ],
-      "duration_ms": 164886,
-      "name": "Slidin'",
-      "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
+      "duration_ms": 156781,
+      "name": "Pray 2 God",
+      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Pray 2 God",
-        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
-      },
-      "artists": [
-        {
-          "name": "2'Live Bre",
-          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
-        }
-      ],
-      "duration_ms": 156781,
-      "name": "Pray 2 God",
-      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Choose You",
         "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 185211,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "SOBER!",
+        "url": "https://open.spotify.com/album/63ZNSkfIx2QC0f0tYFRHpF"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "SOBER!",
+      "url": "https://open.spotify.com/track/5kr9X90ujv331cdOeRbnCZ"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "OH YHWH",
-        "url": "https://open.spotify.com/album/4biIpv7wVXmhf06UAxyrA7"
-      },
-      "artists": [
-        {
-          "name": "Angie Rose",
-          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
-        }
-      ],
-      "duration_ms": 183244,
-      "name": "OH YHWH",
-      "url": "https://open.spotify.com/track/5PIvQYomJsN556rV4IIZal"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "I Will Not",
         "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 216000,
       "name": "I Will Not",
       "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "OH YHWH",
+        "url": "https://open.spotify.com/album/4biIpv7wVXmhf06UAxyrA7"
+      },
+      "artists": [
+        {
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
+        }
+      ],
+      "duration_ms": 183244,
+      "name": "OH YHWH",
+      "url": "https://open.spotify.com/track/5PIvQYomJsN556rV4IIZal"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Best Version of Me (Pt. 2)",
-        "url": "https://open.spotify.com/album/2Bm4LMRaJ6jn6Q4AN0kvNl"
+        "name": "Never Forget",
+        "url": "https://open.spotify.com/album/3Ujum6XUWUCj2jfeO8mova"
       },
       "artists": [
         {
-          "name": "Larell",
-          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
         }
       ],
-      "duration_ms": 145640,
-      "name": "Best Version of Me - Pt. 2",
-      "url": "https://open.spotify.com/track/28zHBm2DbG4pJ0RcCsiIMg"
+      "duration_ms": 137380,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/26spj3QxWWw8xy78s7uGx1"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1691,34 +1691,18 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Never Forget",
-        "url": "https://open.spotify.com/album/3Ujum6XUWUCj2jfeO8mova"
+        "name": "Best Version of Me (Pt. 2)",
+        "url": "https://open.spotify.com/album/2Bm4LMRaJ6jn6Q4AN0kvNl"
       },
       "artists": [
         {
-          "name": "Quasarpro",
-          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+          "name": "Larell",
+          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
         }
       ],
-      "duration_ms": 137380,
-      "name": "Never Forget",
-      "url": "https://open.spotify.com/track/26spj3QxWWw8xy78s7uGx1"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/339EY1xqT4QUJvGHDbCxCq"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 173972,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj"
+      "duration_ms": 145640,
+      "name": "Best Version of Me - Pt. 2",
+      "url": "https://open.spotify.com/track/28zHBm2DbG4pJ0RcCsiIMg"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "INSTAGRAM ISN'T GOD",
-        "url": "https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh"
+        "name": "Up",
+        "url": "https://open.spotify.com/album/339EY1xqT4QUJvGHDbCxCq"
       },
       "artists": [
         {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 187508,
-      "name": "INSTAGRAM ISN'T GOD",
-      "url": "https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r"
+      "duration_ms": 173972,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1775,6 +1759,22 @@
       "duration_ms": 197064,
       "name": "Underdogs",
       "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "INSTAGRAM ISN'T GOD",
+        "url": "https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 187508,
+      "name": "INSTAGRAM ISN'T GOD",
+      "url": "https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "josiah.",
+        "url": "https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J"
+      },
+      "artists": [
+        {
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
+        }
+      ],
+      "duration_ms": 129696,
+      "name": "josiah.",
+      "url": "https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "WINGS OF AN ANGEL",
         "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
       },
@@ -1823,26 +1839,6 @@
       "duration_ms": 120888,
       "name": "butterfly vibes 2",
       "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Band and a Drummer",
-        "url": "https://open.spotify.com/album/2WpcnkaQZdgRkvQ5sx4pjc"
-      },
-      "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        },
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 137600,
-      "name": "Band and a Drummer",
-      "url": "https://open.spotify.com/track/79UV9XRNKSy4VhZBtTFveT"
     }
   ],
   "unique_name": "The Flow",

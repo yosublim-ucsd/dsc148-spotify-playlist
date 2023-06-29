@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,054,790 likes - 143 songs - 8 hr 5 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,054,795 likes - 143 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 53 | [Dead Friends](https://open.spotify.com/track/4Py4FD7U21NP8AdOTs5LfT) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Sam Sky](https://open.spotify.com/artist/2YiWowjyYqKEXuAle5oNDU) | [Dead Friends](https://open.spotify.com/album/4eo1sMonygWrfmqiwA644k) | 3:46 |
 | 54 | [Outta my head](https://open.spotify.com/track/1joXqptvn9OgoDbXA1S3p7) | [Omido](https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh), [Rick Jansen](https://open.spotify.com/artist/53lSnB02n045g5jMu0ItCz), [Ordell](https://open.spotify.com/artist/1sQcw2YF60pAu0HYJzUhKN) | [Outta my head](https://open.spotify.com/album/0xsbdCQqV9Rl4K0d82aOe0) | 2:41 |
 | 55 | [Stay The Night](https://open.spotify.com/track/45ZGq5V2xy1CV8uVkvxt8t) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Stay The Night](https://open.spotify.com/album/1eMdAJDIE94nXFxI56HkFZ) | 3:50 |
-| 56 | [Arrival](https://open.spotify.com/track/6NtS4R8BNjdiPVwV7ZdIdx) | [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6), [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8) | [Arrival](https://open.spotify.com/album/7M9zww6ioXcaXbVM9fwFuC) | 3:35 |
+| 56 | [Arrival](https://open.spotify.com/track/6NtS4R8BNjdiPVwV7ZdIdx) | [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6), [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Arrival](https://open.spotify.com/album/7M9zww6ioXcaXbVM9fwFuC) | 3:35 |
 | 57 | [Had Some Drinks](https://open.spotify.com/track/2ap1x3VLFXzeVRDl14PYsM) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Had Some Drinks](https://open.spotify.com/album/44kEIUk7bv5Wu6xrs7QJvm) | 2:20 |
 | 58 | [I'll Be Your Home](https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I'll Be Your Home](https://open.spotify.com/album/3YJ6J8dmeDXXSMKpNl59JL) | 4:38 |
 | 59 | [Breath](https://open.spotify.com/track/0lhcqwfMDuurywvxgELbPu) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83) | [Breath](https://open.spotify.com/album/55wW59sZIugEKDbbATNigk) | 3:21 |

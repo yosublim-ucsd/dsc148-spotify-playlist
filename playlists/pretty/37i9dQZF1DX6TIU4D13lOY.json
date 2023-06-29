@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 224016,
+  "num_followers": 224161,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWRiZTE3MWQ3Yzk4NGYxMmQ5ZDBlZmEzNzc3OGI1NGI1ZjgyMmUy",
+  "snapshot_id": "MCxkZjNjNjIzMTU2YjIwNGQwNWM3NTE5NjYxYmIxYTBmOTI1NWRlYTU5",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Big Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Longer Fuse",
         "url": "https://open.spotify.com/album/0dQK7dydGZY4UPL87P3YhW"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 252693,
       "name": "Sometimes When We Touch",
       "url": "https://open.spotify.com/track/1nAexCn3dPoFSmE7h6P5S7"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223733,
+      "name": "Big Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
     },
     {
       "added_at": "2020-01-07 15:31:11",

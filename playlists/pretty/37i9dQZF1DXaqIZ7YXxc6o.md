@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Alice Ivy
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,361 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,410 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 58 | [Always Dancin'](https://open.spotify.com/track/6zrSkJkNcGjiZ7Kzeyjwz0) | [BAVHU](https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd) | [Always Dancin'](https://open.spotify.com/album/5xAip5ulkGcPu1xQJqrfTy) | 2:53 |
 | 59 | [PLEASE DON’T DO DRUGS!!](https://open.spotify.com/track/52BvYW1DiarvgTJsocrZni) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn) | [THE MIXTAPE](https://open.spotify.com/album/6hIlMAm0ZTe7SVrFS0bXH5) | 3:43 |
 | 60 | [Over the Hill](https://open.spotify.com/track/5fctnw5MEVyXYAlGxsjz3E) | [Self Tape](https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI) | [Over the Hill](https://open.spotify.com/album/6j0STyOcbk6jNRZcWAHBNz) | 2:48 |
-| 61 | [Don't Know Why](https://open.spotify.com/track/5UErcw2Sb736E1C9dEgl01) | [MUTO](https://open.spotify.com/artist/4899wIU2stpjOmoq2mgyeW), [H\. Kenneth](https://open.spotify.com/artist/5Nc1ukGfwNnaT3B56gGc4c) | [Hour Glass](https://open.spotify.com/album/6FYDRoGiB1myyRBNAjQQZj) | 3:04 |
+| 61 | [Don't Know Why](https://open.spotify.com/track/5UErcw2Sb736E1C9dEgl01) | [MUTO](https://open.spotify.com/artist/4899wIU2stpjOmoq2mgyeW), [H\. Kenneth](https://open.spotify.com/artist/5Nc1ukGfwNnaT3B56gGc4c) | [Hourglass](https://open.spotify.com/album/6FYDRoGiB1myyRBNAjQQZj) | 3:04 |
 | 62 | [Forever](https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Forever](https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM) | 3:45 |
 | 63 | [Dizzee](https://open.spotify.com/track/6GY4aSoW8OiAseARRhI4UK) | [JDG](https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP) | [Dizzee](https://open.spotify.com/album/0jtXQWRDZpR5Z7HxHl85Gk) | 2:43 |
 | 64 | [All In My Head \(Radio Edit\)](https://open.spotify.com/track/5FEVsqI0LIARTwjLLkA0W7) | [Daijan](https://open.spotify.com/artist/4NR2bxOz4z0SbQVaa1n2IQ), [Run Rivers](https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH) | [All In My Head](https://open.spotify.com/album/2720ZQHFWvXIgYbmoakLPH) | 3:31 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 76 | [Off My Head](https://open.spotify.com/track/59D99ZoQ4iWh9x0lMyym5F) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats 2](https://open.spotify.com/album/1gaNq5b2XrxQq6ZEYx1SiR) | 3:20 |
 | 77 | [This 1 Thing](https://open.spotify.com/track/5VqE8hCGSMZobwuZWWYJey) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [This 1 Thing](https://open.spotify.com/album/2Oqtsd5ErZhEA3adGQIv2W) | 2:38 |
 | 78 | [When She Dance](https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 3:22 |
-| 79 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 |
+| 79 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 |
 | 80 | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T) | 3:43 |
 | 81 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 |
 | 82 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
 | 99 | [What's The Matter](https://open.spotify.com/track/4Aq2GPLOOeeDkm6FVrGshQ) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy) | [What's The Matter](https://open.spotify.com/album/6Ni3kVfOSSAJY6IVaCqIkG) | 7:33 |
 
-Snapshot ID: `MCxmMWM2OTAyOTc4MzA2MjExMmE5YTRjOWY3YjY0ZGY0ZTEzYzdiNjU4`
+Snapshot ID: `MCxhN2YwMzI2NTBiZjY4OTJhYjdiYTBhZGQwMTQzOThlMGQ1M2ZmNzBh`

@@ -1,12 +1,12 @@
 {
   "description": "Timeless afrobeats celebrating the Journey of a billion streams. Discover more  <a href=\"https://afrobeats.byspotify.com/\">here </a> ",
-  "num_followers": 113250,
+  "num_followers": 113376,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjlhZmI3NGY2MDI1MzM0YzdiYzc3NzZiZjBjYjAxNTUxMzQ5YjQ1",
+  "snapshot_id": "MCxjNTkyOTkwYmI1MjUzNjE5YWIyOGE3ZWY0OGY4NDYwNWYyNzM3NTI3",
   "tracks": [
     {
       "added_at": "2023-06-22 09:15:22",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-22 09:15:22",
       "album": {
-        "name": "HITSVILLE",
-        "url": "https://open.spotify.com/album/011e7IuzQ1YLl5TfM6rsU7"
-      },
-      "artists": [
-        {
-          "name": "Paul Play",
-          "url": "https://open.spotify.com/artist/6swbkgPRm0Gxw4jBo3ykUB"
-        }
-      ],
-      "duration_ms": 303124,
-      "name": "ANGEL OF MY LIFE",
-      "url": "https://open.spotify.com/track/1sGpwnVX1UT7KQC8UEn7BJ"
-    },
-    {
-      "added_at": "2023-06-22 09:15:22",
-      "album": {
         "name": "Gentleman",
         "url": "https://open.spotify.com/album/56UAK81XOvDgAcTsI0Olpk"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 881240,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/1HC6o3lTQvNmtH3ejYG4hs"
+    },
+    {
+      "added_at": "2023-06-22 09:15:22",
+      "album": {
+        "name": "HITSVILLE",
+        "url": "https://open.spotify.com/album/011e7IuzQ1YLl5TfM6rsU7"
+      },
+      "artists": [
+        {
+          "name": "Paul Play",
+          "url": "https://open.spotify.com/artist/6swbkgPRm0Gxw4jBo3ykUB"
+        }
+      ],
+      "duration_ms": 303124,
+      "name": "ANGEL OF MY LIFE",
+      "url": "https://open.spotify.com/track/1sGpwnVX1UT7KQC8UEn7BJ"
     },
     {
       "added_at": "2023-06-22 09:15:22",

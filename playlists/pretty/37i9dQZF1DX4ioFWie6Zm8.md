@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,600 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,740 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 63 | [Presenting the King](https://open.spotify.com/track/4625NzdUwBF1lSCnBJkZtr) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [Transitional Times](https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie) | 2:54 |
 | 64 | [Minmanle?](https://open.spotify.com/track/6dh2Pk67JhkjUof4i3N2ZY) | [Jess Sah Bi](https://open.spotify.com/artist/15aLRR4OIdppLLQ3Kboc95), [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Our Garden Needs Its Flowers](https://open.spotify.com/album/1jAPqpP7jpLIpZZnXU5Y6u) | 4:07 |
 | 65 | [Toroya](https://open.spotify.com/track/1M3FFFzymhsgKCs6b67SjM) | [Issa Bagayogo](https://open.spotify.com/artist/3T2iIPbvIyKJdXNrFYiYXn) | [Timbuktu](https://open.spotify.com/album/5IpKgE3sThNxDaMDe9uSWO) | 3:37 |
-| 66 | [Admeta Harmony](https://open.spotify.com/track/7tntp9lLredGjNeh4KG1cQ) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy), [Jens Christian 'Chappe' Jensen](https://open.spotify.com/artist/3WjC3u0cM2lefYZpKPllrQ) | [Soaring Wild Lands \(The Instrumentals\)](https://open.spotify.com/album/6KfEoQNTYs3R1X82Z3JghR) | 2:28 |
+| 66 | [Admeta Harmony](https://open.spotify.com/track/7tntp9lLredGjNeh4KG1cQ) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy), [Jens Christian 'Chappe' Jensen](https://open.spotify.com/artist/6lUQodaUNfyCPVVejr1nHK) | [Soaring Wild Lands \(The Instrumentals\)](https://open.spotify.com/album/6KfEoQNTYs3R1X82Z3JghR) | 2:28 |
 | 67 | [Salubrité](https://open.spotify.com/track/6bWVW40nFfIG0uxav8lKwS) | [Bao Sissoko](https://open.spotify.com/artist/4CTaCrWrRUUmZt3KJtwg3E), [Mola Sylla](https://open.spotify.com/artist/1OCWAUqRSu9ZUGdpehnEWK), [Wouter Vandenabeele](https://open.spotify.com/artist/0OlrNScJQ7YYGSkij4TFg8) | [Tamala](https://open.spotify.com/album/0HxflxCmZs5FOmTVx2jryV) | 5:18 |
 | 68 | [Kora](https://open.spotify.com/track/661xzdBPttzm05IJFVYD8u) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Kora](https://open.spotify.com/album/5mD7QycngAbQERT8wH2f0N) | 4:23 |
 | 69 | [Mandé](https://open.spotify.com/track/5onjFjpqSWaDbcXmYv2u7I) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Wanita](https://open.spotify.com/track/6cBLK1pC202FMxthSKg1NN) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:39 |
 | 100 | [Makambo](https://open.spotify.com/track/2F9aMslwYQurvgv7DGS7S5) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Exile \(Real World Gold\)](https://open.spotify.com/album/3wDdQn9tgxEIjjo1pnc7X7) | 5:00 |
 
-Snapshot ID: `MCw0ZTY1NzM4NzNkNzMwZjY4ODQ0ZmM1NWFjOTBiYTcwOTI2ODNiZjA3`
+Snapshot ID: `MCxlMTA1MzUzYjY5ZTQxZjU3YWY4YjE2OGUyMWRlMjY5MjkyZjQ1ZWZh`

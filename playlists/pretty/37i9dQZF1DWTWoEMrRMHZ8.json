@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Maria Luiza Jobim",
-  "num_followers": 340832,
+  "num_followers": 340859,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2UxZjVkYzhmZWMwNTdmMzgwMzBhYWExMGJmZWYxOTA2ZGZjNjg0",
+  "snapshot_id": "MCw0NDJmYWVjZTc0MWRjYzJiYTEyNjc4MmYyZDg1ZmU0YzkxOThiZjBk",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
-        "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
-      "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Nos Seus Olhos",
         "url": "https://open.spotify.com/album/04dmXQ9COXiUhG7UppprxT"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 215277,
       "name": "Nos Seus Olhos",
       "url": "https://open.spotify.com/track/0yQz6wGUS38u6EZOV677Ie"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
+        "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
+      },
+      "artists": [
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
+      "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Serafim",
         "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 300028,
       "name": "Serafim",
       "url": "https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -779,30 +779,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Em Nome de Deus",
-        "url": "https://open.spotify.com/album/5uAcl2loIRcattAyJcGejP"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        },
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        },
-        {
-          "name": "Ma\u00edra Freitas",
-          "url": "https://open.spotify.com/artist/70h4ULQBucb1sYFJZV4Lxf"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Em Nome de Deus",
-      "url": "https://open.spotify.com/track/6KfM6eW9NIlMslE2GzcBo8"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Tocando Em Frente",
         "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
       },
@@ -827,6 +803,30 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Em Nome de Deus",
+        "url": "https://open.spotify.com/album/5uAcl2loIRcattAyJcGejP"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        },
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Ma\u00edra Freitas",
+          "url": "https://open.spotify.com/artist/70h4ULQBucb1sYFJZV4Lxf"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Em Nome de Deus",
+      "url": "https://open.spotify.com/track/6KfM6eW9NIlMslE2GzcBo8"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Melhor Que Ontem",
         "url": "https://open.spotify.com/album/64ux9afJoLaafAYumSppUl"
       },
@@ -839,26 +839,6 @@
       "duration_ms": 159250,
       "name": "Quem Me Conhece Sabe",
       "url": "https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Novo Samba Sempre Novo",
-        "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
-      },
-      "artists": [
-        {
-          "name": "Benito 80",
-          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
-        },
-        {
-          "name": "Ju\u00e7ara Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i"
-        }
-      ],
-      "duration_ms": 237234,
-      "name": "Retalhos De Cetim",
-      "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -891,6 +871,26 @@
       "duration_ms": 311745,
       "name": "Dr\u00e3o - Remasterizado",
       "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Novo Samba Sempre Novo",
+        "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
+      },
+      "artists": [
+        {
+          "name": "Benito 80",
+          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
+        },
+        {
+          "name": "Ju\u00e7ara Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i"
+        }
+      ],
+      "duration_ms": 237234,
+      "name": "Retalhos De Cetim",
+      "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Acabou",
-        "url": "https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        }
-      ],
-      "duration_ms": 178416,
-      "name": "Acabou",
-      "url": "https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "N\u00e3o Tem Lua",
         "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Acabou",
+        "url": "https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "duration_ms": 178416,
+      "name": "Acabou",
+      "url": "https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1263,38 +1263,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Tenho Sede",
-        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 190468,
-      "name": "Tenho Sede",
-      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "ARREPIADA",
-        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 229446,
-      "name": "Menino Bonito",
-      "url": "https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "O Fio do Meu Destino",
         "url": "https://open.spotify.com/album/5dupeWUgQCj41ufb2bu99j"
       },
@@ -1319,18 +1287,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "BEIJANDO TODOS VOC\u00caS",
-        "url": "https://open.spotify.com/album/3EoLEi5MJW0QnAB44RwZCD"
+        "name": "Tenho Sede",
+        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
       },
       "artists": [
         {
-          "name": "Ava Rocha",
-          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 195836,
-      "name": "BEIJANDO TODOS VOC\u00caS",
-      "url": "https://open.spotify.com/track/16poXW1cNYhezYtBC29OZJ"
+      "duration_ms": 190468,
+      "name": "Tenho Sede",
+      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1351,6 +1319,54 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Argumento (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 203319,
+      "name": "Argumento (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "ARREPIADA",
+        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 229446,
+      "name": "Menino Bonito",
+      "url": "https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "BEIJANDO TODOS VOC\u00caS",
+        "url": "https://open.spotify.com/album/3EoLEi5MJW0QnAB44RwZCD"
+      },
+      "artists": [
+        {
+          "name": "Ava Rocha",
+          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+        }
+      ],
+      "duration_ms": 195836,
+      "name": "BEIJANDO TODOS VOC\u00caS",
+      "url": "https://open.spotify.com/track/16poXW1cNYhezYtBC29OZJ"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Essa Pele Marcada 4 (Ao Vivo)",
         "url": "https://open.spotify.com/album/19XR5RzqSQ3ZBbmZ7F8ZmQ"
       },
@@ -1363,6 +1379,26 @@
       "duration_ms": 359706,
       "name": "Conviver - Ao Vivo",
       "url": "https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "A M\u00fasica de Tom",
+        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        },
+        {
+          "name": "Cain\u00e3 Cavalcante",
+          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+        }
+      ],
+      "duration_ms": 185691,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1395,26 +1431,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "A M\u00fasica de Tom",
-        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
-        },
-        {
-          "name": "Cain\u00e3 Cavalcante",
-          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
-        }
-      ],
-      "duration_ms": 185691,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Pra lhe Dizer",
         "url": "https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8"
       },
@@ -1427,6 +1443,22 @@
       "duration_ms": 290141,
       "name": "Pra lhe Dizer",
       "url": "https://open.spotify.com/track/2wmLzpkFjqwVNXrAck7i5D"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "P\u00e3o",
+        "url": "https://open.spotify.com/album/7uL1lwBbAbrdHyPFKd1H6q"
+      },
+      "artists": [
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+        }
+      ],
+      "duration_ms": 157840,
+      "name": "P\u00e3o",
+      "url": "https://open.spotify.com/track/76Y6aibRSSe1qn7IYVv31J"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1451,38 +1483,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "P\u00e3o",
-        "url": "https://open.spotify.com/album/7uL1lwBbAbrdHyPFKd1H6q"
-      },
-      "artists": [
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        }
-      ],
-      "duration_ms": 157840,
-      "name": "P\u00e3o",
-      "url": "https://open.spotify.com/track/76Y6aibRSSe1qn7IYVv31J"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Paci\u00eancia",
-        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
-      },
-      "artists": [
-        {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "desculpe o au\u00ea",
         "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
       },
@@ -1503,18 +1503,34 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Argumento (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG"
+        "name": "Paci\u00eancia",
+        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
       },
       "artists": [
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
         }
       ],
-      "duration_ms": 203319,
-      "name": "Argumento (Spotify Singles)",
-      "url": "https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0"
+      "duration_ms": 226240,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "O Anel",
+        "url": "https://open.spotify.com/album/78rK79e9aSYV6QfGjDc4Yp"
+      },
+      "artists": [
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 222925,
+      "name": "O Anel",
+      "url": "https://open.spotify.com/track/3xg3P55NwmLh29uKCjF5uI"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 177825,
       "name": "De Longe Toda Serra \u00c9 Azul",
       "url": "https://open.spotify.com/track/6dLdOv1iSkJ4Ub9cq5roVM"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "O Anel",
-        "url": "https://open.spotify.com/album/78rK79e9aSYV6QfGjDc4Yp"
-      },
-      "artists": [
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 222925,
-      "name": "O Anel",
-      "url": "https://open.spotify.com/track/3xg3P55NwmLh29uKCjF5uI"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "OMINIRA A Historia de Jo\u00e3o Bento",
-        "url": "https://open.spotify.com/album/782sfffrhSKieZSoTKdGIE"
-      },
-      "artists": [
-        {
-          "name": "Thiago Elni\u00f1o",
-          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
-        }
-      ],
-      "duration_ms": 118813,
-      "name": "Eu Vi!",
-      "url": "https://open.spotify.com/track/4robtOMus4YUBjtBVL7n0b"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Poliamor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2tgQHFbqFj0fUHG4wUudLC"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 170991,
       "name": "Poliamor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1FHekq82sUo96aiyKCSk9W"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "OMINIRA A Historia de Jo\u00e3o Bento",
+        "url": "https://open.spotify.com/album/782sfffrhSKieZSoTKdGIE"
+      },
+      "artists": [
+        {
+          "name": "Thiago Elni\u00f1o",
+          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
+        }
+      ],
+      "duration_ms": 118813,
+      "name": "Eu Vi!",
+      "url": "https://open.spotify.com/track/4robtOMus4YUBjtBVL7n0b"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Resolvi Seguir (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5WQJDMW5p0tfBXfkwAgKU8"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Resolvi Seguir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/311ubDqihHe4pWzV5lCIkM"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Resolvi Seguir (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5WQJDMW5p0tfBXfkwAgKU8"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Resolvi Seguir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/311ubDqihHe4pWzV5lCIkM"
     },
     {
       "added_at": "2023-06-23 03:00:00",

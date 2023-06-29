@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Loredana
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,246 likes - 121 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,247 likes - 121 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 120 | [Lana Del Rey](https://open.spotify.com/track/1sjCEHDAtwOn39XtkJNvhD) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD) | [Lana Del Rey](https://open.spotify.com/album/2f2ANdJQblnof2IrlxxYwk) | 2:46 |
 | 121 | [High Life](https://open.spotify.com/track/5wWQkOZCLx9c13bgDeokkQ) | [CRIMER](https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX), [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [High Life](https://open.spotify.com/album/5k4zYRni7GFF65W9EMIoeD) | 3:08 |
 
-Snapshot ID: `MCwyZTA0MDM3MWViZGRmNjk1NGVlNWIwMWE0ZTg1YWZjOTYyYzg3ZTlm`
+Snapshot ID: `MCw0MTNkNDQ4NzdmMzY4NDgwM2FiNGZjNDJmMTY5NzFhZWIzYmIyNzAz`

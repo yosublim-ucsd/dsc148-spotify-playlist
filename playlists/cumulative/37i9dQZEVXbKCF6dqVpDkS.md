@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,074 songs - 2 day 7 hr 39 min
+1,075 songs - 2 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,7 +863,7 @@
 | [SHUM](https://open.spotify.com/track/7mEDVrAHDnQJStDo8jKJJm) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [SHUM](https://open.spotify.com/album/4AQOhI7QMKq9vmHuzduPRk) | 2:52 | 2021-05-25 | 2021-06-01 |
 | [Silent Disco](https://open.spotify.com/track/1kUX1zVg5apMvokHIaMJSz) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Qlas & Blacka](https://open.spotify.com/artist/0ltU5V1lbLkZlgXrnCeGjx) | [Silent Disco](https://open.spotify.com/album/6RvQuubUaatBKXtulUuBie) | 2:55 | 2022-01-22 | 2022-01-30 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-16 |
-| [Simone](https://open.spotify.com/track/233KjtSp13hed57BJgRjul) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Simone](https://open.spotify.com/album/49lqmVVusVjCA4qO3AhL3Y) | 2:30 | 2023-06-27 |  |
+| [Simone](https://open.spotify.com/track/233KjtSp13hed57BJgRjul) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Simone](https://open.spotify.com/album/49lqmVVusVjCA4qO3AhL3Y) | 2:30 | 2023-06-27 | 2023-06-29 |
 | [Sinner](https://open.spotify.com/track/5HVl2NtX9sp0tUpB9uW527) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Sinner](https://open.spotify.com/album/1YGQjwBvG21wu4sVqkvvoe) | 2:12 | 2021-06-20 | 2021-06-27 |
 | [Sinterklaas Kapoentje](https://open.spotify.com/track/3r0TH3SP5bIRMgGpo1ZEjR) | [Alles Kids](https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd), [Sinterklaasliedjes Alles Kids](https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i) | [Sinterklaasliedjes om mee te zingen](https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd) | 0:42 | 2022-12-04 | 2022-12-08 |
 | [Sinterklaas Kapoentje](https://open.spotify.com/track/35ZYlfxyQDvyazaj6LAEtx) | [Noord\-Hollands Kinderkoor](https://open.spotify.com/artist/7yOobv5U0tQXYJaow5MN9P) | [Oerhollandse Sinterklaasliedjes](https://open.spotify.com/album/7Is5aN4rrDSKimGlZWzAkv) | 1:00 | 2021-12-06 | 2021-12-08 |
@@ -882,6 +882,7 @@
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-20 | 2023-01-01 |
 | [Soldier](https://open.spotify.com/track/5tdppmnunAggNDFPkpM1fe) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Soldier](https://open.spotify.com/album/5GyDKLFgmm6anhrarefEqv) | 2:34 | 2023-03-18 | 2023-03-25 |
 | [Solo](https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Solo](https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18) | 2:09 | 2022-05-07 | 2022-09-25 |
+| [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2023-06-28 |  |
 | [Soms](https://open.spotify.com/track/7eiXOPxIwyGm56trJSxpcf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Soms](https://open.spotify.com/album/5q2aGSUwcintm6CkNlD1QH) | 2:40 | 2022-09-03 | 2022-09-26 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 | 2022-05-26 |
 | [SPACEBAE](https://open.spotify.com/track/3LumJHMo69GJoBMxzSFFe1) | [Qlas & Blacka](https://open.spotify.com/artist/0ltU5V1lbLkZlgXrnCeGjx) | [SPACEBAE](https://open.spotify.com/album/2u1rjyei8ahEcsy4Ew43dH) | 2:23 | 2021-06-27 | 2021-08-08 |

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 308411,
+  "num_followers": 308484,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjNmYjJjYTQ5MjEwZmI0NWI0ZDk2NjdlOWE5YzcxNGI3ZDk4MTgy",
+  "snapshot_id": "MCxlZjY0NTU3NDM5NjVhMmI1NzEzMDRkZjYxZTNiZGEyYTY1OWFlOGVi",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Shout Out! To Freedom...",
-        "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        },
-        {
-          "name": "OSHUN",
-          "url": "https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/3osAu1YKO9KBZnS5jGzKVl"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 185168,
       "name": "Above",
       "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Shout Out! To Freedom...",
+        "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        },
+        {
+          "name": "OSHUN",
+          "url": "https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/3osAu1YKO9KBZnS5jGzKVl"
     },
     {
       "added_at": "2022-06-20 14:19:42",

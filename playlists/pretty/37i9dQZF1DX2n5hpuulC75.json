@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 254411,
+  "num_followers": 254457,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjhiN2VlMmZhMDYxOWJhYTY3NTZlMzAzYzgxMjMxYjRkM2RhZGUz",
+  "snapshot_id": "MCxlODY0YWJhYzYzZDNhNWY0ZDcxMGNkYzdjYWI3OGUzNmI4YTAxNTdk",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
     },
     {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Hosoi",
+        "url": "https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 166344,
+      "name": "By",
+      "url": "https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs"
+    },
+    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Woodstock (Deluxe Edition)",
@@ -159,22 +175,6 @@
       "duration_ms": 194434,
       "name": "Feel It Still - Medasin Remix",
       "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
-    },
-    {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Hosoi",
-        "url": "https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 166344,
-      "name": "By",
-      "url": "https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 313266,
-      "name": "Where the Money Flows",
-      "url": "https://open.spotify.com/track/35592qATAP1u72mO9oelLc"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Aromanticism",
@@ -311,6 +295,22 @@
       "duration_ms": 188557,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
+    },
+    {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 313266,
+      "name": "Where the Money Flows",
+      "url": "https://open.spotify.com/track/35592qATAP1u72mO9oelLc"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -911,6 +911,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Self Edit",
+        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
+      },
+      "artists": [
+        {
+          "name": "Vesce",
+          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Zender",
+      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Infinite Games",
         "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Self Edit",
-        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
+        "name": "Wherever You Go (You'll Never See Me)",
+        "url": "https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG"
       },
       "artists": [
         {
-          "name": "Vesce",
-          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
+          "name": "Aybner",
+          "url": "https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA"
         }
       ],
-      "duration_ms": 236842,
-      "name": "Zender",
-      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
+      "duration_ms": 176470,
+      "name": "Wherever You Go (You'll Never See Me)",
+      "url": "https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -959,22 +975,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Backwater",
-        "url": "https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA"
-      },
-      "artists": [
-        {
-          "name": "Kllo",
-          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
-        }
-      ],
-      "duration_ms": 254010,
-      "name": "Nylon",
-      "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
       },
@@ -991,18 +991,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Wherever You Go (You'll Never See Me)",
-        "url": "https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG"
+        "name": "Backwater",
+        "url": "https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA"
       },
       "artists": [
         {
-          "name": "Aybner",
-          "url": "https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA"
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Wherever You Go (You'll Never See Me)",
-      "url": "https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1"
+      "duration_ms": 254010,
+      "name": "Nylon",
+      "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
     },
     {
       "added_at": "2018-12-11 21:12:31",

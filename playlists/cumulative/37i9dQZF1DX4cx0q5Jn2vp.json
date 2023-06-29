@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "Nakakakilig!",
+  "description": "",
   "name": "Kilig Pa More",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 172615,
       "name": "Babalik Ba",
       "url": "https://open.spotify.com/track/2PUnWvAzUpIpIgQtOCRavW"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 159183,
       "name": "bagay nga tayo pero",
       "url": "https://open.spotify.com/track/19crdGcucaLgh29jRMCpjo"
@@ -359,6 +359,28 @@
     },
     {
       "album": {
+        "name": "castle",
+        "url": "https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR"
+      },
+      "artists": [
+        {
+          "name": "asheu",
+          "url": "https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3"
+        },
+        {
+          "name": "yedira",
+          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168039,
+      "name": "castle",
+      "url": "https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz"
+    },
+    {
+      "album": {
         "name": "summer,",
         "url": "https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1"
       },
@@ -450,7 +472,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 252162,
       "name": "Dalangin",
       "url": "https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x"
@@ -811,6 +833,28 @@
     },
     {
       "album": {
+        "name": "Gusto",
+        "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Gusto feat. Al James",
+      "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
+    },
+    {
+      "album": {
         "name": "Habang Buhay",
         "url": "https://open.spotify.com/album/7Mp9hdsWS0vbxKvYkT77hS"
       },
@@ -840,7 +884,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 249041,
       "name": "Halikan Mo Na Ako",
       "url": "https://open.spotify.com/track/2cgrjAXP43BsOHNrqvFVTh"
@@ -1086,7 +1130,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 306466,
       "name": "Ikaw Lamang",
       "url": "https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED"
@@ -1202,6 +1246,24 @@
       "duration_ms": 220000,
       "name": "Kahit Na, Kahit Pa",
       "url": "https://open.spotify.com/track/34fr34Y1gmWMpIjkxdTO2R"
+    },
+    {
+      "album": {
+        "name": "Kisame",
+        "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
+      },
+      "artists": [
+        {
+          "name": "rhodessa",
+          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212608,
+      "name": "Kisame",
+      "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 59064,
+  "num_followers": 59156,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzQ1ZTY1ODBjNzg2MzY0MWRlMjBiMzI2ODlmYWIyMDZiOGE0YmE0",
+  "snapshot_id": "MCw5OThkMTkwMGUxNzczYjg1Zjg5ZTVlZDM4MWVhYWY4MjQ2ODFjMmVm",
   "tracks": [
     {
       "added_at": "2023-04-04 13:57:02",
@@ -391,30 +391,6 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
-        "name": "Joyful Death",
-        "url": "https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg"
-      },
-      "artists": [
-        {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
-        },
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 258340,
-      "name": "Sweat - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -455,6 +431,30 @@
       "duration_ms": 172172,
       "name": "Tired and Sick",
       "url": "https://open.spotify.com/track/59rqs8yRLVyfw5CosESRQX"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
+        "name": "Joyful Death",
+        "url": "https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg"
+      },
+      "artists": [
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        },
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 258340,
+      "name": "Sweat - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -699,6 +699,26 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
+        "name": "Dealer's Gone - DJ_Dave Edit",
+        "url": "https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "Von",
+          "url": "https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc"
+        }
+      ],
+      "duration_ms": 172511,
+      "name": "Dealer's Gone - DJ_Dave Edit",
+      "url": "https://open.spotify.com/track/685cyLbhLOWDTbsdV5oQcQ"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
         "name": "ELASTIC",
         "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 219508,
       "name": "ELASTIC",
       "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Dealer's Gone - DJ_Dave Edit",
-        "url": "https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        },
-        {
-          "name": "Von",
-          "url": "https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc"
-        }
-      ],
-      "duration_ms": 172511,
-      "name": "Dealer's Gone - DJ_Dave Edit",
-      "url": "https://open.spotify.com/track/685cyLbhLOWDTbsdV5oQcQ"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -919,22 +919,22 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
-        "name": "High Tide (Doss Remix)",
-        "url": "https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4"
+        "name": "JUICY CLASS",
+        "url": "https://open.spotify.com/album/18jT1erX3cEk1OcGo8pDWL"
       },
       "artists": [
         {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+          "name": "DJ Fuckoff",
+          "url": "https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm"
         },
         {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+          "name": "DJ MELL G",
+          "url": "https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX"
         }
       ],
-      "duration_ms": 223384,
-      "name": "High Tide - Doss Remix",
-      "url": "https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa"
+      "duration_ms": 276000,
+      "name": "DEATH BY PUSSY",
+      "url": "https://open.spotify.com/track/21Cc6noJSjGOmx0CokRUfk"
     }
   ],
   "unique_name": "Sweat.",

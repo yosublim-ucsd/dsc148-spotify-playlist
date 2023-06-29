@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Maisie Peters
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,619 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,622 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 83 | [Flight Risk](https://open.spotify.com/track/368mOZ4hV8aacFU4XN0vLe) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Flight Risk](https://open.spotify.com/album/1y6mVjHSk1LgscbN30ghnV) | 3:19 |
 | 84 | [as long as you love me](https://open.spotify.com/track/6felYQaRrGF1BJsu6AifLs) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [as long as you love me](https://open.spotify.com/album/1PDkI3mWqgaGFXLadEXJXR) | 3:10 |
 | 85 | [Mountain](https://open.spotify.com/track/0uIjaOUqCKav7yJU4Lj2hB) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Mountain](https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw) | 2:49 |
-| 86 | [U Stay On My Mind](https://open.spotify.com/track/32Z8DWYXNkWPJNILin5ICp) | [jnr.](https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj) | [U Stay On My Mind](https://open.spotify.com/album/1PR2VPWqa5ZsukGYS4QMpE) | 3:10 |
+| 86 | [u stay on my mind](https://open.spotify.com/track/32Z8DWYXNkWPJNILin5ICp) | [jnr.](https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj) | [u stay on my mind](https://open.spotify.com/album/1PR2VPWqa5ZsukGYS4QMpE) | 3:10 |
 | 87 | [Cool Girl](https://open.spotify.com/track/27KjBTGdsrI3TlvIPMs7tV) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [Cool Girl](https://open.spotify.com/album/4NtPbK9QYXto9u3BaWbkGh) | 3:17 |
 | 88 | [NEWS](https://open.spotify.com/track/4LdFhvSwioFDEdOuRQp2MV) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [NEWS](https://open.spotify.com/album/1Rp96rbYxQJgiksH8datBA) | 2:27 |
 | 89 | [Dear Seventeen](https://open.spotify.com/track/7mYMXQsXOar8cS7ullw1W1) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Dear Seventeen](https://open.spotify.com/album/5gmxYbBBlVWDxd82vc58ZQ) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Anybody](https://open.spotify.com/track/1yKuAXrWi3Y39zEF0Umr1X) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Anybody](https://open.spotify.com/album/5LbpQsW13ZCWFczcG2t7nX) | 2:59 |
 | 100 | [On My Own](https://open.spotify.com/track/581RQr3HXrnCbVqfwmRnEj) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [On My Own](https://open.spotify.com/album/6iJaI3mbYF4tlPPUnAhJ2l) | 3:04 |
 
-Snapshot ID: `MCxhYWI4NzY3ZmVhOTJiMjQ5OGZkNzY0MjBjNzk2ZmE1NTg1ZjQzNmU4`
+Snapshot ID: `MCw2NDI3Njk3OGY3ZjRiYjcxMjM1ZTFiY2NjMDBiY2YyZDhiNTMzN2Iz`

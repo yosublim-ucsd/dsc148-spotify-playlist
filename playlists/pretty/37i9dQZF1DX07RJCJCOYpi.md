@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: MJ Nebreda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,735,011 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,734,989 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 49 | [Mírame](https://open.spotify.com/track/5ye1NS6HQQjQ2PDUGm4EzE) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/73B3LmWNzzyZTVb7GOfWpK) | 3:06 |
 | 50 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
 
-Snapshot ID: `MCxjY2U3OGE1YjlkODIyMjgzYzJkMmJjYWY4OGY0MmY4NDI1OTIzZjZh`
+Snapshot ID: `MCwyZTAwOTFjN2JlMjRiNmExNjE5YzY1NTc3ODA4Yzk1MjM0NTg3ZWVm`

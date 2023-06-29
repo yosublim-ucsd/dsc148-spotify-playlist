@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-947 songs - 2 day 9 hr 48 min
+948 songs - 2 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Fantasías en Color](https://open.spotify.com/track/09V30g2mc4WqKA8Uii5Gte) | [Un Pez](https://open.spotify.com/artist/001RXADqlEd8N8DBswVlIj) | [Un Pez](https://open.spotify.com/album/2vdeM83LIlBxmVI23gcTWq) | 2:39 | 2022-04-01 | 2022-04-19 |
 | [Feliz](https://open.spotify.com/track/2LsIPIq9oe9sCt5oKwGnpt) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:43 | 2022-04-01 | 2022-04-20 |
 | [Fin de Semana \- Acústico](https://open.spotify.com/track/622zSydA8tUsHFPk2DqDVo) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Volando Sin Capa](https://open.spotify.com/album/2xnL0cuvNea4Aizy4QcpOI) | 2:30 | 2022-03-24 | 2022-03-27 |
+| [Fin del Mundo](https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 5:19 | 2023-06-28 |  |
 | [final](https://open.spotify.com/track/4IsPybzKsaLEFUB0HYiPgt) | [Tomi Porcelli](https://open.spotify.com/artist/0fsJKPsNYIowEOEFy1jMb6), [matías mendez](https://open.spotify.com/artist/6xFquiue2ddP5wnfdw7CiO), [Clara Lambertucci](https://open.spotify.com/artist/0ts1WpfhZnVVhy13z7cXHN) | [final](https://open.spotify.com/album/4pIOmBinJqp0rYMYU4woEN) | 4:36 | 2022-04-01 | 2022-04-20 |
 | [Fingir](https://open.spotify.com/track/26thYPbjhWhB0kq3YxAiPL) | [Sergio Cuello](https://open.spotify.com/artist/3kzoyQeKsewahhW1bs4SRP) | [Fingir](https://open.spotify.com/album/6kW7q49R9KTUjE1q0ceWqY) | 3:42 | 2022-03-24 | 2022-03-27 |
 | [Fire Fire](https://open.spotify.com/track/78YIlKLs847sCb6TOeXIMk) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Lynval Golding](https://open.spotify.com/artist/3hHlIULM0G9jxsD7eVZPW6) | [Fire Fire](https://open.spotify.com/album/50OSCuGuStG7E2fKEZ7PMl) | 3:28 | 2022-03-28 | 2022-04-21 |
@@ -723,7 +724,7 @@
 | [Quiero Verte Hoy](https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Quiero Verte Hoy](https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ) | 3:35 | 2022-03-24 | 2022-04-21 |
 | [Quiero Verte Más \- Sunset Sessions](https://open.spotify.com/track/3BgeMyyQprvUSYU0AB9c84) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Quiero Verte Más \(Sunset Sessions\)](https://open.spotify.com/album/4bTfP6I3ZvLVX1Fhb1KMyn) | 4:17 | 2022-04-08 | 2022-04-29 |
 | [Quise](https://open.spotify.com/track/3aSpe9KArMXK1x75VcPTfG) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Pierdas la Simpleza](https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N) | 5:14 | 2022-03-28 | 2022-04-20 |
-| [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2022-04-01 |  |
+| [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2022-04-01 | 2023-06-29 |
 | [Qué Ironía](https://open.spotify.com/track/3PlkHEhFeVPH3IM1OY9N3Y) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:48 | 2022-04-01 | 2022-04-08 |
 | [Qué Más Quieres de Mí](https://open.spotify.com/track/21GNomOYNYf3xoBflp5hlo) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Qué Más Quieres de Mí](https://open.spotify.com/album/50YHt1Y6bHYA3G5uqMaolp) | 5:10 | 2022-04-13 | 2022-04-20 |
 | [Qué Tal Si](https://open.spotify.com/track/1nymd0Q8wlYw8GO6qpFFzz) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Qué Tal Si](https://open.spotify.com/album/4XHpR6MehJc55fHzZ9jzre) | 3:50 | 2022-03-11 | 2022-07-25 |

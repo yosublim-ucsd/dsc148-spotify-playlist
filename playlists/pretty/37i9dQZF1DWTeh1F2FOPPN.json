@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 37531,
+  "num_followers": 37628,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDJmZDZjYWI5YmZmOTc3NTg4ZTBjYjEwMDkzYmZkNzM1NmI4ZmEz",
+  "snapshot_id": "MCw1NWE1ZmM2NGRhYmUxNTg1NDIzM2I3MjM4YzYxNjMyOGVjMWJlOGVm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
+        "name": "The ArchAndroid",
+        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 226253,
+      "name": "Oh, Maker",
+      "url": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
         "name": "Diana Ross & The Supremes Join The Temptations",
         "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 136466,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/4nop5UmWUqnlxkQ4kvG3Rp"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
-        "name": "The ArchAndroid",
-        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 226253,
-      "name": "Oh, Maker",
-      "url": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
     },
     {
       "added_at": "2022-10-01 16:54:27",

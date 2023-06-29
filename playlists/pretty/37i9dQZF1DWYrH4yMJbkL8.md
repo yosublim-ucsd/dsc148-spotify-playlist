@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Boogey the Beat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,069 likes - 31 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,115 likes - 31 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 30 | [Meet Me At the Pow Wow \(feat\. Leonard Sumner\)](https://open.spotify.com/track/3mhLTmdhtMMvMvk1RbhIz2) | [Lightningcloud](https://open.spotify.com/artist/22KlAZn1gaKo0YLbNv5rOy), [Leonard Sumner](https://open.spotify.com/artist/0MYSpdiE9Jp6GBTsNvlZQ5) | [Indigenous Angels](https://open.spotify.com/album/0DHwNM0TcWLMvGmI9wtYBq) | 4:30 |
 | 31 | [Honor Song](https://open.spotify.com/track/2DisO9UwQkJeiqmTz3fLzN) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Notes for the Future](https://open.spotify.com/album/3nxa5sJ1kyGqmSUDNW5VM5) | 4:47 |
 
-Snapshot ID: `MCwzZmZhYTg0MWY5OGY3MjE5NDJiNzlmYWIzNzRkYmE3YjEzYjVkZDM2`
+Snapshot ID: `MCwyODE2MTU4MjRkNjQxY2EzYTAxN2Q5MmIzMDVmMmUwZmQ4MjBmODc4`

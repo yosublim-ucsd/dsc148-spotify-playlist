@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 63410,
+  "num_followers": 63452,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjdjNjc5OTk2NGNmNDNlYjNmMjQ3MzY4M2UyOTJjMmY0OTk1YjA1",
+  "snapshot_id": "MCw0NTRiZjE0MDQzOWYxMmJjYjNiNjE5ODg1YjczZGI3MjE0YWExMDJj",
   "tracks": [
     {
       "added_at": "2023-05-29 10:26:29",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "VSOD (Velvet Sky of Dreams)",
-        "url": "https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "VSOD - Velvet Sky of Dreams",
-      "url": "https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "Heaven Scent",
         "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 283424,
       "name": "Heaven Scent",
       "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
+        "name": "VSOD (Velvet Sky of Dreams)",
+        "url": "https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "VSOD - Velvet Sky of Dreams",
+      "url": "https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "duration_ms": 244499,
+      "name": "The Ghost",
+      "url": "https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
         "name": "Back Seat (Tseba Remix)",
         "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 240191,
       "name": "Back Seat - Tseba Remix",
       "url": "https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        }
-      ],
-      "duration_ms": 244499,
-      "name": "The Ghost",
-      "url": "https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw"
     },
     {
       "added_at": "2023-05-29 10:26:29",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 405768,
-      "name": "Just Us",
-      "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
-    },
-    {
-      "added_at": "2023-05-29 10:26:29",
-      "album": {
         "name": "Helix",
         "url": "https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH"
       },
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 405768,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
+    },
+    {
+      "added_at": "2023-05-29 10:26:29",
+      "album": {
         "name": "Scacco Matto",
         "url": "https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p"
       },
@@ -1771,26 +1771,18 @@
     {
       "added_at": "2023-05-29 10:26:29",
       "album": {
-        "name": "Blessed / Cleopatra Remixes",
-        "url": "https://open.spotify.com/album/5CgPI0nQzecD4IeCx6tEVg"
+        "name": "Sol De Mi Vida",
+        "url": "https://open.spotify.com/album/4FnwfcgBFqIQoUXBccJhmV"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Virgil Abloh",
-          "url": "https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm"
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
         }
       ],
-      "duration_ms": 398664,
-      "name": "Blessed - Virgil Abloh Future-Jazz Remix",
-      "url": "https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN"
+      "duration_ms": 187593,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2nzw5ghlLsOKEqD4EuH6qO"
     }
   ],
   "unique_name": "Runway",

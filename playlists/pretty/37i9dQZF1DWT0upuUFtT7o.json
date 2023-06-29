@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Portraits Of Tracy",
-  "num_followers": 180355,
+  "num_followers": 180659,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmNhNmNhYzliNmI0MjFjZGMyZjdmZDRkMTJhMjdlMTU0N2E1MGNj",
+  "snapshot_id": "MCxmMTNlZTRlNjdhOWViNzQ3MzJlY2RkNzc5MThiMjFlZWU2MWZhMTFm",
   "tracks": [
     {
       "added_at": "2023-06-27 22:55:11",
@@ -295,6 +295,22 @@
       "duration_ms": 184231,
       "name": "Lost & Low",
       "url": "https://open.spotify.com/track/5md87ljWSuOkEw9jDkYsQf"
+    },
+    {
+      "added_at": "2023-06-28 14:47:58",
+      "album": {
+        "name": "The McCharmlys",
+        "url": "https://open.spotify.com/album/3Cj6EtB4yjFGmWbyTQ3iMd"
+      },
+      "artists": [
+        {
+          "name": "The McCharmlys",
+          "url": "https://open.spotify.com/artist/09l8Gk7eyahBzFK3FxnFAT"
+        }
+      ],
+      "duration_ms": 206762,
+      "name": "Awful Thing",
+      "url": "https://open.spotify.com/track/3SeQJb8SJrGhURSdMHneMO"
     },
     {
       "added_at": "2023-06-27 22:55:11",
@@ -643,6 +659,22 @@
       "duration_ms": 215722,
       "name": "Elixir",
       "url": "https://open.spotify.com/track/2EXpscqWQIvd2dwwn12P5i"
+    },
+    {
+      "added_at": "2023-06-28 14:47:58",
+      "album": {
+        "name": "Looking at You",
+        "url": "https://open.spotify.com/album/1hQanJQ8o0l3Sgf63MtrlL"
+      },
+      "artists": [
+        {
+          "name": "Juniper Honey",
+          "url": "https://open.spotify.com/artist/0KwqvjIByt3CTj5OnldokY"
+        }
+      ],
+      "duration_ms": 206820,
+      "name": "Looking at You",
+      "url": "https://open.spotify.com/track/0qYNUduazu2fVQ78BiMkGp"
     },
     {
       "added_at": "2023-06-21 18:02:34",
@@ -1583,38 +1615,6 @@
       "duration_ms": 146372,
       "name": "Shining",
       "url": "https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr"
-    },
-    {
-      "added_at": "2023-04-26 03:30:53",
-      "album": {
-        "name": "Art House",
-        "url": "https://open.spotify.com/album/1ysnBkxshLq1mn6dftQowP"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 177143,
-      "name": "Art House",
-      "url": "https://open.spotify.com/track/2GkjgiuBawwpL48d0TGQEL"
-    },
-    {
-      "added_at": "2023-05-17 01:05:32",
-      "album": {
-        "name": "Mio",
-        "url": "https://open.spotify.com/album/03cZqgLuOhAhpuFBiDP2AL"
-      },
-      "artists": [
-        {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
-        }
-      ],
-      "duration_ms": 253932,
-      "name": "Mio",
-      "url": "https://open.spotify.com/track/6cl3amT9HIxuSYxNZnPmlY"
     },
     {
       "added_at": "2023-05-24 14:03:52",

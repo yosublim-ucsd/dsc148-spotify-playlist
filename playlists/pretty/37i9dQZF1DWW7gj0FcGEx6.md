@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,117 likes - 172 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,187 likes - 172 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 29 | [A Miracle](https://open.spotify.com/track/0rIp4BZn76zzW9oXj5ZlDx) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [The Unlikely Pilgrimage of Harold Fry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PqjTQxeyMjZfIABkgvuog) | 2:30 |
 | 30 | [Luther's Theme](https://open.spotify.com/track/7DPuAbyLW2zgtEyC5pHufG) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Luther: The Fallen Sun \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1uSLtpDg49OkNRSYihJl04) | 2:29 |
 | 31 | [The Humpback Whale’s Miracle](https://open.spotify.com/track/6SwPlqCdm0zqG6l3vH24QY) | [Ruth Barrett](https://open.spotify.com/artist/48ZoDch2iKE7FZEYY67DPB) | [Big Beasts \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0AK8H0YF8OWz5Fw5vmHsVX) | 2:28 |
-| 32 | [Worlds Collide](https://open.spotify.com/track/5s3kCq0CzYs1lb2TPjU3MC) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Worlds Collide / Run \(from "The Flash"\)](https://open.spotify.com/album/7IoCIyv2Ji5oGxrGF9S0mt) | 2:29 |
+| 32 | [Worlds Collide \- Superman Version](https://open.spotify.com/track/5ARCZN2egn3LjuyBRZkR0C) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [The Flash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Iwcke5WByZdDlIv0WucmX) | 2:31 |
 | 33 | [Actually Her](https://open.spotify.com/track/7DYB52sRKxgh8N1wU3NFMp) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:12 |
 | 34 | [Citadel \(Main Title Theme\)](https://open.spotify.com/track/6HB5R1sNMWYJ5eRqCWTPqo) | [Alex Belcher](https://open.spotify.com/artist/0lsKvalwJ8SAijtf12uSsm) | [Citadel \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/6UkcvITuPnTmXnkwfoo0tH) | 1:19 |
 | 35 | [The Beloveds](https://open.spotify.com/track/5WSFsgLql08p89fRCbD0OH) | [John Lunn](https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H), [Danny Saul](https://open.spotify.com/artist/43gWjTULCnVjc3zzs0wHhG) | [The Last Kingdom: The Beloveds](https://open.spotify.com/album/3sOjQz2ALdRf4UETZBdHBk) | 6:00 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 171 | [Friendship Theme](https://open.spotify.com/track/317Tb1dzMW3KTUjiTcsN4b) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Chaos Walking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hqIiiiQXOUCkAx2i0JKje) | 1:58 |
 | 172 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 
-Snapshot ID: `MCxkNzVmN2JmZWE5YzRmMDYzMWEzMDhjMWUyMTQwNDlmNDNlNmU3ZGQ5`
+Snapshot ID: `MCw2ZjliZTZiMjg2NmE2YzQ1MTU4OWYxZjRjYzY3NjRlODQwOTVkZTc3`

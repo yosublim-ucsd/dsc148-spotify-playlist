@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1780093,
+  "num_followers": 1780233,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzljNGE3MjE4MGY1NjFhODgyOGQ0YWVlY2JlYjJmZGM4OTEzOGQz",
+  "snapshot_id": "MCwxNDAxMTkwYzRhMjFhYWFhNTM2NjBjMWFmMGIwM2Q3NzY4MmU0OTE5",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Pink Strat",
-        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "Whole Wide World",
-      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Doves & Ravens",
         "url": "https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 251173,
       "name": "A closeness",
       "url": "https://open.spotify.com/track/0xVrusjXiWhqSQ5dPoiiWX"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Pink Strat",
+        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "1000 Years",
-        "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
-      },
-      "artists": [
-        {
-          "name": "Allman Brown",
-          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
-        }
-      ],
-      "duration_ms": 218502,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "God Only Knows",
         "url": "https://open.spotify.com/album/1uZuNAan0CyyExpG5h7VRa"
       },
@@ -1127,22 +1111,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE"
+        "name": "1000 Years",
+        "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
       },
       "artists": [
         {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
-        },
-        {
-          "name": "Maggie Peake",
-          "url": "https://open.spotify.com/artist/6NCA2AVIHGles0udtwuoqN"
+          "name": "Allman Brown",
+          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
         }
       ],
-      "duration_ms": 256875,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl"
+      "duration_ms": 218502,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1159,6 +1139,26 @@
       "duration_ms": 188493,
       "name": "Wind & Anchor",
       "url": "https://open.spotify.com/track/5FGJDxlf3t34Qfb3l9oliE"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE"
+      },
+      "artists": [
+        {
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+        },
+        {
+          "name": "Maggie Peake",
+          "url": "https://open.spotify.com/artist/6NCA2AVIHGles0udtwuoqN"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Jade Bird",
-        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 207936,
-      "name": "Does Anybody Know",
-      "url": "https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 180419,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 207936,
+      "name": "Does Anybody Know",
+      "url": "https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Weather Station",
-        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Thirty",
-      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Golden (Acoustic)",
         "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Weather Station",
+        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Thirty",
+      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Some Still Morning",
-        "url": "https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o"
-      },
-      "artists": [
-        {
-          "name": "Handsome Ghost",
-          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
-        }
-      ],
-      "duration_ms": 253670,
-      "name": "Weeds",
-      "url": "https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Venus (Acoustic)",
         "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 175120,
       "name": "Sweet Love of Mine (Acoustic)",
       "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Some Still Morning",
+        "url": "https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o"
+      },
+      "artists": [
+        {
+          "name": "Handsome Ghost",
+          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+        }
+      ],
+      "duration_ms": 253670,
+      "name": "Weeds",
+      "url": "https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ"
     }
   ],
   "unique_name": "Acoustic Love",

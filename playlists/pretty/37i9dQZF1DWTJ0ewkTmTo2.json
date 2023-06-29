@@ -1,12 +1,12 @@
 {
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
-  "num_followers": 497342,
+  "num_followers": 497659,
   "original_name": "Family Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzc4MTdhYTFmMGYzMDJiZmE5ODEwZTVhNzcyOGYzZjA2ZDM4ODhk",
+  "snapshot_id": "MCxlMDM4YjczMDNiZWVkNGQ0NWE4NzM2ZjBmN2NhMjVkMWNlZjBkZWEw",
   "tracks": [
     {
       "added_at": "2023-05-15 11:16:44",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-15 11:16:44",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
-    },
-    {
-      "added_at": "2023-05-15 11:16:44",
-      "album": {
         "name": "Olivia's Greatest Hits (Vol. 2 / Deluxe Edition / Remastered)",
         "url": "https://open.spotify.com/album/4OkHkHfwoZOOZpQteKJkby"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 170485,
       "name": "You're The One That I Want - Remastered 2022",
       "url": "https://open.spotify.com/track/4sX1ehtL58WodjOP9bKZ18"
+    },
+    {
+      "added_at": "2023-05-15 11:16:44",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2023-05-15 11:16:44",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-05-15 11:16:44",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
-    },
-    {
-      "added_at": "2023-05-15 11:16:44",
-      "album": {
         "name": "...Somewhere More Familiar",
         "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 219053,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
+    },
+    {
+      "added_at": "2023-05-15 11:16:44",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
     },
     {
       "added_at": "2023-05-15 11:16:44",

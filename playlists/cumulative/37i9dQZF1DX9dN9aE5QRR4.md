@@ -4,7 +4,7 @@
 
 > La playlist officielle de l'émission Nouvelle École Saison  2, disponible sur Netflix.
 
-43 songs - 2 hr 5 min
+45 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Crois\-moi \(feat\. Ninho\)](https://open.spotify.com/track/69I4Eynuxdj6LEmpvG56u6) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Architecte](https://open.spotify.com/album/0QOCs2S4yp3M47sNZGCUqY) | 3:03 | 2023-05-31 |  |
 | [Célèbre](https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Frenetik](https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21) | [Célèbre](https://open.spotify.com/album/10XkYe39UD8iIiuP6c4WRS) | 2:56 | 2023-05-31 |  |
 | [DES BARZ !](https://open.spotify.com/track/5EG3vHQxQAAF1MKIF4sq9w) | [Randy](https://open.spotify.com/artist/5UWdTY62eyzRFfCU7E4soX) | [DES BARZ !](https://open.spotify.com/album/1SgPLfU87tfaYHcNUGGTQ5) | 1:51 | 2023-05-31 |  |
+| [Donner](https://open.spotify.com/track/7mxliPI4zN8R3nHP8daeAN) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR), [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Donner](https://open.spotify.com/album/3dzEWGuhgrpeVQS3PiVcHe) | 3:47 | 2023-06-28 |  |
 | [East London \(Nouvelle École\)](https://open.spotify.com/track/3GqyusQYjxssmHll5MLfQU) | [Lpee](https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz) | [East London \(Nouvelle École\)](https://open.spotify.com/album/73eKX4McFo7e9al5CaSEzU) | 2:38 | 2023-05-31 |  |
 | [Ego\-Tripes](https://open.spotify.com/track/59z8cSxWytXyQT4Kk0atTD) | [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [SUMUD](https://open.spotify.com/album/1BSjnP0tKK8AoM7vj91sQY) | 2:28 | 2023-05-31 |  |
 | [ELLA Y YO](https://open.spotify.com/track/70yKcPk3HV4jl4l5C41DKB) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq), [Tonio 8cho](https://open.spotify.com/artist/4BbPpshNwDO8yZUOGuzqdX) | [ELLA Y YO](https://open.spotify.com/album/13vfSSY4H7K9BWfE01LdIK) | 1:49 | 2023-05-31 |  |
@@ -34,6 +35,7 @@
 | [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 | 2023-05-31 |  |
 | [KYLL](https://open.spotify.com/track/1VYTP4prOc62xQe1KWf3S5) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KYLL](https://open.spotify.com/album/0iaSXjvJQx0AAVoOeaBt44) | 3:20 | 2023-05-31 |  |
 | [La kiffance](https://open.spotify.com/track/4CWcaGtaOyAqBDKIeZMUe0) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La kiffance](https://open.spotify.com/album/1YrIKS84a899NhW15PDswr) | 2:59 | 2023-05-31 |  |
+| [Le jour se lève](https://open.spotify.com/track/3yIxVwVr33e5tW453JRlCt) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG), [Lpee](https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz) | [Le jour se lève](https://open.spotify.com/album/3k3Os3Ekj0WGCcIVY10Xxd) | 2:36 | 2023-06-28 |  |
 | [Let's Go](https://open.spotify.com/track/7h2xtz39bv1JnM3KnIt6pA) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG) | [Let's Go](https://open.spotify.com/album/3jVf06aEQuuno3UUppAT3G) | 2:18 | 2023-05-31 |  |
 | [Mwaka Moon](https://open.spotify.com/track/7LDq2cE0TQV66BXorbV8FD) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Mwaka Moon](https://open.spotify.com/album/0JiHJJGVSHzQMdTJ2fp9dh) | 3:57 | 2023-05-31 |  |
 | [Médusa](https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [A\-One](https://open.spotify.com/album/7vA0TnW2lm682zNwiRKEcE) | 2:37 | 2023-05-31 |  |
@@ -46,7 +48,7 @@
 | [S.A.D \(feat\. Josman\)](https://open.spotify.com/track/3NNawIkm2v7x971h8BIJdo) | [Oldpee](https://open.spotify.com/artist/6IxN9Jvo31OWIvYHJAeZlJ), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [S.A.D \(feat\. Josman\)](https://open.spotify.com/album/5jeTtd8qX77BCi0MvdJiF9) | 3:12 | 2023-05-31 |  |
 | [Seule](https://open.spotify.com/track/5OLUrLvTptlqQoieD1LZWP) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Seule](https://open.spotify.com/album/5IUFZeiYpy3b9qajjLGDNH) | 2:36 | 2023-05-31 |  |
 | [Sound System](https://open.spotify.com/track/5f7BIsnqxFCgt4KqWI8Twy) | [HoussBad](https://open.spotify.com/artist/3Bq4yBJeMX2uoNvUjBKJGf), [Yuz Boy](https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH) | [GATE 67](https://open.spotify.com/album/3fhujrYvdJS2KTruswtYHr) | 2:51 | 2023-05-31 |  |
-| [Soundcheck](https://open.spotify.com/track/1PfoqIN2zTEtcCRt9QUJyW) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [Soundcheck](https://open.spotify.com/album/5QV70k0oveL96v7UzDCBcM) | 2:09 | 2023-05-31 |  |
+| [Soundcheck](https://open.spotify.com/track/1PfoqIN2zTEtcCRt9QUJyW) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [Soundcheck](https://open.spotify.com/album/5QV70k0oveL96v7UzDCBcM) | 2:09 | 2023-05-31 | 2023-06-29 |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2023-05-31 |  |
 | [Trop tard](https://open.spotify.com/track/2lwgB5ReDf4VaW3Jm9JGp2) | [Le Dark](https://open.spotify.com/artist/5AlpGRnWjCTZ71L5AMEbgh) | [Trop tard](https://open.spotify.com/album/2p9A9Skhl3ATeY2S71SSk0) | 2:52 | 2023-05-31 |  |
 | [Welcome 4 \#Eagle](https://open.spotify.com/track/3YKUOFcPeAJ7pxs7pg3jQk) | [Flash](https://open.spotify.com/artist/4jTxLRL2wJ0NfArphhUHb3) | [Welcome 4 \#Eagle](https://open.spotify.com/album/6Og5v7EEDEPSubSJs7eJ1f) | 2:26 | 2023-05-31 |  |

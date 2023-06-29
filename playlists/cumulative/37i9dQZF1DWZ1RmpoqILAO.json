@@ -1737,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Somewhere In The Middle",
+        "url": "https://open.spotify.com/album/73Rso0TopoEw4xGJppcHki"
+      },
+      "artists": [
+        {
+          "name": "Daneshevskaya",
+          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207226,
+      "name": "Somewhere In The Middle",
+      "url": "https://open.spotify.com/track/2E4JCuZ0tMWeRTTSiaTvBT"
+    },
+    {
+      "album": {
         "name": "Sprinkler Song",
         "url": "https://open.spotify.com/album/2uzdT65t9cTJeekpeI3nHy"
       },

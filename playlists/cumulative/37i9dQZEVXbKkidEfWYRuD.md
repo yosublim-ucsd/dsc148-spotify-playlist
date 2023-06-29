@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,135 songs - 2 day 4 hr 39 min
+1,136 songs - 2 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-06-01 | 2022-06-12 |
 | [Oneshot](https://open.spotify.com/track/0C6x0RfCh5adj4rm8zH9WK) | [msht](https://open.spotify.com/artist/5XD3dFUaYtaiBRrs7UbakO) | [Oneshot](https://open.spotify.com/album/6GVz07AsnmPhQrW6j1d9Y0) | 2:32 | 2023-06-09 | 2023-06-16 |
 | [OneShot](https://open.spotify.com/track/3qKAvJrWWMu7varZBacrml) | [msht](https://open.spotify.com/artist/5XD3dFUaYtaiBRrs7UbakO) | [OneShot](https://open.spotify.com/album/7jloJLmSc8M4xuLHwIVNN2) | 2:32 | 2023-06-15 | 2023-06-21 |
-| [OneShot](https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM) | [msht](https://open.spotify.com/artist/5XD3dFUaYtaiBRrs7UbakO) | [OneShot](https://open.spotify.com/album/5dfKkLx9NF3xgwKo3pfxrq) | 2:32 | 2023-06-20 |  |
+| [OneShot](https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM) | [msht](https://open.spotify.com/artist/5XD3dFUaYtaiBRrs7UbakO) | [OneShot](https://open.spotify.com/album/5dfKkLx9NF3xgwKo3pfxrq) | 2:32 | 2023-06-20 | 2023-06-29 |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2021-08-30 | 2021-08-31 |
 | [OVERHEAVEN](https://open.spotify.com/track/37GixdIXusxU3cn3Yfg6OK) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [OVERHEAVEN](https://open.spotify.com/album/7cGzRGiEgrRcSjuFPMvjZx) | 2:10 | 2022-12-31 | 2023-01-02 |
 | [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 | 2022-02-26 | 2022-03-22 |
@@ -789,6 +789,7 @@
 | [КАК MOMMY](https://open.spotify.com/track/0R848ny5sEpVuR1tMXZNFr) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [POPSTAR](https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj) | 2:09 | 2022-12-27 | 2023-02-22 |
 | [Как всё идёт](https://open.spotify.com/track/4xr9KGCh5JgqkQ2fy1MWjy) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:41 | 2022-11-19 | 2022-11-26 |
 | [Как до луны \(Drizzy flow\)](https://open.spotify.com/track/5iRS753YMGeNBOWAQFXTND) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:20 | 2021-08-15 | 2021-08-16 |
+| [как же он силён](https://open.spotify.com/track/4DSv3lnsjCH6QEG7StCiJD) | [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7), [Barikader](https://open.spotify.com/artist/6TkS0ajI5AKah8k4NN0AAD) | [как же он силён](https://open.spotify.com/album/77hI2ZqdzX75nAYWjYsC6v) | 2:54 | 2023-06-28 |  |
 | [Как на войне](https://open.spotify.com/track/12Jgi4t8YPs8G858lNGfZm) | [Agatha Christie](https://open.spotify.com/artist/6UvQrW56NzLbUtAKIdTg8N) | [Ностальгия](https://open.spotify.com/album/2orZvcMdBAZrh9iO1SX1FD) | 4:04 | 2023-03-27 | 2023-04-30 |
 | [Как тебя покорить](https://open.spotify.com/track/1CqOEa4NIRBaWR6sNHTDTo) | [Перемотка](https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2) | [Начало прекрасной дружбы](https://open.spotify.com/album/1SyTRxa2OlwnzXGyrGtfOU) | 3:38 | 2021-05-11 | 2022-03-04 |
 | [Калека \(Prod\. by VisaGangBeatz x Nastyboy24k\)](https://open.spotify.com/track/3aSgG5KhnoCuVoPOOpmSl6) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 2:16 | 2021-03-27 | 2021-03-29 |
@@ -971,7 +972,7 @@
 | [Птичка](https://open.spotify.com/track/6Abmb1Nh7Bc5U6o4iEgSDH) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [Птичка](https://open.spotify.com/album/1jODMZb23tkxLfaDHcgnse) | 3:10 | 2021-05-23 | 2021-10-20 |
 | [Пушка](https://open.spotify.com/track/3UlGli59XnXKdaocUFn0gw) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Пушка](https://open.spotify.com/album/4R38tSYY31xhqOFincgFb0) | 3:23 | 2021-06-28 | 2021-09-30 |
 | [Рамок нет](https://open.spotify.com/track/5hxp2TrctRjKSvu9LDhjsS) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:50 | 2021-04-29 | 2021-05-03 |
-| [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 |  |
+| [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 | 2023-06-29 |
 | [Расстояние](https://open.spotify.com/track/10sZQtPs0nGSQOl8usFePV) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:05 | 2021-04-10 | 2021-04-11 |
 | [Рашн Роуд Рейдж](https://open.spotify.com/track/0zkmYBCfhQQ4GObqz2HQG3) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:38 | 2021-12-03 | 2021-12-06 |
 | [Ребром](https://open.spotify.com/track/2aQgGle0AyaUEA70sA9Nnf) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [NO BANG! HOLD ON!](https://open.spotify.com/album/7uLeEgq6ndnivtW6Kwh5ar) | 2:18 | 2022-03-26 | 2022-03-28 |
@@ -1080,7 +1081,7 @@
 | [Фэм \(feat\. blago white\)](https://open.spotify.com/track/3Hn9fQkOSSuq4YFa6QK6ot) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [blago white](https://open.spotify.com/artist/5UlVY7KwBwUPvHs1JtmUqy) | [Фэм \(feat\. blago white\)](https://open.spotify.com/album/1eQL6BtYwo6xftQI5KhsOe) | 2:45 | 2021-09-26 | 2021-09-28 |
 | [Халливуд Хоус](https://open.spotify.com/track/24OKb78jzb0IEUKlNWnfcR) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Халливуд Хоус](https://open.spotify.com/album/0mEvl65Cm91K1EAIjiGfOG) | 2:25 | 2022-03-26 | 2022-04-06 |
 | [Хвилi \(feat\. Jerry Heil\)](https://open.spotify.com/track/0fQ4uYwlzD6TYVobAoz8Qt) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Хвилi \(feat\. Jerry Heil\)](https://open.spotify.com/album/0wiLpMXy37lbSQIlU3oZpN) | 3:01 | 2022-05-16 | 2022-05-29 |
-| [Хвилями](https://open.spotify.com/track/5u6TLP2prHSvtKi0SPUKFI) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Хвилями](https://open.spotify.com/album/4FtIkDZ8ceS33JGXrZOGo4) | 2:29 | 2023-03-11 | 2023-06-25 |
+| [Хвилями](https://open.spotify.com/track/5u6TLP2prHSvtKi0SPUKFI) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Хвилями](https://open.spotify.com/album/4FtIkDZ8ceS33JGXrZOGo4) | 2:29 | 2023-03-11 |  |
 | [Хентай](https://open.spotify.com/track/5UA91vNE3eOl7xeRGFa7tg) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Rakhim](https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0) | [Anima](https://open.spotify.com/album/0ewDEDSjEdKbz5js3v7q2v) | 3:20 | 2021-07-25 | 2021-08-12 |
 | [ХЛОПАЙ](https://open.spotify.com/track/0UDtb0fUqBkpXLF52Ry2lg) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [MONEYDEALER](https://open.spotify.com/album/4n9BQVu07XjxoncNbAusUR) | 2:02 | 2021-11-21 | 2021-12-14 |
 | [Хоп\-механика](https://open.spotify.com/track/3KGyzyAIUPP6wLXc7NhtrH) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:18 | 2021-12-03 | 2021-12-18 |

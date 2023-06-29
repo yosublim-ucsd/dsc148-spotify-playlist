@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Nandy
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,606 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,660 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [How You Move](https://open.spotify.com/track/1bDINdR04Sqsnc9Wtu4XYD) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t) | [Make You Dance](https://open.spotify.com/album/76JePhiYaCK9EM1T1U9yRT) | 3:06 |
 | 70 | [Msela](https://open.spotify.com/track/4upDXvDKpFZPSYRDLqB1hh) | [Hamadai](https://open.spotify.com/artist/78SJ8LXcqTSHyJ6nCxKLay), [Chidi Beenz](https://open.spotify.com/artist/4GFb7Q4qF3Jg3lchid0aYJ) | [Msela](https://open.spotify.com/album/7CIU4vCiIDpZwDN226FcZh) | 2:32 |
 
-Snapshot ID: `MCwwYzJkMDNmNDBmYzMyNjIwMjM0YjZhMjg5NjViODZiODdkMzI2NGVj`
+Snapshot ID: `MCw4Njc5YjM3MTk0ODAwNDg4YjRiYTk0MDk2MTBjNzg0N2NjZmU2NTZl`

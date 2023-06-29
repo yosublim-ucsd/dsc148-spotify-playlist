@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,358 songs - 5 day 15 hr 15 min
+2,360 songs - 5 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [And So It Begins](https://open.spotify.com/track/6N59LGxW3G0rfEX5a2lyx2) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Future Wars](https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1) | 2:05 | 2022-05-06 | 2022-05-30 |
 | [and then the earth opened up](https://open.spotify.com/track/0BHUY2vfypaJPKllvbxX70) | [Cam Jelli](https://open.spotify.com/artist/4yjpHRAT830MAdwdEXgGN5) | [Thoughts From A Black Hole](https://open.spotify.com/album/09NUOeaOhfSWyaZJrCix0j) | 2:54 | 2022-05-06 | 2022-05-22 |
 | [And We Sing](https://open.spotify.com/track/6FTJlQ7MG6GMQPEXjU6Zif) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Undivided](https://open.spotify.com/album/1M7mmtyHPvGhbp8Sb7vkDt) | 4:55 | 2021-01-12 | 2021-01-21 |
+| [Ando Sola](https://open.spotify.com/track/1iMJ37IxhxfWoNCJLODZLq) | [Ariel Assad](https://open.spotify.com/artist/7ciV3Sbbl4XKYLLhtLzm8p) | [Ando Sola](https://open.spotify.com/album/29GVWbVQEICyv9UtQmoyMv) | 2:50 | 2023-06-28 |  |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-07-06 | 2022-07-27 |
 | [Angel Blue](https://open.spotify.com/track/3umLKsmP1LPHIF2hJocayK) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Angel Blue](https://open.spotify.com/album/4I5uVln7qDBVIpdp3NAR78) | 3:05 | 2021-08-24 | 2021-09-11 |
 | [Angel Boy](https://open.spotify.com/track/0dQKlmok37veSI3FBGdoXs) | [William Bolton](https://open.spotify.com/artist/1NPkkY0RutjrXakIihpIiS) | [Highlights](https://open.spotify.com/album/7ApzmB6mx4hAVdX3ojEBl3) | 3:18 | 2020-04-22 | 2020-05-24 |
@@ -457,6 +458,7 @@
 | [Conséquence](https://open.spotify.com/track/45maHVGVAxDBaNap9dUMwN) | [Kékélé](https://open.spotify.com/artist/4qjqvzyR3Kq2W9puCX2wE7) | [Kinavana](https://open.spotify.com/album/62hYg9ivSjwLvL5Bl2SzUf) | 5:18 | 2021-07-11 |  |
 | [Control \- Radio Edit](https://open.spotify.com/track/24f6lxQMh5sRO0IYQuyFVG) | [Viv Castle](https://open.spotify.com/artist/36dY5pyTYB2hHWaY74Jiaa) | [Control](https://open.spotify.com/album/199HwgVBWR72iJF9nCSmQm) | 3:16 | 2022-10-21 | 2022-11-12 |
 | [Conversations](https://open.spotify.com/track/0hzSetvPTEgHqyQx9dm0Z9) | [Darryl Anders Agapesoul](https://open.spotify.com/artist/4ha6LdVuHGJLHOqDiY9Pt3) | [Conversations](https://open.spotify.com/album/5gIexd8JcYkCohdl5x8Cyw) | 5:15 | 2019-11-17 | 2019-12-04 |
+| [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-06-28 |  |
 | [Cool Kid](https://open.spotify.com/track/6MeU7xxejPu6PfQYGzTR2n) | [Madeleine Kelson](https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg) | [While I Was Away](https://open.spotify.com/album/6em5uVXjUmKhK63DBEH35C) | 2:29 | 2022-04-13 | 2022-04-29 |
 | [Cool To Be Unhappy](https://open.spotify.com/track/4lww9YpLfYGGKzf0rSdFKy) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [Cool To Be Unhappy](https://open.spotify.com/album/5wT3T8aw5yUMVLlvVWltHX) | 4:25 | 2020-03-28 | 2020-04-09 |
 | [Cosa de Ayer](https://open.spotify.com/track/3RMLCEaw7IPEjgsfIpSvYO) | [Versalico](https://open.spotify.com/artist/465UIJLuLlDagvwsKLLjkN) | [Cosa de Ayer](https://open.spotify.com/album/73ravBkCbJcCLEth9R4fEl) | 3:25 | 2023-02-17 | 2023-03-18 |

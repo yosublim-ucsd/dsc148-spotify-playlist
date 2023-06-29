@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Giulia Be",
-  "num_followers": 426620,
+  "num_followers": 426715,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDNjMjY1YjI4ZDViZTljNzkxOTU3ZjIzZGFiZGRkNzU3YzkyODgz",
+  "snapshot_id": "MCw4ZWIzOTVkYTM3MmQ1ZmFkMDg5ODAwNTY5NDgzYmExN2M5NzczMDA4",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Farol das Estrelas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Farol das Estrelas - Ao Vivo",
-      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Quintal",
         "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 177014,
       "name": "Mais Que Ontem",
       "url": "https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Tarde no Walkiria",
-        "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
-      },
-      "artists": [
-        {
-          "name": "\u00cdtallo",
-          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
-        },
-        {
-          "name": "Marina Nemesio",
-          "url": "https://open.spotify.com/artist/1jLb1hc9fbV18QKGtkclMR"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Retrato de Maria L\u00facia",
-      "url": "https://open.spotify.com/track/4mjBM5IAzxuKcYIgrH0oDF"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Eu Vou",
         "url": "https://open.spotify.com/album/5FHWaoHjuzvpb78PspRXt3"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 194805,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/2BFCkaAduWLMqXOTzzjA1C"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Tarde no Walkiria",
+        "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
+      },
+      "artists": [
+        {
+          "name": "\u00cdtallo",
+          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
+        },
+        {
+          "name": "Marina Nemesio",
+          "url": "https://open.spotify.com/artist/1jLb1hc9fbV18QKGtkclMR"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Retrato de Maria L\u00facia",
+      "url": "https://open.spotify.com/track/4mjBM5IAzxuKcYIgrH0oDF"
     },
     {
       "added_at": "2023-06-23 03:00:00",

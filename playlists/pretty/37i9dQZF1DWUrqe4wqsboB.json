@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 1118,
+  "num_followers": 1172,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ5M2ZmZDkxYTRjNzQ2NTRmYzAzNTFhMDBkZTI3M2E5ZmY1OWY1",
+  "snapshot_id": "MCxiZmM2Mjc5NDg2MGRmZGZkZDM2MDBiM2JiMWYxYjUzMzUyY2MwMjU3",
   "tracks": [
     {
       "added_at": "2023-06-22 16:08:25",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-06-22 16:08:25",
       "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
-      },
-      "artists": [
-        {
-          "name": "Calma Carmona",
-          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
-        }
-      ],
-      "duration_ms": 174947,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
-    },
-    {
-      "added_at": "2023-06-22 16:08:25",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 187649,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2023-06-22 16:08:25",
+      "album": {
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
+      },
+      "artists": [
+        {
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+        }
+      ],
+      "duration_ms": 174947,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
     },
     {
       "added_at": "2023-06-22 16:08:25",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-06-22 16:08:25",
       "album": {
+        "name": "Nacarile",
+        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 174080,
+      "name": "(Escap\u00e1ndome) de m\u00ed",
+      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
+    },
+    {
+      "added_at": "2023-06-22 16:08:25",
+      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 258523,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
-    },
-    {
-      "added_at": "2023-06-22 16:08:25",
-      "album": {
-        "name": "Nacarile",
-        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "(Escap\u00e1ndome) de m\u00ed",
-      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
     },
     {
       "added_at": "2023-06-22 16:08:25",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-22 16:08:25",
       "album": {
-        "name": "El Cuento de Cita",
-        "url": "https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX"
-      },
-      "artists": [
-        {
-          "name": "Cita",
-          "url": "https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Duermo con fr\u00edo",
-      "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
-    },
-    {
-      "added_at": "2023-06-22 16:08:25",
-      "album": {
         "name": "De Vuelta a Casa",
         "url": "https://open.spotify.com/album/5cWQZRUiVsVMK35FPJnNN0"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2023-06-22 16:08:25",
       "album": {
+        "name": "El Cuento de Cita",
+        "url": "https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX"
+      },
+      "artists": [
+        {
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Duermo con fr\u00edo",
+      "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
+    },
+    {
+      "added_at": "2023-06-22 16:08:25",
+      "album": {
         "name": "Miss Universos",
         "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-06-22 16:08:25",
       "album": {
-        "name": "Circuito por Mil\u00e1n",
-        "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
-      },
-      "artists": [
-        {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
-        }
-      ],
-      "duration_ms": 194707,
-      "name": "Circuito por Mil\u00e1n",
-      "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
-    },
-    {
-      "added_at": "2023-06-22 16:08:25",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 211474,
       "name": "Otra Noche en L.A.",
       "url": "https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD"
+    },
+    {
+      "added_at": "2023-06-22 16:08:25",
+      "album": {
+        "name": "Circuito por Mil\u00e1n",
+        "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
+      },
+      "artists": [
+        {
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+        }
+      ],
+      "duration_ms": 194707,
+      "name": "Circuito por Mil\u00e1n",
+      "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
     },
     {
       "added_at": "2023-06-22 16:08:25",
@@ -559,22 +559,6 @@
       "duration_ms": 241360,
       "name": "Watersport",
       "url": "https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D"
-    },
-    {
-      "added_at": "2023-06-22 16:08:25",
-      "album": {
-        "name": "Letra Pa' tu Coco",
-        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Live This One",
-      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
     },
     {
       "added_at": "2023-06-22 16:08:25",
@@ -639,6 +623,22 @@
       "duration_ms": 223703,
       "name": "Me Saben a Miel",
       "url": "https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh"
+    },
+    {
+      "added_at": "2023-06-22 16:08:25",
+      "album": {
+        "name": "Letra Pa' tu Coco",
+        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Live This One",
+      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
     },
     {
       "added_at": "2023-06-22 16:08:25",

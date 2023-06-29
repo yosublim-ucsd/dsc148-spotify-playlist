@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,281 likes - 113 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,299 likes - 113 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 81 | [NEEDS \(feat\. Cherrie\)](https://open.spotify.com/track/5GO8oufEukiOI18cpnoZPj) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [INSTRUMENT](https://open.spotify.com/album/0rlLiCVMUCxiFqlkSvYE1H) | 2:49 |
 | 82 | [I eget selskap](https://open.spotify.com/track/1N2fPU5eJ9FXaFpifH8TvY) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [I eget selskap](https://open.spotify.com/album/7rxox6myn7LNSjc47M16YH) | 3:00 |
 | 83 | [Julia](https://open.spotify.com/track/5IBXVABregRkRzIACN6Beo) | [Broder Jakob](https://open.spotify.com/artist/6O55JxNwObW4tmmL0jO9zy) | [Julia](https://open.spotify.com/album/6UhpSpsq6Fy1wttsSoMRhU) | 3:49 |
-| 84 | [Båstad](https://open.spotify.com/track/1CEmnLTY9w3I2YpVxGRC7Q) | [August](https://open.spotify.com/artist/2SXFnOJmKSUldMVByAbGy6) | [Båstad](https://open.spotify.com/album/6tRO6wjj1G8PqEbAIpcyDq) | 2:51 |
+| 84 | [Båstad](https://open.spotify.com/track/1CEmnLTY9w3I2YpVxGRC7Q) | [AUGUST](https://open.spotify.com/artist/2IaGZ1FmsWFP9YHzTMQK3s) | [Båstad](https://open.spotify.com/album/6tRO6wjj1G8PqEbAIpcyDq) | 2:51 |
 | 85 | [GULD OCH GRÖNA SKOGAR](https://open.spotify.com/track/0LGJdiWthk0LDofMDi43N2) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Mr DUNK](https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt) | [GULD OCH GRÖNA SKOGAR](https://open.spotify.com/album/3acgcGykyEddNyDIdnZ9kZ) | 2:30 |
 | 86 | [Flickor bak i bilen](https://open.spotify.com/track/1fLfC8TNkfYtseVFyo8Wdo) | [Badpojken](https://open.spotify.com/artist/4YNxH9hXMuqlvG7rLTtLa1) | [Flickor bak i bilen](https://open.spotify.com/album/5KeySqfQDHGQFpGMOdfwNC) | 2:51 |
 | 87 | [Stockholm](https://open.spotify.com/track/1V65thUhGKzu2rpYyYGyuE) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Stockholm](https://open.spotify.com/album/25BjgV8k9V9WMjvSMJEwKO) | 4:14 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 112 | [Beat City](https://open.spotify.com/track/3hvibDf1HwjZ5EaBDLNXuU) | [Glasvegas](https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl), [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Beat City](https://open.spotify.com/album/24dvTabCeaI9o4ntJdf78h) | 1:42 |
 | 113 | [Desolation](https://open.spotify.com/track/3ZD0qLiUdLVn1eWDfDhaq2) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Desolation](https://open.spotify.com/album/0iVToj9ECjMRQXrqHJFWj9) | 4:05 |
 
-Snapshot ID: `MCw5MjVkMDkxZTE1MDVhMzM5MTVkMGRmOGI5MDViZjQ4NWRhOTFmZjBm`
+Snapshot ID: `MCxjMDZjOTFmNjNkMjQzMzA0Y2Y4YjBiMmQyNzNlMDVmMzQ3ZGQ3NWI5`

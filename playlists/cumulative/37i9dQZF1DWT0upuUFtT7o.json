@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 177143,
       "name": "Art House",
       "url": "https://open.spotify.com/track/2GkjgiuBawwpL48d0TGQEL"
@@ -2212,6 +2212,24 @@
       "duration_ms": 236920,
       "name": "Awake",
       "url": "https://open.spotify.com/track/7bB11pVkZkLe6UEjEqJd88"
+    },
+    {
+      "album": {
+        "name": "The McCharmlys",
+        "url": "https://open.spotify.com/album/3Cj6EtB4yjFGmWbyTQ3iMd"
+      },
+      "artists": [
+        {
+          "name": "The McCharmlys",
+          "url": "https://open.spotify.com/artist/09l8Gk7eyahBzFK3FxnFAT"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206762,
+      "name": "Awful Thing",
+      "url": "https://open.spotify.com/track/3SeQJb8SJrGhURSdMHneMO"
     },
     {
       "album": {
@@ -15739,6 +15757,24 @@
     },
     {
       "album": {
+        "name": "Looking at You",
+        "url": "https://open.spotify.com/album/1hQanJQ8o0l3Sgf63MtrlL"
+      },
+      "artists": [
+        {
+          "name": "Juniper Honey",
+          "url": "https://open.spotify.com/artist/0KwqvjIByt3CTj5OnldokY"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206820,
+      "name": "Looking at You",
+      "url": "https://open.spotify.com/track/0qYNUduazu2fVQ78BiMkGp"
+    },
+    {
+      "album": {
         "name": "Cryo",
         "url": "https://open.spotify.com/album/5Y27T3hgkcXG4cCVIqNyZp"
       },
@@ -16858,7 +16894,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-29",
       "duration_ms": 253932,
       "name": "Mio",
       "url": "https://open.spotify.com/track/6cl3amT9HIxuSYxNZnPmlY"

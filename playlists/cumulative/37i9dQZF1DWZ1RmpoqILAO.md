@@ -4,7 +4,7 @@
 
 > \*pinegrove shuffle intensifies\* Cover: boygenius
 
-115 songs - 7 hr 52 min
+116 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Solar Pilgrim](https://open.spotify.com/track/1UhfqG8us3X5rygBwy4POa) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt) | 5:20 | 2023-02-23 |  |
 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 | 2023-02-23 |  |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2023-02-23 |  |
+| [Somewhere In The Middle](https://open.spotify.com/track/2E4JCuZ0tMWeRTTSiaTvBT) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Somewhere In The Middle](https://open.spotify.com/album/73Rso0TopoEw4xGJppcHki) | 3:27 | 2023-06-28 |  |
 | [Sprinkler Song](https://open.spotify.com/track/5AjnU8UASsUymoryckJ8Ak) | [Charlie Havenick](https://open.spotify.com/artist/3pKBOpNvBfoytn7fNArMHi) | [Sprinkler Song](https://open.spotify.com/album/2uzdT65t9cTJeekpeI3nHy) | 3:58 | 2023-02-23 |  |
 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 | 2023-02-23 |  |
 | [Sunset Song](https://open.spotify.com/track/32AeyVrhv4GBXX9CqCp9J3) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Jack Symes & the River House](https://open.spotify.com/album/2WR2L77NLqrX0wr3MnXjwW) | 3:57 | 2023-06-09 |  |

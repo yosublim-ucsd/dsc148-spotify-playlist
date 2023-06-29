@@ -1,13 +1,29 @@
 {
   "description": "Shawty lo que necesitas es darle flow. Maria Becerra en Portada. ",
-  "num_followers": 550597,
+  "num_followers": 550684,
   "original_name": "Dale Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWVmZTc4MDQwOWI1Mjg3YzQzM2JiMmJkZTVkM2NjMWJhYzg4ZTYx",
+  "snapshot_id": "MCwyMjAyMjYzYzViMDM5NjBmODhhMWM1MzUxMWQ3ZjM0YWZjZDBjYTBi",
   "tracks": [
+    {
+      "added_at": "2023-06-28 23:27:38",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {

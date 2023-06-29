@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Choi HEART\(최하트\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-296 songs - 18 hr 26 min
+297 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Fantasy 환상](https://open.spotify.com/track/3LvH2lQUntKlOnVpeleN6A) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Fantasy 환상](https://open.spotify.com/album/0x3N3cCTdp0G4bVC9douOO) | 3:30 | 2022-05-11 | 2022-07-29 |
 | [feelight!](https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [feelight!](https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj) | 3:05 | 2022-07-04 | 2022-08-22 |
 | [Find me](https://open.spotify.com/track/7xRrS3FHDkUiDvhFXceyhZ) | [Soppy](https://open.spotify.com/artist/6hH5LLQUCxSckZ5EEmcVJm) | [Find me](https://open.spotify.com/album/39TnHfqboN2tNkKpXG0oTp) | 3:20 | 2022-05-11 | 2022-06-13 |
-| [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 | 2022-05-11 |  |
+| [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 | 2022-05-11 | 2023-06-29 |
 | [First Winter](https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [First Winter](https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA) | 4:00 | 2022-05-11 |  |
 | [Flight](https://open.spotify.com/track/6XXqH3KcRkpDNJYf2kRhBA) | [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [SURFING](https://open.spotify.com/album/4gjhFa54JUgELzHmQoR4J1) | 3:32 | 2022-05-11 | 2022-06-28 |
 | [Forget You \(Feat\. Rainbow note, Louie\)](https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC) | [Aliven](https://open.spotify.com/artist/3SIrYEcYXK0tFWf6dA0Q4E), [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [Forget You](https://open.spotify.com/album/60zXXx58lbLisnStPn442S) | 4:38 | 2022-07-04 | 2022-08-13 |
@@ -263,6 +263,7 @@
 | [Tonight](https://open.spotify.com/track/7sO5L1MHG4Rgwg6ARMS7GD) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Tonight](https://open.spotify.com/album/2nEXBIArDYdR0CtfN6XXWM) | 3:55 | 2022-05-11 | 2022-07-27 |
 | [Upgrader](https://open.spotify.com/track/2kB1R4QcWMQFeElVzOHvTO) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Simple Mind](https://open.spotify.com/album/1eFLEjmPn7qdHprS4v1O52) | 4:13 | 2022-05-11 | 2022-07-29 |
 | [Venus](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 | 2022-07-22 | 2023-06-03 |
+| [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 | 2023-05-05 |  |
 | [Venus 샛별](https://open.spotify.com/track/0jPTHhBv2teXdzPdA1fudj) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus 샛별](https://open.spotify.com/album/0QjW6YvhLtV4BQGWiIX4ZP) | 3:32 | 2022-05-11 | 2022-07-29 |
 | [Virtual World](https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/5xiBNgDcroZnam0CXegDOu) | 3:24 | 2022-05-11 | 2022-07-29 |
 | [When My Loneliness Calls You](https://open.spotify.com/track/1wV9pJyx8kCoB20nbRI3R5) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/33o1YsuLhGhY1HCq6TKd9X) | [When My Loneliness Calls You \(From The Original TV Show "Live On"\)](https://open.spotify.com/album/2H4grijt12bvvaeJyLcXCc) | 4:17 | 2022-05-11 | 2022-07-29 |

@@ -1702,7 +1702,7 @@
     {
       "album": {
         "name": "silky",
-        "url": "https://open.spotify.com/album/58qnZnXarK7UW0F1C0VPDV"
+        "url": "https://open.spotify.com/album/5D4AJjp6ggGo9NvwFs7QAR"
       },
       "artists": [
         {
@@ -1713,6 +1713,24 @@
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 257077,
+      "name": "silky",
+      "url": "https://open.spotify.com/track/0MKUVUddZJj3ZMyEs8rRoa"
+    },
+    {
+      "album": {
+        "name": "silky",
+        "url": "https://open.spotify.com/album/58qnZnXarK7UW0F1C0VPDV"
+      },
+      "artists": [
+        {
+          "name": "showmore",
+          "url": "https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
       "duration_ms": 257077,
       "name": "silky",
       "url": "https://open.spotify.com/track/3bVJmvwK9808yDjqcfKhKe"
@@ -1912,7 +1930,7 @@
     {
       "album": {
         "name": "sweet moratorium",
-        "url": "https://open.spotify.com/album/3nN4eds8EEDfJJCPBwJozs"
+        "url": "https://open.spotify.com/album/0z7Uxp2r3dDeOcUPZtiqJW"
       },
       "artists": [
         {
@@ -1923,6 +1941,24 @@
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186093,
+      "name": "sweet moratorium",
+      "url": "https://open.spotify.com/track/3FSfhJGSLRu45IVkwUG4Tg"
+    },
+    {
+      "album": {
+        "name": "sweet moratorium",
+        "url": "https://open.spotify.com/album/3nN4eds8EEDfJJCPBwJozs"
+      },
+      "artists": [
+        {
+          "name": "Emi Okamoto",
+          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
       "duration_ms": 186093,
       "name": "sweet moratorium",
       "url": "https://open.spotify.com/track/4176uZIGkBroM4czZZTtte"

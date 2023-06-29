@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKvqCSbZRTE.md) - [plain]
 
 > Episode yang harus selalu didengarkan di sekitaran radar kamu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCwxODMyZTVkNzk0ZDBhMDU0OTU0ODlkYTA2YmMwNjhlYzZkM2EyYTRl`
+Snapshot ID: `MCw1ZWNkZWNlZmU4YmI0NWZlYjM2OTVkOGFiNzNmOTEyMjFiOWU0NGJk`

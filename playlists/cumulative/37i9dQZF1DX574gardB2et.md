@@ -2,7 +2,7 @@
 
 ### [Hit Repeat](https://open.spotify.com/playlist/37i9dQZF1DX574gardB2et)
 
-> The hits you just keep coming back to\. Cover: Lizzo
+> The hits you just keep coming back to\. Cover: Olivia Rodrigo
 
 62 songs - 3 hr 26 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,488 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,636 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 13 | [LOVE \(House Remix\) \[feat\. Maffio & De La Ghetto\]](https://open.spotify.com/track/3c38qsJSL2oq7FT7xZEbun) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [De La Ghetto](https://open.spotify.com/artist/0H1Xmnd3A3M3CwQW6GVpwW) | [LOVE \(House Remix\) \[feat\. Maffio & De La Ghetto\]](https://open.spotify.com/album/3RpLm99VkXYhsTkRGdLGEQ) | 4:09 |
 | 14 | [In Da Getto \- Henry Fong Remix](https://open.spotify.com/track/0k4RcppaFqE0a43xxliMyv) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [JOSE \(Deluxe Edition\)](https://open.spotify.com/album/0FY6R5PCvGh0VmKzuCNFkx) | 2:33 |
 | 15 | [BORRACHO](https://open.spotify.com/track/0z6rO3Se32soBLW3qQY4mR) | [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ) | [BORRACHO](https://open.spotify.com/album/1dY2UPcCMXivK623fznX6z) | 2:51 |
-| 16 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 |
+| 16 | [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 |
 | 17 | [PALITO RICO \- J Rythm Remix](https://open.spotify.com/track/0fNJjnsG1CXCdItPyzYPA8) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm) | [PALITO RICO \(The Remixes\)](https://open.spotify.com/album/2qRYdWneqAnnEqo1pLKb2Z) | 4:13 |
 | 18 | [Aguila ft\. Cumbiafrica](https://open.spotify.com/track/6WLZljpPR8EiUT2LDubJ6T) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila ft\. Cumbiafrica](https://open.spotify.com/album/3E02tEWunwSUsnGYw09IJs) | 2:48 |
 | 19 | [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 58 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 |
 | 59 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 |
 
-Snapshot ID: `MCw3YWZhNzkxNTIzNTQ1YWI1MDFjM2ZlNjlkODkyMTgwMjIxZDk1OGEw`
+Snapshot ID: `MCw4Nzk5YjU2Njg5MzY1ZGJiOWI0MjY4ZjA0ZjAzZDU4MmQ0YTRlNWQz`

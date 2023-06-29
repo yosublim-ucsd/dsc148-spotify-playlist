@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 | 60 | [Rhapsody on a Theme of SaGa FRONTIER 2 \(1\)](https://open.spotify.com/track/7H4EyLUCTyxx1c5GOa3Aeg) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [Piano Pieces ”SF2” Rhapsody On a Theme of SaGa FRONTIER 2 \(2010 Edition\)](https://open.spotify.com/album/3II2BTx1jAXqS2MIHbTFYB) | 2:32 |
 | 61 | [”β”1:Botschaft](https://open.spotify.com/track/1gBftSuhkL3fECxz8qIX06) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [Piano Pieces ”SF2” Rhapsody On a Theme of SaGa FRONTIER 2 \(2010 Edition\)](https://open.spotify.com/album/3II2BTx1jAXqS2MIHbTFYB) | 2:02 |
 
-Snapshot ID: `MCxlYTgxZWFkMzM5YzMzNjgxMThhYzgwMjk4MjU4MDcyM2Y4OTYzYTU5`
+Snapshot ID: `MCxlYjUyNmI4ZGQxOTBlMzlmNWQyNmMxZDliYWNlY2U2MzllZDcyM2Q3`

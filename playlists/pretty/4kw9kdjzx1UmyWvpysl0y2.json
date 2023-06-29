@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127217,
+  "num_followers": 127221,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDI4Myw5MjM5M2U0ODE5NjFjZDhjODcyZTBjZDQ0OWQ2Zjk5YTJkN2IxZDI5",
+  "snapshot_id": "NDI4OCxlMDBlZDUwYTEzMTdmOGYxOTEyNDhkZTUwNjUyYWY2NGZhNDczNWY5",
   "tracks": [
+    {
+      "added_at": "2023-06-28 22:11:36",
+      "album": {
+        "name": "Melodramatic",
+        "url": "https://open.spotify.com/album/5ioDu9pPJd1Jty8OuH9if7"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Backseat Lovers",
+      "url": "https://open.spotify.com/track/1ZfkZlBTFl804LoRIvAvdq"
+    },
+    {
+      "added_at": "2023-06-28 22:10:55",
+      "album": {
+        "name": "Break It Down",
+        "url": "https://open.spotify.com/album/6kR6ZW6AdWViJksGqmLzEO"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 161777,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/1KY425EZEJPqgeisOplYGJ"
+    },
     {
       "added_at": "2023-06-26 20:11:01",
       "album": {
@@ -1115,22 +1147,6 @@
       "duration_ms": 246260,
       "name": "Talk To You",
       "url": "https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw"
-    },
-    {
-      "added_at": "2023-04-05 17:07:16",
-      "album": {
-        "name": "Vermin",
-        "url": "https://open.spotify.com/album/47lB5nD266T3nhDeSJjRdv"
-      },
-      "artists": [
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        }
-      ],
-      "duration_ms": 176444,
-      "name": "Vermin",
-      "url": "https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

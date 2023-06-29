@@ -1,15 +1,15 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 164792,
+  "num_followers": 164838,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxMzExNTUsMDAwMDAwMDBlOWI2OGM1ZTFkMWY2NjZhZmMyYjlkMDE2MDM0YzRmMw==",
+  "snapshot_id": "MjgxMzI2NzAsMDAwMDAwMDA0MTNiOWI0NjY5NTU2YjI1YjdjYjk4ODM2NzQ1MDBkMw==",
   "tracks": [
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1io22Thmgw4SvhVBNawJD5"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Four The Record",
         "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "If I Was a Cowboy",
         "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
@@ -185,10 +185,10 @@
       "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
       },
       "artists": [
         {
@@ -196,12 +196,12 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Settling Down",
-      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
+      "duration_ms": 185800,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
@@ -217,7 +217,23 @@
       "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Settling Down",
+      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
+    },
+    {
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Rearview Town",
         "url": "https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/2dwoqUYTy6SOy1dFqcTndC"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Hell On Heels",
         "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/0sgnJ5LFjEy2IuQ99NEZ1C"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/08NPIspzvBNj88lHalgA4V"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/0NsuUdm4N9Ih1xluu2cWp0"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Four The Record",
         "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Fuse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/5Net7uzpcqkJtOwR22onye"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/4EDeBzhZMcHEx7A8IcDiaL"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "The Cowboy Rides Away: Live From AT&T Stadium",
         "url": "https://open.spotify.com/album/2L2L5dwy8JCw6zqslBaASk"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/61FfiL8hYFXh5qe7tuBsar"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/05Rdg52eBYVUy5A55rnz39"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Boys 'Round Here (feat. Jason Aldean, Luke Bryan, Ronnie Dunn, Miranda Lambert, Brad Paisley, Reba, Josh Turner, Keith Urban & Hank Williams, Jr.) [Celebrity Mix]",
         "url": "https://open.spotify.com/album/0uy7TaqSAa52Qex8T2abxu"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/02wmEyZ3biRECnBbRwWliU"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Four The Record",
         "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
@@ -821,7 +837,7 @@
       "url": "https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Annie Up",
         "url": "https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/2UJCeZzKOzrH6utaz7NoFr"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
@@ -881,7 +897,7 @@
       "url": "https://open.spotify.com/track/6vMiU1tMnWXkWlmMWjX6ZN"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
@@ -897,7 +913,7 @@
       "url": "https://open.spotify.com/track/1ksaL982agSeYAAUQlYrx5"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Hell On Heels",
         "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/2I8sTYMwuTsTL3K5vR6MB5"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/66hAuG73iyknIMW4icfEGg"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Y'all Means All (from Season 6 of Queer Eye)",
         "url": "https://open.spotify.com/album/5erJBPynDfaVs7es8K1kJ9"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0gWFFtKm8PaAJdpkajFlD1"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Four The Record",
         "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
@@ -1005,7 +1021,23 @@
       "url": "https://open.spotify.com/track/1hTSImeofoaFWptq9JSFpP"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
+      "album": {
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+    },
+    {
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Annie Up",
         "url": "https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG"
@@ -1033,7 +1065,7 @@
       "url": "https://open.spotify.com/track/2zwN5UpzCDnxk4tqWDaJF4"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Interstate Gospel",
         "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
@@ -1061,7 +1093,7 @@
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
@@ -1081,7 +1113,7 @@
       "url": "https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X"
     },
     {
-      "added_at": "2023-06-27 12:35:37",
+      "added_at": "2023-06-28 13:50:45",
       "album": {
         "name": "Cass County",
         "url": "https://open.spotify.com/album/3FLTH6ZJgA09fSirMfGMhX"
@@ -1103,38 +1135,6 @@
       "duration_ms": 270334,
       "name": "Bramble Rose",
       "url": "https://open.spotify.com/track/3ZM4ulEztk8iVlUJvf42Je"
-    },
-    {
-      "added_at": "2023-06-27 12:35:37",
-      "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "Pushin' Time",
-      "url": "https://open.spotify.com/track/3UiTRnMtgKxuL9uZJWj0IO"
-    },
-    {
-      "added_at": "2023-06-27 12:35:37",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "Airstream Song",
-      "url": "https://open.spotify.com/track/5FXLX6lLO3SWATDIqfTCzz"
     }
   ],
   "unique_name": "This Is Miranda Lambert",

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Barbi Recanati.\nDales play, dales power.",
-  "num_followers": 30328,
+  "num_followers": 30326,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjZhY2EyMTkzMTczYTM0MjQ3MzJmZjJiODQwMWQzYzFhMjZjNWI3",
+  "snapshot_id": "MCwzMTU5ZmRkYzczNDY2MzQ5YzZkMjRmOGFmYWU4ZDc4NDE2NzBhZTI0",
   "tracks": [
     {
       "added_at": "2023-06-05 03:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
+        "name": "Plaza de Mayo",
+        "url": "https://open.spotify.com/album/3pvuQJ6YkLj8JXLIA4BFxQ"
+      },
+      "artists": [
+        {
+          "name": "Valen Bonetto",
+          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
+        }
+      ],
+      "duration_ms": 212039,
+      "name": "Plaza de Mayo",
+      "url": "https://open.spotify.com/track/5cbbAhQ3hUl9Y9PYMBNek4"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
         "name": "Atada",
         "url": "https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 171605,
       "name": "Atada",
       "url": "https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
-        "name": "Plaza de Mayo",
-        "url": "https://open.spotify.com/album/3pvuQJ6YkLj8JXLIA4BFxQ"
-      },
-      "artists": [
-        {
-          "name": "Valen Bonetto",
-          "url": "https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd"
-        }
-      ],
-      "duration_ms": 212039,
-      "name": "Plaza de Mayo",
-      "url": "https://open.spotify.com/track/5cbbAhQ3hUl9Y9PYMBNek4"
     },
     {
       "added_at": "2023-06-05 03:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
+        "name": "Labios perdidos",
+        "url": "https://open.spotify.com/album/1GF0eBlLv6k573bjA1LDlT"
+      },
+      "artists": [
+        {
+          "name": "Hija de Tigre",
+          "url": "https://open.spotify.com/artist/3CnynS3VsGSiSmCli4EWQK"
+        }
+      ],
+      "duration_ms": 186228,
+      "name": "Labios Perdidos",
+      "url": "https://open.spotify.com/track/0xAVz2meL2yaZZnGgW3LJn"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
         "name": "XPERIMENTO",
         "url": "https://open.spotify.com/album/1IDTvTbyEyeoOfKzQvTi39"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 236938,
       "name": "XPERIMENTO",
       "url": "https://open.spotify.com/track/3LY2H6WiscVciPMQpsAFwY"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
-        "name": "Labios perdidos",
-        "url": "https://open.spotify.com/album/1GF0eBlLv6k573bjA1LDlT"
-      },
-      "artists": [
-        {
-          "name": "Hija de Tigre",
-          "url": "https://open.spotify.com/artist/3CnynS3VsGSiSmCli4EWQK"
-        }
-      ],
-      "duration_ms": 186228,
-      "name": "Labios Perdidos",
-      "url": "https://open.spotify.com/track/0xAVz2meL2yaZZnGgW3LJn"
     },
     {
       "added_at": "2023-06-05 03:00:00",

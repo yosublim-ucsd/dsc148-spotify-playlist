@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-882 songs - 2 day 4 hr 17 min
+883 songs - 2 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,7 +641,7 @@
 | [Shouldn't Matter but It Does](https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:56 | 2021-12-21 |  |
 | [Sign of the Times](https://open.spotify.com/track/2rFfIKpcNVG9pRHVe2CR04) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Sign of the Times](https://open.spotify.com/album/4EgAQOC5jSCHnW2uv077UI) | 4:35 | 2022-01-27 | 2022-07-24 |
 | [Silhouette](https://open.spotify.com/track/0ygOBx60exSPPvnI4sS28r) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 3:50 | 2022-03-24 |  |
-| [Silver Moon \- EP Version](https://open.spotify.com/track/5fm1kAOmwnlXStu270Mv84) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Land Of The Living EP](https://open.spotify.com/album/2wTv5Kxirms8GrHjYdx1w8) | 4:51 | 2022-03-24 |  |
+| [Silver Moon \- EP Version](https://open.spotify.com/track/5fm1kAOmwnlXStu270Mv84) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Land Of The Living EP](https://open.spotify.com/album/2wTv5Kxirms8GrHjYdx1w8) | 4:51 | 2022-03-24 | 2023-06-29 |
 | [Silvia Amberlie](https://open.spotify.com/track/7f88xAMmsAnn5SFchXzmQY) | [Endre Nordvik](https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb) | [Silvia Amberlie](https://open.spotify.com/album/298dOQO1vpn4j3jkiikC5G) | 2:41 | 2021-12-21 | 2022-07-29 |
 | [Sink In](https://open.spotify.com/track/6gQGeiEAMch2cIUPKzJQqM) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Sink In](https://open.spotify.com/album/6HZYZSyNok8gox8NBG7sst) | 3:20 | 2022-03-24 | 2022-04-20 |
 | [Skinny Love](https://open.spotify.com/track/1NyFRrFiJAJIaR6icj1goI) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/2JLDMOX168DhnueBb946kw) | 3:58 | 2022-03-24 | 2022-03-30 |
@@ -662,6 +662,7 @@
 | [Somebody Else](https://open.spotify.com/track/0i6THEyKTosGcCU9A5lq2G) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Somebody Else](https://open.spotify.com/album/6jozTJMyNQwuNCjxBVwXtA) | 3:25 | 2021-12-21 | 2022-07-29 |
 | [Somebody Else](https://open.spotify.com/track/5iw9R74uolZMI8bKv040HP) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Somebody Else](https://open.spotify.com/album/5Tw4DmpliBZrmH9uAlPgB7) | 3:25 | 2022-10-07 | 2022-11-13 |
 | [Somebody Loved](https://open.spotify.com/track/1wflx5YklLYToaIbXkrZSq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Somebody Loved](https://open.spotify.com/album/4T7n2myY9sAcGSJD2v0IAf) | 2:33 | 2021-12-21 | 2023-06-15 |
+| [Somebody Loved](https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Somebody Loved](https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL) | 2:33 | 2023-02-17 |  |
 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 | 2023-04-28 |  |
 | [Someone New](https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:41 | 2022-03-24 | 2023-02-25 |
 | [Something American](https://open.spotify.com/track/0SjWmoYajBMXHeh3DWZf9s) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 3:02 | 2022-10-07 |  |
