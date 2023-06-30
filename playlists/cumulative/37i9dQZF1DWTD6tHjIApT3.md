@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 佐藤千亜妃
 
-1,483 songs - 4 day 0 hr 25 min
+1,484 songs - 4 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -840,6 +840,7 @@
 | [WoMan](https://open.spotify.com/track/1p9N6K1rY6CAp7vSkMoXJh) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [WoMan](https://open.spotify.com/album/6qEYjX9e6N7coQPc052WIP) | 4:36 | 2022-08-23 | 2022-08-25 |
 | [WoMan](https://open.spotify.com/track/47pZkrGsknOMhqopbbQ31d) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [WoMan](https://open.spotify.com/album/5aZ7z0odlOxzL1ZSL8SvvP) | 4:36 | 2022-08-23 | 2022-08-31 |
 | [Wonderland](https://open.spotify.com/track/394oCRuzRAlpjgWhYE0Z2X) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Wonderland](https://open.spotify.com/album/1JOeGgY4MCY2LbvoCvCxma) | 4:17 | 2022-06-02 | 2022-07-21 |
+| [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-30 |  |
 | [WRONG](https://open.spotify.com/track/2aMTlOrWdKFu125tVvys96) | [yukaDD](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe) | [WRONG](https://open.spotify.com/album/0YgFREk3UW1z7KPXe6NL8T) | 2:55 | 2023-04-25 | 2023-05-03 |
 | [Xmas with U](https://open.spotify.com/track/4eUnlLhTvXCdOiycD9sBTL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Xmas with U](https://open.spotify.com/album/4vmHPYzDA4xACTxpakn6NN) | 3:23 | 2022-12-06 | 2023-01-13 |
 | [Yabaine Ai te Yatsuha](https://open.spotify.com/track/5yABMoN97qfeOv5mYHBDJn) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [Yabaine Ai te Yatsuha](https://open.spotify.com/album/5SfZwmJ0Lu90MHoGMIkbGW) | 3:39 | 2022-08-17 | 2022-08-24 |
@@ -919,7 +920,7 @@
 | [ずっとシットコム](https://open.spotify.com/track/52o3Pq2P93wXRVHmKNV7Bk) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [ヒトリヨブランコ](https://open.spotify.com/artist/0geEo5KES7ro49w3WTNjxW) | [ずっとシットコム](https://open.spotify.com/album/2qHY9HwuFzcAW2Q3Af02Dd) | 3:37 | 2022-09-27 | 2022-10-05 |
 | [ずるいね。](https://open.spotify.com/track/7FvwQpJiZHPfcFf8qUdnZF) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [ずるいね。](https://open.spotify.com/album/1A9Vx4V3CEmSWZDdwTZflI) | 3:20 | 2022-11-29 | 2022-12-14 |
 | [せまいまち](https://open.spotify.com/track/0GsTJVzM3lwS1CLwM0ad23) | [suya suya junction](https://open.spotify.com/artist/1yXOe73eSiTukW4jCKpgMh) | [hometown](https://open.spotify.com/album/69WUWZ6LknFCDrP1HM9zuB) | 4:11 | 2022-07-14 | 2022-07-20 |
-| [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 | 2023-03-07 |  |
+| [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 | 2023-03-07 | 2023-06-30 |
 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 | 2022-11-03 |  |
 | [それでも明日は](https://open.spotify.com/track/0joCT7IWQ6EnApIQAZaLDt) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [それでも明日は](https://open.spotify.com/album/7gI4sTv01zQvKaJ8R48LPz) | 4:05 | 2022-12-13 | 2022-12-15 |
 | [それを愛と呼ぶなら](https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [それを愛と呼ぶなら](https://open.spotify.com/album/5gdO6MiTK1Df7SGctJWtUs) | 4:54 | 2022-05-29 | 2023-05-03 |

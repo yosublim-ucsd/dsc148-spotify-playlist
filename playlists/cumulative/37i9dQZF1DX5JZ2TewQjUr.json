@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: P.R.O.J.E.C.T. 9, LilithQueenB, Micol",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Rae Law",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -4915,6 +4915,24 @@
     },
     {
       "album": {
+        "name": "put me in a coffin",
+        "url": "https://open.spotify.com/album/0azwnUzSsLhluB02Cx2xER"
+      },
+      "artists": [
+        {
+          "name": "erdocia",
+          "url": "https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243478,
+      "name": "put me in a coffin",
+      "url": "https://open.spotify.com/track/3cP4kUF6RJ1erMJ5xGafkD"
+    },
+    {
+      "album": {
         "name": "QUEST?ONS",
         "url": "https://open.spotify.com/album/3jN12LqDFLRF8EJn74RHKb"
       },
@@ -7069,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "You took my breath away",
+        "url": "https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz"
+      },
+      "artists": [
+        {
+          "name": "Nancy Kwai",
+          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184954,
+      "name": "You took my breath away",
+      "url": "https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz"
+    },
+    {
+      "album": {
         "name": "Your Eyes",
         "url": "https://open.spotify.com/album/5yolu7ryMRLvq8ZG0fpou7"
       },
@@ -7276,6 +7312,24 @@
       "duration_ms": 183008,
       "name": "\u4e0d\u53ef\u6551\u85e5\u7684...",
       "url": "https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u60f3\u518d\u60f3",
+        "url": "https://open.spotify.com/album/1zNqwvZu127NWwDq3egDGM"
+      },
+      "artists": [
+        {
+          "name": "Rae Law",
+          "url": "https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "\u4e0d\u60f3\u518d\u60f3",
+      "url": "https://open.spotify.com/track/00H2zvjFakugiw2Snw4JCF"
     },
     {
       "album": {

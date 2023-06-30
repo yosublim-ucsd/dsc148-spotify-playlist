@@ -1,12 +1,12 @@
 {
   "description": "make the whole place shimmer \u2728",
-  "num_followers": 143788,
+  "num_followers": 144080,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mzg3MTk5NmJkODUyMmVjMTcyMTI0MzIyZjRhMDQzNTVhYWI1OTRm",
+  "snapshot_id": "MCw5MjlhYjRmNzg2ZDExMDMxMjc1ZTg5M2Q1NmQxMWM5YjBhZDJiZDkx",
   "tracks": [
     {
       "added_at": "2023-03-24 19:32:15",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-24 19:32:15",
       "album": {
-        "name": "Giddy Up!",
-        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 162665,
-      "name": "Giddy Up!",
-      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
-    },
-    {
-      "added_at": "2023-03-24 19:32:15",
-      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 196360,
       "name": "Woman (feat. The Dap-Kings Horns)",
       "url": "https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth"
+    },
+    {
+      "added_at": "2023-03-24 19:32:15",
+      "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "added_at": "2023-03-24 19:32:15",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-03-24 19:32:15",
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "Something To Talk About",
-      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
-    },
-    {
-      "added_at": "2023-03-24 19:32:15",
-      "album": {
         "name": "Road Less Traveled",
         "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 216266,
       "name": "Road Less Traveled",
       "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
+    },
+    {
+      "added_at": "2023-03-24 19:32:15",
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "Something To Talk About",
+      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
     },
     {
       "added_at": "2023-03-24 19:32:15",
@@ -1131,38 +1131,6 @@
     {
       "added_at": "2023-03-24 19:32:15",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "The Way You Love Me",
-      "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
-    },
-    {
-      "added_at": "2023-03-24 19:32:15",
-      "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "Undo It",
-      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
-    },
-    {
-      "added_at": "2023-03-24 19:32:15",
-      "album": {
         "name": "Hell On Heels",
         "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
       },
@@ -1187,6 +1155,38 @@
       "duration_ms": 194386,
       "name": "Hell on Heels",
       "url": "https://open.spotify.com/track/0sgnJ5LFjEy2IuQ99NEZ1C"
+    },
+    {
+      "added_at": "2023-03-24 19:32:15",
+      "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "Undo It",
+      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
+    },
+    {
+      "added_at": "2023-03-24 19:32:15",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "The Way You Love Me",
+      "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
     },
     {
       "added_at": "2023-03-24 19:32:15",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-03-24 19:32:15",
       "album": {
-        "name": "Frame By Frame",
-        "url": "https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn"
-      },
-      "artists": [
-        {
-          "name": "Cassadee Pope",
-          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Wasting All These Tears",
-      "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
-    },
-    {
-      "added_at": "2023-03-24 19:32:15",
-      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 175229,
       "name": "YOU'RE DRUNK, GO HOME",
       "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
+    },
+    {
+      "added_at": "2023-03-24 19:32:15",
+      "album": {
+        "name": "Frame By Frame",
+        "url": "https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn"
+      },
+      "artists": [
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Wasting All These Tears",
+      "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
     },
     {
       "added_at": "2023-03-24 19:32:15",

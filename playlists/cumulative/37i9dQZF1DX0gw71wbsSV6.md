@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-186 songs - 11 hr 22 min
+187 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [You & I \(with Zack Tabudlo\)](https://open.spotify.com/track/2YZRBM2w68HXHgbKaRTlyw) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [You & I \(with Zack Tabudlo\)](https://open.spotify.com/album/0FPnGwztFm9X3r7C8kyX6l) | 2:32 | 2023-04-27 |  |
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2022-10-16 | 2023-01-11 |
 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 | 2023-04-13 |  |
+| [あけぼの \- 2023](https://open.spotify.com/track/7oIebM3d43QEtaQkpKKPRr) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [あけぼの \(2023\)](https://open.spotify.com/album/7DEvmHRVHWr0g4eFyKuW87) | 5:27 | 2023-06-29 |  |
 | [あびばのんのん](https://open.spotify.com/track/5RZSpJdflZrwVNLgHudc5t) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [あびばのんのん](https://open.spotify.com/album/6Ch5mvjky8GwIBmqO2c7LR) | 3:40 | 2023-01-10 | 2023-04-05 |
 | [すずらんの歌](https://open.spotify.com/track/5uGWTMTzfgIJrt1oZGGQE5) | [あんどうえりか](https://open.spotify.com/artist/2kGL5RB3qWLSeEpXGcLk44) | [Weave a humming](https://open.spotify.com/album/22l7aQjhcy232u4GoxWbsx) | 3:05 | 2022-10-25 | 2022-11-30 |
 | [ただで太った人生](https://open.spotify.com/track/3lYf2H0Vc0wQGj4OBhIRu5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 2:42 | 2022-11-30 | 2022-12-01 |
@@ -184,7 +185,7 @@
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-10-16 | 2023-05-10 |
 | [天使みたい](https://open.spotify.com/track/5PEYxq7KV9yzFIrEHkjGs7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 6](https://open.spotify.com/album/4WWffNfS89ASWOPRbJErja) | 5:20 | 2023-02-03 | 2023-02-05 |
 | [天使みたい](https://open.spotify.com/track/6UR6pJ7pNumC81tmG5S4jb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 5:22 | 2023-02-03 | 2023-05-31 |
-| [星のクズ Ω](https://open.spotify.com/track/0FrMQBEf3u7JOLX5pfWmgc) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ Ω](https://open.spotify.com/album/3xCP9E5w3dx6s8fuzviH1b) | 5:27 | 2023-02-17 |  |
+| [星のクズ Ω](https://open.spotify.com/track/0FrMQBEf3u7JOLX5pfWmgc) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ Ω](https://open.spotify.com/album/3xCP9E5w3dx6s8fuzviH1b) | 5:27 | 2023-02-17 | 2023-06-30 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2023-01-10 | 2023-04-13 |
 | [白に消える](https://open.spotify.com/track/1OuJkT1Ulr4cX6leXIoxGy) | [しずくだうみ](https://open.spotify.com/artist/70d9gkVbAbFJcJT0uEcNv7) | [白に消える](https://open.spotify.com/album/3wtO6CzZX6lqh2AuW8Uhwn) | 4:11 | 2023-01-19 | 2023-02-09 |
 | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/album/6kSvRLfGtkjgoQDGcseEOr) | 4:17 | 2023-04-04 | 2023-04-06 |

@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 177637,
       "name": "Black Gold",
       "url": "https://open.spotify.com/track/3v1Wty7YURzSJUnV78AQ4F"
@@ -1011,6 +1011,28 @@
     },
     {
       "album": {
+        "name": "DEEPFAKE",
+        "url": "https://open.spotify.com/album/1nDCAZDIObiigIXZVE82nn"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Mihalis Safras",
+          "url": "https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "DEEPFAKE",
+      "url": "https://open.spotify.com/track/67CSegLhAnL2RHPOnaakRs"
+    },
+    {
+      "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
@@ -1285,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Freakshow",
+        "url": "https://open.spotify.com/album/2H9aRFjhzT8l2bDVrWwPFM"
+      },
+      "artists": [
+        {
+          "name": "Govan Jones",
+          "url": "https://open.spotify.com/artist/5OHfhJA5Vwgc9U6OpkGfIm"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264963,
+      "name": "Freakshow",
+      "url": "https://open.spotify.com/track/1baHOoZsXsqLbvEIJKRzuT"
+    },
+    {
+      "album": {
         "name": "Get Lucky (With Kelli-Leigh)",
         "url": "https://open.spotify.com/album/32SBeISKsxzoVKD0a9iIPw"
       },
@@ -1300,7 +1340,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 177925,
       "name": "Get Lucky (With Kelli-Leigh)",
       "url": "https://open.spotify.com/track/332h3KTAmeomFwC5oTop19"
@@ -1326,6 +1366,28 @@
       "duration_ms": 186862,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
+    },
+    {
+      "album": {
+        "name": "Give It Up (REMETI Remix)",
+        "url": "https://open.spotify.com/album/1X94E58SxAGr7MdFCrSvpn"
+      },
+      "artists": [
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        },
+        {
+          "name": "REMETI",
+          "url": "https://open.spotify.com/artist/0gSoG6kI3ngqDL32OZfGcR"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Give It Up - REMETI Remix",
+      "url": "https://open.spotify.com/track/1x6L5u1efLOz8DQl9PA2C4"
     },
     {
       "album": {
@@ -3816,7 +3878,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 170087,
       "name": "Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA"

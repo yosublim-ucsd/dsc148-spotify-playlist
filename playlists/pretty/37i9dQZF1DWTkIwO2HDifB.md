@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Gol Bolinha, Gol Quadrado 2 e os funks mais 🔑 do Brasil\. Foto: MC Pedrinho, DJ 900
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,724,834 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,728,189 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 23 | [Aqui Na Parma Tu Vem Pra Fuder](https://open.spotify.com/track/3euydCfGHLFjuwHA7G7AUJ) | [DJ CIRILO DE CAXIAS](https://open.spotify.com/artist/4vU3LV354CpezI42tPRiVN), [Kaeny Mc](https://open.spotify.com/artist/0GM5Kxf1k00U2KzgFznWxi) | [Aqui Na Parma Tu Vem Pra Fuder](https://open.spotify.com/album/6TLHkb7dghgkYTlmtrZkM8) | 2:51 |
 | 24 | [Set Dj Boy 3.0](https://open.spotify.com/track/2xs2TwrlfamtW0DQqId0M5) | [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP) | [Set Dj Boy 3.0](https://open.spotify.com/album/6IoCwCs6YhWNicGqXKwTdA) | 6:49 |
 | 25 | [O Poder Dessa Garota](https://open.spotify.com/track/3emWP5AGvDHFAlHlCOPiqT) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [O Poder Dessa Garota](https://open.spotify.com/album/443D9lOS7CSKSgR0RxaxdV) | 2:16 |
-| 26 | [Mec Life](https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Bob Anne](https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5) | [Mec Life](https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx) | 3:15 |
+| 26 | [Mec Life](https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Mec Life](https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4) | 3:15 |
 | 27 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 |
 | 28 | [Ai Preto](https://open.spotify.com/track/5vC8UAOHeG95ehRzZChniB) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Ai Preto](https://open.spotify.com/album/5Sfg1gKAk7zW9BK91HkKhQ) | 2:11 |
 | 29 | [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Primeira à Direita](https://open.spotify.com/track/5jJ9fktcJM9ECpo2F9ly6v) | [DJ Gouveia](https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem), [Mc Pedrin do Engenha](https://open.spotify.com/artist/0cO5CCI3s6CjA19gXjJXJG), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm) | [Primeira à Direita](https://open.spotify.com/album/09T3pnEsGR406AZijJHk0X) | 1:54 |
 | 50 | [Simplesmente Ela](https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w) | 2:41 |
 
-Snapshot ID: `MCwwNTQxZTI1NGJiZmRhMTAxNzI0OGQ4ZTRjZjRjMDgwMzEwZmY3ZmYz`
+Snapshot ID: `MCwwN2E2MTUzMGI3YzA4ZWQ3YzkyMzc1NjM5NzRmMGQxMTRkN2FhYTJl`

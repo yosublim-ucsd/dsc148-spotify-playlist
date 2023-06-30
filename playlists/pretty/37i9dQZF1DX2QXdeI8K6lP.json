@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 230782,
+  "num_followers": 230911,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWJiMWZkYTAxOTRlMTAxZjJkNWQyMjdiM2I2YTJhMzQ0MzlmMTgz",
+  "snapshot_id": "MCxkNjRmMTM3YWEwNjllYTUwZmQyNTM0ZTE0MTdjZWVjNjBmNDc1Yzc0",
   "tracks": [
     {
       "added_at": "2021-10-01 13:30:07",
@@ -619,18 +619,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
       },
       "artists": [
         {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
         }
       ],
-      "duration_ms": 169280,
-      "name": "Besos de Plata",
-      "url": "https://open.spotify.com/track/5DWjEIZr5Rnw32lLRbC2AF"
+      "duration_ms": 143874,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -651,18 +651,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
       },
       "artists": [
         {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
         }
       ],
-      "duration_ms": 143874,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
+      "duration_ms": 169280,
+      "name": "Besos de Plata",
+      "url": "https://open.spotify.com/track/5DWjEIZr5Rnw32lLRbC2AF"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Los Tecolines: Bolero Romantico",
-        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Prisionero Del Mar",
-      "url": "https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 186852,
       "name": "Ansia",
       "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Los Tecolines: Bolero Romantico",
+        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Prisionero Del Mar",
+      "url": "https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Llevatela",
         "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 138000,
       "name": "Llevatela",
       "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Boler\u00edsimo",
-        "url": "https://open.spotify.com/album/6FD7LaF3pJ6E3nLRm1LA4D"
-      },
-      "artists": [
-        {
-          "name": "Trio Fantasia",
-          "url": "https://open.spotify.com/artist/2APenj3Xk0M7dVCtFZGm3X"
-        }
-      ],
-      "duration_ms": 167183,
-      "name": "Te Amar\u00e9 Toda la Vida",
-      "url": "https://open.spotify.com/track/0Rc0EKY8krlTnrBHwVyJSr"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Vamos a la Cumbancha",
         "url": "https://open.spotify.com/album/2Zl8ew47kKbJ7Oqrs2oBMb"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 198146,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Boler\u00edsimo",
+        "url": "https://open.spotify.com/album/6FD7LaF3pJ6E3nLRm1LA4D"
+      },
+      "artists": [
+        {
+          "name": "Trio Fantasia",
+          "url": "https://open.spotify.com/artist/2APenj3Xk0M7dVCtFZGm3X"
+        }
+      ],
+      "duration_ms": 167183,
+      "name": "Te Amar\u00e9 Toda la Vida",
+      "url": "https://open.spotify.com/track/0Rc0EKY8krlTnrBHwVyJSr"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
+        "name": "Romanticamente Trios Vol. 9",
+        "url": "https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA"
+      },
+      "artists": [
+        {
+          "name": "Trio Las Sombras",
+          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "Noche No Te Vayas",
+      "url": "https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Romanticamente Trios Vol. 9",
-        "url": "https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA"
-      },
-      "artists": [
-        {
-          "name": "Trio Las Sombras",
-          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
-        }
-      ],
-      "duration_ms": 148893,
-      "name": "Noche No Te Vayas",
-      "url": "https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1521,28 +1521,20 @@
       "url": "https://open.spotify.com/track/3lLSg8IEC1MEjk4zA1Dz0U"
     },
     {
-      "added_at": "2021-10-01 13:30:07",
+      "added_at": "2021-12-26 11:28:49",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+        "name": "100th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
         }
       ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+      "duration_ms": 163693,
+      "name": "T\u00fa me acostumbraste",
+      "url": "https://open.spotify.com/track/52Aq1nC36rW66K6VbADJKc"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1559,22 +1551,6 @@
       "duration_ms": 151266,
       "name": "Ya T\u00fa Ver\u00e1s",
       "url": "https://open.spotify.com/track/2KE723Cj7xEvFe9qXgX8qu"
-    },
-    {
-      "added_at": "2021-12-26 11:28:49",
-      "album": {
-        "name": "100th Birthday Celebration",
-        "url": "https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "T\u00fa me acostumbraste",
-      "url": "https://open.spotify.com/track/52Aq1nC36rW66K6VbADJKc"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1623,6 +1599,30 @@
       "duration_ms": 173213,
       "name": "Poquita fe",
       "url": "https://open.spotify.com/track/2R6AW2RKOFf4dqycfBAtIt"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
     },
     {
       "added_at": "2021-10-01 13:30:07",

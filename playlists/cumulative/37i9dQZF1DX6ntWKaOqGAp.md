@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Saucy Dog
 
-547 songs - 1 day 10 hr 24 min
+548 songs - 1 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Now is the best!!!](https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [Now is the best!!!](https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9) | 2:26 | 2023-05-29 |  |
 | [numb brain](https://open.spotify.com/track/4uJqW72XHX5eIiugU0z60D) | [SHIFT\_CONTROL](https://open.spotify.com/artist/3YJMtowBKCM8vhFWYNVWI9) | [MakeMyName](https://open.spotify.com/album/5gS8RpibYBrFgG0xtquwCQ) | 3:05 | 2023-05-30 | 2023-06-01 |
 | [Numb Brain](https://open.spotify.com/track/5Livz4o0bMHptCvP8vrqIy) | [SHIFT\_CONTROL](https://open.spotify.com/artist/3YJMtowBKCM8vhFWYNVWI9) | [Make My Name](https://open.spotify.com/album/4xz847XImjpQFUFhp0vmdj) | 3:05 | 2023-05-30 |  |
+| [Odd Dancer](https://open.spotify.com/track/5KrmHvZqGCzxVjEdcB4xiX) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Odd Dancer](https://open.spotify.com/album/6dgYwFD881z4kSbi0W0FA1) | 3:10 | 2023-06-30 |  |
 | [OKASHi NA DEAi](https://open.spotify.com/track/1G0ZZ3vKImarwxWFwf9wHD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [OKASHi NA DEAi](https://open.spotify.com/album/6XtHOEb6BZHR6WUnylSUQz) | 4:07 | 2023-04-18 | 2023-05-26 |
 | [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 | 2023-02-18 | 2023-04-14 |
 | [Old Rookie](https://open.spotify.com/track/0Vx0LcKfmFdhwYES2OZb85) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Boku no Uta de Kimi ni Eien wo](https://open.spotify.com/album/1MMlfzh5fLDMyMt72ZwQkY) | 4:17 | 2023-01-24 | 2023-02-15 |
@@ -317,7 +318,7 @@
 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 | 2023-02-14 | 2023-04-10 |
 | [くそったれ人生最悪の](https://open.spotify.com/track/6io2UWI9uzsPdDK8FHtN6a) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/7nQ435Y6QnPyoigXh3CJx4) | 4:24 | 2023-02-14 | 2023-02-16 |
 | [ここいちばんの恋](https://open.spotify.com/track/1yzzXOgg9wowxAO9BHYIFd) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [ここいちばんの恋](https://open.spotify.com/album/5KKwbzCsLuaImEEijykKAw) | 4:08 | 2023-02-28 | 2023-03-15 |
-| [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 | 2023-04-25 |  |
+| [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 | 2023-04-25 | 2023-06-30 |
 | [このままじゃ](https://open.spotify.com/track/2HIp2q3CAjJTxSsVfEKlni) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [SPIRAL](https://open.spotify.com/album/3YS2w784zqJBCAVGbsubJW) | 4:33 | 2023-03-14 | 2023-03-25 |
 | [さくら色](https://open.spotify.com/track/5A7ERS6fFumxylYQehLAWS) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [わたしのノクターン](https://open.spotify.com/album/21f4jp3g8EpGOxtboyQ62R) | 3:52 | 2023-01-24 | 2023-01-26 |
 | [さびしくなかった](https://open.spotify.com/track/5fWSVyq6kagKHex5EHBO85) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 4:30 | 2023-05-23 |  |
@@ -416,7 +417,7 @@
 | [モンスター \(feat\. yama\)](https://open.spotify.com/track/09gBx310Z7KnMI5LdB3fDl) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [モンスター \(feat\. yama\)](https://open.spotify.com/album/4EQUcmmhgMy6Aolbr4UdPL) | 4:23 | 2023-03-21 | 2023-06-16 |
 | [ヤッチマイナ!](https://open.spotify.com/track/7zdHVg51ysEcEgOUT3ewpb) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [ヤッチマイナ!](https://open.spotify.com/album/7LrZpZh8gj3P5cHEon11UI) | 3:08 | 2023-03-21 | 2023-04-19 |
 | [ヤバすぎるスピード](https://open.spotify.com/track/4xJ2vYE53REzd1cG7S77g0) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ヤバすぎるスピード](https://open.spotify.com/album/0YC3CxIujBAjgj0aJiq8BO) | 3:00 | 2023-01-13 | 2023-01-18 |
-| [ラストシーン](https://open.spotify.com/track/5L43elZ4LuEBDBH8KYBGb1) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [ラストシーン](https://open.spotify.com/album/2HwNyfPBEHlxYmeou5UsUs) | 4:34 | 2023-05-25 |  |
+| [ラストシーン](https://open.spotify.com/track/5L43elZ4LuEBDBH8KYBGb1) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [ラストシーン](https://open.spotify.com/album/2HwNyfPBEHlxYmeou5UsUs) | 4:34 | 2023-05-25 | 2023-06-30 |
 | [ラストシーン](https://open.spotify.com/track/76rwHMqKcw9v9IWBwQWItn) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ラストシーン](https://open.spotify.com/album/1vPjwkJ6P8GWadlPrlvYY3) | 3:11 | 2023-02-14 | 2023-03-15 |
 | [ラズベリー](https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラズベリー](https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR) | 3:35 | 2023-06-27 |  |
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-01-17 | 2023-02-08 |
@@ -429,7 +430,7 @@
 | [ルーシー](https://open.spotify.com/track/4u2ssD8qpxwayjjghIMX4Z) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [ルーシー](https://open.spotify.com/album/1zkesL9M2wNq0qQJiIlOId) | 3:32 | 2023-02-21 | 2023-03-22 |
 | [ルージュ](https://open.spotify.com/track/7g6lGyhKD2OYByD6YJq4im) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [ルージュ](https://open.spotify.com/album/7fH4NYbcCV994KVTuv520x) | 3:10 | 2023-06-22 |  |
 | [レイジーモーニング](https://open.spotify.com/track/2Xtz1YnZm5skeyZnG9OrOj) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [レイジーモーニング](https://open.spotify.com/album/74j966Zm6XGHewP3AgGcun) | 2:53 | 2023-03-14 | 2023-04-12 |
-| [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 | 2023-01-13 | 2023-02-15 |
+| [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 | 2023-01-13 |  |
 | [ワスレガタキ](https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO) | 2:57 | 2023-04-20 | 2023-06-07 |
 | [ヴァイオレット](https://open.spotify.com/track/4zBGOhGzIBDENTh2tgRl9Z) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [ToMoYo covers\~原田知世オフィシャル・カバー・アルバム](https://open.spotify.com/album/2jXG91MPq9hN7ZEpdY1w9n) | 4:12 | 2023-01-13 | 2023-01-18 |
 | [一生このまま](https://open.spotify.com/track/1q4zRDIKKchOp9fijZf7Px) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [一生このまま](https://open.spotify.com/album/59dpWHuyHaj4thgbTdD14U) | 4:43 | 2023-05-30 | 2023-06-01 |

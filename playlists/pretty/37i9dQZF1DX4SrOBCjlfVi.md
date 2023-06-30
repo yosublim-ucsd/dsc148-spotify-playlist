@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Coi Leray, Lil Tjay and more\. Cover: Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,483 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,593 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 |
 | 50 | [She Say](https://open.spotify.com/track/4cHgAYefaapWB4QRIpZxbH) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W) | [Bohunk](https://open.spotify.com/album/1s8mvXwmfnbnfT7IkqSyr6) | 2:49 |
 
-Snapshot ID: `MCwwZWUwNWMwMmMzZjllNzI4YWMwYjM0ZDMzMmYwNTg0MjlkNDFlODhl`
+Snapshot ID: `MCwxZDdhNTdlYTkwODVjZWUxNDlhNzFjNzJjMTI1Y2E4ZDIwYmY0YmJk`

@@ -887,6 +887,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9jalo En Visto",
+        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189918,
+      "name": "D\u00e9jalo En Visto",
+      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
+    },
+    {
+      "album": {
         "name": "Aut\u00e9ntico",
         "url": "https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD"
       },
@@ -952,10 +974,32 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 179787,
       "name": "El carro Ford",
       "url": "https://open.spotify.com/track/3xyz9QMAjvWC0muckkitYp"
+    },
+    {
+      "album": {
+        "name": "El Merengue",
+        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
       "album": {
@@ -1472,7 +1516,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 219648,
       "name": "La Oficial - Remix",
       "url": "https://open.spotify.com/track/5JpUhPdInQTkknuw1wYoA1"
@@ -1520,7 +1564,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 227246,
       "name": "La Rompecorazones - Remix",
       "url": "https://open.spotify.com/track/3FG6mOgYu6VuVdZLmUHWnQ"
@@ -2517,6 +2561,28 @@
     },
     {
       "album": {
+        "name": "Si T\u00fa Me Quieres",
+        "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204454,
+      "name": "Si T\u00fa Me Quieres",
+      "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
+    },
+    {
+      "album": {
         "name": "La-33",
         "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
@@ -2784,7 +2850,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 273053,
       "name": "Tu Sonrisa",
       "url": "https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI"
@@ -3206,6 +3272,32 @@
       "duration_ms": 212377,
       "name": "Voy a Beber",
       "url": "https://open.spotify.com/track/3ptwXoRIneHUwce9HNkK4D"
+    },
+    {
+      "album": {
+        "name": "VUELA",
+        "url": "https://open.spotify.com/album/3Ln9Xe2JfSl8kvh9MeABgq"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193394,
+      "name": "VUELA",
+      "url": "https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke"
     },
     {
       "album": {

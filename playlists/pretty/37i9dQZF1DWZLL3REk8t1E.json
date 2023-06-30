@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1135854,
+  "num_followers": 1136019,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDE2Y2YzMWM5NGNiNDU5M2JmODU3N2U1Mzk0YzRlMjEzMWI4Yzk0",
+  "snapshot_id": "MCwxYzFiZDk5ZDVmMmQwMGU3MGZmMDFmY2U1ZTgxNTg1YTE0OTE1OGQ3",
   "tracks": [
     {
       "added_at": "2023-04-10 22:38:49",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
-        "name": "Ni Con Labios Prestados",
-        "url": "https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Ni Con Labios Prestados",
-      "url": "https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA"
-    },
-    {
-      "added_at": "2023-04-10 22:38:49",
-      "album": {
         "name": "Lo Mejor De Nosotros",
         "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 260829,
       "name": "Me Vas A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
+    },
+    {
+      "added_at": "2023-04-10 22:38:49",
+      "album": {
+        "name": "Ni Con Labios Prestados",
+        "url": "https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 244253,
+      "name": "Ni Con Labios Prestados",
+      "url": "https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA"
     },
     {
       "added_at": "2023-04-10 22:38:49",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
-        "name": "Tu Amigo Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "A D\u00f3nde Quiera Que Vaya",
-      "url": "https://open.spotify.com/track/3SAuHX9P3o0MIu7PDxFVur"
-    },
-    {
-      "added_at": "2023-04-10 22:38:49",
-      "album": {
         "name": "Decepciones",
         "url": "https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 223706,
       "name": "Decepciones",
       "url": "https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH"
+    },
+    {
+      "added_at": "2023-04-10 22:38:49",
+      "album": {
+        "name": "Tu Amigo Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "A D\u00f3nde Quiera Que Vaya",
+      "url": "https://open.spotify.com/track/3SAuHX9P3o0MIu7PDxFVur"
     },
     {
       "added_at": "2023-04-10 22:38:49",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
+        "name": "Aunque Ahora Est\u00e9s Con \u00c9l",
+        "url": "https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Aunque Ahora Est\u00e9s Con \u00c9l",
+      "url": "https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0"
+    },
+    {
+      "added_at": "2023-04-10 22:38:49",
+      "album": {
         "name": "Te Llor\u00e9 Un R\u00edo",
         "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
@@ -1283,6 +1299,22 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
+        "name": "Colecci\u00f3n Privada \"Las 20 Exclusivas\"",
+        "url": "https://open.spotify.com/album/4hueGGPMBXDsGn9Zjv7uvB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/47ehW8KNY6XhEtwMYAY0br"
+    },
+    {
+      "added_at": "2023-04-10 22:38:49",
+      "album": {
         "name": "Ac\u00e1bame de Matar (Feat. Luis Angel \"El Flaco\")",
         "url": "https://open.spotify.com/album/5gJytBbQyZB1voWvuVk6of"
       },
@@ -1299,38 +1331,6 @@
       "duration_ms": 214199,
       "name": "Ac\u00e1bame de Matar (Feat. Luis Angel \"El Flaco\")",
       "url": "https://open.spotify.com/track/3Tq17cNZ19NxBlNgLPXx7u"
-    },
-    {
-      "added_at": "2023-04-10 22:38:49",
-      "album": {
-        "name": "Aunque Ahora Est\u00e9s Con \u00c9l",
-        "url": "https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Aunque Ahora Est\u00e9s Con \u00c9l",
-      "url": "https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0"
-    },
-    {
-      "added_at": "2023-04-10 22:38:49",
-      "album": {
-        "name": "Colecci\u00f3n Privada \"Las 20 Exclusivas\"",
-        "url": "https://open.spotify.com/album/4hueGGPMBXDsGn9Zjv7uvB"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Ya Es Muy Tarde",
-      "url": "https://open.spotify.com/track/47ehW8KNY6XhEtwMYAY0br"
     },
     {
       "added_at": "2023-04-10 22:38:49",

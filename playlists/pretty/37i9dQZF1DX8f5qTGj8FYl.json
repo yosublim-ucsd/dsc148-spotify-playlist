@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 342430,
+  "num_followers": 342568,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTI5MmVhYTI2ZDVlMjE3MDM1NjViZjJkZmMzZmQ4NjkzNmJmYmJl",
+  "snapshot_id": "MCw4MTVjMTYzMWM3NjZiZWRhOGNhNmFmNjNhOTE3Njc1OGVkODJmOGVk",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/28HHPAwdeLxYcmXAnihqcx"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Unify",
-        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 359698,
-      "name": "Gravy Train",
-      "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Smooth Move",
@@ -675,6 +659,22 @@
       "duration_ms": 328433,
       "name": "Tej",
       "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Unify",
+        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 359698,
+      "name": "Gravy Train",
+      "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -709,6 +709,22 @@
       "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Jazz In The Present Tense",
+        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
+      },
+      "artists": [
+        {
+          "name": "Solsonics",
+          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Montuno Funk",
+      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
+    },
+    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Got Ya Movin'",
@@ -735,22 +751,6 @@
       "duration_ms": 206393,
       "name": "Got Ya Movin'",
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Jazz In The Present Tense",
-        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
-      },
-      "artists": [
-        {
-          "name": "Solsonics",
-          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Montuno Funk",
-      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
     },
     {
       "added_at": "2021-04-16 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Fox",
-        "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
-      },
-      "artists": [
-        {
-          "name": "The Filthy Six",
-          "url": "https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp"
-        }
-      ],
-      "duration_ms": 357480,
-      "name": "Down Frenchmen St",
-      "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Good Luck With That",
         "url": "https://open.spotify.com/album/3oSXZcUOdRgh1jiIjCFeiK"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 250680,
       "name": "Good Luck With That",
       "url": "https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Fox",
+        "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
+      },
+      "artists": [
+        {
+          "name": "The Filthy Six",
+          "url": "https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp"
+        }
+      ],
+      "duration_ms": 357480,
+      "name": "Down Frenchmen St",
+      "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Canoga Madness",
+        "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Beat",
+          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "El Camino Del Caballo",
+      "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 184634,
       "name": "Permission to Land - 45",
       "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Canoga Madness",
-        "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
-      },
-      "artists": [
-        {
-          "name": "Mestizo Beat",
-          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "El Camino Del Caballo",
-      "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
     },
     {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Don't Worry 'Bout What I Do",
-      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Summer Madness",
@@ -1299,6 +1283,22 @@
       "duration_ms": 238706,
       "name": "West Coast Jam",
       "url": "https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED"
+    },
+    {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Don't Worry 'Bout What I Do",
+      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1369,24 +1369,28 @@
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Psychic Powers",
-        "url": "https://open.spotify.com/album/4JWBQMTD8OEsmELMJPxcTu"
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG"
       },
       "artists": [
         {
-          "name": "Janko Nilovic",
-          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
+          "name": "Lucas de Mulder",
+          "url": "https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ"
         },
         {
-          "name": "The Soul Surfers",
-          "url": "https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8"
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
         }
       ],
-      "duration_ms": 158620,
-      "name": "Psychic Powers",
-      "url": "https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS"
+      "duration_ms": 187214,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB"
     }
   ],
   "unique_name": "Instrumental Funk",

@@ -904,7 +904,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 204428,
       "name": "Detalles",
       "url": "https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq"
@@ -2350,6 +2350,24 @@
       "duration_ms": 238173,
       "name": "Know How",
       "url": "https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh"
+    },
+    {
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/4EgWz5C3nqZJSm2VQscdEs"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133440,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4UjDKjzhP0GQXDv7X5zZXZ"
     },
     {
       "album": {

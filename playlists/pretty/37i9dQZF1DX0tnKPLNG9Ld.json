@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 63062,
+  "num_followers": 63292,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWZhZTc1M2EzNDZlMTA2ZWFmYTdkMzA2NzM1OWE0YWMzZGY5MDg4",
+  "snapshot_id": "MCxlNDRmYThjMzdiY2FiZjFiZjdmNDFmYmQ5MmEwZTY1NWUwNjM2YmQ2",
   "tracks": [
     {
       "added_at": "2023-06-21 08:03:15",
@@ -607,22 +607,18 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Count Basie Swings - Joe Williams Sings",
-        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
       "artists": [
         {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        },
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 182493,
-      "name": "Alright, Okay, You Win",
-      "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -643,18 +639,22 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+        "name": "Count Basie Swings - Joe Williams Sings",
+        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
+      "duration_ms": 182493,
+      "name": "Alright, Okay, You Win",
+      "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
+        "name": "Swing Along With Me",
+        "url": "https://open.spotify.com/album/0n1GnE4WG4suFnOZeBouVT"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 151920,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
         "name": "Mel Torme: Swings Shubert Alley",
         "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 103400,
       "name": "Gone With The Wind",
       "url": "https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
-        "name": "Swing Along With Me",
-        "url": "https://open.spotify.com/album/0n1GnE4WG4suFnOZeBouVT"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 151920,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ"
     },
     {
       "added_at": "2023-06-21 08:03:15",

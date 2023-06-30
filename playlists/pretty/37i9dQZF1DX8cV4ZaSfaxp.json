@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: \bChoi HEART(\ucd5c\ud558\ud2b8)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 42423,
+  "num_followers": 42469,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTIwNzkzNjI2NzgzMWUwNjI2YmRkZDEyNzI4ZDYzNTVlMDM5YTRh",
+  "snapshot_id": "MCxjYTNlYzEyMDI0MTBjNTBhMzE0MmYwZTAzZTllNDljOGY1ZDY0NTMy",
   "tracks": [
     {
       "added_at": "2023-05-05 08:27:44",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "CATNIP",
-        "url": "https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/6hpWk3kV9phxtzxbzzXmIF"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "A Long Dream",
         "url": "https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 258420,
       "name": "A Long Dream",
       "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "CATNIP",
+        "url": "https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/6hpWk3kV9phxtzxbzzXmIF"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Sweet Girl",
-        "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "Sweet Girl",
-      "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Love Note!",
         "url": "https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 194373,
       "name": "Love Note!",
       "url": "https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Sweet Girl",
+        "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Sweet Girl",
+      "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Love & Evil",
-        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
       "artists": [
         {
-          "name": "LOO\u03a0\u0394 1/3",
-          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+          "name": "TIFFANY",
+          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
         }
       ],
-      "duration_ms": 201409,
-      "name": "Rain 51db",
-      "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1167,6 +1167,22 @@
       "duration_ms": 221875,
       "name": "Dive",
       "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "duration_ms": 201409,
+      "name": "Rain 51db",
+      "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
-      },
-      "artists": [
-        {
-          "name": "TIFFANY",
-          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
-        }
-      ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "THIS CITY",
         "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 194400,
       "name": "THIS CITY",
       "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
-        "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
-        "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 294700,
-      "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
-      "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1271,22 +1255,18 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Afterlife (Feat. OOHYO)",
-        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
+        "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+        "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
       },
       "artists": [
         {
-          "name": "Space Cowboy",
-          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 270713,
-      "name": "Afterlife (Feat. OOHYO)",
-      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
+      "duration_ms": 294700,
+      "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+      "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1303,6 +1283,26 @@
       "duration_ms": 236031,
       "name": "10 Seconds",
       "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Afterlife (Feat. OOHYO)",
+        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
+      },
+      "artists": [
+        {
+          "name": "Space Cowboy",
+          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 270713,
+      "name": "Afterlife (Feat. OOHYO)",
+      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "THE PARK IN THE NIGHT part three",
-        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
-      },
-      "artists": [
-        {
-          "name": "GWSN",
-          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
-        }
-      ],
-      "duration_ms": 213150,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
         "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
       },
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
+        "name": "THE PARK IN THE NIGHT part three",
+        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
+      },
+      "artists": [
+        {
+          "name": "GWSN",
+          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
+        }
+      ],
+      "duration_ms": 213150,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
         "name": "#TUSM",
         "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
       },
@@ -1467,22 +1467,6 @@
       "duration_ms": 191587,
       "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
       "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
-        "name": "Cream Dream",
-        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
-      },
-      "artists": [
-        {
-          "name": "TrophyCat",
-          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Cream Dream",
-      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1503,6 +1487,22 @@
       "duration_ms": 243381,
       "name": "Ondo (with LeeHi)",
       "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Cream Dream",
+        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
+      },
+      "artists": [
+        {
+          "name": "TrophyCat",
+          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Cream Dream",
+      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
     },
     {
       "added_at": "2023-05-05 08:27:44",

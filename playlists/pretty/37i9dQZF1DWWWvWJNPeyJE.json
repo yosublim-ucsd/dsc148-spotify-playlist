@@ -1,12 +1,12 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 218586,
+  "num_followers": 218735,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzQzNGYwY2QwNTBhZmJiOGZjNzEyMGIzYzUxNDA2NmI0NzMwOTU4",
+  "snapshot_id": "MCwzNjNjZTE0ZjAzODllODNjN2I1YWZlMzc3NDliNzg1ZjAxMmE0YjE5",
   "tracks": [
     {
       "added_at": "2023-03-03 13:37:54",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "LOYAL (feat. Drake)",
-      "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "Call Me Crazy, But...",
         "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 281080,
       "name": "It Won't Stop (feat. Chris Brown) - EP Version",
       "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "LOYAL (feat. Drake)",
+      "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "The Answers",
-        "url": "https://open.spotify.com/album/0xU39IVVOseJrIHwSGJvBI"
-      },
-      "artists": [
-        {
-          "name": "SoMo",
-          "url": "https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "First",
-      "url": "https://open.spotify.com/track/64ZUFfGyxeHvfQ1EHJf3Pp"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "7 Series",
         "url": "https://open.spotify.com/album/5TeAtFCYpc0WELiph7eiAg"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 179533,
       "name": "F With U (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6mLfR7fHVDcCKpLwGLWCWw"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "The Answers",
+        "url": "https://open.spotify.com/album/0xU39IVVOseJrIHwSGJvBI"
+      },
+      "artists": [
+        {
+          "name": "SoMo",
+          "url": "https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "First",
+      "url": "https://open.spotify.com/track/64ZUFfGyxeHvfQ1EHJf3Pp"
     },
     {
       "added_at": "2023-03-03 13:37:54",

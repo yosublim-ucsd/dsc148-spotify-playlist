@@ -4,7 +4,7 @@
 
 > LGBTQIA+ artists que brillan e inspiran.<br/>Cover: Zemmoa
 
-289 songs - 16 hr 1 min
+290 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Castillos de arena](https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Castillos de arena](https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq) | 4:12 | 2022-06-01 | 2023-01-25 |
 | [Causa Y Efecto](https://open.spotify.com/track/0gdt218D74akk9AqMlbc45) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Gran City Pop \(Edited Version\)](https://open.spotify.com/album/1ZJLekUOKFcN2QQXMvasTJ) | 3:25 | 2021-12-09 | 2022-06-01 |
 | [Cayó](https://open.spotify.com/track/0sk6BOSSBxtdxAKB17YVG4) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Cayó](https://open.spotify.com/album/7Lm0VtI7bUWHrJbPXy0pq5) | 2:51 | 2022-06-01 | 2023-01-25 |
+| [CCC](https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [CCC](https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll) | 2:06 | 2023-06-29 |  |
 | [Chega](https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Chega](https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m) | 3:05 | 2021-12-09 | 2022-06-01 |
 | [Cicatrices](https://open.spotify.com/track/7dC3AUYIYAJTCk5n2AkfJV) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Cicatrices](https://open.spotify.com/album/7lpn9dwub9H2eRq2PoYBIe) | 3:10 | 2022-06-01 | 2023-01-25 |
 | [Cocaino](https://open.spotify.com/track/3IhSU4z3ddjQWqFaTivzbo) | [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Cocaino](https://open.spotify.com/album/6JBmwp8Kx38Pzj2YgABAoh) | 3:52 | 2021-12-09 | 2022-10-12 |
@@ -87,7 +88,7 @@
 | [Elefantes en el Mar](https://open.spotify.com/track/50jfKGLblHExtW01B3PvRU) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Elefantes en el Mar](https://open.spotify.com/album/2CQW55VTC6eZj6JCo5gXxq) | 3:22 | 2022-06-01 | 2023-01-25 |
 | [En El Olvido](https://open.spotify.com/track/46j76ZoimljoNL55h26U70) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:26 | 2022-06-01 | 2023-01-25 |
 | [En Tu Celly](https://open.spotify.com/track/0xDmH8yX5x3CHe35T2Wpln) | [Jonah Xiao](https://open.spotify.com/artist/5UNvujByAgIaKZRBP0GmrV) | [En Tu Celly](https://open.spotify.com/album/1Y6hXVzHU8cSDPjv1SFn26) | 2:48 | 2023-01-24 | 2023-03-04 |
-| [Encontrándome](https://open.spotify.com/track/4pPkbdJLxcAkpIqnGxSjDe) | [Luis Gamarra](https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr), [Gamay](https://open.spotify.com/artist/2Ezs1vBEQVtHYz2OfersAa) | [Encontrándome](https://open.spotify.com/album/1nKM1APSxh0ZNxBmqZbPKq) | 2:55 | 2023-06-02 |  |
+| [Encontrándome](https://open.spotify.com/track/4pPkbdJLxcAkpIqnGxSjDe) | [Luis Gamarra](https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr), [Gamay](https://open.spotify.com/artist/2Ezs1vBEQVtHYz2OfersAa) | [Encontrándome](https://open.spotify.com/album/1nKM1APSxh0ZNxBmqZbPKq) | 2:55 | 2023-06-02 | 2023-06-30 |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-06-01 | 2023-01-25 |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:38 | 2022-06-14 | 2023-01-25 |
 | [Eternamente Bella](https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Eternamente Bella](https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9) | 3:26 | 2021-12-09 | 2023-01-25 |

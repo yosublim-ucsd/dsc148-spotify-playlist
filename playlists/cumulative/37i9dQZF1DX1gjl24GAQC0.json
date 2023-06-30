@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover:\bNCT DREAM [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover:\b\bWEi(\uc704\uc544\uc774) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -5607,6 +5607,24 @@
     },
     {
       "album": {
+        "name": "Love Pt.3 : Eternally",
+        "url": "https://open.spotify.com/album/2mrCu8xKF0ExIqExAmae9f"
+      },
+      "artists": [
+        {
+          "name": "WEi",
+          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/1iiQ6wFdJz4uGn2a2cGjaG"
+    },
+    {
+      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
       },
@@ -8060,7 +8078,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 179000,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/3GXLBTk7l1Bc7bZp18sqZD"

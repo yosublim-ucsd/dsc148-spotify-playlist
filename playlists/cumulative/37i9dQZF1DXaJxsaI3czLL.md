@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-246 songs - 17 hr 22 min
+247 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Utero](https://open.spotify.com/track/6Ni01Ptke62rV8WkAYiBMM) | [jan and naomi](https://open.spotify.com/artist/4V7c0eZEtXXBFJLY6WpSmT) | [Leeloo and Alexandra](https://open.spotify.com/album/1Qi0J8woiPDk8J8WltPdzb) | 4:44 | 2023-01-31 | 2023-05-24 |
 | [Weight](https://open.spotify.com/track/3J3bxrFCscf5KgNgBpQUo7) | [PAELLAS](https://open.spotify.com/artist/6ELS2XYR8tvJdQyEx8s3ZT) | [sequential souls](https://open.spotify.com/album/0ERZRcTZO8ZUAIKT9Aa87q) | 4:42 | 2022-10-20 | 2022-11-14 |
 | [white dress](https://open.spotify.com/track/7qod4wNweZVfZZfV5MeC3t) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [white dress](https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS) | 2:52 | 2023-06-06 |  |
-| [Wish You Were Here](https://open.spotify.com/track/2EZM4rYK3tbiRaGS3XyYvi) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Wish You Were Here](https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp) | 4:37 | 2023-06-27 |  |
+| [Wish You Were Here](https://open.spotify.com/track/0zuBBSQxpKJU8AJfgO4Ghq) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Wish You Were Here](https://open.spotify.com/album/7iwT3qJe6FnAcn6CouxMIM) | 4:37 | 2023-06-27 |  |
+| [Wish You Were Here](https://open.spotify.com/track/2EZM4rYK3tbiRaGS3XyYvi) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Wish You Were Here](https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp) | 4:37 | 2023-06-27 | 2023-06-30 |
 | [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-04 | 2023-05-31 |
 | [Yakan Hikou](https://open.spotify.com/track/7Djn2PQhFI1YGojIQUZGwC) | [いちやなぎ](https://open.spotify.com/artist/6yhBmNNa8y5tZegkOQLLPB) | [Yakan Hikou](https://open.spotify.com/album/7hXC2CPNOycgV716L41LHu) | 4:43 | 2023-01-19 | 2023-01-25 |
 | [Yellow Moon](https://open.spotify.com/track/3nPTeT1tp6GmHjmBFnCSzF) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Roundabout](https://open.spotify.com/album/07b8jFWroRWTpEWF8SrDLe) | 5:08 | 2023-01-26 |  |

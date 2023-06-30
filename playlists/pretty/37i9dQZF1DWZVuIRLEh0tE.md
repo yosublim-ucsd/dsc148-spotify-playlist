@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Rochy RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,554 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,672 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Po Po Po](https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Po Po Po](https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1) | 2:50 |
-| 2 | [LOS POBRES Y LOS RICOS](https://open.spotify.com/track/6mYeBTeXcz25ZeAwjW6apF) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [LOS POBRES Y LOS RICOS](https://open.spotify.com/album/6LDa3nMGDUFrNxGpXI21nV) | 3:19 |
+| 2 | [LOS POBRES Y LOS RICOS](https://open.spotify.com/track/7yR9JlVYTOvYPjycQpl4PW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 3:19 |
 | 3 | [Se Comenta](https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Se Comenta](https://open.spotify.com/album/0AAlETTmKJAII1bFkJSlCQ) | 2:59 |
 | 4 | [Talco](https://open.spotify.com/track/5jNMVx3mv3gj3ShJfJj57g) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Talco](https://open.spotify.com/album/5OHIw55Adi5Uy4EbjnJGjO) | 2:16 |
 | 5 | [Hay Santo](https://open.spotify.com/track/1MUJMUO1dywCGUsYYOUFnH) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Jonatan Burlon](https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM) | [Hay Santo](https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2) | 3:27 |
-| 6 | [Helicoptero](https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Helicoptero](https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD) | 2:17 |
+| 6 | [Helicoptero](https://open.spotify.com/track/7dg8xRGRg5Az68XFDWaTqy) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 2:17 |
 | 7 | [Me la Subió](https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z) | [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Me la Subió](https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq) | 1:40 |
 | 8 | [Baddu](https://open.spotify.com/track/1R5eXm20wsrLP9jDtPipy8) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o) | [Baddu](https://open.spotify.com/album/6jU2huoNSRXf4CmU61iXzd) | 2:47 |
 | 9 | [Mi Flaca](https://open.spotify.com/track/0QzZqrEZ4FpviHkpafy5lQ) | [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN), [DJ Kiko El De Lo Alka](https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF) | [Mi Flaca](https://open.spotify.com/album/0x9ue70sk15y8M4EDjGLHx) | 1:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 74 | [El Anillo el Reloj](https://open.spotify.com/track/5Nj2GgTU78oXnqoZXQooDw) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/4oQk366EGQWn2nmkBrFt8X) | 2:52 |
 | 75 | [Un Poco De Amor](https://open.spotify.com/track/1JiiG7NrwtVLzdSKqGC9fb) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Un Poco De Amor](https://open.spotify.com/album/6awvZolH9XPQ67f8UgAzik) | 3:00 |
 
-Snapshot ID: `MCw2NjVlZmZiMzJhOWI1NDFmMzZhMmIyZTUwNGRiYmYzMWNlY2YxYTUz`
+Snapshot ID: `MCxjZGU2N2JhMzZmZmM1N2MzYmY2NjcwN2I2ZjM5YjIwMmY4MDA5MmIx`

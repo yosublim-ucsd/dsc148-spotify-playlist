@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-128 songs - 8 hr 59 min
+129 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Love My Baby](https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:06 | 2022-02-10 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-02-10 |  |
 | [Mad Over You](https://open.spotify.com/track/1jloWdvMh9nwHUu3mag8CL) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Mad Over You](https://open.spotify.com/album/1BeDVLt8DTIIN3jSLK5V78) | 3:36 | 2022-02-10 |  |
-| [Malaika](https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/3yPFOMzNH7EAJVDPZpyMsj) | 3:42 | 2022-02-10 |  |
+| [Malaika](https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/3yPFOMzNH7EAJVDPZpyMsj) | 3:42 | 2022-02-10 | 2023-06-30 |
+| [Malaika](https://open.spotify.com/track/2kt0o57HiqossBuEfdrtyv) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/4Qj0F6VKY3BKiRtlL5zZdl) | 3:42 | 2023-03-17 |  |
 | [Mapenzi](https://open.spotify.com/track/2e2dNpszZC0sCEuvfKVyQu) | [Kidum Kibido](https://open.spotify.com/artist/78NwwxOZkV9sNsdIYDWN9D) | [The Best Of Kidum Kibido](https://open.spotify.com/album/0W8soVwIq910Q2NYsDSZd7) | 5:53 | 2022-02-10 |  |
 | [Masan Aba](https://open.spotify.com/track/5urKBc7RRMxo4JEMVNcLcz) | [Akyeame](https://open.spotify.com/artist/32NBUNRmZFah6gedDMjvgd) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:46 | 2022-02-10 | 2023-02-15 |
 | [Medicine](https://open.spotify.com/track/0dHzOwpLHRw4xA6TEIVIkq) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:30 | 2022-02-10 |  |

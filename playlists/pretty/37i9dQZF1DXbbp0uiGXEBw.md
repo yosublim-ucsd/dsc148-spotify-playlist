@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: O.lew
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,360 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,380 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Kìa Bóng Dáng Ai](https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Sterry](https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu) | [Kìa Bóng Dáng Ai](https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp) | 2:44 |
 | 50 | [Phải Lòng Anh \- English Version](https://open.spotify.com/track/25SMvP3ET2NfTNjWkwmAEW) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Phải Lòng Anh \(English Version\)](https://open.spotify.com/album/5x1dEfqsHIabcvI1ADqWNe) | 3:45 |
 
-Snapshot ID: `MCxlYzE2YTcwMGY0MDNjOTFkMDJlMzgxZjBhNzg4YWIxMzhjYjlkZjIz`
+Snapshot ID: `MCw3ODcwNDY4NmRlYzE1MzliNDkyOGM4MDAxMjEyYzdjOWM1MDdiZDI1`

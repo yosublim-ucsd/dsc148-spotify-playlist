@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-455 songs - 1 day 2 hr 58 min
+456 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Acantilados](https://open.spotify.com/track/3ye5LxSF9ckZBvuKgfOggW) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Acantilados](https://open.spotify.com/album/4oOSQbhvA8Rn6tMVkdWfAX) | 3:17 | 2022-06-03 | 2022-07-29 |
 | [ACAPULCO GOLD](https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [ACAPULCO GOLD](https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x) | 2:58 | 2022-10-07 | 2022-10-30 |
 | [ACUARIOS](https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [ORDEN Y PROGRESO](https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx) | 3:05 | 2022-07-01 |  |
+| [Acá](https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Acá](https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc) | 3:28 | 2023-06-23 |  |
 | [Agua Marfil](https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S) | 4:11 | 2022-10-12 |  |
 | [Al Aterrizar](https://open.spotify.com/track/0oA1c3ufDFlHv0KeimrXky) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Muñecas](https://open.spotify.com/album/4Zj3UQH2PK5dmUe0MgTJlj) | 3:27 | 2022-07-15 | 2022-07-20 |
 | [Algo de Mí, Algo de Vos](https://open.spotify.com/track/5QLSpgVelBjHe6S7tMxzY7) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Algo de Mí, Algo de Vos](https://open.spotify.com/album/2OjRONkL7HZt4jhaXX0MDn) | 4:33 | 2022-06-03 | 2023-06-17 |

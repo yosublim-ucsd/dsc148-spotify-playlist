@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/4K1vuIiWDUTu8tr9BCwyH9"
+      },
+      "artists": [
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/08H9q3gCKeyj5VTU77I6s5"
+    },
+    {
+      "album": {
         "name": "Empty House",
         "url": "https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu"
       },
@@ -930,6 +948,24 @@
       "duration_ms": 224085,
       "name": "Falling - Spotify Singles",
       "url": "https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW"
+    },
+    {
+      "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/7JWrsptNPosxiPkNCC1bv8"
+      },
+      "artists": [
+        {
+          "name": "Anjimile",
+          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161332,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/13KuHOiEXGsDBfrjHcsXFO"
     },
     {
       "album": {
@@ -1257,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Gag Order (Live Acoustic EP From Space)",
+        "url": "https://open.spotify.com/album/4tEMiCZRt2oKtEWOurF1Ht"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285859,
+      "name": "Happy - Live Acoustic From Space",
+      "url": "https://open.spotify.com/track/6yHuumfZbANbUDAqFf8DC3"
+    },
+    {
+      "album": {
         "name": "Grape Sensation",
         "url": "https://open.spotify.com/album/0ub1dFuQTWvZ01xIV1L4m7"
       },
@@ -1398,7 +1452,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 194050,
       "name": "High On You",
       "url": "https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY"
@@ -1745,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "I've Got Me",
+        "url": "https://open.spotify.com/album/7554UBrWWgTDrFloVXvVCc"
+      },
+      "artists": [
+        {
+          "name": "Joanna Sternberg",
+          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136160,
+      "name": "I've Got Me",
+      "url": "https://open.spotify.com/track/3OEkjjCpSSDJKtgCKA7lXx"
+    },
+    {
+      "album": {
         "name": "All Of This Is Chance",
         "url": "https://open.spotify.com/album/0efxzMu8bCNeWP2MGltdRE"
       },
@@ -1756,7 +1828,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 247466,
       "name": "If I Was A Painter",
       "url": "https://open.spotify.com/track/6HNRHvqwjiQc0deescr4x6"
@@ -2386,7 +2458,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 280978,
       "name": "Middle of the Morning",
       "url": "https://open.spotify.com/track/0DYIKbIhf2XwWchqSqTc5D"
@@ -2976,7 +3048,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 186613,
       "name": "Secret Life (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5"

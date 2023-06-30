@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-978 songs - 2 day 5 hr 27 min
+979 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [All Night & Every Day](https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [All Night & Every Day](https://open.spotify.com/album/6ASUfky1E9CzfEAC8WDSSg) | 2:26 | 2022-04-29 | 2022-07-29 |
 | [All Night \(feat\. Ally Brooke\)](https://open.spotify.com/track/0poEFjyV2iHKtxjdWFwjmS) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [All Night \(feat\. Ally Brooke\)](https://open.spotify.com/album/0wXQE5QGxFdviVPa7GKMCA) | 2:46 | 2020-09-21\* | 2021-02-06 |
 | [All Night Long](https://open.spotify.com/track/32sbxzReRCPKlKmSUUOX1V) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [All Night Long](https://open.spotify.com/album/3ki9e5nnk14lEkTJg6CrBC) | 2:40 | 2021-08-21 | 2021-10-23 |
+| [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 | 2023-06-09 |  |
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-17 | 2023-06-29 |
 | [All On Me \(feat\. Zhu\)](https://open.spotify.com/track/5ad6HGAiatmKHXMI0OSodk) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Year Zero](https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP) | 4:09 | 2020-11-03 | 2021-03-26 |
 | [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2022-12-16 |  |
@@ -628,7 +629,7 @@
 | [Professional Griefers \- Vocal Mix](https://open.spotify.com/track/2AqazcPtVXn7uhFIyInNNp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [> album title goes here <](https://open.spotify.com/album/4zksvtV0HswF5ZRJS9QsfX) | 4:03 | 2020-09-21\* | 2020-10-10 |
 | [Promises](https://open.spotify.com/track/50YQaQXog18lS11wGCl77u) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG) | 3:21 | 2021-10-09 | 2022-03-12 |
 | [Pull Me Closer](https://open.spotify.com/track/1R58ZwAFGpy4iMxa0mPmIN) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Pull Me Closer](https://open.spotify.com/album/28WRx5G880dCffLfPUpTED) | 2:44 | 2021-03-26 | 2021-09-11 |
-| [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2022-10-07 |  |
+| [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2022-10-07 | 2023-06-30 |
 | [Pump It Up](https://open.spotify.com/track/3tFz7n9OKBDMvrQmqE0oMR) | [Danko](https://open.spotify.com/artist/60sVnCJWU7WHTMSzK0HzPW) | [Pump It Up](https://open.spotify.com/album/2ttfC47P8tqCeHbge1rcag) | 2:52 | 2020-09-21\* | 2021-01-23 |
 | [Pump Pump](https://open.spotify.com/track/2XZ2MGJeyAeUVoDg4U2bMO) | [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Fake](https://open.spotify.com/album/24s9nNeIlOzCHW2Hf0tUN7) | 3:09 | 2020-09-21\* | 2020-11-27 |
 | [Punisher](https://open.spotify.com/track/2wrnoLYgHFZi7uCOIBMge9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Punisher](https://open.spotify.com/album/7oHZGknKLXJeZjiqvGrqYs) | 3:00 | 2020-09-21\* | 2021-01-23 |

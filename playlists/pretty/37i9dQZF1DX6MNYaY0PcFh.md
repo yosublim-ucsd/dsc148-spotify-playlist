@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,051 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,099 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 23 | [Bebey](https://open.spotify.com/track/6K8SmtE4jbK0E0MHOzWIIs) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [Bebey](https://open.spotify.com/album/4AV5ofpjUgJdZSqprqDrq6) | 2:10 |
 | 24 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 |
 | 25 | [More To Give](https://open.spotify.com/track/0c7OcnAQz6H3IIzQA3MP6C) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [More To Give](https://open.spotify.com/album/7DrcBhY34PI4wgF16iY2E5) | 2:32 |
-| 26 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
-| 27 | [Million Rings](https://open.spotify.com/track/3xPIndCsBuz27cLygsUhSB) | [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd), [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [Million Rings](https://open.spotify.com/album/4r9jyeljiOBrOX1O9vYoSm) | 2:42 |
+| 26 | [Million Rings](https://open.spotify.com/track/3xPIndCsBuz27cLygsUhSB) | [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd), [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [Million Rings](https://open.spotify.com/album/4r9jyeljiOBrOX1O9vYoSm) | 2:42 |
+| 27 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
 | 28 | [Delectable](https://open.spotify.com/track/3DxUguzXqD17Ulbk18GRtS) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [M4A4](https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E) | [Delectable](https://open.spotify.com/album/1FMBiXbZ46iY4csfFjEEnF) | 5:46 |
 | 29 | [Take it Further](https://open.spotify.com/track/2YNcbIe5ez6J9pLeS0TmdL) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Take it Further](https://open.spotify.com/album/1g8uVD8Hk9ZOmjrSg1TwUb) | 4:33 |
 | 30 | [Alright \(feat\. Lucy Virji\)](https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Lucy Virji](https://open.spotify.com/artist/21r2Bc1mCeYM6f8F5xzJ8E) | [Alright \(feat\. Lucy Virji\)](https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au) | 4:37 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 50 | [Microdosing \(Conducta Remix\) \- Edit](https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Microdosing \(Conducta Remix\)](https://open.spotify.com/album/52r0BbElKJLiF59usacC0A) | 2:57 |
 | 51 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 |
 | 52 | [Like Home](https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Like Home](https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3) | 5:00 |
-| 53 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
-| 54 | [Insomnia](https://open.spotify.com/track/5dC47tKuzWQs9rtpoWle71) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Channeler / Insomnia](https://open.spotify.com/album/3QMuGQzNNO520yZrW32d5E) | 4:38 |
+| 53 | [Insomnia](https://open.spotify.com/track/5dC47tKuzWQs9rtpoWle71) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Channeler / Insomnia](https://open.spotify.com/album/3QMuGQzNNO520yZrW32d5E) | 4:38 |
+| 54 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
 | 55 | [B With Me \- Bump & Flex Radio Edit](https://open.spotify.com/track/3r7xbYVEMRXiP9PZ8bh1xj) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Bump & Flex](https://open.spotify.com/artist/6NuELb3JJmU6DkmorHd587) | [B With Me \(Bump & Flex Mix Radio Edit\)](https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC) | 3:38 |
 | 56 | [Next 2 You](https://open.spotify.com/track/3bX6x6oCl1GU0CzfRUylOs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:00 |
 | 57 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 59 | [Ain't It Different \(feat\. AJ Tracey & Stormzy\) \- Conducta Remix](https://open.spotify.com/track/15rKTPi84iL42VG8ANdnr4) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Ain't It Different \- Conducta Remix \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/album/0xbCYDk4vmhlHoa7TZ9t2l) | 3:46 |
 | 60 | [Visions](https://open.spotify.com/track/1nQpu5Bzfc2HylKKwX06Lk) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Visions](https://open.spotify.com/album/3rWDCqvvj2cmJjhUlFSIMa) | 2:15 |
 
-Snapshot ID: `MCxiOGFiZDYyMDQ3NWNkNjkwYzNiZmFjMjU4MzlkOWIyMjUyMDc3YzRh`
+Snapshot ID: `MCwyNDcwYTc1YmU0MDBjM2NkZjQ0Mzc4ZGY5Y2M1YzM2ZDlhMzdjNTAz`

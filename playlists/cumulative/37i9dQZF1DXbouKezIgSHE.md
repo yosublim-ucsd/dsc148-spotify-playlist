@@ -2,9 +2,9 @@
 
 ### [Long Live DnB](https://open.spotify.com/playlist/37i9dQZF1DXbouKezIgSHE)
 
-> Where drum & bass comes alive\. Cover: Luude, Bru C
+> Where drum & bass comes alive\. Cover: Hermitude
 
-103 songs - 6 hr 49 min
+105 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Beams \- PhaseOne Remix](https://open.spotify.com/track/7ycSMHYKdNy1wmLydfXwZR) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF), [Joe Dukie](https://open.spotify.com/artist/1stlWvYSCm3sSEIzdKBSeY), [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk) | [Not Forever Reimagined](https://open.spotify.com/album/1bCGrIsOTVF0CbWEI6NsKW) | 3:38 | 2022-06-08 |  |
 | [Burn 'Em Down](https://open.spotify.com/track/43ohQwkTpSSgVdib9dJWj1) | [Pythius](https://open.spotify.com/artist/0CRJK2gwHjs3IKm4uhjNTR) | [Burn 'Em Down](https://open.spotify.com/album/3qYCL2kJB9G9yVUp8n3vU1) | 3:24 | 2022-06-08 |  |
 | [Catharsis X](https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Catharsis X](https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs) | 4:04 | 2022-06-08 |  |
+| [Celebrate](https://open.spotify.com/track/4kwL1llo15KnxK4SuX5Vrv) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Celebrate](https://open.spotify.com/album/5Na2qPre4PeDr7b9byYF7M) | 3:14 | 2023-06-29 |  |
 | [Chemical](https://open.spotify.com/track/5xOmruHbdLlhpDG1DZEyj7) | [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm) | [Chemical EP](https://open.spotify.com/album/1cj7deUnAQKEUAfgGH8uon) | 5:09 | 2022-06-08 | 2023-06-02 |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-05-11 |  |
 | [CNCNTRTN](https://open.spotify.com/track/6CyWYoGbXYDaWzgVtDWFfJ) | [PRFCT Mandem](https://open.spotify.com/artist/17E7dnCNABNW9SJBiaDe5E) | [CNCNTRTN](https://open.spotify.com/album/3EMQpMfulXzJIVnHQRskOs) | 3:24 | 2022-06-08 |  |
@@ -76,6 +77,7 @@
 | [Nyx](https://open.spotify.com/track/55oEMPn7GcYw0QnEPC7JRR) | [Neonlight](https://open.spotify.com/artist/1dDzlLlakr2JyoK4EtRv5L), [State of Mind](https://open.spotify.com/artist/6Piel9jEbV4Qb18Yw1B2dI) | [Prophecy & Nyx](https://open.spotify.com/album/2jRDWwBxGM3YkRzY93r2xK) | 4:08 | 2022-06-08 |  |
 | [Overture](https://open.spotify.com/track/4AjiA5HkJVy59369f0Jjlk) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj) | [Overture](https://open.spotify.com/album/3WBh6onMnl64BJOyyCp64C) | 5:12 | 2022-06-08 | 2023-05-19 |
 | [Peace Of Mind](https://open.spotify.com/track/76fyFZLL5uI3uH6uPMlWKa) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp), [Oli Scott](https://open.spotify.com/artist/0JGeTI3sByz80XJ48gk9pv) | [Peace Of Mind](https://open.spotify.com/album/3Q7mz6QSjLA2O25sZ5JNm3) | 3:23 | 2022-06-08 |  |
+| [POWER](https://open.spotify.com/track/3VTXX0KqnhJxerRXn9rQGE) | [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [POWER](https://open.spotify.com/album/6LIIW4E1n2nqdVp9ozoydA) | 3:08 | 2023-06-29 |  |
 | [Pretend](https://open.spotify.com/track/4heg9L1ymejnW14gFLOAPn) | [REPAIR](https://open.spotify.com/artist/0xLqXvK6horF4enARe8AIN), [Ruebik](https://open.spotify.com/artist/331mn1ZP0uAGUcazag3TNa), [Christina Harrison](https://open.spotify.com/artist/0Bodcxze5bIUbnJAI3JKTR) | [Pretend](https://open.spotify.com/album/6AF06ZXUETEmdeoxf1deMo) | 4:08 | 2022-06-08 |  |
 | [Prime Time Twilight](https://open.spotify.com/track/1P4sKJ8bQa9slz0wbPHfNT) | [DON DARKOE](https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql) | [Prime Time Twilight](https://open.spotify.com/album/1uJTu8HBmV4H53Ck70vQEw) | 3:07 | 2023-05-11 |  |
 | [Revenant](https://open.spotify.com/track/2XbjdPhZ49Ds27aPtye9DJ) | [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm) | [Revenant](https://open.spotify.com/album/4xztJfknT7CtmYNoQMllsn) | 3:28 | 2022-06-08 |  |

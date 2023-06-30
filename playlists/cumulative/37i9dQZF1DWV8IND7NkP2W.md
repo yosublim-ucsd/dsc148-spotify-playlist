@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-615 songs - 1 day 3 hr 48 min
+616 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Butterfly](https://open.spotify.com/track/46wL47Ne7Q8dEj6iRUNjQ0) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Butterfly](https://open.spotify.com/album/1RTL9I3CVJ5hWPR8O71Lhx) | 3:15 | 2021-12-23 | 2022-07-22 |
 | [By The Sea](https://open.spotify.com/track/1o4X9LyVmM4F1CRfjVjHDQ) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [CINEMA](https://open.spotify.com/album/1i4w92XNnwSw6gKaMyJu1j) | 2:18 | 2022-10-13 | 2023-01-20 |
 | [Calm of Jazz](https://open.spotify.com/track/6z4ge4bEuNUuZ1jur3I0QG) | [DJ ZEEK](https://open.spotify.com/artist/6jX9IZnwPeKQyuAMkJE8OK) | [Calm of Jazz](https://open.spotify.com/album/5yVN2JaIvmCThUoVH1tke6) | 2:58 | 2021-12-23 | 2022-06-18 |
+| [Calvin](https://open.spotify.com/track/5VCLQ7di8TKUgO0wn0eg7W) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Calvin](https://open.spotify.com/album/2Ltqpc2vyTmJ0i2qtEiNK6) | 1:46 | 2023-06-29 |  |
 | [caravan](https://open.spotify.com/track/66j0QbHI6VRrDyIBKpj8cx) | [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [caravan](https://open.spotify.com/album/7J8kEw1gStQfSksAACR8qq) | 2:47 | 2022-01-13 | 2022-07-25 |
 | [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 | 2022-12-16 |  |
 | [Cat Alley](https://open.spotify.com/track/4y9mOkYt3R1VN4kIDbJyz0) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Cat Alley](https://open.spotify.com/album/5cAV9PNJYbpYFAst4vVUsy) | 1:29 | 2021-12-23 | 2022-07-21 |
@@ -190,7 +191,7 @@
 | [Freedom](https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2) | [Allgood](https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Freedom](https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R) | 2:08 | 2022-07-14 |  |
 | [friday](https://open.spotify.com/track/1m095EDPerZmmxh2hiWbmb) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [friday](https://open.spotify.com/album/5AKOB83tfVe0V3RFKeq97N) | 3:28 | 2021-12-23 | 2022-07-11 |
 | [Funny Meal](https://open.spotify.com/track/5qrSBUdKCZn05W1LIs5H0Z) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Funny Meal](https://open.spotify.com/album/4rfpHnAXPsilZgDOjWtwMl) | 4:14 | 2021-12-23 | 2022-01-31 |
-| [Game Master](https://open.spotify.com/track/4Oo2LsLop0vSbHeO1TPLj0) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G) | [Game Master](https://open.spotify.com/album/4vmZPaMP1MHVKDrlr8hWI3) | 1:53 | 2022-01-06 |  |
+| [Game Master](https://open.spotify.com/track/4Oo2LsLop0vSbHeO1TPLj0) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G) | [Game Master](https://open.spotify.com/album/4vmZPaMP1MHVKDrlr8hWI3) | 1:53 | 2022-01-06 | 2023-06-30 |
 | [Garden](https://open.spotify.com/track/1XI81iqlkLT3xUHzQzRrb8) | [ROKA](https://open.spotify.com/artist/25ktRTbISZikR4xuLHT8qW) | [Fade](https://open.spotify.com/album/2BeO7MZkXO2dYyuadRNj4l) | 2:29 | 2021-12-23 | 2022-07-05 |
 | [Getaway](https://open.spotify.com/track/3KW9TEb7G6BZu3XWVR8caI) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [KAZUMI KANEDA](https://open.spotify.com/artist/7mQtMaMaPMw2NTeYXfT53M), [Hector Mario](https://open.spotify.com/artist/7K33yZHEVk9UQXM4BRlvbi) | [Getaway](https://open.spotify.com/album/4MkRP9wJ457pLUwL4RIEo4) | 2:43 | 2022-03-24 |  |
 | [Getting By](https://open.spotify.com/track/6w1F8RFr3Q7pX2vPcLNEuC) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Getting By](https://open.spotify.com/album/6vn1dsAFLW0f6sY1kFvqcC) | 2:51 | 2021-12-23 | 2022-07-28 |
@@ -317,7 +318,7 @@
 | [Meisekimu](https://open.spotify.com/track/1dI0PZUAVLIDxIp34Zkj2s) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze) | [Meisekimu](https://open.spotify.com/album/2wJY88DddxuSn9i04bP0v3) | 3:05 | 2022-01-06 | 2022-04-18 |
 | [melancholic](https://open.spotify.com/track/2mVGm6EUAar5nWqoQUtCps) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [standalone collective](https://open.spotify.com/album/2YIsDVIu9bKbLXAlnBFKTw) | 2:10 | 2022-01-13 | 2022-06-29 |
 | [mement](https://open.spotify.com/track/36umuAOjXpoxzYXmkTbxv7) | [loner](https://open.spotify.com/artist/0cg7k8SzwAc1aXnLd2iTwH) | [mement](https://open.spotify.com/album/61gSzaqoUlGG6TfhzZAZK5) | 3:12 | 2022-12-01 | 2023-04-24 |
-| [Memories of Furniture](https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Memories of Furniture](https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv) | 3:33 | 2021-12-23 | 2023-05-05 |
+| [Memories of Furniture](https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Memories of Furniture](https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv) | 3:33 | 2021-12-23 |  |
 | [meraki](https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [meraki / cosmogyral](https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6) | 2:28 | 2021-12-23 |  |
 | [michi](https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [michi](https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP) | 2:38 | 2023-06-08 |  |
 | [Midnight Peeps, Pt.2](https://open.spotify.com/track/2WSgwK0GqTZK8yTioy0Cd8) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Midnight Peeps, Pt.2](https://open.spotify.com/album/0yMnyXQqxoFviK7NLjfWPL) | 3:34 | 2022-01-06 | 2022-07-11 |
@@ -617,7 +618,7 @@
 | [YUYAKE](https://open.spotify.com/track/5yyQpRRoBp3FsivksZ4Ars) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/5eLICFFzPhy0vjnbufvHVy) | 3:00 | 2022-05-26 | 2022-07-28 |
 | [Yuzu](https://open.spotify.com/track/1IzeP9IJRMTu5edmoaHScF) | [H¥NOK¥](https://open.spotify.com/artist/4hCf7jwZpqSCKNqr8ZjR7k) | [Yuzu](https://open.spotify.com/album/0LqbxgFY5W58ebN81ocOyE) | 2:09 | 2021-12-23 | 2022-07-25 |
 | [ホリデー \- Instrumental](https://open.spotify.com/track/5hwbj7LQDhasXvoi1rQqUx) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [ホリデー \(Instrumental\)](https://open.spotify.com/album/6CJdNmuyfwwHnLy0pLdt25) | 4:00 | 2021-12-23 | 2022-07-29 |
-| [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 |  |
+| [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 | 2023-06-30 |
 | [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 | 2022-07-17 |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |

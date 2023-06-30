@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Ant Song",
+        "url": "https://open.spotify.com/album/0jvkMCzeX2unbAw7YoXzXC"
+      },
+      "artists": [
+        {
+          "name": "aleksiah",
+          "url": "https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Ant Song",
+      "url": "https://open.spotify.com/track/14pKJylfHHYfuQAsNjPHrs"
+    },
+    {
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -1090,6 +1108,24 @@
       "duration_ms": 187640,
       "name": "Clumsy Love",
       "url": "https://open.spotify.com/track/6EOwEp0a537SGJZxVk07Gp"
+    },
+    {
+      "album": {
+        "name": "Cocopops",
+        "url": "https://open.spotify.com/album/77xbY0sN7ugzybMfQsb21I"
+      },
+      "artists": [
+        {
+          "name": "Ivoris",
+          "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151020,
+      "name": "Cocopops",
+      "url": "https://open.spotify.com/track/0tVvrV3Nzb8gqPT2UrhmCh"
     },
     {
       "album": {
@@ -4822,7 +4858,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
@@ -5450,7 +5486,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 216586,
       "name": "When We Are Together",
       "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"

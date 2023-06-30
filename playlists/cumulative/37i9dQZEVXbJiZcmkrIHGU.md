@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,882 songs - 3 day 20 hr 21 min
+1,883 songs - 3 day 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1343,7 +1343,8 @@
 | [Polka, Polka, Polka \- Single Version](https://open.spotify.com/track/6O0OwJjXAnmrevV7Sadhvx) | [Brings](https://open.spotify.com/artist/5uRfU4LuGDkxzZ86uCXQY8) | [14](https://open.spotify.com/album/599NuaobEKybC8byZnDgTt) | 3:43 | 2023-02-17 | 2023-02-19 |
 | [POOL](https://open.spotify.com/track/0FOiymr4EaIZio96IYCxoj) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Themba](https://open.spotify.com/artist/51SSCZT34w23GiDCWT8twm) | [MADEIRA MADNESS](https://open.spotify.com/album/1UpIYat89xq5ivr1CzpDKl) | 2:53 | 2022-10-15 | 2022-10-17 |
 | [POPSMOKE DANCE](https://open.spotify.com/track/1ZU19OTgd4Xs5QaYJ78bQF) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [POPSMOKE DANCE](https://open.spotify.com/album/4VG6YdjT1dssidrwp3uNfW) | 3:04 | 2021-06-20 | 2021-06-24 |
-| [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-03 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 | 2023-06-29 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-03 | 2023-06-30 |
 | [Porsche](https://open.spotify.com/track/6K74pRmxHkSudhOdzoHxwE) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [DESTROY ALL COPIES](https://open.spotify.com/album/6XsN3b2ttmdn6M6tHsAkma) | 3:41 | 2021-09-05 | 2021-09-06 |
 | [Portrait](https://open.spotify.com/track/3mynByp1pJOsjCkrSLrjbC) | [Damar](https://open.spotify.com/artist/05LbKtCK9GvxTXoBxqKZxu), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Portrait](https://open.spotify.com/album/1FLbPZDywXu2JTxkIBqavm) | 2:26 | 2023-02-04 | 2023-02-09 |
 | [Pourquoi](https://open.spotify.com/track/6I36pBjiMiLQLF4cRMdtZ0) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Pourquoi](https://open.spotify.com/album/2mEiHEjfLmUV4qIHXpWQQD) | 2:48 | 2022-01-01 | 2022-01-23 |

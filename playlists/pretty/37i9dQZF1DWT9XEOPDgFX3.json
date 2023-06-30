@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Maple Glider",
-  "num_followers": 68744,
+  "num_followers": 68817,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjQyMjQwMTdiN2VjMmI0ZDgzMDdkMzA0OTAzOTUwMTM5NWExZmQ0",
+  "snapshot_id": "MCw0ZjVlMzE1YTYzMTllMmY0NTBhMWE3NGQyYjY2ZTEyYjQyOTdhZjU4",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Holdup",
-        "url": "https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 155262,
-      "name": "Holdup",
-      "url": "https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Holdup",
+        "url": "https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 155262,
+      "name": "Holdup",
+      "url": "https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "bluejay",
-        "url": "https://open.spotify.com/album/2FIDkKL3ElI7ULEkI8OvY0"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "bluejay",
-      "url": "https://open.spotify.com/track/2iew4KgPein9RqH5tUA95K"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 210173,
       "name": "Is There Something in the Movies?",
       "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "bluejay",
+        "url": "https://open.spotify.com/album/2FIDkKL3ElI7ULEkI8OvY0"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "bluejay",
+      "url": "https://open.spotify.com/track/2iew4KgPein9RqH5tUA95K"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1315,38 +1315,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Catch Your Eye",
-      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Rare Feeling",
-        "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
-      },
-      "artists": [
-        {
-          "name": "Twain",
-          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
-        }
-      ],
-      "duration_ms": 245849,
-      "name": "Dear Mexico (Thank You for Joyce)",
-      "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "A Little Older",
         "url": "https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR"
       },
@@ -1375,6 +1343,38 @@
       "duration_ms": 141946,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Catch Your Eye",
+      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Rare Feeling",
+        "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
+      },
+      "artists": [
+        {
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+        }
+      ],
+      "duration_ms": 245849,
+      "name": "Dear Mexico (Thank You for Joyce)",
+      "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 246666,
       "name": "Everything I had",
       "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 226258,
-      "name": "The Solitude",
-      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Come Onn",
         "url": "https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 204339,
       "name": "Come Onn",
       "url": "https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 226258,
+      "name": "The Solitude",
+      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Own",
-        "url": "https://open.spotify.com/album/4XC9aKl4vpKP9vSZcyt1MV"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 299033,
-      "name": "Own",
-      "url": "https://open.spotify.com/track/3p7pOrxCAt2obpQ7WNa0VM"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Quitters",
         "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
       },
@@ -1819,22 +1803,6 @@
       "duration_ms": 208911,
       "name": "Rubberneckers",
       "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "squirrel song",
-        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 108794,
-      "name": "squirrel song",
-      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1855,6 +1823,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Own",
+        "url": "https://open.spotify.com/album/4XC9aKl4vpKP9vSZcyt1MV"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 299033,
+      "name": "Own",
+      "url": "https://open.spotify.com/track/3p7pOrxCAt2obpQ7WNa0VM"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "At the Moonbase",
         "url": "https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA"
       },
@@ -1871,18 +1855,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
+        "name": "squirrel song",
+        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
       },
       "artists": [
         {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
         }
       ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
+      "duration_ms": 108794,
+      "name": "squirrel song",
+      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1903,18 +1887,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
       "artists": [
         {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
         }
       ],
-      "duration_ms": 290053,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1931,6 +1915,22 @@
       "duration_ms": 196802,
       "name": "Old Peel",
       "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
     },
     {
       "added_at": "2023-06-23 04:00:00",

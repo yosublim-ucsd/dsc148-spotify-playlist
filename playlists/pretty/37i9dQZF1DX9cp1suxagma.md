@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Valentina Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,360 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,440 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 10 | [Pasa](https://open.spotify.com/track/7GiOdC9H2U4jxp4qcNp5nA) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:13 |
 | 11 | [Sin Decir Adiós](https://open.spotify.com/track/2xJnBtLmBjITEcjIJIVHs8) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Sin Decir Adiós](https://open.spotify.com/album/6An2Gohh0s0kNJVnO0XYmS) | 2:46 |
 | 12 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
-| 13 | [Roca](https://open.spotify.com/track/2zujvi2Jef8V014b9ev3Ll) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [¿Qué Pasó en el 20XX?](https://open.spotify.com/album/6llY3eFZ4NYFQORYhLXXOX) | 3:24 |
+| 13 | [Roca](https://open.spotify.com/track/2zujvi2Jef8V014b9ev3Ll) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6), [KEVN](https://open.spotify.com/artist/3HV7tz8TjINMASUZA2lJU6), [Nico González](https://open.spotify.com/artist/1nTXeYpxcO0MIRuyHm5V5s) | [¿Qué Pasó en el 20XX?](https://open.spotify.com/album/6llY3eFZ4NYFQORYhLXXOX) | 3:24 |
 | 14 | [Duele](https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Duele](https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx) | 3:33 |
 | 15 | [4:40](https://open.spotify.com/track/0mBt0dOkThzeu7FakfHbGa) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV), [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [4:40](https://open.spotify.com/album/23cWA1ibGkP5VStAh5RRob) | 2:37 |
 | 16 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [La Estrategia](https://open.spotify.com/track/3mbCqi22KYjndD56qCykyP) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/06ndmW1TODpGRPdGE7At37) | 3:39 |
 | 100 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 |
 
-Snapshot ID: `MCwxN2ZkYzA5YWMwM2FlYTYxNjM1YmU4NzVlZGM3NTQyYzQzNTM0NjE4`
+Snapshot ID: `MCw0YjMzOGQzZTgyZGI4MTkyNTAxMTViN2VmZGQ1MTEwMjViOWMyOTFi`

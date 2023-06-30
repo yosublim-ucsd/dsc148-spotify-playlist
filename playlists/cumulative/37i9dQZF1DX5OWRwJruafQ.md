@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Inderpal Moga & Channi Nattan
 
-148 songs - 7 hr 7 min
+151 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Defender](https://open.spotify.com/track/1QGUZ1pSmeJv7U677bSVN9) | [Deep Karan](https://open.spotify.com/artist/2rAC8yC2Aqdo2utiGuDto2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Defender](https://open.spotify.com/album/0jhvzKYhasAq4RzgeVK3A9) | 2:24 | 2023-06-27 |  |
 | [Doaba Zone](https://open.spotify.com/track/4aPJDwEXwpND92r8VVfgvi) | [Shivjot Suchipind](https://open.spotify.com/artist/7dIWDfVELEshdx6pQvN6KJ) | [Doaba Zone](https://open.spotify.com/album/7hkWGmP36F8gFpCshqK04g) | 3:05 | 2023-03-29 | 2023-04-09 |
 | [Don’T Care](https://open.spotify.com/track/4AGDZS12QtecmUYaIdIxZ5) | [Gur\. V](https://open.spotify.com/artist/28zEsrNPBJJSsmRjsysTvY), [Jot Dhindsa](https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Don’T Care](https://open.spotify.com/album/1ZbZn6xKNv0PDn7hq2B9Av) | 2:50 | 2023-04-17 | 2023-04-21 |
+| [Dunia](https://open.spotify.com/track/191UibAfAOKYeA8vKv7MI9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:05 | 2023-06-29 |  |
 | [Duphare](https://open.spotify.com/track/6Yd2Qe4m4DHNrOYoGz46Us) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:05 | 2023-03-29 | 2023-04-15 |
 | [Excited](https://open.spotify.com/track/4zgEDxWXTVuNmkI79ptoms) | [Inder Dosanjh](https://open.spotify.com/artist/4uhm0dnOES3u20XHR4HTQY), [Quan](https://open.spotify.com/artist/4rDS8JCx4Q5fYKO5K14Vxp) | [Excited](https://open.spotify.com/album/3tSrUwOd0bpchOFDr23apD) | 2:52 | 2023-03-29 | 2023-04-21 |
 | [Expense](https://open.spotify.com/track/4LPNEtQxELZYdaacTHWMxq) | [Teji Grewal](https://open.spotify.com/artist/68evXbnRy6P5jtQ9Q0gVMr) | [Expense](https://open.spotify.com/album/1T0Lwamtr3bvYAOIQ4WdW3) | 2:10 | 2023-03-29 | 2023-04-09 |
@@ -117,6 +118,7 @@
 | [Nukra](https://open.spotify.com/track/113NNK55hGq1KmKOyz7qH2) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg) | [Nukra](https://open.spotify.com/album/4GI47LHmkl0zcuAOph2lXO) | 2:30 | 2023-03-29 | 2023-04-21 |
 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2023-03-29 |  |
 | [Ok Reportaan](https://open.spotify.com/track/3N3mmADC87i2ekwBeTP54l) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Ok Reportaan](https://open.spotify.com/album/3cd3OLaia7aYId42IPsg5C) | 3:18 | 2023-03-29 |  |
+| [Peg](https://open.spotify.com/track/1BzaLzFeLkorzxblbTfzS0) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:16 | 2023-06-29 |  |
 | [Pehli Vaari](https://open.spotify.com/track/6TCiIez3DSy7ZwpBQ4RWrw) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Supremacy](https://open.spotify.com/album/4isvJOYqf8qa24FykMvycD) | 3:18 | 2023-03-29 | 2023-04-15 |
 | [Pind Da Riwaaz](https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad](https://open.spotify.com/artist/21wSW3l3ykp9cMOkbfMbQo) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 3:08 | 2023-03-29 |  |
 | [Pinda Aale](https://open.spotify.com/track/34uGihf7olNByEcHPVGbsV) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Pinda Aale](https://open.spotify.com/album/2TzKRe27dDLz2RdeG7Ikme) | 2:33 | 2023-04-18 | 2023-04-21 |
@@ -136,6 +138,7 @@
 | [Stick Talk](https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Stick Talk](https://open.spotify.com/album/776yBgdEdhEUPmyErZuIu0) | 2:39 | 2023-05-18 |  |
 | [Style](https://open.spotify.com/track/4qNCoi29Sy2wjqltNCs0uV) | [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Jashan dandiwal](https://open.spotify.com/artist/4hDhWCwjFx2gm00vBrN4tA) | [Style](https://open.spotify.com/album/2aaiIRxkz5XNJI5sClUmdk) | 2:46 | 2023-06-12 |  |
 | [TALK LESS](https://open.spotify.com/track/2FdHYqak0QNYVvvvYfTKLN) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [TALK LESS](https://open.spotify.com/album/0GPjytkpi73o0Uuz8J5yjz) | 2:21 | 2023-03-29 | 2023-04-21 |
+| [Tape 2](https://open.spotify.com/track/1GNvVQnt5tR87lmhwl0yaN) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:19 | 2023-06-29 |  |
 | [Taur Jattan Di](https://open.spotify.com/track/71cVODnoVVC86J0r4VGEjT) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Taur Jattan Di](https://open.spotify.com/album/2bc7sswbaQOshk7bppuP4K) | 2:52 | 2023-03-29 |  |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-03-29 |  |
 | [Toy](https://open.spotify.com/track/14pPJbEMx6JZU8RItbY1Vq) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Toy](https://open.spotify.com/album/4VrAmKqAphRMoDcYno8V25) | 3:04 | 2023-03-29 |  |

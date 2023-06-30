@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-759 songs - 1 day 17 hr 14 min
+760 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Raatan Teriyan](https://open.spotify.com/track/5zYQ1uyhtDR64cJXX8iElB) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Pragati](https://open.spotify.com/artist/0DbVzPStkbvSMq7LQCHdUQ) | [Raatan Teriyan](https://open.spotify.com/album/2NsZM8ZbWRuA6MOSWdx6UW) | 3:13 | 2022-01-19 | 2022-02-01 |
 | [Rab \(from the Movie 'Sher Bagga'\)](https://open.spotify.com/track/0cxdYx46DmEPcULjPEDyQQ) | [Oye Kunaal](https://open.spotify.com/artist/7hf2qsbeILq7EBHCqWlO26) | [Rab \(from the Movie 'Sher Bagga'\)](https://open.spotify.com/album/5WgdYtGjAMrhowUK3nr0BC) | 3:16 | 2022-06-16 | 2022-07-06 |
 | [Rab Di Sau](https://open.spotify.com/track/03PqUYFXHfXqkH4rNCYZz6) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF) | [Rab Di Sau](https://open.spotify.com/album/16DnSa5RKq5mr8QHBqLqsm) | 3:40 | 2022-02-18 | 2022-04-06 |
+| [Rabb](https://open.spotify.com/track/4ma0IT1ooa3HcH0KU7AF6L) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:24 | 2023-06-29 |  |
 | [Rabb Karke](https://open.spotify.com/track/732kphYlO47LBXbemJlTlv) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Rabb Karke](https://open.spotify.com/album/4QxBRSf1zzIfMqClzt2Bqj) | 3:41 | 2022-04-25 | 2022-05-11 |
 | [Rabb Lagda](https://open.spotify.com/track/08VrJGA7t2dmth9oP8D3g8) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT) | [Rabb Lagda](https://open.spotify.com/album/1QffzMgmVdIEQpjVGxhY0Z) | 3:31 | 2022-05-10 | 2022-05-20 |
 | [Rabba Kyun](https://open.spotify.com/track/27ffhH14QEiGyuqY9BJAzM) | [Sagar Bhatia](https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4) | [Rabba Kyun](https://open.spotify.com/album/3dCwIeIdC2nQNXpGOgZgw0) | 3:16 | 2022-05-09 | 2022-05-20 |

@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-309 songs - 18 hr 9 min
+311 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Afternoon Delight](https://open.spotify.com/track/1pBAsoHy7eN9aeVCTAiKua) | [Starland Vocal Band](https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1) | [Starland Vocal Band](https://open.spotify.com/album/0SIkfBz37ZXzxXOZCi4JNk) | 3:13 | 2022-07-29 | 2022-11-13 |
 | [Ain't Together](https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:22 | 2022-04-05 | 2022-07-28 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-04-05 | 2022-10-16 |
+| [Ant Song](https://open.spotify.com/track/14pKJylfHHYfuQAsNjPHrs) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Ant Song](https://open.spotify.com/album/0jvkMCzeX2unbAw7YoXzXC) | 3:01 | 2023-06-29 |  |
 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-07-29 |  |
 | [Apricots](https://open.spotify.com/track/4x8WXoZxlAF5EOCLLcTKQ3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/27Ha0SgjvEraXK4aYEumkw) | 3:12 | 2022-04-05 | 2022-07-29 |
 | [As You Go](https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [As You Go](https://open.spotify.com/album/3F9HI9gUtpku7E05sz6O4K) | 3:00 | 2022-04-05 | 2022-07-29 |
@@ -68,6 +69,7 @@
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2022-04-05 | 2022-07-29 |
 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 | 2022-09-29 |  |
 | [Clumsy Love](https://open.spotify.com/track/6EOwEp0a537SGJZxVk07Gp) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:07 | 2022-04-05 | 2022-07-23 |
+| [Cocopops](https://open.spotify.com/track/0tVvrV3Nzb8gqPT2UrhmCh) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [Cocopops](https://open.spotify.com/album/77xbY0sN7ugzybMfQsb21I) | 2:31 | 2023-06-29 |  |
 | [Cold](https://open.spotify.com/track/3c7hHVpOsyFYWWwB958J8S) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Cold](https://open.spotify.com/album/3gvgKKPnvzTO8QhhkQSl4o) | 3:49 | 2022-06-24 | 2022-06-30 |
 | [Come On Mess Me Up](https://open.spotify.com/track/35esL6crd33KHmrpVFHFj4) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [This Is Our Vice](https://open.spotify.com/album/1Sx23MziCsG194ibSs4Syb) | 3:23 | 2022-04-05 | 2022-07-29 |
 | [Cool For A Second](https://open.spotify.com/track/2Ll8htBMso0rvzp0bERRQJ) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Cool For A Second](https://open.spotify.com/album/0SwxySf2lXs6jHNO9mEY6o) | 3:09 | 2022-04-05 | 2022-07-29 |
@@ -269,7 +271,7 @@
 | [Summer Child](https://open.spotify.com/track/6vOcpn5zG3tAgSs5TCYR1o) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:59 | 2022-07-29 | 2022-09-30 |
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/71J016NGpHvSmed7w63TzK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:25 | 2022-04-05 | 2022-07-29 |
 | [Suncats](https://open.spotify.com/track/5XIcW0qh8N0mqMmJZYvsRC) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Suncats](https://open.spotify.com/album/2VY9ZjLcebjF8WEst8hZfg) | 4:52 | 2022-04-05 | 2022-07-29 |
-| [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-09-29 |  |
+| [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-09-29 | 2023-06-30 |
 | [Sunshine Hides](https://open.spotify.com/track/2bf2xOj76k8ZXkcZ2aiyzH) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Sunshine Hides](https://open.spotify.com/album/4qvgp8JdKuExXdgW762EEe) | 4:10 | 2022-04-05 | 2022-07-29 |
 | [Superstitious](https://open.spotify.com/track/0OGW4ZkfG5fVhDGCxFZMUQ) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Superstitious](https://open.spotify.com/album/2L5NOCkRINq7gStFCzU0OL) | 3:21 | 2022-04-05 | 2022-07-25 |
 | [Sure](https://open.spotify.com/track/3Ki5yQ56TA115QAuf13t7x) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sure](https://open.spotify.com/album/2xUfJtRiffgY5kjFE1pEA0) | 4:09 | 2022-04-05 | 2022-07-24 |
@@ -303,7 +305,7 @@
 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 | 2022-04-05 | 2022-07-29 |
 | [Wasting Time](https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu), [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH) | [Wasting Time](https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp) | 3:12 | 2022-04-05 | 2022-07-23 |
 | [When It Was Wrong](https://open.spotify.com/track/2fRXHXLFvYnaYbQwkyadeC) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Spreadin' Honey](https://open.spotify.com/album/1bvotRLLCRLmoIv4eirps2) | 4:32 | 2022-04-05 | 2022-07-24 |
-| [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 | 2022-11-10 |  |
+| [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 | 2022-11-10 | 2023-06-30 |
 | [White Water](https://open.spotify.com/track/3D2jsYmtwlnK4kQLXHPUb5) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [White Water](https://open.spotify.com/album/1EsXpEeWrDFDjoH8flzfeL) | 3:54 | 2022-04-05 | 2022-07-08 |
 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 | 2022-07-29 |  |
 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 | 2022-04-05 |  |

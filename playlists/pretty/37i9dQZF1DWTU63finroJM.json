@@ -1,13 +1,29 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 52210,
+  "num_followers": 52255,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWIwNTEwMmUwN2YyZjExYTRhNWUwMTA3MTE0YWZlMjA0ZWMzOTYz",
+  "snapshot_id": "MCw5MTc0ZDUxZjE0N2MwMmMxMzQwMGE5NGUyMGJmMzk0ZThjNmY5NzFm",
   "tracks": [
+    {
+      "added_at": "2023-06-29 06:25:56",
+      "album": {
+        "name": "BURNA FONE",
+        "url": "https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "BURNA FONE",
+      "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
+    },
     {
       "added_at": "2023-06-09 08:10:55",
       "album": {

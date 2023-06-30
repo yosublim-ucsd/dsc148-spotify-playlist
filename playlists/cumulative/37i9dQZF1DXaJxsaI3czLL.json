@@ -2486,7 +2486,7 @@
     {
       "album": {
         "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp"
+        "url": "https://open.spotify.com/album/7iwT3qJe6FnAcn6CouxMIM"
       },
       "artists": [
         {
@@ -2497,6 +2497,24 @@
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/0zuBBSQxpKJU8AJfgO4Ghq"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp"
+      },
+      "artists": [
+        {
+          "name": "Anneth",
+          "url": "https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
       "duration_ms": 277500,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/2EZM4rYK3tbiRaGS3XyYvi"

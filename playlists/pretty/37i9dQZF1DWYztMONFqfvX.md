@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,641 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,503 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 49 | [Bulleya \- Reprise](https://open.spotify.com/track/0FeJltV3BtqpyQZ0hv49oi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 |
 | 50 | [Mareez \- E \- Ishq](https://open.spotify.com/track/2HqSND303T7sT0wOPj3K3C) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Zid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3uzoMn32aI8ZGlAUo0s7tM) | 4:51 |
 
-Snapshot ID: `MCxkYmQ5NmE5YzQ4ZThmNmU2ZjRiNWMxMzczMWUwYWIyNGQzYjc4MjYx`
+Snapshot ID: `MCw4YjQ4ZTQ5ZDAzMWMzYzlmMjA4YzVlNmZiYjM4YzU5YjdmMjk5Y2Fm`

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-769 songs - 1 day 17 hr 51 min
+770 songs - 1 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Enemy](https://open.spotify.com/track/5o1QZzfsboTlxhoAPR36LA) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Enemy](https://open.spotify.com/album/1mFbJ9XkEokyl35muNhPYe) | 2:20 | 2022-03-05 | 2022-04-09 |
 | [Enemy](https://open.spotify.com/track/7MIlZUzjRs4i5zvkAWgukg) | [Ericovich](https://open.spotify.com/artist/49X1BHaXBIqVjMkkV2w1qI), [IAN SIZE](https://open.spotify.com/artist/5xIYTb3LUDOlTOnZ2CQlEW) | [Enemy](https://open.spotify.com/album/3R27t5an8HndAwUelfpGqE) | 2:15 | 2022-06-02 | 2022-07-02 |
 | [Enemy](https://open.spotify.com/track/6NLgMm1fbFNgZg7MaRHq2W) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Invisible](https://open.spotify.com/artist/6GRKwhGojrzpj0486YlBA9), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9) | [Enemy](https://open.spotify.com/album/1sUzfPoIGKRnmyaEDxXL75) | 1:52 | 2022-02-18 | 2022-04-09 |
+| [Enigma](https://open.spotify.com/track/6ZGLumeSAYwtAVF4yWZu6m) | [Emoter](https://open.spotify.com/artist/61YSVV1OUrF6VcwghVVggg) | [Enigma](https://open.spotify.com/album/2bJV3YzMJ6RrW4memIg1vl) | 5:05 | 2023-06-29 |  |
 | [Enigma](https://open.spotify.com/track/5Tv8R4UVY2mtlm5YC4CTCK) | [Lenny](https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU), [SL!DE](https://open.spotify.com/artist/1lKzr6x82kX0Rb7t3Slskc), [MCTR](https://open.spotify.com/artist/2VpQ8zzDQwLxYQw5F2HaWk), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 2:20 | 2022-06-16 | 2022-11-24 |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI) | 4:00 | 2022-11-08 | 2022-11-10 |
 | [Eternal](https://open.spotify.com/track/0N6tsJpJilHbLoXLItHvM4) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [mark veins](https://open.spotify.com/artist/5Rt7OtfJpjne2jW8qy9Kcz), [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS) | [Eternal](https://open.spotify.com/album/6vP34IYlwS8zv3JKcFtHvX) | 2:43 | 2022-01-14 | 2022-09-15 |

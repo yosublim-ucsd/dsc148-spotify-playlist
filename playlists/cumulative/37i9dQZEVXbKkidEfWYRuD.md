@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,136 songs - 2 day 4 hr 42 min
+1,137 songs - 2 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-11 | 2021-08-01 |
 | [Moulin Rouge \(feat\. JABO\)](https://open.spotify.com/track/5EOuZpEGPBYMpNY4QJ1Mnh) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz), [JABO](https://open.spotify.com/artist/4VpioLKSHtvY5xybX0sFpY) | [Moulin Rouge \(feat\. JABO\)](https://open.spotify.com/album/59vH161Wdf4ssu0XjgrcZi) | 3:33 | 2021-06-06 | 2021-06-11 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-04-26 |  |
+| [Murder on My Mind](https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [I AM YOU](https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW) | 4:28 | 2023-06-29 |  |
 | [Murder Rate](https://open.spotify.com/track/5m8AUjnKQ3F6beIY23HOj5) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:56 | 2022-11-18 | 2022-12-03 |
 | [MUTANT](https://open.spotify.com/track/7oRfFPcG7xoBFjjo6tqyiW) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [MUTANT](https://open.spotify.com/album/3nFvG3Oi4OdDOTrUwKQbkV) | 2:52 | 2022-05-28 | 2022-05-30 |
 | [My Sister's Crown](https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [My Sister's Crown](https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp) | 2:56 | 2023-05-15 | 2023-05-17 |
@@ -865,7 +866,7 @@
 | [Москва любит...](https://open.spotify.com/track/41bGn6u78I8eNZg86tx3vp) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [2004](https://open.spotify.com/album/2XSjTk1Cs3tpKdYeUktZAt) | 3:25 | 2021-03-27\* | 2021-09-26 |
 | [Мох](https://open.spotify.com/track/5IEPzc47SMqni178gRd0dt) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [miXXXtape III: Смутное Время](https://open.spotify.com/album/0Nz1pnSwMM4FNRtHznneNS) | 2:06 | 2021-11-14 | 2021-11-21 |
 | [Моя голова винтом \(My head is spinning like a screw\)](https://open.spotify.com/track/4KrhaZm4JRkNO4HRdLvJIG) | [kostromin](https://open.spotify.com/artist/3JG79Z23wJN9Q5PTPpDAEV) | [Моя голова винтом \(My head is spinning like a screw\)](https://open.spotify.com/album/3MLrnG2xgu1CIONcpoFHfO) | 2:20 | 2021-03-27\* | 2021-05-15 |
-| [Мрійники](https://open.spotify.com/track/1zsOm9hbdt6c3YkPr4ZPn7) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Мрійники](https://open.spotify.com/album/3cd57PH8C56TgHcXoJISoC) | 2:58 | 2023-06-10 |  |
+| [Мрійники](https://open.spotify.com/track/1zsOm9hbdt6c3YkPr4ZPn7) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Мрійники](https://open.spotify.com/album/3cd57PH8C56TgHcXoJISoC) | 2:58 | 2023-06-10 | 2023-06-30 |
 | [Мы все умрем](https://open.spotify.com/track/0zBQznV5QeLsqPz5sgU2hq) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:46 | 2021-12-03 | 2021-12-18 |
 | [Мы умрём](https://open.spotify.com/track/12Y7A7iU9azEHgQmBYoF8R) | [Парнишка](https://open.spotify.com/artist/4KWYR8vpnpwnNr5wWicWWo), [ELLA](https://open.spotify.com/artist/3Ppw3oP5nRqYhoGRDvhuUr) | [Мы умрём](https://open.spotify.com/album/2ZSC7Dnp48HeMUCPMu53LY) | 3:14 | 2022-02-26 | 2022-02-28 |
 | [МЯТОЙ \- remix 2010](https://open.spotify.com/track/0ZGHCIFlJWqwB4TpG8LFbe) | [КОСМОНАВТОВ НЕТ](https://open.spotify.com/artist/2rRyviUwWAHYmzyVzmXWpZ) | [1+1=11](https://open.spotify.com/album/2MjE1xXSjJQVbqOusXdRQI) | 3:04 | 2022-01-11 | 2022-03-05 |

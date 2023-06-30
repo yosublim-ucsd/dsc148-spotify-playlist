@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,118 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,549 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Never Forget](https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Never Forget](https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR) | 3:03 |
 | 50 | [Don't Look Back](https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl) | 3:51 |
 
-Snapshot ID: `MCxiMGZjMzI2MmY4OTljMTg3NzY2ZGNkMzQ5OTMwMjZkOGU3Mjc0NTc2`
+Snapshot ID: `MCw1YTQ1ZTU2NjY5NjY0NzExMDQ1MGNmYjQxMDAxMTkwZjU4ZTU0YTZh`

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Iis Dahlia
+> Dendang Dangdut teratas\. Cover: Selfi Yamma
 
-102 songs - 7 hr 49 min
+103 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2021-08-23 |  |
 | [Balungan Kere](https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [PUSAKARYA](https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq) | 5:07 | 2021-08-23 | 2022-10-14 |
 | [Bertauhid](https://open.spotify.com/track/2pQ6I2NzRL0dsGc3D5Im5F) | [Sridevi DA5](https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s), [Eby DA5](https://open.spotify.com/artist/3di1pESdZfMHYO406ck1oy), [Afan DA5](https://open.spotify.com/artist/60jQVcXcjnlcFmXPkHEbfB) | [Bertauhid](https://open.spotify.com/album/70GKblOZsbv191FHhGOHsk) | 3:17 | 2023-03-13 |  |
-| [Bertepuk Sebelah Tangan](https://open.spotify.com/track/76IJq5eOqctxtHGyuEwF5Y) | [Gamma1](https://open.spotify.com/artist/4c4TlVWGSvRk1mBfZdYsnX), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Bertepuk Sebelah Tangan](https://open.spotify.com/album/5A02IkD5iJF61AkW368oHI) | 3:14 | 2021-08-23 |  |
+| [Bertepuk Sebelah Tangan](https://open.spotify.com/track/76IJq5eOqctxtHGyuEwF5Y) | [Gamma1](https://open.spotify.com/artist/4c4TlVWGSvRk1mBfZdYsnX), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Bertepuk Sebelah Tangan](https://open.spotify.com/album/5A02IkD5iJF61AkW368oHI) | 3:14 | 2021-08-23 | 2023-06-30 |
 | [Cinta Dalam Khayalan](https://open.spotify.com/track/7A42dJ9KKGtRGE4s3xTzjv) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [Cinta Dalam Khayalan](https://open.spotify.com/album/75MaREwGLzVsd5kqHhdVnO) | 4:58 | 2022-10-13 |  |
+| [Cinta Sejati](https://open.spotify.com/track/5Hr4r6S8DND2ef1BsUqsEU) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cinta Sejati](https://open.spotify.com/album/0oc1EyhEHfUj79vJgxVDZu) | 3:43 | 2023-06-29 |  |
 | [Cuma Kamu](https://open.spotify.com/track/2QnaLtjWrC4UMMVU6IspOo) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu](https://open.spotify.com/album/7mrO78qasVB2HQ17sywB3u) | 4:04 | 2021-08-23 | 2022-07-29 |
 | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/track/5qfF8hoLmH6wCeHZzhqz4l) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/album/4JGs61xAzqTVHt8xURldZ8) | 4:04 | 2021-08-23 |  |
 | [Dalan Liyane](https://open.spotify.com/track/0500gMP5UyLXs1HSuLOnBD) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Dalan Liyane](https://open.spotify.com/album/2uXWRk8gpYuaYI7LkaD8NS) | 4:04 | 2021-08-23 | 2023-02-17 |
@@ -46,7 +47,7 @@
 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 | 2021-08-23 |  |
 | [Kau Tawarkan Setia](https://open.spotify.com/track/1OvqS8BSe9fd89WLb6B2vR) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Kau Tawarkan Setia](https://open.spotify.com/album/1N2X1b2rkqK6XGUjjdyDfv) | 4:24 | 2023-04-13 |  |
 | [Kau Tercipta Bukan Untukku](https://open.spotify.com/track/2q9f86CdlaXOr6vD3HJK6R) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Sebelas Duabelas](https://open.spotify.com/album/6deRNyvv7AgrJWaA9xx5u8) | 4:21 | 2021-08-23 |  |
-| [Kau Tercipta Untukku](https://open.spotify.com/track/0NfWMu3zA2v4ymR2pWiXV9) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Kau Tercipta Untukku](https://open.spotify.com/album/1zpXdr3kkwZF8RKMz4vi72) | 4:07 | 2021-08-23 |  |
+| [Kau Tercipta Untukku](https://open.spotify.com/track/0NfWMu3zA2v4ymR2pWiXV9) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Kau Tercipta Untukku](https://open.spotify.com/album/1zpXdr3kkwZF8RKMz4vi72) | 4:07 | 2021-08-23 | 2023-06-30 |
 | [Kejam](https://open.spotify.com/track/1jGPT79sQ8k48Lu4nWqKMj) | [Iyeth Bustami](https://open.spotify.com/artist/00C7NuuxMrVAu6Yzxj667R) | [Kejam](https://open.spotify.com/album/7vOcQvH0zVauyTYW4wWh73) | 5:03 | 2023-05-11 |  |
 | [Konco Mesra](https://open.spotify.com/track/2ey0HK2pXI9y5cIW5NqFLj) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Nella Kharisma Special NDX](https://open.spotify.com/album/5lJx0J2xoruceOPUDWUDDD) | 5:01 | 2021-08-23 |  |
 | [Konco Rindu](https://open.spotify.com/track/5KXY2olwTQxjhbX6plooNV) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Konco Rindu](https://open.spotify.com/album/4zoCn0RSzcqyAvf3gEjn1i) | 5:05 | 2021-08-23 | 2023-03-31 |

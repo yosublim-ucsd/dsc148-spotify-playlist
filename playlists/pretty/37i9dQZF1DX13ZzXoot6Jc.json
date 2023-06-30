@@ -1,12 +1,12 @@
 {
   "description": "A collection of country hits that will have you singing every word. Cover: Kane Brown",
-  "num_followers": 445615,
+  "num_followers": 445688,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzE3NDJlNTA2ZTMxODQ4MzFkYTViNDRmMTZjOWEwN2QxMTk4MTA2",
+  "snapshot_id": "MCxkYzc3MTVmN2JjMDg3MDU0NWYzMDc0NmVjY2RiOTkwZmM2YmI0NGI4",
   "tracks": [
     {
       "added_at": "2023-06-23 18:12:30",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-23 18:12:30",
       "album": {
-        "name": "Tennessee Orange",
-        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 223119,
-      "name": "Tennessee Orange",
-      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
-    },
-    {
-      "added_at": "2023-06-23 18:12:30",
-      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
+    },
+    {
+      "added_at": "2023-06-23 18:12:30",
+      "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
     },
     {
       "added_at": "2023-06-23 18:12:30",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-06-23 18:12:30",
       "album": {
-        "name": "5 Leaf Clover",
-        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 211053,
-      "name": "5 Leaf Clover",
-      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
-    },
-    {
-      "added_at": "2023-06-23 18:12:30",
-      "album": {
         "name": "Dear Alcohol",
         "url": "https://open.spotify.com/album/6TtLuu7MV4ptXoXBCIq6xL"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 250413,
       "name": "I Wish Grandpas Never Died",
       "url": "https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT"
+    },
+    {
+      "added_at": "2023-06-23 18:12:30",
+      "album": {
+        "name": "5 Leaf Clover",
+        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "5 Leaf Clover",
+      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
     },
     {
       "added_at": "2023-06-23 18:12:30",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-06-23 18:12:30",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI"
+        "name": "Midtown Diaries",
+        "url": "https://open.spotify.com/album/50zMs3AwxduoOoQoN17955"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
         }
       ],
-      "duration_ms": 167760,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
+      "duration_ms": 203040,
+      "name": "Truth About You",
+      "url": "https://open.spotify.com/track/0M0YznaIOwAdoo2cT2KwpK"
     },
     {
       "added_at": "2023-06-23 18:12:30",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-06-23 18:12:30",
       "album": {
-        "name": "Midtown Diaries",
-        "url": "https://open.spotify.com/album/50zMs3AwxduoOoQoN17955"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI"
       },
       "artists": [
         {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 203040,
-      "name": "Truth About You",
-      "url": "https://open.spotify.com/track/0M0YznaIOwAdoo2cT2KwpK"
+      "duration_ms": 167760,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
     },
     {
       "added_at": "2023-06-23 18:12:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits here
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,293 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,420 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 43 | [Too Easy](https://open.spotify.com/track/4Tx9rp5TpujLUwmoqKVjcs) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [DJ Edu](https://open.spotify.com/artist/282qczsRq0zgXtdnnrfrgX) | [Too Easy](https://open.spotify.com/album/6RkyrlOiwSFAKd01Y2yAvL) | 3:00 |
 | 44 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 |
 | 45 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
-| 46 | [Wave](https://open.spotify.com/track/5coMLnCHt2J9nPKahUeXfa) | [etu](https://open.spotify.com/artist/15XmtXC5NpeFw9Sf1W5PfD), [Swiss](https://open.spotify.com/artist/702Fgj9mIQ9bzfp9i9Dg7B) | [Spring Break](https://open.spotify.com/album/68vLzNjEUcPqJJ96zyYup9) | 2:46 |
+| 46 | [Wave](https://open.spotify.com/track/5coMLnCHt2J9nPKahUeXfa) | [etu](https://open.spotify.com/artist/4rvP4H2t2glOBrRevDoOE7), [Swiss](https://open.spotify.com/artist/702Fgj9mIQ9bzfp9i9Dg7B) | [Spring Break](https://open.spotify.com/album/68vLzNjEUcPqJJ96zyYup9) | 2:46 |
 | 47 | [Odo](https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Odo](https://open.spotify.com/album/6qqytYEiJ6cQMhXNG1oV3G) | 3:02 |
 | 48 | [Buya Kimi](https://open.spotify.com/track/6HLuVPFx304WRA0fbVirjs) | [Dj Coach](https://open.spotify.com/artist/0kXAnE4pbMxme8h4PQndfa), [DJ Sgo](https://open.spotify.com/artist/658ZTOoDdi3wP5HcVSdJFJ), [Jess](https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7) | [Buya Kimi](https://open.spotify.com/album/1aE3LIBDSvHiPJvHXLHwdR) | 6:55 |
 | 49 | [Hamba Juba](https://open.spotify.com/track/4k5FlWz3dfhyQzmRpVPZsW) | [Lady Amar](https://open.spotify.com/artist/63BHCKXCt00q20fd45W4Pk), [JL SA](https://open.spotify.com/artist/1HhlP6BPW4L4zcggfOZstL), [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Hamba Juba](https://open.spotify.com/album/4FnwIltkf5tGWFXJCcECaz) | 8:00 |
 | 50 | [Bhebha \(feat\. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy\)](https://open.spotify.com/track/1SB1UdyYs3DMyzHVxZg0QE) | [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [QuayR Musiq](https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08), [Matute Boy](https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L) | [Bhebha \(feat\. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy\)](https://open.spotify.com/album/1KLpiUVZQVXglbMCLI10n7) | 5:43 |
 
-Snapshot ID: `MCwxODZlMWExMDg5Y2RhYTM4Y2EzNzA1ZmNlYjA0NzkyZGUyMDZlZDM4`
+Snapshot ID: `MCwyODBlMDk3OThhN2RjNDE5M2U5NmE5ZDY5M2YwYjZkODRjNWUxNDAy`

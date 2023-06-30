@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Cobuz & Bustta, Akapellah
 
-72 songs - 4 hr 0 min
+73 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2023-03-31 |  |
 | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/track/2WXPCiwCzoH71JESAImTKE) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/album/1B0ue14v9AHXSYloaqeMDM) | 2:49 | 2023-06-23 |  |
 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 | 2023-03-31 |  |
-| [Alma](https://open.spotify.com/track/3boLPeNmot5ubUXqqnh9l1) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Plan Perfecto](https://open.spotify.com/album/0hvjGiKkoFYJaOwiWLTQ5o) | 3:28 | 2023-03-31 |  |
+| [Alma](https://open.spotify.com/track/1lZaIaZCrb4avapCCelFQt) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Plan Perfecto](https://open.spotify.com/album/2u7bufSK9Rws04JWErlg26) | 3:28 | 2023-06-23 |  |
+| [Alma](https://open.spotify.com/track/3boLPeNmot5ubUXqqnh9l1) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Plan Perfecto](https://open.spotify.com/album/0hvjGiKkoFYJaOwiWLTQ5o) | 3:28 | 2023-03-31 | 2023-06-30 |
 | [Aloha Remix](https://open.spotify.com/track/4hpOYMQsjZtYAt7T2KPJ0b) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Aloha Remix](https://open.spotify.com/album/7JhKgf5sKbIPFZA0vYiEJr) | 4:07 | 2023-03-31 |  |
 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 | 2023-03-31 |  |
 | [Atardecer](https://open.spotify.com/track/1pw677psLc8OrOdg88Yy2E) | [KZO Beat](https://open.spotify.com/artist/6lR6zcLWGjLduWyGBCxThH), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Seppe & Gama](https://open.spotify.com/artist/0F5CR3Pa9bThSXd4kyedcg) | [Atardecer](https://open.spotify.com/album/4TPFhLCLHZHSIUU1y0VCRG) | 3:16 | 2023-06-23 |  |

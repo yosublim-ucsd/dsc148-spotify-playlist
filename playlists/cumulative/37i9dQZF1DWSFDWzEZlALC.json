@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "4 Minuten",
+        "url": "https://open.spotify.com/album/1DoPaZsbPsnWCCBKiVlpQV"
+      },
+      "artists": [
+        {
+          "name": "CONNY",
+          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "4 Minuten",
+      "url": "https://open.spotify.com/track/4VTGQ7HOUbxICMLBnSI4bw"
+    },
+    {
+      "album": {
         "name": "6 Nullen",
         "url": "https://open.spotify.com/album/3pOm4L3VRx6D0Oau7UU0d2"
       },
@@ -316,7 +334,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 166405,
       "name": "Akademie der bildenden K\u00fcnste",
       "url": "https://open.spotify.com/track/6uQAZMFNPejBdiRnp6F03D"
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 202709,
       "name": "Glatteis",
       "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
@@ -2558,6 +2576,24 @@
       "duration_ms": 137984,
       "name": "Julia",
       "url": "https://open.spotify.com/track/5gaR66TOk71AnTvjdnKkuR"
+    },
+    {
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
+      },
+      "artists": [
+        {
+          "name": "BECKS",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164840,
+      "name": "June",
+      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
     },
     {
       "album": {
@@ -3622,7 +3658,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 143500,
       "name": "Parkdeck",
       "url": "https://open.spotify.com/track/21pFcMCJtXxicn7pGxKDQs"
@@ -3910,7 +3946,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 163773,
       "name": "Rote Pille, blaue Pille",
       "url": "https://open.spotify.com/track/2hnfsmf3vy0eYDOJF6OAt5"
@@ -4391,6 +4427,28 @@
     },
     {
       "album": {
+        "name": "Teenage Dirtbag",
+        "url": "https://open.spotify.com/album/0gwLX3eAeSh7sADfI2VAXc"
+      },
+      "artists": [
+        {
+          "name": "Flinte",
+          "url": "https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS"
+        },
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149266,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI"
+    },
+    {
+      "album": {
         "name": "Ticket f\u00fcr die Nacht (feat. ana\u00efs)",
         "url": "https://open.spotify.com/album/6OVMu7IKESwCUfpg5SoiuV"
       },
@@ -4638,7 +4696,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 213185,
       "name": "Unsere Stadt",
       "url": "https://open.spotify.com/track/3EnPa26fIejr2zmzbK9D6U"
@@ -5158,6 +5216,24 @@
       "duration_ms": 213851,
       "name": "Wir haben den Winter \u00fcberlebt",
       "url": "https://open.spotify.com/track/07kPTchc4mhslGur0QF6lj"
+    },
+    {
+      "album": {
+        "name": "wozu",
+        "url": "https://open.spotify.com/album/6xLt2KL3QAY3gn92kpswz2"
+      },
+      "artists": [
+        {
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202496,
+      "name": "wozu",
+      "url": "https://open.spotify.com/track/0IotItWNpsM4iuKqxPcJBo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,724 likes - 30 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,737 likes - 30 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 29 | [All I Need](https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [All I Need](https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi) | 2:36 |
 | 30 | [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 |
 
-Snapshot ID: `MCxlNTNmNmRjNjEwMDY3OTE0Y2YzY2U4ZTIxMmEyNjFjOGE0NTI2ZjM1`
+Snapshot ID: `MCxjNDVkZTYxZDg5MmVkODYwZGQ0NzRhNGJmMWQ3NjlmODU1YzcxOGMy`

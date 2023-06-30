@@ -4,13 +4,13 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-404 songs - 23 hr 56 min
+405 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1, 2, 3, 4](https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 3:37 | 2021-01-15 |  |
 | [1000 \- sunset version](https://open.spotify.com/track/4p6e7EE4NVJ8ZkO7UNRyq6) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [1000](https://open.spotify.com/album/2YHeBvEeEKpRN04rUIMRWp) | 3:59 | 2021-09-19 | 2022-07-28 |
-| [1000 Bornes](https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:04 | 2022-05-20 |  |
+| [1000 Bornes](https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:04 | 2022-05-20 | 2023-06-30 |
 | [1000 Times](https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh) | [Metò](https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2) | [1000 Times](https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s) | 3:57 | 2022-09-23 | 2023-03-06 |
 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 | 2021-01-03\* |  |
 | [Acapulco](https://open.spotify.com/track/1I0rpCvX2MyCp3KRM2kp70) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq) | [Les rêves sont faits](https://open.spotify.com/album/05Ppnlutbe72LvBOawQxZJ) | 3:38 | 2021-01-03\* | 2021-01-30 |
@@ -49,6 +49,7 @@
 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 | 2023-03-02 |  |
 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 | 2023-03-17 |  |
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Carry Me \(Acoustic\)](https://open.spotify.com/album/6VzdF00DUKQNKvUQcSljZv) | 3:19 | 2022-09-09 | 2022-12-17 |
+| [Carry Me \(Acoustic\)](https://open.spotify.com/track/1ZKj7bESDaRueWtgUF9r3e) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Deluxe\)](https://open.spotify.com/album/2Kl2yXaVhbU6pQbi5yHD2c) | 3:19 | 2023-06-22 |  |
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/2eaH5ePewiCADzPBeXfe0C) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Acoustic\)](https://open.spotify.com/album/4eumW3GeJQ6oPqqQO1Ot82) | 3:19 | 2022-12-16 | 2023-05-24 |
 | [Cent fois](https://open.spotify.com/track/16JTRfYQaSDfbUXsLB8sWX) | [Michèle O](https://open.spotify.com/artist/6lcg8HLVsKOtnCydhSKMji) | [Cent fois](https://open.spotify.com/album/0dpIM7Tjhz3imVgTinaC9y) | 4:17 | 2022-04-19 | 2022-05-25 |
 | [Cent pas](https://open.spotify.com/track/3UET3oVThA6MgDpjEgjyLq) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Cent pas](https://open.spotify.com/album/6KixBRmSppz0wrNwOd1lJS) | 3:59 | 2021-01-03\* | 2021-12-08 |

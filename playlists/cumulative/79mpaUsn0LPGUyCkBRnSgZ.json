@@ -1319,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Anime, Trauma and Divorce",
+        "url": "https://open.spotify.com/album/23SV7P5U8oF3EJfkdW08wO"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144099,
+      "name": "Death Parade",
+      "url": "https://open.spotify.com/track/4IIdH7tHoikvvr0twQtCBI"
+    },
+    {
+      "album": {
         "name": "Electr-o-pura",
         "url": "https://open.spotify.com/album/4z0y72X6GLvi4EOlezrFS9"
       },

@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Dara Polisi",
+        "url": "https://open.spotify.com/album/49CWvt3ZczWIrz38encYGj"
+      },
+      "artists": [
+        {
+          "name": "Alex Vice",
+          "url": "https://open.spotify.com/artist/1dE9AUZLMQysTU18I6fNAo"
+        },
+        {
+          "name": "Dyana Cods",
+          "url": "https://open.spotify.com/artist/53Ibd5TvnSkKslwcpQYnA3"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147748,
+      "name": "Dara Polisi",
+      "url": "https://open.spotify.com/track/1ZAyFHQMK7eFhgNxGOSpgu"
+    },
+    {
+      "album": {
         "name": "Day In The Life",
         "url": "https://open.spotify.com/album/5YHWe62ygI6WMaBqGb1rOk"
       },
@@ -2143,6 +2165,28 @@
     },
     {
       "album": {
+        "name": "So Gone Gfix",
+        "url": "https://open.spotify.com/album/1P0SXdYFMgygK9hqjdEzEI"
+      },
+      "artists": [
+        {
+          "name": "Vinc On The Beat",
+          "url": "https://open.spotify.com/artist/1zAkmlAKP4fCnJnAymX4r9"
+        },
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161730,
+      "name": "So Gone Gfix",
+      "url": "https://open.spotify.com/track/6oI7qnO61ysdOFBDemA13S"
+    },
+    {
+      "album": {
         "name": "Sock",
         "url": "https://open.spotify.com/album/3eq47b44p7l0T4HS6p0SZR"
       },
@@ -2516,7 +2560,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 132685,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/0KeypJHo1vNcEUR5cQSBHz"
@@ -2600,7 +2644,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 228336,
       "name": "Usikam Hii Section",
       "url": "https://open.spotify.com/track/5ste4YU4bN6h6MMqwZm8tz"

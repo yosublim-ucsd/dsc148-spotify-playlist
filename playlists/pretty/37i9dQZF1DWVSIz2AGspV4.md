@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف :حاتم العراقي
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,055 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,086 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Min Fadwa Li Dehketah](https://open.spotify.com/track/6tWh2BZh7W0wPQJpDNh9hc) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Hatim Al Iraqi 2023 Part 1](https://open.spotify.com/album/6EGljudVBye50EfnfTMcHG) | 3:30 |
+| 1 | [من فدوه لضحكته](https://open.spotify.com/track/4DG0ry7yjuSn8MVRgbLwys) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [حاتم العراقي ٢٠٢٣ \- الجزءالأول](https://open.spotify.com/album/7ug9CI0dD9otnTYpQ0Ng6K) | 3:30 |
 | 2 | [Eish Hayatak](https://open.spotify.com/track/4hK51YeHEbVb5dsM27Gnqx) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Eish Hayatak](https://open.spotify.com/album/2f640PgnXmEFaTBzGOCk4Z) | 3:41 |
 | 3 | [Enta Al Houb](https://open.spotify.com/track/1wEBbzQry9zlhJeuXaBapa) | [Bassam Mahdi](https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO) | [Enta Al Houb](https://open.spotify.com/album/5pgBxuVTiZEzLPx01VULti) | 3:09 |
 | 4 | [Qalby Youhdthni](https://open.spotify.com/track/1GQUH9SXf60kx1Pv6iHqTu) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Qalby Youhdthni](https://open.spotify.com/album/4ielaCNnKFHKcJk1umtPUH) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 49 | [Dai Alkomar](https://open.spotify.com/track/48gQ8RYW4HRkmzLRwnNxsC) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Dai Alkomar](https://open.spotify.com/album/2FV4sjYYhZd8RfVL4QwyFB) | 2:47 |
 | 50 | [Shaghlha](https://open.spotify.com/track/7K394fQv4B1E8HR2zM4tHL) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Shaghlha](https://open.spotify.com/album/0Pb0ZSWOhv8C7MwKFqOj4z) | 2:49 |
 
-Snapshot ID: `MCwyYjFlMGE3ZTMxM2E5YWUyYTQzYWI5Mjc2NGEzNjE0MzczNmEzZGJm`
+Snapshot ID: `MCwwNjg5MGZhZTM2MDYzYzcyN2YzZmFmMzlkYTI5NWNhNWFlZWY5Njc2`

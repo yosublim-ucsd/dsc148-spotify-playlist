@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Cancamusa.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,166 likes - 46 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,169 likes - 46 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Si te viera](https://open.spotify.com/track/7ppfHXPE0aJmC138T1PC7u) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:52 |
 | 2 | [Algo Es Mejor](https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:00 |
 | 3 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 |
-| 4 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 |
-| 5 | [Tu Olor](https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Tu Olor](https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3) | 3:06 |
+| 4 | [Tu Olor](https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Tu Olor](https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3) | 3:06 |
+| 5 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 |
 | 6 | [¿Dónde Se Llora Cuando Se Llora?](https://open.spotify.com/track/3gOLaMEE4RnH5AQrzHwCZB) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [¿Dónde Se Llora Cuando Se Llora?](https://open.spotify.com/album/4Ofgas2jQXJWocHwRyqrcS) | 3:20 |
 | 7 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
 | 8 | [Fly](https://open.spotify.com/track/348hkzsDDBKrBDOMc5b1Qf) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Fly](https://open.spotify.com/album/3sOFRrSp4OZB6cQ0WjScLb) | 3:57 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 39 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
 | 40 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 | 41 | [Pijamas](https://open.spotify.com/track/19ozP1l7TddQNbmxQ7ZbIV) | [Clara Löffel](https://open.spotify.com/artist/6u60r6JDzj7XEDTppO27j3) | [Pijamas](https://open.spotify.com/album/3uTm2bif9Wy04SaB4hcCO7) | 1:58 |
-| 42 | [Lentes](https://open.spotify.com/track/5XILTdIY7uhBq4nV9Knoqx) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Lentes](https://open.spotify.com/album/3Vrwjvb1yUIn67BP4tUOkr) | 2:57 |
-| 43 | [Arpegi](https://open.spotify.com/track/1pmnJn47cfPuzQmdpzJAsA) | [Yaney](https://open.spotify.com/artist/2JncMdQl5LMeSKFJ89UZ6f) | [1992](https://open.spotify.com/album/3bmlCtBUdpRby79nY3Arbw) | 4:44 |
+| 42 | [Arpegi](https://open.spotify.com/track/1pmnJn47cfPuzQmdpzJAsA) | [Yaney](https://open.spotify.com/artist/2JncMdQl5LMeSKFJ89UZ6f) | [1992](https://open.spotify.com/album/3bmlCtBUdpRby79nY3Arbw) | 4:44 |
+| 43 | [Lentes](https://open.spotify.com/track/5XILTdIY7uhBq4nV9Knoqx) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Lentes](https://open.spotify.com/album/3Vrwjvb1yUIn67BP4tUOkr) | 2:57 |
 | 44 | [Sin Título](https://open.spotify.com/track/6d8GtfivRUvdI3SU7PFD3t) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd) | [Sin Título](https://open.spotify.com/album/2izT2j03zrRep2fAXwdXGL) | 3:08 |
 | 45 | [Porvenir](https://open.spotify.com/track/170UqUn09dtqEsIPYAtmb1) | [Rosario Mena](https://open.spotify.com/artist/6A2zL3dCkfJN5EE6nP83WM) | [Porvenir](https://open.spotify.com/album/1374pzoDs69OvTAjMltWG7) | 4:03 |
 | 46 | [Amatista](https://open.spotify.com/track/5qnCVshMtFjniqwe6pfJ9E) | [Maria Magdalena](https://open.spotify.com/artist/4QfXdT47dRy46J1HAYRBba) | [Amatista](https://open.spotify.com/album/0r1FA4okmztis713UrJ0e7) | 4:06 |
 
-Snapshot ID: `MCwzYTgyNTc1ODg1Njg2NDFkYzhkN2Y2YjE0MjJmNzJjMTRmN2VhZDU0`
+Snapshot ID: `MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz`

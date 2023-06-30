@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,085 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,100 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 18 | [Flowers](https://open.spotify.com/track/6pYLdl855Ul8ckKKWzCrig) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/3OJMNgLFpxJLgTPw3YmNTx) | 3:02 |
 | 19 | [Paradise](https://open.spotify.com/track/5waRnWPjrrRfUF2j0J0WLq) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Paradise](https://open.spotify.com/album/4P7ZLYY4dnkwO98cNv426b) | 3:09 |
 | 20 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 |
-| 21 | [idk2](https://open.spotify.com/track/3xcUlIlxuFJg9ULn2xppI3) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/4NrdkPiWR2viihNRry16pZ) | 2:06 |
+| 21 | [idk2](https://open.spotify.com/track/65i5oP0YKXtWDj7Fqtvdak) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/0FrLx9txKT7cBIwVkbtri2) | 2:06 |
 | 22 | [when i think of you](https://open.spotify.com/track/68hcUgRL0STb26FmTyRSP9) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [when i think of you](https://open.spotify.com/album/7L2pJQGdQH14JCACTRaf0x) | 2:49 |
 | 23 | [Home](https://open.spotify.com/track/4qNMY30sIrprrG2YZPXVRi) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Home](https://open.spotify.com/album/7gyxNfZNPV5W0gYRoj87GJ) | 2:36 |
 | 24 | [Little by little](https://open.spotify.com/track/48HO4B8qWGEIYS8Sn3T6ZX) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/0mGwHQwFoFrlhK4dymMlmh) | 1:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 |
 | 100 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 |
 
-Snapshot ID: `MCxkNzdiNTNlMTg1MTdkNDQ3ZDg0MTY1N2RiOWVkODEyODQ1YzQ0Mzg3`
+Snapshot ID: `MCxjODM0NDNjYTVjYjQ3N2MwMjkxMzdiZjkyMGY3M2Q1YWIzMTU4MTRj`

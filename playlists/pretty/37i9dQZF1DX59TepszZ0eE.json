@@ -1,12 +1,12 @@
 {
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu?si=VHJtGOP-S_aMpuEi-GrdZQ\">Takie Ndou</a>\n",
-  "num_followers": 25632,
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz?si=9hLt7nr6SYiMzYnQrXbkgA\">Lusanda Spiritual Group</a>\n",
+  "num_followers": 25705,
   "original_name": "Sunday Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTU4YmJkNmM2OGMyMjNlZTRiNDcwOTQxODNkODVkNzlhZDE1NzFl",
+  "snapshot_id": "MCw4N2M2NTFiYzU4MjJiY2U5YzJkMDM4OGY3NzhjMjBlODJjYzM2NWU5",
   "tracks": [
     {
       "added_at": "2023-06-23 00:01:00",
@@ -27,6 +27,26 @@
       "duration_ms": 571053,
       "name": "Wasithethelela (Live)",
       "url": "https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "We the Forgiven",
+        "url": "https://open.spotify.com/album/7MAvgcD8XDlxRxKKWPArf5"
+      },
+      "artists": [
+        {
+          "name": "We Will Worship",
+          "url": "https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"
+        },
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5"
+        }
+      ],
+      "duration_ms": 354038,
+      "name": "We the Forgiven",
+      "url": "https://open.spotify.com/track/0mlqXss7EiDxxv0sZ7J0FW"
     },
     {
       "added_at": "2023-06-16 00:01:00",
@@ -59,6 +79,30 @@
       "duration_ms": 470600,
       "name": "Nothing Without You - Live At The Barnyard Theatre",
       "url": "https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "KE SIKILOE KE JESU",
+        "url": "https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG"
+      },
+      "artists": [
+        {
+          "name": "Locustmusiq",
+          "url": "https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j"
+        },
+        {
+          "name": "Dark shadow_msotra",
+          "url": "https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW"
+        },
+        {
+          "name": "Dintle",
+          "url": "https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd"
+        }
+      ],
+      "duration_ms": 293316,
+      "name": "KE SIKILOE KE JESU",
+      "url": "https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -133,6 +177,26 @@
       "url": "https://open.spotify.com/track/6XxVNBMA2Ci1S1lXtpmQo7"
     },
     {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Ndiyabulela",
+        "url": "https://open.spotify.com/album/3zKfcm9BarI8Y8fDcIChit"
+      },
+      "artists": [
+        {
+          "name": "Lusanda Spiritual Group",
+          "url": "https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz"
+        },
+        {
+          "name": "Betusile Mcinga",
+          "url": "https://open.spotify.com/artist/75BZvMQ0SQYzoMAqxG3gcb"
+        }
+      ],
+      "duration_ms": 274782,
+      "name": "Mandisithele",
+      "url": "https://open.spotify.com/track/2M4FfMNUar2NUEWFjKEhka"
+    },
+    {
       "added_at": "2023-06-16 00:01:00",
       "album": {
         "name": "Spiritual Encounter",
@@ -163,6 +227,22 @@
       "duration_ms": 471040,
       "name": "Nkosi Yethu Simakade",
       "url": "https://open.spotify.com/track/3uT8mhU2exkks3TGbWo614"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Ndiyabulela",
+        "url": "https://open.spotify.com/album/3zKfcm9BarI8Y8fDcIChit"
+      },
+      "artists": [
+        {
+          "name": "Lusanda Spiritual Group",
+          "url": "https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz"
+        }
+      ],
+      "duration_ms": 276819,
+      "name": "Liyez'Ixesha",
+      "url": "https://open.spotify.com/track/5W6xoNGYkme6joSMEc5atz"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -199,6 +279,26 @@
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Emnqamlezweni (Mjinti Madlala Remix)",
+        "url": "https://open.spotify.com/album/0gaxz32VmXyvIhDV477Uy8"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        },
+        {
+          "name": "Mjinti Madlala",
+          "url": "https://open.spotify.com/artist/4u8ket1HXAThwBSwgRnMkt"
+        }
+      ],
+      "duration_ms": 449567,
+      "name": "Emnqamlezweni - Mjinti Madlala Remix",
+      "url": "https://open.spotify.com/track/5E8uOfyS3dw7hRzDtav6ew"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -285,28 +385,24 @@
       "url": "https://open.spotify.com/track/4Xo9grcw19YyxmpHzTbML4"
     },
     {
-      "added_at": "2023-06-16 00:01:00",
+      "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Bonk'abantu",
-        "url": "https://open.spotify.com/album/6dnUVcCPU4AWxzFc1sbVui"
+        "name": "Hold On (Live)",
+        "url": "https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS"
       },
       "artists": [
         {
-          "name": "We Will Worship",
-          "url": "https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"
+          "name": "Sibusiso Nzima",
+          "url": "https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b"
         },
         {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        },
-        {
-          "name": "Mussie Fisseha",
-          "url": "https://open.spotify.com/artist/0pqfLLrl7qVsHhCjwXqVOw"
+          "name": "Bobo Jay Nzima",
+          "url": "https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Bonk'abantu",
-      "url": "https://open.spotify.com/track/5NhTHoojMsw6eUlR5zLMef"
+      "duration_ms": 405000,
+      "name": "Hold On (Live)",
+      "url": "https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO"
     },
     {
       "added_at": "2023-06-23 00:01:00",

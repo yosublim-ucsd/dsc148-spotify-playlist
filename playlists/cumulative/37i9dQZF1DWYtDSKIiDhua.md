@@ -2,9 +2,9 @@
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: HYBS
+> The R&B and good vibe tracks for your current mood\. Cover: Warren Hue
 
-444 songs - 1 day 0 hr 5 min
+447 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Fooling](https://open.spotify.com/track/3juEF67aVsAouiw6YXDu2w) | [Pimwa](https://open.spotify.com/artist/4z0Dhu8nFbVEZCvv8Rv8VY) | [Fooling](https://open.spotify.com/album/1LXmTSEDTrfVHi9ryLEppD) | 2:58 | 2022-06-30 | 2022-07-08 |
 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 | 2022-10-28 | 2022-11-11 |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2022-06-08 | 2022-09-23 |
+| [Forgiving Myself](https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Forgiving Myself](https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj) | 2:55 | 2023-06-29 |  |
 | [Friend Zone](https://open.spotify.com/track/0nzD87lkCYiY5Pxjvwp45P) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC), [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:25 | 2022-08-11 | 2022-08-19 |
 | [From The Top](https://open.spotify.com/track/2EZEeTAXxYhScVxtUYsw9c) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [From The Top](https://open.spotify.com/album/4pTrnYVHUR8QzN9qxhrZe1) | 2:23 | 2023-01-19 | 2023-02-04 |
 | [Future Somebody](https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Future Somebody](https://open.spotify.com/album/6oNuFaEPjjlNH9XeT1Aiab) | 2:22 | 2023-01-26 | 2023-02-18 |
@@ -240,6 +241,7 @@
 | [Matter of Taste \(feat\. Paloalto\)](https://open.spotify.com/track/0U4U1RdFuj6TzzQdbUtYkB) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:50 | 2022-06-08 | 2022-07-15 |
 | [Maybe?](https://open.spotify.com/track/5xEPUpkAaWBNEDWXlMMGOn) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Maybe?](https://open.spotify.com/album/70EUDwRcVADcdFtVTMuGkt) | 2:54 | 2023-02-03 |  |
 | [mayonnaise](https://open.spotify.com/track/4lErKE9FjE7pbqY85t3nn5) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:46 | 2022-06-08 | 2022-06-10 |
+| [Mess In Me](https://open.spotify.com/track/1psO7zg2F9gDEk9qZ77zjE) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Slower Life](https://open.spotify.com/album/6uwWc7KqBPq6WmbOFOJIAY) | 2:34 | 2023-06-29 |  |
 | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx) | 3:04 | 2022-06-08 | 2022-09-23 |
 | [Mind Games \(feat\. Jackson Wang\)](https://open.spotify.com/track/6JbxkCyeOto3xXjcFalZ3e) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Mind Games \(feat\. Jackson Wang\)](https://open.spotify.com/album/1fbmGW0Sy8WQlhCZ5UC5zb) | 3:13 | 2022-08-18 | 2022-09-02 |
 | [Minivan](https://open.spotify.com/track/0GcOOoiOKcG8TM6G5enISN) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Seasick](https://open.spotify.com/album/15XrXaGXDcZGigz55jwEe4) | 5:08 | 2022-08-11 | 2023-01-27 |
@@ -373,6 +375,7 @@
 | [Tell It To My Face](https://open.spotify.com/track/3BhdlvVCtfCzKFSmRQtUN4) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Tell It To My Face](https://open.spotify.com/album/17MkvC9Poj68uGnZ1W3468) | 4:04 | 2023-05-04 | 2023-06-09 |
 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-09-22 |  |
 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC) | 2:58 | 2023-03-23 | 2023-04-28 |
+| [TENNESSEE](https://open.spotify.com/track/2AFwCOahN4s0NlODlXLRFa) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [TENNESSEE](https://open.spotify.com/album/1FExYW4kwoxuHmCGgRYm8o) | 3:23 | 2023-06-29 |  |
 | [Terms and Conditions](https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Terms and Conditions](https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5) | 3:29 | 2023-04-06 | 2023-04-15 |
 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 | 2022-08-25 |  |
 | [The Better Benediction \(pt.2\) \(feat\. Lisa Knowles\-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard\)](https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 4:31 | 2022-10-13 | 2023-04-21 |

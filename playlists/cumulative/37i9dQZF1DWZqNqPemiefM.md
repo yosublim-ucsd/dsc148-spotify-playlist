@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-469 songs - 1 day 13 hr 24 min
+470 songs - 1 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Beautiful World](https://open.spotify.com/track/6SjkPjVF3D4dyvS29J7Ln2) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Akashic Records](https://open.spotify.com/album/3ZsJCJXgkwVEwoeHTpMtHx) | 5:34 | 2022-04-07 | 2022-07-28 |
 | [Beige](https://open.spotify.com/track/5ZssX5LKaeWewcBPycp7oR) | [Ultrafog](https://open.spotify.com/artist/3erT0S0GYFrjPuDqK9AUgo) | [Surging Waves](https://open.spotify.com/album/0Mz7qmB0koWo1rYrcMvfAF) | 3:20 | 2022-03-31 | 2022-07-26 |
 | [Bingdong](https://open.spotify.com/track/0OeGiuziStYp5mCzU22Ta9) | [MOOTY](https://open.spotify.com/artist/0ZEqcDapsv0OZbjt36sjrU) | [Abstract Monophony](https://open.spotify.com/album/1bH6IJGy4fU2tEqMJTy56p) | 2:40 | 2022-06-02 | 2022-07-10 |
-| [Biodome](https://open.spotify.com/track/2sVHOerrbSQYZgEZJqVhWt) | [尾島由郎](https://open.spotify.com/artist/5GekbhuyDcYViZ0BhZc9Iw) | [ハンサム](https://open.spotify.com/album/2Msru7zQbJovRIAuRSTrun) | 6:53 | 2022-03-30 |  |
+| [Biodome](https://open.spotify.com/track/2sVHOerrbSQYZgEZJqVhWt) | [尾島由郎](https://open.spotify.com/artist/5GekbhuyDcYViZ0BhZc9Iw) | [ハンサム](https://open.spotify.com/album/2Msru7zQbJovRIAuRSTrun) | 6:53 | 2022-03-30 | 2023-06-30 |
 | [Blessing day](https://open.spotify.com/track/34ngmxZZkoCX55nepWERjC) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [Blessing day](https://open.spotify.com/album/6EUviBJfmgJuMzxpsPqWi8) | 3:05 | 2022-03-31 | 2022-07-29 |
 | [Blink](https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 4:42 | 2022-04-07 |  |
 | [Blue](https://open.spotify.com/track/0Nkqva5H1flf1JtTPpnE84) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/5dauiDUmBugERmjvcdwRXz) | 3:59 | 2022-03-30 | 2022-07-17 |
@@ -307,6 +307,7 @@
 | [repetition \- rework](https://open.spotify.com/track/4rdhIlw3G7jhng9vOa4hUe) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4) | [repetition \(rework\)](https://open.spotify.com/album/2z1NiWIitUfcAwygZ6rDWV) | 4:47 | 2022-03-30 | 2022-07-29 |
 | [Requiem](https://open.spotify.com/track/1J1MyEX7vkcBnoAhvAmxwt) | [Janis Crunch](https://open.spotify.com/artist/57E9fnySsCbg4lFkU8msYJ), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [12 & 1 Song](https://open.spotify.com/album/1r2HKP5T1MmVoMrD2stfDW) | 3:35 | 2022-03-30 | 2022-04-12 |
 | [revans](https://open.spotify.com/track/0l3MPDFokE0xF2gmXHwdgf) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [re.sort](https://open.spotify.com/album/1E2YllECyI6VagDvI7gcfQ) | 5:07 | 2022-03-31 | 2022-07-27 |
+| [Revans](https://open.spotify.com/track/2fkefVBwTkw2KaiY0M84hI) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 5:07 | 2023-06-29 |  |
 | [Rhythm Variation 01](https://open.spotify.com/track/0pkwjax23OLBj4uGgLqnJ9) | [Aoki Takamasa](https://open.spotify.com/artist/7bjmjTh6nb3Sslb0AHWhJP) | [RV8](https://open.spotify.com/album/2KyxvbtWi0aPpLPXOmiNqy) | 6:26 | 2022-03-31 | 2022-04-18 |
 | [Ripples](https://open.spotify.com/track/3hbcJHi5BI0MQdgA0O5uWL) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Views](https://open.spotify.com/album/2tGZZZlAyHAw90nTFQZ3By) | 2:21 | 2022-04-16 | 2022-07-19 |
 | [rob call](https://open.spotify.com/track/3NOoXCqBqvfCEwaVv9eYud) | [Kadan](https://open.spotify.com/artist/6Kb0sAal8AKieGi3QFuut6), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [CASA](https://open.spotify.com/album/2VZrUwi0qi2hWZIZcveryr) | 4:14 | 2022-04-07 | 2022-07-25 |

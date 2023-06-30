@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: DIESEL
 
-368 songs - 20 hr 58 min
+369 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [British Gas](https://open.spotify.com/track/5fRfNIzmtZPbKv9yVEz5hA) | [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU), [Illaman](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu) | [Oracle EP](https://open.spotify.com/album/05wABmetW0HhmxqIlQjOIG) | 4:47 | 2021-12-17 | 2022-05-07 |
 | [BUBBLE BASS](https://open.spotify.com/track/57iPY8trFGMdDvs2IQNxmw) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [BUBBLE BASS](https://open.spotify.com/album/0Xns6eK58lVfQsZFMoTZRQ) | 2:48 | 2021-12-17 | 2022-05-07 |
 | [Bubble Up](https://open.spotify.com/track/11eC2qnJdadhKgDI3Y2bhX) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL) | [Bubble Up](https://open.spotify.com/album/5ZD0wmDSdnsobHtQKHMWiL) | 2:48 | 2021-12-17 | 2022-08-14 |
-| [Buckle Up](https://open.spotify.com/track/6DzgdoD0Dv3JQhU5bsg6IR) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Buckle Up](https://open.spotify.com/album/1Y7XTqyNmMflkVxWlLOBmz) | 3:15 | 2023-03-31 |  |
+| [Buckle Up](https://open.spotify.com/track/6DzgdoD0Dv3JQhU5bsg6IR) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Buckle Up](https://open.spotify.com/album/1Y7XTqyNmMflkVxWlLOBmz) | 3:15 | 2023-03-31 | 2023-06-30 |
 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-04-15 | 2023-03-11 |
 | [Bullet Hole](https://open.spotify.com/track/3r1IPri4eZ4WHNAMCd38Bs) | [Point.Blank](https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v) | [Dark Matter EP](https://open.spotify.com/album/6iqrCQIQZEptZ2O1e6nBQR) | 2:45 | 2021-12-17 | 2022-07-31 |
 | [Bump This](https://open.spotify.com/track/2O5oAio774pIRQGe3mnh5T) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Dubs In Limbo](https://open.spotify.com/album/3pmTlgjrJEYzS26fKhgshb) | 3:18 | 2022-10-21 | 2022-10-25 |
@@ -80,6 +80,7 @@
 | [Cobra Kai](https://open.spotify.com/track/0zch7NlCU5Jej5CO7QlovI) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL), [1000volts](https://open.spotify.com/artist/6MiWYUZOD7VJbJNSx8nUNW), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Cobra Kai](https://open.spotify.com/album/4eFypJ2teJpv9r5TdyUL3r) | 2:24 | 2022-07-08 | 2022-10-22 |
 | [Cold Case \- VIP](https://open.spotify.com/track/0l5fWjOl1LaY8LdGpMVAaa) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Chassi](https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky), [BLUPILL](https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac) | [Cold Case \(VIP\)](https://open.spotify.com/album/4JLyjTkd8KIRPAtRVnwD13) | 2:08 | 2022-08-26 |  |
 | [collusion](https://open.spotify.com/track/1fuD0mWleShbrcRQmFYifG) | [phonon](https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y), [benjamin francis](https://open.spotify.com/artist/77orLdlSeYbDKQwXPbXQMB) | [collusion](https://open.spotify.com/album/2G3OTX6tRPNNOjl7d5oeOY) | 2:56 | 2022-04-01 | 2022-07-27 |
+| [Control](https://open.spotify.com/track/3cWVaWR049bfJpxqIn0RrJ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Control](https://open.spotify.com/album/7jkL9mLVusMyCHby3Rnj1N) | 3:24 | 2023-06-23 |  |
 | [Control \(feat\. Add1ction\)](https://open.spotify.com/track/5oWyUpdAW3PqOg8lSiRxli) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Add1ction](https://open.spotify.com/artist/4RDLjBccKYkC5mJqxDEbt6) | [Control \(feat\. Add1ction\)](https://open.spotify.com/album/58yeuRwPRp7KFoIn0uhtzw) | 3:15 | 2021-12-17 | 2022-03-12 |
 | [COUNTRY RIDDIM](https://open.spotify.com/track/1dayiIC3odxNLViFQ7Iq4W) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [COUNTRY RIDDIM](https://open.spotify.com/album/5m8PDUPsNjUHjdGcfP4IXc) | 2:57 | 2023-04-28 |  |
 | [Crash Landing](https://open.spotify.com/track/3nwiXEeuhYGWszEWPOzvK4) | [Barely Alive](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Drew Seeley](https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs) | [Feel The Panic EP](https://open.spotify.com/album/0cqklN2AwGsjJpKwBAvfmZ) | 3:12 | 2022-11-11 | 2023-06-10 |

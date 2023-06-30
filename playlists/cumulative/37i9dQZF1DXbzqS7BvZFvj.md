@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Coi Leray
 
-207 songs - 10 hr 42 min
+208 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-03-16 | 2023-04-21 |
 | [Give You What You Want](https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Give You What You Want](https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep) | 2:39 | 2023-03-16 | 2023-06-03 |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-03-16 | 2023-04-21 |
+| [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-29 |  |
 | [Grown Man](https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Grown Man](https://open.spotify.com/album/282shVOXRHSfBqexKhADTN) | 1:46 | 2023-03-30 |  |
 | [Guidelines](https://open.spotify.com/track/0UL6Hs8nMYp7C7ttZy6d84) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Guidelines](https://open.spotify.com/album/4m6kUocNKV6r6ZmvtIad95) | 2:34 | 2023-04-20 | 2023-05-19 |
 | [GUMMY YUMMY](https://open.spotify.com/track/43u36BnruNoxMgxStSLEXQ) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [JV.JARVIS](https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz), [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [GUMMY YUMMY](https://open.spotify.com/album/47iAhuFISwSujzJFasNVRq) | 4:03 | 2023-04-28 | 2023-05-05 |

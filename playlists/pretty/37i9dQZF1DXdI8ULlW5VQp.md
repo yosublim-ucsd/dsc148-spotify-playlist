@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Cantamores en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,578 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,607 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 72 | [Migas de Pan](https://open.spotify.com/track/0BHkbp6rhWlfNTsDagl1ib) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Migas de Pan](https://open.spotify.com/album/7ezflwSFfjpqAWJ222pe0y) | 3:09 |
 | 73 | [Lecciones De Una Vida Cagándola En El Amor \- Versión Acústica](https://open.spotify.com/track/3zxcgvrX1RccyFZpcWnZpU) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Lecciones De Una Vida Cagándola En El Amor \(Versión Acústica\)](https://open.spotify.com/album/2FHJexkL7VjQkQaLbmOtMY) | 3:12 |
 | 74 | [Anclada](https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Anclada](https://open.spotify.com/album/4QqnlWm3sHytfnYeRrkpPM) | 2:50 |
-| 75 | [Anestesia](https://open.spotify.com/track/1mGml8E606PCYFKj5fjBmZ) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Anestesia](https://open.spotify.com/album/6P1eNjZCXgcv7DP8J9O5oe) | 3:42 |
+| 75 | [Donde Nadie](https://open.spotify.com/track/0f0Cxn4cO6dViHACpGjp4a) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Donde Nadie](https://open.spotify.com/album/0lOYCiJQk1S53KWUAh35tT) | 2:32 |
 
-Snapshot ID: `MCxiNDQxNzcyNjU1NWQ3NjY2ZmEzMGZmY2EyYzdhZmZkZTJjZjFmMjQ1`
+Snapshot ID: `MCw2NmUwM2E1MzAwNDBmODNmMTFhZTU2MzUyN2M5MTE1NDFiMjJjNWQ3`

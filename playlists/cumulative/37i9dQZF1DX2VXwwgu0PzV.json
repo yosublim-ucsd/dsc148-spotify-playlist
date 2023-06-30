@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7?si=EpbuER2WSkWUr55kACCteg\"> Wiffi Drips</a>",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY?si=FhcYxpbIR_queG81h0uNcw\"> King Dareal</a>",
   "name": "Youth Service",
   "tracks": [
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0BhDTtUjBtRHpovk2MbIK7"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188455,
+      "name": "Abba",
+      "url": "https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75"
+    },
     {
       "album": {
         "name": "Abba Father",
@@ -147,6 +165,24 @@
     },
     {
       "album": {
+        "name": "All in All",
+        "url": "https://open.spotify.com/album/4wj9LDl2efBCaLCpKPH7Cl"
+      },
+      "artists": [
+        {
+          "name": "Glenn Barnes",
+          "url": "https://open.spotify.com/artist/0biIkjNVgihbgL1V4RBILY"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394000,
+      "name": "All in All",
+      "url": "https://open.spotify.com/track/4Xv7URg3SYCDFNBPjfYCd9"
+    },
+    {
+      "album": {
         "name": "All Praise",
         "url": "https://open.spotify.com/album/05dhDZ8PFLjyLQ1hw1Dgc1"
       },
@@ -254,6 +290,24 @@
       "duration_ms": 223820,
       "name": "Answer Call",
       "url": "https://open.spotify.com/track/2MKb3pVcUzhijnrBjIWbYH"
+    },
+    {
+      "album": {
+        "name": "ARA",
+        "url": "https://open.spotify.com/album/0qrnhGGtJeyoTl2KfVkz6g"
+      },
+      "artists": [
+        {
+          "name": "Yinka Osho",
+          "url": "https://open.spotify.com/artist/3DekM6bxLS8BtjQgSx8EyA"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241269,
+      "name": "ARA",
+      "url": "https://open.spotify.com/track/4jeY6UAMrKgBUUjLB7PDg5"
     },
     {
       "album": {
@@ -639,6 +693,50 @@
     },
     {
       "album": {
+        "name": "Cast Am Out",
+        "url": "https://open.spotify.com/album/3asLwmvw4WeQ7HCDBqC6nD"
+      },
+      "artists": [
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Cast Am Out",
+      "url": "https://open.spotify.com/track/1xQNgQGpoYfzppa54QTXwM"
+    },
+    {
+      "album": {
+        "name": "Champions & Priesthood",
+        "url": "https://open.spotify.com/album/4zMGxjA4oQxnT9XkDcq8P1"
+      },
+      "artists": [
+        {
+          "name": "Favblings",
+          "url": "https://open.spotify.com/artist/0nUqiVKvYLkuqgYWLVTZSI"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175254,
+      "name": "Champions",
+      "url": "https://open.spotify.com/track/1DFpbQyEVR2f0K95u9n6BW"
+    },
+    {
+      "album": {
         "name": "Clear the Hold Up",
         "url": "https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0"
       },
@@ -807,6 +905,32 @@
     },
     {
       "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+    },
+    {
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN"
       },
@@ -822,6 +946,54 @@
       "duration_ms": 324572,
       "name": "Dansaki",
       "url": "https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/2QPzJrnYkpPBU4kCD15Hcw"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2"
+    },
+    {
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/6VQFhI9PQFcpzgkcH6bioA"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Jenge",
+          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/1K18rK11klBImZNILVXOiH"
     },
     {
       "album": {
@@ -1032,7 +1204,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 195285,
       "name": "Elijah Level",
       "url": "https://open.spotify.com/track/5IjmyW8WYcxQ7apbudLqo9"
@@ -2159,6 +2331,28 @@
     },
     {
       "album": {
+        "name": "HOSANNA",
+        "url": "https://open.spotify.com/album/7qoRftp5oYwRocCRWuu4XP"
+      },
+      "artists": [
+        {
+          "name": "Shekts Nelson",
+          "url": "https://open.spotify.com/artist/7tpzayRo6NGGNn7s7FgXG2"
+        },
+        {
+          "name": "Same OG",
+          "url": "https://open.spotify.com/artist/76h9OBfmrRBZI5R4PA3r6i"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193392,
+      "name": "HOSANNA",
+      "url": "https://open.spotify.com/track/5FAYOz4tFsMFpsF7sOiPk2"
+    },
+    {
+      "album": {
         "name": "Humble",
         "url": "https://open.spotify.com/album/0OGt1dzhFMavsF6bQGCdxg"
       },
@@ -2240,6 +2434,24 @@
       "duration_ms": 408894,
       "name": "I Na Eme",
       "url": "https://open.spotify.com/track/3Vrw4tCYlx7Gk5cdQ38shX"
+    },
+    {
+      "album": {
+        "name": "I Really Want You to Know",
+        "url": "https://open.spotify.com/album/6Ogz6BdSHhCeilep6LQGp3"
+      },
+      "artists": [
+        {
+          "name": "Kelly Emuegba",
+          "url": "https://open.spotify.com/artist/68KarBTCFcWJfNY3G91p6v"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277137,
+      "name": "I Really Want You to Know",
+      "url": "https://open.spotify.com/track/38gMEX4SPeJN5Z2FM7mcPs"
     },
     {
       "album": {
@@ -2422,6 +2634,28 @@
       "duration_ms": 190054,
       "name": "It Is Working",
       "url": "https://open.spotify.com/track/2McKGgsdXAjEUStKiAAG35"
+    },
+    {
+      "album": {
+        "name": "Iwoloba (Eh Eh Eh)",
+        "url": "https://open.spotify.com/album/7GlSjD5hyS38ajhC1L0e0s"
+      },
+      "artists": [
+        {
+          "name": "Ndubuisi Anagha",
+          "url": "https://open.spotify.com/artist/57Fj4UwjZcw6DhavaVFTyT"
+        },
+        {
+          "name": "Taiwo",
+          "url": "https://open.spotify.com/artist/2EK8qSK79Ktrwm8BrBKu2l"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419560,
+      "name": "Iwoloba (Eh Eh Eh)",
+      "url": "https://open.spotify.com/track/02f36Z8gsDGHUYcWuijsiO"
     },
     {
       "album": {
@@ -2876,7 +3110,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 237669,
       "name": "Melody",
       "url": "https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS"
@@ -3136,6 +3370,24 @@
       "duration_ms": 157703,
       "name": "My Daddy",
       "url": "https://open.spotify.com/track/069BLujYCF0AJcZcfECyCD"
+    },
+    {
+      "album": {
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "album": {
@@ -3418,6 +3670,28 @@
       "duration_ms": 191451,
       "name": "Now I See",
       "url": "https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0"
+    },
+    {
+      "album": {
+        "name": "Nyame bi",
+        "url": "https://open.spotify.com/album/0lcXGaX2gUnsj04O1kk8ZL"
+      },
+      "artists": [
+        {
+          "name": "Motoo Onit",
+          "url": "https://open.spotify.com/artist/3p3bVDAH1orWfCExebCPY2"
+        },
+        {
+          "name": "Mike Kesse",
+          "url": "https://open.spotify.com/artist/3gTI9CTDGd52LQouVIL5Ds"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233607,
+      "name": "Nyame bi",
+      "url": "https://open.spotify.com/track/1AVzWB52ITejheEP9lPbIS"
     },
     {
       "album": {
@@ -3811,6 +4085,36 @@
     },
     {
       "album": {
+        "name": "PRAISE YOUR NAME",
+        "url": "https://open.spotify.com/album/7iUgmGiBgXkpECjHYgQ7AL"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        },
+        {
+          "name": "The Love Trybe",
+          "url": "https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197456,
+      "name": "PRAISE YOUR NAME",
+      "url": "https://open.spotify.com/track/5YxkWVkxssPVMIgXQp8ahd"
+    },
+    {
+      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },
@@ -3946,6 +4250,24 @@
       "duration_ms": 187317,
       "name": "Reason",
       "url": "https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD"
+    },
+    {
+      "album": {
+        "name": "Redeemed",
+        "url": "https://open.spotify.com/album/2TQAEowNtL8o02td6MQRTw"
+      },
+      "artists": [
+        {
+          "name": "Jlyricz",
+          "url": "https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243754,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/1dD7d9b5MAQmXF8VFz1Wg4"
     },
     {
       "album": {
@@ -4751,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "Who Goes That Man",
+        "url": "https://open.spotify.com/album/1WJhzMVowg8Em1ovKBMnpC"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179700,
+      "name": "Who Goes That Man",
+      "url": "https://open.spotify.com/track/0tMKAOXphAtH2qia9Nm9C7"
+    },
+    {
+      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/2dPGOYMAs4tca2saJW5Cla"
       },
@@ -4850,6 +5190,24 @@
       "duration_ms": 337320,
       "name": "YAH - Spirit Chant",
       "url": "https://open.spotify.com/track/1zbg4LlaiwYvjGSikk3Yjn"
+    },
+    {
+      "album": {
+        "name": "Yahweh Be Praised",
+        "url": "https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327554,
+      "name": "Yahweh Be Praised",
+      "url": "https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa"
     },
     {
       "album": {

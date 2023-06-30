@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-460 songs - 1 day 1 hr 54 min
+461 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Going Home](https://open.spotify.com/track/5AH62IT62TEek7uigczBeR) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Going Home](https://open.spotify.com/album/03idXsvqv5OVZa8srntnH9) | 3:13 | 2022-03-09 | 2022-03-31 |
 | [Good Vibe](https://open.spotify.com/track/4AmHxLSkut2l0Fyv54fjuZ) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Good Vibe](https://open.spotify.com/album/3K15Io1pcbWvhDxaD5YNz1) | 3:49 | 2022-04-13 | 2023-01-30 |
 | [Gorgeous \(with Reo Cragun\)](https://open.spotify.com/track/4inDHMhS9nxqOygYurJH2Q) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Gorgeous \(with Reo Cragun\)](https://open.spotify.com/album/2kNtLpsLRH3s2b74ZinmNs) | 2:48 | 2022-09-02 |  |
+| [Great Big Warm House](https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Great Big Warm House](https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm) | 2:22 | 2023-06-29 |  |
 | [Grid Lines](https://open.spotify.com/track/7i4HvCVazy9piUZwumS44x) | [Shae District](https://open.spotify.com/artist/7h9Pbr7lcfxk8TyOXe8uCX) | [Grid Lines](https://open.spotify.com/album/2145oDTM1FqcH51ieqtfSd) | 6:17 | 2023-01-19 |  |
 | [Haircut](https://open.spotify.com/track/3vJ7IorxIUTETdUYc8Wmif) | [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Haircut](https://open.spotify.com/album/6MpnYFXkjVgmzpDwlvofou) | 2:58 | 2022-03-30 | 2022-04-19 |
 | [Halo](https://open.spotify.com/track/5CvVWD27KlJNkvzDLU1zPS) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [Halo](https://open.spotify.com/album/1aY0os7oA39KJiT4cfWf6x) | 3:46 | 2022-06-30 |  |

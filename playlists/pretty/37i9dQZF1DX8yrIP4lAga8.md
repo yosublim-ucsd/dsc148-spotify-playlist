@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 
 > The best Piano House tracks out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,427 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,467 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 27 | [Paris City Jazz](https://open.spotify.com/track/2HTzzn4hP4PHlX2nLotWF4) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Paris City Jazz](https://open.spotify.com/album/74oUF61TEC97Wbh4y3YsPS) | 5:43 |
 | 28 | [Abalele](https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Abalele](https://open.spotify.com/album/59lFnkd1eVH8wl0cAXAPoz) | 6:56 |
 | 29 | [How I Feel](https://open.spotify.com/track/6DetvocRqx9ELX2aKmwj3g) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [How I Feel](https://open.spotify.com/album/2up8F1d6qw1c0vLaEex2dD) | 3:09 |
-| 30 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 |
-| 31 | [Down Low](https://open.spotify.com/track/5jbz9ONajDOe1AW5c3ob5U) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt) | [Down Low](https://open.spotify.com/album/38O7LZ16jFp9RJ5BdCpFt0) | 2:41 |
+| 30 | [Down Low](https://open.spotify.com/track/5jbz9ONajDOe1AW5c3ob5U) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt) | [Down Low](https://open.spotify.com/album/38O7LZ16jFp9RJ5BdCpFt0) | 2:41 |
+| 31 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 |
 | 32 | [Real Life](https://open.spotify.com/track/6jz9EMWHffNKVlZQVXOLoz) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life](https://open.spotify.com/album/55pLHOPxFKEi82Z15IeHxq) | 3:25 |
 | 33 | [I Feel It](https://open.spotify.com/track/5FzuDFYmUFcvjraadJXv28) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [I Feel It](https://open.spotify.com/album/45DCBEkvzjYfjpZNaphhg3) | 2:35 |
 | 34 | [Wild Girl \- Paul Woolford Remix](https://open.spotify.com/track/7ETxvXQ5oWFRfAfaIEimAG) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Wild Girl \(Paul Woolford Remix\)](https://open.spotify.com/album/5gGNajbpAtIuDaNOIoJmXr) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 49 | [Fake Friends \(feat\. Alex Hosking\)](https://open.spotify.com/track/0UBjV0qdhBKQLnl8tNXb9e) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Fake Friends \(feat\. Alex Hosking\)](https://open.spotify.com/album/0wmqUFbaNF1eVwTqs28zoc) | 2:53 |
 | 50 | [I Luv U Baby \- Edit](https://open.spotify.com/track/0g9OCw6sY9ZLRA5KxRkcIQ) | [The Original](https://open.spotify.com/artist/2IwjkUrnzXsfgXkvUtZYKH), [Walter Taieb](https://open.spotify.com/artist/67h9I9xLu9KPydQoldwCyL) | [I Luv U Baby](https://open.spotify.com/album/2hqKNctlSpTAdngdaU7lqf) | 3:33 |
 
-Snapshot ID: `MCxkOTA1ZTAwMTIzODgwMTNiMjU3MmQ5OWM0NjllNjE3NWU3N2E0NzVl`
+Snapshot ID: `MCw5MDc2MmI1MWViODE5ODQwYmY2NGVhYTdiMjc4M2JmNTQ4NmNmNTM4`

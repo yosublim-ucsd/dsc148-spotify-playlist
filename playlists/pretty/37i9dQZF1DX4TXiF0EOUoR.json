@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 132523,
+  "num_followers": 132633,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmRkOGJmMjc5Y2Y5Mjk5M2UyZWM1NjRjYWJlNTc0YjMwYTNkYzg2",
+  "snapshot_id": "MCwxYWQxNjVhZjljNmI4YjAzZTRhODM5NzgzNDM1MTMzYjAzNWI5Nzhi",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
-      },
-      "artists": [
-        {
-          "name": "Contrabandistas de San Luis",
-          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
-        }
-      ],
-      "duration_ms": 208927,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Tu Regalo",
         "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 204640,
       "name": "La Peinada (La Peinadita)",
       "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
+      },
+      "artists": [
+        {
+          "name": "Contrabandistas de San Luis",
+          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
+        }
+      ],
+      "duration_ms": 208927,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "La Parranda De Los Amigos (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 441000,
-      "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
-      "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Olv\u00eddala",
         "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 241946,
       "name": "Las Huiliotas",
       "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "La Parranda De Los Amigos (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 441000,
+      "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
+      "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
-        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Cinco De T\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 264693,
       "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
       "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
+        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Cinco De T\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "La Reyna de los Sones",
-        "url": "https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3"
+        "name": "En Vivo Desde Colima, Vol. 2",
+        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
       },
       "artists": [
         {
-          "name": "La Super Banda de Chilacachapa, Gro",
-          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
+          "name": "Banda Imperio De Colima",
+          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
         }
       ],
-      "duration_ms": 202760,
-      "name": "La Diana Ranchera",
-      "url": "https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB"
+      "duration_ms": 207621,
+      "name": "Arriba Pichantaro (En Vivo)",
+      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "En Vivo Desde Colima, Vol. 2",
-        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
+        "name": "La Reyna de los Sones",
+        "url": "https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3"
       },
       "artists": [
         {
-          "name": "Banda Imperio De Colima",
-          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
+          "name": "La Super Banda de Chilacachapa, Gro",
+          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
         }
       ],
-      "duration_ms": 207621,
-      "name": "Arriba Pichantaro (En Vivo)",
-      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
+      "duration_ms": 202760,
+      "name": "La Diana Ranchera",
+      "url": "https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB"
     },
     {
       "added_at": "2022-12-30 18:59:47",

@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "\"GUNDAM RECONGUISTA IN G\" Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3re1HO8RWMXnhwqwchJ8rT"
+      },
+      "artists": [
+        {
+          "name": "Daisuke Hasegawa",
+          "url": "https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217893,
+      "name": "G no Senko",
+      "url": "https://open.spotify.com/track/2cm1reUN9O5P6aFmykVLkx"
+    },
+    {
+      "album": {
         "name": "G\u306e\u9583\u5149",
         "url": "https://open.spotify.com/album/0btQbNsSjSXqUplvgbOKec"
       },
@@ -1182,7 +1200,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 217600,
       "name": "G\u306e\u9583\u5149",
       "url": "https://open.spotify.com/track/1qfpMdHoqhpRssLkw253ht"
@@ -1533,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "MOBILE SUIT GUNDAM WING Original Motion Picture Soundtrack - Operation 1",
+        "url": "https://open.spotify.com/album/52jysQJHAiBXHRY01vrgt6"
+      },
+      "artists": [
+        {
+          "name": "Rumi Oishi",
+          "url": "https://open.spotify.com/artist/3LppmPgTItbD6aiy1aR7Sz"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236266,
+      "name": "It's Just Love!",
+      "url": "https://open.spotify.com/track/3LZwJYaUyRRGzV55kRFvfu"
+    },
+    {
+      "album": {
         "name": "It's Just Love!",
         "url": "https://open.spotify.com/album/3wuEy0hpaDd0ffg6DRtPA7"
       },
@@ -1544,7 +1580,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 237200,
       "name": "It's Just Love!",
       "url": "https://open.spotify.com/track/1ckhGyNThmpfbQrMxrorFl"
@@ -4482,10 +4518,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 303040,
       "name": "\u5c11\u5e74\u306e\u679c\u3066",
       "url": "https://open.spotify.com/track/4mp8QXLV50D7AObrjKNUAs"
+    },
+    {
+      "album": {
+        "name": "Pierrot Dancin'",
+        "url": "https://open.spotify.com/album/4SyIdDTlbshUB2LXYsO19e"
+      },
+      "artists": [
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304200,
+      "name": "\u5c11\u5e74\u306e\u679c\u3066",
+      "url": "https://open.spotify.com/track/7mdSaYT0WO5V3R8W4Xj0D3"
     },
     {
       "album": {

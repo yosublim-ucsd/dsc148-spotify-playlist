@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Roy Kim(\ub85c\uc774\ud0b4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Kim Sung Kyu(\uae40\uc131\uaddc)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 206080,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8"
@@ -6589,6 +6589,24 @@
     },
     {
       "album": {
+        "name": "2023 S/S Collection",
+        "url": "https://open.spotify.com/album/14rWn1Avz7BP7r0zScLz0n"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239613,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/4vWN7uDeFopJGuA7Bq6y0M"
+    },
+    {
+      "album": {
         "name": "Episode1 : Love",
         "url": "https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD"
       },
@@ -7444,7 +7462,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 150453,
       "name": "THE PARTY SONG",
       "url": "https://open.spotify.com/track/4mdzylA0MEiuaW2NTUdmuW"
@@ -8786,7 +8804,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 209259,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"

@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Tini y Tiago PZK en portada.
 
-117 songs - 6 hr 15 min
+118 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [De Nuevo](https://open.spotify.com/track/3oFu4gyDBi52uPzTJsAvSf) | [Dany Doll](https://open.spotify.com/artist/4Bxo29WRyYvpL6ZLUL6FvY), [Hemphil Otra Nota](https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9), [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW) | [De Nuevo](https://open.spotify.com/album/0QrTQAtARKKb7viQ5G32IY) | 3:39 | 2023-05-19 |  |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2022-04-25 |  |
 | [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 | 2022-04-25 |  |
+| [Dosis](https://open.spotify.com/track/10SVwgvHl2LN6H6ij5lloD) | [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y), [KarloH](https://open.spotify.com/artist/0QOlyFDAVDrZbnfS9zUQNk) | [Dosis](https://open.spotify.com/album/0FCRnLWbqtfOqoy6NE83vM) | 2:47 | 2023-06-30 |  |
 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 | 2022-04-25 |  |
 | [El Ciclo](https://open.spotify.com/track/6t8m5o30RGfgtqLdvPgZRU) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [El Ciclo](https://open.spotify.com/album/0drXgXCkeFKcPTmFjqwMCY) | 3:17 | 2023-05-26 |  |
 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 | 2022-04-25 |  |

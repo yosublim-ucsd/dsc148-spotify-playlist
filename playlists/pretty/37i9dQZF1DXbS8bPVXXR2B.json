@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 209387,
+  "num_followers": 209517,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjAwZWU5YmJhMjU4ZjgzNDJlNjY3NjNlZWI4MGUyZTI0MzAyZjAz",
+  "snapshot_id": "MCxiM2QyYzZlYTkxNTZjOTc0MDIwNjU5YzhiYzFmNjRlYmNhYWRlOTQw",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Al Santiago Presents Yamb\u00fa",
-        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
-      },
-      "artists": [
-        {
-          "name": "Yambu",
-          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Paradise (Remastered)",
         "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 331893,
       "name": "Classy Lady - Remastered Version",
       "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Al Santiago Presents Yamb\u00fa",
+        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
+      },
+      "artists": [
+        {
+          "name": "Yambu",
+          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 406533,
-      "name": "When You Wake up Tomorrow",
-      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Watchin Out",
         "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 320851,
       "name": "Today Is the Day - Linkwood Chop",
       "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 406533,
+      "name": "When You Wake up Tomorrow",
+      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
     },
     {
       "added_at": "2022-09-05 16:54:43",

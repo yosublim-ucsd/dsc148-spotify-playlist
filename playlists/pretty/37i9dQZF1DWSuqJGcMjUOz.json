@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3704,
+  "num_followers": 3719,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjEyZDc1ZjFjNTBlNTdhNzY4ZDk0NTAzZWE0OTAzZTg4OGFmYTll",
+  "snapshot_id": "MCwzYWI4YzlhMmU3NDFmM2RiMDVmZDgzMTY0Y2M0YzI5YjlhMDQwYWY2",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Il faut partir maintenant",
-        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Penses-tu rester encore?",
-      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Soap Box",
         "url": "https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 205030,
       "name": "Te revoir",
       "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Il faut partir maintenant",
+        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Penses-tu rester encore?",
+      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Nous aurons toujours le ciel",
+        "url": "https://open.spotify.com/album/359QSNmwW8lrYF98xYH7CE"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Bourgault",
+          "url": "https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi"
+        }
+      ],
+      "duration_ms": 272490,
+      "name": "Pauvre & malheureux",
+      "url": "https://open.spotify.com/track/1ti7F59demudfrzZebTins"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "C-17",
         "url": "https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 172440,
       "name": "C-17",
       "url": "https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Nous aurons toujours le ciel",
-        "url": "https://open.spotify.com/album/359QSNmwW8lrYF98xYH7CE"
-      },
-      "artists": [
-        {
-          "name": "\u00c9mile Bourgault",
-          "url": "https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi"
-        }
-      ],
-      "duration_ms": 272490,
-      "name": "Pauvre & malheureux",
-      "url": "https://open.spotify.com/track/1ti7F59demudfrzZebTins"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Teinte",
+        "url": "https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS"
+      },
+      "artists": [
+        {
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Juillet",
+      "url": "https://open.spotify.com/track/2C1YPDheJPxdmcheCMYvhP"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Or",
         "url": "https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 207058,
       "name": "Or",
       "url": "https://open.spotify.com/track/6kVJIh50Nw8zDXCQEWAkBT"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Teinte",
-        "url": "https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS"
-      },
-      "artists": [
-        {
-          "name": "Frais Dispo",
-          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Juillet",
-      "url": "https://open.spotify.com/track/2C1YPDheJPxdmcheCMYvhP"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Prince Limonade",
+        "url": "https://open.spotify.com/album/6TfxUEEZnlT5xXyCQS1H3M"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8nanza",
+          "url": "https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30"
+        }
+      ],
+      "duration_ms": 345249,
+      "name": "Entre tes doigts",
+      "url": "https://open.spotify.com/track/44hD1LTCxIFhqOzqx9vaFh"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Nouvelle administration",
         "url": "https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u"
       },
@@ -1803,18 +1819,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Prince Limonade",
-        "url": "https://open.spotify.com/album/6TfxUEEZnlT5xXyCQS1H3M"
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
       },
       "artists": [
         {
-          "name": "B\u00f8nanza",
-          "url": "https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30"
+          "name": "Peanut Butter Sunday",
+          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
         }
       ],
-      "duration_ms": 345249,
-      "name": "Entre tes doigts",
-      "url": "https://open.spotify.com/track/44hD1LTCxIFhqOzqx9vaFh"
+      "duration_ms": 147000,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1831,22 +1847,6 @@
       "duration_ms": 249480,
       "name": "Glace noire",
       "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
-      },
-      "artists": [
-        {
-          "name": "Peanut Butter Sunday",
-          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
-        "url": "https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY"
-      },
-      "artists": [
-        {
-          "name": "FUUDGE",
-          "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
-        }
-      ],
-      "duration_ms": 151253,
-      "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
-      "url": "https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "L'\u00e9chec h\u00e9ro\u00efque",
         "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 204461,
       "name": "Mydriase",
       "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
+        "url": "https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY"
+      },
+      "artists": [
+        {
+          "name": "FUUDGE",
+          "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
+        }
+      ],
+      "duration_ms": 151253,
+      "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
+      "url": "https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w"
     },
     {
       "added_at": "2023-05-25 23:46:15",

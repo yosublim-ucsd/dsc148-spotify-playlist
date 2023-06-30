@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف :حاتم العراقي
 
-237 songs - 13 hr 51 min
+238 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Men Halwaket](https://open.spotify.com/track/5HRJEEbjlsshXBlYHRLE55) | [Louay Nana](https://open.spotify.com/artist/4EYdSEi7yt7bfaiME819gI) | [Men Halwaket](https://open.spotify.com/album/676Ri8ndBtfFXhHbAn44a2) | 4:14 | 2021-12-23 | 2022-05-07 |
 | [Meshwar Aldonia](https://open.spotify.com/track/3ktAIpByTbLeOXqfAXYGmS) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Meshwar Aldonia](https://open.spotify.com/album/7HkvbF3eCjE2plwbz7t3Iu) | 3:20 | 2023-04-04 |  |
 | [Met Bab](https://open.spotify.com/track/6GoaNwrdWjmSCjN5qIB77U) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j), [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Qalby Youhdthni](https://open.spotify.com/album/4ielaCNnKFHKcJk1umtPUH) | 4:06 | 2023-05-18 |  |
-| [Min Fadwa Li Dehketah](https://open.spotify.com/track/6tWh2BZh7W0wPQJpDNh9hc) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Hatim Al Iraqi 2023 Part 1](https://open.spotify.com/album/6EGljudVBye50EfnfTMcHG) | 3:30 | 2023-06-29 |  |
+| [Min Fadwa Li Dehketah](https://open.spotify.com/track/6tWh2BZh7W0wPQJpDNh9hc) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Hatim Al Iraqi 2023 Part 1](https://open.spotify.com/album/6EGljudVBye50EfnfTMcHG) | 3:30 | 2023-06-29 | 2023-06-30 |
 | [Mitghaer W Halyan](https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Mostafa Ibrahim](https://open.spotify.com/artist/6rEEUjWP7GWSQHo5sTU2ZU) | [Mitghaer W Halyan](https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3) | 4:10 | 2022-05-24 | 2023-01-11 |
 | [Mno Enta](https://open.spotify.com/track/2GBYI4P8SvdjcEfUELPzpd) | [Bassam Mahdi](https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO) | [Mno Enta](https://open.spotify.com/album/0ICKOpQg0VdEDQnZSHA07c) | 4:09 | 2022-07-07 | 2022-11-13 |
 | [Mo Haram](https://open.spotify.com/track/5YXgPh7kJbqqmB7q9hWnwJ) | [Mohanad Al Marsoomi](https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H) | [Mo Haram](https://open.spotify.com/album/5LGAkpDdSpu82l62dCs8mZ) | 2:57 | 2023-06-26 | 2023-06-29 |
@@ -243,6 +243,7 @@
 | [شي خيالي](https://open.spotify.com/track/7vY3YrizWZrTxUvrpkOiPl) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [شي خيالي \- Single](https://open.spotify.com/album/1Tm3jeCXOe6LyQwErdfsYg) | 4:32 | 2021-12-23 | 2022-01-01 |
 | [عايش بيك](https://open.spotify.com/track/5o6YB79ykoBierbnPsAj97) | [Mohammed Kareem](https://open.spotify.com/artist/6QuzMPf0Oi2xct379VkfZN) | [عايش بيك](https://open.spotify.com/album/6dJLJRqDIEVQFfEqLWFIyh) | 3:15 | 2022-03-11 | 2022-07-20 |
 | [عمري معاه](https://open.spotify.com/track/5FocyaDKGbWXWHmX9rESXS) | [Muhanad Asir](https://open.spotify.com/artist/6ZHUebEY5oYuWHCif6ETjK), [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [عمري معاه](https://open.spotify.com/album/3GKBk0aFdDA9JcyNIvPEZN) | 3:52 | 2022-01-14 | 2022-05-21 |
+| [من فدوه لضحكته](https://open.spotify.com/track/4DG0ry7yjuSn8MVRgbLwys) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [حاتم العراقي ٢٠٢٣ \- الجزءالأول](https://open.spotify.com/album/7ug9CI0dD9otnTYpQ0Ng6K) | 3:30 | 2023-06-29 |  |
 | [مو حرام](https://open.spotify.com/track/65j4yTnvmKkcNCvRmXfqjA) | [مهند المرسومي](https://open.spotify.com/artist/7xzXw59hc1bIsERylCT2Tu) | [مو حرام](https://open.spotify.com/album/1aJXH3vn38aCw2Yx547PLl) | 2:57 | 2023-06-29 |  |
 | [٪ الف](https://open.spotify.com/track/3BDipuLlBQzjPJiMS5lrdF) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [٪ الف](https://open.spotify.com/album/53clXxawrkTOuQvDQxUsp7) | 3:01 | 2022-06-20 | 2022-06-22 |
 

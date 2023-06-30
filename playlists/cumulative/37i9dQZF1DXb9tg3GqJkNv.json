@@ -685,6 +685,28 @@
     },
     {
       "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/5t0IgR1t1Xn4juP7Fb65nb"
       },
@@ -820,10 +842,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 189450,
       "name": "Here it Goes",
       "url": "https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo"
+    },
+    {
+      "album": {
+        "name": "Hold Out",
+        "url": "https://open.spotify.com/album/2OX9IracC1Uxe5Uwv9Bty9"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121904,
+      "name": "Hold Out",
+      "url": "https://open.spotify.com/track/4E2wIuFOblfmOxZburqG4d"
     },
     {
       "album": {
@@ -1488,7 +1532,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 166922,
       "name": "Sleep Like A Baby",
       "url": "https://open.spotify.com/track/2jpmO8XlofmTA3mXul68gK"

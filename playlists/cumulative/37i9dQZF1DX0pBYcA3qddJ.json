@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 149452,
       "name": "Faraway",
       "url": "https://open.spotify.com/track/0QjruwWxe5CipAcRGb9fln"
@@ -7492,6 +7492,24 @@
       "duration_ms": 212026,
       "name": "When You Can't Sleep At Night",
       "url": "https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg"
+    },
+    {
+      "album": {
+        "name": "SEASONS",
+        "url": "https://open.spotify.com/album/7pd9LjThGVdv2A7QTbk0OD"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235647,
+      "name": "Where Life Comes from and Returns",
+      "url": "https://open.spotify.com/track/0fmDTWvkBIjbrRde18ISAS"
     },
     {
       "album": {

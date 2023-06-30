@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-854 songs - 1 day 23 hr 11 min
+855 songs - 1 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-11-19 | 2022-03-14 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It's Christmas?](https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5) | 3:42 | 2021-12-25 | 2021-12-27 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 | 2022-12-25 | 2022-12-28 |
-| [Doce](https://open.spotify.com/track/152WIAB8132LWxC8Eftmym) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 2:40 | 2023-06-19 |  |
+| [Doce](https://open.spotify.com/track/152WIAB8132LWxC8Eftmym) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 2:40 | 2023-06-19 | 2023-06-30 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-23 | 2023-01-12 |
 | [DOLLA SIGN SLIME \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:25 | 2021-09-19 | 2021-09-20 |
 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 | 2021-09-29 | 2021-10-03 |
@@ -814,6 +814,7 @@
 | [UUUUHH](https://open.spotify.com/track/1Jk03rMQGTjdkjNtCGgkPd) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:30 | 2023-01-21 | 2023-02-22 |
 | [Vacilão](https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Igow](https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Vacilão](https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv) | 2:10 | 2023-03-24 | 2023-04-19 |
 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/2ULXBNAz2pgBQmwc3qODUz) | 3:11 | 2022-01-16 | 2022-01-25 |
+| [Vai Novinha Ah Ah Ah](https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC) | [Dyamante DJ](https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu) | [Ritmo dos Crias](https://open.spotify.com/album/1rpZ5lbh30fimLCZvcyh0f) | 2:03 | 2023-06-29 |  |
 | [Vamos Com Tudo \(feat\. Preto Show\)](https://open.spotify.com/track/0HvaUKWOXnwAaTmoh4IBYy) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW) | [Vamos Com Tudo \(feat\. Preto Show\)](https://open.spotify.com/album/2fTzljF7q1dG2tXkoPBS9L) | 4:05 | 2021-06-16 | 2021-07-07 |
 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 | 2022-04-04 | 2022-10-23 |
 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 | 2022-07-27 | 2022-10-20 |

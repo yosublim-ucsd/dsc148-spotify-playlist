@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,713 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,753 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 24 | [Undulation](https://open.spotify.com/track/5iIWIbNwJRudKJfAzAD7YH) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Undulation](https://open.spotify.com/album/39FFRTCXimTQgkeQ2pBv6d) | 4:53 |
 | 25 | [Nico’s Groove](https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Nico’s Groove](https://open.spotify.com/album/2QxxlPUxcATya406iG9izA) | 6:57 |
 | 26 | [Fika Talk](https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U) | [WaKaNa](https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6), [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [A Sunny Day](https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA) | 4:15 |
-| 27 | [Coastline Drive](https://open.spotify.com/track/5j05IaaOCvj4AGfZmrp656) | [Joe Plass](https://open.spotify.com/artist/1SaAsMx53d7GZMPiIx2HgZ), [Andy Warr](https://open.spotify.com/artist/1DmqVz5vUTOUohMbObbpn7), [Barry Aiken](https://open.spotify.com/artist/2NUtA1qclTkkIWxitGzNPn), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H) | [Coastline Drive](https://open.spotify.com/album/7b10TnCDp3qRm3BRvdbcW9) | 5:21 |
+| 27 | [Coastline Drive](https://open.spotify.com/track/5j05IaaOCvj4AGfZmrp656) | [Joe Plass](https://open.spotify.com/artist/1SaAsMx53d7GZMPiIx2HgZ), [Andy Warr](https://open.spotify.com/artist/1DmqVz5vUTOUohMbObbpn7), [Barry Aiken](https://open.spotify.com/artist/2NUtA1qclTkkIWxitGzNPn), [John Raymond](https://open.spotify.com/artist/4gxDZB7u8L1xEVkBDGngi3) | [Coastline Drive](https://open.spotify.com/album/7b10TnCDp3qRm3BRvdbcW9) | 5:21 |
 | 28 | [Workin'](https://open.spotify.com/track/1XggkknnMxiR3X3WJSD8ha) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/7ixjw73GQAtsHWOm62sBF7) | 4:06 |
 | 29 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
 | 30 | [It's You](https://open.spotify.com/track/6RIfyAqxJTMMUu7IlsYXfC) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [The Message](https://open.spotify.com/album/3WubX3JoceDkI0SiSRcWFG) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Let's Do This \(feat\. Nils\) \- Radio Edit](https://open.spotify.com/track/062XGbLtbdC2jyvuZdrgEx) | [Johnny Britt](https://open.spotify.com/artist/1rF5BAPcmKme8SqcWoWu5F), [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Let's Do This \(feat\. Nils\) \[Radio Edit\]](https://open.spotify.com/album/3iTgcSSsIGD7tIGFQndw53) | 3:51 |
 | 100 | [Lean Into It](https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE) | [Andrew Neu](https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF) | [Lean Into It](https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN) | 4:24 |
 
-Snapshot ID: `MCw4N2EwM2M4MmQ5MzczYTcyNTJkMjExZmYwMzAwNjVlNjE0MGRlYTVk`
+Snapshot ID: `MCwzYWRlODdhYTNlNGU4NmM2NzVhYWI0YzdhMDg0NGFhZDVjMjI4ZjIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66?si=rfsvUIWiSsCr07QamtLuQA">Nkosazana Daughter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,758 likes - 50 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,458 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 28 | [Kilimanjaro \(feat\. Justin99, Mema\_Percent & Mr JazziQ\)](https://open.spotify.com/track/4aAxUQUNTtBhDgDcyCfXUu) | [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Sgija'Disciples](https://open.spotify.com/artist/1ko3CeWzNE9SRQ865Sf5lQ), [Zan'Ten](https://open.spotify.com/artist/5F9w142UJBH5ZkFXWUJVsL), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Mema\_Percent](https://open.spotify.com/artist/3WqFnvVwrS29DWjMSqZJx4), [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E) | [Kilimanjaro \(feat\. Justin99, Mema\_Percent & Mr JazziQ\)](https://open.spotify.com/album/2ySAO7p9iD47x5fNWKeet3) | 5:29 |
 | 29 | [Fatela](https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Fatela](https://open.spotify.com/album/0XkXn7Kotl8QMwP5YGdGHY) | 5:51 |
 | 30 | [Thando](https://open.spotify.com/track/74csF4EizLF5y0yT2qoSHH) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Seemah](https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) | [Thando](https://open.spotify.com/album/64kXhw73F5xUcVYXZerAtx) | 4:50 |
-| 31 | [eDuze](https://open.spotify.com/track/4BkRC0oxyYLK5vRg7D9CNU) | [Ntokzin](https://open.spotify.com/artist/01n03WadoqgmHHDQ24v3kV), [Russel Zuma](https://open.spotify.com/artist/1ZmUD7LTKIIjlj4XzMtEPM), [Moscow on Keyz](https://open.spotify.com/artist/01I6gcSeEDnISXi7eIPmHd) | [eDuze](https://open.spotify.com/album/05iOZEDY3LlJ5fCRHbYXFp) | 7:06 |
+| 31 | [eDuze](https://open.spotify.com/track/4BkRC0oxyYLK5vRg7D9CNU) | [Ntokzin](https://open.spotify.com/artist/01n03WadoqgmHHDQ24v3kV), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [Moscow on Keyz](https://open.spotify.com/artist/01I6gcSeEDnISXi7eIPmHd) | [eDuze](https://open.spotify.com/album/05iOZEDY3LlJ5fCRHbYXFp) | 7:06 |
 | 32 | [Amachukuku \(feat\. TXPMD, Tweestgottahalla & Wonder Flawz\)](https://open.spotify.com/track/4MqkT3t0tmSHXdsRCBNPuS) | [Mbali The Real](https://open.spotify.com/artist/040t3dBfLI6NdVLMILt3PX), [TxPMD](https://open.spotify.com/artist/7iGq0d5jwi8g95wjIEaF0V), [Tweestgottahalla](https://open.spotify.com/artist/1izvDG3QsPtUD33fS7XzZ0), [Wonder Flawz](https://open.spotify.com/artist/4MD1QDssyQYOuz7oGuQ702) | [Amachukuku \(feat\. TXPMD, Tweestgottahalla & Wonder Flawz\)](https://open.spotify.com/album/6q9sARc8Lpukm5lcbg97Yk) | 6:42 |
 | 33 | [Jig Saw](https://open.spotify.com/track/4kBwDtpW533iBUlhZxd0Jn) | [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [Jig Saw](https://open.spotify.com/album/2wnPj5uF9EqngzDnQfghD4) | 6:37 |
 | 34 | [Stimela](https://open.spotify.com/track/0AY3sNqV7qAdAZ8j6TRVBd) | [2Point1](https://open.spotify.com/artist/6Z6xrqezBTUUDnCinhPwCO), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Nthabi Sings](https://open.spotify.com/artist/2JN2Yx7wsJaGHbtzoAE4k7) | [Stimela](https://open.spotify.com/album/6j3BUkIFmKkXGIZiyEpZ71) | 5:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Esangweni](https://open.spotify.com/track/1kKltSWkRUTB7LYVFJXS2w) | [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Sipho Magudulela](https://open.spotify.com/artist/34gZK9MCSnKzdcGbG74cXb) | [Horumar](https://open.spotify.com/album/5DKK3bppRikBo6LJtsoVWU) | 6:15 |
 | 50 | [Mama](https://open.spotify.com/track/7DQMBUK4oX9gV1qIzpoRz6) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Mama](https://open.spotify.com/album/2lc6GfPXhRMVrJsBKq1WjU) | 7:30 |
 
-Snapshot ID: `MCwwY2FmNGQ0MjIxNDI3MTJhMDE1NDg5N2Y2NjljYWQ3Yzk5YjZlOTgx`
+Snapshot ID: `MCw3NzAxYzk1OWI1OTA5NjBhMWE1YjgyYzk5NGU5ZjY2YTJjYmQ5NjAx`

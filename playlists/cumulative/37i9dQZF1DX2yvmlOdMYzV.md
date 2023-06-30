@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-408 songs - 22 hr 41 min
+410 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Groove](https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/2Mki2nNSzQ9tA7Ok7PnyrU) | 2:57 | 2021-12-15 | 2022-10-16 |
 | [Groove](https://open.spotify.com/track/6xWUhj2AAHajZVR7cgFPYG) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/6afCdV55pGn89LiZkplhGY) | 2:57 | 2022-11-09 | 2023-02-13 |
 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/4nNkCxutxk68CulzSBy0Tq) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/01vW1gstMnLr5gWd03tlC5) | 3:34 | 2021-12-15 | 2022-04-07 |
-| [Hahaha \(feat\. KIRBY\)](https://open.spotify.com/track/0fDAR8dn2U6a4TXxS1NuKJ) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 1:53 | 2023-03-17 |  |
+| [Hahaha \(feat\. KIRBY\)](https://open.spotify.com/track/0fDAR8dn2U6a4TXxS1NuKJ) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 1:53 | 2023-03-17 | 2023-06-30 |
 | [Hard Work](https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Travel Light](https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y) | 3:27 | 2022-02-11 |  |
 | [Hazel Chandeliers](https://open.spotify.com/track/0tzvbbYFoxZS3ggIaEa1Ob) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:26 | 2021-12-15 | 2022-07-29 |
 | [Heavenly Mother](https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Lost In June \- EP](https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX) | 3:59 | 2021-12-15 | 2023-01-28 |
@@ -309,7 +309,7 @@
 | [ROLLA](https://open.spotify.com/track/0E1ECahwlKkFkoi5uFHfRB) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [ROLLA](https://open.spotify.com/album/29FTSpA2recQP47Z4H6Qqm) | 3:52 | 2021-12-15 | 2022-07-06 |
 | [Running](https://open.spotify.com/track/1et9bfdvDHld2wPBZfT1OA) | [Nicotine](https://open.spotify.com/artist/0tpIaEojsimd2hK4Y3nZIX) | [An Open Letter](https://open.spotify.com/album/2d1Mpponk9uBdLfM9pfH1i) | 4:07 | 2021-12-15 | 2022-04-20 |
 | [Running](https://open.spotify.com/track/1zKU2Hf1juriWhxwLlWaxT) | [Nicotine](https://open.spotify.com/artist/0tpIaEojsimd2hK4Y3nZIX) | [An Open Letter](https://open.spotify.com/album/6fopcA6Az8eSWnGQYO7fVt) | 4:07 | 2022-09-29 | 2022-10-18 |
-| [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 | 2023-05-05 |  |
+| [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 | 2023-05-05 | 2023-06-30 |
 | [Santorini](https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 2:28 | 2023-03-03 |  |
 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 | 2021-12-15 | 2023-04-29 |
 | [say im ur luv](https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:31 | 2023-01-27 |  |
@@ -344,6 +344,7 @@
 | [Somewhere](https://open.spotify.com/track/08iNtav9HI11DXYv33dJc9) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj) | [...Just Cause](https://open.spotify.com/album/77Uf7Pe6japz6TwtFPrh2M) | 2:56 | 2021-12-15 | 2022-07-29 |
 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 | 2023-06-02 |  |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-12 | 2023-03-25 |
+| [SOUL SURVIVOR](https://open.spotify.com/track/0kQTQQzTCf958lQCmPTraa) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN BENEDICTION](https://open.spotify.com/album/47wufSb4ym1n1EhsJvYAOX) | 3:01 | 2023-06-23 |  |
 | [Space is the Place](https://open.spotify.com/track/38PFECJBX4yGhiHFH9XgYX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [You Can't Steal My Joy](https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl) | 2:34 | 2021-12-15 | 2023-01-28 |
 | [Spooky \- Recorded at RAK Studios, London](https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Spotify Singles](https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk) | 3:41 | 2021-12-15 | 2022-04-08 |
 | [Starts with a Text](https://open.spotify.com/track/55PclVSKZK3aLxxARrZ0DW) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Starts with a Text](https://open.spotify.com/album/04fKp2Y7ThOEUstlz9C3SY) | 2:59 | 2023-01-27 | 2023-03-11 |
@@ -382,6 +383,7 @@
 | [Trouble](https://open.spotify.com/track/5N7usY5OYD0sCTNiZZlyQn) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Trouble](https://open.spotify.com/album/3Yd1ohFCiXM3ZuaiftVaxs) | 3:52 | 2023-04-07 | 2023-04-24 |
 | [Two Worlds Apart](https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 2:58 | 2021-12-15 | 2022-11-02 |
 | [Two Worlds Apart](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 2:58 | 2022-10-19 | 2023-01-28 |
+| [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 | 2023-06-16 |  |
 | [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 | 2023-04-21 | 2023-06-26 |
 | [Unravel](https://open.spotify.com/track/4iaGEMYt33g7XRW0XysG5B) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Unravel](https://open.spotify.com/album/2Ag4zs6ShtSHPVcgIZoSeq) | 2:40 | 2023-06-09 |  |
 | [Until The End Of Time \- Spotify Singles](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 | 2023-02-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 119828,
+  "num_followers": 120120,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjY2YWI4M2Y4Mzc4MmZhMWJhNDI4Y2EzNTM2YjQxODIyMDhjZTU2",
+  "snapshot_id": "MCxjNDc3ZmQ2YmFiODkyMWI3ZGI5OWM2ZWVlNDhkYzNkNDM2YzVkNDk2",
   "tracks": [
     {
       "added_at": "2023-06-20 14:42:27",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
         }
       ],
-      "duration_ms": 231133,
-      "name": "Little Lulu",
-      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
+      "duration_ms": 185666,
+      "name": "Let's Do It",
+      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
       "artists": [
         {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 185666,
-      "name": "Let's Do It",
-      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
+      "duration_ms": 231133,
+      "name": "Little Lulu",
+      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Paul's Pal - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "You Can't Lose with the Blues",
         "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 315586,
       "name": "Wonder Why",
       "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Paul's Pal - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "A Boy Named Charlie Brown",
-        "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
         }
       ],
-      "duration_ms": 142680,
-      "name": "Oh, Good Grief",
-      "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
+      "duration_ms": 260399,
+      "name": "Yes Sir, That's My Baby",
+      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+        "name": "A Boy Named Charlie Brown",
+        "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 260399,
-      "name": "Yes Sir, That's My Baby",
-      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
+      "duration_ms": 142680,
+      "name": "Oh, Good Grief",
+      "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
+        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 130199,
-      "name": "Ridin' High",
-      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
+      "duration_ms": 220373,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
-        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
       "artists": [
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 220373,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
+      "duration_ms": 130199,
+      "name": "Ridin' High",
+      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Pavanne",
+      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
         "name": "Taking A Chance On Love",
         "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Pavanne",
-      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
+        "name": "The Complete Clef & Verve Fifties Studio Recordings",
+        "url": "https://open.spotify.com/album/7GLEidBdAgwkHt3tDG5gvT"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "I'm Beginning To See The Light - Mono Version",
+      "url": "https://open.spotify.com/track/3oDZ1hAeCOUo0oJKlqc9sw"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 261609,
       "name": "On a Clear Day (You Can See Forever) - Live",
       "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
-        "name": "The Complete Clef & Verve Fifties Studio Recordings",
-        "url": "https://open.spotify.com/album/7GLEidBdAgwkHt3tDG5gvT"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        },
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "I'm Beginning To See The Light - Mono Version",
-      "url": "https://open.spotify.com/track/3oDZ1hAeCOUo0oJKlqc9sw"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Cannonball Takes Charge",
-        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley Quartet",
-          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "I've Told Ev'ry Little Star",
-      "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "Autumn In New York",
         "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 360306,
       "name": "Blues Vaccine",
       "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "I've Told Ev'ry Little Star",
+      "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
     },
     {
       "added_at": "2023-06-20 14:42:27",

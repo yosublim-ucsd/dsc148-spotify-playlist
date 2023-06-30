@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-390 songs - 1 day 0 hr 35 min
+391 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Dirty](https://open.spotify.com/track/1DNRyoXyqj4b3sbtPjfGx3) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [All I See Is War](https://open.spotify.com/album/3u3tCOYA9fjvlfQKoMAk3T) | 3:17 | 2022-04-04 | 2022-04-18 |
 | [Do Or Die](https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Do Or Die](https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9) | 2:50 | 2023-02-17 |  |
 | [Do you really wanna know?](https://open.spotify.com/track/0dlKqhMDG7z87ZQsPMqZ5J) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Do you really wanna know?](https://open.spotify.com/album/09KfdEpKfLl5BVd2oz9Yl4) | 3:55 | 2022-07-13 | 2022-07-29 |
-| [Do You Really Want It](https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 3:53 | 2022-04-04 |  |
+| [Do You Really Want It](https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 3:53 | 2022-04-04 | 2023-06-30 |
 | [Don't Need You \- Edit](https://open.spotify.com/track/2Cv8fs0SPLX1XaLQ80Lvds) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Don't Need You \(Edit\)](https://open.spotify.com/album/0QRkaf6ewruqL8zk4WG9Ne) | 4:27 | 2022-04-04 | 2022-04-21 |
 | [Don't Need You \- Edit](https://open.spotify.com/track/7oUkPewtWnIAQ8MncVTXBv) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Don't Need You \(Edit\)](https://open.spotify.com/album/7DRnBLuaOHdetg3zKcrcn0) | 4:27 | 2022-06-17 | 2022-09-28 |
 | [Down To Hell](https://open.spotify.com/track/0bjBFEzs0cbvqNLfDMUSjH) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Down To Hell](https://open.spotify.com/album/4ALhmqLsbI7Wqg7bBYkwVD) | 3:16 | 2021-11-12 | 2022-07-29 |
@@ -340,6 +340,7 @@
 | [The End](https://open.spotify.com/track/6CRSmqVeFPd4zwvlHhgFrj) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO) | [The End](https://open.spotify.com/album/6GAivLxki3SKsiBJodvqCF) | 3:37 | 2021-11-12 | 2022-07-29 |
 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 | 2022-11-02 |  |
 | [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 | 2022-07-13 | 2022-10-26 |
+| [The Hunted](https://open.spotify.com/track/0EtWHPCGpLUGIAw46wsVX3) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [Flawed Design](https://open.spotify.com/album/1mIKXNfCh0SNefV65SRsId) | 3:43 | 2023-06-28 |  |
 | [The Hunted \(feat\. Sully Erna\)](https://open.spotify.com/track/08vJxMYhmZu6YTWqVmLgrA) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [The Hunted](https://open.spotify.com/album/6WUvlN7aMwYXJCIsVDKqQo) | 3:43 | 2021-11-12 | 2022-07-29 |
 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 | 2021-11-12 |  |
 | [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 | 2022-06-17 |  |

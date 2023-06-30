@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00e1",
+        "url": "https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc"
+      },
+      "artists": [
+        {
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Ac\u00e1",
+      "url": "https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF"
+    },
+    {
+      "album": {
         "name": "Usted Se\u00f1alemelo",
         "url": "https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S"
       },

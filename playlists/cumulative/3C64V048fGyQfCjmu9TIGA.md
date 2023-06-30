@@ -2,7 +2,7 @@
 
 ### [90s HITS \| TOP 100 SONGS](https://open.spotify.com/playlist/3C64V048fGyQfCjmu9TIGA)
 
-> The best of the 1990s classics from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
+> The best of the 1990s classics for July 4th, from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more\. Fourth of July \| 4th of July \| Independence Day
 
 224 songs - 15 hr 34 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS?si=28Wb3xvwRZ6Y0oDTCA4Ctg">Bridge Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,560 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,667 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 22 | [Pour Over Me \- Live](https://open.spotify.com/track/5Nzcv9MhQd8VkrvYgTy3IW) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Pour Over Me \(Live\)](https://open.spotify.com/album/3FOHB4HifsQur0uyQoOmTW) | 9:58 |
 | 23 | [Lord Of My Life \- Live](https://open.spotify.com/track/47qnyAuNrEmRNjrELtGJxx) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Lord Of My Life \(Live\)](https://open.spotify.com/album/17R7cY13uwIKsRlQ1FNum6) | 8:36 |
 | 24 | [Jesus Is My Healer \- Live](https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Jesus Is My Healer \(Live\)](https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh) | 6:20 |
-| 25 | [Back To Life \- Studio Version](https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn) | [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Back To Life \(Studio Version\)](https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD) | 4:13 |
+| 25 | [Back To Life \- Studio Version](https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Back To Life \(Studio Version\)](https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD) | 4:13 |
 | 26 | [At The Altar \- Live](https://open.spotify.com/track/7okfzzIL7t7UhygeRDRN0x) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [At The Altar \(Live\)](https://open.spotify.com/album/3SGTVnqzpykrAI7ExoZLnP) | 4:00 |
 | 27 | [Abide \- Radio Version](https://open.spotify.com/track/1kjy5475BVdvJ4ZgG2So9L) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C) | [Abide \(Radio Version\)](https://open.spotify.com/album/0tpFk1aYmsJ7xo1Zsc2N9G) | 3:48 |
 | 28 | [Here Is Our Hallelujah \- Live](https://open.spotify.com/track/6oSxwAZN0ce6iDYI891eL7) | [Village Lights](https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Ike Ndolo](https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W), [Ricky Vazquez](https://open.spotify.com/artist/1JNFZ2QcDKJbAPYwgCvgRb) | [Here Is Our Hallelujah \(Live\)](https://open.spotify.com/album/6jtQa95XthgzYaVCOTHSKS) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Christ Be In My Heart](https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Christ Be In My Heart](https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L) | 4:48 |
 | 100 | [My Worth Is Not in What I Own](https://open.spotify.com/track/4I9E2g5Nw9RpzR9cgci5UQ) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [My Worth Is Not in What I Own](https://open.spotify.com/album/0mrY7V0AYmAMPup2GkdGpV) | 3:43 |
 
-Snapshot ID: `MCw2MjYyMjU3MTNmZDk5NjhiNjVlMzllNDUwMmI3YzEyMjdkY2EwMDQ3`
+Snapshot ID: `MCxkYmIwNDM1YWJiN2VlMDI2MTE3NTUxOGIzNGE3ZGNkNDA4OWIzODM1`

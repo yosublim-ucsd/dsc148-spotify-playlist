@@ -2675,6 +2675,28 @@
     },
     {
       "album": {
+        "name": "El Perd\u00f3n (feat. Mon Laferte)",
+        "url": "https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169145,
+      "name": "El Perd\u00f3n (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj"
+    },
+    {
+      "album": {
         "name": "Las manos",
         "url": "https://open.spotify.com/album/1LKDk8RQ588oxmj4tBK39i"
       },

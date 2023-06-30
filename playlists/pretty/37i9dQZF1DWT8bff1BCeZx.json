@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 2719,
+  "num_followers": 2765,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDYwZDk4MDMwMzdjZjdkOTIyYTVhZTQwYzg0Njc1ZmE3NGJiYzVi",
+  "snapshot_id": "MCwyZWU2ZjJlNDFiNjllYTUzYjUxMWE3OTgwZWE5ZjEwNWUzOGJjYWNm",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG"
     },
     {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "Na God I Dey Praise (Craze)",
+        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        }
+      ],
+      "duration_ms": 218644,
+      "name": "Na God I Dey Praise (Craze)",
+      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
+    },
+    {
       "added_at": "2023-05-26 00:01:00",
       "album": {
         "name": "Now I See",
@@ -551,22 +567,6 @@
       "duration_ms": 191451,
       "name": "Now I See",
       "url": "https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "Na God I Dey Praise (Craze)",
-        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
-      },
-      "artists": [
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
-        }
-      ],
-      "duration_ms": 218644,
-      "name": "Na God I Dey Praise (Craze)",
-      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Vol. 15: Live At The ICC Arena Durban - My Gift To You",
-        "url": "https://open.spotify.com/album/7oRxjkbJPrlps1xsyeT0sO"
+        "name": "Colours of Africa: Live in London",
+        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
         }
       ],
-      "duration_ms": 417533,
-      "name": "Tambira Jehova",
-      "url": "https://open.spotify.com/track/7vMK0yMrE3I8KIaEgaAq2r"
+      "duration_ms": 408115,
+      "name": "Ese Oluwa / Papa",
+      "url": "https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Colours of Africa: Live in London",
-        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
+        "name": "Vol. 15: Live At The ICC Arena Durban - My Gift To You",
+        "url": "https://open.spotify.com/album/7oRxjkbJPrlps1xsyeT0sO"
       },
       "artists": [
         {
-          "name": "Sonnie Badu",
-          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
         }
       ],
-      "duration_ms": 408115,
-      "name": "Ese Oluwa / Papa",
-      "url": "https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg"
+      "duration_ms": 417533,
+      "name": "Tambira Jehova",
+      "url": "https://open.spotify.com/track/7vMK0yMrE3I8KIaEgaAq2r"
     },
     {
       "added_at": "2023-04-14 16:41:04",

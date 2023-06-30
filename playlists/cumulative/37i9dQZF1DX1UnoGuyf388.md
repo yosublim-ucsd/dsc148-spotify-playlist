@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Billy Porter
 
-226 songs - 11 hr 26 min
+227 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Pissed Black Girl](https://open.spotify.com/track/5SbFDvlgHmNcG8QkaZKG5I) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Gone Girl](https://open.spotify.com/album/0TaL8kqF5xhhA6XYcpqLOM) | 3:25 | 2022-04-22 | 2022-10-15 |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-10 | 2023-03-04 |
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2022-02-04 | 2022-03-26 |
-| [Popular \(with Playboi Carti & Madonna\) \- From The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/38ziag7I4rieq2OzpfuCy2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[From The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/3kThcZ8bpesgek9Q8K6iL6) | 3:35 | 2023-06-08 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- From The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/38ziag7I4rieq2OzpfuCy2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[From The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/3kThcZ8bpesgek9Q8K6iL6) | 3:35 | 2023-06-08 | 2023-06-30 |
+| [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/67gUqq3wVAztSquOpNZ4Xs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/0BxGRTcVhWVCAo5H3d8g9Q) | 3:35 | 2023-06-23 |  |
 | [Post Nut Clarity](https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f) | 1:53 | 2022-02-25 | 2022-10-08 |
 | [Post Nut Clarity](https://open.spotify.com/track/6ZqYNVWAseR8ySw7oR8eId) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/43pHwudMD8sBnNart82tfO) | 1:53 | 2022-04-22 | 2023-01-28 |
 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-01-27 |  |

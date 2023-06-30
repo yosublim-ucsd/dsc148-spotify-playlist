@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 24736,
+  "num_followers": 24795,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWQyYTJiZGRjOTcwNTQwZTNmODc5MzI3YTYxMmU0YjliMzI4MDkw",
+  "snapshot_id": "MCxlMWNhMGE4ZDU1NGYyMzE1MzdiMjJhYjcyNmM1YWFlNWQ1YjY0NDM4",
   "tracks": [
     {
       "added_at": "2023-05-29 03:38:14",
@@ -275,6 +275,26 @@
     {
       "added_at": "2023-05-29 03:38:14",
       "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 192585,
+      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
+      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
+    },
+    {
+      "added_at": "2023-05-29 03:38:14",
+      "album": {
         "name": "H1GHR : BLUE TAPE",
         "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 188106,
       "name": "Oscar",
       "url": "https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ"
-    },
-    {
-      "added_at": "2023-05-29 03:38:14",
-      "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 192585,
-      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
-      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
     },
     {
       "added_at": "2023-05-29 03:38:14",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-05-29 03:38:14",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
-    },
-    {
-      "added_at": "2023-05-29 03:38:14",
-      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 245786,
       "name": "Tel\u00e9fono Remix",
       "url": "https://open.spotify.com/track/0vZi38VepxZWh0ACqYaXio"
+    },
+    {
+      "added_at": "2023-05-29 03:38:14",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
     },
     {
       "added_at": "2023-05-29 03:38:14",

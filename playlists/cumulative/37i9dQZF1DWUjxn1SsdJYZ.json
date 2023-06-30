@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 188383,
       "name": "Booth",
       "url": "https://open.spotify.com/track/6DGbJ5xp1arBFCb2LC2uGG"
@@ -3236,7 +3236,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 106307,
       "name": "Go (Xtayalive 2)",
       "url": "https://open.spotify.com/track/1slDsIJxew9AOOA3v0xFzn"
@@ -3498,6 +3498,24 @@
       "duration_ms": 233052,
       "name": "Hard Labour",
       "url": "https://open.spotify.com/track/5paXlSDYWldSZLS3dilNul"
+    },
+    {
+      "album": {
+        "name": "Hardly Talk",
+        "url": "https://open.spotify.com/album/2N1rVHud0BsuYtGoPnzlN1"
+      },
+      "artists": [
+        {
+          "name": "360",
+          "url": "https://open.spotify.com/artist/3vn7rk7VNMfDhuZNB9sDYP"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165180,
+      "name": "Hardly Talk",
+      "url": "https://open.spotify.com/track/4aUyeWJlWDdqpH1Si5E9uc"
     },
     {
       "album": {
@@ -4642,7 +4660,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 142178,
       "name": "Lemme Know",
       "url": "https://open.spotify.com/track/2cpqEOmplWCWwh0kzSCyHU"
@@ -6020,7 +6038,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 186666,
       "name": "No Strings",
       "url": "https://open.spotify.com/track/5Ia4Fea9xBJl5ijUiJAY0V"
@@ -6126,7 +6144,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 210232,
       "name": "NOKIA 6OY",
       "url": "https://open.spotify.com/track/2SsjTx5AWaQ2c3sA2ycVjW"
@@ -6904,7 +6922,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 175140,
       "name": "Prayin'",
       "url": "https://open.spotify.com/track/1oyFb5GZKy9EZPUBiHT8Tw"
@@ -6922,7 +6940,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 119000,
       "name": "PRETTY",
       "url": "https://open.spotify.com/track/3j9dzoKjSbYAopfrwkXFmn"
@@ -7006,6 +7024,24 @@
       "duration_ms": 185147,
       "name": "Purpose (feat. Mozzy)",
       "url": "https://open.spotify.com/track/1XaWTPtB35bNSAEDbcMy4Q"
+    },
+    {
+      "album": {
+        "name": "Push Start",
+        "url": "https://open.spotify.com/album/2klbRjJcP5jnYCC9jGJzev"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gunn",
+          "url": "https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114514,
+      "name": "Push Start",
+      "url": "https://open.spotify.com/track/0AWWq2PcKq64cQCjOHpqai"
     },
     {
       "album": {
@@ -7605,6 +7641,24 @@
     },
     {
       "album": {
+        "name": "SALAMANCA",
+        "url": "https://open.spotify.com/album/2X3HjtmWvvR9ufD0ICy0NR"
+      },
+      "artists": [
+        {
+          "name": "KingTheFreeSoul",
+          "url": "https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "SALAMANCA",
+      "url": "https://open.spotify.com/track/1NIs2VWR40OAKPgj6ROpP0"
+    },
+    {
+      "album": {
         "name": "Score",
         "url": "https://open.spotify.com/album/3HrcsQpkCgr73wSyGLTonn"
       },
@@ -7922,6 +7976,28 @@
       "duration_ms": 260571,
       "name": "SLIPPIN",
       "url": "https://open.spotify.com/track/44MmMErXGh8EwcS9mjxtZi"
+    },
+    {
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/3PFsfVM5QjIBKmr0AZHPVy"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ooze",
+          "url": "https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel"
+        },
+        {
+          "name": "Yung Shogun",
+          "url": "https://open.spotify.com/artist/36FoSt7DBnQar4gankr8t2"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168583,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/2ibDEUmWjwdu7MfA0PfeeO"
     },
     {
       "album": {

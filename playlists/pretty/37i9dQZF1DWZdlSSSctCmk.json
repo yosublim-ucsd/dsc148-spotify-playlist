@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 97539,
+  "num_followers": 97628,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2JjZWU3MDdiNTA3NmI3ZWM4NmVmYjQzY2M0NWUyNjI0NDJmNTdk",
+  "snapshot_id": "MCwxMWVkZTFhMGM2NTVkMWQyMmFjZmRiYmQzMWQzNTM5NzI4NGFhZDA4",
   "tracks": [
     {
       "added_at": "2023-06-16 16:00:00",
@@ -279,26 +279,22 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "All In A Dream",
-        "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
         },
         {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Joseph Ashworth",
-          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         }
       ],
-      "duration_ms": 230015,
-      "name": "All In A Dream",
-      "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -319,22 +315,26 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+        "name": "All In A Dream",
+        "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
       "artists": [
         {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         },
         {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
         }
       ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+      "duration_ms": 230015,
+      "name": "All In A Dream",
+      "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -391,26 +391,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 283406,
-      "name": "C-Side",
-      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Nabi",
         "url": "https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 232914,
       "name": "Nabi",
       "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 283406,
+      "name": "C-Side",
+      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Indoor Fireworks (Re-Release)",
-        "url": "https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj"
+        "name": "Quiet Night",
+        "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
       },
       "artists": [
         {
-          "name": "Doctor Rockit",
-          "url": "https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ"
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
         },
         {
-          "name": "Matthew Herbert",
-          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
+          "name": "wielandwieland",
+          "url": "https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n"
         }
       ],
-      "duration_ms": 505453,
-      "name": "Caf\u00e9 de Flore",
-      "url": "https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR"
+      "duration_ms": 212000,
+      "name": "Quiet Night",
+      "url": "https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1087,22 +1087,22 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Quiet Night",
-        "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
+        "name": "Indoor Fireworks (Re-Release)",
+        "url": "https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj"
       },
       "artists": [
         {
-          "name": "Hugo",
-          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
+          "name": "Doctor Rockit",
+          "url": "https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ"
         },
         {
-          "name": "wielandwieland",
-          "url": "https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n"
+          "name": "Matthew Herbert",
+          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Quiet Night",
-      "url": "https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT"
+      "duration_ms": 505453,
+      "name": "Caf\u00e9 de Flore",
+      "url": "https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Mutual Feelin' (Edit)",
-        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
-      },
-      "artists": [
-        {
-          "name": "Somethin' Sanctified",
-          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Mutual Feelin' - Edit",
-      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
-    },
-    {
-      "added_at": "2023-06-16 16:00:00",
-      "album": {
         "name": "Your Love (feat. BLAME)",
         "url": "https://open.spotify.com/album/4Lb00Y6Y4KatxxnPEtoZY9"
       },
@@ -1411,18 +1395,38 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
+        "name": "Mutual Feelin' (Edit)",
+        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
       },
       "artists": [
         {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+          "name": "Somethin' Sanctified",
+          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
         }
       ],
-      "duration_ms": 311413,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
+      "duration_ms": 226000,
+      "name": "Mutual Feelin' - Edit",
+      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
+    },
+    {
+      "added_at": "2023-06-16 16:00:00",
+      "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "duration_ms": 228897,
+      "name": "Gated Area",
+      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
     },
     {
       "added_at": "2023-06-16 16:00:00",
@@ -1459,22 +1463,18 @@
     {
       "added_at": "2023-06-16 16:00:00",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
       },
       "artists": [
         {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 228897,
-      "name": "Gated Area",
-      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+      "duration_ms": 311413,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
     },
     {
       "added_at": "2023-06-16 16:00:00",

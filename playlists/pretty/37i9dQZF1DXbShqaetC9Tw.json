@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 89211,
+  "num_followers": 89257,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Nzk4YWY1OWU3NTkzYjFlZTdlOTE5MWU4ODljODI4MTQ1NTZhYWJh",
+  "snapshot_id": "MCw1NWEwYTc5NmNjNzdlOWViZWU4ZGEwY2FlNzlhNTVmZjc1MWZlMTMw",
   "tracks": [
     {
       "added_at": "2023-06-20 05:12:48",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-20 05:12:48",
       "album": {
-        "name": "Track 03",
-        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
-      },
-      "artists": [
-        {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
-    },
-    {
-      "added_at": "2023-06-20 05:12:48",
-      "album": {
         "name": "wandering (feat. george)",
         "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 204000,
       "name": "wandering (feat. george)",
       "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
+    },
+    {
+      "added_at": "2023-06-20 05:12:48",
+      "album": {
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
     },
     {
       "added_at": "2023-06-20 05:12:48",
@@ -675,8 +675,8 @@
     {
       "added_at": "2023-06-20 05:12:48",
       "album": {
-        "name": "Dry Flower",
-        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
+        "name": "[ Rorschach ] Part 2",
+        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
         }
       ],
-      "duration_ms": 145613,
-      "name": "Rain Drop",
-      "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
+      "duration_ms": 178013,
+      "name": "23 Pt.2",
+      "url": "https://open.spotify.com/track/18bJSdEq3znhPNtbiizHJd"
     },
     {
       "added_at": "2023-06-20 05:12:48",
@@ -763,8 +763,8 @@
     {
       "added_at": "2023-06-20 05:12:48",
       "album": {
-        "name": "[ Rorschach ] Part 2",
-        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
+        "name": "Dry Flower",
+        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
         }
       ],
-      "duration_ms": 178013,
-      "name": "23 Pt.2",
-      "url": "https://open.spotify.com/track/18bJSdEq3znhPNtbiizHJd"
+      "duration_ms": 145613,
+      "name": "Rain Drop",
+      "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
     },
     {
       "added_at": "2023-06-20 05:12:48",

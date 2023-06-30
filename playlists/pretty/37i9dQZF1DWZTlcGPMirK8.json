@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 64263,
+  "num_followers": 64289,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODU2NDNhMDU3MGY5Yjg5MjlhZjBmY2EzNTNjYjZhMTVkNTJlMWM0",
+  "snapshot_id": "MCw5ZjA2NWM3ODYxOGE1YWY4ZTA0NzdlZDc4NmEyMTdkOThmNmFlOGZm",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "In The Summertime",
-        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
+        "name": "Footprints",
+        "url": "https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV"
       },
       "artists": [
         {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+          "name": "Holly Valance",
+          "url": "https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E"
         }
       ],
-      "duration_ms": 228560,
-      "name": "In the Summertime - Single Version",
-      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
+      "duration_ms": 204400,
+      "name": "Kiss Kiss",
+      "url": "https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Footprints",
-        "url": "https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV"
+        "name": "In The Summertime",
+        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
       },
       "artists": [
         {
-          "name": "Holly Valance",
-          "url": "https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E"
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
         }
       ],
-      "duration_ms": 204400,
-      "name": "Kiss Kiss",
-      "url": "https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP"
+      "duration_ms": 228560,
+      "name": "In the Summertime - Single Version",
+      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
     },
     {
       "added_at": "2022-04-18 02:03:22",

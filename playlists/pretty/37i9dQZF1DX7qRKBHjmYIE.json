@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: ARIA VEGA",
-  "num_followers": 747647,
+  "num_followers": 747652,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2QxOWQ4Y2RiYTNlNDBiNGZkMmFmNDFmNjM5ZjFlNThmYWJmNGMw",
+  "snapshot_id": "MCw3ODA1ZjRiNDEzNTdlOTRlMDZmYzkxMTRlOTE2OTllYjFmMGIwYTdj",
   "tracks": [
     {
       "added_at": "2023-06-23 05:06:37",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-06-23 05:06:37",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 182782,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2023-06-23 05:06:37",
@@ -395,6 +395,22 @@
       "duration_ms": 138750,
       "name": "Zendaya",
       "url": "https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU"
+    },
+    {
+      "added_at": "2023-06-23 05:06:37",
+      "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 182782,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
     },
     {
       "added_at": "2023-06-23 05:06:37",
@@ -431,22 +447,6 @@
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
-    },
-    {
-      "added_at": "2023-06-23 05:06:37",
-      "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2023-06-23 05:06:37",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-23 05:06:37",
       "album": {
-        "name": "What U Want",
-        "url": "https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "What U Want",
-      "url": "https://open.spotify.com/track/165EgmoM47fAorPRNPijBu"
-    },
-    {
-      "added_at": "2023-06-23 05:06:37",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "added_at": "2023-06-23 05:06:37",
+      "album": {
+        "name": "What U Want",
+        "url": "https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "What U Want",
+      "url": "https://open.spotify.com/track/165EgmoM47fAorPRNPijBu"
     },
     {
       "added_at": "2023-06-23 05:06:37",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-06-23 05:06:37",
       "album": {
-        "name": "No Eres Tu Soy Yo",
-        "url": "https://open.spotify.com/album/5C4QoLSXHFPDn4qTAHUcd2"
-      },
-      "artists": [
-        {
-          "name": "Cabra",
-          "url": "https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "No Eres Tu Soy Yo",
-      "url": "https://open.spotify.com/track/54VlZOOuzrHbUsiMrZh5wq"
-    },
-    {
-      "added_at": "2023-06-23 05:06:37",
-      "album": {
         "name": "Desde Cero",
         "url": "https://open.spotify.com/album/0mu3YWwHifRp0U6Dd7ghgO"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 172092,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
+    },
+    {
+      "added_at": "2023-06-23 05:06:37",
+      "album": {
+        "name": "No Eres Tu Soy Yo",
+        "url": "https://open.spotify.com/album/5C4QoLSXHFPDn4qTAHUcd2"
+      },
+      "artists": [
+        {
+          "name": "Cabra",
+          "url": "https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "No Eres Tu Soy Yo",
+      "url": "https://open.spotify.com/track/54VlZOOuzrHbUsiMrZh5wq"
     },
     {
       "added_at": "2023-06-23 05:06:37",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-06-23 05:06:37",
       "album": {
-        "name": "Luna Villera",
-        "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 237524,
-      "name": "Luna Villera",
-      "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
-    },
-    {
-      "added_at": "2023-06-23 05:06:37",
-      "album": {
         "name": "me perdono",
         "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 212685,
       "name": "me perdono",
       "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
+    },
+    {
+      "added_at": "2023-06-23 05:06:37",
+      "album": {
+        "name": "Luna Villera",
+        "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 237524,
+      "name": "Luna Villera",
+      "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
     },
     {
       "added_at": "2023-06-23 05:06:37",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-06-23 05:06:37",
       "album": {
-        "name": "Let Me Down Slow",
-        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Let Me Down Slow",
-      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
-    },
-    {
-      "added_at": "2023-06-23 05:06:37",
-      "album": {
         "name": "Last Spa on Earth",
         "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2023-06-23 05:06:37",
       "album": {
+        "name": "Let Me Down Slow",
+        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Let Me Down Slow",
+      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
+    },
+    {
+      "added_at": "2023-06-23 05:06:37",
+      "album": {
         "name": "left you",
         "url": "https://open.spotify.com/album/5Bm35xrBP0dTYhTWGhHEOf"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 155993,
       "name": "left you",
       "url": "https://open.spotify.com/track/3wMy7DfIcVlkZv1RVnNkyi"
+    },
+    {
+      "added_at": "2023-06-23 05:06:37",
+      "album": {
+        "name": "bossa nova",
+        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 188070,
+      "name": "bossa nova",
+      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
     },
     {
       "added_at": "2023-06-23 05:06:37",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2023-06-23 05:06:37",
       "album": {
-        "name": "BROOKLYN",
-        "url": "https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8"
-      },
-      "artists": [
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        }
-      ],
-      "duration_ms": 215236,
-      "name": "BROOKLYN",
-      "url": "https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g"
-    },
-    {
-      "added_at": "2023-06-23 05:06:37",
-      "album": {
         "name": "DAMALEONA",
         "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-06-23 05:06:37",
       "album": {
-        "name": "bossa nova",
-        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
+        "name": "BROOKLYN",
+        "url": "https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8"
       },
       "artists": [
         {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
         }
       ],
-      "duration_ms": 188070,
-      "name": "bossa nova",
-      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
+      "duration_ms": 215236,
+      "name": "BROOKLYN",
+      "url": "https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g"
     }
   ],
   "unique_name": "Mixto",

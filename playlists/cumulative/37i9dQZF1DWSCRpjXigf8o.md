@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-316 songs - 19 hr 9 min
+318 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 | 2023-03-07 | 2023-03-16 |
 | [As It Was](https://open.spotify.com/track/6adP3vuwCZxxZzns0oDEEA) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [As It Was](https://open.spotify.com/album/5EXGvuSkshnysHOI7kPBTR) | 3:07 | 2023-02-28 | 2023-04-21 |
 | [Aselestine](https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Aselestine](https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2) | 3:50 | 2023-01-10 | 2023-01-20 |
-| [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2023-03-07 |  |
+| [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2023-03-07 | 2023-06-30 |
 | [back to me](https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [back to me](https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf) | 3:10 | 2023-05-25 |  |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2022-10-20 |  |
 | [Be Okay](https://open.spotify.com/track/0CqwUsUphvO4ATggdyET1e) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [We'll Be Okay EP](https://open.spotify.com/album/5MORMgMuV6qiV2uMo6cE86) | 3:56 | 2022-10-20 | 2022-11-09 |
@@ -38,6 +38,7 @@
 | [benjamin](https://open.spotify.com/track/3ykszdFKPWC99QtzeqXVr0) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [benjamin](https://open.spotify.com/album/01TfNQdv3TckY8O6cUDp2M) | 3:13 | 2023-01-12 | 2023-02-24 |
 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 | 2022-10-20 |  |
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 | 2022-11-08 | 2023-04-21 |
+| [BETTY](https://open.spotify.com/track/1sZMEQ5l9HCmasdqtxd5hY) | [Takumadrops](https://open.spotify.com/artist/469no6YyPirEUGHqqqyINS) | [BETTY](https://open.spotify.com/album/2R4WxFjANEHlSQ1X3abj6N) | 4:19 | 2023-06-30 |  |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2022-10-20 |  |
 | [Beyond the Night](https://open.spotify.com/track/7i45z8apd5WcInB0Ks07NC) | [Taketombo](https://open.spotify.com/artist/2a0Pq2wS2V2vWb52JWR7JW) | [Beyond the Night](https://open.spotify.com/album/6E6CLind3kGwGWeLTbUkK6) | 4:14 | 2023-02-14 | 2023-03-01 |
 | [Binetsu \(Autumn\)](https://open.spotify.com/track/6XEayKqPPoQ3QBMxihEBTr) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Binetsu \(Autumn\) / Honesty \(Session 1\)](https://open.spotify.com/album/4Tzdk99BwpNhilbHOCaNFp) | 4:58 | 2022-11-15 | 2023-03-01 |
@@ -85,7 +86,7 @@
 | [Empty](https://open.spotify.com/track/3TS6PFsksrXUNJf3y7LoEv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:02 | 2023-04-06 |  |
 | [Empty House](https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Empty House](https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu) | 3:32 | 2023-02-23 | 2023-03-01 |
 | [Englishman In New York \- The Ben Liebrand Mix / Edit](https://open.spotify.com/track/1U8XRvf5z5wbnVFQHd14ph) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Ben Liebrand](https://open.spotify.com/artist/00bFgWuCaaFrjC9xylIcMf) | [...Nothing Like The Sun \(Expanded Edition\)](https://open.spotify.com/album/4NulPUAJ3mgNc7A0yohd2z) | 4:31 | 2022-10-20 | 2023-05-13 |
-| [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 | 2023-03-07 |  |
+| [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 | 2023-03-07 | 2023-06-30 |
 | [Fairy Falls](https://open.spotify.com/track/402dP9S7AHi88JV7JWjuNF) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:59 | 2023-03-23 | 2023-04-21 |
 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2022-10-20 |  |
 | [Fashion](https://open.spotify.com/track/4qDHWmO7CiHNtX0Y5gk6O9) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Fashion](https://open.spotify.com/album/5k6RHg5QRy9E4erIcJgZiC) | 2:15 | 2023-03-07 | 2023-04-21 |
@@ -264,6 +265,7 @@
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-10-20 |  |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-27 |  |
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2022-10-20 |  |
+| [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 | 2023-06-30 |  |
 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 | 2022-12-06 | 2023-02-22 |
 | [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 | 2023-04-20 | 2023-04-26 |
 | [walk my life](https://open.spotify.com/track/1uWghGURCsFNleZaOtJwxU) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [satellite flying alone](https://open.spotify.com/album/0P58MPy2TkOPZapZ8Z1wMF) | 3:54 | 2023-02-23 | 2023-03-01 |

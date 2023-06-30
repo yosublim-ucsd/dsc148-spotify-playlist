@@ -962,10 +962,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 222066,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X"
+    },
+    {
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/4Qj0F6VKY3BKiRtlL5zZdl"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222066,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/2kt0o57HiqossBuEfdrtyv"
     },
     {
       "album": {

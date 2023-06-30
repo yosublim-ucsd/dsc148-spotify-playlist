@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Masego
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,639 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,691 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 99 | [Promises](https://open.spotify.com/track/30e2kRNthNcvB9l9isDMLD) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:08 |
 | 100 | [Spit Up](https://open.spotify.com/track/5ninsjB30htfz4V2EHhT5F) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Spit Up](https://open.spotify.com/album/0qxXNClkynGMG0zKnMRb21) | 3:53 |
 
-Snapshot ID: `MCxlYWIzNDMyYjQ0NjhmMjczMGQwMmY5ZmEwYmM2NzI1ZWVhODMyNzk0`
+Snapshot ID: `MCwyNjRhYTMyMThmMmExZDRhMWYxMzY2YmQzNmY3MGRlMDY1ZjcwMjJh`

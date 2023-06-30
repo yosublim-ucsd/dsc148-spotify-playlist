@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Maluma",
-  "num_followers": 596335,
+  "num_followers": 596412,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGZmNmU0YTZiZjVjNDAyMzU5OGE4MTk1ZTAwYjVmMTY0MjNjZDkw",
+  "snapshot_id": "MCwyYzAyMDNlMWZkMGVmN2E5YzUzYTYwMGI1ZTU1MTg4NDk2MjI5MTlm",
   "tracks": [
     {
       "added_at": "2023-06-16 04:33:26",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
+        "name": "Sus Huellas",
+        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Sus Huellas",
+      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
         "name": "Amigos (con Maria Becerra) [Bachata]",
         "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 202702,
       "name": "Amigos (con Maria Becerra) - Bachata",
       "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
-        "name": "Sus Huellas",
-        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Sus Huellas",
-      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -643,22 +643,18 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
         }
       ],
-      "duration_ms": 212914,
-      "name": "SI ES AMOR",
-      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+      "duration_ms": 222043,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -683,6 +679,26 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 234666,
       "name": "Sin Fin",
       "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
-        "name": "Las Locuras M\u00edas",
-        "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 222043,
-      "name": "Las Locuras M\u00edas",
-      "url": "https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
-        "name": "Dividimos",
-        "url": "https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 280916,
-      "name": "Dividimos (Bachata Version)",
-      "url": "https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 225386,
       "name": "Canalla",
       "url": "https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
+        "name": "Dividimos",
+        "url": "https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "duration_ms": 280916,
+      "name": "Dividimos (Bachata Version)",
+      "url": "https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf"
     },
     {
       "added_at": "2023-06-16 04:33:26",
@@ -979,6 +979,30 @@
     {
       "added_at": "2023-06-16 04:33:26",
       "album": {
+        "name": "FOREVER KING",
+        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 218865,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP"
+    },
+    {
+      "added_at": "2023-06-16 04:33:26",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -1015,30 +1039,6 @@
       "duration_ms": 213316,
       "name": "Dios Asi Lo Quiso",
       "url": "https://open.spotify.com/track/48WszbQrrjEnouJmKzNDba"
-    },
-    {
-      "added_at": "2023-06-16 04:33:26",
-      "album": {
-        "name": "FOREVER KING",
-        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 218865,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP"
     },
     {
       "added_at": "2023-06-16 04:33:26",

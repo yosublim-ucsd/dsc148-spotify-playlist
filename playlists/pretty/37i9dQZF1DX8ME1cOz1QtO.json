@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 68864,
+  "num_followers": 68964,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzNlOGNmM2YyZjY0ZTYwMzlkMjkyNTJhMTU0ZDQ0ODkyYzg2M2Ni",
+  "snapshot_id": "MCw3NGQyZTUxZWM5NWE4YjNhYmY1ODdiYmMxODg0OTM0ZDhjMjg2ZDk4",
   "tracks": [
     {
       "added_at": "2022-10-04 12:35:58",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "Gymnosphere: Song of the Rose",
+        "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
+      },
+      "artists": [
+        {
+          "name": "Jordan De La Sierra",
+          "url": "https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf"
+        }
+      ],
+      "duration_ms": 1457253,
+      "name": "Music for Gymnastics",
+      "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 717706,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Gymnosphere: Song of the Rose",
-        "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
-      },
-      "artists": [
-        {
-          "name": "Jordan De La Sierra",
-          "url": "https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf"
-        }
-      ],
-      "duration_ms": 1457253,
-      "name": "Music for Gymnastics",
-      "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
     },
     {
       "added_at": "2022-10-04 12:35:58",

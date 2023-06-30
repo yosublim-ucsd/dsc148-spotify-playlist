@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36\">Trip Lee</a>",
-  "num_followers": 127275,
+  "num_followers": 127364,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODM4ZDhlN2ZlYzFiZWQ4ZmVkNzFjYzA4Yzg3MmRiNDAxOTE1OGJj",
+  "snapshot_id": "MCw1YTMwZWVjZTJhNWY4M2U4ODUxMjY0OWZhYTM1ODA4Y2I2M2IzMDBm",
   "tracks": [
     {
       "added_at": "2023-04-28 12:30:31",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
-      },
-      "artists": [
-        {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        },
-        {
-          "name": "Faith Lofi",
-          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "All Joy No Stress (feat. Tedashii)",
         "url": "https://open.spotify.com/album/4gvJs5YgwAMcH0W3W86iQd"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 184563,
       "name": "All Joy No Stress (feat. Tedashii)",
       "url": "https://open.spotify.com/track/5Z4D2dNjMFBlL6c4hha7Rq"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
+      },
+      "artists": [
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        },
+        {
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "JUDAS",
-        "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 100587,
-      "name": "ICE COLD",
-      "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 172313,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "JUDAS",
+        "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 100587,
+      "name": "ICE COLD",
+      "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -779,42 +779,38 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "BIG!",
-        "url": "https://open.spotify.com/album/4kXyCIwqDxxknbozMbR7Sr"
+        "name": "WINNING",
+        "url": "https://open.spotify.com/album/5gACii71448MJmPfypnC80"
       },
       "artists": [
         {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
         }
       ],
-      "duration_ms": 162352,
-      "name": "BIG!",
-      "url": "https://open.spotify.com/track/7oPglwXLKkKaMhlJrDsRo7"
+      "duration_ms": 138970,
+      "name": "WINNING",
+      "url": "https://open.spotify.com/track/2GV28Ng9Qb9nd1Eo0pcoIC"
     },
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Hit My Line",
-        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
+        "name": "TRANSCENDENT",
+        "url": "https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG"
       },
       "artists": [
         {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
         },
         {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
         }
       ],
-      "duration_ms": 147492,
-      "name": "Hit My Line",
-      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
+      "duration_ms": 144000,
+      "name": "MAD 2 THE MAX",
+      "url": "https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -851,38 +847,42 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "TRANSCENDENT",
-        "url": "https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG"
+        "name": "Hit My Line",
+        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
       },
       "artists": [
         {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         },
         {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 144000,
-      "name": "MAD 2 THE MAX",
-      "url": "https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W"
+      "duration_ms": 147492,
+      "name": "Hit My Line",
+      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
     },
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "WINNING",
-        "url": "https://open.spotify.com/album/5gACii71448MJmPfypnC80"
+        "name": "BIG!",
+        "url": "https://open.spotify.com/album/4kXyCIwqDxxknbozMbR7Sr"
       },
       "artists": [
         {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 138970,
-      "name": "WINNING",
-      "url": "https://open.spotify.com/track/2GV28Ng9Qb9nd1Eo0pcoIC"
+      "duration_ms": 162352,
+      "name": "BIG!",
+      "url": "https://open.spotify.com/track/7oPglwXLKkKaMhlJrDsRo7"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -899,6 +899,130 @@
       "duration_ms": 148754,
       "name": "Ram in the Bush",
       "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0YFfb5QYJrdbeSEqPSmdRo"
+      },
+      "artists": [
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        }
+      ],
+      "duration_ms": 186383,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/03hQRnlKSJvfICRvTXAZLO"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 165532,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Your Word My Mind",
+        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 149300,
+      "name": "Your Word My Mind",
+      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "IGWT",
+        "url": "https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 179233,
+      "name": "IGWT",
+      "url": "https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Church Clothes 4: Dry Clean Only",
+        "url": "https://open.spotify.com/album/45xopJH4y7YpIHmogMMLD7"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 180221,
+      "name": "Can You Hear Me Now?",
+      "url": "https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Who That Is",
+        "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        },
+        {
+          "name": "Dj Laz",
+          "url": "https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Who That Is",
+      "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -927,146 +1051,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0YFfb5QYJrdbeSEqPSmdRo"
-      },
-      "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 186383,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/03hQRnlKSJvfICRvTXAZLO"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Your Word My Mind",
-        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 149300,
-      "name": "Your Word My Mind",
-      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Pray for Me",
-        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 165532,
-      "name": "Pray for Me",
-      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Church Clothes 4: Dry Clean Only",
-        "url": "https://open.spotify.com/album/45xopJH4y7YpIHmogMMLD7"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 180221,
-      "name": "Can You Hear Me Now?",
-      "url": "https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "IGWT",
-        "url": "https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 179233,
-      "name": "IGWT",
-      "url": "https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Who That Is",
-        "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
-      },
-      "artists": [
-        {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        },
-        {
-          "name": "Dj Laz",
-          "url": "https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Who That Is",
-      "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "PEACE OF MIND",
-        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 207876,
-      "name": "PEACE OF MIND",
-      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 193685,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "shadows",
         "url": "https://open.spotify.com/album/6R6HqsC0djiNv01HQsdaBA"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 149200,
       "name": "shadows",
       "url": "https://open.spotify.com/track/5h65pxH4GY65qOUTz24CVp"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "PEACE OF MIND",
+        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 207876,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1147,42 +1147,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Club Eden",
-        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Club Eden",
-      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "The Bottom Line",
-        "url": "https://open.spotify.com/album/1CAS074eX1UHOVehsuIhDy"
-      },
-      "artists": [
-        {
-          "name": "BrvndonP",
-          "url": "https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy"
-        },
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Hottest In The City (feat. EmanuelDaProphet)",
-      "url": "https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Everyone Loves A Comeback Story",
         "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
       },
@@ -1195,6 +1159,22 @@
       "duration_ms": 202285,
       "name": "I Can't Fail",
       "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Club Eden",
+        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Club Eden",
+      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1219,6 +1199,26 @@
       "duration_ms": 156309,
       "name": "Swerve That",
       "url": "https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "The Bottom Line",
+        "url": "https://open.spotify.com/album/1CAS074eX1UHOVehsuIhDy"
+      },
+      "artists": [
+        {
+          "name": "BrvndonP",
+          "url": "https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy"
+        },
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Hottest In The City (feat. EmanuelDaProphet)",
+      "url": "https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Rich Friends",
-        "url": "https://open.spotify.com/album/1iNms5ShhMsWhC7k9lLa07"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Rich Friends",
-      "url": "https://open.spotify.com/track/7e6ToLxecnfajWwIttmASN"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "HELLO KIZZY & COMPANY",
         "url": "https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 187918,
       "name": "REST",
       "url": "https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Rich Friends",
+        "url": "https://open.spotify.com/album/1iNms5ShhMsWhC7k9lLa07"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Rich Friends",
+      "url": "https://open.spotify.com/track/7e6ToLxecnfajWwIttmASN"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1531,6 +1531,30 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "I Will Not",
+        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
+      },
+      "artists": [
+        {
+          "name": "Datin",
+          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
+        },
+        {
+          "name": "Bryann T",
+          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
+        },
+        {
+          "name": "Dax Hamma",
+          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "I Will Not",
+      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "My Rocket",
         "url": "https://open.spotify.com/album/7kDXljAKu7DP2VWOltgB5i"
       },
@@ -1543,22 +1567,6 @@
       "duration_ms": 125256,
       "name": "My Rocket",
       "url": "https://open.spotify.com/track/3fO5jMxUWWCgMuVUKsN46f"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "NOTHING BUT JESUS",
-        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 157885,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1583,26 +1591,34 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "I Will Not",
-        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
+        "name": "NOTHING BUT JESUS",
+        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
       },
       "artists": [
         {
-          "name": "Datin",
-          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
-        },
-        {
-          "name": "Bryann T",
-          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
-        },
-        {
-          "name": "Dax Hamma",
-          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
         }
       ],
-      "duration_ms": 216000,
-      "name": "I Will Not",
-      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
+      "duration_ms": 157885,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Never Forget",
+        "url": "https://open.spotify.com/album/3Ujum6XUWUCj2jfeO8mova"
+      },
+      "artists": [
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+        }
+      ],
+      "duration_ms": 137380,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/26spj3QxWWw8xy78s7uGx1"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Never Forget",
-        "url": "https://open.spotify.com/album/3Ujum6XUWUCj2jfeO8mova"
-      },
-      "artists": [
-        {
-          "name": "Quasarpro",
-          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
-        }
-      ],
-      "duration_ms": 137380,
-      "name": "Never Forget",
-      "url": "https://open.spotify.com/track/26spj3QxWWw8xy78s7uGx1"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/3t3o84HxUhmkJmK9tT4OIw"
       },
@@ -1687,22 +1687,6 @@
       "duration_ms": 116363,
       "name": "Under Construction",
       "url": "https://open.spotify.com/track/6RXQbHsV0dAIpQRrkGKq5n"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Best Version of Me (Pt. 2)",
-        "url": "https://open.spotify.com/album/2Bm4LMRaJ6jn6Q4AN0kvNl"
-      },
-      "artists": [
-        {
-          "name": "Larell",
-          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
-        }
-      ],
-      "duration_ms": 145640,
-      "name": "Best Version of Me - Pt. 2",
-      "url": "https://open.spotify.com/track/28zHBm2DbG4pJ0RcCsiIMg"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1727,22 +1711,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/339EY1xqT4QUJvGHDbCxCq"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 173972,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Underdogs",
         "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
       },
@@ -1763,18 +1731,18 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "INSTAGRAM ISN'T GOD",
-        "url": "https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh"
+        "name": "Up",
+        "url": "https://open.spotify.com/album/339EY1xqT4QUJvGHDbCxCq"
       },
       "artists": [
         {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 187508,
-      "name": "INSTAGRAM ISN'T GOD",
-      "url": "https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r"
+      "duration_ms": 173972,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1795,6 +1763,38 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "INSTAGRAM ISN'T GOD",
+        "url": "https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 187508,
+      "name": "INSTAGRAM ISN'T GOD",
+      "url": "https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Best Version of Me (Pt. 2)",
+        "url": "https://open.spotify.com/album/2Bm4LMRaJ6jn6Q4AN0kvNl"
+      },
+      "artists": [
+        {
+          "name": "Larell",
+          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
+        }
+      ],
+      "duration_ms": 145640,
+      "name": "Best Version of Me - Pt. 2",
+      "url": "https://open.spotify.com/track/28zHBm2DbG4pJ0RcCsiIMg"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "SIX THIRTY",
         "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
       },
@@ -1811,6 +1811,30 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "Sunflowers",
+        "url": "https://open.spotify.com/album/7EjRh7xBeXvsChw183XoZT"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "Vito OT",
+          "url": "https://open.spotify.com/artist/3Rt9X66ZP43DP6Lxh9MhQ1"
+        },
+        {
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Sunflowers",
+      "url": "https://open.spotify.com/track/3OPqM7GGmM8vDjcySRncV3"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "josiah.",
         "url": "https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J"
       },
@@ -1823,22 +1847,6 @@
       "duration_ms": 129696,
       "name": "josiah.",
       "url": "https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "WINGS OF AN ANGEL",
-        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 120888,
-      "name": "butterfly vibes 2",
-      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
     }
   ],
   "unique_name": "The Flow",

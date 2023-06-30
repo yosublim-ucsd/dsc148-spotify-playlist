@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Skillet",
-  "num_followers": 125625,
+  "num_followers": 125755,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzk4MWJkMDkwNmNjMjUxMjYwOTFlZGUyMGFjYmQ5OTNjYmExNTI1",
+  "snapshot_id": "MCxhOTljZmQ4YWFjYzQ4ZTRlZmVlNDk0NTdkMmRmOTM5Njc1OGM1Yjhm",
   "tracks": [
     {
       "added_at": "2023-02-17 11:43:30",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "A Mirror Dimly",
-        "url": "https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "The Protest",
+          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
         }
       ],
-      "duration_ms": 338333,
-      "name": "Day by Day",
-      "url": "https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb"
+      "duration_ms": 166920,
+      "name": "What Else You Got?",
+      "url": "https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk"
+        "name": "A Mirror Dimly",
+        "url": "https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH"
       },
       "artists": [
         {
-          "name": "The Protest",
-          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 166920,
-      "name": "What Else You Got?",
-      "url": "https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO"
+      "duration_ms": 338333,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "The Fear",
-        "url": "https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1"
-      },
-      "artists": [
-        {
-          "name": "Night Argent",
-          "url": "https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid"
-        }
-      ],
-      "duration_ms": 203171,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Before There Was",
         "url": "https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 304813,
       "name": "Lazarus",
       "url": "https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "The Fear",
+        "url": "https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1"
+      },
+      "artists": [
+        {
+          "name": "Night Argent",
+          "url": "https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid"
+        }
+      ],
+      "duration_ms": 203171,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
+        "name": "Into the Sea",
+        "url": "https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr"
+      },
+      "artists": [
+        {
+          "name": "Attalus",
+          "url": "https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ"
+        }
+      ],
+      "duration_ms": 245080,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
         "name": "Salvation For 100%",
         "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
-        "name": "Into the Sea",
-        "url": "https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr"
-      },
-      "artists": [
-        {
-          "name": "Attalus",
-          "url": "https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Pennell",
-        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        }
-      ],
-      "duration_ms": 333370,
-      "name": "Send Forth Laborers",
-      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "What Are You Waiting For",
         "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+        "name": "Pennell",
+        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
       },
       "artists": [
         {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
         }
       ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
+      "duration_ms": 333370,
+      "name": "Send Forth Laborers",
+      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1187,6 +1171,22 @@
       "duration_ms": 233906,
       "name": "Way You Love Me",
       "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+      },
+      "artists": [
+        {
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-02-17 11:43:30",

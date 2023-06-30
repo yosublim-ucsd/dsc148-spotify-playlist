@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Alan Gomez & Luck Ra.",
-  "num_followers": 608009,
+  "num_followers": 608152,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDY2ZGIxZjU1Mzc4ZmU5OGNiMDAzYTJjOWIxZmE2ZGY3N2EyZjNl",
+  "snapshot_id": "MCw0ZGU1YTdjY2IyMmExOGEyNzAwNWVlYzUxNjk4ZWM4OWEwNTRhNmNm",
   "tracks": [
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "Eran dos locos de amor",
-        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Eran dos locos de amor",
-      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
-    },
-    {
-      "added_at": "2023-06-21 18:39:32",
-      "album": {
         "name": "Ferxxo 100",
         "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 169589,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
+    },
+    {
+      "added_at": "2023-06-21 18:39:32",
+      "album": {
+        "name": "Eran dos locos de amor",
+        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+        }
+      ],
+      "duration_ms": 169496,
+      "name": "Eran dos locos de amor",
+      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
     },
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD"
-    },
-    {
-      "added_at": "2023-06-21 18:39:32",
-      "album": {
         "name": "El Pa\u00f1uelo",
         "url": "https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO"
       },
@@ -1643,22 +1627,6 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "Con Toda la Fuerza",
-        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 187220,
-      "name": "Ma\u00f1ana sin vos",
-      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
-    },
-    {
-      "added_at": "2023-06-21 18:39:32",
-      "album": {
         "name": "La Fiesta Es de Primera",
         "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
       },
@@ -1675,24 +1643,8 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "Adelantos (Live)",
-        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Marquez",
-          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
-        }
-      ],
-      "duration_ms": 239726,
-      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
-      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
-    },
-    {
-      "added_at": "2023-06-21 18:39:32",
-      "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r"
       },
       "artists": [
         {
@@ -1700,9 +1652,25 @@
           "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
         }
       ],
-      "duration_ms": 168757,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
+      "duration_ms": 184661,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD"
+    },
+    {
+      "added_at": "2023-06-21 18:39:32",
+      "album": {
+        "name": "Con Toda la Fuerza",
+        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 187220,
+      "name": "Ma\u00f1ana sin vos",
+      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
     },
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1723,6 +1691,22 @@
       "duration_ms": 192483,
       "name": "Me Duele Tu Nombre (En Vivo)",
       "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
+    },
+    {
+      "added_at": "2023-06-21 18:39:32",
+      "album": {
+        "name": "Adelantos (Live)",
+        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Marquez",
+          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
+        }
+      ],
+      "duration_ms": 239726,
+      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
     },
     {
       "added_at": "2023-06-21 18:39:32",
@@ -1779,22 +1763,6 @@
     {
       "added_at": "2023-06-21 18:39:32",
       "album": {
-        "name": "Te Perd\u00ed",
-        "url": "https://open.spotify.com/album/1paBhKhEZcoImQbt03qhng"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm"
-    },
-    {
-      "added_at": "2023-06-21 18:39:32",
-      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
       },
@@ -1807,6 +1775,38 @@
       "duration_ms": 236890,
       "name": "Por Amarte",
       "url": "https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM"
+    },
+    {
+      "added_at": "2023-06-21 18:39:32",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 168757,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
+    },
+    {
+      "added_at": "2023-06-21 18:39:32",
+      "album": {
+        "name": "Si Pudiera Tenerte - Camina y Ven",
+        "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        }
+      ],
+      "duration_ms": 348876,
+      "name": "Si Pudiera Tenerte - Camina y Ven",
+      "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
     }
   ],
   "unique_name": "100% Cuarteto",

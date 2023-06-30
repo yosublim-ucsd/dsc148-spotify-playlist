@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Where drum & bass comes alive. Cover: Luude, Bru C",
+  "description": "Where drum & bass comes alive. Cover: Hermitude",
   "name": "Long Live DnB",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 244045,
       "name": "Catharsis X",
       "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
+    },
+    {
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/5Na2qPre4PeDr7b9byYF7M"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194076,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/4kwL1llo15KnxK4SuX5Vrv"
     },
     {
       "album": {
@@ -1414,6 +1432,28 @@
       "duration_ms": 203720,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/76fyFZLL5uI3uH6uPMlWKa"
+    },
+    {
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/6LIIW4E1n2nqdVp9ozoydA"
+      },
+      "artists": [
+        {
+          "name": "Primate",
+          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
+        },
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188965,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/3VTXX0KqnhJxerRXn9rQGE"
     },
     {
       "album": {

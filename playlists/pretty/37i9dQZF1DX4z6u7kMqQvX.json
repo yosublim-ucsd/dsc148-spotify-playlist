@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 101538,
+  "num_followers": 101557,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjY5YTNmYTA0Yzg0ZmQxMmI1NmIzNTA0MWZkODA1MmU3YzczZDU5",
+  "snapshot_id": "MCxjMzFkZGYwMjAwYWQ1ZWMyNTI0NTQ3OWQxZDMwNTBjZWNlOGQxOWNm",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Un Vaso de Agua",
-        "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
-      },
-      "artists": [
-        {
-          "name": "Candelaria Zamar",
-          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
-        },
-        {
-          "name": "Hern\u00e1n Segret",
-          "url": "https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU"
-        }
-      ],
-      "duration_ms": 88957,
-      "name": "Si No Es As\u00ed",
-      "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 197506,
       "name": "Cuando Estamos los Dos",
       "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Un Vaso de Agua",
+        "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
+      },
+      "artists": [
+        {
+          "name": "Candelaria Zamar",
+          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
+        },
+        {
+          "name": "Hern\u00e1n Segret",
+          "url": "https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU"
+        }
+      ],
+      "duration_ms": 88957,
+      "name": "Si No Es As\u00ed",
+      "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "INFINITO",
         "url": "https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 185432,
       "name": "INFINITO",
       "url": "https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Ruli",
+        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Desde Que Te Vi",
+      "url": "https://open.spotify.com/track/5H3mXg5URgTVwHxbx0MX35"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 184736,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Ruli",
-        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Desde Que Te Vi",
-      "url": "https://open.spotify.com/track/5H3mXg5URgTVwHxbx0MX35"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "nu love",
-        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
+        "name": "SUPERSTICIONES",
+        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
       },
       "artists": [
         {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
         }
       ],
-      "duration_ms": 209513,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
+      "duration_ms": 277143,
+      "name": "Debajo de la Superficie",
+      "url": "https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG"
     }
   ],
   "unique_name": "Amor Indie",

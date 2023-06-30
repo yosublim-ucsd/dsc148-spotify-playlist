@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 91239,
+  "num_followers": 91290,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWQzNDRkZjEwNmRlMTM3N2E1Yjc0YzVkZDE3ZmQ1NTg4NDBhYzJk",
+  "snapshot_id": "MCwyZjFlOGQ2ZDNkMzc3NmYxYTI1M2JhNDA4NTVhZjczMTk3ZmQyNjJk",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Footloose",
-        "url": "https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Chris Ruediger",
+          "url": "https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7"
+        },
+        {
+          "name": "The 615 House",
+          "url": "https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q"
         }
       ],
-      "duration_ms": 218493,
-      "name": "Footloose",
-      "url": "https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL"
+      "duration_ms": 217200,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
+        "name": "Footloose",
+        "url": "https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN"
       },
       "artists": [
         {
-          "name": "Chris Ruediger",
-          "url": "https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7"
-        },
-        {
-          "name": "The 615 House",
-          "url": "https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
+      "duration_ms": 218493,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Kellyoke",
+        "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 232005,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "It's Only Rock 'N' Roll (But I Like It)",
         "url": "https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Kellyoke",
-        "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 232005,
-      "name": "Blue Bayou",
-      "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Bless the Broken Road",
         "url": "https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 320933,
-      "name": "Someone Like You - Piano Vocal",
-      "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Glen Campbell I'll Be Me Soundtrack",
         "url": "https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 189253,
       "name": "Gentle On My Mind",
       "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 320933,
+      "name": "Someone Like You - Piano Vocal",
+      "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Anti-Hero (Country Version)",
-        "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 190470,
-      "name": "Anti-Hero - Country Version",
-      "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "I Don't Want To Miss A Thing",
         "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 246226,
       "name": "I Don't Want To Miss A Thing",
       "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Anti-Hero (Country Version)",
+        "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 190470,
+      "name": "Anti-Hero - Country Version",
+      "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Live Forever",
         "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 262520,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 192236,
       "name": "If I Needed You",
       "url": "https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
+      },
+      "artists": [
+        {
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1703,18 +1703,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Carolina In My Mind",
-        "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
+        "name": "Your Body Is a Wonderland",
+        "url": "https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM"
       },
       "artists": [
         {
-          "name": "Raleigh Keegan",
-          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "David Ryan",
+          "url": "https://open.spotify.com/artist/14BqDDTDZgUk7ue2rmlkLX"
         }
       ],
-      "duration_ms": 233684,
-      "name": "Carolina In My Mind",
-      "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
+      "duration_ms": 217659,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw"
     }
   ],
   "unique_name": "Country Covers",

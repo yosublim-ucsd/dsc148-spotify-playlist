@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,010 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,024 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 56 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
 | 57 | [El Restaurantito](https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [El Pasado](https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC) | 2:50 |
 | 58 | [Pasito Tun Tun](https://open.spotify.com/track/6vXP8taf6h8VGQYeBpt644) | [J.L.B\. Y Cía](https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R) | [Espuma De Mar](https://open.spotify.com/album/0X8f23dP4XuKPgM8xaTisW) | 2:55 |
-| 59 | [Yerbero Moderno](https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Azúcar! Caliente](https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3) | 2:56 |
-| 60 | [Cumbia calé](https://open.spotify.com/track/4NISz8OHOds3bujhrNzsmK) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/7c4ECJUWnywBDAosMT4jhK) | 2:43 |
+| 59 | [Cumbia calé](https://open.spotify.com/track/4NISz8OHOds3bujhrNzsmK) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/7c4ECJUWnywBDAosMT4jhK) | 2:43 |
+| 60 | [Yerbero Moderno](https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Azúcar! Caliente](https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3) | 2:56 |
 | 61 | [La Diablesa del rock](https://open.spotify.com/track/4DOdwPPUnIDZETau5hO9P5) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 2:48 |
 | 62 | [Sábado D.F.](https://open.spotify.com/track/2CoCTWNwmcDsTMPxG4CmMP) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [Los Éxitos de Chava Flores en la Voz de Chava Flores y Fernando Rosas](https://open.spotify.com/album/6T1qoWlqTnzh8668YTyKSL) | 2:48 |
 | 63 | [Un Meneito Na' Ma'](https://open.spotify.com/track/61Js6aQ1SK6VmigZl7CS2O) | [Arturo Nuñez Y Su Orquesta](https://open.spotify.com/artist/1oVhEJ0rdAKvE0goWNDqdl) | [El Caballero del Ritmo](https://open.spotify.com/album/2z9SCzTWxm7IkqlfxbAR5d) | 3:13 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 88 | [Latin\-Esque](https://open.spotify.com/track/4HNzE0FjVBDA3ykRGNkTXE) | [Esquivel & His Orchestra](https://open.spotify.com/artist/6upuuO8Q75xbGsDtwkE0yE) | [Latin\-Esque](https://open.spotify.com/album/5piwsRmhY4MMhKdana79ES) | 3:07 |
 | 89 | [Jesusita en Chihuahua](https://open.spotify.com/track/4N0JmfzmvTef5umsXnRNfA) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 2:54 |
 | 90 | [La Culebra](https://open.spotify.com/track/28NfNMIx60WE9757qHI2J1) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Pachito E´che](https://open.spotify.com/album/0Cxh8n8EkCGsrM5v7xrFnA) | 3:08 |
-| 91 | [El Bodeguero](https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [That Cuban Cha Cha](https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt) | 3:08 |
-| 92 | [Espinita](https://open.spotify.com/track/0mYvrd6bEvIb6eVlo8G0zN) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [Presentando a Ana María González](https://open.spotify.com/album/1xUHmBMg8McZqErft7qraw) | 2:21 |
+| 91 | [Espinita](https://open.spotify.com/track/0mYvrd6bEvIb6eVlo8G0zN) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [Presentando a Ana María González](https://open.spotify.com/album/1xUHmBMg8McZqErft7qraw) | 2:21 |
+| 92 | [El Bodeguero](https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [That Cuban Cha Cha](https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt) | 3:08 |
 | 93 | [El Negrito del Batey](https://open.spotify.com/track/2bBCMYgeKMhvK7ngV98EaU) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 2:14 |
 | 94 | [Moliendo Café \- Tema Remasterizado](https://open.spotify.com/track/0wfFL0nTDTqQUylZV4R3V4) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Contigo Aprendí..\. Mis Número 1](https://open.spotify.com/album/7uYMi3uH9Kxqd3wR9EOopt) | 2:32 |
 | 95 | [Elodia](https://open.spotify.com/track/17YaVYvTFsCwRbs4IokrAw) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 2](https://open.spotify.com/album/2hWEiNYl4fwtvULhcVZnvE) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [La Cocaleca](https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 3:06 |
 | 100 | [Botecito de Vela](https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 3:04 |
 
-Snapshot ID: `MCw1ZGNmNmMwZGE1YWQxNzMyZjQ3NTEyNGVkZDA1MzBjNjdhMjAzNGZl`
+Snapshot ID: `MCxjNTliZTY2ZTBjYWM4YTFhN2U3ZWY2ZjQ1MDEwYmUyMmVlY2FkNTE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,931 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,947 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 51 | [Tinbo](https://open.spotify.com/track/5rd5rSUOMrA150vKFbpGHA) | [Crack Family](https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk), [L'Sai](https://open.spotify.com/artist/6JXRHKrqaEHlYQNYYK87xJ) | [Tinbo](https://open.spotify.com/album/0FH38RteediPKhlB12l7oD) | 2:56 |
 | 52 | [Entre Billetes](https://open.spotify.com/track/28C79DaAXJPF2uN3PRIXrW) | [Malucci](https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Entre Billetes](https://open.spotify.com/album/36VzE1tBaf4azzGSDvOaIj) | 3:49 |
 | 53 | [Kilo \- Remix](https://open.spotify.com/track/6kbjUcV48LAsO2GnmRnFe2) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Léo Rocatto](https://open.spotify.com/artist/1xK87HD8RdMvmHxdbtLOFS) | [Kilo \(Remix\)](https://open.spotify.com/album/6flM3quj0tXKRv4B5Cwpv0) | 3:49 |
-| 54 | [Hablando de Palms](https://open.spotify.com/track/0RK8tfsAaZdWW2qUIoKH8B) | [M4gna](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [Hablando de Palms](https://open.spotify.com/album/411cSCPFAGfusWrJMjVbvY) | 3:03 |
+| 54 | [Hablando de Palms](https://open.spotify.com/track/0RK8tfsAaZdWW2qUIoKH8B) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [Hablando de Palms](https://open.spotify.com/album/411cSCPFAGfusWrJMjVbvY) | 3:03 |
 | 55 | [Cellphone](https://open.spotify.com/track/2pAuWlwPCIWNGtp3TrdoHT) | [Daga](https://open.spotify.com/artist/6qbdQTpYKGLSeoahWGTVPe), [Colavizza](https://open.spotify.com/artist/078mloHMPRQZhY0795u30V) | [Cellphone](https://open.spotify.com/album/03oFCkB5mzMncCPx0BJSn1) | 4:03 |
 | 56 | [Sométeme](https://open.spotify.com/track/51Jt04zgh7coezey8YlnRO) | [Stefficrown](https://open.spotify.com/artist/03kZtQufUPClcJ4y4jYTes), [Crabeats](https://open.spotify.com/artist/3N9ZDSxevGQn5u7D1nRlvN) | [Act II](https://open.spotify.com/album/30NxdbAihSxvSAeihvWw7i) | 3:31 |
 | 57 | [Panamera](https://open.spotify.com/track/6ggVSxqawOpYsjsyOYKtGC) | [D'Avila](https://open.spotify.com/artist/6elNbQJgp30Ml9u2jO9RwX), [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O), [Zuco OMG](https://open.spotify.com/artist/2AsK0GD1xFCS4L3lv8im4w) | [Panamera](https://open.spotify.com/album/4CZrPqu9r8VFm5RA6M4v5v) | 3:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 59 | [No Me Digas Na](https://open.spotify.com/track/3BhPjlUWvkWjAeTxhxbCcl) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Humo en la Trampa 2](https://open.spotify.com/album/48081X2ns6kHKFS84IowXl) | 3:36 |
 | 60 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 |
 
-Snapshot ID: `MCw5ZjM0OGQwZDRiZDYxZTFkM2Y4M2QyMGU4MThhODRiZjYyZTRmMzUw`
+Snapshot ID: `MCwzMTFlYTFmMWQ0ZThlMzllOTkyMDUwNDQ1OTMxNGJmODU3MDFmOWQ3`

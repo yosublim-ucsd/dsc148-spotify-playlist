@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack of Nike's NYvsNY, curated by the players. We Outside!",
-  "num_followers": 5924,
+  "num_followers": 6336,
   "original_name": "NYvsNY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmMyYWI5MTY5ZDIyM2Q5ZmI3YTcyYmY2MjA4ZjY5YTgyMTIwODIy",
+  "snapshot_id": "MCxkY2FiNTRlN2JlYzEyNjk1MzY1NGNiMzdkZjkwYzMxZDU0NTkyMTQz",
   "tracks": [
     {
       "added_at": "2023-06-27 06:48:40",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 160202,
-      "name": "War Bout It (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160202,
+      "name": "War Bout It (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -879,22 +879,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+        "name": "The D.O.A. Tape",
+        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
         }
       ],
-      "duration_ms": 143226,
-      "name": "Playing Games (with Bryson Tiller) - Extended Version",
-      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
+      "duration_ms": 113600,
+      "name": "PSA",
+      "url": "https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -919,58 +915,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "The D.O.A. Tape",
-        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
         {
-          "name": "Kay Flock",
-          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
-        }
-      ],
-      "duration_ms": 113600,
-      "name": "PSA",
-      "url": "https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Never Imagined (feat. Future)",
-      "url": "https://open.spotify.com/track/4fbXBeVeqzZ0SmJQcWm4St"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Power Trip (feat. Miguel)",
-      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
+      "duration_ms": 143226,
+      "name": "Playing Games (with Bryson Tiller) - Extended Version",
+      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -999,6 +959,26 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Power Trip (feat. Miguel)",
+      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Never Imagined (feat. Future)",
+      "url": "https://open.spotify.com/track/4fbXBeVeqzZ0SmJQcWm4St"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 253738,
-      "name": "Pelle Coat",
-      "url": "https://open.spotify.com/track/6KlqjCLNImX7W9zYt2Xa7D"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Die Lit",
         "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
       },
@@ -1151,6 +1135,30 @@
       "duration_ms": 211773,
       "name": "Long Time - Intro",
       "url": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 169531,
+      "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
+      "url": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1287,26 +1295,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Just Cause Y'all Waited 2",
-        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
       },
       "artists": [
         {
           "name": "Lil Durk",
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 169531,
-      "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
-      "url": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql"
+      "duration_ms": 253738,
+      "name": "Pelle Coat",
+      "url": "https://open.spotify.com/track/6KlqjCLNImX7W9zYt2Xa7D"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Back from the Dead 2",
+        "url": "https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 206654,
+      "name": "Faneto",
+      "url": "https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "Only The Family - Lil Durk Presents: Loyal Bros",
         "url": "https://open.spotify.com/album/7HCh4HQHDNZkXphOzb6ugT"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 146844,
       "name": "Hellcats & Trackhawks",
       "url": "https://open.spotify.com/track/53tv6ZbyeAwfAUwFaxYbfO"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Back from the Dead 2",
-        "url": "https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 206654,
-      "name": "Faneto",
-      "url": "https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Richest Opp",
-        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 187345,
-      "name": "Fuck The Industry Pt. 2",
-      "url": "https://open.spotify.com/track/5leAk8qQS6HGWwEvpyWSqd"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/4YV1qBdn6O6thyg18kBo0N"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 238182,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/44I7sqKYCAa7bQdVywkShO"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Richest Opp",
+        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 187345,
+      "name": "Fuck The Industry Pt. 2",
+      "url": "https://open.spotify.com/track/5leAk8qQS6HGWwEvpyWSqd"
     },
     {
       "added_at": "2023-06-27 06:48:40",

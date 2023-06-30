@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Zeph.
 
-467 songs - 1 day 0 hr 18 min
+468 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2022-09-23 | 2022-10-08 |
 | [OOP! \- Dipha Barus Remix](https://open.spotify.com/track/10w72K7l0yeR6gqyUX3mj8) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [OOP! \(Dipha Barus Remix\)](https://open.spotify.com/album/7wPnQIhSTsmUMquBZ5sdXG) | 3:48 | 2022-05-27 | 2022-07-26 |
 | [Pair Of You](https://open.spotify.com/track/6ekoBPfdfnWhQ8oJveaZSk) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Pair Of You](https://open.spotify.com/album/67lgGIywB4fMJ0xHsHgUiL) | 2:24 | 2022-10-07 | 2022-10-16 |
-| [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-05-27 |  |
+| [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-05-27 | 2023-06-30 |
 | [Paper Houses](https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:59 | 2023-04-29 |  |
 | [PARTY W OUT ME](https://open.spotify.com/track/1y5pHb1686VfUAjaypoYG4) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [PARTY W OUT ME](https://open.spotify.com/album/3QjPIxdyzpOXHbuE0RE8BO) | 2:29 | 2022-07-01 | 2022-07-29 |
 | [PARTY W OUT ME](https://open.spotify.com/track/61fqBmhT61WSBuubgppM2N) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [PARTY W OUT ME](https://open.spotify.com/album/4EGdv4lT6qgnEEDL7FZSu7) | 2:29 | 2022-08-05 | 2022-10-22 |
@@ -394,7 +394,7 @@
 | [Storm \- English Version](https://open.spotify.com/track/4YiLuz7hZ6ysG5iJxNlDmX) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Storm \(English Version\)](https://open.spotify.com/album/7EAjWBnTZCl6QgQDNnPWLf) | 3:49 | 2023-05-05 | 2023-05-28 |
 | [Strangers](https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Strangers](https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj) | 2:48 | 2022-05-27 | 2023-02-18 |
 | [Subliminal](https://open.spotify.com/track/1IPeE85kJknYfd3tHNdb95) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Subliminal](https://open.spotify.com/album/4UXMYpJ0LmcG6ng47zxfNh) | 3:00 | 2022-05-27 | 2022-07-29 |
-| [SUGAR DIVE](https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [SUGAR DIVE](https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39) | 3:14 | 2023-02-18 |  |
+| [SUGAR DIVE](https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [SUGAR DIVE](https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39) | 3:14 | 2023-02-18 | 2023-06-30 |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-15 |  |
 | [Take Me Higher](https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Take Me Higher](https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9) | 4:43 | 2022-05-27 | 2022-06-11 |
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2023-05-12 |  |
@@ -446,6 +446,7 @@
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-03 | 2023-04-15 |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-05-27 | 2022-07-26 |
 | [WEST](https://open.spotify.com/track/7LiXlY6Fhueht9ME6oLzWN) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [WEST](https://open.spotify.com/album/2Z6pkESrKWO14hSFVaUNmS) | 2:49 | 2022-05-27 | 2023-02-25 |
+| [whAt about japan](https://open.spotify.com/track/3CnIZQrhDEiJGvtzKPXiFh) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [whAt about japan](https://open.spotify.com/album/2yFx551BHvci5fzDGWCRX4) | 2:48 | 2023-06-23 |  |
 | [what are we?](https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1) | [Soul Dot](https://open.spotify.com/artist/1bVtaLqLAXTmZZpzNYwaSy), [Akeem Jahat](https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [what are we?](https://open.spotify.com/album/56TDcCVGF0BuPWOuAlghsj) | 2:33 | 2022-05-27 | 2022-11-13 |
 | [What Can I Do](https://open.spotify.com/track/4SH4MuHj0BtOTddqvPFhxI) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [What Can I Do](https://open.spotify.com/album/6P1dIrYEUtd2zGtgqdUvLL) | 4:16 | 2022-05-27 | 2022-07-02 |
 | [Whatchu Sayin'?](https://open.spotify.com/track/7dBnndmnlUgMq2hMkiWdof) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Robin Dey](https://open.spotify.com/artist/0ZvLuzOcZm4dxx7ycqDMYk) | [Whatchu Sayin'?](https://open.spotify.com/album/27HxLoxsWmYhjf7fWoZvjf) | 2:57 | 2022-06-24 | 2022-07-16 |
@@ -474,6 +475,6 @@
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-07-15 |  |
 | [途中](https://open.spotify.com/track/6ps7aXKGIUjokiYT7e727f) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW) | [途中](https://open.spotify.com/album/2JkrYRPnJyStuspThL1Raz) | 3:31 | 2022-12-02 | 2023-01-06 |
 | [電線桿上的鳥](https://open.spotify.com/track/1t4HsbksxswOkhArZcLZ5t) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 3:55 | 2022-06-17 | 2022-07-29 |
-| [電線桿上的鳥](https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX) | 3:55 | 2023-05-05 | 2023-06-17 |
+| [電線桿上的鳥](https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX) | 3:55 | 2023-05-05 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

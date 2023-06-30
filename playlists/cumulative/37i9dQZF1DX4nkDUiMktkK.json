@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(I've Been) Lookin 4 U",
+        "url": "https://open.spotify.com/album/46ZnIDroh8NNIJOKKVC6mv"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141971,
+      "name": "(I've Been) Lookin 4 U",
+      "url": "https://open.spotify.com/track/3KzLce8EeBDnGkAvx0v3Xa"
+    },
+    {
+      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv"
       },
@@ -589,6 +607,50 @@
     },
     {
       "album": {
+        "name": "Keep It Burning",
+        "url": "https://open.spotify.com/album/5W6A8Fmm0dz02oKVCO1d4l"
+      },
+      "artists": [
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Keep It Burning",
+      "url": "https://open.spotify.com/track/7Ewp4wV3NqvQb1qBeUc6ek"
+    },
+    {
+      "album": {
+        "name": "Lab (Black Balloons Remix)",
+        "url": "https://open.spotify.com/album/7fOZVWTZuyLMOmFpUE86Os"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        },
+        {
+          "name": "DARKOWA",
+          "url": "https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53"
+        },
+        {
+          "name": "black balloons",
+          "url": "https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202816,
+      "name": "Lab - Black Balloons Remix",
+      "url": "https://open.spotify.com/track/34zfM258Ht6YwQToo7Olr9"
+    },
+    {
+      "album": {
         "name": "LIVE-O (HAAi remix)",
         "url": "https://open.spotify.com/album/0CyDae0WkQmAu3LN6BrnLi"
       },
@@ -900,6 +962,28 @@
       "duration_ms": 331620,
       "name": "Samba Soccer 2001",
       "url": "https://open.spotify.com/track/7wcacHDJCcVOjGYICN9rea"
+    },
+    {
+      "album": {
+        "name": "Set Me Free (Y U QT Remix)",
+        "url": "https://open.spotify.com/album/0gBBRxlWp0OX1sgxGKjcxu"
+      },
+      "artists": [
+        {
+          "name": "Lo5ive",
+          "url": "https://open.spotify.com/artist/2DuLUbcjIUnDhEI1E8k6dq"
+        },
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316425,
+      "name": "Set Me Free - Y U QT Remix",
+      "url": "https://open.spotify.com/track/1VJGDUZoQLWv8n1cj31E4I"
     },
     {
       "album": {

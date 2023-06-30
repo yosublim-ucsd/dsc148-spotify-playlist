@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Bela Maria
 
-124 songs - 6 hr 22 min
+125 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Modo Avião](https://open.spotify.com/track/0WxQNvzeTDOIWi1Y3rsrHN) | [Meraki](https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Modo Avião](https://open.spotify.com/album/7n4cfdYDKxgjxWeHHyopGG) | 2:47 | 2022-11-18 | 2022-12-03 |
 | [Na Cama](https://open.spotify.com/track/3jBUU3sojivff7iNesTd9S) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Na Cama](https://open.spotify.com/album/0NvtbyPCU9bIVdIhTh4fgo) | 3:15 | 2022-11-18 | 2023-01-14 |
 | [Nada Mais](https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Nada Mais](https://open.spotify.com/album/5WXB15pFJ00Wvh3eTPOHku) | 2:57 | 2023-04-23 |  |
-| [Nessa Vida](https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Nessa Vida](https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE) | 3:09 | 2022-11-18 |  |
+| [Nessa Vida](https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Nessa Vida](https://open.spotify.com/album/5SivaxB405MCGeZroyNpza) | 3:09 | 2023-06-23 |  |
+| [Nessa Vida](https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Nessa Vida](https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE) | 3:09 | 2022-11-18 | 2023-06-30 |
 | [Noite em Febre](https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ) | [Sarah Soul](https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv), [Carol Terra](https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp) | [Correria](https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ) | 2:26 | 2022-11-18 | 2023-04-01 |
 | [Nos Meus Sonhos](https://open.spotify.com/track/71OYvWfgOrjZ24aZO37fof) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Nos Meus Sonhos](https://open.spotify.com/album/3IqsAzB9DiO2SaB93295lj) | 3:33 | 2023-06-02 |  |
 | [Nosso Futuro](https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6) | [Isis Orbelli](https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY) | [Nosso Futuro](https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF) | 2:03 | 2022-12-16 | 2023-04-24 |

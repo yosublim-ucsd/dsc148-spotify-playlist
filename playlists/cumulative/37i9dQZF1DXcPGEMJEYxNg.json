@@ -911,6 +911,28 @@
     },
     {
       "album": {
+        "name": "don't cry over spilled milk",
+        "url": "https://open.spotify.com/album/05HGGEpMIKH6Yfh1wuNBX1"
+      },
+      "artists": [
+        {
+          "name": "OKAY! KENJI",
+          "url": "https://open.spotify.com/artist/00zm8dLiIe8eTAWaEsrOrm"
+        },
+        {
+          "name": "Sewerperson",
+          "url": "https://open.spotify.com/artist/6bPjJVb3mKaiW1qIT0b7ZF"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "don't cry over spilled milk",
+      "url": "https://open.spotify.com/track/4bY5Mkl1vwFLacfhoR2mSZ"
+    },
+    {
+      "album": {
         "name": "objects in the mirror",
         "url": "https://open.spotify.com/album/436fByE89naaUgjYjRWbYx"
       },
@@ -926,7 +948,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 180923,
       "name": "don't cry over spilled milk",
       "url": "https://open.spotify.com/track/5rUMoqhEIRBoU9p1tAFw8O"

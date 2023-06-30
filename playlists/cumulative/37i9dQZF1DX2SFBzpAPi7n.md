@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Roy Kim\(로이킴\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kim Sung Kyu\(김성규\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-490 songs - 1 day 6 hr 7 min
+491 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Song For You](https://open.spotify.com/track/3aaqNLus6XZVW2UtZzbLNl) | [SAya](https://open.spotify.com/artist/0Twk7swVpScH341g40BIbO) | [GREEN MOTHERS' CLUB OST Part 5](https://open.spotify.com/album/79RNrjKKCwikaf8ask8mTY) | 3:32 | 2022-06-13 | 2022-07-09 |
 | [Abilify](https://open.spotify.com/track/5fjD3Ijnjaxeexw6PXD1FK) | [Lips\-Bite](https://open.spotify.com/artist/6oOVSJ1CjIBnMZ4hADpl8h), [Long D](https://open.spotify.com/artist/621cB0IPX1hVgxnB6RqDz0) | [Abilify](https://open.spotify.com/album/6qbyQADqPMPmDbVEgQHZVe) | 3:49 | 2022-06-18 | 2022-07-02 |
 | [Addicted to TV](https://open.spotify.com/track/2OpUyPEh9mq0ZSrOMRIO7S) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [Addicted to TV](https://open.spotify.com/album/0tMersFXcFglAPfmHGiAug) | 3:44 | 2022-04-22 | 2022-07-27 |
-| [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 | 2022-04-12 | 2023-06-28 |
+| [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 | 2022-04-12 |  |
 | [Adrenaline \- Italian Version](https://open.spotify.com/track/20Fw8w7OnlLRAUMWBBXZHC) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [VINCENZO \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/7ciMBSnUz17sJ8crca1tOD) | 3:27 | 2022-05-03 | 2022-05-10 |
 | [After the rain](https://open.spotify.com/track/7ixtNNaE45TecEqZtWbYRx) | [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [HOPE FOR THE FLOWER](https://open.spotify.com/album/4iY3YGIfLBlAz3NNwTmshr) | 4:42 | 2022-04-12 | 2022-04-22 |
 | [After Tonight](https://open.spotify.com/track/5KB3Qovr1wV5dapcWnnXDg) | [AfterMoon 애프터문](https://open.spotify.com/artist/5Xz2wM6arxCGcFkMdp6iJR) | [After Tonight](https://open.spotify.com/album/1Y0IXwWhiU2maaFcRyX7E5) | 4:25 | 2022-04-12 | 2022-07-27 |
@@ -362,6 +362,7 @@
 | [Slainte!](https://open.spotify.com/track/5OvS0h5GTsVkyovheeb6g8) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [PLAYLIST SEASON2 \(Original Soundtrack\)](https://open.spotify.com/album/1LCTXXqbcyoffo0HpBA7co) | 3:38 | 2022-12-22 | 2023-01-11 |
 | [sleep walking](https://open.spotify.com/track/03WwZjnTBrw9Vohm16So6Q) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [sleep walking](https://open.spotify.com/album/05YBRBySSq1YJfBhc1Lk4M) | 3:47 | 2023-01-16 | 2023-01-27 |
 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 | 2022-04-22 | 2022-07-24 |
+| [Small Talk](https://open.spotify.com/track/4vWN7uDeFopJGuA7Bq6y0M) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [2023 S/S Collection](https://open.spotify.com/album/14rWn1Avz7BP7r0zScLz0n) | 3:59 | 2023-06-29 |  |
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-14 |  |
 | [Smokenshot \(feat\. Jang il hyun\)](https://open.spotify.com/track/4M6bgUTUp2JxLdZMLtoTBr) | [SAMUK](https://open.spotify.com/artist/7oXwjmqKXdkQDs6HP2k77H), [Moonshot](https://open.spotify.com/artist/6RJHpycsLTaI6lAtDmVzQ6), [장일현](https://open.spotify.com/artist/256o8MkuNTMMFG2CwJ89Er) | [29:30](https://open.spotify.com/album/74ThytV3fLNHlu6byyAedJ) | 3:29 | 2023-02-14 | 2023-02-24 |
 | [Snooze](https://open.spotify.com/track/46gDDSAfLO6u6bJZokt5ka) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snooze](https://open.spotify.com/album/3VUJRB3DuYAdrubSXwzH7e) | 4:52 | 2022-04-12 | 2022-07-28 |
@@ -408,7 +409,7 @@
 | [The boy of June](https://open.spotify.com/track/3ayELZnkl36t100LdVnF20) | [igloobay](https://open.spotify.com/artist/4C8KZvLXUzzR2lFY580ATb) | [The boy of June](https://open.spotify.com/album/2nU6gOokfzK3iXpJm7m4Ny) | 3:35 | 2022-07-04 | 2022-07-09 |
 | [The Moment, To You](https://open.spotify.com/track/2ytFb5XXbbSX4oEgNDsceJ) | [Yoo Jungmok](https://open.spotify.com/artist/2KdO1rsQPujhuEF7eNclr9) | [The Vernal Equinox Vol.2](https://open.spotify.com/album/2dO4RUT8D9aPae0DawhmBW) | 4:07 | 2022-05-03 | 2022-05-12 |
 | [The Nation](https://open.spotify.com/track/2ZU9mOK47wo2BLXmvZ9lV4) | [PITTA](https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI) | [The Nation](https://open.spotify.com/album/1RRisKTmM1K9pKXMKNSyYF) | 3:27 | 2022-04-22 | 2022-07-08 |
-| [THE PARTY SONG](https://open.spotify.com/track/4mdzylA0MEiuaW2NTUdmuW) | [umu](https://open.spotify.com/artist/0t6IbjlQ9zHvT8PDbe3X6r) | [THE PARTY SONG](https://open.spotify.com/album/3r945C3WcZM28fra78rhqD) | 2:30 | 2023-06-01 |  |
+| [THE PARTY SONG](https://open.spotify.com/track/4mdzylA0MEiuaW2NTUdmuW) | [umu](https://open.spotify.com/artist/0t6IbjlQ9zHvT8PDbe3X6r) | [THE PARTY SONG](https://open.spotify.com/album/3r945C3WcZM28fra78rhqD) | 2:30 | 2023-06-01 | 2023-06-30 |
 | [The Piper](https://open.spotify.com/track/4bkXHH5lvTFY8ijhrl0UXA) | [BUT 벗](https://open.spotify.com/artist/0S5UlGMSHfr2MH6xYlC3UB) | [Better Unique Travel](https://open.spotify.com/album/2xnxgQlR6bhGP79eDrh5U7) | 4:42 | 2022-04-12 | 2022-04-21 |
 | [The Queen](https://open.spotify.com/track/4YR8iin9SJtZluXD0s1LoZ) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [CLEANING UP \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4WIE1wBrZ2hqzxJdyw7jdG) | 3:28 | 2022-07-08 | 2022-07-23 |
 | [The Wave 파도](https://open.spotify.com/track/5uIsBpHUamPdpEkiVeKIyT) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [The Wave 파도](https://open.spotify.com/album/25MHFHuE0XqzgCYncmiFIE) | 4:42 | 2022-04-12 | 2022-04-21 |
@@ -481,7 +482,7 @@
 | [Your voice](https://open.spotify.com/track/7kj58uQ74KECs0R80VuMFz) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [Voice4 \(Original Drama Sound Track, Pt\. 2\)](https://open.spotify.com/album/4gHX61RLuaLZnritQzl72P) | 3:44 | 2022-05-11 | 2022-07-23 |
 | [Zero Fear Of Water](https://open.spotify.com/track/2zU9DYy1wlAe2ZtpTiLYNc) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [ZERO FEAR OF WATER](https://open.spotify.com/album/1SRsbPkuZUJ0NtcpZoHUEi) | 2:59 | 2022-04-21 | 2022-04-24 |
 | [Zinnia](https://open.spotify.com/track/0ll9zCUAVr3qmpGPfenFvI) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Zinnia](https://open.spotify.com/album/5MQ5dlRGUTSmWeKAYw9Ckh) | 3:47 | 2022-04-12 | 2022-07-27 |
-| [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 | 2023-06-19 |  |
+| [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 | 2023-06-19 | 2023-06-30 |
 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2022-04-12 | 2022-07-27 |
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 |  |
 | [날 버리지 마요](https://open.spotify.com/track/5NZLKa0BTaxTtIkmeK2Jjs) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [날 버리지 마요](https://open.spotify.com/album/3l25IElZW7jIlbTD7obUAr) | 4:01 | 2022-04-12 | 2022-04-29 |

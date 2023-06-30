@@ -1,12 +1,12 @@
 {
   "description": "hairbrush as a microphone type songs.",
-  "num_followers": 29523,
+  "num_followers": 29767,
   "original_name": "Slumber Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTQ2NWIzYjlkZjZjNmE5MzMyMzFkZmRhNDdjYjRjNDU4ZGFlZGVj",
+  "snapshot_id": "MCw2OTMzNzNiMmM2N2YzNjg3MTFjMjA1NjM4ZTA4MjMwMTg1ZWYyZjA4",
   "tracks": [
     {
       "added_at": "2023-06-16 05:11:17",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-06-16 05:11:17",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
-      "added_at": "2023-06-16 05:11:17",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "added_at": "2023-06-16 05:11:17",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2023-06-16 05:11:17",
@@ -339,26 +339,6 @@
     {
       "added_at": "2023-06-16 05:11:17",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-06-16 05:11:17",
-      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
+    },
+    {
+      "added_at": "2023-06-16 05:11:17",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2023-06-16 05:11:17",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-06-16 05:11:17",
       "album": {
-        "name": "Ashlyn",
-        "url": "https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        },
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 198515,
-      "name": "Moral of the Story (feat. Niall Horan) - Bonus Track",
-      "url": "https://open.spotify.com/track/5v6qYImm5k36GHlFxdEZyv"
-    },
-    {
-      "added_at": "2023-06-16 05:11:17",
-      "album": {
         "name": "Rewrite The Stars",
         "url": "https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 217440,
       "name": "Rewrite The Stars",
       "url": "https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN"
+    },
+    {
+      "added_at": "2023-06-16 05:11:17",
+      "album": {
+        "name": "Ashlyn",
+        "url": "https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 198515,
+      "name": "Moral of the Story (feat. Niall Horan) - Bonus Track",
+      "url": "https://open.spotify.com/track/5v6qYImm5k36GHlFxdEZyv"
     },
     {
       "added_at": "2023-06-16 05:11:17",

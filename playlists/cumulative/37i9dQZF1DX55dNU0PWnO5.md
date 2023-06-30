@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: berlioz
 
-355 songs - 21 hr 48 min
+356 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [All Around \- Renegades Of Jazz Remix](https://open.spotify.com/track/0oHGooJ4QhVPM5WgW4cfJA) | [sUb\_modU](https://open.spotify.com/artist/3MOhyXjeW761VKMXRqmqH9), [Renegades Of Jazz](https://open.spotify.com/artist/4l0ICV3hSM0CArAK2aN5Ls) | [Gravity \(Renegades Of Jazz & V.B\. Kühl Remixes\)](https://open.spotify.com/album/6FS3N2KVn3LQvMrHGM39kw) | 5:12 | 2022-04-01 | 2022-07-29 |
 | [Altered Time](https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0) | [Knick](https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Altered Time](https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN) | 2:10 | 2022-02-18 |  |
 | [Amaya's Voyage](https://open.spotify.com/track/40LzEKHhryOp9Ril5Ui4nZ) | [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Amaya's Voyage](https://open.spotify.com/album/4w1mzzRvxSV482xL2FBQUH) | 5:42 | 2021-08-27 |  |
-| [Ancient Delta](https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Ancient Delta](https://open.spotify.com/album/2iOdIK10OleEonLl4phDyP) | 2:13 | 2022-08-26 |  |
+| [Ancient Delta](https://open.spotify.com/track/38pZmgMFuF9Xgvd8djMbYS) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Kosmological Glitches](https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5) | 2:13 | 2022-09-02 |  |
+| [Ancient Delta](https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Ancient Delta](https://open.spotify.com/album/2iOdIK10OleEonLl4phDyP) | 2:13 | 2022-08-26 | 2023-06-30 |
 | [Ancient Futurism](https://open.spotify.com/track/2yhOvH2rS924c8bnPLCEbI) | [Black Nile](https://open.spotify.com/artist/6hb590a1aY49Cv4EAew8Pb) | [Sounds of Color](https://open.spotify.com/album/1JtVGPcnUPJ1DlT9K56bLt) | 1:36 | 2021-01-29 | 2022-03-26 |
 | [Andromeda Style Fuunk](https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT) | [Wonky Logic](https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl) | [Andromeda Style Fuunk](https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY) | 3:50 | 2021-07-30 |  |
 | [Angels](https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k) | [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [David Ecker](https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx) | [Angels](https://open.spotify.com/album/2c44svxGGe3GfBT9icMZot) | 2:08 | 2023-04-14 |  |

@@ -4,7 +4,7 @@
 
 > Editor's pick: The best of Gengetone songs of 2022\. Cover: Exray Taniua
 
-171 songs - 9 hr 45 min
+172 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Gengetone Love](https://open.spotify.com/track/6s5xOQTBBuWr5XkPT8FRly) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV) | [Gengetone Love](https://open.spotify.com/album/5ttYXlD6iTYAwVoaIAi60i) | 3:41 | 2021-12-01 | 2022-12-01 |
 | [Gin Ama Whiskey](https://open.spotify.com/track/6zhNp08Kd10UrhfvOCLu0d) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Gin Ama Whiskey](https://open.spotify.com/album/0IU5Kq4BLwGZRbDq1rIy93) | 4:06 | 2022-11-30 |  |
 | [Giz Giz](https://open.spotify.com/track/3T46Yvkzajuul8Ph5pBKWR) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Giz Giz](https://open.spotify.com/album/0dUyimoIIRIt9US7lmX0ns) | 3:48 | 2021-12-01 | 2022-12-01 |
-| [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr) | 3:07 | 2021-12-01 |  |
+| [Hapo Tu](https://open.spotify.com/track/5g90vbGDO2zc7tYUqUHtmN) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Hapo Tu](https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc) | 3:07 | 2021-12-01 |  |
+| [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr) | 3:07 | 2021-12-01 | 2023-06-30 |
 | [Hatukuelewi](https://open.spotify.com/track/5ZRoeBBRUbGe6zrtcbRnfC) | [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6) | [Black Ama Regular](https://open.spotify.com/album/4DV838ExgpG87hVZu4sLTq) | 4:13 | 2022-11-30 |  |
 | [Hayaa](https://open.spotify.com/track/1MIj6zLZKQRXol1hkxiAue) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Harry Crazy](https://open.spotify.com/artist/1OwIxXp3t3vayTNXc29qBf), [Zilla](https://open.spotify.com/artist/3vfobKrRFK4UAkjSTIdF4b) | [Hayaa](https://open.spotify.com/album/0DKYRLe6E7tjSoGz3TIAUf) | 3:19 | 2021-12-01 | 2022-12-01 |
 | [HIVI NA HIVO](https://open.spotify.com/track/0lbf1IBDUh0ZRfSefOpFZT) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [HIVI NA HIVO](https://open.spotify.com/album/2qkkyBXKPpsFw4Lkb0qafh) | 3:07 | 2021-12-01 | 2022-12-17 |

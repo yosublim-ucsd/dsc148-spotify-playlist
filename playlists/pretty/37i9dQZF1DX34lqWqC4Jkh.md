@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqWqC4Jkh.md) - [plain]
 
 > pov: i really love you fr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,426 likes - 48 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,443 likes - 48 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqWqC4Jkh.md) - [plain]
 | 47 | [Come Over \- Cover](https://open.spotify.com/track/2cKtwmy8OkbzY6XCw7yrS1) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Come Over \(Cover\)](https://open.spotify.com/album/0SWYauVLyKNN6TOhIXxBCg) | 2:22 |
 | 48 | [Find Someone Like You](https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:26 |
 
-Snapshot ID: `MCw0MjY4NzQxNzAyNjVlODMyMjM3ZjkwYmQ4NThhYWVkZTU1OGE4M2U5`
+Snapshot ID: `MCxkN2FmNTE2ZTFkM2M3NmVlOThkYmI3ZmM0N2IyOWY5NTk5MmFiODc2`

@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Julais.
 
-146 songs - 8 hr 48 min
+147 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bum \(Chocamos un Auto\)](https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb) | [Bum \(Chocamos un Auto\)](https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6) | 3:46 | 2023-03-17 |  |
 | [Caracoles \- Remix](https://open.spotify.com/track/2sWGZbEYl4zlqKcqxrhcUH) | [Mati y Adri](https://open.spotify.com/artist/5NHx8y3GfAe3Xaxt6mxU1s), [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [Caracoles \(Remix\)](https://open.spotify.com/album/0AldwRiyQ2Ui16BgplO8vM) | 3:17 | 2023-06-02 |  |
 | [Cerca](https://open.spotify.com/track/0GzgKVNy4E1E2R16zkKGOr) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cerca](https://open.spotify.com/album/1TUM8Vh8ZWkNfHc7LENZnP) | 3:11 | 2023-03-17 |  |
+| [CHORO](https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz) | [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [CHORO](https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj) | 3:17 | 2023-06-23 |  |
 | [Cicuta](https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cicuta](https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7) | 2:29 | 2023-03-17 |  |
 | [Cintura](https://open.spotify.com/track/1s6ZRDmdRmqXPAAiaxDCUh) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:13 | 2023-03-17 |  |
 | [Circular](https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk) | [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Guazatumba](https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC) | 3:49 | 2023-05-19 |  |

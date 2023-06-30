@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8?si=4UlzmnO8SV6ekf\-46yZQJQ"> Kouz1</a> and  <a href="https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL?si=Eql56LT9RqmI67MoyKXW2w"> L.A.X</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,775 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,892 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [Streets \(feat\. T\-Pain\)](https://open.spotify.com/track/7jVfySXCpJkZD72K23ywhg) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Legend Or No Legend](https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ) | 2:47 |
 | 80 | [Djo](https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MOOD3 \(Glish\)](https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb) | 2:47 |
 
-Snapshot ID: `MCw3ZTdkZTlkYTkwM2I3NjU3MGNjY2Q3MWE5MTc2NjJjZDk1Njg3MWRh`
+Snapshot ID: `MCwzY2FmYTk5OWFiYjc2NGIyZjQ2ODdiODViZDMzY2RiM2I2NjMzYTJj`

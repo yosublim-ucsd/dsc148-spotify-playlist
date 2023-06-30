@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 
 ### [BBQ 2023: Summer Party Classics](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
 
-> Summer Barbeque grilling essentials for your backyard party\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
+> Summer Barbeque grilling essentials for your July 4th backyard party\. 4th of July \| Fourth of July \| Independence Day\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 83,898 likes - 187 songs - 12 hr 26 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 83,915 likes - 189 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,5 +195,7 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 | 185 | [COLLEGE](https://open.spotify.com/track/6hsI1ar1EIyXU28ZHWlNW6) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [COLLEGE](https://open.spotify.com/album/2iKyerlQ2TbGMUhMUuaH2D) | 2:36 |
 | 186 | [Only Love Can Save Us Now \- KC Lights Remix](https://open.spotify.com/track/6TFvY0ZUAG3RMFsoXu5JMx) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Only Love Can Save Us Now \(Remixes\)](https://open.spotify.com/album/4ETSuFiVuUSga7g9Tb4Vu1) | 3:33 |
 | 187 | [818](https://open.spotify.com/track/03KI9skAfLitNzANOWhZJi) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Melodies on Hiatus](https://open.spotify.com/album/23zBt9O5whbd4zh23XAi11) | 3:56 |
+| 188 | [Too Late To Break Your Fall](https://open.spotify.com/track/7qmRzW1UM1EwTdNIcAR2lf) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Too Late To Break Your Fall](https://open.spotify.com/album/5cOkylHa1n2fhnOzvom9eR) | 3:39 |
+| 189 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 |
 
-Snapshot ID: `ODQ4LGVjNDI3MGE3NTFiMWY4MjBkZjExN2UzODdkMDkxMGQyZDg3Y2MzMmQ=`
+Snapshot ID: `ODUxLDE0OGYzNmI5ZmNkZWZmM2NkZDA1MjhjY2E3M2ZjZjcyODg0OGRkYjM=`

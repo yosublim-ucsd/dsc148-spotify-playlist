@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 213546,
+  "num_followers": 213588,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2VjYjk3YTcwNWM1ZDI1NmVjY2YxZTI5MTcxMWUzZGEyYzJiMWY5",
+  "snapshot_id": "MCxlM2YwZTg1MDgxNmVmZmJlZmQ4N2EwMjA4MTdjNDEzMDllYTU4NjVk",
   "tracks": [
     {
       "added_at": "2021-07-12 18:09:21",
@@ -359,6 +359,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
+      },
+      "artists": [
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Tale of Two Cities",
+      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Talk of the Town",
-        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "Tale of Two Cities",
-      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Elixir",
         "url": "https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV"
       },
@@ -409,20 +409,20 @@
       "url": "https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2021-07-12 18:23:33",
       "album": {
-        "name": "Life And Times",
-        "url": "https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1"
+        "name": "Echoes Of The Heart",
+        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
       },
       "artists": [
         {
-          "name": "Jazz Funk Soul",
-          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
         }
       ],
-      "duration_ms": 270466,
-      "name": "Windfall",
-      "url": "https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C"
+      "duration_ms": 241933,
+      "name": "Caught Me By Surprise",
+      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -457,20 +457,20 @@
       "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Echoes Of The Heart",
-        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+        "name": "Life And Times",
+        "url": "https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Jazz Funk Soul",
+          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
         }
       ],
-      "duration_ms": 241933,
-      "name": "Caught Me By Surprise",
-      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
+      "duration_ms": 270466,
+      "name": "Windfall",
+      "url": "https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Lean Into It",
-        "url": "https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN"
-      },
-      "artists": [
-        {
-          "name": "Andrew Neu",
-          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
-        }
-      ],
-      "duration_ms": 264148,
-      "name": "Lean Into It",
-      "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"
-    },
-    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Embrace",
@@ -715,6 +699,22 @@
       "duration_ms": 259838,
       "name": "West Coast Soul",
       "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Lean Into It",
+        "url": "https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Neu",
+          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
+        }
+      ],
+      "duration_ms": 264148,
+      "name": "Lean Into It",
+      "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -775,22 +775,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "And Coffee",
-        "url": "https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd"
+        "name": "Backyard Brew",
+        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
       },
       "artists": [
         {
-          "name": "Marcus Anderson",
-          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+          "name": "The JT Project",
+          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
         },
         {
-          "name": "Darnell Showcase Taylor",
-          "url": "https://open.spotify.com/artist/1V4CTe8w8LFvPmwvNDIyia"
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 212325,
-      "name": "Espresso Shot",
-      "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
+      "duration_ms": 254376,
+      "name": "Backyard Brew",
+      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -811,22 +811,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Backyard Brew",
-        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
+        "name": "And Coffee",
+        "url": "https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd"
       },
       "artists": [
         {
-          "name": "The JT Project",
-          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
         },
         {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "Darnell Showcase Taylor",
+          "url": "https://open.spotify.com/artist/1V4CTe8w8LFvPmwvNDIyia"
         }
       ],
-      "duration_ms": 254376,
-      "name": "Backyard Brew",
-      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
+      "duration_ms": 212325,
+      "name": "Espresso Shot",
+      "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "M.P.3",
-        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Gonna' Miss You",
-      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "L.I.T.",
         "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 258138,
       "name": "L.I.T.",
       "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "M.P.3",
+        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Gonna' Miss You",
+      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1403,38 +1403,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Summer Feelin'",
-        "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
+        "name": "Breakin' thru",
+        "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
       },
       "artists": [
         {
           "name": "Eric Darius",
           "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        },
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
         }
       ],
-      "duration_ms": 238887,
-      "name": "Summer Feelin'",
-      "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp"
-      },
-      "artists": [
-        {
-          "name": "J. White",
-          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
-        }
-      ],
-      "duration_ms": 206451,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv"
+      "duration_ms": 270968,
+      "name": "Breakin' thru",
+      "url": "https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1467,6 +1447,22 @@
       "duration_ms": 236273,
       "name": "Play",
       "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        }
+      ],
+      "duration_ms": 206451,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1535,38 +1531,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Breakin' thru",
-        "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
+        "name": "Summer Feelin'",
+        "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
       },
       "artists": [
         {
           "name": "Eric Darius",
           "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 270968,
-      "name": "Breakin' thru",
-      "url": "https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "City Life",
-        "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
         },
         {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
         }
       ],
-      "duration_ms": 294346,
-      "name": "City Life",
-      "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
+      "duration_ms": 238887,
+      "name": "Summer Feelin'",
+      "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1607,6 +1587,26 @@
       "duration_ms": 264151,
       "name": "Heat",
       "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "City Life",
+        "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        }
+      ],
+      "duration_ms": 294346,
+      "name": "City Life",
+      "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Laws Of Attraction",
-        "url": "https://open.spotify.com/album/5ldhBNgkkdUs9st5IPvofn"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Laws Of Attraction",
-      "url": "https://open.spotify.com/track/5yNJqzRzeZvrG5bEyb2u7Z"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Breakin' thru",
         "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 259019,
       "name": "Essence",
       "url": "https://open.spotify.com/track/0UyiDNoxlWfrJIeNXGOE5I"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Laws Of Attraction",
+        "url": "https://open.spotify.com/album/5ldhBNgkkdUs9st5IPvofn"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Laws Of Attraction",
+      "url": "https://open.spotify.com/track/5yNJqzRzeZvrG5bEyb2u7Z"
     }
   ],
   "unique_name": "Sax and the City",

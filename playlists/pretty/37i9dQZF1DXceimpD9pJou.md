@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi?si=0ZdN5\-a\_QWmSP6i1m7mklA">Majo y Dan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,187 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,258 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Al Estar Aquí](https://open.spotify.com/track/42CgxvIByiUzjW0SEb5Zvg) | [Los Herederos](https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx), [Filadelfia MSC](https://open.spotify.com/artist/3HyatczU2mPc24uckHnlsN) | [Adorando Con Tuba Y Requinto](https://open.spotify.com/album/7kzTJ3f5D3202Rpc9HNeKG) | 4:28 |
 | 100 | [G63](https://open.spotify.com/track/3E2aYBCPmf8kTq1Ug5E1sN) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [G63](https://open.spotify.com/album/7wfmoOfb10g2Y2ALkyWDty) | 2:45 |
 
-Snapshot ID: `MCxlZTMwOTZjMzQ5YzljMGE1OWJkZTM5YWViMTVmOTUzMmQ2NjM5ZmM1`
+Snapshot ID: `MCw1MWE3NjNlNWJiMmIzYzg3ZDM2NjViMzc0NTRjOTI3MjE0YWZkZTE0`

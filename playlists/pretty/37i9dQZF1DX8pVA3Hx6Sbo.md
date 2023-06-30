@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pVA3Hx6Sbo.md) - [plain](/playlists/plain/37i9dQZF1DX8pVA3Hx6Sbo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8pVA3Hx6Sbo)
 
-### [This Is Vicente Fernández](https://open.spotify.com/playlist/37i9dQZF1DX8pVA3Hx6Sbo)
+### [This Is Vicente Fernández \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8pVA3Hx6Sbo)
 
 > Mientras la gente no deje de aplaudir, Chente no deja de cantar\. Por siempre, Vicente Fernández.
 

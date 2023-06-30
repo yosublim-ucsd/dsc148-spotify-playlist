@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,938 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,945 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Corazón Maldito](https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Corazón Maldito](https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT) | 3:24 |
 | 55 | [Mano a Mano](https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Puñal de Sombra](https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh) | 3:33 |
 
-Snapshot ID: `MCw1ZmU3OTA1Mjc4ZWY4NTgwM2E5Y2NjMDNjOTc0NjQzMDNhOGNkY2Y5`
+Snapshot ID: `MCwwOTBlMjlkMDAxY2QwYWNhNmZjOGM3ZTM5NWY3MzFjYTc5YWQyYWQ2`

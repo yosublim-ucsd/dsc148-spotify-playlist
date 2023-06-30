@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. This week we are featuring some of the favorite live worship tracks of our Guest Curators, <a href=\"https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM?si=EwHmkSyiQ0mQ2r3x1bE4dA\">Pastor Steven Furtick</a> and <a href=\"https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=fExbtuHsTv2HzZgvB0XlCw\">Elevation Worship</a>",
-  "num_followers": 876972,
+  "num_followers": 877080,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDFjNTBlNzZhNDFjZmU5YTkzMDcwZGE3M2E3ZTM5NWQ2OWIxOWYw",
+  "snapshot_id": "MCw3NGJlNjNmNTE1MTA5MWRhYzdhYWRiNThhOTQ4MTI4Y2YwZmE4ODFm",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Greater (Live)",
-        "url": "https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 400897,
-      "name": "Victory Of Jesus - Live",
-      "url": "https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Pursuit (As The Deer) [Live]",
         "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 374437,
       "name": "Pursuit (As The Deer) - Live",
       "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Greater (Live)",
+        "url": "https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 400897,
+      "name": "Victory Of Jesus - Live",
+      "url": "https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Heal My Heart (Live)",
+        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 458797,
+      "name": "Heal My Heart - Live",
+      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Hold On To Me (feat. AHI) [Live]",
         "url": "https://open.spotify.com/album/1dy3Qh4lyyLcBqNKFV8Bq0"
       },
@@ -1587,38 +1603,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Heal My Heart (Live)",
-        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 458797,
-      "name": "Heal My Heart - Live",
-      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Praise Is Yours (Live)",
-        "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 336008,
-      "name": "The Praise Is Yours - Live",
-      "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Jesus Now",
         "url": "https://open.spotify.com/album/0qLUPWE9SikEjGsvSEDQ5W"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 316119,
       "name": "Jesus Now - Live",
       "url": "https://open.spotify.com/track/6wnxaVE6g2kEnDmjmlKYZL"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Praise Is Yours (Live)",
+        "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 336008,
+      "name": "The Praise Is Yours - Live",
+      "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Finished Work of Christ",
-        "url": "https://open.spotify.com/album/6nu4zmJTD6kQQNDZctv6Xl"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 258161,
-      "name": "Finished Work of Christ",
-      "url": "https://open.spotify.com/track/4dWde71yEtDlp61gLz3IUl"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Turning",
         "url": "https://open.spotify.com/album/6E9CCZc8nUZqridnjbTAgR"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 304000,
       "name": "For My Good - Live",
       "url": "https://open.spotify.com/track/28Gfeq90t2QHflOtkBnWdp"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Finished Work of Christ",
+        "url": "https://open.spotify.com/album/6nu4zmJTD6kQQNDZctv6Xl"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 258161,
+      "name": "Finished Work of Christ",
+      "url": "https://open.spotify.com/track/4dWde71yEtDlp61gLz3IUl"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "My Help (Live)",
-        "url": "https://open.spotify.com/album/3z109kjHinxN81XWZKmV9Q"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 288840,
-      "name": "My Help - Live",
-      "url": "https://open.spotify.com/track/5V98PEmkQzEcigKBlamSGs"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Live At The Manor",
         "url": "https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 274666,
       "name": "Let Go - Live",
       "url": "https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "My Help (Live)",
+        "url": "https://open.spotify.com/album/3z109kjHinxN81XWZKmV9Q"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 288840,
+      "name": "My Help - Live",
+      "url": "https://open.spotify.com/track/5V98PEmkQzEcigKBlamSGs"
     },
     {
       "added_at": "2023-05-19 04:00:00",

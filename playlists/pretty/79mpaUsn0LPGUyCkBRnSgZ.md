@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 238 songs - 15 hr 59 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 239 songs - 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,5 +246,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 236 | [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 |
 | 237 | [Peace To All Freaks](https://open.spotify.com/track/1gSk8vyR6ExYlSqIhEzpSO) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [UR FUN](https://open.spotify.com/album/0PvImlnEVBSPGeaCQhjkZH) | 4:44 |
 | 238 | [Tears Of Rage \- Remastered 2000](https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:19 |
+| 239 | [Death Parade](https://open.spotify.com/track/4IIdH7tHoikvvr0twQtCBI) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Anime, Trauma and Divorce](https://open.spotify.com/album/23SV7P5U8oF3EJfkdW08wO) | 2:24 |
 
-Snapshot ID: `OTM0LGMwZjRjYjQ1ZDU0NDUzYjc4MDU5YTQ2OTc1MmI3NDFiMGU4OWI3NDQ=`
+Snapshot ID: `OTM1LDJiMDBkZjc0ODljOGE5MjNmMzk4YjFjMjQzNDNlN2RiNmI4Y2EzMTc=`

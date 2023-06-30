@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 32845,
+  "num_followers": 32870,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDU1NzliOTgxMjRjZGJiODRkYmQwYjYxN2M0NzJjNjE3YWQ2YmU0",
+  "snapshot_id": "MCw5MWJmMmZiZmM0MzI2NWVkOTkxYTMyMTlhOWIzNzc0Yjg3OWIyNmU5",
   "tracks": [
     {
       "added_at": "2023-06-22 06:29:47",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 395560,
-      "name": "Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
         "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 352666,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 395560,
+      "name": "Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 409133,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
         "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
         "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 164973,
       "name": "Weather Bird",
       "url": "https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 409133,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
-        "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Mood Indigo - 1990 Remaster",
-      "url": "https://open.spotify.com/track/1Fo98RNzO78WnMtkZKZXMW"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "Diane",
         "url": "https://open.spotify.com/album/0FNrlhmr94IAOIFCNCvoDp"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 233333,
       "name": "Tune-Up",
       "url": "https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
+        "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Mood Indigo - 1990 Remaster",
+      "url": "https://open.spotify.com/track/1Fo98RNzO78WnMtkZKZXMW"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Score",
-        "url": "https://open.spotify.com/album/7yVEbFI27UQkjfYPzUueo3"
-      },
-      "artists": [
-        {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Morning Song",
-      "url": "https://open.spotify.com/track/3J1nV9wNN9yPwU9Lqdu1bP"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "The Great Pretender",
         "url": "https://open.spotify.com/album/1oVcKNbKOPPJOixb4Wfl9Q"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 435066,
       "name": "Rios Negroes",
       "url": "https://open.spotify.com/track/4oBHXN2elAXMAoFPAejMt4"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "Score",
+        "url": "https://open.spotify.com/album/7yVEbFI27UQkjfYPzUueo3"
+      },
+      "artists": [
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/3J1nV9wNN9yPwU9Lqdu1bP"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "The Cooker",
-        "url": "https://open.spotify.com/album/4qHvDIHdLQfX0aZr7MrGDw"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 560080,
-      "name": "A Night In Tunisia - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2nHFS2Ia5BZRS9X6zzlURI"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "Open Sesame (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 336266,
       "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "The Cooker",
+        "url": "https://open.spotify.com/album/4qHvDIHdLQfX0aZr7MrGDw"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 560080,
+      "name": "A Night In Tunisia - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2nHFS2Ia5BZRS9X6zzlURI"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Daylight Express",
-        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 145040,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "The Complete Verve Studio Sessions",
         "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
       },
@@ -1163,18 +1147,34 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
-        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
+        "name": "Daylight Express",
+        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
       },
       "artists": [
         {
-          "name": "Howard McGhee",
-          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
         }
       ],
-      "duration_ms": 250173,
-      "name": "Tranquillity - Remastered 1998",
-      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
+      "duration_ms": 145040,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "Little Johnny C",
+        "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Coles",
+          "url": "https://open.spotify.com/artist/0RKsF1pa3v0hhEeJbt5AxV"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Little Johnny C",
+      "url": "https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Little Johnny C",
-        "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
+        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
+        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
       },
       "artists": [
         {
-          "name": "Johnny Coles",
-          "url": "https://open.spotify.com/artist/0RKsF1pa3v0hhEeJbt5AxV"
+          "name": "Howard McGhee",
+          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
         }
       ],
-      "duration_ms": 311000,
-      "name": "Little Johnny C",
-      "url": "https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv"
+      "duration_ms": 250173,
+      "name": "Tranquillity - Remastered 1998",
+      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "The Happy Horns Of Clark Terry",
-        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "High Towers",
-      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "Into the Blue",
         "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 448386,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "The Happy Horns Of Clark Terry",
+        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "High Towers",
+      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
     },
     {
       "added_at": "2023-06-22 06:29:47",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-06-22 06:29:47",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
-      },
-      "artists": [
-        {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
-        }
-      ],
-      "duration_ms": 418642,
-      "name": "Sweet Peach Tree",
-      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
-    },
-    {
-      "added_at": "2023-06-22 06:29:47",
-      "album": {
         "name": "Dusty Blue",
         "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 267180,
       "name": "Cottage for Sale",
       "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
+    },
+    {
+      "added_at": "2023-06-22 06:29:47",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
+      },
+      "artists": [
+        {
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
+        }
+      ],
+      "duration_ms": 418642,
+      "name": "Sweet Peach Tree",
+      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
     },
     {
       "added_at": "2023-06-22 06:29:47",

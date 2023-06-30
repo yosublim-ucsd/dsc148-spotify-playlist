@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 541369,
+  "num_followers": 541430,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTQyZGYyMWM4YTg4ZWIyOTE2YmI5ZGU2Mzc4ZjhmYWZlMzA4ZThk",
+  "snapshot_id": "MCw0NzM3NGJhMTU5ZjM2ZDAxMjY5YjNhZTJmNmViMjk0M2RlODhlZWFj",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Viva M\u00e9xico (Remastered)",
-        "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 159280,
-      "name": "Esos Altos de Jalisco - Remastered",
-      "url": "https://open.spotify.com/track/6n0nFNFmYsPV277I0D4z2F"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Sones",
         "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 204538,
       "name": "Fiesta Charra",
       "url": "https://open.spotify.com/track/17Y6WieNYdlMAC5QKyzFOT"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Viva M\u00e9xico (Remastered)",
+        "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 159280,
+      "name": "Esos Altos de Jalisco - Remastered",
+      "url": "https://open.spotify.com/track/6n0nFNFmYsPV277I0D4z2F"
     },
     {
       "added_at": "2022-09-12 17:32:54",

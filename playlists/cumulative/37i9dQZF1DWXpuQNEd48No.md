@@ -2,14 +2,15 @@
 
 ### [Hip\-Hop Haryana](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Kaka WRLD
+> Yo Hai Haryanvi Hip\-Hop! Cover: Fazilpuria
 
-79 songs - 4 hr 25 min
+80 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21.22](https://open.spotify.com/track/7wY9804Aaik9Nv1BuOzap9) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [21.22](https://open.spotify.com/album/35h1PeLLCEpMfZ0O7qFTvM) | 3:40 | 2023-03-28 |  |
 | [3 Albaadi](https://open.spotify.com/track/6xR3gC3ncGU63cKzRE0Oss) | [Kartik Soni](https://open.spotify.com/artist/6xyTftSKst8LZR4bwQQpMh), [Anmol Mehla](https://open.spotify.com/artist/1yNuefE65i7lK0oPkrFUwS), [Chaman Parjapati](https://open.spotify.com/artist/0KkiXJoxTos8y7Ptpn8ttj) | [3 Albaadi \(feat\. Anmol Mehla, Chaman Parjapati\)](https://open.spotify.com/album/4zVQq2uzsyaeBMHYjaRtDR) | 2:38 | 2023-03-28 | 2023-04-04 |
+| [32 Bore](https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [32 Bore](https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC) | 2:24 | 2023-06-29 |  |
 | [Ace](https://open.spotify.com/track/1TsvGXzmBCn3AdqJeqTMfm) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Shiqaari](https://open.spotify.com/artist/6SGlv8rvlA0TfucEWP7Mvh) | [Ace](https://open.spotify.com/album/7AgbNhegpQac8FMASg9oy6) | 3:21 | 2023-03-28 |  |
 | [Afgan](https://open.spotify.com/track/1wL7PQ8llOmRXdgNLRnm4j) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Afgan](https://open.spotify.com/album/6RuY485BMHDFNkc0FydvNn) | 3:17 | 2023-03-28 |  |
 | [Ankhon Ka Kasoor](https://open.spotify.com/track/2Qil9eFB9arcc6DxCCdvX0) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7) | [Ankhon Ka Kasoor](https://open.spotify.com/album/0Tkivn2mOHK6sUPfhgtIpq) | 2:22 | 2023-05-09 |  |
@@ -56,7 +57,7 @@
 | [MERCURY](https://open.spotify.com/track/6RbMiYrULpv1XVbXwipI9o) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [MERCURY](https://open.spotify.com/album/5wSwuPIraFkhnFyANEooT7) | 3:07 | 2023-03-28 | 2023-04-23 |
 | [Meter Khench](https://open.spotify.com/track/0VonGBdBy7i4gEXUwp9WhX) | [Arun Taank](https://open.spotify.com/artist/0uoMDF5nGJGZqZt7ZybJ0u), [Akhri Sultaan](https://open.spotify.com/artist/0Mw3EnmkxQQyWu4mI8r8L2), [Bigdee](https://open.spotify.com/artist/2Y8HUZ2z19r7fog9SuDprK) | [Meter Khench](https://open.spotify.com/album/71s6jogrwwclqzxXTeYH6h) | 3:11 | 2023-06-05 | 2023-06-17 |
 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-03-28 |  |
-| [My Time](https://open.spotify.com/track/6vX78Jh5vcsvnu8zECaxth) | [DEEP KAMBOJ](https://open.spotify.com/artist/6ObYocifnW8x3LpHkRUqWk) | [My Time](https://open.spotify.com/album/0AZp22eymljt7v6ZFZv9yw) | 2:32 | 2023-06-22 |  |
+| [My Time](https://open.spotify.com/track/6vX78Jh5vcsvnu8zECaxth) | [DEEP KAMBOJ](https://open.spotify.com/artist/6ObYocifnW8x3LpHkRUqWk) | [My Time](https://open.spotify.com/album/0AZp22eymljt7v6ZFZv9yw) | 2:32 | 2023-06-22 | 2023-06-30 |
 | [Naina Ki Talwar](https://open.spotify.com/track/5MpM5puyNHPxDEoe1l5ldo) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/4tlu5ECRwxyCSyMICmau24) | 2:42 | 2023-03-28 |  |
 | [Nature](https://open.spotify.com/track/7suBMs3Cb9lMTSnJncc7cC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [NJ Nindaniya](https://open.spotify.com/artist/1YDHNg4ktw5sY6bLsZ2L4V) | [Nature](https://open.spotify.com/album/1RBHpREFfZemn6f2aXfrQh) | 3:28 | 2023-03-28 |  |
 | [No Darling](https://open.spotify.com/track/0OKJzI2n4YfSCPS8dN3wvj) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [No Darling](https://open.spotify.com/album/2VJhRHyWaPX9U86xYxpUo1) | 3:29 | 2023-06-10 |  |

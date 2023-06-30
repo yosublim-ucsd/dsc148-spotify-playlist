@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Bizarrap & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,009 likes - 57 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,167 likes - 57 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 56 | [LOS HOMBRES NO LLORAN](https://open.spotify.com/track/4zBe0FyeYWAHZwBCUzefuF) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [LOS HOMBRES NO LLORAN](https://open.spotify.com/album/5SGJO4DtxBUTbwMxP3VRxV) | 2:12 |
 | 57 | [APAGUE MI CELULAR](https://open.spotify.com/track/2yGxjr5f3HzCRegbYo3Pj1) | [ESCHICANO](https://open.spotify.com/artist/04p4tk3TWeE5bJHQtkgP9Q) | [APAGUE MI CELULAR](https://open.spotify.com/album/4gg93Rvu1kriXt8pjxOpc8) | 3:02 |
 
-Snapshot ID: `MCwxZjQ2ZjBjOTVhY2U4OGE1NWM5NDU1NTMxZWQ4ODA4NTMyOTM3Yjlh`
+Snapshot ID: `MCxhNWYyYWU5MDI4ZjRlYjgxYjY4MTg2ZjJkMWY4NmVkMWIxMTQyZDI0`

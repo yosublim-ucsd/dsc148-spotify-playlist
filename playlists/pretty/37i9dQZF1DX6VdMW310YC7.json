@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3628616,
+  "num_followers": 3629173,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmZmY2Q0NzNjMmJlMzA1Mzc1MDA4MDE2N2Q1N2Y5MmE2YmI4ZDYw",
+  "snapshot_id": "MCxiNTNmMTFkYTVlYjRjMDUyYmIzOGMyOTAyZDQzNTdlNDk2NTUyY2M3",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 212906,
       "name": "IOU",
       "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Max Milner",
+          "url": "https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8"
+        }
+      ],
+      "duration_ms": 221762,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Need You There",
         "url": "https://open.spotify.com/album/3ekJlg88JAhvLmHEkZeP7S"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Max Milner",
-          "url": "https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8"
-        }
-      ],
-      "duration_ms": 221762,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Light Places",
-        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 241804,
-      "name": "Feels Just Like it",
-      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht"
       },
@@ -1275,6 +1255,42 @@
       "duration_ms": 186472,
       "name": "High On You",
       "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 241804,
+      "name": "Feels Just Like it",
+      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "HOLD YOU",
+        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "HOLD YOU",
+      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 228845,
       "name": "Sweet Nothings (feat. Minke)",
       "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "HOLD YOU",
-        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "HOLD YOU",
-      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
-      },
-      "artists": [
-        {
-          "name": "Arinity",
-          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
-        }
-      ],
-      "duration_ms": 153532,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Where I Find My Mind",
         "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
       },
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
+      },
+      "artists": [
+        {
+          "name": "Arinity",
+          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
+        }
+      ],
+      "duration_ms": 153532,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Beyond Beliefs",
         "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 313586,
       "name": "Beyond Beliefs",
       "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 207627,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1515,22 +1531,6 @@
       "duration_ms": 206000,
       "name": "Red Lights - EMBRZ Remix",
       "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/5MdzjsRffjKUicXibIu9dl"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 237628,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/2sHGfbeO6mKILlgOnBzkru"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "All My Friends",
         "url": "https://open.spotify.com/album/1LclfXDVjTM6b39cCVlLgG"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 172331,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/1Foh6n4d1Vs8oWw9PNYye8"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/5MdzjsRffjKUicXibIu9dl"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 237628,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/2sHGfbeO6mKILlgOnBzkru"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 197150,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Do You Feel The Same? (OCULA Remix)",
         "url": "https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 232131,
       "name": "Do You Feel The Same? - OCULA Remix",
       "url": "https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 197150,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Rooms on the Ark",
+        "url": "https://open.spotify.com/album/7xE3fSS22cJBxMCuQmtA9E"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 228577,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/4O9wdZGwvJKTeeJGUEa00K"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 198574,
       "name": "Before Dawn",
       "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Rooms on the Ark",
-        "url": "https://open.spotify.com/album/7xE3fSS22cJBxMCuQmtA9E"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 228577,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/4O9wdZGwvJKTeeJGUEa00K"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 273679,
+      "name": "Manila Palm",
+      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Oh, Miles",
         "url": "https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 333870,
       "name": "Oh, Miles",
       "url": "https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 273679,
-      "name": "Manila Palm",
-      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
     }
   ],
   "unique_name": "Chill Tracks",

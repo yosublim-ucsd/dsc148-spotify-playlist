@@ -295,6 +295,28 @@
     },
     {
       "album": {
+        "name": "Doctors' Anthem",
+        "url": "https://open.spotify.com/album/5Z3jZzAx52YeGuCyjtiHDy"
+      },
+      "artists": [
+        {
+          "name": "Jerard Felix",
+          "url": "https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I"
+        },
+        {
+          "name": "Dr. Nidarshana Pandian",
+          "url": "https://open.spotify.com/artist/2kDp4tt7madJAjKX8jX0mv"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181058,
+      "name": "Doctors' Anthem",
+      "url": "https://open.spotify.com/track/0Sy8y9ebd9GZAZspvQEpOI"
+    },
+    {
+      "album": {
         "name": "Eechi",
         "url": "https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx"
       },
@@ -354,6 +376,54 @@
       "duration_ms": 187890,
       "name": "Engeyo",
       "url": "https://open.spotify.com/track/1VbGNyEYDJOYl0rMu6ZdWT"
+    },
+    {
+      "album": {
+        "name": "FLYHIGH - Tamil",
+        "url": "https://open.spotify.com/album/4jSkcXuCqfl9fJ1rpOEQ7w"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235115,
+      "name": "FLYHIGH",
+      "url": "https://open.spotify.com/track/09rtkeKUT1QU1GnC1kud4O"
+    },
+    {
+      "album": {
+        "name": "Girls Variya",
+        "url": "https://open.spotify.com/album/3pyS14ZOyYVSfTX2dWqH5G"
+      },
+      "artists": [
+        {
+          "name": "Jeevanandhan Ram",
+          "url": "https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax"
+        },
+        {
+          "name": "Harishma Jebarajah",
+          "url": "https://open.spotify.com/artist/4VURaYz0DYkH0zsiwCtaen"
+        },
+        {
+          "name": "Dhikshi Baskaran",
+          "url": "https://open.spotify.com/artist/2XuIe5HofW12NbqpHPL1yA"
+        },
+        {
+          "name": "Sashini",
+          "url": "https://open.spotify.com/artist/5CbKLD3eINVbIkPTxppWZr"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204230,
+      "name": "Girls Variya",
+      "url": "https://open.spotify.com/track/3ymBS2QW1VMZo3s0C942vP"
     },
     {
       "album": {

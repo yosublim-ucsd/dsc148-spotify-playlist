@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Suspect 95
+> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-137 songs - 8 hr 1 min
+138 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Enjaillement](https://open.spotify.com/track/1wmrKgGI7jHvsNUqJqMsQF) | [Ramses Tikaya](https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1), [Mix Premier](https://open.spotify.com/artist/7E4tPSohzAp4dXEnNuab75) | [Enjaillement](https://open.spotify.com/album/3kX7u6RihaZK11a5plv3LO) | 3:30 | 2022-09-29 | 2022-10-28 |
 | [Fan ou Amoureux](https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Fan ou Amoureux](https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy) | 3:55 | 2022-03-22 | 2022-09-09 |
 | [Gbêssê](https://open.spotify.com/track/4HnSuaffFKg2FveLpOubAr) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Gbêssê](https://open.spotify.com/album/60ZH03fBOxrVsHuP5VTdee) | 3:16 | 2021-12-20 | 2023-04-28 |
-| [Gnamakoro Kakoh](https://open.spotify.com/track/5tpJQotwRNHhSbiEHYOZeO) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Gnamakoro Kakoh](https://open.spotify.com/album/1w6s8QQC0VQNV4af7uCYJD) | 2:51 | 2023-05-04 |  |
+| [Gnamakoro Kakoh](https://open.spotify.com/track/5tpJQotwRNHhSbiEHYOZeO) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Gnamakoro Kakoh](https://open.spotify.com/album/1w6s8QQC0VQNV4af7uCYJD) | 2:51 | 2023-05-04 | 2023-06-30 |
 | [Godo Godo](https://open.spotify.com/track/1o7k5eUEA0m6Q7H0A1tvyU) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Godo Godo](https://open.spotify.com/album/7gdUmmaUUZLYvD9KaLnSaV) | 2:39 | 2022-02-18 | 2022-12-25 |
 | [Godokou](https://open.spotify.com/track/6gvANR4MUDjSjETEXRfO08) | [Apoutchou National](https://open.spotify.com/artist/7kHgJvT9eOCLwXr4xPIRnC), [Les Patrons](https://open.spotify.com/artist/1nsZMNRP1vmtIat8hD4bHg) | [Godokou](https://open.spotify.com/album/2tJsVMOI29MOKatOUJqMET) | 3:50 | 2022-12-01 | 2023-01-27 |
 | [Godomoué](https://open.spotify.com/track/4TG0I43Yci9DupAyFBUN1h) | [JN LE BOSS](https://open.spotify.com/artist/39lBGgf33GpI6pQ9DoqGBs), [Yanik Jones](https://open.spotify.com/artist/22f7okXAJWbCs8NJpHv6iG) | [Godomoué](https://open.spotify.com/album/5bFmQ5N0A6zLei6LWp330Y) | 2:48 | 2021-12-20 | 2022-05-21 |
@@ -76,6 +76,7 @@
 | [Kabato](https://open.spotify.com/track/5sQ8C2QYSJPtkx4cDperWl) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Kabato](https://open.spotify.com/album/1T1kSNDG0W34MKT9E2eY6I) | 3:25 | 2023-05-18 |  |
 | [Ketebo](https://open.spotify.com/track/2jQsq7YctsPXWrEqdBgLbU) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU) | [Ketebo](https://open.spotify.com/album/7qfS1oh8pMTb5mBwKbFA7A) | 2:54 | 2023-03-23 |  |
 | [Kindotila \- Remix](https://open.spotify.com/track/0ZxIKjaUl31uLgla5QJILZ) | [Yvane Kouame](https://open.spotify.com/artist/3C5aa2x3FFL4JdVjXKJYwP), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kindotila \(Remix\)](https://open.spotify.com/album/1TMpL7PorVe5YKhc2zlf3L) | 2:41 | 2023-01-05 | 2023-05-19 |
+| [Kiniwara](https://open.spotify.com/track/0G6pdgRWKkgcTudR5gYqmv) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kiniwara](https://open.spotify.com/album/5xhHfQT7gG3l5Y8VD0ufv1) | 2:51 | 2023-06-29 |  |
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 | 2022-08-12 |
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |
 | [Kulumba](https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Kulumba](https://open.spotify.com/album/1haafvY6Ua0ukUI5RFUw1s) | 3:27 | 2022-01-21 | 2022-08-26 |

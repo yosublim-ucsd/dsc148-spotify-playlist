@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-368 songs - 1 day 16 hr 42 min
+369 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Kyra](https://open.spotify.com/track/5mVsfYRumGlHONrZVx8hbe) | [Danito & Athina](https://open.spotify.com/artist/4Sa0Izacj6A61uSlU6jp4o) | [Kyra](https://open.spotify.com/album/6hEUUxnpFB82Lttumtep24) | 7:37 | 2019-08-02\* | 2021-05-26 |
 | [La Isla \- Radio Version](https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro) | [Megablast](https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T), [Eribertho Cruz](https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb) | [La Isla](https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0) | 3:13 | 2022-09-09 |  |
 | [La Sombra Del Viento](https://open.spotify.com/track/5FPfXjdeNVD7HxyDnszG3K) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [La Sombra Del Viento](https://open.spotify.com/album/2dUvFMlr8HfWMxxwFCFJfe) | 7:14 | 2022-04-04 | 2022-04-21 |
+| [Latlal](https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U) | [Latlal](https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV) | 5:57 | 2023-04-20 |  |
 | [Le Flute](https://open.spotify.com/track/7wbx4RjFa36W5hQwQAr9je) | [Animal Trainer](https://open.spotify.com/artist/2bfx0bw0uVRyfikzS3h5Mg) | [Le Flute](https://open.spotify.com/album/0TGtRZQya26UcZ4NGwO4WY) | 7:03 | 2021-03-01 | 2021-05-28 |
 | [Lenmana \- Rey&Kjavik's Tïger Remix](https://open.spotify.com/track/219ajHOCIyarOzs4jXeW6W) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz), [Tïger](https://open.spotify.com/artist/5cg5bE4j1ZSuu00biYx6R1) | [Mountiri Remix II](https://open.spotify.com/album/5cCy64eKuWBT682qVoVesq) | 7:31 | 2019-09-20 | 2020-07-24 |
 | [Lenny in the Sea with Dolphins](https://open.spotify.com/track/3T1kFqevhSk1AvF72lf3VL) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Fire in the Jungle](https://open.spotify.com/album/0yGRysFayBSC8MZOyFW7ZH) | 5:31 | 2019-12-08 | 2023-02-01 |
@@ -358,7 +359,7 @@
 | [Waidalal \- Ankhoï Remix](https://open.spotify.com/track/3NClGgiGLwR34sDKGdFykT) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Waidalal](https://open.spotify.com/album/4z8z7kfqjjzwGDM6ObqzAC) | 7:33 | 2021-11-28 | 2022-04-20 |
 | [War](https://open.spotify.com/track/4tFSTI3avUHyBZHeTcCB7r) | [Peré Oudav](https://open.spotify.com/artist/0SUtMyEoZZCh59W23tlR51) | [Penta](https://open.spotify.com/album/775U4UaxMqynHWGH5SEBjQ) | 3:37 | 2019-08-02\* | 2021-07-10 |
 | [Warbler](https://open.spotify.com/track/50nAU2kkU1ztMzZa2MBbC8) | [Atish](https://open.spotify.com/artist/78RY8tWBNtm7UkMImOTpjT) | [Warbler](https://open.spotify.com/album/0AtY5Eiapkqn7cOh1rAaCs) | 6:48 | 2019-12-31 | 2020-01-01 |
-| [Wawanko](https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Limbo EP](https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m) | 6:41 | 2023-03-25 |  |
+| [Wawanko](https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Limbo EP](https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m) | 6:41 | 2023-03-25 | 2023-06-30 |
 | [Welch](https://open.spotify.com/track/35CulkdeOp56VVBE4dWcQm) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Lost Desert & Friends](https://open.spotify.com/album/4rN0SCNvUGxf1STQFXTKJR) | 9:14 | 2020-06-29 | 2022-06-04 |
 | [When The Interlude Sounds Like Falling Rain](https://open.spotify.com/track/5lWVqc9kPplvlDmLtFls02) | [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [What Are You Into EP](https://open.spotify.com/album/183EsSJ8hyU265cYqlqIue) | 5:00 | 2019-08-02\* | 2022-02-25 |
 | [When the Saints Go Marching Out](https://open.spotify.com/track/3dcXQbk2KsM5pPjqF3KXyg) | [Noema](https://open.spotify.com/artist/3jSvMIKT2Eo5mNvYN9ownN), [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4) | [Mind at Large \(Compiled by Noema\)](https://open.spotify.com/album/47vGjE4xrYvTGwr6c3KLP7) | 6:39 | 2021-10-05 | 2022-07-20 |

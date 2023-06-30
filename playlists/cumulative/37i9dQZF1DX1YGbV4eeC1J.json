@@ -909,6 +909,28 @@
     },
     {
       "album": {
+        "name": "My Sugar (feat. Nadia Mukami)",
+        "url": "https://open.spotify.com/album/6WTpWQNFlycDkeO2mk7UJY"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        },
+        {
+          "name": "Nadia Mukami",
+          "url": "https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "My Sugar (feat. Nadia Mukami)",
+      "url": "https://open.spotify.com/track/5R26Xm8yAEf8mcHlaq8CYL"
+    },
+    {
+      "album": {
         "name": "My Vow",
         "url": "https://open.spotify.com/album/77d7j2x9rppA6mBZIgPALC"
       },
@@ -1448,7 +1470,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 147461,
       "name": "Sina Bahati",
       "url": "https://open.spotify.com/track/6JiFowR4YEQk36S8UBaEwP"

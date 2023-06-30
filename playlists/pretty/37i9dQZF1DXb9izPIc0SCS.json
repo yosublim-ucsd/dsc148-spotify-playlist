@@ -1,12 +1,12 @@
 {
   "description": "True indie rock hits.",
-  "num_followers": 64933,
+  "num_followers": 65698,
   "original_name": "Indie Rock Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjIwYWUzMDI3NWUzZmJjMGVjM2I1NTdjNzRjOGYwN2YwNDBkNzk2",
+  "snapshot_id": "MCwwZDk2NmRlOWYxOGQ4N2ZlZTAzODQ5ODliMWI0ZjFiYWQyMmNjMDMx",
   "tracks": [
     {
       "added_at": "2023-05-01 10:40:44",
@@ -103,6 +103,22 @@
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "added_at": "2023-06-29 16:18:48",
+      "album": {
+        "name": "Francesca",
+        "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
     },
     {
       "added_at": "2023-05-01 10:40:44",

@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? Cover:NCT DREAM \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? Cover:WEi\(위아이\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-460 songs - 1 day 1 hr 57 min
+461 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Only one for me](https://open.spotify.com/track/4vxK5XbTTDNNKYbPDmZZC3) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [THIS IS US](https://open.spotify.com/album/1JpC31overHSqPenjJieXv) | 3:46 | 2022-03-22 | 2022-04-19 |
 | [Only U](https://open.spotify.com/track/4x1ElCGJXFEsj8Pk8aBxiC) | [IMFACT](https://open.spotify.com/artist/3ejYNz33SNAa1Qxo9g0qCG) | [Only U](https://open.spotify.com/album/3HsrUWvi7nM0UVcniW3FKw) | 3:50 | 2022-03-22 | 2022-04-10 |
 | [Outsider](https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [4U : OUTSIDE](https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA) | 3:32 | 2022-01-27 | 2022-07-23 |
+| [OVERDRIVE](https://open.spotify.com/track/1iiQ6wFdJz4uGn2a2cGjaG) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.3 : Eternally](https://open.spotify.com/album/2mrCu8xKF0ExIqExAmae9f) | 3:15 | 2023-06-29 |  |
 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2022-07-07 | 2022-07-10 |
 | [PARALLEL](https://open.spotify.com/track/3O9IkVwJuq1cOZDtOezHWw) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [PARALLEL](https://open.spotify.com/album/7L3tjtUJCskQ8sFoWWZyYA) | 3:33 | 2022-03-31 | 2022-04-07 |
 | [Parallel Universe](https://open.spotify.com/track/5BMiCwETGMSSC7gM88cemX) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [NEW WORLD](https://open.spotify.com/album/0acSMtQwyale1dQDfJSwzL) | 3:28 | 2022-03-30 | 2022-06-25 |
@@ -450,7 +451,7 @@
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-03 |
 | [Why](https://open.spotify.com/track/3oU6Hc7STlMBNR6Ty1m1G8) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [GO LIVE](https://open.spotify.com/album/6N8KkgIpU1T3tenkJxHxk3) | 3:20 | 2022-03-22 | 2022-04-21 |
 | [Why Why Why](https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Why Why Why](https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q) | 3:26 | 2021-12-08 | 2022-07-28 |
-| [Wild Heart](https://open.spotify.com/track/3GXLBTk7l1Bc7bZp18sqZD) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [CONTINUE?](https://open.spotify.com/album/38naOKNOPofTwerOOejf2N) | 2:59 | 2023-06-15 |  |
+| [Wild Heart](https://open.spotify.com/track/3GXLBTk7l1Bc7bZp18sqZD) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [CONTINUE?](https://open.spotify.com/album/38naOKNOPofTwerOOejf2N) | 2:59 | 2023-06-15 | 2023-06-30 |
 | [Will Make a Mistake](https://open.spotify.com/track/0jdT8lnzPWFKjI5iuIxDjQ) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [SEAT\-BELT](https://open.spotify.com/album/1Z1nMx8QglGa8tQFerndsg) | 3:18 | 2022-03-22 | 2022-07-01 |
 | [Will you be my girlfriend? \(Original Mix\)](https://open.spotify.com/track/2dt2Q03hG4P3EcK5DRcKWZ) | [M.O.N.T](https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ) | [Going up](https://open.spotify.com/album/2hjadltOHAImuoZzUQJwvr) | 3:02 | 2022-03-22 | 2022-04-03 |
 | [With Us](https://open.spotify.com/track/7JxGvCpgu60COzVsmavYv9) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/5hJ1mbfea5r20mjtT6oHON) | 4:17 | 2022-03-22 | 2022-04-21 |

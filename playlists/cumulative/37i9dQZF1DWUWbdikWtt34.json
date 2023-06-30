@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Iis Dahlia",
+  "description": "Dendang Dangdut teratas. Cover: Selfi Yamma",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 194750,
       "name": "Bertepuk Sebelah Tangan",
       "url": "https://open.spotify.com/track/76IJq5eOqctxtHGyuEwF5Y"
@@ -198,6 +198,24 @@
       "duration_ms": 298509,
       "name": "Cinta Dalam Khayalan",
       "url": "https://open.spotify.com/track/7A42dJ9KKGtRGE4s3xTzjv"
+    },
+    {
+      "album": {
+        "name": "Cinta Sejati",
+        "url": "https://open.spotify.com/album/0oc1EyhEHfUj79vJgxVDZu"
+      },
+      "artists": [
+        {
+          "name": "Selfi Yamma",
+          "url": "https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223304,
+      "name": "Cinta Sejati",
+      "url": "https://open.spotify.com/track/5Hr4r6S8DND2ef1BsUqsEU"
     },
     {
       "album": {
@@ -728,7 +746,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 247353,
       "name": "Kau Tercipta Untukku",
       "url": "https://open.spotify.com/track/0NfWMu3zA2v4ymR2pWiXV9"

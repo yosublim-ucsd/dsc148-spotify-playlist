@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Coi Leray, Young Thug & Drake, and Stormzy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,300 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,302 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 22 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 |
 | 23 | [Cocaine Spoon feat\. Rick Ross](https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:34 |
 | 24 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 |
-| 25 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
+| 25 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/6BgdroP3f57LfPZvWcNWdq) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
 | 26 | [Fast Route](https://open.spotify.com/track/5jO9sTjyQKyayUmYnobf1d) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Fast Route](https://open.spotify.com/album/2pBXTzlMiG0H7o4koiswWy) | 2:59 |
 | 27 | [Presidential Rolex](https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Presidential Rolex](https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx) | 2:28 |
 | 28 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [Us Against the World \- Remix](https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Us Against the World \(Remix\)](https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv) | 3:12 |
 | 75 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 |
 
-Snapshot ID: `MCxlNTI1YzFhZjY5MDFhNzA3OTA3ZmRiNWMzZGM2YTJmYTQ5NDZiMTU2`
+Snapshot ID: `MCw5MTVmM2Y3MTk1NTdkOWU1ZGY4NzIyODVjMTc3ZWY4YWRhMGE1MjQw`

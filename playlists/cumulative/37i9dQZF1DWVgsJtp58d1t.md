@@ -4,7 +4,7 @@
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv?si=THkZQXfpTtq\_33NtvcfmrA">Victoria Monét</a>
 
-2,296 songs - 4 day 18 hr 4 min
+2,297 songs - 4 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1574,7 +1574,8 @@
 | [Pop Out](https://open.spotify.com/track/6etEk6dGTEGhHjZVNnXAQS) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Pop Out](https://open.spotify.com/album/5ZzZ1XMscoXLbTUcCRWvFV) | 2:33 | 2023-04-21 | 2023-05-06 |
 | [Pop Out](https://open.spotify.com/track/0ng1fmKrKCorqjmFtNneFm) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Pop Out](https://open.spotify.com/album/3IzNDkXpDYxSzoDVNXBSbs) | 2:19 | 2022-04-22 | 2022-05-21 |
 | [Popstar](https://open.spotify.com/track/1gtpf2WDqX4bwB8Jpf9nY2) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Popstar](https://open.spotify.com/album/6WDP50ES2v8aY4oETrFZYa) | 2:21 | 2022-04-01 | 2022-04-23 |
-| [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-02 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 | 2023-06-23 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-02 | 2023-06-30 |
 | [Portfolio](https://open.spotify.com/track/5tN1tWxAk6OeM2kkmQuv0d) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w) | [Portfolio](https://open.spotify.com/album/56Y1OegS89eSqEZwKhJJsP) | 2:47 | 2022-12-30 | 2023-01-28 |
 | [Pose \(feat\. Wiz Khalifa & Curren$y\)](https://open.spotify.com/track/1EaEXPXlb3Xp19Aj3Nw8v1) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pose \(feat\. Wiz Khalifa & Curren$y\)](https://open.spotify.com/album/4BExQf4XQxKdT1NYyjtyR8) | 3:24 | 2022-06-10 | 2022-07-02 |
 | [Post Nut Clarity](https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f) | 1:53 | 2022-02-18 | 2022-03-12 |

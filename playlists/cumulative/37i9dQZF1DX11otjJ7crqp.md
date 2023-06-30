@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Nicki Minaj & Ice Spice
 
-3,373 songs - 6 day 23 hr 56 min
+3,374 songs - 7 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2367,7 +2367,8 @@
 | [Poor Connection](https://open.spotify.com/track/2a4wauGJDyWSJCtlMQQI3P) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Poor Connection](https://open.spotify.com/album/744GeJhgvno7BtbR0qXhs7) | 3:19 | 2022-09-17 | 2022-09-24 |
 | [Popsicle](https://open.spotify.com/track/74NL5Ie5ggLQBIqJK1l1MF) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle](https://open.spotify.com/album/6LsfxTZih135bUPoObrD81) | 1:50 | 2023-05-12 | 2023-05-27 |
 | [Popstar](https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey dad, I tried to be nice](https://open.spotify.com/album/5zHY14j7ZRWNgkMlkX4fTH) | 3:33 | 2023-05-19 | 2023-06-03 |
-| [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-02 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 | 2023-06-26 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-02 | 2023-06-30 |
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-04 | 2022-03-12 |
 | [Possession of a Weapon](https://open.spotify.com/track/3kAnPXxtstxQvUftWqVdm2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Possession of a Weapon](https://open.spotify.com/album/0MZgUBm8HPyOcovdtuyJJk) | 2:35 | 2023-05-26 | 2023-06-10 |
 | [Post Party Trauma](https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Post Party Trauma](https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl) | 3:11 | 2022-07-08 | 2022-07-23 |

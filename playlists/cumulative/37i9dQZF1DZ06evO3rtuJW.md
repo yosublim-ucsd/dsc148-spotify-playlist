@@ -4,12 +4,13 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-96 songs - 4 hr 45 min
+97 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Scale \(feat\. G Herbo\)](https://open.spotify.com/track/5gmkw2031VVIboYqPIjSWB) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 2:56 | 2022-10-28 |  |
 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 | 2022-10-28 |  |
+| [21 Questions](https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC) | [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Pedro Activated](https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W) | 3:24 | 2023-06-29 |  |
 | [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:49 | 2022-11-11 | 2022-12-08 |
 | [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/track/63CppbO1NyPUpnMHJ5lYDo) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up \(feat\. G Herbo\)](https://open.spotify.com/album/0jhDS6QHDbWLapC8gifh9n) | 2:49 | 2022-12-26 | 2023-02-27 |
 | [All That \(with Kodak Black\)](https://open.spotify.com/track/4pE1289TEn8kZ87N08lPOp) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 1:49 | 2022-10-28 | 2023-05-23 |
@@ -103,6 +104,6 @@
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/7ACW7VpgoKmfM1sKo15UhX) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 4:39 | 2023-02-16 |  |
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X) | 4:39 | 2022-10-28 | 2023-02-17 |
 | [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 | 2022-10-28 |  |
-| [Write Your Name](https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 3:19 | 2022-10-30 |  |
+| [Write Your Name](https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 3:19 | 2022-10-30 | 2023-06-30 |
 
 \*This playlist was first scraped on 2022-10-29. Prior content cannot be recovered.

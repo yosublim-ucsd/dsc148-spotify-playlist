@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 449762,
+  "num_followers": 450073,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTAxMDAxM2ZmZTIzM2JhNjM1NjVkN2IwN2VlYWQ0MmJhNTFmYzRi",
+  "snapshot_id": "MCwwZjA5NjNjMzJlNjIzYjhhYjIyMmFiZjVjMDRlY2EyZWYzZjQyODc5",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -307,18 +307,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Canary Islands",
-        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
         }
       ],
-      "duration_ms": 204521,
-      "name": "Canary Islands",
-      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
+      "duration_ms": 132746,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -339,22 +343,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1"
+        "name": "Canary Islands",
+        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
       },
       "artists": [
         {
-          "name": "RAC",
-          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
-        },
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
         }
       ],
-      "duration_ms": 132746,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
+      "duration_ms": 204521,
+      "name": "Canary Islands",
+      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Casita",
-        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Casita",
-      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/3yjqJkHqnGlO6wpE9GPxV3"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 198000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Casita",
+        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Casita",
+      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 233454,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Alone in the Mountains",
         "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 196707,
       "name": "Alone in the Mountains",
       "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 233454,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 251279,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Chika (scared)",
+        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 168245,
+      "name": "Chika (Scared)",
+      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
@@ -907,18 +923,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Chika (scared)",
-        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 168245,
-      "name": "Chika (Scared)",
-      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
+      "duration_ms": 283066,
+      "name": "Loud Places",
+      "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -947,26 +967,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Loud Places",
-      "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Woodstock (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 194434,
       "name": "Feel It Still - Medasin Remix",
       "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Begin Again - Single Edit",
-      "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1055,22 +1039,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Can\u2019t Let You Go",
-        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Little Jet",
-          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Can\u2019t Let You Go",
-      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
+      "duration_ms": 217272,
+      "name": "Begin Again - Single Edit",
+      "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1091,6 +1071,26 @@
       "duration_ms": 227697,
       "name": "Fais rien (Petit Biscuit Remix)",
       "url": "https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Can\u2019t Let You Go",
+        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Little Jet",
+          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Can\u2019t Let You Go",
+      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
     },
     {
       "added_at": "2023-06-09 04:00:00",

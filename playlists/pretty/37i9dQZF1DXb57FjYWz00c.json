@@ -1,12 +1,12 @@
 {
   "description": "Nothing but unforgettable songs from the 80s.",
-  "num_followers": 3084054,
+  "num_followers": 3085294,
   "original_name": "80s Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTBkMTA1OGM4Mzc0YzU0MTE3ZjUyN2M1MDBmY2E3YzM0NWMxZDc3",
+  "snapshot_id": "MCxhZmMxMzhhZmE0ODMxYzEzZWI2NzZlMjU5NTE0YzEzZGMzZmFkZTNl",
   "tracks": [
     {
       "added_at": "2023-02-21 17:19:34",
@@ -195,8 +195,8 @@
     {
       "added_at": "2023-02-21 17:19:34",
       "album": {
-        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4!80\u5e74\u4ee3 HITS",
+        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
         }
       ],
-      "duration_ms": 244706,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
+      "duration_ms": 246000,
+      "name": "Maniac - From \"Flashdance\"",
+      "url": "https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF"
     },
     {
       "added_at": "2023-02-21 17:19:34",
@@ -1571,7 +1571,7 @@
     {
       "added_at": "2023-02-21 17:19:34",
       "album": {
-        "name": "Invisible Touch",
+        "name": "Invisible Touch (2007 Remaster)",
         "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
       "artists": [

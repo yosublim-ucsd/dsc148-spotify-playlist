@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: KID FRESINO
 
-597 songs - 1 day 13 hr 10 min
+598 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 | 2023-03-14 | 2023-04-05 |
 | [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 | 2023-03-14 | 2023-03-16 |
 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 | 2023-05-23 |  |
-| [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:22 | 2023-05-25 |  |
+| [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:22 | 2023-05-25 | 2023-06-30 |
 | [Splendid Silent Sun](https://open.spotify.com/track/5G3bOHGiDmNijrpafLBDMh) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Splendid Silent Sun](https://open.spotify.com/album/3KOMMTYKtp0qvof3Op7tcm) | 3:59 | 2023-04-04 | 2023-05-05 |
 | [Sports Men](https://open.spotify.com/track/57xqF2DMn5eaKNvhHqeL7Y) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [M.I.D\. The First Annual Report of LAUSBUB](https://open.spotify.com/album/6rqbfv8iIGwQZM2poBA3C8) | 4:15 | 2023-01-12 | 2023-01-20 |
 | [Stance](https://open.spotify.com/track/7IVvxzu1Iu1H1KQek5oaxY) | [Arakoi](https://open.spotify.com/artist/2jJfXAB5K7ZlK1H7xQt0tl) | [Stance](https://open.spotify.com/album/2RRan31zrhKGzTyJol4UeA) | 7:51 | 2023-02-14 | 2023-02-22 |
@@ -402,6 +402,7 @@
 | [Your Song On The Radio](https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Your Song On The Radio](https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3) | 3:01 | 2023-04-20 | 2023-05-31 |
 | [Y・U・R・A・I](https://open.spotify.com/track/7bOW2XisqY0PNLP1T0Zed6) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [Y・U・R・A・I](https://open.spotify.com/album/5AJtgPcaqSM2R9jBZ4TA73) | 3:14 | 2023-06-13 | 2023-06-21 |
 | [Últimamente](https://open.spotify.com/track/51nSvDGXM7G9kVKlptO6Id) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [Últimamente](https://open.spotify.com/album/0WJBCgQpMgOg6OGrLw7IHC) | 3:53 | 2023-02-02 | 2023-03-29 |
+| [あけぼの \- 2023](https://open.spotify.com/track/7oIebM3d43QEtaQkpKKPRr) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [あけぼの \(2023\)](https://open.spotify.com/album/7DEvmHRVHWr0g4eFyKuW87) | 5:27 | 2023-06-29 |  |
 | [あたしの全部を愛せない](https://open.spotify.com/track/4Lz2o8TYE2p39ZUJaFpsmk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [あたしの全部を愛せない](https://open.spotify.com/album/0OunnU4xFgcVZBbFZ61kHQ) | 3:18 | 2023-06-20 | 2023-06-22 |
 | [あなたはショパン](https://open.spotify.com/track/70oXonbDGdN3c8GtUPLEkV) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe) | [あなたはショパン](https://open.spotify.com/album/6unSvOC7ZjO69VHfumrK3q) | 3:27 | 2023-02-21 | 2023-03-15 |
 | [あのうたがきこえる \- feat.Ema & 吉田沙良\(モノンクル\)](https://open.spotify.com/track/4XAKBxbKGViYZUrH7g59B6) | [象眠舎](https://open.spotify.com/artist/7KSV9OZfpTakHP1o9uPFG6), [Ema](https://open.spotify.com/artist/75cOYlSMrc2yl7Qo6ijHN1), [吉田沙良\(モノンクル\)](https://open.spotify.com/artist/5zPTykeJKoiGZhhWJgLfKj) | [あのうたがきこえる \[feat.Ema & 吉田沙良\(モノンクル\)\]](https://open.spotify.com/album/4QgTPyeJtiMl74cmQdu4LM) | 6:48 | 2023-05-18 |  |

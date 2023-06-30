@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\u001dJOO SEOL OK(\uc8fc\uc124\uc625)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 322213,
+  "num_followers": 322277,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDRmMjc0NDYxOTUxYWQ2NjQ4NzY5MzQwNTIzOTJiZjRlOTU2Zjg4",
+  "snapshot_id": "MCwxZDQ5ZDNmNTZlMTYwYWE4NzNhYTZiY2RjOWJiYzJhNGUwZWIzN2M5",
   "tracks": [
     {
       "added_at": "2023-06-15 04:35:12",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-06-15 04:35:12",
       "album": {
+        "name": "Because I am a woman",
+        "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "Because I am a woman",
+      "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
+    },
+    {
+      "added_at": "2023-06-15 04:35:12",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
-    },
-    {
-      "added_at": "2023-06-15 04:35:12",
-      "album": {
-        "name": "Because I am a woman",
-        "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "Because I am a woman",
-      "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
     },
     {
       "added_at": "2023-06-15 04:35:12",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-06-15 04:35:12",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Soju Hanjan",
-      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
-    },
-    {
-      "added_at": "2023-06-15 04:35:12",
-      "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+    },
+    {
+      "added_at": "2023-06-15 04:35:12",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Soju Hanjan",
+      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
     },
     {
       "added_at": "2023-06-15 04:35:12",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-15 04:35:12",
       "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "You&I",
-      "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
-    },
-    {
-      "added_at": "2023-06-15 04:35:12",
-      "album": {
         "name": "I'M",
         "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 238252,
       "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+    },
+    {
+      "added_at": "2023-06-15 04:35:12",
+      "album": {
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "You&I",
+      "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
     },
     {
       "added_at": "2023-06-15 04:35:12",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-06-15 04:35:12",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 238022,
-      "name": "didn't know me",
-      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
-    },
-    {
-      "added_at": "2023-06-15 04:35:12",
-      "album": {
         "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
+    },
+    {
+      "added_at": "2023-06-15 04:35:12",
+      "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 238022,
+      "name": "didn't know me",
+      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
     },
     {
       "added_at": "2023-06-15 04:35:12",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-06-15 04:35:12",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
-    },
-    {
-      "added_at": "2023-06-15 04:35:12",
-      "album": {
         "name": "Love Playlist3 Part.1",
         "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2023-06-15 04:35:12",
       "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
+    },
+    {
+      "added_at": "2023-06-15 04:35:12",
+      "album": {
         "name": "Sweet Lullaby",
         "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-06-15 04:35:12",
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/0IXJjQbwEaAx1asY1fWiVR"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 272026,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf"
-    },
-    {
-      "added_at": "2023-06-15 04:35:12",
-      "album": {
         "name": "Invitation",
         "url": "https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 210000,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA"
+    },
+    {
+      "added_at": "2023-06-15 04:35:12",
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/0IXJjQbwEaAx1asY1fWiVR"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 272026,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf"
     },
     {
       "added_at": "2023-06-15 04:35:12",
@@ -1671,30 +1671,18 @@
     {
       "added_at": "2023-06-15 04:35:12",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        },
-        {
-          "name": "Yescoba",
-          "url": "https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6"
-        },
-        {
-          "name": "Dayoung Ahn",
-          "url": "https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz"
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
         }
       ],
-      "duration_ms": 370946,
-      "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
-      "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
+      "duration_ms": 263966,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
     }
   ],
   "unique_name": "v o K a l",

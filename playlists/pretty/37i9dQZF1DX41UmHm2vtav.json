@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 421066,
+  "num_followers": 421327,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTExMGQzMmJlYWVlMmYyZjhlY2EyY2JlY2Y1MjQ4NDExOGUyZjlk",
+  "snapshot_id": "MCwxNmY0MTZlZGQ3MTdhNjI3OWIwNzc4NzdjOTZiMzE2MjIwOGEzMjgz",
   "tracks": [
     {
       "added_at": "2023-06-16 03:03:00",
@@ -307,30 +307,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Dog Days",
-        "url": "https://open.spotify.com/album/2gVD1C1QGkqfC1RvjHuNcC"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Brannco",
-          "url": "https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL"
-        },
-        {
-          "name": "Rodrigo Luca",
-          "url": "https://open.spotify.com/artist/0rfjTf0SkufosBwBlstrL6"
-        }
-      ],
-      "duration_ms": 251612,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/3o6D9gHkSumEECclUt0tCN"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Vintage Culture & Friends 2",
         "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
       },
@@ -351,6 +327,30 @@
       "duration_ms": 261818,
       "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
       "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/2gVD1C1QGkqfC1RvjHuNcC"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Brannco",
+          "url": "https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL"
+        },
+        {
+          "name": "Rodrigo Luca",
+          "url": "https://open.spotify.com/artist/0rfjTf0SkufosBwBlstrL6"
+        }
+      ],
+      "duration_ms": 251612,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/3o6D9gHkSumEECclUt0tCN"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -435,30 +435,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 197419,
       "name": "Algum Ritmo - Remix",
       "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -547,30 +547,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Fica Tudo Bem (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 174125,
-      "name": "Fica Tudo Bem - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Um Erro (Malifoo, Voltech Remix)",
         "url": "https://open.spotify.com/album/5SMXWvlU5nqmk261Hh5OUE"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 161904,
       "name": "Um Erro (Malifoo, Voltech Remix)",
       "url": "https://open.spotify.com/track/0HGGQcBOouXNzapKPoJsOq"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Fica Tudo Bem (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 174125,
+      "name": "Fica Tudo Bem - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -651,30 +651,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 183370,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
       },
@@ -703,6 +679,30 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
         "name": "V\u00e1rias Queixas (Remix)",
         "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
       },
@@ -719,6 +719,26 @@
       "duration_ms": 123142,
       "name": "V\u00e1rias Queixas - Remix",
       "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -747,22 +767,22 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+        "name": "Telegrama (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
       },
       "artists": [
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         },
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
         }
       ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+      "duration_ms": 159193,
+      "name": "Telegrama (Double MZK Remix)",
+      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -783,26 +803,6 @@
       "duration_ms": 195483,
       "name": "Back to Beginning",
       "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
-        "name": "Telegrama (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 159193,
-      "name": "Telegrama (Double MZK Remix)",
-      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 164879,
       "name": "In The End - Remix",
       "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "When In Rome",
-        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
-      },
-      "artists": [
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "Damon Sharpe",
-          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
-        }
-      ],
-      "duration_ms": 194767,
-      "name": "When In Rome",
-      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "A Tal Can\u00e7\u00e3o Pra Lua (Madism Remix)",
         "url": "https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 206759,
       "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
       "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "When In Rome",
+        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
+      },
+      "artists": [
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        },
+        {
+          "name": "Damon Sharpe",
+          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
+        }
+      ],
+      "duration_ms": 194767,
+      "name": "When In Rome",
+      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "O Xote Das Meninas (Pontifexx Remix)",
-        "url": "https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT"
-      },
-      "artists": [
-        {
-          "name": "Pontifexx",
-          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
-        },
-        {
-          "name": "Luiz Gonzaga",
-          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
-        }
-      ],
-      "duration_ms": 189451,
-      "name": "O Xote Das Meninas - Pontifexx Remix",
-      "url": "https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
         "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 158824,
       "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
       "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "O Xote Das Meninas (Pontifexx Remix)",
+        "url": "https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT"
+      },
+      "artists": [
+        {
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+        },
+        {
+          "name": "Luiz Gonzaga",
+          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
+        }
+      ],
+      "duration_ms": 189451,
+      "name": "O Xote Das Meninas - Pontifexx Remix",
+      "url": "https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
+        "name": "Praia (Sem Sair de Casa) [Remix]",
+        "url": "https://open.spotify.com/album/5Lega6xw98Kmv2058Qml4D"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Helen Sancho",
+          "url": "https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Praia (Sem Sair de Casa) [Remix]",
+      "url": "https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
         "name": "Evoluiu (Rakka & Onabeat Remix)",
         "url": "https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 172918,
       "name": "Evoluiu - Rakka & Onabeat Remix",
       "url": "https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
-        "name": "Praia (Sem Sair de Casa) [Remix]",
-        "url": "https://open.spotify.com/album/5Lega6xw98Kmv2058Qml4D"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        },
-        {
-          "name": "Helen Sancho",
-          "url": "https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Praia (Sem Sair de Casa) [Remix]",
-      "url": "https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa"
     }
   ],
   "unique_name": "Festa na Praia",

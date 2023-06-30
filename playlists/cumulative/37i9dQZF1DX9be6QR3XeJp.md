@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Coupdekat
+> Discover your new favourite artists from UK&IE\. Cover: Issey Cross
 
-212 songs - 11 hr 35 min
+213 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 | 2022-02-18 |  |
 | [BERLIN](https://open.spotify.com/track/1BaEm7lJxDtoRZ1QmPcBZr) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [BERLIN](https://open.spotify.com/album/1CpDsqIBSXH8WCwEb8j8Y6) | 3:02 | 2022-02-18 |  |
 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 | 2023-05-11 |  |
+| [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 | 2023-06-29 |  |
 | [Black](https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Black](https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr) | 2:43 | 2022-02-18 |  |
 | [Boppin](https://open.spotify.com/track/70RfBeqS2vWnO0QiEJcZHF) | [Blazer Boccle](https://open.spotify.com/artist/2YmC1eRlfWVHvrLFyxAyAn) | [Boppin](https://open.spotify.com/album/4bmbwGUQQySO2BsQOqO9TE) | 3:35 | 2022-08-04 |  |
 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 | 2023-04-20 |  |

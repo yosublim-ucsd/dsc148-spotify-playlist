@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-267 songs - 15 hr 14 min
+268 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Dancing With A Stranger](https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Dancing With A Stranger](https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd) | 3:08 | 2021-07-16 |  |
 | [Dancing With A Stranger \(With Normani\) \- Acoustic](https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(With Normani\) \[Acoustic\]](https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ) | 3:07 | 2021-07-16 |  |
 | [Daydream](https://open.spotify.com/track/7EDW147fQhxkCl7JOWFzJg) | [Pearla](https://open.spotify.com/artist/79z2QxbhjUYyMqCOfvta7P) | [Daydream](https://open.spotify.com/album/5vDPWvRliJpLJelTHnMh9X) | 3:45 | 2021-07-16 | 2022-07-21 |
-| [Detalles](https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Detalles](https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA) | 3:24 | 2021-07-16 |  |
+| [Detalles](https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Detalles](https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA) | 3:24 | 2021-07-16 | 2023-06-30 |
 | [Downtown \- Acoustic Version](https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Downtown \(Acoustic Version\)](https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ) | 3:24 | 2021-07-16 |  |
 | [Dreams](https://open.spotify.com/track/5OPE4smvsXXWaBl7s9Wf6B) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Dreams](https://open.spotify.com/album/39QOmA7GEYES5cdaozh80l) | 4:19 | 2021-07-16 | 2022-07-29 |
 | [Dreams \- Piano Version](https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [When I'm Alone: The Piano Retrospective](https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA) | 4:34 | 2021-07-16 |  |
@@ -134,6 +134,7 @@
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/20VC8UqK5YUBDQZIozqdGV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Songs of Dylan](https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ) | 2:38 | 2021-07-16 |  |
 | [Know How](https://open.spotify.com/track/4xqowxjJ03RWog4teL6oqG) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:58 | 2021-07-16 | 2023-01-28 |
 | [Know How](https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:58 | 2021-07-16 |  |
+| [L\-O\-V\-E](https://open.spotify.com/track/4UjDKjzhP0GQXDv7X5zZXZ) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [L\-O\-V\-E](https://open.spotify.com/album/4EgWz5C3nqZJSm2VQscdEs) | 2:13 | 2023-06-09 |  |
 | [L\-O\-V\-E](https://open.spotify.com/track/7eOt72MSwPLRZw270GA8Z6) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [L\-O\-V\-E](https://open.spotify.com/album/6TOJcfXQLaer5H4KAhrJ3v) | 2:13 | 2021-07-16 | 2023-06-10 |
 | [L.A Coliseum](https://open.spotify.com/track/22bndzPoPVfvHHuE3HM0Iv) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [L.A Coliseum](https://open.spotify.com/album/2Jjv3uvOBVcCauorURNgce) | 4:07 | 2021-07-16 | 2022-07-29 |
 | [La Marelle / Amarelinha](https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Rosemary Standley](https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl), [Birds on a Wire](https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj) | [La Marelle / Amarelinha](https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d) | 3:02 | 2021-07-16 | 2022-07-28 |

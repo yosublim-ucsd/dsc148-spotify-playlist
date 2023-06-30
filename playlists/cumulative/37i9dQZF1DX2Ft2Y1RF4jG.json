@@ -1093,7 +1093,7 @@
     },
     {
       "album": {
-        "name": "Invisible Touch",
+        "name": "Invisible Touch (2007 Remaster)",
         "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
       "artists": [
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 244706,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
@@ -1346,6 +1346,24 @@
       "duration_ms": 246000,
       "name": "Maniac - From \"Flashdance\"",
       "url": "https://open.spotify.com/track/2Vlq5dQMswHihOv7HnjlOt"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4!80\u5e74\u4ee3 HITS",
+        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Maniac - From \"Flashdance\"",
+      "url": "https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF"
     },
     {
       "album": {

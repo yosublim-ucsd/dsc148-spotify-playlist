@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful love songs in French.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,936 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,976 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 49 | [Parce que c'est toi](https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Toujours moi](https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg) | 4:05 |
 | 50 | [Chewing\-Gum](https://open.spotify.com/track/52ye3YnY6o4XITA62IzCwI) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 4:26 |
 
-Snapshot ID: `MCwzODRiMGJjOGY2MzExOWUzNTc5YzNlZjJiN2VjNGE3MWIyMWU0Njdj`
+Snapshot ID: `MCwxYjJhNDM5MmYxODdlZDJhZWViZTQ0ZDM5ZGQzNmQ5ZjQ1Y2Q1OTY2`

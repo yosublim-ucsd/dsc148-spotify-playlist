@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 5127,
+  "num_followers": 5149,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjA1Mzg3NzNiNzEzYTI5ZmMyMDgxMDhlNjUzODZjNWE3OWRlMjBi",
+  "snapshot_id": "MCxhMWU4MWMzMmIyZWU3NjNjYWNmMzBjM2ZhYjM4OGQ4ODkxZWE3NjQw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 136899,
+      "name": "Time Today",
+      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Moon Boy",
         "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 226220,
       "name": "You're Mines Still (feat. Drake)",
       "url": "https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 136899,
-      "name": "Time Today",
-      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
     },
     {
       "added_at": "2022-10-01 16:09:56",

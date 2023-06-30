@@ -1943,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Ayayai",
+        "url": "https://open.spotify.com/album/1gGfjPXB64t20DHEuhdG2s"
+      },
+      "artists": [
+        {
+          "name": "Lowa OD",
+          "url": "https://open.spotify.com/artist/5DWM0fvqcNKcIfIeD6w2v0"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Ayayai",
+      "url": "https://open.spotify.com/track/0lZZbMcavHOrBNLC3xwn1s"
+    },
+    {
+      "album": {
         "name": "Azote",
         "url": "https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8"
       },
@@ -4727,6 +4745,32 @@
     },
     {
       "album": {
+        "name": "DEMBOW B\u00c9LICO",
+        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126522,
+      "name": "DEMBOW B\u00c9LICO",
+      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+    },
+    {
+      "album": {
         "name": "Dembow Cris MJ",
         "url": "https://open.spotify.com/album/3qSLB7ctL54pMwi8NCSEVh"
       },
@@ -4774,7 +4818,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 238143,
       "name": "Dentro del Party",
       "url": "https://open.spotify.com/track/6IBXzznXuDsUjk4nllsFH1"
@@ -12764,7 +12808,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 226464,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/3Ibia40It7oyxEWOiP1h6j"

@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Usted Se\u00f1alemelo",
-  "num_followers": 281080,
+  "num_followers": 281101,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzdhMDU1YmFhNDBjNGE4MzJjNTdiZjlhZmYzNDc2MzRkMTMxY2I3",
+  "snapshot_id": "MCwwOTg4MmI2ZWZiNTg0YmQ0ZWFjYjk1MWNhYmI1YmZkZTRlZGZjN2Ey",
   "tracks": [
     {
       "added_at": "2023-06-16 04:27:32",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
+        "name": "Mi Mejor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 201833,
+      "name": "Mi Mejor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
         "name": "Abismo",
         "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "Mi Mejor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 201833,
-      "name": "Mi Mejor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
+      "duration_ms": 191725,
+      "name": "Si En Tu Mente Estuve",
+      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -415,22 +431,6 @@
       "duration_ms": 173259,
       "name": "mejores amigos",
       "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 191725,
-      "name": "Si En Tu Mente Estuve",
-      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -467,22 +467,6 @@
       "duration_ms": 175867,
       "name": "Cansado de estar triste",
       "url": "https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 211204,
-      "name": "No Te Imagin\u00e1s",
-      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -531,6 +515,22 @@
       "duration_ms": 180428,
       "name": "La Tormenta",
       "url": "https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 211204,
+      "name": "No Te Imagin\u00e1s",
+      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -595,18 +595,22 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "San Saltar\u00edn",
-        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
+        "name": "Sin Rencor Ni Mal De Amores",
+        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 258765,
-      "name": "San Saltar\u00edn",
-      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
+      "duration_ms": 198591,
+      "name": "Sin Rencor Ni Mal De Amores",
+      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -627,22 +631,18 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "Sin Rencor Ni Mal De Amores",
-        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
+        "name": "San Saltar\u00edn",
+        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
       },
       "artists": [
         {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 198591,
-      "name": "Sin Rencor Ni Mal De Amores",
-      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+      "duration_ms": 258765,
+      "name": "San Saltar\u00edn",
+      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "Las Flores Sangran",
-        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 198405,
-      "name": "Las Flores Sangran",
-      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
         "name": "Maldivas",
         "url": "https://open.spotify.com/album/51dVROPWemf4IOiRHVDMrE"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 200693,
       "name": "Maldivas",
       "url": "https://open.spotify.com/track/0dpXgd1OyD0etHnvCodXXZ"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
+        "name": "Las Flores Sangran",
+        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 198405,
+      "name": "Las Flores Sangran",
+      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
+        "name": "Fallaste",
+        "url": "https://open.spotify.com/album/5v8aMzOfrstHYKBSFp9V5P"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 156698,
+      "name": "Fallaste",
+      "url": "https://open.spotify.com/track/0E6xkmlNQ9GRHyir1tlg6u"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
         "name": "Todo est\u00e1 bien",
         "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 376123,
       "name": "Todo est\u00e1 bien",
       "url": "https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
     },
     {
       "added_at": "2023-06-16 04:27:32",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "Instinto Felino",
-        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 188431,
-      "name": "Lo Que Nadie Supo Dar",
-      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
-    },
-    {
-      "added_at": "2023-06-16 04:27:32",
-      "album": {
         "name": "Con los Pies en el Techo",
         "url": "https://open.spotify.com/album/72aS3wri62UToYS68QLUn4"
       },
@@ -1255,18 +1239,34 @@
     {
       "added_at": "2023-06-16 04:27:32",
       "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
         }
       ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+      "duration_ms": 162758,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+    },
+    {
+      "added_at": "2023-06-16 04:27:32",
+      "album": {
+        "name": "Instinto Felino",
+        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 188431,
+      "name": "Lo Que Nadie Supo Dar",
+      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
     }
   ],
   "unique_name": "Rock Total",

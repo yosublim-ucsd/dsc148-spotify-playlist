@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Kim Petras, Young Thug & Drake, Sean Leon & Daniel Caesar, and Valley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,224 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,260 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 12 | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/track/5DU3wahsCBJ6kkyDBYpIRN) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/album/67YRdAiqz6kybb31VrYo58) | 3:03 |
 | 13 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 |
 | 14 | [Jacquemus](https://open.spotify.com/track/2Clsrt0Md2mSXiokyUKgyA) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Jacquemus](https://open.spotify.com/album/2hK4uiwi4twuDMxTlrkXO3) | 2:44 |
-| 15 | [Without You](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
+| 15 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
 | 16 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 |
 | 17 | [LUNA](https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:43 |
 | 18 | [The Star Room \(OG Version\) \- Bonus Track](https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Watching Movies with the Sound Off \(10th Anniversary\)](https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Swan King](https://open.spotify.com/track/1NlaMRQ1q1sAlwUzjwHveQ) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Once You Fall](https://open.spotify.com/album/0LA1buGsrjXDvC1RRvlLV4) | 2:33 |
 | 100 | [how far will you go](https://open.spotify.com/track/7BBX8agn6l3GlJWCecoLi2) | [GOVI](https://open.spotify.com/artist/12qE4Gh9Ee2jAooVkZLq62) | [how far will you go](https://open.spotify.com/album/5APyne5EPcLxhAVEm95BK7) | 3:38 |
 
-Snapshot ID: `MCwyNDNiMmJmNGU3YjJmZjg4MjBlZTBkNzk1MWJmNjQxOTA0MGU2MTYz`
+Snapshot ID: `MCw3YjNlNTAwYTgyZjViZjUxMWY2Yjg0NjFjNDAwNjM3ZDlhMzMzYjk0`

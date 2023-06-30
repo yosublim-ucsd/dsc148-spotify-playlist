@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu?si=VHJtGOP-S_aMpuEi-GrdZQ\">Takie Ndou</a>\n",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz?si=9hLt7nr6SYiMzYnQrXbkgA\">Lusanda Spiritual Group</a>\n",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -152,7 +152,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 245000,
       "name": "Bonk'abantu",
       "url": "https://open.spotify.com/track/5NhTHoojMsw6eUlR5zLMef"
@@ -367,6 +367,28 @@
     },
     {
       "album": {
+        "name": "Emnqamlezweni (Mjinti Madlala Remix)",
+        "url": "https://open.spotify.com/album/0gaxz32VmXyvIhDV477Uy8"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        },
+        {
+          "name": "Mjinti Madlala",
+          "url": "https://open.spotify.com/artist/4u8ket1HXAThwBSwgRnMkt"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449567,
+      "name": "Emnqamlezweni - Mjinti Madlala Remix",
+      "url": "https://open.spotify.com/track/5E8uOfyS3dw7hRzDtav6ew"
+    },
+    {
+      "album": {
         "name": "End of the Story (Live)",
         "url": "https://open.spotify.com/album/3DgjW3Djx64mhcqG03jlL8"
       },
@@ -524,6 +546,28 @@
       "duration_ms": 288134,
       "name": "Hewale Lala (Symphonic Version)",
       "url": "https://open.spotify.com/track/1O2U5uabqVUv1IPC3UVPne"
+    },
+    {
+      "album": {
+        "name": "Hold On (Live)",
+        "url": "https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS"
+      },
+      "artists": [
+        {
+          "name": "Sibusiso Nzima",
+          "url": "https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b"
+        },
+        {
+          "name": "Bobo Jay Nzima",
+          "url": "https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405000,
+      "name": "Hold On (Live)",
+      "url": "https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO"
     },
     {
       "album": {
@@ -805,6 +849,32 @@
     },
     {
       "album": {
+        "name": "KE SIKILOE KE JESU",
+        "url": "https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG"
+      },
+      "artists": [
+        {
+          "name": "Locustmusiq",
+          "url": "https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j"
+        },
+        {
+          "name": "Dark shadow_msotra",
+          "url": "https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW"
+        },
+        {
+          "name": "Dintle",
+          "url": "https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293316,
+      "name": "KE SIKILOE KE JESU",
+      "url": "https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG"
+    },
+    {
+      "album": {
         "name": "Hymns of Faith (Live)",
         "url": "https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo"
       },
@@ -838,6 +908,24 @@
       "duration_ms": 309693,
       "name": "Lion of Judah (Live)",
       "url": "https://open.spotify.com/track/4C9RGcQVNS6bLhSXsvkwAO"
+    },
+    {
+      "album": {
+        "name": "Ndiyabulela",
+        "url": "https://open.spotify.com/album/3zKfcm9BarI8Y8fDcIChit"
+      },
+      "artists": [
+        {
+          "name": "Lusanda Spiritual Group",
+          "url": "https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276819,
+      "name": "Liyez'Ixesha",
+      "url": "https://open.spotify.com/track/5W6xoNGYkme6joSMEc5atz"
     },
     {
       "album": {
@@ -922,6 +1010,28 @@
       "duration_ms": 233034,
       "name": "Makubenjalo",
       "url": "https://open.spotify.com/track/7E1nIwEdItgP3pRkNVY6UQ"
+    },
+    {
+      "album": {
+        "name": "Ndiyabulela",
+        "url": "https://open.spotify.com/album/3zKfcm9BarI8Y8fDcIChit"
+      },
+      "artists": [
+        {
+          "name": "Lusanda Spiritual Group",
+          "url": "https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz"
+        },
+        {
+          "name": "Betusile Mcinga",
+          "url": "https://open.spotify.com/artist/75BZvMQ0SQYzoMAqxG3gcb"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274782,
+      "name": "Mandisithele",
+      "url": "https://open.spotify.com/track/2M4FfMNUar2NUEWFjKEhka"
     },
     {
       "album": {
@@ -1982,6 +2092,28 @@
       "duration_ms": 571053,
       "name": "Wasithethelela (Live)",
       "url": "https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG"
+    },
+    {
+      "album": {
+        "name": "We the Forgiven",
+        "url": "https://open.spotify.com/album/7MAvgcD8XDlxRxKKWPArf5"
+      },
+      "artists": [
+        {
+          "name": "We Will Worship",
+          "url": "https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"
+        },
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354038,
+      "name": "We the Forgiven",
+      "url": "https://open.spotify.com/track/0mlqXss7EiDxxv0sZ7J0FW"
     },
     {
       "album": {

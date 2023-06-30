@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8?si=974d0a44e99f4072">Jesus Culture<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,874 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,015 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 20 | [Show Me Your Glory \- Live](https://open.spotify.com/track/10nGOy0wVKIdn6CYzRiEfj) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Show Me Your Glory \(Live\)](https://open.spotify.com/album/1W5zJ4oPEYQbf5scIsfo7u) | 9:15 |
 | 21 | [Completely Abandoned \- Live](https://open.spotify.com/track/0WbABN4mypl8z5roDZMQeV) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Tracy Pratt](https://open.spotify.com/artist/45QTpsbrHjjbfUcSoz5BiC) | [Completely Abandoned \(Live\)](https://open.spotify.com/album/2IbZ16xSwJAQnxGM2CoHhe) | 5:54 |
 | 22 | [Plead The Blood \(with Brandon Lake and Cody Carnes\)](https://open.spotify.com/track/3O0KjuEzvCEZc3e7byO2sv) | [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Plead The Blood \(with Brandon Lake and Cody Carnes\)](https://open.spotify.com/album/6LEy05Metzcf34BHWz72sH) | 5:10 |
-| 23 | [Back To Life \- Studio Version](https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn) | [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Back To Life \(Studio Version\)](https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD) | 4:13 |
+| 23 | [Back To Life \- Studio Version](https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Back To Life \(Studio Version\)](https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD) | 4:13 |
 | 24 | [To Be With The Lord](https://open.spotify.com/track/4X95hDjmp1BD2ANBMIDRe2) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm) | 5:01 |
 | 25 | [Honest Offering / I Surrender All \- Live](https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Honest Offering \(Live\)](https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp) | 4:37 |
 | 26 | [Breaking Me Down](https://open.spotify.com/track/6A2sbpVQxa31IGAyglsLGy) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Take Over](https://open.spotify.com/album/2rHDifXL5BVB6mQSE48M0b) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [He Wears A Crown](https://open.spotify.com/track/5lNo4SMJW33l7Izhu6CY9b) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [He Wears A Crown](https://open.spotify.com/album/1XgBnHO6xTm7Tzodli0rsZ) | 3:37 |
 | 100 | [Let It Out \- Live](https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Let The River Flow \(Live\)](https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2) | 5:37 |
 
-Snapshot ID: `MCwzOGM1YjFiMWQ5NGVjZDRlOTE3YjUxODY3YzdlNjdlNmU1MDVkMGU3`
+Snapshot ID: `MCw0NmY4ODE5ZjRkOWFlN2RhNWY2YTM3ZDlkZTIxYzdmOThjMmQxY2Yx`

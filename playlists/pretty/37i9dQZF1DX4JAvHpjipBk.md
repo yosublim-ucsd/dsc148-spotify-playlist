@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Nicki Minaj & Ice Spice, Peso Pluma, Young Thug & Drake, Coi Leray, Anitta and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,126,983 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,127,439 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 33 | [Presidential Rolex](https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Presidential Rolex](https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx) | 2:28 |
 | 34 | [Shiesty \(feat\. Kali & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kali & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
 | 35 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy) | 2:22 |
-| 36 | [Without You](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
+| 36 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
 | 37 | [So Many Summers](https://open.spotify.com/track/6fLOf6vy3ZXYqJPAETavUb) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [So Many Summers](https://open.spotify.com/album/7LJugehkZRhRCm0RwX1j3M) | 3:44 |
 | 38 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 |
 | 39 | [Get It B4](https://open.spotify.com/track/14OYmvxPRx8lABHthDN4AX) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [The Idol Episode 3 \(Music from the HBO Original Series\)](https://open.spotify.com/album/5aX2plzPm0m6zk4ZFuqbuI) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Cherub](https://open.spotify.com/track/50WYoOH9qyAUQmsgn7bdT5) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Sewer Rat](https://open.spotify.com/album/5ct3lmfTmWd2MRgxsF6LHJ) | 2:39 |
 | 100 | [Rock On \- Spotify Singles \- From "The Muppets Mayhem"](https://open.spotify.com/track/6vwxGKQc5AWeV04dYQ9Ev2) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [Rock On \- Spotify Singles \(From "The Muppets Mayhem"\)](https://open.spotify.com/album/6H66bjvFnbFOnzkCstWJup) | 3:20 |
 
-Snapshot ID: `MCw2ZWI5OTc0NWMwNzI3ZjQ3NTVkNzc4Y2U4OTBjZmYyNzUxOTgwNGUx`
+Snapshot ID: `MCw3NjA4NDg3ZGJmN2ViYTJlNmZmMzA0MTQ2ODdhZDI3NzY3ODg2ZDlm`

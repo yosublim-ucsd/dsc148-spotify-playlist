@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 115105,
+  "num_followers": 115127,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmU1YTJhYTFlN2IxYWRkMGYyZDMyODgxMGFkNGE1OWI2MmQ0MGE5",
+  "snapshot_id": "MCxhMDdhNTA1OGQxNDliMTIyY2I0NzM1YzA4NzRiNGI5YTg0Yjk0N2U0",
   "tracks": [
     {
       "added_at": "2023-06-02 03:41:44",
@@ -203,6 +203,26 @@
     {
       "added_at": "2023-06-02 03:41:44",
       "album": {
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 302706,
+      "name": "Soprou",
+      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
+    },
+    {
+      "added_at": "2023-06-02 03:41:44",
+      "album": {
         "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
         "url": "https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 294545,
       "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
       "url": "https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq"
-    },
-    {
-      "added_at": "2023-06-02 03:41:44",
-      "album": {
-        "name": "Cinco",
-        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 302706,
-      "name": "Soprou",
-      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
     },
     {
       "added_at": "2023-06-02 03:41:44",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-06-02 03:41:44",
       "album": {
-        "name": "Me Toca",
-        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 186042,
-      "name": "Me Toca",
-      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
-    },
-    {
-      "added_at": "2023-06-02 03:41:44",
-      "album": {
         "name": "C\u00e9u Lil\u00e1s - Na Estrada",
         "url": "https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 218822,
       "name": "Na Estrada",
       "url": "https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY"
+    },
+    {
+      "added_at": "2023-06-02 03:41:44",
+      "album": {
+        "name": "Me Toca",
+        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 186042,
+      "name": "Me Toca",
+      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
     },
     {
       "added_at": "2023-06-02 03:41:44",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-02 03:41:44",
       "album": {
-        "name": "Apesar de Voc\u00ea",
-        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        }
-      ],
-      "duration_ms": 275333,
-      "name": "Apesar de Voc\u00ea",
-      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
-    },
-    {
-      "added_at": "2023-06-02 03:41:44",
-      "album": {
         "name": "Rua Tr\u00eas",
         "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 154647,
       "name": "Rua Tr\u00eas",
       "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
+    },
+    {
+      "added_at": "2023-06-02 03:41:44",
+      "album": {
+        "name": "Apesar de Voc\u00ea",
+        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        }
+      ],
+      "duration_ms": 275333,
+      "name": "Apesar de Voc\u00ea",
+      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
     },
     {
       "added_at": "2023-06-02 03:41:44",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-02 03:41:44",
       "album": {
-        "name": "Melhor Que Ontem",
-        "url": "https://open.spotify.com/album/64ux9afJoLaafAYumSppUl"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "Quem Me Conhece Sabe",
-      "url": "https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW"
-    },
-    {
-      "added_at": "2023-06-02 03:41:44",
-      "album": {
         "name": "sexto sentido",
         "url": "https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 156690,
       "name": "sexto sentido",
       "url": "https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX"
+    },
+    {
+      "added_at": "2023-06-02 03:41:44",
+      "album": {
+        "name": "Melhor Que Ontem",
+        "url": "https://open.spotify.com/album/64ux9afJoLaafAYumSppUl"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "Quem Me Conhece Sabe",
+      "url": "https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW"
     },
     {
       "added_at": "2023-06-02 03:41:44",
@@ -1047,58 +1047,6 @@
     {
       "added_at": "2023-06-02 03:41:44",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2023-06-02 03:41:44",
-      "album": {
-        "name": "Borboleta Efeito",
-        "url": "https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        },
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
-        }
-      ],
-      "duration_ms": 185874,
-      "name": "Borboleta Efeito",
-      "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
-    },
-    {
-      "added_at": "2023-06-02 03:41:44",
-      "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 304780,
-      "name": "Enquanto Durmo",
-      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
-    },
-    {
-      "added_at": "2023-06-02 03:41:44",
-      "album": {
         "name": "AMAR \u00e9 para os FORTES",
         "url": "https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK"
       },
@@ -1119,6 +1067,58 @@
       "duration_ms": 254200,
       "name": "DEPOIS DA TEMPESTADE}",
       "url": "https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN"
+    },
+    {
+      "added_at": "2023-06-02 03:41:44",
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2023-06-02 03:41:44",
+      "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 304780,
+      "name": "Enquanto Durmo",
+      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
+    },
+    {
+      "added_at": "2023-06-02 03:41:44",
+      "album": {
+        "name": "Borboleta Efeito",
+        "url": "https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        },
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "duration_ms": 185874,
+      "name": "Borboleta Efeito",
+      "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
     }
   ],
   "unique_name": "Cozinhando em Casa",

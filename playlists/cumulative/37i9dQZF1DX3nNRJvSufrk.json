@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Druguse",
+        "url": "https://open.spotify.com/album/33JOcNGQQ1MT6fYzfxAhJh"
+      },
+      "artists": [
+        {
+          "name": "Druguse",
+          "url": "https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208530,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/0qcYatTVf33ouptkYHtUqL"
+    },
+    {
+      "album": {
         "name": "Hood Rich Life",
         "url": "https://open.spotify.com/album/22eF4qZ2hPJHhrEZIM5Hqa"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 208530,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/1QVn0sWicVdDIeSzjH9Azl"
@@ -2496,6 +2514,28 @@
     {
       "album": {
         "name": "Slanted",
+        "url": "https://open.spotify.com/album/2I41rw3sceGcUVoKyIOxwB"
+      },
+      "artists": [
+        {
+          "name": "Tim Parker",
+          "url": "https://open.spotify.com/artist/2SzHSUFj8BUrUplhzpbW5T"
+        },
+        {
+          "name": "BSN Posse",
+          "url": "https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Slanted (BSN Posse Remix)",
+      "url": "https://open.spotify.com/track/5gtyWp5rTQXIouCryZm7fG"
+    },
+    {
+      "album": {
+        "name": "Slanted",
         "url": "https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA"
       },
       "artists": [
@@ -2510,7 +2550,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 226000,
       "name": "Slanted - BSN Posse Remix",
       "url": "https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA"

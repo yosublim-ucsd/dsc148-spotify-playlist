@@ -931,6 +931,32 @@
     },
     {
       "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
+      },
+      "artists": [
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165491,
+      "name": "DESOL\u00c9 (feat. Rhove & Geolier)",
+      "url": "https://open.spotify.com/track/2jeNH1ZJTHOX8upHBmPGzU"
+    },
+    {
+      "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },

@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-155 songs - 7 hr 43 min
+156 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Juno Love](https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [Juno Love](https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38) | 7:26 | 2023-04-06 |  |
 | [Just a Dream](https://open.spotify.com/track/4yFpHBMp9ruVQmN1TgGWOL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Just a Dream](https://open.spotify.com/album/7GuDH0XJmTsFJMAQ1ywTfz) | 2:29 | 2022-09-15 | 2022-09-30 |
 | [Keep On Dancing](https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Keep On Dancing](https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi) | 3:05 | 2022-09-15 | 2022-12-24 |
+| [Kids](https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Kids](https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T) | 2:21 | 2023-06-29 |  |
 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 | 2023-02-09 |  |
 | [Late Delivery](https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Late Delivery](https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552) | 3:22 | 2022-09-29 | 2023-01-06 |
 | [Liberation \- Re\-Edit](https://open.spotify.com/track/6WN6igAeshqOoQu0q2GoJG) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Liberation \(Re\-Edit\)](https://open.spotify.com/album/5Hlwyl3nWVOCYOCpzEIzyR) | 2:56 | 2022-09-15 | 2022-09-30 |

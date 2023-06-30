@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 32 | [La Drácula](https://open.spotify.com/track/6fd79PtewFZgLXYiIYhhLJ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:45 |
 | 33 | [Me Garanto](https://open.spotify.com/track/0M0PZQD7FVD9tgzX1VdRXf) | [Carol Roberto](https://open.spotify.com/artist/7jrmYkaX7aXULg3BX9YAYx) | [Me Garanto](https://open.spotify.com/album/1vWNsqfX0Bbq9Y7F7gEuHB) | 2:44 |
 | 34 | [Pesadona](https://open.spotify.com/track/54z8ZGkUgcpzHkm5Q0DsLL) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Castilhol](https://open.spotify.com/artist/5cM1DddgtQvDn421Wer6dI) | [Pesadona](https://open.spotify.com/album/0ioWJwPJLYgIOsvQ5HUclP) | 2:16 |
-| 35 | [Então Ora, Igreja](https://open.spotify.com/track/06Dt8u7ZFbnPMIWJdmY8QB) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Como o Céu Te Adora](https://open.spotify.com/album/1nx5w8zaBOoihVeszMVpGF) | 5:36 |
-| 36 | [Fantasma](https://open.spotify.com/track/5fx1egy2kKMVGj81oTnaqT) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:01 |
+| 35 | [Fantasma](https://open.spotify.com/track/5fx1egy2kKMVGj81oTnaqT) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:01 |
+| 36 | [Então Ora, Igreja](https://open.spotify.com/track/06Dt8u7ZFbnPMIWJdmY8QB) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Como o Céu Te Adora](https://open.spotify.com/album/1nx5w8zaBOoihVeszMVpGF) | 5:36 |
 | 37 | [Pájaro de Acero](https://open.spotify.com/track/4ZKcSMonbfKvy9owujzpt9) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 3:29 |
 | 38 | [Chances](https://open.spotify.com/track/4W9AwjzkVUIvdZr4eOnMu6) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:28 |
 | 39 | [Multidão](https://open.spotify.com/track/3sSJJfvqp9Lv1CNPWTETsv) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Bulla Beatz](https://open.spotify.com/artist/5KpnynCVA9MKJIqQFPnN7C) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 3:16 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 44 | [Vem Sabendo](https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Tudo Novo](https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg) | 4:59 |
 | 45 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
 
-Snapshot ID: `MjgxMzM0MDAsMDAwMDAwMDBiNjkyM2EwNDE3YTFhNTM5YTllMjVhN2Q5NjRiOTJiOA==`
+Snapshot ID: `MjgxMzQ4NDAsMDAwMDAwMDA2ZGIyY2Y4YzI4NDU1NzgzNGFiODA4NzMxN2Y0MDJmZQ==`

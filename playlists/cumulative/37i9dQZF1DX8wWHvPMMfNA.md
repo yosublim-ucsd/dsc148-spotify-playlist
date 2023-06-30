@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-526 songs - 1 day 10 hr 23 min
+527 songs - 1 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-05-04 |  |
 | [Comeuppance](https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Comeuppance](https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En) | 4:35 | 2023-06-01 |  |
 | [Conceptions](https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Conceptions](https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw) | 3:16 | 2023-01-19 |  |
+| [Confusion](https://open.spotify.com/track/1sfrJ2DKdKEjDccAxJR3be) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Confusion](https://open.spotify.com/album/4sejLrOmf7ooG9OK3y9sHm) | 3:09 | 2023-06-22 |  |
 | [Corners of the Parlor](https://open.spotify.com/track/6aiLqhTcNWps6NmvXoi7zo) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Corners of the Parlor](https://open.spotify.com/album/3xY9cBUyiQdLr98m0CRntx) | 2:10 | 2022-12-08 |  |
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-11-11 |  |
 | [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 | 2021-12-16 | 2022-11-11 |
@@ -263,7 +264,7 @@
 | [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2023-06-01 |  |
 | [Like Naomi](https://open.spotify.com/track/4iSBCmDWlP2Pp30uDg34vZ) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Like Naomi](https://open.spotify.com/album/3HqJKYNSlszttPwKtghxFC) | 3:52 | 2023-06-01 |  |
 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 | 2022-01-26 | 2022-11-11 |
-| [Limerence](https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Limerence](https://open.spotify.com/album/4dfayCxblG2wzUIJUYQeXG) | 3:47 | 2023-06-01 |  |
+| [Limerence](https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Limerence](https://open.spotify.com/album/4dfayCxblG2wzUIJUYQeXG) | 3:47 | 2023-06-01 | 2023-06-30 |
 | [Linda´s Dream](https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Linda´s Dream](https://open.spotify.com/album/0q30Csvy0pQmqQ9plA1jLZ) | 2:49 | 2023-06-22 |  |
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-23 |  |
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-11-11 |  |
@@ -361,7 +362,7 @@
 | [Polkadots And Moonbeams](https://open.spotify.com/track/1zXfSEEkoSsMNuoUSre4R5) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Polkadots And Moonbeams](https://open.spotify.com/album/6M3uviUycHWyhTrPeA8aZA) | 3:42 | 2022-11-11 | 2022-12-30 |
 | [Porgy \(I Loves You Porgy\) \- Outtake](https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 6:00 | 2022-01-26 | 2022-11-11 |
 | [Pot of gold](https://open.spotify.com/track/3UFfw35PZHkM0ZM8IvIGDB) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Pot of gold](https://open.spotify.com/album/7uXT61j09e3hcu2Ncm6mfq) | 3:27 | 2023-06-15 |  |
-| [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 | 2023-06-01 |  |
+| [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 | 2023-06-01 | 2023-06-30 |
 | [Prez Delight](https://open.spotify.com/track/6lGjkXzEE95Q0qma4QFVQL) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Prez Delight](https://open.spotify.com/album/3kdLQMUzpzQrGr23eznj7S) | 3:35 | 2023-06-01 |  |
 | [Prisoner Of Love](https://open.spotify.com/track/6gwOTHR7B1YyWlnAiMBoT0) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Teddy Wilson Quartet](https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c) | [Pres & Teddy](https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq) | 7:40 | 2022-01-26 | 2022-11-11 |
 | [Puppy Eyes](https://open.spotify.com/track/520YkTPlI3EqAjgONKWYM5) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [Puppy Eyes](https://open.spotify.com/album/0Hccs1iqF1ON4O7otJqA6M) | 3:31 | 2023-06-01 |  |
@@ -476,7 +477,7 @@
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-23 |  |
 | [This tape is good](https://open.spotify.com/track/07TfDT1EBdvlZ0yBwdiLkI) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This tape is good](https://open.spotify.com/album/7H56DNh2zsZbm0UR1Y2ODw) | 3:41 | 2023-06-01 |  |
 | [Three to Get Ready](https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:23 | 2021-12-16 | 2022-11-11 |
-| [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-06-01 | 2023-06-25 |
+| [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-06-01 |  |
 | [Till There Was You](https://open.spotify.com/track/2MTvxuqnAEzUctNDGGEIuu) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Gene Ammons Story: Gentle Jug](https://open.spotify.com/album/0CCKExA36huR4N871Qkszm) | 7:10 | 2022-06-29 | 2022-11-11 |
 | [Till There Was You](https://open.spotify.com/track/5CRUURL4TTPTxF36cDtX1J) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Three Little Words](https://open.spotify.com/album/5R2EebUkOPmRbw0wEhutCD) | 7:12 | 2022-05-13 | 2022-07-29 |
 | [Time After Time](https://open.spotify.com/track/6M5sixn4EsVnrxBE4RpTNr) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster and Associates](https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR) | 4:34 | 2021-12-16 |  |

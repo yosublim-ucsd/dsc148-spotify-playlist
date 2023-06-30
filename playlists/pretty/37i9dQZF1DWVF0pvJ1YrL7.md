@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,955 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,014 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 11 | [Eden Transit](https://open.spotify.com/track/16q8cwecGhHKGGiwTnkutf) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv) | 4:15 |
 | 12 | [0°C](https://open.spotify.com/track/1tnexZBkX24zkjm2s11E8Y) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:01 |
 | 13 | [Step](https://open.spotify.com/track/5UgO8EHWoyXKo9uGcpiab2) | [Hotel Silk](https://open.spotify.com/artist/2w74NOpyV1hM3L3NrZGLkd) | [Step](https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc) | 7:11 |
-| 14 | [Pfad des Windes](https://open.spotify.com/track/0WgSsCo3zWzkaHY0JlMoi9) | [Wolf Müller](https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D) | [Selectors 002 \- Young Marco](https://open.spotify.com/album/4fxpBVBg2qKcqWP4cQDwS6) | 6:07 |
-| 15 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 |
+| 14 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 |
+| 15 | [Pfad des Windes](https://open.spotify.com/track/0WgSsCo3zWzkaHY0JlMoi9) | [Wolf Müller](https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D) | [Selectors 002 \- Young Marco](https://open.spotify.com/album/4fxpBVBg2qKcqWP4cQDwS6) | 6:07 |
 | 16 | [Bright Curse](https://open.spotify.com/track/5alGyitAXv0hCk5aRw5JZP) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R) | [Fenella](https://open.spotify.com/album/2sN4bZ62m6lmfZp9J3JqDg) | 3:50 |
 | 17 | [rightclick](https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [utopia](https://open.spotify.com/album/5defpn27uPvw6KeSt1s0gP) | 2:54 |
 | 18 | [Not Not Not](https://open.spotify.com/track/0gReAloAEMGmMftpG64Cfw) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/5KduXFab1jkKushmutNYbq) | 5:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [On a Hilltop Sat the Moon](https://open.spotify.com/track/3182ZGsY58yGqlr1BJZBgZ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fear in a Handful of Dust](https://open.spotify.com/album/5JntKJacrklh6D69IsETO7) | 3:36 |
 | 50 | [Rise to Ashes](https://open.spotify.com/track/0bjo8nQLLKuiaIYj3xVNt1) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 5:03 |
 
-Snapshot ID: `MCw0MmJlOWQ0MTY2M2ZhNTBiNTBkZmQwYmExZDRkNmE0OWZkYmMzMTQz`
+Snapshot ID: `MCwyMjU5NTBmMDRlMDBiNTJmY2ZhNTM0ZmYxNWNkNWUzODY0ZTRmNDkx`

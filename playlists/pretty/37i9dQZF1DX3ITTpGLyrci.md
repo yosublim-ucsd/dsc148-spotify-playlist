@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 
 > Get the drinks on ice, this one is on us
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,657 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,875 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 99 | [Sunlight \(feat\. Years & Years\) \- Radio Edit](https://open.spotify.com/track/5r3aYGutXgsxSqB6W3RrzJ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years & Years\) \[Radio Edit\]](https://open.spotify.com/album/7yDiBp7t2j6OT7KopH2ulG) | 3:13 |
 | 100 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 |
 
-Snapshot ID: `MCw5ODQ4MTUyNGIyOThiNWYzMjgxMzhlNmFjYjRmMzRlMmI0ODJhNzY4`
+Snapshot ID: `MCw5YzM2M2FkNGQ3ODFlNzc2OWQ0MmRhNzg0Njk0MGJiYzcxOTlhN2Ex`

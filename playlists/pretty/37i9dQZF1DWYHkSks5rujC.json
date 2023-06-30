@@ -1,12 +1,12 @@
 {
   "description": "A journey through The Beatles' career.",
-  "num_followers": 228458,
+  "num_followers": 228506,
   "original_name": "The Long and Winding Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2NlZWExOTUwOTVmMTdkZTA4NTcyNjgwYjM3NjM5YWUyNTlkNjdm",
+  "snapshot_id": "MCxlNzkwZmNiZmRlNGVhMDBjZTk1MTdmOTZlZWNiMDdhZWFkNWYyNDFk",
   "tracks": [
     {
       "added_at": "2022-04-12 12:30:57",
@@ -75,8 +75,8 @@
     {
       "added_at": "2022-04-12 12:30:57",
       "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
       },
       "artists": [
         {
@@ -84,15 +84,15 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 140920,
-      "name": "She Loves You - Mono / Remastered",
-      "url": "https://open.spotify.com/track/6nEkxYIEnrbYH7h1hJ8Xn6"
+      "duration_ms": 142653,
+      "name": "She Loves You - Mono Version / Remastered 2009",
+      "url": "https://open.spotify.com/track/0qsS2A3hwicJCLtcaR6JRQ"
     },
     {
       "added_at": "2022-04-12 12:30:57",
       "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 145746,
-      "name": "I Want To Hold Your Hand - Remastered 2015",
-      "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
+      "duration_ms": 146720,
+      "name": "I Want To Hold Your Hand - Remastered 2009",
+      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
     },
     {
       "added_at": "2022-04-12 12:30:57",

@@ -1,15 +1,31 @@
 {
-  "description": "The cream of today's Country crop. Cover: Seaforth",
-  "num_followers": 348033,
+  "description": "The cream of today's Country crop. Cover: Brooke McClymont & Adam Eckersley",
+  "num_followers": 348125,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTRhODRkNmYyOGFhYzExMzg2M2IzNjgwZDAzZWU5NDY1YTNiMmMw",
+  "snapshot_id": "MCw2ZjMxZGUwYzBmN2MyZmU0MTUxNGEzNWNiNDJhOGE5YmI5MTAwODc2",
   "tracks": [
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Something's Gonna Kill Me",
+        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "Something's Gonna Kill Me",
+      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Dancing in the Sky",
         "url": "https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "NIGHTS LIKE THIS",
-        "url": "https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
-        }
-      ],
-      "duration_ms": 183924,
-      "name": "NIGHTS LIKE THIS",
-      "url": "https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
@@ -61,39 +61,23 @@
       "url": "https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
-        "name": "Get The Girl",
-        "url": "https://open.spotify.com/album/2inyimCr6ymziueiISBpzE"
+        "name": "NIGHTS LIKE THIS",
+        "url": "https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
         }
       ],
-      "duration_ms": 172364,
-      "name": "Get The Girl",
-      "url": "https://open.spotify.com/track/4USdlx544NYIuGc4I1Orbl"
+      "duration_ms": 183924,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Penthouse",
-      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "WE GREW UP ON",
         "url": "https://open.spotify.com/album/7xhGdEgZj20XawnTHMhslo"
@@ -109,7 +93,55 @@
       "url": "https://open.spotify.com/track/4L6WubWBzCxf385jtUQmvw"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Up, Down & Sideways",
+        "url": "https://open.spotify.com/album/5wEvYYwZUu3PPFnGZZVDgJ"
+      },
+      "artists": [
+        {
+          "name": "Brooke McClymont & Adam Eckersley",
+          "url": "https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/1kJQe436UBzEugo3TUQNdt"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Get The Girl",
+        "url": "https://open.spotify.com/album/2inyimCr6ymziueiISBpzE"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 172364,
+      "name": "Get The Girl",
+      "url": "https://open.spotify.com/track/4USdlx544NYIuGc4I1Orbl"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "But I Got A Beer In My Hand",
         "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
@@ -145,23 +177,7 @@
       "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "I\u2019m Never Drinking Again",
-        "url": "https://open.spotify.com/album/13DVGcQBBnBI94jU0j8jCd"
-      },
-      "artists": [
-        {
-          "name": "Claudia Tripp",
-          "url": "https://open.spotify.com/artist/5I0T6nRUCHMYv7zytK5zPB"
-        }
-      ],
-      "duration_ms": 198949,
-      "name": "I\u2019m Never Drinking Again",
-      "url": "https://open.spotify.com/track/4tFdZ7jnYW3zjSzIKuYbfi"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
@@ -177,39 +193,55 @@
       "url": "https://open.spotify.com/track/5uPQjirx9C6MS47V556x46"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
-        "name": "Boys Like Me",
-        "url": "https://open.spotify.com/album/4jT76b8EDRQ8Rgbly0hNQ2"
+        "name": "NATE SMITH (DELUXE)",
+        "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
       "artists": [
         {
-          "name": "Casey Barnes",
-          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/7jKu9iarHPlZMCs4h2ruRp"
+      "duration_ms": 189986,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
-        "name": "Take Me Out",
-        "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
+        "name": "I\u2019m Never Drinking Again",
+        "url": "https://open.spotify.com/album/13DVGcQBBnBI94jU0j8jCd"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Claudia Tripp",
+          "url": "https://open.spotify.com/artist/5I0T6nRUCHMYv7zytK5zPB"
         }
       ],
-      "duration_ms": 243453,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
+      "duration_ms": 198949,
+      "name": "I\u2019m Never Drinking Again",
+      "url": "https://open.spotify.com/track/4tFdZ7jnYW3zjSzIKuYbfi"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Set Your Sights",
+        "url": "https://open.spotify.com/album/257WF7WPxfg6m3nIRLYXTv"
+      },
+      "artists": [
+        {
+          "name": "Will Day",
+          "url": "https://open.spotify.com/artist/6eUZAV9XRJh0Tzn7EGYJcw"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Set Your Sights",
+      "url": "https://open.spotify.com/track/4FRRnwHu64qxfMo76D91SE"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Straight and Narrow",
         "url": "https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav"
@@ -225,7 +257,59 @@
       "url": "https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Boys Like Me",
+        "url": "https://open.spotify.com/album/4jT76b8EDRQ8Rgbly0hNQ2"
+      },
+      "artists": [
+        {
+          "name": "Casey Barnes",
+          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/7jKu9iarHPlZMCs4h2ruRp"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Take Me Out",
+        "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Dive Bars & Broken Hearts EP",
+        "url": "https://open.spotify.com/album/5GdX1cmOWhsYhbtAiIY5de"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        },
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Spirits and Demons (with Meghan Patrick)",
+      "url": "https://open.spotify.com/track/50EGsYVI4bC5AmfYp5KFvl"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Outskirts",
         "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
@@ -241,55 +325,7 @@
       "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Country Proud",
-        "url": "https://open.spotify.com/album/4V1GRx7loRe1e9Hg5EMxAV"
-      },
-      "artists": [
-        {
-          "name": "Taylor Moss",
-          "url": "https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Country Proud",
-      "url": "https://open.spotify.com/track/52cRNOQ6qo2ecpN8LXBtCf"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Where Does That Leave Me?",
-        "url": "https://open.spotify.com/album/4VrfLVjChO54xK7tx1foCx"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Berman",
-          "url": "https://open.spotify.com/artist/7nodCh6KwfOzrvncmX4N0F"
-        }
-      ],
-      "duration_ms": 206170,
-      "name": "Where Does That Leave Me?",
-      "url": "https://open.spotify.com/track/7JgRiufH2p2JqsvVavbvtw"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "This Town's Been Too Good To Us",
         "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
@@ -305,39 +341,55 @@
       "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
-        "name": "Something's Gonna Kill Me",
-        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
+        "name": "Country Proud",
+        "url": "https://open.spotify.com/album/4V1GRx7loRe1e9Hg5EMxAV"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Taylor Moss",
+          "url": "https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj"
         }
       ],
-      "duration_ms": 183680,
-      "name": "Something's Gonna Kill Me",
-      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
+      "duration_ms": 171266,
+      "name": "Country Proud",
+      "url": "https://open.spotify.com/track/52cRNOQ6qo2ecpN8LXBtCf"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
-        "name": "A Boy That's Into Trucks",
-        "url": "https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
-          "name": "Sara Berki",
-          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 205592,
-      "name": "A Boy That's Into Trucks",
-      "url": "https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb"
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Where Does That Leave Me?",
+        "url": "https://open.spotify.com/album/4VrfLVjChO54xK7tx1foCx"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Berman",
+          "url": "https://open.spotify.com/artist/7nodCh6KwfOzrvncmX4N0F"
+        }
+      ],
+      "duration_ms": 206170,
+      "name": "Where Does That Leave Me?",
+      "url": "https://open.spotify.com/track/7JgRiufH2p2JqsvVavbvtw"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
@@ -353,23 +405,39 @@
       "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/0qOykoKDwFrIptoy8xfFtg"
+        "name": "A Boy That's Into Trucks",
+        "url": "https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar"
       },
       "artists": [
         {
-          "name": "Loren Ryan",
-          "url": "https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG"
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
         }
       ],
-      "duration_ms": 183500,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/59mJu1tq9QWkxlIYrF3kRI"
+      "duration_ms": 205592,
+      "name": "A Boy That's Into Trucks",
+      "url": "https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Now She Ain't",
+        "url": "https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "duration_ms": 175862,
+      "name": "Now She Ain't",
+      "url": "https://open.spotify.com/track/5uWiBMDjI0vnmVOuTFhwFf"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Half the Man",
         "url": "https://open.spotify.com/album/6J9yFlQhmFK4ehkTkEb4W3"
@@ -385,39 +453,7 @@
       "url": "https://open.spotify.com/track/16IXpCiQHWKKsTulspUpAF"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Life Upside Down EP",
-        "url": "https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
-        }
-      ],
-      "duration_ms": 190009,
-      "name": "Hey Little Mama",
-      "url": "https://open.spotify.com/track/39gAMEu1yMJ2AoAxa85DRG"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "When Summer Rolls Around",
-        "url": "https://open.spotify.com/album/5NMwJDRtnNbT8xmnBuEHry"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
-        }
-      ],
-      "duration_ms": 174581,
-      "name": "When Summer Rolls Around",
-      "url": "https://open.spotify.com/track/1GMB1aiS4IT58g9LaUehcN"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Pretty Little Poison",
         "url": "https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M"
@@ -433,23 +469,55 @@
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
-        "name": "Beach House EP",
-        "url": "https://open.spotify.com/album/6rUHR6JumTPgpP3q5G3Usq"
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/0qOykoKDwFrIptoy8xfFtg"
       },
       "artists": [
         {
-          "name": "Jamie McDell",
-          "url": "https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH"
+          "name": "Loren Ryan",
+          "url": "https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG"
         }
       ],
-      "duration_ms": 194033,
-      "name": "Madeline",
-      "url": "https://open.spotify.com/track/2LPkPV3xEQegxAp3dTQseZ"
+      "duration_ms": 183500,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/59mJu1tq9QWkxlIYrF3kRI"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Life Upside Down EP",
+        "url": "https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "duration_ms": 190009,
+      "name": "Hey Little Mama",
+      "url": "https://open.spotify.com/track/39gAMEu1yMJ2AoAxa85DRG"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "When Summer Rolls Around",
+        "url": "https://open.spotify.com/album/5NMwJDRtnNbT8xmnBuEHry"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "duration_ms": 174581,
+      "name": "When Summer Rolls Around",
+      "url": "https://open.spotify.com/track/1GMB1aiS4IT58g9LaUehcN"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "3 Songs At A Time Sampler",
         "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
@@ -465,7 +533,23 @@
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Excuse The Mess",
+        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Could've Been Her",
+      "url": "https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Any Less Anymore",
         "url": "https://open.spotify.com/album/7kzmnHQbgOfSfAl5oYw0w5"
@@ -485,23 +569,7 @@
       "url": "https://open.spotify.com/track/5NNa1fMOhdCJUgCqzFwmkG"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Jaw Dropping",
-        "url": "https://open.spotify.com/album/7tA205mt3I1CSyQkRQJY0d"
-      },
-      "artists": [
-        {
-          "name": "Mason & Julez",
-          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
-        }
-      ],
-      "duration_ms": 179411,
-      "name": "Jaw Dropping",
-      "url": "https://open.spotify.com/track/50Fkawtaa85Ww338YRXXNM"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Watermelon Moonshine",
         "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
@@ -517,7 +585,7 @@
       "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Poets & Old Souls",
         "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
@@ -533,151 +601,7 @@
       "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Excuse The Mess",
-        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Could've Been Her",
-      "url": "https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Now She Ain't",
-        "url": "https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM"
-      },
-      "artists": [
-        {
-          "name": "Brad Cox",
-          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
-        }
-      ],
-      "duration_ms": 175862,
-      "name": "Now She Ain't",
-      "url": "https://open.spotify.com/track/5uWiBMDjI0vnmVOuTFhwFf"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 153296,
-      "name": "Traitor Joe",
-      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Try That In A Small Town",
-        "url": "https://open.spotify.com/album/4mYJYGql59RcwSLCyjYDNO"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 180033,
-      "name": "Try That In A Small Town",
-      "url": "https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Dirty Laundry",
-        "url": "https://open.spotify.com/album/0XynqriTSlKemlhDUu28jd"
-      },
-      "artists": [
-        {
-          "name": "Sammy White",
-          "url": "https://open.spotify.com/artist/3H2uDUlFVxsrI8wqBOIGEP"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Countryside",
-      "url": "https://open.spotify.com/track/2Kdv66NqrbPUDTcJuvjfMU"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Bury Me in Georgia",
-        "url": "https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 170682,
-      "name": "Bury Me in Georgia - Single Edit",
-      "url": "https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Mama's Eyes",
-        "url": "https://open.spotify.com/album/2OUWJQrzQJNk3Oeew9oN0T"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "Mama's Eyes",
-      "url": "https://open.spotify.com/track/3vDIOac07rO5yGTvNeNSh7"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 233869,
-      "name": "Burn It Down",
-      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Bloom & Surrender",
-        "url": "https://open.spotify.com/album/5FW3FwReSPdFC5fVANPqqe"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Shadbolt",
-          "url": "https://open.spotify.com/artist/4AnRUN3FJq0GZ0RCoRpgNC"
-        }
-      ],
-      "duration_ms": 199928,
-      "name": "Common Ground",
-      "url": "https://open.spotify.com/track/54Zy7I0104rUDCOlVJVXaq"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "5 Leaf Clover",
         "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
@@ -693,7 +617,167 @@
       "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 153296,
+      "name": "Traitor Joe",
+      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Try That In A Small Town",
+        "url": "https://open.spotify.com/album/4mYJYGql59RcwSLCyjYDNO"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 180033,
+      "name": "Try That In A Small Town",
+      "url": "https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Beach House EP",
+        "url": "https://open.spotify.com/album/6rUHR6JumTPgpP3q5G3Usq"
+      },
+      "artists": [
+        {
+          "name": "Jamie McDell",
+          "url": "https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH"
+        }
+      ],
+      "duration_ms": 194033,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/2LPkPV3xEQegxAp3dTQseZ"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Now She Ain't",
+        "url": "https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "duration_ms": 232224,
+      "name": "Acres",
+      "url": "https://open.spotify.com/track/68Em9vuEpyi3DMxeDiCe2m"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Jaw Dropping",
+        "url": "https://open.spotify.com/album/7tA205mt3I1CSyQkRQJY0d"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        }
+      ],
+      "duration_ms": 179411,
+      "name": "Jaw Dropping",
+      "url": "https://open.spotify.com/track/50Fkawtaa85Ww338YRXXNM"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Dirty Laundry",
+        "url": "https://open.spotify.com/album/0XynqriTSlKemlhDUu28jd"
+      },
+      "artists": [
+        {
+          "name": "Sammy White",
+          "url": "https://open.spotify.com/artist/3H2uDUlFVxsrI8wqBOIGEP"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Countryside",
+      "url": "https://open.spotify.com/track/2Kdv66NqrbPUDTcJuvjfMU"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Bury Me in Georgia",
+        "url": "https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 170682,
+      "name": "Bury Me in Georgia - Single Edit",
+      "url": "https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Mama's Eyes",
+        "url": "https://open.spotify.com/album/2OUWJQrzQJNk3Oeew9oN0T"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "Mama's Eyes",
+      "url": "https://open.spotify.com/track/3vDIOac07rO5yGTvNeNSh7"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 233869,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Bloom & Surrender",
+        "url": "https://open.spotify.com/album/5FW3FwReSPdFC5fVANPqqe"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Shadbolt",
+          "url": "https://open.spotify.com/artist/4AnRUN3FJq0GZ0RCoRpgNC"
+        }
+      ],
+      "duration_ms": 199928,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/54Zy7I0104rUDCOlVJVXaq"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Raise Me",
         "url": "https://open.spotify.com/album/70bvuJAIvacEXoOVcZSvmQ"
@@ -709,7 +793,247 @@
       "url": "https://open.spotify.com/track/4TazvOlJBRopmxCN0aTiEA"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/2CYk6UftZW4oIig98jYMI0"
+      },
+      "artists": [
+        {
+          "name": "Casey Barnes",
+          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
+        }
+      ],
+      "duration_ms": 171802,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/4JirGOs4LxL71MMiZ2VCba"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 182465,
+      "name": "Get to Gettin\u2019 Gone",
+      "url": "https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "On My Own Again",
+        "url": "https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "duration_ms": 178322,
+      "name": "On My Own Again",
+      "url": "https://open.spotify.com/track/3S75Qwx2CglNQclN4ygDsL"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "BOOTS 'N ALL",
+        "url": "https://open.spotify.com/album/3Ka59QjpyIPyRnGNXnYsZm"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "duration_ms": 165090,
+      "name": "BOOTS 'N ALL",
+      "url": "https://open.spotify.com/track/2PZhGCCKW2kkklYLjGK2BZ"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Heading South",
+        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Heading South",
+      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Beer and Fishin'",
+        "url": "https://open.spotify.com/album/1EpFGwrI0vUVf7YPhUgZCe"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "duration_ms": 172277,
+      "name": "Beer and Fishin'",
+      "url": "https://open.spotify.com/track/2X4tiYAiMhvwOXIQXjNkyk"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Sleep On It",
+        "url": "https://open.spotify.com/album/6qz0hjuJHpeaiQNzk37vuk"
+      },
+      "artists": [
+        {
+          "name": "Zac & George",
+          "url": "https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/4WIfHW4NCpHuypEQYZ4PGi"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Like It Like It Is",
+        "url": "https://open.spotify.com/album/6cXk05iNUlYUsZ4EPlSON0"
+      },
+      "artists": [
+        {
+          "name": "Max Jackson",
+          "url": "https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Like It Like It Is",
+      "url": "https://open.spotify.com/track/2oAXPZqPeQqIjUIawx5Is5"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Next Thing You Know",
+        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Pretty Doesn't Make You Good",
+        "url": "https://open.spotify.com/album/2CCgH95QT9QgkKSU1HdZyN"
+      },
+      "artists": [
+        {
+          "name": "Darlinghurst",
+          "url": "https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA"
+        }
+      ],
+      "duration_ms": 173861,
+      "name": "Pretty Doesn't Make You Good",
+      "url": "https://open.spotify.com/track/6HAMVck4qqyaEvvO35FoLi"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "GOT IT GOOD",
+        "url": "https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "duration_ms": 173031,
+      "name": "GOT IT GOOD",
+      "url": "https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Growin' Up and Gettin' Old",
+        "url": "https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Growin' Up and Gettin' Old",
+      "url": "https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "Dying Man",
+      "url": "https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Religiously",
+      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Acres",
         "url": "https://open.spotify.com/album/7i5lVXY0ro1Y94G6AqlS2e"
@@ -729,295 +1053,7 @@
       "url": "https://open.spotify.com/track/1tzga9gxw04e70G72qMtd3"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/2CYk6UftZW4oIig98jYMI0"
-      },
-      "artists": [
-        {
-          "name": "Casey Barnes",
-          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
-        }
-      ],
-      "duration_ms": 171802,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/4JirGOs4LxL71MMiZ2VCba"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 182465,
-      "name": "Get to Gettin\u2019 Gone",
-      "url": "https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "On My Own Again",
-        "url": "https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va"
-      },
-      "artists": [
-        {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
-        }
-      ],
-      "duration_ms": 178322,
-      "name": "On My Own Again",
-      "url": "https://open.spotify.com/track/3S75Qwx2CglNQclN4ygDsL"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "BOOTS 'N ALL",
-        "url": "https://open.spotify.com/album/3Ka59QjpyIPyRnGNXnYsZm"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
-        }
-      ],
-      "duration_ms": 165090,
-      "name": "BOOTS 'N ALL",
-      "url": "https://open.spotify.com/track/2PZhGCCKW2kkklYLjGK2BZ"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Heading South",
-        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Heading South",
-      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Sleep On It",
-        "url": "https://open.spotify.com/album/6qz0hjuJHpeaiQNzk37vuk"
-      },
-      "artists": [
-        {
-          "name": "Zac & George",
-          "url": "https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/4WIfHW4NCpHuypEQYZ4PGi"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Like It Like It Is",
-        "url": "https://open.spotify.com/album/6cXk05iNUlYUsZ4EPlSON0"
-      },
-      "artists": [
-        {
-          "name": "Max Jackson",
-          "url": "https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Like It Like It Is",
-      "url": "https://open.spotify.com/track/2oAXPZqPeQqIjUIawx5Is5"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Next Thing You Know",
-        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Next Thing You Know",
-      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Pretty Doesn't Make You Good",
-        "url": "https://open.spotify.com/album/2CCgH95QT9QgkKSU1HdZyN"
-      },
-      "artists": [
-        {
-          "name": "Darlinghurst",
-          "url": "https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA"
-        }
-      ],
-      "duration_ms": 173861,
-      "name": "Pretty Doesn't Make You Good",
-      "url": "https://open.spotify.com/track/6HAMVck4qqyaEvvO35FoLi"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "GOT IT GOOD",
-        "url": "https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF"
-      },
-      "artists": [
-        {
-          "name": "James Johnston",
-          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
-        }
-      ],
-      "duration_ms": 173031,
-      "name": "GOT IT GOOD",
-      "url": "https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Beer and Fishin'",
-        "url": "https://open.spotify.com/album/1EpFGwrI0vUVf7YPhUgZCe"
-      },
-      "artists": [
-        {
-          "name": "Brad Cox",
-          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
-        }
-      ],
-      "duration_ms": 172277,
-      "name": "Beer and Fishin'",
-      "url": "https://open.spotify.com/track/2X4tiYAiMhvwOXIQXjNkyk"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Growin' Up and Gettin' Old",
-        "url": "https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Growin' Up and Gettin' Old",
-      "url": "https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "Dying Man",
-      "url": "https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Lightning Strikes and Neon Nights",
-        "url": "https://open.spotify.com/album/55HTZMTZo36Yg7C3O8EamR"
-      },
-      "artists": [
-        {
-          "name": "Andrew Swift",
-          "url": "https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Cheap Liquor",
-      "url": "https://open.spotify.com/track/5twCxGXVBfZ6gNtGLfJhNu"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Religiously",
-      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/6KDINvcBPKMM9irLEM1nV2"
-      },
-      "artists": [
-        {
-          "name": "Abby Christo",
-          "url": "https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH"
-        }
-      ],
-      "duration_ms": 193851,
-      "name": "Note To Self",
-      "url": "https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Now She Ain't",
-        "url": "https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM"
-      },
-      "artists": [
-        {
-          "name": "Brad Cox",
-          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
-        }
-      ],
-      "duration_ms": 232224,
-      "name": "Acres",
-      "url": "https://open.spotify.com/track/68Em9vuEpyi3DMxeDiCe2m"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Livin' The Dream",
         "url": "https://open.spotify.com/album/79THFfQB6XH5C9zaSnxi3c"
@@ -1037,23 +1073,7 @@
       "url": "https://open.spotify.com/track/4iA14miA1x0Kq86zZIRZpX"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/1ZaHS1vWuq7mf7eniVTiFC"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 161042,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7fqqGL94As2CNyMy54plgo"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Over For You",
         "url": "https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2"
@@ -1069,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Out Of That Truck",
         "url": "https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ"
@@ -1085,39 +1105,7 @@
       "url": "https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "End Up With Me",
-        "url": "https://open.spotify.com/album/4csq2ZqjjGKrJGj9798iXf"
-      },
-      "artists": [
-        {
-          "name": "Mason & Julez",
-          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
-        }
-      ],
-      "duration_ms": 163291,
-      "name": "End Up With Me",
-      "url": "https://open.spotify.com/track/4UOIb7ID8WEfWRwETcsrXK"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
-      "album": {
-        "name": "Dancin' In The Country",
-        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "Dancin\u2019 In The Country",
-      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
-    },
-    {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/7eaFOkg9K2iccAFK8mcRZT"
@@ -1133,7 +1121,7 @@
       "url": "https://open.spotify.com/track/30nMa90oTf1bRnByWAPvQk"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Damn You",
         "url": "https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je"
@@ -1149,7 +1137,7 @@
       "url": "https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Bar Stool",
         "url": "https://open.spotify.com/album/0SjN1060n5MWfmGaveIxx0"
@@ -1165,7 +1153,7 @@
       "url": "https://open.spotify.com/track/3BXXeeDb5cRoU8ltoBSwZL"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
@@ -1185,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
@@ -1201,7 +1189,23 @@
       "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/6KDINvcBPKMM9irLEM1nV2"
+      },
+      "artists": [
+        {
+          "name": "Abby Christo",
+          "url": "https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH"
+        }
+      ],
+      "duration_ms": 193851,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N"
+    },
+    {
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Damn Love",
         "url": "https://open.spotify.com/album/1fvyi30P2ZxqMqtxd6wTai"
@@ -1217,7 +1221,7 @@
       "url": "https://open.spotify.com/track/7uuMtZ0IkdybIPJvvwfHaI"
     },
     {
-      "added_at": "2023-06-22 14:00:00",
+      "added_at": "2023-06-29 14:00:00",
       "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56"

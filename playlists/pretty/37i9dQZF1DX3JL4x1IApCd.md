@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 
 > Editor's pick: The best of Gengetone songs of 2022\. Cover: Exray Taniua
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,439 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,440 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 23 | [Siskii](https://open.spotify.com/track/7puSVBxqYL4iHE3s6Xu7dx) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Mejja](https://open.spotify.com/album/0rTXdHoCzmgo3aIwMyRU3c) | 3:13 |
 | 24 | [Hivi Na Hivo](https://open.spotify.com/track/4qgXVPkYela0Ql8svwNbU6) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Frisky](https://open.spotify.com/album/6QZ8KKgYXkrz5z8MHd0Kle) | 3:07 |
 | 25 | [BIZZ NI BIZZ](https://open.spotify.com/track/2aHwfcPILQmSLOTHHfQqiY) | [Ethic](https://open.spotify.com/artist/1WQ1lasaBi46OgC1kSMvqz) | [BIZZ NI BIZZ](https://open.spotify.com/album/6pBjx6fARnklsLoPDBErLF) | 3:52 |
-| 26 | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr) | 3:07 |
+| 26 | [Hapo Tu](https://open.spotify.com/track/5g90vbGDO2zc7tYUqUHtmN) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Hapo Tu](https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc) | 3:07 |
 | 27 | [Miondoko](https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar) | [Rico Gang](https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [Sababisha](https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q) | 3:04 |
 | 28 | [Sirudi Home \- Remix](https://open.spotify.com/track/5hs1gahEFK0BFiiU3IEv59) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP) | [Sirudi Home \(Remix\)](https://open.spotify.com/album/6P77L5zVgL0Gz3YnSjTSIa) | 3:38 |
 | 29 | [Usherati](https://open.spotify.com/track/6XckSdd5zp9cJpplwOL9nJ) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Usherati](https://open.spotify.com/album/1FdL2SPh9V7zT8uAQC5god) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 49 | [Danshie](https://open.spotify.com/track/2cy5jKcaRg831XEwEyxSR8) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G), [Kappy](https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR), [Mazi Mzii](https://open.spotify.com/artist/3OOlhIXNjmTzWRR5fAe9Ae), [Seska](https://open.spotify.com/artist/6Aaa7yDYK3riykCOqG0WrA) | [Danshie](https://open.spotify.com/album/7AxKRbpMpnRaJ1Dtt1XcKc) | 3:17 |
 | 50 | [Ka Unaweza](https://open.spotify.com/track/7lk6GK9hQSXbeornMmYll5) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Ka Unaweza](https://open.spotify.com/album/5DoBdO4BJ2QfGJ7DqjwdqO) | 3:14 |
 
-Snapshot ID: `MCwwYmRiY2NjYjdlYmI3OGU2YzVhYTUwOTM3ZTgxMzFhMmQxMzNmN2Y2`
+Snapshot ID: `MCxjOWEyY2RjNzEwNDA3NTFkMDJjMjQ3MGVmMDdlODBlMjcwYWU2YWZj`

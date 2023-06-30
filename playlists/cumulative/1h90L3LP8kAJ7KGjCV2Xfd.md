@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/1h90L3LP8kAJ7KGjCV2Xfd.md) - cumulative - [plain](/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd)
 
-### [HAPPY SONGS 🤩 FEEL GOOD VIBES](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
+### [Happy Songs 🤩 Feel Good Hits](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
 
-> happy vibes \| feel good mix \| mood booster \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| songs to smile to \| laugh
+> happy \| vibes \| feel good \| music \| mood boost \| July 4th \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-233 songs - 12 hr 58 min
+236 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-18 |  |
 | [False Idol](https://open.spotify.com/track/2ZtCpgZrWRZOZv9hpym5YU) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [False Idol](https://open.spotify.com/album/1imUbzypSmVJn0nTJSEI6V) | 2:27 | 2023-02-07 | 2023-02-28 |
 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2022-06-03 |  |
+| [Favorite Daze](https://open.spotify.com/track/4OOJFZFvuJaaFqizllDcC1) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Favorite Daze](https://open.spotify.com/album/1XE1p6clkBjZ3fix2rfXnc) | 3:26 | 2023-06-29 |  |
 | [Feels Like Summer](https://open.spotify.com/track/0ZERGmkfuDSrLaIzEGFdiH) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Feels Like Summer](https://open.spotify.com/album/6URIHB3zQ2ba7msR4gqf0k) | 3:07 | 2022-06-03 |  |
 | [First Kiss](https://open.spotify.com/track/75iRM5xxTcvrq1bjhFdFCQ) | [Ulf Nilsson](https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV) | [First Kiss](https://open.spotify.com/album/1gK0VlsYmtXAtrcG3qVxhW) | 3:22 | 2022-09-19 | 2023-02-01 |
 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 | 2022-06-03 |  |
@@ -85,6 +86,7 @@
 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 3:46 | 2022-06-30 |  |
 | [Forever](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW) | 4:38 | 2022-06-03 | 2023-01-07 |
 | [Forever in Your Arms](https://open.spotify.com/track/4fytEaLJpb67c6iq1xUG8e) | [AVIGA](https://open.spotify.com/artist/1JZsObLDi3gwXhcjxpvrr5), [BRØWNS](https://open.spotify.com/artist/3R7Y3zN4MT8MQMbyZLDjYx) | [Forever in Your Arms](https://open.spotify.com/album/7hiVweoZuW8LMh8sfH9fHV) | 2:45 | 2022-10-14 |  |
+| [Free](https://open.spotify.com/track/2wZhh84WylENwS23foVHkF) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Free](https://open.spotify.com/album/5pvr0eVCCJainwXBc6XwnA) | 3:46 | 2023-06-29 |  |
 | [Full Time Job](https://open.spotify.com/track/4gtkHMuEMhysN6ZitUSRBf) | [We Three](https://open.spotify.com/artist/5oYuKMBiaAc0W8Gt7FVIjb) | [Full Time Job](https://open.spotify.com/album/1SQYguMhUSyRkk6BM2rxJn) | 2:27 | 2022-06-03 |  |
 | [Get On My Love](https://open.spotify.com/track/60REZmVNnLB2846rcsEoJJ) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Get On My Love](https://open.spotify.com/album/2O2RFVGO34vGbxo391JhdC) | 2:53 | 2023-01-09 | 2023-03-16 |
 | [Get Outta My Dreams, Get into My Car](https://open.spotify.com/track/0pBhA8yQ5FUKyQG13x2Qmh) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Tear Down These Walls](https://open.spotify.com/album/1tIJAV6PAVmH4E1rRZ5lJj) | 5:34 | 2022-06-03 |  |
@@ -212,6 +214,7 @@
 | [this is what falling in love feels like](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 2:00 | 2022-06-03 | 2023-03-16 |
 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 | 2022-06-03 |  |
 | [Title](https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:54 | 2022-06-03 |  |
+| [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 | 2023-06-29 |  |
 | [true american \(feat\. Kyle Lux\)](https://open.spotify.com/track/0ceYW8uhnTOywJRp68iaq2) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf), [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [true american \(feat\. Kyle Lux\)](https://open.spotify.com/album/3ZE1urLrVTsuB8KZXq6RAe) | 2:51 | 2022-07-21 | 2023-01-07 |
 | [True Love \(feat\. Lily Allen\)](https://open.spotify.com/track/1QNqrsNQ1JVLEwncov3lEY) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 3:50 | 2022-06-03 | 2023-01-07 |
 | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/track/1XzihhvRzOHYmVImIZ9g8Q) | [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/album/1qrlFEQBcFkWfH0dxjkMDQ) | 2:41 | 2022-06-03 | 2023-02-01 |

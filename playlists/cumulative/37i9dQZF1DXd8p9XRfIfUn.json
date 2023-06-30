@@ -1,8 +1,48 @@
 {
   "date_first_scraped": "2022-05-22",
-  "description": "Lo mejor de la nueva. Foto: Saiko",
+  "description": "Lo mejor de la nueva. Foto: legallyrxx",
   "name": "Academia Reggaet\u00f3n",
   "tracks": [
+    {
+      "album": {
+        "name": "4 Favores",
+        "url": "https://open.spotify.com/album/5slWzJL029pVeEL5qDTkMB"
+      },
+      "artists": [
+        {
+          "name": "MARI",
+          "url": "https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110117,
+      "name": "4 Favores",
+      "url": "https://open.spotify.com/track/03SoqbCZhhiomtLUcF3xs6"
+    },
+    {
+      "album": {
+        "name": "Aborrec\u00eda",
+        "url": "https://open.spotify.com/album/4dTKosdwxPvbpBIVSO7pVd"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        },
+        {
+          "name": "The Best Soundz",
+          "url": "https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171146,
+      "name": "Aborrec\u00eda",
+      "url": "https://open.spotify.com/track/1rxnMP6oWWhWrD11sYqw87"
+    },
     {
       "album": {
         "name": "diamantes y espinas",
@@ -34,7 +74,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 196992,
       "name": "Amor Coleto",
       "url": "https://open.spotify.com/track/2kNDb2SH1i5lmXjLR1aYvs"
@@ -144,7 +184,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 172662,
       "name": "Bajo La Misma Luna",
       "url": "https://open.spotify.com/track/7Bh1dn8naISHoNO25AzYMA"
@@ -902,10 +942,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 151587,
       "name": "e-mail",
       "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
+    },
+    {
+      "album": {
+        "name": "Emeyc\u00e9",
+        "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176222,
+      "name": "Emeyc\u00e9",
+      "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
     },
     {
       "album": {
@@ -1060,7 +1122,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 202478,
       "name": "Garabatos",
       "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
@@ -1172,6 +1234,24 @@
       "duration_ms": 163206,
       "name": "HANGOVER",
       "url": "https://open.spotify.com/track/7agh0yi2gEcTOxrpjWujqH"
+    },
+    {
+      "album": {
+        "name": "Hater",
+        "url": "https://open.spotify.com/album/2zNAO8QqXggy1kigROtStW"
+      },
+      "artists": [
+        {
+          "name": "Andreina Bravo",
+          "url": "https://open.spotify.com/artist/1XqpWFofmDk2oCZ6QOcUer"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166105,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/6rXMWEFDdA5JynVojmrPQj"
     },
     {
       "album": {
@@ -1420,7 +1500,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 158297,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ"
@@ -1464,6 +1544,28 @@
       "duration_ms": 232920,
       "name": "Kiwi",
       "url": "https://open.spotify.com/track/6iIooXoLXNb0duWFP1wwLd"
+    },
+    {
+      "album": {
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "album": {
@@ -1596,7 +1698,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 260000,
       "name": "La Nueva (feat. Blessd, Nath & Natan & Shander)",
       "url": "https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3"
@@ -2498,7 +2600,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 150894,
       "name": "Pal' Otro A\u00f1o",
       "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
@@ -2946,7 +3048,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 176629,
       "name": "Que Loco Mami",
       "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
@@ -3000,7 +3102,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 186840,
       "name": "Qu\u00e9 Rico Repetirlo",
       "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
@@ -3058,7 +3160,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 171428,
       "name": "Reggaeton Antiguo",
       "url": "https://open.spotify.com/track/5y3xb6gdWTRDlxlZX1iBCO"
@@ -3413,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "Solo T\u00fa",
+        "url": "https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT"
+      },
+      "artists": [
+        {
+          "name": "Briella",
+          "url": "https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd"
+    },
+    {
+      "album": {
         "name": "Soy Asi",
         "url": "https://open.spotify.com/album/4roemALCcfRDyfHbjwNjun"
       },
@@ -3476,6 +3596,24 @@
       "duration_ms": 190909,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
+    },
+    {
+      "album": {
+        "name": "t kiero",
+        "url": "https://open.spotify.com/album/5TsreoljdE5hPAFPBGwc5W"
+      },
+      "artists": [
+        {
+          "name": "astrid",
+          "url": "https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148153,
+      "name": "t kiero",
+      "url": "https://open.spotify.com/track/5qVDPQyDtQSHBmFriKfT7S"
     },
     {
       "album": {
@@ -3603,6 +3741,24 @@
     },
     {
       "album": {
+        "name": "Tellem",
+        "url": "https://open.spotify.com/album/4nmW7v9gMLgkwQGYv4WnPw"
+      },
+      "artists": [
+        {
+          "name": "Drea Dury",
+          "url": "https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201681,
+      "name": "Tellem",
+      "url": "https://open.spotify.com/track/1ylLTMHXvLRCGeYaY5VBwd"
+    },
+    {
+      "album": {
         "name": "COLABORACIONES",
         "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
       },
@@ -3683,6 +3839,32 @@
     },
     {
       "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH"
+      },
+      "artists": [
+        {
+          "name": "IzyBeats",
+          "url": "https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201091,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM"
+    },
+    {
+      "album": {
         "name": "Tu Aroma",
         "url": "https://open.spotify.com/album/28yw9rKwydNmRyOWF5W4va"
       },
@@ -3720,7 +3902,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 229106,
       "name": "Tus Besos - Remix",
       "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
@@ -4079,6 +4261,24 @@
     },
     {
       "album": {
+        "name": "Wapo y Mam\u00f3n",
+        "url": "https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136750,
+      "name": "Wapo y Mam\u00f3n",
+      "url": "https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH"
+    },
+    {
+      "album": {
         "name": "Wasa Wasa",
         "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
       },
@@ -4094,6 +4294,24 @@
       "duration_ms": 145531,
       "name": "Wasa Wasa",
       "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
+    },
+    {
+      "album": {
+        "name": "LQMGDT",
+        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "Weeknd<3",
+      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ilsey",
-  "num_followers": 52738,
+  "num_followers": 52832,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjU5M2FkOTRmYThiM2I0NTY2NzVkYzQ0Njg5MjE5NTU4YzVkNDlm",
+  "snapshot_id": "MCxhOWU4NWUwNmE2MjE3ZjkyNjZjNmNiNTc5NTZmMTMxM2NlNzJhN2Q2",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Prospect",
         "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198653,
       "name": "Until You",
       "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox"
-      },
-      "artists": [
-        {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
-        }
-      ],
-      "duration_ms": 190216,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Foreign Sea",
         "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 192489,
       "name": "Far from Home",
       "url": "https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        }
+      ],
+      "duration_ms": 190216,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "I BELIEVE",
-        "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 206999,
-      "name": "I BELIEVE",
-      "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 154491,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "I BELIEVE",
+        "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 206999,
+      "name": "I BELIEVE",
+      "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
     },
     {
       "added_at": "2023-06-23 04:00:00",

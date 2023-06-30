@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Goldie Boutilier",
-  "num_followers": 43548,
+  "num_followers": 43571,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTY3MjJhODlmNjlkZjg4ODUxNjU3YjViMGI2YzFlNjA4ZTlkNGYz",
+  "snapshot_id": "MCw0YzQ1MjlhOTJlYzNlNzVmZTFmYTA2YTU2MTI4M2MyYTM2NTIxOTMw",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "A Light in the Attic",
-        "url": "https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6"
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
       "artists": [
         {
-          "name": "Logan Staats",
-          "url": "https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
         }
       ],
-      "duration_ms": 252151,
-      "name": "Folk Song",
-      "url": "https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B"
+      "duration_ms": 234626,
+      "name": "Communion - Country version",
+      "url": "https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "A Light in the Attic",
+        "url": "https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6"
+      },
+      "artists": [
+        {
+          "name": "Logan Staats",
+          "url": "https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P"
+        }
+      ],
+      "duration_ms": 252151,
+      "name": "Folk Song",
+      "url": "https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "On A Roll",
         "url": "https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 211440,
       "name": "On a Roll",
       "url": "https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "Communion - Country version",
-      "url": "https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Waiting on the Day",
-        "url": "https://open.spotify.com/album/6JAfOiMmqSdUxsEjEWvnyD"
-      },
-      "artists": [
-        {
-          "name": "Ron A.McNeill",
-          "url": "https://open.spotify.com/artist/6NyXdmZQwTQvEN4xLDbTMQ"
-        }
-      ],
-      "duration_ms": 199838,
-      "name": "Hey Bob Dylan",
-      "url": "https://open.spotify.com/track/2e4aqPnyNKsdElQxNKEPv5"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "It's Only a Little Loneliness",
         "url": "https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 156800,
       "name": "Making Believe (feat. Rose Cousins)",
       "url": "https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Waiting on the Day",
+        "url": "https://open.spotify.com/album/6JAfOiMmqSdUxsEjEWvnyD"
+      },
+      "artists": [
+        {
+          "name": "Ron A.McNeill",
+          "url": "https://open.spotify.com/artist/6NyXdmZQwTQvEN4xLDbTMQ"
+        }
+      ],
+      "duration_ms": 199838,
+      "name": "Hey Bob Dylan",
+      "url": "https://open.spotify.com/track/2e4aqPnyNKsdElQxNKEPv5"
     }
   ],
   "unique_name": "Renegades",

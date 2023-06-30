@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Michael Ray, Old Dominion, Ashley Cooke and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,395 likes - 67 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,605 likes - 67 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 8 | [Back To Jesus](https://open.spotify.com/track/3W9LnzNx3RPgIJqUrbFHVM) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Back To Jesus](https://open.spotify.com/album/65QXI5NEq8bjTjzbdET0gK) | 3:14 |
 | 9 | [Things I'm Going Through](https://open.spotify.com/track/4obkUxLavp6PFV92oPuSB1) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Things I'm Going Through](https://open.spotify.com/album/3yRpEFfOlkwyodQwqpuJLI) | 3:16 |
 | 10 | [Summer Don't Go](https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Summer Don't Go](https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK) | 2:48 |
-| 11 | [Without You](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
+| 11 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
 | 12 | [BETTER WITH YOU](https://open.spotify.com/track/0cSRjbZWKzH1ggvN17XwBc) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [BETTER WITH YOU](https://open.spotify.com/album/3JfRcR72m6SWfP4gB6REYF) | 2:39 |
 | 13 | [Move On](https://open.spotify.com/track/7pOiYB57kzVQK9uxJ5xX1i) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Blonde](https://open.spotify.com/album/3JjjWW8R0m1Ykkh72yBf8h) | 3:33 |
 | 14 | [Jack and Diet Coke](https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Jack and Diet Coke](https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5) | 3:13 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 34 | [Girls Of Summer](https://open.spotify.com/track/7uC982LGoPRx26jtEN2XYU) | [Naomi Cooke Johnson](https://open.spotify.com/artist/0TOpxMqjBLR53TUNKK29ML) | [Girls Of Summer](https://open.spotify.com/album/0omrpULsTRR2J58rSCXrbN) | 2:52 |
 | 35 | [Small Talk](https://open.spotify.com/track/7iktIdboIAWlvf6vLixtdG) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Small Talk](https://open.spotify.com/album/5w71QnOkMJtiVoBQ2gI4Dp) | 3:33 |
 | 36 | [Lonely for a Livin'](https://open.spotify.com/track/1vSepkra3IrVR7cMVsdvN2) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl) | [Lonely for a Livin'](https://open.spotify.com/album/0FY6Ltuw7iyWVtgfRCyEZH) | 3:00 |
-| 37 | [Out of the Blue](https://open.spotify.com/track/2HrgOXVI4LvL16bI6493X9) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Out of the Blue](https://open.spotify.com/album/2WnD5GaQWKvmTUCZvtz5Rg) | 3:50 |
+| 37 | [Out of the Blue](https://open.spotify.com/track/23iScQD5yKB0WB6NEWFfp6) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Out of the Blue](https://open.spotify.com/album/3SUEowt2p7gYCAi7GYsN37) | 3:50 |
 | 38 | [I Wish That I Could Call You](https://open.spotify.com/track/7awUoWPrD5LqYkQJCcl3Q5) | [Maddie Wilson](https://open.spotify.com/artist/10PPtrO31Yu7b1gVJ5RM4W) | [I Wish That I Could Call You](https://open.spotify.com/album/0JmrHbVhfO3zUdyjyedXRD) | 3:13 |
 | 39 | [Bad Man](https://open.spotify.com/track/58Q3EaAlzdXd54oHyq9S7Z) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Bad Man](https://open.spotify.com/album/0cPN4kgJujENogw6DBFzLk) | 3:12 |
 | 40 | [Relapse \- Acoustic](https://open.spotify.com/track/4KJZfpfTVyIzyzgTd0qduo) | [Chase McDaniel](https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz) | [Relapse \(Acoustic\)](https://open.spotify.com/album/08JfNqrF7A36fs1WIANxqK) | 3:15 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 66 | [Drinkin' Problems](https://open.spotify.com/track/1D1IChY9GoX2yuRr5J0CJv) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Drinkin' Problems](https://open.spotify.com/album/1nMw8BErLxKBoKtlsm0LKQ) | 3:06 |
 | 67 | [Drinkin' Thinkin'](https://open.spotify.com/track/21y7VW9SY2s5VCQg0RGWho) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1) | [Drinkin' Thinkin'](https://open.spotify.com/album/1KhuNvwkr57y2yP9N0XHNZ) | 2:55 |
 
-Snapshot ID: `MCw3MGU4MTUxNGFmYzdkNTIzZGMxZDJiOTg1NWE1OTAxMjBhZDgyOGEx`
+Snapshot ID: `MCwwNzZhZGNjYzI5OGRhMzgwNjE4NGNmNmJhOTc5MzU0ZjA2Y2NlNjI0`

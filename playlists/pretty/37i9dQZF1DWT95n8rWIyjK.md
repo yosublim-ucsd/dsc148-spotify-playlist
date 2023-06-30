@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT95n8rWIyjK.md) - [plain]
 
 > Música Mexicana curated by <a href="https://open.spotify.com/show/408KWeYfiDfXvhqbmPEIsg?si=fb7f4db31ff64f53">Agushto Papa</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,333 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,383 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT95n8rWIyjK.md) - [plain]
 | 51 | [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 |
 | 52 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 |
 
-Snapshot ID: `MCw0MGM3MjMwYzNjZWU0MjlkMGQ2MmY3MTcyZTU4OGQyMWQwNWNjMTlm`
+Snapshot ID: `MCwwZWJiOGE4NzRjYTA5YmNlNWNjNmRmM2M4YmYzMjQ2NGU4YzkzOGJj`

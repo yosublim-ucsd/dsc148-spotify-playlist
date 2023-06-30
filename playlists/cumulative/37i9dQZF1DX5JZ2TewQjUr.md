@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: P.R.O.J.E.C.T\. 9, LilithQueenB, Micol
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Rae Law
 
-583 songs - 1 day 9 hr 6 min
+586 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [pretty little thing](https://open.spotify.com/track/4t5z1bcLAZ1ZEUTlmt4Fd0) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [pretty little thing](https://open.spotify.com/album/2CX19aISe9sNqcyxtU56WU) | 3:32 | 2022-05-26 | 2022-06-10 |
 | [Priceless 無價](https://open.spotify.com/track/4KMKzIyYTNxiSVqsjkKCiY) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [Priceless 無價](https://open.spotify.com/album/1JTfSgo1NMsVuuPjwDMSR7) | 2:56 | 2023-02-02 |  |
 | [Pull My Hair](https://open.spotify.com/track/37X6Jr8cHBOCD9tsuv25MA) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Pull My Hair](https://open.spotify.com/album/4oILzeu5oXO9HeLSJ92Z0V) | 2:01 | 2023-04-20 |  |
+| [put me in a coffin](https://open.spotify.com/track/3cP4kUF6RJ1erMJ5xGafkD) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [put me in a coffin](https://open.spotify.com/album/0azwnUzSsLhluB02Cx2xER) | 4:03 | 2023-06-29 |  |
 | [QUEST?ONS](https://open.spotify.com/track/6avApWuzGCKeYKQ9dWwNth) | [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [QUEST?ONS](https://open.spotify.com/album/3jN12LqDFLRF8EJn74RHKb) | 3:34 | 2022-05-26 | 2022-06-10 |
 | [Rain On Me](https://open.spotify.com/track/2Ha5WK1UecSA134oD4itZN) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Rain On Me](https://open.spotify.com/album/3Jvo1WUkRmZTZP0mgsQwbN) | 3:33 | 2022-12-01 | 2023-03-18 |
 | [Rari](https://open.spotify.com/track/4Dt9J1ac16L4XV7jRs7E6L) | [Ethan Chu](https://open.spotify.com/artist/4GAxH0WL7ChoWWdpGw6PZq) | [Rari](https://open.spotify.com/album/1q9G3PA0UMdrDifhGmRyw5) | 2:17 | 2022-08-18 | 2022-11-04 |
@@ -380,6 +381,7 @@
 | [working holiday](https://open.spotify.com/track/2vgpjJNqLYTf7nDYdvoXY6) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C), [Nicknames](https://open.spotify.com/artist/1y2mXaGQXFVnHm5QuEz5xO) | [working holiday](https://open.spotify.com/album/6RQ77NGRncu7yIIQGXuNwA) | 3:08 | 2023-04-06 |  |
 | [You and I](https://open.spotify.com/track/5FWcHUJMy7wWD2SByZk8Hd) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [You and I](https://open.spotify.com/album/1leHwKjenNuvX4CmoUtRcl) | 4:20 | 2023-05-04 |  |
 | [You gone](https://open.spotify.com/track/5nEPLPhekRKuG6I3fDaBwC) | [SID22](https://open.spotify.com/artist/687Afh5UMC1dbKeH8WwD51) | [You gone](https://open.spotify.com/album/3f8mtMGqgvfJyjLSFqFVru) | 2:54 | 2023-01-12 | 2023-02-03 |
+| [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 | 2023-06-29 |  |
 | [Your Eyes](https://open.spotify.com/track/4goXqBKlrjVDFdABSEYItt) | [Yulie](https://open.spotify.com/artist/7yH3sjveHQuOWB8eZRKk3k), [Blue Bone](https://open.spotify.com/artist/5hW5sCvcnV65dARCSETrkC) | [Your Eyes](https://open.spotify.com/album/5yolu7ryMRLvq8ZG0fpou7) | 3:04 | 2022-07-28 | 2022-11-04 |
 | [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-08-18 | 2023-03-18 |
 | [☆唾棄你的墳墓☆](https://open.spotify.com/track/591OPlLbos1WhaqkDBk9l0) | [LilCodyIsDead!](https://open.spotify.com/artist/4gy2G9kSw6lGDo358odR8u) | [☆唾棄你的墳墓☆](https://open.spotify.com/album/3pyyDvmbotKzAn5iFd9NAa) | 3:06 | 2023-06-15 |  |
@@ -391,6 +393,7 @@
 | [下雨的瞬間](https://open.spotify.com/track/7jgLHmHySzZbLZCf1cIr5d) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/3CKdp6n2D977N3AhN71W82) | 3:38 | 2022-08-04 | 2022-08-24 |
 | [下雨的瞬間 Raining Moment](https://open.spotify.com/track/3mRBZkUKakcjrlCegUU2J7) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/1DcyRtz8g3mvwFy1AsmVhY) | 3:38 | 2022-08-18 | 2022-11-04 |
 | [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 | 2022-09-09 |
+| [不想再想](https://open.spotify.com/track/00H2zvjFakugiw2Snw4JCF) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV) | [不想再想](https://open.spotify.com/album/1zNqwvZu127NWwDq3egDGM) | 2:52 | 2023-06-29 |  |
 | [不羨仙](https://open.spotify.com/track/59jiD1lLtQ1wBuShJMuaL4) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [不羨仙](https://open.spotify.com/album/3JIMcQkcMOYZkhKZ2RoRS9) | 3:17 | 2023-03-16 |  |
 | [不要來電](https://open.spotify.com/track/5LYr1razIy4OOGCbG3fivV) | [NotReal](https://open.spotify.com/artist/5Ug1UjqzpeXc1pqw2FrrDd) | [不要來電](https://open.spotify.com/album/0cMWOcHwL29U6P1AzAS0vD) | 2:41 | 2023-06-01 |  |
 | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/album/1zWBngiKyE91gjT0MR0IaV) | 4:00 | 2022-08-04 | 2022-11-04 |

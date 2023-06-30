@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-81 songs - 4 hr 58 min
+82 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 | 2023-04-27 |  |
 | [I Waited for You](https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu) | 3:24 | 2023-02-23 | 2023-04-29 |
 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 | 2023-02-23 |  |
+| [Life's More Beautiful Than Hard](https://open.spotify.com/track/5SsFZdvxDeNAN4QV45aSYS) | [Sylvia Aimee](https://open.spotify.com/artist/1RDuJ4WLsdSCAuft8dwt5P), [Amber Kamminga](https://open.spotify.com/artist/2KGHUlIdPqK6lHBqaKCGYY), [Angie Flare](https://open.spotify.com/artist/1n3PqShxg0oEVPxJUToico), [Kimmy June](https://open.spotify.com/artist/1sKzVtXJLtrK6BGTKVJzGK) | [Identity](https://open.spotify.com/album/20lrrvbJIj9p8hlWXNpqdA) | 2:52 | 2023-06-29 |  |
 | [Lightyears Better](https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Lightyears Better](https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd) | 3:04 | 2023-02-23 | 2023-06-16 |
 | [Lola with the Light Eyes](https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man](https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH) | 3:32 | 2023-02-23 |  |
 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 | 2023-02-23 | 2023-05-07 |
@@ -68,7 +69,7 @@
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2023-02-23 |  |
 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 | 2023-02-23 |  |
 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 | 2023-02-23 | 2023-04-02 |
-| [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/track/1PDGJwXHeE6cMQaZjLXNTX) | [Jasper Schalks](https://open.spotify.com/artist/1rVfa0RepB2c2WIQeaetbL) | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/album/0Ccia2X6qrLwws03GhJNvK) | 5:58 | 2023-06-22 |  |
+| [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/track/1PDGJwXHeE6cMQaZjLXNTX) | [Jasper Schalks](https://open.spotify.com/artist/1rVfa0RepB2c2WIQeaetbL) | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/album/0Ccia2X6qrLwws03GhJNvK) | 5:58 | 2023-06-22 | 2023-06-30 |
 | [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-02-23 |  |
 | [The Longest Journey](https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx) | 3:48 | 2023-02-23 | 2023-06-23 |
 | [This Time](https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now) | 3:48 | 2023-02-23 |  |

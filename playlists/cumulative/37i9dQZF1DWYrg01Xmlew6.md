@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Luchè in cover.
 
-210 songs - 9 hr 52 min
+211 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [MILLIONAIRE \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/3EWOOws0Ssrzo3vVFKn5M2) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [MILLIONAIRE \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/0AFuYaehOV5NKGPvmxc4t2) | 3:52 | 2022-07-07 |  |
 | [MIRANAPOLI !](https://open.spotify.com/track/0uguXoThv1UhkGHHZAsNcq) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [MIRANAPOLI !](https://open.spotify.com/album/7Lpk370d7OaHa0L3SluvvS) | 3:40 | 2022-05-10 |  |
 | [MME CHIAMME \(feat\. L'Elfo\)](https://open.spotify.com/track/205YVtuavBF71s4vkBTiWm) | [Big Effe](https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm), [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ), [LDO](https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z) | [5G](https://open.spotify.com/album/21r5Lf33P4f2tC6WdKbU9O) | 3:07 | 2022-12-08 | 2023-01-13 |
-| [MNFO](https://open.spotify.com/track/4GVwc1LNeRCN1GgZ0ddQGt) | [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [MNFO](https://open.spotify.com/album/5GKm05yclaqmR6CbmYTEVt) | 1:49 | 2023-05-18 |  |
+| [MNFO](https://open.spotify.com/track/4GVwc1LNeRCN1GgZ0ddQGt) | [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [MNFO](https://open.spotify.com/album/5GKm05yclaqmR6CbmYTEVt) | 1:49 | 2023-05-18 | 2023-06-30 |
+| [MODALITÀ AEREO](https://open.spotify.com/track/4R3A9f585qIiPLjquQ5YCR) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [MODALITÀ AEREO](https://open.spotify.com/album/6pdwB2lhmph33c2oeoi0Ep) | 2:14 | 2023-06-29 |  |
 | [MON FRÈRE](https://open.spotify.com/track/0asWoyaaXT6epkNPPBZafV) | [Eris Gacha](https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2) | [MON FRÈRE](https://open.spotify.com/album/0ZNmo17Fggyeq9To4l203d) | 2:13 | 2023-02-09 | 2023-05-19 |
 | [Mon Frère](https://open.spotify.com/track/07dSNokvCYwkEcHfajaIJz) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [Ammore Malamente](https://open.spotify.com/album/5pydbU79C724udCB6btJsy) | 2:34 | 2023-04-20 | 2023-05-19 |
 | [MONEY](https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [MONEY](https://open.spotify.com/album/1L3BundfZgLB9db5496I4y) | 2:45 | 2022-11-18 |  |

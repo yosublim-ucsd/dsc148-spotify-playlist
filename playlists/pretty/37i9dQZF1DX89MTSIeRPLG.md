@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,356 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,380 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [Basement](https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Basement](https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI) | 2:26 |
 | 50 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
 
-Snapshot ID: `MCxjMzIwYTljM2FkNmIyNThiNjY1ZWNiODcxODA4ZmI1NWQyYjM3NjBi`
+Snapshot ID: `MCxhOWQwYTBkMTYyNTFkNDY3MWNiY2I0Y2EwNDU4NTU4ZDQ5Zjg5MGFi`

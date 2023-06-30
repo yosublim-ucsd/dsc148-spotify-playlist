@@ -2,9 +2,9 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> Dance and electronic Arabic songs\. Cover: Jad Halal
+> Dance and electronic Arabic songs\. Cover: Ash
 
-136 songs - 9 hr 3 min
+137 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2023-06-23 |  |
 | [One More Dance \(with Carmen Soliman\) \[Arabic Version\]](https://open.spotify.com/track/2j0jeaXrBMb6h0SHIk0TEI) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [One More Dance \(with Carmen Soliman\) \[Arabic Version\]](https://open.spotify.com/album/3ETOtpHXlQTP3yKIc2ncAm) | 2:25 | 2022-03-30 | 2023-06-24 |
 | [Party Every Day](https://open.spotify.com/track/2TMBACl98EE97KJOmjiXG3) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 2:36 | 2023-05-04 | 2023-06-24 |
+| [People](https://open.spotify.com/track/286H8buvzhio16dP4VeV0q) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [People](https://open.spotify.com/album/4Ajsb1xa7tIaXziRqzutdn) | 8:08 | 2023-06-30 |  |
 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 | 2023-06-23 |  |
 | [Rafat Rafat](https://open.spotify.com/track/0wxdCmO95St6JnlOLKciql) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Rafat Rafat](https://open.spotify.com/album/76PuKGEhebdwJSPxApNDDU) | 6:24 | 2023-06-23 |  |
 | [Raina Rai](https://open.spotify.com/track/0MPpH8PpO8uOqQB7NyaH4F) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Raina Rai](https://open.spotify.com/album/2WnZTH37xIN3HTUAsMoiqc) | 3:34 | 2022-03-30 | 2022-07-29 |

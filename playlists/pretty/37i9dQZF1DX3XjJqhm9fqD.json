@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Anie Alerte ",
-  "num_followers": 78517,
+  "num_followers": 78541,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjU1ZGUwOWFjZDMyZTRlMmFhZTZhMDAwNWRlYzcxMzlhMGNlYWY0",
+  "snapshot_id": "MCxlM2U2ZWYxMWVjODQzNDk3MGY4MTlkNzIyZmMxYjY1YzBiYTA2ZTNm",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Leave the Bones",
         "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
@@ -683,6 +667,46 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Patron",
+        "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
+      },
+      "artists": [
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        },
+        {
+          "name": "Alan Cave",
+          "url": "https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 280383,
+      "name": "Se Pa Pou Dat",
+      "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -711,30 +735,6 @@
       "duration_ms": 236923,
       "name": "Si Yo Vle",
       "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Patron",
-        "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
-      },
-      "artists": [
-        {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
-        },
-        {
-          "name": "Alan Cave",
-          "url": "https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 280383,
-      "name": "Se Pa Pou Dat",
-      "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Bizou",
+        "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
+      },
+      "artists": [
+        {
+          "name": "AndyBeatz",
+          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Bizou",
+      "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Premye Fwa",
         "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 284991,
       "name": "HOLLOW.",
       "url": "https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Bizou",
-        "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
-      },
-      "artists": [
-        {
-          "name": "AndyBeatz",
-          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Bizou",
-      "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Donzo City",
-        "url": "https://open.spotify.com/album/470RDnmQOE7co3AkwUa6Hx"
-      },
-      "artists": [
-        {
-          "name": "DonLex",
-          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "KASE",
-      "url": "https://open.spotify.com/track/1sJPUmyBAzz2IMyeMG3HS0"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Culo",
         "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 192897,
       "name": "Culo",
       "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Donzo City",
+        "url": "https://open.spotify.com/album/470RDnmQOE7co3AkwUa6Hx"
+      },
+      "artists": [
+        {
+          "name": "DonLex",
+          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "KASE",
+      "url": "https://open.spotify.com/track/1sJPUmyBAzz2IMyeMG3HS0"
     },
     {
       "added_at": "2023-06-09 04:00:00",

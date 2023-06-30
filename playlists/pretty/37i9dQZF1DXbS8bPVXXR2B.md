@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,387 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,517 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 78 | [Groovin' You \- 12" Version](https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 6:16 |
 | 79 | [Heartbeat \- Club Mix](https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic) | [Taana Gardner](https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF) | [Heartbeat](https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6) | 9:47 |
 | 80 | [Disco Illusion](https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 6:44 |
-| 81 | [Sunny](https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz) | [Yambu](https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY) | [Al Santiago Presents Yambú](https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX) | 4:32 |
-| 82 | [Classy Lady \- Remastered Version](https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Paradise \(Remastered\)](https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3) | 5:31 |
+| 81 | [Classy Lady \- Remastered Version](https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Paradise \(Remastered\)](https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3) | 5:31 |
+| 82 | [Sunny](https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz) | [Yambu](https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY) | [Al Santiago Presents Yambú](https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX) | 4:32 |
 | 83 | [You're a Melody \- Extended Disco Version](https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX) | [Aged In Harmony](https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL) | [You're a Melody](https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt) | 4:19 |
 | 84 | [Haven't You Heard \- 12" Version](https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 7:18 |
 | 85 | [Get It Right \- Single Version](https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 4:19 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 87 | [Hold Tight \- Full Length Album Mix](https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 4:28 |
 | 88 | [Agb'oju L'ogun \- Original 12" Version](https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agb'oju L'ogun](https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk) | 11:42 |
 | 89 | [Stop Your Life \- Original Album](https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 4:38 |
-| 90 | [When You Wake up Tomorrow](https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Chance](https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB) | 6:46 |
-| 91 | [Today Is the Day \- Linkwood Chop](https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan) | [Frazelle](https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn) | [Watchin Out](https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf) | 5:20 |
+| 90 | [Today Is the Day \- Linkwood Chop](https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan) | [Frazelle](https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn) | [Watchin Out](https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf) | 5:20 |
+| 91 | [When You Wake up Tomorrow](https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Chance](https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB) | 6:46 |
 | 92 | [On the Beat \- Full Length Mix](https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [The Brooklyn, Bronx & Queens Band](https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy) | 5:57 |
 | 93 | [Brothers on the Slide \- Brooklyn Mix](https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP) | [Patchworks](https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo) | [Early Recordings](https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs) | 5:30 |
 | 94 | [Disco Fantasy](https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE) | [Rahaan](https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu) | [Chicago Service](https://open.spotify.com/album/098htENdjaFFSWNegkNoWe) | 5:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
 | 100 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 |
 
-Snapshot ID: `MCxiNjAwZWU5YmJhMjU4ZjgzNDJlNjY3NjNlZWI4MGUyZTI0MzAyZjAz`
+Snapshot ID: `MCxiM2QyYzZlYTkxNTZjOTc0MDIwNjU5YzhiYzFmNjRlYmNhYWRlOTQw`

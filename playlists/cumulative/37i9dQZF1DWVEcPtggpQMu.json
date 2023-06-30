@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=NSc5PqKLTKGtKxZlPDmBkg\">Cassper Nyovest</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=dKnzhFKjQMa6Nb5_eCwxhQ\">Nasty C</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 259406,
       "name": "Anazinto (feat. LeoPr3ttyAugust)",
       "url": "https://open.spotify.com/track/1Y9MEtW4dKReqmnj5h4wSV"
@@ -2770,7 +2770,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 195719,
       "name": "EMOYENI",
       "url": "https://open.spotify.com/track/3X67yDTJV06mFs00YRRkhG"
@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 232733,
       "name": "Forecast 23",
       "url": "https://open.spotify.com/track/10FicYAHW4yw4ucDHq9dM9"
@@ -6408,7 +6408,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 311489,
       "name": "Mrholo Wayizolo (feat. Masterpiece YVK & Papta Mancane)",
       "url": "https://open.spotify.com/track/5TSTHmrwdbkcDHD0whBqiU"
@@ -6760,6 +6760,24 @@
       "duration_ms": 260739,
       "name": "No Big Deal",
       "url": "https://open.spotify.com/track/4EIxIzayaPqTuXVIXN5Mde"
+    },
+    {
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182684,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
     },
     {
       "album": {
@@ -7682,6 +7700,24 @@
       "duration_ms": 185320,
       "name": "R.I.P. FAT CAT",
       "url": "https://open.spotify.com/track/1B8c8s2kY6hUPnv3d7wdhS"
+    },
+    {
+      "album": {
+        "name": "R2P4",
+        "url": "https://open.spotify.com/album/0ZMKM10vPBqvXl8iemzq61"
+      },
+      "artists": [
+        {
+          "name": "Metro Cmg",
+          "url": "https://open.spotify.com/artist/3WcCxXwNVf5CUupDwSdHLO"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193253,
+      "name": "R2P4",
+      "url": "https://open.spotify.com/track/3KEXacrbpYkLymi5dKoa90"
     },
     {
       "album": {
@@ -8660,7 +8696,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 213333,
       "name": "Shoda Ngami - Remix",
       "url": "https://open.spotify.com/track/2W0F1H8Ef34utPdWIzdIsw"
@@ -9611,6 +9647,28 @@
     },
     {
       "album": {
+        "name": "LOVE LETTERS",
+        "url": "https://open.spotify.com/album/73NLTYVU0jEFiWLzwiGxY3"
+      },
+      "artists": [
+        {
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
+        },
+        {
+          "name": "Aida Lae",
+          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178977,
+      "name": "TAKE IT SLOW",
+      "url": "https://open.spotify.com/track/1gUD4AvOAdEXbMfhTniGh2"
+    },
+    {
+      "album": {
         "name": "TALK SiKK",
         "url": "https://open.spotify.com/album/4ep50V18WAz0qKgKOccfob"
       },
@@ -10237,6 +10295,28 @@
     },
     {
       "album": {
+        "name": "timing (feat. Blxckie)",
+        "url": "https://open.spotify.com/album/0KW9EhLg0zd1bKYr8cHTlm"
+      },
+      "artists": [
+        {
+          "name": "BELO SALO",
+          "url": "https://open.spotify.com/artist/2up6sbDDhWGQN8lZqjTQdu"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "timing (feat. Blxckie)",
+      "url": "https://open.spotify.com/track/4vg4ouYt7n6tU5MGrQn695"
+    },
+    {
+      "album": {
         "name": "Titanic",
         "url": "https://open.spotify.com/album/5KTXMqWbBAUbqeahg01HLh"
       },
@@ -10600,6 +10680,40 @@
       "duration_ms": 150376,
       "name": "uKuphi",
       "url": "https://open.spotify.com/track/1fzhy3XEQEXUYff6jvbf40"
+    },
+    {
+      "album": {
+        "name": "Umhlonyane",
+        "url": "https://open.spotify.com/album/6S76oei9SyLRidfBQ6pPt9"
+      },
+      "artists": [
+        {
+          "name": "WayWard Sounds",
+          "url": "https://open.spotify.com/artist/6ZciWl4s8GNlcrUmJmhXIp"
+        },
+        {
+          "name": "K-Zaka",
+          "url": "https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR"
+        },
+        {
+          "name": "Mzulu Kakhulu",
+          "url": "https://open.spotify.com/artist/2HIPHxJYqbegJSBxZdb8Hf"
+        },
+        {
+          "name": "Rufaro Rcrds",
+          "url": "https://open.spotify.com/artist/2aYzzfKnuL4i4WIsc90lyE"
+        },
+        {
+          "name": "Simple T",
+          "url": "https://open.spotify.com/artist/0N85CSTVPVpCSl97qWL3Eg"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194687,
+      "name": "Umhlonyane",
+      "url": "https://open.spotify.com/track/3rZOWkWUqRs1JETDpXXK6Q"
     },
     {
       "album": {
@@ -11175,6 +11289,28 @@
     },
     {
       "album": {
+        "name": "Igazi, Iinyembezi Nombilo",
+        "url": "https://open.spotify.com/album/0OSKkWOh1BNpYGJJ0V11nl"
+      },
+      "artists": [
+        {
+          "name": "Bravo Le Roux",
+          "url": "https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210308,
+      "name": "Which One?",
+      "url": "https://open.spotify.com/track/3HUyTrcgJM5NvM5JafLnpw"
+    },
+    {
+      "album": {
         "name": "Dark Moon Flower",
         "url": "https://open.spotify.com/album/2wbHOXGXPVKp9vezeglRD4"
       },
@@ -11256,7 +11392,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 187012,
       "name": "Why Me?",
       "url": "https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr"

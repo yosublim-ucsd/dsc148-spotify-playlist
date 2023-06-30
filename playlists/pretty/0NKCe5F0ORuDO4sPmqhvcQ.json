@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21007,
+  "num_followers": 21006,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAzNDMsOTFjMzNkMjEyZDlkNjYwMjUyZjYxZTE4MDAxZjIzNjMyNjBjYzQ0Ng==",
+  "snapshot_id": "MTAzNDQsODZhMGQ2YzcwODJmOWQ3NDA4OWM2M2EyN2VlYzBiY2Q0MTI1MDA1Nw==",
   "tracks": [
     {
       "added_at": "2023-06-22 21:13:32",
@@ -2523,6 +2523,26 @@
       "duration_ms": 230977,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/6hBXPSKrmGBiRVD65Rpqot"
+    },
+    {
+      "added_at": "2023-06-29 21:32:56",
+      "album": {
+        "name": "Great Big Warm House",
+        "url": "https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm"
+      },
+      "artists": [
+        {
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        }
+      ],
+      "duration_ms": 142651,
+      "name": "Great Big Warm House",
+      "url": "https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH"
     }
   ],
   "unique_name": "Moving Castle Monthly",

@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 183046,
       "name": "Beber Para Esquecer",
       "url": "https://open.spotify.com/track/76kNdRaqzgvYGB9tBIxUSf"
@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/0pDADbq5FFUMkls9VeYW9g"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193939,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/5gJyW5NeOsfNa2CSMES2h3"
+    },
+    {
+      "album": {
         "name": "Marcas De Bikini",
         "url": "https://open.spotify.com/album/7FOJWf7cL28upX4jHRdEL3"
       },
@@ -2078,7 +2096,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 304600,
       "name": "O Re$To",
       "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
@@ -2594,6 +2612,28 @@
       "duration_ms": 188571,
       "name": "Stunka",
       "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
+    },
+    {
+      "album": {
+        "name": "Suprior",
+        "url": "https://open.spotify.com/album/2NVz7NmPPqJuuG7D4W7VNW"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "Fernando Daniel",
+          "url": "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159906,
+      "name": "Suprior",
+      "url": "https://open.spotify.com/track/1u2KCIJPqtsl9Vz243FQtp"
     },
     {
       "album": {

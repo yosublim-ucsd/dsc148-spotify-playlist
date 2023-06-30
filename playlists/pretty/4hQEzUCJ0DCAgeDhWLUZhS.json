@@ -6,8 +6,40 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTcxMyw4MWY5OTVjMjQ0NTI2YTUxYmJhMTE2YTMxMDVkMzkzMjJhYmMzNmZh",
+  "snapshot_id": "MTcxNiw4ZTY4NmZjNWI4OTFlYjg5M2NkODNhYjgzZWE1YTlmNzRjZTkwOTNh",
   "tracks": [
+    {
+      "added_at": "2023-06-30 01:23:09",
+      "album": {
+        "name": "St. Charles Square",
+        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 235325,
+      "name": "St. Charles Square",
+      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
+    },
+    {
+      "added_at": "2023-06-30 01:26:34",
+      "album": {
+        "name": "Normalize",
+        "url": "https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 259868,
+      "name": "Normalize",
+      "url": "https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA"
+    },
     {
       "added_at": "2023-05-19 01:17:06",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 185070,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/3LOWhH3yqYRd37EbYKIXL1"
+    },
+    {
+      "added_at": "2023-06-30 01:33:09",
+      "album": {
+        "name": "We Didn\u2019t Start The Fire",
+        "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 215530,
+      "name": "We Didn\u2019t Start The Fire",
+      "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
     },
     {
       "added_at": "2023-05-26 01:15:23",

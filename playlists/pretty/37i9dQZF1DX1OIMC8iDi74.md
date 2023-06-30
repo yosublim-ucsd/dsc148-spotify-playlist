@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: RL Grime
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,771 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,860 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 94 | [SIDE2SIDE](https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [SIDE2SIDE](https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH) | 3:53 |
 | 95 | [In Motion \(feat\. Reo Cragun\)](https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [In Motion](https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy) | 3:01 |
 | 96 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 |
-| 97 | [Active](https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Active](https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi) | 2:30 |
-| 98 | [Yesterdays](https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Yesterdays](https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu) | 3:30 |
+| 97 | [Yesterdays](https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Yesterdays](https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu) | 3:30 |
+| 98 | [Active](https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Active](https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi) | 2:30 |
 | 99 | [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 |
 | 100 | [Twitter](https://open.spotify.com/track/45NRSkN11nKunCO8gwswug) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [Twitter](https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu) | 2:45 |
 
-Snapshot ID: `MCxlNGNhNmVlOGVhYTUyYzdjZGYwODlmN2Q1ZDIxZmJhOGRhYWM1YzQ2`
+Snapshot ID: `MCxkNGQxNmU1OWUzMzE2YzEzMjNkODk0YjVhNzQ4YjgxYzJlYmJiNDc5`

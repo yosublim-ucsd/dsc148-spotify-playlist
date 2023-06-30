@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Soledad
 
-146 songs - 8 hr 9 min
+147 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [El Coya Dance](https://open.spotify.com/track/7oOFKgqS3oKmiBzMf5ODDq) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Carnavalito](https://open.spotify.com/album/4fTZtP2wJgcdvLlyKFofoH) | 2:35 | 2021-12-31 | 2022-04-29 |
 | [El Mismo Aire](https://open.spotify.com/track/6AAjuNnSGoXZZEZg5s17dv) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 2:47 | 2022-02-25 |  |
 | [El Nono Luigi](https://open.spotify.com/track/0BblpWQrMXZvsv3vUUVKVA) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [El Nono Luigi](https://open.spotify.com/album/37n2A9nZh8EeEbUjc15a15) | 2:35 | 2021-12-31 | 2022-07-29 |
-| [El Nono Luigi](https://open.spotify.com/track/5SfnR3pstQbeNCNeGfUqcB) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [El Nono Luigi](https://open.spotify.com/album/1mL7Ec3Cm0FGAmz2hjJdp9) | 2:35 | 2022-07-01 |  |
+| [El Nono Luigi](https://open.spotify.com/track/0z9RsTERfTtmlF9QStcE05) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [El Nono Luigi](https://open.spotify.com/album/1GwJSKgZFxC137upvdsEao) | 2:35 | 2023-06-02 |  |
+| [El Nono Luigi](https://open.spotify.com/track/5SfnR3pstQbeNCNeGfUqcB) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [El Nono Luigi](https://open.spotify.com/album/1mL7Ec3Cm0FGAmz2hjJdp9) | 2:35 | 2022-07-01 | 2023-06-30 |
 | [Es Tan Bonito](https://open.spotify.com/track/4v8SCzqiaCHJ23qYrSFd1s) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Es Tan Bonito](https://open.spotify.com/album/5tRZfG0rPTYAheg8fMkxXw) | 3:26 | 2021-12-31 | 2022-02-05 |
 | [Es Tan Grande Este Amor](https://open.spotify.com/track/6Z4uK6bVC2XjJKXjTUobhr) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2iLRaP3hBMDL0Q06VYzqkm) | 3:06 | 2022-03-18 |  |
 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 | 2021-12-31 |  |

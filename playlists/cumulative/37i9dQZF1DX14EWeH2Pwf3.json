@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Medy",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Drillionaire, Lazza, BLANCO, Sfera Ebbasta",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -116,6 +116,32 @@
       "duration_ms": 177600,
       "name": "3 DI CUORI (feat. Lazza)",
       "url": "https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY"
+    },
+    {
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
+      },
+      "artists": [
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173995,
+      "name": "90 SPECIAL (feat. Sfera Ebbasta & Shiva)",
+      "url": "https://open.spotify.com/track/5MmCEVccxedh3clyDoxubA"
     },
     {
       "album": {
@@ -1832,7 +1858,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 201845,
       "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
@@ -2272,6 +2298,40 @@
       "duration_ms": 133266,
       "name": "Fantasmi (feat. Geolier)",
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
+    },
+    {
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a"
+      },
+      "artists": [
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182407,
+      "name": "FASHION (feat. ANNA, Lazza, Tony Effe & Benny Benassi)",
+      "url": "https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt"
     },
     {
       "album": {
@@ -2894,7 +2954,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 211429,
       "name": "Il Doc 3 (feat. Tony Effe, Slings & MamboLosco)",
       "url": "https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih"
@@ -4654,7 +4714,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 201705,
       "name": "Obladi Oblada (feat. Ghali, thasup & Fabri Fibra)",
       "url": "https://open.spotify.com/track/2zTinVySfLkAcuITgqbtPW"
@@ -4832,6 +4892,24 @@
       "duration_ms": 177716,
       "name": "OUTSIDER",
       "url": "https://open.spotify.com/track/5mReDtjzYeBKhgG3okmyjr"
+    },
+    {
+      "album": {
+        "name": "Paky Freestyle 2",
+        "url": "https://open.spotify.com/album/505SokxH7l8nPEQlvAuq5M"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121666,
+      "name": "Paky Freestyle 2",
+      "url": "https://open.spotify.com/track/15G4MmllbiFIDNILzUFn0o"
     },
     {
       "album": {

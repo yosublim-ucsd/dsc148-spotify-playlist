@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTFhZjJiMzM3NWYwY2E1MTNkOTYzODVjYzNkYjE2NzYyYzczNmEx",
+  "snapshot_id": "MCxlZjkxZGI4NTBjNjkzNWJmYzIzYjkzZDQ3OWI4MGI3MzU1ZmE4MDdi",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "Navidad, Feel The Magic",
+        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "Navidad, Feel The Magic",
+      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "Blanca Navidad",
         "url": "https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 149276,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "Navidad, Feel The Magic",
-        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 165773,
-      "name": "Navidad, Feel The Magic",
-      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
     }
   ],
   "unique_name": "La Posada",

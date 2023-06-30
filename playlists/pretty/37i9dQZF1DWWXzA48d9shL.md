@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,503 likes - 108 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,996 likes - 108 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 62 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
 | 63 | [KNIGHT CRAWLER \(feat\. Juice WRLD\)](https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:57 |
 | 64 | [OCTOPUS.LADY](https://open.spotify.com/track/4vjj0bcIG5O3FA0C9cXNR8) | [Changeline](https://open.spotify.com/artist/6y4WxCw3Pu2MnjqSBtoxSJ) | [OCTOPUS.LADY](https://open.spotify.com/album/56JMyJsWVb1YLVldbau63p) | 2:36 |
-| 65 | [Stick Out When I'm Live](https://open.spotify.com/track/7MINVWP52eYRpaKZeMrjVP) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [Stick Out When I'm Live](https://open.spotify.com/album/5ju3Ng1zbjb4LjVxxnupAh) | 2:23 |
+| 65 | [Stick Out When I'm Live](https://open.spotify.com/track/45DchKb8vLBdbF6MNZdjPa) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [Stick Out When I'm Live](https://open.spotify.com/album/4MzYFpjiBtNyLGTyi72wUs) | 2:23 |
 | 66 | [Trinity](https://open.spotify.com/track/41PeGZiPALdktSyL8jqKeB) | [Lorta](https://open.spotify.com/artist/0jfcbc9ax7GnUiCzhexJOb), [Devilish Trio](https://open.spotify.com/artist/45brkGrBxvV5pxj8eiImiF) | [Trinity](https://open.spotify.com/album/46KiNG5vmNGAqHq8LMUHor) | 2:07 |
 | 67 | [I ONLY KNOW A FEW GOOD PEOPLE](https://open.spotify.com/track/4krgdfGN8fbJ0ERcUB8Czo) | [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [I ONLY KNOW A FEW GOOD PEOPLE](https://open.spotify.com/album/1C2qR9cyY1soD9JJVRnetB) | 1:37 |
 | 68 | [BLXXDY NXSE \(feat\. Scarlxrd & nascar aloe\)](https://open.spotify.com/track/319u15wlYEJnkwaecnQBir) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [BLXXDY NXSE \(feat\. Scarlxrd & nascar aloe\)](https://open.spotify.com/album/6mDFwhmb1GftFQYpBKDQG2) | 3:07 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 107 | [Demons Around](https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [Demons Around](https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf) | 2:45 |
 | 108 | [MORPHINE](https://open.spotify.com/track/3i0nLqskbxPXYAxosdZLz2) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [MORPHINE](https://open.spotify.com/album/2XBkfvgQ4ZkC1jalljGcY4) | 2:04 |
 
-Snapshot ID: `MCwwZmE0ZWNiMWYzZGViMDE2NjZkNDJkNTNlNDQ4MjQ4OWQyYzEwYmQy`
+Snapshot ID: `MCxhMjM1NjQzYTJlYmYwZDdmZTgwZGEzZTBlNGM5ZWYwOTkyODJhMmZj`

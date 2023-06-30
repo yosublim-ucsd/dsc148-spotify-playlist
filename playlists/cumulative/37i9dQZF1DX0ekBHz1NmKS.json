@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "A Bowl of Unripe Fruit",
+        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202686,
+      "name": "A Bowl of Unripe Fruit",
+      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
+    },
+    {
+      "album": {
         "name": "A Lover Like Me",
         "url": "https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA"
       },
@@ -7782,7 +7800,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 240262,
       "name": "Mormor",
       "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"

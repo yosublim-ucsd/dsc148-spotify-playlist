@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: umu\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,275 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,316 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [잠을 깨자 Wake Up!](https://open.spotify.com/track/1WCr66I0EbmsdfNJvXsTfi) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [잠을 깨자 Wake Up!](https://open.spotify.com/album/5QQqzDt2OPUDVn5gK11sAe) | 2:39 |
 | 100 | [Back To You Again](https://open.spotify.com/track/0eIZRgh7GRSYF0R7Izh9R9) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Back To You Again](https://open.spotify.com/album/11tNXd0COL8UQm8mwyzK8k) | 2:33 |
 
-Snapshot ID: `MCw1Mjg2MTZhZTI0NzNmNWFjNmVmNDcyNDJkYWQ3NzIzNjYyMWM5MTdm`
+Snapshot ID: `MCxiYjc5MzMzYmI4MDFjYmZmYTgxY2NjMjI1OTJlNjNjZmZmMzkxY2Yx`

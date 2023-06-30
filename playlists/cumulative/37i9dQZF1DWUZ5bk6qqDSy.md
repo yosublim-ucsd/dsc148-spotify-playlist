@@ -2,7 +2,7 @@
 
 ### [White Noise 10 Hours](https://open.spotify.com/playlist/37i9dQZF1DWUZ5bk6qqDSy)
 
-> Welcome to the soothing hum...
+> Ten hours long continuous white noise to help you relax and let go.
 
 412 songs - 18 hr 14 min
 

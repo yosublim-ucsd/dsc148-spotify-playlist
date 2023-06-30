@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 120564,
+  "num_followers": 120628,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmE0YWZkOWM5NmVjOWExMDQ3OGEzMjllZWQ3NzhjODEwODY5ZTE3",
+  "snapshot_id": "MCw4MWFmMzhmY2MzMGRjZmZlYjMyMDBjN2I3MzczMDI0YWIyYzQwNDA1",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Como Podr\u00e9",
-      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 269848,
       "name": "Perdoname / Te Quiero a Ti - En Vivo",
       "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Como Podr\u00e9",
+      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Una Copa de M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
-      },
-      "artists": [
-        {
-          "name": "Sonido Caracol",
-          "url": "https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 316182,
-      "name": "Una Copa de M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
         "url": "https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL"
       },
@@ -747,66 +727,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Show En Parque Recondo",
-        "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
+        "name": "Una Copa de M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
       },
       "artists": [
         {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
-        }
-      ],
-      "duration_ms": 131287,
-      "name": "Decir Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Nunca M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
-      },
-      "artists": [
+          "name": "Sonido Caracol",
+          "url": "https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM"
+        },
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
         }
       ],
-      "duration_ms": 184618,
-      "name": "Nunca M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "La Misma Cancion (En Vivo)",
-        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "La Misma Cancion (En Vivo)",
-      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 81813,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
+      "duration_ms": 316182,
+      "name": "Una Copa de M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -831,18 +767,66 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+        "name": "Nunca M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
       },
       "artists": [
         {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 483693,
-      "name": "La Ventanita / Beso a Beso",
-      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
+      "duration_ms": 184618,
+      "name": "Nunca M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Show En Parque Recondo",
+        "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "duration_ms": 131287,
+      "name": "Decir Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 81813,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "La Misma Cancion (En Vivo)",
+        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "La Misma Cancion (En Vivo)",
+      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -859,6 +843,22 @@
       "duration_ms": 457826,
       "name": "Pechos Calientes / Mojada por Dentro / Ando Buscando / El No Va a Venir / Voy a Morir Dentro Tuyo - En Vivo",
       "url": "https://open.spotify.com/track/4iy9NqDkaRndLAllVspQHy"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 483693,
+      "name": "La Ventanita / Beso a Beso",
+      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
-        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 198245,
-      "name": "Soy Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Estuve Ah\u00ed",
         "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 194931,
       "name": "Estuve Ah\u00ed",
       "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
+        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 198245,
+      "name": "Soy Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
     },
     {
       "added_at": "2023-06-23 03:00:00",

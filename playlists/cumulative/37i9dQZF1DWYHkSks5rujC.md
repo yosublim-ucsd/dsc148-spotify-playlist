@@ -4,7 +4,7 @@
 
 > A journey through The Beatles' career.
 
-95 songs - 4 hr 32 min
+97 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,8 +47,9 @@
 | [I Saw Her Standing There \- Remastered 2009](https://open.spotify.com/track/4snBNKn7vD8PeQDAUJX3rT) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \- New Year's Workout](https://open.spotify.com/album/4AWAZIuMdas1wV50kNkTv3) | 2:53 | 2022-04-12 | 2022-11-14 |
 | [I Wanna Be Your Man \- Remastered](https://open.spotify.com/track/2aibmsfQ8WFl2AfCkNi5RG) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn) | 1:59 | 2019-06-28 | 2022-07-29 |
 | [I Wanna Be Your Man \- Remastered 2009](https://open.spotify.com/track/0sIZcoe69iSym9AecvZ7CT) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 1:59 | 2022-04-12 |  |
+| [I Want To Hold Your Hand \- Remastered 2009](https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:26 | 2022-04-12 |  |
 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4DRBaZ760gyk7LWnaJFqsJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:25 | 2019-06-28 | 2022-07-29 |
-| [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 | 2022-04-12 |  |
+| [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 | 2022-04-12 | 2023-06-30 |
 | [I'm Looking Through You \- Remastered](https://open.spotify.com/track/6BzNvvSyF2Fe0BqsOcL8LS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz) | 2:26 | 2019-06-28 | 2022-07-29 |
 | [I'm Looking Through You \- Remastered 2009](https://open.spotify.com/track/5E3BVY66TEDexFutOO5GeS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 | 2022-04-12 |  |
 | [I'm Only Sleeping \- Remastered](https://open.spotify.com/track/3wAOX1N5M0ta3QNsokmhJV) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L) | 3:00 | 2019-06-28 | 2022-07-29 |
@@ -72,8 +73,9 @@
 | [Rock And Roll Music \- Remastered 2009](https://open.spotify.com/track/7Ho3T7ERfooiAfvODaMQ2N) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:31 | 2022-04-12 |  |
 | [Roll Over Beethoven \- Remastered](https://open.spotify.com/track/5cRyBkxNi0EWEY6fZyPWnh) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn) | 2:45 | 2019-06-28 | 2022-07-29 |
 | [Roll Over Beethoven \- Remastered 2009](https://open.spotify.com/track/3idqWaBn3mRdsIodCU6uBi) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:45 | 2022-04-12 |  |
-| [She Loves You \- Mono / Remastered](https://open.spotify.com/track/6nEkxYIEnrbYH7h1hJ8Xn6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:20 | 2022-04-12 |  |
+| [She Loves You \- Mono / Remastered](https://open.spotify.com/track/6nEkxYIEnrbYH7h1hJ8Xn6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:20 | 2022-04-12 | 2023-06-30 |
 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/7zmMlHeeN2DW8D8aKQYC0i) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/3rCxVyqwgJlkqL8z2dZdHh) | 2:22 | 2019-06-28 | 2022-07-29 |
+| [She Loves You \- Mono Version / Remastered 2009](https://open.spotify.com/track/0qsS2A3hwicJCLtcaR6JRQ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:22 | 2022-04-12 |  |
 | [She Loves You \- Remastered 2009](https://open.spotify.com/track/48JM82SHQTBYkhEYhMaOaa) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Past Masters \(Vols\. 1 & 2 / Remastered\)](https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw) | 2:21 | 2022-04-12 | 2022-11-13 |
 | [Something \- Remastered](https://open.spotify.com/track/7oSUp4yZ0FbuSvVmCxH2ty) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:02 | 2019-06-28 | 2022-07-29 |
 | [Something \- Remastered 2009](https://open.spotify.com/track/0pNeVovbiZHkulpGeOx1Gj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:02 | 2022-04-12 |  |

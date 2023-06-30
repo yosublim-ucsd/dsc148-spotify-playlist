@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 4105615,
+  "num_followers": 4106092,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTZlM2QzYjI4ZGUxYzEzYjZkZmZiNjVkZjkzODdiYTgzMThiMGQz",
+  "snapshot_id": "MCw0MjA2ZTBhNjk0MGUzNmQ3ZjdjOWE0NzBmNzM3OWZlYzQ1ODUwZTcx",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "S\u00f3lo para Ti",
+      "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 210440,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "S\u00f3lo para Ti",
-      "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+        "name": "Camino a Encontrarte (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/25WLz1zNyzbXZnAMFZXpKW"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
         }
       ],
-      "duration_ms": 184080,
-      "name": "Por Debajo De La Mesa",
-      "url": "https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR"
+      "duration_ms": 181280,
+      "name": "Antes Que al M\u00edo",
+      "url": "https://open.spotify.com/track/69VfaraLe5onolFj90bgyj"
     }
   ],
   "unique_name": "Baladas Rom\u00e1nticas",

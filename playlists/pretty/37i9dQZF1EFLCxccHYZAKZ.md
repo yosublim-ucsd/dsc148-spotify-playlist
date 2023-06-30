@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 33 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
 | 34 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `MjgxMzMzOTAsMDAwMDAwMDA0YjJjZjU1ZjNlYjBhNWExNTdiN2Y2NzE2NjE1YWMzZQ==`
+Snapshot ID: `MjgxMzQ4MzAsMDAwMDAwMDA2NjcxNzE5NWQxMTllMGFjYzcyN2UxOWU1YzBiNjY2Mw==`

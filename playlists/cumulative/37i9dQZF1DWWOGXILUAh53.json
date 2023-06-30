@@ -12317,7 +12317,25 @@
     },
     {
       "album": {
-        "name": "Without You",
+        "name": "Wonderful Misery",
+        "url": "https://open.spotify.com/album/6EJEERSwihTBo55O5MzgM2"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-19",
+      "duration_ms": 226806,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7tM5EjeyfAj2JaEF65Xdoe"
+    },
+    {
+      "album": {
+        "name": "Without You (feat. Elle King)",
         "url": "https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX"
       },
       "artists": [
@@ -12334,26 +12352,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181978,
-      "name": "Without You",
+      "name": "Without You (feat. Elle King)",
       "url": "https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx"
-    },
-    {
-      "album": {
-        "name": "Wonderful Misery",
-        "url": "https://open.spotify.com/album/6EJEERSwihTBo55O5MzgM2"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "date_added": "2021-11-12",
-      "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
-      "duration_ms": 226806,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/7tM5EjeyfAj2JaEF65Xdoe"
     },
     {
       "album": {

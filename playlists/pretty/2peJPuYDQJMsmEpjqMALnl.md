@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 350,865 likes - 69 songs - 4 hr 45 min
+[Digster](https://open.spotify.com/user/digster.fm) - 350,870 likes - 69 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 63 | [Wanted Dead Or Alive](https://open.spotify.com/track/2fY6tqgrlrg1ky9fgs0t5u) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol) | 5:08 |
 | 64 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
 | 65 | [Hit Me With Your Best Shot \- 1999 Digital Remaster](https://open.spotify.com/track/7nrtHjt4Vk4Z5jMHOwaS8F) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Synchronistic Wanderings](https://open.spotify.com/album/4CcLtOTSlV2389khMapisZ) | 2:51 |
-| 66 | [Things Can Only Get Better](https://open.spotify.com/track/1RbOObDFn7GOseR1w529Zj) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [Dream Into Action](https://open.spotify.com/album/1V8qUSg1WAHf3dCrVYdJ5Z) | 3:55 |
+| 66 | [Things Can Only Get Better \- 2018 Remaster](https://open.spotify.com/track/1RbOObDFn7GOseR1w529Zj) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [Dream Into Action](https://open.spotify.com/album/1V8qUSg1WAHf3dCrVYdJ5Z) | 3:55 |
 | 67 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 68 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
 | 69 | [The Stroke](https://open.spotify.com/track/2H5BRl8I6IveJ6BgC7FpqQ) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Don't Say No](https://open.spotify.com/album/5FATFw46kqvlhayx9QCxLd) | 3:38 |

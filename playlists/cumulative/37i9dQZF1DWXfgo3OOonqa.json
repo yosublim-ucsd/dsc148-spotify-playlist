@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "3 SMOKE",
+        "url": "https://open.spotify.com/album/6N2zVYL67ZaDryQEpUs8O8"
+      },
+      "artists": [
+        {
+          "name": "2M",
+          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121666,
+      "name": "3 SMOKE",
+      "url": "https://open.spotify.com/track/5xtiaN9dnKSWIGwF0niKlM"
+    },
+    {
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/3y05ruMmB2GRkbJYZWoYr2"
       },
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 178125,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/3yn9Os3amOXwMUpMfVmsF0"
@@ -2877,6 +2895,28 @@
     },
     {
       "album": {
+        "name": "Birkins & Romance",
+        "url": "https://open.spotify.com/album/4ZOEPCIkZHdMRapDg9g0Zl"
+      },
+      "artists": [
+        {
+          "name": "LaStreet",
+          "url": "https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Birkins & Romance",
+      "url": "https://open.spotify.com/track/4KW94h3c54IHHd9ZqsMTrW"
+    },
+    {
+      "album": {
         "name": "BIRTHDAY",
         "url": "https://open.spotify.com/album/5q0C9bAbbT2hWvZ49CGPYT"
       },
@@ -3294,6 +3334,28 @@
       "duration_ms": 117000,
       "name": "Born Broke",
       "url": "https://open.spotify.com/track/2ObcrH042x3Hen1H5BABrK"
+    },
+    {
+      "album": {
+        "name": "Born To Sin",
+        "url": "https://open.spotify.com/album/0cxBgzlMarzIi2fS0VUbl8"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156038,
+      "name": "Born To Sin",
+      "url": "https://open.spotify.com/track/4wkgFotnvnXsc2wCcF84h5"
     },
     {
       "album": {
@@ -6083,6 +6145,24 @@
     },
     {
       "album": {
+        "name": "EXPLODERA",
+        "url": "https://open.spotify.com/album/1vjgiMzH8u9x1l91RbJTSn"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "EXPLODERA",
+      "url": "https://open.spotify.com/track/6DfI4m4RCt0i8rICQozCC0"
+    },
+    {
+      "album": {
         "name": "Guld & gr\u00f6na skogar",
         "url": "https://open.spotify.com/album/6dB6m1XuheaQyBg2BKwcNn"
       },
@@ -6208,6 +6288,32 @@
       "duration_ms": 132682,
       "name": "FAKKA UR",
       "url": "https://open.spotify.com/track/0pmtQ4i3MxdWeqnZtrLOuA"
+    },
+    {
+      "album": {
+        "name": "Fakkade Allt",
+        "url": "https://open.spotify.com/album/280UZdvmVjQ0W7Z54kksPP"
+      },
+      "artists": [
+        {
+          "name": "Reyn",
+          "url": "https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB"
+        },
+        {
+          "name": "takenoelz",
+          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
+        },
+        {
+          "name": "Luc1ano",
+          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Fakkade Allt",
+      "url": "https://open.spotify.com/track/18StO20ht1OzGWs9y8rNcR"
     },
     {
       "album": {
@@ -7078,7 +7184,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 162105,
       "name": "G63",
       "url": "https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC"
@@ -7096,7 +7202,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 115753,
       "name": "Galen",
       "url": "https://open.spotify.com/track/27OiegzYT6puOw56iQFbr3"
@@ -7306,6 +7412,24 @@
       "duration_ms": 164000,
       "name": "Gatubarnen",
       "url": "https://open.spotify.com/track/6W7QLX5jOhFYbueY9cYpxw"
+    },
+    {
+      "album": {
+        "name": "GE ALLT",
+        "url": "https://open.spotify.com/album/18T1HcCEcXkEEELae1D5E4"
+      },
+      "artists": [
+        {
+          "name": "Robbz x Brookz",
+          "url": "https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "GE ALLT",
+      "url": "https://open.spotify.com/track/7sfS4X1Tl7KEeqJTivat91"
     },
     {
       "album": {
@@ -10660,7 +10784,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 122448,
       "name": "KURIRER",
       "url": "https://open.spotify.com/track/7dLIb2FTMx0EKSAipHov7P"
@@ -10682,7 +10806,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 161666,
       "name": "Kvar - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
@@ -11880,7 +12004,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 132815,
       "name": "L\u00e4gga m\u00e4rke",
       "url": "https://open.spotify.com/track/4lm4RbRqBEsy4CWJfBTI0b"
@@ -11974,6 +12098,24 @@
       "duration_ms": 166415,
       "name": "L\u00e5ngt Hemifr\u00e5n",
       "url": "https://open.spotify.com/track/11dvt39aUJjx3jPK47HWK1"
+    },
+    {
+      "album": {
+        "name": "L\u00e5ngt ifr\u00e5n samma",
+        "url": "https://open.spotify.com/album/0dIPXHYTBIGSPVMNzEeJRX"
+      },
+      "artists": [
+        {
+          "name": "E4an",
+          "url": "https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149446,
+      "name": "L\u00e5ngt ifr\u00e5n samma",
+      "url": "https://open.spotify.com/track/0IGX8vVUYMZ1v4JufTlcF7"
     },
     {
       "album": {
@@ -12391,6 +12533,24 @@
     },
     {
       "album": {
+        "name": "WLAK 2",
+        "url": "https://open.spotify.com/album/05T3oRI44WfLwqfsEUn6tU"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156186,
+      "name": "MANDELA",
+      "url": "https://open.spotify.com/track/1FROKDBQB0OCbKoxm4zRNX"
+    },
+    {
+      "album": {
         "name": "MANO",
         "url": "https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1"
       },
@@ -12722,7 +12882,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 218049,
       "name": "Mentalit\u00e9 RMX (feat. C.Gambino)",
       "url": "https://open.spotify.com/track/1pFwmWdL9aPpajfRp7yzOI"
@@ -13508,7 +13668,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 179795,
       "name": "Mosaik",
       "url": "https://open.spotify.com/track/68BV010YX9RyC3c8xxObql"
@@ -13566,7 +13726,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 135944,
       "name": "M\u00d6NSTER",
       "url": "https://open.spotify.com/track/2ADLH4BFG8l6g0roAGq2kb"
@@ -14514,6 +14674,24 @@
       "duration_ms": 141369,
       "name": "Overseas",
       "url": "https://open.spotify.com/track/4c8w1nIzzbNiWtnlhsiNyS"
+    },
+    {
+      "album": {
+        "name": "Ov\u00e4der",
+        "url": "https://open.spotify.com/album/2g6QNlZkkLupIErj0WnJvH"
+      },
+      "artists": [
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Ov\u00e4der",
+      "url": "https://open.spotify.com/track/7AH3T4FNaH52h2a0ynpRdF"
     },
     {
       "album": {
@@ -15792,7 +15970,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 210461,
       "name": "Replay \u2013 Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC"
@@ -15818,6 +15996,32 @@
       "duration_ms": 155126,
       "name": "Respiration",
       "url": "https://open.spotify.com/track/24ZmxjRLRMykPYbR4CjvQe"
+    },
+    {
+      "album": {
+        "name": "Ride With Me (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5AqVbvJXIBbzuq2FvNT0SD"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Fu3go",
+          "url": "https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1"
+        },
+        {
+          "name": "Pablo Paz",
+          "url": "https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119868,
+      "name": "Ride With Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/06A24W6n7gGi8YGneBME3M"
     },
     {
       "album": {
@@ -16174,7 +16378,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 177630,
       "name": "Satsa \u2013 Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt"
@@ -16952,7 +17156,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 204628,
       "name": "Sl\u00e4ppa din hand",
       "url": "https://open.spotify.com/track/2I2skJ2CGRjcPszuzUAq3g"
@@ -17378,7 +17582,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 156000,
       "name": "SP\u00d6KALAND",
       "url": "https://open.spotify.com/track/4e680sIdxeCZaQKX5NB2ls"
@@ -18638,7 +18842,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 144085,
       "name": "Tip Top",
       "url": "https://open.spotify.com/track/3T59yZxRIl0hl4wMy5mFK4"
@@ -19580,7 +19784,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 144502,
       "name": "VAD DU VILL",
       "url": "https://open.spotify.com/track/4bfCJ74E4NaxgH9ZU99j6w"

@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "HATE XX",
+        "url": "https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131013,
+      "name": "BAD HOBBY",
+      "url": "https://open.spotify.com/track/4XGOlD2OFGPHXLA0DBPr5M"
+    },
+    {
+      "album": {
         "name": "It\u2019s ME, It's WE",
         "url": "https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB"
       },
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 264389,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ"
@@ -4163,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "GRL GVNG",
+        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188093,
+      "name": "GRL GVNG",
+      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
+    },
+    {
+      "album": {
         "name": "Groove Missing",
         "url": "https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0"
       },
@@ -4794,7 +4830,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 214826,
       "name": "I do! Do you?",
       "url": "https://open.spotify.com/track/7wFeVMTlgOu910OH9RctRI"

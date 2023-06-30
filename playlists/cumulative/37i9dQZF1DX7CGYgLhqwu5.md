@@ -4,7 +4,7 @@
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-158 songs - 7 hr 3 min
+159 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Six Pack To Go](https://open.spotify.com/track/6ac7GUlfon5ezqPvDYPixS) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0) | [20 Greatest Hits](https://open.spotify.com/album/5P6rEZ32MTCZubNbXSP9AM) | 2:09 | 2021-11-19 | 2022-07-29 |
 | [Abilene](https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX) | [George Hamilton IV](https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti) | [Abilene](https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M) | 2:13 | 2021-11-19 |  |
 | [Above And Beyond](https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:28 | 2021-11-19 | 2023-06-28 |
+| [Act Naturally](https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits, Vol\. 1](https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs) | 2:23 | 2023-05-19 |  |
 | [Act Naturally](https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:23 | 2021-11-19 | 2023-06-28 |
 | [Almost Persuaded](https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn) | [David Houston](https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf) | [Almost Persuaded](https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk) | 2:56 | 2021-11-19 |  |
 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 | 2021-11-19 |  |
@@ -161,7 +162,7 @@
 | [Wine Me Up](https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [Hello Walls](https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL) | 2:24 | 2021-11-19 |  |
 | [Wings Of A Dove](https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb) | [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Capitol Collectors Series](https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH) | 2:19 | 2021-11-19 |  |
 | [Wolverton Mountain](https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 2:57 | 2021-11-19 |  |
-| [Yakety Axe](https://open.spotify.com/track/0Lo5YM7ZvIcUnbvnqLMUre) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [The Essential Chet Atkins](https://open.spotify.com/album/0lKXTFKRUH3eyflNhlSlQZ) | 2:03 | 2021-11-19 |  |
+| [Yakety Axe](https://open.spotify.com/track/0Lo5YM7ZvIcUnbvnqLMUre) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [The Essential Chet Atkins](https://open.spotify.com/album/0lKXTFKRUH3eyflNhlSlQZ) | 2:03 | 2021-11-19 | 2023-06-30 |
 | [Yesterday When I Was Young](https://open.spotify.com/track/34FHyAVCDFURtlrt6HfPHU) | [Roy Clark](https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS) | [The Best Of Roy Clark](https://open.spotify.com/album/2ADFGSvr79NVsX0KcB5r2Q) | 3:20 | 2021-11-19 | 2022-07-29 |
 | [Yesterday When I Was Young](https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE) | [Roy Clark](https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS) | [Great Picks & New Traditions](https://open.spotify.com/album/30GpNOPehzWUQ24tAdP8EK) | 3:21 | 2022-07-25 |  |
 | [You Ain't Woman Enough \- Single Version](https://open.spotify.com/track/41jCeKeeVTxxDli1XdCPnx) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [The Definitive Collection](https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2) | 2:12 | 2021-11-19 |  |

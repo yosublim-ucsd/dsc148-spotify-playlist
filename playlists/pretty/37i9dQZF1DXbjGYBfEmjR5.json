@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 280485,
+  "num_followers": 280665,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2RhNzAxYzdhYzUzZDdhODk3NTYzMjdhZjEzYTYzOTdkNTJhZjBk",
+  "snapshot_id": "MCxjODBjY2FmMmMyNDUzMTVlN2EzNDliZTI3ZjJiZTc3MWY5ZTAyMWY1",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
+      },
+      "artists": [
+        {
+          "name": "Andora",
+          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
+        "name": "Plastic",
+        "url": "https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3"
       },
       "artists": [
         {
-          "name": "Andora",
-          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
         }
       ],
-      "duration_ms": 183750,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+      "duration_ms": 195121,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1111,22 +1127,6 @@
       "duration_ms": 201142,
       "name": "You Can't Run",
       "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Plastic",
-        "url": "https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3"
-      },
-      "artists": [
-        {
-          "name": "Tendencies",
-          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "Plastic",
-      "url": "https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
-      },
-      "artists": [
-        {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Rainbow Badge",
-      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 232699,
       "name": "Mode",
       "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Rainbow Badge",
+      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
-      },
-      "artists": [
-        {
-          "name": "Skylar Spence",
-          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
-        }
-      ],
-      "duration_ms": 170634,
-      "name": "Kratos in Love",
-      "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 269752,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+      },
+      "artists": [
+        {
+          "name": "Skylar Spence",
+          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
+        }
+      ],
+      "duration_ms": 170634,
+      "name": "Kratos in Love",
+      "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
         }
       ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
+      "duration_ms": 173374,
+      "name": "Why Future Funk ROCKED in '17",
+      "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1543,18 +1543,34 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "SOUL MATES",
-        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
+        "name": "Future Funk 2022",
+        "url": "https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL"
       },
       "artists": [
         {
-          "name": "Javi That's Me",
-          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
         }
       ],
-      "duration_ms": 149028,
-      "name": "CHERRY BLOSSOMS",
-      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
+      "duration_ms": 185750,
+      "name": "Future Funk 2022",
+      "url": "https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1575,34 +1591,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Montaime, Vol. 1",
-        "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
+        "name": "SOUL MATES",
+        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
       },
       "artists": [
         {
-          "name": "Bazz",
-          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
         }
       ],
-      "duration_ms": 369500,
-      "name": "Knights",
-      "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Future Funk 2022",
-        "url": "https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Future Funk 2022",
-      "url": "https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS"
+      "duration_ms": 149028,
+      "name": "CHERRY BLOSSOMS",
+      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1619,6 +1619,22 @@
       "duration_ms": 142497,
       "name": "DUCK GROOVE",
       "url": "https://open.spotify.com/track/7xRFTjcKdlF36Ba04J52A9"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Montaime, Vol. 1",
+        "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
+      },
+      "artists": [
+        {
+          "name": "Bazz",
+          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
+        }
+      ],
+      "duration_ms": 369500,
+      "name": "Knights",
+      "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Shine On",
-        "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 173374,
-      "name": "Why Future Funk ROCKED in '17",
-      "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "EMAIL",
         "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
       },
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "\u9055\u3046",
-        "url": "https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S"
+        "name": "First Season",
+        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
       },
       "artists": [
         {
-          "name": "Flammy",
-          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
         }
       ],
-      "duration_ms": 153449,
-      "name": "\u9055\u3046",
-      "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
+      "duration_ms": 295894,
+      "name": "First Season",
+      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
     }
   ],
   "unique_name": "Future Funk",

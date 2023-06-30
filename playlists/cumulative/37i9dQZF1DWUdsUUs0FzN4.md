@@ -4,12 +4,12 @@
 
 > Con licuachela en mano y perreando hasta el piso\. El Alfa y Peso Pluma en portada
 
-207 songs - 10 hr 21 min
+208 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [23](https://open.spotify.com/track/4jlDZhdrDYzeVIjx0tklrM) | [Den G One](https://open.spotify.com/artist/51KTxyt8WoLRRcKAZzUHew), [Jem Beats](https://open.spotify.com/artist/4ZRrxRG0VNdLS6rFWt3S91), [El Gabo](https://open.spotify.com/artist/6pZUZREhy1N0zYHO6pDAJb) | [23](https://open.spotify.com/album/0UFpK7CNrmjBhFybF2edXh) | 1:53 | 2023-04-28 | 2023-06-24 |
-| [A Mover Ese Booty \(feat\. n\-Yel\)](https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Nyel](https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5) | [A Mover Ese Booty \(feat\. n\-Yel\)](https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A) | 2:37 | 2022-01-04 |  |
+| [A Mover Ese Booty](https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Nyel](https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5) | [A Mover Ese Booty](https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A) | 2:37 | 2022-01-04 |  |
 | [A Poto Pe](https://open.spotify.com/track/6iu7Evq3KjMKFWSQlKQnhW) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [A Poto Pe](https://open.spotify.com/album/4ege7aaa0xhs7VW4B5F6ky) | 3:17 | 2023-03-31 | 2023-04-29 |
 | [Abuso Oficial](https://open.spotify.com/track/1Qcac2H6VGtsBEDkyNRCL2) | [BM Legacy](https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Legado ARM](https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Abuso Oficial](https://open.spotify.com/album/2ewVxbSD7dBPtOOiDxzYpR) | 1:59 | 2023-02-10 | 2023-02-18 |
 | [Acelera](https://open.spotify.com/track/7ixpPg981MDTWJEY54pnRw) | [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Acelera](https://open.spotify.com/album/2yLvsTfL0erLPPohKuzi3O) | 2:32 | 2022-04-18 |  |
@@ -81,7 +81,8 @@
 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2022-12-22 | 2023-05-30 |
 | [Goldi Buena](https://open.spotify.com/track/0yKV1lGKbIOmWUDOoEu7PE) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Goldi Buena](https://open.spotify.com/album/7mCziNGhAO2XFa0HwgZNSq) | 3:14 | 2022-01-17 | 2023-04-01 |
 | [Grábate](https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD) | [Yoiker](https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ) | [Esto No Es Un Álbum](https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF) | 2:38 | 2023-03-10 |  |
-| [Helicoptero](https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Helicoptero](https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD) | 2:17 | 2023-03-17 |  |
+| [Helicoptero](https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Helicoptero](https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD) | 2:17 | 2023-03-17 | 2023-06-30 |
+| [Helicoptero](https://open.spotify.com/track/7dg8xRGRg5Az68XFDWaTqy) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 2:17 | 2023-06-23 |  |
 | [ID](https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [ID](https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL) | 3:55 | 2023-06-02 |  |
 | [Inocente](https://open.spotify.com/track/0IlwSd3IcgnHXPmRv89DSm) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Inocente](https://open.spotify.com/album/2RLtOqXbqX6uqaNJ5eb3yC) | 3:22 | 2022-01-04 | 2022-07-29 |
 | [Jordan Flight](https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Jordan Flight](https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M) | 2:39 | 2023-03-03 |  |

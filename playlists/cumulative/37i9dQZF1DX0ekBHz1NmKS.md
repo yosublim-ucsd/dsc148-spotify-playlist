@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-728 songs - 1 day 14 hr 30 min
+729 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-05-04 |  |
 | [91:an](https://open.spotify.com/track/6EvSxIfJCvDwglAIpHBlNR) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [TUTTI FRUTTI \- från lokalen under sushin](https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ) | 3:12 | 2021-12-16 | 2022-03-10 |
 | [94an](https://open.spotify.com/track/4E0SqGrKjIqlgzTEZU0Zbw) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [94an](https://open.spotify.com/album/4A44yJWTj9f7ADwJolvoUX) | 2:57 | 2022-04-01 | 2022-09-26 |
+| [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2023-06-29 |  |
 | [A Lover Like Me](https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [A Lover Like Me](https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA) | 2:52 | 2023-02-02 | 2023-04-05 |
 | [A Power In Letting Go](https://open.spotify.com/track/4ApPQVXgiVTV17lmnC4Ld2) | [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [A Power In Letting Go](https://open.spotify.com/album/5EHd9sZcjNMC0w2h2InKFT) | 2:52 | 2022-03-17 | 2022-07-29 |
 | [ABAJO](https://open.spotify.com/track/1GXd4kZSdrJEBo11WgQiDi) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [ABAJO](https://open.spotify.com/album/5dzPBGqHe0FOjEPxRWey2D) | 2:40 | 2022-01-27 | 2022-02-06 |
@@ -423,7 +424,7 @@
 | [Moonshine](https://open.spotify.com/track/3r2M7ITabcpBF6ZmaQr5LL) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Moonshine](https://open.spotify.com/album/1mYP0VnPraUurStDyEyRex) | 3:41 | 2021-12-16 | 2022-02-10 |
 | [More Than Words](https://open.spotify.com/track/6mss39f2NvXx3IshtHqldT) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [More Than Words](https://open.spotify.com/album/2nNSUxI7Loz154Ytgoaq1e) | 2:52 | 2021-12-16 | 2022-04-02 |
 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-01-12 | 2023-03-26 |
-| [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-04-01 |  |
+| [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-04-01 | 2023-06-30 |
 | [Morning](https://open.spotify.com/track/5NQ8oXv0nbpwUn51Nzu45H) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Swedish Summer Edition\)](https://open.spotify.com/album/2tJdPK9VjOY8XV6VM6s1Cy) | 2:54 | 2021-12-16 | 2022-02-09 |
 | [Moving Like That](https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Moving Like That](https://open.spotify.com/album/32FC7UO1DuuzlTgkoLP7VJ) | 2:49 | 2022-02-05 | 2022-04-28 |
 | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5) | 3:48 | 2022-05-12 | 2023-02-11 |

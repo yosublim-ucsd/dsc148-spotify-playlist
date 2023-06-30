@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 686937,
+  "num_followers": 687564,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTE4YjUzZjNmZDg0NTkzOTMyNGFhMDRmYzZjZDA4Y2Y1NjhhOGE4",
+  "snapshot_id": "MCw3YTlmNzhmMjhjMDQ3ODQ5NDgzMWUwZTg5NDAyZDZhMmVlYzY2YTU2",
   "tracks": [
     {
       "added_at": "2023-02-10 17:25:14",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
+        "name": "24K Magic (R3hab Remix)",
+        "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 158678,
+      "name": "24K Magic - R3hab Remix",
+      "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
         "name": "On My Way (Da Tweekaz Remix)",
         "url": "https://open.spotify.com/album/1ODOCRQWwjfJRqJ34RtrKa"
       },
@@ -895,26 +915,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "24K Magic (R3hab Remix)",
-        "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 158678,
-      "name": "24K Magic - R3hab Remix",
-      "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "Best Day Of My Life (Gazzo Remix)",
         "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 197146,
       "name": "Into You - 3LAU Remix",
       "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "Treasure Remix EP",
+        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 208278,
+      "name": "Treasure - Cash Cash Radio Mix",
+      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Treasure Remix EP",
-        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 208278,
-      "name": "Treasure - Cash Cash Radio Mix",
-      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/6oRrfGcUeAwfX1lTdxZFFj"
       },
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
+        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 277226,
+      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
+      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
         "name": "Roses (Remixes) (feat. ROZES)",
         "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
       },
@@ -1175,22 +1195,22 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
-        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
+        "name": "What About Us (The Remixes)",
+        "url": "https://open.spotify.com/album/0fnhGErI5xy7fNuzLP4aDx"
       },
       "artists": [
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         },
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
         }
       ],
-      "duration_ms": 277226,
-      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
-      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
+      "duration_ms": 233902,
+      "name": "What About Us - Cash Cash Remix",
+      "url": "https://open.spotify.com/track/5Xt5iEbljmwJW51LMTQ6Nx"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1219,26 +1239,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "What About Us (The Remixes)",
-        "url": "https://open.spotify.com/album/0fnhGErI5xy7fNuzLP4aDx"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 233902,
-      "name": "What About Us - Cash Cash Remix",
-      "url": "https://open.spotify.com/track/5Xt5iEbljmwJW51LMTQ6Nx"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "Malibu (The Remixes)",
         "url": "https://open.spotify.com/album/4kWPS9C0JwMh9bdeesSuAf"
       },
@@ -1255,6 +1255,26 @@
       "duration_ms": 199480,
       "name": "Malibu - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1NvSQe0i4ApmQCnBI8Jwzq"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "Kings & Queens (The Remixes)",
+        "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Kings & Queens - MOTi Remix",
+      "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1279,26 +1299,6 @@
       "duration_ms": 190416,
       "name": "Promises (with Sam Smith) - David Guetta Remix",
       "url": "https://open.spotify.com/track/3Lv3frZVXU7Q0JEFvLIzWW"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
-        "name": "Kings & Queens (The Remixes)",
-        "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Kings & Queens - MOTi Remix",
-      "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1371,22 +1371,26 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "New Rules (Remixes)",
-        "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
+        "name": "Body (Dzeko Remix)",
+        "url": "https://open.spotify.com/album/27BS0fcfFoF6hNMdJZPMRR"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         },
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        },
+        {
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
         }
       ],
-      "duration_ms": 280853,
-      "name": "New Rules - KREAM Remix",
-      "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
+      "duration_ms": 165714,
+      "name": "Body - Dzeko Remix",
+      "url": "https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1439,30 +1443,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Body (Dzeko Remix)",
-        "url": "https://open.spotify.com/album/27BS0fcfFoF6hNMdJZPMRR"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        },
-        {
-          "name": "Dzeko",
-          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Body - Dzeko Remix",
-      "url": "https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "One Kiss (with Dua Lipa) [Remixes]",
         "url": "https://open.spotify.com/album/5vH3ugictBcayQWRWgfvpN"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 281266,
       "name": "One Kiss (with Dua Lipa) - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/7b4vbqgzMhbFa0wdjfftQJ"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "New Rules (Remixes)",
+        "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "New Rules - KREAM Remix",
+      "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "September Song (Remixes)",
-        "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        },
-        {
-          "name": "Mark Ralph",
-          "url": "https://open.spotify.com/artist/03lPYuQmwUUUtR1dNLjgoc"
-        }
-      ],
-      "duration_ms": 215030,
-      "name": "September Song - Indian Summer Mix",
-      "url": "https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "...Ready For It? (BloodPop\u00ae Remix)",
         "url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM"
       },
@@ -1571,26 +1551,22 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Closer (Remixes)",
-        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
+        "name": "September Song (Remixes)",
+        "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         },
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Mark Ralph",
+          "url": "https://open.spotify.com/artist/03lPYuQmwUUUtR1dNLjgoc"
         }
       ],
-      "duration_ms": 161120,
-      "name": "Closer - R3hab Remix",
-      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
+      "duration_ms": 215030,
+      "name": "September Song - Indian Summer Mix",
+      "url": "https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1619,6 +1595,30 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
+        "name": "Closer (Remixes)",
+        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Closer - R3hab Remix",
+      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
         "name": "Silence (Ti\u00ebsto's Big Room Remix)",
         "url": "https://open.spotify.com/album/6VfxEu1SHtWOF5H9vGUMw5"
       },
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Don't Start Now (Remixes)",
-        "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Don't Start Now - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "Ruin My Life (Remixes)",
         "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 177096,
       "name": "Ruin My Life - Steve James Remix",
       "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "Don't Start Now (Remixes)",
+        "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Don't Start Now - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
     },
     {
       "added_at": "2023-02-10 17:25:14",

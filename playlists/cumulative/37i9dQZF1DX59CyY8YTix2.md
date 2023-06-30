@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: SHISHAMO
 
-1,002 songs - 2 day 15 hr 24 min
+1,004 songs - 2 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Insane](https://open.spotify.com/track/7767zyhnMU4ElJJjwiGeL6) | [SOM4LI](https://open.spotify.com/artist/7DT4fNnvRM3afyDfwm3hof) | [ESCAPISM](https://open.spotify.com/album/7FntC1u2oCXwFPwGK5EUSU) | 3:08 | 2022-08-30 | 2022-09-07 |
 | [INSIDE](https://open.spotify.com/track/3As2YlTdp1dETLdzU4nFNO) | [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I), [千愛](https://open.spotify.com/artist/6yzuMaCB3z0QBmgYtIAbXz) | [INSIDE](https://open.spotify.com/album/07TsekqvgXB4stic6KD1iu) | 3:43 | 2023-01-17 | 2023-02-01 |
 | [inu](https://open.spotify.com/track/3QFfhYe5yVWRR9Ot4N4Kev) | [superuwan](https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH) | [choyadoya](https://open.spotify.com/album/5YJfk2yFzXn8JXXRicS4LZ) | 3:08 | 2022-10-04 | 2022-11-02 |
+| [ippo](https://open.spotify.com/track/60puHgcJ5YD2YzucFJ6rdn) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [ippo](https://open.spotify.com/album/76geQgW2aazeKxg6KWvKOE) | 4:46 | 2023-06-29 |  |
 | [isari](https://open.spotify.com/track/3nEZ6pjQ17zwXMzT8rtFRy) | [尾崎リノ](https://open.spotify.com/artist/2pzj7s9O5Asz8ZGed2WEsY) | [isari](https://open.spotify.com/album/0MTZoHujhXMBF4GEHBIcQC) | 5:15 | 2022-09-27 | 2022-10-05 |
 | [It's not too late](https://open.spotify.com/track/6msygryLZFEN7Fw7laGcAA) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [It's not too late](https://open.spotify.com/album/03Dx5bwpehJewD0236CHfe) | 4:33 | 2022-07-19 | 2022-08-17 |
 | [It’s ME](https://open.spotify.com/track/62zWJ7aba8R1ZdjnAj48cv) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 2:41 | 2022-07-12 | 2022-09-15 |
@@ -294,6 +295,7 @@
 | [No, Thank U](https://open.spotify.com/track/5gOkgP1Bdg6AdZFYagNdZS) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [No, Thank U](https://open.spotify.com/album/5sEKAAsvOt4LRS60O3JvgS) | 3:33 | 2022-05-26 | 2022-07-01 |
 | [Nocturne](https://open.spotify.com/track/236ak0krOCdUlhMFuP2Ujl) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [Nocturne](https://open.spotify.com/album/1ht11fyfCbL9Do56Icrc3S) | 4:15 | 2022-09-27 | 2022-10-05 |
 | [Now Back](https://open.spotify.com/track/08PdBo2T8kdaZ2ZIK28SMd) | [アマイワナ](https://open.spotify.com/artist/78khO3LkYjAc4VSpHOJjrH) | [ベイビィ・ベッドルーム・パンク](https://open.spotify.com/album/3W23YvRkjCaoJycK3mD71W) | 3:01 | 2022-10-18 | 2022-11-02 |
+| [Odd Dancer](https://open.spotify.com/track/5KrmHvZqGCzxVjEdcB4xiX) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Odd Dancer](https://open.spotify.com/album/6dgYwFD881z4kSbi0W0FA1) | 3:10 | 2023-06-29 |  |
 | [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 | 2022-09-06 | 2023-04-12 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-07 | 2022-10-12 |
 | [olive drive](https://open.spotify.com/track/0AlkosW5LjGmQulFMj0UyC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.Ep](https://open.spotify.com/album/4yjXv4xDjCZQ1gZcK5kjd1) | 5:02 | 2022-11-15 | 2022-11-25 |
@@ -419,7 +421,7 @@
 | [tender icecream](https://open.spotify.com/track/1EzLPxQ7Ql4aIZkNCIEiqY) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Seasons.ep](https://open.spotify.com/album/6ZZqCvMiApoWGZfsCYVDAB) | 3:30 | 2022-08-25 | 2022-09-15 |
 | [Thank Uuuuu for ....](https://open.spotify.com/track/6M3BdsIKQfcjazn6AQaY72) | [U](https://open.spotify.com/artist/5yg4eMyfkrqwiI4AQsr65h) | [HEARTRHYTHMO](https://open.spotify.com/album/5e4WLSYxYacF9MyWdOdpqF) | 3:37 | 2022-06-30 | 2022-07-06 |
 | [That I](https://open.spotify.com/track/53UazAHPCpRwkrsGBEIZzV) | [D.B.Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [That I](https://open.spotify.com/album/4l3WEaz9RRGERXY9h5MMjP) | 3:42 | 2023-06-27 |  |
-| [The 1st chapter](https://open.spotify.com/track/4yhKrIVgnaQM3YD3dbDFc4) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [The 1st chapter](https://open.spotify.com/album/61MfHl4QOaS3pHyP9WWg5v) | 4:12 | 2023-05-23 |  |
+| [The 1st chapter](https://open.spotify.com/track/4yhKrIVgnaQM3YD3dbDFc4) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [The 1st chapter](https://open.spotify.com/album/61MfHl4QOaS3pHyP9WWg5v) | 4:12 | 2023-05-23 | 2023-06-30 |
 | [the eye drops from 7th floor make my eyes burn](https://open.spotify.com/track/5muzgZHK75iLi3HgBf5OFg) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [the eye drops from 7th floor make my eyes burn](https://open.spotify.com/album/4Sh6E35orP4cqcKA7lPrfT) | 3:48 | 2023-01-17 | 2023-01-25 |
 | [The Local Pints](https://open.spotify.com/track/38gu4TRjE5N5WN6UeFlKki) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [The Local Pints](https://open.spotify.com/album/1YqaVxLXPKjndYoQsCdCZ3) | 3:00 | 2023-06-06 | 2023-06-14 |
 | [The Middle](https://open.spotify.com/track/5wnDkmWnkwIKBl2eAwebJW) | [Velvet Sighs](https://open.spotify.com/artist/0CWI9gU5g8Kjz9IldPjJeH) | [The Middle](https://open.spotify.com/album/06jgkQXzcAour1R7t8DYaC) | 3:31 | 2022-11-08 | 2022-11-16 |
@@ -811,7 +813,7 @@
 | [夜に生まれたお姫様](https://open.spotify.com/track/7MCnpCGq28ysMbvJw6FxLx) | [Carnival](https://open.spotify.com/artist/6uXssdScTiNC7wYrQWl7fF) | [夜に生まれたお姫様](https://open.spotify.com/album/6CP3c39dturRDbXal1225w) | 3:41 | 2022-06-23 | 2022-07-09 |
 | [夜啼鶯](https://open.spotify.com/track/5xGnQbGzev2iqqBFVoDzlg) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 2:18 | 2023-01-31 | 2023-04-21 |
 | [夜逃げ](https://open.spotify.com/track/6DtpRO1A0MRiGsWgKXlmzB) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [夜逃げ](https://open.spotify.com/album/46sPxSwFOOq2zjACGq1grI) | 4:02 | 2022-05-26 | 2022-07-22 |
-| [夢へ](https://open.spotify.com/track/1nNaWPy8JgSCGMHOgyPfHA) | [EMERALD FOUR](https://open.spotify.com/artist/3fIFYfce155DkvjTKth6Fv) | [夢へ](https://open.spotify.com/album/4YibzgI7in5rAFTTre0duF) | 3:12 | 2023-06-20 |  |
+| [夢へ](https://open.spotify.com/track/1nNaWPy8JgSCGMHOgyPfHA) | [EMERALD FOUR](https://open.spotify.com/artist/3fIFYfce155DkvjTKth6Fv) | [夢へ](https://open.spotify.com/album/4YibzgI7in5rAFTTre0duF) | 3:12 | 2023-06-20 | 2023-06-30 |
 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 | 2022-09-27 |  |
 | [大人になりたくない](https://open.spotify.com/track/6VYPwkSVZpfo0C7uPwl9v8) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [大人になりたくない](https://open.spotify.com/album/1p26UNNwzU672gSeXDWU6U) | 3:27 | 2023-01-17 | 2023-01-19 |
 | [天使のキス](https://open.spotify.com/track/0BPqXMCGVxCIcBo7WPjOzj) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [天使のキス](https://open.spotify.com/album/3lt2LRlBbR6N0OuRSpCuz4) | 3:00 | 2023-05-30 | 2023-06-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,369 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,700 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Nannaya Raasina](https://open.spotify.com/track/3tDLHXVoUrRqcHXkzqMz4r) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [18 Pages](https://open.spotify.com/album/3kimSSf3JVYLCxmewc22ra) | 4:37 |
 | 50 | [Vennela Vennela](https://open.spotify.com/track/2pZPSfj0EPZVHVlf42NTVB) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Top Gear](https://open.spotify.com/album/7k4EcT3DDGPd2j73OgB6lR) | 4:54 |
 
-Snapshot ID: `MCw4YjZmN2MwNjI3NDQ1M2MyNWE5ZTk0NmM3ZjUyYzhhODJhNmY2NTli`
+Snapshot ID: `MCxkODBiOWViOTg4N2RiMDZiZjAxNWUwMTU1ZTBlMmMzNWY4NTBkZWQ0`

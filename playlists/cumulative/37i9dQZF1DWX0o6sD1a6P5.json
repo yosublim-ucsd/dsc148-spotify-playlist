@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Fireboy DML",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Yemi Alade",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 162373,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 160862,
       "name": "Complete",
       "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 240000,
       "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
       "url": "https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V"
@@ -3295,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "Fake Friends (Ir\u00f3 \u00d2re)",
+        "url": "https://open.spotify.com/album/2YdB6Hh9Xq555Bhyy7u5Kg"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Fake Friends (Ir\u00f3 \u00d2re)",
+      "url": "https://open.spotify.com/track/38taP6j04eJMJu6dM3feot"
+    },
+    {
+      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/4gLz3s4Zg3BduGWKk2aNPO"
       },
@@ -3420,6 +3438,28 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "album": {
+        "name": "FIREGUN",
+        "url": "https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "FIREGUN",
+      "url": "https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De"
     },
     {
       "album": {
@@ -3920,7 +3960,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 163813,
       "name": "I Wish (feat. Libianca)",
       "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
@@ -4722,6 +4762,28 @@
       "duration_ms": 223005,
       "name": "Lock Up",
       "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
+      "album": {
+        "name": "Loju (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174226,
+      "name": "Loju (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
     },
     {
       "album": {
@@ -6127,6 +6189,24 @@
     },
     {
       "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/2JVeQNTDzn9CePwaPqiS01"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171683,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/7grcWNFVuikupo8Q4hJ9E8"
+    },
+    {
+      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
@@ -6240,6 +6320,24 @@
       "duration_ms": 173646,
       "name": "Personal Baby",
       "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
+    },
+    {
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143080,
+      "name": "Personne",
+      "url": "https://open.spotify.com/track/1a2iA1NgFnmnQ8YhisT2Rz"
     },
     {
       "album": {
@@ -6364,6 +6462,24 @@
       "duration_ms": 258426,
       "name": "Plan (feat. Franglish, Abou Debeing & Dadju)",
       "url": "https://open.spotify.com/track/0exjGVTPrIA5MYokrYG862"
+    },
+    {
+      "album": {
+        "name": "Plat du pied",
+        "url": "https://open.spotify.com/album/3BmJvObqoqWZyOTU0OGgw3"
+      },
+      "artists": [
+        {
+          "name": "Junior Bvndo",
+          "url": "https://open.spotify.com/artist/58lWi9l7zeTHdUz6Glzm9p"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143013,
+      "name": "Plat du pied",
+      "url": "https://open.spotify.com/track/48isYzGBNwUHgDyjoPe7fc"
     },
     {
       "album": {
@@ -6702,6 +6818,28 @@
       "duration_ms": 166558,
       "name": "Sability",
       "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
+    },
+    {
+      "album": {
+        "name": "Sama Khol",
+        "url": "https://open.spotify.com/album/21HsFCRng3U2j9N3gqWUcE"
+      },
+      "artists": [
+        {
+          "name": "SEYSEY",
+          "url": "https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU"
+        },
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152127,
+      "name": "Sama Khol",
+      "url": "https://open.spotify.com/track/3stOKcPRJOlqotnyXTSkFJ"
     },
     {
       "album": {
@@ -7102,7 +7240,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 183056,
       "name": "soso",
       "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
@@ -7538,7 +7676,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 159500,
       "name": "Ta Ta Ta (with Jason Derulo)",
       "url": "https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy"
@@ -7604,7 +7742,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 161506,
       "name": "Tek Tek (feat. MHD)",
       "url": "https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1"

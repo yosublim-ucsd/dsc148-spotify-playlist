@@ -797,6 +797,28 @@
     },
     {
       "album": {
+        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321240,
+      "name": "Kal Ho Naa Ho",
+      "url": "https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I"
+    },
+    {
+      "album": {
         "name": "Kami Hai",
         "url": "https://open.spotify.com/album/4rvB7pU7ikqxucUAFbTQrh"
       },

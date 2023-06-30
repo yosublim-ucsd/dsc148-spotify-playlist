@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: سلطان خليفة
 
-240 songs - 16 hr 18 min
+242 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Galbi Zojaj](https://open.spotify.com/track/5r4EQu8vV34Yk3hwvUWzf2) | [Aseel Abu Baker](https://open.spotify.com/artist/3IaW9Q8ws0dqIRKaoBDUdf) | [Galbi Zojaj](https://open.spotify.com/album/0Ko6385ojdQjYR0Bs8cMJb) | 4:50 | 2022-08-12 | 2023-02-22 |
 | [Gheyabi](https://open.spotify.com/track/3D930igQ3knkLavFFPyijR) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Maashar Al Oshag](https://open.spotify.com/album/1nPZkWEX3bXgzfAlynB4LQ) | 3:59 | 2022-02-14 | 2022-08-13 |
 | [Gidar Gidar](https://open.spotify.com/track/7pIt7aJzoeD9tkvka30Bh4) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Gidar Gidar](https://open.spotify.com/album/71bAi48fuZr89EYQz2iRiq) | 6:47 | 2022-07-06 | 2023-01-18 |
-| [Habeeb El Roh](https://open.spotify.com/track/21wMSBrttJwKRkNebSUaNq) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Habeeb El Roh](https://open.spotify.com/album/4gzTxAiQTE8eWK41Q3kp62) | 3:00 | 2022-12-16 |  |
+| [Habeeb El Roh](https://open.spotify.com/track/21wMSBrttJwKRkNebSUaNq) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Habeeb El Roh](https://open.spotify.com/album/4gzTxAiQTE8eWK41Q3kp62) | 3:00 | 2022-12-16 | 2023-06-30 |
 | [Hadrat El Walhan](https://open.spotify.com/track/0NFYjeH5IavHNEqJkciJR6) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Hadrat El Walhan](https://open.spotify.com/album/4KlOIXdhTKjuExCP6bTn6m) | 4:05 | 2022-09-19 | 2023-04-27 |
 | [Haki Jareh](https://open.spotify.com/track/2Ae93SYvUUS7J4u4h0mnHy) | [Borhan](https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi) | [Haki Jareh](https://open.spotify.com/album/0xIPVNzOXEp9GhpvKR2qBx) | 4:56 | 2021-12-23 | 2022-03-12 |
 | [Hala Bek](https://open.spotify.com/track/2gNIpFX1xqfGKwUNPSHMXJ) | [Borhan](https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi) | [Hala Bek](https://open.spotify.com/album/5jx0W4QtPWYZrJOKCaq76F) | 4:05 | 2022-06-29 | 2023-01-13 |
@@ -103,6 +103,7 @@
 | [Ikhtiyari](https://open.spotify.com/track/7JDoh2Fjf8SGjUiXb4BcPh) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S) | [Ikhtiyari](https://open.spotify.com/album/3Dlse3mYeZCMfVZZOc64Va) | 1:24 | 2022-04-01 | 2022-08-27 |
 | [Jany Al Asmar](https://open.spotify.com/track/7zKTTQFVPcKpPuRzQUUr9X) | [Mashael](https://open.spotify.com/artist/0Wy58cHn0XDlkr4jBIqhZs) | [Jany Al Asmar](https://open.spotify.com/album/01Z9FR6JmU9LxLuDQfR6w7) | 3:51 | 2022-02-11 | 2022-02-12 |
 | [Kas Masmoom](https://open.spotify.com/track/6LqK9Z9UfmuAWlsbKOf4Vv) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Kas Masmoom](https://open.spotify.com/album/0ezG3U4JDp9dd0KlyAj2g3) | 5:32 | 2021-12-23 | 2022-04-01 |
+| [Kathaab](https://open.spotify.com/track/0owHcMZfxaX79H6hIKwso5) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Kathaab](https://open.spotify.com/album/0fh4OLIjGRYcSwWCCVtj9o) | 4:50 | 2023-06-30 |  |
 | [Kebryaa Wa Shmookh](https://open.spotify.com/track/1RO1yZjUMItbF3Vq60XtDh) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Kebryaa Wa Shmookh](https://open.spotify.com/album/3yRAizctgFimatuWrU7x68) | 4:00 | 2022-03-11 | 2022-08-27 |
 | [Keda Wala Keda](https://open.spotify.com/track/5jpNJTb9XKt6WVxEQfKLYK) | [Jori Kattan](https://open.spotify.com/artist/3auQGROryTRCO2rgjeyGHD) | [Keda Wala Keda](https://open.spotify.com/album/3tr3MAqqpmGfYA69xfVIRb) | 2:39 | 2022-01-12 | 2022-06-10 |
 | [Kethir Asameh](https://open.spotify.com/track/3gvQirei6Ou7yh87W7hKWe) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Kethir Asameh](https://open.spotify.com/album/795GVZBK7w1ny4eS3Du3PD) | 3:21 | 2023-02-14 |  |
@@ -214,6 +215,7 @@
 | [جماله](https://open.spotify.com/track/5Eummjh47ivk2y8y7OEaBX) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [جماله](https://open.spotify.com/album/5YDNtwvDQbQObi32lPZqq1) | 3:52 | 2023-01-10 |  |
 | [حبك ربح](https://open.spotify.com/track/5YK8T173I1KLGE2GC1IvLL) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [Hobbak Rebeh](https://open.spotify.com/album/71w9WsH8G9kygpUVSNDhUr) | 3:15 | 2022-11-03 | 2023-01-25 |
 | [حدود الغرام](https://open.spotify.com/track/0UdnJGuKosWJZ9zMSaKIOt) | [خالد حامد](https://open.spotify.com/artist/3cVWyWIYJJCk6sgk3faKYf) | [حدود الغرام](https://open.spotify.com/album/0h4AArlMvqifPYjm1oVG1Y) | 4:18 | 2022-12-22 |  |
+| [حظ من شافك](https://open.spotify.com/track/2vVlibedNRJkM7xIHkMiq4) | [Faisal Al Jasem](https://open.spotify.com/artist/0jsUKX6jfAdzVj3ml3BAwT) | [حظ من شافك](https://open.spotify.com/album/62oXdDuMezhgs39J3liFYg) | 3:49 | 2023-06-30 |  |
 | [حنيت](https://open.spotify.com/track/4SbeEnZSqDyHZrOruHLMjh) | [Mai Mostafa](https://open.spotify.com/artist/30anNvRIZmx6agpOWolWRI) | [حنيت](https://open.spotify.com/album/2iAFWITELlig4HQfHQmq3G) | 4:15 | 2022-01-06 | 2022-06-10 |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 | 2023-01-10 |
 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-02-24 | 2022-08-13 |

@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "Amor a Tres",
+        "url": "https://open.spotify.com/album/6NyQ4ogOWI3lxyU7HGfYGj"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247997,
+      "name": "Amor a Tres",
+      "url": "https://open.spotify.com/track/7xZgcL8Nty3F7VXJzLrXLV"
+    },
+    {
+      "album": {
         "name": "Amor del Bo",
         "url": "https://open.spotify.com/album/6KAvzHl4HH1C8SX8iuIHZA"
       },
@@ -809,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Comando Antivand\u00e1lico, Pero Violento",
+        "url": "https://open.spotify.com/album/19FKHlGrl68xlfNDuo9k8x"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214101,
+      "name": "Comando Antivand\u00e1lico, Pero Violento",
+      "url": "https://open.spotify.com/track/5Hq9XnHCw4VibGhCImcHBu"
+    },
+    {
+      "album": {
         "name": "Con Derecho A...",
         "url": "https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA"
       },
@@ -918,7 +954,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 279266,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
@@ -1008,7 +1044,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 252006,
       "name": "Contra Todo Pron\u00f3stico",
       "url": "https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO"
@@ -1308,7 +1344,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 274906,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
@@ -2662,7 +2698,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 275661,
       "name": "Mi \u00faltima canci\u00f3n triste - Mov.3: Mi Jard\u00edn",
       "url": "https://open.spotify.com/track/0dcPQzyzN3sEFxYDok6KrK"
@@ -3528,10 +3564,48 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 230000,
       "name": "Qu\u00e9 bonito",
       "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
+    },
+    {
+      "album": {
+        "name": "Raz\u00f3n de Vivir",
+        "url": "https://open.spotify.com/album/7BewtSiQFc2G8bKOe1kuSj"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        },
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        },
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        },
+        {
+          "name": "Dakillah",
+          "url": "https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ"
+        },
+        {
+          "name": "Daniela Heredia",
+          "url": "https://open.spotify.com/artist/5yTKxJlxMhyYGaUC9TQNlo"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311669,
+      "name": "Raz\u00f3n de Vivir",
+      "url": "https://open.spotify.com/track/2Ml4iJkY3EUbdO0knRn4aR"
     },
     {
       "album": {
@@ -3590,6 +3664,32 @@
       "duration_ms": 220684,
       "name": "Ruego",
       "url": "https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g"
+    },
+    {
+      "album": {
+        "name": "Sacar La Rabia",
+        "url": "https://open.spotify.com/album/6OUnHuMoShQK0wdTpBICMh"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        },
+        {
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233436,
+      "name": "Sacar La Rabia",
+      "url": "https://open.spotify.com/track/7GUs1PDaklqH7gUJdx6Kd7"
     },
     {
       "album": {
@@ -4420,7 +4520,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 224293,
       "name": "Verde Selva",
       "url": "https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e"

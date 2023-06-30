@@ -2427,6 +2427,28 @@
     },
     {
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/664zX64P0i4McluvapFBMR"
+      },
+      "artists": [
+        {
+          "name": "Audiojack",
+          "url": "https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs"
+        },
+        {
+          "name": "Jake The Rapper",
+          "url": "https://open.spotify.com/artist/5ApiJ1eiRnYhXRXsnYe5yy"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375865,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/0WhwH8se1uvdwktL3buvlg"
+    },
+    {
+      "album": {
         "name": "Disappear (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7"
       },
@@ -3664,7 +3686,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 153321,
       "name": "Gibberish",
       "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
@@ -3932,7 +3954,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 231023,
       "name": "Hand In Hand",
       "url": "https://open.spotify.com/track/4GJZ5n1yMkRAKfhr2uSLim"
@@ -5314,7 +5336,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 257665,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/4Svcne6tQU0mnJVI10VfLm"
@@ -5414,7 +5436,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 245806,
       "name": "Let's Dance - Honey Dijon Moonlight Remix",
       "url": "https://open.spotify.com/track/34Jr2hq5GW13cw8KbUUMy9"
@@ -6272,7 +6294,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 307141,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b"
@@ -7542,7 +7564,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 199573,
       "name": "Pation",
       "url": "https://open.spotify.com/track/6pTUZ5Pc60FIfPCMlZgvnt"
@@ -7612,6 +7634,24 @@
       "duration_ms": 412505,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
+    },
+    {
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/2KRkITw3duxYZvQxAnZTaF"
+      },
+      "artists": [
+        {
+          "name": "Avoure",
+          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302439,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/7jC1ym6zymckGeBH5FlwXq"
     },
     {
       "album": {
@@ -7742,6 +7782,28 @@
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "album": {
+        "name": "Raining Again (Eli & Fur Remix)",
+        "url": "https://open.spotify.com/album/5ypkQ1ZZVfwNzzXdQOSI3N"
+      },
+      "artists": [
+        {
+          "name": "Betoko",
+          "url": "https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264378,
+      "name": "Raining Again - Eli & Fur Remix",
+      "url": "https://open.spotify.com/track/4irQGJnGuNM3CsqBZg6nEX"
     },
     {
       "album": {
@@ -9635,6 +9697,24 @@
     },
     {
       "album": {
+        "name": "The Theory EP",
+        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270476,
+      "name": "The Blaze",
+      "url": "https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt"
+    },
+    {
+      "album": {
         "name": "The Chant (For Club Play Only, Pt. 8)",
         "url": "https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q"
       },
@@ -9839,6 +9919,24 @@
     },
     {
       "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199044,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
+    },
+    {
+      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
       },
@@ -9880,6 +9978,46 @@
       "duration_ms": 263162,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN"
+    },
+    {
+      "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/1WfsbeV8Wh1osKgaIYfQcU"
+      },
+      "artists": [
+        {
+          "name": "Dark Heart",
+          "url": "https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215714,
+      "name": "The Time Is Now",
+      "url": "https://open.spotify.com/track/0qt0ZSiqKipDjdhBMFZDvP"
+    },
+    {
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/2KRkITw3duxYZvQxAnZTaF"
+      },
+      "artists": [
+        {
+          "name": "Avoure",
+          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304115,
+      "name": "This Feelin'",
+      "url": "https://open.spotify.com/track/6gzs6pjFa2Lx2GNPVWDaVQ"
     },
     {
       "album": {
@@ -10626,7 +10764,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 201259,
       "name": "Uh La La - Guz Remix",
       "url": "https://open.spotify.com/track/5EKDyGRhaqe6tU4UYiyNed"

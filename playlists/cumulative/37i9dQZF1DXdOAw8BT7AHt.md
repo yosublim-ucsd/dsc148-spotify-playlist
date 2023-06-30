@@ -4,7 +4,7 @@
 
 > The best in new punk rock music\. Cover: Sprints
 
-164 songs - 8 hr 7 min
+165 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [It's good to be back \- Metronomy x Panic Shack](https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [It's good to be back](https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr) | 3:15 | 2022-12-02 | 2023-03-03 |
 | [Knees Deep](https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 3:39 | 2023-03-03 |  |
 | [Knees Deep](https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 3:39 | 2022-12-02 | 2023-04-30 |
-| [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 | 2023-04-21 |  |
+| [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 | 2023-04-21 | 2023-06-30 |
 | [last cadence](https://open.spotify.com/track/6gt5Xpymo2JBF51xs2JvpA) | [Exit Dream](https://open.spotify.com/artist/1vjClLSU7owOEFgBruZVWs) | [last cadence](https://open.spotify.com/album/7cwfws8SSBgQc7AGOtys3I) | 3:54 | 2023-03-03 | 2023-03-23 |
 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:04 | 2023-03-03 |  |
 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP) | 3:04 | 2022-12-02 | 2023-05-04 |
@@ -105,6 +105,7 @@
 | [Make Way](https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Formal Growth In The Desert](https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB) | 2:57 | 2023-06-08 |  |
 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 | 2022-12-02 | 2023-04-13 |
 | [MANIC MAN](https://open.spotify.com/track/0ioY5fitg2h9o2VgBtjVCj) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/2VYycGvZq7uUmzjqWN11V3) | 2:14 | 2023-03-03 | 2023-06-26 |
+| [MANIC MAN](https://open.spotify.com/track/6GmwHZNiwgkLJRPw5FPHAH) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [BAD SON](https://open.spotify.com/album/2ykrqWTfqZ1ltn6n0ooFIf) | 2:14 | 2023-06-20 |  |
 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 | 2022-12-02 |  |
 | [Mark Hoppus](https://open.spotify.com/track/75LJzh7R2E1Tp6tP0AUlJo) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Joshua Roberts](https://open.spotify.com/artist/7fUxUzTu93s4WgcPWj1z5p) | [Mark Hoppus](https://open.spotify.com/album/7uEzM4bw7Siu0BfMzH4Y7Z) | 2:23 | 2022-12-02 | 2023-01-21 |
 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 | 2022-12-02 |  |

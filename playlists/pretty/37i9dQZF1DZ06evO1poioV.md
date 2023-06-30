@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,805 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,834 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 32 | [Letter To The Past](https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:40 |
 | 33 | [That Wasn't Me](https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:42 |
 | 34 | [Wherever is Your Heart](https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:50 |
-| 35 | [Breakfast In Birmingham \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/3GOgNvOS69nv122eNjYGUG) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Breakfast In Birmingham \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/2R5MdULbrzeoioeTF7xrpj) | 3:30 |
-| 36 | [Josephine](https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:02 |
+| 35 | [Josephine](https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:02 |
+| 36 | [Breakfast In Birmingham \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/3GOgNvOS69nv122eNjYGUG) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Breakfast In Birmingham \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/2R5MdULbrzeoioeTF7xrpj) | 3:30 |
 | 37 | [Forever Young \- Live at Benaroya Hall, Seattle, WA \- November 2010](https://open.spotify.com/track/4o8k0A5ZB6WybwgCnn77ox) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Seattle Symphony Orchestra](https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb) | [Live At Benaroya Hall with The Seattle Symphony](https://open.spotify.com/album/7jKJ68WplsoCCnbpKUXiV8) | 4:46 |
 | 38 | [Hold On](https://open.spotify.com/track/2AmvFn1VALA0VM1toWubEN) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14), [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Hold On](https://open.spotify.com/album/5OF5fVkkIWWOvn2Xdat10i) | 3:29 |
 | 39 | [If There Was No You](https://open.spotify.com/track/4GBw1ipeO6q1OrBpZrXF8f) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Give Up The Ghost](https://open.spotify.com/album/1NhFksWs1Nsz6wQI8ysTkv) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Run To Me \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Greenfields: The Gibb Brothers' Songbook \(Vol\. 1\)](https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp) | 3:22 |
 | 50 | [Cleanup Hitter](https://open.spotify.com/track/0RQT5rs8uElx7yrvhj6GMU) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Busted Jukebox Volume 2](https://open.spotify.com/album/4cJyMkeK2D0fRaFZXFGK14) | 3:53 |
 
-Snapshot ID: `MjgxMzI2NzEsMDAwMDAwMDBhMGZjNWUwZjIzZDUzMTdmYmRiZDFiODA2MDdjMjJhMQ==`
+Snapshot ID: `MjgxMzQwNTUsMDAwMDAwMDAxMDhmOTRiN2UyNDg1MzA2YWZkYmM5NWI1MDE0NTg4Yg==`

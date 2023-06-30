@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,487,540 likes - 80 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,487,536 likes - 80 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 62 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 |
 | 63 | [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 |
 | 64 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
-| 65 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
-| 66 | [Night Vision](https://open.spotify.com/track/62TWSulSg6OuPEwEdmIMQL) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Night Vision](https://open.spotify.com/album/6GblXcxt5814Mq4kIT7ZII) | 1:30 |
+| 65 | [Clout Chaser](https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Clout Chaser](https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI) | 1:52 |
+| 66 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
 | 67 | [That's Just Me](https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P) | [That's Just Me](https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq) | 1:30 |
-| 68 | [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 |
-| 69 | [Clout Chaser](https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Clout Chaser](https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI) | 1:52 |
+| 68 | [Night Vision](https://open.spotify.com/track/62TWSulSg6OuPEwEdmIMQL) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Night Vision](https://open.spotify.com/album/6GblXcxt5814Mq4kIT7ZII) | 1:30 |
+| 69 | [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 |
 | 70 | [Notes](https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV) | [Hazy Year](https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD) | [Beats On Boat: Hazy Year](https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U) | 2:47 |
 | 71 | [Ocean Waves](https://open.spotify.com/track/0bUUIbkmZZARHVRbukkdUJ) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alberto Droguett](https://open.spotify.com/artist/4T90xdfrulR6Kr4dm4XnrC), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Aywee Tha Seed](https://open.spotify.com/artist/2YAav0Cd12Zf7fh1cQYi62), [Kydual](https://open.spotify.com/artist/08HyLTxC7A2TTg8u52KNBK) | [Soul Searching](https://open.spotify.com/album/6efynV2ZemtiA8m8VIhfNX) | 2:49 |
 | 72 | [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 75 | [busking](https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [busking](https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq) | 2:20 |
 | 76 | [Elevator \- Remastered](https://open.spotify.com/track/2yltjA72DhOW2hL7CzbAMD) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [Elevator \(Remastered\)](https://open.spotify.com/album/7DNUHO4a9PrLD51cOaJO1N) | 3:27 |
 | 77 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 |
-| 78 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 |
-| 79 | [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 |
+| 78 | [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 |
+| 79 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 |
 | 80 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 |
 
-Snapshot ID: `MCwyYjEwZjJiZDQyYTM0ZTE2NWJlNjVjY2M2YjE4NjA0OGYyYzM4NjM5`
+Snapshot ID: `MCwzNDM1YWU2Y2RhNzU3OWVhMzllNDdmZTQzMDliMzI3YWVlNTRlYTM0`

@@ -14087,7 +14087,25 @@
     },
     {
       "album": {
-        "name": "you brok me first (edit) [XiJaro & Pitch Remix]",
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/0OowUlZkI9g5T1qTWWyhID"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-23",
+      "duration_ms": 161538,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/3ztpVHzt35X2zwBbEh4gMg"
+    },
+    {
+      "album": {
+        "name": "you broke me first (edit) [XiJaro & Pitch Remix]",
         "url": "https://open.spotify.com/album/635AMftd7i92nnCOIX5Dse"
       },
       "artists": [
@@ -14104,26 +14122,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169116,
-      "name": "you brok me first (edit) - XiJaro & Pitch Remix",
+      "name": "you broke me first (edit) - XiJaro & Pitch Remix",
       "url": "https://open.spotify.com/track/3mivCx58qsgZszezCkvmcp"
-    },
-    {
-      "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/0OowUlZkI9g5T1qTWWyhID"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        }
-      ],
-      "date_added": "2021-12-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
-      "duration_ms": 161538,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/3ztpVHzt35X2zwBbEh4gMg"
     },
     {
       "album": {

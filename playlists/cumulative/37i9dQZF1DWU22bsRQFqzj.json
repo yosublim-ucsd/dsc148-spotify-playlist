@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-06-24",
-  "description": "Allenati con le canzoni scelte da Federica Pellegrini per la <a href=\"https://olympics.com/it/olympic-day/\">Giornata Olimpica 2023</a>! #OlympicDay #LetsMove",
-  "name": "Hit Per Correre: Federica Pellegrini Takeover",
+  "description": "La musica \u00e8 la tua marcia in pi\u00f9! \ud83c\udfc3 ",
+  "name": "Hit Per Correre",
   "tracks": [
     {
       "album": {
@@ -50,6 +50,28 @@
       "duration_ms": 143526,
       "name": "After Midnight (feat. Xoro)",
       "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
+    },
+    {
+      "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
     },
     {
       "album": {
@@ -159,6 +181,28 @@
     },
     {
       "album": {
+        "name": "Bad Habits (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194331,
+      "name": "Bad Habits - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
+    },
+    {
+      "album": {
         "name": "FAST X (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
       },
@@ -182,7 +226,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 168002,
       "name": "Bando (feat. MadMan & Gemitaiz / FAST X Remix)",
       "url": "https://open.spotify.com/track/0OqpghCrKlvlBgmNG4cDX9"
@@ -358,7 +402,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 144240,
       "name": "Coincidance",
       "url": "https://open.spotify.com/track/4kFiTbKSJp6iUHnxNW2ovu"
@@ -384,7 +428,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 201845,
       "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
@@ -466,6 +510,32 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "album": {
+        "name": "Do It To It (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125280,
+      "name": "Do It To It - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
     },
     {
       "album": {
@@ -699,6 +769,24 @@
     },
     {
       "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277261,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
+    },
+    {
+      "album": {
         "name": "So Am I - 10's Anthems",
         "url": "https://open.spotify.com/album/5UFAFRrRvIH1ZdAmxcPNRS"
       },
@@ -722,7 +810,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 192560,
       "name": "Hey Mama",
       "url": "https://open.spotify.com/track/3Ek7BRwu6eO2kSeNMlZC1A"
@@ -751,6 +839,28 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147139,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za"
+    },
+    {
+      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -770,6 +880,36 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "album": {
+        "name": "In Your Arms (For An Angel)",
+        "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        },
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "In Your Arms (For An Angel)",
+      "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
     },
     {
       "album": {
@@ -1268,10 +1408,36 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 161320,
       "name": "Rumba",
       "url": "https://open.spotify.com/track/17349HGeqv8OAc1SwTUFDi"
+    },
+    {
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159535,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7"
     },
     {
       "album": {
@@ -1378,7 +1544,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 242520,
       "name": "Swish Swish",
       "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
@@ -1668,7 +1834,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 126604,
       "name": "Wrong Party",
       "url": "https://open.spotify.com/track/3uA40UQsW7odYZc9JOEwZc"

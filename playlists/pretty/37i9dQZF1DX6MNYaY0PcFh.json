@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 61051,
+  "num_followers": 61099,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGFiZDYyMDQ3NWNkNjkwYzNiZmFjMjU4MzlkOWIyMjUyMDc3YzRh",
+  "snapshot_id": "MCwyNDcwYTc1YmU0MDBjM2NkZjQ0Mzc4ZGY5Y2M1YzM2ZDlhMzdjNTAz",
   "tracks": [
     {
       "added_at": "2023-06-08 23:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh"
-      },
-      "artists": [
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        },
-        {
-          "name": "Ell Murphy",
-          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
-        }
-      ],
-      "duration_ms": 259074,
-      "name": "Bloom (ft. Ell Murphy)",
-      "url": "https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "Million Rings",
         "url": "https://open.spotify.com/album/4r9jyeljiOBrOX1O9vYoSm"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 162104,
       "name": "Million Rings",
       "url": "https://open.spotify.com/track/3xPIndCsBuz27cLygsUhSB"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        },
+        {
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
+        }
+      ],
+      "duration_ms": 259074,
+      "name": "Bloom (ft. Ell Murphy)",
+      "url": "https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
+        "name": "Channeler / Insomnia",
+        "url": "https://open.spotify.com/album/3QMuGQzNNO520yZrW32d5E"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5dC47tKuzWQs9rtpoWle71"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
         "name": "How It Goes",
         "url": "https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 175150,
       "name": "How It Goes",
       "url": "https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "Channeler / Insomnia",
-        "url": "https://open.spotify.com/album/3QMuGQzNNO520yZrW32d5E"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/5dC47tKuzWQs9rtpoWle71"
     },
     {
       "added_at": "2023-06-08 23:00:00",

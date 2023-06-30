@@ -4,7 +4,7 @@
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-171 songs - 10 hr 12 min
+172 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Freedom Wild](https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Motion Worship](https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R) | 3:46 | 2021-12-31 |  |
 | [Friends](https://open.spotify.com/track/0AqwIFVSJjp7bqHQqj2uVz) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 3:36 | 2021-12-31 | 2023-05-18 |
 | [Friends](https://open.spotify.com/track/3uK2cHWyHd9Lfau3gMAHW9) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [Friends](https://open.spotify.com/album/1CMTXVMrCrnXB92dsG9Zy1) | 3:36 | 2021-12-31 | 2022-07-29 |
-| [Future](https://open.spotify.com/track/51AOKB8pqsRF3YCucahDQ8) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [FRVR](https://open.spotify.com/album/4qjKYc6fXywXLvSypwJCkS) | 3:17 | 2021-12-31 |  |
+| [Future](https://open.spotify.com/track/51AOKB8pqsRF3YCucahDQ8) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [FRVR](https://open.spotify.com/album/4qjKYc6fXywXLvSypwJCkS) | 3:17 | 2021-12-31 | 2023-06-30 |
 | [Future](https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi) | 3:54 | 2021-12-31 |  |
 | [Future](https://open.spotify.com/track/2ifo08ftWXW39Alpkb4dKI) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/5uTiWe3JzeCiCblbBnQwOx) | 3:54 | 2021-12-31 | 2022-07-29 |
 | [Give It Away](https://open.spotify.com/track/4wB40MIxACc6qRUcc3dnrL) | [Johnson Ferry Worship](https://open.spotify.com/artist/2LsVK5PKpKnRw6yj3UUTDz) | [By Design](https://open.spotify.com/album/0CaSykr6tlwKLvcqtPh7fB) | 3:57 | 2021-12-31 | 2022-06-28 |
@@ -122,6 +122,7 @@
 | [No One Else](https://open.spotify.com/track/0kjoiNSuEYu5OkT1iawIvn) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [No One Else](https://open.spotify.com/album/4aOJdzjOMjBQiTOCBVWLUV) | 3:50 | 2021-12-31 | 2022-07-28 |
 | [Nobody](https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Nobody](https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX) | 3:07 | 2021-12-31 |  |
 | [Nobody But You \- Live](https://open.spotify.com/track/0i337cf6Iqos7LXeuiUEop) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Heaven Life \(Live\)](https://open.spotify.com/album/5JRlSur175Jn3M9X6In0HF) | 3:16 | 2021-12-31 | 2022-07-06 |
+| [Not a Chance](https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB) | [FEARLESS BND](https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP) | [Fear Not](https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7) | 5:33 | 2023-02-18 |  |
 | [Not a Chance](https://open.spotify.com/track/5yqIFVBn9Ra40WuXhpMEFf) | [FEARLESS BND](https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP) | [Not a Chance](https://open.spotify.com/album/1k2UtyplIjOPU4UBJnTEMO) | 5:33 | 2021-12-31 | 2022-07-28 |
 | [Not The Same](https://open.spotify.com/track/2m861H8brzg2aMGBwH3LJ0) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Chris Cauley](https://open.spotify.com/artist/5aH9aHu8oKkghDgylS6lJc) | [Not The Same](https://open.spotify.com/album/7iFbADiibPSDEXaV2HV4NL) | 3:19 | 2021-12-31 | 2022-07-26 |
 | [Not Too Far](https://open.spotify.com/track/1UAZPeZdpFFYa8wanZCj1H) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [HEATHEN](https://open.spotify.com/album/5yL0xTL7SRjBeK8Yko0wJG) | 3:01 | 2021-12-31 |  |

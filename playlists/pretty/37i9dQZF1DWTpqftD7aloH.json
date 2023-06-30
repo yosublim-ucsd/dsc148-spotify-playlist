@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
-  "num_followers": 280036,
+  "num_followers": 280392,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTY0NzRlM2I0ODU5MTllY2RmODU1MjRkN2E2YjVhZTFjNTY2Nzgy",
+  "snapshot_id": "MCw0ODI3ZWQ5ZDYzN2RlYTU3NmI5ZTljMzc5ZTJiNWY1MjRjODg2ZWVm",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -323,6 +323,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Minha Calmaria",
+        "url": "https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Minha Calmaria",
+      "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 646239,
       "name": "Promises (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Minha Calmaria",
-        "url": "https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        },
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Minha Calmaria",
-      "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Raridade",
-        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 297726,
-      "name": "Raridade",
-      "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "\u00danico (Live)",
         "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 419280,
       "name": "\u00danico - Live",
       "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Raridade",
+        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 297726,
+      "name": "Raridade",
+      "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Galileu (ao Vivo)",
-        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "Galileu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 311936,
       "name": "J\u00f3",
       "url": "https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Galileu (ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 325200,
+      "name": "Galileu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -719,22 +719,6 @@
       "duration_ms": 288995,
       "name": "Sou Humano",
       "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Uma Nova Histo\u0301ria - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -807,6 +791,38 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Raridade",
+        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 261178,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Uma Nova Histo\u0301ria - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Ele Cumprir\u00e1",
         "url": "https://open.spotify.com/album/1zFNMpUmIvseacn9OFcJLk"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 456654,
       "name": "Ele Cumprir\u00e1",
       "url": "https://open.spotify.com/track/1nQ0oeFFwRsW2h6PgZWmlo"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Raridade",
-        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 261178,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Casa De Deus",
-        "url": "https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Me Ajude A Melhorar",
-      "url": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Compromisso",
         "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 324013,
       "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
       "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Casa De Deus",
+        "url": "https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Me Ajude A Melhorar",
+      "url": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
-      },
-      "artists": [
-        {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
-        }
-      ],
-      "duration_ms": 290763,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Me Leva Pra Casa",
         "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 465885,
       "name": "Me Leva Pra Casa",
       "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
+      },
+      "artists": [
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "duration_ms": 290763,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "N\u00e3o Me Deixes Desistir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 495026,
-      "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
-      "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Quarto Secreto",
         "url": "https://open.spotify.com/album/4it8ereveBK8yFE4Ja2R87"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 307220,
       "name": "Quarto Secreto",
       "url": "https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "N\u00e3o Me Deixes Desistir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "duration_ms": 495026,
+      "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
+      "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Entre Amigos",
-        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3o L\u00e1zaro",
-          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
-        },
-        {
-          "name": "Damaris Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
-      "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Preto no Branco (Ao Vivo)",
         "url": "https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 368346,
       "name": "Os Sonhos de Deus (feat. Luk\u00e3o Carvalho & Eli Soares) - Ao Vivo",
       "url": "https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Entre Amigos",
+        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3o L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
+        },
+        {
+          "name": "Damaris Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
+      "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Eis-me Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        }
+      ],
+      "duration_ms": 459230,
+      "name": "Eis-me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Todavia Me Alegrarei (Ao Vivo)",
         "url": "https://open.spotify.com/album/6grrI3Rm6L9SqRbGDqJ7xP"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 476546,
       "name": "Nunca Pare de Lutar",
       "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Eis-me Aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        }
-      ],
-      "duration_ms": 459230,
-      "name": "Eis-me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
     },
     {
       "added_at": "2023-06-23 03:00:00",

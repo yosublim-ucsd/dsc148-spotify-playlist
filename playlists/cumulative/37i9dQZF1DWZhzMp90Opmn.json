@@ -509,6 +509,42 @@
     },
     {
       "album": {
+        "name": "Rosy Pink Static",
+        "url": "https://open.spotify.com/album/4nsMLH3zHCE7zp0Z9AVVA4"
+      },
+      "artists": [
+        {
+          "name": "Dreamcation",
+          "url": "https://open.spotify.com/artist/4gsCY64b6ZRxADedKKXU4l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193190,
+      "name": "Blushing Pink Haze",
+      "url": "https://open.spotify.com/track/3VyJmopSB2RArJGhc0PsGz"
+    },
+    {
+      "album": {
+        "name": "Pink Champagne Cascade",
+        "url": "https://open.spotify.com/album/5pB9lA1uHTfnc1IxONVL64"
+      },
+      "artists": [
+        {
+          "name": "AREA",
+          "url": "https://open.spotify.com/artist/74V1adewktuhvpZn2uMH49"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199134,
+      "name": "Blushing Pink Skies",
+      "url": "https://open.spotify.com/track/6GjC4kvbB7kwcxmVxfNIOE"
+    },
+    {
+      "album": {
         "name": "Brown & Pink Noise",
         "url": "https://open.spotify.com/album/52Hnll1fPZqjrphdXEQyVS"
       },
@@ -704,6 +740,24 @@
       "duration_ms": 192000,
       "name": "Candy Sky (Pink Noise)",
       "url": "https://open.spotify.com/track/4ZyEceyE8ra9qwM3B8wzEn"
+    },
+    {
+      "album": {
+        "name": "Sakura Pink Petals",
+        "url": "https://open.spotify.com/album/1rELQsapDxTyNP7vKgllwL"
+      },
+      "artists": [
+        {
+          "name": "AstroDrift",
+          "url": "https://open.spotify.com/artist/0FWfREjNwRYUdsRMDMWaef"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188731,
+      "name": "Carnation Canyons",
+      "url": "https://open.spotify.com/track/5e7mAhehvQxmHxsKooJvoM"
     },
     {
       "album": {
@@ -1010,6 +1064,24 @@
       "duration_ms": 63000,
       "name": "Cosy Noise for Rest",
       "url": "https://open.spotify.com/track/1E09QjXtK0VZ295hU0onRk"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Radiance",
+        "url": "https://open.spotify.com/album/6VMDNEV2BVqYIdlex5MwS9"
+      },
+      "artists": [
+        {
+          "name": "Golden Flow",
+          "url": "https://open.spotify.com/artist/5UUj8zv0hWQJbF2liaQjev"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196162,
+      "name": "Cotton Candy Clouds",
+      "url": "https://open.spotify.com/track/2BJRvnXSwIu3G2F9Q4Jx1W"
     },
     {
       "album": {
@@ -1878,6 +1950,24 @@
       "duration_ms": 193008,
       "name": "First Class Seat Sleep",
       "url": "https://open.spotify.com/track/4QCQ4YRHabhtjcpPF1pZQe"
+    },
+    {
+      "album": {
+        "name": "Rosewater Pink Resonance",
+        "url": "https://open.spotify.com/album/4e89dG3epTTnSwVmeuCt8O"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis",
+          "url": "https://open.spotify.com/artist/7qDQcT1wyWcz0wuhMHTgGS"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198391,
+      "name": "Flamingo Flight Noise",
+      "url": "https://open.spotify.com/track/6j5q2s1Y5Ckk6G8sfcNk5R"
     },
     {
       "album": {
@@ -2907,6 +2997,42 @@
     },
     {
       "album": {
+        "name": "Magenta Mindscapes",
+        "url": "https://open.spotify.com/album/016lwLmKtHNA2nMzASryHt"
+      },
+      "artists": [
+        {
+          "name": "Skylift",
+          "url": "https://open.spotify.com/artist/2yDB2KsbOShZGW0kQwYdx7"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "Magenta Mindscapes",
+      "url": "https://open.spotify.com/track/7dYvsR1bMjZFXCuQYTCXsj"
+    },
+    {
+      "album": {
+        "name": "Magenta Noise Dream",
+        "url": "https://open.spotify.com/album/2AAP5GlhKOt4t7faIcwGll"
+      },
+      "artists": [
+        {
+          "name": "Infinite Hz",
+          "url": "https://open.spotify.com/artist/23EVyJ0HdvkT7BDMiJI53u"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "Magenta Noise Dream",
+      "url": "https://open.spotify.com/track/2s0w7VrD9tJi5Z8Fxq7nGF"
+    },
+    {
+      "album": {
         "name": "Pink Magic",
         "url": "https://open.spotify.com/album/06wWoKGWiOLPonZsyS5AUT"
       },
@@ -3465,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "Pink Blossom Breeze",
+        "url": "https://open.spotify.com/album/0lqwACL104VGT7QO0VHY5P"
+      },
+      "artists": [
+        {
+          "name": "Xilver",
+          "url": "https://open.spotify.com/artist/3lWHECgffmOJwtVfM1jDkF"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204335,
+      "name": "Petal PInk Noise",
+      "url": "https://open.spotify.com/track/41NWd652txk8H4ArjJrbh4"
+    },
+    {
+      "album": {
         "name": "Ambient Noises",
         "url": "https://open.spotify.com/album/3gAWSbvrF9TEMfDFPJzzKZ"
       },
@@ -3609,6 +3753,24 @@
     },
     {
       "album": {
+        "name": "Pink Blossom Breeze",
+        "url": "https://open.spotify.com/album/0lqwACL104VGT7QO0VHY5P"
+      },
+      "artists": [
+        {
+          "name": "Xilver",
+          "url": "https://open.spotify.com/artist/3lWHECgffmOJwtVfM1jDkF"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191703,
+      "name": "Pink Blossom Breeze",
+      "url": "https://open.spotify.com/track/4oTeDKelKekldOLERGLMAv"
+    },
+    {
+      "album": {
         "name": "Pink Breeze",
         "url": "https://open.spotify.com/album/3bKDQfD782G1LNedDjVkS0"
       },
@@ -3627,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Pink Noise Radiance",
+        "url": "https://open.spotify.com/album/6VMDNEV2BVqYIdlex5MwS9"
+      },
+      "artists": [
+        {
+          "name": "Golden Flow",
+          "url": "https://open.spotify.com/artist/5UUj8zv0hWQJbF2liaQjev"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "Pink Bubblegum Mist",
+      "url": "https://open.spotify.com/track/3ZVZ86CtcZW250yklDt970"
+    },
+    {
+      "album": {
         "name": "Pink Sunset Serenade",
         "url": "https://open.spotify.com/album/3MUmaOiJwePV7ei07jrKYl"
       },
@@ -3642,6 +3822,24 @@
       "duration_ms": 175000,
       "name": "Pink Canyon",
       "url": "https://open.spotify.com/track/7zvgLFBziriut2Pkd7NRrB"
+    },
+    {
+      "album": {
+        "name": "Pink Champagne Cascade",
+        "url": "https://open.spotify.com/album/5pB9lA1uHTfnc1IxONVL64"
+      },
+      "artists": [
+        {
+          "name": "AREA",
+          "url": "https://open.spotify.com/artist/74V1adewktuhvpZn2uMH49"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191703,
+      "name": "Pink Champagne Cascade",
+      "url": "https://open.spotify.com/track/7sfMJLpTqkU3L2i8otEKVZ"
     },
     {
       "album": {
@@ -3987,6 +4185,24 @@
     },
     {
       "album": {
+        "name": "Magenta Mindscapes",
+        "url": "https://open.spotify.com/album/016lwLmKtHNA2nMzASryHt"
+      },
+      "artists": [
+        {
+          "name": "Skylift",
+          "url": "https://open.spotify.com/artist/2yDB2KsbOShZGW0kQwYdx7"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195419,
+      "name": "Pink Lemonade",
+      "url": "https://open.spotify.com/track/4m0VruIVxHxYh7wltjcsdZ"
+    },
+    {
+      "album": {
         "name": "Pink Noise And Beyond",
         "url": "https://open.spotify.com/album/6PObN5NHLSVQF3UPfBeXg9"
       },
@@ -4002,6 +4218,42 @@
       "duration_ms": 184000,
       "name": "Pink Lemonade Lullaby",
       "url": "https://open.spotify.com/track/1FMD6gHVQsQDuzj4Ut15Ql"
+    },
+    {
+      "album": {
+        "name": "Rosewater Pink Resonance",
+        "url": "https://open.spotify.com/album/4e89dG3epTTnSwVmeuCt8O"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis",
+          "url": "https://open.spotify.com/artist/7qDQcT1wyWcz0wuhMHTgGS"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197648,
+      "name": "Pink Lemonade Lullaby",
+      "url": "https://open.spotify.com/track/3rtkDFv2num77ZyKe1zaZ1"
+    },
+    {
+      "album": {
+        "name": "Pink Lotus Lagoon",
+        "url": "https://open.spotify.com/album/5KM4RigXlWj9vBwAlGJ9Yx"
+      },
+      "artists": [
+        {
+          "name": "Mind Waves",
+          "url": "https://open.spotify.com/artist/1dsHbxtEfR8J2GhB6HsdsY"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201363,
+      "name": "Pink Lotus Lagoon",
+      "url": "https://open.spotify.com/track/1GcN0sngF6TIYVPjZKtwOf"
     },
     {
       "album": {
@@ -6003,6 +6255,24 @@
     },
     {
       "album": {
+        "name": "Pink Noise Radiance",
+        "url": "https://open.spotify.com/album/6VMDNEV2BVqYIdlex5MwS9"
+      },
+      "artists": [
+        {
+          "name": "Golden Flow",
+          "url": "https://open.spotify.com/artist/5UUj8zv0hWQJbF2liaQjev"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199134,
+      "name": "Pink Noise Radiance",
+      "url": "https://open.spotify.com/track/1KsAIZRopRdExwGpbbrQve"
+    },
+    {
+      "album": {
         "name": "Pink Noise Soundscapes",
         "url": "https://open.spotify.com/album/1ISr3lk2WEvEFpAACxtfvX"
       },
@@ -6583,6 +6853,24 @@
     },
     {
       "album": {
+        "name": "Pink Lotus Lagoon",
+        "url": "https://open.spotify.com/album/5KM4RigXlWj9vBwAlGJ9Yx"
+      },
+      "artists": [
+        {
+          "name": "Mind Waves",
+          "url": "https://open.spotify.com/artist/1dsHbxtEfR8J2GhB6HsdsY"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189474,
+      "name": "Pink Panther Prelude",
+      "url": "https://open.spotify.com/track/0ObZ73xVMZsWs8euIrnQVN"
+    },
+    {
+      "album": {
         "name": "Sleeping In Pink Noise",
         "url": "https://open.spotify.com/album/5d0HVEhTJjemsybCCeB21Y"
       },
@@ -6742,6 +7030,24 @@
       "duration_ms": 173871,
       "name": "Pink Rest Noise",
       "url": "https://open.spotify.com/track/58k7PfETcMsXj1eYX8dsc7"
+    },
+    {
+      "album": {
+        "name": "Pink Lotus Lagoon",
+        "url": "https://open.spotify.com/album/5KM4RigXlWj9vBwAlGJ9Yx"
+      },
+      "artists": [
+        {
+          "name": "Mind Waves",
+          "url": "https://open.spotify.com/artist/1dsHbxtEfR8J2GhB6HsdsY"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "Pink Serenade Noise",
+      "url": "https://open.spotify.com/track/0jAysiM77l5jhL3mMrx5JF"
     },
     {
       "album": {
@@ -7195,6 +7501,24 @@
     },
     {
       "album": {
+        "name": "Sakura Pink Petals",
+        "url": "https://open.spotify.com/album/1rELQsapDxTyNP7vKgllwL"
+      },
+      "artists": [
+        {
+          "name": "AstroDrift",
+          "url": "https://open.spotify.com/artist/0FWfREjNwRYUdsRMDMWaef"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190217,
+      "name": "Powder Pink Patterns",
+      "url": "https://open.spotify.com/track/79VEMbs8QYP06qIhGRtEiL"
+    },
+    {
+      "album": {
         "name": "Pink Noise Soundscapes",
         "url": "https://open.spotify.com/album/1ISr3lk2WEvEFpAACxtfvX"
       },
@@ -7264,6 +7588,24 @@
       "duration_ms": 162296,
       "name": "Radiance Pink Noise",
       "url": "https://open.spotify.com/track/6Vl0d64kN481KV8VkZ6xWN"
+    },
+    {
+      "album": {
+        "name": "Magenta Noise Dream",
+        "url": "https://open.spotify.com/album/2AAP5GlhKOt4t7faIcwGll"
+      },
+      "artists": [
+        {
+          "name": "Infinite Hz",
+          "url": "https://open.spotify.com/artist/23EVyJ0HdvkT7BDMiJI53u"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "Raspberry Rapture",
+      "url": "https://open.spotify.com/track/7zjyQAZOeD9Dsg8kiFIXP2"
     },
     {
       "album": {
@@ -7465,6 +7807,78 @@
     },
     {
       "album": {
+        "name": "Rosewater Pink Resonance",
+        "url": "https://open.spotify.com/album/4e89dG3epTTnSwVmeuCt8O"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis",
+          "url": "https://open.spotify.com/artist/7qDQcT1wyWcz0wuhMHTgGS"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203592,
+      "name": "Rosewater Pink Resonance",
+      "url": "https://open.spotify.com/track/2jA6Ckg7gUI5A9t4QFvnED"
+    },
+    {
+      "album": {
+        "name": "Sunset Pink Noise",
+        "url": "https://open.spotify.com/album/5Kw67tnr1YVliYu71z9n46"
+      },
+      "artists": [
+        {
+          "name": "Soundazora",
+          "url": "https://open.spotify.com/artist/3aX8NYaO0g0TstiIiCisHU"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199877,
+      "name": "Rosewater Ripples",
+      "url": "https://open.spotify.com/track/6gpUPBYMNnaV6DnCuxhZjn"
+    },
+    {
+      "album": {
+        "name": "Pink Champagne Cascade",
+        "url": "https://open.spotify.com/album/5pB9lA1uHTfnc1IxONVL64"
+      },
+      "artists": [
+        {
+          "name": "AREA",
+          "url": "https://open.spotify.com/artist/74V1adewktuhvpZn2uMH49"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "Rosy Pink Noise Haze",
+      "url": "https://open.spotify.com/track/2zKJ2TRxSnZVO98j8IzeZs"
+    },
+    {
+      "album": {
+        "name": "Rosy Pink Static",
+        "url": "https://open.spotify.com/album/4nsMLH3zHCE7zp0Z9AVVA4"
+      },
+      "artists": [
+        {
+          "name": "Dreamcation",
+          "url": "https://open.spotify.com/artist/4gsCY64b6ZRxADedKKXU4l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180558,
+      "name": "Rosy Pink Static",
+      "url": "https://open.spotify.com/track/2vmj93xaQGp7D2HXvmXyai"
+    },
+    {
+      "album": {
         "name": "Ruido Rosa",
         "url": "https://open.spotify.com/album/6CwpDWdL7PxgH97lvEdx2c"
       },
@@ -7516,6 +7930,24 @@
       "duration_ms": 188000,
       "name": "Ruido Rosa - Seamless",
       "url": "https://open.spotify.com/track/2XxL38UvgKqGdVlg5k2xth"
+    },
+    {
+      "album": {
+        "name": "Sakura Pink Petals",
+        "url": "https://open.spotify.com/album/1rELQsapDxTyNP7vKgllwL"
+      },
+      "artists": [
+        {
+          "name": "AstroDrift",
+          "url": "https://open.spotify.com/artist/0FWfREjNwRYUdsRMDMWaef"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183530,
+      "name": "Sakura Pink Petals",
+      "url": "https://open.spotify.com/track/2j8oae1F1O9WdkwBh2W0Na"
     },
     {
       "album": {
@@ -8578,6 +9010,24 @@
       "duration_ms": 243000,
       "name": "Study Pink Noise",
       "url": "https://open.spotify.com/track/7yyfCfjoXS8s9bBrYCE9MM"
+    },
+    {
+      "album": {
+        "name": "Sunset Pink Noise",
+        "url": "https://open.spotify.com/album/5Kw67tnr1YVliYu71z9n46"
+      },
+      "artists": [
+        {
+          "name": "Soundazora",
+          "url": "https://open.spotify.com/artist/3aX8NYaO0g0TstiIiCisHU"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187245,
+      "name": "Sunset Pink Noise",
+      "url": "https://open.spotify.com/track/2cMk50LtJSHcNNJroVQqd8"
     },
     {
       "album": {

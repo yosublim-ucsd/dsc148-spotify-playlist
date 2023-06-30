@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,767 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,958 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 65 | [Great Is Thy Faithfulness](https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 6](https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw) | 4:31 |
 | 66 | [Do it Again \(Acoustic\)](https://open.spotify.com/track/562a45H0hU2BkFcT0KDbse) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:33 |
 | 67 | [Christ the Sure and Steady Anchor](https://open.spotify.com/track/4Pq8VwiL1XA7MfpmDhY7dw) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm) | [Messenger Hymns, Vol\. 2 \- EP](https://open.spotify.com/album/00AuuN8Eba5KnPauBSOT6w) | 3:54 |
-| 68 | [The House Of God, Forever](https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 4:43 |
-| 69 | [Satisfied in You \(Psalm 42\)](https://open.spotify.com/track/0ML25KciIhm4UgAVKrDjAo) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [Oh! Great Is Our God! \- EP](https://open.spotify.com/album/6Qwaa0eRLxUUOgZbopMY41) | 5:50 |
+| 68 | [Satisfied in You \(Psalm 42\)](https://open.spotify.com/track/0ML25KciIhm4UgAVKrDjAo) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [Oh! Great Is Our God! \- EP](https://open.spotify.com/album/6Qwaa0eRLxUUOgZbopMY41) | 5:50 |
+| 69 | [The House Of God, Forever](https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 4:43 |
 | 70 | [Far Kingdom](https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Fire and Stone](https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT) | 4:24 |
 | 71 | [It Is Well With My Soul](https://open.spotify.com/track/3VBqIpJOTtauueKPLl20wn) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:39 |
 | 72 | [Head to the Heart \(Live\)](https://open.spotify.com/track/53LcankShhZrR40AedT26x) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 5:20 |
@@ -91,16 +91,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 81 | [Deliverance](https://open.spotify.com/track/52Ow3Du0P5XMBIRvOMHXUj) | [Strahan](https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP) | [Posters](https://open.spotify.com/album/41mwyfJfSsfuELRYdC0q6v) | 3:55 |
 | 82 | [As The Deer](https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Praise 8 \- As The Deer](https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG) | 4:09 |
 | 83 | [Rain](https://open.spotify.com/track/3nuCQCHTJfoJP6Ws2FczPS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 3:37 |
-| 84 | [Note To Self](https://open.spotify.com/track/3w2Hvc5mh3Dt3QyYIhAHKQ) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Brand New](https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi) | 3:01 |
-| 85 | [Come Thou Fount](https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Good to Me](https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV) | 4:00 |
+| 84 | [Come Thou Fount](https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Good to Me](https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV) | 4:00 |
+| 85 | [Note To Self](https://open.spotify.com/track/3w2Hvc5mh3Dt3QyYIhAHKQ) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Brand New](https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi) | 3:01 |
 | 86 | [Belly of the Deepest Love](https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Tow'rs](https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8) | 6:21 |
 | 87 | [Doxology](https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 0:42 |
 | 88 | [Since Your Love \(Live\) \[feat\. Brandon Hampton\]](https://open.spotify.com/track/0XPZo7uag05Vi90Tz0G8ry) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Brandon Hampton](https://open.spotify.com/artist/5dC9jxV6hFvZpUmxvEKyQQ) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 8:02 |
 | 89 | [At the Foot of the Cross \- Acoustic](https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 3:59 |
 | 90 | [Cecie's Lullaby](https://open.spotify.com/track/4swc1KilG2ZCsF26hvz3Cq) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Undoing](https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA) | 4:04 |
 | 91 | [My Hope Is Built / The Solid Rock](https://open.spotify.com/track/7el80wCuyU2ByLix3o7b78) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [My Hope and Stay: Hymns Project, Vol\. II](https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO) | 3:44 |
-| 92 | [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc) | 2:04 |
-| 93 | [There Came a Light](https://open.spotify.com/track/4qBzmRgakEiYxjLBCFE6Mr) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Moriah Hazeltine](https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR) | [Age to Age](https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj) | 4:42 |
+| 92 | [There Came a Light](https://open.spotify.com/track/4qBzmRgakEiYxjLBCFE6Mr) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Moriah Hazeltine](https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR) | [Age to Age](https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj) | 4:42 |
+| 93 | [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc) | 2:04 |
 | 94 | [Restless](https://open.spotify.com/track/3stuliHpnexsTj6uXFJ5iI) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [The House You're Building](https://open.spotify.com/album/788vAn9mghQAWMYLR8sagN) | 4:55 |
 | 95 | [Safe Retreat \(feat\. Braille\)](https://open.spotify.com/track/6ygVhMeWmK6uW7IPQKdrnq) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Braille](https://open.spotify.com/artist/6RYTz1tFNDF2qP0mwqEwDO) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:42 |
 | 96 | [All Glory Be to Christ](https://open.spotify.com/track/02GNfO1O7d0Rx3tGcvfuIP) | [Kings \(MHM\)](https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC) | [Joy Has Dawned](https://open.spotify.com/album/7jfGMR3tcoRYefoNxst4w8) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [You Are My All In All](https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9) | [Brooke Griffith](https://open.spotify.com/artist/4fnlaDM9xpbXlqwiZhS4un) | [Even So Come: A Worship Album](https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz) | 5:18 |
 | 100 | [Be Still My Soul](https://open.spotify.com/track/6pnT1MuK6JLYW9HY5fKxVw) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deeper](https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v) | 4:42 |
 
-Snapshot ID: `MCwzMjJmNWMzOWNhY2VlNjk3NThhNzMxNDE5OWQ5NWIyM2QzMjE5ZmFl`
+Snapshot ID: `MCxkMjhlZjA3NWQ2N2U3NjRkMmI4M2Q5ZmM4MThlZTdmZTA4ZGFiNTdi`

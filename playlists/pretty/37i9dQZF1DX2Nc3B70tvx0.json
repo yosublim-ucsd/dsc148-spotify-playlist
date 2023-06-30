@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie of 2023. Cover: Youth Lagoon",
-  "num_followers": 2224137,
+  "num_followers": 2224095,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWVkNzkxNzVjNDgxZDM0ZWQyZWQyZGFlOTZjZTUyMWEyOWUzMmI0",
+  "snapshot_id": "MCw4ZDY5MTA3MzE3ZjJkODhlMWU5ODY5NDc4NDFlZDY3MmE3NmNhODU2",
   "tracks": [
     {
       "added_at": "2023-06-22 15:43:22",
@@ -725,26 +725,6 @@
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "First Two Pages of Frankenstein",
-        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Once Upon A Poolside (feat. Sufjan Stevens)",
-      "url": "https://open.spotify.com/track/4xAHN13Q8MgKXO18rSyvzU"
-    },
-    {
       "added_at": "2023-06-22 15:43:22",
       "album": {
         "name": "Lake Missoula (feat. Mt. Joy)",
@@ -763,6 +743,26 @@
       "duration_ms": 204819,
       "name": "Lake Missoula (feat. Mt. Joy)",
       "url": "https://open.spotify.com/track/1sfDyeBfzNeABw4afi4e5A"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Once Upon A Poolside (feat. Sufjan Stevens)",
+      "url": "https://open.spotify.com/track/4xAHN13Q8MgKXO18rSyvzU"
     },
     {
       "added_at": "2023-06-02 00:47:28",
@@ -869,20 +869,20 @@
       "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
+      "added_at": "2023-06-22 15:43:22",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
+        "name": "Is It?",
+        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
       },
       "artists": [
         {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 217125,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+      "duration_ms": 315040,
+      "name": "Days Of Lantana",
+      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -901,20 +901,20 @@
       "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
     },
     {
-      "added_at": "2023-06-22 15:43:22",
+      "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "Is It?",
-        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 315040,
-      "name": "Days Of Lantana",
-      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
+      "duration_ms": 217125,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
     },
     {
+      "added_at": "2023-06-22 15:43:22",
+      "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 167492,
+      "name": "My Big Day",
+      "url": "https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Open My Door",
@@ -967,18 +983,18 @@
     {
       "added_at": "2023-06-22 15:43:22",
       "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD"
+        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
+        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         }
       ],
-      "duration_ms": 167492,
-      "name": "My Big Day",
-      "url": "https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb"
+      "duration_ms": 241661,
+      "name": "A day in the water",
+      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1015,22 +1031,6 @@
       "duration_ms": 306106,
       "name": "Holiday House",
       "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
-    },
-    {
-      "added_at": "2023-06-22 15:43:22",
-      "album": {
-        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
-        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 241661,
-      "name": "A day in the water",
-      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
       "added_at": "2023-04-14 01:22:02",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
     },
     {
+      "added_at": "2023-04-21 01:46:20",
+      "album": {
+        "name": "Oh No Darling!",
+        "url": "https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 203876,
+      "name": "Oh No Darling!",
+      "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Walking Backwards",
@@ -1113,20 +1129,20 @@
       "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
     },
     {
-      "added_at": "2023-04-21 01:46:20",
+      "added_at": "2023-06-16 16:55:44",
       "album": {
-        "name": "Oh No Darling!",
-        "url": "https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns"
+        "name": "heavun",
+        "url": "https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te"
       },
       "artists": [
         {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
         }
       ],
-      "duration_ms": 203876,
-      "name": "Oh No Darling!",
-      "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
+      "duration_ms": 191632,
+      "name": "heavun",
+      "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1145,20 +1161,20 @@
       "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
     },
     {
-      "added_at": "2023-06-16 16:55:44",
+      "added_at": "2023-06-22 15:43:22",
       "album": {
-        "name": "heavun",
-        "url": "https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te"
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/77Ob5Q6w1Pgcsnzwz7qs2h"
       },
       "artists": [
         {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 191632,
-      "name": "heavun",
-      "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
+      "duration_ms": 285586,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 140837,
       "name": "Head Straight",
       "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
-    },
-    {
-      "added_at": "2023-06-22 15:43:22",
-      "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/77Ob5Q6w1Pgcsnzwz7qs2h"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 285586,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "To be honest",
-        "url": "https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 221823,
-      "name": "To be honest",
-      "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
-    },
-    {
       "added_at": "2023-04-14 01:22:02",
       "album": {
         "name": "Everything Is Boring",
@@ -1275,6 +1259,22 @@
       "duration_ms": 176005,
       "name": "Everything Is Boring",
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "To be honest",
+        "url": "https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 221823,
+      "name": "To be honest",
+      "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
-    },
-    {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
       },
@@ -1355,22 +1339,6 @@
       "duration_ms": 183852,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
-      "added_at": "2023-06-22 15:43:22",
-      "album": {
-        "name": "green house",
-        "url": "https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "green house",
-      "url": "https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw"
     },
     {
       "added_at": "2023-04-21 01:46:20",
@@ -1391,6 +1359,38 @@
       "duration_ms": 347713,
       "name": "True love (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
+    },
+    {
+      "added_at": "2023-06-22 15:43:22",
+      "album": {
+        "name": "green house",
+        "url": "https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "green house",
+      "url": "https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2023-05-19 03:05:34",
@@ -1441,6 +1441,22 @@
       "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
     },
     {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "All We've Ever Wanted",
+        "url": "https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 183858,
+      "name": "All We've Ever Wanted",
+      "url": "https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs"
+    },
+    {
       "added_at": "2023-06-16 16:54:53",
       "album": {
         "name": "Ascension",
@@ -1471,22 +1487,6 @@
       "duration_ms": 197653,
       "name": "Ribbons",
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
-    },
-    {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "All We've Ever Wanted",
-        "url": "https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 183858,
-      "name": "All We've Ever Wanted",
-      "url": "https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1713,24 +1713,20 @@
       "url": "https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R"
     },
     {
-      "added_at": "2023-06-02 00:47:28",
+      "added_at": "2023-04-14 01:22:02",
       "album": {
-        "name": "Sus Dog",
-        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+        "name": "Heaven Is a Junkyard",
+        "url": "https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY"
       },
       "artists": [
         {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        },
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
         }
       ],
-      "duration_ms": 311562,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh"
+      "duration_ms": 161605,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/3bXZ7OC22m5hqYNv6gR8cd"
     }
   ],
   "unique_name": "Front Page Indie",

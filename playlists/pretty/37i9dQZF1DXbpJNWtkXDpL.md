@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Bienvenida Generación RADAR 2023! Los Aptos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,569 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,579 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 13 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
 | 14 | [La Octava Maravilla \- En Vivo](https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH) | [En Vivo](https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1) | 3:53 |
 | 15 | [No Eres Clara](https://open.spotify.com/track/4bnFB5pI0dK3486DXgUIg4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 3:23 |
-| 16 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 |
-| 17 | [Vuelve A La Vida](https://open.spotify.com/track/7GChCDazj9bSNjOkhogO3A) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Vuelve A La Vida](https://open.spotify.com/album/79YLn4zdldzXfk0xIQUQVJ) | 3:22 |
+| 16 | [Vuelve A La Vida](https://open.spotify.com/track/7GChCDazj9bSNjOkhogO3A) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Vuelve A La Vida](https://open.spotify.com/album/79YLn4zdldzXfk0xIQUQVJ) | 3:22 |
+| 17 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 |
 | 18 | [100pre](https://open.spotify.com/track/0tKYBt8ESnY8np7jHZPCQX) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 1:52 |
 | 19 | [Por las Mañanas \- En Vivo](https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:08 |
 | 20 | [Te Perdonaría](https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Te Perdonaría](https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD) | 2:43 |
 | 21 | [Hagamos Un Trato](https://open.spotify.com/track/6y2zrNzlN74UqOZQUEh5JM) | [Los Avila](https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo) | [Hagamos Un Trato](https://open.spotify.com/album/5PQ5c2DLGNVc2gXzGgzvWo) | 3:47 |
 | 22 | [ASÍ ME ENAMORÉ](https://open.spotify.com/track/6MaBIBdKCf1Y4jPrNY7PcA) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:57 |
-| 23 | [Locamente Enamorado](https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Locamente Enamorado](https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf) | 3:37 |
-| 24 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO) | 3:07 |
+| 23 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO) | 3:07 |
+| 24 | [Locamente Enamorado](https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Locamente Enamorado](https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf) | 3:37 |
 | 25 | [Alegre y Positivo](https://open.spotify.com/track/4TFkCeHW7vZO6fI2Dvn97S) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Alegre y Positivo](https://open.spotify.com/album/6334KAMxGu0Xz1QPIn1MkX) | 3:28 |
 | 26 | [POR TI](https://open.spotify.com/track/1ywSO1hZibstp0ymYdGJir) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [POR TI](https://open.spotify.com/album/0Pq9Y3L6UuUwZqP1ZuRyR4) | 3:05 |
 | 27 | [Si Me Caigo](https://open.spotify.com/track/3rvDVQbr9FhwfLuLMAgZid) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Si Me Caigo](https://open.spotify.com/album/0yl6c4Sw7bJF7BRCPqAra4) | 2:59 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 43 | [Fuerza De Voluntad](https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS) | [Fuerza De Voluntad](https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27) | 2:43 |
 | 44 | [Cambio De Canción](https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:49 |
 | 45 | [Andando Entre la Lumbre](https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv) | [Andando Entre la Lumbre](https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J) | 3:03 |
-| 46 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 |
-| 47 | [Viajemos al Espacio](https://open.spotify.com/track/60OumNmnrNqc218tPLRAs4) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Viajemos al Espacio](https://open.spotify.com/album/0AvhavhOmQIp3L3LsTg3DL) | 4:19 |
-| 48 | [¿Y que pensabas?](https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:44 |
-| 49 | [Mi Tierra](https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV) | [Mi Tierra](https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI) | 1:57 |
-| 50 | [COMO YO NO HAY DOS](https://open.spotify.com/track/1ZmrG1ghcwKEBBdXIPUQuP) | [Chiken Lira](https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn) | [COMO YO NO HAY DOS](https://open.spotify.com/album/10hGBacgDz8cseX4Yz8Mqw) | 4:38 |
+| 46 | [COMO YO NO HAY DOS](https://open.spotify.com/track/1ZmrG1ghcwKEBBdXIPUQuP) | [Chiken Lira](https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn) | [COMO YO NO HAY DOS](https://open.spotify.com/album/10hGBacgDz8cseX4Yz8Mqw) | 4:38 |
+| 47 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 |
+| 48 | [Viajemos al Espacio](https://open.spotify.com/track/60OumNmnrNqc218tPLRAs4) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Viajemos al Espacio](https://open.spotify.com/album/0AvhavhOmQIp3L3LsTg3DL) | 4:19 |
+| 49 | [¿Y que pensabas?](https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:44 |
+| 50 | [Mi Tierra](https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV) | [Mi Tierra](https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI) | 1:57 |
 
-Snapshot ID: `MCw4Y2U0ODM5NjVlMjE0NWZkYTViYjM0ZDY3MWNiY2YyNmU1YjQ0Mzc2`
+Snapshot ID: `MCxiOTY3MDZhNmQyMDRmZTgyNmMyMjFmYTliMjU0YmUyMDcxYWQzMDA4`

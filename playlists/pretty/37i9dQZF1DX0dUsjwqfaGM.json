@@ -1,32 +1,28 @@
 {
   "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: C\u1ea7m",
-  "num_followers": 2139,
+  "num_followers": 2142,
   "original_name": "RADAR Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTcyMzE2NDA4NTMzM2E3YjlkZmJjZTliOTI4OTBiNzdlYWI4NDY2",
+  "snapshot_id": "MCwxZTNkNTAwYTc2ZWMxMzc4YzdhMGI3YTQzNjAyN2UxODgzNWQzOGRj",
   "tracks": [
     {
-      "added_at": "2023-06-22 17:00:00",
+      "added_at": "2023-06-29 12:00:00",
       "album": {
-        "name": "th\u1ebf sao?",
-        "url": "https://open.spotify.com/album/3fY5cRxp5rL2t6HjvYShhh"
+        "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
+        "url": "https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s"
       },
       "artists": [
         {
-          "name": "nae & de'lay",
-          "url": "https://open.spotify.com/artist/1bweJ8ReP08akfsoW8jiP9"
-        },
-        {
           "name": "C\u1ea7m",
-          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+          "url": "https://open.spotify.com/artist/2c53tbQ22QpN8ZFNT9elsr"
         }
       ],
-      "duration_ms": 167582,
-      "name": "th\u1ebf sao?",
-      "url": "https://open.spotify.com/track/6eaezsSp9v9kBnOWUssqkC"
+      "duration_ms": 205360,
+      "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
+      "url": "https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2"
     },
     {
       "added_at": "2023-06-22 17:00:00",
@@ -79,6 +75,26 @@
       "duration_ms": 210639,
       "name": "MOT NGUOI VI EM",
       "url": "https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO"
+    },
+    {
+      "added_at": "2023-06-22 17:00:00",
+      "album": {
+        "name": "th\u1ebf sao?",
+        "url": "https://open.spotify.com/album/3fY5cRxp5rL2t6HjvYShhh"
+      },
+      "artists": [
+        {
+          "name": "nae & de'lay",
+          "url": "https://open.spotify.com/artist/1bweJ8ReP08akfsoW8jiP9"
+        },
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        }
+      ],
+      "duration_ms": 167582,
+      "name": "th\u1ebf sao?",
+      "url": "https://open.spotify.com/track/6eaezsSp9v9kBnOWUssqkC"
     },
     {
       "added_at": "2023-06-22 17:00:00",

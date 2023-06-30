@@ -1,12 +1,12 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 2305,
+  "num_followers": 2502,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTBmODczNjFmNjM4ZDE1MjVjZDM4NGM0NTYyODk4YjQyNWIyMzg5",
+  "snapshot_id": "MCwyMDNhM2EyODE4YzczMDc1NWU4NDUwODQ1ZGQ3NjkzN2IwODMyNjM1",
   "tracks": [
     {
       "added_at": "2023-06-18 17:36:15",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 194490,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "Rufus Featuring Chaka Khan",
@@ -1147,6 +1131,22 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 194490,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0"
     },
     {
       "added_at": "2020-07-23 21:45:59",

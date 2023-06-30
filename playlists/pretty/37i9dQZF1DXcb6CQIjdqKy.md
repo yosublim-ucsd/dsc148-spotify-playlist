@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh?si=65df3e65fb4349e1">Natalie Grant</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,414 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558,554 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Fingerprints](https://open.spotify.com/track/5JaUGYbQIackRPTU8VuGFf) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:37 |
 | 100 | [Got What You Need](https://open.spotify.com/track/3OcUVWhubdvvmQ6YFH0ySA) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:11 |
 
-Snapshot ID: `MCw0YzFlNDBhMTA2MTg3OWQ4ZmVmMDM0MTk3MzdjYWE1NGFhMzEzNzEx`
+Snapshot ID: `MCxhMDhkY2Q5YzA5M2FiNjNiMTZkZWI4NTlhYjMyNDA0NjJjNGFlNjU4`

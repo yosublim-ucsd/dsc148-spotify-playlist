@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Natasya Elvira",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jordy Waelauruw",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -735,6 +735,36 @@
     },
     {
       "album": {
+        "name": "Some Of My Best Friends Are Jazz Cats!",
+        "url": "https://open.spotify.com/album/5BB5CTtsdEqsPTIZE3b1zu"
+      },
+      "artists": [
+        {
+          "name": "Dua Empat",
+          "url": "https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L"
+        },
+        {
+          "name": "Hansen Arief",
+          "url": "https://open.spotify.com/artist/7446uGOrQeWwCLpw4L6DHA"
+        },
+        {
+          "name": "Joshua Alexander",
+          "url": "https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr"
+        },
+        {
+          "name": "Audrey Wijaya",
+          "url": "https://open.spotify.com/artist/3cFklqULuJyxg1gu8u2XlW"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297600,
+      "name": "Destination Moon",
+      "url": "https://open.spotify.com/track/6ZcfZ8dyYySA6xXdykEItF"
+    },
+    {
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/2HjCEHPpi6PGxEqbh0w4Mx"
       },
@@ -838,6 +868,28 @@
       "duration_ms": 200000,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/5QU6DL9fRllFfXlS0n5Tb1"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/4cl4iGS3sCdPg2UrrT75Ho"
+      },
+      "artists": [
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        },
+        {
+          "name": "Nicky Manuputty",
+          "url": "https://open.spotify.com/artist/1O9pkJRFRbdwy1yKCOyh9k"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202590,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/3oQq33GGhk7odIXW1j6Oe6"
     },
     {
       "album": {
@@ -1184,6 +1236,32 @@
       "duration_ms": 172700,
       "name": "Hidup",
       "url": "https://open.spotify.com/track/61pIoGz4vXugNa5Cc9Fh47"
+    },
+    {
+      "album": {
+        "name": "House of Blues",
+        "url": "https://open.spotify.com/album/6Ljmeh56kmboZWKacGtR5S"
+      },
+      "artists": [
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        },
+        {
+          "name": "Pieter anroputra",
+          "url": "https://open.spotify.com/artist/5iKnmuPSMDkd6Ubm3XYEf4"
+        },
+        {
+          "name": "Niel Larumunde",
+          "url": "https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213433,
+      "name": "House of Blues",
+      "url": "https://open.spotify.com/track/1jtwwarLqjm7wZk5FaGUYX"
     },
     {
       "album": {
@@ -1676,7 +1754,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 360000,
       "name": "LOVE IS",
       "url": "https://open.spotify.com/track/1Sx3NLx0k01HRqA2JhVguv"
@@ -1730,7 +1808,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 273353,
       "name": "Mata Kuru Made",
       "url": "https://open.spotify.com/track/2jUNYwyUqAU9ScJTGos3Be"
@@ -1752,7 +1830,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 189934,
       "name": "Melawan Takdir",
       "url": "https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m"
@@ -1930,7 +2008,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 206626,
       "name": "Nurlela",
       "url": "https://open.spotify.com/track/5NUl9eAqHOSDQwFI69G0Mc"
@@ -2406,7 +2484,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 168294,
       "name": "SESAL KEKAL",
       "url": "https://open.spotify.com/track/27YcoSUtKAtJThNR6293UB"
@@ -2424,7 +2502,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 234000,
       "name": "Seumpama",
       "url": "https://open.spotify.com/track/0IXgRbsg9XkWlTB0L9UbUI"
@@ -2678,7 +2756,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 203976,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/72hbDZ7MMYjweTu3ItXysl"
@@ -2762,7 +2840,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 179239,
       "name": "Time",
       "url": "https://open.spotify.com/track/2uNW6w5uHdgUktt8vFz0Pq"

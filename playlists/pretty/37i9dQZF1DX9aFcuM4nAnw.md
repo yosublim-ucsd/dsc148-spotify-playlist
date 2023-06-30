@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,903 likes - 75 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,913 likes - 75 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 29 | [This Isn't You](https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 2:23 |
 | 30 | [\#4](https://open.spotify.com/track/4fQEbOabaTSC80INS7cD3Q) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:39 |
 | 31 | [Acid Rain on Broken Rooftops](https://open.spotify.com/track/6JwqoBUyhDrkrhDcPxohUM) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Music for an Empty Metropolis](https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo) | 4:38 |
-| 32 | [Now Night Her Course Began](https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE) | [Sephiroth](https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo) | [Draconian Poetry](https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp) | 9:03 |
-| 33 | [The Price of Failure](https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [I Am the Night](https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd) | 6:21 |
+| 32 | [The Price of Failure](https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [I Am the Night](https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd) | 6:21 |
+| 33 | [Now Night Her Course Began](https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE) | [Sephiroth](https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo) | [Draconian Poetry](https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp) | 9:03 |
 | 34 | [A Room Between the Rooms](https://open.spotify.com/track/6aAfkcsiO7rerTy6kHJ6V4) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [The Starwheel](https://open.spotify.com/album/5Dh3rhalDH2MPXTS2yhIOG) | 6:33 |
 | 35 | [The Upside Down](https://open.spotify.com/track/5rwltqXrIniDtZIx4J6u50) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 5:07 |
 | 36 | [Melancholia I](https://open.spotify.com/track/5iH9BvzhJ10sfeCEIPoDLN) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 |
 | 75 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |
 
-Snapshot ID: `MCxkMTRkNTYxNTdjMTM5YzNkZmIwMDA4YzkzM2I5MDlhOTgwZWMyYmMw`
+Snapshot ID: `MCwyMTNkZGFmNGEwZWMzNzk0ZGI5MWQ3ZmQ0NzU0YTY3ZGQ3NWM2Mzk0`

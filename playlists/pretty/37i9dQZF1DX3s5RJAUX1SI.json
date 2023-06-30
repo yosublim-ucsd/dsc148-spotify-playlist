@@ -1,12 +1,12 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 53951,
+  "num_followers": 54363,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjU3MTNlNDk3MWM5ZDQyNjkzMDNlZTA0OTE4YjM5NzdhZmVjODJm",
+  "snapshot_id": "MCw1OGJhZjI5Yjg0MTMwNWQwZDc5MGZjYmNiMmQ3ZDZhM2E5ZWI5ZWZh",
   "tracks": [
     {
       "added_at": "2023-06-12 22:51:40",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-06-12 22:51:40",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Estos Celos",
-      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
-    },
-    {
-      "added_at": "2023-06-12 22:51:40",
-      "album": {
         "name": "Partido En Dos",
         "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+    },
+    {
+      "added_at": "2023-06-12 22:51:40",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "Estos Celos",
+      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
     },
     {
       "added_at": "2023-06-12 22:51:40",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-06-12 22:51:40",
       "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": "2023-06-12 22:51:40",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 177200,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
+    },
+    {
+      "added_at": "2023-06-12 22:51:40",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2023-06-12 22:51:40",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-06-12 22:51:40",
       "album": {
-        "name": "El Indio Enamorado",
-        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 188128,
-      "name": "El Indio Enamorado",
-      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
+      "duration_ms": 180733,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {
       "added_at": "2023-06-12 22:51:40",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-06-12 22:51:40",
       "album": {
-        "name": "Arriba Huentitan",
-        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 180733,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
     },
     {
       "added_at": "2023-06-12 22:51:40",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-12 22:51:40",
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 203794,
-      "name": "La Pregunta del Mill\u00f3n",
-      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
-    },
-    {
-      "added_at": "2023-06-12 22:51:40",
-      "album": {
         "name": "Lo Mejor De Nosotros",
         "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 260829,
       "name": "Me Vas A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
+    },
+    {
+      "added_at": "2023-06-12 22:51:40",
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 203794,
+      "name": "La Pregunta del Mill\u00f3n",
+      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
     },
     {
       "added_at": "2023-06-12 22:51:40",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-06-12 22:51:40",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm"
-      },
-      "artists": [
-        {
-          "name": "Costumbre",
-          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
-        }
-      ],
-      "duration_ms": 155746,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu"
-    },
-    {
-      "added_at": "2023-06-12 22:51:40",
-      "album": {
         "name": "Por Una Mujer Bonita",
         "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 164720,
       "name": "Por Una Mujer Bonita",
       "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
+    },
+    {
+      "added_at": "2023-06-12 22:51:40",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm"
+      },
+      "artists": [
+        {
+          "name": "Costumbre",
+          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
+        }
+      ],
+      "duration_ms": 155746,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu"
     },
     {
       "added_at": "2023-06-12 22:51:40",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-06-12 22:51:40",
       "album": {
-        "name": "Charro Avitia",
-        "url": "https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV"
-      },
-      "artists": [
-        {
-          "name": "Francisco \"Charro\" Avitia",
-          "url": "https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "M\u00e1quina 501",
-      "url": "https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn"
-    },
-    {
-      "added_at": "2023-06-12 22:51:40",
-      "album": {
         "name": "Que Seas Muy Feliz",
         "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 192133,
       "name": "Qu\u00e9 Bueno",
       "url": "https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw"
+    },
+    {
+      "added_at": "2023-06-12 22:51:40",
+      "album": {
+        "name": "Charro Avitia",
+        "url": "https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV"
+      },
+      "artists": [
+        {
+          "name": "Francisco \"Charro\" Avitia",
+          "url": "https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "M\u00e1quina 501",
+      "url": "https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn"
     },
     {
       "added_at": "2023-06-12 22:51:40",

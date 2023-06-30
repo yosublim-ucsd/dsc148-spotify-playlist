@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: HYBS",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Cornelius",
   "name": ".ORG",
   "tracks": [
     {
@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 205932,
       "name": "away.",
       "url": "https://open.spotify.com/track/6CbW8W2qUm29j8cuqjO8qF"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 234285,
       "name": "Capa City",
       "url": "https://open.spotify.com/track/1m6UACcZCrIDd8LCoRpN8r"
@@ -3172,6 +3172,24 @@
       "duration_ms": 234820,
       "name": "dear abbey",
       "url": "https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI"
+    },
+    {
+      "album": {
+        "name": "Dear Friends",
+        "url": "https://open.spotify.com/album/4NtCWIed6ZJJ4AP9ydtWDF"
+      },
+      "artists": [
+        {
+          "name": "Plastic Plastic",
+          "url": "https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219125,
+      "name": "Dear Friends",
+      "url": "https://open.spotify.com/track/2OrHoeyECHftDVF7tAVED0"
     },
     {
       "album": {
@@ -4332,7 +4350,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 217650,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/7oxBqKaMhXexOEpSYjlgoE"
@@ -4372,6 +4390,24 @@
       "duration_ms": 221142,
       "name": "fickle.minds",
       "url": "https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz"
+    },
+    {
+      "album": {
+        "name": "Tao Fire \u9053\u706b",
+        "url": "https://open.spotify.com/album/4seJp56F0oEF4QHcREZGtl"
+      },
+      "artists": [
+        {
+          "name": "Mong Tong",
+          "url": "https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Fire Wind Wheel",
+      "url": "https://open.spotify.com/track/0RcO8NZgpXa2Kh21eSgHpf"
     },
     {
       "album": {
@@ -4574,7 +4610,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 196797,
       "name": "Fool",
       "url": "https://open.spotify.com/track/3Ksyqx6g9aEcA6vdTSoFnB"
@@ -4760,7 +4796,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 206769,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/0gJmOAnZf2YXocQUYCQ77T"
@@ -5440,7 +5476,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 257221,
       "name": "Hey Aries",
       "url": "https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I"
@@ -7664,7 +7700,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 291147,
       "name": "Little Old Man feat. Ariel NOAH",
       "url": "https://open.spotify.com/track/0OePFhUgaA0CitYatErXuR"
@@ -8396,6 +8432,24 @@
       "duration_ms": 247793,
       "name": "Mindless",
       "url": "https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM"
+    },
+    {
+      "album": {
+        "name": "Dream in Dream",
+        "url": "https://open.spotify.com/album/55pmZFcK0E5yTcAqvs26qX"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267363,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/24B1pivOBr5KpJbwwIS05q"
     },
     {
       "album": {
@@ -10514,6 +10568,24 @@
       "duration_ms": 226866,
       "name": "Room for You (Feat. 10CM)",
       "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
+    },
+    {
+      "album": {
+        "name": "Rude Awakening",
+        "url": "https://open.spotify.com/album/1zWz2sQDloQECeaiszhPng"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143920,
+      "name": "Rude Awakening",
+      "url": "https://open.spotify.com/track/7lwHFDcmB0z3yRzxfG2pJV"
     },
     {
       "album": {
@@ -12885,6 +12957,24 @@
     },
     {
       "album": {
+        "name": "OCPY",
+        "url": "https://open.spotify.com/album/6mLweu3OdJUR6sEFf86ym2"
+      },
+      "artists": [
+        {
+          "name": "lost spaces",
+          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199510,
+      "name": "TV LOVE",
+      "url": "https://open.spotify.com/track/2MieJBlO7Tra8Vv9nsPy6w"
+    },
+    {
+      "album": {
         "name": "TV Show",
         "url": "https://open.spotify.com/album/5SYd9QlhBsDMiEsTl5yUBL"
       },
@@ -15229,6 +15319,24 @@
     },
     {
       "album": {
+        "name": "\u54bb\u8e66\u8e66",
+        "url": "https://open.spotify.com/album/0xrisTgisMjztdBvRxIyPN"
+      },
+      "artists": [
+        {
+          "name": "WONFU",
+          "url": "https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162007,
+      "name": "\u54bb\u8e66\u8e66",
+      "url": "https://open.spotify.com/track/5s81MfT7Vjdd59vhhfoI00"
+    },
+    {
+      "album": {
         "name": "\u5728\u590f\u591c",
         "url": "https://open.spotify.com/album/3pgOnUTDRaAGbrhZjKCRW7"
       },
@@ -15374,6 +15482,28 @@
       "duration_ms": 232480,
       "name": "\u5e8a",
       "url": "https://open.spotify.com/track/7iNnvOWQSTQPLn5WPu0gdU"
+    },
+    {
+      "album": {
+        "name": "\u5f71\u5b50 Shadow (feat. hiyune from chilldspot)",
+        "url": "https://open.spotify.com/album/6YjoG0bEIlL7JI3iZRT7rz"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        },
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226611,
+      "name": "\u5f71\u5b50 Shadow (feat. hiyune from chilldspot)",
+      "url": "https://open.spotify.com/track/2oBnEG5GCTcf95eJYatRZQ"
     },
     {
       "album": {

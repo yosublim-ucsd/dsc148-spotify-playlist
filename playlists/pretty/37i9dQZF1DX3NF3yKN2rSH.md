@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,015 likes - 100 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,012 likes - 100 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 46 | [The Blessing \(feat\. Maranda Curtis\)](https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I've Got a Testimony](https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ) | 6:32 |
 | 47 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
 | 48 | [Already Won \- Live](https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 3:31 |
-| 49 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
-| 50 | [Endow Me](https://open.spotify.com/track/6BvbwCuCVobHdwOn7I6Orw) | [Coko](https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Fantasia](https://open.spotify.com/artist/34v40muZVGZG8g0t05ioRf) | [Always Coko](https://open.spotify.com/album/51lawLjXQsEkVIjv61zTHe) | 6:56 |
+| 49 | [Endow Me](https://open.spotify.com/track/6BvbwCuCVobHdwOn7I6Orw) | [Coko](https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Fantasia](https://open.spotify.com/artist/34v40muZVGZG8g0t05ioRf) | [Always Coko](https://open.spotify.com/album/51lawLjXQsEkVIjv61zTHe) | 6:56 |
+| 50 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
 | 51 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
 | 52 | [He Paid It All](https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [The Encounter](https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS) | 4:00 |
 | 53 | [O the Blood](https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3) | [New Jersey Mass Choir](https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH) | [Hold Up The Light](https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78) | 4:46 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 75 | [The Crucifixion](https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy), [PJ Greaves](https://open.spotify.com/artist/3iTsln5dISoI8Oa1oTQswu) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 7:09 |
 | 76 | [He Didn't Have To Do It](https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Then Sings My Soul](https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9) | 5:37 |
 | 77 | [Take Me Back \(feat\. Kirk Franklin & Kelontae Gavin\)](https://open.spotify.com/track/6rdU89wSvs8KqkQjsbnpa7) | [Myron Butler & Levi](https://open.spotify.com/artist/5b4vy4GMu5dgRMOt9bHZpY), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [My Tribute](https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB) | 5:00 |
-| 78 | [Celebrate \(He Lives\)](https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [The Essential Fred Hammond](https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7) | 4:04 |
-| 79 | [For the Love of the People](https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Conqueror](https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2) | 2:03 |
+| 78 | [For the Love of the People](https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Conqueror](https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2) | 2:03 |
+| 79 | [Celebrate \(He Lives\)](https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [The Essential Fred Hammond](https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7) | 4:04 |
 | 80 | [Grace](https://open.spotify.com/track/6toqkWDFYdqZo5pTFeCa1E) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Grace](https://open.spotify.com/album/0f4FkJpd9A2b6rGpK1CMnZ) | 3:27 |
 | 81 | [Worthy Is The Lamb Slain](https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ) | [Marvin Winans And The Perfected Praise Choir](https://open.spotify.com/artist/5bacVzt9GLSZEEjHKXwaEo) | [Introducing Perfected Praise](https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96) | 6:11 |
 | 82 | [The Blood](https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF) | [James Hall Worship & Praise](https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB) | [Trip Down Memory Lane](https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h) | 7:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Cherish The Cross](https://open.spotify.com/track/7BranHqbktqdiojkd0r07A) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 7:30 |
 | 100 | [Oh What Love](https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Vickie Winans: Greatest Hits](https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI) | 7:01 |
 
-Snapshot ID: `MCxjYzQ1M2Y2NmFlNTQxMTEzNmRiY2Q2MWY2ZTVjNzQ2ZDAyMGIzM2Fi`
+Snapshot ID: `MCw2ZDc4ZWQ0MzEyMzg2MGI3OGU1ZDhiMDlkNWY5NGU5NzI3ZjAxYTZh`

@@ -3119,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3051\u307c\u306e (2023)",
+        "url": "https://open.spotify.com/album/7DEvmHRVHWr0g4eFyKuW87"
+      },
+      "artists": [
+        {
+          "name": "Yuta Orisaka",
+          "url": "https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327253,
+      "name": "\u3042\u3051\u307c\u306e - 2023",
+      "url": "https://open.spotify.com/track/7oIebM3d43QEtaQkpKKPRr"
+    },
+    {
+      "album": {
         "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
         "url": "https://open.spotify.com/album/6Ch5mvjky8GwIBmqO2c7LR"
       },
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 327001,
       "name": "\u661f\u306e\u30af\u30ba \u03a9",
       "url": "https://open.spotify.com/track/0FrMQBEf3u7JOLX5pfWmgc"

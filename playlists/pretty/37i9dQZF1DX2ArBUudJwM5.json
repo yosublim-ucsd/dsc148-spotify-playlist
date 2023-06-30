@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Barbi Recanati.\nDales play, dales power.",
-  "num_followers": 30326,
+  "num_followers": 30323,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTU5ZmRkYzczNDY2MzQ5YzZkMjRmOGFmYWU4ZDc4NDE2NzBhZTI0",
+  "snapshot_id": "MCw3NjZhY2EyMTkzMTczYTM0MjQ3MzJmZjJiODQwMWQzYzFhMjZjNWI3",
   "tracks": [
     {
       "added_at": "2023-06-05 03:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-06-05 03:00:00",
       "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9"
+      },
+      "artists": [
+        {
+          "name": "Playa Nudista",
+          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ"
+    },
+    {
+      "added_at": "2023-06-05 03:00:00",
+      "album": {
         "name": "M\u00e1scara de miel",
         "url": "https://open.spotify.com/album/0g6t7fhvdN04FAXuTFXywA"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 182717,
       "name": "M\u00e1scara de miel",
       "url": "https://open.spotify.com/track/4uwdJZMOKe3uHQ4QbG68p3"
-    },
-    {
-      "added_at": "2023-06-05 03:00:00",
-      "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9"
-      },
-      "artists": [
-        {
-          "name": "Playa Nudista",
-          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ"
     },
     {
       "added_at": "2023-06-05 03:00:00",

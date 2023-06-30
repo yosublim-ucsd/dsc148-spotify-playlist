@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-294 songs - 17 hr 47 min
+295 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Change Is Gonna Come](https://open.spotify.com/track/6cFjFN3jw2IoZqY3GO27s6) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [One Night In Miami..\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF) | 3:01 | 2021-12-03 | 2022-07-24 |
 | [Addicted \(Acoustic\)](https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Addicted \(Acoustic\)](https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh) | 3:05 | 2021-12-03 | 2022-10-01 |
 | [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 | 2023-06-22 |
-| [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 | 2023-03-03 |  |
+| [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 | 2023-03-03 | 2023-06-30 |
 | [Aged Eyes](https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Aged Eyes](https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG) | 4:06 | 2023-03-03 | 2023-05-01 |
 | [All About You](https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [All About You](https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge) | 3:00 | 2021-12-03 |  |
 | [All I Really Wanna Do](https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [All I Really Wanna Do](https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks) | 3:42 | 2023-02-10 |  |
@@ -279,6 +279,7 @@
 | [TODAY](https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 4:01 | 2023-05-20 |  |
 | [Trash](https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Trash](https://open.spotify.com/album/06dSrdMvvtas3Y4OvQXXkb) | 3:29 | 2023-04-21 | 2023-05-28 |
 | [Trouble](https://open.spotify.com/track/5N7usY5OYD0sCTNiZZlyQn) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Trouble](https://open.spotify.com/album/3Yd1ohFCiXM3ZuaiftVaxs) | 3:52 | 2023-04-07 | 2023-05-01 |
+| [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 | 2023-06-16 |  |
 | [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/0bHKanAzO1KJjwEVLJjdXP) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 4:03 | 2023-05-20 | 2023-05-30 |
 | [ur man](https://open.spotify.com/track/3NOdlt5KQFMc4uFu6HXBAm) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [ur man](https://open.spotify.com/album/4pABQnKGE9wLF4dpAfzzoz) | 3:42 | 2022-10-14 | 2022-10-22 |
 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 | 2022-03-11 | 2022-09-10 |

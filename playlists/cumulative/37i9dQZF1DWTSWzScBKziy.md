@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-200 songs - 12 hr 52 min
+201 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 | 2022-10-29 |  |
 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 | 2022-10-29 |  |
 | [Free At Last](https://open.spotify.com/track/05PxyIJgvQSOtwWGymgsNj) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free At Last](https://open.spotify.com/album/2IBcv1U7JHj4stGwDTInUG) | 3:46 | 2022-10-29 | 2023-04-30 |
-| [Free at Last](https://open.spotify.com/track/1lFEeSgKosaysClXoe0u8Y) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free at Last](https://open.spotify.com/album/2lUN6K8o3TdUDusJbBK5Or) | 3:46 | 2022-10-29 |  |
+| [Free at Last](https://open.spotify.com/track/1lFEeSgKosaysClXoe0u8Y) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free at Last](https://open.spotify.com/album/2lUN6K8o3TdUDusJbBK5Or) | 3:46 | 2022-10-29 | 2023-06-30 |
 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 | 2022-05-27 |  |
 | [God Is On The Throne](https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [God Is On The Throne](https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ) | 4:44 | 2022-10-29 |  |
 | [God Really Loves Us](https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [The Kindness Of The Cross](https://open.spotify.com/album/1ry4KqnjXvicjKN5pjN7Pm) | 4:46 | 2022-10-29 |  |
@@ -196,6 +196,7 @@
 | [we all need saving](https://open.spotify.com/track/1uNHA4tsOgrkKNQztsEVE5) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Abraham Osorio](https://open.spotify.com/artist/1NBqDNdNsKIhoORbn8IAkC) | [Juntos](https://open.spotify.com/album/5aY9OqT1l9HrMMK66ZbqKe) | 3:29 | 2022-05-27 | 2022-10-30 |
 | [We Come Alive](https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [We Come Alive](https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD) | 3:58 | 2022-10-29 |  |
 | [Well Done](https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [Well Done](https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq) | 3:42 | 2022-05-27 |  |
+| [What He Didn't Do](https://open.spotify.com/track/2F38S7efPnrF8l69N04ofv) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [What He Didn't Do](https://open.spotify.com/album/4CthwmxxcC3VpJVPAqxrFL) | 3:56 | 2022-10-29 |  |
 | [When The World Is Changing](https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tamara Fontijn](https://open.spotify.com/artist/2t1YVqm4E6w3CsEDw2Zasi), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [Here's To The One We Love \(Live\)](https://open.spotify.com/album/13U8Hs01res7D4CDmnhay2) | 4:13 | 2022-05-27 |  |
 | [Wherever You Are](https://open.spotify.com/track/1h5UwBqq3m7BNUrCrcSxY5) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Wherever You Are](https://open.spotify.com/album/1IYrmNaXSihfAfvDkfwIWn) | 3:35 | 2022-10-29 |  |
 | [Who You Want Me To Be](https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Who You Want Me To Be](https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03) | 3:16 | 2022-05-27 | 2022-10-30 |

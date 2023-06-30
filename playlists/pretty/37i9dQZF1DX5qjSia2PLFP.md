@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM?si=eENozeDUSaypJbFm0KOf1Q">Foggieraw</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,718 likes - 90 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,728 likes - 90 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 6 | [Cuz We Did](https://open.spotify.com/track/24EJjIh58hDXgCvpLjMCWZ) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [41 Ways](https://open.spotify.com/album/5EVyiRGDEhvaaPsvCBBkFT) | 2:27 |
 | 7 | [Just Relax](https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Just Relax](https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc) | 2:32 |
 | 8 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |
-| 9 | [DISS TRACK MAYBE](https://open.spotify.com/track/0Kv1056a877L5cWlQPhlRH) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [DISS TRACK MAYBE](https://open.spotify.com/album/7vt4ZeKy7IXPNZ9urCqAmF) | 2:34 |
+| 9 | [diss track maybe](https://open.spotify.com/track/0Kv1056a877L5cWlQPhlRH) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [diss track maybe](https://open.spotify.com/album/7vt4ZeKy7IXPNZ9urCqAmF) | 2:34 |
 | 10 | [Chemical Warfare](https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [The Postlude](https://open.spotify.com/album/4QX19K0eMkfCtrxRcbFpU0) | 2:06 |
 | 11 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 |
 | 12 | [Not A Day Goes By](https://open.spotify.com/track/15JeD2Kfn596DzP2IITfJ8) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Lucas Quinn](https://open.spotify.com/artist/4p9HbO0IA37MfvZLRdAOWS) | [Not A Day Goes By](https://open.spotify.com/album/5lwFE3fWZrkZnk01civeL4) | 2:25 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 89 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
 | 90 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
 
-Snapshot ID: `MCxkMjQyOTc4MGVjZWYzYTk5YmMyZWRjZDQxOGJmZTUxMDE2MTI0NDJh`
+Snapshot ID: `MCw0ZjMwMjVkM2M0NTZlNTZkNzA2OTAwMjU1NjE2NWVkMTEyYzgxMDQ5`

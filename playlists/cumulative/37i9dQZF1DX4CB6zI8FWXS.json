@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "SOZO",
+        "url": "https://open.spotify.com/album/6Dvkfccyaw2VDmNBCB9bHs"
+      },
+      "artists": [
+        {
+          "name": "Hanah Spring",
+          "url": "https://open.spotify.com/artist/4XFD2JYE1YxL1pmuigIb7s"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227084,
+      "name": "AppleTree",
+      "url": "https://open.spotify.com/track/5mL9aWutkCJI0i4YnY8hmG"
+    },
+    {
+      "album": {
         "name": "Candydrip (Deluxe)",
         "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
       },
@@ -733,6 +751,32 @@
     },
     {
       "album": {
+        "name": "A.I. AI",
+        "url": "https://open.spotify.com/album/6m2t3CyOXgxYDX7Hh82Y1E"
+      },
+      "artists": [
+        {
+          "name": "aTTn",
+          "url": "https://open.spotify.com/artist/40CE2AjIAmvExNgPEbGuwr"
+        },
+        {
+          "name": "TAKUMI",
+          "url": "https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys"
+        },
+        {
+          "name": "ji2kia",
+          "url": "https://open.spotify.com/artist/3GQDZKgxLoczcwbHY9tgY0"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181506,
+      "name": "elevator music",
+      "url": "https://open.spotify.com/track/1YEjIkXp49l8A313uQrg99"
+    },
+    {
+      "album": {
         "name": "Enough For Love",
         "url": "https://open.spotify.com/album/43f412bly0VRYkVEbEehG3"
       },
@@ -1338,6 +1382,28 @@
       "duration_ms": 202706,
       "name": "I Choose U (feat. RINI)",
       "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
+    },
+    {
+      "album": {
+        "name": "I don't care",
+        "url": "https://open.spotify.com/album/6vx87qHXfuGHuqFpwXRSKp"
+      },
+      "artists": [
+        {
+          "name": "SARA-J",
+          "url": "https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL"
+        },
+        {
+          "name": "FOFU",
+          "url": "https://open.spotify.com/artist/0s7Hki24pRQahhMRpU7n1U"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "I don't care",
+      "url": "https://open.spotify.com/track/31mcHhrlzBMtRCWdmpm2uw"
     },
     {
       "album": {
@@ -2059,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "nightbus",
+        "url": "https://open.spotify.com/album/22GFglKpVpgTyN5xEVS5Dq"
+      },
+      "artists": [
+        {
+          "name": "Jaydonclover",
+          "url": "https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "nightbus",
+      "url": "https://open.spotify.com/track/2Q0CGoAr7Cjuxq31GtqbR3"
+    },
+    {
+      "album": {
         "name": "NO INTENTION",
         "url": "https://open.spotify.com/album/6ZLNsoZyBz9SlYnTe1syri"
       },
@@ -2353,6 +2437,32 @@
     },
     {
       "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "album": {
         "name": "Popular [The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
       },
@@ -2372,7 +2482,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -3056,6 +3166,24 @@
       "duration_ms": 178333,
       "name": "Temporary (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
+    },
+    {
+      "album": {
+        "name": "TENNESSEE",
+        "url": "https://open.spotify.com/album/1FExYW4kwoxuHmCGgRYm8o"
+      },
+      "artists": [
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "TENNESSEE",
+      "url": "https://open.spotify.com/track/2AFwCOahN4s0NlODlXLRFa"
     },
     {
       "album": {

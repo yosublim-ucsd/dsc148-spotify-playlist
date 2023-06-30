@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Alkaline
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,639 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,841 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 55 | [Pon Di Cocky](https://open.spotify.com/track/38CECqycscktTYRq4yKMXc) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Pon Di Cocky](https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4) | 3:10 |
 | 56 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 |
 | 57 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 |
-| 58 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 |
-| 59 | [Romie](https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Maestro](https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1) | 3:51 |
+| 58 | [Romie](https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Maestro](https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1) | 3:51 |
+| 59 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 |
 | 60 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 61 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
 | 62 | [Too Many Man](https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [BBK](https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 3:35 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 91 | [Goodas Mi Back Mi Back](https://open.spotify.com/track/0DV3a7dw3D789bCIxlJ5Mn) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Strictly The Best Vol\. 35](https://open.spotify.com/album/4bq0nr8Ga4dUgf78jDGveB) | 3:49 |
 | 92 | [Leggo Mi Ears \- Remix](https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN) | [Tatik](https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Leggo Mi Ears \(Remix\)](https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse) | 2:51 |
 | 93 | [Head, Shoulders, Kneez & Toez \- Radio Edit](https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ) | [K.I.G](https://open.spotify.com/artist/5urltEzdvmWz8tl1J4reSj) | [Head, Shoulders, Kneez & Toez](https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv) | 3:32 |
-| 94 | [Give Me the Light](https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:46 |
+| 94 | [TEMPERATURE](https://open.spotify.com/track/6zSThntwhPtWU3my2y9I1F) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Riddim Driven: Applause](https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm) | 3:39 |
 | 95 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
 | 96 | [Dat Sexy Body](https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0) | [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 2:49 |
 | 97 | [Ocean Wave](https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Ocean Wave](https://open.spotify.com/album/722vGdkmCeXfKriYdKonto) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 99 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
 | 100 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
 
-Snapshot ID: `MCw0NjMxYjM1MDM4NjQ1N2IzNTU1YjUxYTY3ZGU1ZjhmOTA0NzIwMmJj`
+Snapshot ID: `MCw0MmI5MDY4MGVlNWZhY2RiMDg1N2VkN2U3MGVhNmNjYWQ2NDQ5MTYw`

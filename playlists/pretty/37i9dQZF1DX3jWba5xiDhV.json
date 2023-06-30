@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 133931,
+  "num_followers": 134258,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTdkNTAzYzZkMWMyMzM5ZGJmZGEwOGYxYTlhMmMzMGI2MWNjOTIz",
+  "snapshot_id": "MCw3MWE5M2QxYjA0NzhjZjRlMjcxNGFkNGIxMDk2Mjc4MzUwOTc5ZDVi",
   "tracks": [
     {
       "added_at": "2023-06-22 22:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "I Need You Tonight / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
-      },
-      "artists": [
-        {
-          "name": "Suzy Q",
-          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
-        }
-      ],
-      "duration_ms": 390127,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Greatest Hits &amp; Remixes",
         "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 212253,
       "name": "Visitors",
       "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "I Need You Tonight / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+      },
+      "artists": [
+        {
+          "name": "Suzy Q",
+          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
+        }
+      ],
+      "duration_ms": 390127,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Eyes (2020 Remaster)",
-        "url": "https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz"
-      },
-      "artists": [
-        {
-          "name": "Clio",
-          "url": "https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf"
-        },
-        {
-          "name": "Roberto Ferrante",
-          "url": "https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL"
-        }
-      ],
-      "duration_ms": 398733,
-      "name": "Eyes - Prod. by Roberto Ferrante - 2020 Remaster",
-      "url": "https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
         "url": "https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 208194,
       "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
       "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Eyes (2020 Remaster)",
+        "url": "https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL"
+        }
+      ],
+      "duration_ms": 398733,
+      "name": "Eyes - Prod. by Roberto Ferrante - 2020 Remaster",
+      "url": "https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Disco Fizz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
-      },
-      "artists": [
-        {
-          "name": "Azoto",
-          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "San Salvador - Single Version",
-      "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Disco Italia EP",
         "url": "https://open.spotify.com/album/2BXanfr9DTGseIlsNTBXMj"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "Disco Fizz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
+      },
+      "artists": [
+        {
+          "name": "Azoto",
+          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "San Salvador - Single Version",
+      "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Danza Organica (Musumeci Remix Hot Version)",
         "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Hildegard",
         "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 281840,
       "name": "Hildegard",
       "url": "https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2023-06-22 22:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 50317,
+  "num_followers": 50447,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzBjMmVkMmNlMmQ3ODIwOWY1YjkyMzAxNDcyZDEzYjI3MTgzMDAw",
+  "snapshot_id": "MCxiNmYzMjA4NmEyZjI4ODk0ZWFkMmZkODAxYzVhODBlZTNiMTY1MWQw",
   "tracks": [
     {
       "added_at": "2023-05-03 18:57:46",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Bronco Amigo",
-        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
+        "name": "Hay Nubes Llorando",
+        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/6nte0u7VUdEGSNJHOOLtRm"
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Amigo Bronco",
-      "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
+      "duration_ms": 206053,
+      "name": "El Pulmon",
+      "url": "https://open.spotify.com/track/7BJAA9HmsJhMB66Sd9MLrW"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Hay Nubes Llorando",
-        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
+        "name": "Bronco Amigo",
+        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
       },
       "artists": [
         {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/6nte0u7VUdEGSNJHOOLtRm"
         }
       ],
-      "duration_ms": 206053,
-      "name": "El Pulmon",
-      "url": "https://open.spotify.com/track/7BJAA9HmsJhMB66Sd9MLrW"
+      "duration_ms": 232760,
+      "name": "Amigo Bronco",
+      "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
+        "name": "Hay Nubes Llorando",
+        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
+      },
+      "artists": [
+        {
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+        }
+      ],
+      "duration_ms": 159582,
+      "name": "El Wareke",
+      "url": "https://open.spotify.com/track/0kW4iNEQjk2sms7fWCjnwz"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "El Quemado",
-        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
-      },
-      "artists": [
-        {
-          "name": "Beto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
-        }
-      ],
-      "duration_ms": 138130,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
         "name": "El Profeta Y Otros Caballos Famosos",
         "url": "https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g"
       },
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Hay Nubes Llorando",
-        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
+        "name": "El Quemado",
+        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
       },
       "artists": [
         {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+          "name": "Beto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
         }
       ],
-      "duration_ms": 159582,
-      "name": "El Wareke",
-      "url": "https://open.spotify.com/track/0kW4iNEQjk2sms7fWCjnwz"
+      "duration_ms": 138130,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 183297,
+      "name": "Cuando Muri\u00f3 Mi Caballo",
+      "url": "https://open.spotify.com/track/151XSjgdoUP9y0Hh7axniG"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
         "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
         "url": "https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 162867,
       "name": "Se Vende un Caballo",
       "url": "https://open.spotify.com/track/4INGYD1uBRoEIwrIWLHoK3"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 183297,
-      "name": "Cuando Muri\u00f3 Mi Caballo",
-      "url": "https://open.spotify.com/track/151XSjgdoUP9y0Hh7axniG"
     },
     {
       "added_at": "2023-05-03 18:57:46",

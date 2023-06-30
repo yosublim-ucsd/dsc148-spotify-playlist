@@ -4,7 +4,7 @@
 
 > \-8 LUFS if you can\. Ft\. mykel online
 
-228 songs - 10 hr 2 min
+229 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Fingers](https://open.spotify.com/track/4XrxK7r8Jbkpzc4KCRIC9P) | [Patrick O'neill](https://open.spotify.com/artist/66VmY2NGXnd4vjm3d6hGuX) | [Fingers](https://open.spotify.com/album/4IzDYLN43m5Y25OfAq2nrO) | 2:56 | 2023-01-05 | 2023-06-24 |
 | [Fitness](https://open.spotify.com/track/6QcUUlAgee7GsQCWMl8dIs) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Snooper](https://open.spotify.com/album/55n75LXuj6zDIZoBM3fBUs) | 1:31 | 2022-12-04 | 2023-02-18 |
 | [Flowers & Chocolate](https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Flowers & Chocolate](https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW) | 3:15 | 2023-06-09 |  |
+| [FlySolo](https://open.spotify.com/track/1OCSVSRG9udIgyZQGTnRgq) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [FlySolo](https://open.spotify.com/album/1fPetlgE9MxlziP9R7J1G7) | 1:38 | 2023-06-23 |  |
 | [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 | 2022-12-04 | 2023-01-14 |
 | [fullmoonblood \(feat\. Extra Large Holiday Card & Genosky\)](https://open.spotify.com/track/4GCSIu06v7vp1a8htqMc3X) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe), [Genosky](https://open.spotify.com/artist/6WH867Ul1iFFTCsM1sFn8k) | [ALTAR74](https://open.spotify.com/album/1i12M4uoJJqRNsZrvFMG85) | 2:26 | 2023-06-23 |  |
 | [Fun and Forget](https://open.spotify.com/track/3cZ1SjHd0QIVRgGXiJfb5n) | [SSJ Twiin](https://open.spotify.com/artist/6XvELv4pue2ll8vImdm6ts), [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM) | [Fun and Forget](https://open.spotify.com/album/4fOAgauRwqgTolmLomauv9) | 2:38 | 2023-03-16 | 2023-04-09 |
@@ -105,7 +106,7 @@
 | [I Thought I Saw An Astronaut](https://open.spotify.com/track/2oun4Gfgac2SEbdpDTAQgF) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [songs](https://open.spotify.com/album/0y7QaN0r8zsiD9R7ikFdo3) | 2:18 | 2022-12-04 | 2023-03-04 |
 | [I Watched Them Go](https://open.spotify.com/track/7caD4SRq2jQfbFy2ZfT3iz) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [I Watched Them Go](https://open.spotify.com/album/5CS8JBzPL6gw4r95U3Ia1d) | 3:19 | 2022-12-04 | 2023-02-18 |
 | [i wna be like you](https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i wna be like you](https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe) | 2:03 | 2023-04-14 |  |
-| [I'll Be Damned](https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:38 | 2023-04-14 |  |
+| [I'll Be Damned](https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:38 | 2023-04-14 | 2023-06-30 |
 | [ihatefeelingthisway](https://open.spotify.com/track/3IP5kKSUkqZcOLraMddHJy) | [inuday](https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg) | [ihatefeelingthisway](https://open.spotify.com/album/72me9cMEdcQxa0uwvEijen) | 3:43 | 2022-12-09 | 2023-04-15 |
 | [immerensis](https://open.spotify.com/track/5BeS3D2ewRYPcFS0Tz3UcC) | [abbot](https://open.spotify.com/artist/0Ro9LZA0sRl1FG66KgsA1u) | [immerensis](https://open.spotify.com/album/6nPSa56mb9lDNk2Ppv6Hq8) | 2:41 | 2023-01-26 | 2023-02-18 |
 | [insecure](https://open.spotify.com/track/3JN1r7qDMnrYiwDNg5D3V7) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [teeth](https://open.spotify.com/album/2kwMpS2boGu2KgvT4UIxCh) | 1:51 | 2023-06-16 | 2023-06-24 |

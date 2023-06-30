@@ -982,7 +982,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 236413,
       "name": "Cigarrito",
       "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Corazon de Tango",
       "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 242813,
       "name": "El \u00c1tico",
       "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 245026,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 262626,
       "name": "Flojos de pantal\u00f3n",
       "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
@@ -3072,7 +3072,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 206328,
       "name": "La Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/3OKTOH1focfykpfG8qhwIS"
@@ -4242,7 +4242,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 177546,
       "name": "Por amor viviremos",
       "url": "https://open.spotify.com/track/6UlDs030fd8vjzjne7OKwR"
@@ -4350,7 +4350,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 245348,
       "name": "P\u00e1jaro Herido",
       "url": "https://open.spotify.com/track/3XSlPnk9uclOFGC5WrdhvI"
@@ -4795,6 +4795,32 @@
     },
     {
       "album": {
+        "name": "Si Quieres Que Nos Conozcamos Mejor",
+        "url": "https://open.spotify.com/album/1mY8WUu4K7VVNsAPVLIbNE"
+      },
+      "artists": [
+        {
+          "name": "JJ Fuentes",
+          "url": "https://open.spotify.com/artist/3LKonBMDeuBrlNopNw6cld"
+        },
+        {
+          "name": "\u00c1lvaro Urquijo",
+          "url": "https://open.spotify.com/artist/0yiwWDdqEuLc99kyfJgOEP"
+        },
+        {
+          "name": "Los Secretos",
+          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233615,
+      "name": "Si Quieres Que Nos Conozcamos Mejor",
+      "url": "https://open.spotify.com/track/6mjOb7E0QIDuQLGlYy0ptU"
+    },
+    {
+      "album": {
         "name": "Material defectuoso",
         "url": "https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua"
       },
@@ -4872,7 +4898,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 183073,
       "name": "Sin Antifaz (feat. Rayden)",
       "url": "https://open.spotify.com/track/790vlvIwUc0KIb1A3nr79w"
@@ -4991,6 +5017,24 @@
     },
     {
       "album": {
+        "name": "Soy Famoso (Pero No Lo Sabes)",
+        "url": "https://open.spotify.com/album/7q39uKSJfuUfIMC4cj43q1"
+      },
+      "artists": [
+        {
+          "name": "Staytons",
+          "url": "https://open.spotify.com/artist/2RyidmUlHaj7sauQGkZTmc"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176675,
+      "name": "Soy Famoso (Pero No Lo Sabes)",
+      "url": "https://open.spotify.com/track/3JKnqNNLqyw3dRybIY9Odl"
+    },
+    {
+      "album": {
         "name": "Soy Un Guapo",
         "url": "https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu"
       },
@@ -5056,7 +5100,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 230791,
       "name": "Sue\u00f1o Que Recuerdo",
       "url": "https://open.spotify.com/track/6lbawxyvWMsOr2vZNaLwvL"
@@ -5114,7 +5158,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 277193,
       "name": "Tenemos Algo Que Solucionar",
       "url": "https://open.spotify.com/track/46H6sHclq3EOI1MSOGdi69"
@@ -5150,7 +5194,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 218650,
       "name": "Todo por la ciencia",
       "url": "https://open.spotify.com/track/1cWmYqDXczTGKiNF0vvdD9"
@@ -5168,7 +5212,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 296400,
       "name": "Todo Tiene Su Fin",
       "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
@@ -5298,7 +5342,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 213120,
       "name": "T\u00f3malo",
       "url": "https://open.spotify.com/track/2iNJLWve5nchk4PJZQMevq"

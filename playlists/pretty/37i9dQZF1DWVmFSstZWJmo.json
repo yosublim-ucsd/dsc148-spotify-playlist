@@ -1,12 +1,12 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. The Dare",
-  "num_followers": 94843,
+  "num_followers": 95090,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzY1ODIwMDc1YjYwMjQ3OTUwYmIwZmQzZjA1NzFlZjMzMmU1YzMy",
+  "snapshot_id": "MCwwODM0YWQ1MzlhMGUyM2Y0ZmVmNjc1NjM0NzUxNzA4OWY4NWE0ZTZl",
   "tracks": [
     {
       "added_at": "2023-05-17 14:39:09",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-05-17 14:39:09",
       "album": {
-        "name": "Don't Look Back into the Sun",
-        "url": "https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Don't Look Back into the Sun",
-      "url": "https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm"
-    },
-    {
-      "added_at": "2023-05-17 14:39:09",
-      "album": {
         "name": "girlfriend",
         "url": "https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 133150,
       "name": "girlfriend",
       "url": "https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg"
+    },
+    {
+      "added_at": "2023-05-17 14:39:09",
+      "album": {
+        "name": "Don't Look Back into the Sun",
+        "url": "https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Don't Look Back into the Sun",
+      "url": "https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm"
     },
     {
       "added_at": "2023-05-17 14:39:09",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-05-17 14:39:09",
       "album": {
-        "name": "Sexy",
-        "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
       },
       "artists": [
         {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
         }
       ],
-      "duration_ms": 184222,
-      "name": "Pop Star",
-      "url": "https://open.spotify.com/track/0widrZ6KVNuIPhbM1rWPDR"
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
     },
     {
       "added_at": "2023-05-17 14:39:09",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-05-17 14:39:09",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Can't Stand Me Now",
-      "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
-    },
-    {
-      "added_at": "2023-05-17 14:39:09",
-      "album": {
         "name": "LCD Soundsystem",
         "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 314556,
       "name": "Daft Punk Is Playing at My House",
       "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2023-05-17 14:39:09",
+      "album": {
+        "name": "Sexy",
+        "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "duration_ms": 184222,
+      "name": "Pop Star",
+      "url": "https://open.spotify.com/track/0widrZ6KVNuIPhbM1rWPDR"
     },
     {
       "added_at": "2023-05-17 14:39:09",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-17 14:39:09",
       "album": {
-        "name": "Master of My Make-Believe",
-        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Disparate Youth",
-      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
-    },
-    {
-      "added_at": "2023-05-17 14:39:09",
-      "album": {
         "name": "Miike Snow",
         "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2023-05-17 14:39:09",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
         }
       ],
-      "duration_ms": 462266,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
     },
     {
       "added_at": "2023-05-17 14:39:09",
@@ -1143,6 +1127,22 @@
       "duration_ms": 201946,
       "name": "Crystalised",
       "url": "https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS"
+    },
+    {
+      "added_at": "2023-05-17 14:39:09",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 462266,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
     },
     {
       "added_at": "2023-05-17 14:39:09",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-05-17 14:39:09",
       "album": {
-        "name": "headstrong gunner",
-        "url": "https://open.spotify.com/album/2F4tvdjZIfNQhQUh2iCgjt"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 115651,
-      "name": "headstrong gunner",
-      "url": "https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0"
-    },
-    {
-      "added_at": "2023-05-17 14:39:09",
-      "album": {
         "name": "Standing in the Way of Control",
         "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 256398,
       "name": "Standing In the Way of Control",
       "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
+    },
+    {
+      "added_at": "2023-05-17 14:39:09",
+      "album": {
+        "name": "headstrong gunner",
+        "url": "https://open.spotify.com/album/2F4tvdjZIfNQhQUh2iCgjt"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 115651,
+      "name": "headstrong gunner",
+      "url": "https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0"
     },
     {
       "added_at": "2023-05-17 14:39:09",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-05-17 14:39:09",
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J"
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m"
       },
       "artists": [
         {
-          "name": "Ratatat",
-          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+          "name": "The Knife",
+          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
         }
       ],
-      "duration_ms": 260173,
-      "name": "Wildcat",
-      "url": "https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu"
+      "duration_ms": 228066,
+      "name": "Pass This On",
+      "url": "https://open.spotify.com/track/0aWhxzFrP2Yyz3CetJe0xE"
     },
     {
       "added_at": "2023-05-17 14:39:09",

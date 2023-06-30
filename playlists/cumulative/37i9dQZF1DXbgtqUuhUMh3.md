@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: zeyne
 
-486 songs - 1 day 4 hr 23 min
+487 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 | 2022-07-21 | 2023-05-13 |
 | [3ARI](https://open.spotify.com/track/4lyUy5RvVYTQAYWOGcehGA) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/0bOC0hLjsOTpfKEkWrNEFv) | 3:09 | 2022-03-10 | 2022-07-28 |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2023-01-01 | 2023-05-13 |
-| [3azezy Elakt2ab](https://open.spotify.com/track/7Mg9ZscmtD2zt3OEcyDbsT) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [3azezy Elakt2ab](https://open.spotify.com/album/7BJKAonV5Z0ilcWt3qyLhI) | 3:36 | 2023-05-18 |  |
+| [3azezy Elakt2ab](https://open.spotify.com/track/7Mg9ZscmtD2zt3OEcyDbsT) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [3azezy Elakt2ab](https://open.spotify.com/album/7BJKAonV5Z0ilcWt3qyLhI) | 3:36 | 2023-05-18 | 2023-06-30 |
 | [7alti 7ala](https://open.spotify.com/track/4LWhfDV6erIgAPKDTFsWbZ) | [Tara Salah Moneka](https://open.spotify.com/artist/0Sw2vMYAGpfSHYhYVB5fcZ) | [7alti 7ala](https://open.spotify.com/album/1l9sj2T7Rx4bJxZtykaDQE) | 3:20 | 2021-12-23 | 2022-03-02 |
 | [966](https://open.spotify.com/track/3PflE6uFFthNWVo0kgLUdX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [966](https://open.spotify.com/album/2ktaCKF0w3JBw3De5yzbq0) | 3:29 | 2021-12-23 | 2022-10-21 |
 | [9albi](https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [9albi](https://open.spotify.com/album/4LYxM2TBsO7lXdoagMDLTp) | 2:33 | 2022-03-03 | 2022-11-26 |
@@ -237,6 +237,7 @@
 | [Lazemni Break](https://open.spotify.com/track/3c5jOjIWCDHjy7XPFuWuaM) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Lazemni Break](https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT) | 2:22 | 2022-07-21 | 2023-05-13 |
 | [Leh Rajee](https://open.spotify.com/track/2rTe08BVkNA9S8xaC4ZqTD) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Leh Rajee](https://open.spotify.com/album/2CiC0SU1r3W3MPcoHuFMyr) | 3:43 | 2022-05-13 | 2022-11-17 |
 | [Let It All Out](https://open.spotify.com/track/4nVAWU7MjaBTTubCTxqOy3) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Let It All Out](https://open.spotify.com/album/2uXypWKKRp0X7YRMhAqGOK) | 4:23 | 2021-12-23 | 2022-02-15 |
+| [Li Ma Byehsob Ma Byeslam](https://open.spotify.com/track/4OvtRUrYCk65k6a8x6Fq6u) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Li Ma Byehsob Ma Byeslam](https://open.spotify.com/album/6byiEAR16pGpbLHXGgfsUb) | 3:53 | 2023-06-29 |  |
 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 | 2021-12-23 | 2022-02-28 |
 | [Lover, Lover, Lover](https://open.spotify.com/track/0hv8U3P9bA41kuEIWPwuSL) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Desert](https://open.spotify.com/album/05JqEfPs59AIPpzLZU7KoE) | 5:26 | 2021-12-30 | 2022-02-27 |
 | [Loyal](https://open.spotify.com/track/4UKFE7R5Xl5wtAsXq9n35E) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [Loyal](https://open.spotify.com/album/1EGbExfjdiOylnF5pI0Bwj) | 3:14 | 2021-12-23 | 2022-03-02 |

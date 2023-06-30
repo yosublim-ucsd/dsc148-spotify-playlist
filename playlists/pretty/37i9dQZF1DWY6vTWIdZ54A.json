@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Royal Blood",
-  "num_followers": 469027,
+  "num_followers": 469307,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTM5MzY3NzcwOTZlZjQ3NDk0NjIyZjhhNjYzYjQ2NTZlMjhiZmUw",
+  "snapshot_id": "MCw4ZTYzN2E5NjdmNTc2OTQyZjY5NmNiYzI2NjU3OTI2ZWNiZTNiNmQ5",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Return To Cookie Mountain",
-        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 279293,
-      "name": "Wolf Like Me",
-      "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Them Crooked Vultures",
         "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 228639,
       "name": "New Fang",
       "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Return To Cookie Mountain",
+        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 279293,
+      "name": "Wolf Like Me",
+      "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Death By Rock And Roll",
-        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Death By Rock And Roll",
-      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Sound & Color",
         "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 232546,
       "name": "Don't Wanna Fight",
       "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Death By Rock And Roll",
+        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Death By Rock And Roll",
+      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Denim & Diamonds",
-        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 187867,
-      "name": "First High",
-      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Save Me Some Sunshine",
         "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 217143,
       "name": "Save Me Some Sunshine",
       "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Denim & Diamonds",
+        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 187867,
+      "name": "First High",
+      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 195358,
-      "name": "Bad Spell",
-      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 210850,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Rumble And Sway EP",
-        "url": "https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH"
-      },
-      "artists": [
-        {
-          "name": "Jamie N Commons",
-          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Rumble And Sway",
-      "url": "https://open.spotify.com/track/6qxQLXOAboXpXHcHTMYC1K"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Heartache Melody",
         "url": "https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 172140,
       "name": "Heartache Melody",
       "url": "https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Rumble And Sway EP",
+        "url": "https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH"
+      },
+      "artists": [
+        {
+          "name": "Jamie N Commons",
+          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Rumble And Sway",
+      "url": "https://open.spotify.com/track/6qxQLXOAboXpXHcHTMYC1K"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Slomosa",
-        "url": "https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS"
+        "name": "Mammoth WVH (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6HEDHhxks6y2lmOVd0RvNk"
       },
       "artists": [
         {
-          "name": "Slomosa",
-          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
         }
       ],
-      "duration_ms": 167389,
-      "name": "Kevin",
-      "url": "https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3"
+      "duration_ms": 275494,
+      "name": "Talk & Walk",
+      "url": "https://open.spotify.com/track/4b76hNVL3wrHEAXcRSIlvJ"
     }
   ],
   "unique_name": "Dirty Rock",

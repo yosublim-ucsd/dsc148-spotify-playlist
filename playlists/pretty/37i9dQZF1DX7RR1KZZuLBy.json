@@ -1,32 +1,80 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 30310,
+  "num_followers": 30340,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODhiZjc0MWIwOWQzOWVkZmFmNGQ2ODU4OTBjYzRiMTBlNzI2Nzdm",
+  "snapshot_id": "MCw1ZjA3ZjAzZjYwYmRlNTlkYjc4YzVhNjlmMmEwN2JjZmE3MDQ1OWNh",
   "tracks": [
     {
-      "added_at": "2023-06-23 00:01:00",
+      "added_at": "2023-04-21 00:01:00",
       "album": {
-        "name": "Wasithethelela (Live)",
-        "url": "https://open.spotify.com/album/2NYJcamLaTEr1idXWOrgiu"
+        "name": "Glory in His Presence",
+        "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
       },
       "artists": [
         {
-          "name": "Takie Ndou",
-          "url": "https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu"
-        },
-        {
-          "name": "Sound Of Goshen",
-          "url": "https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW"
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
         }
       ],
-      "duration_ms": 571053,
-      "name": "Wasithethelela (Live)",
-      "url": "https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG"
+      "duration_ms": 655253,
+      "name": "Bow Down and Worship - Live",
+      "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 598994,
+      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
+      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+    },
+    {
+      "added_at": "2023-06-23 00:01:00",
+      "album": {
+        "name": "Spirit of Praise, Vol. 5 (Live)",
+        "url": "https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Tshepiso",
+          "url": "https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I"
+        },
+        {
+          "name": "Thando",
+          "url": "https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn"
+        }
+      ],
+      "duration_ms": 406600,
+      "name": "Xa Ndiyekelelwa (Live)",
+      "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
     },
     {
       "added_at": "2023-02-21 14:33:20",
@@ -43,6 +91,82 @@
       "duration_ms": 470600,
       "name": "Nothing Without You - Live At The Barnyard Theatre",
       "url": "https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Spirit of Praise, Vol. 8 (Live)",
+        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Mpumi Mtsweni",
+          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
+        }
+      ],
+      "duration_ms": 475664,
+      "name": "Thath'Indawo (Live)",
+      "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
+    },
+    {
+      "added_at": "2023-06-23 00:01:00",
+      "album": {
+        "name": "Healing in His Presence",
+        "url": "https://open.spotify.com/album/0rgq2R2s3q3OPodw81TLol"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "Elshadai Adonaih",
+      "url": "https://open.spotify.com/track/4U2C51nMyJ5OvWIoX2RxuY"
+    },
+    {
+      "added_at": "2023-02-21 14:33:20",
+      "album": {
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+    },
+    {
+      "added_at": "2023-06-23 00:01:00",
+      "album": {
+        "name": "Spirit of Praise, Vol. 8 (Live)",
+        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Mpumi Mtsweni",
+          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
+        }
+      ],
+      "duration_ms": 646407,
+      "name": "Nang'Mthokozisi (Live)",
+      "url": "https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU"
     },
     {
       "added_at": "2023-06-16 00:01:00",
@@ -81,72 +205,24 @@
       "url": "https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
+      "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+        "name": "Herbou (Remix)",
+        "url": "https://open.spotify.com/album/4Mg6FHKyiU9Esco2tRW7p9"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "RICHELLE GRANT",
+          "url": "https://open.spotify.com/artist/5ngimDhvnW2WdAOASWoP9H"
         },
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Afrikaans Wil Dans",
+          "url": "https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M"
         }
       ],
-      "duration_ms": 598994,
-      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
-    },
-    {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Spirit of Praise, Vol. 8 (Live)",
-        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Mpumi Mtsweni",
-          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
-        }
-      ],
-      "duration_ms": 475664,
-      "name": "Thath'Indawo (Live)",
-      "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
-    },
-    {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+      "duration_ms": 241399,
+      "name": "Herbou (Remix)",
+      "url": "https://open.spotify.com/track/4udgmbI0Ol7Nc2XXNzsHFq"
     },
     {
       "added_at": "2023-06-23 00:01:00",
@@ -181,6 +257,30 @@
       "url": "https://open.spotify.com/track/3jM9n1hUTESkuxEmLt9nAq"
     },
     {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "KE SIKILOE KE JESU",
+        "url": "https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG"
+      },
+      "artists": [
+        {
+          "name": "Locustmusiq",
+          "url": "https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j"
+        },
+        {
+          "name": "Dark shadow_msotra",
+          "url": "https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW"
+        },
+        {
+          "name": "Dintle",
+          "url": "https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd"
+        }
+      ],
+      "duration_ms": 293316,
+      "name": "KE SIKILOE KE JESU",
+      "url": "https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG"
+    },
+    {
       "added_at": "2023-06-16 00:01:00",
       "album": {
         "name": "We the Forgiven",
@@ -203,6 +303,42 @@
     {
       "added_at": "2023-06-23 00:01:00",
       "album": {
+        "name": "Wasithethelela (Live)",
+        "url": "https://open.spotify.com/album/2NYJcamLaTEr1idXWOrgiu"
+      },
+      "artists": [
+        {
+          "name": "Takie Ndou",
+          "url": "https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu"
+        },
+        {
+          "name": "Sound Of Goshen",
+          "url": "https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW"
+        }
+      ],
+      "duration_ms": 571053,
+      "name": "Wasithethelela (Live)",
+      "url": "https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG"
+    },
+    {
+      "added_at": "2023-02-21 14:33:20",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 297960,
+      "name": "Can't Give Up Now",
+      "url": "https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg"
+    },
+    {
+      "added_at": "2023-06-23 00:01:00",
+      "album": {
         "name": "Live and up Close",
         "url": "https://open.spotify.com/album/5rmJYUe9hsG3ToRghY02UA"
       },
@@ -215,6 +351,26 @@
       "duration_ms": 337986,
       "name": "It All Comes Down To Love",
       "url": "https://open.spotify.com/track/1vBgAHDbKBkhMUYkBiCY1f"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Hold On (Live)",
+        "url": "https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS"
+      },
+      "artists": [
+        {
+          "name": "Sibusiso Nzima",
+          "url": "https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b"
+        },
+        {
+          "name": "Bobo Jay Nzima",
+          "url": "https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1"
+        }
+      ],
+      "duration_ms": 405000,
+      "name": "Hold On (Live)",
+      "url": "https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO"
     },
     {
       "added_at": "2023-02-21 14:33:20",
@@ -231,6 +387,34 @@
       "duration_ms": 309600,
       "name": "Intentional",
       "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 304535,
+      "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
+      "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
     },
     {
       "added_at": "2023-06-02 00:01:00",
@@ -253,24 +437,96 @@
       "url": "https://open.spotify.com/track/63jFXcyV4O9hxNvguAhXfr"
     },
     {
-      "added_at": "2023-05-19 00:01:00",
+      "added_at": "2023-06-16 00:01:00",
       "album": {
-        "name": "Jehovah Ngiyabonga",
-        "url": "https://open.spotify.com/album/1PmboZPhLlapJIGYhz42ZD"
+        "name": "Zion (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
       },
       "artists": [
         {
-          "name": "Deborah Fraser",
-          "url": "https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
         },
         {
-          "name": "Big Zulu",
-          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Jehovah Ngiyabonga",
-      "url": "https://open.spotify.com/track/2oelkq0zqxdXqMRv7T4CoY"
+      "duration_ms": 535962,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+    },
+    {
+      "added_at": "2023-06-23 00:01:00",
+      "album": {
+        "name": "Spirit of Praise, Vol. 7 (Live)",
+        "url": "https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Mmatema",
+          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
+        }
+      ],
+      "duration_ms": 278886,
+      "name": "Make a Way - Live",
+      "url": "https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU"
+    },
+    {
+      "added_at": "2023-06-23 00:01:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ"
+      },
+      "artists": [
+        {
+          "name": "Hlengiwe Mhlaba",
+          "url": "https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI"
+        }
+      ],
+      "duration_ms": 282440,
+      "name": "Sewakhile",
+      "url": "https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "The King Is in the Room",
+        "url": "https://open.spotify.com/album/1snfxWlSJeiyer9UqlIfJe"
+      },
+      "artists": [
+        {
+          "name": "His Church Music",
+          "url": "https://open.spotify.com/artist/1jMeFoQnHRPmCYctBPZqbp"
+        },
+        {
+          "name": "Pamela Myburgh",
+          "url": "https://open.spotify.com/artist/0fmsGte6TDNGk9WwaAAhfJ"
+        }
+      ],
+      "duration_ms": 320560,
+      "name": "The King Is in the Room",
+      "url": "https://open.spotify.com/track/6Tjkc5H1ivrzcPiWIc78wI"
+    },
+    {
+      "added_at": "2023-06-23 00:01:00",
+      "album": {
+        "name": "New Dawn (Live)",
+        "url": "https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge"
+      },
+      "artists": [
+        {
+          "name": "Kgotso",
+          "url": "https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H"
+        }
+      ],
+      "duration_ms": 246252,
+      "name": "Messiah - Live",
+      "url": "https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u"
     },
     {
       "added_at": "2023-06-23 00:01:00",
@@ -309,6 +565,22 @@
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
+      "added_at": "2023-02-21 14:33:20",
+      "album": {
+        "name": "Victorious in His Presence",
+        "url": "https://open.spotify.com/album/3f4jEnTgYErjDKNdmYtBWP"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        }
+      ],
+      "duration_ms": 486186,
+      "name": "He Keeps on Doing - Live",
+      "url": "https://open.spotify.com/track/3W4cz3OHnncxrl0Oyl1eq1"
+    },
+    {
       "added_at": "2023-05-12 00:01:00",
       "album": {
         "name": "Ngena Noah",
@@ -345,62 +617,6 @@
       "url": "https://open.spotify.com/track/4Xo9grcw19YyxmpHzTbML4"
     },
     {
-      "added_at": "2023-06-23 00:01:00",
-      "album": {
-        "name": "Spirit of Praise, Vol. 7 (Live)",
-        "url": "https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Mmatema",
-          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
-        }
-      ],
-      "duration_ms": 278886,
-      "name": "Make a Way - Live",
-      "url": "https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU"
-    },
-    {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "Zion (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 535962,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
-    },
-    {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 297960,
-      "name": "Can't Give Up Now",
-      "url": "https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg"
-    },
-    {
       "added_at": "2023-04-21 00:01:00",
       "album": {
         "name": "Restored (Live)",
@@ -415,22 +631,6 @@
       "duration_ms": 433773,
       "name": "Haleluyah Mdumiseni (Live)",
       "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
-    },
-    {
-      "added_at": "2023-06-23 00:01:00",
-      "album": {
-        "name": "New Dawn (Live)",
-        "url": "https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge"
-      },
-      "artists": [
-        {
-          "name": "Kgotso",
-          "url": "https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H"
-        }
-      ],
-      "duration_ms": 246252,
-      "name": "Messiah - Live",
-      "url": "https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u"
     },
     {
       "added_at": "2023-02-21 14:33:20",
@@ -489,30 +689,6 @@
       "url": "https://open.spotify.com/track/0k28KRt7ZoMR7lAo3QYAqR"
     },
     {
-      "added_at": "2023-06-23 00:01:00",
-      "album": {
-        "name": "Spirit of Praise, Vol. 5 (Live)",
-        "url": "https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Tshepiso",
-          "url": "https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I"
-        },
-        {
-          "name": "Thando",
-          "url": "https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn"
-        }
-      ],
-      "duration_ms": 406600,
-      "name": "Xa Ndiyekelelwa (Live)",
-      "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
-    },
-    {
       "added_at": "2023-06-16 00:01:00",
       "album": {
         "name": "Grateful",
@@ -549,22 +725,6 @@
       "url": "https://open.spotify.com/track/6fw0kujZv4igzmpNwACBLQ"
     },
     {
-      "added_at": "2023-06-23 00:01:00",
-      "album": {
-        "name": "Healing in His Presence",
-        "url": "https://open.spotify.com/album/0rgq2R2s3q3OPodw81TLol"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dube",
-          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "Elshadai Adonaih",
-      "url": "https://open.spotify.com/track/4U2C51nMyJ5OvWIoX2RxuY"
-    },
-    {
       "added_at": "2023-02-21 14:33:20",
       "album": {
         "name": "Zion (Deluxe Edition)",
@@ -583,26 +743,6 @@
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
-    },
-    {
-      "added_at": "2023-06-23 00:01:00",
-      "album": {
-        "name": "Spirit of Praise, Vol. 8 (Live)",
-        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Mpumi Mtsweni",
-          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
-        }
-      ],
-      "duration_ms": 646407,
-      "name": "Nang'Mthokozisi (Live)",
-      "url": "https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU"
     },
     {
       "added_at": "2023-06-23 00:01:00",
@@ -635,22 +775,6 @@
       "duration_ms": 300000,
       "name": "Sixolele",
       "url": "https://open.spotify.com/track/77DtZoPVPzsetJnfN7Gzn6"
-    },
-    {
-      "added_at": "2023-06-23 00:01:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ"
-      },
-      "artists": [
-        {
-          "name": "Hlengiwe Mhlaba",
-          "url": "https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI"
-        }
-      ],
-      "duration_ms": 282440,
-      "name": "Sewakhile",
-      "url": "https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT"
     },
     {
       "added_at": "2023-06-02 00:01:00",
@@ -687,6 +811,26 @@
       "duration_ms": 415354,
       "name": "Fall On Us (Live) (2023 Remastered)",
       "url": "https://open.spotify.com/track/0PMUHW36HY9AwLVpxagjx9"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Jehovah Ngiyabonga",
+        "url": "https://open.spotify.com/album/1PmboZPhLlapJIGYhz42ZD"
+      },
+      "artists": [
+        {
+          "name": "Deborah Fraser",
+          "url": "https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Jehovah Ngiyabonga",
+      "url": "https://open.spotify.com/track/2oelkq0zqxdXqMRv7T4CoY"
     },
     {
       "added_at": "2023-06-02 00:01:00",
@@ -897,22 +1041,6 @@
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Glory in His Presence",
-        "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dube",
-          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
-        }
-      ],
-      "duration_ms": 655253,
-      "name": "Bow Down and Worship - Live",
-      "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
-    },
-    {
       "added_at": "2023-02-21 14:33:20",
       "album": {
         "name": "Hosanna",
@@ -959,22 +1087,6 @@
       "duration_ms": 292346,
       "name": "Living Waters",
       "url": "https://open.spotify.com/track/01fqKF13vPT1nnfFtDob60"
-    },
-    {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
-        "name": "Victorious in His Presence",
-        "url": "https://open.spotify.com/album/3f4jEnTgYErjDKNdmYtBWP"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dube",
-          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
-        }
-      ],
-      "duration_ms": 486186,
-      "name": "He Keeps on Doing - Live",
-      "url": "https://open.spotify.com/track/3W4cz3OHnncxrl0Oyl1eq1"
     },
     {
       "added_at": "2023-02-21 14:33:20",

@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-257 songs - 15 hr 30 min
+258 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Not So Different \- Edit](https://open.spotify.com/track/09cZTC0Tb07Cdzn7fxGG97) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [City of All](https://open.spotify.com/album/3Amiu5xlsAaGIqI4a2P3pL) | 3:37 | 2022-09-09 | 2023-03-09 |
 | [Not so Different \- Edit](https://open.spotify.com/track/6UPJtnnTuJz8MJyZTL32xs) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [City of All](https://open.spotify.com/album/4SGcWgxpJ0rsBtBXbuQEZg) | 3:37 | 2023-03-07 |  |
 | [Notice \- JAEL Remix](https://open.spotify.com/track/3LajO5iOdo33VeuTMFAmd1) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Notice \(JAEL Remix\)](https://open.spotify.com/album/6HCwdcors78gDFgeUCiDja) | 3:38 | 2022-09-09 |  |
+| [OASIS \(Demo 22.03.2022\)](https://open.spotify.com/track/3ZVVuGFulJfxMCG7RauGhp) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [OASIS](https://open.spotify.com/album/1t6WPyaoHQmCugRRvT32RW) | 4:32 | 2023-06-29 |  |
 | [Omw](https://open.spotify.com/track/3LqH8V4gEdmuH0mUjbceRc) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3oTm4bLIjyXK7IcO7o0WSI) | 3:58 | 2022-09-09 | 2022-10-13 |
 | [Omw](https://open.spotify.com/track/7CanFKpPTEgaxqIu6RXBIf) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 3:58 | 2022-10-12 |  |
 | [On + On \(with Justine Skye\)](https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Breathwork](https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0) | 2:49 | 2023-06-15 |  |

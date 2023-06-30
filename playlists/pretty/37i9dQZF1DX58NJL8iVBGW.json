@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 564191,
+  "num_followers": 564393,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWFlMTNlNmQ5ZTVhMjJkNTNhZTExY2RhYjU0Y2VkMTcyNmMxNGU5",
+  "snapshot_id": "MCw1MTk4MWM2M2QxMTFkYWUwZDVkYzlmYmM0ZTIxM2QyNGI2MGM3OGI4",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Heart Of My Own",
-        "url": "https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Heart Of My Own",
-      "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "An Honest Man",
         "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 246177,
       "name": "An Honest Man",
       "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Heart Of My Own",
+        "url": "https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Heart Of My Own",
+      "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Parker Millsap",
-        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
       "artists": [
         {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Old Time Religion",
-      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
+      "duration_ms": 150293,
+      "name": "Things That Scare Me",
+      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+        "name": "Parker Millsap",
+        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
       },
       "artists": [
         {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
         }
       ],
-      "duration_ms": 150293,
-      "name": "Things That Scare Me",
-      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
+      "duration_ms": 234000,
+      "name": "Old Time Religion",
+      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "I'll Never Get out of This World Alive",
-        "url": "https://open.spotify.com/album/4TpbQA23m33nGTWzWBkuZy"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "Meet Me in the Alleyway",
-      "url": "https://open.spotify.com/track/1m4E3gYFqZ0RTxGlZWxP7k"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "From Eden EP",
         "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 229666,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "I'll Never Get out of This World Alive",
+        "url": "https://open.spotify.com/album/4TpbQA23m33nGTWzWBkuZy"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "Meet Me in the Alleyway",
+      "url": "https://open.spotify.com/track/1m4E3gYFqZ0RTxGlZWxP7k"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
         }
       ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+      "duration_ms": 177306,
+      "name": "Fault Line",
+      "url": "https://open.spotify.com/track/1mLlfRGoI7a6qbvyH0Bh2A"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT"
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
       "artists": [
         {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         }
       ],
-      "duration_ms": 177306,
-      "name": "Fault Line",
-      "url": "https://open.spotify.com/track/1mLlfRGoI7a6qbvyH0Bh2A"
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 223493,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Horehound",
-        "url": "https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO"
-      },
-      "artists": [
-        {
-          "name": "The Dead Weather",
-          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
-        }
-      ],
-      "duration_ms": 380160,
-      "name": "Will There Be Enough Water?",
-      "url": "https://open.spotify.com/track/3VYbLgJNS7Jr7YlatA0lNe"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "William Crighton",
         "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 264937,
       "name": "Priest",
       "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Horehound",
+        "url": "https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO"
+      },
+      "artists": [
+        {
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+        }
+      ],
+      "duration_ms": 380160,
+      "name": "Will There Be Enough Water?",
+      "url": "https://open.spotify.com/track/3VYbLgJNS7Jr7YlatA0lNe"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Quiet Flame",
+        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 242153,
+      "name": "Pull the Moon",
+      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Put Your Needle Down",
         "url": "https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 220626,
       "name": "Psalms",
       "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Quiet Flame",
-        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 242153,
-      "name": "Pull the Moon",
-      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Hell Among The Yearlings",
-        "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "The Devil Had A Hold Of Me",
-      "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "The Longest Day",
         "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 270228,
       "name": "Highway 9",
       "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Hell Among The Yearlings",
+        "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "The Devil Had A Hold Of Me",
+      "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
     },
     {
       "added_at": "2023-06-23 04:00:00",

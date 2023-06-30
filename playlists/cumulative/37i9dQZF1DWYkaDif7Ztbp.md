@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=RcsDBtJGQX2iooFd2ZriXQ"> Fireboy DML </a>
+> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=5ZNGgmdPQCmcLY32iMB0Ng"> Omah Lay </a>
 
 307 songs - 18 hr 22 min
 

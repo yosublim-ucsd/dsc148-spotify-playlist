@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 109967,
+  "num_followers": 109979,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2EwMTFkMjA1OWE4ODE0NzFjMmZhZWYyYmI4NTY2NWFiMDU4OTMz",
+  "snapshot_id": "MCxjM2JjMWJkNGIwNGY5YTNmY2MwYTljMjYxNDQ2ZjZjY2YxOTcxNDU1",
   "tracks": [
     {
       "added_at": "2023-06-22 16:59:50",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
-        "name": "Petite plage",
-        "url": "https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Les \u00e9pousailles",
-      "url": "https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp"
-    },
-    {
-      "added_at": "2023-06-22 16:59:50",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 179773,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
+    },
+    {
+      "added_at": "2023-06-22 16:59:50",
+      "album": {
+        "name": "Petite plage",
+        "url": "https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Les \u00e9pousailles",
+      "url": "https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp"
     },
     {
       "added_at": "2023-06-22 16:59:50",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
+        "name": "This Time I See It",
+        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 220213,
+      "name": "Understand It",
+      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
+    },
+    {
+      "added_at": "2023-06-22 16:59:50",
+      "album": {
         "name": "Pers\u00e9ides",
         "url": "https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
-        "name": "This Time I See It",
-        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 220213,
-      "name": "Understand It",
-      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
-    },
-    {
-      "added_at": "2023-06-22 16:59:50",
-      "album": {
         "name": "\u00c9chapper \u00e0 la nuit",
         "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 215506,
       "name": "Antigone",
       "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
-    },
-    {
-      "added_at": "2023-06-22 16:59:50",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Closely",
-      "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
     },
     {
       "added_at": "2023-06-22 16:59:50",
@@ -835,6 +819,22 @@
       "duration_ms": 207133,
       "name": "Dans tes bras",
       "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
+    },
+    {
+      "added_at": "2023-06-22 16:59:50",
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Closely",
+      "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
     },
     {
       "added_at": "2023-06-22 16:59:50",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
-    },
-    {
-      "added_at": "2023-06-22 16:59:50",
-      "album": {
         "name": "C'est Plus Comme Avant (Version Acoustique)",
         "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
       },
@@ -931,22 +915,6 @@
       "duration_ms": 191280,
       "name": "Le vent se l\u00e8ve",
       "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
-    },
-    {
-      "added_at": "2023-06-22 16:59:50",
-      "album": {
-        "name": "La vraie nature - Chansons par Pilou",
-        "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
-      },
-      "artists": [
-        {
-          "name": "Pilou",
-          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "Passagers",
-      "url": "https://open.spotify.com/track/41apzFxQ6xPFWMsut29O1J"
     },
     {
       "added_at": "2023-06-22 16:59:50",
@@ -987,6 +955,38 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
+        "name": "La vraie nature - Chansons par Pilou",
+        "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
+      },
+      "artists": [
+        {
+          "name": "Pilou",
+          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
+        }
+      ],
+      "duration_ms": 231360,
+      "name": "Passagers",
+      "url": "https://open.spotify.com/track/41apzFxQ6xPFWMsut29O1J"
+    },
+    {
+      "added_at": "2023-06-22 16:59:50",
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+    },
+    {
+      "added_at": "2023-06-22 16:59:50",
+      "album": {
         "name": "Les choses ext\u00e9rieures",
         "url": "https://open.spotify.com/album/3RLBT6Do3B4ZbX5eJBdCH0"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
-    },
-    {
-      "added_at": "2023-06-22 16:59:50",
-      "album": {
         "name": "Les joailliers (piano, voix)",
         "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 197111,
       "name": "Les joailliers (piano, voix)",
       "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+    },
+    {
+      "added_at": "2023-06-22 16:59:50",
+      "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2023-06-22 16:59:50",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
-        "name": "Valhalla Dancer",
-        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Valhalla Dancer",
-      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
-    },
-    {
-      "added_at": "2023-06-22 16:59:50",
-      "album": {
         "name": "Dans la for\u00eat num\u00e9rique",
         "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 205386,
       "name": "Californie",
       "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
+    },
+    {
+      "added_at": "2023-06-22 16:59:50",
+      "album": {
+        "name": "Valhalla Dancer",
+        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Valhalla Dancer",
+      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
     },
     {
       "added_at": "2023-06-22 16:59:50",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
-        "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
-        "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
+        "name": "M\u00e8res",
+        "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
       },
       "artists": [
         {
-          "name": "Charlie Winston",
-          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
-        },
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
         }
       ],
-      "duration_ms": 187893,
-      "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
-      "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
+      "duration_ms": 273933,
+      "name": "M\u00e8res",
+      "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
     },
     {
       "added_at": "2023-06-22 16:59:50",
@@ -1355,18 +1351,22 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
-        "name": "M\u00e8res",
-        "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
+        "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
+        "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+        },
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
         }
       ],
-      "duration_ms": 273933,
-      "name": "M\u00e8res",
-      "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
+      "duration_ms": 187893,
+      "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
+      "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
     },
     {
       "added_at": "2023-06-22 16:59:50",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
-        "name": "La fum\u00e9e des bougies",
-        "url": "https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp"
-      },
-      "artists": [
-        {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "La fum\u00e9e des bougies",
-      "url": "https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL"
-    },
-    {
-      "added_at": "2023-06-22 16:59:50",
-      "album": {
         "name": "SESSION LIVE H2T",
         "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
-        "name": "New Waves (Live Recordings \u201919-\u201921)",
-        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
+        "name": "La fum\u00e9e des bougies",
+        "url": "https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
         }
       ],
-      "duration_ms": 430506,
-      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
-      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
+      "duration_ms": 237000,
+      "name": "La fum\u00e9e des bougies",
+      "url": "https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL"
     },
     {
       "added_at": "2023-06-22 16:59:50",
@@ -1567,6 +1551,22 @@
       "duration_ms": 149015,
       "name": "Elle danse",
       "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
+    },
+    {
+      "added_at": "2023-06-22 16:59:50",
+      "album": {
+        "name": "New Waves (Live Recordings \u201919-\u201921)",
+        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 430506,
+      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
+      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
     },
     {
       "added_at": "2023-06-22 16:59:50",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-06-22 16:59:50",
       "album": {
+        "name": "Heaven, Wait (Deluxe)",
+        "url": "https://open.spotify.com/album/2Kl2yXaVhbU6pQbi5yHD2c"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 199794,
+      "name": "Carry Me (Acoustic)",
+      "url": "https://open.spotify.com/track/1ZKj7bESDaRueWtgUF9r3e"
+    },
+    {
+      "added_at": "2023-06-22 16:59:50",
+      "album": {
         "name": "L\u00e9g\u00e8rement",
         "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 207338,
       "name": "Insensible",
       "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
-    },
-    {
-      "added_at": "2023-06-22 16:59:50",
-      "album": {
-        "name": "The Paradise Club",
-        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
-      },
-      "artists": [
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "1000 Bornes",
-      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

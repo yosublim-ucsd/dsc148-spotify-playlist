@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,543 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,541 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 49 | [Another Lonely Christmas](https://open.spotify.com/track/26F1nzp6tCtXsiDcBCfZcg) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ) | 4:53 |
 | 50 | [The Little Boy That Santa Claus Forgot \- 1990 Remaster](https://open.spotify.com/track/4nYhFybm5G4ETNt19pcKzs) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole, Christmas & Kids](https://open.spotify.com/album/6L559yGVxmFOW8ViMMbWI1) | 2:33 |
 
-Snapshot ID: `MCxhYTFkZDA5ODFmMGQ3NzI3NTI0YmE2ZWQ1YWIzMGFmZjZkYzY5MTMx`
+Snapshot ID: `MCw4ZjAzMGIwNDQ2ZTExYjE2YTFkNjg4ODg4OWY4ZDk5YWNjOTQ2ZTE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,864 likes - 100 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,964 likes - 100 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 18 | [Oxygene, Pt\. 3](https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 3:16 |
 | 19 | [First Chakra Keynote C \(Red\) \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc) | 2:51 |
 | 20 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 |
-| 21 | [Timeless](https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 11:57 |
-| 22 | [Music for Gymnastics](https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS) | 24:17 |
+| 21 | [Music for Gymnastics](https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS) | 24:17 |
+| 22 | [Timeless](https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 11:57 |
 | 23 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
 | 24 | [To the Unknown Man](https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Spiral](https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX) | 9:06 |
 | 25 | [Behind the Gardens, Behind the Wall, Under the Tree...](https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO) | [Andreas Vollenweider](https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp), [Walter Keiser](https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX), [Pedro Haldemann](https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2) | [Behind the Gardens, Behind the Wall, Under the Tree...](https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k) | 7:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Inside Celeste](https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S) | 2:57 |
 | 100 | [Part One](https://open.spotify.com/track/7CQFDhAbz7zLvtNcsl3qAB) | [Master Wilburn Burchette](https://open.spotify.com/artist/2EefjxRUX7kaLEifrs6jG1) | [Transcendental Music for Meditation](https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB) | 15:10 |
 
-Snapshot ID: `MCwxYzNlOGNmM2YyZjY0ZTYwMzlkMjkyNTJhMTU0ZDQ0ODkyYzg2M2Ni`
+Snapshot ID: `MCw3NGQyZTUxZWM5NWE4YjNhYmY1ODdiYmMxODg0OTM0ZDhjMjg2ZDk4`

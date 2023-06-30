@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Jamie T
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,040 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,166 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 33 | [somebody to talk about](https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [somebody to talk about](https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA) | 3:19 |
 | 34 | [Blisters](https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Blisters](https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP) | 2:59 |
 | 35 | [Another Round](https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Another Round](https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D) | 5:07 |
-| 36 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 |
-| 37 | [One More Night With No One](https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [One More Night With No One](https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7) | 3:20 |
+| 36 | [One More Night With No One](https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [One More Night With No One](https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7) | 3:20 |
+| 37 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 |
 | 38 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 |
 | 39 | [Sertraline](https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK) | [The Lottery Winners](https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b) | [Anxiety Replacement Therapy](https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu) | 3:06 |
 | 40 | [Lovers Come and Lovers Go](https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Lovers Come and Lovers Go](https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS) | 2:39 |
-| 41 | [3AM](https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [3AM](https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx) | 3:31 |
+| 41 | [Hometown](https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP) | 4:52 |
 | 42 | [Cavalryman](https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Cavalryman](https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt) | 3:13 |
-| 43 | [Hometown](https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP) | 4:52 |
-| 44 | [Good Luck Charm](https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [Good Luck Charm](https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf) | 3:07 |
-| 45 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
+| 43 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
+| 44 | [3AM](https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [3AM](https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx) | 3:31 |
+| 45 | [Good Luck Charm](https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [Good Luck Charm](https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf) | 3:07 |
 | 46 | [I Let Go](https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Let Go](https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N) | 2:21 |
 | 47 | [Wide Asleep](https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wide Asleep](https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64) | 4:12 |
 | 48 | [Just Move](https://open.spotify.com/track/64fVObugIv5tiWtN6LhCRf) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/1g5uEvVcsGl0nMRjGRcGy6) | 3:06 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 58 | [Things Ain't Always What They Seem](https://open.spotify.com/track/3sUVfJ3HLD24ZluLjWnFJu) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Bilk](https://open.spotify.com/album/0FAWcffpYAfrKGmv9yxd2J) | 3:57 |
 | 59 | [Isn't](https://open.spotify.com/track/5kD48GFbfBOUEXMXyfhnWr) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Isn't](https://open.spotify.com/album/6uIUWQiVY2uoHvXT779jdv) | 3:47 |
 | 60 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 |
-| 61 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 |
-| 62 | [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 |
+| 61 | [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 |
+| 62 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 |
 | 63 | [Sheila](https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Panic Prevention](https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T) | 4:19 |
 | 64 | [Lets Stay out Tonight](https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Emergency \(15 Year Anniversary Version\)](https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS) | 2:34 |
 | 65 | [Hummus and Pitta](https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Hummus and Pitta](https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v) | 2:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 79 | [Feels So Real](https://open.spotify.com/track/3FT6FDtU2POsP0XAcqtAsh) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [The Clockworks](https://open.spotify.com/album/5yy6SxQG6UFCXMP6wDAUJR) | 3:32 |
 | 80 | [Ritual Of The Crocodile Men](https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Electric Kool\-Aid \(Pt\. 2\)](https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI) | 3:57 |
 
-Snapshot ID: `MCxhNGJjZjZmZTBjYmM1YzczMDJhMTUzYmRmNmY4NjI5MWNhNTA4MTVj`
+Snapshot ID: `MCxjMjQwMTQxZjM2MGU2NjBkYzY5Yzg5ZmU0NzU5MDgyZDQ5ZmVlMTIz`

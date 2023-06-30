@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "Pedro Activated",
+        "url": "https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W"
+      },
+      "artists": [
+        {
+          "name": "Top5",
+          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
+    },
+    {
+      "album": {
         "name": "Add It Up",
         "url": "https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7"
       },
@@ -2126,7 +2152,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 199302,
       "name": "Write Your Name",
       "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"

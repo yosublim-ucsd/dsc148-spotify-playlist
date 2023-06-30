@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Chris Brown
 
-1,178 songs - 2 day 15 hr 1 min
+1,179 songs - 2 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,7 +811,8 @@
 | [Plus Minus \(with Erick the Architect\)](https://open.spotify.com/track/29sSLYkzMUXyQ4n8oiSiyO) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Plus Minus \(with Erick the Architect\)](https://open.spotify.com/album/1haZzAWvsHon4W3Usy8zoc) | 3:22 | 2022-03-18 | 2022-04-16 |
 | [Poed Up](https://open.spotify.com/track/4RvJeTlBaWDSEOqVSBIk1f) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Poed Up](https://open.spotify.com/album/0KqGvl9LbFqKEZgxqy4azU) | 3:19 | 2023-03-10 | 2023-05-20 |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2021-12-17 | 2022-02-05 |
-| [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-02 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 | 2023-06-02 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-02 | 2023-06-30 |
 | [Positive](https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Positive](https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC) | 3:31 | 2022-03-18 | 2022-04-09 |
 | [Power To The P](https://open.spotify.com/track/4j63ho8KkjNLx9PInIcgyQ) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [Power To The P](https://open.spotify.com/album/57xnaHv0aE8h5teklV2Rmj) | 2:05 | 2021-12-24 | 2022-03-12 |
 | [PPL](https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [PPL](https://open.spotify.com/album/1xpCtREzKaMD49H0qoeaGk) | 3:14 | 2022-10-28 | 2022-12-17 |

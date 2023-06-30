@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-331 songs - 1 day 3 hr 56 min
+332 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Glimmer](https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj) | [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Burst / Glimmer](https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb) | 5:16 | 2022-03-18 |  |
 | [God's Country](https://open.spotify.com/track/7pa7G9qszdLfdkrFIdhgIw) | [Feral](https://open.spotify.com/artist/5DsrGhHrqGPbRsU93R9H5A) | [God's Country](https://open.spotify.com/album/4doG8lWaRW1488oZwTA6Z9) | 3:27 | 2021-12-26 |  |
 | [Gold](https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 2:13 | 2021-12-26 |  |
+| [Golden Apples Of The Sun](https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy) | 4:33 | 2023-06-29 |  |
 | [Govenek](https://open.spotify.com/track/3HT7p7MSUFJwD9MlAA4kaP) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Claire's Lane](https://open.spotify.com/album/5fcy2JXXX8xhJdtsobGnzh) | 1:28 | 2022-05-06 |  |
 | [GRV Tr 5](https://open.spotify.com/track/1ynoJzY6xN6eKr9kR7IGYu) | [TV Victor](https://open.spotify.com/artist/0djRJ1zrkgq8sN17i9NysU) | [GRV, Vol\. 3](https://open.spotify.com/album/4AtCjI23fzcNJopMAyye7w) | 5:44 | 2022-01-14 | 2022-07-26 |
 | [GRV Tr 5](https://open.spotify.com/track/61Mg9i2VCSyqi6M3HdI6VY) | [TV Victor](https://open.spotify.com/artist/0djRJ1zrkgq8sN17i9NysU) | [GRV, Vol\. 3](https://open.spotify.com/album/6ZuQNAXKAVdBMzcPn3SdfX) | 5:44 | 2022-12-30 | 2023-01-29 |
@@ -262,7 +263,7 @@
 | [Sleepless](https://open.spotify.com/track/7KB4CfwXx6fdzGvLo4JKsW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 3:05 | 2023-03-23 |  |
 | [Solace](https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Opal](https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl) | 2:44 | 2023-01-20 |  |
 | [Solace](https://open.spotify.com/track/36KdtPFaNf5agHpqQqE7ka) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Solace](https://open.spotify.com/album/60xW167qnSy1Uukg6g6Mce) | 2:44 | 2022-04-01 | 2023-01-27 |
-| [Solstice](https://open.spotify.com/track/2A2KhiDjc7NXsqhuMyKXp9) | [SVLBRD](https://open.spotify.com/artist/40SVMdCuPtqI6suYOG3Qk0) | [Solstice](https://open.spotify.com/album/5In0aQDAEJHdrI4oxgzdtX) | 8:00 | 2021-12-26 |  |
+| [Solstice](https://open.spotify.com/track/2A2KhiDjc7NXsqhuMyKXp9) | [SVLBRD](https://open.spotify.com/artist/40SVMdCuPtqI6suYOG3Qk0) | [Solstice](https://open.spotify.com/album/5In0aQDAEJHdrI4oxgzdtX) | 8:00 | 2021-12-26 | 2023-06-30 |
 | [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 | 2022-05-06 |  |
 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 | 2022-04-01 |  |
 | [Stapler](https://open.spotify.com/track/54ZttkOfyEW4JVZblFopLt) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Stapler](https://open.spotify.com/album/2lvi6nRKSPfzIVlRw5fyb3) | 3:41 | 2021-12-26 | 2022-01-25 |

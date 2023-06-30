@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,703 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,709 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 26 | [Sweet Tooth](https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Sweet Tooth](https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq) | 2:11 |
 | 27 | [Ramble No More](https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Ramble No More](https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC) | 2:55 |
 | 28 | [Love Sick](https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L) | [The Dust Coda](https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP) | [Love Sick](https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ) | 4:34 |
-| 29 | [Buffalo Road](https://open.spotify.com/track/6iSopPflVbtSJjLRCmksfl) | [Gabe Carter](https://open.spotify.com/artist/57rLxwICLUV38lrrMrQROd) | [Buffalo Road](https://open.spotify.com/album/29p1rFGBhwEVQf5BYS0heD) | 2:58 |
-| 30 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 2:50 |
+| 29 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 2:50 |
+| 30 | [Buffalo Road](https://open.spotify.com/track/6iSopPflVbtSJjLRCmksfl) | [Gabe Carter](https://open.spotify.com/artist/57rLxwICLUV38lrrMrQROd) | [Buffalo Road](https://open.spotify.com/album/29p1rFGBhwEVQf5BYS0heD) | 2:58 |
 | 31 | [Broken Lines](https://open.spotify.com/track/5mtGGswKLHP5o2piJtMepK) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Miracles](https://open.spotify.com/album/0J0KUFFKsjbeuUKpQS0NSK) | 5:22 |
 | 32 | [A Good Thing](https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8) | [Handsome Jack](https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr) | [A Good Thing](https://open.spotify.com/album/57syR4Vje7gemU7560rhtl) | 3:34 |
 | 33 | [Good Love Goes Bad](https://open.spotify.com/track/4SAdnN5F4nOZW0R1CjwYDv) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Good Love Goes Bad](https://open.spotify.com/album/0s1mtwlKIxnASFrd442eW9) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 49 | [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 |
 | 50 | [Cassanova Kirk Daniel](https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3) | [Mittch](https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV) | [Cassanova Kirk Daniel](https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR) | 3:23 |
 
-Snapshot ID: `MCwxYWQ1MWUzZjgzNjUwNTk5OWNhM2NhNmZkMGQ4OTMyNTczYjQ0Zjlh`
+Snapshot ID: `MCw4MTkzOGU2OWVjZjcyMDg4YzMzYzFhNzU1ODkwNzZiMjFmNWQwMjE4`

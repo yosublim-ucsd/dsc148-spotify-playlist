@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Kodak Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,454 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,627 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [No Degrees](https://open.spotify.com/track/3h8eogxxBl7nO0PakCictQ) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Trick City \(Deluxe\)](https://open.spotify.com/album/0s9ht3evRG374jM3oBzQua) | 2:39 |
 | 100 | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/track/1GyoJBAjrIkVkPdcl7yCn3) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/album/5ikRefLmkwyGl5UEVyQTCX) | 2:16 |
 
-Snapshot ID: `MCw1YzRlMjRjMGU4MDZhMWZkMzY3YjRmODZkNzg4N2QxMWVhNTI3Yjgw`
+Snapshot ID: `MCw3Y2NhNGNkZWZiZDk4ZGRhN2ViNjUyZjIwNWVhNDkyZWUwYTI5MjU4`

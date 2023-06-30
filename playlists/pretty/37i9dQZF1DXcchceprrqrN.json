@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 42893,
+  "num_followers": 43087,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2EzYzA0MWVlZmM3NmNkZTQ3NGNhMjFiMTM4YmIwYzdjM2FlYTQ3",
+  "snapshot_id": "MCw2MWM4MTVhOTNlMzAyMjY0Y2U2ZDNmOTYwYTU5ZGQ0MWQ1MTJlZDEz",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -531,6 +531,30 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "call and i'll answer",
+        "url": "https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        },
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "duration_ms": 166605,
+      "name": "call and i'll answer",
+      "url": "https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "I Wish I Was Stephen Malkmus",
         "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
       },
@@ -691,22 +715,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Very High",
-        "url": "https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb"
-      },
-      "artists": [
-        {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
-        }
-      ],
-      "duration_ms": 114872,
-      "name": "Very High",
-      "url": "https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "<COPINGMECHANISM>",
         "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
       },
@@ -739,26 +747,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "call and i'll answer",
-        "url": "https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32"
+        "name": "Very High",
+        "url": "https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb"
       },
       "artists": [
         {
-          "name": "Godly the Ruler",
-          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
-        },
-        {
-          "name": "SAIAH",
-          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
-        },
-        {
-          "name": "Brevin Kim",
-          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
         }
       ],
-      "duration_ms": 166605,
-      "name": "call and i'll answer",
-      "url": "https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR"
+      "duration_ms": 114872,
+      "name": "Very High",
+      "url": "https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR"
     },
     {
       "added_at": "2023-06-02 04:00:00",

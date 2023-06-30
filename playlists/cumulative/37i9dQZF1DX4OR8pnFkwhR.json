@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "BETTY",
+        "url": "https://open.spotify.com/album/2R4WxFjANEHlSQ1X3abj6N"
+      },
+      "artists": [
+        {
+          "name": "Takumadrops",
+          "url": "https://open.spotify.com/artist/469no6YyPirEUGHqqqyINS"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259713,
+      "name": "BETTY",
+      "url": "https://open.spotify.com/track/1sZMEQ5l9HCmasdqtxd5hY"
+    },
+    {
+      "album": {
         "name": "Beyond the Night",
         "url": "https://open.spotify.com/album/6E6CLind3kGwGWeLTbUkK6"
       },
@@ -4288,7 +4306,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 191264,
       "name": "instability boy",
       "url": "https://open.spotify.com/track/3wIvBFccIp5N08GcW9sV2O"
@@ -4872,7 +4890,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 192294,
       "name": "Legit Soul",
       "url": "https://open.spotify.com/track/2iCz8FwmzC6BZlt2FHqFrc"
@@ -11202,6 +11220,24 @@
       "duration_ms": 238000,
       "name": "\u3068\u308a\u3068\u3081\u3082\u306a\u304f",
       "url": "https://open.spotify.com/track/3HlG8qaLe6CurV3AoFgzrs"
+    },
+    {
+      "album": {
+        "name": "\u3068\u3093\u307c\u7389\u3002",
+        "url": "https://open.spotify.com/album/5LlbA6Chr7ulmyhJiuTF0F"
+      },
+      "artists": [
+        {
+          "name": "\u8fd1\u77f3\u6dbc",
+          "url": "https://open.spotify.com/artist/0ZjetwSL2QOrWNJmMhl6AV"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231435,
+      "name": "\u3068\u3093\u307c\u7389\u3002",
+      "url": "https://open.spotify.com/track/2IJ3Pt1bSxifAaFtNuxZeJ"
     },
     {
       "album": {

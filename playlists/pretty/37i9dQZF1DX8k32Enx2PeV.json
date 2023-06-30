@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 6393,
+  "num_followers": 6412,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzZkNjZjZDgzMWUwNjNhNDgyNmNlNzk0ODdmYzQ3NDI1NGI2MWY0",
+  "snapshot_id": "MCw0ZWQyNzEzYzdlY2RkMDBlY2FiNzc0NWJjOTJhYjdkNmExZmI3NTM2",
   "tracks": [
     {
       "added_at": "2023-06-16 05:23:44",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-06-16 05:23:44",
       "album": {
+        "name": "Te Quiero Olvidar",
+        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
+    },
+    {
+      "added_at": "2023-06-16 05:23:44",
+      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
-    {
-      "added_at": "2023-06-16 05:23:44",
-      "album": {
-        "name": "Te Quiero Olvidar",
-        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
     },
     {
       "added_at": "2023-06-16 05:23:44",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-16 05:23:44",
       "album": {
-        "name": "Rumbo a Tiera",
-        "url": "https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Tumbamurallas",
-      "url": "https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9"
-    },
-    {
-      "added_at": "2023-06-16 05:23:44",
-      "album": {
         "name": "Renacido",
         "url": "https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 225304,
       "name": "Este Momento",
       "url": "https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX"
+    },
+    {
+      "added_at": "2023-06-16 05:23:44",
+      "album": {
+        "name": "Rumbo a Tiera",
+        "url": "https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Tumbamurallas",
+      "url": "https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9"
     },
     {
       "added_at": "2023-06-16 05:23:44",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-06-16 05:23:44",
       "album": {
-        "name": "Ese Dinero",
-        "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
-      },
-      "artists": [
-        {
-          "name": "Nia Vanie",
-          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
-        }
-      ],
-      "duration_ms": 238648,
-      "name": "Ese Dinero",
-      "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
-    },
-    {
-      "added_at": "2023-06-16 05:23:44",
-      "album": {
         "name": "Calz\u00f3n",
         "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 231828,
       "name": "Calz\u00f3n",
       "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
+    },
+    {
+      "added_at": "2023-06-16 05:23:44",
+      "album": {
+        "name": "Ese Dinero",
+        "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
+      },
+      "artists": [
+        {
+          "name": "Nia Vanie",
+          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
+        }
+      ],
+      "duration_ms": 238648,
+      "name": "Ese Dinero",
+      "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
     },
     {
       "added_at": "2023-06-16 05:23:44",

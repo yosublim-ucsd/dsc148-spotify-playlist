@@ -569,6 +569,28 @@
     },
     {
       "album": {
+        "name": "Der Hacker",
+        "url": "https://open.spotify.com/album/2cBlpBWtJLMIcIOoAsn548"
+      },
+      "artists": [
+        {
+          "name": "Turku Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3h0163xqtTl2XIAisrYZSV"
+        },
+        {
+          "name": "Tero Lindberg",
+          "url": "https://open.spotify.com/artist/2PK6WedjSwfpSVyVZN4T5f"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354786,
+      "name": "Der Hacker",
+      "url": "https://open.spotify.com/track/422a4puuho0yE1XMHEQ1yx"
+    },
+    {
+      "album": {
         "name": "Duke",
         "url": "https://open.spotify.com/album/5Ypwfjq7GbjGHXYiKeLxeN"
       },
@@ -1208,7 +1230,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 251156,
       "name": "Let Loose",
       "url": "https://open.spotify.com/track/10Rj5XNphUyBgykNwFjinP"
@@ -2052,6 +2074,24 @@
       "duration_ms": 491152,
       "name": "Siskolle",
       "url": "https://open.spotify.com/track/1MZFxoyX9Ya7Dp2gduP61z"
+    },
+    {
+      "album": {
+        "name": "Something About Us",
+        "url": "https://open.spotify.com/album/1TboFMYUz8WDPJYIbMpRsW"
+      },
+      "artists": [
+        {
+          "name": "Pekka Toivonen Ensemble",
+          "url": "https://open.spotify.com/artist/2Ytiu2KW3rafQmSJl5J0rF"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308930,
+      "name": "Something About Us",
+      "url": "https://open.spotify.com/track/4LFzdxh0KGkjfZlFeRSsoG"
     },
     {
       "album": {

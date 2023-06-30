@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 492091,
+  "num_followers": 492256,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOThkYmVjNjRjNzQ3ZjFkYWY5YTRkMmU4NjgzZjg2ZjBhYzFkNzk2",
+  "snapshot_id": "MCxiMjJmN2E3Zjk4NDNiODA4NTMzZmUzZTIzMjViMGIxNjdlYzc0MmI4",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 214706,
       "name": "willow",
       "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 191173,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/6CLVh9sekZ1p2G8Tfhhj8h"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1201,24 +1201,20 @@
       "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
-      "added_at": "2023-04-14 07:38:09",
+      "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "3000\u00b0",
-        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
+        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
+        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
       },
       "artists": [
         {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 202755,
-      "name": "I'm Baby (ft. Jvck James)",
-      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
+      "duration_ms": 211715,
+      "name": "Hold My Girl (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1237,20 +1233,24 @@
       "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
+      "added_at": "2023-04-14 07:38:09",
       "album": {
-        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
-        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
+        "name": "3000\u00b0",
+        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
         }
       ],
-      "duration_ms": 211715,
-      "name": "Hold My Girl (Acoustic Version)",
-      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+      "duration_ms": 202755,
+      "name": "I'm Baby (ft. Jvck James)",
+      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "I Cry When I Laugh",
-        "url": "https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 265381,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 246053,
       "name": "Fade",
       "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "I Cry When I Laugh",
+        "url": "https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 265381,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Crowded Places",
+        "url": "https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 262259,
+      "name": "Crowded Places",
+      "url": "https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Crowded Places",
-        "url": "https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 262259,
-      "name": "Crowded Places",
-      "url": "https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1993,22 +1993,6 @@
       "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
     },
     {
-      "added_at": "2023-04-21 11:56:43",
-      "album": {
-        "name": "$weet n $our",
-        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "$weet n $our",
-      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Heartbeat",
@@ -2023,6 +2007,22 @@
       "duration_ms": 200373,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee"
+    },
+    {
+      "added_at": "2023-04-21 11:56:43",
+      "album": {
+        "name": "$weet n $our",
+        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "$weet n $our",
+      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/2NqU0KLx0Wp0dYZywmV55z"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 250701,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/1CxR9OHSHSxl8kgSl5HViD"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Super",
         "url": "https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 182562,
       "name": "Wish I Was Right For You",
       "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/2NqU0KLx0Wp0dYZywmV55z"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 250701,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/1CxR9OHSHSxl8kgSl5HViD"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Lightyears",
-        "url": "https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9"
-      },
-      "artists": [
-        {
-          "name": "David Ryan Harris",
-          "url": "https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo"
-        }
-      ],
-      "duration_ms": 250893,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Animals",
         "url": "https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 230250,
       "name": "Animals - Unplugged Version",
       "url": "https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Lightyears",
+        "url": "https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9"
+      },
+      "artists": [
+        {
+          "name": "David Ryan Harris",
+          "url": "https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo"
+        }
+      ],
+      "duration_ms": 250893,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc"
     },
     {
       "added_at": "2023-02-10 11:00:00",

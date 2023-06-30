@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Coupdekat",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Issey Cross",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -380,6 +380,24 @@
       "duration_ms": 192130,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
+    },
+    {
+      "album": {
+        "name": "Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166778,
+      "name": "Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
     },
     {
       "album": {

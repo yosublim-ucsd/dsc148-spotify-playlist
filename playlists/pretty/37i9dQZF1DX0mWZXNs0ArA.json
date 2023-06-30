@@ -1,12 +1,12 @@
 {
   "description": "150%",
-  "num_followers": 1586593,
+  "num_followers": 1588980,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzE0MDMwYzUwZTY2YWRmOTVkZWE1MTlmMDM0ODNjMTBlYmI0NjBh",
+  "snapshot_id": "MCw4NTc4MzMzZjdlNDI2NGI2Y2E4MThiMjJlY2NiOGE5YWZlY2NhOTk3",
   "tracks": [
     {
       "added_at": "2023-05-22 14:41:15",
@@ -23,42 +23,6 @@
       "duration_ms": 145200,
       "name": "Cupid \u2013 Twin Ver. (FIFTY FIFTY) \u2013 Sped Up Version",
       "url": "https://open.spotify.com/track/3B228N0GxfUCwPyfNcJxps"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
-        "name": "Collide (Remix Pack)",
-        "url": "https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 221168,
-      "name": "Collide (Sped Up Remix)",
-      "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
-    },
-    {
-      "added_at": "2023-05-25 16:25:47",
-      "album": {
-        "name": "Say Yes To Heaven",
-        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 156116,
-      "name": "Say Yes To Heaven - Sped Up",
-      "url": "https://open.spotify.com/track/2f5WkystuejnBzgV18GTGa"
     },
     {
       "added_at": "2023-05-22 14:41:15",
@@ -83,6 +47,26 @@
     {
       "added_at": "2023-05-22 14:41:15",
       "album": {
+        "name": "Collide (Remix Pack)",
+        "url": "https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 221168,
+      "name": "Collide (Sped Up Remix)",
+      "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
+    },
+    {
+      "added_at": "2023-05-22 14:41:15",
+      "album": {
         "name": "Escapism.",
         "url": "https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q"
       },
@@ -99,6 +83,102 @@
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz"
+    },
+    {
+      "added_at": "2023-06-29 19:14:15",
+      "album": {
+        "name": "Those Eyes (Alternate Versions)",
+        "url": "https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 167658,
+      "name": "Those Eyes - Sped Up",
+      "url": "https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ"
+    },
+    {
+      "added_at": "2023-05-22 14:41:15",
+      "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 127780,
+      "name": "i'm yours sped up",
+      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
+    },
+    {
+      "added_at": "2023-05-22 14:41:15",
+      "album": {
+        "name": "Shut up My Moms Calling (Sped up)",
+        "url": "https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Shut up My Moms Calling - (Sped Up)",
+      "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
+    },
+    {
+      "added_at": "2023-06-29 19:14:15",
+      "album": {
+        "name": "Car's Outside",
+        "url": "https://open.spotify.com/album/0BbIbUGBYjryhlMrbM7ki2"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 206966,
+      "name": "Car's Outside - Sped Up Version",
+      "url": "https://open.spotify.com/track/6OmKbLCskNWi1IcfpZbeJc"
+    },
+    {
+      "added_at": "2023-05-22 14:41:15",
+      "album": {
+        "name": "Tek It (I Watch the Moon)",
+        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 166859,
+      "name": "Tek It - Sped Up",
+      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
+    },
+    {
+      "added_at": "2023-05-22 14:41:15",
+      "album": {
+        "name": "WASTE",
+        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 100500,
+      "name": "WASTE - Sped Up Version",
+      "url": "https://open.spotify.com/track/72XhVH8vlREICt6NmT623Q"
     },
     {
       "added_at": "2023-05-22 14:41:15",
@@ -119,6 +199,38 @@
     {
       "added_at": "2023-05-22 14:41:15",
       "album": {
+        "name": "Kill Bill",
+        "url": "https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 137528,
+      "name": "Kill Bill - Sped Up Version",
+      "url": "https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x"
+    },
+    {
+      "added_at": "2023-06-29 19:14:15",
+      "album": {
+        "name": "girls like me don't cry (sped up)",
+        "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "girls like me don't cry (sped up)",
+      "url": "https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C"
+    },
+    {
+      "added_at": "2023-05-22 14:41:15",
+      "album": {
         "name": "BABYDOLL (Speed)",
         "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
       },
@@ -131,6 +243,86 @@
       "duration_ms": 156650,
       "name": "BABYDOLL (Speed)",
       "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
+    },
+    {
+      "added_at": "2023-05-22 14:41:15",
+      "album": {
+        "name": "METAMORPHOSIS (Sped Up)",
+        "url": "https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 110936,
+      "name": "METAMORPHOSIS - Sped Up",
+      "url": "https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU"
+    },
+    {
+      "added_at": "2023-06-29 19:14:15",
+      "album": {
+        "name": "Shoti Sped Up",
+        "url": "https://open.spotify.com/album/2EOonF7VdwCRgRgEEQvyO9"
+      },
+      "artists": [
+        {
+          "name": "Shoti",
+          "url": "https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW"
+        }
+      ],
+      "duration_ms": 165427,
+      "name": "LDR - Sped Up",
+      "url": "https://open.spotify.com/track/14Vsn26hOxfbgVb4etM9jd"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Need 2",
+        "url": "https://open.spotify.com/album/2uN1p9u0v9lA3PH4pyxygn"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 157210,
+      "name": "Need 2 - fast pinegrove",
+      "url": "https://open.spotify.com/track/5v6DitH5Jdmm3L2WryVsl7"
+    },
+    {
+      "added_at": "2023-05-25 16:25:47",
+      "album": {
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 156116,
+      "name": "Say Yes To Heaven - Sped Up",
+      "url": "https://open.spotify.com/track/2f5WkystuejnBzgV18GTGa"
+    },
+    {
+      "added_at": "2023-05-22 14:41:15",
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
       "added_at": "2023-05-25 16:25:47",
@@ -155,30 +347,6 @@
     {
       "added_at": "2023-05-22 14:41:15",
       "album": {
-        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
-        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "ARIZONATEARS",
-          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
-        }
-      ],
-      "duration_ms": 163139,
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
         "name": "UNDERSTAND (Sped Up Version)",
         "url": "https://open.spotify.com/album/7y33ncIO49DOPfqM6xtAkC"
       },
@@ -193,68 +361,20 @@
       "url": "https://open.spotify.com/track/6DMI24muDgH74R3sT2ie4F"
     },
     {
-      "added_at": "2023-05-22 14:41:15",
+      "added_at": "2023-06-29 19:14:15",
       "album": {
-        "name": "METAMORPHOSIS (Sped Up)",
-        "url": "https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh"
+        "name": "Lights Out (Sped Up)",
+        "url": "https://open.spotify.com/album/7GtoNxTUyoxa2IFsSK86wV"
       },
       "artists": [
         {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 110936,
-      "name": "METAMORPHOSIS - Sped Up",
-      "url": "https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Need 2",
-        "url": "https://open.spotify.com/album/2uN1p9u0v9lA3PH4pyxygn"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 157210,
-      "name": "Need 2 - fast pinegrove",
-      "url": "https://open.spotify.com/track/5v6DitH5Jdmm3L2WryVsl7"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
-        "name": "Tek It (I Watch the Moon)",
-        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 166859,
-      "name": "Tek It - Sped Up",
-      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
+      "duration_ms": 117054,
+      "name": "Lights Out - Sped Up",
+      "url": "https://open.spotify.com/track/1DEoq8dafVkZBboDpI4fxu"
     },
     {
       "added_at": "2023-05-22 14:41:15",
@@ -301,36 +421,24 @@
       "url": "https://open.spotify.com/track/3mTIPzsL10pNKmfU5yPN8o"
     },
     {
-      "added_at": "2023-05-22 14:41:15",
+      "added_at": "2023-06-29 19:14:15",
       "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+        "name": "People (Remixes)",
+        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
       },
       "artists": [
         {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 127780,
-      "name": "i'm yours sped up",
-      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
-        "name": "Those Eyes (Alternate Versions)",
-        "url": "https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2"
-      },
-      "artists": [
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
         {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
         }
       ],
-      "duration_ms": 167658,
-      "name": "Those Eyes - Sped Up",
-      "url": "https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ"
+      "duration_ms": 157387,
+      "name": "People - Sped Up",
+      "url": "https://open.spotify.com/track/0XoKVwY8PLErqAeZVp5kdU"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -347,6 +455,30 @@
       "duration_ms": 170505,
       "name": "In The Stars - Sped Up",
       "url": "https://open.spotify.com/track/7B9gPx18Tbm8dgaB14jwKm"
+    },
+    {
+      "added_at": "2023-05-22 14:41:15",
+      "album": {
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
+        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "ARIZONATEARS",
+          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
+        }
+      ],
+      "duration_ms": 163139,
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
       "added_at": "2023-05-22 14:41:15",
@@ -373,36 +505,24 @@
       "url": "https://open.spotify.com/track/68R32667rUVTo8ldDkOXyR"
     },
     {
-      "added_at": "2023-05-22 14:41:15",
+      "added_at": "2023-06-29 19:14:15",
       "album": {
-        "name": "Shut up My Moms Calling (Sped up)",
-        "url": "https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A"
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
       "artists": [
         {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Shut up My Moms Calling - (Sped Up)",
-      "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
-        "name": "Kill Bill",
-        "url": "https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7"
-      },
-      "artists": [
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         }
       ],
-      "duration_ms": 137528,
-      "name": "Kill Bill - Sped Up Version",
-      "url": "https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x"
+      "duration_ms": 116465,
+      "name": "MONEY ON THE DASH - SPED UP",
+      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
     },
     {
       "added_at": "2023-05-22 14:41:15",
@@ -477,22 +597,6 @@
       "url": "https://open.spotify.com/track/0kyM7PrYjF4vH8FyOkEBuN"
     },
     {
-      "added_at": "2023-05-22 15:32:20",
-      "album": {
-        "name": "girls like me don't cry (slowed + reverbed)",
-        "url": "https://open.spotify.com/album/5iBm3sjljUuRPNp9711SSV"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "girls like me don't cry (sped up)",
-      "url": "https://open.spotify.com/track/0MagXQQS3OYNSt4ea8Zopr"
-    },
-    {
       "added_at": "2023-05-22 14:41:15",
       "album": {
         "name": "WARNING (Sped Up)",
@@ -539,42 +643,6 @@
       "duration_ms": 115200,
       "name": "Murder In My Mind - Sped Up",
       "url": "https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "FAST X (Sped Up / Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 146645,
-      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Sped Up",
-      "url": "https://open.spotify.com/track/6USCIAcTHT2RMom8qXqMyk"
     },
     {
       "added_at": "2023-05-22 14:41:15",
@@ -705,20 +773,20 @@
       "url": "https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV"
     },
     {
-      "added_at": "2023-05-22 14:41:15",
+      "added_at": "2023-06-29 19:14:15",
       "album": {
-        "name": "WASTE",
-        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+        "name": "I Can't - Sped Up",
+        "url": "https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG"
       },
       "artists": [
         {
-          "name": "Kxllswxtch",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+          "name": "Montana99",
+          "url": "https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj"
         }
       ],
-      "duration_ms": 100500,
-      "name": "WASTE - Sped Up Version",
-      "url": "https://open.spotify.com/track/72XhVH8vlREICt6NmT623Q"
+      "duration_ms": 121269,
+      "name": "I Can't - Sped Up",
+      "url": "https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq"
     },
     {
       "added_at": "2023-05-22 14:41:15",
@@ -883,22 +951,6 @@
     {
       "added_at": "2023-05-22 14:41:15",
       "album": {
-        "name": "haunt you (sped up + reverb)",
-        "url": "https://open.spotify.com/album/4ZF3CYnTn3lJwPigbXbDoM"
-      },
-      "artists": [
-        {
-          "name": "X Lovers",
-          "url": "https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38"
-        }
-      ],
-      "duration_ms": 126555,
-      "name": "haunt you (sped up + reverb)",
-      "url": "https://open.spotify.com/track/2LlAOJPuMh61d66I01t27Q"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
       },
@@ -1039,22 +1091,6 @@
     {
       "added_at": "2023-05-22 14:41:15",
       "album": {
-        "name": "the way you looked - sped up / slowed",
-        "url": "https://open.spotify.com/album/7zc8cMAGuUBE4oHbdSbpV6"
-      },
-      "artists": [
-        {
-          "name": "juno roome",
-          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
-        }
-      ],
-      "duration_ms": 229941,
-      "name": "the way you looked - sped up",
-      "url": "https://open.spotify.com/track/1Muf986ZgPB8adGwHWeLPu"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
         "name": "Only Love Can Hurt Like This (Sped Up Version)",
         "url": "https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8"
       },
@@ -1131,26 +1167,6 @@
       "duration_ms": 128589,
       "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
       "url": "https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Make Me (Higher & Faster / Slower & Lower)",
-        "url": "https://open.spotify.com/album/31dsjhc6DTV5ecdv9uiLOj"
-      },
-      "artists": [
-        {
-          "name": "Borai & Denham Audio",
-          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
-        },
-        {
-          "name": "sped up + slowed",
-          "url": "https://open.spotify.com/artist/56UmtY0OjIHyaF5yxngs6y"
-        }
-      ],
-      "duration_ms": 121165,
-      "name": "Make Me - Higher & Faster",
-      "url": "https://open.spotify.com/track/0K07zgYiLene4Bi3lUcZhX"
     },
     {
       "added_at": "2023-05-22 14:41:15",
@@ -1679,26 +1695,6 @@
     {
       "added_at": "2023-05-22 14:41:15",
       "album": {
-        "name": "Jerk (Sped Up Version)",
-        "url": "https://open.spotify.com/album/0ncELoW6dHgDUCc5C8ZuL8"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        }
-      ],
-      "duration_ms": 113198,
-      "name": "Jerk - Sped Up Version",
-      "url": "https://open.spotify.com/track/6Vq3tnOG1MlYklLVRpX1D8"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
         "name": "Tap Tap (Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/1x17i1sDTb7VfH42TIU7eI"
       },
@@ -1711,26 +1707,6 @@
       "duration_ms": 113265,
       "name": "Tap Tap (Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4zl9o7s6CUZ80IrEJx6Pqs"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
-        "name": "BALENCI FLEECE",
-        "url": "https://open.spotify.com/album/1G3mW3uO9iwRhjuJFGCnhb"
-      },
-      "artists": [
-        {
-          "name": "LUC",
-          "url": "https://open.spotify.com/artist/4eO5uWzhurHz9CBH42W2gc"
-        },
-        {
-          "name": "Mumble",
-          "url": "https://open.spotify.com/artist/6BZVK0SCbzkU50rTlRKFHb"
-        }
-      ],
-      "duration_ms": 89477,
-      "name": "BALENCI FLEECE",
-      "url": "https://open.spotify.com/track/5znKhweP1MFPlZLCR4VFFA"
     },
     {
       "added_at": "2023-05-22 14:41:15",

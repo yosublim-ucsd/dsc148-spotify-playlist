@@ -23,6 +23,42 @@
     },
     {
       "album": {
+        "name": "Rainy Day in Okinawa",
+        "url": "https://open.spotify.com/album/3BtDOqfu1IhCctUzZl3iOv"
+      },
+      "artists": [
+        {
+          "name": "Year of the Deer",
+          "url": "https://open.spotify.com/artist/65chksgBebbDOYHu3agg0r"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "36,201 feet",
+      "url": "https://open.spotify.com/track/2i28I5oI7HrkYxX1zS91AK"
+    },
+    {
+      "album": {
+        "name": "Flying Non-Stop",
+        "url": "https://open.spotify.com/album/19aRQNrTb3WHH7THMR9dSh"
+      },
+      "artists": [
+        {
+          "name": "Crackling ASMR",
+          "url": "https://open.spotify.com/artist/2I5u2mH0DBw7gO1nCAQ6Pe"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179939,
+      "name": "Above Ground 32808 ft",
+      "url": "https://open.spotify.com/track/6306yRSui0vW7aDiMXXu7Q"
+    },
+    {
+      "album": {
         "name": "Above The Clouds",
         "url": "https://open.spotify.com/album/2T6N06lvJ5dHdoQgdLyapI"
       },
@@ -74,6 +110,24 @@
       "duration_ms": 180500,
       "name": "Aeroplane Deep White Noise",
       "url": "https://open.spotify.com/track/08wEhIRItJ46wJU0lsELya"
+    },
+    {
+      "album": {
+        "name": "Airplane Mode",
+        "url": "https://open.spotify.com/album/4wbmOUDGhTXz0WxiqoAgaH"
+      },
+      "artists": [
+        {
+          "name": "Prompt Unlax",
+          "url": "https://open.spotify.com/artist/50GmiI9vOP54gPjuaHe82U"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168479,
+      "name": "Airplane Relax (Noise)",
+      "url": "https://open.spotify.com/track/5yh88R4EWfiCR5u4k4hXyh"
     },
     {
       "album": {
@@ -365,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Cabin Noise For Resting",
+        "url": "https://open.spotify.com/album/6l4VdG6fFQiOFybBGREuVY"
+      },
+      "artists": [
+        {
+          "name": "Ventilate",
+          "url": "https://open.spotify.com/artist/7vcZrTl9VTexsr8GcJF3wA"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178939,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/73SaqaNVj3xY5VMUgKHXmQ"
+    },
+    {
+      "album": {
         "name": "Smooth White Noise",
         "url": "https://open.spotify.com/album/2u2aAsVpfA82HMXXyw8nfY"
       },
@@ -398,6 +470,42 @@
       "duration_ms": 100310,
       "name": "Coloring Noise",
       "url": "https://open.spotify.com/track/0orPiXXARcGIvIiW7t7OWc"
+    },
+    {
+      "album": {
+        "name": "Taxiing Away",
+        "url": "https://open.spotify.com/album/2GwLE8pmgXH0gqs0Z1W6MX"
+      },
+      "artists": [
+        {
+          "name": "White Noise Doctor",
+          "url": "https://open.spotify.com/artist/0Fk48JURmZQal1PvjuG4Ag"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161606,
+      "name": "Cruising Altitude Noise",
+      "url": "https://open.spotify.com/track/646T7jzCs6vIKhtVuklRVO"
+    },
+    {
+      "album": {
+        "name": "White Dreams",
+        "url": "https://open.spotify.com/album/6VUONBGFiGg8rrHmbLVzmb"
+      },
+      "artists": [
+        {
+          "name": "Mentatranque",
+          "url": "https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Deep & Dark - Seamless",
+      "url": "https://open.spotify.com/track/2iZAAO5JEjMvClQ2W7VmSM"
     },
     {
       "album": {
@@ -556,10 +664,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 168000,
       "name": "Fan Tastic 741 Hz",
       "url": "https://open.spotify.com/track/3pV0cAn4gW05BSkFAUGNBe"
+    },
+    {
+      "album": {
+        "name": "Brown Noise Relaxation",
+        "url": "https://open.spotify.com/album/4ojM7wSFWCJPwlu52CTzLc"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150090,
+      "name": "First Class Seat",
+      "url": "https://open.spotify.com/track/6l6SGS4smW8UPk2KHAgUCB"
     },
     {
       "album": {
@@ -596,6 +722,24 @@
       "duration_ms": 103487,
       "name": "Floating Around Air Noise",
       "url": "https://open.spotify.com/track/3alpiYejUXQHqDoN6sao7d"
+    },
+    {
+      "album": {
+        "name": "Business Class Relax",
+        "url": "https://open.spotify.com/album/1owpL8QfQO6EdyvdfgUDss"
+      },
+      "artists": [
+        {
+          "name": "Audio Hall",
+          "url": "https://open.spotify.com/artist/2oE6i58qqic0JnyKf7rqtI"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176980,
+      "name": "Full Recliner Noise",
+      "url": "https://open.spotify.com/track/37tUNzTopVDWfW5XJj9fv9"
     },
     {
       "album": {
@@ -686,6 +830,24 @@
       "duration_ms": 98824,
       "name": "Headphones White Noise - For Relaxing",
       "url": "https://open.spotify.com/track/4DePAhk2zp5Dw5WYIRxiFD"
+    },
+    {
+      "album": {
+        "name": "Taxiing Away",
+        "url": "https://open.spotify.com/album/2GwLE8pmgXH0gqs0Z1W6MX"
+      },
+      "artists": [
+        {
+          "name": "White Noise Doctor",
+          "url": "https://open.spotify.com/artist/0Fk48JURmZQal1PvjuG4Ag"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167172,
+      "name": "High In The Sky Noise",
+      "url": "https://open.spotify.com/track/1iKIF4nErRA9DCCJ561a7N"
     },
     {
       "album": {
@@ -1031,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Business Class Relax",
+        "url": "https://open.spotify.com/album/1owpL8QfQO6EdyvdfgUDss"
+      },
+      "artists": [
+        {
+          "name": "Audio Hall",
+          "url": "https://open.spotify.com/artist/2oE6i58qqic0JnyKf7rqtI"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173043,
+      "name": "Noise Conveyance",
+      "url": "https://open.spotify.com/track/3c7mfDJwquoPwsmBz22es8"
+    },
+    {
+      "album": {
         "name": "Oasis of Noise",
         "url": "https://open.spotify.com/album/6P8yn44PpL5b6KiQ6LIZRn"
       },
@@ -1096,7 +1276,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 135765,
       "name": "Noise Retreat",
       "url": "https://open.spotify.com/track/1semCv93hKMaT2QWfmIfn2"
@@ -1193,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Flying Non-Stop",
+        "url": "https://open.spotify.com/album/19aRQNrTb3WHH7THMR9dSh"
+      },
+      "artists": [
+        {
+          "name": "Crackling ASMR",
+          "url": "https://open.spotify.com/artist/2I5u2mH0DBw7gO1nCAQ6Pe"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184494,
+      "name": "Perfect Oxygen",
+      "url": "https://open.spotify.com/track/1p7UBh3Aaq2EUKcWxUJlGn"
+    },
+    {
+      "album": {
         "name": "Pink Noise Lullaby",
         "url": "https://open.spotify.com/album/4x6m8vrXN3PI9JBzSxTNu7"
       },
@@ -1244,6 +1442,42 @@
       "duration_ms": 120000,
       "name": "Plane Cabin Pink Noise",
       "url": "https://open.spotify.com/track/7IrzMD1q565Ur3qJaZnrOu"
+    },
+    {
+      "album": {
+        "name": "Airplane Mode",
+        "url": "https://open.spotify.com/album/4wbmOUDGhTXz0WxiqoAgaH"
+      },
+      "artists": [
+        {
+          "name": "Prompt Unlax",
+          "url": "https://open.spotify.com/artist/50GmiI9vOP54gPjuaHe82U"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168696,
+      "name": "Pressurized Airplane Cabin (Noise)",
+      "url": "https://open.spotify.com/track/1AFz0E6B9dOXhg3ZkzFZuL"
+    },
+    {
+      "album": {
+        "name": "Deep Brown Noise",
+        "url": "https://open.spotify.com/album/7lh4bkGQuYliAX27V3xKZa"
+      },
+      "artists": [
+        {
+          "name": "Deepnoum",
+          "url": "https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "Private Jet Sleep",
+      "url": "https://open.spotify.com/track/7rl3oe00C0iWzsdmRoIsuG"
     },
     {
       "album": {
@@ -1409,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Noise Generator",
+        "url": "https://open.spotify.com/album/1fckNlClKXniSGA5DTfWdB"
+      },
+      "artists": [
+        {
+          "name": "Buka",
+          "url": "https://open.spotify.com/artist/3rUoChxYEhIRmwJvDSg24A"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sleep Machine",
+      "url": "https://open.spotify.com/track/76XzFvQ33HSifgaRBGipU3"
+    },
+    {
+      "album": {
         "name": "Sleep Noise",
         "url": "https://open.spotify.com/album/57VaK41fgcL4VKISboQOiN"
       },
@@ -1535,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "No Jet Lag",
+        "url": "https://open.spotify.com/album/46Iih8rBOFWbS2ppzoTASD"
+      },
+      "artists": [
+        {
+          "name": "Trip To Jupiter",
+          "url": "https://open.spotify.com/artist/6l9ylPMaOkRtfo28aDYNpw"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166172,
+      "name": "Through The Skies",
+      "url": "https://open.spotify.com/track/31tnv9xaPlWPTJ5yeLGkFk"
+    },
+    {
+      "album": {
         "name": "Tranquil Streams of White Noise",
         "url": "https://open.spotify.com/album/5sou8WgHMNENQcK0Kn3Y81"
       },
@@ -1622,6 +1892,24 @@
       "duration_ms": 110712,
       "name": "Wei\u00dfes Rauschen Verlangsamt Sich",
       "url": "https://open.spotify.com/track/1TxKZmv4T7HW20TM2L9R64"
+    },
+    {
+      "album": {
+        "name": "Cockpit Drift",
+        "url": "https://open.spotify.com/album/61aRJPLRy2e2MRuxnfVRSX"
+      },
+      "artists": [
+        {
+          "name": "Contented",
+          "url": "https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175875,
+      "name": "Welcome Aboard",
+      "url": "https://open.spotify.com/track/09RmbDtljzcM9ZsTNjk8qO"
     },
     {
       "album": {

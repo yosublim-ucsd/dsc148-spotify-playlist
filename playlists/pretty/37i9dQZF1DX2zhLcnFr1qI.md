@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,709 likes - 37 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,706 likes - 37 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,6 +44,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 34 | [Frosty Bounce](https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 1:44 |
 | 35 | [All I Want for Christmas](https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu) | [Alvin Anthony](https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [JeLa](https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft) | [All I Want for Christmas](https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1) | 2:58 |
 | 36 | [It's Christmas Time](https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx) | [It's Christmas Time](https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q) | 2:43 |
-| 37 | [I've Got My Love To Keep Me Warm \- Somni Remix](https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [I've Got My Love To Keep Me Warm \(Somni Remix\)](https://open.spotify.com/album/6VnBYqwkSLjmIXlHMjyd4N) | 2:36 |
+| 37 | [Jingle Bells X Deck the Halls](https://open.spotify.com/track/4w1maTceOzURZYKqDzninf) | [Khalil Ramos](https://open.spotify.com/artist/5PuOmp0NiyY5kU1fgccHxU), [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Jingle Bells X Deck the Halls](https://open.spotify.com/album/25UjFOoZbJOx0jg1QWXg8n) | 2:37 |
 
-Snapshot ID: `MCwyYTY2ZTg4ZWRkMjEyYzcwNTZjYmE5MDBjM2M0Y2NmY2MyNDJlNmZm`
+Snapshot ID: `MCw2M2MwOTc3NTY3NjhjZWQ1N2VmOTU3OTA5NzU3MzJlODU5YTAzM2Qz`

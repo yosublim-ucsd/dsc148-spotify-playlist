@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-379 songs - 22 hr 32 min
+382 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [No Love In LA](https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd) | 3:22 | 2021-07-10 |  |
 | [No Messages](https://open.spotify.com/track/7hjS3geBjYXTk4nTnUUmSH) | [Supahoney](https://open.spotify.com/artist/3OZVtJQZ18hbdQk9bkI7fr) | [Every Cell In Your Body](https://open.spotify.com/album/17cQXbD8OLKkQT7ylzrBPQ) | 3:33 | 2021-11-12 |  |
 | [No Plans](https://open.spotify.com/track/4CZHbzrzXSNDagymnv99TB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [No Plans](https://open.spotify.com/album/7AHkP6mbv9D3qpHVwqJl3n) | 3:21 | 2020-10-10\* | 2021-05-13 |
+| [Normalize](https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize](https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc) | 4:19 | 2023-06-30 |  |
 | [North Of No South \- Edit](https://open.spotify.com/track/3WorLcUF718S4k5LetzDBU) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [North Of No South \(Edit\)](https://open.spotify.com/album/71u1QkBnNqfPdz6ZUKvztb) | 3:36 | 2021-02-25 | 2022-03-18 |
 | [Not the One](https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Not the One](https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO) | 4:26 | 2022-03-24 |  |
 | [Not Without My Ghosts \(feat\. phem\)](https://open.spotify.com/track/2rlkdPZr9BmPEMC7wlg11e) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [Not Without My Ghosts \(feat\. phem\)](https://open.spotify.com/album/62RMowdYBDDnzabAVX5Ifu) | 3:30 | 2023-04-21 |  |
@@ -310,6 +311,7 @@
 | [Speak For Myself](https://open.spotify.com/track/60CmL8TwFXT2nQNNZQbVRa) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [Speak For Myself](https://open.spotify.com/album/6qAWZdcR2sGsgWn0tNrV4D) | 3:17 | 2022-09-16 |  |
 | [Spin Me Like Your Records](https://open.spotify.com/track/2tqZfY9DDnCT8YgiD6jusX) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Spin Me Like Your Records](https://open.spotify.com/album/3HgUIAeyGhnpDpbryaz4vV) | 3:11 | 2023-02-10 |  |
 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 | 2020-10-10\* | 2021-02-25 |
+| [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 |  |
 | [St\. Girlfriend](https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [St\. Girlfriend](https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w) | 2:27 | 2022-07-04 |  |
 | [Strangers](https://open.spotify.com/track/07wX6N12kg4zZ2gI8IrB1y) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Strangers / History of Violence](https://open.spotify.com/album/0cQzfaeCuMomU3OfhzPEW7) | 3:25 | 2020-10-10\* | 2021-02-25 |
 | [Strawberry Daydream](https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS) | 3:07 | 2023-05-05 |  |
@@ -366,6 +368,7 @@
 | [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2021-07-02 |  |
 | [Wasted](https://open.spotify.com/track/6wVEXx241ZF7e4zYbMAhFp) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Wasted](https://open.spotify.com/album/1AeXkCpimGJ04xtj9BOOTD) | 3:06 | 2020-10-10\* | 2021-02-25 |
 | [We Can't Be Tamed](https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:03 | 2021-09-11 |  |
+| [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-06-30 |  |
 | [We Should Give A Shit](https://open.spotify.com/track/172xiAGGROQByW3XkXXE2U) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [We Should Give A Shit](https://open.spotify.com/album/1Nq0s4UmUuR6xVPKYtBElZ) | 2:55 | 2021-01-29 | 2022-03-18 |
 | [Weapons](https://open.spotify.com/track/38CuzyPnlcDIi2zLA33v9a) | [Villainy](https://open.spotify.com/artist/3TGyAB5Aa7rjP6roX8eSHe) | [Beggar EP](https://open.spotify.com/album/15Sk15EX96mIb7A2CkHe0m) | 2:28 | 2020-10-10\* | 2021-05-13 |
 | [What Do You Say?](https://open.spotify.com/track/049uE7zpFZXEKmEKnwfBei) | [DUAL](https://open.spotify.com/artist/4fgzUG6sFpomNM6sf4xOIV) | [Lately I Don't Know](https://open.spotify.com/album/6J8EUP1OEo2wDPmJ8gb7Wu) | 3:08 | 2021-02-25 | 2022-03-18 |

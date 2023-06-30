@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Cantamores en portada.",
-  "num_followers": 56578,
+  "num_followers": 56607,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDQxNzcyNjU1NWQ3NjY2ZmEzMGZmY2EyYzdhZmZkZTJjZjFmMjQ1",
+  "snapshot_id": "MCw2NmUwM2E1MzAwNDBmODNmMTFhZTU2MzUyN2M5MTE1NDFiMjJjNWQ3",
   "tracks": [
     {
       "added_at": "2023-06-16 15:34:25",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2023-06-16 15:34:25",
       "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/6P1eNjZCXgcv7DP8J9O5oe"
+        "name": "Donde Nadie",
+        "url": "https://open.spotify.com/album/0lOYCiJQk1S53KWUAh35tT"
       },
       "artists": [
         {
-          "name": "Ceci Juno",
-          "url": "https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu"
-        },
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
         }
       ],
-      "duration_ms": 222200,
-      "name": "Anestesia",
-      "url": "https://open.spotify.com/track/1mGml8E606PCYFKj5fjBmZ"
+      "duration_ms": 152483,
+      "name": "Donde Nadie",
+      "url": "https://open.spotify.com/track/0f0Cxn4cO6dViHACpGjp4a"
     }
   ],
   "unique_name": "Cantamores",

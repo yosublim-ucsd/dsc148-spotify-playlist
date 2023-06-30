@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-266 songs - 19 hr 12 min
+269 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Flying In The Sky](https://open.spotify.com/track/3LMR3dGhjrbqP3hi1C4t5g) | [Yoshifumi Ushima](https://open.spotify.com/artist/1s63VTvalxLJgMX3yjxH0L) | [Free Jugement \(Remaster Deluxe Edition\)](https://open.spotify.com/album/0heLGeVcuKn2rG7zIF50K0) | 3:44 | 2022-07-27 |  |
 | [Flying In The Sky](https://open.spotify.com/track/60GYIAdO2ySJJyncOTTyHu) | [Yoshifumi Ushima](https://open.spotify.com/artist/1s63VTvalxLJgMX3yjxH0L) | [Free Judgement \(Remaster Deluxe Edition\)](https://open.spotify.com/album/3Lnyc6QiJX7G2aD48Trjea) | 3:44 | 2022-07-27 | 2022-07-29 |
 | [G](https://open.spotify.com/track/2SgMvyJn1D0ambp2Vm4Ts0) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [G](https://open.spotify.com/album/1X8FdKEQlPqdCMsDxxiSf8) | 4:45 | 2022-07-27 |  |
-| [Gの閃光](https://open.spotify.com/track/1qfpMdHoqhpRssLkw253ht) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [Gの閃光](https://open.spotify.com/album/0btQbNsSjSXqUplvgbOKec) | 3:37 | 2023-04-21 |  |
+| [G no Senko](https://open.spotify.com/track/2cm1reUN9O5P6aFmykVLkx) | [Daisuke Hasegawa](https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4) | ["GUNDAM RECONGUISTA IN G" Original Motion Picture Soundtrack](https://open.spotify.com/album/3re1HO8RWMXnhwqwchJ8rT) | 3:37 | 2023-06-19 |  |
+| [Gの閃光](https://open.spotify.com/track/1qfpMdHoqhpRssLkw253ht) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [Gの閃光](https://open.spotify.com/album/0btQbNsSjSXqUplvgbOKec) | 3:37 | 2023-04-21 | 2023-06-30 |
 | [Gの閃光](https://open.spotify.com/track/29ODTLXlIpmNT7rZFmV4gH) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [TVアニメ『ガンダム Gのレコンギスタ』オリジナルサウンドトラック 3](https://open.spotify.com/album/3WFW8EMq7eQyd4PO12HYgH) | 3:37 | 2022-07-27 | 2023-05-03 |
 | [Han\-Pan Spirit](https://open.spotify.com/track/1YfbLKjPSdfIWr7Yeblqb8) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Han\-Pan Spirit](https://open.spotify.com/album/3EgBwcapLupR4VuwdrCsa9) | 3:59 | 2023-06-19 |  |
 | [Hasen no Namida](https://open.spotify.com/track/2G6cLZijcvKMEcRxThTBtm) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [MOBILE SUIT GUNDAM THE ORIGIN \- Chronicle of the Loum Battlefield \- \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7c0Xs5C1nmkw7rVDVpuCZ8) | 4:51 | 2022-12-06 |  |
@@ -90,7 +91,8 @@
 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/3hBa1IYmFrKMwybbWvUe2N) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [coordinate](https://open.spotify.com/album/07S8UBKELLAdzpvpxjWgik) | 4:19 | 2022-07-27 | 2022-07-29 |
 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/6mwBMPGpO0gtvR8QKxVCyo) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [coordinate](https://open.spotify.com/album/1Nz1JrJKCsAtTiIu5A3pw2) | 4:19 | 2022-07-27 |  |
 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/2qge0m2SUWLUOPN9oypXm5) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [GEISHA BOY \-ANIME SONG EXPERIENCE\-](https://open.spotify.com/album/69ly56BCOHEVC3Q3UAlJzf) | 4:19 | 2022-10-17 | 2022-11-14 |
-| [It's Just Love!](https://open.spotify.com/track/1ckhGyNThmpfbQrMxrorFl) | [大石ルミ](https://open.spotify.com/artist/6gQfVbFNoR1AS3ldKn2eIW) | [It's Just Love!](https://open.spotify.com/album/3wuEy0hpaDd0ffg6DRtPA7) | 3:57 | 2022-07-27 |  |
+| [It's Just Love!](https://open.spotify.com/track/3LZwJYaUyRRGzV55kRFvfu) | [Rumi Oishi](https://open.spotify.com/artist/3LppmPgTItbD6aiy1aR7Sz) | [MOBILE SUIT GUNDAM WING Original Motion Picture Soundtrack \- Operation 1](https://open.spotify.com/album/52jysQJHAiBXHRY01vrgt6) | 3:56 | 2023-06-19 |  |
+| [It's Just Love!](https://open.spotify.com/track/1ckhGyNThmpfbQrMxrorFl) | [大石ルミ](https://open.spotify.com/artist/6gQfVbFNoR1AS3ldKn2eIW) | [It's Just Love!](https://open.spotify.com/album/3wuEy0hpaDd0ffg6DRtPA7) | 3:57 | 2022-07-27 | 2023-06-30 |
 | [Itsuka Sora ni Todoite](https://open.spotify.com/track/6oMv7PFkrX8GpMeWmhu8t7) | [Megumi Shiina](https://open.spotify.com/artist/6gp9jw7DuN6VFhpYoZzu4X) | [Itsuka Sora ni Todoite](https://open.spotify.com/album/2j2K7EVhtxWhYC2Xcrb72U) | 3:52 | 2023-04-21 |  |
 | [Jidai ga Naiteiru](https://open.spotify.com/track/1KI2yIJiZRldxId7PnAFOS) | [Masahito Arai](https://open.spotify.com/artist/6SSYiSSaA0SedMsVpH5GwM) | [Jidai ga Naiteiru](https://open.spotify.com/album/4sRQYR5fHnYnUVcFQvG1bm) | 4:40 | 2023-04-21 |  |
 | [Kaze ni Hitoride](https://open.spotify.com/track/1t6ZadOJ0bsT8CQ2QXKYix) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Kaze ni Hitoride](https://open.spotify.com/album/1qn9fEvER4qN3q1AJprGLD) | 3:28 | 2023-04-21 |  |
@@ -249,7 +251,8 @@
 | [宇宙の詩 〜Higher and Higher 〜](https://open.spotify.com/track/7Frp5P5UEOtDssUfVFWvuM) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [CROSS](https://open.spotify.com/album/0yGVq0iZ0Ej7OWcYxQzydi) | 5:06 | 2022-07-27 |  |
 | [宇宙の詩 〜Higher and Higher 〜](https://open.spotify.com/track/6tFTPkPy5K0uKlhEbG9mmO) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [宇宙の詩 〜Higher and Higher〜 / 悲壮美](https://open.spotify.com/album/6eZM44E65EIWF2DQsUJT8w) | 5:07 | 2022-10-17 | 2022-11-13 |
 | [宇宙の詩 〜Higher and Higher 〜](https://open.spotify.com/track/3hVgMwdW5l9O3ZM9RMiA3Z) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [宇宙の詩 〜Higher and Higher〜](https://open.spotify.com/album/0DoLBKTRjTzIschV6E02hb) | 5:07 | 2022-07-27 | 2022-07-29 |
-| [少年の果て](https://open.spotify.com/track/4mp8QXLV50D7AObrjKNUAs) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [少年の果て](https://open.spotify.com/album/1lQprvL2hJQDAQKxXNRpry) | 5:03 | 2022-07-27 |  |
+| [少年の果て](https://open.spotify.com/track/4mp8QXLV50D7AObrjKNUAs) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [少年の果て](https://open.spotify.com/album/1lQprvL2hJQDAQKxXNRpry) | 5:03 | 2022-07-27 | 2023-06-30 |
+| [少年の果て](https://open.spotify.com/track/7mdSaYT0WO5V3R8W4Xj0D3) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Pierrot Dancin'](https://open.spotify.com/album/4SyIdDTlbshUB2LXYsO19e) | 5:04 | 2023-06-19 |  |
 | [明日へ](https://open.spotify.com/track/0tKCwJhLcGRppRo18jKMlj) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [明日へ](https://open.spotify.com/album/3c2DixfbwwuZc5k4T7WTIY) | 5:16 | 2022-07-27 | 2022-07-29 |
 | [明日へ](https://open.spotify.com/track/0b1eJt5F6yI2u0T0LF0Ly3) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [PORTAL](https://open.spotify.com/album/1WJkB7MN6rgPIEO08aa6vI) | 5:18 | 2022-07-27 |  |
 | [星屑の砂時計](https://open.spotify.com/track/74O5dGvC43jOGpOXyYZpE1) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [yu\-yu](https://open.spotify.com/artist/6KuW1jOW9tCAirqEt0GKlM) | [星屑の砂時計](https://open.spotify.com/album/3gY7UNOVZIAOcanynxE110) | 5:46 | 2022-07-27 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,089 likes - 174 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,103 likes - 174 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SuperKitties Theme Song](https://open.spotify.com/track/6jpIv3QGnbZdFJkBbmMTkf) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties](https://open.spotify.com/album/1Xcthm7WfSRGy3WaYe7R02) | 2:07 |
-| 2 | [Pupstruction Main Title](https://open.spotify.com/track/1CbTnS6qEpTzq9azHlvyNG) | [Pupstruction \- Cast](https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O) | [Disney Junior Music: Pupstruction](https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI) | 0:49 |
+| 2 | [Pupstruction Main Title](https://open.spotify.com/track/1CbTnS6qEpTzq9azHlvyNG) | [Pupstruction \- Cast](https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Pupstruction](https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI) | 0:49 |
 | 3 | [Make Your Own Sunshine](https://open.spotify.com/track/5lq53aSenKTQKlHkZVraxL) | [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7), [Minnie's Bow\-Toons \- Cast](https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Minnie's Bow\-Toons: Camp Minnie](https://open.spotify.com/album/3AB9eHf1zOPJMNY2exugAe) | 1:08 |
 | 4 | [Alice's Wonderland Bakery Main Title Theme \- From "Disney Junior Music: Alice's Wonderland Bakery"](https://open.spotify.com/track/0Na1yYpng3jNaEDHb0i6ui) | [Alice's Wonderland Bakery \- Cast](https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Alice's Wonderland Bakery Main Title Theme \(From "Disney Junior Music: Alice's Wonderland Bakery"\)](https://open.spotify.com/album/5OCpzC2rahXbuf3ecEZ8J6) | 0:59 |
 | 5 | [Jump Into Wow! \- From "Disney Junior Music: Jump Into Wow!"](https://open.spotify.com/track/5uvpm4qJc8oTsCvRvtUOUp) | [Lamont Coleman](https://open.spotify.com/artist/0zaocTqm5PPBW7O2Hi1JEh), [Paula Winger](https://open.spotify.com/artist/39wNMOu1AnEupjEejl99AH), [Maria Christensen](https://open.spotify.com/artist/3dqeuUrOrCUjPspVv1FKlG) | [Jump Into Wow! \(From "Disney Junior Music: Jump Into Wow!"\)](https://open.spotify.com/album/2dCGc0xKSvvFApGaQh9XGo) | 1:44 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 | 173 | [\(Muppet Baby\) You Can Be a Star](https://open.spotify.com/track/3IZDkjTFymwe24SA0Br1Pw) | [Cast \- Muppet Babies](https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:10 |
 | 174 | [The Nancy Way](https://open.spotify.com/track/2NCcDPOWpga6sCZXI4kJGR) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 |
 
-Snapshot ID: `MCw5ZmJmZDYxZmVjZTJkZTdjNTVhZTExMTYyNGUzMWQyZjRjMWIwNjYz`
+Snapshot ID: `MCw5OTkwMTk0MTU4MTczYzRmODFmYzBiY2ZlZjc2M2VjZThhNzg3MDJk`

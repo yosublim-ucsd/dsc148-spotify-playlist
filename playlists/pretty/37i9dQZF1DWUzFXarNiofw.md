@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,820 likes - 160 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,152 likes - 160 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 74 | [Good For The Money](https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [These Songs Are For Anyone Sick Of Earth](https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j) | 3:49 |
 | 75 | [Stay](https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Stay](https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo) | 3:23 |
 | 76 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 |
-| 77 | [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 |
+| 77 | [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 |
 | 78 | [Is It A Crime?](https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Is It A Crime? EP](https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7) | 2:22 |
 | 79 | [Don't Give It Away \(with Chris Brown\)](https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Don't Give It Away](https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA) | 3:26 |
 | 80 | [Don’t Mind Me](https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Don't Mind Me](https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo) | 3:09 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 159 | [Since You've Been Gone](https://open.spotify.com/track/0xm6AATpiaDaVQce6DecIZ) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Since You've Been Gone](https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8) | 3:46 |
 | 160 | [ANGEL](https://open.spotify.com/track/30s0R1Kz4E3yIDaZFxvTwc) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN LOVE SONGS](https://open.spotify.com/album/5bEzUVfVCPMcVI1WQ4iMyM) | 3:28 |
 
-Snapshot ID: `MCw4MzE2ZTdkMmVmYmExMGRhZTkyM2Q2MTljNjRlYjM2YmU5YWY3OTQ1`
+Snapshot ID: `MCw2YThiNGZmOTE0YjcyYTdiZjNhMWMxYzNkZTBiZTc1NTYzNWRmMzE5`

@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7463,
+  "num_followers": 7465,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTBhMGZmYTU4MDAyMmEzNzJkODE0MzU1YmJmODI0MTU4YTg4OWU4",
+  "snapshot_id": "MCw5ZjY2MDU1YTRlNWRjZmI1N2JlODI0NDBlMmFmYmIzOWY5NWQyN2Fm",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -575,6 +575,62 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Boomshakalaka",
+        "url": "https://open.spotify.com/album/2dO6HvLMmEFMuOLasVY9eC"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Boomshakalaka",
+      "url": "https://open.spotify.com/track/4yb5Z9dwnKhO9gC0AZQYDe"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Que Rica (Tocame)",
+        "url": "https://open.spotify.com/album/2AW6HCRfGox94vO7GMQSLD"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        },
+        {
+          "name": "Salvi",
+          "url": "https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Que Rica (Tocame)",
+      "url": "https://open.spotify.com/track/1rNwUMlrGFUMn5LaYy71Gq"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Pa' La Cultura",
         "url": "https://open.spotify.com/album/3lafienEVOSKlWKwZY1vwu"
       },
@@ -623,62 +679,6 @@
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Que Rica (Tocame)",
-        "url": "https://open.spotify.com/album/2AW6HCRfGox94vO7GMQSLD"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Sak Noel",
-          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
-        },
-        {
-          "name": "Salvi",
-          "url": "https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Que Rica (Tocame)",
-      "url": "https://open.spotify.com/track/1rNwUMlrGFUMn5LaYy71Gq"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Boomshakalaka",
-        "url": "https://open.spotify.com/album/2dO6HvLMmEFMuOLasVY9eC"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "Boomshakalaka",
-      "url": "https://open.spotify.com/track/4yb5Z9dwnKhO9gC0AZQYDe"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -747,6 +747,34 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Do It!",
+        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Do It! - Dimitri Vegas Radio Edit",
+      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Si Me Dices Que S\u00ed (feat. Camilo) [R3HAB Remix]",
         "url": "https://open.spotify.com/album/6i2maKWlX3CxMAeXotdTPu"
       },
@@ -791,34 +819,6 @@
       "duration_ms": 176000,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/5qEDMy4lkVZ93et8y1VP99"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Do It!",
-        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Do It! - Dimitri Vegas Radio Edit",
-      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
     },
     {
       "added_at": "2021-12-31 04:31:13",

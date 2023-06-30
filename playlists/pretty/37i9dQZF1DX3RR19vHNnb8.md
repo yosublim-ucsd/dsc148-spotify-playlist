@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,270 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,299 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 45 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
 | 46 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 |
 | 47 | [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 |
-| 48 | [No Excuses](https://open.spotify.com/track/3FlXFKRo2w4xbc1SGvVhJ0) | [Chop Life Crew](https://open.spotify.com/artist/3nqzRwaPGt1NTRCddyBgbx), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [No Excuses](https://open.spotify.com/album/3uPpZ6wh5UYeTryNFAWWs1) | 3:14 |
-| 49 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 |
+| 48 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 |
+| 49 | [No Excuses](https://open.spotify.com/track/3FlXFKRo2w4xbc1SGvVhJ0) | [Chop Life Crew](https://open.spotify.com/artist/3nqzRwaPGt1NTRCddyBgbx), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [No Excuses](https://open.spotify.com/album/3uPpZ6wh5UYeTryNFAWWs1) | 3:14 |
 | 50 | [King of Parole](https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [King of Parole](https://open.spotify.com/album/3SxZ36WBWGwoDwXAAAS8Bk) | 3:16 |
 
-Snapshot ID: `MCwxMWNjNWIxYjBlYTdiMWY0MjdlNDgzMWFjNGFhYWZhNjc4ZDIxN2E1`
+Snapshot ID: `MCw1M2UzYTU1MTllYmY0YmYzMjI4MDZkZDg5YmQzNTFjMGVkZjdjMjNl`

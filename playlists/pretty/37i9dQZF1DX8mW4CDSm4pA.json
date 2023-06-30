@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/domfishback/\">Dominique Fishback</a>. ",
-  "num_followers": 88,
+  "num_followers": 94,
   "original_name": "Dominique's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDcwMmRlMzhjNTllOWViZmFhYzEyMWFiM2FkZjExYWQ0NjVlZDk1",
+  "snapshot_id": "MCwwZTYxNmQxN2YyZThlMjlhNGJhYWE1OTQzMTZiY2ZjMGQzZDk4MWI2",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -659,26 +659,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Universe Ready",
-        "url": "https://open.spotify.com/album/1ZY5SeMoAOtQ9G1n1s13Gl"
+        "name": "Black Woman",
+        "url": "https://open.spotify.com/album/3Ek8F9NkwDbwcHGGw326Kb"
       },
       "artists": [
         {
-          "name": "Isea",
-          "url": "https://open.spotify.com/artist/6zXvAqkCxo8BPDdLHhJQHI"
-        },
-        {
-          "name": "Chris Oliver",
-          "url": "https://open.spotify.com/artist/6NtlujLazDbrVqvm2YRtOS"
-        },
-        {
-          "name": "Shep",
-          "url": "https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV"
+          "name": "Danielle Brooks",
+          "url": "https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE"
         }
       ],
-      "duration_ms": 141244,
-      "name": "Mean",
-      "url": "https://open.spotify.com/track/54FJsCzX921AbmHchPluHd"
+      "duration_ms": 249732,
+      "name": "Black Woman",
+      "url": "https://open.spotify.com/track/5tyD0d7gkhtVtiDZibjzem"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -715,18 +707,26 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Black Woman",
-        "url": "https://open.spotify.com/album/3Ek8F9NkwDbwcHGGw326Kb"
+        "name": "Universe Ready",
+        "url": "https://open.spotify.com/album/1ZY5SeMoAOtQ9G1n1s13Gl"
       },
       "artists": [
         {
-          "name": "Danielle Brooks",
-          "url": "https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE"
+          "name": "Isea",
+          "url": "https://open.spotify.com/artist/6zXvAqkCxo8BPDdLHhJQHI"
+        },
+        {
+          "name": "Chris Oliver",
+          "url": "https://open.spotify.com/artist/6NtlujLazDbrVqvm2YRtOS"
+        },
+        {
+          "name": "Shep",
+          "url": "https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV"
         }
       ],
-      "duration_ms": 249732,
-      "name": "Black Woman",
-      "url": "https://open.spotify.com/track/5tyD0d7gkhtVtiDZibjzem"
+      "duration_ms": 141244,
+      "name": "Mean",
+      "url": "https://open.spotify.com/track/54FJsCzX921AbmHchPluHd"
     },
     {
       "added_at": "2023-06-01 04:00:00",

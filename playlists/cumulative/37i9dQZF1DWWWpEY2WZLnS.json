@@ -2272,10 +2272,28 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
+    },
+    {
+      "album": {
+        "name": "Dembow Worldwide Hits Teteo 42",
+        "url": "https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137014,
+      "name": "Helicoptero",
+      "url": "https://open.spotify.com/track/7dg8xRGRg5Az68XFDWaTqy"
     },
     {
       "album": {
@@ -3280,10 +3298,36 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 199304,
       "name": "LOS POBRES Y LOS RICOS",
       "url": "https://open.spotify.com/track/6mYeBTeXcz25ZeAwjW6apF"
+    },
+    {
+      "album": {
+        "name": "Dembow Worldwide Hits Teteo 42",
+        "url": "https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199304,
+      "name": "LOS POBRES Y LOS RICOS",
+      "url": "https://open.spotify.com/track/7yR9JlVYTOvYPjycQpl4PW"
     },
     {
       "album": {
@@ -3896,10 +3940,32 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 180508,
       "name": "MOLI",
       "url": "https://open.spotify.com/track/35tgvn9uVWaOWYsOgELsSY"
+    },
+    {
+      "album": {
+        "name": "Dembow Worldwide Hits Teteo 42",
+        "url": "https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Papa Jeison",
+          "url": "https://open.spotify.com/artist/4BtCo7zwiMbbsQMAHHwTby"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180508,
+      "name": "Moli",
+      "url": "https://open.spotify.com/track/7u2u06vEWoRheAGNI2thRI"
     },
     {
       "album": {

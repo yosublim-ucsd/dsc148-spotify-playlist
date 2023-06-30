@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 13433,
+  "num_followers": 13454,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDhmOWExMmU0MWVkNjBlNGQ5OWI5MDE5ZTU0ZjZhOTViZDViYTFj",
+  "snapshot_id": "MCxmNDU5N2ViNzIzOGI0ZmE5YjU5OTEyMDQ1NTM3MzgwMTY1OGQ2OGQw",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:36",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-06-13 08:58:36",
       "album": {
-        "name": "future island",
-        "url": "https://open.spotify.com/album/04fT73y4aHKXHuFmZN63mN"
-      },
-      "artists": [
-        {
-          "name": "kenessi",
-          "url": "https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C"
-        },
-        {
-          "name": "2SO",
-          "url": "https://open.spotify.com/artist/1tvJASKoGOS4oNMN0ZjDq8"
-        }
-      ],
-      "duration_ms": 180987,
-      "name": "STUPID (feat. 2SO)",
-      "url": "https://open.spotify.com/track/2JTOCHcDI9uDS08dIpN1SY"
-    },
-    {
-      "added_at": "2023-06-13 08:58:36",
-      "album": {
         "name": "LUCKY MAN",
         "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 176759,
       "name": "20MIN",
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
+    },
+    {
+      "added_at": "2023-06-13 08:58:36",
+      "album": {
+        "name": "future island",
+        "url": "https://open.spotify.com/album/04fT73y4aHKXHuFmZN63mN"
+      },
+      "artists": [
+        {
+          "name": "kenessi",
+          "url": "https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C"
+        },
+        {
+          "name": "2SO",
+          "url": "https://open.spotify.com/artist/1tvJASKoGOS4oNMN0ZjDq8"
+        }
+      ],
+      "duration_ms": 180987,
+      "name": "STUPID (feat. 2SO)",
+      "url": "https://open.spotify.com/track/2JTOCHcDI9uDS08dIpN1SY"
     },
     {
       "added_at": "2023-06-13 08:58:36",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-06-13 08:58:36",
       "album": {
+        "name": "MONOCHROME",
+        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 235624,
+      "name": "Miss Korea",
+      "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
+    },
+    {
+      "added_at": "2023-06-13 08:58:36",
+      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 147359,
       "name": "CAVIAR",
       "url": "https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5"
-    },
-    {
-      "added_at": "2023-06-13 08:58:36",
-      "album": {
-        "name": "MONOCHROME",
-        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
-        }
-      ],
-      "duration_ms": 235624,
-      "name": "Miss Korea",
-      "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
     },
     {
       "added_at": "2023-06-13 08:58:36",

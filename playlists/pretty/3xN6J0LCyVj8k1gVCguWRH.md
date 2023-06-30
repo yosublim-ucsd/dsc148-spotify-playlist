@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 102,949 likes - 159 songs - 9 hr 40 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 102,992 likes - 150 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 12 | [Cocktail](https://open.spotify.com/track/7h3IjtI7oQKmaWerl3S3v8) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4), [R.L\. KING](https://open.spotify.com/artist/6RnLyUD6H4MFRkh90eWpKS) | [Cocktail](https://open.spotify.com/album/3hhjq59BQ2HoXd3hxyyCPl) | 2:51 |
 | 13 | [Sprung In The Summer](https://open.spotify.com/track/2XXVq3lBlOo6aG4pWAW2dc) | [tobi zoë](https://open.spotify.com/artist/3XW7jQ3zJZRJHQVK6zqLkm) | [Sprung In The Summer](https://open.spotify.com/album/5QN5wZ2KmgAwh4MZIvK86P) | 2:59 |
 | 14 | [Let Me](https://open.spotify.com/track/56fLFZWpYO0EqSZmiVhW94) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Let Me](https://open.spotify.com/album/1vTZS5DZT4jslmHu5hWic2) | 3:04 |
-| 15 | [Gotta Go](https://open.spotify.com/track/774A4JWmIddeS3z5ghwXwf) | [HMZA.](https://open.spotify.com/artist/6PQvknpu8I2WEKWkqREOl4), [RIDL](https://open.spotify.com/artist/3bFNsW5tKEOX9FrCCkakM9), [Durazzo](https://open.spotify.com/artist/3Cb4NaiqgKPwfwZcyZUvNB) | [Gotta Go](https://open.spotify.com/album/6aqvlETxZg0IQ4451uOb5R) | 3:34 |
+| 15 | [Gotta Go](https://open.spotify.com/track/774A4JWmIddeS3z5ghwXwf) | [HMZA.](https://open.spotify.com/artist/6PQvknpu8I2WEKWkqREOl4), [RIDL](https://open.spotify.com/artist/3bFNsW5tKEOX9FrCCkakM9) | [Gotta Go](https://open.spotify.com/album/6aqvlETxZg0IQ4451uOb5R) | 3:34 |
 | 16 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 |
 | 17 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 |
 | 18 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
@@ -156,16 +156,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 146 | [THE SPACE BETWEEN THE SECONDS](https://open.spotify.com/track/5q9oLsYu0zUTBAozOxrfZi) | [THE SPLATTER PATTERN](https://open.spotify.com/artist/0noon3hvMOUsSXclOA8ji0) | [WHILE WE WERE MAKING PLANS](https://open.spotify.com/album/607iu1qDwg5PqwfrtKFimj) | 4:50 |
 | 147 | [Best in the City](https://open.spotify.com/track/5XkNQ08c8TiZ1BGkujuRAs) | [Rob Shore](https://open.spotify.com/artist/3TaGObiUN9nBmbZeTROYNj) | [Best in the City](https://open.spotify.com/album/58s2XMnMheDdEnsPIbWzeq) | 3:38 |
 | 148 | [Let's Ride](https://open.spotify.com/track/7LoWNvxyVnXYil90YINbT0) | [Bryan Hayes](https://open.spotify.com/artist/4gBWMy2vVn8uPFlv5eiTym) | [Farther Down the Line](https://open.spotify.com/album/5qHWY2DOU5bnfu1CJ3i0WW) | 4:12 |
-| 149 | [Back in Time](https://open.spotify.com/track/5dC0vOOnDIgCMdxsXrUQu5) | [Tom Vern](https://open.spotify.com/artist/4jvKs90KRkOAAm1HE3KYN9) | [Back in Time](https://open.spotify.com/album/75hw7zV47ieqHxsKVZ0Dnk) | 3:42 |
-| 150 | [Reject Me](https://open.spotify.com/track/3lNPtMjALEEvQOS0sYf0GU) | [Alfred Hu](https://open.spotify.com/artist/2dpwfwjjgyBTggaleCvR4D) | [Alfralando](https://open.spotify.com/album/78YNA2i4g8tHaPHkm0ED15) | 3:15 |
-| 151 | [In Vain](https://open.spotify.com/track/4Z5wIipDEocABTVuSFYVV2) | [Dreda Dre](https://open.spotify.com/artist/2f11JfpLBCTOJwNQrjsxNn), [Miranda Rae Love](https://open.spotify.com/artist/1GXKnEKQaKgzTzGkjNiD23) | [In Vain](https://open.spotify.com/album/3yPioMEeK2BXM2j5hAPZIJ) | 4:48 |
-| 152 | [The Feelings Right](https://open.spotify.com/track/6ysf9aIdlry4O8AZqWEofo) | [Eyun](https://open.spotify.com/artist/13fmUXQvsiUdjNAAf1ZsQy) | [The Feelings Right](https://open.spotify.com/album/1Bt9yfoaOWAxZO0CJW5xLy) | 3:02 |
-| 153 | [The City](https://open.spotify.com/track/1iJSH1AhOLMnEDFc21Aj4h) | [Jam : Ali](https://open.spotify.com/artist/4ZswBDERWAyAY2QduwExWN) | [The City](https://open.spotify.com/album/3r4WpjvDs3aVBTSUZWtRyk) | 3:20 |
-| 154 | [FREE \(Radio Edit\)](https://open.spotify.com/track/5t8muucoml6Y5oQoCA2gvl) | [Risa Kumon](https://open.spotify.com/artist/2vpmfKv5wAGVr8KCsLxnNO) | [FREE \(Radio Edit\)](https://open.spotify.com/album/6rx7UmUqwDn42ROxV2PaXI) | 4:26 |
-| 155 | [Letters to You in My Diary](https://open.spotify.com/track/1xHYdaLDImtWTsZopChopt) | [Yining](https://open.spotify.com/artist/2Z0Vmufo2AyF49zYD1ptTW) | [Letters to You in My Diary](https://open.spotify.com/album/2zEj4GZ7t6YiuuZGOHeEuj) | 3:11 |
-| 156 | [Pretty Words](https://open.spotify.com/track/1OSgEqykNwJaywE9vuldh5) | [Milksteaklol](https://open.spotify.com/artist/3QsLVIYfjWVjZCPYvodlf7) | [Pretty Words](https://open.spotify.com/album/1AlDH0YeOnUvUxQLtGrBFr) | 2:29 |
-| 157 | [In the Middle](https://open.spotify.com/track/13Laiar8MFcjtGC751Xbth) | [Desert Mambas](https://open.spotify.com/artist/2Xcu6O14xGAF8WS2xJT2oX) | [In the Middle](https://open.spotify.com/album/3vo8KAiIgLEaw3ePXZcNwJ) | 2:33 |
-| 158 | [Find A Way](https://open.spotify.com/track/6UxL2QDcngbCGZyn8qcmBE) | [Tm2 Ent Presents Nani Babbey](https://open.spotify.com/artist/0lNtvTnB6SsdmXtHW4NdtX) | [Find A Way](https://open.spotify.com/album/44sjjZVpW02Rp47b3AtFl8) | 3:06 |
-| 159 | [Youmna, Didn't it All End So Soon?](https://open.spotify.com/track/0MBqrq1eajzcB08ITCiwWQ) | [New Seven](https://open.spotify.com/artist/1wm2Qetez0IELnv1B0hjwJ) | [The Colossus of Uptown](https://open.spotify.com/album/6viH20D6GZhtZMMhsCJ494) | 2:40 |
+| 149 | [Reject Me](https://open.spotify.com/track/3lNPtMjALEEvQOS0sYf0GU) | [Alfred Hu](https://open.spotify.com/artist/2dpwfwjjgyBTggaleCvR4D) | [Alfralando](https://open.spotify.com/album/78YNA2i4g8tHaPHkm0ED15) | 3:15 |
+| 150 | [Youmna, Didn't it All End So Soon?](https://open.spotify.com/track/0MBqrq1eajzcB08ITCiwWQ) | [New Seven](https://open.spotify.com/artist/1wm2Qetez0IELnv1B0hjwJ) | [The Colossus of Uptown](https://open.spotify.com/album/6viH20D6GZhtZMMhsCJ494) | 2:40 |
 
-Snapshot ID: `NDk0OCw4ZGE5YTM4OTA4OWQ5ZDgzMmUyOTlmMDNkNTgzNTk2YjBhZjc3ODRl`
+Snapshot ID: `NDk1NyxhZDQ5NjY4NWYyMzQzOTU0MGEyYjVmMzI5OTNmZTkxNmQ5YzAwNDg4`

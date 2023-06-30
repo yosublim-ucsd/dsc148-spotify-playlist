@@ -9609,6 +9609,24 @@
     },
     {
       "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW"
+      },
+      "artists": [
+        {
+          "name": "Ambrosiae",
+          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154311,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo"
+    },
+    {
+      "album": {
         "name": "Like Home",
         "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
       },
@@ -12840,7 +12858,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 116718,
       "name": "Inside \u5185",
       "url": "https://open.spotify.com/track/1fFH5FN5xZx2WT2dBXm4qx"

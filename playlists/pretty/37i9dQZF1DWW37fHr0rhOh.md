@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,248 likes - 58 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,282 likes - 58 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 57 | [Amazing Grace](https://open.spotify.com/track/43Bq77lTBLMxEf5phduzKH) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Down Home Christmas](https://open.spotify.com/album/1hpnqLkobWtW7ZmufnofeA) | 2:03 |
 | 58 | [Your Ways Are Higher Than Mine](https://open.spotify.com/track/3AgH9cu0oUrVQUb99TyAEi) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc) | [Mercy & Love](https://open.spotify.com/album/5efaQ2tF2R8HkroQ9rB3ew) | 4:00 |
 
-Snapshot ID: `MCwxN2VjN2E1YmUyYTk0ZDZiMWM4MTI2NTQxNWI4NzU5ZDcxMTcwM2Jl`
+Snapshot ID: `MCw0ODcyODg4OTI5NGZkZTllNGEwMGMwZjE0YTk0M2Q4YjJmY2Y0MWY2`

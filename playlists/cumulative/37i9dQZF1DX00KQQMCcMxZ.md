@@ -4,7 +4,7 @@
 
 > Beat distraction and stay on task with these bird sounds to for your \(home\) office workday.
 
-52 songs - 2 hr 11 min
+54 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,14 +19,14 @@
 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 | 2022-10-28 |  |
 | [Birds In The Woods](https://open.spotify.com/track/1jMqE6saRqcpmglq4B2Bcd) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Early Summer Birds Vol\. 1](https://open.spotify.com/album/00rJPgbMjFWxp3taHNlH7A) | 1:41 | 2022-10-28 | 2023-06-20 |
 | [Birds Of Yosemite In The Morning](https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2) | [Feathered Tranquility](https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC) | [Birds Of Yosemite](https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu) | 2:50 | 2022-10-28 |  |
-| [Black Birds in the park](https://open.spotify.com/track/2TcNxcpGr2EqwfA5lnb98y) | [Los Pájaros Cantores](https://open.spotify.com/artist/54rOAQdy1JZ7lmDX77MNOA) | [Black Birds in the park](https://open.spotify.com/album/6KaD0DIs1XpXip1Aj29Xnr) | 2:29 | 2023-06-19 |  |
+| [Black Birds in the park](https://open.spotify.com/track/2TcNxcpGr2EqwfA5lnb98y) | [Los Pájaros Cantores](https://open.spotify.com/artist/54rOAQdy1JZ7lmDX77MNOA) | [Black Birds in the park](https://open.spotify.com/album/6KaD0DIs1XpXip1Aj29Xnr) | 2:29 | 2023-06-19 | 2023-06-30 |
 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 | 2022-10-28 |  |
 | [blackbird spring ambience](https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Blackbird Spring Ambience](https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h) | 1:42 | 2022-10-28 | 2023-06-20 |
 | [Calming River and Birds](https://open.spotify.com/track/6adenoqGem4ct6StQqJGDk) | [Lucila Blanco](https://open.spotify.com/artist/51h2aIvJRuUKKug9FG9Zlx) | [Calming River and Birds](https://open.spotify.com/album/4LtLMvR1X1qknoa4VtnuWt) | 2:17 | 2023-06-19 |  |
 | [Clear Creek](https://open.spotify.com/track/4jQHltMu5EIuktvQYivjbg) | [Lave](https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK) | [Clear Creek](https://open.spotify.com/album/7tMxYukzhoL5zCMQQif70L) | 3:20 | 2022-10-28 |  |
 | [Close to Nature](https://open.spotify.com/track/4JJfSzfcmlUIiebTu4getf) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:19 | 2022-10-28 | 2023-06-20 |
 | [Crows In The Forest](https://open.spotify.com/track/1IYsyuj3b2nIg0BQgAh8q8) | [Winding Down](https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX) | [Swedish Forest Birds](https://open.spotify.com/album/6QsQPOS6dW5aGR99qf37Z4) | 2:59 | 2023-03-03 |  |
-| [Early Bird Sound](https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Early Bird Sound](https://open.spotify.com/album/42ML1JDCRsl9aRWxDEy7Mv) | 2:21 | 2022-10-28 |  |
+| [Early Bird Sound](https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Early Bird Sound](https://open.spotify.com/album/42ML1JDCRsl9aRWxDEy7Mv) | 2:21 | 2022-10-28 | 2023-06-30 |
 | [Early Summer Birds](https://open.spotify.com/track/3tvAaXiUZAyMPae7NZFGGI) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 2:10 | 2022-10-28 |  |
 | [Evening Twitter](https://open.spotify.com/track/56IQIsik0oPXERemlFafdu) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Birds \- vol.1](https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P) | 2:52 | 2022-10-28 |  |
 | [Forest Bird](https://open.spotify.com/track/0GC8vCFKNHjC2myLf1o8v2) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Birds \- vol.1](https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P) | 3:02 | 2022-10-28 |  |
@@ -50,6 +50,8 @@
 | [Ocean Winds And Birds](https://open.spotify.com/track/0Ky7FA9AeAsAGiLUW7fKUv) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Lake Side Bird Sound](https://open.spotify.com/album/4HYEHOfBqQCE5yVtphnh3u) | 2:31 | 2022-10-28 |  |
 | [Orchid Stories](https://open.spotify.com/track/6RXBc2H5MRu2dPMFfGUB87) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Orchid Stories](https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V) | 3:46 | 2022-10-28 |  |
 | [Park Bird Fountain](https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:50 | 2022-10-28 |  |
+| [Park Birds](https://open.spotify.com/track/0oeGHx6RGBv7fiWj3J5yCz) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Birds Chirping Blues](https://open.spotify.com/album/0Dnwydy2uL0wtmbk4r6rNK) | 2:12 | 2023-06-19 |  |
+| [Peaceful Birds Singing](https://open.spotify.com/track/6ZxXt9Pmy7x6OVzxzngHWw) | [Hola Pájaros](https://open.spotify.com/artist/50vXpS8CxYIfp65eisEQWU) | [Peaceful Birds Singing](https://open.spotify.com/album/17HeEfEffSnIpbQTr5xgEY) | 2:00 | 2023-06-19 |  |
 | [Raindrops In The Forest \- Seamless](https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9) | [The Sleepy Forest](https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN) | [Timber Slumber](https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg) | 3:02 | 2022-10-28 |  |
 | [River Birds \(Green Noise 220Hz HP\)](https://open.spotify.com/track/3Lr6j4FjEiaZAEjp6yUyRY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:22 | 2023-06-19 |  |
 | [Soothing Morning Birds](https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 2](https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk) | 3:08 | 2022-10-28 |  |

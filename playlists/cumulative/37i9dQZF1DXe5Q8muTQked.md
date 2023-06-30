@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-647 songs - 1 day 15 hr 45 min
+648 songs - 1 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [New Slang](https://open.spotify.com/track/7lCzEKcxTwvRlAT2hOwBIp) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Film Songs](https://open.spotify.com/album/2QF2nWpC2y5Gy8uNrUz4sg) | 3:18 | 2021-10-20 | 2022-07-07 |
 | [Next to Me](https://open.spotify.com/track/797CLA4YDOQc4ksp11r95o) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb), [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Next to Me](https://open.spotify.com/album/00t7CXQkp8jk5E8hmmukpk) | 3:23 | 2021-10-20 | 2022-06-19 |
 | [Nick Of Time](https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Nick Of Time](https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX) | 4:10 | 2022-07-18 |  |
+| [No Diggity](https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M) | 3:41 | 2023-02-24 |  |
 | [No Diggity](https://open.spotify.com/track/2xD7RvKFJl52xyds3wQFXQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/1lqdYmOceSVAulxV7YuD7L) | 3:41 | 2022-06-10 | 2023-06-23 |
 | [No Need To Argue](https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [No Need To Argue](https://open.spotify.com/album/7gQuPkANfJX8bHWJypWDlX) | 3:13 | 2021-10-20 | 2022-07-21 |
 | [No Ordinary Love](https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 4:09 | 2021-10-20 | 2022-07-29 |
@@ -437,7 +438,7 @@
 | [One](https://open.spotify.com/track/5e7OZ8PyDJYQdGAiidCPad) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 2:53 | 2023-02-24 |  |
 | [Ordinary World](https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Ordinary World](https://open.spotify.com/album/0yN19KuHWWvVMcaC7ygfIp) | 5:14 | 2021-10-20 |  |
 | [Out of the Woods \(Acoustic\) \[feat\. Jake Coco\]](https://open.spotify.com/track/7zPRddWOwc5yH7ugaT6lpP) | [Savannah Outen](https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX), [Jake Coco](https://open.spotify.com/artist/6WyeyhNDpeIVbznnztFDQZ) | [Out of the Woods \(Acoustic\) \[feat\. Jake Coco\]](https://open.spotify.com/album/1GeT7oUQgVrTU9vsVkcRjQ) | 3:49 | 2021-10-20 | 2022-07-11 |
-| [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 | 2021-10-20 |  |
+| [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 | 2021-10-20 | 2023-06-30 |
 | [Patience](https://open.spotify.com/track/1x5VqEB9VMmbJ0ICfrpGzZ) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Busted Jukebox, Volume 1](https://open.spotify.com/album/3UHGDyigOGGTj4DyTanLxV) | 5:26 | 2022-06-10 | 2022-07-23 |
 | [Payphone](https://open.spotify.com/track/5h3Wapr8ZukuHRZ5XMMejV) | [Jayesslee](https://open.spotify.com/artist/1xqkT06p85DIZeqrlVGVWv) | [Payphone](https://open.spotify.com/album/50MkaMTSbHu9O2f4puTIiv) | 3:04 | 2022-06-10 |  |
 | [Perfect](https://open.spotify.com/track/3D8yrQUKBcOKpJglrRT0MT) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Perfect](https://open.spotify.com/album/3L87d5pBbyRyi5VYnC3Mk7) | 4:48 | 2021-10-20 | 2022-07-25 |

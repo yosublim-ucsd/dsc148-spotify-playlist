@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,683 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,768 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Good Love \(feat\. General Levy\)](https://open.spotify.com/track/46En06kODv5V6uj9nwoLmj) | [Reggae Roast](https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Good Love \(feat\. General Levy\)](https://open.spotify.com/album/6JRuF0Vy647e0oeqEZTA7b) | 3:03 |
 | 50 | [Same Ole Song](https://open.spotify.com/track/7iCUiFVauafAFjY7EbBJsW) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Now I Rise \(Deluxe Edition\)](https://open.spotify.com/album/60k6wvQw02aUj1Ds6GnPtD) | 3:57 |
 
-Snapshot ID: `MCw2MjNlN2E2ZWMxNTM3NTUzNzcyMzMwNWZiMDA5MmY4OWI2Y2YyMjFm`
+Snapshot ID: `MCxiYmZjYTY0ZDE2NjE5ZjY1ZTU5M2U2OGI1NzRkZGE5N2Q2YTEzZTFk`

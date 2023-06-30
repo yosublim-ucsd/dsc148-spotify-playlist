@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Russ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,619,171 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,619,305 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 36 | [Pinot Noir](https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:55 |
 | 37 | [Questions](https://open.spotify.com/track/1vB79KSHk7mAMufH8AHniQ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:14 |
 | 38 | [Orange Village](https://open.spotify.com/track/3ZUgG228RG5bbRGsF3OzDg) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 3:41 |
-| 39 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
-| 40 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 |
+| 39 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 |
+| 40 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 | 41 | [Game 6](https://open.spotify.com/track/2NpAwkhQZDFD1kWR1ZxuWM) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [C Dot Castro](https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6), [halfBREED](https://open.spotify.com/artist/2OKpImEHt9ug1QUHp56tQj) | [3P](https://open.spotify.com/album/7oct4g7sEmjOy2kw8RkrCd) | 3:36 |
 | 42 | [pg baby \- Remix](https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [pg baby \(Remix\)](https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R) | 4:09 |
 | 43 | [The Game](https://open.spotify.com/track/1FTQhbMT3Wl7CoRS4jA2LK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [The Game](https://open.spotify.com/album/1iFw5aFJCIV4xLrvWdSdoH) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/track/1wea451SlpJfqRy4YVK867) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j) | 2:58 |
 | 50 | [89 Earthquake](https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [89 Earthquake](https://open.spotify.com/album/5cbiVwhOtdorDA5YVPyclL) | 3:12 |
 
-Snapshot ID: `MCxhYjkxY2VhMmJjMzM1OGNlY2M0ODlkNTg3MmMwYTAxMzFiOWEwNTJk`
+Snapshot ID: `MCwxYzA4OTlkMTQwNmU3Mjc3ZTMxZDFjMzNjMmNiNjc5MTNjMDEzOGNh`

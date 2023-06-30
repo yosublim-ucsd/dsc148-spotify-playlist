@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: MOLY",
-  "num_followers": 1833283,
+  "num_followers": 1833408,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDAzOWU5MGY3OWE3MDU5OGVmYzU0YTgwNWJjOGY2YTdlNTk0OTcy",
+  "snapshot_id": "MCxmYjhmMWNiMzJiM2U2NjcwMzcxMzhmMmQwMmVlOTlhYzZjM2I4MWRi",
   "tracks": [
     {
       "added_at": "2023-06-23 05:39:22",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
+        "name": "Mi Musica",
+        "url": "https://open.spotify.com/album/2jEEoXy1jY7qzWbjWzAI7o"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 344626,
+      "name": "Como Te Hago Entender",
+      "url": "https://open.spotify.com/track/588fZDQv1c7F3iP68Pp3My"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -343,18 +359,18 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
-        "name": "Mi Musica",
-        "url": "https://open.spotify.com/album/2jEEoXy1jY7qzWbjWzAI7o"
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
       },
       "artists": [
         {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 344626,
-      "name": "Como Te Hago Entender",
-      "url": "https://open.spotify.com/track/588fZDQv1c7F3iP68Pp3My"
+      "duration_ms": 272680,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
     },
     {
       "added_at": "2023-06-23 05:39:22",
@@ -375,22 +391,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
-        "name": "Que Suenen los Tambores",
-        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "No Quer\u00eda Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
     },
     {
       "added_at": "2023-06-23 05:39:22",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
-        "name": "De Costa a Costa",
-        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Civico",
-          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Te Voy a Hacer Feliz",
-      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
         "name": "Exitos de Victor Manuelle",
         "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 303133,
       "name": "He Tratado",
       "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
+        "name": "De Costa a Costa",
+        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Civico",
+          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
+        }
+      ],
+      "duration_ms": 309760,
+      "name": "Te Voy a Hacer Feliz",
+      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
     },
     {
       "added_at": "2023-06-23 05:39:22",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
+        "name": "Busco Un Pueblo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Si T\u00fa Me Besas",
+      "url": "https://open.spotify.com/track/5981zpjMYeKGoEQ6K9794L"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
         "name": "Pa' Bravo Yo",
         "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 327000,
       "name": "Vuelvo A Sentir",
       "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
-        "name": "Busco Un Pueblo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Si T\u00fa Me Besas",
-      "url": "https://open.spotify.com/track/5981zpjMYeKGoEQ6K9794L"
     },
     {
       "added_at": "2023-06-23 05:39:22",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+      },
+      "artists": [
+        {
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+        }
+      ],
+      "duration_ms": 374840,
+      "name": "La Pantera Mambo",
+      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
         "name": "Canciones Del Solar De Los Aburridos",
         "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 388160,
       "name": "Te Est\u00e1n Buscando",
       "url": "https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
-      },
-      "artists": [
-        {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
-        }
-      ],
-      "duration_ms": 374840,
-      "name": "La Pantera Mambo",
-      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
     },
     {
       "added_at": "2023-06-23 05:39:22",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
-        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
-        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 153608,
-      "name": "Acuyuye",
-      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 449640,
       "name": "Aparentemente - En Vivo",
       "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
+        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
+        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 153608,
+      "name": "Acuyuye",
+      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
     },
     {
       "added_at": "2023-06-23 05:39:22",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
+        "name": "FOREVER KING",
+        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 185575,
+      "name": "Sincero (Salsa)",
+      "url": "https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 267332,
       "name": "Enam\u00f3rate Bailando",
       "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
-        "name": "Serie Millennium 21: Paquito Guzman",
-        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
-      },
-      "artists": [
-        {
-          "name": "Paquito Guzman",
-          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "Cinco Noches",
-      "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
     },
     {
       "added_at": "2023-06-23 05:39:22",
@@ -1187,18 +1187,50 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
-        "name": "FOREVER KING",
-        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
+        "name": "Serie Millennium 21: Paquito Guzman",
+        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Paquito Guzman",
+          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
         }
       ],
-      "duration_ms": 185575,
-      "name": "Sincero (Salsa)",
-      "url": "https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb"
+      "duration_ms": 309253,
+      "name": "Cinco Noches",
+      "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
+        "name": "MP 10th Anniversary",
+        "url": "https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 321733,
+      "name": "Siempre Sere",
+      "url": "https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 384800,
+      "name": "Tu No Sabes Querer",
+      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
     },
     {
       "added_at": "2023-06-23 05:39:22",
@@ -1223,38 +1255,6 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 384800,
-      "name": "Tu No Sabes Querer",
-      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
-        "name": "MP 10th Anniversary",
-        "url": "https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 321733,
-      "name": "Siempre Sere",
-      "url": "https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
         "name": "Pa'lante",
         "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
       },
@@ -1267,6 +1267,26 @@
       "duration_ms": 258933,
       "name": "Los Campeones De La Salsa",
       "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 263631,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
     },
     {
       "added_at": "2023-06-23 05:39:22",
@@ -1319,26 +1339,6 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 263631,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
-        "name": "Pas\u00e1ndola bien",
-        "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 174411,
-      "name": "Pas\u00e1ndola bien",
-      "url": "https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
         "name": "Todav\u00eda Te Espero",
         "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 192063,
       "name": "Todav\u00eda Te Espero",
       "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
+        "name": "Pas\u00e1ndola bien",
+        "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 174411,
+      "name": "Pas\u00e1ndola bien",
+      "url": "https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4"
     },
     {
       "added_at": "2023-06-23 05:39:22",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
-        "name": "Volver a Casa",
-        "url": "https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 224691,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
         "name": "Empezando Otra Vez",
         "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 248325,
       "name": "Te Equivocaste Conmigo",
       "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
+        "name": "Volver a Casa",
+        "url": "https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 224691,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL"
     },
     {
       "added_at": "2023-06-23 05:39:22",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-06-23 05:39:22",
       "album": {
+        "name": "Ya No Te Amo",
+        "url": "https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 236257,
+      "name": "Ya No Te Amo",
+      "url": "https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi"
+    },
+    {
+      "added_at": "2023-06-23 05:39:22",
+      "album": {
         "name": "Nuestra Esquina",
         "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 176360,
       "name": "Salsa",
       "url": "https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n"
-    },
-    {
-      "added_at": "2023-06-23 05:39:22",
-      "album": {
-        "name": "Ya No Te Amo",
-        "url": "https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 236257,
-      "name": "Ya No Te Amo",
-      "url": "https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi"
     },
     {
       "added_at": "2023-06-23 05:39:22",

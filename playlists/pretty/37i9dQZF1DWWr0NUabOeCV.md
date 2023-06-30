@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr0NUabOeCV.md) - [plain]
 
 > Para iniciar la fiesta\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,153 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,157 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr0NUabOeCV.md) - [plain]
 | 78 | [Imposible Amor](https://open.spotify.com/track/5zRusJsWuFeLu2sICWvVDF) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:08 |
 | 79 | [Emojis de Corazones \(feat\. Los Legendarios\)](https://open.spotify.com/track/5Mw46yRtdiOdjqSG0eDItr) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Emojis de Corazones \(feat\. Los Legendarios\)](https://open.spotify.com/album/6hdSXoNAfGg4cRUzM94EBR) | 5:03 |
 | 80 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 |
-| 81 | [Poderosa](https://open.spotify.com/track/1Hs0fpydWBjawdgCocPaC7) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Poderosa](https://open.spotify.com/album/2uHtmuxFlU05JMjiM5EsjQ) | 3:42 |
-| 82 | [Se Menea](https://open.spotify.com/track/6nrK3vUz8RWU8kbQsulsck) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:10 |
+| 81 | [Se Menea](https://open.spotify.com/track/6nrK3vUz8RWU8kbQsulsck) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:10 |
+| 82 | [Poderosa](https://open.spotify.com/track/1Hs0fpydWBjawdgCocPaC7) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Poderosa](https://open.spotify.com/album/2uHtmuxFlU05JMjiM5EsjQ) | 3:42 |
 | 83 | [La Oficial \- Remix](https://open.spotify.com/track/5JpUhPdInQTkknuw1wYoA1) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Oficial \(Remix\)](https://open.spotify.com/album/2CytLArktzEP6k1ran6G7j) | 3:39 |
 | 84 | [Jerusalema \(feat\. Micro TDH, Greeicy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(feat\. Micro TDH, Greeicy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/album/0f7eKFD7GWis0BuKXaikB5) | 3:38 |
 | 85 | [Amor Narcótico](https://open.spotify.com/track/24LO2UMNHWNoPZnhdAw4TO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr0NUabOeCV.md) - [plain]
 | 99 | [No Se Olvida](https://open.spotify.com/track/4q97rK525tPgSCuxs8FaKe) | [Jay Menez](https://open.spotify.com/artist/5RVuxgqu3esPo4LIrf4HUs), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [No Se Olvida](https://open.spotify.com/album/6Qs5LGli3TakgNFunsGJ3y) | 3:29 |
 | 100 | [Como Tu Me Querias \- Remix](https://open.spotify.com/track/3YuQh5QyxcoqrBI7xWFan3) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Como Tu Me Querias \(Remix\)](https://open.spotify.com/album/1WN0Pi20lOvJCIcmldZ7EZ) | 3:38 |
 
-Snapshot ID: `MCwzYWQ2M2IzODE3NDkzMmM0YzUxN2ZjMzViMWYxNjFjOTYwOWU2Yjc0`
+Snapshot ID: `MCxjN2IyOGEyOGQ2MzhiYTdmNmFhZWI5ZTA5MjY1OTEwZDFhOTljNjJh`

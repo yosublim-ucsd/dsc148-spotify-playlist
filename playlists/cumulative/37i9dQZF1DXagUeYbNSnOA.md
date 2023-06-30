@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Oliva\. Updates every Wednesday.
 
-1,214 songs - 2 day 18 hr 44 min
+1,217 songs - 2 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [AAP](https://open.spotify.com/track/5KoFGCIAuX9aFVUXaJawvW) | [Cosmic Brothers](https://open.spotify.com/artist/08tsg7xu6UKkxOjSqvn8ba) | [AAP](https://open.spotify.com/album/0vpfrMyERPmFF1wA7XqOeJ) | 5:41 | 2023-04-26 | 2023-05-11 |
 | [Acantilados](https://open.spotify.com/track/0CqNDLl4FNttIkXRsGseGW) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Acantilados](https://open.spotify.com/album/6zwTdrtd3h7xbuTK3a6fpM) | 3:11 | 2022-08-24 | 2022-09-17 |
 | [ACROMÁTICO](https://open.spotify.com/track/4XnwWj5MCSJhPuIYHAMmmo) | [Ill Quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [ACROMÁTICO](https://open.spotify.com/album/2HFrbwhL2OproOh3xlr4Is) | 2:50 | 2022-02-23 | 2022-03-03 |
+| [Acá](https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Acá](https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc) | 3:28 | 2023-06-28 |  |
 | [Acércate](https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1) | [iLLGrindio](https://open.spotify.com/artist/3ou2XazR60t7BJGYCdwZPR), [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl), [S.A.B.O.R.](https://open.spotify.com/artist/6ByRR3G4Bzmt0sP3X1VDOF) | [Acércate](https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s) | 3:15 | 2022-08-31 | 2023-01-13 |
 | [Adamantcore](https://open.spotify.com/track/13MZoSzpGMXXQEJvL4zWFP) | [Eduardo Sanz](https://open.spotify.com/artist/0cbVvkUuJKKA2IeUc3R35Q), [Sairo](https://open.spotify.com/artist/5SYKVmpU4BRNXJEne0oL3O) | [Adamantcore](https://open.spotify.com/album/7p0Vw2CNMlGNhAjGbRgxGs) | 1:56 | 2023-03-22 | 2023-04-06 |
 | [Adicta](https://open.spotify.com/track/3hmuvslh6nU6lHi0QxIMsn) | [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh) | [Adicta](https://open.spotify.com/album/15NSR3NJJZJYU8Be5zFbUv) | 2:04 | 2022-03-02 | 2022-03-17 |
@@ -216,6 +217,7 @@
 | [Chiki Bombón](https://open.spotify.com/track/0nfsrNIB814CthJad7fBth) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Chiki Bombón](https://open.spotify.com/album/1WEGwNXItdSQ4FubJpfzMn) | 2:02 | 2022-11-10 | 2022-12-01 |
 | [Chill Ish](https://open.spotify.com/track/1GzqJgkd2brZEoXtf1ctVV) | [NOVA](https://open.spotify.com/artist/6hMxAjfLqgMK5P7oBGXdOT) | [Chill Ish](https://open.spotify.com/album/1SGLItMEtFK3IFwMyM6lOD) | 2:05 | 2022-03-30 | 2022-04-14 |
 | [Chingar](https://open.spotify.com/track/1ObJpcl278iy6QQRDxthNv) | [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Chingar](https://open.spotify.com/album/5Vz2CB22pxl6YkL8FA2PRX) | 2:07 | 2022-07-21 | 2022-09-01 |
+| [CHORO](https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz) | [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [CHORO](https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj) | 3:17 | 2023-06-28 |  |
 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 | 2022-03-23 | 2022-03-31 |
 | [Cien años](https://open.spotify.com/track/7KLhPz5CZC2XSXuNT5NHiV) | [daniel srz](https://open.spotify.com/artist/5jBGih882ShpfBCyxehUG5) | [Cien años](https://open.spotify.com/album/2FVT3Zdy3bWnKlcbFF9Y9S) | 3:27 | 2023-04-19 | 2023-05-04 |
 | [Cierra xfa al salir](https://open.spotify.com/track/6Wz1kOfguv8Pxf4FeXsGMG) | [Tomás Roca](https://open.spotify.com/artist/7tUu2H6RCutqIgP88lLLpw) | [Cierra xfa al salir](https://open.spotify.com/album/1rghrvsgzLiB10PMRFMBf7) | 3:14 | 2022-02-09 | 2022-03-24 |
@@ -1050,6 +1052,7 @@
 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 | 2022-01-26 | 2022-02-03 |
 | [tal para cual](https://open.spotify.com/track/4lMmTToPlpzuEVo6vTjgvt) | [Lina Sanabria](https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV) | [tal para cual](https://open.spotify.com/album/2vnCpwlT0q7R11ve53x1Ji) | 2:21 | 2023-04-05 | 2023-04-20 |
 | [Tal Vez](https://open.spotify.com/track/07Q87LERyXdyuVN38bdbjg) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt) | [Tal Vez](https://open.spotify.com/album/3QMfaRwI7Dkt5dcZSOzuVi) | 3:24 | 2023-05-17 | 2023-06-08 |
+| [tal vez, no sé](https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj) | [Poli Sallustro](https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [tal vez, no sé](https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla) | 3:44 | 2023-06-28 |  |
 | [TAMAGOTCHI](https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [TAMAGOTCHI](https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn) | 3:19 | 2023-03-29 | 2023-04-13 |
 | [Tan Flojo](https://open.spotify.com/track/7L7mmaJEZWiLPNSOZvcf0I) | [Leia Destruye](https://open.spotify.com/artist/2iguSth7qkLlXCuYe2CnZ4) | [Tan Flojo](https://open.spotify.com/album/6yTfprlE17lrzLT5ze9hIr) | 3:23 | 2022-02-09 | 2022-02-24 |
 | [Tan Solo](https://open.spotify.com/track/4At4rnlpGqNAhR80W7lphR) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Tan Solo](https://open.spotify.com/album/28ZygUe1hJelEkFmwJAnkc) | 3:24 | 2022-06-15 | 2022-07-30 |

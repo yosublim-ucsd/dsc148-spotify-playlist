@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-636 songs - 1 day 13 hr 22 min
+638 songs - 1 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 | 2021-03-27\* | 2021-05-03 |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-05-12 | 2021-07-04 |
 | [House of Cards \- Full Length Edition](https://open.spotify.com/track/6S2gYweMmT6xygVh5q3QLa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:46 | 2022-04-22 | 2022-04-24 |
-| [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2021-09-12 |  |
+| [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2021-09-12 | 2023-06-30 |
 | [HUH?! \(feat\. j\-hope\)](https://open.spotify.com/track/6XrPzwKeGzEvtan3acn7VH) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 3:03 | 2023-04-22 | 2023-05-01 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-09 | 2023-04-22 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-12 | 2023-04-30 |
@@ -269,7 +269,8 @@
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-07-15 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-02 | 2022-07-17 |
 | [MORE](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 3:00 | 2022-07-16 | 2022-08-25 |
-| [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 | 2022-12-08 |  |
+| [MOVE \(T5\)](https://open.spotify.com/track/7EtNbIeSYjE4PeitHqEHhs) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [MOVE \(T5\)](https://open.spotify.com/album/3KDNE3XSLZWqHo1OVq55Ge) | 3:28 | 2023-06-29 |  |
+| [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 | 2022-12-08 | 2023-06-30 |
 | [Music Box : Reflection](https://open.spotify.com/track/0PJSXtjkdTjJzZAMyNus02) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:10 | 2022-07-16 | 2022-07-19 |
 | [My Life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [My Life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-22 | 2022-01-27 |
 | [My Love](https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:54 | 2021-07-28 | 2021-07-30 |
@@ -590,6 +591,7 @@
 | [เด็กเกินไป \(Too Young\)](https://open.spotify.com/track/48qHdp4mhFenZIBhejBqGU) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เด็กเกินไป \(Too Young\)](https://open.spotify.com/album/67cqHFhyafs48bApZD1xZW) | 3:46 | 2023-05-05 | 2023-05-23 |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 | 2023-04-29 |  |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/6DDPLoOXlHq44YrJGbhLYF) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/24cbTGdqDMQqIuhHqg39Dj) | 4:37 | 2023-03-13 | 2023-04-30 |
+| [เปิดตัวเขา \(Rebound\)](https://open.spotify.com/track/0gfAnUVd4sH8IiCWvF3j9P) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เปิดตัวเขา \(Rebound\)](https://open.spotify.com/album/0iHxB2tlyR3yg65fsniAdS) | 3:38 | 2023-06-29 |  |
 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 | 2021-12-28 | 2022-05-28 |
 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/0mt8i1U8mZsptqKxEc4ScO) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/5p7h0FH5wQR7w8hRZPa8sO) | 3:09 | 2021-04-18 | 2021-06-18 |
 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 | 2022-07-11 | 2022-08-21 |

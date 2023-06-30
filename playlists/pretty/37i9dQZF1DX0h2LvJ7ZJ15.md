@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,642 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,425 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 27 | [help\_urself \- slowed](https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [help\_urself \(Alternates\)](https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46) | 2:31 |
 | 28 | [Meh \(Banakula\) \- Slowed](https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [Hal Walker](https://open.spotify.com/artist/6GD3EDNcRB99xxR6g7Fnrw) | [Banakula @ Meh \(Original\)](https://open.spotify.com/album/6ZnmsjIq9ZSe9MXwaZ6QQs) | 1:46 |
 | 29 | [Where's My Love \- Slowed](https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 4:49 |
-| 30 | [Angel Baby \- Slowed](https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Angel Baby \(Slowed\)](https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w) | 4:22 |
-| 31 | [go \- Lower & Slower](https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:44 |
+| 30 | [go \- Lower & Slower](https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:44 |
+| 31 | [Angel Baby \- Slowed](https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Angel Baby \(Slowed\)](https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w) | 4:22 |
 | 32 | [Bananza \(Belly Dancer\) \- Slowed](https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Bananza \(Belly Dancer\) \[Remixes\]](https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj) | 2:33 |
 | 33 | [Escapism\. \- Slowed Down](https://open.spotify.com/track/4iQzqoAi1ETVOatMaHGptG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 4:47 |
 | 34 | [Vision \- Slowed](https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh) | 4:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Ease Off \- Slowed & Reverbed](https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Ease Off \(Slowed & Reverbed\)](https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9) | 2:41 |
 | 50 | [dirty laundry \- slowed](https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dirty laundry \(slowed\)](https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA) | 2:47 |
 
-Snapshot ID: `MCw0MzhhODQwMWZkZTQ0NmM1Mzg3Nzg0ZmY1NzM2YjE0M2JiMzI5MGMz`
+Snapshot ID: `MCwyNzI1Y2JlYWIzMThkNTZmNzcxYTc4ZWVhZTExZTkwYTdiODcwNjU2`

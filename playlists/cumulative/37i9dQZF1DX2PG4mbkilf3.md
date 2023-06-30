@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura with K\. Forest.
 
-677 songs - 1 day 11 hr 45 min
+679 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Angel Dust](https://open.spotify.com/track/3zh9krWqUtV7THEJA4gnw5) | [Kid Riz](https://open.spotify.com/artist/3prhbrzge1TX4LaZRSfwme) | [Angel Dust](https://open.spotify.com/album/1SgKGoNrQdQartSZJN3U1S) | 2:29 | 2022-11-11 | 2023-01-14 |
 | [Another](https://open.spotify.com/track/3yEUC5XUSxWv7Z4nkcYW4Q) | [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [Another](https://open.spotify.com/album/2wS9q6nJ6AL1KhRaD3JDc7) | 3:19 | 2023-06-09 | 2023-06-24 |
 | [Another Life](https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 4:30 | 2023-01-20 | 2023-01-28 |
-| [Answer Me](https://open.spotify.com/track/3aNWM9WRAk8npqbgnqe8rk) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Answer Me](https://open.spotify.com/album/37oMprXnH2grAsdwIxz8wp) | 2:36 | 2023-05-05 |  |
+| [Answer Me](https://open.spotify.com/track/3aNWM9WRAk8npqbgnqe8rk) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Answer Me](https://open.spotify.com/album/37oMprXnH2grAsdwIxz8wp) | 2:36 | 2023-05-05 | 2023-06-30 |
+| [Answer Me](https://open.spotify.com/track/5PTGrmvQqq8qixpEjdB846) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Answer Me](https://open.spotify.com/album/3El9ct5F4o5aFZM69XZxHh) | 2:36 | 2023-06-23 |  |
 | [Anxiety](https://open.spotify.com/track/3OOpuSZtqzhQ4kRKctLRMz) | [Elyssa Plaza](https://open.spotify.com/artist/1YCLRRvdz1Uj8wRjsT6Ghd) | [Anxiety](https://open.spotify.com/album/0fkIIczS0nBiX4Q4iGlSt2) | 4:19 | 2022-07-22 | 2022-12-06 |
 | [Aquatic](https://open.spotify.com/track/1tdQ0iZKTQxhXzjxk4cGkb) | [Ariel](https://open.spotify.com/artist/1vMyuVkbyTMmCukJ6fXOlZ) | [Aquatic](https://open.spotify.com/album/5HIH48lr519Cw3pTNsro9A) | 3:11 | 2023-06-02 |  |
 | [ARENA Y MAR](https://open.spotify.com/track/5j42bMuCeQHfQHC61QZEDO) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [ARENA Y MAR](https://open.spotify.com/album/10wlt2vpWYDy6XKDGvFYO4) | 2:33 | 2022-04-15 | 2022-09-10 |
@@ -469,7 +470,8 @@
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-22 | 2023-01-28 |
 | [Poison Ivy](https://open.spotify.com/track/2UnIW0DQShzvsojtzGeF16) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol), [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [Poison Ivy](https://open.spotify.com/album/3ssj5GjOwObWF7eiAoYUl0) | 3:57 | 2022-11-11 | 2023-02-11 |
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2022-02-18 | 2022-03-05 |
-| [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-02 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 | 2023-06-23 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-02 | 2023-06-30 |
 | [portrait of a dog](https://open.spotify.com/track/16ZMPVhi74SqGAV7LgnShL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [portrait of a dog](https://open.spotify.com/album/02zun2IzTOk511pLAxid8B) | 4:20 | 2022-11-04 | 2022-11-26 |
 | [Prayers 4 You](https://open.spotify.com/track/1pJItlGMs5opDqZ6EBkR7C) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Prayers 4 You](https://open.spotify.com/album/1fg0lbdDw1N4Eh5rT6fGcK) | 3:04 | 2023-03-03 | 2023-06-24 |
 | [Pressing Matters](https://open.spotify.com/track/7mIm5DdxPrraYVtrbsaN9I) | [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [Time Spent Running](https://open.spotify.com/album/6OTFlhMPbnTaZNGceucNSG) | 4:00 | 2023-06-23 |  |

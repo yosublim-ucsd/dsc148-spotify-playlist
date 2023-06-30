@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a new generation of party starters\. Cover: venbee
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,973 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,989 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 79 | [Over](https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Over](https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh) | 2:38 |
 | 80 | [I Think I Love You](https://open.spotify.com/track/2KZF6LTvlwYKwhStAWCd0f) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [I Think I Love You](https://open.spotify.com/album/1GqZAk1uPn3CToYZn0Uux1) | 4:12 |
 
-Snapshot ID: `MCxiMGViMjU1OTRmZWZmZDQyYTkyODU1NDBlNDAyZjg5ZmE1OWY0YWY2`
+Snapshot ID: `MCw0ODYxYzBkNDk2MDgzN2Y1ODgyZjZiZWJmOTJiNzAzZGNhZWNkNjJm`

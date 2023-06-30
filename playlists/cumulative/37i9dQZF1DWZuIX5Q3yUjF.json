@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Ethan",
+  "description": "Il meglio dell'R&B italiano. Cover: Martina May",
   "name": "anima R&B",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 184000,
       "name": "11:11",
       "url": "https://open.spotify.com/track/6vAWdsz8QiRgX8rVrfr6Vo"
@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "AlzoilVolume",
+        "url": "https://open.spotify.com/album/3OEiDswBTeQ5eRw5At341y"
+      },
+      "artists": [
+        {
+          "name": "cura",
+          "url": "https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "AlzoilVolume",
+      "url": "https://open.spotify.com/track/5IQj8IZkF2QbRStHCQwKl3"
+    },
+    {
+      "album": {
         "name": "Anima mundi",
         "url": "https://open.spotify.com/album/7pSPAplcwIKW6HxUUNhIRu"
       },
@@ -306,7 +324,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 171785,
       "name": "ascensore",
       "url": "https://open.spotify.com/track/1PHNQ4SfHZKi7pqokee82n"
@@ -954,7 +972,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 127500,
       "name": "Chill Dans",
       "url": "https://open.spotify.com/track/4q7Z57pZSuSDOPC2m7Ni7W"
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 147214,
       "name": "FACE",
       "url": "https://open.spotify.com/track/4F2kVTCr769etEgD8uvmeh"
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 157950,
       "name": "FCCV",
       "url": "https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA"
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 178333,
       "name": "Luna Piena",
       "url": "https://open.spotify.com/track/2ecfmSG3PujmDgWvoM1Ek0"
@@ -5212,7 +5230,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 188076,
       "name": "Rifugio",
       "url": "https://open.spotify.com/track/2MRYIey6I0JWuUOBoWwyi0"
@@ -5686,7 +5704,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 201244,
       "name": "Sola Stanotte",
       "url": "https://open.spotify.com/track/2TbycklvUML4V0SaGqrVT5"
@@ -6089,6 +6107,24 @@
     },
     {
       "album": {
+        "name": "Stupida Martina",
+        "url": "https://open.spotify.com/album/1OgHSe2ka7O9UnGge7dTOS"
+      },
+      "artists": [
+        {
+          "name": "Martina May",
+          "url": "https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140739,
+      "name": "Stupida Martina",
+      "url": "https://open.spotify.com/track/6Ut5ILQVSB8scoQo6Dzg2O"
+    },
+    {
+      "album": {
         "name": "Sugar Rush",
         "url": "https://open.spotify.com/album/1VsDxN8jgziHdGxw2KfNDr"
       },
@@ -6354,6 +6390,28 @@
       "duration_ms": 155948,
       "name": "Threeway",
       "url": "https://open.spotify.com/track/0JhPjKFuDsmBvMBdzcu8uS"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/02Z6hzwHFd70wMOu6Gsx1T"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG"
+        },
+        {
+          "name": "Simon Bayle",
+          "url": "https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221370,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2Hqrmiopo3VGV5BWUe1ThW"
     },
     {
       "album": {

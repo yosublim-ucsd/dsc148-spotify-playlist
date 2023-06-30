@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,029 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,185 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Kilómetros \- En Vivo](https://open.spotify.com/track/6Cqxghbtzx0DdnQYnMwpEw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [20 Años: El Show Más Feliz del Mundo \(En Vivo\)](https://open.spotify.com/album/3LcZw9ONp2XAz0VDJ5RILj) | 5:04 |
 | 100 | [Estrella Roja](https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:17 |
 
-Snapshot ID: `MCwwYTg3YzlmYTc4YjE0N2I1MDVhMzYzNjYwYTZkZWFiMjg2M2NiYTYx`
+Snapshot ID: `MCwxOGRiMzFmMDNmZDVmNTM0YjhiNDAyN2U5YjFlZGI3MmM5YjcyNWI1`

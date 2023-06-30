@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,461 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,525 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 52 | [Congo Man](https://open.spotify.com/track/6bEimNsHW93GcjvUqogT94) | [The Mighty Sparrow](https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV) | [Sparrow's Dance Party](https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ) | 6:10 |
 | 53 | [Movin To De Left](https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO) | [Nigel Lewis](https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F) | [Soca for De World](https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN) | 5:17 |
 | 54 | [Thunder](https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg) | [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 6:35 |
-| 55 | [X Man](https://open.spotify.com/track/2CTqniOs0vAGM2LvANZcl1) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd) | 3:39 |
-| 56 | [Get Something and Wave](https://open.spotify.com/track/0qfXpnvNnGozj1YFbxyYUn) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 6:33 |
+| 55 | [Get Something and Wave](https://open.spotify.com/track/0qfXpnvNnGozj1YFbxyYUn) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 6:33 |
+| 56 | [X Man](https://open.spotify.com/track/2CTqniOs0vAGM2LvANZcl1) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd) | 3:39 |
 | 57 | [Time to Wine](https://open.spotify.com/track/7vHNDw8TBapcpgCuYRWi70) | [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Greatest Hits](https://open.spotify.com/album/4DfzbF27kYsHoekRuGTV02) | 3:31 |
-| 58 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 |
-| 59 | [Stranger](https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D) | [Shadow](https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh) | [Just for You](https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs) | 5:38 |
+| 58 | [Stranger](https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D) | [Shadow](https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh) | [Just for You](https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs) | 5:38 |
+| 59 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 |
 | 60 | [Wining Season \(Remix\) \(feat\. Shaggy\)](https://open.spotify.com/track/2XarXxbztfFGrFaEhdQRyy) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Wining Season](https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW) | 4:01 |
 | 61 | [Thelma](https://open.spotify.com/track/4GnGD3F8t286bMNnmQSIGD) | [South South West](https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 4:15 |
 | 62 | [Miss Mary Medley: Jane / Royal Jail / Benwood Dick / Sa\-Sa\-Yea](https://open.spotify.com/track/1QjQrEMVt10aOm57zavRb3) | [The Mighty Sparrow](https://open.spotify.com/artist/72B35ex1QvVudcB7jMxcWV) | [Sparrow's Dance Party](https://open.spotify.com/album/5Zlr63YQNxkexlshBvvNTZ) | 9:55 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 76 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
 | 77 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
 | 78 | [Ethel](https://open.spotify.com/track/6fJEiKdVxkVezXI97thsWG) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 5:48 |
-| 79 | [Bitein Incex \(We Love De\)](https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx) | [Lovey](https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 4:13 |
-| 80 | [Party Start](https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ) | [Superblue](https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M), [Bunji](https://open.spotify.com/artist/4PO2u9qHDO4ORynHyfbcD6) | [Trini Gold](https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji) | 3:11 |
+| 79 | [Party Start](https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ) | [Superblue](https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M), [Bunji](https://open.spotify.com/artist/4PO2u9qHDO4ORynHyfbcD6) | [Trini Gold](https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji) | 3:11 |
+| 80 | [Bitein Incex \(We Love De\)](https://open.spotify.com/track/1smtevj9F3rxLgNaqYKmxx) | [Lovey](https://open.spotify.com/artist/3Ynz4tExwgetgB4umQZyCY) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 4:13 |
 
-Snapshot ID: `MCwzYTg5Y2NlMWU1MjQxYjY1NGM5ZDNjZTk2NGJmNjc2MzBmNWQzNmY2`
+Snapshot ID: `MCw0Y2I2MGU0YTkwOTM5NTg5NzRiMGEyNGI5NTg2NmM5ZTcxYjNkNWMx`

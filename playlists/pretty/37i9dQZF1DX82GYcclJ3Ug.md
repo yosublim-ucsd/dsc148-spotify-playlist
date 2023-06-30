@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. Just the very best new alternative tracks\. Cover: TALK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,348 likes - 128 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,435 likes - 128 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 127 | [Dress](https://open.spotify.com/track/1e1sZYG3Jm9TdgrL3lP2Lf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [See You In The Dark](https://open.spotify.com/album/4TtZH64f81Pv1Y7rpwqDBe) | 3:26 |
 | 128 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 |
 
-Snapshot ID: `MCxkY2JiYmQ2NTJkMTRhZjgwYTM4NTIzOTBlZjhjYWFmNDI3YzQyZmNm`
+Snapshot ID: `MCxiZjNlYzkyYzNhYTA2NTU0NzJlNmIzNjExODRhNzVkM2Y3NGJlMzky`

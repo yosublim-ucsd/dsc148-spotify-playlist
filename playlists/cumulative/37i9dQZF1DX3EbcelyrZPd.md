@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Nandy
 
-249 songs - 14 hr 7 min
+250 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Hadithi \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 2:38 | 2022-08-19 |  |
 | [Halichachi](https://open.spotify.com/track/6SWpURhRKx8IN6IXzCSV2S) | [Amber Lulu](https://open.spotify.com/artist/7eaEAJe6zgz9QVfEEP3dUg), [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Halichachi](https://open.spotify.com/album/5Uz3x5jAmxJuUQBDEFLhvb) | 3:25 | 2022-02-24 | 2022-10-22 |
 | [Hoi](https://open.spotify.com/track/5zhCjE9KiUCqZeKBwnsgIv) | [Hussein Machozi](https://open.spotify.com/artist/20okzd1cjkWwWOq4KvBszc), [Mr Blue](https://open.spotify.com/artist/1JPiOesbMiBVxVwjDYzOu2) | [Hoi](https://open.spotify.com/album/2bzN3eovanDiVHhnW9afer) | 3:06 | 2023-01-12 | 2023-05-05 |
-| [How You Move](https://open.spotify.com/track/1bDINdR04Sqsnc9Wtu4XYD) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t) | [Make You Dance](https://open.spotify.com/album/76JePhiYaCK9EM1T1U9yRT) | 3:06 | 2023-02-02 |  |
+| [How You Move](https://open.spotify.com/track/1bDINdR04Sqsnc9Wtu4XYD) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t) | [Make You Dance](https://open.spotify.com/album/76JePhiYaCK9EM1T1U9yRT) | 3:06 | 2023-02-02 | 2023-06-30 |
 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 | 2022-11-17 |  |
 | [I Don't Care](https://open.spotify.com/track/2Bu813f6x8IRpYVshM2emk) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [I Don't Care](https://open.spotify.com/album/5JSP0Znmydeo5t7fXQtR3h) | 3:00 | 2022-01-20 | 2022-07-30 |
 | [I Found Love](https://open.spotify.com/track/66Eq3ywylcI3TazQ9ivf89) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:56 | 2023-05-11 |  |
@@ -218,6 +218,7 @@
 | [Superstar](https://open.spotify.com/track/0MEo0is8RinzoUGYvy3BgK) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Superstar](https://open.spotify.com/album/4G7Ss5mK4cMH81YEF7cj8U) | 4:38 | 2022-10-07 | 2023-04-07 |
 | [Swagg](https://open.spotify.com/track/3U1wjyEjTcdGQUTwsGHrpY) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Swagg](https://open.spotify.com/album/3sz09gojJ618LB5ilGNhTA) | 3:31 | 2021-11-25 | 2022-03-25 |
 | [Sweet \(feat\. Guchi\)](https://open.spotify.com/track/0Gh9xbOUSSxN9ufKazx4JZ) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Sweet \(feat\. Guchi\)](https://open.spotify.com/album/1yEsOT4CfaR47lFXfXUcHJ) | 3:00 | 2021-09-02 | 2022-08-20 |
+| [Tajiri](https://open.spotify.com/track/4m6fKxNk1aJG8qY7eSX5CG) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Tajiri](https://open.spotify.com/album/3NfSoXOGS1wtJAXgM1Mjwd) | 2:55 | 2023-06-29 |  |
 | [Tamu](https://open.spotify.com/track/1RQIkjqlcOedo5V3XuVz4p) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Phina](https://open.spotify.com/artist/0P8iG03KHWTtOIcGUtBZGx) | [Tamu](https://open.spotify.com/album/2ECJ66uDhZZ1N7PFPMjblN) | 2:47 | 2022-07-21 | 2023-03-18 |
 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 | 2021-10-14 | 2022-09-02 |
 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 | 2021-12-06 | 2022-05-13 |

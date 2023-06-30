@@ -4211,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Normalize",
+        "url": "https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259868,
+      "name": "Normalize",
+      "url": "https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA"
+    },
+    {
+      "album": {
         "name": "North Of No South (Edit)",
         "url": "https://open.spotify.com/album/71u1QkBnNqfPdz6ZUKvztb"
       },
@@ -5601,6 +5619,24 @@
     },
     {
       "album": {
+        "name": "St. Charles Square",
+        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235325,
+      "name": "St. Charles Square",
+      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
+    },
+    {
+      "album": {
         "name": "St. Girlfriend",
         "url": "https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w"
       },
@@ -6626,6 +6662,24 @@
       "duration_ms": 183626,
       "name": "We Can't Be Tamed",
       "url": "https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq"
+    },
+    {
+      "album": {
+        "name": "We Didn\u2019t Start The Fire",
+        "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215530,
+      "name": "We Didn\u2019t Start The Fire",
+      "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
     },
     {
       "album": {

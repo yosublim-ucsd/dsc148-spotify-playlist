@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ozuna & Omah Lay",
-  "num_followers": 110419,
+  "num_followers": 110468,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzQ1YjRhY2FjNWM4M2E5YTFlYzk1MTMxYjBkMjk1Yzk0MTMzMjcy",
+  "snapshot_id": "MCwxMGY1NTJmNDAwOTUxZmUzMzZlYTFiNGRlNTUyZGYwNWFkNzA4YzY5",
   "tracks": [
     {
       "added_at": "2023-05-26 17:02:35",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "MAMACITA",
-        "url": "https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP"
-      },
-      "artists": [
-        {
-          "name": "Natalia Paris",
-          "url": "https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 257368,
-      "name": "MAMACITA",
-      "url": "https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
         "name": "Drogba (Joanna) [Global Latin Version]",
         "url": "https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 206000,
       "name": "MOSLADO",
       "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP"
+      },
+      "artists": [
+        {
+          "name": "Natalia Paris",
+          "url": "https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 257368,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1075,26 +1075,6 @@
       "duration_ms": 182542,
       "name": "Claramente",
       "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
-        "name": "Hapo Tu (feat. Chris Kaiga)",
-        "url": "https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        },
-        {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        }
-      ],
-      "duration_ms": 187555,
-      "name": "Hapo Tu (feat. Chris Kaiga)",
-      "url": "https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1483,6 +1463,30 @@
       "duration_ms": 196973,
       "name": "Diggy Dee - Remix",
       "url": "https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
+        "name": "Te Gusta",
+        "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
+      },
+      "artists": [
+        {
+          "name": "Young \"D\"",
+          "url": "https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Ayo Jay",
+          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+        }
+      ],
+      "duration_ms": 206538,
+      "name": "Te Gusta",
+      "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
     }
   ],
   "unique_name": "Afro Ritmo",

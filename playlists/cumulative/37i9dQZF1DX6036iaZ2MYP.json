@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Complete",
+        "url": "https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160862,
+      "name": "Complete",
+      "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
+    },
+    {
+      "album": {
         "name": "Confusion (Amapiano RMX)",
         "url": "https://open.spotify.com/album/1RHsdPiTmMEQ3fF9N6OVNL"
       },
@@ -923,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Dimelow",
+        "url": "https://open.spotify.com/album/5D2iAKY4L35FmU5RgzJ9d8"
+      },
+      "artists": [
+        {
+          "name": "Eye's Berg",
+          "url": "https://open.spotify.com/artist/7CayiktXZ1bRAkG9qGsctx"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "Dimelow",
+      "url": "https://open.spotify.com/track/0PIJ9YEzuNtv63wNEtiwwS"
+    },
+    {
+      "album": {
         "name": "MOOD3 (Glish)",
         "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
       },
@@ -1022,6 +1058,24 @@
       "duration_ms": 104357,
       "name": "Drunk in Love (Henny)",
       "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
+    },
+    {
+      "album": {
+        "name": "R\u00e9tro",
+        "url": "https://open.spotify.com/album/4MsxRqiIlAvYLVgNT1AVp1"
+      },
+      "artists": [
+        {
+          "name": "La Famax",
+          "url": "https://open.spotify.com/artist/3Ii7kCftek6SPKPEZx3GYE"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161752,
+      "name": "Du Yeye",
+      "url": "https://open.spotify.com/track/5C95P8WdZXKWMS23hhior0"
     },
     {
       "album": {
@@ -2166,7 +2220,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 210000,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/2hNHmy4JZqx5eWUYsNB9lt"
@@ -2310,6 +2364,24 @@
       "duration_ms": 178413,
       "name": "No Wahala - Remix",
       "url": "https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA"
+    },
+    {
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/6ETBTsvMYK6o24y0YzNYDy"
+      },
+      "artists": [
+        {
+          "name": "DIMA DIMA",
+          "url": "https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183626,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/6B2ly4YtSOCibwfbQVbd4c"
     },
     {
       "album": {
@@ -2699,6 +2771,28 @@
     },
     {
       "album": {
+        "name": "Sans moi",
+        "url": "https://open.spotify.com/album/6DKViO9P1UwmMJI4UA5loY"
+      },
+      "artists": [
+        {
+          "name": "Titai",
+          "url": "https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT"
+        },
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174188,
+      "name": "Sans moi",
+      "url": "https://open.spotify.com/track/3kYTLEQwQx0oWu9Ws4uckJ"
+    },
+    {
+      "album": {
         "name": "Sans Stress",
         "url": "https://open.spotify.com/album/4yb63FwOVKGXoaVPefFOuP"
       },
@@ -2874,7 +2968,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 183056,
       "name": "soso",
       "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
@@ -3297,6 +3391,28 @@
     },
     {
       "album": {
+        "name": "UMENIKAMATA",
+        "url": "https://open.spotify.com/album/2fNLMX9KrBkbWRim0t4OYg"
+      },
+      "artists": [
+        {
+          "name": "Yacn",
+          "url": "https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "UMENIKAMATA",
+      "url": "https://open.spotify.com/track/10SfX9KF3H6kUOk51zP8TN"
+    },
+    {
+      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/0yGkAoeBAUNYLb5Z86mqM9"
       },
@@ -3518,6 +3634,24 @@
       "duration_ms": 225454,
       "name": "Yessika",
       "url": "https://open.spotify.com/track/1oNAj4KjfCqqGppXhPbtYv"
+    },
+    {
+      "album": {
+        "name": "Z\u00e9ro Limite",
+        "url": "https://open.spotify.com/album/3VD2r5mIFx191tozHFL8eV"
+      },
+      "artists": [
+        {
+          "name": "Lhiroyd",
+          "url": "https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129776,
+      "name": "Z\u00e9ro Limite",
+      "url": "https://open.spotify.com/track/39vgYEUu7uiaac3zN7dxqv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP"

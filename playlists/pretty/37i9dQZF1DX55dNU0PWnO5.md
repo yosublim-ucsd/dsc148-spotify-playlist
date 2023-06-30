@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: berlioz
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,331 likes - 193 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,447 likes - 193 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 177 | [JMZSLW.MMBL](https://open.spotify.com/track/6tahGv4y37WL0YgVuBBIw3) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Damon Soulful Samurai Poole](https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng) | [JMZSLW.MMBL](https://open.spotify.com/album/1PZ2dOkX3sWX2ARm3w74MF) | 2:46 |
 | 178 | [Shop FUNKY Flights](https://open.spotify.com/track/190WVA0VoDoVVmavzcEJXd) | [Joshua Morse](https://open.spotify.com/artist/1dxOwy6v6oyNSoj7GqhRNx), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Chip Funk](https://open.spotify.com/album/2VL5DyZNpV6Ube1FiRYfTH) | 2:58 |
 | 179 | [Ghosted](https://open.spotify.com/track/2qPIpeVx42NgsaXdhwBbtd) | [Adam Meckler](https://open.spotify.com/artist/3vvgv6M5R6ZdQ0kgDubGRl), [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW) | [Ghosted](https://open.spotify.com/album/7F1uU4FGRolC3dqshRFalm) | 2:15 |
-| 180 | [Ancient Delta](https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Ancient Delta](https://open.spotify.com/album/2iOdIK10OleEonLl4phDyP) | 2:13 |
+| 180 | [Ancient Delta](https://open.spotify.com/track/38pZmgMFuF9Xgvd8djMbYS) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Kosmological Glitches](https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5) | 2:13 |
 | 181 | [Thoughts](https://open.spotify.com/track/7aFYXNmYCZVC4KHqZoigCi) | [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Thoughts](https://open.spotify.com/album/6pIPSRnMVmWe1wm6KzcjJh) | 2:35 |
 | 182 | [Cloud Bounce](https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs) | [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [Gustav Gustav](https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Cloud Bounce](https://open.spotify.com/album/4bWsVeslIr0hqmhtOQBtRN) | 2:10 |
 | 183 | [The Creators](https://open.spotify.com/track/31qdrKl0bvjVXL8TbIJSPO) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Blue Note Re:imagined II](https://open.spotify.com/album/4o54aWSH3QaWkRjS5Pl2I6) | 4:04 |
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 192 | [She Can't Help It](https://open.spotify.com/track/75P1VfBkzYIzFDFHeqm1fY) | [Marcus Alan Ward](https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2) | [She Can't Help It](https://open.spotify.com/album/2bkqxeMMPaWryaLiBf0dZT) | 3:46 |
 | 193 | [The Great Conjunction](https://open.spotify.com/track/3XE0173HJVx4L34FqdakeK) | [Polyswitch](https://open.spotify.com/artist/2nAiJ5TWbKYMyQ5heeqQEX), [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P) | [Praise the Sun](https://open.spotify.com/album/7uaWonOY8KMY4ejg4K1ETM) | 5:09 |
 
-Snapshot ID: `MCxkZWJhNWFiZWVmYTAxZjViN2ExZmU0NzJhZjkyYjFmOGNiNzdkOTIw`
+Snapshot ID: `MCwwMjE4ODFmYjFkOTQwNzk3MGY0MGMyMWVhYjMzMjczYmQ1ZDg0ZThm`

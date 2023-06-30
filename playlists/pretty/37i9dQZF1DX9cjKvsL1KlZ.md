@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,325 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,505 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 31 | [DEVASTATED](https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 3:27 |
 | 32 | [Wockhardt](https://open.spotify.com/track/1Da2DD3CJyXvVWe3e80C3I) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Merry Wickmas](https://open.spotify.com/album/7maLkOMxNNkoHbVE8VWVka) | 2:11 |
 | 33 | [Best Friend \- Remix](https://open.spotify.com/track/1wI3UvluGGKUeFeVFsP9do) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [Best Friend \(Remix\)](https://open.spotify.com/album/27GrIQPCPtPyEUxONxAcRe) | 4:14 |
-| 34 | [DISS TRACK MAYBE](https://open.spotify.com/track/0Kv1056a877L5cWlQPhlRH) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [DISS TRACK MAYBE](https://open.spotify.com/album/7vt4ZeKy7IXPNZ9urCqAmF) | 2:34 |
+| 34 | [diss track maybe](https://open.spotify.com/track/0Kv1056a877L5cWlQPhlRH) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [diss track maybe](https://open.spotify.com/album/7vt4ZeKy7IXPNZ9urCqAmF) | 2:34 |
 | 35 | [Flows](https://open.spotify.com/track/7k4fn2FDvkXyEpZeXHYYWV) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [THE UNLUCCY LUCCY KID](https://open.spotify.com/album/3Xvvi8uwGnuj9nF7fr2h39) | 2:33 |
 | 36 | [Wassup](https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 2:38 |
 | 37 | [The Story of O.J.](https://open.spotify.com/track/6JpN5w95em8SODPiM7W2PH) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [4:44](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [6 foot 7 foot](https://open.spotify.com/track/5NmzosNjAiwHUXxi3jfOy2) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x), [Tazzo B](https://open.spotify.com/artist/6xq21H5LtfKGLHs8LRsdkG) | [6 foot 7 foot](https://open.spotify.com/album/42WX64EFrVX9hMaguk1TqT) | 2:15 |
 | 50 | [War \(feat\. Lil Tjay\) \- Bonus](https://open.spotify.com/track/2hYN1IVp5LGIsi5MpzcjVz) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 3:41 |
 
-Snapshot ID: `MCxiNWMyNzgyYWVlMzZmMTdkOWYzOThiM2UyZDg4YTIzNzA3NjMzZjBm`
+Snapshot ID: `MCxjNWFmYjU1NGI4NWY0MGU1NTJkN2IwZjc2ZmY1NTgwZjYyOWY2ZTA3`

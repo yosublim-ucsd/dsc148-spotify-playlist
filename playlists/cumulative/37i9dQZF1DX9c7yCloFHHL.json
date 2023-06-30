@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. ANNA on cover.",
-  "name": "Ambiente",
+  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. A Winged Victory For The Sullen on cover.",
+  "name": "Ambient X",
   "tracks": [
     {
       "album": {
@@ -8468,7 +8468,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 255459,
       "name": "Inspirit - Takuya's Ry\u016bteki Dragons",
       "url": "https://open.spotify.com/track/7a72jzUzOYYCDyKDNG3Icg"
@@ -10611,6 +10611,28 @@
     },
     {
       "album": {
+        "name": "mirage",
+        "url": "https://open.spotify.com/album/37HAOoegcV1CJb3FTa6Rfp"
+      },
+      "artists": [
+        {
+          "name": "Blut Own",
+          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
+        },
+        {
+          "name": "Riversilvers",
+          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222002,
+      "name": "mirage",
+      "url": "https://open.spotify.com/track/0838bsUvamtzwHtOeDCjax"
+    },
+    {
+      "album": {
         "name": "Mitt hjerte alltid vanker",
         "url": "https://open.spotify.com/album/3JdkwT2P0mePfvGUq8zfTW"
       },
@@ -10742,6 +10764,24 @@
       "duration_ms": 300747,
       "name": "Morning Spring",
       "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
+    },
+    {
+      "album": {
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118133,
+      "name": "Morning Tides",
+      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
     },
     {
       "album": {
@@ -16844,7 +16884,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 316565,
       "name": "The Nighthawks Are Out",
       "url": "https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu"
@@ -17020,6 +17060,32 @@
       "duration_ms": 173456,
       "name": "The See Within",
       "url": "https://open.spotify.com/track/6X6asQ7JRczBtPQXtMrzsO"
+    },
+    {
+      "album": {
+        "name": "All Our Friends Are Vampires",
+        "url": "https://open.spotify.com/album/3IblJt2cBbWcuJsRIS2u3r"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        },
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        },
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295898,
+      "name": "The Slow Descent Has Begun",
+      "url": "https://open.spotify.com/track/1N9P04MtFQGlyRzmHsXcNl"
     },
     {
       "album": {
@@ -17352,7 +17418,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 174639,
       "name": "This Thirsty Earth",
       "url": "https://open.spotify.com/track/2KwubOqTh4dJ6AUCeUYuAq"

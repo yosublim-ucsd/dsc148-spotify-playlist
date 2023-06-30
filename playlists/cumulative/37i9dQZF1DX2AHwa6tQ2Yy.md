@@ -4,7 +4,7 @@
 
 > Let the music flow through you...
 
-196 songs - 11 hr 48 min
+199 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,10 @@
 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 | 2022-06-02 | 2022-10-13 |
 | [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 | 2022-10-13 |  |
 | [Baby Mama](https://open.spotify.com/track/273vdzfgPWUOKEzgcZb0tt) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/0pT6T1yjiHVl9JG41Br9n0) | 3:34 | 2023-06-01 | 2023-06-16 |
+| [Been and Gone](https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [Been and Gone](https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89) | 4:40 | 2023-06-29 |  |
 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 | 2022-09-08 |  |
-| [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 | 2022-06-02 |  |
+| [Better Be Home Soon](https://open.spotify.com/track/3b68h9ti9sdMo4rTrEvijZ) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE), [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Better Be Home Soon](https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ) | 3:00 | 2023-06-29 |  |
+| [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 | 2022-06-02 | 2023-06-30 |
 | [Better With You](https://open.spotify.com/track/1dQfCpfZ4NZvCGmrfGqzzO) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Better With You](https://open.spotify.com/album/1jXJiOQLRDE0BPt9vMJfC0) | 2:17 | 2022-06-02 | 2022-09-15 |
 | [Better With You](https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Better With You](https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v) | 2:17 | 2022-09-08 |  |
 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/77nSU6xoiBDJZAMqBSxLav) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 3:56 | 2022-06-02 | 2022-07-29 |
@@ -40,7 +42,7 @@
 | [Damaged](https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Damaged](https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z) | 3:16 | 2022-06-02 | 2022-12-21 |
 | [deeper](https://open.spotify.com/track/6sh4ZklLayp1PRAGPq1G2H) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [deeper / stoned love](https://open.spotify.com/album/4AHLaggnEuQA4rbv5xG3hG) | 4:39 | 2022-06-30 | 2022-09-19 |
 | [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 | 2022-09-08 | 2022-12-16 |
-| [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 | 2022-11-17 |  |
+| [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 | 2022-11-17 | 2023-06-30 |
 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 | 2022-06-02 |  |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2022-06-02 |  |
 | [Do Ya Feel It?](https://open.spotify.com/track/6cyHaLHMOtj8mOqHTYwe1U) | [RISSA](https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ) | [Do Ya Feel It?](https://open.spotify.com/album/1kfbn0cCvYwcinSpJCsT3R) | 3:10 | 2022-06-02 | 2022-08-26 |
@@ -78,11 +80,12 @@
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2022-10-13 |  |
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2022-06-02 | 2022-10-13 |
 | [Happily Drowning](https://open.spotify.com/track/1hCGFa8m9fpMyjKxw3DwJx) | [Moody](https://open.spotify.com/artist/1Vu6Ckzy4K3UIl8PH3Y2se) | [Happily Drowning](https://open.spotify.com/album/1W5NCoyBJKXJMDDVLTXDSg) | 3:39 | 2023-01-19 | 2023-04-21 |
+| [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 | 2023-06-29 |  |
 | [Heal](https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Heal](https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh) | 4:16 | 2022-09-08 | 2023-02-24 |
 | [Heaven](https://open.spotify.com/track/6zTKXx4SE7FjwWx7CAzArx) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr) | [Coming In From The Dark](https://open.spotify.com/album/0tjAAn3o0FPW3Fmqxf8ogq) | 3:28 | 2022-06-02 | 2022-09-09 |
 | [Heaven](https://open.spotify.com/track/7EqgMVJIt8rUhf1OZJrxtx) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Encore](https://open.spotify.com/album/0yDrekG6pJ1jJyzc1wi9rK) | 3:28 | 2022-06-02 | 2023-01-20 |
 | [Hide & Seek](https://open.spotify.com/track/7lH9Vabqv6TRBoJOxBxCzn) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Hide & Seek](https://open.spotify.com/album/1Jg4EisDyjigjGPZqCPnhH) | 4:26 | 2022-12-08 | 2023-01-13 |
-| [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 | 2022-06-02 |  |
+| [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 | 2022-06-02 | 2023-06-30 |
 | [Him](https://open.spotify.com/track/2B3Ny5pQjZKWwecdo7HL0B) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [3](https://open.spotify.com/album/27DK5lf19A05UbL8a32zy1) | 3:46 | 2022-07-28 | 2022-09-09 |
 | [Him](https://open.spotify.com/track/3s7QggkEE59CK0qBAhPOjO) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Him](https://open.spotify.com/album/0TejA7LPDCrMzlyYpaK4wA) | 3:46 | 2022-06-02 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 | 2022-06-02 |  |

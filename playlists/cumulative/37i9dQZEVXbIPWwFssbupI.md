@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,371 songs - 3 day 0 hr 46 min
+1,372 songs - 3 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [Etna](https://open.spotify.com/track/775qtHu1rNoq1N2aKFa4nD) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 4:22 | 2022-09-17 | 2022-10-02 |
 | [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 | 2021-04-05 | 2021-09-29 |
 | [Euro](https://open.spotify.com/track/1zPefdsgeLBNZjkxKstBrh) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 2:42 | 2021-03-27\* | 2021-04-04 |
-| [Extendo](https://open.spotify.com/track/2KXwDwaXZtQ35DrNmdQ2wh) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Extendo](https://open.spotify.com/album/07O2eBpkw7tdBk5Fj0JyNE) | 2:45 | 2023-06-24 |  |
+| [Extendo](https://open.spotify.com/track/2KXwDwaXZtQ35DrNmdQ2wh) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Extendo](https://open.spotify.com/album/07O2eBpkw7tdBk5Fj0JyNE) | 2:45 | 2023-06-24 | 2023-06-30 |
 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 | 2023-06-04 | 2023-06-25 |
 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2022-06-25 | 2023-01-24 |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2021-09-05 | 2021-09-12 |
@@ -1196,6 +1196,7 @@
 | [Suavemente](https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:39 | 2022-05-28 | 2023-01-03 |
 | [Substitution](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Substitution](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-05-20 |  |
 | [Suis\-moi \(feat\. Ninho\)](https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:55 | 2022-01-29 | 2022-03-06 |
+| [Supalife 4](https://open.spotify.com/track/0tCawDFGC71YFz5K0nB8Sy) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [Supalife 4](https://open.spotify.com/album/38NpVaA76Vz222tZEJobgU) | 1:13 | 2023-06-29 |  |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-08-19 | 2022-11-06 |
 | [Superstar](https://open.spotify.com/track/4BuRrEwP1C4E8NkpUMe6mI) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 3:54 | 2022-06-04 | 2022-09-18 |
 | [Superstar](https://open.spotify.com/track/6kFKyM6lv22Q3KJaIopkIe) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Superstar](https://open.spotify.com/album/5QJwCA7duna6Wh4Y8cFWaO) | 3:54 | 2022-05-20 | 2022-06-05 |

@@ -4,7 +4,7 @@
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-171 songs - 9 hr 5 min
+172 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/0KzCNeuMVGXbnMbjX6ilCU) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/album/6ViQtwjVgVNTTkEqn9YETq) | 3:36 | 2022-05-06 | 2022-07-29 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-05-03 |  |
 | [Dove Si Balla](https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Dove Si Balla](https://open.spotify.com/album/5iTNhsNPt2pesmEDZlcphf) | 3:18 | 2022-05-06 | 2022-05-20 |
-| [Due Rose \(feat\. Enula\)](https://open.spotify.com/track/0G2pQQTsyYGkQf1CKUNIh4) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5), [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Due Rose \(feat\. Enula\)](https://open.spotify.com/album/77ybOU8dMAoaYdZLaf6Of4) | 3:03 | 2023-05-04 |  |
+| [Due Rose \(feat\. Enula\)](https://open.spotify.com/track/0G2pQQTsyYGkQf1CKUNIh4) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5), [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Due Rose \(feat\. Enula\)](https://open.spotify.com/album/77ybOU8dMAoaYdZLaf6Of4) | 3:03 | 2023-05-04 | 2023-06-30 |
 | [Duecentomila ore](https://open.spotify.com/track/5QcKmCvGDbMvbJQZh75YVd) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Duecentomila ore](https://open.spotify.com/album/7DZEFakK4SfIg3IbnVNta5) | 3:00 | 2022-05-06 | 2022-05-20 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-07-14 |  |
 | [Dynamite](https://open.spotify.com/track/72wqLtMtkrB0qUw6jSqM0Z) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(NightTime Version\)](https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS) | 3:19 | 2022-10-05 | 2022-11-13 |
@@ -65,6 +65,7 @@
 | [Following the Sun](https://open.spotify.com/track/5tg6JmJEct37zS9zmsu4Yn) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Neeka](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/0nAQfwqpQ37eQ9ex8L4NtE) | 3:25 | 2022-05-06 | 2022-07-29 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-10-06 | 2023-05-24 |
 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 | 2023-05-25 |  |
+| [Fragole](https://open.spotify.com/track/4Js31maTathTS2flQOQr2c) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Fragole](https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ) | 3:29 | 2023-06-29 |  |
 | [Giovani Wannabe](https://open.spotify.com/track/7iLuBTHJSXM2HalKHFqEEy) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Giovani Wannabe](https://open.spotify.com/album/4Z93gEHbpIBqeNbIK337oA) | 3:32 | 2022-05-26 | 2023-04-14 |
 | [Girl From Rio](https://open.spotify.com/track/2plRom0urixt6BE8t7kOhQ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Girl From Rio](https://open.spotify.com/album/4mMUHylk2hcCsxc2FursmJ) | 3:14 | 2023-06-15 |  |
 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 | 2022-05-06 | 2022-11-13 |

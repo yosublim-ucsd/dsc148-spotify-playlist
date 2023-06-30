@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,614 likes - 75 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,745 likes - 75 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,18 +15,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 5 | [Run It](https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh) | 4:37 |
 | 6 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 |
 | 7 | [Sirens](https://open.spotify.com/track/54rQxr2XJZ4vf0mRyGsqAo) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Untying the Not](https://open.spotify.com/album/78WUetQXbem9Y9FOLf8ccP) | 5:07 |
-| 8 | [Pickin' Up The Pieces](https://open.spotify.com/track/3NTwkFnd4dPcvpg43O3XW3) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Everyday](https://open.spotify.com/album/1OgEkkTKJpy7yOGfPmSTCY) | 4:24 |
-| 9 | [Sugaree](https://open.spotify.com/track/4XoYeolVYTiddO9wZLXLgl) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN) | [Garcia](https://open.spotify.com/album/5Z3Vmde0ICQM0OnIBYNx2U) | 5:52 |
+| 8 | [Sugaree](https://open.spotify.com/track/4XoYeolVYTiddO9wZLXLgl) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN) | [Garcia](https://open.spotify.com/album/5Z3Vmde0ICQM0OnIBYNx2U) | 5:52 |
+| 9 | [Pickin' Up The Pieces](https://open.spotify.com/track/3NTwkFnd4dPcvpg43O3XW3) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Everyday](https://open.spotify.com/album/1OgEkkTKJpy7yOGfPmSTCY) | 4:24 |
 | 10 | [Franklin's Tower \- 2013 Remaster](https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Blues for Allah \(2013 Remaster\)](https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv) | 4:34 |
 | 11 | [Sample in a Jar](https://open.spotify.com/track/6MCUdqOifrEomDtrgZlJ8O) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Hoist](https://open.spotify.com/album/5desuSVmQddmKNvvU2ATcf) | 4:41 |
 | 12 | [Sugaree \- Live at TD Garden, Boston, MA 11/17/17](https://open.spotify.com/track/1th4vQpv5MXunuMn8WUnSL) | [Dead & Company](https://open.spotify.com/artist/4QMYdqiJf5bEC7P0EHbnxn) | [TD Garden, Boston, MA 11/17/17 \(Live\)](https://open.spotify.com/album/6hV2waROeEXkf5NbIL0XgQ) | 13:58 |
 | 13 | [In A Big Country](https://open.spotify.com/track/11WtZDdbNlLxLyMo9xozCb) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [Dither](https://open.spotify.com/album/39ECCmwxjPPp26lKTr7a80) | 3:36 |
 | 14 | [After Midnight](https://open.spotify.com/track/0UULEN8LeXBFZ15CbtTHgR) | [Merl Saunders & Friends](https://open.spotify.com/artist/26POJcl5jnzRLyjqaHh4sX) | [Fire Up +](https://open.spotify.com/album/2b85gbWiMbAg3cvSUTMIBp) | 5:01 |
 | 15 | [Eyes of the World \- 2013 Remaster](https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood \(2013 Remaster\)](https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0) | 5:20 |
-| 16 | [Up All Night](https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Free Somehow](https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw) | 3:46 |
-| 17 | [Cayman Review](https://open.spotify.com/track/2XXGM19E3Zp32Tkr0S4vEA) | [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Trey Anastasio \(U.S\. Version\)](https://open.spotify.com/album/60nWHPqGvWIUrzniNvVAub) | 4:15 |
-| 18 | [Alone](https://open.spotify.com/track/05JpFEZhkJxHhuZOoD7uOx) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Blues Traveler](https://open.spotify.com/album/61HjwbPeZTesnKzkB2HPoN) | 7:33 |
-| 19 | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/track/6xleIePy9XfIOV8ksoKlKx) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Rhythm of the Road: Volume One, Incident in Atlanta \-11.17.00](https://open.spotify.com/album/33eRh00tERv1BscbFnuUtF) | 8:36 |
+| 16 | [Cayman Review](https://open.spotify.com/track/2XXGM19E3Zp32Tkr0S4vEA) | [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Trey Anastasio \(U.S\. Version\)](https://open.spotify.com/album/60nWHPqGvWIUrzniNvVAub) | 4:15 |
+| 17 | [Alone](https://open.spotify.com/track/05JpFEZhkJxHhuZOoD7uOx) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Blues Traveler](https://open.spotify.com/album/61HjwbPeZTesnKzkB2HPoN) | 7:33 |
+| 18 | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/track/6xleIePy9XfIOV8ksoKlKx) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Rhythm of the Road: Volume One, Incident in Atlanta \-11.17.00](https://open.spotify.com/album/33eRh00tERv1BscbFnuUtF) | 8:36 |
+| 19 | [Up All Night](https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Free Somehow](https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw) | 3:46 |
 | 20 | [The Garden \(Pt\. III\)](https://open.spotify.com/track/2ihAtyKtG6dPNKeDdt2RlQ) | [Tea Leaf Green](https://open.spotify.com/artist/4n3xlLBs7G1x9tJDXFD4G4) | [Taught to Be Proud](https://open.spotify.com/album/4IMSzS9zvPw7jSHlKFlA1f) | 4:01 |
 | 21 | [Loner](https://open.spotify.com/track/7v3DiMXmwZvViit6quKMEN) | [Ekoostik Hookah](https://open.spotify.com/artist/7cFHCaii8AgdXSOXVf0lAo) | [Dubbabuddah](https://open.spotify.com/album/5R8kqCETupYVuIcyW6wnuq) | 6:39 |
 | 22 | [Nebraska](https://open.spotify.com/track/3g6Iv6AJddkj641ufya8h4) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [tin cans & car tires](https://open.spotify.com/album/2GGOZsFF9dwK5LJ2kIdkl7) | 3:49 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 28 | [Bubblehouse](https://open.spotify.com/track/2YtX5xh7y5FoQywRmsGCeK) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Shack\-man](https://open.spotify.com/album/7zGVnFiNNe6rvoPutZPCBe) | 4:31 |
 | 29 | [Thorazine Shuffle](https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dose](https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6) | 6:47 |
 | 30 | [West L.A\. Fade Away](https://open.spotify.com/track/3er5f95wRt5vE2JSHqaAcb) | [Keller Williams](https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0) | [Funk](https://open.spotify.com/album/2qKwJ4uMaAjz7AUSe5cX3X) | 6:19 |
-| 31 | [Greatest Story Ever Told](https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S) | [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC) | [Ace](https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT) | 3:43 |
-| 32 | [Gilbert's Groove \(feat\. Neal Casal\)](https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Neal Casal](https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu) | [Interludes For The Dead \(feat\. Neal Casal\)](https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh) | 12:20 |
+| 31 | [Gilbert's Groove \(feat\. Neal Casal\)](https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Neal Casal](https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu) | [Interludes For The Dead \(feat\. Neal Casal\)](https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh) | 12:20 |
+| 32 | [Greatest Story Ever Told](https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S) | [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC) | [Ace](https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT) | 3:43 |
 | 33 | [Tennessee Jed \- 2001 Remaster](https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 7:10 |
 | 34 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
 | 35 | [Stash](https://open.spotify.com/track/0M7qIbIfd9IQy68DibTqQ9) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [A Picture of Nectar](https://open.spotify.com/album/7A1l4RxB2pUxv6kU6ynUSF) | 7:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 74 | [Ship](https://open.spotify.com/track/2inywferyxR6WGq7tvtQMW) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [51 Phantom](https://open.spotify.com/album/5Zxv4JiCxWqWzMepX7oGUv) | 5:29 |
 | 75 | [Tomorrow Might As Well Be Today \- Live](https://open.spotify.com/track/6QL1b46J3pHl4MfUUjludg) | [Chris Forsyth](https://open.spotify.com/artist/2WEGGlb0R1izEtTE5YTaTc), [Garcia Peoples](https://open.spotify.com/artist/4UDV6e9Xh5m3yQeGsrnWLP) | [Peoples Motel Band](https://open.spotify.com/album/3nMKWIIpLZs2Hzkz9yhF3d) | 4:00 |
 
-Snapshot ID: `MCw5NDdmYjcxYTE0ZTYyODJhYzRkNWFlZmEzOGZjZDA3NGUyYjU0OGQx`
+Snapshot ID: `MCwwYTI5NTMxNTc4MGEyMjBiNmFhNGI1NzM2MmQyMDFmOTc2YzU5ZmI5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=3io5w_NHTqaC0WSBoCiy-Q\"> Cassper Nyovest </a>",
+  "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=Ora3xnr8SBGrMFD1T03W7A\"> Nasty C</a>",
   "name": "No Wahala",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 192153,
       "name": "All the smoke",
       "url": "https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG"
@@ -1154,6 +1154,28 @@
       "duration_ms": 224000,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
+    },
+    {
+      "album": {
+        "name": "FIREGUN",
+        "url": "https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "FIREGUN",
+      "url": "https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De"
     },
     {
       "album": {
@@ -2142,7 +2164,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 220434,
       "name": "Midf (Money I Dey Find)",
       "url": "https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm"
@@ -2334,6 +2356,24 @@
       "duration_ms": 122958,
       "name": "Next Up",
       "url": "https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm"
+    },
+    {
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182684,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
     },
     {
       "album": {

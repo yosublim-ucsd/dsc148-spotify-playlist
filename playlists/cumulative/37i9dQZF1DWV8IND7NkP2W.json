@@ -1437,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Calvin",
+        "url": "https://open.spotify.com/album/2Ltqpc2vyTmJ0i2qtEiNK6"
+      },
+      "artists": [
+        {
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106573,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/5VCLQ7di8TKUgO0wn0eg7W"
+    },
+    {
+      "album": {
         "name": "caravan",
         "url": "https://open.spotify.com/album/7J8kEw1gStQfSksAACR8qq"
       },
@@ -3520,7 +3538,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 113846,
       "name": "Game Master",
       "url": "https://open.spotify.com/track/4Oo2LsLop0vSbHeO1TPLj0"
@@ -5942,7 +5960,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "Memories of Furniture",
       "url": "https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA"
@@ -11674,7 +11692,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 140253,
       "name": "\u5149\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0"

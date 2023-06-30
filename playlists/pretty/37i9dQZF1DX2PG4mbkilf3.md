@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with K\. Forest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,896 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,951 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 2 | [THE GLADE](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [THE GLADE](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 |
 | 3 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 |
 | 4 | [Parade on Cleveland \(feat\. Drake\)](https://open.spotify.com/track/05CTjmZKjZoCKQvM1Ldq9M) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:48 |
-| 5 | [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 |
+| 5 | [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 |
 | 6 | [Still](https://open.spotify.com/track/1wHXFv0Zj6WJX6t4c7Hgy5) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Still](https://open.spotify.com/album/5RnbqtjGXDUJGNuevnJG83) | 3:04 |
 | 7 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 8 | [Always \(feat\. Summer Walker\) \- Bonus](https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:42 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 50 | [Free](https://open.spotify.com/track/1sDHnW7KdjZ3ephPYF6qXE) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Free](https://open.spotify.com/album/0nBhqsnGuphLGvBfK6ONFb) | 3:10 |
 | 51 | [Melt](https://open.spotify.com/track/0Qp7hPXXCCEfGOI8v4Cuq9) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [Melt](https://open.spotify.com/album/5AJfKqBdiXc6bkEDD1NwEY) | 5:40 |
 | 52 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 |
-| 53 | [Answer Me](https://open.spotify.com/track/3aNWM9WRAk8npqbgnqe8rk) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Answer Me](https://open.spotify.com/album/37oMprXnH2grAsdwIxz8wp) | 2:36 |
+| 53 | [Answer Me](https://open.spotify.com/track/5PTGrmvQqq8qixpEjdB846) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Answer Me](https://open.spotify.com/album/3El9ct5F4o5aFZM69XZxHh) | 2:36 |
 | 54 | [Floored](https://open.spotify.com/track/4YlFogCbQGWaQWWvJGuk4q) | [Eric Ryan](https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn) | [Floored](https://open.spotify.com/album/6V34NkhtN0ZXb56KfET1Lj) | 2:30 |
 | 55 | [Nothing Left \(Lonely Song\)](https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Nothing Left \(Lonely Song\)](https://open.spotify.com/album/43LrTSzFvVUX4fcZT4IeDP) | 3:27 |
 | 56 | [Intense City](https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 2:40 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 98 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
 | 99 | [RN Interlude](https://open.spotify.com/track/2neaD0EL4EqsWyLCefrytF) | [July](https://open.spotify.com/artist/31gFvqSxh2pAlou6w8iOc5) | [RN Interlude](https://open.spotify.com/album/3j73yMjikMWvu49l6TuAKP) | 2:26 |
 
-Snapshot ID: `MCw4NjRlZGNhODI1MTNiZGIxMjU0YzU0MzZiYTkxYjk5ZTljZDMxNzMz`
+Snapshot ID: `MCxkNTdiNmVlZDZkMDE5ZjhhZGFhMzExOGM2NjgxNTc3ZWU0MmM5MjY0`

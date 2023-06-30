@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/2JxZO69Tr7zwmhQyoEEjYS"
+      },
+      "artists": [
+        {
+          "name": "La Banda del 5",
+          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
+        },
+        {
+          "name": "Alberto Kammerer",
+          "url": "https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251105,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/66RZtIysZkIVCVwfVDxC2T"
+    },
+    {
+      "album": {
         "name": "Barranquilla Bajo Cero",
         "url": "https://open.spotify.com/album/0TDGIoXeKDPhp1LpU4RMvf"
       },
@@ -480,6 +502,28 @@
       "duration_ms": 229442,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1d0c62VFYauOOgxZ2eFUxx"
+    },
+    {
+      "album": {
+        "name": "Brisbane",
+        "url": "https://open.spotify.com/album/6BgsrEfKROBsfJ7quahRS3"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "Brisbane",
+      "url": "https://open.spotify.com/track/3pBUftrSlCao62GnIh2Ub9"
     },
     {
       "album": {
@@ -706,6 +750,24 @@
       "duration_ms": 195986,
       "name": "Classy 101",
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
+    },
+    {
+      "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "album": {
@@ -1018,7 +1080,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 200400,
       "name": "Dread Boy",
       "url": "https://open.spotify.com/track/4UJS6VrU7nduibWXcgc0pR"
@@ -1044,6 +1106,28 @@
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jalo En Visto",
+        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189918,
+      "name": "D\u00e9jalo En Visto",
+      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
     },
     {
       "album": {
@@ -1215,6 +1299,32 @@
     },
     {
       "album": {
+        "name": "El Cielo",
+        "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191320,
+      "name": "El Cielo",
+      "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
+    },
+    {
+      "album": {
         "name": "El Cielo Se Me Cay\u00f3",
         "url": "https://open.spotify.com/album/49E0S14vGXYJSMrloi57sn"
       },
@@ -1348,7 +1458,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 149196,
       "name": "Enchule",
       "url": "https://open.spotify.com/track/6NQQJRKTJeCuSnvNZ4J7xA"
@@ -1482,7 +1592,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 204973,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/18PywrD2EQCVJEXMjETy8p"
@@ -1906,7 +2016,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 160666,
       "name": "Lo Que Me Har\u00edas En Otra Parte",
       "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
@@ -2224,7 +2334,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 202876,
       "name": "Mocca - Remix",
       "url": "https://open.spotify.com/track/1usoXi4f0BnMART4uActEA"
@@ -4008,7 +4118,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 251773,
       "name": "To My Love - Tainy Remix",
       "url": "https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx"
@@ -4300,6 +4410,32 @@
       "duration_ms": 212133,
       "name": "Voy Por Ti",
       "url": "https://open.spotify.com/track/2sRhe52xJklfzRIe0K6puw"
+    },
+    {
+      "album": {
+        "name": "VUELA",
+        "url": "https://open.spotify.com/album/3Ln9Xe2JfSl8kvh9MeABgq"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193394,
+      "name": "VUELA",
+      "url": "https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke"
     },
     {
       "album": {

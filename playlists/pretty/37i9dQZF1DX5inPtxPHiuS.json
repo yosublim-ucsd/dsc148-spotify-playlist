@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 83794,
+  "num_followers": 83813,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjUxM2Y3MDFhMjEyYzZmYjFiZmY5MTJiYjQ4ZjQ3MWE5NDg5Yjli",
+  "snapshot_id": "MCxjZTE1NzdhZDYzODE0M2U1OWIzN2U4NDMxNmM5OWY4YTI2YjNjMmY0",
   "tracks": [
     {
       "added_at": "2023-04-14 06:55:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Sesiones 10.10 (En Vivo)",
-        "url": "https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        }
-      ],
-      "duration_ms": 307040,
-      "name": "No S\u00e9 Si Volver\u00e1 (2010) - En Vivo",
-      "url": "https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Un Eterno Loop Sin Fin",
         "url": "https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 229671,
       "name": "Un Eterno Loop Sin Fin",
       "url": "https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Sesiones 10.10 (En Vivo)",
+        "url": "https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "duration_ms": 307040,
+      "name": "No S\u00e9 Si Volver\u00e1 (2010) - En Vivo",
+      "url": "https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 249965,
+      "name": "B\u00fahoz",
+      "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
         "name": "Yumbotop\u00eda",
         "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 173621,
       "name": "El Tema de Amor Que Esperabas",
       "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
-        "name": "Regular",
-        "url": "https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ"
-      },
-      "artists": [
-        {
-          "name": "Arbol De Ojos",
-          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Cangrejo",
-      "url": "https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+        "name": "Regular",
+        "url": "https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ"
       },
       "artists": [
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "Arbol De Ojos",
+          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
         }
       ],
-      "duration_ms": 249965,
-      "name": "B\u00fahoz",
-      "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
+      "duration_ms": 162000,
+      "name": "Cangrejo",
+      "url": "https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Analog\u00eda de una Laguna",
-        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 210217,
-      "name": "Analog\u00eda de una Laguna",
-      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Marteko Euriak",
         "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 175724,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Analog\u00eda de una Laguna",
+        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 210217,
+      "name": "Analog\u00eda de una Laguna",
+      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
+        "name": "Neum\u00e1ticos",
+        "url": "https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx"
       },
       "artists": [
         {
-          "name": "Los Maricas",
-          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
+          "name": "Rev\u00f3lver Plateado",
+          "url": "https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO"
         }
       ],
-      "duration_ms": 147453,
-      "name": "Ning\u00fan Lugar",
-      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
+      "duration_ms": 225456,
+      "name": "Neum\u00e1ticos",
+      "url": "https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM"
     }
   ],
   "unique_name": "Rock Colombia",

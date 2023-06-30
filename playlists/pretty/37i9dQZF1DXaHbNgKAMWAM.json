@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11894,
+  "num_followers": 11901,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWNmNGIxNjYwYTgxNjk4OTkxMzdkMmZmNWIyNDE2OTc5ZjU5YTFk",
+  "snapshot_id": "MCw5MjA5MDEwMWRiOTY5NDMyNWJjM2I2ODA0NDMyN2ZhYjJlZTk5NTMz",
   "tracks": [
     {
       "added_at": "2023-06-13 08:57:48",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-06-13 08:57:48",
       "album": {
-        "name": "Errr Day",
-        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
-      },
-      "artists": [
-        {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Errr Day",
-      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
-    },
-    {
-      "added_at": "2023-06-13 08:57:48",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing can tear us apart",
         "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
+    },
+    {
+      "added_at": "2023-06-13 08:57:48",
+      "album": {
+        "name": "Errr Day",
+        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Errr Day",
+      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
     },
     {
       "added_at": "2023-06-13 08:57:48",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-06-13 08:57:48",
       "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+        "name": "Encounter (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
       },
       "artists": [
         {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+      "duration_ms": 221947,
+      "name": "The Night",
+      "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
     },
     {
       "added_at": "2023-06-13 08:57:48",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-06-13 08:57:48",
       "album": {
-        "name": "Encounter (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
         }
       ],
-      "duration_ms": 221947,
-      "name": "The Night",
-      "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2023-06-13 08:57:48",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-13 08:57:48",
       "album": {
-        "name": "1,2,3..",
-        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "ANYWHERE ANYTIME",
-      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
-    },
-    {
-      "added_at": "2023-06-13 08:57:48",
-      "album": {
         "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 257471,
       "name": "STAR",
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
+    },
+    {
+      "added_at": "2023-06-13 08:57:48",
+      "album": {
+        "name": "1,2,3..",
+        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
     },
     {
       "added_at": "2023-06-13 08:57:48",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-06-13 08:57:48",
       "album": {
+        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 224394,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
+    },
+    {
+      "added_at": "2023-06-13 08:57:48",
+      "album": {
         "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2023-06-13 08:57:48",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 224394,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
-    },
-    {
-      "added_at": "2023-06-13 08:57:48",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -783,38 +783,6 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
-    },
-    {
-      "added_at": "2023-06-13 08:57:48",
-      "album": {
-        "name": "IN-OUT",
-        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 226573,
-      "name": "Dream Catcher",
-      "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
-    },
-    {
-      "added_at": "2023-06-13 08:57:48",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
     },
     {
       "added_at": "2023-06-13 08:57:48",
@@ -835,6 +803,38 @@
     {
       "added_at": "2023-06-13 08:57:48",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
+    },
+    {
+      "added_at": "2023-06-13 08:57:48",
+      "album": {
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 226573,
+      "name": "Dream Catcher",
+      "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
+    },
+    {
+      "added_at": "2023-06-13 08:57:48",
+      "album": {
         "name": "Crash Course in Romance OST Part 4",
         "url": "https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 172361,
       "name": "At Night",
       "url": "https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB"
-    },
-    {
-      "added_at": "2023-06-13 08:57:48",
-      "album": {
-        "name": "FRR",
-        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "FRR",
-      "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
     },
     {
       "added_at": "2023-06-13 08:57:48",
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-06-13 08:57:48",
       "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "FRR",
+      "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
+    },
+    {
+      "added_at": "2023-06-13 08:57:48",
+      "album": {
         "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 244764,
       "name": "I Will Be By Your Side",
       "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
-    },
-    {
-      "added_at": "2023-06-13 08:57:48",
-      "album": {
-        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 164861,
-      "name": "Dream about You",
-      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
     },
     {
       "added_at": "2023-06-13 08:57:48",
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-06-13 08:57:48",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
+        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
         }
       ],
-      "duration_ms": 197813,
-      "name": "Like a dream",
-      "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
+      "duration_ms": 164861,
+      "name": "Dream about You",
+      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
     },
     {
       "added_at": "2023-06-13 08:57:48",
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-06-13 08:57:48",
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Like a dream",
+      "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
+    },
+    {
+      "added_at": "2023-06-13 08:57:48",
+      "album": {
         "name": "INTERVIEW",
         "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
       },
@@ -999,22 +999,18 @@
     {
       "added_at": "2023-06-13 08:57:48",
       "album": {
-        "name": "Dearest (feat. Sllo)",
-        "url": "https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ"
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
       "artists": [
         {
-          "name": "J.BASS",
-          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
-        },
-        {
-          "name": "Sllo",
-          "url": "https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 167786,
-      "name": "Dearest (feat. Sllo)",
-      "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
+      "duration_ms": 248078,
+      "name": "Our Love is Great",
+      "url": "https://open.spotify.com/track/6dO3kF1ZoKmybXyjSL3OmL"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 458702,
+  "num_followers": 458788,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWVmZDQyMzYyZGJmNmVlYzhkM2E1ZDNjMmEzMGZmODc4OGJiMjdl",
+  "snapshot_id": "MCxhYmE0NDFiYmJiZWE2N2YwYmI4ZjUzMGQzOTAzNjIyNWY0NjNjNWZi",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 170571,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 228372,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Artificial Selection",
         "url": "https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 238984,
       "name": "Son of Robot",
       "url": "https://open.spotify.com/track/3ZH8mv5AfnCUY7pxbO52uu"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "LIVING PROOF",
-        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 127933,
-      "name": "Evil Finds Light",
-      "url": "https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "LIVING PROOF",
+        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 127933,
+      "name": "Evil Finds Light",
+      "url": "https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Ghost Like You",
         "url": "https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 173304,
-      "name": "{ The Dreamer's Hotel }",
-      "url": "https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 221241,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "duration_ms": 173304,
+      "name": "{ The Dreamer's Hotel }",
+      "url": "https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "LIVING PROOF",
-        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
       },
       "artists": [
         {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
         }
       ],
-      "duration_ms": 139000,
-      "name": "FTS (KYS)",
-      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 190783,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "LIVING PROOF",
+        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "FTS (KYS)",
+      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Bob Vylan Presents The Price Of Life",
         "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Bad Idea",
-        "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 192504,
-      "name": "Bad Idea",
-      "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 226309,
       "name": "Afterlife - Single Edit",
       "url": "https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 192504,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
     },
     {
       "added_at": "2023-06-20 21:21:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,371 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,424 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 21 | [The Mist](https://open.spotify.com/track/5i7jug3QciEvwbozP3pVlM) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Secrets of Castle](https://open.spotify.com/album/3KrF7sJyvkwbL4b3NpXh3a) | 2:54 |
 | 22 | [Forgotten](https://open.spotify.com/track/2yra4e1hv7mRcjPY4GRS9h) | [trxxshed](https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU), [Lomtre](https://open.spotify.com/artist/1k3LtgjJQgOGwjOyNSQuMJ) | [Far from Reality](https://open.spotify.com/album/395JmKtHQEzMCI05Mkwb6i) | 2:07 |
 | 23 | [Theta](https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Theta](https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg) | 3:00 |
-| 24 | [Tachikawa](https://open.spotify.com/track/1DdWZldy3uLgXHKBvuVNSM) | [KÖWE](https://open.spotify.com/artist/2VhxLzKBBF3mRhJnBRsuGI), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Tachikawa](https://open.spotify.com/album/2hScjpzL0lIrJFLes3lQV3) | 1:12 |
-| 25 | [jade tower](https://open.spotify.com/track/7ERaRrb9qbmnvbAbBQvqgA) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [New Game +](https://open.spotify.com/album/44CDggTdui1svEdyck7NOT) | 1:39 |
+| 24 | [jade tower](https://open.spotify.com/track/7ERaRrb9qbmnvbAbBQvqgA) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [New Game +](https://open.spotify.com/album/44CDggTdui1svEdyck7NOT) | 1:39 |
+| 25 | [Tachikawa](https://open.spotify.com/track/1DdWZldy3uLgXHKBvuVNSM) | [KÖWE](https://open.spotify.com/artist/2VhxLzKBBF3mRhJnBRsuGI), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Tachikawa](https://open.spotify.com/album/2hScjpzL0lIrJFLes3lQV3) | 1:12 |
 | 26 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 |
 | 27 | [I Still Like You](https://open.spotify.com/track/2P1pP6UfKgkUkCUzceAGEx) | [ビクター ＭＫＩＩ](https://open.spotify.com/artist/2lGJkXqpvUW77Kc6hcEIO8) | [Omoide](https://open.spotify.com/album/0N3ddx2vF7wsVEqtQRmfB1) | 2:20 |
 | 28 | [tears](https://open.spotify.com/track/0lR6qQ72JIxSm2c1NWIyHt) | [Austin Chen](https://open.spotify.com/artist/3y6dmAk5GeWK3wjo8xcpjf) | [scenes I](https://open.spotify.com/album/32VEzvjaCrWCdoSUB67Wvf) | 2:24 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 43 | [settled down.](https://open.spotify.com/track/7KFQ0LrtvHkiR0aSZKscjF) | [mr\. okane](https://open.spotify.com/artist/6sQtzwpgvnWhyi9yi6pfxE) | [OKANE 金 1](https://open.spotify.com/album/5bal2BUbu8l191xGDxQ8AK) | 1:45 |
 | 44 | [Lovely Lofi](https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF) | [Bonsai Beats](https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y) | [Lovely Lofi](https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8) | 1:12 |
 | 45 | [Transcend](https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM) | [Photon](https://open.spotify.com/artist/33dfAU7lq0ET88plgLPQLB) | [Transcend](https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8) | 4:49 |
-| 46 | [heart cocktail](https://open.spotify.com/track/6cer5UGwSk3DT6774RxEXT) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9), [Alice333](https://open.spotify.com/artist/4RleTopZn6FPgixOm9Xkl3) | [heart cocktail](https://open.spotify.com/album/53XOdPgOyVUx1HDvwzb1Uz) | 2:56 |
-| 47 | [playa](https://open.spotify.com/track/2WHfcEjm46Pjbviynt1jN8) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [playa](https://open.spotify.com/album/1Ilqrit4cHGAAZVfpLo2on) | 1:56 |
+| 46 | [playa](https://open.spotify.com/track/2WHfcEjm46Pjbviynt1jN8) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [playa](https://open.spotify.com/album/1Ilqrit4cHGAAZVfpLo2on) | 1:56 |
+| 47 | [heart cocktail](https://open.spotify.com/track/6cer5UGwSk3DT6774RxEXT) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9), [Alice333](https://open.spotify.com/artist/4RleTopZn6FPgixOm9Xkl3) | [heart cocktail](https://open.spotify.com/album/53XOdPgOyVUx1HDvwzb1Uz) | 2:56 |
 | 48 | [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 |
 | 49 | [Royal Lavender](https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ) | [jiabeats](https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5) | [Royal Lavender](https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp) | 3:00 |
 | 50 | [Arcade](https://open.spotify.com/track/7w1rgZiQ7aIVgqpHvFUifh) | [Chilled AF](https://open.spotify.com/artist/4MzsyH1fwjNcrEthWnphyJ) | [Arcade](https://open.spotify.com/album/3AXZhfhDvkujRCdKTwAugQ) | 1:42 |
 
-Snapshot ID: `MCxmMjI3YmZlZmM5ZjY0Yjk3OTJjZDI3NzY2OGJjODRlZWVmMjdiMDAz`
+Snapshot ID: `MCwwODYwN2FkM2ZhOGMyMDY0NzBmNDBjOGE5ZWY5Mjc4OTA5Y2E4NzI4`

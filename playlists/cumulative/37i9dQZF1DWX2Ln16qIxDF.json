@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "YSY A & Sixto Yegros est\u00e1n en el Top! ",
+  "description": "Maria Becerra est\u00e1 en el Top! ",
   "name": "El Top 2023",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 185142,
       "name": "3 En 1",
       "url": "https://open.spotify.com/track/5HIzCGqvXKVnyziWxL8nL1"
@@ -611,6 +611,28 @@
     },
     {
       "album": {
+        "name": "Como Yo :(",
+        "url": "https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141865,
+      "name": "Como Yo :(",
+      "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
+    },
+    {
+      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -820,6 +842,28 @@
       "duration_ms": 143935,
       "name": "DISPARA ***",
       "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
+    },
+    {
+      "album": {
+        "name": "Antes de Ameri",
+        "url": "https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213892,
+      "name": "don't liE",
+      "url": "https://open.spotify.com/track/6e46jZKoeaOCShrVJK1XzN"
     },
     {
       "album": {
@@ -1816,7 +1860,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 197663,
       "name": "Mini Mini",
       "url": "https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3"

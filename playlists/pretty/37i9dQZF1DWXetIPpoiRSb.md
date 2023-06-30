@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Jessie Murph + Maren Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,661 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,687 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Bruises](https://open.spotify.com/track/5kUqU9uLc98ndpJiqieN8K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone \(Deluxe\)](https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX) | 2:41 |
 | 80 | [Mama's Eyes](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [Mama's Eyes](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
 
-Snapshot ID: `MCxjN2VmNDVlNjJhM2E0N2RmNWViOTRlZWY5M2UyYmQ2NTU0Y2VkMTZl`
+Snapshot ID: `MCxiYWQ1NzA1ZWRlMjFiMDlkYmFhYTU0NzQ5OTA3NGQzN2U3ZWUxYTQx`

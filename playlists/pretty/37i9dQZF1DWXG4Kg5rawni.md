@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,351 likes - 65 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,432 likes - 65 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 4 | [Que Bom Você Chegou](https://open.spotify.com/track/2lzxlbHjyE0us72Q3LRV5A) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:25 |
 | 5 | [Só Você](https://open.spotify.com/track/14rFBRzVUWjVqo9qAHJFxt) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Amo Você Vol\. 17](https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM) | 3:22 |
 | 6 | [Oração do Amor](https://open.spotify.com/track/136WFxJJfu6TOG213942Cz) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Amo Você Vol\. 19](https://open.spotify.com/album/37nPPwQsZvOT0uqT3Dyglu) | 3:49 |
-| 7 | [A Dois](https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [A Dois](https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T) | 3:56 |
-| 8 | [Metade de Mim](https://open.spotify.com/track/2aI59xoodYm6cB8JIPube0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ), [Alexandre Silva](https://open.spotify.com/artist/4pv3YsIBMfpGMQgGXLZmFo) | [Sem Comparação](https://open.spotify.com/album/0wp8qH6qDd18GNJnGNwtHY) | 4:08 |
+| 7 | [Metade de Mim](https://open.spotify.com/track/2aI59xoodYm6cB8JIPube0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ), [Alexandre Silva](https://open.spotify.com/artist/4pv3YsIBMfpGMQgGXLZmFo) | [Sem Comparação](https://open.spotify.com/album/0wp8qH6qDd18GNJnGNwtHY) | 4:08 |
+| 8 | [A Dois](https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [A Dois](https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T) | 3:56 |
 | 9 | [Por Nós](https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Amar e Perdoar](https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ) | 3:50 |
 | 10 | [Mais \- Studio Session](https://open.spotify.com/track/0o6nEehnkqsyy1J4pMvoEZ) | [Amanda Rodrigues](https://open.spotify.com/artist/02UTfx9pxLYkiuMENQe2IW), [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY) | [Mais \(Studio Session\)](https://open.spotify.com/album/4jSX0OJw7dzgzvT3GSWleW) | 4:10 |
 | 11 | [Desde o Primeiro Momento](https://open.spotify.com/track/1pv5bRc2G6ZbiBkKpCDT1K) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG) | [Tempo de Sorrir](https://open.spotify.com/album/1GBGOqtdXd3Oup24fJ6B1B) | 4:04 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 64 | [Um Pedacinho do Céu](https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Um Pedacinho do Céu](https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG) | 3:53 |
 | 65 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
 
-Snapshot ID: `MCwxNjJkN2ZlMzkxZTcyYjRjNDhiNjVhMmRhNzAzM2YwYzc1MDEzODQ3`
+Snapshot ID: `MCwzYjJhMjIwZGQ3YjRkOTQ4YjNiMWFmMDNmNjg1MTI4YzEwODI1MmQ3`

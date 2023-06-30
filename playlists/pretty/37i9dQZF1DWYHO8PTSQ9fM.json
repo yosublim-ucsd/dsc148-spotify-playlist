@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : Lartiste",
-  "num_followers": 298897,
+  "num_followers": 299508,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmZjMDcxYmNiNjU4MTUxN2U1MmQ5MmM2MGVhOTQ1ZjU0M2Y5MzM1",
+  "snapshot_id": "MCxlNTExNmYzOWUyNmY4NTdmZTAwNTg2NmQ0NjQyZjUwZGJjOGFhN2Ey",
   "tracks": [
     {
       "added_at": "2023-06-27 08:34:25",
@@ -271,6 +271,26 @@
     {
       "added_at": "2023-06-27 08:34:25",
       "album": {
+        "name": "Business (feat. Naza)",
+        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 170435,
+      "name": "Business (feat. Naza)",
+      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+    },
+    {
+      "added_at": "2023-06-27 08:34:25",
+      "album": {
         "name": "Lovini",
         "url": "https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 148062,
       "name": "Dawk Lya",
       "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
-    },
-    {
-      "added_at": "2023-06-27 08:34:25",
-      "album": {
-        "name": "Business (feat. Naza)",
-        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 170435,
-      "name": "Business (feat. Naza)",
-      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
     },
     {
       "added_at": "2023-06-27 08:34:25",

@@ -4167,6 +4167,24 @@
     },
     {
       "album": {
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/2bJV3YzMJ6RrW4memIg1vl"
+      },
+      "artists": [
+        {
+          "name": "Emoter",
+          "url": "https://open.spotify.com/artist/61YSVV1OUrF6VcwghVVggg"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305581,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/6ZGLumeSAYwtAVF4yWZu6m"
+    },
+    {
+      "album": {
         "name": "Dime A Dozen",
         "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
       },

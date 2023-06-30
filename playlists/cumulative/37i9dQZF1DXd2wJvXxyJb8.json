@@ -3692,7 +3692,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 195706,
       "name": "Mec Life",
       "url": "https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed"
@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 195706,
       "name": "Mec Life",
       "url": "https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35"
@@ -4118,6 +4118,32 @@
       "duration_ms": 111968,
       "name": "Na Rebolada",
       "url": "https://open.spotify.com/track/7v3BTjWrmUYjaGiVHVVhCK"
+    },
+    {
+      "album": {
+        "name": "No Baile Ela Se Arruma (Remix)",
+        "url": "https://open.spotify.com/album/4qgJKFVGn95QZsmRky3ylU"
+      },
+      "artists": [
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
+        },
+        {
+          "name": "DJ Ery",
+          "url": "https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "No Baile Ela Se Arruma - Remix",
+      "url": "https://open.spotify.com/track/43BbABuvRewiznicv3QgyL"
     },
     {
       "album": {

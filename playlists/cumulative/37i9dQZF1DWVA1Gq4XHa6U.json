@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: Lil Wayne",
+  "description": "Taking it way back! Cover: A Tribe Called Quest",
   "name": "Gold School",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 223973,
       "name": "Can't Let You Go (feat. Mike Shorey & Lil' Mo)",
       "url": "https://open.spotify.com/track/6lrRIfQDcikJ5y5DtyZPuJ"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 229306,
       "name": "Everyone Nose (All The Girls Standing In The Line For The Bathroom) - Remix",
       "url": "https://open.spotify.com/track/0VVJkld0IvkEXAAOsx70sh"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 203066,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
@@ -1726,6 +1726,28 @@
       "duration_ms": 314400,
       "name": "Holidae In",
       "url": "https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy"
+    },
+    {
+      "album": {
+        "name": "Confessions Of Fire",
+        "url": "https://open.spotify.com/album/2pIL8lbz2cz2Zg2Da3p9DF"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241533,
+      "name": "Horse & Carriage (feat. Mase)",
+      "url": "https://open.spotify.com/track/2IwuXiEjBo1vlHluE0mxQV"
     },
     {
       "album": {
@@ -4686,7 +4708,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 275906,
       "name": "What's Your Fantasy (Featuring Shawna)",
       "url": "https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z"

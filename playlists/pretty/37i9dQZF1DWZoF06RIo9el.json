@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de junio 2023",
-  "num_followers": 1527875,
+  "num_followers": 1528201,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmI3MTRiMWZhNzIzN2M2NWExNmRiNTBkMDU4YThmMjhkMmJhNmI3",
+  "snapshot_id": "MCwyZDExMDcxYzA2ZTkwMzNiOGIyYTEyNGQ1ZTg1ODRjZDcwYTA1YWIx",
   "tracks": [
     {
       "added_at": "2023-06-23 14:43:52",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
         "name": "BABY HELLO",
         "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 222461,
       "name": "BABY HELLO",
       "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -251,22 +251,18 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
-        "name": "FANTASMA | AVC",
-        "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
+        "name": "CORAZ\u00d3N VAC\u00cdO",
+        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 285074,
-      "name": "FANTASMA | AVC",
-      "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
+      "duration_ms": 160535,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -311,22 +307,6 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
-        "name": "CORAZ\u00d3N VAC\u00cdO",
-        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160535,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
         "name": "Funk Rave",
         "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
+        "name": "FANTASMA | AVC",
+        "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 285074,
+      "name": "FANTASMA | AVC",
+      "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -607,6 +607,26 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
+        "name": "PO2054AZ (Vol.I)",
+        "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 150986,
+      "name": "Completamente Loco",
+      "url": "https://open.spotify.com/track/7B646WX2daEPa4bjsnUv9o"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -659,26 +679,6 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
-        "name": "PO2054AZ (Vol.I)",
-        "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 150986,
-      "name": "Completamente Loco",
-      "url": "https://open.spotify.com/track/7B646WX2daEPa4bjsnUv9o"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
         "name": "Tu Me Elevas",
         "url": "https://open.spotify.com/album/2qyqD24Oa0BIvjkRcqoG9b"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 207103,
       "name": "Tu Me Elevas",
       "url": "https://open.spotify.com/track/4NmwhhvF4GMvLS1UzG8ydb"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
+        "name": "D\u00e9jalo En Visto",
+        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 189918,
+      "name": "D\u00e9jalo En Visto",
+      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -775,26 +795,6 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
-        "name": "D\u00e9jalo En Visto",
-        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 189918,
-      "name": "D\u00e9jalo En Visto",
-      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
         "name": "Descifrar",
         "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
-        "name": "Qu\u00e9 Bonito",
-        "url": "https://open.spotify.com/album/4Fom80eSwOFjauHyvEFH2G"
-      },
-      "artists": [
-        {
-          "name": "Noel Schajris",
-          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
-        }
-      ],
-      "duration_ms": 204950,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/7jlntKg9Nl7qxO2IFFwLx5"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
         "name": "radar",
         "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 160694,
       "name": "radar",
       "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
+        "name": "Qu\u00e9 Bonito",
+        "url": "https://open.spotify.com/album/4Fom80eSwOFjauHyvEFH2G"
+      },
+      "artists": [
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        }
+      ],
+      "duration_ms": 204950,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/7jlntKg9Nl7qxO2IFFwLx5"
     },
     {
       "added_at": "2023-06-23 14:43:52",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-06-23 14:43:52",
       "album": {
+        "name": "A Ciegas",
+        "url": "https://open.spotify.com/album/6iLktFdW6hFXyDKh7RSDuA"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "A Ciegas",
+      "url": "https://open.spotify.com/track/5UOkrNK6Vus3nzjHVWfHpQ"
+    },
+    {
+      "added_at": "2023-06-23 14:43:52",
+      "album": {
         "name": "rimas del verbo amar",
         "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 147386,
       "name": "terco",
       "url": "https://open.spotify.com/track/5UIVNKCKEJpbNJlSTBJYk5"
-    },
-    {
-      "added_at": "2023-06-23 14:43:52",
-      "album": {
-        "name": "A Ciegas",
-        "url": "https://open.spotify.com/album/6iLktFdW6hFXyDKh7RSDuA"
-      },
-      "artists": [
-        {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        }
-      ],
-      "duration_ms": 175346,
-      "name": "A Ciegas",
-      "url": "https://open.spotify.com/track/5UOkrNK6Vus3nzjHVWfHpQ"
     },
     {
       "added_at": "2023-06-23 14:43:52",

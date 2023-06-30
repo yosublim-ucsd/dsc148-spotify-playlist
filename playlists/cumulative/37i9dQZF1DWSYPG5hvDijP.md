@@ -2,9 +2,9 @@
 
 ### [Taaza hai bro!](https://open.spotify.com/playlist/37i9dQZF1DWSYPG5hvDijP)
 
-> New Hip Hop from India\. Cover\- Srushti Tawade
+> New Hip Hop from India.
 
-121 songs - 6 hr 33 min
+122 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [COLORS](https://open.spotify.com/track/6iWuzQWaaccsdX5veQZxxt) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [THE BRIDGE](https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN) | 2:09 | 2023-04-28 | 2023-06-02 |
 | [COMING UP](https://open.spotify.com/track/5Slg73y7Ul41nQ4rY9QHlg) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [RAP GODDESS](https://open.spotify.com/album/1H2Cs63eKn7PPuBCjHZCu1) | 2:57 | 2023-05-12 | 2023-06-02 |
 | [Company](https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Company](https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL) | 3:42 | 2023-03-29 |  |
+| [Confident](https://open.spotify.com/track/1q27kOWtftfdf4go5TVZG9) | [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Confident](https://open.spotify.com/album/66cj7tHg9EZ6lqwwp5pPcN) | 3:39 | 2023-06-29 |  |
 | [Dard\-E\-Dil](https://open.spotify.com/track/3uJFFaqnvX6mFPJCqonnDv) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Dard\-E\-Dil](https://open.spotify.com/album/73msXI225qoOzfMKoJ5RyW) | 3:46 | 2023-04-16 |  |
 | [Dayein Bayein](https://open.spotify.com/track/3VOwYlsDo66ZtAB5SbqfVx) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr) | [Dayein Bayein](https://open.spotify.com/album/1JrHE6GJZg6brN76ueQ1rI) | 2:28 | 2023-03-29 | 2023-04-17 |
 | [Desktop](https://open.spotify.com/track/1KXJ0DXzCA5ysq7i15ujKP) | [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Desktop](https://open.spotify.com/album/7AqO9vYUFXCA4sL1clxoJk) | 2:00 | 2023-05-12 | 2023-06-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 366161,
+  "num_followers": 366255,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzliMjY5ZTM0NzU2ZjJhNTA2NzAyMjY2OTU1NDBlMjc5MzlkNGVm",
+  "snapshot_id": "MCwwOGZiYjVjYTQ0YWYzMDM0OTVhNGM4ZDRjNWU4NGM1YTJiYmNiYTBh",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Son Little (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Lay Down",
-      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Son Little (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Out Of Style",
-        "url": "https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "How Bad We Need Each Other",
-      "url": "https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Promenade Blue",
         "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 154617,
       "name": "B. Santa Ana, 1986",
       "url": "https://open.spotify.com/track/5qwQD3zccHVx6YdknvbCyv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Out Of Style",
+        "url": "https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "How Bad We Need Each Other",
+      "url": "https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Muse",
-        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
-      },
-      "artists": [
-        {
-          "name": "The Wood Brothers",
-          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Wastin' My Mind",
-      "url": "https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Gold Shadow",
         "url": "https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 156993,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Muse",
+        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
+      },
+      "artists": [
+        {
+          "name": "The Wood Brothers",
+          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Wastin' My Mind",
+      "url": "https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS"
     },
     {
       "added_at": "2023-05-19 04:00:00",

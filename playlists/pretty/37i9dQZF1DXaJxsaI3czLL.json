@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 125321,
+  "num_followers": 125354,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTk3OTg1ZWVlMWRiOGEzMTllYjcyMTI5MWRmMzc2ZDliYjVmYTUx",
+  "snapshot_id": "MCxiM2ZhOGRkY2UzNzZhMzFkZTc2YWRkNmYzMjQyMDU5Y2UxYWIyOWUw",
   "tracks": [
     {
       "added_at": "2023-06-27 15:00:00",
@@ -627,22 +627,18 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "white dress",
-        "url": "https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS"
+        "name": "HALSHURA(\u30cf\u30eb\u30b7\u30e5\u30e9)",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
       "artists": [
         {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        },
-        {
-          "name": "LIU KOI",
-          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
         }
       ],
-      "duration_ms": 172800,
-      "name": "white dress",
-      "url": "https://open.spotify.com/track/7qod4wNweZVfZZfV5MeC3t"
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -663,22 +659,22 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR"
+        "name": "white dress",
+        "url": "https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS"
       },
       "artists": [
         {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
         },
         {
-          "name": "\u5869\u585a\u30e2\u30a8\u30ab",
-          "url": "https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr"
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
         }
       ],
-      "duration_ms": 327191,
-      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
+      "duration_ms": 172800,
+      "name": "white dress",
+      "url": "https://open.spotify.com/track/7qod4wNweZVfZZfV5MeC3t"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -699,18 +695,22 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "HALSHURA(\u30cf\u30eb\u30b7\u30e5\u30e9)",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+        "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR"
       },
       "artists": [
         {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        },
+        {
+          "name": "\u5869\u585a\u30e2\u30a8\u30ab",
+          "url": "https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr"
         }
       ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+      "duration_ms": 327191,
+      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -848,7 +848,7 @@
       "added_at": "2023-06-27 15:00:00",
       "album": {
         "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp"
+        "url": "https://open.spotify.com/album/7iwT3qJe6FnAcn6CouxMIM"
       },
       "artists": [
         {
@@ -858,7 +858,7 @@
       ],
       "duration_ms": 277500,
       "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/2EZM4rYK3tbiRaGS3XyYvi"
+      "url": "https://open.spotify.com/track/0zuBBSQxpKJU8AJfgO4Ghq"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "Apartment",
-        "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
+        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
+        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
       },
       "artists": [
         {
-          "name": "Hikaru Arata",
-          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
+          "name": "Fuyumi Abe",
+          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
         }
       ],
-      "duration_ms": 243846,
-      "name": "Apartment",
-      "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
+      "duration_ms": 245746,
+      "name": "\u5e0c\u671b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
-        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
-        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
       },
       "artists": [
         {
-          "name": "Fuyumi Abe",
-          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 245746,
-      "name": "\u5e0c\u671b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
+      "duration_ms": 185133,
+      "name": "Sashiiro",
+      "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
+        "name": "Apartment",
+        "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Arata",
+          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
+        }
+      ],
+      "duration_ms": 243846,
+      "name": "Apartment",
+      "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
+    },
+    {
+      "added_at": "2023-06-27 15:00:00",
+      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 228038,
       "name": "\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
-    },
-    {
-      "added_at": "2023-06-27 15:00:00",
-      "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Sashiiro",
-      "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
     },
     {
       "added_at": "2023-06-27 15:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-06-27 15:00:00",
       "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2023-06-27 15:00:00",
+      "album": {
         "name": "Night Flow",
         "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 266729,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
-    },
-    {
-      "added_at": "2023-06-27 15:00:00",
-      "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
       "added_at": "2023-06-27 15:00:00",

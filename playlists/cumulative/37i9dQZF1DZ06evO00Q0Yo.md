@@ -4,10 +4,11 @@
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 33 min
+55 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/album/60LPFmZ5vcbDBZRexNZ9c1) | 3:18 | 2023-06-29 |  |
 | [Asthma Pump \(feat\. Flo Milli\)](https://open.spotify.com/track/3Icnj3FRBYCl2m2hF6cATP) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Asthma Pump \(feat\. Flo Milli\)](https://open.spotify.com/album/23RCHE9lTRvu3mBUvemcYZ) | 2:58 | 2022-10-28 |  |
 | [Back It Up](https://open.spotify.com/track/23LAuKGYTIW6rrCiZqvDZG) | [Trap Beckham](https://open.spotify.com/artist/5AK2gJtEA2SWI9lBywSZjN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Back It Up](https://open.spotify.com/album/5JEiyCKJvndbtLtj9fSmA3) | 3:05 | 2022-10-28 |  |
 | [Bed Time](https://open.spotify.com/track/1WGIqE7rCmrsERtlIpCGyM) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:48 | 2022-10-28 | 2023-03-27 |

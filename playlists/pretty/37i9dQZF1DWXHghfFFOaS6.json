@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 292747,
+  "num_followers": 292959,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTJhYWI1NWRiMTVjNGM2OWI3MTdmZWVmZDRiYmU1MTJiMWQ4Mjc5",
+  "snapshot_id": "MCwyNzdhMGY3ZjljOWZhMmQzY2E2Y2UyNmRlNzIxM2NhZjQ2ZGE2ZDVh",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Hi-Teknology",
+        "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
+      },
+      "artists": [
+        {
+          "name": "Hi-Tek",
+          "url": "https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg"
+        }
+      ],
+      "duration_ms": 274826,
+      "name": "The Sun God",
+      "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Hand On The Torch",
         "url": "https://open.spotify.com/album/3lOv4MWFZGIJmHdyMXtlB5"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 279360,
       "name": "Cantaloop (Flip Fantasia)",
       "url": "https://open.spotify.com/track/2AnTuxahfcAS7dGxGZnihY"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Hi-Teknology",
-        "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
-      },
-      "artists": [
-        {
-          "name": "Hi-Tek",
-          "url": "https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg"
-        }
-      ],
-      "duration_ms": 274826,
-      "name": "The Sun God",
-      "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Friends & Strangers",
-        "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Laws",
-          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
-        }
-      ],
-      "duration_ms": 289013,
-      "name": "Friends And Strangers",
-      "url": "https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Cookie Dough",
         "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 175586,
       "name": "Serious Drug",
       "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Friends & Strangers",
+        "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Laws",
+          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
+        }
+      ],
+      "duration_ms": 289013,
+      "name": "Friends And Strangers",
+      "url": "https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -915,34 +915,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Afrodesia",
-        "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
-      },
-      "artists": [
-        {
-          "name": "Dr. Lonnie Smith",
-          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
-        },
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 372733,
-      "name": "It's Changed",
-      "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Rewind, Vol. 4",
         "url": "https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp"
       },
@@ -971,6 +943,34 @@
       "duration_ms": 151948,
       "name": "Space",
       "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Afrodesia",
+        "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
+      },
+      "artists": [
+        {
+          "name": "Dr. Lonnie Smith",
+          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
+        },
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 372733,
+      "name": "It's Changed",
+      "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Galactica Rush",
-        "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
-      },
-      "artists": [
-        {
-          "name": "Jhelisa",
-          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
-        }
-      ],
-      "duration_ms": 320693,
-      "name": "Whirl Keeps Turning",
-      "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Girl Overboard",
         "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 444333,
       "name": "Girl Overboard",
       "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Galactica Rush",
+        "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
+      },
+      "artists": [
+        {
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+        }
+      ],
+      "duration_ms": 320693,
+      "name": "Whirl Keeps Turning",
+      "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "In Pursuit Of The 13th Note",
+        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 286600,
+      "name": "Nothing Has Changed",
+      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Check The Pulse",
         "url": "https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 154520,
       "name": "Check The Pulse",
       "url": "https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "In Pursuit Of The 13th Note",
-        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 286600,
-      "name": "Nothing Has Changed",
-      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
     },
     {
       "added_at": "2022-07-14 19:24:43",

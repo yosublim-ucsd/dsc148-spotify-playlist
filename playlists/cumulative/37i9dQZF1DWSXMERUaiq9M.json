@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 321666,
       "name": "Deine Angst",
       "url": "https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT"
@@ -474,6 +474,28 @@
       "duration_ms": 291513,
       "name": "Do You Love Me?",
       "url": "https://open.spotify.com/track/42Tis1KQQnns2LaAuA0vk5"
+    },
+    {
+      "album": {
+        "name": "Donkers",
+        "url": "https://open.spotify.com/album/06SEttic5htIY70LgIXuQR"
+      },
+      "artists": [
+        {
+          "name": "Gonzi",
+          "url": "https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304500,
+      "name": "Donkers",
+      "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
     },
     {
       "album": {
@@ -648,7 +670,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 200744,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX"
@@ -688,7 +710,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 136793,
       "name": "Give Me Your Love (Baby)",
       "url": "https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H"
@@ -966,6 +988,24 @@
       "duration_ms": 200687,
       "name": "Irre - KomaCasper Remix",
       "url": "https://open.spotify.com/track/4W2Xk8VUlrPkPSsLUaeMS3"
+    },
+    {
+      "album": {
+        "name": "It Ain't Over",
+        "url": "https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215096,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG"
     },
     {
       "album": {
@@ -1835,6 +1875,28 @@
     },
     {
       "album": {
+        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
+        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Chacel",
+          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178614,
+      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
+      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
+    },
+    {
+      "album": {
         "name": "Schreien! (Turbo Remix)",
         "url": "https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE"
       },
@@ -1876,6 +1938,24 @@
       "duration_ms": 415522,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk"
+    },
+    {
+      "album": {
+        "name": "Spicey (Original)",
+        "url": "https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld"
+      },
+      "artists": [
+        {
+          "name": "GHSTGHSTGHST",
+          "url": "https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "Spicey - Original",
+      "url": "https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd"
     },
     {
       "album": {
@@ -2010,7 +2090,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 196885,
       "name": "The Speed",
       "url": "https://open.spotify.com/track/2VFTLSNaAm18ac2xYr5EQv"

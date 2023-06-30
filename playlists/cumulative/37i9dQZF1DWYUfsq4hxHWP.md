@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Hayden Coffman, Artwork: Fanélie Muselier
 
-1,620 songs - 3 day 16 hr 15 min
+1,621 songs - 3 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1067,7 +1067,8 @@
 | [Out of My Hands \- Demo](https://open.spotify.com/track/2MmqKF4l3IQvDXP7B8wE1g) | [Charly Reynolds](https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp) | [Out of My Hands \(Demo\)](https://open.spotify.com/album/6PuXNtzvvxXlebro2lgxeK) | 2:51 | 2023-02-08 | 2023-03-16 |
 | [Out of That Memory](https://open.spotify.com/track/1jg2kF8lorLHICXD2vwZjI) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Out of That Memory](https://open.spotify.com/album/15fAc3aWRijNYBEiP2J80K) | 3:14 | 2022-02-16 | 2022-03-10 |
 | [Out of the Blue](https://open.spotify.com/track/1PlkUaRg6MTTZ5wUzQsiYd) | [Blake Henderson](https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4) | [Out of the Blue](https://open.spotify.com/album/7MlBio3dlMhP4dFh7JM7wt) | 2:49 | 2023-05-03 | 2023-06-01 |
-| [Out of the Blue](https://open.spotify.com/track/2HrgOXVI4LvL16bI6493X9) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Out of the Blue](https://open.spotify.com/album/2WnD5GaQWKvmTUCZvtz5Rg) | 3:50 | 2023-06-28 |  |
+| [Out of the Blue](https://open.spotify.com/track/23iScQD5yKB0WB6NEWFfp6) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Out of the Blue](https://open.spotify.com/album/3SUEowt2p7gYCAi7GYsN37) | 3:50 | 2023-06-28 |  |
+| [Out of the Blue](https://open.spotify.com/track/2HrgOXVI4LvL16bI6493X9) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Out of the Blue](https://open.spotify.com/album/2WnD5GaQWKvmTUCZvtz5Rg) | 3:50 | 2023-06-28 | 2023-06-30 |
 | [Outlaw](https://open.spotify.com/track/46cIitgOL5fc6SqYvl0WmZ) | [Matt Hodges](https://open.spotify.com/artist/2CXuzLOgXrK4jjcd2YczuH) | [Outlaw](https://open.spotify.com/album/46ZLJTYD4DaRTPdKyFoJqP) | 3:18 | 2022-01-12 | 2022-01-20 |
 | [Outta Line](https://open.spotify.com/track/6Z1j6xkYlkXNGQkcg9MMcP) | [Whiskey Thomas](https://open.spotify.com/artist/0iE9TKciBcgSifULqBLoDe) | [1952](https://open.spotify.com/album/6sOGQdi0Dmr77hgvsEUgv9) | 1:56 | 2023-03-22 | 2023-04-27 |
 | [Outta This Town](https://open.spotify.com/track/1L3PUuavc9Tk1YkjAvoql4) | [Shawn Oates](https://open.spotify.com/artist/0i2w9FqP8jRzT6YVwfYLcg) | [Outta This Town](https://open.spotify.com/album/641zQocMBosy8sOG40iTTq) | 2:52 | 2022-03-23 | 2022-05-05 |

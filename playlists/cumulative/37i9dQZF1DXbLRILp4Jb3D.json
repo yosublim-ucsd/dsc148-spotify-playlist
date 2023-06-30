@@ -34,7 +34,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 207800,
       "name": "A Eme O",
       "url": "https://open.spotify.com/track/3tM2iXXrWYNrv1yvvgiBhn"
@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Buenos Deseos",
+        "url": "https://open.spotify.com/album/3HVFsisvwNtAN8MJDSNZm0"
+      },
+      "artists": [
+        {
+          "name": "Los Tremendos Trex",
+          "url": "https://open.spotify.com/artist/1WhVSLOSDDi4XX9HW8arUR"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122327,
+      "name": "Buenos Deseos",
+      "url": "https://open.spotify.com/track/2Plny2Hr55IUtFMoMIlTNn"
+    },
+    {
+      "album": {
         "name": "Buenos D\u00edas Se\u00f1or Sol",
         "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
       },
@@ -324,7 +342,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 162973,
       "name": "Canci\u00f3n de Cuna",
       "url": "https://open.spotify.com/track/7douQtrRKnSyVPVFqNOJJL"
@@ -490,7 +508,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 194559,
       "name": "Di Que Te Encanta",
       "url": "https://open.spotify.com/track/5F7XaBXJXm1GUrs520Y6JE"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 245946,
       "name": "El Ciclo Sin Fin",
       "url": "https://open.spotify.com/track/0DRYjkzPqeVX2gYBFeMmxq"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 116880,
       "name": "El Marciano",
       "url": "https://open.spotify.com/track/1DUFoWbwvlSvnsVNUB5G1y"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 187652,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/1THS6PJOgGmjoL9ynjyHXH"
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 162154,
       "name": "Katafixia - Remastered 2023",
       "url": "https://open.spotify.com/track/1fLR9sRYDGvgNUajtPTJhQ"
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 164306,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/3YHvIHCJIwQCh2uJ17GG40"
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 204440,
       "name": "No Te Metas A Mi Facebook",
       "url": "https://open.spotify.com/track/6tUFAewWAb5OkcYiwzSdr0"
@@ -1916,7 +1934,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 153401,
       "name": "Rehilete - Remastered 2023",
       "url": "https://open.spotify.com/track/7vpBqGXN85vi4Mi4qoLc2v"
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 204600,
       "name": "Twist Del Mono Liso",
       "url": "https://open.spotify.com/track/5IexGMIg4gYRPz5ExvcK9A"
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Un Mundo Ideal",
       "url": "https://open.spotify.com/track/374W2LUkFHs3WIRoRaskWi"
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 236417,
       "name": "Yoshi's Story",
       "url": "https://open.spotify.com/track/09MKlg0SHaNgK8iLtAgUHz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Big Boss Vette
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,690 likes - 55 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,754 likes - 55 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 19 | [Where the Fun Niggas At?](https://open.spotify.com/track/36jKiym1viZatX0tHDGDxM) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Where the Fun Niggas At?](https://open.spotify.com/album/7BWW9riDewdKvAh0pz1Tza) | 2:44 |
 | 20 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
 | 21 | [Phuck It](https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:58 |
-| 22 | [Point Me To The Slut's](https://open.spotify.com/track/2tu7n1Pxm75szYU3ySCpri) | [Fendi](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy) | [Point Me To The Slut's](https://open.spotify.com/album/56lKFl1PWdU3Hf0X4QYlni) | 2:55 |
+| 22 | [Point Me To The Slut's](https://open.spotify.com/track/2tu7n1Pxm75szYU3ySCpri) | [FendiDa Rappa](https://open.spotify.com/artist/5LbZaSo64Wgxu5rAfKxPA0) | [Point Me To The Slut's](https://open.spotify.com/album/56lKFl1PWdU3Hf0X4QYlni) | 2:55 |
 | 23 | [10!](https://open.spotify.com/track/2JGkw6gknuCYH0RZ2FYzzr) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [10!](https://open.spotify.com/album/0WiRWTGXavt4yZfb8HZxyG) | 2:19 |
 | 24 | [Problem](https://open.spotify.com/track/7LFN9ERrNzpsVg5BYcJCqt) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Problem](https://open.spotify.com/album/3OTsLgRdYM4OMNa8U4TaIq) | 2:24 |
 | 25 | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih) | 3:43 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 54 | [Don't Know \(GloRidaz Bonus\)](https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 2:32 |
 | 55 | [Click Click \(feat\. B\-Lovee\)](https://open.spotify.com/track/4nkUBzFunkTB1gwW42Rmrm) | [Murda B](https://open.spotify.com/artist/4HuE6dCutt16fdrJiA2uqr), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Click Click \(feat\. B\-Lovee\)](https://open.spotify.com/album/2NuOh0yov7vuBxweJIj17w) | 2:01 |
 
-Snapshot ID: `MCwyYmVhZjczMzFhZTJiZTZlMjY5ZDc5NzQzOWIwNGIwZDMyZjNmMWI1`
+Snapshot ID: `MCw4MjFiMzdmNWEwZTY0NWZjODI5Y2EzNDA1YTdhZGNjMDM5Y2Q1MTY1`

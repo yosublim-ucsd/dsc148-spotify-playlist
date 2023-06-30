@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-349 songs - 1 day 8 hr 27 min
+350 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Azalea](https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7) | [Playing The Room](https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US) | 3:41 | 2020-05-02\* |  |
 | [Balanced](https://open.spotify.com/track/3mFKpIwPki7CWYrt66vxD6) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Balanced](https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ) | 8:32 | 2023-03-16 |  |
 | [Ballad Of The Sad Young Men](https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4) | [Marcin Wasilewski](https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF), [Slawomir Kurkiewicz](https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR), [Michal Miskiewicz](https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT) | [Faithful](https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2) | 5:29 | 2021-02-17 |  |
+| [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv) | 4:13 | 2023-06-20 |  |
 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 | 2023-06-25 |
 | [Before I Go](https://open.spotify.com/track/4GjFlTH2UmREIYxcux8Ovh) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Cloud 10](https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun) | 6:05 | 2022-09-08 | 2022-12-21 |
 | [Beirut](https://open.spotify.com/track/5BqRh0lU4ZD6L62fMmgtRP) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Beirut](https://open.spotify.com/album/6KttOwAyq3c6Ex9vrVsEBW) | 4:24 | 2022-09-08 | 2022-11-07 |
@@ -188,7 +189,7 @@
 | [Misty](https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sony Jazz Collection](https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI) | 5:23 | 2020-05-02\* | 2022-07-29 |
 | [Mo' Better Blues \(feat\. Terence Blanchard\)](https://open.spotify.com/track/78P3mF3w6APwFpnd6UFH4J) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [MUSIC FROM MO' BETTER BLUES \(feat\. Terence Blanchard\)](https://open.spotify.com/album/0p9pjx1LrmYBb70ns5lMGz) | 3:38 | 2020-05-02\* | 2022-01-25 |
 | [Moment](https://open.spotify.com/track/225tB4D1tSQe09i4LfeaCQ) | [Hyuntae Kim](https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS) | [Remembering](https://open.spotify.com/album/2elaIEGm1mApCONikdISZD) | 4:59 | 2023-01-05 |  |
-| [Monet](https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J) | [Mikkel Ploug](https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Sean Carpio](https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f), [Jeppe Skovbakke](https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg) | [Nocturnes](https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV) | 6:24 | 2023-06-20 |  |
+| [Monet](https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J) | [Mikkel Ploug](https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Sean Carpio](https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f), [Jeppe Skovbakke](https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg) | [Nocturnes](https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV) | 6:24 | 2023-06-20 | 2023-06-30 |
 | [Mood](https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P.](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 8:50 | 2021-02-26 | 2022-03-11 |
 | [Mother Stands for Comfort](https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 4:07 | 2023-06-01 |  |
 | [Mother Stands for Comfort](https://open.spotify.com/track/5e7Cm6pTeymXvHKfsXyJMx) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Mother Stands For Comfort](https://open.spotify.com/album/3VMS5nN5sKgqt1GAvihrkt) | 4:07 | 2023-03-02 | 2023-05-17 |

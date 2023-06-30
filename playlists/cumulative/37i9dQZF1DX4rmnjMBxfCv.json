@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Dance and electronic Arabic songs. Cover: Jad Halal",
+  "description": "Dance and electronic Arabic songs. Cover: Ash",
   "name": "mint \u0646\u0639\u0646\u0639",
   "tracks": [
     {
@@ -2002,6 +2002,24 @@
       "duration_ms": 156000,
       "name": "Party Every Day",
       "url": "https://open.spotify.com/track/2TMBACl98EE97KJOmjiXG3"
+    },
+    {
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/4Ajsb1xa7tIaXziRqzutdn"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488421,
+      "name": "People",
+      "url": "https://open.spotify.com/track/286H8buvzhio16dP4VeV0q"
     },
     {
       "album": {

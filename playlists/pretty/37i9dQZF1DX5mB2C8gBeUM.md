@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Chase Matthew
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,219 likes - 138 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,471 likes - 138 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 14 | [Some Other Bar](https://open.spotify.com/track/1Y4smjUloaPcgZh99z0SGJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Some Other Bar](https://open.spotify.com/album/6hYRFzxWwKRLpasujAegzw) | 3:19 |
 | 15 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 |
 | 16 | [Nobody's More Country](https://open.spotify.com/track/5ebwYSZVFG6VJOE0mWs71o) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/2Jogodfbu37ikyUK11yGAf) | 2:52 |
-| 17 | [Without You](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
+| 17 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
 | 18 | [Knock Yourself Out](https://open.spotify.com/track/6EYP9xedLZbzYh5TBEaVe1) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Knock Yourself Out](https://open.spotify.com/album/1KWDJUAB0w0oxqF3KdmAH9) | 2:52 |
 | 19 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 |
 | 20 | [Ain't Enough Cowboy](https://open.spotify.com/track/5nv48Y830DcU2KoreKAXoL) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 2:36 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 137 | [FU\-150](https://open.spotify.com/track/0Nb7pW1koAiWGfCMVD23oT) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [FU\-150.](https://open.spotify.com/album/7D0ZMLCytmMnz3P1zQeZuU) | 2:53 |
 | 138 | [Mr\. Percocet](https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:13 |
 
-Snapshot ID: `MCw5YWJiMmE5NzZmODhlZWNjYzk2YjYyMzc4MDQ1NDY2ZGQ0NmQ2YjY0`
+Snapshot ID: `MCwyYTg0NjY2MmZkZjQ3ODIzMDgxNGVkZDVmYWU2YmM5ZTAwZDY5YmVh`

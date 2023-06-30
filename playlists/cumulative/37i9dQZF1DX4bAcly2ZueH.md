@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-122 songs - 6 hr 31 min
+123 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katu](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 | 2022-10-11 |  |
 | [I'll Come Find You](https://open.spotify.com/track/3V1nJumPZoo10X5ngak4nz) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Dissociated](https://open.spotify.com/album/5xLRDCKx8oG8UwRejXGxpF) | 3:34 | 2023-06-06 |  |
 | [I'll Come Find You](https://open.spotify.com/track/6i0uNcIhVZRMKahUtkBqQH) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Dissociated EP](https://open.spotify.com/album/1wmHZvsUm09GfGvIIRQ3SZ) | 3:34 | 2022-10-11 | 2023-06-23 |
-| [idk2](https://open.spotify.com/track/3xcUlIlxuFJg9ULn2xppI3) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/4NrdkPiWR2viihNRry16pZ) | 2:06 | 2022-10-11 |  |
+| [idk2](https://open.spotify.com/track/3xcUlIlxuFJg9ULn2xppI3) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/4NrdkPiWR2viihNRry16pZ) | 2:06 | 2022-10-11 | 2023-06-30 |
+| [idk2](https://open.spotify.com/track/65i5oP0YKXtWDj7Fqtvdak) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/0FrLx9txKT7cBIwVkbtri2) | 2:06 | 2023-06-28 |  |
 | [In Your Arms](https://open.spotify.com/track/24tlBs7UEBwNIPB3hFwkjH) | [Mattheus Fedorova](https://open.spotify.com/artist/5fynz3YRv7vghPyLm3gTTE) | [In Your Arms](https://open.spotify.com/album/393FqXTdXkw5pQwpnOuhfo) | 4:40 | 2023-03-07 | 2023-05-06 |
 | [in your arms](https://open.spotify.com/track/14yTQbKnhRnr4EcXGqszvB) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Escape Everything](https://open.spotify.com/album/32fmXtwTmYZMpKhDD8JYQK) | 4:37 | 2022-10-11 | 2022-11-13 |
 | [in your arms](https://open.spotify.com/track/4fgIoBKHzO7YO5eATyYbMl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/5nNs8PotoPHT8MDTHD9wD5) | 4:37 | 2022-10-11 |  |

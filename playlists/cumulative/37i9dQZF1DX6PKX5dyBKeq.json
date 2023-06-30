@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Digga D",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Bandokay",
   "name": "Rap UK",
   "tracks": [
     {
@@ -804,7 +804,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 99130,
       "name": "4x4",
       "url": "https://open.spotify.com/track/6zFxBYARcXEH6K9HhhsWZf"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 202666,
       "name": "All My Life, If I Had...",
       "url": "https://open.spotify.com/track/4MOOC6wxoMIz4Rl4YEmVQ9"
@@ -8630,7 +8630,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 126967,
       "name": "Dope",
       "url": "https://open.spotify.com/track/7HCingQ6wa3KmzwATDB6SW"
@@ -9613,6 +9613,24 @@
     },
     {
       "album": {
+        "name": "Ed Edd and Eddy",
+        "url": "https://open.spotify.com/album/244DU5AOYp0dkUePtr6QsH"
+      },
+      "artists": [
+        {
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "Ed Edd and Eddy",
+      "url": "https://open.spotify.com/track/1Eo8A8UNGDeL5vDrafVHaZ"
+    },
+    {
+      "album": {
         "name": "Eighteen",
         "url": "https://open.spotify.com/album/5Sko8aldkM0Ugdnw9nVrsW"
       },
@@ -9862,6 +9880,28 @@
       "duration_ms": 180559,
       "name": "Essex Boys",
       "url": "https://open.spotify.com/track/1VIFf0jPmya0iDcBU6oXmt"
+    },
+    {
+      "album": {
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187057,
+      "name": "Eurostar (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
     },
     {
       "album": {
@@ -12739,6 +12779,52 @@
     },
     {
       "album": {
+        "name": "M.A.R.K",
+        "url": "https://open.spotify.com/album/64eGGtowHL74uQ4MnIMZri"
+      },
+      "artists": [
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        },
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Kush",
+          "url": "https://open.spotify.com/artist/3zBZhGMFBeqdhCdJB60a5g"
+        },
+        {
+          "name": "Akz",
+          "url": "https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK"
+        },
+        {
+          "name": "Rv",
+          "url": "https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o"
+        },
+        {
+          "name": "YF",
+          "url": "https://open.spotify.com/artist/4qRbNvzOP9UxQIqOIbJMUb"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/1wDiHQM5CoaSnHrNP3HG5V"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362302,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/09aJ1FZotZStzoUgJchhwf"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2La7xB5VczuEt1cM8G0Dyc"
       },
@@ -12754,6 +12840,24 @@
       "duration_ms": 168342,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7uTUhuuY58iwjFBQij9FJM"
+    },
+    {
+      "album": {
+        "name": "Two46",
+        "url": "https://open.spotify.com/album/3wWcoAytAdqozS6hx8Pg6r"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169195,
+      "name": "Hoo Art 'n Hevan",
+      "url": "https://open.spotify.com/track/1pCsMDFLaw6eJ7npQ9gVrw"
     },
     {
       "album": {
@@ -13649,6 +13753,24 @@
     },
     {
       "album": {
+        "name": "I'm From...",
+        "url": "https://open.spotify.com/album/49fFfeqMUGml2t5z63iYNX"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191925,
+      "name": "I\u2019m From\u2026",
+      "url": "https://open.spotify.com/track/6aa03WX4KldjPmL4UkwdGo"
+    },
+    {
+      "album": {
         "name": "J'adore",
         "url": "https://open.spotify.com/album/0hBrxcpPgKQwXSh44trEzp"
       },
@@ -14044,6 +14166,28 @@
       "duration_ms": 173333,
       "name": "Juggin",
       "url": "https://open.spotify.com/track/1zNkSbZA1lzuNHfvhKoooO"
+    },
+    {
+      "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/1dbqy9dv5oUCxTOaDyTHqi"
+      },
+      "artists": [
+        {
+          "name": "Ashbeck",
+          "url": "https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9"
+        },
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128858,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/5eM6njVCAIbXJcNt6MRp5B"
     },
     {
       "album": {
@@ -15546,10 +15690,28 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 118687,
       "name": "Londis",
       "url": "https://open.spotify.com/track/407EhBT7nve14f1AcH8s3o"
+    },
+    {
+      "album": {
+        "name": "Longevity Flow",
+        "url": "https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183649,
+      "name": "Longevity Flow",
+      "url": "https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0"
     },
     {
       "album": {
@@ -17884,7 +18046,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 173172,
       "name": "NEMZZZ TYPE BEAT",
       "url": "https://open.spotify.com/track/7plasP6SM6dCa9EXvFZeDE"
@@ -18708,7 +18870,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 217241,
       "name": "Nostalgic",
       "url": "https://open.spotify.com/track/4c7hAxxli9JQ5cu5qgVyEY"
@@ -19717,6 +19879,24 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/0Ml1rHhHIimsKY5G6AZh2b"
+      },
+      "artists": [
+        {
+          "name": "Br3nya",
+          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4T6e6kmXWZor5vuviPDrR8"
+    },
+    {
+      "album": {
         "name": "OUTTIE",
         "url": "https://open.spotify.com/album/2AKnMUdKA2f5xZ2NciFLHJ"
       },
@@ -19974,6 +20154,28 @@
       "duration_ms": 240000,
       "name": "Page 45",
       "url": "https://open.spotify.com/track/2qNaS67u1sAlUyogdFA59Y"
+    },
+    {
+      "album": {
+        "name": "Pakistan",
+        "url": "https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Pakistan",
+      "url": "https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq"
     },
     {
       "album": {
@@ -20424,7 +20626,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 209142,
       "name": "Perth",
       "url": "https://open.spotify.com/track/6ZaCKD6mzsj9gWKAL1RPE2"
@@ -21596,7 +21798,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 174320,
       "name": "Rah",
       "url": "https://open.spotify.com/track/7qC86Z9uvPyDiTlO8Kubd3"
@@ -22448,7 +22650,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 187638,
       "name": "Rivals",
       "url": "https://open.spotify.com/track/7pATnbSvnPYoYCtRmlNP7F"
@@ -26184,7 +26386,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 118386,
       "name": "Tekky",
       "url": "https://open.spotify.com/track/56cBC4ufFxIxAWeGGoUznJ"
@@ -26396,7 +26598,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 157611,
       "name": "That's Money",
       "url": "https://open.spotify.com/track/2DklZOenvD23m4sq7OZzS1"
@@ -26648,7 +26850,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 167026,
       "name": "The Jungle",
       "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
@@ -26754,6 +26956,24 @@
       "duration_ms": 194837,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/2sz0VnSDdEM5CS61ewwgaV"
+    },
+    {
+      "album": {
+        "name": "Money Over Everyone 4",
+        "url": "https://open.spotify.com/album/5ybqrMOT6VflXKiZNqq4BJ"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204708,
+      "name": "They Just Don't Know",
+      "url": "https://open.spotify.com/track/5B8vXHPjp2jmSsFlwTBVGj"
     },
     {
       "album": {
@@ -26944,7 +27164,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 212459,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/2Nr0XHZuIGd9EwhdM3FojG"
@@ -27905,6 +28125,28 @@
     },
     {
       "album": {
+        "name": "UK Guys",
+        "url": "https://open.spotify.com/album/5cEZuddvoNDGjv3OcWMETV"
+      },
+      "artists": [
+        {
+          "name": "Loski",
+          "url": "https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn"
+        },
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206197,
+      "name": "UK Guys",
+      "url": "https://open.spotify.com/track/7E1Bm26mTabpKLXwo7zPk7"
+    },
+    {
+      "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
       },
@@ -28576,7 +28818,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 116400,
       "name": "Wanna Chill Baby?",
       "url": "https://open.spotify.com/track/1OYgZHegbK7PS1WwWeWOa1"
@@ -29046,7 +29288,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 202594,
       "name": "What If?",
       "url": "https://open.spotify.com/track/2mdszIpAeBCmV0EkufJPrs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Loud Luxury, Bebe Rexha and Two Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,595 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,768 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 10 | [Let You Down \(feat\. Deza\)](https://open.spotify.com/track/1JRG26WhgNNt2bg4SCXtuE) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Let You Down \(feat\. Deza\)](https://open.spotify.com/album/3zYMzJAk8vrBwFSpZBOAts) | 3:10 |
 | 11 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 |
 | 12 | [Let's Go MIA](https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Let's Go MIA](https://open.spotify.com/album/4oVQuTeU8QTlgKXqTAWIb1) | 3:00 |
-| 13 | [Without You](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
+| 13 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
 | 14 | [Don’t Call Me](https://open.spotify.com/track/2amtS6j1pIwE9haEjmDTyD) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Don’t Call Me](https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V) | 2:28 |
 | 15 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 |
 | 16 | [Stop Loving You](https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Stop Loving You](https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B) | 2:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 59 | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO) | 2:59 |
 | 60 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 |
 
-Snapshot ID: `MCxhZTU2YzU5NDVlZThiZGVlNTA5N2FmZDE4NzIwM2M2YjliMzMzNzE0`
+Snapshot ID: `MCxmY2UyMjUzZjE4Y2FjMTRiNDNmNmE1MDU3MWNmZGZmNjU4OGFiNzlk`

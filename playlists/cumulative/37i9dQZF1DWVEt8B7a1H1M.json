@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 106326,
       "name": "A Forest of Feathers",
       "url": "https://open.spotify.com/track/2DCdLTEL6p5JXqFpEGiVWD"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 135817,
       "name": "Birds and Nest noise",
       "url": "https://open.spotify.com/track/1cF59CDiXxxasWRe6UTrS4"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 150942,
       "name": "Calm Forest Birds",
       "url": "https://open.spotify.com/track/50pHWYGluK6qV5mXU128OK"
@@ -2170,6 +2170,24 @@
       "duration_ms": 176100,
       "name": "Vogelgezwitscher",
       "url": "https://open.spotify.com/track/1g6cnSGhFUyP3XIJ1Jku1f"
+    },
+    {
+      "album": {
+        "name": "Wide Forest Birds",
+        "url": "https://open.spotify.com/album/5TowgUxxmnHsGWBYbTdFn5"
+      },
+      "artists": [
+        {
+          "name": "House Bird",
+          "url": "https://open.spotify.com/artist/5QWe1SYr4B5uriokmL0pSg"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157525,
+      "name": "Wide Forest Birds",
+      "url": "https://open.spotify.com/track/1LpNmVAC0WE75GCwcOzAIr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVEt8B7a1H1M"

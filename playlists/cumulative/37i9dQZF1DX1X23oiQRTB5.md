@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Werenoi au top de la première playlist de rap français !
+> SDM au top de la première playlist de rap français !
 
-177 songs - 9 hr 5 min
+178 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [FUM22 NOCIVE](https://open.spotify.com/track/3v9eCrcYmTjYjy68TWHj5b) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [MELANCHOLIA 999](https://open.spotify.com/album/0bybjX3wEDFCqYe65E9q1a) | 2:11 | 2022-01-06 | 2022-08-05 |
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2022-01-06 | 2022-09-23 |
 | [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-06-02 | 2023-03-25 |
-| [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2022-12-01 |  |
+| [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2022-12-01 | 2023-06-30 |
 | [GOGETA](https://open.spotify.com/track/7qyTPWGS7llsgSbwXDDW7e) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7) | [GOGETA](https://open.spotify.com/album/2OTTq3fLrommVqcfGplayX) | 2:48 | 2023-06-08 |  |
 | [GROKUWA](https://open.spotify.com/track/0RnWcpTwUpfzPWGDjajX0o) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [GROKUWA](https://open.spotify.com/album/4F6wVoSnaBQTW6DJzkJ8oH) | 3:02 | 2022-01-06 | 2022-05-27 |
 | [Guapa](https://open.spotify.com/track/3Gl6hZ2HU7IRqPOF3r7xPd) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Guapa](https://open.spotify.com/album/11TrUfGHx1vsh3FsJuVYur) | 2:49 | 2023-06-01 |  |
@@ -166,6 +166,7 @@
 | [Selfie](https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Selfie](https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI) | 2:36 | 2022-09-29 | 2023-02-17 |
 | [Shooter](https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:43 | 2022-02-10 | 2022-04-01 |
 | [Si j'savais](https://open.spotify.com/track/5b0jPRxr4XEqIwWlkGrVq3) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Si j'savais](https://open.spotify.com/album/2Js5uKx7NHtCYqNTqk4LUC) | 3:43 | 2022-05-19 | 2022-11-18 |
+| [Signé](https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Signé](https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh) | 3:00 | 2023-06-29 |  |
 | [Solitaire](https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Solitaire](https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE) | 2:26 | 2022-09-15 | 2023-04-07 |
 | [Sosa](https://open.spotify.com/track/4lx26x6BggtyDtYZxUC0su) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Sosa](https://open.spotify.com/album/3omG7CP7Ipif4phk12EitY) | 2:43 | 2022-11-17 | 2023-04-21 |
 | [SPECIAL \(feat\. Nekfeu & Fousheé\)](https://open.spotify.com/track/11HLDMuPD3wh88XHw4udKO) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:51 | 2022-01-06 | 2022-02-11 |

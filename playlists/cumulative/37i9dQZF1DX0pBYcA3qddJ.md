@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-462 songs - 1 day 7 hr 13 min
+463 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Falling](https://open.spotify.com/track/2COAy9Fid4TD0jZA7wqaAm) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 3:52 | 2023-04-04 | 2023-04-21 |
 | [Family Photograph \- 『桜色の風が咲く』オリジナル・サウンドトラックより](https://open.spotify.com/track/0zQ4P8EjgI41B1vXgE1wQp) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Family Photograph \(『桜色の風が咲く』オリジナル・サウンドトラックより\)](https://open.spotify.com/album/3MDY2swXJ9pAgeOiKMYZXp) | 2:41 | 2022-11-03 | 2022-11-25 |
 | [Far from Me, a Memory](https://open.spotify.com/track/3M863setj5BJ1P6gaz5sdp) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Far from Me, a Memory](https://open.spotify.com/album/0N68E7yPpGHhwMuT6WkcTg) | 2:53 | 2022-12-01 | 2023-02-03 |
-| [Faraway](https://open.spotify.com/track/0QjruwWxe5CipAcRGb9fln) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Faraway](https://open.spotify.com/album/393oMLUHh6Nh2Htlm60a9S) | 2:29 | 2023-05-04 |  |
+| [Faraway](https://open.spotify.com/track/0QjruwWxe5CipAcRGb9fln) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Faraway](https://open.spotify.com/album/393oMLUHh6Nh2Htlm60a9S) | 2:29 | 2023-05-04 | 2023-06-30 |
 | [Fauré: Sicilienne](https://open.spotify.com/track/6TS1h31F8I9SIBIwIvdKYk) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sicilienne](https://open.spotify.com/album/6cZ4qoRFJuVTNhPop4LfuM) | 3:57 | 2022-10-20 | 2023-03-04 |
 | [Felt](https://open.spotify.com/track/3Zp8h6uK8L1H2mOn7SAxUR) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Journey Through Memories](https://open.spotify.com/album/069i2WxHKeLNopI6OKIvch) | 5:40 | 2023-05-25 | 2023-06-14 |
 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2022-10-20 |  |
@@ -391,6 +391,7 @@
 | [Wayfinder \- Viola Concerto \- \(Ensemble Version\)](https://open.spotify.com/track/1G9QsKn11TbI34XDiwCR5b) | [Dai Fujikura](https://open.spotify.com/artist/5yFyiRuJTD0qgV64fByLMg), [Norio Sato](https://open.spotify.com/artist/1U3WCiLneJRvIHEERMo0gt), [ENSEMBLE NOMAD](https://open.spotify.com/artist/3avtDznurwP82lPxSYm6x0) | [Wayfinder](https://open.spotify.com/album/4C5F0OIC0ONaV5aXOKVyKM) | 22:50 | 2023-06-27 |  |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2022-10-20 | 2023-02-08 |
 | [When You Can't Sleep At Night](https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood \(Deluxe Reissue\)](https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC) | 3:32 | 2022-11-23 | 2023-02-08 |
+| [Where Life Comes from and Returns](https://open.spotify.com/track/0fmDTWvkBIjbrRde18ISAS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [SEASONS](https://open.spotify.com/album/7pd9LjThGVdv2A7QTbk0OD) | 3:55 | 2023-06-29 |  |
 | [Where'd You Put Me](https://open.spotify.com/track/2S0ljxYxpYhRzH6EBVsUJk) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Where'd You Put Me](https://open.spotify.com/album/0AZUt0xHVvjA609ipJEp3j) | 1:12 | 2023-01-12 | 2023-02-21 |
 | [Where'd You Put Me](https://open.spotify.com/track/3UluQekxnRJ32AwobjW1hB) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/0woHX3PSXbPo52iqriVSFa) | 1:12 | 2023-02-16 | 2023-03-01 |
 | [Widmung, S\. 566 \(After R\. Schumann\)](https://open.spotify.com/track/6Lh6zaxc4P4grGdma3cAT0) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Passage](https://open.spotify.com/album/3daO9WSjhyVWc0ZzexB4Ml) | 3:52 | 2023-06-13 |  |

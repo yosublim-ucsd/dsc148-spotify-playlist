@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-1,048 songs - 2 day 10 hr 34 min
+1,049 songs - 2 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 | 2023-02-17 |  |
 | [Buat Ku Sempurna](https://open.spotify.com/track/39fKEscitfslEas7J1zKFJ) | [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [Buat Ku Sempurna](https://open.spotify.com/album/0Zk8UiB0JmFI3kaf9YQz7j) | 2:48 | 2022-02-03 | 2022-08-02 |
 | [Buenos Días](https://open.spotify.com/track/56h6nyrgG2guJPgdTRdju1) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:12 | 2022-03-24 | 2022-04-15 |
+| [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-06-29 |  |
 | [Busted](https://open.spotify.com/track/1Kc00Xx45rcJVdpFhHaxMc) | [Soulstice](https://open.spotify.com/artist/2EGJbNf0Hva2C2N6hvhMXD) | [Busted](https://open.spotify.com/album/1FiYlmq6TULRuhcZSlf59V) | 3:50 | 2022-02-10 | 2022-02-19 |
 | [bye bye](https://open.spotify.com/track/12bz9ZB91ONuwiZt1NaUMK) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:18 | 2022-03-24 | 2022-04-21 |
 | [C.C.G](https://open.spotify.com/track/0neY86dLQyT6FPYbpdizTT) | [Lorena Santos](https://open.spotify.com/artist/4joarc2IPqP1ZvWfcbZ52C) | [C.C.G](https://open.spotify.com/album/4J8TjKFG6ZIOjRjYHSwlIR) | 2:04 | 2022-03-24 | 2022-06-20 |

@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover:  LilithQueenB
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover:  Nancy Kwai 歸綽嶢
 
-130 songs - 7 hr 32 min
+131 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [WHO A U ?](https://open.spotify.com/track/1niM8dlyurDRTsrQCMKMiB) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [WHO A U ?](https://open.spotify.com/album/0Lc6Tipv0n7tiBbI880STO) | 3:22 | 2023-03-23 | 2023-04-14 |
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-05-26 | 2023-03-30 |
 | [working holiday](https://open.spotify.com/track/2vgpjJNqLYTf7nDYdvoXY6) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C), [Nicknames](https://open.spotify.com/artist/1y2mXaGQXFVnHm5QuEz5xO) | [working holiday](https://open.spotify.com/album/6RQ77NGRncu7yIIQGXuNwA) | 3:08 | 2023-04-06 | 2023-05-26 |
+| [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 | 2023-06-29 |  |
 | [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-08-18 | 2023-03-31 |
 | [· · 一](https://open.spotify.com/track/5TPsJ7t6JPtEkrpF8Ywq2W) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/60Gux8lIYWssy6HpIJ0a2s) | 4:36 | 2023-03-30 | 2023-05-12 |
 | [一把火](https://open.spotify.com/track/4tP6Jm8VKXOYWJzz8kHASA) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [一把火](https://open.spotify.com/album/2OjNvV9VYh4avRNnVl39J9) | 2:54 | 2023-05-25 |  |

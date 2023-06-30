@@ -932,7 +932,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 228755,
       "name": "Grit Band Reggae",
       "url": "https://open.spotify.com/track/5nrylaTPkYn3B5b5dtHuGz"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 264352,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/5g8V7qpugfxt7rKyL7oEwB"
@@ -1512,6 +1512,24 @@
       "duration_ms": 92400,
       "name": "Powerboat",
       "url": "https://open.spotify.com/track/4rrNpVsELkya1KoOWorhOd"
+    },
+    {
+      "album": {
+        "name": "Soft Scenery",
+        "url": "https://open.spotify.com/album/4OFaog5eIQnxxDehmJlEzD"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258093,
+      "name": "Precious Memories",
+      "url": "https://open.spotify.com/track/2qc3LR1OljcbF5BqxRlHjI"
     },
     {
       "album": {
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 100306,
       "name": "Tap Footer",
       "url": "https://open.spotify.com/track/2360JvZBIuCjy0NqUw5b1V"

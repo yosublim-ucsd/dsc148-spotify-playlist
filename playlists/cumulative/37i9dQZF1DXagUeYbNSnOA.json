@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00e1",
+        "url": "https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc"
+      },
+      "artists": [
+        {
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Ac\u00e1",
+      "url": "https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF"
+    },
+    {
+      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s"
       },
@@ -3990,6 +4008,28 @@
       "duration_ms": 127198,
       "name": "Chingar",
       "url": "https://open.spotify.com/track/1ObJpcl278iy6QQRDxthNv"
+    },
+    {
+      "album": {
+        "name": "CHORO",
+        "url": "https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj"
+      },
+      "artists": [
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197076,
+      "name": "CHORO",
+      "url": "https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz"
     },
     {
       "album": {
@@ -19814,6 +19854,28 @@
       "duration_ms": 204000,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/07Q87LERyXdyuVN38bdbjg"
+    },
+    {
+      "album": {
+        "name": "tal vez, no s\u00e9",
+        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
+      },
+      "artists": [
+        {
+          "name": "Poli Sallustro",
+          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224599,
+      "name": "tal vez, no s\u00e9",
+      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
     },
     {
       "album": {

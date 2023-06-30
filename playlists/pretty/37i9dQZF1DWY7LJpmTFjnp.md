@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Los Bunkers en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,322 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,556 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 86 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
 | 87 | [Las Batallas/Rarotonga \- MTV Unplugged](https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:26 |
 | 88 | [Almas Rotas](https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Almas Rotas](https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz) | 3:45 |
-| 89 | [¿Qué Pasó?](https://open.spotify.com/track/5n5cmFqNVbdEcG6ybPaDOA) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [¿Qué Pasó?](https://open.spotify.com/album/3wru4behR9ntB5BMr9El5W) | 5:25 |
-| 90 | [El Santuario](https://open.spotify.com/track/5KWfHFrSqP8oa04sWIQK9L) | [El General Paz & La Triple Frontera](https://open.spotify.com/artist/2OXcnoIOjCGuv9WmCblxuB), [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [El Santuario](https://open.spotify.com/album/6MWOkdCIK6SNDqKQ8ouAqE) | 4:04 |
+| 89 | [El Santuario](https://open.spotify.com/track/5KWfHFrSqP8oa04sWIQK9L) | [El General Paz & La Triple Frontera](https://open.spotify.com/artist/2OXcnoIOjCGuv9WmCblxuB), [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [El Santuario](https://open.spotify.com/album/6MWOkdCIK6SNDqKQ8ouAqE) | 4:04 |
+| 90 | [¿Qué Pasó?](https://open.spotify.com/track/5n5cmFqNVbdEcG6ybPaDOA) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [¿Qué Pasó?](https://open.spotify.com/album/3wru4behR9ntB5BMr9El5W) | 5:25 |
 | 91 | [Revolución turra \- En directo Razzmatazz](https://open.spotify.com/track/000bhyTmlJJJnWzA2xrhAa) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Revolución turra \(En directo Razzmatazz\)](https://open.spotify.com/album/2sUNWdu8cnAq19y2mgO5wO) | 3:16 |
 | 92 | [La Locomotora \- MTV Unplugged](https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 4:01 |
 | 93 | [A la luz de las farolas](https://open.spotify.com/track/4EOuhYHIS0plpNtxEILZxs) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [A la luz de las farolas / Tren a Marte](https://open.spotify.com/album/1ohvPS2kkidpR6gvYVXahA) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
 | 100 | [En la Ciudad de la Furia](https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tropiplop](https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG) | 4:24 |
 
-Snapshot ID: `MCxhZDRkMmUzYjAxOWQxYTg5ZDU2OGY1NzM1YzliYjY0MzYwZjVmMzc0`
+Snapshot ID: `MCxjNTllNjEwNThhOTY3MDAwMDhkNjFlNDg1ZWMyOWU3NTEyYWU2MWY4`

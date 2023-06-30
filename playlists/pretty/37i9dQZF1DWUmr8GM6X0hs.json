@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 67136,
+  "num_followers": 67161,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjRhMTJlNTZkM2M2NGZjMmI0MGZjYTI2ZDNkNDFkZjcwYjFlYTgw",
+  "snapshot_id": "MCw0N2UzNDBiMGY4NWYzNDVjMTFjNjM0YTJhMmFhYWRhNGY1YzRhN2Zi",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "En El Balcon Aquel",
-      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Los Tres Ases",
         "url": "https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp"
       },
@@ -715,8 +699,24 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Pedrito Otiniano y Sus Exitos",
-        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "En El Balcon Aquel",
+      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Los Triunfadores de la Rockola",
+        "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
         }
       ],
-      "duration_ms": 171693,
-      "name": "Kio",
-      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
+      "duration_ms": 180533,
+      "name": "Que Te Vayas Bien",
+      "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -883,8 +883,8 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Los Triunfadores de la Rockola",
-        "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
+        "name": "Pedrito Otiniano y Sus Exitos",
+        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Que Te Vayas Bien",
-      "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
+      "duration_ms": 171693,
+      "name": "Kio",
+      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
     },
     {
       "added_at": "2021-12-17 05:01:00",

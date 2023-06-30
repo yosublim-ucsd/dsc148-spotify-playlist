@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aaJXQXKS5j.md) - [plain]
 
 > In the trap with Bad Bunny 🐰 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,671 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,720 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aaJXQXKS5j.md) - [plain]
 | 23 | [Dime Si Te Acuerdas](https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Dime Si Te Acuerdas](https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1) | 3:07 |
 | 24 | [Caile](https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Caile](https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ) | 5:00 |
 | 25 | [25/8](https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:03 |
-| 26 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 |
-| 27 | [Hablamos Mañana](https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:00 |
+| 26 | [Hablamos Mañana](https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:00 |
+| 27 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 |
 | 28 | [Tu No Metes Cabra](https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tu No Metes Cabra](https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w) | 2:50 |
 | 29 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
 | 30 | [200 Mph](https://open.spotify.com/track/5jGUJXnELDaDTgiRjD9lsg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:50 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aaJXQXKS5j.md) - [plain]
 | 34 | [EL MUNDO ES MÍO](https://open.spotify.com/track/36DHxTW2xdr9GG15T9oK9L) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:45 |
 | 35 | [¿Quien Tu Eres?](https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:39 |
 | 36 | [Puesto Pa' Guerrial](https://open.spotify.com/track/5gCg2qMPzKkW4jS4dBKdDs) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:10 |
-| 37 | [Estamos Arriba](https://open.spotify.com/track/0bCPJsVGDxPYwQMDZMi4NW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Estamos Arriba](https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG) | 3:45 |
-| 38 | [RONCA FREESTYLE](https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:30 |
+| 37 | [RONCA FREESTYLE](https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:30 |
+| 38 | [Estamos Arriba](https://open.spotify.com/track/0bCPJsVGDxPYwQMDZMi4NW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Estamos Arriba](https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG) | 3:45 |
 | 39 | [Blockia](https://open.spotify.com/track/3uPLiBTUgz7wrGJ2mw1rzM) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Blockia](https://open.spotify.com/album/1hSE6GgLMO64esTVyBjjG4) | 3:21 |
 | 40 | [Me Llueven 3.0](https://open.spotify.com/track/7b59ZUw0TkGZuE0HNeiuc4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Me Llueven 3.0](https://open.spotify.com/album/2MnWwUaZTarBd6M11iXJ6Z) | 4:50 |
 
-Snapshot ID: `MCxhOTZmMmNiN2FhNTgyNWQwZjI3YzQwZGViMDI2MmU1M2I2YzJjMTdl`
+Snapshot ID: `MCwzZmI4YWIyOGIyN2I5OTkwYTYyOTdjMTFlODdlODkwZDMzZDU0MGIy`

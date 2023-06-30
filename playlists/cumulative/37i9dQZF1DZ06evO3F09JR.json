@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342645,
+      "name": "LA STORIA",
+      "url": "https://open.spotify.com/track/3OwdOsj1MA6ut2aiqY46Ir"
+    },
+    {
+      "album": {
         "name": "Scacco al Maestro - Volume 2",
         "url": "https://open.spotify.com/album/67xUiBAxO2Mri7wxHd2Ulz"
       },
@@ -962,7 +980,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 359444,
       "name": "MOMENTI",
       "url": "https://open.spotify.com/track/5Lo1qAr11682vpR8b74N4i"
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 490870,
       "name": "NESSUNO",
       "url": "https://open.spotify.com/track/67pkFDREsQbXENCn57fbuj"
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 515693,
       "name": "SEMPRE",
       "url": "https://open.spotify.com/track/1EXGsJtPkiUu90OkRTg4FY"

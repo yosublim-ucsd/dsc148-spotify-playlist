@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-220 songs - 19 hr 11 min
+221 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Hunter](https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL) | [Nature of Wires](https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi) | [Building Reflections](https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G) | 3:15 | 2022-03-25 | 2023-04-05 |
 | [Hyna Ruje](https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Hyna Ruje](https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ) | 5:38 | 2022-03-25 |  |
 | [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 |  |
+| [i don't know](https://open.spotify.com/track/6IdTGiVPwOhI5kJCH32Ue5) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [Miranda Rain](https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c) | [i don't know](https://open.spotify.com/album/2AUH1ICjCVPn89ToFgeqyg) | 1:57 | 2023-06-29 |  |
 | [I See Your Picture, It's in the Same Old Frame](https://open.spotify.com/track/1admOcHNEDufX4KbPM6zqC) | [Katia Krow](https://open.spotify.com/artist/2YykFr6zggCoi2GHZbFlSG) | [I've Called off the Search, I Know Exactly Where You Are](https://open.spotify.com/album/1Gsd8mV3HxMu4uqimgh8yu) | 2:47 | 2022-07-22 | 2022-07-27 |
 | [i'm lost](https://open.spotify.com/track/2gZvLUKJiPWCmFrTTnVThH) | [Magician of W21](https://open.spotify.com/artist/4qWysN8Ub3gWFUXjkZrsck) | [darkpath](https://open.spotify.com/album/3y4UnRclOikrK3o9NAJgbD) | 1:19 | 2023-02-17 | 2023-06-08 |
 | [In Time You Will](https://open.spotify.com/track/1SET0qRs8EQwmARr4heA63) | [Kenneth James Gibson](https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG) | [In Time You Will](https://open.spotify.com/album/2iu3K2wnI5e1oDQz5zVSLj) | 6:08 | 2022-03-25 | 2022-07-29 |
@@ -217,7 +218,7 @@
 | [Vanished](https://open.spotify.com/track/2L5heX1aiNXS90ddDcEmx1) | [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Vanished](https://open.spotify.com/album/5Bx2FSekEMhJX6J6jrNOis) | 3:15 | 2022-02-25 | 2022-12-30 |
 | [Vi är överallt](https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG) | [Orphan Ann](https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK) | [The Practice Of Surrender](https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL) | 5:00 | 2022-01-21 |  |
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-01-21 | 2022-07-29 |
-| [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 |  |
+| [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 | 2023-06-30 |
 | [Wasa Stone Trio](https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:15 | 2022-01-21 | 2023-04-06 |
 | [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-28 | 2023-04-22 |
 | [Where Lonely Embers Glow](https://open.spotify.com/track/2wnL9GReYcMbMA29ILdhdS) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Memento](https://open.spotify.com/album/1ZbO6GlyoIo9nXdHe7dPZH) | 6:51 | 2022-04-01 |  |

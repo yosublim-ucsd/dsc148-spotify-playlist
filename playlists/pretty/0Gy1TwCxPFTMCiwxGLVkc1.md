@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 
 > Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 85,759 likes - 50 songs - 1 hr 46 min
+[Digster](https://open.spotify.com/user/digster.fm) - 85,754 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 | 7 | [On Our Way \- Original Music from the Motion Picture](https://open.spotify.com/track/12qRidH5o2uePPmrdnRXOY) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [On Our Way \(Original Music from the Motion Picture\)](https://open.spotify.com/album/0rQNAkDPlWT9TfRJxMra91) | 3:07 |
 | 8 | [Kamp Koral Theme Song](https://open.spotify.com/track/3El6eET5uDrQ3ZjzntQ1ZI) | [Kamp Koral Cast](https://open.spotify.com/artist/3CHnJAHuxVudOER2h5bVJ8) | [Kamp Koral \(Music from the Series\)](https://open.spotify.com/album/28VeN5zqeirjSLONzhnwte) | 0:29 |
 | 9 | [I Am A Bowl](https://open.spotify.com/track/6CeyfBcEY4pSzKyfUIGiFW) | [Panda and Friends](https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18) | [I Am A Bowl](https://open.spotify.com/album/5nBXg3aG4PuD2TLEddV9Ww) | 2:28 |
-| 10 | [Pupstruction Main Title](https://open.spotify.com/track/1CbTnS6qEpTzq9azHlvyNG) | [Pupstruction \- Cast](https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O) | [Disney Junior Music: Pupstruction](https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI) | 0:49 |
+| 10 | [Pupstruction Main Title](https://open.spotify.com/track/1CbTnS6qEpTzq9azHlvyNG) | [Pupstruction \- Cast](https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Pupstruction](https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI) | 0:49 |
 | 11 | [Bubblecity!](https://open.spotify.com/track/6jv3QHGFCb6eBqFUTmGMhh) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops Vol\. 2!](https://open.spotify.com/album/1dD72YRGV9dod0Qaq8un6V) | 1:17 |
 | 12 | [Biddy Bom \(feat\. Qai Qai\)](https://open.spotify.com/track/7cV8hTyTnwbkl3nInzyzYq) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq), [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Biddy Bom](https://open.spotify.com/album/5tuFw2g5v3cDNJQEvTL4Mb) | 3:06 |
 | 13 | [Hickory Dickory Rock](https://open.spotify.com/track/7Jqmh4XvYpFon2kFzRthWJ) | [Babble Bop](https://open.spotify.com/artist/5vp20RxxkwlezWHgiiP0Hg) | [Nursery Rhymes](https://open.spotify.com/album/7waNyJwNSwfNdWTaOckBkG) | 2:25 |

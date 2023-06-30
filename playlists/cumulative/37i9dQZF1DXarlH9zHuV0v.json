@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2019-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 238773,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv"
@@ -1902,6 +1902,24 @@
       "duration_ms": 141346,
       "name": "The Addams Family",
       "url": "https://open.spotify.com/track/4rzBn7FbXAel09UcinvyOA"
+    },
+    {
+      "album": {
+        "name": "Battlestar Galactica: The A to Z of Fantasy TV",
+        "url": "https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142560,
+      "name": "The Addams Family",
+      "url": "https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r"
     },
     {
       "album": {

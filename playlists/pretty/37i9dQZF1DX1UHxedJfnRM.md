@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Tito Nieves, Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,802 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,942 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Amarte Duele Así](https://open.spotify.com/track/5TE1mAaQJZS8VQPBN0eADT) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5SoaSY0mexom8MbC4sbzSP) | 4:28 |
 | 80 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 |
 
-Snapshot ID: `MCw5NWU1NDA5ZGI0OGE0ZTI4NGI4ZmY2ZGE4NDU1YTg3NmQ1NzczODMz`
+Snapshot ID: `MCxmNTBkMTA2ZjRkNzk2YWNiMjMzOGY1YmJmNzMzZTI2MTE1NDIwYTg3`

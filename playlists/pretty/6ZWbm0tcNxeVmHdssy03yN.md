@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,536 likes - 95 songs - 4 hr 50 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,546 likes - 95 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 7 | [U&ME](https://open.spotify.com/track/1iFF00cvNGx7wifX9hK5OR) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [BETTER LEFT UNSAID](https://open.spotify.com/album/3cCLcNCX9Om2ewNHYlFtaL) | 2:57 |
 | 8 | [Better Let Me In](https://open.spotify.com/track/0o3wEUGWvGYD3a4uIrqwRG) | [Miggy](https://open.spotify.com/artist/6ZJbpAPpHzzA3IqAzO6IPu), [Eternal Engine](https://open.spotify.com/artist/6OerlvzuxuCVGYfxwuNDLB), [DAYSHAWN](https://open.spotify.com/artist/6A5zU0mCwDtWHo13LSzvX5), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M), [Danté Knows](https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs) | [Better Let Me In](https://open.spotify.com/album/4wRlrsuVvkvZro3uvqyLAv) | 2:29 |
 | 9 | [Alive](https://open.spotify.com/track/6tDQGhK5dxmT0fc2YogtSM) | [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Alive](https://open.spotify.com/album/3OUCxWJ5iD4UpgnZ0L5olz) | 2:26 |
-| 10 | [bikeboy](https://open.spotify.com/track/1avoBlmfVzxpnHAGB5nKzI) | [OSWRLD](https://open.spotify.com/artist/7qTTUaxCgwJsHTXjiFY5Kl) | [bikeboy](https://open.spotify.com/album/3mXKDuMwCctpqKsoDC9I3Z) | 2:49 |
+| 10 | [bikeboy](https://open.spotify.com/track/1avoBlmfVzxpnHAGB5nKzI) | [OSWRLD](https://open.spotify.com/artist/6Cq6gf2fnK1Xl9jH99jGUl) | [bikeboy](https://open.spotify.com/album/3mXKDuMwCctpqKsoDC9I3Z) | 2:49 |
 | 11 | [sunsets](https://open.spotify.com/track/5HwZnNtIQI8sI5wFhagyNa) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [sunsets](https://open.spotify.com/album/3PDR382gURrdZcaqFFT3EI) | 3:13 |
 | 12 | [Self Sabotage \- Ben Medveczky Remix](https://open.spotify.com/track/35rBwYBFaSPj7eujik9z6p) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Self Sabotage \(Ben Medveczky Remix\)](https://open.spotify.com/album/7qfTtAFO0Urtvj3xfox0sq) | 3:02 |
 | 13 | [Your Darkest Hour](https://open.spotify.com/track/4fxA01XWeErpfcfGVPdwCi) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Your Darkest Hour](https://open.spotify.com/album/7kXpuYfN9BJP5gnyaegG0i) | 4:12 |
 | 14 | [Tshwarelo](https://open.spotify.com/track/0IVpcBKljhvyPXJJgqqPBZ) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh) | [Tshwarelo](https://open.spotify.com/album/0vLETRViHGdIDFGJawTwbJ) | 4:00 |
 | 15 | [For Me](https://open.spotify.com/track/0aPbPH2PfxnK2I4GvL95nd) | [Lady Jay](https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [For Me](https://open.spotify.com/album/3O0pjgaoT7xYk6JGOn7GBX) | 3:48 |
-| 16 | [River Nile](https://open.spotify.com/track/2yn2B9ElJsLWxlnUXvLuCO) | [Ross Belly](https://open.spotify.com/artist/07dFNmsd7ZdWzd3x5ftEHK), [Belly Squad](https://open.spotify.com/artist/1EWnP7piatUeXggTXofm5g) | [River Nile](https://open.spotify.com/album/1UwWaN6oRoixiZ40G83BJ8) | 3:05 |
+| 16 | [River Nile](https://open.spotify.com/track/2yn2B9ElJsLWxlnUXvLuCO) | [Ross Belly](https://open.spotify.com/artist/07dFNmsd7ZdWzd3x5ftEHK), [Belly Squad](https://open.spotify.com/artist/1EWnP7piatUeXggTXofm5g) | [River Nile](https://open.spotify.com/album/1UwWaN6oRoixiZ40G83BJ8) | 2:50 |
 | 17 | [The Risk](https://open.spotify.com/track/0gJT5VzZhQL3GEcSbWsMkQ) | [Max Valentine](https://open.spotify.com/artist/6ZIZTVBwbAcLVOfcsSsb9Y) | [The Risk](https://open.spotify.com/album/55foSkPgiUMdFvwFnT3DHa) | 3:05 |
 | 18 | [Wag1](https://open.spotify.com/track/58KSc2Ik5yQF8fzGg2QCMQ) | [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [a2z](https://open.spotify.com/artist/1APZxUHYrPQgBNkbUjtDbr) | [Wag1](https://open.spotify.com/album/6cox76FrMczdquTb2WLdZ1) | 2:38 |
 | 19 | [Rock With You](https://open.spotify.com/track/3WDCJPeTF0nxYaGDazmBxV) | [Taite Imogen](https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL) | [Rock With You](https://open.spotify.com/album/2XG2MQWbgtMax6Inextxoi) | 2:28 |

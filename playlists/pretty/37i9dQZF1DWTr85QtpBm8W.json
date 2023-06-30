@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 9306,
+  "num_followers": 9372,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTA3YTA3NDI0NmE0MzU4ODMyOGFhMzUzNTdlZmM4OWI4MjgyODQy",
+  "snapshot_id": "MCxhMDUzNzU3NjU0Nzg5ODUwOWIyNDQ2OGM1ZmRlNDU2MjFjNWE4ZDIw",
   "tracks": [
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1003,38 +1003,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "L'Orange L'Orange",
-        "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
-      },
-      "artists": [
-        {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
-        }
-      ],
-      "duration_ms": 314676,
-      "name": "Blind Contour Drawing for Piano",
-      "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 309560,
-      "name": "Under the Water It Glowed",
-      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Riceboy Sleeps (2019 Remaster)",
         "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
       },
@@ -1055,6 +1023,38 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 309560,
+      "name": "Under the Water It Glowed",
+      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "L'Orange L'Orange",
+        "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
+      },
+      "artists": [
+        {
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+        }
+      ],
+      "duration_ms": 314676,
+      "name": "Blind Contour Drawing for Piano",
+      "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
         "name": "Telegraphs in Negative / Mouths Trapped in Static",
         "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Geisterfaust",
-        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 486506,
-      "name": "Daumen",
-      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Dropsonde",
         "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 410933,
       "name": "Warmed By the Drift",
       "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Geisterfaust",
+        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 486506,
+      "name": "Daumen",
+      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "dedication",
-        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 219707,
-      "name": "white mountain",
-      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Glider",
         "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 341890,
       "name": "Already There",
       "url": "https://open.spotify.com/track/1KhqU5oOQeHSMkmFCUsU4j"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "dedication",
+        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 219707,
+      "name": "white mountain",
+      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
         "name": "Utop\u00eda",
         "url": "https://open.spotify.com/album/0xl7DiPmp1326SSgIi6fEY"
       },
@@ -1335,38 +1351,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Through the Cardial Window",
-        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
-      },
-      "artists": [
-        {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
-        }
-      ],
-      "duration_ms": 350360,
-      "name": "Coral Gables",
-      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Von Schn\u00e4beln",
-      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Glider",
         "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 357866,
       "name": "Further Away",
       "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Through the Cardial Window",
+        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
+      },
+      "artists": [
+        {
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+        }
+      ],
+      "duration_ms": 350360,
+      "name": "Coral Gables",
+      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "M\u00f8rketid",
-        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
-      },
-      "artists": [
-        {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
-        }
-      ],
-      "duration_ms": 563720,
-      "name": "New Horizons",
-      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "MP3 Collection",
         "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 524468,
       "name": "Woe Is the Transgression I",
       "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "M\u00f8rketid",
+        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
+      },
+      "artists": [
+        {
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
+        }
+      ],
+      "duration_ms": 563720,
+      "name": "New Horizons",
+      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
     },
     {
       "added_at": "2023-06-07 15:22:01",

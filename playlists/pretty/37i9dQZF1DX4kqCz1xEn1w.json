@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 74814,
+  "num_followers": 74811,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzdlZjJjNGEwZTNhZmIzM2U4YzhjY2RkMTg4ZTA4NGY3NjY4ZDhj",
+  "snapshot_id": "MCxlYzFiYjM0YjVkMjZjNDY3MzlmZDU1MTg3MzcwNjMxZDRhOTU1YjFk",
   "tracks": [
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1271,18 +1271,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+        "name": "To The One (Live)",
+        "url": "https://open.spotify.com/album/2VzCv3uGlbmxPj3WYvXYHX"
       },
       "artists": [
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Meredith Mauldin",
+          "url": "https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y"
         }
       ],
-      "duration_ms": 294813,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
+      "duration_ms": 448808,
+      "name": "To The One - Live",
+      "url": "https://open.spotify.com/track/2IyccYJpcoIkl0Bps1JdFS"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1307,22 +1311,18 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "To The One (Live)",
-        "url": "https://open.spotify.com/album/2VzCv3uGlbmxPj3WYvXYHX"
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
       "artists": [
         {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Meredith Mauldin",
-          "url": "https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 448808,
-      "name": "To The One - Live",
-      "url": "https://open.spotify.com/track/2IyccYJpcoIkl0Bps1JdFS"
+      "duration_ms": 294813,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
     },
     {
       "added_at": "2023-04-09 08:58:44",

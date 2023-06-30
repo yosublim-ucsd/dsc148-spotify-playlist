@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Kosmological Glitches",
+        "url": "https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133717,
+      "name": "Ancient Delta",
+      "url": "https://open.spotify.com/track/38pZmgMFuF9Xgvd8djMbYS"
+    },
+    {
+      "album": {
         "name": "Ancient Delta",
         "url": "https://open.spotify.com/album/2iOdIK10OleEonLl4phDyP"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 133717,
       "name": "Ancient Delta",
       "url": "https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW"

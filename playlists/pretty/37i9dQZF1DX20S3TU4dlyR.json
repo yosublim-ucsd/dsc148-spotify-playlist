@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 52917,
+  "num_followers": 52959,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mjc0NzQwNmFmNTA3NjY3Y2NjOTBjMmJlNDJkZTBkNTYyNzkwZDY5",
+  "snapshot_id": "MCw0MTBiYjI3MGRiYmU5Njc2NzM2ZjliZDZjZDNiM2I3YjE3MTI5MGM0",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Llamado",
         "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 225431,
       "name": "Llamado",
       "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Aguas Frescas De Jamaica",
         "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Desenvaina",
         "url": "https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY"
       },
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Aroma de Caf\u00e9",
+        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        }
+      ],
+      "duration_ms": 254085,
+      "name": "Aroma de Caf\u00e9",
+      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Seguirla",
         "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Aroma de Caf\u00e9",
-        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
       "artists": [
         {
-          "name": "Laguna Pai",
-          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 254085,
-      "name": "Aroma de Caf\u00e9",
-      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
+      "duration_ms": 260266,
+      "name": "No Mires Atras",
+      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -931,22 +947,6 @@
       "duration_ms": 435040,
       "name": "The Chicken",
       "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 260266,
-      "name": "No Mires Atras",
-      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
       "artists": [
         {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
         }
       ],
-      "duration_ms": 265216,
-      "name": "Este Mundo",
-      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
+      "duration_ms": 260170,
+      "name": "Si vas a dejarme...",
+      "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
       },
       "artists": [
         {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
         }
       ],
-      "duration_ms": 260170,
-      "name": "Si vas a dejarme...",
-      "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
+      "duration_ms": 265216,
+      "name": "Este Mundo",
+      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Naufrago",
+      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Alta Lucha",
         "url": "https://open.spotify.com/album/45hcHSFFSVgAZ0s9noV87v"
       },
@@ -1403,6 +1419,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "SIG RAGGA (Remaster 2023)",
+        "url": "https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy"
+      },
+      "artists": [
+        {
+          "name": "Sig Ragga",
+          "url": "https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J"
+        }
+      ],
+      "duration_ms": 308980,
+      "name": "Resistencia ind\u00edgena - Remaster 2023",
+      "url": "https://open.spotify.com/track/4t0KYfzyrMx40Vr7jXCRYr"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Groove Me",
         "url": "https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw"
       },
@@ -1423,22 +1455,6 @@
       "duration_ms": 184000,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "SIG RAGGA (Remaster 2023)",
-        "url": "https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy"
-      },
-      "artists": [
-        {
-          "name": "Sig Ragga",
-          "url": "https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J"
-        }
-      ],
-      "duration_ms": 308980,
-      "name": "Resistencia ind\u00edgena - Remaster 2023",
-      "url": "https://open.spotify.com/track/4t0KYfzyrMx40Vr7jXCRYr"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1511,22 +1527,6 @@
       "duration_ms": 243391,
       "name": "Desinformation",
       "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Naufrago",
-      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
     },
     {
       "added_at": "2023-06-09 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Cobuz & Bustta, Akapellah
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,982 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,996 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 20 | [BAD BITCH](https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [BAD BITCH](https://open.spotify.com/album/3IlcNC5faMHH6gboTQ8XwQ) | 2:07 |
 | 21 | [PPF](https://open.spotify.com/track/2ymcOM99m8PUhze7FxpG1A) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [PPF](https://open.spotify.com/album/7JyeeHFwzbyMCRBMrf7hWO) | 3:18 |
 | 22 | [Migas](https://open.spotify.com/track/61CeB3Wd4hkun9MhuO0fES) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Migas](https://open.spotify.com/album/5lZC1pTFVb0b5rz6j86now) | 4:01 |
-| 23 | [Alma](https://open.spotify.com/track/3boLPeNmot5ubUXqqnh9l1) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Plan Perfecto](https://open.spotify.com/album/0hvjGiKkoFYJaOwiWLTQ5o) | 3:28 |
+| 23 | [Alma](https://open.spotify.com/track/1lZaIaZCrb4avapCCelFQt) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Plan Perfecto](https://open.spotify.com/album/2u7bufSK9Rws04JWErlg26) | 3:28 |
 | 24 | [ESO](https://open.spotify.com/track/0LNfEN9cJbgWwaikO4kZxo) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [ESO](https://open.spotify.com/album/2Tug6Kh0os9ZcHWfQX23ne) | 3:10 |
 | 25 | [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 |
 | 26 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 59 | [badwine](https://open.spotify.com/track/2qfyOSgCVt8mdVVxxhp4tI) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [badwine](https://open.spotify.com/album/0DBQL19G6VKFlLXWlltmfl) | 2:19 |
 | 60 | [Mente Daña](https://open.spotify.com/track/2JrzG3ZKfeZX7TJGuMaWd8) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Mente Daña](https://open.spotify.com/album/2oYLLwsCfOC9fvO9XRODIa) | 3:03 |
 
-Snapshot ID: `MCw5MzBmMTg0N2NhODMyNTY4ODkwMGRkNDg1ZjkxMTAyYmY2NDlmY2U5`
+Snapshot ID: `MCw5YzVhN2Y4NThlMGI2OWY3YzRhOWVhZmEwNDllNDQzZjdmZGMwNTYy`

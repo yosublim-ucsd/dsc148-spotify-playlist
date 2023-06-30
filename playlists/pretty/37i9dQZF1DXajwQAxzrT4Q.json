@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 57267,
+  "num_followers": 57394,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDI0NTY1NGI4OWMzNzdmMjYyZGM1YzM5YjQzOTQ0N2ViM2NhNzE0",
+  "snapshot_id": "MCwzZTY5OGFkNWYwMjYwYzdjZDRlN2ZlZTY2YjUwMDM2MTk5NGI0Yjc2",
   "tracks": [
     {
       "added_at": "2023-06-26 14:08:53",
@@ -887,30 +887,6 @@
     {
       "added_at": "2023-06-26 14:08:53",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
-      },
-      "artists": [
-        {
-          "name": "Fergie Baby",
-          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
-        },
-        {
-          "name": "DUSTY LOCANE",
-          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
-        },
-        {
-          "name": "Kajun Waters",
-          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
-        }
-      ],
-      "duration_ms": 140298,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2023-06-26 14:08:53",
-      "album": {
         "name": "Level Up (Remix)",
         "url": "https://open.spotify.com/album/2Ii94hDatVVrjLHqotnAmw"
       },
@@ -931,6 +907,30 @@
       "duration_ms": 229629,
       "name": "Level Up - Remix",
       "url": "https://open.spotify.com/track/3RzVr9cwWJUcSuPKE6Zo8N"
+    },
+    {
+      "added_at": "2023-06-26 14:08:53",
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
+      },
+      "artists": [
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        },
+        {
+          "name": "Kajun Waters",
+          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
+        }
+      ],
+      "duration_ms": 140298,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
     },
     {
       "added_at": "2023-06-26 14:08:53",

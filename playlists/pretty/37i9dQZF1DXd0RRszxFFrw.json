@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 48291,
+  "num_followers": 48320,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTM4Y2FiYWJmZDI4NDBiOGM1NWMzNWVlNDA5OTYxMmE5YTI2ODNl",
+  "snapshot_id": "MCwzY2ExMDI3OWIyNWZlNzZlNzIyMjdhOWEzNzNlZDQ1ZjM4MDlkZWZl",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Flight to Paradise",
-        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
-      },
-      "artists": [
-        {
-          "name": "Novamenco",
-          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
-        }
-      ],
-      "duration_ms": 256399,
-      "name": "Mood for Love",
-      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Goia\u0302nia",
         "url": "https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 172500,
       "name": "Goia\u0302nia",
       "url": "https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Flight to Paradise",
+        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
+      },
+      "artists": [
+        {
+          "name": "Novamenco",
+          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Mood for Love",
+      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "The Little Island Bossa",
-        "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
-      },
-      "artists": [
-        {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
-        }
-      ],
-      "duration_ms": 246128,
-      "name": "The Little Island Bossa",
-      "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Ponte Vecchio",
         "url": "https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 148716,
       "name": "Ponte Veccio",
       "url": "https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "The Little Island Bossa",
+        "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 246128,
+      "name": "The Little Island Bossa",
+      "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Cinque Terre",
+        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Cinque Terre",
+      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Querencia",
         "url": "https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 219786,
       "name": "Tierra Mestiza",
       "url": "https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Cinque Terre",
-        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Cinque Terre",
-      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Colours of Greece / Instrumentals of Greek Music",
-        "url": "https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w"
-      },
-      "artists": [
-        {
-          "name": "Yiorgos Zabetas",
-          "url": "https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM"
-        }
-      ],
-      "duration_ms": 160560,
-      "name": "Tavernas' Hasapikos - Instrumental",
-      "url": "https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "The Beatles for Classical Guitar",
         "url": "https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 165626,
       "name": "Girl",
       "url": "https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Colours of Greece / Instrumentals of Greek Music",
+        "url": "https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w"
+      },
+      "artists": [
+        {
+          "name": "Yiorgos Zabetas",
+          "url": "https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM"
+        }
+      ],
+      "duration_ms": 160560,
+      "name": "Tavernas' Hasapikos - Instrumental",
+      "url": "https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06"
     },
     {
       "added_at": "2022-10-27 22:01:00",

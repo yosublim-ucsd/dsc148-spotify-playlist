@@ -4448,7 +4448,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -11575,6 +11575,24 @@
     },
     {
       "album": {
+        "name": "Mala buena suerte",
+        "url": "https://open.spotify.com/album/2k4TSFp5eLYdahVh8Jq9Li"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Mala buena suerte",
+      "url": "https://open.spotify.com/track/4hSnduLsZ7sDBxaBzxkNFT"
+    },
+    {
+      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -17672,7 +17690,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 263606,
       "name": "Sal rosa",
       "url": "https://open.spotify.com/track/3hHb8Mw9HvlcFUBlSELElq"
@@ -19310,7 +19328,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 62720,
       "name": "Spider-Man 2099 (Miguel O'Hara)",
       "url": "https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT"

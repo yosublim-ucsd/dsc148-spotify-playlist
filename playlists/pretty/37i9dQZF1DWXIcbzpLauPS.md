@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Make Them Suffer
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,234 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,371 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [guilt](https://open.spotify.com/track/3RYluxwP7PfEywwILPUv7a) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [guilt](https://open.spotify.com/album/0LVttb1RQtilr2pH65rk7S) | 2:36 |
 | 75 | [ALL GAS](https://open.spotify.com/track/3g6hGmC8kAXMEh3U8ZpK5S) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [LIVIN' LAUGHIN' LOVIN'](https://open.spotify.com/album/0Clyz2T67pKnE1GrPINyUT) | 2:49 |
 
-Snapshot ID: `MCw0N2I5YjhjYTM5OWViNTBiYWRiNjlmZTZjYmQxOTMwZGM3NDRlZDRi`
+Snapshot ID: `MCxlNDhkNzkwOGViOThlNGQxMjBkNjczYjBhZGU1N2ExOGNhNWY2NDE4`

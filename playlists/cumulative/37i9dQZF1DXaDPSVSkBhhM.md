@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-115 songs - 6 hr 20 min
+116 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Lugar Especial](https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Lugar Especial](https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT) | 3:24 | 2022-07-22 |  |
 | [Match Point](https://open.spotify.com/track/1RI2vKauyCDiNOUhyRVS9f) | [Sullivan](https://open.spotify.com/artist/57ntqarhwfjdilukJRuNAS) | [Match Point](https://open.spotify.com/album/3soDFwi6VpuJ1vVTc7grRi) | 3:14 | 2021-11-26 | 2022-07-15 |
 | [Mentiras](https://open.spotify.com/track/47wLTuzem6hjRlTk4hJe0N) | [Danau](https://open.spotify.com/artist/2UgqMQNyx35YgIehZ5Qmlk) | [Mentiras](https://open.spotify.com/album/6ouwwsu3y9CwwYhSYap7u2) | 3:26 | 2021-11-26 | 2022-07-29 |
+| [Mi Peor Decisión](https://open.spotify.com/track/7jy3aEdzuTuhcwTpxIBX07) | [Reynold](https://open.spotify.com/artist/2JC1P32DYeRL76cJbgMZAS), [Sh4med](https://open.spotify.com/artist/5R3tx9aqBNfc72wszd5Aa6) | [Mi Peor Decisión](https://open.spotify.com/album/7xLcY3LMrzkl81LfnineoU) | 2:28 | 2023-06-30 |  |
 | [Mientras el Mundo Se Apagaba \(Demo\)](https://open.spotify.com/track/6J19lCB1NnsgyRKUX9zJhI) | [Novella Inc](https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm) | [Demos y Viejas Historias, Vol\. 1](https://open.spotify.com/album/1lXy08EYct5sYbzuI8QSGb) | 2:49 | 2021-11-26 | 2022-07-20 |
 | [Mientras quede aliento](https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Mientras quede aliento](https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG) | 3:13 | 2023-05-19 |  |
 | [Más de Lo Que Te Imaginas](https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Delux](https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl) | 2:48 | 2022-07-22 |  |
@@ -93,7 +94,7 @@
 | [No Sé Qué Decir](https://open.spotify.com/track/4SqRftHIfHV6DgyCl2skaf) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ) | [No Sé Qué Decir](https://open.spotify.com/album/1bWAk1Q9MEy4JQ3B5FYYOU) | 4:03 | 2021-11-26 | 2022-07-29 |
 | [Nuestra Ciudad](https://open.spotify.com/track/3Mo2JeLw9Cp0tp4DvWAHlw) | [Infalibles](https://open.spotify.com/artist/5hjFfIrBRAzWwNKYYMYVFZ) | [Nuestra Ciudad](https://open.spotify.com/album/3xxWmBCIm1SDItBuSiSHN9) | 3:42 | 2021-11-26 | 2022-07-29 |
 | [Nunca Estará Bien](https://open.spotify.com/track/31obbmT1YI5tvy0Rrx22WI) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Nunca Estará Bien](https://open.spotify.com/album/7qVjMt6iEyOtXA5dsYfkKu) | 3:11 | 2021-11-26 | 2022-07-28 |
-| [Nunca Estará Bien](https://open.spotify.com/track/1Ify2EL1uHvYRuA6yXzVEV) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Poco de Ti](https://open.spotify.com/album/5rlV10enxQTX6glKaLgRei) | 3:11 | 2023-05-12 |  |
+| [Nunca Estará Bien](https://open.spotify.com/track/1Ify2EL1uHvYRuA6yXzVEV) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Poco de Ti](https://open.spotify.com/album/5rlV10enxQTX6glKaLgRei) | 3:11 | 2023-05-12 | 2023-06-30 |
 | [Nunca Me Voy a Ir](https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9) | [Nunca Me Voy a Ir](https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS) | 2:31 | 2022-12-21 |  |
 | [Otra Vez](https://open.spotify.com/track/1QUuM84MAXja1Nva7RezdD) | [Will of One](https://open.spotify.com/artist/1IRaphz10w9gPlxfimO3Np), [Mariana Sandoval](https://open.spotify.com/artist/4NdwM3glsAV3bnntvxrQ8k) | [Otra Vez](https://open.spotify.com/album/2g4kMXrBHL8NrtDe4mi9O5) | 4:01 | 2023-04-28 | 2023-06-02 |
 | [Para Ti](https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh) | [Masappan](https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC) | [Masappan](https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e) | 2:44 | 2021-11-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635,353 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,635,511 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Avem \(The Aviation Theme\)](https://open.spotify.com/track/0NBD4g9Zwy1rMAMWBYS6Ju) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Avem \(The Aviation Theme\)](https://open.spotify.com/album/7Cf1ov9ofReIxvRh5hkFPD) | 3:19 |
 | 50 | [Dead Girl! \(Shake My Head\)](https://open.spotify.com/track/4inWxO0vnDzZsq32p0cHJm) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dead Girl! \(Shake My Head\)](https://open.spotify.com/album/1crG1m31BhNqSgiLHruph7) | 3:14 |
 
-Snapshot ID: `MjgxMzI2NzAsMDAwMDAwMDA2MDNiN2Y3YzA3ZGViYjZjZmZjMTlkZDk5OTNhZTYyZA==`
+Snapshot ID: `MjgxMzQwNTUsMDAwMDAwMDBlY2RlNjQwMjMzZTBhNjFkNDJjYWRhYTA1ZGMwNDcxZA==`

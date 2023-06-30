@@ -4,7 +4,7 @@
 
 > Exceptionally vivid Swahili love stories for you and yours
 
-90 songs - 5 hr 10 min
+91 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [My Babe](https://open.spotify.com/track/29qNcVV0QERBR5c6TSBEvv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers III](https://open.spotify.com/album/4d2U5waYnl1NwFs0aQ5fhL) | 4:13 | 2023-05-11 |  |
 | [My Baby](https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [My Baby](https://open.spotify.com/album/3hMzqCdDnvkt4yPpqzZ4NW) | 2:48 | 2023-02-03 |  |
 | [My Boo](https://open.spotify.com/track/7MR6B14XLBuEt167xbdWB5) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Fancy Fingers](https://open.spotify.com/artist/1xdz3e3xkRKYMS9TqgIbi5) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:02 | 2023-04-20 |  |
+| [My Sugar \(feat\. Nadia Mukami\)](https://open.spotify.com/track/5R26Xm8yAEf8mcHlaq8CYL) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No) | [My Sugar \(feat\. Nadia Mukami\)](https://open.spotify.com/album/6WTpWQNFlycDkeO2mk7UJY) | 3:43 | 2023-06-29 |  |
 | [My Vow](https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [My Vow](https://open.spotify.com/album/77d7j2x9rppA6mBZIgPALC) | 3:57 | 2022-05-26 |  |
 | [Na Yule](https://open.spotify.com/track/3yXTg2aoTSA2IFo0XfEz8o) | [Ruby](https://open.spotify.com/artist/2ypTfYYhRIQFIYj6bdnKa6) | [Na Yule](https://open.spotify.com/album/2l5qQbYLacq6YJt78xdfZn) | 3:51 | 2022-05-26 | 2023-04-07 |
 | [Naisha](https://open.spotify.com/track/5d5bOX4rcX8PaF3KqCKu0D) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Inside Out](https://open.spotify.com/album/305UoRlLjJxe9uJoT2GUnR) | 3:01 | 2023-06-08 |  |
@@ -82,7 +83,7 @@
 | [Pillow Talk](https://open.spotify.com/track/0Cd9nATh0j7UMsDpIYmLxD) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Pillow Talk](https://open.spotify.com/album/6JK8SmKPlxH5OeYR1Kh47j) | 2:47 | 2023-04-06 |  |
 | [Popo](https://open.spotify.com/track/68vAcSVvyxY1j5peKjNYzS) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Popo](https://open.spotify.com/album/2WeLLoRbfIgWDBvXwnIzFx) | 3:15 | 2023-04-27 |  |
 | [Simuachi](https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Simuachi](https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC) | 3:16 | 2022-06-23 | 2022-11-25 |
-| [Sina Bahati](https://open.spotify.com/track/6JiFowR4YEQk36S8UBaEwP) | [B Classic 006](https://open.spotify.com/artist/1VEHZ2KUoWyhxinp3ToobA) | [Yellow and Red Roses](https://open.spotify.com/album/2z5Nn68CKn1cSgo5IeYPJH) | 2:27 | 2023-06-15 |  |
+| [Sina Bahati](https://open.spotify.com/track/6JiFowR4YEQk36S8UBaEwP) | [B Classic 006](https://open.spotify.com/artist/1VEHZ2KUoWyhxinp3ToobA) | [Yellow and Red Roses](https://open.spotify.com/album/2z5Nn68CKn1cSgo5IeYPJH) | 2:27 | 2023-06-15 | 2023-06-30 |
 | [Sina Neno](https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Sina Neno](https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD) | 3:04 | 2022-05-26 |  |
 | [Single](https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Single](https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb) | 2:16 | 2023-01-19 |  |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 |  |

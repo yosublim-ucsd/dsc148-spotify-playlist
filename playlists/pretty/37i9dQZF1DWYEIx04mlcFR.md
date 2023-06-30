@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > ¡La Gen 23 está aquí! La nueva ola de artistas con Kevin Kaarl en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,384 likes - 76 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,629 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 |
 | 50 | [Mundo Fungi](https://open.spotify.com/track/4kE4OAlEOPierDWL2SoDP6) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mundo Fungi](https://open.spotify.com/album/1eIZG284wSaIwlIdeEpQhA) | 3:32 |
 | 51 | [Enculado \- feat\. Nsqk](https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 2:21 |
-| 52 | [JOLIGUD](https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [JOLIGUD](https://open.spotify.com/album/5tohi7LtQi206ZtOm7Zr15) | 3:34 |
+| 52 | [Joligud](https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Joligud](https://open.spotify.com/album/5tohi7LtQi206ZtOm7Zr15) | 3:34 |
 | 53 | [Acuario \- Solo San Remix](https://open.spotify.com/track/0jrvvsqJsh4ynhqqoanibZ) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Acuario \(Solo San Remix\)](https://open.spotify.com/album/17ZVFGoiLYTGmhsRfNdmso) | 2:54 |
 | 54 | [vampiro](https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08) | [Kiddie Gang](https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg) | [vampiro](https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4) | 2:58 |
 | 55 | [Despejao](https://open.spotify.com/track/0FgZOpqfzeuaogejdUrcfR) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Retrofuturismo](https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK) | 2:46 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 75 | [Me Quieres Como Soy](https://open.spotify.com/track/79oGee7n59xU3CZr7fkK84) | [Billy Miamor](https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL) | [Me Quieres Como Soy](https://open.spotify.com/album/2DubvBe51q1uMXO4LP6WqE) | 2:46 |
 | 76 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
 
-Snapshot ID: `MCwyOGM2YTU0MDhkMjA2ZTMwYWMzODYxYjRlZjNhOWIwMzhmNWY4ZDUx`
+Snapshot ID: `MCw4ZDdmZDU4OWFiMzRiZTNmZjY1MzA0ZWU4YTE1MDNmZDdkNDVjYTRh`

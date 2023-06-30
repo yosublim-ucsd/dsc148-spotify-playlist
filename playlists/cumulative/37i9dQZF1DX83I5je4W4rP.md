@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-241 songs - 14 hr 32 min
+242 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Got It All](https://open.spotify.com/track/6HQ5jwetbgbN7MMf7Hog0C) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Crazy Little Village](https://open.spotify.com/album/2E2ualHb7RU1j7aLqTQTA5) | 3:05 | 2021-12-10 | 2022-07-29 |
 | [Greatest Hits](https://open.spotify.com/track/3lPMNolk5gDJVYBjkAVCTC) | [Passafire](https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ) | [Greatest Hits](https://open.spotify.com/album/1AvPIbANN0YDiEQYHFoprt) | 2:55 | 2021-12-10 | 2022-07-29 |
 | [Greed](https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Greed](https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm) | 3:41 | 2021-12-10 | 2022-01-15 |
-| [Greed](https://open.spotify.com/track/1c9NFMnYVnU8J56Ccj9BFo) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 3:42 | 2023-05-19 |  |
+| [Greed](https://open.spotify.com/track/1c9NFMnYVnU8J56Ccj9BFo) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 3:42 | 2023-05-19 | 2023-06-30 |
 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 | 2021-12-10 |  |
 | [Headline](https://open.spotify.com/track/3FnBOGtgQCqTbS5lyfNGmW) | [Unified Highway](https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI) | [Headline](https://open.spotify.com/album/48BSZ9gRwOzUVi6gvkERDb) | 3:23 | 2021-12-10 | 2022-07-24 |
 | [Heavy as Lead](https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Heavy as Lead](https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m) | 2:56 | 2021-12-10 | 2022-07-29 |
@@ -125,6 +125,7 @@
 | [Just Friends](https://open.spotify.com/track/64UXS3LCIBSl0toiHBvCAr) | [Kash'd Out](https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm), [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [Just Friends](https://open.spotify.com/album/1AOjOljBvTYou6DK0GGzFq) | 3:18 | 2023-06-09 |  |
 | [Kingdom \(with The Movement\)](https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ) | [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Kingdom \(with The Movement\)](https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL) | 4:42 | 2021-12-10 |  |
 | [Knocking at Your Door](https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:36 | 2021-12-10 |  |
+| [Lay Low](https://open.spotify.com/track/5Yfvo0NueXP0DiveWmH3Za) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Set Yourself Free](https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr) | 2:49 | 2023-06-29 |  |
 | [Lay Me Down \(feat\. Sublime With Rome\)](https://open.spotify.com/track/4L0nc0tHfDjr3HlAm1EFeu) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Rome](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Any Port in a Storm \(Special Edition\)](https://open.spotify.com/album/5EOxxqbniQ3CMCCoDfezWh) | 3:35 | 2022-02-04 |  |
 | [Lazy Afternoon](https://open.spotify.com/track/5JmJVj3qLsCnBsQ8IC9XLf) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Bright Side of Life](https://open.spotify.com/album/6ry84mOthM6loLKbhuiovs) | 3:30 | 2021-12-10 |  |
 | [Lemonade](https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE) | [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Lemonade](https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr) | 2:51 | 2022-07-06 |  |

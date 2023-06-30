@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/4QFU1zIY53hxuX85LyGi4B"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Pit stop",
+      "url": "https://open.spotify.com/track/7xRzl8bqp2M7W9niFua0h3"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },

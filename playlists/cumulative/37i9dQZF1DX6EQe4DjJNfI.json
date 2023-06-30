@@ -1486,6 +1486,28 @@
     {
       "album": {
         "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
+    },
+    {
+      "album": {
+        "name": "Nessa Vida",
         "url": "https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE"
       },
       "artists": [
@@ -1500,7 +1522,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 189233,
       "name": "Nessa Vida",
       "url": "https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH"

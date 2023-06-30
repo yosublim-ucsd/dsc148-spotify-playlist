@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,788 likes - 127 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,842 likes - 127 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 22 | [Survivor](https://open.spotify.com/track/76X16LOhkwkDXPEMQzkLFV) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/6woCFdjeO1ayr14tKGL1vI) | 3:40 |
 | 23 | [STEEL \-鉄血の絆\-](https://open.spotify.com/track/20VdkamdRMOeJWJygL2bHh) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Around the TRUE](https://open.spotify.com/album/15uHffJGg720NSYqceFyMG) | 5:21 |
 | 24 | [RAGE OF DUST](https://open.spotify.com/track/3HAVLN7wg1sLZlsFKsA7q0) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:22 |
-| 25 | [少年の果て](https://open.spotify.com/track/4mp8QXLV50D7AObrjKNUAs) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [少年の果て](https://open.spotify.com/album/1lQprvL2hJQDAQKxXNRpry) | 5:03 |
+| 25 | [少年の果て](https://open.spotify.com/track/7mdSaYT0WO5V3R8W4Xj0D3) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Pierrot Dancin'](https://open.spotify.com/album/4SyIdDTlbshUB2LXYsO19e) | 5:04 |
 | 26 | [Fighter](https://open.spotify.com/track/63Eem2YcddulJTylUNo4Xt) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [NAMiDA](https://open.spotify.com/album/4TIjCLimDsRCS2rI921BU9) | 3:45 |
 | 27 | [フリージア](https://open.spotify.com/track/1cqtS5FEOzjaJy1UdNJDXu) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Monochrome](https://open.spotify.com/album/4MSwMoJfcq1kGVjQAdWACD) | 5:36 |
 | 28 | [DAYBREAK'S BELL](https://open.spotify.com/track/0zij3s5siX5jyS1Nbn2eil) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [KISS](https://open.spotify.com/album/4nruUov2XnxA0UU9vfkAvJ) | 4:11 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 64 | [merry\-go\-round](https://open.spotify.com/track/4S0VjlSeynqtyeRRXzIyuR) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [CHEMISTRY 2001\-2011](https://open.spotify.com/album/2l8d2WWpeZ5qwlsrCTeSpR) | 4:04 |
 | 65 | [Itsuka Sora ni Todoite](https://open.spotify.com/track/6oMv7PFkrX8GpMeWmhu8t7) | [Megumi Shiina](https://open.spotify.com/artist/6gp9jw7DuN6VFhpYoZzu4X) | [Itsuka Sora ni Todoite](https://open.spotify.com/album/2j2K7EVhtxWhYC2Xcrb72U) | 3:52 |
 | 66 | [CENTURY COLOR](https://open.spotify.com/track/1gzTPfpOuQFs4G9kUdsAX1) | [RAY\-GUNS](https://open.spotify.com/artist/3LGl3rlULamIUsZ5mhB5Qn) | [CENTURY COLOR](https://open.spotify.com/album/2NnLGNv8l4TVDw8lxNMMk8) | 3:10 |
-| 67 | [It's Just Love!](https://open.spotify.com/track/1ckhGyNThmpfbQrMxrorFl) | [大石ルミ](https://open.spotify.com/artist/6gQfVbFNoR1AS3ldKn2eIW) | [It's Just Love!](https://open.spotify.com/album/3wuEy0hpaDd0ffg6DRtPA7) | 3:57 |
+| 67 | [It's Just Love!](https://open.spotify.com/track/3LZwJYaUyRRGzV55kRFvfu) | [Rumi Oishi](https://open.spotify.com/artist/3LppmPgTItbD6aiy1aR7Sz) | [MOBILE SUIT GUNDAM WING Original Motion Picture Soundtrack \- Operation 1](https://open.spotify.com/album/52jysQJHAiBXHRY01vrgt6) | 3:56 |
 | 68 | [BLAZING](https://open.spotify.com/track/7veiuBU6DKOWOAUwkIAptI) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Linkage Ring](https://open.spotify.com/album/7moLeMntkra4cH3ACSMsjE) | 3:55 |
 | 69 | [Distance](https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [『elemental』](https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id) | 4:07 |
 | 70 | [Kimi wo Mitsumete \-The time I'm seeing you\-](https://open.spotify.com/track/5HadYBJYIzaqxxrIEyPpS3) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Kimi wo Mitsumete \- The time I'm seeing you\-](https://open.spotify.com/album/2wXUyRN798oGDFYvynJxPW) | 4:36 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 103 | [Meguriai \(feat\. GLIM SPANKY\)](https://open.spotify.com/track/7wEHIR6mQUCJ3FeFnWevue) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 5:36 |
 | 104 | [ふたりのまほう](https://open.spotify.com/track/2sxba3dBEuKW6MSlOCJ1Tl) | [May J.](https://open.spotify.com/artist/7sJzR6n8Buyv45FKrLvZIS) | [Futuristic](https://open.spotify.com/album/7c5cMkOoWDmlo5ptlYUs9f) | 3:19 |
 | 105 | [Jidai ga Naiteiru](https://open.spotify.com/track/1KI2yIJiZRldxId7PnAFOS) | [Masahito Arai](https://open.spotify.com/artist/6SSYiSSaA0SedMsVpH5GwM) | [Jidai ga Naiteiru](https://open.spotify.com/album/4sRQYR5fHnYnUVcFQvG1bm) | 4:40 |
-| 106 | [Gの閃光](https://open.spotify.com/track/1qfpMdHoqhpRssLkw253ht) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [Gの閃光](https://open.spotify.com/album/0btQbNsSjSXqUplvgbOKec) | 3:37 |
+| 106 | [G no Senko](https://open.spotify.com/track/2cm1reUN9O5P6aFmykVLkx) | [Daisuke Hasegawa](https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4) | ["GUNDAM RECONGUISTA IN G" Original Motion Picture Soundtrack](https://open.spotify.com/album/3re1HO8RWMXnhwqwchJ8rT) | 3:37 |
 | 107 | [泪のムコウ](https://open.spotify.com/track/4UqCpvmOL8FiohnarAoRRx) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [A Hydrangea Blooms](https://open.spotify.com/album/33vrEaKrkBd3jOs7kpwaQu) | 3:30 |
 | 108 | [流星のナミダ](https://open.spotify.com/track/6ijZSjXxCvHnfWr2wMC7Iv) | [Chiaki Kuriyama](https://open.spotify.com/artist/5jPUEjgQTelKH4IV12KDIr) | [流星のナミダ](https://open.spotify.com/album/0775Tib7vuRC40mJKvHJos) | 4:58 |
 | 109 | [ココロオドル \-original version\-](https://open.spotify.com/track/424ekFg5fk3v0vmf9K85mU) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [Do You Know ?](https://open.spotify.com/album/1VwAzqa6biqAwybsDXsnm0) | 4:11 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 126 | [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 |
 | 127 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MCxiMTFiMGJkODAwYWFiYTM0ZWI2ZDE0MTY5MjJlYzJjN2NlMTFiMzI0`
+Snapshot ID: `MCwxOWRlM2E0OGM5NGVhMGNhMTcyNDQxOTdmYzNlNzI5YTI4MWFhZTAy`

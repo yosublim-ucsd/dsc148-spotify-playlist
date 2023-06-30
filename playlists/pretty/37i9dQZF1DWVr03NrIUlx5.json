@@ -1,12 +1,12 @@
 {
   "description": "8 bit bangers.",
-  "num_followers": 91233,
+  "num_followers": 91287,
   "original_name": "8 Bit Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDg3OGNkZjM4Yjk2NTQ0OWRhMTFiYzViMTBmYjFlODUzZjIyZmYz",
+  "snapshot_id": "MCxjNWI3MWVhZDk5NTA0NmZjZWRiYzAyMTUyZGExZjA1YmY4YmJhNWM3",
   "tracks": [
     {
       "added_at": "2022-09-30 05:34:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
-        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
-      },
-      "artists": [
-        {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/6h0EL3eT9ALAN9Re2duMXp"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-bit tribute to Queen",
         "url": "https://open.spotify.com/album/35hkqlC135ldbnXbMwfwDL"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 178859,
       "name": "Another One Bites The Dust",
       "url": "https://open.spotify.com/track/4e2EuTvYucHPu31UrIitUf"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
+        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
+      },
+      "artists": [
+        {
+          "name": "Super Power Club",
+          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/6h0EL3eT9ALAN9Re2duMXp"
     },
     {
       "added_at": "2022-12-02 05:05:00",
@@ -639,18 +639,22 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8-Bit 80's",
-        "url": "https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF"
+        "name": "8 Bit Dynasty",
+        "url": "https://open.spotify.com/album/5OqBkQMrWzGEYFE6fhjrhJ"
       },
       "artists": [
         {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+          "name": "8 Bit Dynasty",
+          "url": "https://open.spotify.com/artist/77CnzDPRTX7EYB1YMsO2NE"
+        },
+        {
+          "name": "N/A",
+          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
         }
       ],
-      "duration_ms": 206626,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/5QdRBz5NLMrGEKNZIaFyce"
+      "duration_ms": 230276,
+      "name": "Love Yourself (8 Bit Version)",
+      "url": "https://open.spotify.com/track/0M5SBpgIQHMOVSxfLeUh92"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -671,22 +675,18 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8 Bit Dynasty",
-        "url": "https://open.spotify.com/album/5OqBkQMrWzGEYFE6fhjrhJ"
+        "name": "8-Bit 80's",
+        "url": "https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF"
       },
       "artists": [
         {
-          "name": "8 Bit Dynasty",
-          "url": "https://open.spotify.com/artist/77CnzDPRTX7EYB1YMsO2NE"
-        },
-        {
-          "name": "N/A",
-          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
+          "name": "Super Power Club",
+          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
         }
       ],
-      "duration_ms": 230276,
-      "name": "Love Yourself (8 Bit Version)",
-      "url": "https://open.spotify.com/track/0M5SBpgIQHMOVSxfLeUh92"
+      "duration_ms": 206626,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/5QdRBz5NLMrGEKNZIaFyce"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
-        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
-      },
-      "artists": [
-        {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Snow (Hey Oh)",
-      "url": "https://open.spotify.com/track/41SA5xHK3B3LI0f6bj9tyR"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "Fancy - 8-bit Hits Remix",
         "url": "https://open.spotify.com/album/3Rz4I0P3FbiDFEjtR3TwWU"
       },
@@ -783,6 +767,42 @@
       "duration_ms": 196749,
       "name": "Fancy - 8-bit Hits Remix",
       "url": "https://open.spotify.com/track/7xWrDWmaM9cDJePsu5vk7X"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "8 Bit Dynasty",
+        "url": "https://open.spotify.com/album/5OqBkQMrWzGEYFE6fhjrhJ"
+      },
+      "artists": [
+        {
+          "name": "8 Bit Dynasty",
+          "url": "https://open.spotify.com/artist/77CnzDPRTX7EYB1YMsO2NE"
+        },
+        {
+          "name": "N/A",
+          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
+        }
+      ],
+      "duration_ms": 270441,
+      "name": "Clean (8 Bit Version)",
+      "url": "https://open.spotify.com/track/1q5UT5EGiDE0lwyI5RHSXm"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
+        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
+      },
+      "artists": [
+        {
+          "name": "Super Power Club",
+          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "Snow (Hey Oh)",
+      "url": "https://open.spotify.com/track/41SA5xHK3B3LI0f6bj9tyR"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -819,26 +839,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8 Bit Dynasty",
-        "url": "https://open.spotify.com/album/5OqBkQMrWzGEYFE6fhjrhJ"
-      },
-      "artists": [
-        {
-          "name": "8 Bit Dynasty",
-          "url": "https://open.spotify.com/artist/77CnzDPRTX7EYB1YMsO2NE"
-        },
-        {
-          "name": "N/A",
-          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
-        }
-      ],
-      "duration_ms": 270441,
-      "name": "Clean (8 Bit Version)",
-      "url": "https://open.spotify.com/track/1q5UT5EGiDE0lwyI5RHSXm"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-bit Hits of 2016, Vol. 3",
         "url": "https://open.spotify.com/album/2aaVa6hLwcvn2MjVLLIHPR"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 197021,
       "name": "Duele El Corazon",
       "url": "https://open.spotify.com/track/22Lsy5lq4x6M67alfve9iq"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "Life in 8 Bit",
-        "url": "https://open.spotify.com/album/2mvpFiWBrD3l6y5kXGMM4o"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Schroeder",
-          "url": "https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky"
-        }
-      ],
-      "duration_ms": 190886,
-      "name": "Drag Me Down (8 Bit)",
-      "url": "https://open.spotify.com/track/4nanieJKGPcyUWgTwCGwk5"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -887,6 +871,22 @@
       "duration_ms": 194264,
       "name": "I Know Places (8 Bit Version)",
       "url": "https://open.spotify.com/track/4nVQjFjD0Sjnpl4tDwmxUI"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Life in 8 Bit",
+        "url": "https://open.spotify.com/album/2mvpFiWBrD3l6y5kXGMM4o"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Schroeder",
+          "url": "https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky"
+        }
+      ],
+      "duration_ms": 190886,
+      "name": "Drag Me Down (8 Bit)",
+      "url": "https://open.spotify.com/track/4nanieJKGPcyUWgTwCGwk5"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
+        "name": "Lit 8 Bits",
+        "url": "https://open.spotify.com/album/5aybfUu9nsyEoXkyGtVYVw"
+      },
+      "artists": [
+        {
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+        }
+      ],
+      "duration_ms": 115559,
+      "name": "Old Town Road (8 Bit Version)",
+      "url": "https://open.spotify.com/track/4RcSbZpzM5qYQehEolo5z2"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
         "name": "8-Bit Versions of Coheed and Cambria",
         "url": "https://open.spotify.com/album/03yCGYcjR62dJXJhPuZ4zY"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Lit 8 Bits",
-        "url": "https://open.spotify.com/album/5aybfUu9nsyEoXkyGtVYVw"
-      },
-      "artists": [
-        {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
-        }
-      ],
-      "duration_ms": 115559,
-      "name": "Old Town Road (8 Bit Version)",
-      "url": "https://open.spotify.com/track/4RcSbZpzM5qYQehEolo5z2"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-Bit Versions of Metallica",
         "url": "https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 270000,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/6or0Zn98H9Cir0LILZq26W"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "8-Bit 80's",
+        "url": "https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF"
+      },
+      "artists": [
+        {
+          "name": "Super Power Club",
+          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/6K2SIairc1P84oICLGS3Wc"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1163,22 +1179,6 @@
       "duration_ms": 186453,
       "name": "Last Resort",
       "url": "https://open.spotify.com/track/6yV0Vy0tLOsjtqHEzKPGcA"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "8-Bit 80's",
-        "url": "https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF"
-      },
-      "artists": [
-        {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/6K2SIairc1P84oICLGS3Wc"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8-Bit Universe, Vol. 23",
-        "url": "https://open.spotify.com/album/7tFFu7sCxQixFjMzLqoqyf"
-      },
-      "artists": [
-        {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
-        }
-      ],
-      "duration_ms": 389837,
-      "name": "Hotel California - 8-Bit Version",
-      "url": "https://open.spotify.com/track/72EfHwcUwdfELjCKhYMc1x"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "Analog Attack",
         "url": "https://open.spotify.com/album/0dcF9Ii7KbQjmHe3GEkhvi"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 401079,
       "name": "Stan (8 Bit Version)",
       "url": "https://open.spotify.com/track/0nE7tNiKkdbrJWH191dfr4"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "8-Bit Universe, Vol. 23",
+        "url": "https://open.spotify.com/album/7tFFu7sCxQixFjMzLqoqyf"
+      },
+      "artists": [
+        {
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+        }
+      ],
+      "duration_ms": 389837,
+      "name": "Hotel California - 8-Bit Version",
+      "url": "https://open.spotify.com/track/72EfHwcUwdfELjCKhYMc1x"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Rock & Metal Anthems",
-        "url": "https://open.spotify.com/album/7cVF5QegUiL7AP2e06WXOf"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Arcade",
-          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
-        }
-      ],
-      "duration_ms": 114107,
-      "name": "Du Hast (8-Bit Rammstien Emulation)",
-      "url": "https://open.spotify.com/track/0HCFSx4iOx7cJLScHlys9j"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "Retro Chip",
         "url": "https://open.spotify.com/album/3tqIIufs000bnkVfj6hKAB"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 273521,
       "name": "Bitter Sweet Symphony (8 Bit Version)",
       "url": "https://open.spotify.com/track/6mL4dZEv5H94fifSK6t0Sq"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Rock & Metal Anthems",
+        "url": "https://open.spotify.com/album/7cVF5QegUiL7AP2e06WXOf"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Arcade",
+          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
+        }
+      ],
+      "duration_ms": 114107,
+      "name": "Du Hast (8-Bit Rammstien Emulation)",
+      "url": "https://open.spotify.com/track/0HCFSx4iOx7cJLScHlys9j"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
-        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
+        "name": "8-Bit Versions of Eminem",
+        "url": "https://open.spotify.com/album/1YJzWrXjvMLqmJlnl4h7Yi"
       },
       "artists": [
         {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
         }
       ],
-      "duration_ms": 156013,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0pFGdDDLk8cTDJnFzzqhaV"
+      "duration_ms": 233084,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/3neCGqGtbxTEN5K9i9jwM2"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8-Bit Versions of Eminem",
-        "url": "https://open.spotify.com/album/1YJzWrXjvMLqmJlnl4h7Yi"
+        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
+        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
       },
       "artists": [
         {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+          "name": "Super Power Club",
+          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
         }
       ],
-      "duration_ms": 233084,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/3neCGqGtbxTEN5K9i9jwM2"
+      "duration_ms": 156013,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0pFGdDDLk8cTDJnFzzqhaV"
     },
     {
       "added_at": "2022-09-30 05:34:00",

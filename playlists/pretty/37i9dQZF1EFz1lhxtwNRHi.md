@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 58 | [SOMEONE ELSE](https://open.spotify.com/track/1CYdm33W4P71qdXWAZdrre) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:31 |
 | 59 | [Voodoo](https://open.spotify.com/track/5Abiq1bL8hMcMh1JUawYQM) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:59 |
 | 60 | [Over](https://open.spotify.com/track/3cXeu25WMjDXjMOQmRkLVY) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 4:16 |
-| 61 | [Call Me!!!](https://open.spotify.com/track/4JFQ6XcKPvXIU34JPLbbOQ) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Was It Even Real?](https://open.spotify.com/album/6UNHnZrpLH56Bk5okVGlI2) | 3:35 |
-| 62 | [Feel Something](https://open.spotify.com/track/0tWIkkUNwzNBP0GhppjpPK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:04 |
+| 61 | [Feel Something](https://open.spotify.com/track/0tWIkkUNwzNBP0GhppjpPK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:04 |
+| 62 | [Call Me!!!](https://open.spotify.com/track/4JFQ6XcKPvXIU34JPLbbOQ) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Was It Even Real?](https://open.spotify.com/album/6UNHnZrpLH56Bk5okVGlI2) | 3:35 |
 | 63 | [Tied to Your Body](https://open.spotify.com/track/0myekv84cuSeVRSboWQqpo) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 2:09 |
 | 64 | [Focused](https://open.spotify.com/track/2oEZ1PJ5qpLuQMR7CmtizD) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:02 |
 | 65 | [Holy Feeling](https://open.spotify.com/track/4Hxj1xfkSPF02IwgLZhu0B) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Trophies](https://open.spotify.com/album/2AUBG0Hw2pJyULNK5xyDwC) | 4:06 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 97 | [Zombie](https://open.spotify.com/track/4bhepnvYedYqxy51vCVEfU) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Zombie](https://open.spotify.com/album/7JpCGs5WcyjXotan0fIIW4) | 2:55 |
 | 98 | [Sudden Death \(OMG\)](https://open.spotify.com/track/19TH3RUU4RFCJXOMCNHfZM) | [Tyler Glenn](https://open.spotify.com/artist/5XCujjq919BFXTnjyyDpiE) | [Excommunication](https://open.spotify.com/album/6Wy2fOHFH90riocdTcRtkq) | 3:18 |
 | 99 | [Happier?](https://open.spotify.com/track/1akmlqMKOnItATjfnolfXO) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 3:31 |
-| 100 | [Express Myself](https://open.spotify.com/track/4UisKEOzb1R6Yu95k7UF0E) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Express Myself](https://open.spotify.com/album/5fKJd9WRNCvI8RYct7oWUP) | 3:30 |
-| 101 | [Celebrity \- Blood Bunny Version](https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SPLIT DECISION](https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM) | 2:33 |
+| 100 | [Celebrity \- Blood Bunny Version](https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SPLIT DECISION](https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM) | 2:33 |
+| 101 | [Express Myself](https://open.spotify.com/track/4UisKEOzb1R6Yu95k7UF0E) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Express Myself](https://open.spotify.com/album/5fKJd9WRNCvI8RYct7oWUP) | 3:30 |
 | 102 | [Be the 1](https://open.spotify.com/track/1dT6bzRblpd5ALByN95ScG) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Be the 1](https://open.spotify.com/album/7FTULKxxmfN9biaXculBGb) | 3:01 |
 | 103 | [Hold On To Me](https://open.spotify.com/track/64cNNOHp4pXPgpS7ZRRUS1) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 3:04 |
 | 104 | [DRESS UP](https://open.spotify.com/track/76bt0UPQdWBag54VPDS3LL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:50 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 145 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 146 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `MjgxMzM0MzAsMDAwMDAwMDBlNDJmZmY3N2VlNDkwYzYyOTEzNzJlNzMzNmE0N2I2Nw==`
+Snapshot ID: `MjgxMzQ4NzAsMDAwMDAwMDBjZGFiNzQ4ZjliMjQ4OTYyMDg1NGQ3ZmQ4NDc4YTg3Mw==`

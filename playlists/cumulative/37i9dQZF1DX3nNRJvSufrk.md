@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-146 songs - 8 hr 51 min
+148 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,9 +55,10 @@
 | [Drank, Kush, Barz](https://open.spotify.com/track/5xFy8h9eEJUjOIXGKRE19C) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Spinn](https://open.spotify.com/artist/5gmgJUPTu5ApaV6Swjfb20) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:36 | 2020-12-03 | 2022-07-29 |
 | [Drank, Kush, Barz \(feat\. DJ Spinn\)](https://open.spotify.com/track/58MjC38tjt4Lc8mu4EzwWB) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [Double Cup](https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR) | 3:36 | 2020-12-03 |  |
 | [Drank, Kush, Barz \(feat\. Spinn\)](https://open.spotify.com/track/6F6CrMKMgZeDah2JF2cizZ) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [Double Cup](https://open.spotify.com/album/21dsgJBSUM6IvAGFjfotgF) | 3:36 | 2020-12-03 | 2023-04-28 |
+| [Elevate](https://open.spotify.com/track/0qcYatTVf33ouptkYHtUqL) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Druguse](https://open.spotify.com/album/33JOcNGQQ1MT6fYzfxAhJh) | 3:28 | 2020-12-03 |  |
 | [Elevate](https://open.spotify.com/track/0wxtjSaYesWNnuPg9RwFRV) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Hood Rich Life](https://open.spotify.com/album/22eF4qZ2hPJHhrEZIM5Hqa) | 3:28 | 2020-12-03 | 2022-11-13 |
 | [Elevate](https://open.spotify.com/track/11n4LmYCiLsXPfAO6t5Srd) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Hood Rich Life](https://open.spotify.com/album/2U51TV6gM2Sm3mknG4Bf1P) | 3:28 | 2020-12-03 | 2022-07-29 |
-| [Elevate](https://open.spotify.com/track/1QVn0sWicVdDIeSzjH9Azl) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Druguse](https://open.spotify.com/album/6ljZyft0E5HL6eldfdVivk) | 3:28 | 2020-12-03 |  |
+| [Elevate](https://open.spotify.com/track/1QVn0sWicVdDIeSzjH9Azl) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Druguse](https://open.spotify.com/album/6ljZyft0E5HL6eldfdVivk) | 3:28 | 2020-12-03 | 2023-06-30 |
 | [Erotic Heat](https://open.spotify.com/track/29mPXTERiHkY9uVH7BDwfD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/5JNtn7QIhuZiptM2F7bJPX) | 4:23 | 2020-12-03 |  |
 | [Erotic Heat](https://open.spotify.com/track/4e3OBP6GzZ9nZbhvcYAxsb) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/5jxuCEWIiXAEdjrBPTOMTK) | 4:23 | 2020-12-03 | 2023-05-01 |
 | [Erotic Heat](https://open.spotify.com/track/7cw7ln9b7LNWNSb5sf1mx9) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/2yHEmN9QGuFbFpWt21BJtd) | 4:23 | 2020-12-03 | 2022-07-29 |
@@ -137,7 +138,8 @@
 | [She A Go \(feat\. DJ Spinn & Taso\)](https://open.spotify.com/track/04mCBv0H4IXwCVTuZ5seYE) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [Double Cup](https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR) | 3:37 | 2020-12-03 |  |
 | [She A Go \(feat\. Spinn & Taso\)](https://open.spotify.com/track/2uR84MrS2oNWMcgaN7byIl) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Double Cup](https://open.spotify.com/album/21dsgJBSUM6IvAGFjfotgF) | 3:37 | 2020-12-03 | 2023-04-29 |
 | [Skkrtt](https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 4:49 | 2020-12-03 |  |
-| [Slanted \- BSN Posse Remix](https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA) | 3:46 | 2020-12-03 |  |
+| [Slanted \(BSN Posse Remix\)](https://open.spotify.com/track/5gtyWp5rTQXIouCryZm7fG) | [Tim Parker](https://open.spotify.com/artist/2SzHSUFj8BUrUplhzpbW5T), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/2I41rw3sceGcUVoKyIOxwB) | 3:46 | 2020-12-03 |  |
+| [Slanted \- BSN Posse Remix](https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA) | 3:46 | 2020-12-03 | 2023-06-30 |
 | [Stick Em'](https://open.spotify.com/track/1Pr37UKvEs9EWlO70gTPhF) | [Caidance](https://open.spotify.com/artist/3bWNdjdWiWNdv1xPOnFU1r) | [Guaranteed](https://open.spotify.com/album/1HMCwgdVCktmbzoKPxAzzX) | 3:40 | 2020-12-03 |  |
 | [Still Geekin'](https://open.spotify.com/track/0TnVZ2ObWc4TeRZiFUEIoL) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 2:30 | 2020-12-03 |  |
 | [Tear It Up](https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP) | [Turk Turkelton](https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 4:39 | 2020-12-03 |  |

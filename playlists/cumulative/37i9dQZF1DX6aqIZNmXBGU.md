@@ -4,7 +4,7 @@
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-141 songs - 8 hr 7 min
+142 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Lazy Bones](https://open.spotify.com/track/5R74baUcQY784FpFx0E9WT) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [West](https://open.spotify.com/album/7kdlwlNdUgYgBTBp2s41j7) | 3:53 | 2021-04-09 | 2022-11-13 |
 | [Leash \- Remastered](https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:08 | 2021-04-09 |  |
 | [Let's Go Surfing](https://open.spotify.com/track/2TOoPCW05TjfwMqpVTThVZ) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Kitsuné Maison Compilation 8](https://open.spotify.com/album/16Kp9T6MHoSXKJYiSWnyFL) | 2:57 | 2021-04-09 | 2022-07-29 |
-| [Lets Go Surfing](https://open.spotify.com/track/5g127reXmYqHrWHIJ8TJvC) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Indie Rock](https://open.spotify.com/album/6JrppNJBxpKvGTRyVYXDuV) | 2:55 | 2021-04-09 |  |
+| [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 | 2021-04-09 |  |
+| [Lets Go Surfing](https://open.spotify.com/track/5g127reXmYqHrWHIJ8TJvC) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Indie Rock](https://open.spotify.com/album/6JrppNJBxpKvGTRyVYXDuV) | 2:55 | 2021-04-09 | 2023-06-30 |
 | [Lets Go Surfing](https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l) | 2:55 | 2021-04-09 | 2023-06-23 |
 | [Lick the Bag](https://open.spotify.com/track/07iJL5aTEPKh4YGrUIBOsb) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/7m1Sb6fRqT30QdNr0tjdDP) | 3:18 | 2021-04-09 | 2022-10-13 |
 | [Lick the Bag](https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 3:18 | 2021-04-09 | 2023-06-27 |

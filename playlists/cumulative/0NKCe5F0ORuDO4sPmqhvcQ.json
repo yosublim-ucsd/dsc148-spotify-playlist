@@ -3449,6 +3449,28 @@
     },
     {
       "album": {
+        "name": "Great Big Warm House",
+        "url": "https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm"
+      },
+      "artists": [
+        {
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142651,
+      "name": "Great Big Warm House",
+      "url": "https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH"
+    },
+    {
+      "album": {
         "name": "Grid Lines",
         "url": "https://open.spotify.com/album/2145oDTM1FqcH51ieqtfSd"
       },

@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 167104,
+  "num_followers": 167110,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTE4Njc5ZmYxOGY2Y2ZlMjA2ODBiM2NjN2UwYTg2YzVhZWMzNjAx",
+  "snapshot_id": "MCxmMzRkZDcwMmEyNjYxNGFmNjdkMGFiMzgyMjE5ZjA2OWQxNGU4Njc1",
   "tracks": [
     {
       "added_at": "2023-06-20 07:43:55",
@@ -923,22 +923,18 @@
     {
       "added_at": "2023-06-20 07:43:55",
       "album": {
-        "name": "Hear Me Say",
-        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
+        "name": "I Swear",
+        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
         }
       ],
-      "duration_ms": 190772,
-      "name": "Hear Me Say",
-      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
+      "duration_ms": 131306,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
     },
     {
       "added_at": "2023-06-20 07:43:55",
@@ -967,6 +963,26 @@
     {
       "added_at": "2023-06-20 07:43:55",
       "album": {
+        "name": "Hear Me Say",
+        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 190772,
+      "name": "Hear Me Say",
+      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
+    },
+    {
+      "added_at": "2023-06-20 07:43:55",
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
-    },
-    {
-      "added_at": "2023-06-20 07:43:55",
-      "album": {
-        "name": "I Swear",
-        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
     },
     {
       "added_at": "2023-06-20 07:43:55",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-20 07:43:55",
       "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
-    },
-    {
-      "added_at": "2023-06-20 07:43:55",
-      "album": {
         "name": "Peru (R3HAB Remix)",
         "url": "https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 149752,
       "name": "Peru - R3HAB Remix",
       "url": "https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq"
+    },
+    {
+      "added_at": "2023-06-20 07:43:55",
+      "album": {
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
     },
     {
       "added_at": "2023-06-20 07:43:55",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-06-20 07:43:55",
       "album": {
-        "name": "Perfect Melody",
-        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 159850,
-      "name": "Perfect Melody",
-      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
-    },
-    {
-      "added_at": "2023-06-20 07:43:55",
-      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -1163,6 +1143,62 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+    },
+    {
+      "added_at": "2023-06-20 07:43:55",
+      "album": {
+        "name": "Perfect Melody",
+        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 159850,
+      "name": "Perfect Melody",
+      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
+    },
+    {
+      "added_at": "2023-06-20 07:43:55",
+      "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 221465,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW"
+    },
+    {
+      "added_at": "2023-06-20 07:43:55",
+      "album": {
+        "name": "Buzzing",
+        "url": "https://open.spotify.com/album/1P6cgLWkMDEFw48KvYwRxY"
+      },
+      "artists": [
+        {
+          "name": "Lexa Hill",
+          "url": "https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI"
+        }
+      ],
+      "duration_ms": 219285,
+      "name": "Buzzing",
+      "url": "https://open.spotify.com/track/1bFb1ae64GD6ZR68tiuFFf"
     },
     {
       "added_at": "2023-06-20 07:43:55",
@@ -1191,22 +1227,6 @@
     {
       "added_at": "2023-06-20 07:43:55",
       "album": {
-        "name": "Buzzing",
-        "url": "https://open.spotify.com/album/1P6cgLWkMDEFw48KvYwRxY"
-      },
-      "artists": [
-        {
-          "name": "Lexa Hill",
-          "url": "https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI"
-        }
-      ],
-      "duration_ms": 219285,
-      "name": "Buzzing",
-      "url": "https://open.spotify.com/track/1bFb1ae64GD6ZR68tiuFFf"
-    },
-    {
-      "added_at": "2023-06-20 07:43:55",
-      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 186184,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
-    },
-    {
-      "added_at": "2023-06-20 07:43:55",
-      "album": {
-        "name": "Funny",
-        "url": "https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 221465,
-      "name": "Funny",
-      "url": "https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW"
     },
     {
       "added_at": "2023-06-20 07:43:55",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-06-20 07:43:55",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 188891,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
-    },
-    {
-      "added_at": "2023-06-20 07:43:55",
-      "album": {
         "name": "Blue Monday (feat. JD Davis)",
         "url": "https://open.spotify.com/album/61mqIm6BImQCijUTwJg05t"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 150991,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
+    },
+    {
+      "added_at": "2023-06-20 07:43:55",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 188891,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
     },
     {
       "added_at": "2023-06-20 07:43:55",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-06-20 07:43:55",
       "album": {
-        "name": "Always Be There",
-        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
-        }
-      ],
-      "duration_ms": 198407,
-      "name": "Always Be There",
-      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
-    },
-    {
-      "added_at": "2023-06-20 07:43:55",
-      "album": {
         "name": "Diamonds (feat. Aleyna Tilki)",
         "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 168196,
       "name": "Diamonds (feat. Aleyna Tilki)",
       "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
+    },
+    {
+      "added_at": "2023-06-20 07:43:55",
+      "album": {
+        "name": "You're Free",
+        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 167298,
+      "name": "You're Free",
+      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
     },
     {
       "added_at": "2023-06-20 07:43:55",
@@ -1515,22 +1515,42 @@
     {
       "added_at": "2023-06-20 07:43:55",
       "album": {
-        "name": "You're Free",
-        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
+        "name": "V I B R A T I O N",
+        "url": "https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
         },
         {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
         }
       ],
-      "duration_ms": 167298,
-      "name": "You're Free",
-      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
+      "duration_ms": 169831,
+      "name": "V I B R A T I O N",
+      "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
+    },
+    {
+      "added_at": "2023-06-20 07:43:55",
+      "album": {
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
     },
     {
       "added_at": "2023-06-20 07:43:55",
@@ -1555,26 +1575,6 @@
       "duration_ms": 234374,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
-    },
-    {
-      "added_at": "2023-06-20 07:43:55",
-      "album": {
-        "name": "V I B R A T I O N",
-        "url": "https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r"
-      },
-      "artists": [
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 169831,
-      "name": "V I B R A T I O N",
-      "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
     },
     {
       "added_at": "2023-06-20 07:43:55",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Siete in un paese meraviglioso! Giancane e Zerocalcare in cover di Rock Italia.",
+  "description": "La playlist che \u00e8 come andare ai concerti. Adelasia in cover di Rock Italia questa settimana!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 159529,
       "name": "Broccoletti Goes Punk",
       "url": "https://open.spotify.com/track/1g8YIqdmnPl4B7YXtmWlKk"
@@ -1914,6 +1914,24 @@
       "duration_ms": 195986,
       "name": "Crepuscolo",
       "url": "https://open.spotify.com/track/2ynNY2fbbznv1JE5ePaNQ7"
+    },
+    {
+      "album": {
+        "name": "CRISTALLI",
+        "url": "https://open.spotify.com/album/52KLBDTEnwxIkJCjh0gRpK"
+      },
+      "artists": [
+        {
+          "name": "NAMIDA",
+          "url": "https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155374,
+      "name": "CRISTALLI",
+      "url": "https://open.spotify.com/track/4ZVyFW3LQyCuAogzMSaoox"
     },
     {
       "album": {
@@ -3221,6 +3239,24 @@
     },
     {
       "album": {
+        "name": "Giro Classico",
+        "url": "https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3"
+      },
+      "artists": [
+        {
+          "name": "SPEAKEASY",
+          "url": "https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204390,
+      "name": "Giro Classico",
+      "url": "https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1"
+    },
+    {
+      "album": {
         "name": "Go Fuck Yourself",
         "url": "https://open.spotify.com/album/3B0Ijyl3qisEw6fYXmG2fT"
       },
@@ -3320,7 +3356,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 249798,
       "name": "Habadash",
       "url": "https://open.spotify.com/track/36eksU9dcmYrFIifuZs4MU"
@@ -3898,6 +3934,24 @@
       "duration_ms": 250106,
       "name": "Io me ne sto fermo ad aspettare",
       "url": "https://open.spotify.com/track/0TmzVdDz05521DzSKJst6v"
+    },
+    {
+      "album": {
+        "name": "Io Non Sono Come Te",
+        "url": "https://open.spotify.com/album/4H5jHZrJZmKGA1mKgUgnwb"
+      },
+      "artists": [
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186551,
+      "name": "Io Non Sono Come Te",
+      "url": "https://open.spotify.com/track/6OB6vU6UMCYTeJ3GNGAEga"
     },
     {
       "album": {
@@ -5232,7 +5286,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 135356,
       "name": "Nebbia",
       "url": "https://open.spotify.com/track/2jfqipZueDmichQIwp1dG0"
@@ -5670,6 +5724,24 @@
       "duration_ms": 186374,
       "name": "Nuvolone",
       "url": "https://open.spotify.com/track/7MYSEt7ON2GaBKoW98eoyB"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/3Hnux3n5xhBOIrIxUsO2AF"
+      },
+      "artists": [
+        {
+          "name": "Halflives",
+          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199598,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/7jePbTgyKol6gHshTbF3Xz"
     },
     {
       "album": {
@@ -7276,7 +7348,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 154838,
       "name": "Spaccio (feat. Fast Animals and Slow Kids)",
       "url": "https://open.spotify.com/track/3QeGRIk6yOx6RRrXD2whlJ"
@@ -7750,6 +7822,24 @@
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
+        "name": "Sushi",
+        "url": "https://open.spotify.com/album/1MwapmqKPVKshkWBJNvnfj"
+      },
+      "artists": [
+        {
+          "name": "MILANOSPORT",
+          "url": "https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159094,
+      "name": "Sushi",
+      "url": "https://open.spotify.com/track/2ph0Ra4BfxsYsbWckE1D0D"
     },
     {
       "album": {
@@ -8561,6 +8651,24 @@
     },
     {
       "album": {
+        "name": "Varese Tuning",
+        "url": "https://open.spotify.com/album/1HD3OMW1GITxPOy7xooBK7"
+      },
+      "artists": [
+        {
+          "name": "\u2248 Belize \u2248",
+          "url": "https://open.spotify.com/artist/3b8bBMsmGoBd8gYn1pngNc"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Varese Tuning",
+      "url": "https://open.spotify.com/track/5xOPQpo451ScmG5rbezy2m"
+    },
+    {
+      "album": {
         "name": "Vaslin",
         "url": "https://open.spotify.com/album/7k3bc04BjVRbGwaZmAfxgL"
       },
@@ -8594,6 +8702,24 @@
       "duration_ms": 182988,
       "name": "Vento",
       "url": "https://open.spotify.com/track/6ej9H7pOvE5zA0tm2EQCc6"
+    },
+    {
+      "album": {
+        "name": "Vedo La Tua Faccia Nei Giorni Di Pioggia",
+        "url": "https://open.spotify.com/album/5SKFyA8AeGpSVZFJoAJq1g"
+      },
+      "artists": [
+        {
+          "name": "Spirito Di Lupo",
+          "url": "https://open.spotify.com/artist/0XSkDAZ3BpvIpAnFSEfxvC"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166276,
+      "name": "Vento Triste",
+      "url": "https://open.spotify.com/track/2jJEohR7Rxov9pb0qaLEe1"
     },
     {
       "album": {

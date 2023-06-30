@@ -2,9 +2,9 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Meshell Ndegeocello
+> The best jazz new releases\. Cover: Gabi Hartmann
 
-303 songs - 21 hr 59 min
+304 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Circling](https://open.spotify.com/track/3JfEAQCzK3IjvhdwECQEs8) | [Terri Lyne Carrington](https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT), [Michael Mayo](https://open.spotify.com/artist/6Z4mLnrdfPccaoJvIMhBSu), [Negah Santos](https://open.spotify.com/artist/4tGfzkCl6BfAKAqIUopTQc) | [New Standards Vol\. 1](https://open.spotify.com/album/3fn7tQJA1sjZuZbxPiqlWF) | 6:01 | 2022-11-17 | 2023-03-10 |
 | [City of the Rising Sun](https://open.spotify.com/track/5GWPmMcG2IyAXe5TGWyNxD) | [Rhoda Scott](https://open.spotify.com/artist/7bALAz7fry73sw8SgpdZhl), [Lisa Cat\-Berro](https://open.spotify.com/artist/6iaBypg8M8oxSEOWOvrrmm), [Céline Bonacina](https://open.spotify.com/artist/6HazTZiB3H2YOXf4SxO14z), [Julie Saury](https://open.spotify.com/artist/7Ie5grAtdOBPylHOxPgPSt), [Sophie Alour](https://open.spotify.com/artist/0a0itmMDe3aXvoIGirdUHT), [Géraldine Laurent](https://open.spotify.com/artist/4ZqOMiFK46aw6mKAbsrHPK) | [Rhoda Scott Lady All Stars](https://open.spotify.com/album/5BBCsoP9qM5UEWv32uokPu) | 4:45 | 2022-04-14 | 2022-04-29 |
 | [Clear Water \(feat\. Deantoni Parks, Jeff Parker, Sanford Biggers\)](https://open.spotify.com/track/3aeFAZzP1MrbbJTLzG9VI9) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Deantoni Parks](https://open.spotify.com/artist/1RLjVRaoIxtiVZiV6NNIBX), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt), [Sanford Biggers](https://open.spotify.com/artist/3gZXyYaWIgjAYpx8XdokiR) | [The Omnichord Real Book](https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA) | 4:35 | 2023-06-22 |  |
-| [Coltrane Plays the Blues](https://open.spotify.com/track/5KT08xhOGbce2aoy0I8sgV) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Coltrane Plays The Blues](https://open.spotify.com/album/2MCJ9ae1x9jzpx4kOVWzgO) | 5:22 | 2023-03-09 |  |
+| [Coltrane Plays the Blues](https://open.spotify.com/track/5KT08xhOGbce2aoy0I8sgV) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Coltrane Plays The Blues](https://open.spotify.com/album/2MCJ9ae1x9jzpx4kOVWzgO) | 5:22 | 2023-03-09 | 2023-06-30 |
 | [Come Away With Me \- Alternate Version](https://open.spotify.com/track/4Fjqhauhcq5cf0eXmf7tMD) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Alternate Version\)](https://open.spotify.com/album/2WFysyY3byRvtOsuJy9txO) | 3:27 | 2022-04-14 | 2022-05-13 |
 | [Come Fly with Me](https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Come Fly with Me](https://open.spotify.com/album/1a9XmKMYpi3XJAc626uqyY) | 3:31 | 2022-05-12 | 2022-09-23 |
 | [Comes Love](https://open.spotify.com/track/3vYbPjjemMP62On3l9bgwp) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Comes Love](https://open.spotify.com/album/4bTV5R6pKEHPRu6JQnHejU) | 3:42 | 2022-06-16 | 2022-10-21 |
@@ -190,6 +190,7 @@
 | [Not Time Yet](https://open.spotify.com/track/3uLk6WdVQnniPupmUkEBsW) | [Etienne Mbappe](https://open.spotify.com/artist/6PUayclLDBItmvqg63Ii9f), [Nec +](https://open.spotify.com/artist/0SBEIIMjlchzFyXhOFNgwg) | [Time Will Tell](https://open.spotify.com/album/1CARvS0Aw6kcWA9fwFx7tS) | 4:06 | 2022-04-14 | 2022-05-20 |
 | [Offering \- A COLORS SHOW](https://open.spotify.com/track/0kxDdCDxMbpNkdpw7AtajU) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Offering \- A COLORS SHOW](https://open.spotify.com/album/7jPjIloCzLLfYAgao6gf3a) | 3:08 | 2023-03-02 | 2023-06-16 |
 | [Oh Yeah](https://open.spotify.com/track/3HKwb6ONXlvLwBEolbJGpG) | [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw), [Tigre d'Eau Douce](https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k) | [Hymne au soleil](https://open.spotify.com/album/0mPyzBDNSZqBwiDYD8YAkH) | 3:40 | 2022-04-14 | 2022-06-17 |
+| [Old Devil Moon](https://open.spotify.com/track/1U5TcgQFBoAei2b82uQCOe) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:19 | 2023-06-29 |  |
 | [Ole & Gard](https://open.spotify.com/track/1Fv1UgZHUGgwB3bicHBrz8) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Ole & Gard](https://open.spotify.com/album/6LbRF2pLgAIl7prGqJjwvi) | 6:33 | 2023-06-01 |  |
 | [On Green Dolphin Street](https://open.spotify.com/track/0MHAUC8TiE8lD8ciIZ9Zga) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Blue Skies](https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum) | 3:04 | 2022-05-19 | 2022-06-24 |
 | [Ondes of Chakras](https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Ondes of chakras](https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ) | 6:17 | 2022-11-17 | 2023-02-10 |

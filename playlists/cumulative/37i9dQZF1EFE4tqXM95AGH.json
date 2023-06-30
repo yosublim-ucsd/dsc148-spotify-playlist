@@ -2801,6 +2801,24 @@
     },
     {
       "album": {
+        "name": "To Fall Asleep",
+        "url": "https://open.spotify.com/album/4zst0WAtcY1VwixfMox4jB"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198853,
+      "name": "The Way It Felt To Love You",
+      "url": "https://open.spotify.com/track/3fiMdp5V5W07qJQs29nZZU"
+    },
+    {
+      "album": {
         "name": "The Wrong Party (with Fitz and The Tantrums)",
         "url": "https://open.spotify.com/album/7d93DGgzIxU4mP3V71xO7D"
       },

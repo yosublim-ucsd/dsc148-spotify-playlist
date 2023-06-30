@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: DURDN
 
-934 songs - 2 day 9 hr 33 min
+936 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Bakemono no Hanashi](https://open.spotify.com/track/4RMXwdVJ4rNwsXravMnTxk) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Bakemono no Hanashi](https://open.spotify.com/album/4ZBKVAEsiMwctHwoaU1qaj) | 3:25 | 2022-11-30 | 2023-02-15 |
 | [Bankroll](https://open.spotify.com/track/1SPqbcSQ1YwORDxbZCouco) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Bankroll](https://open.spotify.com/album/3C5ywR5fla0iOLyoyBXqKj) | 2:44 | 2022-09-13 | 2022-10-05 |
 | [because](https://open.spotify.com/track/1IHIdlAm1CyHp9uUrPkYPW) | [キズナ](https://open.spotify.com/artist/3ivoNDU9tOTa2R7XqiIFFk) | [because](https://open.spotify.com/album/3plPzN3X1JvuC9FENL0my9) | 3:36 | 2022-08-02 | 2022-08-26 |
+| [BETTY](https://open.spotify.com/track/1sZMEQ5l9HCmasdqtxd5hY) | [Takumadrops](https://open.spotify.com/artist/469no6YyPirEUGHqqqyINS) | [BETTY](https://open.spotify.com/album/2R4WxFjANEHlSQ1X3abj6N) | 4:19 | 2023-06-29 |  |
 | [Beyond the Night](https://open.spotify.com/track/7i45z8apd5WcInB0Ks07NC) | [Taketombo](https://open.spotify.com/artist/2a0Pq2wS2V2vWb52JWR7JW) | [Beyond the Night](https://open.spotify.com/album/6E6CLind3kGwGWeLTbUkK6) | 4:14 | 2023-02-14 | 2023-03-01 |
 | [BIG DEAL](https://open.spotify.com/track/3ICrBVPNnJT8KENosRF0Ct) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [BIG DEAL](https://open.spotify.com/album/0d4l7nfjG9MlOy91wYnsHa) | 2:26 | 2022-06-14 | 2022-07-08 |
 | [Bilinda](https://open.spotify.com/track/36eaAzSQ3TMeHcBX6VTZSu) | [Kamisado](https://open.spotify.com/artist/31toAXsLvxrAjkhUUHHT1t) | [our city dawning](https://open.spotify.com/album/0EQl38E3PHGahOFeJlnAUb) | 3:13 | 2022-06-14 | 2022-07-15 |
@@ -236,7 +237,7 @@
 | [In Our Town \(Machi no Thema\)](https://open.spotify.com/track/6ySroP2ie6CIR97pfrE671) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [In Our Town \(Machi no Thema\)](https://open.spotify.com/album/5VgaypCI4Tq6lFgmVAPOiA) | 3:33 | 2022-09-13 | 2022-09-28 |
 | [Indie Slime](https://open.spotify.com/track/40cN265DZzEX7gg4jPU6SQ) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [PARKGOLF](https://open.spotify.com/artist/56oGj3qZcyqRZkHL4IrMz9) | [Indie Slime](https://open.spotify.com/album/1JNqR6Octbf9QtuD9zlOOh) | 2:25 | 2022-08-16 | 2022-10-12 |
 | [Inori Dake Ga Aru \(déconstructed\)](https://open.spotify.com/track/199dDPGhId0gplcl7Q674g) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Inori Dake Ga Aru \(déconstructed\)](https://open.spotify.com/album/7JHoUlbzIjUq9eGvldUBe3) | 4:50 | 2023-01-12 | 2023-02-02 |
-| [instability boy](https://open.spotify.com/track/3wIvBFccIp5N08GcW9sV2O) | [push pull pot](https://open.spotify.com/artist/0777DLWkvCQkjaokIVNOEq) | [instability boy](https://open.spotify.com/album/7qw77NVxSekqWsy0hNectt) | 3:11 | 2023-05-23 |  |
+| [instability boy](https://open.spotify.com/track/3wIvBFccIp5N08GcW9sV2O) | [push pull pot](https://open.spotify.com/artist/0777DLWkvCQkjaokIVNOEq) | [instability boy](https://open.spotify.com/album/7qw77NVxSekqWsy0hNectt) | 3:11 | 2023-05-23 | 2023-06-30 |
 | [ITSUKA](https://open.spotify.com/track/5VmFkO55CHVLQyx0aRlaHC) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [ITSUKA](https://open.spotify.com/album/21pGZoVlohOg9S73qgIsOW) | 4:23 | 2022-11-30 | 2023-01-13 |
 | [Jubilee](https://open.spotify.com/track/4GvzdbMFTbxMavCVbE9yF2) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Life Is Beautiful](https://open.spotify.com/album/6n8QbQQAamira9hPwP1URm) | 3:48 | 2022-05-10 | 2022-05-18 |
 | [Just Wanna Live It Up](https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Just Wanna Live It Up](https://open.spotify.com/album/0ZovDMTQVxsIrCBffLVH49) | 4:46 | 2023-04-04 | 2023-05-17 |
@@ -268,7 +269,7 @@
 | [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 | 2023-06-08 | 2023-06-28 |
 | [Leave me alone](https://open.spotify.com/track/21ISwJKtTBq7xFKxDIfoQ2) | [D.Y.T](https://open.spotify.com/artist/7d4hOy3dp0h9hOWxnraCQY) | [Leave me alone](https://open.spotify.com/album/2pWGr0HKrHmrNZe1oevebe) | 2:51 | 2022-07-26 | 2022-07-29 |
 | [Leave me alone](https://open.spotify.com/track/2GvJFQIbuefTikZwFQw2yB) | [D.Y.T](https://open.spotify.com/artist/7d4hOy3dp0h9hOWxnraCQY) | [Leave me alone](https://open.spotify.com/album/7EpGO4JH8L51qqDdxLKIIW) | 2:51 | 2022-07-28 | 2022-08-17 |
-| [Legit Soul](https://open.spotify.com/track/2iCz8FwmzC6BZlt2FHqFrc) | [楓](https://open.spotify.com/artist/0L8NJHQYHpLt05yuyEUOlf) | [Legit Soul](https://open.spotify.com/album/6wrAech1TtN0JNVOLVeAFo) | 3:12 | 2023-05-30 |  |
+| [Legit Soul](https://open.spotify.com/track/2iCz8FwmzC6BZlt2FHqFrc) | [楓](https://open.spotify.com/artist/0L8NJHQYHpLt05yuyEUOlf) | [Legit Soul](https://open.spotify.com/album/6wrAech1TtN0JNVOLVeAFo) | 3:12 | 2023-05-30 | 2023-06-30 |
 | [lien](https://open.spotify.com/track/2v98sRbseSHCUYbH0bJkZR) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/0FtqmB9RvzPiBApNH4MPrt) | 3:29 | 2022-12-13 | 2023-01-13 |
 | [lien](https://open.spotify.com/track/4G1cGMc2EtRGwzDXHwJPnL) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/7vBnslfLvLLfDFG0awdRDF) | 3:29 | 2022-12-13 | 2022-12-15 |
 | [Lifetime](https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Lifetime](https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg) | 3:23 | 2023-02-01 | 2023-03-22 |
@@ -608,6 +609,7 @@
 | [ただ、眺めている \- 2022 ver.](https://open.spotify.com/track/1PTRtGiTMEWvhPy3SSER1p) | [髙橋多聞](https://open.spotify.com/artist/71GnUG4fPTeVn1h7PwUbNs) | [ただ、眺めている \(2022 ver.\)](https://open.spotify.com/album/746J5Kq6pQmR6COsAKVx1E) | 3:49 | 2022-05-17 | 2022-06-01 |
 | [ちゅー2](https://open.spotify.com/track/5NlIcoGlcsCvT2L2gjiZl0) | [明るい赤ちゃん](https://open.spotify.com/artist/4XU1iGcrARM9uqtvGoGuER) | [ちゅー2](https://open.spotify.com/album/0bSqRfuJfSto5XznsIVjw3) | 2:33 | 2023-04-04 | 2023-04-19 |
 | [とりとめもなく](https://open.spotify.com/track/3HlG8qaLe6CurV3AoFgzrs) | [SPRINGMAN](https://open.spotify.com/artist/4LZ9A4yEqrFENhEVdzyPi8) | [とりとめもなく](https://open.spotify.com/album/7ol3aw2wOOL9hAXbQVOcRc) | 3:58 | 2023-05-16 | 2023-06-28 |
+| [とんぼ玉。](https://open.spotify.com/track/2IJ3Pt1bSxifAaFtNuxZeJ) | [近石涼](https://open.spotify.com/artist/0ZjetwSL2QOrWNJmMhl6AV) | [とんぼ玉。](https://open.spotify.com/album/5LlbA6Chr7ulmyhJiuTF0F) | 3:51 | 2023-06-29 |  |
 | [どうでもよくなれ](https://open.spotify.com/track/1HloaDHtP0xBQOsG7iUdX0) | [anewhite](https://open.spotify.com/artist/1t3Ztvll4l7XhrpkePZKfM) | [どうでもよくなれ](https://open.spotify.com/album/2KRvTKJjSSuSIxyfqzvtj7) | 3:27 | 2023-03-07 | 2023-03-29 |
 | [どぎまぎ](https://open.spotify.com/track/27wRgdpVu61YL1LJq5H6dZ) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Branch](https://open.spotify.com/album/6Slv8BDdb7322gk9MghxHb) | 3:35 | 2022-12-20 | 2023-02-22 |
 | [なんてったっけタイトル](https://open.spotify.com/track/20rrZeWHRaGY8iGx4WDJgU) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [なんてったっけタイトル](https://open.spotify.com/album/3I2d15qzktWcG6itZBZPuE) | 2:45 | 2023-06-27 |  |

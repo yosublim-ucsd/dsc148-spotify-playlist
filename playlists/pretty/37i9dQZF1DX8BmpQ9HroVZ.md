@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,444 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,524 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 64 | [Deja Vu](https://open.spotify.com/track/7bKTdSFy3wprMHMRxGcxSR) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Ziggy Bonafide](https://open.spotify.com/artist/776GUqSRgbmdcDvpnmtfdr) | [Deja Vu](https://open.spotify.com/album/58DxQJGOJI8GLWqLNOVswH) | 2:50 |
 | 65 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 |
 
-Snapshot ID: `MCwwMjM0NmVhMDQxYzlmYmVjNDgyNWIxOGZhMTM0NjgwZDg5YzYzMDE0`
+Snapshot ID: `MCxhMmFmMWUzNTg3MmYwOTJjOWUwNDUzMGJmOTgwNTE5YTVkYWM1N2Jl`

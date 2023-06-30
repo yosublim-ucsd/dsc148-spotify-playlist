@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-123 songs - 7 hr 22 min
+124 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dooram](https://open.spotify.com/track/2XU0F3MuaqimD5RJkTaNUw) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt), [Sumukh VR](https://open.spotify.com/artist/4lDFMBYjSpzl8vDN6ooJds) | [Dooram](https://open.spotify.com/album/21KF0H2k3tSylln8od9TnA) | 3:47 | 2023-03-31 |  |
 | [Drunkard On The Road](https://open.spotify.com/track/7t7nXXkHjaReVvr9plCax3) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Drunkard On The Road](https://open.spotify.com/album/5FVbWIhlp7LSJz08VT08PS) | 2:26 | 2023-02-15 | 2023-05-23 |
 | [Emone](https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Emone](https://open.spotify.com/album/2WcXXGGJiY1ID6JsVx2c1f) | 5:28 | 2023-02-02 |  |
+| [FLYHIGH](https://open.spotify.com/track/0U0iKIRF1TlNbl12VulMN5) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [FLYHIGH](https://open.spotify.com/album/5ZId7XjlQ5Wh8PpgfVLrVR) | 3:55 | 2023-06-29 |  |
 | [Friendship Song \- Idhi Sneham, From "Ginna"](https://open.spotify.com/track/3jkbTIzLRyeFzBE5B0L1xK) | [Ariaana Manchu](https://open.spotify.com/artist/6NgAnOgY6uNLCWEdghi7jZ), [Viviana Manchu](https://open.spotify.com/artist/4qJ2VRqBg8YHSURZcx0QuS), [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Friendship Song \(Idhi Sneham, From "Ginna"\)](https://open.spotify.com/album/7njwrgvR9JWSzB0rv56g5U) | 3:55 | 2022-07-26 | 2023-05-23 |
 | [Gandhari](https://open.spotify.com/track/50oVNoFryWIEFQQU9eRI10) | [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Gandhari](https://open.spotify.com/album/3WFeC1wIQmdwqtwlCQheQ1) | 3:18 | 2022-07-18 | 2023-05-23 |
 | [Gangulu](https://open.spotify.com/track/7w8FMDcDJcDWAw5UKXc2j7) | [Swaraag Keerthan](https://open.spotify.com/artist/6uWcaIloiXIyWBb7oarvQL), [Maanas Nagulapalli](https://open.spotify.com/artist/3Z1VqKNAJK5rGo7W3KLjug) | [Gangulu](https://open.spotify.com/album/2hHcr0nl2jAghYNbqqn6cg) | 3:06 | 2023-04-13 |  |

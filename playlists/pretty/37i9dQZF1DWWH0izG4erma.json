@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: Pecos & the Rooftops",
-  "num_followers": 537340,
+  "num_followers": 537480,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDdkZjFiZGJjYTU1OTBkODA3M2I0MDFiNzcxNzFiZTBhYTg0NThl",
+  "snapshot_id": "MCxmZmNlMTJkMjE3YmQ3NTdlZjZmMjY1MjcyNzgwZTBhM2Y1MmM1ZWVj",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "High Time",
-        "url": "https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn"
+        "name": "Pecos & the Rooftops",
+        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
         }
       ],
-      "duration_ms": 234848,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
+      "duration_ms": 246478,
+      "name": "She Says",
+      "url": "https://open.spotify.com/track/1gMN8njDgOlHq8xtGVKQXK"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1435,6 +1435,22 @@
       "duration_ms": 219000,
       "name": "Same Damn Kid",
       "url": "https://open.spotify.com/track/0Ckrx7eY7gK1S0FLaxLRjW"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "High Time",
+        "url": "https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 234848,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1459,22 +1475,6 @@
       "duration_ms": 207229,
       "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
       "url": "https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Pecos & the Rooftops",
-        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 246478,
-      "name": "She Says",
-      "url": "https://open.spotify.com/track/1gMN8njDgOlHq8xtGVKQXK"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "By Now",
-        "url": "https://open.spotify.com/album/3JwPrJgE6Ev6zJdsIYXCD4"
-      },
-      "artists": [
-        {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
-        }
-      ],
-      "duration_ms": 200515,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/5O3YFgx7m0geCKzzo7PjA0"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "The Wolf",
         "url": "https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 337239,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "By Now",
+        "url": "https://open.spotify.com/album/3JwPrJgE6Ev6zJdsIYXCD4"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "duration_ms": 200515,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/5O3YFgx7m0geCKzzo7PjA0"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Devil I Know",
-        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "The Devil I Know",
-      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Black Powder Soul",
         "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 216153,
       "name": "Black Powder Soul",
       "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "The Devil I Know",
+      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
     }
   ],
   "unique_name": "Country Rocks",

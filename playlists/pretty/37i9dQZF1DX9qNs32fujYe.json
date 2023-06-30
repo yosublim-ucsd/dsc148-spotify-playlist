@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Elegant Weapons",
-  "num_followers": 1118506,
+  "num_followers": 1118937,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmNlNGVlZjc5OTNiOTc0YTQ0YWZjZTJlMTFlNzcxMDQ0YmU4YzY5",
+  "snapshot_id": "MCxmOGI4NDYyZjhjMTUxMzA1YTYxYTY4YTQxN2ZhODk3ZjgyNTUxODdl",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "We Love You",
-        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 375026,
-      "name": "We Love You",
-      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Gathering",
         "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Balls To The Wall",
-        "url": "https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN"
+        "name": "We Love You",
+        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
       },
       "artists": [
         {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 342600,
-      "name": "Balls to the Wall",
-      "url": "https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A"
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 368506,
       "name": "Highway Star",
       "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Balls To The Wall",
+        "url": "https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 342600,
+      "name": "Balls to the Wall",
+      "url": "https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "From Hell With Love",
-        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 235295,
-      "name": "From Hell With Love",
-      "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Breaking the Chains",
         "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 231693,
       "name": "Breaking the Chains",
       "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "From Hell With Love",
+        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "duration_ms": 235295,
+      "name": "From Hell With Love",
+      "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+        "name": "Dark Connection",
+        "url": "https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
         }
       ],
-      "duration_ms": 396293,
-      "name": "If Darkness Had a Son",
-      "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
+      "duration_ms": 338760,
+      "name": "Moonlight Rendezvous",
+      "url": "https://open.spotify.com/track/6P5Ma1HFYDsgOpLaGu6Jkz"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Dark Connection",
-        "url": "https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux"
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
       "artists": [
         {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 338760,
-      "name": "Moonlight Rendezvous",
-      "url": "https://open.spotify.com/track/6P5Ma1HFYDsgOpLaGu6Jkz"
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Now, Diabolical",
-        "url": "https://open.spotify.com/album/5t5tP8dVwdyI8yTShWcIzX"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "K.I.N.G",
-      "url": "https://open.spotify.com/track/6IvxXL0dqXJlgIoIFfMqFA"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Atonement",
         "url": "https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 237115,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Now, Diabolical",
+        "url": "https://open.spotify.com/album/5t5tP8dVwdyI8yTShWcIzX"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "K.I.N.G",
+      "url": "https://open.spotify.com/track/6IvxXL0dqXJlgIoIFfMqFA"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2215,38 +2215,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sainted by the Storm",
-        "url": "https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Sainted by the Storm",
-      "url": "https://open.spotify.com/track/5zlUrvdz6o5tIC2bBg31iZ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 258325,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -2283,6 +2251,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Sainted by the Storm",
+        "url": "https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Sainted by the Storm",
+      "url": "https://open.spotify.com/track/5zlUrvdz6o5tIC2bBg31iZ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "The Book of Heavy Metal",
         "url": "https://open.spotify.com/album/6ZWMfxSgjm7dlS6jbypNDW"
       },
@@ -2315,6 +2299,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 258325,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Abrahadabra",
         "url": "https://open.spotify.com/album/1lAP0ZWj2nDXDHcChtDzSO"
       },
@@ -2327,22 +2327,6 @@
       "duration_ms": 310026,
       "name": "Gateways",
       "url": "https://open.spotify.com/track/5JxyDHWj4XMRgvuRzWd9JK"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Interludium (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6GT4LxMljVb8iEe4G3vgJk"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 238186,
-      "name": "Wolves Of War",
-      "url": "https://open.spotify.com/track/5ciIVxJBbI45h6wvLKxFT7"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2395,6 +2379,22 @@
       "duration_ms": 266427,
       "name": "A Thousand Shades (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Interludium (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6GT4LxMljVb8iEe4G3vgJk"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 238186,
+      "name": "Wolves Of War",
+      "url": "https://open.spotify.com/track/5ciIVxJBbI45h6wvLKxFT7"
     },
     {
       "added_at": "2023-05-26 04:00:00",

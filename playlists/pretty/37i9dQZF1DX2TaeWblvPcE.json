@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6824,
+  "num_followers": 6837,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mjk2MjI2YmU2YmQwNjQ0M2IxYWNmOWE3YmFkMGU2MjU2MjlhYTYx",
+  "snapshot_id": "MCw0ODYzNGU3NGU1MDgwYTUxYWVhYzc4Y2I3Yjk1ODY0YjNlM2E5NjQ2",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "A Poem a Day (tvN DRAMA) OST Part.12",
-        "url": "https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9"
-      },
-      "artists": [
-        {
-          "name": "Ha Yea Song",
-          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
-        }
-      ],
-      "duration_ms": 251483,
-      "name": "A Poem For Poetry - Instrumental",
-      "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Another Miss Oh (Original Television Soundtrack), Pt 2",
         "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 226715,
       "name": "Just Like a Dream (Inst.)",
       "url": "https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "A Poem a Day (tvN DRAMA) OST Part.12",
+        "url": "https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "duration_ms": 251483,
+      "name": "A Poem For Poetry - Instrumental",
+      "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "duration_ms": 322910,
-      "name": "Bae Bae x Loser",
-      "url": "https://open.spotify.com/track/0UFFqrDNF1uqO01n1NAqsv"
+      "duration_ms": 274917,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1356,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "duration_ms": 274917,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
+      "duration_ms": 322910,
+      "name": "Bae Bae x Loser",
+      "url": "https://open.spotify.com/track/0UFFqrDNF1uqO01n1NAqsv"
     },
     {
       "added_at": "2022-11-02 13:40:53",

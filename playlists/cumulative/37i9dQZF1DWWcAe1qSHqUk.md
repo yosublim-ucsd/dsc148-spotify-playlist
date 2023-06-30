@@ -4,7 +4,7 @@
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-112 songs - 7 hr 23 min
+113 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Este Seu Olhar](https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:32 | 2022-09-12 |  |
 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7hkel5OCjfRuN1j7DW2wxm) | [Kathleen Saadat](https://open.spotify.com/artist/564qZf8izrX2iWB532gVJu), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [Thomas Lauderdale](https://open.spotify.com/artist/6687FLqoLQQnLXQiBC7NxL) | [Love for Sale](https://open.spotify.com/album/2NQRFZ6kUkN35JuB8SeGM9) | 3:54 | 2022-09-12 | 2023-01-24 |
 | [Everything Happens To Me](https://open.spotify.com/track/5vuMHEDFESoAfjPvky4ReC) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [My Ideal \(A Tribute To Chet Baker Sings\)](https://open.spotify.com/album/3PcZxMEEWUlBhFWC9by2zW) | 3:06 | 2023-05-08 | 2023-05-30 |
-| [First Time Ever I Saw Your Face](https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r) | 3:22 | 2022-10-24 |  |
+| [First Time Ever I Saw Your Face](https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r) | 3:22 | 2022-10-24 | 2023-06-30 |
 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 | 2022-09-12 |  |
 | [Forbidden Fruit](https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr) | 3:16 | 2022-09-12 | 2022-11-17 |
 | [Full Moon](https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304), [chrln](https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg) | [Full Moon](https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM) | 2:01 | 2022-09-12 |  |
@@ -105,6 +105,7 @@
 | [There You Are \(Second Chance\)](https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:33 | 2022-09-12 |  |
 | [This Foolish Heart Could Love You](https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [This Foolish Heart Could Love You](https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2) | 3:32 | 2022-09-12 |  |
 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 | 2022-09-12 |  |
+| [To Have & To Hold](https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV) | [Heather Rigdon](https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT) | [Young & Naïve](https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa) | 3:51 | 2023-06-26 |  |
 | [Try Your Wings](https://open.spotify.com/track/7KxiNjobOAkn79QrqlNSYX) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 3:26 | 2022-09-26 | 2023-04-23 |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-09-12 | 2022-10-13 |
 | [Valentine](https://open.spotify.com/track/5cxeDbK7ZEefo866N1vE8m) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love \(Deluxe Edition\)](https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS) | 2:48 | 2022-10-31 | 2022-11-14 |

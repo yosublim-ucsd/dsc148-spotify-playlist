@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz",
-  "num_followers": 279953,
+  "num_followers": 280102,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODA0MDJjYmZlOWYyNGRlYjI4Yzk0N2E5YmRiNTJjMzkzMTgxNDY5",
+  "snapshot_id": "MCw0M2MxNGM3MWI0OWUyZjMyODBjZWY1ZmM1ZjFhYjEzODNlZGI1ZjE5",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Posturada",
+        "url": "https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        }
+      ],
+      "duration_ms": 176064,
+      "name": "Posturada",
+      "url": "https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Ei Amor",
         "url": "https://open.spotify.com/album/5gGGqa1ErhhqgU5s6wkEkQ"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 141354,
       "name": "Ei Amor",
       "url": "https://open.spotify.com/track/4rYXjKPAqlSR1pieRKXeQ9"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Posturada",
-        "url": "https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        }
-      ],
-      "duration_ms": 176064,
-      "name": "Posturada",
-      "url": "https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Vai e Vem",
+        "url": "https://open.spotify.com/album/3vuUwsHvXA6UfOWIIjpBZm"
+      },
+      "artists": [
+        {
+          "name": "Giana",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        }
+      ],
+      "duration_ms": 154060,
+      "name": "Vai e Vem",
+      "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Maloqueiro Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/7Bxps6gouwgh9yoUuDx78K"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 152842,
       "name": "Fui Eu",
       "url": "https://open.spotify.com/track/0WNvVEICbJHAqNzGFCDbGy"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Vai e Vem",
-        "url": "https://open.spotify.com/album/3vuUwsHvXA6UfOWIIjpBZm"
-      },
-      "artists": [
-        {
-          "name": "Giana",
-          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
-        }
-      ],
-      "duration_ms": 154060,
-      "name": "Vai e Vem",
-      "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2023-06-23 03:00:00",

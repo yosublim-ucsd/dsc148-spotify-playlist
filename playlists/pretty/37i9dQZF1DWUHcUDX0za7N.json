@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT?si=Lio3TRvZT262-3BFuFBXCw\"> Major AJ </a> and <a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=TQ2dWLOuSYaYmdlku-j7dQ\"> Blaqbonez </a> ",
-  "num_followers": 21365,
+  "num_followers": 21417,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDk4YTZkN2Y5ODhlNTA5N2JhMmQyMjQxOTBkMGYyN2U2ODAxNTZm",
+  "snapshot_id": "MCw3MzNjYTZlYjYzMDYzN2E5NjdkN2NhMGZhMThlY2QzYWZmOGRkNDYx",
   "tracks": [
     {
       "added_at": "2023-06-22 23:00:00",
@@ -691,18 +691,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Bad Persin",
-        "url": "https://open.spotify.com/album/1AK98K9ZlG6MozLWxNR2uX"
+        "name": "BACK IN UNI",
+        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
       "artists": [
         {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
-      "duration_ms": 205036,
-      "name": "Bad Persin",
-      "url": "https://open.spotify.com/track/5EMK0EERtn8qQw4Q5xM1cv"
+      "duration_ms": 150857,
+      "name": "BACK IN UNI",
+      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -723,22 +727,18 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "BACK IN UNI",
-        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
+        "name": "Bad Persin",
+        "url": "https://open.spotify.com/album/1AK98K9ZlG6MozLWxNR2uX"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
         }
       ],
-      "duration_ms": 150857,
-      "name": "BACK IN UNI",
-      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+      "duration_ms": 205036,
+      "name": "Bad Persin",
+      "url": "https://open.spotify.com/track/5EMK0EERtn8qQw4Q5xM1cv"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -779,6 +779,22 @@
       "duration_ms": 186906,
       "name": "My Bro",
       "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Commander",
+        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -911,18 +927,26 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Commander",
-        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
+        "name": "Young Preacher",
+        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
       },
       "artists": [
         {
           "name": "Blaqbonez",
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Commander",
-      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
+      "duration_ms": 181250,
+      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
+      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1011,6 +1035,26 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
+      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "High Tension 2.0",
         "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
       },
@@ -1095,6 +1139,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "OUTSIDE & PUT ON",
+        "url": "https://open.spotify.com/album/1FksGKiZFxrX7ScWKuIsPf"
+      },
+      "artists": [
+        {
+          "name": "Prince DeJersey",
+          "url": "https://open.spotify.com/artist/5ClHOjYPuxU64qFJb1VWWB"
+        }
+      ],
+      "duration_ms": 159576,
+      "name": "OUTSIDE",
+      "url": "https://open.spotify.com/track/0ykUFlFHvqShR6irBlS0IH"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
         "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
       },
@@ -1115,46 +1175,6 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Young Preacher",
-        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
-      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "OUTSIDE & PUT ON",
-        "url": "https://open.spotify.com/album/1FksGKiZFxrX7ScWKuIsPf"
-      },
-      "artists": [
-        {
-          "name": "Prince DeJersey",
-          "url": "https://open.spotify.com/artist/5ClHOjYPuxU64qFJb1VWWB"
-        }
-      ],
-      "duration_ms": 159576,
-      "name": "OUTSIDE",
-      "url": "https://open.spotify.com/track/0ykUFlFHvqShR6irBlS0IH"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1299,42 +1319,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
-      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Barawo",
-        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 229250,
-      "name": "Barawo",
-      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "All I Please",
         "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 237495,
       "name": "Na mumu dey love",
       "url": "https://open.spotify.com/track/0o5B6MU0IWSTjuHlU7o2fH"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Barawo",
+        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 229250,
+      "name": "Barawo",
+      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
     },
     {
       "added_at": "2023-06-22 23:00:00",

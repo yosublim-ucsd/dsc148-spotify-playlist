@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 253148,
+  "num_followers": 253528,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGQyYTExMzRiYjJjOWNlMDViNDI5NTAyZDUzZTg1MjNiYzE3MjUx",
+  "snapshot_id": "MCw2MTAyYWU1NTEyYTg1MGE1NjJlOTBmN2U2YzI3NzQ3YTFlM2MyYzZj",
   "tracks": [
     {
       "added_at": "2022-11-18 12:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 274320,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 248880,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 144013,
       "name": "Lightning Bolt",
       "url": "https://open.spotify.com/track/79DO6dBi8936P6EShLB209"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 248880,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Unbelievers",
-      "url": "https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 218600,
       "name": "Hot Blood",
       "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Unbelievers",
+      "url": "https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Now I'm In It - Bonus Track",
-      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "LA DIVINE",
         "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 214360,
       "name": "Love Is Mystical",
       "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Now I'm In It - Bonus Track",
+      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
     },
     {
       "added_at": "2022-11-18 12:00:00",

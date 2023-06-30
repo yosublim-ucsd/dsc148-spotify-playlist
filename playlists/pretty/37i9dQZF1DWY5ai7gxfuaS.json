@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 246026,
+  "num_followers": 246201,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2FkNjAyNGZhZDBlMDA2MzkxMzVhNjMzNjVmNGE4ZTQyODY4Nzhi",
+  "snapshot_id": "MCw0MzRhNDgyMzJhOTM5ODFjYjU3OWE3OWU0ZGQyOTYyYThhNTE3NWEw",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Cheaper Than Therapy",
-        "url": "https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb"
-      },
-      "artists": [
-        {
-          "name": "Kid Bookie",
-          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
-        },
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
-        }
-      ],
-      "duration_ms": 288002,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "All Fine / eniF llA",
         "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 217500,
       "name": "Puppet",
       "url": "https://open.spotify.com/track/7fFp5wxVb3oJxthl73J1pT"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Cheaper Than Therapy",
+        "url": "https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb"
+      },
+      "artists": [
+        {
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 288002,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Salma Hayek",
-        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 219630,
-      "name": "Salma Hayek",
-      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Caterpillar",
         "url": "https://open.spotify.com/album/1su4sMJNmHerXssClObphO"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 205200,
       "name": "Caterpillar",
       "url": "https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Salma Hayek",
+        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 219630,
+      "name": "Salma Hayek",
+      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Kosmik",
-        "url": "https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP"
-      },
-      "artists": [
-        {
-          "name": "Violet Cold",
-          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
-        }
-      ],
-      "duration_ms": 214250,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Blood Year",
         "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 393026,
       "name": "Arluck",
       "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Kosmik",
+        "url": "https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP"
+      },
+      "artists": [
+        {
+          "name": "Violet Cold",
+          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
+        }
+      ],
+      "duration_ms": 214250,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "ABEYANCE",
+        "url": "https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH"
+      },
+      "artists": [
+        {
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Satellites (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 447297,
       "name": "Black Brick",
       "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
-      },
-      "artists": [
-        {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
-        }
-      ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "ABEYANCE",
-        "url": "https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH"
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
       },
       "artists": [
         {
-          "name": "alt.",
-          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
         }
       ],
-      "duration_ms": 199240,
-      "name": "WRAITH",
-      "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "DIVINE DISINTEGRATION",
-        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
-      },
-      "artists": [
-        {
-          "name": "ghostofblu",
-          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "DIVINE DISINTEGRATION",
-      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "\u00c1mr",
         "url": "https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 293173,
       "name": "Arcana Imperii",
       "url": "https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "DIVINE DISINTEGRATION",
+        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
+      },
+      "artists": [
+        {
+          "name": "ghostofblu",
+          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "DIVINE DISINTEGRATION",
+      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
     },
     {
       "added_at": "2022-11-18 01:42:16",

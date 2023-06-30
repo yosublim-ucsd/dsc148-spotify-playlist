@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring DROELOE",
-  "num_followers": 755178,
+  "num_followers": 755294,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzEyZWRmNTE4N2MyZWU1MzBmZmM2MDAxYjQ5YWM3OWFjNjgwZTA2",
+  "snapshot_id": "MCw4Y2VhMjk2NTY5ZmYxMDhlNDUxOTZjMmQwNjJhODczNGI1MjFjNDFl",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Someone You Can Count On",
-        "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 173609,
-      "name": "Rewind.. (But I Love You)",
-      "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Someone You Can Count On",
+        "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 173609,
+      "name": "Rewind.. (But I Love You)",
+      "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "I like u (ELIO Remix)",
+        "url": "https://open.spotify.com/album/1nwUNgLVIXlYT7hCWqMrIY"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "duration_ms": 152557,
+      "name": "I like u (ELIO Remix)",
+      "url": "https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "AUTOPILOT",
         "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
       },
@@ -1155,26 +1175,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "I like u (ELIO Remix)",
-        "url": "https://open.spotify.com/album/1nwUNgLVIXlYT7hCWqMrIY"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 152557,
-      "name": "I like u (ELIO Remix)",
-      "url": "https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Windhorse",
         "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
       },
@@ -1191,6 +1191,26 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 231803,
+      "name": "I Can't Tell (feat. LAUREL)",
+      "url": "https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1219,22 +1239,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+        "name": "Uh Uh",
+        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
         },
         {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         }
       ],
-      "duration_ms": 231803,
-      "name": "I Can't Tell (feat. LAUREL)",
-      "url": "https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL"
+      "duration_ms": 193098,
+      "name": "Uh Uh",
+      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1319,26 +1339,6 @@
       "duration_ms": 204963,
       "name": "Thirst - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Uh Uh",
-        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        }
-      ],
-      "duration_ms": 193098,
-      "name": "Uh Uh",
-      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "Roniit",
-          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Exodia",
         "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 175357,
       "name": "Exodia",
       "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "Roniit",
+          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
+      },
+      "artists": [
+        {
+          "name": "KOAN Sound",
+          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
+        }
+      ],
+      "duration_ms": 272509,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n"
       },
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
-      },
-      "artists": [
-        {
-          "name": "KOAN Sound",
-          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
-        }
-      ],
-      "duration_ms": 272509,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Loner (Remixes)",
         "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
       },
@@ -1711,22 +1711,6 @@
       "duration_ms": 170095,
       "name": "Forever - Pauline Herr Rework",
       "url": "https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Run Away!",
-        "url": "https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "Run Away!",
-      "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1763,6 +1747,22 @@
       "duration_ms": 282000,
       "name": "Cosmopolitan",
       "url": "https://open.spotify.com/track/6oPoNJcfeXXBAjLwNmiVds"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Run Away!",
+        "url": "https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "Run Away!",
+      "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "2hard2letgo",
-        "url": "https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp"
-      },
-      "artists": [
-        {
-          "name": "helloworld",
-          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
-        }
-      ],
-      "duration_ms": 226950,
-      "name": "2hard2letgo",
-      "url": "https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "sedatives",
         "url": "https://open.spotify.com/album/4GGM10hPG0dbjmbFbHfWaf"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 165217,
       "name": "sedatives",
       "url": "https://open.spotify.com/track/6XMBQ2Dk9oQoXBfoI53Sqt"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "2hard2letgo",
+        "url": "https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "duration_ms": 226950,
+      "name": "2hard2letgo",
+      "url": "https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "Fuck Right Off",
+        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "duration_ms": 159252,
+      "name": "Fuck Right Off",
+      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "DOWN TO EARTH",
         "url": "https://open.spotify.com/album/7b17kpTR2gJGfsuMUicZrh"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 209500,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Fuck Right Off",
-        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
-      },
-      "artists": [
-        {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
-        }
-      ],
-      "duration_ms": 159252,
-      "name": "Fuck Right Off",
-      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/6KFMKCIu6X2rwPt8z29cp9"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3lur6dt8Y6z7BaiFQ9ymaN"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Ironheart (Polar Youth Remix)",
         "url": "https://open.spotify.com/album/19cjBBZTh2IX7yBnhRDcqB"
       },
@@ -2203,22 +2219,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/6KFMKCIu6X2rwPt8z29cp9"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 185777,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/3lur6dt8Y6z7BaiFQ9ymaN"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
         "url": "https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar"
       },
@@ -2231,6 +2231,26 @@
       "duration_ms": 292527,
       "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
       "url": "https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "duration_ms": 169003,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -2303,26 +2323,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        },
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        }
-      ],
-      "duration_ms": 169003,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "things i wanna text u",
         "url": "https://open.spotify.com/album/5893KtZcBOjUaqo1RuoRGt"
       },
@@ -2335,30 +2335,6 @@
       "duration_ms": 191999,
       "name": "sorry",
       "url": "https://open.spotify.com/track/3vAi1U6UfWgxkax9IzKGts"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Lights Out (Remix)",
-        "url": "https://open.spotify.com/album/6MaW5BIEjrRYJe1Zb424CC"
-      },
-      "artists": [
-        {
-          "name": "Taska Black",
-          "url": "https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3"
-        },
-        {
-          "name": "Alioth",
-          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
-        },
-        {
-          "name": "OSKI",
-          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Lights Out - Remix",
-      "url": "https://open.spotify.com/track/6gVpJ1C8NJTsSkJePxTh0n"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -2399,6 +2375,30 @@
       "duration_ms": 174926,
       "name": "Eyes Closed - Overmono Remix",
       "url": "https://open.spotify.com/track/0xlJ00P5pwPbzDYxsIGKZ4"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Lights Out (Remix)",
+        "url": "https://open.spotify.com/album/6MaW5BIEjrRYJe1Zb424CC"
+      },
+      "artists": [
+        {
+          "name": "Taska Black",
+          "url": "https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3"
+        },
+        {
+          "name": "Alioth",
+          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
+        },
+        {
+          "name": "OSKI",
+          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Lights Out - Remix",
+      "url": "https://open.spotify.com/track/6gVpJ1C8NJTsSkJePxTh0n"
     },
     {
       "added_at": "2023-06-23 04:01:00",

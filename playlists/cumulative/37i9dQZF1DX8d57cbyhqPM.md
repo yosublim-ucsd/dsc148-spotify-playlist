@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: LU KALA
 
-234 songs - 15 hr 2 min
+235 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Kita](https://open.spotify.com/track/0I4zmOt8SOMvMcJCB4YaIO) | [Djako](https://open.spotify.com/artist/6hJcwkxbYVPFDRZYFDuJv9), [Dé Panama](https://open.spotify.com/artist/3tv6rEIw6RVujaQZD6W6ca), [Gettss](https://open.spotify.com/artist/4bkTZCzXEVVHQ1cLmaYd1e) | [Kita](https://open.spotify.com/album/1KxMpI9xFDsrzQ3AXq9Mge) | 3:36 | 2022-08-05 | 2023-03-18 |
 | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/track/77HDy7Ns5VsRYttIbaTmtY) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/album/2Jis4aVlVx87Xc6Lmd3G1U) | 2:27 | 2022-07-15 | 2023-03-25 |
 | [Lakisa Photo’a Bae](https://open.spotify.com/track/4agVZjZqRIbyaXDRrROHxM) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Lakisa Photo’a Bae](https://open.spotify.com/album/09VNeekwCgaV3NVSJOl9f7) | 2:16 | 2022-09-23 | 2023-04-09 |
-| [Layla](https://open.spotify.com/track/0klmQDAOLoljdcwE1rkDB5) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/4g20c8SqGL2SSpKO7gZl1t) | 2:43 | 2023-06-23 |  |
+| [Layla](https://open.spotify.com/track/0klmQDAOLoljdcwE1rkDB5) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/4g20c8SqGL2SSpKO7gZl1t) | 2:43 | 2023-06-23 | 2023-06-30 |
+| [Layla \(Take Me On Your Way\)](https://open.spotify.com/track/75qhfaxUqXvOT5iVrS8G8H) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla \(Take Me On Your Way\)](https://open.spotify.com/album/61i6XhRYoDc4TgxZ120QXC) | 2:43 | 2023-06-23 |  |
 | [Legendary](https://open.spotify.com/track/128oY6xP0F8PDiPVFVUfka) | [IDPizzle](https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC) | [LEGENDARY](https://open.spotify.com/album/1guIFqEjlYrQSh1mXTt8w8) | 2:50 | 2023-06-09 |  |
 | [Lekela Muadi](https://open.spotify.com/track/6PLr81r85eFZMivn5aHrOh) | [Tshala Muana](https://open.spotify.com/artist/7Eg9NJC0jFmuEtqT1N5Bdv) | [Mutuashi](https://open.spotify.com/album/19mFwYhkUjh2t4D93W8os3) | 5:22 | 2023-01-27 | 2023-02-25 |
 | [Libanda](https://open.spotify.com/track/7lxzDgpOgHd8CETw86oXIg) | [Agressivo Nyandoro](https://open.spotify.com/artist/1E09SS6iKT5r8lDG0VdJOn) | [Libanda](https://open.spotify.com/album/5pZQrDVvODszoYNI2jtoZ2) | 2:14 | 2022-09-09 | 2023-01-28 |

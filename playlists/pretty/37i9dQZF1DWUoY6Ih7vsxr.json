@@ -1,12 +1,12 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 210727,
+  "num_followers": 210898,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjA5MGY0OTllNTUxYWEyODI4MzA2NTI0ZmUzZGQwOTIwMjlkM2My",
+  "snapshot_id": "MCw1ZTRiNGM3ZjdhNmRhZjdmMWJkMWNiOTU0YTQwMTM0Y2ZmNjU1ZTA5",
   "tracks": [
     {
       "added_at": "2022-04-19 07:27:57",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/5qleO7H9bcv7NSdrFwUO6v"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 226574,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/2Jj05yf4C9PWgH7xQuVNIm"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 222413,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5BGFEihEqSVBPWICqVnPIU"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/5qleO7H9bcv7NSdrFwUO6v"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 226574,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/2Jj05yf4C9PWgH7xQuVNIm"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "Just Listen.......",
-        "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
+        "name": "1:59PM",
+        "url": "https://open.spotify.com/album/3FlMNN4eJ1mGpw2EJqBHpG"
       },
       "artists": [
         {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+          "name": "2PM",
+          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
         }
       ],
-      "duration_ms": 246333,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
+      "duration_ms": 193398,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/1H7AvyWHYAYvbjFi1IVUhP"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
+        "name": "Just Listen.......",
+        "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
         "name": "GD&TOP",
         "url": "https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 186174,
       "name": "High High",
       "url": "https://open.spotify.com/track/00Luoss7SGaxzTEy94cfia"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
-        "name": "1:59PM",
-        "url": "https://open.spotify.com/album/3FlMNN4eJ1mGpw2EJqBHpG"
-      },
-      "artists": [
-        {
-          "name": "2PM",
-          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
-        }
-      ],
-      "duration_ms": 193398,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/1H7AvyWHYAYvbjFi1IVUhP"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
+        "name": "1:59PM",
+        "url": "https://open.spotify.com/album/3FlMNN4eJ1mGpw2EJqBHpG"
+      },
+      "artists": [
+        {
+          "name": "2PM",
+          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
+        }
+      ],
+      "duration_ms": 244300,
+      "name": "Again & Again",
+      "url": "https://open.spotify.com/track/1vt78A1ZPaMsAaJyyRRep6"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
         "name": "ROMAN",
         "url": "https://open.spotify.com/album/4UYktbMekvR3lyX6uHqHLU"
       },
@@ -1083,26 +1099,6 @@
       "duration_ms": 211811,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/4H3nLd4sDY2OBsugvJc0ql"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
-        "name": "GD&TOP",
-        "url": "https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F"
-      },
-      "artists": [
-        {
-          "name": "GD&TOP",
-          "url": "https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn"
-        },
-        {
-          "name": "Park Bom",
-          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
-        }
-      ],
-      "duration_ms": 195023,
-      "name": "Oh Yeah (Feat. Park Bom)",
-      "url": "https://open.spotify.com/track/2hn0s9jTuO4GqVAZboT7w8"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1139,34 +1135,38 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "1:59PM",
-        "url": "https://open.spotify.com/album/3FlMNN4eJ1mGpw2EJqBHpG"
+        "name": "GD&TOP",
+        "url": "https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F"
       },
       "artists": [
         {
-          "name": "2PM",
-          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
+          "name": "GD&TOP",
+          "url": "https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn"
+        },
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         }
       ],
-      "duration_ms": 244300,
-      "name": "Again & Again",
-      "url": "https://open.spotify.com/track/1vt78A1ZPaMsAaJyyRRep6"
+      "duration_ms": 195023,
+      "name": "Oh Yeah (Feat. Park Bom)",
+      "url": "https://open.spotify.com/track/2hn0s9jTuO4GqVAZboT7w8"
     },
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "It\u2019s",
-        "url": "https://open.spotify.com/album/2yLpZZ6W01CqesccYaxEkL"
+        "name": "Girl's Day Love Second Album",
+        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
       },
       "artists": [
         {
-          "name": "TEEN TOP",
-          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
         }
       ],
-      "duration_ms": 187506,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/7bayUG8A1EwRJRm6955F96"
+      "duration_ms": 198946,
+      "name": "Ring My Bell",
+      "url": "https://open.spotify.com/track/19euxgpVaBlvBOIRTLsgJQ"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "Girl's Day Love Second Album",
-        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
+        "name": "Still 2:00pm",
+        "url": "https://open.spotify.com/album/6XH7m1HAzuN8M9kL5g8Wq7"
       },
       "artists": [
         {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+          "name": "2PM",
+          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Ring My Bell",
-      "url": "https://open.spotify.com/track/19euxgpVaBlvBOIRTLsgJQ"
+      "duration_ms": 214478,
+      "name": "I'll Be Back",
+      "url": "https://open.spotify.com/track/4oI41JVdiftLlWKmwOtGye"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1235,82 +1235,18 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "Still 2:00pm",
-        "url": "https://open.spotify.com/album/6XH7m1HAzuN8M9kL5g8Wq7"
+        "name": "It\u2019s",
+        "url": "https://open.spotify.com/album/2yLpZZ6W01CqesccYaxEkL"
       },
       "artists": [
         {
-          "name": "2PM",
-          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
+          "name": "TEEN TOP",
+          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
         }
       ],
-      "duration_ms": 214478,
-      "name": "I'll Be Back",
-      "url": "https://open.spotify.com/track/4oI41JVdiftLlWKmwOtGye"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
-        "name": "SIXTH SENSE",
-        "url": "https://open.spotify.com/album/5QZs6z6IWgE5dj28fzfx47"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Sixth Sense",
-      "url": "https://open.spotify.com/track/2HT3UJvQ6Gz290CfYVxSLr"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
-        "name": "Jumping",
-        "url": "https://open.spotify.com/album/2qBs9GPXk8C28SXX2FOzh1"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 179053,
-      "name": "Jumping",
-      "url": "https://open.spotify.com/track/50TJXtdJhN2x6zxcp4pKZN"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
-        "name": "It B1A4",
-        "url": "https://open.spotify.com/album/4GcNaUPBrQkqgm31puP0wt"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 197468,
-      "name": "Beautiful Target",
-      "url": "https://open.spotify.com/track/6sECoPPkNmP6RIzYXEhvxA"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
-        "name": "Amigo - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/3iPBAfKqX3Kv7BTikuIg4K"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1ru2r3r1Njis2C4IbGzgfS"
+      "duration_ms": 187506,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7bayUG8A1EwRJRm6955F96"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1331,8 +1267,8 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+        "name": "SIXTH SENSE",
+        "url": "https://open.spotify.com/album/5QZs6z6IWgE5dj28fzfx47"
       },
       "artists": [
         {
@@ -1340,9 +1276,73 @@
           "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 203258,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt"
+      "duration_ms": 227866,
+      "name": "Sixth Sense",
+      "url": "https://open.spotify.com/track/2HT3UJvQ6Gz290CfYVxSLr"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "It B1A4",
+        "url": "https://open.spotify.com/album/4GcNaUPBrQkqgm31puP0wt"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 197468,
+      "name": "Beautiful Target",
+      "url": "https://open.spotify.com/track/6sECoPPkNmP6RIzYXEhvxA"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "Jumping",
+        "url": "https://open.spotify.com/album/2qBs9GPXk8C28SXX2FOzh1"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 179053,
+      "name": "Jumping",
+      "url": "https://open.spotify.com/track/50TJXtdJhN2x6zxcp4pKZN"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "Amigo - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/3iPBAfKqX3Kv7BTikuIg4K"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1ru2r3r1Njis2C4IbGzgfS"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "\uac78\uc2a4\ub370\uc774 \ubbf8\ub2c8\uc568\ubc94 3\uc9d1",
+        "url": "https://open.spotify.com/album/5BWQnM05wOeAX6twpqYSt5"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "duration_ms": 200705,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/0WZmmgDaXgwEUY66Js0Vo3"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "\uac78\uc2a4\ub370\uc774 \ubbf8\ub2c8\uc568\ubc94 3\uc9d1",
-        "url": "https://open.spotify.com/album/5BWQnM05wOeAX6twpqYSt5"
-      },
-      "artists": [
-        {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
-        }
-      ],
-      "duration_ms": 200705,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/0WZmmgDaXgwEUY66Js0Vo3"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
         "name": "O-\u6b63.\u53cd.\u5408. - The 3rd Album",
         "url": "https://open.spotify.com/album/2adPdNYrrTt2tIkthQN5ee"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 236512,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/2XXXPN8xMAR9kot7S0GLbE"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 203258,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "Rising Sun - 2nd Album",
-        "url": "https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR"
-      },
-      "artists": [
-        {
-          "name": "TVXQ!",
-          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
         "name": "Dejavu (Single)",
         "url": "https://open.spotify.com/album/2HpU5ApLkQsMwLnpsrSo5c"
       },
@@ -1523,22 +1507,6 @@
       "duration_ms": 212253,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/4Q4JDOphODwPg9QcFqiPyN"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1559,6 +1527,22 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
         "name": "Black & White",
         "url": "https://open.spotify.com/album/0bmc5WouIbima9CO2owVnw"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 208573,
       "name": "Black & White",
       "url": "https://open.spotify.com/track/3fvZGpslpQexu8e8AsKgCU"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "Rising Sun - 2nd Album",
+        "url": "https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR"
+      },
+      "artists": [
+        {
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"
     },
     {
       "added_at": "2022-04-19 07:27:57",

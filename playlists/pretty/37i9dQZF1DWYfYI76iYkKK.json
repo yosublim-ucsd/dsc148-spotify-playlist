@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 120622,
+  "num_followers": 120628,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjJkNjM3MWU4MjcyMDJkYjRjOWJlNzA0ZDUyMzhlZTJkMTQ4MDg0",
+  "snapshot_id": "MCw1YmUwNmFiYTViYjY1M2E2OTY4OGEzODllNTQ0NDZlZWM5YTliNWZm",
   "tracks": [
     {
       "added_at": "2023-06-22 16:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-06-22 16:00:00",
       "album": {
-        "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
-        "url": "https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK"
-      },
-      "artists": [
-        {
-          "name": "G.E.M.",
-          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
-        }
-      ],
-      "duration_ms": 200287,
-      "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
-      "url": "https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh"
-    },
-    {
-      "added_at": "2023-06-22 16:00:00",
-      "album": {
         "name": "\u623f\u9593\u88e1\u7684\u5927\u8c61",
         "url": "https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 205371,
       "name": "\u6b63\u60f3\u8457\u4f60\u5462",
       "url": "https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry"
+    },
+    {
+      "added_at": "2023-06-22 16:00:00",
+      "album": {
+        "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
+        "url": "https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "duration_ms": 200287,
+      "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
+      "url": "https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh"
     },
     {
       "added_at": "2023-06-22 16:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-22 16:00:00",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
-    },
-    {
-      "added_at": "2023-06-22 16:00:00",
-      "album": {
         "name": "\u7121\u4eba\u77e5\u66c9",
         "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 270600,
       "name": "\u7686\u53ef",
       "url": "https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR"
+    },
+    {
+      "added_at": "2023-06-22 16:00:00",
+      "album": {
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "\u7aca\u7b11",
+      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
     },
     {
       "added_at": "2023-06-22 16:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-22 16:00:00",
       "album": {
-        "name": "Live House",
-        "url": "https://open.spotify.com/album/4htEin94qouEbMiIyjoEb8"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 187820,
-      "name": "Live House",
-      "url": "https://open.spotify.com/track/2EGkI1OjdEIwPc9TOfzdlq"
-    },
-    {
-      "added_at": "2023-06-22 16:00:00",
-      "album": {
         "name": "T.I.A.",
         "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 234828,
       "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
       "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
+    },
+    {
+      "added_at": "2023-06-22 16:00:00",
+      "album": {
+        "name": "Live House",
+        "url": "https://open.spotify.com/album/4htEin94qouEbMiIyjoEb8"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 187820,
+      "name": "Live House",
+      "url": "https://open.spotify.com/track/2EGkI1OjdEIwPc9TOfzdlq"
     },
     {
       "added_at": "2023-06-22 16:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-06-22 16:00:00",
       "album": {
-        "name": "\u84cb\u4e16\u82f1\u96c4",
-        "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
+        "name": "\u9081\u5411\u4e09\u5341",
+        "url": "https://open.spotify.com/album/6YSN8SAy8PP37XJSmoJqAw"
       },
       "artists": [
         {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
         }
       ],
-      "duration_ms": 286733,
-      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
-      "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
+      "duration_ms": 227375,
+      "name": "\u6703\u4e0d\u6703 - \u4e0d\u63d2\u96fb\u7248",
+      "url": "https://open.spotify.com/track/7M44HWQrqgjMOfvS1LJ4Sh"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

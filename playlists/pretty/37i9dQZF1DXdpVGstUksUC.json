@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 514873,
+  "num_followers": 515160,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWY5ZjdhZDM3YWU4ODJlNjc5MTAyZTAxOTVjZjU1MGMyZDUwNDU2",
+  "snapshot_id": "MCw2ZWVhNTUyYzU1MmIxM2UyOTg1ZTM5MWE0MTZjMzljMGQ2NDZlNzJh",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Godzilla's / Eatin' Dust",
-        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
+        "name": "Nola",
+        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
       },
       "artists": [
         {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Eatin' Dust",
-      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
+      "duration_ms": 424000,
+      "name": "Bury Me in Smoke",
+      "url": "https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Nola",
-        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
+        "name": "Godzilla's / Eatin' Dust",
+        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
       },
       "artists": [
         {
-          "name": "DOWN",
-          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
         }
       ],
-      "duration_ms": 424000,
-      "name": "Bury Me in Smoke",
-      "url": "https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb"
+      "duration_ms": 190800,
+      "name": "Eatin' Dust",
+      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
       "artists": [
         {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
         }
       ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
+      "duration_ms": 356200,
+      "name": "Supa Scoopa and Mighty Scoop",
+      "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -503,22 +503,6 @@
       "duration_ms": 352440,
       "name": "Song For The Dead",
       "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Supa Scoopa and Mighty Scoop",
-      "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 449946,
       "name": "Desert Cruiser",
       "url": "https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
-      },
-      "artists": [
-        {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
-        }
-      ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "GAUPA",
         "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 352073,
       "name": "Elk.Blood.Heart",
       "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
+      },
+      "artists": [
+        {
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
+        }
+      ],
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Gateway",
-        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
-      },
-      "artists": [
-        {
-          "name": "Bongzilla",
-          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Greenthumb",
-      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Old Growth",
         "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 256959,
       "name": "What Needs Must Be",
       "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Gateway",
+        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
+      },
+      "artists": [
+        {
+          "name": "Bongzilla",
+          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Greenthumb",
+      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "No Comfort",
-        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
-      },
-      "artists": [
-        {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
-        }
-      ],
-      "duration_ms": 314656,
-      "name": "The Last Leaf",
-      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 360800,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "No Comfort",
+        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 314656,
+      "name": "The Last Leaf",
+      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1159,22 +1159,6 @@
       "duration_ms": 389466,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Head Smashed In",
-        "url": "https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw"
-      },
-      "artists": [
-        {
-          "name": "We Hunt Buffalo",
-          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
-        }
-      ],
-      "duration_ms": 290965,
-      "name": "Heavy Low",
-      "url": "https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1339,22 +1323,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Acid Roulette",
-        "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
-      },
-      "artists": [
-        {
-          "name": "Scorpion Child",
-          "url": "https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys"
-        }
-      ],
-      "duration_ms": 349466,
-      "name": "Acid Roulette",
-      "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Into Submission",
         "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
@@ -1367,6 +1335,22 @@
       "duration_ms": 267493,
       "name": "Superhuman God",
       "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Acid Roulette",
+        "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
+      },
+      "artists": [
+        {
+          "name": "Scorpion Child",
+          "url": "https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys"
+        }
+      ],
+      "duration_ms": 349466,
+      "name": "Acid Roulette",
+      "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 332120,
       "name": "Rattle",
       "url": "https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
+        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 221033,
+      "name": "Slaughter Beach",
+      "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
     }
   ],
   "unique_name": "Stoner Rock",

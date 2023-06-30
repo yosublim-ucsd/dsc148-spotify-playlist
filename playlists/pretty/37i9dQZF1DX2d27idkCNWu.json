@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 262158,
+  "num_followers": 262191,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjBkYzdkYjAyMWM3ODUwNDNkNmEwYTI1MzU4YTQwZTQ5OTlmNzU4",
+  "snapshot_id": "MCxiZWUzMjg4OWMwMWIzMWMxZWJhNjJmNzZhMzcxYzM2ODhhZDE3MTU5",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 149233,
-      "name": "I Ain\u2019t Worried - Acoustic",
-      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 232837,
       "name": "when the party's over - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 149233,
+      "name": "I Ain\u2019t Worried - Acoustic",
+      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 225790,
-      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Let Yourself In",
         "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 182906,
       "name": "Nothing But a Song - Bonus Acoustic Version",
       "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 225790,
+      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
-        "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "South of the Border (feat. Camila Cabello) - Acoustic",
-      "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Human Nature (Acoustic)",
         "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
       },
@@ -871,6 +851,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Crazy in Love",
+        "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
+      },
+      "artists": [
+        {
+          "name": "Rio Bossa Trio",
+          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
+        }
+      ],
+      "duration_ms": 218528,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
@@ -887,6 +883,26 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
+        "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "South of the Border (feat. Camila Cabello) - Acoustic",
+      "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 246000,
       "name": "If I Ain't Got You - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/2QcuQQRX2P0bhZcs861SJY"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Crazy in Love",
-        "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
-      },
-      "artists": [
-        {
-          "name": "Rio Bossa Trio",
-          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
-        }
-      ],
-      "duration_ms": 218528,
-      "name": "Crazy in Love",
-      "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Burning - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 313520,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Burning - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "Elastic Heart - Live from The Village",
-      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 213542,
       "name": "More Than Words - Spotify Singles",
       "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "Elastic Heart - Live from The Village",
+      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Pointless (Strings Acoustic)",
         "url": "https://open.spotify.com/album/102iyvAz8Z5WnUZUlFN6Mi"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 240238,
       "name": "Pointless - Strings Acoustic",
       "url": "https://open.spotify.com/track/27tnkW0WtnEFj4kmMV4DbF"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2023-05-26 03:00:00",

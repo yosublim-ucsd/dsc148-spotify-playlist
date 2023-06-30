@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-218 songs - 13 hr 51 min
+219 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 | 2022-01-24 |  |
 | [Start The Healing](https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:28 | 2023-01-03 |  |
 | [Still Counting](https://open.spotify.com/track/4ehFuOQd4GaJp08kNvMR3z) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2BqLW9LGoxfwRCn1hP5vOq) | 4:21 | 2022-01-24 |  |
+| [Storm Before The Calm \(feat\. DMC of Run\-D.M.C.\)](https://open.spotify.com/track/2np8CDTbdwijM9Bvv3rPCd) | [Classless Act](https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1), [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [DMC](https://open.spotify.com/artist/0TIHoznszlOjqLNkuK6l42) | [Storm Before The Calm \(feat\. DMC of Run\-D.M.C.\)](https://open.spotify.com/album/0TLp9l9dS9euALXd3leck0) | 3:45 | 2023-06-29 |  |
 | [Straight Jacket](https://open.spotify.com/track/3tMELHc8vx3wdlXardClYj) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Straight Jacket](https://open.spotify.com/album/2Zgodbk1funlhzBmMTlA0N) | 4:00 | 2021-08-20 |  |
 | [Stupify](https://open.spotify.com/track/54cWVWqgyFukgDKQYmaKM3) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:34 | 2021-08-20 |  |
 | [Survivor](https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Survivor](https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs) | 3:13 | 2023-02-22 |  |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-508 songs - 1 day 5 hr 38 min
+509 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Haze](https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Haze](https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ) | 4:36 | 2022-09-28 | 2022-12-01 |
 | [Heartbeat](https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Heartbeat](https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8) | 3:13 | 2022-08-30 | 2022-11-03 |
 | [Here For Now](https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Here For Now](https://open.spotify.com/album/2imHKzs8s94B6vGL0DTtlf) | 3:49 | 2022-08-11 | 2022-10-25 |
+| [Hero](https://open.spotify.com/track/0gU1afVwFWTspbHNot3yLa) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Hero](https://open.spotify.com/album/5All8BvGGdApHlpnuELjmP) | 3:18 | 2023-06-29 |  |
 | [Higher Ground](https://open.spotify.com/track/2adNW24fEA2QaP7uc7pFl7) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Higher Ground \(Part 2\)](https://open.spotify.com/album/5qNseEHrO1JH7H8iDVm3J6) | 3:21 | 2023-03-02 | 2023-05-30 |
 | [Higher Peaks](https://open.spotify.com/track/1PpLf7d6YnJ4SyjqmXR5VG) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Higher Peaks](https://open.spotify.com/album/0jGDUCzOBcximXf2HnHfuv) | 5:07 | 2022-06-10 | 2022-08-23 |
 | [Hit My Line](https://open.spotify.com/track/30CCIjlZ9vSb6ZTDwlEUZX) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Hit My Line](https://open.spotify.com/album/1jsCz6z1vazhH54A8z88gS) | 2:35 | 2023-01-31 | 2023-04-18 |
@@ -436,7 +437,7 @@
 | [Take Me Away](https://open.spotify.com/track/3AqelM2KUTUGUOgqPIpegG) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA), [Meredith Bull](https://open.spotify.com/artist/7qZdPKLV8xVaqsV98Dz9or) | [Take Me Away](https://open.spotify.com/album/5w1SO7iTkO8XjBhwUOi68j) | 3:37 | 2022-06-29 | 2022-09-10 |
 | [Take Me Into Space](https://open.spotify.com/track/7fyOoDZjardzxtHszeAtz3) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO) | [Take Me Into Space](https://open.spotify.com/album/3gep8PSYHoNtjx05xWCN6N) | 3:01 | 2023-01-17 | 2023-03-31 |
 | [Talk To Me](https://open.spotify.com/track/1HTAiaEhm1ASBdfku96IUF) | [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Talk To Me](https://open.spotify.com/album/4lXG5SZAxBlwZGD13ePprM) | 4:07 | 2022-09-21 | 2022-11-23 |
-| [Talk To You](https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Talk To You](https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3) | 4:06 | 2023-04-06 |  |
+| [Talk To You](https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Talk To You](https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3) | 4:06 | 2023-04-06 | 2023-06-30 |
 | [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 | 2022-05-27 |
 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-03-30 | 2023-06-24 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-09 | 2022-07-21 |

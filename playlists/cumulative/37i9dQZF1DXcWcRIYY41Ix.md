@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Feli Colina.
 
-428 songs - 1 day 1 hr 59 min
+429 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 | 2023-03-17 | 2023-03-25 |
 | [El mundo en torno a ti](https://open.spotify.com/track/5WfZQApmpzZwqn1070XtF3) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mundos inmóviles derrumbándose](https://open.spotify.com/album/73kq0BQGLHlbefVFRbVSGw) | 5:00 | 2022-03-07 | 2022-03-12 |
 | [El Palmar](https://open.spotify.com/track/4XgtH8XgnB6NWxX3e5gr6U) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [El Palmar](https://open.spotify.com/album/1sK8DJFpwDQFjUtiOG1J0k) | 3:07 | 2022-07-01 | 2023-02-18 |
+| [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD) | 2:49 | 2023-06-23 |  |
 | [El primero](https://open.spotify.com/track/3yFlsxRaK7TuIByEWGPdlw) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Las manos](https://open.spotify.com/album/1LKDk8RQ588oxmj4tBK39i) | 3:11 | 2022-11-25 | 2022-12-27 |
 | [El Sitio](https://open.spotify.com/track/5eh20XbXOPiFgDz8XXo9WY) | [Lo Lamento](https://open.spotify.com/artist/08I7fke1XRwIgC0orK1pRN) | [El Sitio](https://open.spotify.com/album/1aXGNKkRQoHwE6RJacP5kE) | 3:19 | 2023-05-19 | 2023-06-17 |
 | [El Tiempo Está Después](https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Ernesto Snajer](https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao) | [Raíces](https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5) | 3:01 | 2021-12-24 |  |

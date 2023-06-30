@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. scarlxrd",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. deijuvhs",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 138240,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n"
@@ -1736,6 +1736,28 @@
       "duration_ms": 185803,
       "name": "clones",
       "url": "https://open.spotify.com/track/4AsTCZVFI6KEYLgaAvbHpf"
+    },
+    {
+      "album": {
+        "name": "CODE MISTAKE",
+        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165303,
+      "name": "CODE MISTAKE",
+      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
     },
     {
       "album": {
@@ -2727,6 +2749,28 @@
     },
     {
       "album": {
+        "name": "East End Boys (feat. lozeak)",
+        "url": "https://open.spotify.com/album/0tE5DajPVPW0H2ijr44xXc"
+      },
+      "artists": [
+        {
+          "name": "Boy Bleach",
+          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
+        },
+        {
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161874,
+      "name": "East End Boys (feat. lozeak)",
+      "url": "https://open.spotify.com/track/6kxK7LtWxZwM8BJnudYmZm"
+    },
+    {
+      "album": {
         "name": "Egregore",
         "url": "https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt"
       },
@@ -3052,10 +3096,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 230672,
       "name": "FANG DUMMY",
       "url": "https://open.spotify.com/track/1l7f2QP8JcJDP0jAyxxjA7"
+    },
+    {
+      "album": {
+        "name": "FANG DUMMY",
+        "url": "https://open.spotify.com/album/1MvPNBfCXz8pgXCLtihVzg"
+      },
+      "artists": [
+        {
+          "name": "KNIFE BRIDE",
+          "url": "https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230672,
+      "name": "FANG DUMMY",
+      "url": "https://open.spotify.com/track/4mcalqLHj42KL9GBndhL5S"
     },
     {
       "album": {
@@ -3364,6 +3426,24 @@
       "duration_ms": 220250,
       "name": "Force Fedd - Kontravoid Remix",
       "url": "https://open.spotify.com/track/2wrKwZVyll1vhzBuVDAhQy"
+    },
+    {
+      "album": {
+        "name": "Forever Soldiers Of Esther",
+        "url": "https://open.spotify.com/album/4BpIWBiCHnbDi8R9E11J84"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151145,
+      "name": "Forever Soldiers Of Esther",
+      "url": "https://open.spotify.com/track/6SYCJfd95tiL1xiCz3IFYf"
     },
     {
       "album": {
@@ -4282,6 +4362,24 @@
       "duration_ms": 151400,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/22FniXvTKV9IC6IhxCpYve"
+    },
+    {
+      "album": {
+        "name": "For Better For Worse",
+        "url": "https://open.spotify.com/album/38YQrMruyoZLOLI695h3xy"
+      },
+      "artists": [
+        {
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Hennesy Brown",
+      "url": "https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM"
     },
     {
       "album": {
@@ -5312,7 +5410,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 155716,
       "name": "JUNI",
       "url": "https://open.spotify.com/track/4oEohO4fJMvAhcRmoGJ0zM"
@@ -6453,6 +6551,24 @@
     },
     {
       "album": {
+        "name": "Moonlight Bop",
+        "url": "https://open.spotify.com/album/3TPxD0aPYlGe9F9yJMj5OV"
+      },
+      "artists": [
+        {
+          "name": "Deijuvhs",
+          "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116056,
+      "name": "Moonlight Bop",
+      "url": "https://open.spotify.com/track/1nB9wuOJGl3h1M4hdtZeI1"
+    },
+    {
+      "album": {
         "name": "moshpit",
         "url": "https://open.spotify.com/album/6PXSrLiT6piovfkbtM3mTs"
       },
@@ -7130,7 +7246,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 177000,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx"
@@ -8586,7 +8702,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 135857,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X"
@@ -9497,6 +9613,28 @@
     },
     {
       "album": {
+        "name": "Third Class Citizen (Bobby Wolfgang Remix)",
+        "url": "https://open.spotify.com/album/2CtqGhCfMwftWVzdWMWvxj"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        },
+        {
+          "name": "Bobby Wolfgang",
+          "url": "https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206206,
+      "name": "Third Class Citizen - Bobby Wolfgang Remix",
+      "url": "https://open.spotify.com/track/36DExajZ1VSGso5eMGO5Cg"
+    },
+    {
+      "album": {
         "name": "this might be our last december",
         "url": "https://open.spotify.com/album/0cOJKej242GN1wt65WW3N3"
       },
@@ -9882,7 +10020,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 147400,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/24L7z0NN7h2Na2Dn5ckdIV"
@@ -10351,6 +10489,24 @@
     },
     {
       "album": {
+        "name": "Wrecked",
+        "url": "https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128710,
+      "name": "Wrecked",
+      "url": "https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH"
+    },
+    {
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/7c2tn9kdsI0FlJHJBQH2kI"
       },
@@ -10524,7 +10680,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 165519,
       "name": "youth+",
       "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
@@ -10618,7 +10774,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 84562,
       "name": "\u042fitual",
       "url": "https://open.spotify.com/track/4yHYjLDcFlSEYnsmqYxIrA"

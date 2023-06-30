@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Two Friends, Loud Luxury & Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,831 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,850 likes - 76 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 75 | [How Sad](https://open.spotify.com/track/0IP3jKhnj1iNuU9DXeQgeT) | [Janette King](https://open.spotify.com/artist/77KRcsLbRizUbGjctloC8a) | [How Sad](https://open.spotify.com/album/0RLYY4dl4UAcRbaXmnpfYV) | 4:38 |
 | 76 | [Here \- Cyril Hahn Remix](https://open.spotify.com/track/3GerYw4IzfAmx7qbHYwN6X) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Here \(Cyril Hahn Remix\)](https://open.spotify.com/album/0Br9OqErGn1qZHrOh05Ntf) | 4:01 |
 
-Snapshot ID: `MCw5MzkzMmE3NWEzYjIyYTAyNDFiZjIzYmViMTAyNTIyNDc1MGUxNmUy`
+Snapshot ID: `MCw3ZDJjYmU0NzU4MGIyOTZhYWYzZmJlMjRiMWY1OWQ2NjQyMGI4ODE2`

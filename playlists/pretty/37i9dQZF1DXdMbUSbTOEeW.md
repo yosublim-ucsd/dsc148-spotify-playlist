@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,820 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,894 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 49 | [Call You Mine](https://open.spotify.com/track/2oejEp50ZzPuQTQ6v54Evp) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:37 |
 | 50 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 
-Snapshot ID: `MCw5YjhlZjQzOGI5ODQ1ZmQ5ZDI4MzNiY2M4YWU0NGRjMmQwOTE1ZjU4`
+Snapshot ID: `MCw1YjEyZGNlYWY2YzE4YjMwN2IyMGM5NDNkZmE0ZDNlYzhiMDgwN2E3`

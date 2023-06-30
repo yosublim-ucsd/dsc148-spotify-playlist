@@ -2,7 +2,7 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: 壞特 \(?te\)
+> 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Soph T.
 
 356 songs - 21 hr 13 min
 

@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Bada'ay Kol Yoom Ala'eeh",
+        "url": "https://open.spotify.com/album/7HiynIymuo0REPL1Udiarg"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Mohsen",
+          "url": "https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177606,
+      "name": "Bada'ay Kol Yoom Ala'eeh",
+      "url": "https://open.spotify.com/track/0vGbKViJA6J79xBuMU4bGQ"
+    },
+    {
+      "album": {
         "name": "baet wahdak",
         "url": "https://open.spotify.com/album/2KJYV0GfkiCEIHQMtkukUL"
       },
@@ -1110,6 +1128,24 @@
       "duration_ms": 168000,
       "name": "BALALEEN",
       "url": "https://open.spotify.com/track/1K6ekZzDLpket1RXwLb7t4"
+    },
+    {
+      "album": {
+        "name": "Balbata",
+        "url": "https://open.spotify.com/album/6peahsqt5fShCKRvSqm6U7"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166671,
+      "name": "Balbata",
+      "url": "https://open.spotify.com/track/5NHOHEmOIGysPGy895thVt"
     },
     {
       "album": {
@@ -1602,7 +1638,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 199214,
       "name": "DOPAMINE",
       "url": "https://open.spotify.com/track/6Q3KOmzeEhkGcRxQpccaVO"
@@ -4685,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "Meganeny",
+        "url": "https://open.spotify.com/album/6koVSxC153FozWgzdyUBqs"
+      },
+      "artists": [
+        {
+          "name": "DB Gad",
+          "url": "https://open.spotify.com/artist/6G5gPrPosWPaVpR3R1sNWB"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218947,
+      "name": "Meganeny",
+      "url": "https://open.spotify.com/track/25s2qmlWFJDRU31NtsmNpX"
+    },
+    {
+      "album": {
         "name": "Mehtag L Wogodk",
         "url": "https://open.spotify.com/album/7KTZ8xngdzDldsNugnDGqN"
       },
@@ -5069,6 +5123,32 @@
     },
     {
       "album": {
+        "name": "N\u00e9cessaire",
+        "url": "https://open.spotify.com/album/3OgMI7hy4jxaRcGQwabiO1"
+      },
+      "artists": [
+        {
+          "name": "Mario Fresh",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        },
+        {
+          "name": "RENVT\u00d8",
+          "url": "https://open.spotify.com/artist/2JrQ0o2hziS7Io5XRiVP6W"
+        },
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226458,
+      "name": "N\u00e9cessaire",
+      "url": "https://open.spotify.com/track/24BRftQd04lh9O0J5R4jst"
+    },
+    {
+      "album": {
         "name": "Ohdoneny",
         "url": "https://open.spotify.com/album/7FbStrkAcRbkEzz3LARKPi"
       },
@@ -5084,6 +5164,24 @@
       "duration_ms": 201877,
       "name": "Ohdoneny",
       "url": "https://open.spotify.com/track/0dSI3KmYL4md8TOy6cEApu"
+    },
+    {
+      "album": {
+        "name": "Oooh",
+        "url": "https://open.spotify.com/album/5UomHwXDMZNAumKNzGBubk"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150303,
+      "name": "Oooh",
+      "url": "https://open.spotify.com/track/4tHH28eKHx2B5k7jjbcTGQ"
     },
     {
       "album": {
@@ -5832,7 +5930,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 178327,
       "name": "Taaraf",
       "url": "https://open.spotify.com/track/7BpjCnc8AWUZtU3daxbPhS"
@@ -5976,7 +6074,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 183556,
       "name": "Taqa Egabiya",
       "url": "https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW"
@@ -6118,6 +6216,24 @@
       "duration_ms": 228000,
       "name": "Touba (Intro Of Touba Series)",
       "url": "https://open.spotify.com/track/2hb9SS3ObGXd6MwwxiKPqr"
+    },
+    {
+      "album": {
+        "name": "Tushkar",
+        "url": "https://open.spotify.com/album/2l22vxxvQdUu9VweOyNdA2"
+      },
+      "artists": [
+        {
+          "name": "Lamis Kan",
+          "url": "https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176411,
+      "name": "Tushkar",
+      "url": "https://open.spotify.com/track/6tUQtTSX7noC1VFOlaYfsl"
     },
     {
       "album": {
@@ -7050,7 +7166,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 153958,
       "name": "\u0627\u0644\u062d\u0646\u064a\u0646 \u0648\u0627\u0644\u0645\u0639\u0644\u0645",
       "url": "https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS"
@@ -7290,7 +7406,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 248333,
       "name": "\u0627\u0646\u0627 \u0647\u0648\u0646\u062a \u0639\u0644\u064a\u0643",
       "url": "https://open.spotify.com/track/1fQnrD1pd3WXoxUMpx3PmJ"
@@ -8688,7 +8804,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 114285,
       "name": "\u0647\u0627\u0631\u0644\u064a - \u0623\u063a\u0646\u064a\u0629 \u0627\u0644\u0641\u064a\u0644\u0645",
       "url": "https://open.spotify.com/track/1xONu0es8q0Mw68bxMLxkY"

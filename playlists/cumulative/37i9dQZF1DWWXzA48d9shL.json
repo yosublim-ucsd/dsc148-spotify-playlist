@@ -7914,7 +7914,7 @@
     {
       "album": {
         "name": "Stick Out When I'm Live",
-        "url": "https://open.spotify.com/album/5ju3Ng1zbjb4LjVxxnupAh"
+        "url": "https://open.spotify.com/album/4MzYFpjiBtNyLGTyi72wUs"
       },
       "artists": [
         {
@@ -7925,6 +7925,24 @@
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 143105,
+      "name": "Stick Out When I'm Live",
+      "url": "https://open.spotify.com/track/45DchKb8vLBdbF6MNZdjPa"
+    },
+    {
+      "album": {
+        "name": "Stick Out When I'm Live",
+        "url": "https://open.spotify.com/album/5ju3Ng1zbjb4LjVxxnupAh"
+      },
+      "artists": [
+        {
+          "name": "99zed",
+          "url": "https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
       "duration_ms": 143105,
       "name": "Stick Out When I'm Live",
       "url": "https://open.spotify.com/track/7MINVWP52eYRpaKZeMrjVP"

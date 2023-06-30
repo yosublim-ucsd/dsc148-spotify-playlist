@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2SJhf6rTOU53g8yBdAjPby">SoFaygo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,764,537 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,764,779 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 23 | [Let The Sample Work](https://open.spotify.com/track/385wQo6gChfl9xP0umt2qu) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5) | 2:31 |
 | 24 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 | 25 | [DARKSIDE](https://open.spotify.com/track/2Gpra5OwSBeTQ8vZcTs1Pw) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [6](https://open.spotify.com/album/5Tj31Y3qUvAFFamwQS6ZeO) | 3:25 |
-| 26 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
+| 26 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/6BgdroP3f57LfPZvWcNWdq) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
 | 27 | [SILVER TOOTH\. \(with A$AP Ferg\)](https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [SILVER TOOTH.](https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY) | 2:22 |
 | 28 | [Rich Baby Mama](https://open.spotify.com/track/25zgoxL9MmTCVpWPiN8Lk9) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Rich Baby Mama](https://open.spotify.com/album/7IvVb6HodS1L4ggPZmUQvu) | 2:01 |
 | 29 | [BACKSEAT](https://open.spotify.com/track/5JNGhSPsiuHyXmLVfDWbpf) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [InstaKill](https://open.spotify.com/track/0mUAyevrsYZRUR3yVfyI3M) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [InstaKill](https://open.spotify.com/album/5fcZnOQoSBoiGaJ0qmZGtx) | 1:57 |
 | 100 | [How High](https://open.spotify.com/track/2JmEudsTs2PrGS7R7tWs8g) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [How High](https://open.spotify.com/album/5O5i4hqy4iJpSlzm5WGGIM) | 2:18 |
 
-Snapshot ID: `MCw2NTQ4MDEwOTliZjkzZWJlMzBhYWU2N2QzNmZiNzU4NTBhY2I2MmJl`
+Snapshot ID: `MCxkY2U5YmE0OGQyNTQwNzllMGViNTBhNzQ3MzYzODIzM2JiNDhkNjJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,198 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,201 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 39 | [Drive On](https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 2:51 |
 | 40 | [Skinny Dippin' \- Remastered 2017](https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:06 |
 | 41 | [We'll Take Beersheba](https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:23 |
-| 42 | [Dirt \- Remastered 2017](https://open.spotify.com/track/6OOSAy1vCO08b3m5MjfHxo) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:20 |
-| 43 | [Mate \- Remastered 2017](https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Bush](https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB) | 3:40 |
+| 42 | [Mate \- Remastered 2017](https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Bush](https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB) | 3:40 |
+| 43 | [Dirt \- Remastered 2017](https://open.spotify.com/track/6OOSAy1vCO08b3m5MjfHxo) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:20 |
 | 44 | [This Cowboy's Hat \- Remastered 2017](https://open.spotify.com/track/7MdBCNboSJPdXaNrxb9RnK) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 4:04 |
 | 45 | [When the First Bombs Fell](https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:32 |
 | 46 | [Goondiwindi Moon \- Remastered 2017](https://open.spotify.com/track/6aeVKV6GvjRQezoHXfRQ2Q) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Hat Town](https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 49 | [Listen to the Radio \- Remastered 2017](https://open.spotify.com/track/0FqHsYbCL25ppr7PyHajbL) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The New Bush](https://open.spotify.com/album/77sAOoJegr423FoQPpLJ4M) | 3:06 |
 | 50 | [Kokoda \- Only the Brave Ones](https://open.spotify.com/track/7H6lhV6JviBRq46hhZoSDw) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [John Schumann](https://open.spotify.com/artist/1mTm3FTSxoHUl67wQ3s5xC) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 4:12 |
 
-Snapshot ID: `MjgxMzI2NzAsMDAwMDAwMDA5YzAzYmY0MmNiOTE4MGZjNTdlNmY4N2U0YzFmMjI4OQ==`
+Snapshot ID: `MjgxMzQwNTUsMDAwMDAwMDA4ZTZjYzUyNTE4NjRmOGJiODVhMjZjOWY1ZTgyMDM1OA==`

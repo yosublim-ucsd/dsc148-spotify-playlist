@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Goldie Boutilier
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,548 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,571 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 81 | [Dooley's Farm \- Spotify Sessions](https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 5:10 |
 | 82 | [Instant Cash for Gold](https://open.spotify.com/track/3Jd8ZnKlKNBsRnO6XJTbYZ) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz) | 3:07 |
 | 83 | [Hot Sun](https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [Hot Sun](https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV) | 3:01 |
-| 84 | [Folk Song](https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 4:12 |
+| 84 | [Communion \- Country version](https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 3:54 |
 | 85 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 |
-| 86 | [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 |
-| 87 | [Communion \- Country version](https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 3:54 |
+| 86 | [Folk Song](https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 4:12 |
+| 87 | [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 |
 | 88 | [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 |
 | 89 | [Better's on the Way](https://open.spotify.com/track/5JDN1OhtRYLQ9IQMROclyg) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Downtown EP](https://open.spotify.com/album/1xOBVAMeKnnMjPUga4n0eH) | 4:28 |
 | 90 | [World Burn](https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy) | [Amos the Kid](https://open.spotify.com/artist/63LZAfaHUgHs3vW7lgqXr4) | [World Burn](https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX) | 3:30 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 96 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 |
 | 97 | [Let It Pass](https://open.spotify.com/track/5G9fPEoXEtw4NSHaYjssGl) | [Starpainter](https://open.spotify.com/artist/12PMNRQFZzmXrwS3ge7qbO) | [Rattlesnake Dream](https://open.spotify.com/album/5tRkeh3TVIuk0cJH42f6R3) | 3:32 |
 | 98 | [Bad Behavior](https://open.spotify.com/track/5vKoSX086LuAR2iZFQMwGa) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/46FhQ98XqfWOMraBAouQ2n) | 3:37 |
-| 99 | [Hey Bob Dylan](https://open.spotify.com/track/2e4aqPnyNKsdElQxNKEPv5) | [Ron A.McNeill](https://open.spotify.com/artist/6NyXdmZQwTQvEN4xLDbTMQ) | [Waiting on the Day](https://open.spotify.com/album/6JAfOiMmqSdUxsEjEWvnyD) | 3:19 |
-| 100 | [Making Believe \(feat\. Rose Cousins\)](https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf), [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 2:36 |
+| 99 | [Making Believe \(feat\. Rose Cousins\)](https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf), [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 2:36 |
+| 100 | [Hey Bob Dylan](https://open.spotify.com/track/2e4aqPnyNKsdElQxNKEPv5) | [Ron A.McNeill](https://open.spotify.com/artist/6NyXdmZQwTQvEN4xLDbTMQ) | [Waiting on the Day](https://open.spotify.com/album/6JAfOiMmqSdUxsEjEWvnyD) | 3:19 |
 
-Snapshot ID: `MCxjMTY3MjJhODlmNjlkZjg4ODUxNjU3YjViMGI2YzFlNjA4ZTlkNGYz`
+Snapshot ID: `MCw0YzQ1MjlhOTJlYzNlNzVmZTFmYTA2YTU2MTI4M2MyYTM2NTIxOTMw`

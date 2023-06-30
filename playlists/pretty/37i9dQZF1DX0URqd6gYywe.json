@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Mat\u00f3 a un Polic\u00eda Motorizado",
-  "num_followers": 80220,
+  "num_followers": 80286,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGRlODliOTk2ZmQzYTNjZTExMTJjMTQ3NGFhZGFlNWJkMTQwZGU0",
+  "snapshot_id": "MCw5NTYwMDUxYzY4MjJkZDVjYzY1OTJkMmE2MmNiMWMxOTllOWFjNjEw",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -671,18 +671,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+        "name": "Locales Calientes",
+        "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
       "artists": [
         {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        },
+        {
+          "name": "Carlos Tarque",
+          "url": "https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
+      "duration_ms": 247419,
+      "name": "Tan Distintos",
+      "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -703,22 +707,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Locales Calientes",
-        "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        },
-        {
-          "name": "Carlos Tarque",
-          "url": "https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 247419,
-      "name": "Tan Distintos",
-      "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2023-06-09 03:00:00",

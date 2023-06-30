@@ -1,6 +1,6 @@
 {
   "description": "Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!",
-  "num_followers": 85759,
+  "num_followers": 85754,
   "original_name": "Kids Music",
   "owner": {
     "name": "Digster",
@@ -194,6 +194,10 @@
         {
           "name": "Pupstruction - Cast",
           "url": "https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
         }
       ],
       "duration_ms": 49789,

@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 302560,
       "name": "Cholito Pantal\u00f3n Blanco",
       "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421311,
+      "name": "Mira Ni\u00f1ita (Remasterizado 2020)",
+      "url": "https://open.spotify.com/track/6Lg1r56wubG76t2fOF9iNa"
+    },
+    {
+      "album": {
         "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
@@ -752,7 +770,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 387400,
       "name": "Mira Ni\u00f1ita (Versi\u00f3n 1996)",
       "url": "https://open.spotify.com/track/6GYbTb3eLDVdEoRSu6L3iU"
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 663000,
       "name": "Y Arriba Quemando el Sol",
       "url": "https://open.spotify.com/track/0qarO5TEf1JwiJMyV6GQ23"

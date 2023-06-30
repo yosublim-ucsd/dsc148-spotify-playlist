@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,726 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,729 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 31 | [call me](https://open.spotify.com/track/49WCwFt5TTXeEVfK3aB5Ln) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX), [Gracio Zaqueu](https://open.spotify.com/artist/2S0NEVzLlZGbfq4Mqkfd1i) | [call me](https://open.spotify.com/album/53RZRwrE2R70bsJ3DPn7My) | 7:18 |
 | 32 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
 | 33 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
-| 34 | [星のクズ Ω](https://open.spotify.com/track/0FrMQBEf3u7JOLX5pfWmgc) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ Ω](https://open.spotify.com/album/3xCP9E5w3dx6s8fuzviH1b) | 5:27 |
+| 34 | [あけぼの \- 2023](https://open.spotify.com/track/7oIebM3d43QEtaQkpKKPRr) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [あけぼの \(2023\)](https://open.spotify.com/album/7DEvmHRVHWr0g4eFyKuW87) | 5:27 |
 | 35 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 |
 | 36 | [Icicle](https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Icicle](https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc) | 2:57 |
 | 37 | [colorblind](https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [colorblind](https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [Dreamin' of You](https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Dreamin' of You](https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk) | 3:08 |
 | 50 | [Calm Down \- Dennis Bovell dUb Remix](https://open.spotify.com/track/52ezVtAfJrweiskh4kYqWv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Dennis Bovell](https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6) | [Calm Down \(Dennis Bovell dUb Remix\)](https://open.spotify.com/album/2WIskyRnntwT83rQTZlNzL) | 3:15 |
 
-Snapshot ID: `MCw4NzU3NTdmZTA5N2MwZWZkMmU3YTAzOTQ1ODQyMzNjNTNjNDZmYjk3`
+Snapshot ID: `MCwxOTY4NjU1MzIzZWYwZTYxODVmNTcxMDQxZTk5ZGY4YzkyNzYzNmE4`

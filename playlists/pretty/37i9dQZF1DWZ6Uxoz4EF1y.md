@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,630 likes - 100 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,798 likes - 100 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 3 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 |
 | 4 | [Jesucristo Basta \- Versión Acústica](https://open.spotify.com/track/3UCV9soRdZg0nacbQ7C1G4) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Jesucristo Basta \(Versión Acústica\)](https://open.spotify.com/album/3yUUlwIbpXQLpPx4gKQ7aA) | 4:39 |
 | 5 | [Perfume a Tus Pies](https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/0gGh9W1G0gVNvn6oINKeB2) | 5:10 |
-| 6 | [Al Que Está Sentado En el Trono \(feat\. Lucas Conslie\)](https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Uniendo Cielo Y Tierra](https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W) | 10:01 |
+| 6 | [Quiero Conocer a Jesús \(Yeshua\) / Nuestro Dios](https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 11:55 |
 | 7 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
-| 8 | [Quiero Conocer a Jesús \(Yeshua\) / Nuestro Dios](https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 11:55 |
+| 8 | [Llévame A La Cruz](https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Vida Encontré](https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e) | 4:20 |
 | 9 | [Jesucristo basta](https://open.spotify.com/track/6XgnLNskskRPjdfa3CyKGA) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Somos Iglesia](https://open.spotify.com/album/4PLfF0JPfYpAXK2vzjHK4F) | 4:48 |
-| 10 | [Llévame A La Cruz](https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Vida Encontré](https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e) | 4:20 |
+| 10 | [Al Que Está Sentado En el Trono \(feat\. Lucas Conslie\)](https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Uniendo Cielo Y Tierra](https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W) | 10:01 |
 | 11 | [Te Dejo Ganar](https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 3:21 |
 | 12 | [Mi Casa Y Yo](https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Mi Casa Y Yo](https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k) | 3:43 |
 | 13 | [Hay Libertad](https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn) | [El Cielo Está Aquí](https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 99 | [Hasta el Final](https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 3:42 |
 | 100 | [Cristo Vive En Mi](https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD) | [Neil Velez](https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO) | [Dios Es Capaz](https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP) | 5:12 |
 
-Snapshot ID: `MCwyYTMwYTRhMjhjNjVkOTk0NjUzMzMxYzMwNDdkNmNkOGFiMWEzNTM2`
+Snapshot ID: `MCwyOTk5OWJjMDE3MDI3MDE5YjYzODNlNzQ0YjJkOGJlMDMwMjYzNmEw`

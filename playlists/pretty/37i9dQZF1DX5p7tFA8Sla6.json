@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 49227,
+  "num_followers": 49256,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDhmOWQ5Y2NmOTYxMWJhMDg4N2NmNDczNWY3NWNhYmZmNTUyNGMz",
+  "snapshot_id": "MCxhYzIwODc2OWMyOGFiZWU5M2NlYTE5YzMwYTgzNzUzNmYyNGE5M2Iz",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -865,6 +865,22 @@
       "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
     },
     {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "What We Got Together",
+        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
+      },
+      "artists": [
+        {
+          "name": "Brother Strut",
+          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Funk That Junk",
+      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
+    },
+    {
       "added_at": "2019-09-20 18:33:34",
       "album": {
         "name": "Stay Good",
@@ -887,22 +903,6 @@
       "duration_ms": 231963,
       "name": "Funk Ain't Ova",
       "url": "https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "What We Got Together",
-        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
-      },
-      "artists": [
-        {
-          "name": "Brother Strut",
-          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Funk That Junk",
-      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
     },
     {
       "added_at": "2019-08-22 14:26:16",

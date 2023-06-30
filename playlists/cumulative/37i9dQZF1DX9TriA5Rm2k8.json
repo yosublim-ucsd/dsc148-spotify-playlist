@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
@@ -521,6 +521,32 @@
     },
     {
       "album": {
+        "name": "DOWNER (feat. Chanel Loren)",
+        "url": "https://open.spotify.com/album/5fUayPllA4fQOHz54heZoQ"
+      },
+      "artists": [
+        {
+          "name": "Keli Holiday",
+          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
+        },
+        {
+          "name": "Kwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        },
+        {
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "DOWNER (feat. Chanel Loren)",
+      "url": "https://open.spotify.com/track/5pKdj9LSPKxwQKIPjLFbwM"
+    },
+    {
+      "album": {
         "name": "edamame (feat. Rich Brian)",
         "url": "https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP"
       },
@@ -598,7 +624,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 239817,
       "name": "Feel Good Too",
       "url": "https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg"
@@ -969,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Hot One",
+        "url": "https://open.spotify.com/album/6mdumRNcYvRzSX8T8im1VZ"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110403,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/1HGYijnaimWpxBkxwNOQko"
+    },
+    {
+      "album": {
         "name": "I Want You (feat. Darren Hayes)",
         "url": "https://open.spotify.com/album/70iyV4Q8e55CzUhTsKKOE8"
       },
@@ -1116,7 +1160,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 180877,
       "name": "Let's Go MIA",
       "url": "https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V"
@@ -1240,7 +1284,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 215605,
       "name": "Love Type",
       "url": "https://open.spotify.com/track/1e9T91CPoRcdX9oiGRYjmi"
@@ -1493,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "Punkrocker",
+        "url": "https://open.spotify.com/album/04BARFshyYTNncSibK06s8"
+      },
+      "artists": [
+        {
+          "name": "Harpoon",
+          "url": "https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP"
+        },
+        {
+          "name": "Sandi Thom",
+          "url": "https://open.spotify.com/artist/3xnfpcM4DC9zeHVuDhYICB"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144143,
+      "name": "Punkrocker",
+      "url": "https://open.spotify.com/track/7v6wE4wmpMPRzq0QLQUi5U"
+    },
+    {
+      "album": {
         "name": "Rather Be (feat. Jess Glynne)",
         "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
       },
@@ -1687,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo"
       },
@@ -1732,7 +1816,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 171233,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9"
@@ -2106,6 +2190,24 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "album": {
+        "name": "Whole Again",
+        "url": "https://open.spotify.com/album/7oAsw6jZcotDQl8f1qECqo"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215639,
+      "name": "Whole Again",
+      "url": "https://open.spotify.com/track/5ONxjmVfSLPSRDI4mgRnLy"
     },
     {
       "album": {

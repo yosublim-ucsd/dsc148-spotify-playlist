@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 69556,
+  "num_followers": 69567,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWJmYTMzMzk2NGY0M2MyYzM1OGRhOWJmOTBiYjc1NWFlNDIwZjNk",
+  "snapshot_id": "MCxkYTQxMzU3ZDQ2ZmY4ZTVlOWI0N2YwYWNkZmRlMzA3OWUzMTUyODli",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Gozo",
-        "url": "https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        }
-      ],
-      "duration_ms": 203508,
-      "name": "Gozo",
-      "url": "https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Orgullo",
         "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 246937,
       "name": "Tan Rico",
       "url": "https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Gozo",
+        "url": "https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 203508,
+      "name": "Gozo",
+      "url": "https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "L3tra 2",
+        "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Mention",
+      "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Soluci\u00f3n",
         "url": "https://open.spotify.com/album/2vi8w5TScVrMNUV6Z1hTQd"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 219361,
       "name": "Soluci\u00f3n",
       "url": "https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "L3tra 2",
-        "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Mention",
-      "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Miko",
-        "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Miko",
-      "url": "https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Ronca",
         "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
       },
@@ -1171,34 +1155,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Dime Algo",
-        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
+        "name": "Miko",
+        "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
       },
       "artists": [
         {
-          "name": "Remers",
-          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
-      "duration_ms": 143639,
-      "name": "Dime Algo",
-      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "ST\u00dcSSY",
-        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
-      },
-      "artists": [
-        {
-          "name": "Jovaan",
-          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
-        }
-      ],
-      "duration_ms": 144714,
-      "name": "ST\u00dcSSY",
-      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
+      "duration_ms": 135013,
+      "name": "Miko",
+      "url": "https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1235,6 +1203,38 @@
       "duration_ms": 152760,
       "name": "Randy Johnson",
       "url": "https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "ST\u00dcSSY",
+        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
+      },
+      "artists": [
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        }
+      ],
+      "duration_ms": 144714,
+      "name": "ST\u00dcSSY",
+      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Dime Algo",
+        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
+      },
+      "artists": [
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        }
+      ],
+      "duration_ms": 143639,
+      "name": "Dime Algo",
+      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Fantasma",
-        "url": "https://open.spotify.com/album/2R2kli8pXAeuGsfSd0HeTv"
-      },
-      "artists": [
-        {
-          "name": "Dynell",
-          "url": "https://open.spotify.com/artist/7oCLjINIMWifuknBBsg3CO"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/2wr5r6QMp2Ps7SZ5og1L9q"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Tesoro M\u00edo",
         "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 242932,
       "name": "Tesoro M\u00edo",
       "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/2R2kli8pXAeuGsfSd0HeTv"
+      },
+      "artists": [
+        {
+          "name": "Dynell",
+          "url": "https://open.spotify.com/artist/7oCLjINIMWifuknBBsg3CO"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/2wr5r6QMp2Ps7SZ5og1L9q"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Mundo Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/1HH9dZRqeDlvDbePpsoAb7"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "Mundo Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/1n5rK7ajF1GnegDI8Ly55r"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Traficando (Remix)",
         "url": "https://open.spotify.com/album/0ZGRJJ7WqmOK0NRt8VFUZs"
       },
@@ -1795,22 +1811,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Mundo Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/1HH9dZRqeDlvDbePpsoAb7"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Mundo Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/1n5rK7ajF1GnegDI8Ly55r"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
       },
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Billete",
+        "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
+      },
+      "artists": [
+        {
+          "name": "Chen",
+          "url": "https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu"
+        }
+      ],
+      "duration_ms": 163777,
+      "name": "Billete",
+      "url": "https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Perreo X Calle",
         "url": "https://open.spotify.com/album/2uGMXUYZTu0597ajBhZFSa"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 190000,
       "name": "Perreo X Calle",
       "url": "https://open.spotify.com/track/6TrHcYm0TFwZt5JeSOm8F4"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Billete",
-        "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
-      },
-      "artists": [
-        {
-          "name": "Chen",
-          "url": "https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu"
-        }
-      ],
-      "duration_ms": 163777,
-      "name": "Billete",
-      "url": "https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib"
     }
   ],
   "unique_name": "Hecho en Puerto Rico",

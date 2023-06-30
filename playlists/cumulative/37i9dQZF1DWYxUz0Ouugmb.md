@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Bernadya
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: ENVY\*
 
 157 songs - 9 hr 50 min
 

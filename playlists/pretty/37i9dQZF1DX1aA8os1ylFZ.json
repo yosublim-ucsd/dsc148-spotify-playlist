@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 232156,
+  "num_followers": 232188,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGRiNWVhNzI1NTVkYmU0ZjFhZDM5NTA5N2ExZTE1Y2U1NGUxNmM4",
+  "snapshot_id": "MCw0NjE5ZDg5NzA1NTY0OGJjYTBhNjhlMTFiMzUwOGMzMjExMTIzOGM4",
   "tracks": [
     {
       "added_at": "2023-06-01 22:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        }
-      ],
-      "duration_ms": 150799,
-      "name": "Tasty",
-      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Used To Me (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 167591,
       "name": "Used To Me (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "duration_ms": 150799,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/1kcDeSYrhZJryDO2nWqLk5"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "duration_ms": 95985,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6k3zHXsdycz5gyflIX67Ca"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "Rodeo (feat. Big Jade)",
         "url": "https://open.spotify.com/album/6fTIJkLucWKwW7BWpkmvIx"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 262000,
       "name": "Rodeo (feat. Big Jade)",
       "url": "https://open.spotify.com/track/6GXGPEIscxkDwSbn4GFACG"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/1kcDeSYrhZJryDO2nWqLk5"
-      },
-      "artists": [
-        {
-          "name": "Dina Ayada",
-          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
-        }
-      ],
-      "duration_ms": 95985,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6k3zHXsdycz5gyflIX67Ca"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "DISC TWO",
         "url": "https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
         }
       ],
-      "duration_ms": 173968,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
+      "duration_ms": 183050,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 151676,
       "name": "Simp",
       "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 173968,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Message From My Ex / 3 Words (Message To My Ex)",
-        "url": "https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V"
-      },
-      "artists": [
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        }
-      ],
-      "duration_ms": 186083,
-      "name": "3 Words (Message To My Ex)",
-      "url": "https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Heart Is On My Sleeve",
         "url": "https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 253714,
       "name": "Heart Is On My Sleeve",
       "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Message From My Ex / 3 Words (Message To My Ex)",
+        "url": "https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 186083,
+      "name": "3 Words (Message To My Ex)",
+      "url": "https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "Overture",
+        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        },
+        {
+          "name": "Joshua J",
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
+        }
+      ],
+      "duration_ms": 221492,
+      "name": "Say Yes (Turquoise) (feat. Joshua J)",
+      "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "Not Me",
         "url": "https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 222284,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Overture",
-        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        },
-        {
-          "name": "Joshua J",
-          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
-        }
-      ],
-      "duration_ms": 221492,
-      "name": "Say Yes (Turquoise) (feat. Joshua J)",
-      "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Ginger Me",
-        "url": "https://open.spotify.com/album/1FjkFEI5TuOmX4UDADlFXp"
-      },
-      "artists": [
-        {
-          "name": "shy ink",
-          "url": "https://open.spotify.com/artist/2guvMedMt6BlFklBVfFTR3"
-        },
-        {
-          "name": "Kish",
-          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
-        }
-      ],
-      "duration_ms": 166189,
-      "name": "Ginger Me",
-      "url": "https://open.spotify.com/track/6ihWzjaRWNX9NAHnCzkD4S"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Dream No More (feat. Ruel & Genesis Owusu)",
         "url": "https://open.spotify.com/album/4ezUp3Uu9WBPK0DsbQvgGO"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 207157,
       "name": "Dream No More (feat. Ruel & Genesis Owusu)",
       "url": "https://open.spotify.com/track/0slVzyDCYPANhtDTpzBgLZ"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Ginger Me",
+        "url": "https://open.spotify.com/album/1FjkFEI5TuOmX4UDADlFXp"
+      },
+      "artists": [
+        {
+          "name": "shy ink",
+          "url": "https://open.spotify.com/artist/2guvMedMt6BlFklBVfFTR3"
+        },
+        {
+          "name": "Kish",
+          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
+        }
+      ],
+      "duration_ms": 166189,
+      "name": "Ginger Me",
+      "url": "https://open.spotify.com/track/6ihWzjaRWNX9NAHnCzkD4S"
     },
     {
       "added_at": "2023-06-01 22:01:00",

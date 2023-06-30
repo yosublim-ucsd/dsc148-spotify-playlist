@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Slowdive
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,051 likes - 84 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,068 likes - 85 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,5 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 82 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 | 83 | [stuck in san antonio](https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [stuck in san antonio](https://open.spotify.com/album/5i6JV5RaAEXYbwQx3si9Mo) | 2:33 |
 | 84 | [Fare Thee Well My Dearest Dear](https://open.spotify.com/track/13PyP4V5A44QVPlLZ9a2wk) | [Shirley Collins](https://open.spotify.com/artist/5rilpZJIb2NWJZVGtCdg6u) | [Archangel Hill](https://open.spotify.com/album/3D1ay6vbbFAhpaZcDnKFDp) | 3:16 |
+| 85 | [One for sorrow, two for Joni Jones](https://open.spotify.com/track/6Xl1zGn8QgjaCwtRqI3vxv) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [One for sorrow, two for Joni Jones](https://open.spotify.com/album/6qdWKell3uanKckKAO6rIz) | 4:30 |
 
-Snapshot ID: `MCxkNmMyZjZlMmVkMTMzNGQyY2QwODdkYjJjNjIwZGZlNzY3ZmIyMjZk`
+Snapshot ID: `MCxlMzhiODBmOGU4YWQ2MjdhNmE3NmJhYmQyZDZlYzM4YjIzMzJiMTFh`

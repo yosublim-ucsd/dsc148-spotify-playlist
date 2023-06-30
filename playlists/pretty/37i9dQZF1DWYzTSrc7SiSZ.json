@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 660541,
+  "num_followers": 660632,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmU4YzQ4MDJkMGM2OWM0ODY0NzIzOTU3MjZiNzhhODk5ZTc2OTUx",
+  "snapshot_id": "MCw0MTBlNDI2MGQ4M2RmYTZlZjNkODhjNGMxY2M1ZTVkMTVhYmY2NjUz",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Ya",
-        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
-      },
-      "artists": [
-        {
-          "name": "Flavio",
-          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
-        },
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 197910,
-      "name": "Ya",
-      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Comida para Llevar (2\u00aa Season)",
         "url": "https://open.spotify.com/album/5UvvQXgXlGIleqQDPiklcR"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 473379,
       "name": "CAMINAAANDO / Warapita",
       "url": "https://open.spotify.com/track/7GPI2FrKyz7YznXjsWc9p9"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
+      },
+      "artists": [
+        {
+          "name": "Flavio",
+          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
+        },
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 197910,
+      "name": "Ya",
+      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "UNA LUZ",
+        "url": "https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 127275,
+      "name": "UNA LUZ",
+      "url": "https://open.spotify.com/track/1c3qAaZrwvcTHHOL8XrHLJ"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "I Fell In Love",
         "url": "https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "UNA LUZ",
-        "url": "https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY"
+        "name": "Singles 2019-2021",
+        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
         }
       ],
-      "duration_ms": 127275,
-      "name": "UNA LUZ",
-      "url": "https://open.spotify.com/track/1c3qAaZrwvcTHHOL8XrHLJ"
+      "duration_ms": 224268,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 205452,
       "name": "Soy capaz",
       "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Singles 2019-2021",
-        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 224268,
-      "name": "Clich\u00e9",
-      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "beat relajado para estudiar",
-        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "beat relajado para estudiar",
-      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "beat relajado para estudiar",
+        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "beat relajado para estudiar",
+      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Pastelitos De Guayaba",
+        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+        }
+      ],
+      "duration_ms": 191671,
+      "name": "Pastelitos De Guayaba",
+      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Cuando Los Ac\u00e9falos Predominan",
         "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 174000,
       "name": "Guitarra",
       "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Pastelitos De Guayaba",
-        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
-        }
-      ],
-      "duration_ms": 191671,
-      "name": "Pastelitos De Guayaba",
-      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 213993,
       "name": "A la Mitad (Suceso 1)",
       "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "See Me Now",
-        "url": "https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 209464,
-      "name": "see me now",
-      "url": "https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Espera (feat. Carlos Sadness)",
         "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 232594,
       "name": "Espera (feat. Carlos Sadness)",
       "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "See Me Now",
+        "url": "https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 209464,
+      "name": "see me now",
+      "url": "https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb"
     },
     {
       "added_at": "2023-06-16 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: Christine and the Queens. ",
-  "num_followers": 126492,
+  "num_followers": 126734,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjJhOTdkMjJhYmNkMWQ1YWU0ZDRmNWQ1MzI3ZTUzMzU4ZGY1MTdk",
+  "snapshot_id": "MCw4MzFmYWIyNjYzOGQyZjY1YjEyNjNjMmNhNzhjOTZmMzc0MDcwMmE0",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Smog",
-        "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 194451,
-      "name": "Smog",
-      "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Daddy's Home",
@@ -827,6 +811,22 @@
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Smog",
+        "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 194451,
+      "name": "Smog",
+      "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "Who Am I?",
+        "url": "https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/41FCZduFUjoymvDXb6ZviB"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Found",
         "url": "https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Who Am I?",
-        "url": "https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO"
+        "name": "Set My Heart On Fire Immediately",
+        "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
       },
       "artists": [
         {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
         }
       ],
-      "duration_ms": 172280,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/41FCZduFUjoymvDXb6ZviB"
+      "duration_ms": 185826,
+      "name": "Jason",
+      "url": "https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Set My Heart On Fire Immediately",
-        "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Jason",
-      "url": "https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Death Of A Fantasy",
         "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
       },
@@ -977,10 +977,10 @@
       "url": "https://open.spotify.com/track/3faVsOc6GJnh01unAc8D7I"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
+      "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "The Clutch",
-        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
+        "name": "Dry Food",
+        "url": "https://open.spotify.com/album/4JVkvZt7q4TQj0F2BBn3Up"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
         }
       ],
-      "duration_ms": 190091,
-      "name": "The Clutch",
-      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
+      "duration_ms": 214067,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/4cb2WcD5PNXF1klLcH47h8"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1097,10 +1097,10 @@
       "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
+      "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Dry Food",
-        "url": "https://open.spotify.com/album/4JVkvZt7q4TQj0F2BBn3Up"
+        "name": "The Clutch",
+        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
       },
       "artists": [
         {
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
         }
       ],
-      "duration_ms": 214067,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/4cb2WcD5PNXF1klLcH47h8"
+      "duration_ms": 190091,
+      "name": "The Clutch",
+      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "I Know Your Present",
-        "url": "https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt"
-      },
-      "artists": [
-        {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
-        }
-      ],
-      "duration_ms": 229743,
-      "name": "I Know Your Present",
-      "url": "https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Pretty Lady",
@@ -1207,6 +1191,22 @@
       "duration_ms": 277908,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "I Know Your Present",
+        "url": "https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 229743,
+      "name": "I Know Your Present",
+      "url": "https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P"
     },
     {
       "added_at": "2023-03-07 19:29:41",

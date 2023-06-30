@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-181 songs - 11 hr 0 min
+182 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,9 +128,10 @@
 | [My Babe](https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:42 | 2022-05-25 |  |
 | [My Home Is In The Delta](https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 4:01 | 2022-07-08 |  |
 | [My Home Is In the Delta](https://open.spotify.com/track/5Qg734lkKdaPeE8ZYA6EwA) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [30 Delta Blues Classics](https://open.spotify.com/album/0iWDn4znn8wjK2prk2GBXR) | 4:01 | 2022-05-25 | 2022-07-29 |
+| [My Little One](https://open.spotify.com/track/3Jpj3WobbdheWDhXL51M1a) | [Damian Lewis](https://open.spotify.com/artist/20R6sAvzVdutpZtmyr3hue) | [Mission Creep](https://open.spotify.com/album/0qplBAg6M8wyXjzX4Dr7we) | 3:00 | 2023-06-30 |  |
 | [Natural Blues](https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Discover](https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl) | 4:07 | 2022-05-27 | 2023-06-10 |
 | [Newbury](https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl) | [Emiliano Savini](https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv), [Liliana Richter](https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms) | [Newbury](https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3) | 3:18 | 2022-10-14 |  |
-| [North Carolina Bound \(Acoustic Duo\)](https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm) | [Lil Ed Williams](https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP) | [Keep On Walkin'](https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu) | 4:59 | 2023-01-20 |  |
+| [North Carolina Bound \(Acoustic Duo\)](https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm) | [Lil Ed Williams](https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP) | [Keep On Walkin'](https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu) | 4:59 | 2023-01-20 | 2023-06-30 |
 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-05-25 |  |
 | [Only Porter at the Station](https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 4:27 | 2022-10-10 |  |
 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 | 2022-05-25 |  |

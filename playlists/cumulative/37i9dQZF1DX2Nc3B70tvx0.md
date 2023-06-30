@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023\. Cover: Youth Lagoon
 
-1,643 songs - 4 day 2 hr 44 min
+1,644 songs - 4 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -908,7 +908,7 @@
 | [Maybe I'll Go Nowhere](https://open.spotify.com/track/4dry9L9GCVDkZccpIQ81LH) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 4:03 | 2020-02-14 | 2021-05-27 |
 | [Maybe We Could](https://open.spotify.com/track/17hWC0trWpd4NFLBldsmr0) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Maybe We Could](https://open.spotify.com/album/5gbBvOETd39fVSwkua7bPC) | 2:58 | 2020-07-24 | 2020-12-04 |
 | [Maybe You're the Reason](https://open.spotify.com/track/7xKjdvYaJ1tvwNXRTAZs78) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Maybe You're the Reason](https://open.spotify.com/album/17KlhxChcvEVCiYqQ54q34) | 3:38 | 2019-05-26\* | 2019-06-21 |
-| [Medicine](https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 5:11 | 2023-06-02 |  |
+| [Medicine](https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 5:11 | 2023-06-02 | 2023-06-30 |
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2021-05-28 | 2022-04-30 |
 | [Medicine](https://open.spotify.com/track/7lLtAjBc4Fkaw0FkBQWlSX) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:00 | 2021-02-07 | 2022-04-30 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-08-25 | 2022-01-22 |
@@ -1148,6 +1148,7 @@
 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 | 2021-09-02 | 2022-05-21 |
 | [Price](https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:48 | 2020-08-07 | 2021-03-19 |
 | [Prisoner of Love](https://open.spotify.com/track/6dReR7r5q7kuPXdPeKlpsc) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [It's All in Your Head](https://open.spotify.com/album/34CqB05BngfzQL8atvaIH1) | 3:48 | 2020-03-14 | 2020-10-13 |
+| [Prizefighter](https://open.spotify.com/track/3bXZ7OC22m5hqYNv6gR8cd) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 2:41 | 2023-04-14 |  |
 | [Prizefighter](https://open.spotify.com/track/57ge8V32XiTBS89Hrg7x37) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Prizefighter](https://open.spotify.com/album/4apxsM5k0P357bjJptoiNx) | 2:41 | 2023-04-14 | 2023-06-10 |
 | [Prom Queen](https://open.spotify.com/track/3MtGstTnbaZaVOLcfpuiiE) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/5oCpbhgCKnqNHaUAtVA2Cg) | 2:16 | 2019-05-26\* | 2019-08-13 |
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-06-22 |  |

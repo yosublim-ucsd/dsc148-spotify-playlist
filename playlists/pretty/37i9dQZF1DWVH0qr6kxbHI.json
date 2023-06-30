@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 59089,
+  "num_followers": 59137,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGNkYmQzNWIwZjQ0ODVkZjk5MmJmZGYwZTFkMTEwZDUyZjVhN2Y4",
+  "snapshot_id": "MCw3YmMyY2ExYmNiNTQ0MTMxNzQ3NGQ0ODc4NjkyMzE0ZWM2MWYyOTJj",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW"
+      },
+      "artists": [
+        {
+          "name": "Azucar Moreno",
+          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/2rHhKu1hW8uqyr7LSrRn8E"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Mari Trini Con los Panchos",
         "url": "https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 204347,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW"
-      },
-      "artists": [
-        {
-          "name": "Azucar Moreno",
-          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/2rHhKu1hW8uqyr7LSrRn8E"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Oraciones de amor",
-        "url": "https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 281440,
-      "name": "Te amar\u00e9, te amo, y te querr\u00e9",
-      "url": "https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Gracias A Vosotros",
         "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 190000,
       "name": "Fina Estampa (with Miguel Poveda) - Con Miguel Poveda",
       "url": "https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Oraciones de amor",
+        "url": "https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg"
+      },
+      "artists": [
+        {
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+        }
+      ],
+      "duration_ms": 281440,
+      "name": "Te amar\u00e9, te amo, y te querr\u00e9",
+      "url": "https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Una estrella en mi jard\u00edn",
-        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
+        "name": "Caprichos de Mujer",
+        "url": "https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3"
       },
       "artists": [
         {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
         }
       ],
-      "duration_ms": 303826,
-      "name": "Una estrella en mi jard\u00edn",
-      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
+      "duration_ms": 253600,
+      "name": "T\u00fa Me Camelas (Tangos)",
+      "url": "https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Caprichos de Mujer",
-        "url": "https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3"
+        "name": "Una estrella en mi jard\u00edn",
+        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
         }
       ],
-      "duration_ms": 253600,
-      "name": "T\u00fa Me Camelas (Tangos)",
-      "url": "https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi"
+      "duration_ms": 303826,
+      "name": "Una estrella en mi jard\u00edn",
+      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Esc\u00fachame",
-        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
+        "name": "Carmen Sevilla : Sus Grandes Exitos",
+        "url": "https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R"
       },
       "artists": [
         {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+          "name": "Carmen Sevilla",
+          "url": "https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Que seas feliz",
-      "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
+      "duration_ms": 184693,
+      "name": "Te Quiero Te Quiero",
+      "url": "https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Carmen Sevilla : Sus Grandes Exitos",
-        "url": "https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R"
+        "name": "Esc\u00fachame",
+        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
       "artists": [
         {
-          "name": "Carmen Sevilla",
-          "url": "https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO"
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
         }
       ],
-      "duration_ms": 184693,
-      "name": "Te Quiero Te Quiero",
-      "url": "https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH"
+      "duration_ms": 232000,
+      "name": "Que seas feliz",
+      "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Baladilla De Los Tres R\u00edos",
-        "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
-      },
-      "artists": [
-        {
-          "name": "Pasi\u00f3n Vega",
-          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
-        }
-      ],
-      "duration_ms": 192627,
-      "name": "Baladilla De Los Tres R\u00edos",
-      "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Grandes \u00c9xitos 2010s",
         "url": "https://open.spotify.com/album/3TDsEMQcWHFEtk8zG9BefQ"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 184013,
       "name": "Qu\u00e9date conmigo (Eurovisi\u00f3n)",
       "url": "https://open.spotify.com/track/5w4aMsqHAoxgx3M1mXA1TS"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Baladilla De Los Tres R\u00edos",
+        "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
+      },
+      "artists": [
+        {
+          "name": "Pasi\u00f3n Vega",
+          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
+        }
+      ],
+      "duration_ms": 192627,
+      "name": "Baladilla De Los Tres R\u00edos",
+      "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
     },
     {
       "added_at": "2022-11-03 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 187108,
+  "num_followers": 187115,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjA4YTk4N2QyYTIwNWI3MTE4ZjEwZTVhYzI5ODE2Mjg5NjE2ZTEy",
+  "snapshot_id": "MCw2N2QxYzY0MDlhOTc2MWNmYWI5ZTc4YzJjYzRhNjExNWU5OWNlODk0",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -531,6 +531,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 256058,
+      "name": "La Muerte",
+      "url": "https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 193826,
       "name": "Te Vas \u00c1ngel M\u00edo - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
       "url": "https://open.spotify.com/track/3a7sMVCjNMQ5B1cE3XXub8"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 256058,
-      "name": "La Muerte",
-      "url": "https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Chavela Vargas: 30 Exitos",
-        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 204617,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Joyas De Dos Siglos",
         "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 174800,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Chavela Vargas: 30 Exitos",
+        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 204617,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Buenaventura",
-        "url": "https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Calaverita",
-      "url": "https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Natalia Lafourcade (Spotify Session)",
         "url": "https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 272506,
       "name": "Silencio - Spotify Session",
       "url": "https://open.spotify.com/track/2LtKvokRMG1bayE9PcVGwu"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Buenaventura",
+        "url": "https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Calaverita",
+      "url": "https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "God Save The Queers EP",
-        "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
-      },
-      "artists": [
-        {
-          "name": "Kumbia Queers",
-          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
-        }
-      ],
-      "duration_ms": 288253,
-      "name": "Kumbia Zombie",
-      "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Contestadas Y Rancheras",
         "url": "https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 138541,
       "name": "La Catr\u00edna Pobre",
       "url": "https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "God Save The Queers EP",
+        "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
+      },
+      "artists": [
+        {
+          "name": "Kumbia Queers",
+          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
+        }
+      ],
+      "duration_ms": 288253,
+      "name": "Kumbia Zombie",
+      "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "La Danza de la Muerte (D\u00eda de Muertos)",
-        "url": "https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ"
-      },
-      "artists": [
-        {
-          "name": "Fanko",
-          "url": "https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n"
-        }
-      ],
-      "duration_ms": 194092,
-      "name": "La Danza de la Muerte - D\u00eda de Muertos",
-      "url": "https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Vivir Muriendo",
         "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 238280,
       "name": "De\u0301cimas a La Muerte",
       "url": "https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "La Danza de la Muerte (D\u00eda de Muertos)",
+        "url": "https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ"
+      },
+      "artists": [
+        {
+          "name": "Fanko",
+          "url": "https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n"
+        }
+      ],
+      "duration_ms": 194092,
+      "name": "La Danza de la Muerte - D\u00eda de Muertos",
+      "url": "https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Vivir Muriendo",
-        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
-      },
-      "artists": [
-        {
-          "name": "Astrid Hadad",
-          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "El Enterrador",
-      "url": "https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Las Canciones Inolvidables de Pedro Infante",
         "url": "https://open.spotify.com/album/3IpDxK3aXi9c1t0B37Jti6"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 131133,
       "name": "Angelitos negros",
       "url": "https://open.spotify.com/track/5hvKLjOgEc8SPTssFy45GJ"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+      },
+      "artists": [
+        {
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "El Enterrador",
+      "url": "https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI"
     },
     {
       "added_at": "2021-11-01 17:39:36",

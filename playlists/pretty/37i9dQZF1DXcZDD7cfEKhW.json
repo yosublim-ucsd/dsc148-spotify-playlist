@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Ava Max",
-  "num_followers": 3412291,
+  "num_followers": 3412573,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGE4YTM3Nzg5YzVjMDlkYmZmZDViNGEzODE5ODJkYjQ2NzFhYWEw",
+  "snapshot_id": "MCxmMmFkMzgzYmE2YjNhOWJkNzM0NWZhZTMxMWM5ZjRiNWJjNmEyOTEx",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -515,6 +515,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
+        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
+      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
-        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
-      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1083,22 +1083,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "golden hour (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf"
+        "name": "Sunshine. The EP",
+        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 154761,
-      "name": "golden hour - R3HAB Remix",
-      "url": "https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6"
+      "duration_ms": 188825,
+      "name": "Sunshine - MOTi Remix",
+      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Sunshine. The EP",
-        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
+        "name": "golden hour (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 188825,
-      "name": "Sunshine - MOTi Remix",
-      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
+      "duration_ms": 154761,
+      "name": "golden hour - R3HAB Remix",
+      "url": "https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "My Head & My Heart (Claptone Remix)",
-        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 182450,
-      "name": "My Head & My Heart - Claptone Remix",
-      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Eyes Closed (Lost Frequencies Remix)",
         "url": "https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 179529,
       "name": "Eyes Closed - Lost Frequencies Remix",
       "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "My Head & My Heart (Claptone Remix)",
+        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 182450,
+      "name": "My Head & My Heart - Claptone Remix",
+      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 155676,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Sweetest Pie (David Guetta Remixes)",
         "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 143000,
       "name": "Sweetest Pie - David Guetta Dance Remix",
       "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 155676,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "How Do I Say Goodbye (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/2l9HABqiwDkL7oVGAiW2mV"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 225563,
-      "name": "How Do I Say Goodbye - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/1ps5972g02HgOtvjE8OMfz"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Better Days (Regard Remix)",
         "url": "https://open.spotify.com/album/5QkWVBDHnfAlFpbRaLSXmV"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 166075,
       "name": "Better Days - Regard Remix",
       "url": "https://open.spotify.com/track/7Edhy8323TjVAwvtoqujQu"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "How Do I Say Goodbye (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/2l9HABqiwDkL7oVGAiW2mV"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 225563,
+      "name": "How Do I Say Goodbye - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1ps5972g02HgOtvjE8OMfz"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Original Sin (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/77FbpXGyS9pbEaiHymovlP"
       },
@@ -1839,26 +1819,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
-        "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
+        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 217766,
-      "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
-      "url": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0"
+      "duration_ms": 171840,
+      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1883,6 +1859,30 @@
       "duration_ms": 140059,
       "name": "Freaky Deaky - R3HAB Remix",
       "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
+        "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 217766,
+      "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
+      "url": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1975,30 +1975,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Summer In New York (\u00d6wnboss & Fancy Inc Remix)",
-        "url": "https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
-      "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "I Got A Feeling (James Hype Remix)",
         "url": "https://open.spotify.com/album/7uegIm3LnOTWk7QGgs9qiC"
       },
@@ -2023,6 +1999,30 @@
       "duration_ms": 161257,
       "name": "I Got A Feeling - James Hype Remix",
       "url": "https://open.spotify.com/track/4SYbdrmyDpCvWkoC4skk5z"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Summer In New York (\u00d6wnboss & Fancy Inc Remix)",
+        "url": "https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
+      "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
     },
     {
       "added_at": "2023-06-09 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Focus with soft study music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,729,882 likes - 318 songs - 13 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,729,953 likes - 318 songs - 13 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 317 | [Perfectly Flawed](https://open.spotify.com/track/6AdGVOupLKxDJTByA1Fs1j) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [Perfectly Flawed](https://open.spotify.com/album/0K5ub7KMLtzFk4zM2nFiAp) | 2:47 |
 | 318 | [Terrain libre](https://open.spotify.com/track/2U98faYK9ltVgZix2ZxZKC) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Terrain libre](https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U) | 2:39 |
 
-Snapshot ID: `MCxmOWRiYzBhNThmNGMzOWFiMTFkMmI4ZjJkMWFhYTgyN2ZhOTI4ZmVl`
+Snapshot ID: `MCwyZDdmNDVhOGY0MzY1NzgyNzNjMDdlYjdiNjI3MDk2OWQ5MzRlZDM0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9 x Dadju",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
   "name": "R&Bae",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 129748,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/56q3vWvUDhVR0yHTtC9RLN"
+    },
+    {
+      "album": {
+        "name": "Aime encore",
+        "url": "https://open.spotify.com/album/4HU4YkYfoHKgeHXZrw1PlZ"
+      },
+      "artists": [
+        {
+          "name": "Olivyah",
+          "url": "https://open.spotify.com/artist/1RWFgAXpkRkDhovaib8Bt5"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191900,
+      "name": "Aime encore",
+      "url": "https://open.spotify.com/track/7cdZLWUqqx3bbLBl0HUCCM"
     },
     {
       "album": {
@@ -426,7 +444,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 193131,
       "name": "Chupa Chups",
       "url": "https://open.spotify.com/track/7EutpTfTMlSP1mgC3TDmv4"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 196026,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/46uwAtOsDM3mAJOp8ycCxM"
@@ -1017,6 +1035,28 @@
     },
     {
       "album": {
+        "name": "Faits Divers",
+        "url": "https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        },
+        {
+          "name": "FLEM KGB",
+          "url": "https://open.spotify.com/artist/2nnza2r2urV90Ykr5Sfnsi"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "GTB",
+      "url": "https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu"
+    },
+    {
+      "album": {
         "name": "SUAVE Tome 1",
         "url": "https://open.spotify.com/album/5NBBTPy9RGlpeev6iXEuXI"
       },
@@ -1072,6 +1112,28 @@
       "duration_ms": 142595,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/1y0U1pZhkayeBRViBcf5zu"
+    },
+    {
+      "album": {
+        "name": "Henny",
+        "url": "https://open.spotify.com/album/5uhxqK0SAwJYCulcb9ug9R"
+      },
+      "artists": [
+        {
+          "name": "$hiro",
+          "url": "https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn"
+        },
+        {
+          "name": "Samy Lrzo",
+          "url": "https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149106,
+      "name": "Henny",
+      "url": "https://open.spotify.com/track/5kFqyOxSzbsXVaqVfXhJ57"
     },
     {
       "album": {
@@ -1740,7 +1802,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 178946,
       "name": "Ma ville",
       "url": "https://open.spotify.com/track/6L4F0EkPQw2u4Z1U05LFVK"
@@ -2447,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Sans Filtre",
+        "url": "https://open.spotify.com/album/5JczTcyvSeUFSE4h5pBfIW"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sans Filtre",
+      "url": "https://open.spotify.com/track/2XNcON85G8D4uX4e8DwJrq"
+    },
+    {
+      "album": {
         "name": "En attendant PM",
         "url": "https://open.spotify.com/album/62FGudHITMLyLr0dZFV8Xa"
       },
@@ -2476,7 +2556,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 156631,
       "name": "Sentiments",
       "url": "https://open.spotify.com/track/1lOsNJwmQ8IQHlADQnLoCL"
@@ -2603,6 +2683,28 @@
     },
     {
       "album": {
+        "name": "STARBOY",
+        "url": "https://open.spotify.com/album/6UqiTNHnZugEVwRuRW9TQC"
+      },
+      "artists": [
+        {
+          "name": "CHRISUPTOWN",
+          "url": "https://open.spotify.com/artist/30N4KghspyCmNAmOlmW2z5"
+        },
+        {
+          "name": "DIMA DIMA",
+          "url": "https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "STARBOY",
+      "url": "https://open.spotify.com/track/5dcr1TKZrq2N15lVIfaK21"
+    },
+    {
+      "album": {
         "name": "T'avais raison",
         "url": "https://open.spotify.com/album/41zHFFsPyr6i85IP4LKbYQ"
       },
@@ -2716,7 +2818,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 150346,
       "name": "Tous les m\u00eames",
       "url": "https://open.spotify.com/track/7lKWxwj3OoCcRrt6jc4ISE"

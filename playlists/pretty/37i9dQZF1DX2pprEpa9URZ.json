@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 723146,
+  "num_followers": 723386,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmI0MmViMjM2NjE3ZWQ0ZGM1MjdjZjU4ODAyMmY1MDAxZWMzYjcw",
+  "snapshot_id": "MCw4OGYwODgzODVjMGI2NmJjYjRlMWVhMTJiYTEyYTRlYjk1YjdlY2Ey",
   "tracks": [
     {
       "added_at": "2023-04-20 22:01:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "REKERE",
-        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
-      },
-      "artists": [
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Stakev",
-          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
-        }
-      ],
-      "duration_ms": 465502,
-      "name": "Kwenzenjani",
-      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
       },
@@ -607,18 +587,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+        "name": "REKERE",
+        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
       },
       "artists": [
         {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Stakev",
+          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
+      "duration_ms": 465502,
+      "name": "Kwenzenjani",
+      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -639,6 +623,22 @@
       "duration_ms": 193306,
       "name": "La Isla - Radio Version",
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+      },
+      "artists": [
+        {
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+        }
+      ],
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "White Desert",
         "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 400696,
       "name": "White Desert",
       "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
-      },
-      "artists": [
-        {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
-        }
-      ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Seymour",
-        "url": "https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO"
-      },
-      "artists": [
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 327750,
-      "name": "Seymour",
-      "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Neko Ep",
         "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 273523,
       "name": "Neko (feat Kotoe)",
       "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Seymour",
+        "url": "https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 327750,
+      "name": "Seymour",
+      "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1031,6 +1031,38 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Humanidad",
+        "url": "https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "duration_ms": 521547,
+      "name": "Tembo",
+      "url": "https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
+      },
+      "artists": [
+        {
+          "name": "Antaares",
+          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
+        }
+      ],
+      "duration_ms": 396960,
+      "name": "Ciclos",
+      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Quem Sou Eu",
         "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
       },
@@ -1063,38 +1095,6 @@
       "duration_ms": 370196,
       "name": "Unsichtbar - Behrooz Zandi Remix",
       "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
-      },
-      "artists": [
-        {
-          "name": "Antaares",
-          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
-        }
-      ],
-      "duration_ms": 396960,
-      "name": "Ciclos",
-      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Humanidad",
-        "url": "https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6"
-      },
-      "artists": [
-        {
-          "name": "Pablo Fierro",
-          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
-        }
-      ],
-      "duration_ms": 521547,
-      "name": "Tembo",
-      "url": "https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 382066,
       "name": "Earth",
       "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1195,6 +1195,22 @@
       "duration_ms": 637455,
       "name": "Voodoo Guitar - Timboletti Remix",
       "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Ramirez",
+        "url": "https://open.spotify.com/album/32QAMGdVrsSzRAKmlwSVac"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ramirez",
+      "url": "https://open.spotify.com/track/0Wo0PUu0ALT89TWL2kTQzn"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Ramirez",
-        "url": "https://open.spotify.com/album/32QAMGdVrsSzRAKmlwSVac"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ramirez",
-      "url": "https://open.spotify.com/track/0Wo0PUu0ALT89TWL2kTQzn"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Woods, Tales & Friends",
         "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Kanasi",
+        "url": "https://open.spotify.com/album/01lYRkmYe19HKCTPOcrIs1"
+      },
+      "artists": [
+        {
+          "name": "Solidmind",
+          "url": "https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF"
+        }
+      ],
+      "duration_ms": 387898,
+      "name": "Kanasi",
+      "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Kanasi",
-        "url": "https://open.spotify.com/album/01lYRkmYe19HKCTPOcrIs1"
-      },
-      "artists": [
-        {
-          "name": "Solidmind",
-          "url": "https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF"
-        }
-      ],
-      "duration_ms": 387898,
-      "name": "Kanasi",
-      "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Caminata",
         "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 416267,
       "name": "Caminata",
       "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Solstice Vibes III",
-        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
-      },
-      "artists": [
-        {
-          "name": "Agawe",
-          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
-        }
-      ],
-      "duration_ms": 403831,
-      "name": "Flowers in Mind",
-      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1383,18 +1367,34 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+        "name": "Solstice Vibes III",
+        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
       },
       "artists": [
         {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+          "name": "Agawe",
+          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
         }
       ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+      "duration_ms": 403831,
+      "name": "Flowers in Mind",
+      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Latlal",
+        "url": "https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV"
+      },
+      "artists": [
+        {
+          "name": "Fairplay",
+          "url": "https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U"
+        }
+      ],
+      "duration_ms": 357220,
+      "name": "Latlal",
+      "url": "https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1"
     }
   ],
   "unique_name": "Org\u00e1nica",

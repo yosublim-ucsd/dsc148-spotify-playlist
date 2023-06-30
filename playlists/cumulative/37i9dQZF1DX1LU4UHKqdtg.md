@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: SHINee
 
-630 songs - 1 day 10 hr 38 min
+632 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-01-31 | 2023-05-17 |
 | [AZALEA](https://open.spotify.com/track/44t2jRqGiSDmxTCexAbboI) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:58 | 2022-04-04 | 2022-04-08 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-05 | 2022-11-30 |
+| [BAD HOBBY](https://open.spotify.com/track/4XGOlD2OFGPHXLA0DBPr5M) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 2:11 | 2023-06-29 |  |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-03 | 2022-05-18 |
 | [Bambi](https://open.spotify.com/track/6eIUezhD3M6EAtxhQlbQ5i) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Bambi](https://open.spotify.com/album/0zi3jrMTba0MvtIc99yjZq) | 3:23 | 2022-10-13 | 2022-12-24 |
 | [Bambi \- Instrumental](https://open.spotify.com/track/5Lzg5f2RPLqoQ1G78WVKFe) | [DAZBEE](https://open.spotify.com/artist/3kqdhGersPikNf9yOsjB6O) | [밤비](https://open.spotify.com/album/0zi3jrMTba0MvtIc99yjZq) | 3:23 | 2022-10-11 | 2022-10-15 |
@@ -89,7 +90,7 @@
 | [BOOM](https://open.spotify.com/track/7K9uHqLwv9sZMRKByrcUhw) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [BOOM](https://open.spotify.com/album/5sRPV0beVZhSj0kiJPtYh2) | 3:21 | 2022-06-28 | 2022-07-29 |
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-08 | 2022-04-29 |
 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 | 2023-06-15 |  |
-| [Bouquet](https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Bouquet](https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd) | 4:24 | 2023-01-24 |  |
+| [Bouquet](https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Bouquet](https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd) | 4:24 | 2023-01-24 | 2023-06-30 |
 | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [YEJI & RYUJIN of ITZY](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) | 2:42 | 2022-07-28 |  |
 | [BREATHE \-Japanese ver.\-](https://open.spotify.com/track/5vEvuoTTx7EAzO8X038yiq) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [ABSOLUTE 6IX](https://open.spotify.com/album/0aZqbkETzxarYTcSqg3kP3) | 3:40 | 2021-12-23 | 2022-01-14 |
 | [Broken Melodies](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 3:46 | 2023-06-19 |  |
@@ -227,6 +228,7 @@
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 | 2022-09-05 |
 | [Good Boy Gone Bad \- Japanese Ver.](https://open.spotify.com/track/1n52exGqPZkKBItLYxMksJ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [GOOD BOY GONE BAD](https://open.spotify.com/album/0nTPrUjlLwEJD6Fdw2GGoU) | 3:12 | 2022-08-30 | 2022-11-30 |
 | [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-04 | 2022-06-15 |
+| [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-29 |  |
 | [Groove Back \(Feat\. Gaeko\)](https://open.spotify.com/track/6ee02p5ioFpkeKDdDGOhkJ) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Groove Missing](https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0) | 3:32 | 2022-11-21 | 2023-03-15 |
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-03-06 | 2023-05-10 |
 | [Guardian](https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BASTIONS OST Part.4](https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k) | 2:38 | 2023-06-13 |  |
@@ -261,7 +263,7 @@
 | [Hush Hush \- Korean Version](https://open.spotify.com/track/7ys6BVqLd76ztQvc4Qan0L) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Rookie Cops \(Original Television Soundtrack\) Special](https://open.spotify.com/album/1NJCW55EE56cOKkDA5RI49) | 3:01 | 2022-03-10 | 2022-05-11 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-10 |  |
 | [I CAN'T STOP ME \- Japanese ver.](https://open.spotify.com/track/1tyCxhxiHQ9DoHIiDMFPzL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:29 | 2022-03-15 | 2022-05-18 |
-| [I do! Do you?](https://open.spotify.com/track/7wFeVMTlgOu910OH9RctRI) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [I do! Do you?](https://open.spotify.com/album/3UZfvVHePm0ROe6EcJEwMl) | 3:34 | 2023-02-21 |  |
+| [I do! Do you?](https://open.spotify.com/track/7wFeVMTlgOu910OH9RctRI) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [I do! Do you?](https://open.spotify.com/album/3UZfvVHePm0ROe6EcJEwMl) | 3:34 | 2023-02-21 | 2023-06-30 |
 | [I Like You](https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:26 | 2022-10-18 | 2022-11-11 |
 | [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 | 2022-08-09 | 2022-09-26 |
 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-28 | 2022-08-31 |

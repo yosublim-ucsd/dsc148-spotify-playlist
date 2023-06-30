@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 5 min
+55 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Changing Tunes](https://open.spotify.com/track/3YtsnLnLa42IZYXb2r1mCc) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Changing Tunes](https://open.spotify.com/album/7FxR6plvB489tqhcyRIS2a) | 3:10 | 2023-06-17 |  |
 | [Cigarettes & Whiskey](https://open.spotify.com/track/2QWEe3dQkKiGoTmptw3js1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/5sGkXduWzw2XCG8fAfkfcJ) | 3:38 | 2023-06-17 |  |
 | [Comin' From / Khe Sanh \- Medley](https://open.spotify.com/track/1aaVmTR7WXYDoSUpnGAknS) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:14 | 2023-06-17 |  |
+| [Dirt Racer](https://open.spotify.com/track/5UkNfI7pKdJWjqX3tTdOCs) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:12 | 2023-06-29 |  |
 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 | 2023-06-17 |  |
 | [Drunk](https://open.spotify.com/track/45lasTnqrHd1t9SZ8s2SWa) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 3:18 | 2023-06-17 |  |
 | [Dumb Things](https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 2:41 | 2023-06-17 |  |
@@ -39,7 +40,7 @@
 | [Little Less Lonely](https://open.spotify.com/track/5KISgft3lX4Gou5ymweGcN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:15 | 2023-06-17 |  |
 | [Love Away The Night](https://open.spotify.com/track/6AyfvtOk91Iyaa4sfEo9jJ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:38 | 2023-06-17 |  |
 | [Love Away The Night \- with Adam Brand](https://open.spotify.com/track/5nhyF9rPoP0tjqXNd7BRtj) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Oxygen](https://open.spotify.com/album/30EVdt1AjTXmPDeHDBnxZv) | 3:38 | 2023-06-17 |  |
-| [Love Is A Lesson \(feat\. Adam Brand\)](https://open.spotify.com/track/1x4RA9JlbUloiOb5CqQqoj) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Wired](https://open.spotify.com/album/2YVoRvMleX9NQyNvUC3de0) | 4:16 | 2023-06-27 |  |
+| [Love Is A Lesson \(feat\. Adam Brand\)](https://open.spotify.com/track/1x4RA9JlbUloiOb5CqQqoj) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Wired](https://open.spotify.com/album/2YVoRvMleX9NQyNvUC3de0) | 4:16 | 2023-06-27 | 2023-06-30 |
 | [Mamma Don't Let Your Babies](https://open.spotify.com/track/39m8k3Zy3ubhaU31UyW4EC) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 3:28 | 2023-06-17 |  |
 | [Milestones](https://open.spotify.com/track/6aK4ecrJMw0hBnWxSGulxH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Milestones](https://open.spotify.com/album/6Luiw9GezMaBUeRVozcsxp) | 3:35 | 2023-06-17 |  |
 | [Now We're Talking](https://open.spotify.com/track/3y94TeBQxO7z59PZLLLQH9) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Now We're Talking](https://open.spotify.com/album/1bhWVaM0AdYQxAd6eO38Id) | 3:00 | 2023-06-24 |  |
@@ -58,9 +59,9 @@
 | [Thump](https://open.spotify.com/track/6s2ycFh5w9TyLXXys1fmNH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 2:53 | 2023-06-17 |  |
 | [Way Out West](https://open.spotify.com/track/1Fec9MLNzxEcdEtLPlBMlQ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 3:53 | 2023-06-17 |  |
 | [Way Out West](https://open.spotify.com/track/24c3i7eM7aSQnUlcnTFPcS) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [TANIA KERNAGHAN](https://open.spotify.com/artist/1ebUo23AWCxBfiXQgWSr8e), [Brewn](https://open.spotify.com/artist/19ulwp3gtl233K8WVCegeP), [Bec Lavelle](https://open.spotify.com/artist/4zRwzsHNKXXMaOELVbfEIX), [Ben Ransom](https://open.spotify.com/artist/2SNFDfoQucCJ9PqJKgNuy5), [Paul Costa](https://open.spotify.com/artist/3bewnvoOe0gd88OyFziiFQ) | [Way Out West](https://open.spotify.com/album/2RbC672tpulMdA4fG5zLNh) | 3:58 | 2023-06-17 | 2023-06-29 |
-| [We're Makin' Up](https://open.spotify.com/track/6ymZbNbEFLTLkEfqMHpJAN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:03 | 2023-06-18 | 2023-06-28 |
+| [We're Makin' Up](https://open.spotify.com/track/6ymZbNbEFLTLkEfqMHpJAN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:03 | 2023-06-18 |  |
 | [You Are Not Alone](https://open.spotify.com/track/6CavrLdJAXl9bn0DQEgBm4) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:25 | 2023-06-17 |  |
 | [You Are To Me](https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:12 | 2023-06-17 |  |
-| [You're A Revhead](https://open.spotify.com/track/5dj1SeeHuxrqOL77UrafQX) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:00 | 2023-06-23 |  |
+| [You're A Revhead](https://open.spotify.com/track/5dj1SeeHuxrqOL77UrafQX) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:00 | 2023-06-23 | 2023-06-30 |
 
 \*This playlist was first scraped on 2023-06-18. Prior content cannot be recovered.

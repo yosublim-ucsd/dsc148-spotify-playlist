@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 153063,
+  "num_followers": 153089,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjIyYzFhZTIyYjk0ZGIzNTk5MDdmYjRiMzY3ZTU4YTQ1Mjk0NGQ4",
+  "snapshot_id": "MCw2ZDEwZDI0Y2NkNDRlYzc4MDk4MjM1OWRmM2U0OTg3MDcxNTg2NTRk",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/6hFi0gXP8KItwMqfBgf44b"
     },
     {
-      "added_at": "2023-05-19 09:18:00",
-      "album": {
-        "name": "Meltdown (Acoustic)",
-        "url": "https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224487,
-      "name": "Meltdown - Acoustic",
-      "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Dancing On My Own (Acoustic)",
@@ -443,6 +427,22 @@
       "duration_ms": 253482,
       "name": "Dancing On My Own - Acoustic",
       "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
+    },
+    {
+      "added_at": "2023-05-19 09:18:00",
+      "album": {
+        "name": "Meltdown (Acoustic)",
+        "url": "https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224487,
+      "name": "Meltdown - Acoustic",
+      "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -565,42 +565,6 @@
       "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
-        "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
-      },
-      "artists": [
-        {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
-        },
-        {
-          "name": "Keelan Donovan",
-          "url": "https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
-      "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
-    },
-    {
       "added_at": "2023-06-23 11:57:00",
       "album": {
         "name": "Can\u2019t Forget You (feat. James Blunt) [Acoustic]",
@@ -623,6 +587,42 @@
       "duration_ms": 145521,
       "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
       "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
+        "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        },
+        {
+          "name": "Keelan Donovan",
+          "url": "https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
+      "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2023-02-24 11:06:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "see u tomorrow (stripped)",
-        "url": "https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH"
-      },
-      "artists": [
-        {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
-        }
-      ],
-      "duration_ms": 197845,
-      "name": "see u tomorrow - stripped",
-      "url": "https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 212400,
       "name": "OK",
       "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "see u tomorrow (stripped)",
+        "url": "https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "duration_ms": 197845,
+      "name": "see u tomorrow - stripped",
+      "url": "https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -935,18 +935,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "T-Shirts (Acoustic)",
-        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
+        "name": "Hey (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
       "artists": [
         {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 195480,
-      "name": "T-Shirts - Acoustic",
-      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
+      "duration_ms": 156804,
+      "name": "Hey - Acoustic",
+      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -967,22 +971,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
+        "name": "T-Shirts (Acoustic)",
+        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
       },
       "artists": [
         {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
         }
       ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
+      "duration_ms": 195480,
+      "name": "T-Shirts - Acoustic",
+      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Chasing After the Moon",
-        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
-      },
-      "artists": [
-        {
-          "name": "Michael Shynes",
-          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
-        }
-      ],
-      "duration_ms": 238994,
-      "name": "Chasing After the Moon",
-      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Clean Eyes",
         "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 222810,
       "name": "Clean Eyes - Acoustic",
       "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Chasing After the Moon",
+        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
+      },
+      "artists": [
+        {
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        }
+      ],
+      "duration_ms": 238994,
+      "name": "Chasing After the Moon",
+      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
     },
     {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Sometimes I Feel",
-        "url": "https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r"
-      },
-      "artists": [
-        {
-          "name": "Lasse Skriver",
-          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
-        }
-      ],
-      "duration_ms": 147354,
-      "name": "Sometimes I Feel",
-      "url": "https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Island Life Coffee House (Vol. 1)",
@@ -1207,6 +1191,22 @@
       "duration_ms": 234133,
       "name": "Be As You Are - Acoustic",
       "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
+    },
+    {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Sometimes I Feel",
+        "url": "https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r"
+      },
+      "artists": [
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+        }
+      ],
+      "duration_ms": 147354,
+      "name": "Sometimes I Feel",
+      "url": "https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1305,6 +1305,22 @@
       "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
     },
     {
+      "added_at": "2023-03-14 14:57:00",
+      "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+    },
+    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "The One I Love",
@@ -1321,20 +1337,20 @@
       "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
     },
     {
-      "added_at": "2023-03-14 14:57:00",
+      "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+      "duration_ms": 250573,
+      "name": "Nervous - Acoustic",
+      "url": "https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 142686,
       "name": "Days That End in Y",
       "url": "https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Nervous - Acoustic",
-      "url": "https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Tofino",
+        "url": "https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW"
+      },
+      "artists": [
+        {
+          "name": "Julianna Laine",
+          "url": "https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Tofino",
+      "url": "https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Without Me (Acoustic)",
         "url": "https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 160500,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "In Hindsight",
-        "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 138220,
-      "name": "I don't mind if you don't mind (draft)",
-      "url": "https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr"
     }
   ],
   "unique_name": "Soft Morning",

@@ -2257,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Mission Creep",
+        "url": "https://open.spotify.com/album/0qplBAg6M8wyXjzX4Dr7we"
+      },
+      "artists": [
+        {
+          "name": "Damian Lewis",
+          "url": "https://open.spotify.com/artist/20R6sAvzVdutpZtmyr3hue"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180793,
+      "name": "My Little One",
+      "url": "https://open.spotify.com/track/3Jpj3WobbdheWDhXL51M1a"
+    },
+    {
+      "album": {
         "name": "Discover",
         "url": "https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl"
       },
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 299867,
       "name": "North Carolina Bound (Acoustic Duo)",
       "url": "https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm"

@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 432359,
+  "num_followers": 432515,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDBiZDU0NDE5YzUwMDRmOTk5NGFlMzYzMGQ0NTNjY2I4OGQyNWI2",
+  "snapshot_id": "MCxhOTk5MmUyM2NkYjVhNDJkNjFlNmUwNDE4ZDk0NzNiNzkzMmNkYThm",
   "tracks": [
     {
       "added_at": "2023-06-09 09:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "I Needed / Intercession, On Behalf",
-        "url": "https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p"
-      },
-      "artists": [
-        {
-          "name": "Hanna",
-          "url": "https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB"
-        }
-      ],
-      "duration_ms": 397640,
-      "name": "I Needed",
-      "url": "https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "Ocean Drift",
         "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 136666,
       "name": "Ocean Drift",
       "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "I Needed / Intercession, On Behalf",
+        "url": "https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p"
+      },
+      "artists": [
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB"
+        }
+      ],
+      "duration_ms": 397640,
+      "name": "I Needed",
+      "url": "https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Love Is",
-        "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
-      },
-      "artists": [
-        {
-          "name": "Prequel",
-          "url": "https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys"
-        },
-        {
-          "name": "Cazeaux O.S.L.O",
-          "url": "https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
+      },
+      "artists": [
+        {
+          "name": "Prequel",
+          "url": "https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys"
+        },
+        {
+          "name": "Cazeaux O.S.L.O",
+          "url": "https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "The Sayers",
-        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
-      },
-      "artists": [
-        {
-          "name": "Klein Zage",
-          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
-        }
-      ],
-      "duration_ms": 293584,
-      "name": "The Sayers",
-      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
         "name": "Hyperspace (feat. Teza Sumendra)",
         "url": "https://open.spotify.com/album/1RA1liM0tl38zX5sjSDurR"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 204445,
       "name": "Hyperspace (feat. Teza Sumendra)",
       "url": "https://open.spotify.com/track/3zIyDwLqQMbXc1pq95TIrk"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "The Sayers",
+        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
+      },
+      "artists": [
+        {
+          "name": "Klein Zage",
+          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
+        }
+      ],
+      "duration_ms": 293584,
+      "name": "The Sayers",
+      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -831,6 +831,42 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/7jeZwknYYW5IDPGYTjgCUS"
+      },
+      "artists": [
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        },
+        {
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        }
+      ],
+      "duration_ms": 197444,
+      "name": "Orchid",
+      "url": "https://open.spotify.com/track/6ARA9XhvZ9WxrNHbsxwweQ"
+    },
+    {
+      "added_at": "2023-06-09 09:00:00",
+      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -851,34 +887,18 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "What It Is (2.0)",
-        "url": "https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay"
+        "name": "Tokyo Cruise",
+        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
       },
       "artists": [
         {
-          "name": "Kapote",
-          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 336025,
-      "name": "The Body Move",
-      "url": "https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
-        "name": "Dosages, Vol. 2",
-        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
-      },
-      "artists": [
-        {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Lofi Vs. House",
-      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
+      "duration_ms": 182500,
+      "name": "Tokyo Cruise",
+      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
     },
     {
       "added_at": "2023-06-09 09:00:00",
@@ -903,38 +923,18 @@
     {
       "added_at": "2023-06-09 09:00:00",
       "album": {
-        "name": "Tokyo Cruise",
-        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
+        "name": "What It Is (2.0)",
+        "url": "https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay"
       },
       "artists": [
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Tokyo Cruise",
-      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
-    },
-    {
-      "added_at": "2023-06-09 09:00:00",
-      "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/7jeZwknYYW5IDPGYTjgCUS"
-      },
-      "artists": [
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
-        },
-        {
-          "name": "M1NT",
-          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
-        }
-      ],
-      "duration_ms": 197444,
-      "name": "Orchid",
-      "url": "https://open.spotify.com/track/6ARA9XhvZ9WxrNHbsxwweQ"
+      "duration_ms": 336025,
+      "name": "The Body Move",
+      "url": "https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W"
     },
     {
       "added_at": "2023-06-09 09:00:00",

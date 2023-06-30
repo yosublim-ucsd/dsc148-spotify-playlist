@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 137630,
+  "num_followers": 137798,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTMwYTRhMjhjNjVkOTk0NjUzMzMxYzMwNDdkNmNkOGFiMWEzNTM2",
+  "snapshot_id": "MCwyOTk5OWJjMDE3MDI3MDE5YjYzODNlNzQ0YjJkOGJlMDMwMjYzNmEw",
   "tracks": [
     {
       "added_at": "2023-04-09 08:31:46",
@@ -99,50 +99,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Uniendo Cielo Y Tierra",
-        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
-      },
-      "artists": [
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
-        },
-        {
-          "name": "Lucas Conslie",
-          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
-        }
-      ],
-      "duration_ms": 601586,
-      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
-      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 299706,
-      "name": "Preciosa Sangre",
-      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -171,6 +127,42 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 299706,
+      "name": "Preciosa Sangre",
+      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Vida Encontr\u00e9",
+        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Ll\u00e9vame A La Cruz",
+      "url": "https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Somos Iglesia",
         "url": "https://open.spotify.com/album/4PLfF0JPfYpAXK2vzjHK4F"
       },
@@ -191,18 +183,26 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Vida Encontr\u00e9",
-        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
+        "name": "Uniendo Cielo Y Tierra",
+        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
       "artists": [
         {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Ll\u00e9vame A La Cruz",
-      "url": "https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ"
+      "duration_ms": 601586,
+      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
+      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
     },
     {
       "added_at": "2023-04-09 08:31:46",

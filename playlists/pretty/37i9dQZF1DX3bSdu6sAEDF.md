@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,424 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,556 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 |
 | 75 | [What Am I Here For](https://open.spotify.com/track/5ZuMDliM4Kf7XYybWxj2mP) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [What Am I Here For](https://open.spotify.com/album/0poQC8eFbBU7KU8yMeEUVX) | 3:15 |
 
-Snapshot ID: `MCwzYTA5YjMzMDUxZDU5MWM4YzU0NGRjNmNmNzBmZGM4MTVhMGNmY2Y1`
+Snapshot ID: `MCw3MWZkOGU2MjM4YTE5MTE4YjA1ODM1YmIxNjk1OGI3MDRlZjBiZjRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,015 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,089 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 46 | [Morena Ven](https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K) | [The Max Band](https://open.spotify.com/artist/0cvniMxWoe3hiblRxmdWsk) | [Ultimate Merengue Party 2000](https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL) | 4:41 |
 | 47 | [Si Algún Día la Ves](https://open.spotify.com/track/7Er4UIZLdbJNX6hUP7dLFl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Los Hijos Del Rey](https://open.spotify.com/artist/5CtQgJ02UuGKfEaR3VTH1A) | [Sergio Vargas y Los Hijos del Rey](https://open.spotify.com/album/6lHfWJOhMIa8SBUqnNLgsv) | 4:42 |
 | 48 | [Mi Tonto Amor](https://open.spotify.com/track/6UEAh3AEbOMhgyH6OT8pDl) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd) | 4:17 |
-| 49 | [Qué Cara Más Bonita](https://open.spotify.com/track/2rHlBIvlUPHC1L8mK7FUfZ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Orquesta Liberacion](https://open.spotify.com/artist/6AiIFo4TiG53Z1Tt3WMrJz) | [Alex & Orquesta Liberación](https://open.spotify.com/album/0SMJS2P1TWZ4thyVxFfcrk) | 5:02 |
-| 50 | [Si Una Vez](https://open.spotify.com/track/20FcKeDZBAClUtEZVU1OVe) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0emzue2WXBfqL4jtZWurLP) | 4:48 |
+| 49 | [Si Una Vez](https://open.spotify.com/track/20FcKeDZBAClUtEZVU1OVe) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0emzue2WXBfqL4jtZWurLP) | 4:48 |
+| 50 | [Qué Cara Más Bonita](https://open.spotify.com/track/2rHlBIvlUPHC1L8mK7FUfZ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Orquesta Liberacion](https://open.spotify.com/artist/6AiIFo4TiG53Z1Tt3WMrJz) | [Alex & Orquesta Liberación](https://open.spotify.com/album/0SMJS2P1TWZ4thyVxFfcrk) | 5:02 |
 | 51 | [Carolina](https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amame](https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx) | 4:49 |
 | 52 | [Merenguero Hasta la Tambora \- Radio Version](https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [Mis Favoritas](https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO) | 3:04 |
 | 53 | [Sobrevivire](https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw) | 4:15 |
@@ -105,14 +105,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 95 | [Medley](https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:38 |
 | 96 | [Llego Tu Marido](https://open.spotify.com/track/2vHdz2ZLgw4Xj17WBlzERL) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [20 Exitos](https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w) | 5:04 |
 | 97 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
-| 98 | [Dame Tu Querer](https://open.spotify.com/track/46UUECFNuFNhHB42rrFv5Z) | [Carlos David](https://open.spotify.com/artist/0KmnidQUeuTEgPh8NhqpdY), [Orquesta Liberacion](https://open.spotify.com/artist/6AiIFo4TiG53Z1Tt3WMrJz) | [Carlos David y Orquesta Liberación](https://open.spotify.com/album/4FE7VGFdsrIahT6K5JLZrA) | 3:46 |
-| 99 | [El Cantante del Amor](https://open.spotify.com/track/6Tj7rpzgCrQxK9r6WgZk81) | [El Zafiro](https://open.spotify.com/artist/7gkL5E5Ci6Lrq9cjvwMUXA) | [El Cantante del Amor](https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G) | 3:45 |
+| 98 | [El Cantante del Amor](https://open.spotify.com/track/6Tj7rpzgCrQxK9r6WgZk81) | [El Zafiro](https://open.spotify.com/artist/7gkL5E5Ci6Lrq9cjvwMUXA) | [El Cantante del Amor](https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G) | 3:45 |
+| 99 | [Dame Tu Querer](https://open.spotify.com/track/46UUECFNuFNhHB42rrFv5Z) | [Carlos David](https://open.spotify.com/artist/0KmnidQUeuTEgPh8NhqpdY), [Orquesta Liberacion](https://open.spotify.com/artist/6AiIFo4TiG53Z1Tt3WMrJz) | [Carlos David y Orquesta Liberación](https://open.spotify.com/album/4FE7VGFdsrIahT6K5JLZrA) | 3:46 |
 | 100 | [Volvió Juanita](https://open.spotify.com/track/5GvmR9ZqUhjyyCf0fdsUCm) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Los Vecinos](https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a) | [Esta Noche!](https://open.spotify.com/album/7pEB5UVMpRaCcuRVaVErbw) | 4:37 |
 | 101 | [Te Amo](https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl) | [Los Sabrosos Del Merengue](https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW) | [Canta Manny Manuel](https://open.spotify.com/album/3vwIQeG3V6CFGkGj0FndWK) | 4:47 |
 | 102 | [Que Me Perdone Tu Señora](https://open.spotify.com/track/7EBoHMUXkF7PAu00Mb9yYA) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Me Sacudí](https://open.spotify.com/album/1pCLocpQ9BB96RILLpm1Ol) | 3:46 |
 | 103 | [No Me Importa, No](https://open.spotify.com/track/5Ea8d3nnfWqDGrFvtvS6ts) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Duro](https://open.spotify.com/album/3vSjCbYqpdImv7l7EP8hgj) | 3:55 |
-| 104 | [El Motor](https://open.spotify.com/track/7CP7A91oDk4PDZ6G1bGBY1) | [Aramis Camilo & La Organización Secreta](https://open.spotify.com/artist/4Ed7K2NmLiEgNPiCOn2ROj) | [Aramis Camilo & La Organización Secreta](https://open.spotify.com/album/0xZlcrFMCww15GMo37oqy1) | 3:44 |
-| 105 | [A Tatico Henriquez](https://open.spotify.com/track/5xASxsxQSjYYwO2arka7m0) | [Los Hijos Del Rey](https://open.spotify.com/artist/5CtQgJ02UuGKfEaR3VTH1A), [Fernandito Villalona](https://open.spotify.com/artist/5kKgKEQafTAeimgduQb6N3) | [Los Hijos del Rey Con Fernandito Villalona](https://open.spotify.com/album/5gbSTRxf1XcETgS2r1QqZe) | 4:03 |
+| 104 | [A Tatico Henriquez](https://open.spotify.com/track/5xASxsxQSjYYwO2arka7m0) | [Los Hijos Del Rey](https://open.spotify.com/artist/5CtQgJ02UuGKfEaR3VTH1A), [Fernandito Villalona](https://open.spotify.com/artist/5kKgKEQafTAeimgduQb6N3) | [Los Hijos del Rey Con Fernandito Villalona](https://open.spotify.com/album/5gbSTRxf1XcETgS2r1QqZe) | 4:03 |
+| 105 | [El Motor](https://open.spotify.com/track/7CP7A91oDk4PDZ6G1bGBY1) | [Aramis Camilo & La Organización Secreta](https://open.spotify.com/artist/4Ed7K2NmLiEgNPiCOn2ROj) | [Aramis Camilo & La Organización Secreta](https://open.spotify.com/album/0xZlcrFMCww15GMo37oqy1) | 3:44 |
 | 106 | [Locamente Enamorado](https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Noches Latinas](https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d) | 4:24 |
 | 107 | [Tu Mujer](https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:01 |
 | 108 | [El Silencio, Tu Y Yo](https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 3:57 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [Caminando por la Vida](https://open.spotify.com/track/44XXBf7NYly5Xsiuo7n6tu) | [Confusion](https://open.spotify.com/artist/6AcXxqmUIDCs3VRkWWRcgE) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 5:16 |
 | 150 | [Tu Belleza](https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI) | 3:39 |
 
-Snapshot ID: `MCxlODdiNWZiY2RiMGZkZTU0MThmZTVmODE2YjVmMmM5NmFiMzVlNzc0`
+Snapshot ID: `MCw2OTQ2MzlkYzQ4NTQ2MWQwNzJmODI3ZmJlMGQzODI0ODE4YmU1Zjk1`

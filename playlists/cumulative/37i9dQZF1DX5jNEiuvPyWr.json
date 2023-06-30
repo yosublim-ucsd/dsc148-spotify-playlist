@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : USKY",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 190000,
       "name": "BB APPRENDS-MOI \u00c0 FERMER LES YEUX",
       "url": "https://open.spotify.com/track/2fMsWuZwPOHzQubX1otzO2"
@@ -616,6 +616,24 @@
       "duration_ms": 146976,
       "name": "BLEU",
       "url": "https://open.spotify.com/track/4nIpx5FodqLx2fDjHQEeLU"
+    },
+    {
+      "album": {
+        "name": "BLEU LAGON",
+        "url": "https://open.spotify.com/album/4Gl1DkdM3CtGGj9fMXpSMl"
+      },
+      "artists": [
+        {
+          "name": "Magnar",
+          "url": "https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141226,
+      "name": "BLEU LAGON",
+      "url": "https://open.spotify.com/track/5HNdXMCVcUNrzcZZS68Abv"
     },
     {
       "album": {
@@ -742,7 +760,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 189666,
       "name": "B\u00e9lier",
       "url": "https://open.spotify.com/track/63nw2IGs22mY0j12wrTiCd"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 156350,
       "name": "C'EST MORT",
       "url": "https://open.spotify.com/track/4gZdVjI2z8RpfWOoboONMA"
@@ -1068,6 +1086,28 @@
       "duration_ms": 178290,
       "name": "COUP\u00c9",
       "url": "https://open.spotify.com/track/6AbZfezde2hXaauuzMaO0i"
+    },
+    {
+      "album": {
+        "name": "Associ\u00e9s",
+        "url": "https://open.spotify.com/album/7cKu958VBrfEhv5UQLeY0v"
+      },
+      "artists": [
+        {
+          "name": "Lacraps",
+          "url": "https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u"
+        },
+        {
+          "name": "Dezef",
+          "url": "https://open.spotify.com/artist/6MAtTUpkhJRcdgGRQUotX1"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "D'une vie \u00e0 l'autre",
+      "url": "https://open.spotify.com/track/6N64lJLiw3QqhWjZlhKJvB"
     },
     {
       "album": {
@@ -1556,7 +1596,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 210000,
       "name": "Formidable (Affam\u00e9 #21)",
       "url": "https://open.spotify.com/track/6MPI2k0lQSbk2tPc3Zu28s"
@@ -2302,7 +2342,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 206608,
       "name": "Le jour se l\u00e8ve",
       "url": "https://open.spotify.com/track/4xYzugCwM1DXu24t6UO5Z8"
@@ -3175,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "PAS DE CE MONDE",
+        "url": "https://open.spotify.com/album/3oYNnQnjfucofFcjlPoNJL"
+      },
+      "artists": [
+        {
+          "name": "NAOHS",
+          "url": "https://open.spotify.com/artist/6Te81qcP1wIVOh1v6mJAFb"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "PAS DE CE MONDE",
+      "url": "https://open.spotify.com/track/3zGuHTIdqFnrNVkyE2YR1d"
+    },
+    {
+      "album": {
         "name": "Perdu",
         "url": "https://open.spotify.com/album/0TPzjKqIXdyoxIeSlmXA1y"
       },
@@ -3392,7 +3450,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 189295,
       "name": "Pour \u00e7a",
       "url": "https://open.spotify.com/track/4AkMnFTomenc40qRtdIW1H"
@@ -3414,6 +3472,24 @@
       "duration_ms": 142900,
       "name": "Printemps - Live Spectre",
       "url": "https://open.spotify.com/track/2OoO0L9cFKiR2shTXVsDZ6"
+    },
+    {
+      "album": {
+        "name": "pr\u00e8s de moi",
+        "url": "https://open.spotify.com/album/6Xu8rXSHJztxqZWetsGDdM"
+      },
+      "artists": [
+        {
+          "name": "Sokuu",
+          "url": "https://open.spotify.com/artist/0et1mZYLCSVBIBUY94B8Xn"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "pr\u00e8s de moi",
+      "url": "https://open.spotify.com/track/5gu8ULeLakv6BwgrKyvCOc"
     },
     {
       "album": {
@@ -3512,7 +3588,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 167982,
       "name": "REFLET",
       "url": "https://open.spotify.com/track/6WVQNv6OfbKtZ5GIVsmWCu"
@@ -3654,6 +3730,24 @@
       "duration_ms": 183588,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/3UnOokumsh7zsWbMwdMVdo"
+    },
+    {
+      "album": {
+        "name": "Rue de la paix",
+        "url": "https://open.spotify.com/album/4A6zzEAKFiT4RCKevScRUb"
+      },
+      "artists": [
+        {
+          "name": "Dabs",
+          "url": "https://open.spotify.com/artist/0VF7XcB73fBSIfX9hOTVij"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189649,
+      "name": "Rue de la paix",
+      "url": "https://open.spotify.com/track/5QMyAAzU6ZHlFhkzxklsCa"
     },
     {
       "album": {
@@ -3850,6 +3944,24 @@
       "duration_ms": 155683,
       "name": "Sans \u00e7a",
       "url": "https://open.spotify.com/track/1VZr0fGotyAn61HlsUpk4R"
+    },
+    {
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6"
+      },
+      "artists": [
+        {
+          "name": "Django",
+          "url": "https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155990,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7"
     },
     {
       "album": {
@@ -4294,6 +4406,24 @@
       "duration_ms": 147692,
       "name": "UN PEU PLUS SIMPLE",
       "url": "https://open.spotify.com/track/1r5arJxSXv04aIhiIwlbkL"
+    },
+    {
+      "album": {
+        "name": "Une \u00e9ternit\u00e9 ne suffit pas (Affam\u00e9 #22)",
+        "url": "https://open.spotify.com/album/1SFCLinVrGjftX2Az7DN27"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144733,
+      "name": "Une \u00e9ternit\u00e9 ne suffit pas (Affam\u00e9 #22)",
+      "url": "https://open.spotify.com/track/7DpCZl6Gej1g4TDBcwzoix"
     },
     {
       "album": {

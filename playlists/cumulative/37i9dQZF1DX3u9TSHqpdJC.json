@@ -7163,6 +7163,24 @@
     },
     {
       "album": {
+        "name": "brussels sprouts",
+        "url": "https://open.spotify.com/album/2M8QuyHdxAanzktiuKH8HB"
+      },
+      "artists": [
+        {
+          "name": "Samantha Jean",
+          "url": "https://open.spotify.com/artist/3nYLMU5zjw4mzDt178Kz6G"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184225,
+      "name": "brussels sprouts",
+      "url": "https://open.spotify.com/track/3RrKyh47VGMjKQls0iivoR"
+    },
+    {
+      "album": {
         "name": "BRUTAL - Spotify Singles",
         "url": "https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW"
       },

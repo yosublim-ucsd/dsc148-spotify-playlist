@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,201 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,301 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 6 | [El Condor Pasa](https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [With Compliments](https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d) | 3:04 |
 | 7 | [You'll Never Know \- Instrumental](https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh) | [Hugo Winterhalter And His Orchestra](https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL) | [I Only Have Eyes for You](https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE) | 2:40 |
 | 8 | [Unchained Melody](https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Dancing In Wonderland \(Remastered\)](https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI) | 2:43 |
-| 9 | [Les papillons](https://open.spotify.com/track/4ny6NpcalvyvXgCHJGRTTB) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [My Way Of Music](https://open.spotify.com/album/2v8Cn4xBjEKiMh4k3qHdXG) | 2:30 |
-| 10 | [Ebb Tide](https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL) | [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:37 |
+| 9 | [Ebb Tide](https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL) | [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:37 |
+| 10 | [Les papillons](https://open.spotify.com/track/4ny6NpcalvyvXgCHJGRTTB) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [My Way Of Music](https://open.spotify.com/album/2v8Cn4xBjEKiMh4k3qHdXG) | 2:30 |
 | 11 | [The High And The Mighty](https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Till](https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P) | 2:41 |
 | 12 | [Moon River \- From "Breakfast At Tiffanys"](https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [Mantovani](https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle) | [The Third Man \- Cinema Gala](https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn) | 2:40 |
 | 13 | [Three O'Clock In The Morning](https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:33 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 46 | [Melancholy Serenade](https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [And Awaaay We Go! \(Expanded Edition\)](https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP) | 3:16 |
 | 47 | [Jean](https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The America Album](https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW) | 4:24 |
 | 48 | [Night Side](https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Hatari!](https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ) | 3:23 |
-| 49 | [The Man That Got Away](https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 4:07 |
+| 49 | [Islands In The Sky](https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS) | [Murry Wilson](https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82) | [The Many Moods Of Murry Wilson](https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq) | 2:56 |
 | 50 | [Forget Domani](https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [The Shadow of Your Smile & Other Great Themes](https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V) | 2:57 |
-| 51 | [Islands In The Sky](https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS) | [Murry Wilson](https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82) | [The Many Moods Of Murry Wilson](https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq) | 2:56 |
+| 51 | [The Man That Got Away](https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 4:07 |
 | 52 | [Gone With The Wind](https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:17 |
 | 53 | [Marylin](https://open.spotify.com/track/4mMky7LwvVButfAckz3upW) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [West of Sunset](https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7) | 2:27 |
 | 54 | [If I Had You](https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [A Band Is Born](https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 74 | [Moonlight Serenade \- Remastered](https://open.spotify.com/track/2x2cFD5A2vNYIOYHkj9Wet) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Days of Wine and Roses \(Remastered\)](https://open.spotify.com/album/6dVb74L9KFX18IZ7kI7zj4) | 3:41 |
 | 75 | [The Song From "Moulin Rouge"](https://open.spotify.com/track/7GtpZ01gEJDxrXfH2ayvuc) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [The Essential Percy Faith \- The Instrumental Recordings](https://open.spotify.com/album/205gksgDHwJUOuJ7GV4MKu) | 5:46 |
 
-Snapshot ID: `MCwzZWQ0NGY2N2EwYTQwYzY3ZmY1MmFkNWY5ZTc0OGFkNTNhMGJiYjIz`
+Snapshot ID: `MCxiNDAzOGY3NjZlYjgwMTc3NGQxNDJhOTRiMDRhZTE1ZmJlNmYyMzhi`

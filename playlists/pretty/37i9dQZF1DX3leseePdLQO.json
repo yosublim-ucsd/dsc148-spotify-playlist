@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Marshmello & Tiago PZK.",
-  "num_followers": 5446,
+  "num_followers": 5504,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjhlNDhhNmVhZTBhZTZhYzBkNDI2NjYwYWQwNzcwMDc3OWE2ZTQx",
+  "snapshot_id": "MCw1YzY3NjViYmU0NDM3NzdiZWRjMzBiZDQwZDhjZjk4NjQ3OGNhZmE5",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Segundos Platos",
+      "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "tqum",
         "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 149589,
       "name": "tqum",
       "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "SI AYER FUERA HOY",
-        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Segundos Platos",
-      "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -643,34 +659,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+        "name": "Obvio",
+        "url": "https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
         }
       ],
-      "duration_ms": 197853,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "LA FALTA QUE ME HACES",
-        "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "LA FALTA QUE ME HACES",
-      "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
+      "duration_ms": 165784,
+      "name": "Obvio",
+      "url": "https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Obvio",
-        "url": "https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 165784,
-      "name": "Obvio",
-      "url": "https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Ibiza",
         "url": "https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 179074,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "LA FALTA QUE ME HACES",
+        "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "LA FALTA QUE ME HACES",
+      "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "Pa Quererte",
-      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Beb\u00e9",
         "url": "https://open.spotify.com/album/31K2ZG9GMEVrUrVqyO94KP"
       },
@@ -811,6 +791,26 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "Pa Quererte",
+      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Dharma +",
         "url": "https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX"
       },
@@ -823,6 +823,26 @@
       "duration_ms": 165213,
       "name": "TV",
       "url": "https://open.spotify.com/track/6NIqCQW067X2AEHlz19TEc"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
+        "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 186045,
+      "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
+      "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -847,22 +867,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
-        "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
+        "name": "Como T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 186045,
-      "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
-      "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
+      "duration_ms": 192757,
+      "name": "Como T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -895,22 +911,6 @@
       "duration_ms": 188175,
       "name": "MEZCALITO",
       "url": "https://open.spotify.com/track/7xGSFJhTdINOPyNKO7BcJk"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Como T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 192757,
-      "name": "Como T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "5 estrellas",
         "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
       },
@@ -1011,6 +995,38 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Reina Leona",
+        "url": "https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Reina Leona",
+      "url": "https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "bellodrama",
         "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 184195,
       "name": "Lentamente",
       "url": "https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "NUNCA PASAR\u00c1",
-      "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
     }
   ],
   "unique_name": "Crema Pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,643,756 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,644,637 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 45 | [RECKLESS & RATCHET](https://open.spotify.com/track/6J34RvjJj3xQuezQOjbKL2) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [RECKLESS & RATCHET](https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx) | 2:57 |
 | 46 | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Einer Bankz](https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR) | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL) | 3:13 |
 | 47 | [ADD IT UP](https://open.spotify.com/track/3yGkAxLoThYMYzoZcWMNwJ) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi) | 2:56 |
-| 48 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
+| 48 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/6BgdroP3f57LfPZvWcNWdq) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
 | 49 | [War Bout It \(feat\. 21 Savage\)](https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:40 |
 | 50 | [My wrist \(with Young Thug\)](https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My wrist \(with Young Thug\)](https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz) | 3:10 |
 | 51 | [Thinking About Drilling](https://open.spotify.com/track/1QLgRHLG9sQXq4Plb600kj) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Thinking About Drilling](https://open.spotify.com/album/5ZgqagL5UMDxxvEECOLeKC) | 1:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 99 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 |
 | 100 | [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 |
 
-Snapshot ID: `MCxkOTdmM2EwNzkxZTJkNTdlYmRjZjRjMDU0NzQ0OTA2ZTJlMmIwZjgz`
+Snapshot ID: `MCw4Y2ViMDA3YjIzMWVjMTRiNWVmNjBmMWQ1MjkyYTljMzIxODg1ZDIz`

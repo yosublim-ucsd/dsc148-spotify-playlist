@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Coruja Bc1, Akira Presidente, Sena Mc
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,734 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,752 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Revolta](https://open.spotify.com/track/1338yPBS9EvfuPW5wgKwrs) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Revolta](https://open.spotify.com/album/67kCjJrSahL0q8BpfGZmHC) | 3:16 |
 | 75 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 |
 
-Snapshot ID: `MCxjZmZlMTljZmE4YjYyYzViMTVmYzIyODRiNTc4MTVkMzA5YmYxOTBj`
+Snapshot ID: `MCxiZGFhODRmZGRlMzNjZGJjYzA5N2JjYWQ1NjBlZDE0OGNlYTc1MDkx`

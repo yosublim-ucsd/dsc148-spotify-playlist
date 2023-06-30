@@ -19288,7 +19288,7 @@
     {
       "album": {
         "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/2WnD5GaQWKvmTUCZvtz5Rg"
+        "url": "https://open.spotify.com/album/3SUEowt2p7gYCAi7GYsN37"
       },
       "artists": [
         {
@@ -19299,6 +19299,24 @@
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230736,
+      "name": "Out of the Blue",
+      "url": "https://open.spotify.com/track/23iScQD5yKB0WB6NEWFfp6"
+    },
+    {
+      "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/2WnD5GaQWKvmTUCZvtz5Rg"
+      },
+      "artists": [
+        {
+          "name": "Clare Dunn",
+          "url": "https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
       "duration_ms": 230736,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/2HrgOXVI4LvL16bI6493X9"

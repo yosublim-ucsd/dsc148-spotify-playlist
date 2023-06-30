@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 
 ### [White Noise 10 Hours](https://open.spotify.com/playlist/37i9dQZF1DWUZ5bk6qqDSy)
 
-> Welcome to the soothing hum...
+> Ten hours long continuous white noise to help you relax and let go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,362 likes - 215 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,362 likes - 215 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 214 | [White Noise Wasserfall](https://open.spotify.com/track/7svuTJmWdq3pJFdzZPFYWW) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [In den Bergen](https://open.spotify.com/album/2czBX549r8Egdi6dDYWJVU) | 4:02 |
 | 215 | [Heavenly White](https://open.spotify.com/track/6kpj39kjc6RXinIQSMn36K) | [Waves Of Time](https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd) | [Heavenly White](https://open.spotify.com/album/2SRlxVlbNsTy5OqZvLBwCh) | 3:07 |
 
-Snapshot ID: `MCw2Yzk4NjNkYWJiM2Y3NjdiMGM0NzE2M2ZhYWM3MGM0Y2NiM2UxM2Ix`
+Snapshot ID: `MCw5YzhiYTFiMThmOTY2ODE0YjMyOWQ2M2QxM2MzMGJmZjZiYzhlNTYx`

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Beeson
 
-3,044 songs - 6 day 11 hr 5 min
+3,045 songs - 6 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Bruised](https://open.spotify.com/track/1w3tJEe665M8ZbfrNmp9b7) | [Old Swing](https://open.spotify.com/artist/0ODlv2gpIG4Y8BXhBs7rAe) | [Bruised](https://open.spotify.com/album/50rdmQ26BeaQdPvdZbGFcw) | 2:58 | 2021-04-22 | 2021-05-27 |
 | [Bruised Knuckles](https://open.spotify.com/track/4nupuhuaFEyUV3JUgi4KgD) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [Milk Teeth](https://open.spotify.com/album/7dRlUsMcxFMfIOHAaXSvFp) | 3:07 | 2021-06-18 | 2021-08-05 |
 | [Brunette Caroline](https://open.spotify.com/track/0Bsh8T3J0S3vQSB8mrOo7S) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Through](https://open.spotify.com/album/4qDwe6lZPaM9YoV8Ei3pxd) | 3:08 | 2021-11-11 | 2021-12-01 |
+| [brussels sprouts](https://open.spotify.com/track/3RrKyh47VGMjKQls0iivoR) | [Samantha Jean](https://open.spotify.com/artist/3nYLMU5zjw4mzDt178Kz6G) | [brussels sprouts](https://open.spotify.com/album/2M8QuyHdxAanzktiuKH8HB) | 3:04 | 2023-06-29 |  |
 | [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-26 | 2022-12-01 |
 | [Brutally Honest](https://open.spotify.com/track/1Z7KyQlHGhgz71cnvaX5oP) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [Brutally Honest](https://open.spotify.com/album/2SERc5tC1fgTV1y43BmS6l) | 2:39 | 2023-01-18 | 2023-02-02 |
 | [Bubblegum](https://open.spotify.com/track/0WqKO8AZGNICyAtoRWiUG9) | [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV), [blue boy j](https://open.spotify.com/artist/1AO54ZkG67COLLvJK83mXm) | [Bubblegum](https://open.spotify.com/album/2qL3YtIeDIna01TukcbUik) | 2:45 | 2021-02-17 | 2021-03-18 |

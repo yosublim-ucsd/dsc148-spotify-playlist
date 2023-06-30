@@ -874,7 +874,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 413693,
       "name": "Biodome",
       "url": "https://open.spotify.com/track/2sVHOerrbSQYZgEZJqVhWt"
@@ -5500,6 +5500,24 @@
       "duration_ms": 307000,
       "name": "revans",
       "url": "https://open.spotify.com/track/0l3MPDFokE0xF2gmXHwdgf"
+    },
+    {
+      "album": {
+        "name": "Re.sort",
+        "url": "https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9"
+      },
+      "artists": [
+        {
+          "name": "sora",
+          "url": "https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "Revans",
+      "url": "https://open.spotify.com/track/2fkefVBwTkw2KaiY0M84hI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1VoxprVZJXLqp9yp6Shxjq.md) - [plain]
 
 > Best of 80s pop, rock, and new wave top hits from iconic bands and artists like Madonna, Phil Collins, and Tina Turner\. All the biggest throwback songs for your 80s dance party!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 55,087 likes - 81 songs - 5 hr 55 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 55,090 likes - 81 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/1VoxprVZJXLqp9yp6Shxjq.md) - [plain]
 | 48 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
 | 49 | [Fast Car \- 2015 Remaster](https://open.spotify.com/track/1UMOMWyrEb4sksM4aKvYUD) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Greatest Hits](https://open.spotify.com/album/6UadJ2GvNZBAIRZadmbii4) | 4:56 |
 | 50 | [Blister in the Sun \- 2002 Remastered Version](https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB) | 2:24 |
-| 51 | [Things Can Only Get Better](https://open.spotify.com/track/1RbOObDFn7GOseR1w529Zj) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [Dream Into Action](https://open.spotify.com/album/1V8qUSg1WAHf3dCrVYdJ5Z) | 3:55 |
+| 51 | [Things Can Only Get Better \- 2018 Remaster](https://open.spotify.com/track/1RbOObDFn7GOseR1w529Zj) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [Dream Into Action](https://open.spotify.com/album/1V8qUSg1WAHf3dCrVYdJ5Z) | 3:55 |
 | 52 | [Burning Down the House](https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Burning Down the House / I Get Wild / Wild Gravity](https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ) | 4:01 |
 | 53 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
 | 54 | [Touch of Grey \- 2015 Remaster](https://open.spotify.com/track/6qWOXsnLnhqeRywIfMPQUz) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [The Best of the Grateful Dead](https://open.spotify.com/album/36LTDN6qTCgfo6ap6Bfqou) | 5:50 |

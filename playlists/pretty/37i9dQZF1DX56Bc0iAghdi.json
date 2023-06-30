@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 23346,
+  "num_followers": 23379,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzlmYWQ2NjBlNDJkMmE2YTUxYzQ2ZWEwODczMmQ5ZmVhMzNkYTk1",
+  "snapshot_id": "MCxhOWFkZTk0ZjcwMmI0YWY1NjQyMjdiMTIwZDkxZDU3MmY4NGRiNDI2",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "DAILY",
-        "url": "https://open.spotify.com/album/3SidUros5s6r6X4zhvr2sk"
-      },
-      "artists": [
-        {
-          "name": "Cortes",
-          "url": "https://open.spotify.com/artist/4wVpcoHUxd0kMJaV2KbMs5"
-        },
-        {
-          "name": "Cass",
-          "url": "https://open.spotify.com/artist/289ZzHonEANcXbHiyHV0sn"
-        }
-      ],
-      "duration_ms": 194368,
-      "name": "DAILY",
-      "url": "https://open.spotify.com/track/3dO540N74bBzkNctFZK76s"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Fun",
         "url": "https://open.spotify.com/album/5tgWl3CLKfqlG6SQeD9VOf"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 213680,
       "name": "Fun",
       "url": "https://open.spotify.com/track/1HVQO24aqjZWB19HkOztZg"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "DAILY",
+        "url": "https://open.spotify.com/album/3SidUros5s6r6X4zhvr2sk"
+      },
+      "artists": [
+        {
+          "name": "Cortes",
+          "url": "https://open.spotify.com/artist/4wVpcoHUxd0kMJaV2KbMs5"
+        },
+        {
+          "name": "Cass",
+          "url": "https://open.spotify.com/artist/289ZzHonEANcXbHiyHV0sn"
+        }
+      ],
+      "duration_ms": 194368,
+      "name": "DAILY",
+      "url": "https://open.spotify.com/track/3dO540N74bBzkNctFZK76s"
     },
     {
       "added_at": "2023-02-18 06:22:02",

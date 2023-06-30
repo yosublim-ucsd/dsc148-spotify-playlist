@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 9167,
+  "num_followers": 9183,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjBjZjcyNWMyNTkzODM1YjhlYTJmY2UwMmI0ZDJmYmZhMTdmNTZm",
+  "snapshot_id": "MCw5OWJjMDYyOTA5ZDZhZDZjODY3ZTI2NzU4NzZiMTIyZWU3Y2UyODM2",
   "tracks": [
     {
       "added_at": "2023-05-05 08:20:58",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "Is you",
-        "url": "https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk"
-      },
-      "artists": [
-        {
-          "name": "Jay Chang",
-          "url": "https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT"
-        }
-      ],
-      "duration_ms": 231053,
-      "name": "Is you",
-      "url": "https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
         "name": "DRAMATIC",
         "url": "https://open.spotify.com/album/121hzDPacQ66zpqcLw3ZSX"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 206053,
       "name": "Summer Night You and I",
       "url": "https://open.spotify.com/track/7m1PHy5AiA2Y2VEkCvVGzY"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "Is you",
+        "url": "https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk"
+      },
+      "artists": [
+        {
+          "name": "Jay Chang",
+          "url": "https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "Is you",
+      "url": "https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Something Precious",
-      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 251560,
       "name": "If",
       "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Something Precious",
+      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
         "name": "The Film",
         "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 166196,
       "name": "let\u2019s play tug",
       "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
-      },
-      "artists": [
-        {
-          "name": "Siwa",
-          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
         "name": "Candy For You",
         "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 158386,
       "name": "Candy For You",
       "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
+      },
+      "artists": [
+        {
+          "name": "Siwa",
+          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "Quince Tree",
-        "url": "https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF"
-      },
-      "artists": [
-        {
-          "name": "Yozoh",
-          "url": "https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Quince Tree",
-      "url": "https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
         "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
         "url": "https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 220496,
       "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
       "url": "https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "Quince Tree",
+        "url": "https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF"
+      },
+      "artists": [
+        {
+          "name": "Yozoh",
+          "url": "https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Quince Tree",
+      "url": "https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu"
     },
     {
       "added_at": "2023-05-05 08:20:58",

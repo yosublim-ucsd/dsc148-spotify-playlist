@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,508 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,510 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 | 24 | [We Both Need Each Other \(feat\. Phyllis Hyman & Michael Henderson\)](https://open.spotify.com/track/30IeocGEafO6mJpVD5Wlvg) | [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv), [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K) | [You Are My Starship](https://open.spotify.com/album/0whQoF11EIgNxK3FntxLCU) | 4:10 |
 | 25 | [I Found Love](https://open.spotify.com/track/5K3PneofTHEwyxmk3WBKW9) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 4:26 |
 | 26 | [Waiting For The Last Tear To Fall](https://open.spotify.com/track/5KRXfGjx3lJnP2dvqu63xJ) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 4:10 |
-| 27 | [If You Want Me](https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:19 |
-| 28 | [Can't We Fall in Love Again](https://open.spotify.com/track/7LoUpAYekcUxAnBC8Cv27p) | [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Slingshot](https://open.spotify.com/album/4ZTtXdTxQFaHLJrJPxUt3x) | 3:44 |
+| 27 | [Can't We Fall in Love Again](https://open.spotify.com/track/7LoUpAYekcUxAnBC8Cv27p) | [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Slingshot](https://open.spotify.com/album/4ZTtXdTxQFaHLJrJPxUt3x) | 3:44 |
+| 28 | [If You Want Me](https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:19 |
 | 29 | [What Ever Happened To Our Love](https://open.spotify.com/track/5guRhSosc8jWFmqVFDtdwj) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 4:06 |
 | 30 | [Why Not Me](https://open.spotify.com/track/6rJ7eWJdusD4mgwMCHWMUc) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 4:40 |
 | 31 | [Everything I Have Is Good \(feat\. Norman Connors & Phyllis Hyman\)](https://open.spotify.com/track/44Ju7KqdFitKeI5v66O250) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Love Will Find a Way \(Expanded Edition\)](https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW) | 5:58 |
 | 32 | [The Love Too Good to Last](https://open.spotify.com/track/2iZo4T7xDFIJhGELrd3wyX) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 4:06 |
 | 33 | [Remember Who You Are \- Reprise](https://open.spotify.com/track/4dSzqYdNc4nz3knQp7wXAO) | [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Remember Who You Are](https://open.spotify.com/album/5yCGSEkSYJdLMa57czbpOa) | 1:13 |
 | 34 | [I'm Truly Yours](https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:39 |
-| 35 | [Be Careful \(How You Treat My Love\)](https://open.spotify.com/track/5rPFEVyqIztyj80EolIn4S) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Essential Phyllis Hyman](https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC) | 4:17 |
-| 36 | [Give a Little More](https://open.spotify.com/track/2kgfnVggBSdoz1XKmHNB1w) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:04 |
+| 35 | [Give a Little More](https://open.spotify.com/track/2kgfnVggBSdoz1XKmHNB1w) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:04 |
+| 36 | [Be Careful \(How You Treat My Love\)](https://open.spotify.com/track/5rPFEVyqIztyj80EolIn4S) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Essential Phyllis Hyman](https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC) | 4:17 |
 | 37 | [Gonna Make Changes](https://open.spotify.com/track/4URmiJKUQuceu4ZfcaIA5S) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:57 |
 | 38 | [Loving You \- Losing You](https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 7:30 |
 | 39 | [Come Right or Not at All](https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 | 49 | [Forever with You](https://open.spotify.com/track/4YQLkLUyEro4Xeh9EGSNoX) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:20 |
 | 50 | [Let Somebody Love You](https://open.spotify.com/track/4FNDRMB2ql57XkWYv6OFzr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Essential Phyllis Hyman](https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC) | 4:44 |
 
-Snapshot ID: `MjgxMzI2NzAsMDAwMDAwMDAwN2IxYmVlOWMwYTlhOGZlOWY1OWU0NmZkMTVhZGI0Mg==`
+Snapshot ID: `MjgxMzQwNTUsMDAwMDAwMDBhZTM5N2RmYzZjNGU4YzU2MzlkMjk0MGQ5MGUwMzY3ZQ==`

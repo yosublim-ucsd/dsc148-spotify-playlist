@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-354 songs - 1 day 1 hr 46 min
+356 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [勇気Limit!](https://open.spotify.com/track/4gUEvAch64yv0VcAblE2cg) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [夏に閉じこめて](https://open.spotify.com/album/42rOQUNEaZ2pjNlT6N0x67) | 3:42 | 2022-09-20 | 2022-10-11 |
 | [名無声](https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 4:31 | 2022-11-14 |  |
 | [君じゃなきゃダメみたい](https://open.spotify.com/track/0vkj1rWmpzDvKr5hqCgk6K) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 3:58 | 2022-05-17 | 2022-07-29 |
+| [壱雫空](https://open.spotify.com/track/4Ov105HP2yCcWhgP6DsaDO) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [壱雫空](https://open.spotify.com/album/4QuwzcnydyFVs20IoD8ttf) | 3:09 | 2023-06-29 |  |
 | [夏に閉じこめて](https://open.spotify.com/track/61Y9W12NmToaKokLMtJ6Y0) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [夏に閉じこめて](https://open.spotify.com/album/42rOQUNEaZ2pjNlT6N0x67) | 4:21 | 2022-08-30 | 2023-05-31 |
 | [夏のドーン!](https://open.spotify.com/track/4oqDaQVeaY90SDe7Iz1Osr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Time Lapse](https://open.spotify.com/album/1YMySyG5al3QpCnXQLey9R) | 3:37 | 2022-05-17 | 2022-07-29 |
 | [夏空 SUN! SUN! SEVEN!](https://open.spotify.com/track/5tkihsRRaoijAFrvC2Oe9y) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「STAR BEAT!〜ホシノコドウ〜」](https://open.spotify.com/album/7quOI2BiwX58BRG5vycVmN) | 4:32 | 2022-05-17 | 2022-07-25 |
@@ -327,9 +328,10 @@
 | [天下卜ーイツA to Z☆](https://open.spotify.com/track/5ZasKT10YVbrMx5CIyPwZp) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 3:38 | 2022-06-23 | 2022-10-02 |
 | [天下卜ーイツA to Z☆](https://open.spotify.com/track/42hnGkRABK2E8HsgUPAMQk) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [天下卜ーイツA to Z☆](https://open.spotify.com/album/3EPw6jwPxa1xZuRABvNQTg) | 3:39 | 2022-05-17 | 2022-07-28 |
 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/0PUwA4Cjz4LE5rUzCqQPpJ) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [寄る辺のSunny, Sunny](https://open.spotify.com/album/6VWXDvHRhzJ5ylROdK18W2) | 3:35 | 2023-03-14 | 2023-03-16 |
-| [影色舞](https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 3:29 | 2023-04-11 |  |
+| [影色舞](https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 3:29 | 2023-04-11 | 2023-06-30 |
 | [影色舞](https://open.spotify.com/track/4caYPoCfxiIzrxjIm0nr4y) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [影色舞](https://open.spotify.com/album/2FjnF7hRrVMzUKnqaWRDf4) | 3:29 | 2023-04-11 | 2023-04-13 |
 | [最高\(さあ行こう\)!](https://open.spotify.com/track/2SrYQHwBT8mQI7uVOLIUhp) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [二重の虹\(ダブル レインボウ\)/最高\(さあ行こう\)!](https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s) | 3:48 | 2022-05-17 | 2022-07-15 |
+| [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 | 2023-06-29 |  |
 | [極彩色](https://open.spotify.com/track/1ZweKgc1qVZjCt81HIW1M9) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:58 | 2023-05-09 |  |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/2mEX3FAVxS2fIcAxnrzqfm) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:21 | 2022-05-17 | 2022-07-29 |
 | [激動](https://open.spotify.com/track/5ocLAN2ZYl38qGKbGVWHEw) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 5:33 | 2022-05-17 | 2022-07-27 |
@@ -360,7 +362,7 @@
 | [雨上がりの夢](https://open.spotify.com/track/2d14KGRep1k9dPlTSM2kn8) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/6QLlnhussxhVSmUBvyKbBh) | 2:55 | 2022-06-23 | 2022-10-02 |
 | [雨上がりの夢](https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 2:55 | 2022-09-20 |  |
 | [青春 To Be Continued](https://open.spotify.com/track/0ffbqaw7SgaVKZ4Wzyx01o) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:16 | 2023-05-30 |  |
-| [音一会](https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 4:42 | 2023-04-11 |  |
+| [音一会](https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 4:42 | 2023-04-11 | 2023-06-30 |
 | [魂のルフラン](https://open.spotify.com/track/5TwbVyG5JZj7vsbFshGdOS) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:29 | 2022-05-17 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 114745,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/3sXpdvzLk3dsop4otSaeJV"
@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Himmel",
+        "url": "https://open.spotify.com/album/6lSg3KYWMk1wgl6lpEhda8"
+      },
+      "artists": [
+        {
+          "name": "Leo Baumgart",
+          "url": "https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Himmel",
+      "url": "https://open.spotify.com/track/27baICs60YE6REfpKvtmDV"
+    },
+    {
+      "album": {
         "name": "A New Day Rising",
         "url": "https://open.spotify.com/album/3YHlkNADUbpe7ccGzpJKNf"
       },
@@ -1096,10 +1114,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 115185,
       "name": "Lost In Thought",
       "url": "https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS"
+    },
+    {
+      "album": {
+        "name": "Lullaby for Dreamers",
+        "url": "https://open.spotify.com/album/1Ks1064T8n7ju8hQLGDH1D"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Lullaby for Dreamers",
+      "url": "https://open.spotify.com/track/6AsXo1lufj9WFqL4Youwzd"
     },
     {
       "album": {
@@ -1190,6 +1226,24 @@
       "duration_ms": 187358,
       "name": "My Better Half",
       "url": "https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G"
+    },
+    {
+      "album": {
+        "name": "Vigilance",
+        "url": "https://open.spotify.com/album/3KWwjvH1tXPkrKFOhfhTgQ"
+      },
+      "artists": [
+        {
+          "name": "Certificate 16",
+          "url": "https://open.spotify.com/artist/6RJ9f6LmApkHiTkaAfghlA"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Natural Connection",
+      "url": "https://open.spotify.com/track/79xizJgR2yV6BfP7Y4q40k"
     },
     {
       "album": {
@@ -1424,6 +1478,24 @@
       "duration_ms": 175399,
       "name": "Reflecting Nature",
       "url": "https://open.spotify.com/track/65TcVUCHfROgHBrVDJknWH"
+    },
+    {
+      "album": {
+        "name": "Zooz Dream",
+        "url": "https://open.spotify.com/album/2IXS0dHhY4EFQVUAG2SuLf"
+      },
+      "artists": [
+        {
+          "name": "Hatchlings Calm",
+          "url": "https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Relation",
+      "url": "https://open.spotify.com/track/5iqBmtdacMA04rzUGrPAcS"
     },
     {
       "album": {

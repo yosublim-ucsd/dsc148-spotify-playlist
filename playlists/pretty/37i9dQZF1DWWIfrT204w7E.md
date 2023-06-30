@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Tion Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,953 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,035 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 47 | [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 |
 | 48 | [Nice & Good](https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Nice & Good](https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO) | 3:57 |
 | 49 | [Woi](https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Woi](https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r) | 3:02 |
-| 50 | [Dior \- Bonus](https://open.spotify.com/track/6PnTgx9lyvLGIcPnroCvc2) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:36 |
+| 50 | [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:48 |
 
-Snapshot ID: `MCw4OWZjODI3M2RhNDgyYzUxZjZjNjBiOTZkMmRlYTQ0MjZmOWIzNTg3`
+Snapshot ID: `MCwzZjQwNzNkYmYyMDAzMDA5ODIzYzUzMzg2NWVkZDliMzhiODliMDli`

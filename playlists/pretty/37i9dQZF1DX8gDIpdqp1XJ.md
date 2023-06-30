@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,502 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,509 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [New Year's Resolution](https://open.spotify.com/track/3X2aIg3mFmJnUeDFRtd0WM) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/5lk9ArPBJH4jDUdm0DaiTC) | 3:19 |
 | 100 | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn) | 3:14 |
 
-Snapshot ID: `MCxhNjk5YTRkYmExZGRkNTIxNzcyNmFhZGVlYzEzN2VmYzVjOTIwM2Jh`
+Snapshot ID: `MCxlYmQ4YTExMjdhOWMyMzMzOGUxNzFhY2M4ZjgxNzg5YWE5OGJhNGM2`

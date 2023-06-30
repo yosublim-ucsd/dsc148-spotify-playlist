@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 
 ### [2000s HITS THROWBACKS \| TOP 100 SONGS](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
-> The best of 2000s Y2K nostalgia from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
+> The best of 2000s Y2K nostalgia for July 4th, from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more\. Fourth of July \| 4th of July \| Independence Day
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 1,611,524 likes - 124 songs - 8 hr 9 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 1,611,481 likes - 124 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 | 123 | [Sweet Dreams](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:28 |
 | 124 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 |
 
-Snapshot ID: `MTY3NSxiZDY4YTg1OTA1OTA2YjkzNTdlMWZjYjcxZGU1OTJmNzQxMWYxNGQy`
+Snapshot ID: `MTY3NixmMjVhNzRiNWY1ZWMwNmI0NTg2ZDg2YzJiN2NhNTY0OThkMmNjMDJl`

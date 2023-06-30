@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 238240,
       "name": "Cottonmouth",
       "url": "https://open.spotify.com/track/2I1mqyexg7275tAoJWtjYm"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 158720,
       "name": "Dad\u2019Algorhythm",
       "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 225840,
       "name": "Don't Back Down",
       "url": "https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 203062,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c"
@@ -1950,6 +1950,24 @@
       "duration_ms": 183602,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd"
+    },
+    {
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183602,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
     },
     {
       "album": {
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 228213,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/7u93rCmIM9mBoT4mvfUBTZ"
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 129147,
       "name": "I'm Feelin Alive",
       "url": "https://open.spotify.com/track/0ZdHUrfHYZpkmztomaDnIn"
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 216689,
       "name": "Kids In The Dark",
       "url": "https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP"
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 203026,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
@@ -4388,7 +4406,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 235093,
       "name": "Pretend We're Dead",
       "url": "https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9"
@@ -5314,7 +5332,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 256533,
       "name": "Song #3",
       "url": "https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B"
@@ -5548,7 +5566,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 194010,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS"
@@ -6532,6 +6550,24 @@
       "duration_ms": 333893,
       "name": "Whole Lotta Love - 1990 Remaster",
       "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+    },
+    {
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199253,
+      "name": "Why Worry",
+      "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
     },
     {
       "album": {

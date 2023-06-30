@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,014,722 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,015,087 likes - 74 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 73 | [Tina](https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [Tina](https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8) | 4:22 |
 | 74 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
 
-Snapshot ID: `MCxlNjNhNTg1ZjgwMjRlNzE5ZTY4YmQyYzVhZDU5NzIxOTA2MGQ5MzNk`
+Snapshot ID: `MCxlYjQzYjMyZjIxZjY5YjMwNTAzMDZmODU1ZGExNGQ5MWE5YWFmNmM4`

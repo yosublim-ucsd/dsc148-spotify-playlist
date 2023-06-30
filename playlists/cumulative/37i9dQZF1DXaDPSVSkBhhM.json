@@ -1279,6 +1279,28 @@
     },
     {
       "album": {
+        "name": "Mi Peor Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/7xLcY3LMrzkl81LfnineoU"
+      },
+      "artists": [
+        {
+          "name": "Reynold",
+          "url": "https://open.spotify.com/artist/2JC1P32DYeRL76cJbgMZAS"
+        },
+        {
+          "name": "Sh4med",
+          "url": "https://open.spotify.com/artist/5R3tx9aqBNfc72wszd5Aa6"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148285,
+      "name": "Mi Peor Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/7jy3aEdzuTuhcwTpxIBX07"
+    },
+    {
+      "album": {
         "name": "Demos y Viejas Historias, Vol. 1",
         "url": "https://open.spotify.com/album/1lXy08EYct5sYbzuI8QSGb"
       },
@@ -1582,7 +1604,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-30",
       "duration_ms": 191043,
       "name": "Nunca Estar\u00e1 Bien",
       "url": "https://open.spotify.com/track/1Ify2EL1uHvYRuA6yXzVEV"

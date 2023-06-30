@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 4452,
+  "num_followers": 4466,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmMzNmNhZWFkMjY0NTA1ZTEwNDI2NjA0MmM2N2U2MzIyODA4MGQ4",
+  "snapshot_id": "MCw0NGVhYmEyMzgzZDIyODM2OWRmYWU5ZDc4MDA4ZWU2Y2RmNGY3ODAx",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Water Memory",
-        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 448133,
-      "name": "Water Memory 1",
-      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Tomorrow Was the Golden Age",
         "url": "https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 355523,
       "name": "TWTGA",
       "url": "https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Water Memory",
+        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 448133,
+      "name": "Water Memory 1",
+      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Spells (Special Edition)",
-        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Selene",
-      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "The Unfolding",
         "url": "https://open.spotify.com/album/0gflF9tUooliM9pyoUx7BO"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 453700,
       "name": "A Field of Night",
       "url": "https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Spells (Special Edition)",
+        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Talk To The Sea",
-        "url": "https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK"
-      },
-      "artists": [
-        {
-          "name": "Gigi Masin",
-          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "First Time Ruth Saw The Sea - Original Mix",
-      "url": "https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Water Memory",
         "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 363120,
       "name": "Your Pond",
       "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Talk To The Sea",
+        "url": "https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "First Time Ruth Saw The Sea - Original Mix",
+      "url": "https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "S\u00f3laris",
+        "url": "https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9"
+      },
+      "artists": [
+        {
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+        },
+        {
+          "name": "Dan\u00edel Bjarnason",
+          "url": "https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon"
+        }
+      ],
+      "duration_ms": 158992,
+      "name": "You Mean More to Me Than Any Scientific Truth",
+      "url": "https://open.spotify.com/track/0qZk8jOCXnHqeAN5sE1XDM"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Atomos",
         "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 422613,
       "name": "Convex",
       "url": "https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "S\u00f3laris",
-        "url": "https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9"
-      },
-      "artists": [
-        {
-          "name": "Ben Frost",
-          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
-        },
-        {
-          "name": "Dan\u00edel Bjarnason",
-          "url": "https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon"
-        }
-      ],
-      "duration_ms": 158992,
-      "name": "You Mean More to Me Than Any Scientific Truth",
-      "url": "https://open.spotify.com/track/0qZk8jOCXnHqeAN5sE1XDM"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Moiety",
-        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 239351,
-      "name": "Equal Ourselves",
-      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "A Turn of Breath - Extended",
         "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Fire Light",
-        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
+        "name": "Moiety",
+        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
       },
       "artists": [
         {
-          "name": "Darshan Ambient",
-          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
         }
       ],
-      "duration_ms": 207529,
-      "name": "So Close",
-      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
+      "duration_ms": 239351,
+      "name": "Equal Ourselves",
+      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1323,6 +1307,22 @@
       "duration_ms": 201383,
       "name": "Blue Diamond",
       "url": "https://open.spotify.com/track/61HzV6rpIurltIeJG2ewQg"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Fire Light",
+        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
+      },
+      "artists": [
+        {
+          "name": "Darshan Ambient",
+          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Reassemblage",
-        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
-      },
-      "artists": [
-        {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        }
-      ],
-      "duration_ms": 373003,
-      "name": "Imprint (Bonus Track)",
-      "url": "https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Glider 10: Reworks",
         "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Bring Me The Head of Kyle Bobby Dunn",
-        "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
       "artists": [
         {
-          "name": "Kyle Bobby Dunn",
-          "url": "https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl"
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
         }
       ],
-      "duration_ms": 489535,
-      "name": "An Evening With Dusty",
-      "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
+      "duration_ms": 373003,
+      "name": "Imprint (Bonus Track)",
+      "url": "https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1503,6 +1487,22 @@
       "duration_ms": 445241,
       "name": "AAE-KZT",
       "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Bring Me The Head of Kyle Bobby Dunn",
+        "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
+      },
+      "artists": [
+        {
+          "name": "Kyle Bobby Dunn",
+          "url": "https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl"
+        }
+      ],
+      "duration_ms": 489535,
+      "name": "An Evening With Dusty",
+      "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "It All Falls Apart",
+        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 374186,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Drifters / Love Is the Devil",
         "url": "https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 490500,
       "name": "Luotasi",
       "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "It All Falls Apart",
-        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 374186,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1683,18 +1683,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Centralia",
-        "url": "https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG"
+        "name": "Glider 10: Reworks",
+        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
       },
       "artists": [
         {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        },
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
         }
       ],
-      "duration_ms": 296133,
-      "name": "Living Lens",
-      "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
+      "duration_ms": 348750,
+      "name": "Further Away - Beno\u00eet Pioulard Rework",
+      "url": "https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1715,18 +1719,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Sunlight of Oneness and Very Amazing Now",
-        "url": "https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v"
+        "name": "Centralia",
+        "url": "https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG"
       },
       "artists": [
         {
-          "name": "Phillip Wilkerson",
-          "url": "https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp"
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
         }
       ],
-      "duration_ms": 556007,
-      "name": "Sunlight of Oneness",
-      "url": "https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI"
+      "duration_ms": 296133,
+      "name": "Living Lens",
+      "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
     }
   ],
   "unique_name": "Ambient 2010s",

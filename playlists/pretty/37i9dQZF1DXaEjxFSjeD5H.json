@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 14317,
+  "num_followers": 14346,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDI3NjcwZjM4NjdlYjFkOTQ3YjE0ZDg5NzEwZjVlNTRjMTQzOGUz",
+  "snapshot_id": "MCw2MmYwNmRiYjViYmM4MjRlOGY1M2E1MTg5NWM0Mjc4ZDI2MzcxOTMw",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -315,22 +315,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
       },
       "artists": [
         {
           "name": "Danzonera Veracruz",
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 212093,
-      "name": "Quiz\u00e1, Quiz\u00e1",
-      "url": "https://open.spotify.com/track/2qW3ziZmifNqVS8N9ieiwA"
+      "duration_ms": 257613,
+      "name": "Mocambo",
+      "url": "https://open.spotify.com/track/0on8z1fhBmY13qS34qSSnM"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -463,18 +459,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
       "artists": [
         {
           "name": "Danzonera Veracruz",
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 257613,
-      "name": "Mocambo",
-      "url": "https://open.spotify.com/track/0on8z1fhBmY13qS34qSSnM"
+      "duration_ms": 212093,
+      "name": "Quiz\u00e1, Quiz\u00e1",
+      "url": "https://open.spotify.com/track/2qW3ziZmifNqVS8N9ieiwA"
     },
     {
       "added_at": "2022-08-02 23:28:22",

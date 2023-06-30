@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: TOKIODK, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,145 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,222 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 34 | [Hip Hop Rare](https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB) | 2:03 |
 | 35 | [Encomenda](https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:37 |
 | 36 | [Clone](https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Clone](https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v) | 3:18 |
-| 37 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
-| 38 | [Kenner](https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Korsain](https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL) | [40˚.40 Deluxe](https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM) | 3:17 |
+| 37 | [Kenner](https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Korsain](https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL) | [40˚.40 Deluxe](https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM) | 3:17 |
+| 38 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
 | 39 | [Sobe O Morro](https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Sobe O Morro](https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl) | 2:42 |
 | 40 | [Edgar Davids](https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Edgar Davids](https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf) | 2:43 |
 | 41 | [BlackNoir](https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [BlackNoir](https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Campeões](https://open.spotify.com/track/1aqGp66Nt1ghQA2hJ1I5vH) | [Tonyyymon](https://open.spotify.com/artist/59BG9lcmyGg7VWC9V5fTuD), [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Campeões](https://open.spotify.com/album/7mj1cfsJT5aP5GBFTe1cR3) | 2:53 |
 | 50 | [Love Drill](https://open.spotify.com/track/6kUxUiIPcQkFqvU1DVeZ3C) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Preto Puma](https://open.spotify.com/artist/0UvO8jJHXpIdeyi9NQA581), [Joy Amaru](https://open.spotify.com/artist/6bk4nGOJBVVZRBOW44ACWw), [Beats by GorJah](https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU) | [Éok \(DELUXE\)](https://open.spotify.com/album/5fzaZ5rtd4gBaITNEv5IEO) | 2:56 |
 
-Snapshot ID: `MCxjMmZlNDQ0NjZhZmNkNjVkYzAyNWQ3ZTMzZjdkY2U5MDE5NjA5Yjc0`
+Snapshot ID: `MCwxNzNlYmEyYjdmYWYwNGZhMWIyNDhhZjg5YjAzYmYxMTYyMjM3ZDk3`

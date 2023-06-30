@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ghostly Kisses",
-  "num_followers": 37040,
+  "num_followers": 37048,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2JjNzI3YjUzZDk2NDI4N2U5ZDYxMzBiY2VlMjY4ZDEzNGZkMGFi",
+  "snapshot_id": "MCw2OTI4ZWY4ZGQ5YWU1MGU1YWQ4NzI4NDM5MmIwMzFmZDYwNzQxOTky",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -211,26 +211,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "MOOD3 (Glish)",
-        "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
+        "name": "Mon BB",
+        "url": "https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
         },
         {
           "name": "Hamza",
           "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 167573,
-      "name": "Djo",
-      "url": "https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO"
+      "duration_ms": 188786,
+      "name": "Mon BB",
+      "url": "https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -287,22 +283,26 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Mon BB",
-        "url": "https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL"
+        "name": "MOOD3 (Glish)",
+        "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
       },
       "artists": [
         {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         },
         {
           "name": "Hamza",
           "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 188786,
-      "name": "Mon BB",
-      "url": "https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug"
+      "duration_ms": 167573,
+      "name": "Djo",
+      "url": "https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "M\u00e9t\u00e9o",
-        "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 182970,
-      "name": "M\u00e9t\u00e9o",
-      "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Macabre",
         "url": "https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 208841,
       "name": "Macabre",
       "url": "https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "M\u00e9t\u00e9o",
+        "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 182970,
+      "name": "M\u00e9t\u00e9o",
+      "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Derni\u00e8re fois",
-        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Derni\u00e8re fois",
-      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/7rO6wNrH5Q2tfGtaUdT4Ef"
       },
@@ -607,58 +591,6 @@
       "duration_ms": 179902,
       "name": "Go",
       "url": "https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Chrome",
-        "url": "https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b"
-      },
-      "artists": [
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 192859,
-      "name": "Halla",
-      "url": "https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "BBM",
-        "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
-      },
-      "artists": [
-        {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "BBM",
-      "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 214041,
-      "name": "Charlotte",
-      "url": "https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -679,6 +611,74 @@
       "duration_ms": 176453,
       "name": "Molo (feat. Dadju)",
       "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 192859,
+      "name": "Halla",
+      "url": "https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Derni\u00e8re fois",
+        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Derni\u00e8re fois",
+      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 214041,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "BBM",
+        "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 179164,
+      "name": "BBM",
+      "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Iggy Pop",
-        "url": "https://open.spotify.com/album/2GXgOyEtON34DSqQv7cVOF"
-      },
-      "artists": [
-        {
-          "name": "Rom\u00e9o Elvis",
-          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
-        }
-      ],
-      "duration_ms": 168163,
-      "name": "Iggy Pop",
-      "url": "https://open.spotify.com/track/7lPHuXGYIAohOih9mg7kSq"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "On finira peut-\u00eatre heureux",
         "url": "https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Coeur Automatique",
-        "url": "https://open.spotify.com/album/0hQFZ7hRtOmd7wgKvSCIrb"
+        "name": "Iggy Pop",
+        "url": "https://open.spotify.com/album/2GXgOyEtON34DSqQv7cVOF"
       },
       "artists": [
         {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+          "name": "Rom\u00e9o Elvis",
+          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
         }
       ],
-      "duration_ms": 146273,
-      "name": "Coeur Automatique",
-      "url": "https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW"
+      "duration_ms": 168163,
+      "name": "Iggy Pop",
+      "url": "https://open.spotify.com/track/7lPHuXGYIAohOih9mg7kSq"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -899,6 +883,22 @@
       "duration_ms": 170366,
       "name": "Nasty feat. Smeels (French Version)",
       "url": "https://open.spotify.com/track/5tgSfROAnSbZ2laf6C46JU"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Coeur Automatique",
+        "url": "https://open.spotify.com/album/0hQFZ7hRtOmd7wgKvSCIrb"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "duration_ms": 146273,
+      "name": "Coeur Automatique",
+      "url": "https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

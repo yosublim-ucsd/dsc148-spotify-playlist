@@ -1,12 +1,12 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 256350,
+  "num_followers": 256390,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmQ5ZTlhZGIyOTcwZjEzZTM2Y2QxMTNmOWY1ODc4YzcyMGQ2ZWY4",
+  "snapshot_id": "MCw0MzE5ZTA2Y2ExOThhOTYxYTE0MGI5MzNhMmY1OThhMWQ4MzlmZjcz",
   "tracks": [
     {
       "added_at": "2022-05-24 13:35:26",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
+        "name": "Positivity",
+        "url": "https://open.spotify.com/album/45BNZeFrf7HSGAogA2CZ5M"
+      },
+      "artists": [
+        {
+          "name": "Incognito",
+          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+        }
+      ],
+      "duration_ms": 394773,
+      "name": "Deep Waters",
+      "url": "https://open.spotify.com/track/0XCigmR8QYuE1hz9jSv8Eh"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 236240,
       "name": "The Ingredients Of Love (feat. Musiq Soulchild)",
       "url": "https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Positivity",
-        "url": "https://open.spotify.com/album/45BNZeFrf7HSGAogA2CZ5M"
-      },
-      "artists": [
-        {
-          "name": "Incognito",
-          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
-        }
-      ],
-      "duration_ms": 394773,
-      "name": "Deep Waters",
-      "url": "https://open.spotify.com/track/0XCigmR8QYuE1hz9jSv8Eh"
     },
     {
       "added_at": "2022-05-24 13:35:26",

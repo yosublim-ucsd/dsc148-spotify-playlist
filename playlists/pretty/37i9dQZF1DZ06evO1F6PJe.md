@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,764 likes - 51 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,798 likes - 51 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 7 | [Sloe Gin](https://open.spotify.com/track/5hob2jVM2gA74CyJ4G4bJZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 8:12 |
 | 8 | [I Want To Shout About It](https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want To Shout About It](https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl) | 4:12 |
 | 9 | [Dust Bowl](https://open.spotify.com/track/1i7QbG73o4liXhmbtaT7Z3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:33 |
-| 10 | [So Many Roads](https://open.spotify.com/track/4rsRYhm78huEfclb5NW5Ps) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [You & Me](https://open.spotify.com/album/4kel2Yi8IWl4Ur5LEWAQqv) | 7:05 |
-| 11 | [The Heart That Never Waits \(Live\)](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 |
+| 10 | [The Heart That Never Waits \(Live\)](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 |
+| 11 | [So Many Roads](https://open.spotify.com/track/4rsRYhm78huEfclb5NW5Ps) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [You & Me](https://open.spotify.com/album/4kel2Yi8IWl4Ur5LEWAQqv) | 7:05 |
 | 12 | [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 |
 | 13 | [Back in Black](https://open.spotify.com/track/3QbM1s2qg68bKEByp0Uvh8) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Joanna Jones](https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Back in Black](https://open.spotify.com/album/736B83hbqftdlB7yewbdOF) | 3:12 |
 | 14 | [Stop!](https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:48 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 50 | [Stronger Now In Broken Places \(Band Version\)](https://open.spotify.com/track/1PaRTBGZ8tfV1lO23kBskt) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 4:42 |
 | 51 | [I Don't Live Any Where](https://open.spotify.com/track/1xFua1EOtJ7Xgtfl3HtDxI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:41 |
 
-Snapshot ID: `MjgxMzI2NzAsMDAwMDAwMDBlZDlmN2M5MTk5MjY4OWZlY2NkOTE0OGFkMjFkMGQ3Nw==`
+Snapshot ID: `MjgxMzQwNTUsMDAwMDAwMDAyZmVjYTUzNDczMTkzMWVhZGIxNDYxYTQ2OTA5YjVhMg==`

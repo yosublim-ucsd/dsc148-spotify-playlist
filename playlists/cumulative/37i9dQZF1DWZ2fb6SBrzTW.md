@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-286 songs - 14 hr 51 min
+287 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Caution](https://open.spotify.com/track/3s1vxTu48FlpPpwztVB4ht) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Caution](https://open.spotify.com/album/0yrnHtfgm66Ky53Nzdivnl) | 2:25 | 2022-08-12 | 2023-02-10 |
 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 | 2022-06-16 |  |
 | [Chale](https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Chale](https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY) | 6:14 | 2023-02-03 | 2023-03-13 |
-| [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 |  |
+| [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 | 2023-06-30 |
 | [Charger](https://open.spotify.com/track/5IMX7sh5kGdVX7iWqN5Url) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Charger](https://open.spotify.com/album/5jvsWsFqZzym9fMhBtDKZ8) | 3:26 | 2022-03-17 | 2022-07-29 |
 | [Cho Cho Cho](https://open.spotify.com/track/1quf400g3rYDKzYbjpvyK9) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Killashay](https://open.spotify.com/artist/1D77wT9J4xlUWqO7YZgB3N) | [Cho Cho Cho](https://open.spotify.com/album/7GKtlpyVsjosh6w6FQlyWu) | 2:57 | 2022-06-23 | 2022-07-23 |
 | [Chobar](https://open.spotify.com/track/1Ocfb92ZAdxRPZlphWhmPY) | [DJ Latitude](https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Chobar](https://open.spotify.com/album/7rjQ1DwYzItjOOujoJFzSf) | 2:33 | 2022-06-23 | 2022-07-25 |
@@ -111,6 +111,7 @@
 | [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 | 2022-11-15 | 2022-12-19 |
 | [Gone Far](https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gone Far](https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO) | 2:28 | 2021-10-08 | 2023-02-07 |
 | [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 | 2023-06-26 |  |
+| [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 | 2023-06-26 |  |
 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-02-16 |  |
 | [Gyalist](https://open.spotify.com/track/5LtlXbJXk1kcJfL1a4NXpQ) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 2:28 | 2023-06-02 |  |
 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 | 2023-05-04 |  |

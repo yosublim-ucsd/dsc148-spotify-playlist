@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,034 likes - 125 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,156 likes - 125 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 54 | [If I Lose Myself \- Alesso vs OneRepublic](https://open.spotify.com/track/1hZk9dktp4yRFTm0TrycuH) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 3:34 |
 | 55 | [Faded](https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 3:43 |
 | 56 | [Hello \(feat\. Dragonette\)](https://open.spotify.com/track/3sl4dcqSwxHVnLfqwF2jly) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Hello](https://open.spotify.com/album/1Jbwq1BswM8apm7pjRZKq8) | 3:11 |
-| 57 | [Losing It \- Radio Edit](https://open.spotify.com/track/2KXwJZv1pRQFQ95Kj60jBN) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It \(Radio Edit\)](https://open.spotify.com/album/2aYokx2jGun9pPjyY5Cc9t) | 2:43 |
-| 58 | [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 |
+| 57 | [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 |
+| 58 | [Losing It \- Radio Edit](https://open.spotify.com/track/2KXwJZv1pRQFQ95Kj60jBN) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It \(Radio Edit\)](https://open.spotify.com/album/2aYokx2jGun9pPjyY5Cc9t) | 2:43 |
 | 59 | [Spectrum](https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Clarity](https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs) | 4:03 |
 | 60 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 |
 | 61 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Tell Me](https://open.spotify.com/track/3M4BopyY1lODi4uBpSoDSQ) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Tell Me](https://open.spotify.com/album/05E9e8OeLQJ5QCjGOyLvZL) | 4:41 |
 | 125 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 |
 
-Snapshot ID: `MCw4ODgxNDRhNjljODc4NGFjYzE5OWJmMmZiNjU2ODY2MzViY2JkZjc3`
+Snapshot ID: `MCw3OTg0ODdkYzg2Nzk4YjE0NTBiMTFlNWUzYTg0YWQwMGViYzBhNDBl`

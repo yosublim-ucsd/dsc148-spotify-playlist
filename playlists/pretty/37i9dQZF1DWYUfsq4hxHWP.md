@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Hayden Coffman, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,878 likes - 135 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,977 likes - 135 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 40 | [When You're Gone](https://open.spotify.com/track/6ChsoKi8Oo4yInekXGK5IL) | [Lauren Rice](https://open.spotify.com/artist/5uQJQgqzshlHlSsDx3EQoa) | [When You're Gone](https://open.spotify.com/album/2cCMCEExWcZnZlRrJGIJub) | 3:42 |
 | 41 | [Blame It on My Boots](https://open.spotify.com/track/6waMe4NbRpTzeM2AUyxvvN) | [Sam Carter](https://open.spotify.com/artist/4TDFCfBkOxwM1cMvRXt4Wc) | [Blame It on My Boots](https://open.spotify.com/album/4YPR2OxkSCbaY7WOFfzSaJ) | 2:56 |
 | 42 | [A Boy That's Into Trucks](https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [A Boy That's Into Trucks](https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar) | 3:25 |
-| 43 | [Out of the Blue](https://open.spotify.com/track/2HrgOXVI4LvL16bI6493X9) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Out of the Blue](https://open.spotify.com/album/2WnD5GaQWKvmTUCZvtz5Rg) | 3:50 |
+| 43 | [Out of the Blue](https://open.spotify.com/track/23iScQD5yKB0WB6NEWFfp6) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Out of the Blue](https://open.spotify.com/album/3SUEowt2p7gYCAi7GYsN37) | 3:50 |
 | 44 | [Raising Hell](https://open.spotify.com/track/3HDnlZfdQvHn0V4HNQbg2L) | [Justin Anderson](https://open.spotify.com/artist/0Q55uGWwepdnzllCJsHjcJ) | [Raising Hell](https://open.spotify.com/album/0pQ1BP8ra4eSeqQ7K3uqnQ) | 3:46 |
 | 45 | [Hell of a Hometown](https://open.spotify.com/track/62GUW1nFv6ekfNyprziCvo) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Hell of a Hometown](https://open.spotify.com/album/0JjAkZAQcXjrSPBrLXrJ9c) | 3:03 |
 | 46 | [Thank God](https://open.spotify.com/track/2qQWNaisUdm7oETdUOz8Ww) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [Thank God](https://open.spotify.com/album/5S3jGVIWqCTYi02fgtWYbh) | 3:12 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 134 | [Everybody's Got One](https://open.spotify.com/track/1QhDqP1U54odU2rzZDJLPV) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Everybody's Got One](https://open.spotify.com/album/7t5cYhYaSq9L0guSffDdtl) | 2:47 |
 | 135 | [Fine Without You](https://open.spotify.com/track/178n3WsHFIPeSDZoS70QD2) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Fine Without You](https://open.spotify.com/album/3PStd97C3cl4A5D491RWgK) | 2:05 |
 
-Snapshot ID: `MCxmMDYyZDcyYjNlMTc4YzRmMjllY2ZhYmU1ZmQzZTVlZTI2NTkyM2U2`
+Snapshot ID: `MCxkODQzMWFiZjVlNWEzMWY2NGU0YmY5ODc1NzI1NGEwYzU2OGY1YmY5`

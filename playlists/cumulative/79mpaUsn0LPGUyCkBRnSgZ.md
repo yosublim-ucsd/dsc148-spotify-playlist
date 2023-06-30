@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-274 songs - 18 hr 9 min
+275 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 | 2022-01-11 | 2023-05-17 |
 | [Dare To Dream](https://open.spotify.com/track/7gXldQvrCf4pMuXVH1X59U) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Hope Above Adversity](https://open.spotify.com/album/3DVlr1EF2msBWa3JLVBJuA) | 3:18 | 2022-07-15 |  |
 | [Dead Leaves and the Dirty Ground](https://open.spotify.com/track/2ewjgFhHDTE8BkV8kzpiX2) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 3:02 | 2022-10-21 |  |
+| [Death Parade](https://open.spotify.com/track/4IIdH7tHoikvvr0twQtCBI) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Anime, Trauma and Divorce](https://open.spotify.com/album/23SV7P5U8oF3EJfkdW08wO) | 2:24 | 2023-06-29 |  |
 | [Decora](https://open.spotify.com/track/4AAbuMTQKLT3ls8Maztnbn) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Electr\-o\-pura](https://open.spotify.com/album/4z0y72X6GLvi4EOlezrFS9) | 3:26 | 2023-05-06 |  |
 | [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 | 2023-06-27 |  |
 | [Detroit Rock City](https://open.spotify.com/track/4DmBwHmp0FVO6NJ9QfH2w2) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 5:18 | 2023-02-11 |  |

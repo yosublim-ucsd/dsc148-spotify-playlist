@@ -4,7 +4,7 @@
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-133 songs - 8 hr 0 min
+134 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,12 +82,13 @@
 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 | 2021-06-15 |  |
 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 | 2021-06-15 |  |
 | [Let's Dance to Joy Division](https://open.spotify.com/track/60Ih7J2Q1o9shvMC2OAALu) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:11 | 2021-06-15 | 2023-06-06 |
+| [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 | 2021-06-15 |  |
 | [Lets Go Surfing](https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l) | 2:55 | 2021-06-15 | 2023-05-23 |
 | [Living in America](https://open.spotify.com/track/5FQ2oC15Omm9sdBZVQTPjw) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Living in America \(US version\)](https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5) | 3:28 | 2021-06-15 | 2022-07-29 |
 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 | 2021-06-15 |  |
 | [Long Before Rock 'n' Roll](https://open.spotify.com/track/58IZLB5bpAKQgeccRgq0ZI) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Ode To Ochrasy](https://open.spotify.com/album/0UC7ViK1jDzF7nBsjlnTIf) | 2:49 | 2021-06-15 | 2022-11-13 |
 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 | 2021-06-15 |  |
-| [Man Must Dance](https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Johnossi](https://open.spotify.com/album/79mwxuh2n3TUVp0lGfSoec) | 2:35 | 2021-06-15 |  |
+| [Man Must Dance](https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Johnossi](https://open.spotify.com/album/79mwxuh2n3TUVp0lGfSoec) | 2:35 | 2021-06-15 | 2023-06-30 |
 | [Mon Amour \(Alternative Single Mix\)](https://open.spotify.com/track/6XFGNx6By4F97mrIZBkRZa) | [The Plan](https://open.spotify.com/artist/1xp8n7sGGGHKO6pwxH8RCI) | [The Plan](https://open.spotify.com/album/4KlUqRzW0bNtNlMSgja6Ve) | 3:00 | 2021-06-15 | 2022-07-28 |
 | [Moshpit Lovers](https://open.spotify.com/track/7katQyU5TEAfGqn0iIgenL) | [Lissi Dancefloor Disaster](https://open.spotify.com/artist/5Tu5W8PdTvPwuYAahqkrHQ) | [Moshpit Lovers \(single\)](https://open.spotify.com/album/4CykUoXhx7kvwRemWL5y8X) | 3:51 | 2021-06-15 | 2022-07-02 |
 | [My Best Friend](https://open.spotify.com/track/2WYUZcrkZuyXGgKE05UhEC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Introducing Hello Saferide](https://open.spotify.com/album/347HqBDFv4qUEXErlEkOD3) | 2:58 | 2021-06-15 | 2022-07-26 |

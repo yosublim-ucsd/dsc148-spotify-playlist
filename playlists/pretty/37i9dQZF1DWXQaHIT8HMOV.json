@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODUwNmE5NGEzMzdmY2MxYmU0NzE0ZmE0YmFlOGUyOGFkMWUxY2Ew",
+  "snapshot_id": "MCxiOWFhNGJmMjFjODY2NWJmZjdiMmY5ZDE4ODAyOWJmMGM4YTBhM2My",
   "tracks": [
     {
       "added_at": "2023-06-09 13:18:44",
@@ -451,22 +451,18 @@
     {
       "added_at": "2023-06-09 13:18:44",
       "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+        "name": "Omwana",
+        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+          "name": "Juliana Kanyomozi",
+          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
         }
       ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+      "duration_ms": 212903,
+      "name": "Omwana",
+      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
     },
     {
       "added_at": "2023-06-09 13:18:44",
@@ -491,18 +487,22 @@
     {
       "added_at": "2023-06-09 13:18:44",
       "album": {
-        "name": "Omwana",
-        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
       },
       "artists": [
         {
-          "name": "Juliana Kanyomozi",
-          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Omwana",
-      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     },
     {
       "added_at": "2023-06-09 13:18:44",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-06-09 13:18:44",
       "album": {
-        "name": "Part2 (Dinner in Maui)",
-        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
-      },
-      "artists": [
-        {
-          "name": "Hermez",
-          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 193896,
-      "name": "Part2 (Dinner in Maui)",
-      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
-    },
-    {
-      "added_at": "2023-06-09 13:18:44",
-      "album": {
         "name": "Love Marijuana",
         "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
       },
@@ -743,6 +723,26 @@
     {
       "added_at": "2023-06-09 13:18:44",
       "album": {
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
+      },
+      "artists": [
+        {
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 193896,
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
+    },
+    {
+      "added_at": "2023-06-09 13:18:44",
+      "album": {
         "name": "BESTIE",
         "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
       },
@@ -755,6 +755,30 @@
       "duration_ms": 173949,
       "name": "BESTIE",
       "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
+    },
+    {
+      "added_at": "2023-06-09 13:18:44",
+      "album": {
+        "name": "Leaving Summer",
+        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Leaving Summer",
+      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
       "added_at": "2023-06-09 13:18:44",
@@ -783,30 +807,6 @@
       "duration_ms": 222309,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/3aYlnF0Pwbhj0tB8WLfdvp"
-    },
-    {
-      "added_at": "2023-06-09 13:18:44",
-      "album": {
-        "name": "Leaving Summer",
-        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        },
-        {
-          "name": "Akeine",
-          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Leaving Summer",
-      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
       "added_at": "2023-06-09 13:18:44",

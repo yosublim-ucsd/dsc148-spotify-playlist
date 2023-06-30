@@ -44,7 +44,7 @@
 | [Mojito](https://open.spotify.com/track/7BYMjh3vWnHU4IFyfZdIDO) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Mojito](https://open.spotify.com/album/6pIXXqOGDkatrb00Oblrgo) | 3:05 | 2022-10-31 | 2022-11-13 |
 | [Mojito](https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:05 | 2022-07-25 |  |
 | [Morning Coffee](https://open.spotify.com/track/5k2eyrx86Q5f5DFtRvkSvN) | [蜜雪薇琪](https://open.spotify.com/artist/2PvxkWnXNsFWiZVnXSf4Mq) | [Morning Coffee](https://open.spotify.com/album/6gnYvMta73slbta2wnJt5Z) | 3:48 | 2023-04-24 | 2023-05-02 |
-| [My Love](https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [My Love](https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd) | 3:00 | 2023-05-01 |  |
+| [My Love](https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [My Love](https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd) | 3:00 | 2023-05-01 | 2023-06-30 |
 | [My Only](https://open.spotify.com/track/5moOeYLCth43bfjWtrjLoZ) | [AcQUA 源少年](https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn) | [My Only](https://open.spotify.com/album/51sZueI8QTDvCQnsCokQ6n) | 2:26 | 2022-12-13 | 2023-01-15 |
 | [NOT OVER U](https://open.spotify.com/track/7ka7lf2RSsKpBncHGrxE3A) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [NOT OVER U](https://open.spotify.com/album/37RjBAZMoEQAnmbOC3BRJF) | 2:59 | 2022-06-06 | 2022-07-20 |
 | [Only Have Feelings For You](https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT) | [Fahrenheit](https://open.spotify.com/artist/12JKvbMl7cQqmtumTZTT3g) | [Fahrenheit](https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD) | 3:59 | 2022-07-25 |  |
@@ -298,7 +298,7 @@
 | [靠近](https://open.spotify.com/track/7hoxzbKYr2T8EmbyWlowfu) | [一口甜](https://open.spotify.com/artist/3xyeMXp6JQR1J2tZKk0HIL), [二辰](https://open.spotify.com/artist/0aDQTS1mVAknIdfq1iYqaQ) | [靠近](https://open.spotify.com/album/0BoJn9SgzgcNQ93kGrov1J) | 2:58 | 2022-06-13 | 2022-06-17 |
 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 | 2022-07-25 |  |
 | [靠近一點點](https://open.spotify.com/track/2ZehpdL252VK2Wk2uUqt9m) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻 電視原聲帶](https://open.spotify.com/album/0FiMDZOsRsYtKJjF8hZZo2) | 3:33 | 2022-06-06 | 2022-07-25 |
-| [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 | 2022-09-05 | 2023-06-22 |
+| [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 | 2022-09-05 |  |
 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 | 2022-06-13 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

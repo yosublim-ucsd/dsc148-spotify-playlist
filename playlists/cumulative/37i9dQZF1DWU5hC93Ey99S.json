@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "What in the stutter/rainy/tremolo house list did I just create??",
+  "description": "all the feels",
   "name": "Emotional Dance",
   "tracks": [
+    {
+      "album": {
+        "name": "(I've Been) Lookin 4 U",
+        "url": "https://open.spotify.com/album/46ZnIDroh8NNIJOKKVC6mv"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141971,
+      "name": "(I've Been) Lookin 4 U",
+      "url": "https://open.spotify.com/track/3KzLce8EeBDnGkAvx0v3Xa"
+    },
     {
       "album": {
         "name": "54321 (ATRIP Remix)",
@@ -442,6 +460,46 @@
       "duration_ms": 157380,
       "name": "Care 4 U",
       "url": "https://open.spotify.com/track/2KYp9IpK1HURPiKflNwz2i"
+    },
+    {
+      "album": {
+        "name": "Carried Away",
+        "url": "https://open.spotify.com/album/06Cr286tHjc0OEBAWdQf3E"
+      },
+      "artists": [
+        {
+          "name": "Pesukone",
+          "url": "https://open.spotify.com/artist/68mk8GNhUjTLMw72RCBIvV"
+        },
+        {
+          "name": "Buzlanes",
+          "url": "https://open.spotify.com/artist/35WZpX1M97DyGPXGrBgnCd"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176417,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/2NmYaJ4xxGhzcndnj73yBE"
+    },
+    {
+      "album": {
+        "name": "Close 2 U",
+        "url": "https://open.spotify.com/album/7aMPbn9Qj4BMb8Y27UEMQF"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181512,
+      "name": "Close 2 U",
+      "url": "https://open.spotify.com/track/35pDv7illobZwBuAESRD6g"
     },
     {
       "album": {
@@ -1107,6 +1165,28 @@
     },
     {
       "album": {
+        "name": "HOLD YOU (GUDFELLA Remix)",
+        "url": "https://open.spotify.com/album/6PwpYqWVYy9nDqN9Fe68VB"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "HOLD YOU - GUDFELLA Remix",
+      "url": "https://open.spotify.com/track/0s8MBuW6z87DhzRVYogIkb"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56"
       },
@@ -1122,6 +1202,24 @@
       "duration_ms": 276367,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7EQICwXiHrwISuMKvRY9sj"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221311,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7LcoNxnl1UpDTVlFxyWuc7"
     },
     {
       "album": {
@@ -1583,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+    },
+    {
+      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/6ENf0Ou4XGLh1BQ9Wjug2A"
       },
@@ -1831,6 +1947,24 @@
     },
     {
       "album": {
+        "name": "Mysoul",
+        "url": "https://open.spotify.com/album/70HUV0y654sYmhjVuWgxsO"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225142,
+      "name": "Mysoul",
+      "url": "https://open.spotify.com/track/6ntoVaDBf5Hc6cOIYBcaJg"
+    },
+    {
+      "album": {
         "name": "Need Somebody (Icarus Remix)",
         "url": "https://open.spotify.com/album/5ZmEZhwaAUEkkkhRUhGUFM"
       },
@@ -2067,6 +2201,32 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1Y8IrLLFS2OHYtLE1LDI5d"
+      },
+      "artists": [
+        {
+          "name": "HAYM",
+          "url": "https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel"
+        },
+        {
+          "name": "Mars Twins",
+          "url": "https://open.spotify.com/artist/2255cIvJST7JWNyUizO1py"
+        },
+        {
+          "name": "Tom Polo",
+          "url": "https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121043,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/307hEMkRtPyfOCiTi7NczM"
+    },
+    {
+      "album": {
         "name": "Patchouli",
         "url": "https://open.spotify.com/album/2TSyEyxSs1gtLBN7Uprdfg"
       },
@@ -2254,6 +2414,24 @@
       "duration_ms": 184335,
       "name": "Right Before Our Eyes",
       "url": "https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT"
+    },
+    {
+      "album": {
+        "name": "Halcyon (Tape 2)",
+        "url": "https://open.spotify.com/album/2xcvB0YL8MvwD4V3PlP8Zv"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170381,
+      "name": "ritual",
+      "url": "https://open.spotify.com/track/7vav6vKBjLLSRrndUE9mgn"
     },
     {
       "album": {
@@ -2519,6 +2697,28 @@
     },
     {
       "album": {
+        "name": "Slash (Remixes)",
+        "url": "https://open.spotify.com/album/3BwEifdK1Et1G0m6FiePW0"
+      },
+      "artists": [
+        {
+          "name": "Me & George",
+          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
+        },
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/4FqxKGY2qrmYcg7rSZw0H0"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242752,
+      "name": "Slash - Giulia Tess Remix",
+      "url": "https://open.spotify.com/track/1VRqhlpxAkHEIOSzLHg5TT"
+    },
+    {
+      "album": {
         "name": "There's Another Life 4 U / So Long",
         "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
       },
@@ -2734,6 +2934,28 @@
       "duration_ms": 181000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj"
+    },
+    {
+      "album": {
+        "name": "Tennis Skirt (feat. Ella Boh)",
+        "url": "https://open.spotify.com/album/1MJkilvAVT6k8MyAaqwX71"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186363,
+      "name": "Tennis Skirt (feat. Ella Boh)",
+      "url": "https://open.spotify.com/track/2fxMpAFw0matLcxCZWaU1E"
     },
     {
       "album": {
@@ -2996,6 +3218,28 @@
       "duration_ms": 205217,
       "name": "What If",
       "url": "https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N"
+    },
+    {
+      "album": {
+        "name": "what we had",
+        "url": "https://open.spotify.com/album/4T2dCGIPhCxl3soRdLJipb"
+      },
+      "artists": [
+        {
+          "name": "Player Dave",
+          "url": "https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0"
+        },
+        {
+          "name": "Georgie O'Brien",
+          "url": "https://open.spotify.com/artist/4aWDnkVvzu9Tc68DGOyXHl"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292500,
+      "name": "what we had",
+      "url": "https://open.spotify.com/track/4acWKpRAAnUHa8t6Xgm9Cu"
     },
     {
       "album": {

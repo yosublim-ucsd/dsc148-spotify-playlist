@@ -4,7 +4,7 @@
 
 > Miami me lo confirmó featuring Sebastian Yatra, Manuel Turizo & Beéle
 
-277 songs - 15 hr 28 min
+278 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 | 2022-07-27 | 2023-02-18 |
 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 | 2022-05-25 | 2022-08-20 |
 | [LOS DUEÑOS DE LA CALLE](https://open.spotify.com/track/1aWiVOJDIKVW13w1earaQf) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [LOS DUEÑOS DE LA CALLE](https://open.spotify.com/album/7icb0keRMS05h8wgPN94NG) | 3:44 | 2022-08-19 | 2022-12-02 |
-| [LOS POBRES Y LOS RICOS](https://open.spotify.com/track/6mYeBTeXcz25ZeAwjW6apF) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [LOS POBRES Y LOS RICOS](https://open.spotify.com/album/6LDa3nMGDUFrNxGpXI21nV) | 3:19 | 2023-02-17 |  |
+| [LOS POBRES Y LOS RICOS](https://open.spotify.com/track/6mYeBTeXcz25ZeAwjW6apF) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [LOS POBRES Y LOS RICOS](https://open.spotify.com/album/6LDa3nMGDUFrNxGpXI21nV) | 3:19 | 2023-02-17 | 2023-06-30 |
+| [LOS POBRES Y LOS RICOS](https://open.spotify.com/track/7yR9JlVYTOvYPjycQpl4PW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 3:19 | 2023-05-26 |  |
 | [LowKey](https://open.spotify.com/track/74OHXT3ruHZVA1xqkWo76R) | [Chris Andrew](https://open.spotify.com/artist/7vnithGAUscrk9Imtyr6Sd), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [LowKey](https://open.spotify.com/album/5hzzRviGFxvMUBwaxhFQMY) | 2:55 | 2023-02-17 | 2023-05-27 |
 | [Luces De Neón](https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Luces De Neón](https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS) | 3:39 | 2022-09-23 | 2023-02-18 |
 | [Malo](https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Malo](https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd) | 4:15 | 2022-08-19 | 2023-02-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,824 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,837 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 47 | [어떻게 이별까지 사랑하겠어, 널 사랑하는 거지 How Can I Love the Heartbreak, You're the One I Love](https://open.spotify.com/track/2SVljleA3gTLpujwBM2Xrf) | [짱군 Zzanggoon](https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL) | [이 겨울 피아노로 만나는 따끈한 K\-Pop K\-Pop Hotlist Piano for the Winter](https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H) | 4:58 |
 | 48 | [Raindrops \- Instrumental](https://open.spotify.com/track/1V2Xa0tC01IrxtqM2aXCgl) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Oh My Baby \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2ODbnq7BEn2pSPiKEr7kmq) | 3:32 |
 | 49 | [My Tale \- inst.](https://open.spotify.com/track/0ztk0XIgjQxvdyN0AIW18g) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/3P3uCfolgmfnepYcbg8HmU) | 3:46 |
-| 50 | [A Poem For Poetry \- Instrumental](https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [A Poem a Day \(tvN DRAMA\) OST Part.12](https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9) | 4:11 |
-| 51 | [Just Like a Dream \(Inst.\)](https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Another Miss Oh \(Original Television Soundtrack\), Pt 2](https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW) | 3:46 |
+| 50 | [Just Like a Dream \(Inst.\)](https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Another Miss Oh \(Original Television Soundtrack\), Pt 2](https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW) | 3:46 |
+| 51 | [A Poem For Poetry \- Instrumental](https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [A Poem a Day \(tvN DRAMA\) OST Part.12](https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9) | 4:11 |
 | 52 | [Puzzle \- Instrumental](https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220) | [YONGZOO](https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1) | 3:55 |
 | 53 | [Trying to say good\-bye \(Inst.\)](https://open.spotify.com/track/0prQ2KfBBPwSZ45IIrRoWk) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Trying to say good\-bye](https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817) | 3:58 |
 | 54 | [Butter](https://open.spotify.com/track/05OogEWyJLjhUaNSdXBK63) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [Piano Covers, Vol\. 7 \(Best of 2021\)](https://open.spotify.com/album/35LgiOE6OUXmRidKGVOoSb) | 2:33 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 78 | [Epiphany](https://open.spotify.com/track/0LdxomJ9KOpvgcnYWOUdbl) | [postmoderndisco](https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp) | [K\-pop Reimaginings](https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS) | 4:09 |
 | 79 | [I draw you](https://open.spotify.com/track/2lLLwAQTq5P4yCj8qTw0GI) | [The Brothers](https://open.spotify.com/artist/4cca1jneSmmm9K1uXTQaUc) | [I draw you](https://open.spotify.com/album/1NhyqimJ7BIgA1IGMEiGGj) | 3:29 |
 | 80 | [LOVE SCENARIO \- Piano Version](https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2) | [Moonlight Jazz Blue](https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI) | [K\-POP PIANO BEST](https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ) | 5:14 |
-| 81 | [Bae Bae x Loser](https://open.spotify.com/track/0UFFqrDNF1uqO01n1NAqsv) | [postmoderndisco](https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp) | [K\-pop Reimaginings](https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS) | 5:22 |
-| 82 | [If You](https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1) | [postmoderndisco](https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp) | [K\-pop Reimaginings](https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS) | 4:34 |
+| 81 | [If You](https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1) | [postmoderndisco](https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp) | [K\-pop Reimaginings](https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS) | 4:34 |
+| 82 | [Bae Bae x Loser](https://open.spotify.com/track/0UFFqrDNF1uqO01n1NAqsv) | [postmoderndisco](https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp) | [K\-pop Reimaginings](https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS) | 5:22 |
 | 83 | [REPLAY \- Piano Version](https://open.spotify.com/track/7y2GtIPDukvL7MggApuboS) | [Moonlight Jazz Blue](https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI) | [K\-POP PIANO BEST](https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ) | 5:29 |
 | 84 | [DON'T WANNA CRY \- Piano Version](https://open.spotify.com/track/1hPmXto0JEfqIDDLstzNIM) | [Moonlight Jazz Blue](https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI) | [K\-POP PIANO BEST](https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ) | 4:18 |
 | 85 | [MR \- Piano Version](https://open.spotify.com/track/09j03gGhfEEN1DKmokreoT) | [Moonlight Jazz Blue](https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI) | [K\-POP PIANO BEST](https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ) | 4:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 99 | [Blood Sweat & Tears](https://open.spotify.com/track/5DggVRzTXeN8Jm729lIKNA) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [Blood Sweat & Tears](https://open.spotify.com/album/56EROHjI2C2z9MGg680i7o) | 4:01 |
 | 100 | [Boy With Luv](https://open.spotify.com/track/7xThmcrNfxkwlljLH1tkzO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 4:00 |
 
-Snapshot ID: `MCw5Mjk2MjI2YmU2YmQwNjQ0M2IxYWNmOWE3YmFkMGU2MjU2MjlhYTYx`
+Snapshot ID: `MCw0ODYzNGU3NGU1MDgwYTUxYWVhYzc4Y2I3Yjk1ODY0YjNlM2E5NjQ2`

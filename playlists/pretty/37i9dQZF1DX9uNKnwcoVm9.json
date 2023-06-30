@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 231401,
+  "num_followers": 231495,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTNmNjY5NWIxN2ZlYjM1ODJkODhjMDM0ZDYyZDNlMmEyZjA0ZjU3",
+  "snapshot_id": "MCxlODFjNGE0NzU3ZThmZDBiMjcxOGRlNzVmZTI3ZDk2NTlhNWQ4Y2Zi",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vuelve a Casa",
-        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 254066,
-      "name": "Si Puedes Creer",
-      "url": "https://open.spotify.com/track/03zBrLi4BWMlf09IoK9TIJ"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Me Has Hecho Libre",
         "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 380316,
       "name": "Precioso Jes\u00fas",
       "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Vuelve a Casa",
+        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "Si Puedes Creer",
+      "url": "https://open.spotify.com/track/03zBrLi4BWMlf09IoK9TIJ"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/203hB61YfdDgcnW4w2ODMr"
+        "name": "Dios Lo Har\u00e1 Otra Vez",
+        "url": "https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI"
       },
       "artists": [
         {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+          "name": "Ruth Mixter",
+          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
         }
       ],
-      "duration_ms": 237557,
-      "name": "Se Mueven las Aguas",
-      "url": "https://open.spotify.com/track/3LtpWjUOqFGG4rFWGBn8MD"
+      "duration_ms": 270001,
+      "name": "Por el Sue\u00f1o De Dios",
+      "url": "https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Me Visti\u00f3 De Promesas",
-        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/203hB61YfdDgcnW4w2ODMr"
       },
       "artists": [
         {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
         }
       ],
-      "duration_ms": 259094,
-      "name": "\u00bfDe Qui\u00e9n Temer\u00e9? (Dios De Ej\u00e9rcitos)",
-      "url": "https://open.spotify.com/track/60J9n7mYcPsunOxSJGjSqW"
+      "duration_ms": 237557,
+      "name": "Se Mueven las Aguas",
+      "url": "https://open.spotify.com/track/3LtpWjUOqFGG4rFWGBn8MD"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Dios Lo Har\u00e1 Otra Vez",
-        "url": "https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI"
+        "name": "Me Visti\u00f3 De Promesas",
+        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
       },
       "artists": [
         {
-          "name": "Ruth Mixter",
-          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
         }
       ],
-      "duration_ms": 270001,
-      "name": "Por el Sue\u00f1o De Dios",
-      "url": "https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR"
+      "duration_ms": 259094,
+      "name": "\u00bfDe Qui\u00e9n Temer\u00e9? (Dios De Ej\u00e9rcitos)",
+      "url": "https://open.spotify.com/track/60J9n7mYcPsunOxSJGjSqW"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Anhelo Conocerte",
-        "url": "https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu"
+        "name": "Inquebrantable",
+        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
       },
       "artists": [
         {
-          "name": "Luigi Castro",
-          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
+          "name": "Ruth Mixter",
+          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
         }
       ],
-      "duration_ms": 397760,
-      "name": "Anciano de D\u00edas - Live",
-      "url": "https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu"
+      "duration_ms": 228127,
+      "name": "Lo mejor de m\u00ed",
+      "url": "https://open.spotify.com/track/4oFGRSbsUBmnhd4ADomFmc"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Inquebrantable",
-        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
+        "name": "Anhelo Conocerte",
+        "url": "https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu"
       },
       "artists": [
         {
-          "name": "Ruth Mixter",
-          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
+          "name": "Luigi Castro",
+          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
         }
       ],
-      "duration_ms": 228127,
-      "name": "Lo mejor de m\u00ed",
-      "url": "https://open.spotify.com/track/4oFGRSbsUBmnhd4ADomFmc"
+      "duration_ms": 397760,
+      "name": "Anciano de D\u00edas - Live",
+      "url": "https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Recopilaci\u00f3n",
-        "url": "https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl"
-      },
-      "artists": [
-        {
-          "name": "Luigi Castro",
-          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
-        }
-      ],
-      "duration_ms": 392438,
-      "name": "Atr\u00e1eme a Ti",
-      "url": "https://open.spotify.com/track/1NG2W9OLWi5CXxlmzCcCLj"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Motivos Para Amarte",
         "url": "https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 264626,
       "name": "Gloria al Rey",
       "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Recopilaci\u00f3n",
+        "url": "https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl"
+      },
+      "artists": [
+        {
+          "name": "Luigi Castro",
+          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
+        }
+      ],
+      "duration_ms": 392438,
+      "name": "Atr\u00e1eme a Ti",
+      "url": "https://open.spotify.com/track/1NG2W9OLWi5CXxlmzCcCLj"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Perdido en Tu Amor",
-        "url": "https://open.spotify.com/album/0A92FA4s4a4jM7GuBqVE5F"
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/5GWkPY9tYCZXLHswGzo0ZR"
       },
       "artists": [
         {
-          "name": "Luigi Castro",
-          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
         }
       ],
-      "duration_ms": 297626,
-      "name": "Escondido en \u00c8l - Spanish",
-      "url": "https://open.spotify.com/track/5j7zEOjg0ySSGK5R3aSS3s"
+      "duration_ms": 234057,
+      "name": "Parece un Sueno",
+      "url": "https://open.spotify.com/track/7LYLheF1lgAicmSeugSFR7"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/5GWkPY9tYCZXLHswGzo0ZR"
+        "name": "Perdido en Tu Amor",
+        "url": "https://open.spotify.com/album/0A92FA4s4a4jM7GuBqVE5F"
       },
       "artists": [
         {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+          "name": "Luigi Castro",
+          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
         }
       ],
-      "duration_ms": 234057,
-      "name": "Parece un Sueno",
-      "url": "https://open.spotify.com/track/7LYLheF1lgAicmSeugSFR7"
+      "duration_ms": 297626,
+      "name": "Escondido en \u00c8l - Spanish",
+      "url": "https://open.spotify.com/track/5j7zEOjg0ySSGK5R3aSS3s"
     },
     {
       "added_at": "2020-11-24 13:23:38",

@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 281769,
+  "num_followers": 281802,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGI3ZTczM2RiOTcxZTY3MGY0YjJjNzY2OTYyNDg0NmFjODk0MGRk",
+  "snapshot_id": "MCxmMjY1MjQ1Mjc0YTFlODM0YWVmMWM3OWViYzg1MTkyODJiMDVhOGY1",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Where Is My Mind?",
         "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 177260,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Bette Davis Eyes",
-        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
-      },
-      "artists": [
-        {
-          "name": "BOY",
-          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 309359,
       "name": "re: Stacks - Spotify Singles",
       "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
+      },
+      "artists": [
+        {
+          "name": "BOY",
+          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -725,20 +725,20 @@
       "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
-        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 149400,
-      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
-      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -757,20 +757,20 @@
       "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
+        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
+        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
       },
       "artists": [
         {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+      "duration_ms": 149400,
+      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
+      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -845,26 +845,6 @@
       "url": "https://open.spotify.com/track/76sXxllp4hfL5cAY2906oP"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Everyone's In Love With You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Everyone's In Love With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Riptide",
@@ -887,6 +867,26 @@
       "duration_ms": 193344,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Everyone's In Love With You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Everyone's In Love With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Thank You For Being Here",
+        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 125739,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Three Hours",
@@ -1007,22 +1023,6 @@
       "duration_ms": 272567,
       "name": "Three Hours",
       "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Thank You For Being Here",
-        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 125739,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 154869,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Line Of Fire (feat. Sharon Van Etten)",
@@ -1283,22 +1299,6 @@
       "duration_ms": 338733,
       "name": "Line Of Fire (feat. Sharon Van Etten)",
       "url": "https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 154869,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 187697,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "In a Heartbeat",
+        "url": "https://open.spotify.com/album/0PAFBKP82cxNYTM05Ca8jp"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 174330,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/5PDPuNnEocaxBD0NzVEjmh"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Melody & Silence",
         "url": "https://open.spotify.com/album/6btmrcBvREYtau5PaPugPy"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 280086,
       "name": "Bittersweet Symphony",
       "url": "https://open.spotify.com/track/1Ma1JqyeNg7RVdeTlYP5AN"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "In a Heartbeat",
-        "url": "https://open.spotify.com/album/0PAFBKP82cxNYTM05Ca8jp"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 174330,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/5PDPuNnEocaxBD0NzVEjmh"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Under The Milky Way",
-        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
+        "name": "Horror Show",
+        "url": "https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq"
       },
       "artists": [
         {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        },
+        {
+          "name": "Nikki Flores",
+          "url": "https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB"
         }
       ],
-      "duration_ms": 260101,
-      "name": "Under The Milky Way",
-      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
+      "duration_ms": 216440,
+      "name": "Because The Night",
+      "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
     }
   ],
   "unique_name": "Indie Covers",

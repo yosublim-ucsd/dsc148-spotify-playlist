@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Damalia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,941 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,952 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 16 | [No se frena](https://open.spotify.com/track/6uJwFNw4CqUwfXsp3A1Mlv) | [Aranguren](https://open.spotify.com/artist/1mCayOxLt9RTQdH1OCHiY1) | [Coanda](https://open.spotify.com/album/25XJJqh7J8OX3dqVo6qRxM) | 2:49 |
 | 17 | [Tenemos Algo Que Solucionar](https://open.spotify.com/track/46H6sHclq3EOI1MSOGdi69) | [Alejo](https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h) | [Tenemos Algo Que Solucionar](https://open.spotify.com/album/1z141GDxf23yAs43ORmjLs) | 4:37 |
 | 18 | [Romanze de los anjalicos](https://open.spotify.com/track/2xahBQ7NbU4bl0JbtxSGUZ) | [REZELO](https://open.spotify.com/artist/1nSlIKzRjn19dziheCrVdU), [El Cebri](https://open.spotify.com/artist/4uRcNidFS0LX2ebtwpCses) | [Romanze de los anjalicos](https://open.spotify.com/album/3H4A720q7HpNuLQB23ljoM) | 3:26 |
-| 19 | [Fortuna](https://open.spotify.com/track/2ExV0VhkeO8sPrfr2O0TM8) | [Proyecto Orugami](https://open.spotify.com/artist/2lvEDkyLxAXBwK3DW4NHfi), [Nuñez](https://open.spotify.com/artist/51fPpOO4mvwmw2UxemjDMi) | [Fortuna](https://open.spotify.com/album/50NdFq1sPCaG08glDIxNEN) | 3:50 |
+| 19 | [Fortuna](https://open.spotify.com/track/2ExV0VhkeO8sPrfr2O0TM8) | [Proyecto Orugami](https://open.spotify.com/artist/2lvEDkyLxAXBwK3DW4NHfi), [Nuñez](https://open.spotify.com/artist/51fPpOO4mvwmw2UxemjDMi), [Migué Chupete](https://open.spotify.com/artist/6XML1EDalLHbeaLf4FcrjH) | [Fortuna](https://open.spotify.com/album/50NdFq1sPCaG08glDIxNEN) | 3:50 |
 | 20 | [Me siento distinto](https://open.spotify.com/track/6BImCuLMXotewkAQEZCqT0) | [Yung Nick](https://open.spotify.com/artist/2ZIuQGyIp2qFKDfdWkdzND), [John Pollõn](https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh), [TylerB](https://open.spotify.com/artist/1BdJTdGgEEhgwxj08lcQVi) | [PA LLORAR Y NO ECHAR GOTA](https://open.spotify.com/album/4Z2NkyhRJHvP2QCtHfDWjd) | 3:00 |
 | 21 | [Volando Raso](https://open.spotify.com/track/07vb469n0kaBMGnuA4XJbN) | [Arbusto Crower](https://open.spotify.com/artist/53JiTyq8T2C7qUJvPrVHga), [Krafty](https://open.spotify.com/artist/4JDHtRQ8ZYtNvhmSROXxSO) | [Volando Raso](https://open.spotify.com/album/46rDPzNfvHoOQUrzunHChe) | 3:11 |
 | 22 | [WHO THE F\*CK IS IRIBARNE? \- Banda Sonora de la obra de teatro IRIBARNE](https://open.spotify.com/track/1ho5OoSJRcIWyZzqWWdga6) | [Berto](https://open.spotify.com/artist/7AKh8HXKj8nJqm8xUcJJAy) | [WHO THE F\*CK IS IRIBARNE? \(Banda Sonora de la obra de teatro IRIBARNE\)](https://open.spotify.com/album/5ahrYvzFUkYXHDkaQ9iOHd) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [No Doy Tanto Miedo](https://open.spotify.com/track/1j9YqJG8rII3jHefSdJhrr) | [Virya Cruz](https://open.spotify.com/artist/6n4rzYTrqXsgalllwRoySs) | [No Doy Tanto Miedo](https://open.spotify.com/album/2GnyfMB0nxPX79JvWDs7af) | 2:50 |
 | 50 | [Mis amigas](https://open.spotify.com/track/4IGR1gTG2Ng9tkoPHQzpyu) | [Carrera Blanca](https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A), [Precariada](https://open.spotify.com/artist/1xdnBT8rYFFBaoYlzVlnlM) | [Mis amigas](https://open.spotify.com/album/6xDu34A8Nns57EbWRe8mFQ) | 1:51 |
 
-Snapshot ID: `MCw3MTFiN2ZlYTQ0ZTI1Y2RjNDgzMDlhZGY0NWM2Mjc5OGNmYjRhOGNm`
+Snapshot ID: `MCw3NTRmYjM2YWRiZDFjNTEzMzQ0ZWYwOTQ1NDFiZDRhMWRkNDJiMGNk`

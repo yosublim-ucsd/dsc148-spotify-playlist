@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 58406,
+  "num_followers": 58420,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MTk3MSwwY2E4YzFhN2Y2YzcxMjAzYjc2YmQyNDk1YjI4Y2U2ZmQ4ZTk3MGM4",
+  "snapshot_id": "MTk3Myw1MzgzMDgzMzgzYzE4NWNiNzQzM2QyMGJiOWZhMzFiMzc5MjYzNGM5",
   "tracks": [
     {
       "added_at": "2023-06-16 10:33:03",
@@ -23,6 +23,30 @@
       "duration_ms": 236953,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu"
+    },
+    {
+      "added_at": "2023-06-29 13:43:29",
+      "album": {
+        "name": "Storm Before The Calm (feat. DMC of Run-D.M.C.)",
+        "url": "https://open.spotify.com/album/0TLp9l9dS9euALXd3leck0"
+      },
+      "artists": [
+        {
+          "name": "Classless Act",
+          "url": "https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1"
+        },
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        },
+        {
+          "name": "DMC",
+          "url": "https://open.spotify.com/artist/0TIHoznszlOjqLNkuK6l42"
+        }
+      ],
+      "duration_ms": 225444,
+      "name": "Storm Before The Calm (feat. DMC of Run-D.M.C.)",
+      "url": "https://open.spotify.com/track/2np8CDTbdwijM9Bvv3rPCd"
     },
     {
       "added_at": "2023-06-16 10:33:10",

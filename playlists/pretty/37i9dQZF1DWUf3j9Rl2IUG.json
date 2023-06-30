@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=98bXY92DTtaETZMRhU-Glw\"> Omah Lay</a>  ",
-  "num_followers": 62010,
+  "num_followers": 62178,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjdmY2QwYmNmMzk1OTk3ZmYzZjM5ZjhmZDExZjc0YjVjOTc4MjQ4",
+  "snapshot_id": "MCw4ZmVmMzliNmRmOThlNTI0N2Q0NjYyYzc2ZGM0Mjk4ZjY5NjQ1YjA1",
   "tracks": [
     {
       "added_at": "2023-06-22 23:00:00",
@@ -971,38 +971,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 195668,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Jonzing Boy",
-        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Jonzing Boy",
-      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Feel Different",
         "url": "https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM"
       },
@@ -1027,26 +995,34 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "PICANTO",
-        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
+        "name": "Jonzing Boy",
+        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "ECko Miles",
-          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 184077,
-      "name": "PICANTO",
-      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+      "duration_ms": 185660,
+      "name": "Jonzing Boy",
+      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 195668,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1067,6 +1043,30 @@
       "duration_ms": 153523,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "PICANTO",
+        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ECko Miles",
+          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "PICANTO",
+      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 149052,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
         "name": "Legend Or No Legend",
         "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 209970,
       "name": "Ebelebe (feat. Wizkid)",
       "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
-        "name": "Dog Eat Dog",
-        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 149052,
-      "name": "Dog Eat Dog",
-      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
     },
     {
       "added_at": "2023-06-22 23:00:00",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2023-06-22 23:00:00",
       "album": {
-        "name": "Let There Be Light",
-        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Let There Be Light",
-      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
-    },
-    {
-      "added_at": "2023-06-22 23:00:00",
-      "album": {
         "name": "Kpe Paso",
         "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+    },
+    {
+      "added_at": "2023-06-22 23:00:00",
+      "album": {
+        "name": "Let There Be Light",
+        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Let There Be Light",
+      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
     },
     {
       "added_at": "2023-06-22 23:00:00",

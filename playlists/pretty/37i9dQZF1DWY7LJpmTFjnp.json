@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Los Bunkers en portada. ",
-  "num_followers": 998322,
+  "num_followers": 998556,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDRkMmUzYjAxOWQxYTg5ZDU2OGY1NzM1YzliYjY0MzYwZjVmMzc0",
+  "snapshot_id": "MCxjNTllNjEwNThhOTY3MDAwMDhkNjFlNDg1ZWMyOWU3NTEyYWU2MWY4",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Pas\u00f3?",
-        "url": "https://open.spotify.com/album/3wru4behR9ntB5BMr9El5W"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 325032,
-      "name": "\u00bfQu\u00e9 Pas\u00f3?",
-      "url": "https://open.spotify.com/track/5n5cmFqNVbdEcG6ybPaDOA"
-    },
-    {
-      "added_at": "2023-06-16 06:00:00",
-      "album": {
         "name": "El Santuario",
         "url": "https://open.spotify.com/album/6MWOkdCIK6SNDqKQ8ouAqE"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 244714,
       "name": "El Santuario",
       "url": "https://open.spotify.com/track/5KWfHFrSqP8oa04sWIQK9L"
+    },
+    {
+      "added_at": "2023-06-16 06:00:00",
+      "album": {
+        "name": "\u00bfQu\u00e9 Pas\u00f3?",
+        "url": "https://open.spotify.com/album/3wru4behR9ntB5BMr9El5W"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 325032,
+      "name": "\u00bfQu\u00e9 Pas\u00f3?",
+      "url": "https://open.spotify.com/track/5n5cmFqNVbdEcG6ybPaDOA"
     },
     {
       "added_at": "2023-06-16 06:00:00",

@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Michael Ray, Old Dominion, Ashley Cooke and more.
 
-3,882 songs - 8 day 20 hr 11 min
+3,883 songs - 8 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2521,7 +2521,8 @@
 | [Out of That Memory](https://open.spotify.com/track/1jg2kF8lorLHICXD2vwZjI) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Out of That Memory](https://open.spotify.com/album/15fAc3aWRijNYBEiP2J80K) | 3:14 | 2022-02-11 | 2022-02-19 |
 | [Out Of That Truck](https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Out Of That Truck](https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ) | 2:57 | 2023-03-10 | 2023-03-18 |
 | [Out of the Blue](https://open.spotify.com/track/1PlkUaRg6MTTZ5wUzQsiYd) | [Blake Henderson](https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4) | [Out of the Blue](https://open.spotify.com/album/7MlBio3dlMhP4dFh7JM7wt) | 2:49 | 2023-04-28 | 2023-05-06 |
-| [Out of the Blue](https://open.spotify.com/track/2HrgOXVI4LvL16bI6493X9) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Out of the Blue](https://open.spotify.com/album/2WnD5GaQWKvmTUCZvtz5Rg) | 3:50 | 2023-06-23 |  |
+| [Out of the Blue](https://open.spotify.com/track/23iScQD5yKB0WB6NEWFfp6) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Out of the Blue](https://open.spotify.com/album/3SUEowt2p7gYCAi7GYsN37) | 3:50 | 2023-06-23 |  |
+| [Out of the Blue](https://open.spotify.com/track/2HrgOXVI4LvL16bI6493X9) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Out of the Blue](https://open.spotify.com/album/2WnD5GaQWKvmTUCZvtz5Rg) | 3:50 | 2023-06-23 | 2023-06-30 |
 | [Out That Way](https://open.spotify.com/track/0dGAbChwQ2ArFygH1shQKs) | [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Out That Way](https://open.spotify.com/album/5y71HgyCwjW4cjGvFQxQLI) | 3:25 | 2022-06-24 | 2022-07-02 |
 | [Out Yonder](https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Out Yonder](https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P) | 3:22 | 2022-03-18 | 2022-03-26 |
 | [OUTGROW LOVE](https://open.spotify.com/track/6O4LlKjfAeEzfJ1UW1QXpL) | [Ashley Walls](https://open.spotify.com/artist/1sO7K6dVf1ZYa4XNZVozBw) | [OUTGROW LOVE](https://open.spotify.com/album/4QXFop0BHnql0l9JQNYutz) | 3:14 | 2022-11-25 | 2022-12-03 |
@@ -3768,11 +3769,11 @@
 | [With You Gone](https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [With You Gone](https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6) | 4:06 | 2022-08-05 | 2022-08-13 |
 | [Withdrawal](https://open.spotify.com/track/1f9fvRvOgREiC3xTUaDFr3) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Withdrawal](https://open.spotify.com/album/7LV4Vj7cl5fxT4DAL6TU7R) | 4:03 | 2023-02-24 | 2023-03-04 |
 | [Without Tennessee](https://open.spotify.com/track/1OYFKHdmktpYWUY8VqgVLQ) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Without Tennessee](https://open.spotify.com/album/4GWr6C4AZvS3DyjFiJR7Bh) | 3:34 | 2022-04-15 | 2022-04-23 |
-| [Without You](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 | 2023-06-23 |  |
 | [Without You](https://open.spotify.com/track/5faz6fNsNJ3o8IngDtIJQR) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Without You](https://open.spotify.com/album/0u2vjtAHlmJQgRqYVQLPF2) | 3:24 | 2023-04-28 | 2023-05-06 |
 | [Without You](https://open.spotify.com/track/5dtlzh84PxAqICSwytRZxt) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt), [Lauren Mascitti](https://open.spotify.com/artist/3bDOoaY4g6XgGpSeZSoWzQ) | [Without You](https://open.spotify.com/album/4rTkpKcUjX6COm5DOl25xq) | 2:59 | 2023-05-19 | 2023-06-03 |
 | [Without You](https://open.spotify.com/track/5LLj9u9X29c0X7lvUIkFco) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Without You](https://open.spotify.com/album/5bFAQJBLLVFaBwfwZJ9nQp) | 2:57 | 2022-05-13 | 2022-05-20 |
 | [Without You](https://open.spotify.com/track/7IfbF3rQlQ5coHkXS4Casy) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Without You](https://open.spotify.com/album/41p4NIrae8ltOXMCFIJBSP) | 2:58 | 2023-03-10 | 2023-03-18 |
+| [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 | 2023-06-23 |  |
 | [Wolves Cry](https://open.spotify.com/track/39SzkM3x0JGY6b7HV0wi4E) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Wolves Cry](https://open.spotify.com/album/6C6MV8pVQJLMtXGIjSlRtC) | 2:43 | 2023-01-27 | 2023-02-04 |
 | [Woman Up \(And Take It Like A Man\)](https://open.spotify.com/track/4ed8tSfo4yU778D2mzIptV) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 2:27 | 2022-03-04 | 2022-03-12 |
 | [Women And Horses \(feat\. Brandy Clark\)](https://open.spotify.com/track/0KjtzuS5bDYoICk5t2xMyE) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Women And Horses](https://open.spotify.com/album/2QcJKU6A5kUpzIR2LfCIqR) | 4:13 | 2023-06-02 | 2023-06-10 |

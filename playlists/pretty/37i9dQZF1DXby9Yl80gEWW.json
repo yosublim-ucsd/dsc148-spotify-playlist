@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 39874,
+  "num_followers": 39901,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzMzZDVlNGQ1ZDQyZjNlMmQwMjlkODE3NDdhNWE3NDU1YTY5NGM4",
+  "snapshot_id": "MCwwOTQyZGE5NGFhYTVhNGU1NjIzY2QwOWE0NmM3OGY0ZTYxYjc3ZTUz",
   "tracks": [
     {
       "added_at": "2023-06-23 04:14:50",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-23 04:14:50",
       "album": {
-        "name": "Long Violent History",
-        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Camp Chase",
-      "url": "https://open.spotify.com/track/0oe6Z8P9wQqrdRSaVtySKq"
-    },
-    {
-      "added_at": "2023-06-23 04:14:50",
-      "album": {
         "name": "Just Around the Bend: Survival and Revival in Southern Banjo Sounds - Mike Seeger's Last Documentary",
         "url": "https://open.spotify.com/album/7yBEb8FGqXKtzLzsCf93gg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 86800,
       "name": "Cripple Creek",
       "url": "https://open.spotify.com/track/7fqY4vS7K3kxbQLNmmyt8Y"
+    },
+    {
+      "added_at": "2023-06-23 04:14:50",
+      "album": {
+        "name": "Long Violent History",
+        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Camp Chase",
+      "url": "https://open.spotify.com/track/0oe6Z8P9wQqrdRSaVtySKq"
     },
     {
       "added_at": "2023-06-23 04:14:50",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-06-23 04:14:50",
       "album": {
+        "name": "Appalachian Picking Society",
+        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
+      },
+      "artists": [
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Annabelle June",
+      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
+    },
+    {
+      "added_at": "2023-06-23 04:14:50",
+      "album": {
         "name": "Lone Soldier",
         "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 180493,
       "name": "Bon Aqua Blues",
       "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
-    },
-    {
-      "added_at": "2023-06-23 04:14:50",
-      "album": {
-        "name": "Appalachian Picking Society",
-        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
-      },
-      "artists": [
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        },
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Annabelle June",
-      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
     },
     {
       "added_at": "2023-06-23 04:14:50",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-06-23 04:14:50",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Wolf Moon",
-      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
-    },
-    {
-      "added_at": "2023-06-23 04:14:50",
-      "album": {
         "name": "Me & My Guitar",
         "url": "https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-06-23 04:14:50",
       "album": {
-        "name": "Fiddler's Dream",
-        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
         }
       ],
-      "duration_ms": 217946,
-      "name": "Fiddler's Dream",
-      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
+      "duration_ms": 174093,
+      "name": "Wolf Moon",
+      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
     },
     {
       "added_at": "2023-06-23 04:14:50",
@@ -1515,6 +1499,22 @@
       "duration_ms": 244706,
       "name": "If I Knew - Instrumental",
       "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
+    },
+    {
+      "added_at": "2023-06-23 04:14:50",
+      "album": {
+        "name": "Fiddler's Dream",
+        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Fiddler's Dream",
+      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
     },
     {
       "added_at": "2023-06-23 04:14:50",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-06-23 04:14:50",
       "album": {
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
+    },
+    {
+      "added_at": "2023-06-23 04:14:50",
+      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2023-06-23 04:14:50",
       "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "40 West",
-      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
-    },
-    {
-      "added_at": "2023-06-23 04:14:50",
-      "album": {
         "name": "Squirrelville",
         "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-06-23 04:14:50",
       "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
-    },
-    {
-      "added_at": "2023-06-23 04:14:50",
-      "album": {
         "name": "30 Turkeys",
         "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 140970,
       "name": "30 Turkeys",
       "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
+    },
+    {
+      "added_at": "2023-06-23 04:14:50",
+      "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "40 West",
+      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
     },
     {
       "added_at": "2023-06-23 04:14:50",
@@ -1675,38 +1675,6 @@
     {
       "added_at": "2023-06-23 04:14:50",
       "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 292614,
-      "name": "Creatures of Havoc",
-      "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
-    },
-    {
-      "added_at": "2023-06-23 04:14:50",
-      "album": {
-        "name": "Hurricane Clarice",
-        "url": "https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76"
-      },
-      "artists": [
-        {
-          "name": "Allison de Groot & Tatiana Hargreaves",
-          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
-        }
-      ],
-      "duration_ms": 189061,
-      "name": "Nancy Blevins",
-      "url": "https://open.spotify.com/track/7DyDMa2OCEWpCNWf6Qt9E5"
-    },
-    {
-      "added_at": "2023-06-23 04:14:50",
-      "album": {
         "name": "Americana Master Series: Best Of The Sugar Hill Years",
         "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
       },
@@ -1719,6 +1687,22 @@
       "duration_ms": 392200,
       "name": "We Hide And Seek",
       "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
+    },
+    {
+      "added_at": "2023-06-23 04:14:50",
+      "album": {
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 292614,
+      "name": "Creatures of Havoc",
+      "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
     },
     {
       "added_at": "2023-06-23 04:14:50",
@@ -1751,6 +1735,22 @@
       "duration_ms": 288026,
       "name": "Along Came Sonny",
       "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
+    },
+    {
+      "added_at": "2023-06-23 04:14:50",
+      "album": {
+        "name": "Hurricane Clarice",
+        "url": "https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76"
+      },
+      "artists": [
+        {
+          "name": "Allison de Groot & Tatiana Hargreaves",
+          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
+        }
+      ],
+      "duration_ms": 189061,
+      "name": "Nancy Blevins",
+      "url": "https://open.spotify.com/track/7DyDMa2OCEWpCNWf6Qt9E5"
     },
     {
       "added_at": "2023-06-23 04:14:50",

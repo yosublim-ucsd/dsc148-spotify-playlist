@@ -4,7 +4,7 @@
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-467 songs - 18 hr 24 min
+468 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,8 @@
 | [Static](https://open.spotify.com/track/6Itf6EBUn3NZA1ZKkiEurI) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [Static](https://open.spotify.com/album/5j9vFsTPY5wKRdmZcuoUN6) | 2:17 | 2021-09-17 | 2022-07-27 |
 | [STATIC SHOCC](https://open.spotify.com/track/0w8rFaLu8fDDdYchCtSTa2) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw), [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS) | [STATIC SHOCC](https://open.spotify.com/album/5BaWNtN23bX8x0hfgCf2WZ) | 2:08 | 2022-05-20 | 2022-07-27 |
 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2022-09-02 |  |
-| [Stick Out When I'm Live](https://open.spotify.com/track/7MINVWP52eYRpaKZeMrjVP) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [Stick Out When I'm Live](https://open.spotify.com/album/5ju3Ng1zbjb4LjVxxnupAh) | 2:23 | 2023-04-07 |  |
+| [Stick Out When I'm Live](https://open.spotify.com/track/45DchKb8vLBdbF6MNZdjPa) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [Stick Out When I'm Live](https://open.spotify.com/album/4MzYFpjiBtNyLGTyi72wUs) | 2:23 | 2023-04-07 |  |
+| [Stick Out When I'm Live](https://open.spotify.com/track/7MINVWP52eYRpaKZeMrjVP) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [Stick Out When I'm Live](https://open.spotify.com/album/5ju3Ng1zbjb4LjVxxnupAh) | 2:23 | 2023-04-07 | 2023-06-30 |
 | [STORM](https://open.spotify.com/track/1hLu8lAkeGXsvbQ7KjLNB7) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [STORM](https://open.spotify.com/album/6xn0UHdx3teWPJcblsCeLl) | 2:58 | 2023-06-02 |  |
 | [Strangers](https://open.spotify.com/track/1VMjSIruIaLUTR1BGkR63W) | [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K) | [Strangers](https://open.spotify.com/album/2SaTMaYwMzNy4rqU3zEDzV) | 2:03 | 2021-09-17 | 2022-05-21 |
 | [SUFFER WELL](https://open.spotify.com/track/27a0M1XQ4T1wjeRd0p7pof) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [SUFFER WELL](https://open.spotify.com/album/4ozL8awM5CpG6OGQXdabSM) | 2:42 | 2022-02-25 | 2022-05-17 |

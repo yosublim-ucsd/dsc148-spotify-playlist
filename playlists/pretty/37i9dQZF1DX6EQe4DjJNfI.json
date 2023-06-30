@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria",
-  "num_followers": 160936,
+  "num_followers": 160966,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTUxNWIwZDFkOTM3MzUzZDkwYTM1MTNlNmJkNTgzOGVjOTFhZTA0",
+  "snapshot_id": "MCw0MjY3MWQzNGNlMDNkMDNjZmYyMzVjMjk4NDBlYjBmOWY0NmRjMzIw",
   "tracks": [
     {
       "added_at": "2023-06-23 16:17:39",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
         "name": "Sinal de Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
@@ -735,6 +715,26 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
+        "name": "N\u00e3o Vou Negar",
+        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        },
+        {
+          "name": "papi",
+          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
+        }
+      ],
+      "duration_ms": 163937,
+      "name": "N\u00e3o Vou Negar",
+      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
         "name": "Censura e Prazer",
         "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
@@ -771,26 +771,6 @@
       "duration_ms": 210000,
       "name": "Casual",
       "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
-        "name": "N\u00e3o Vou Negar",
-        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        },
-        {
-          "name": "papi",
-          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
-        }
-      ],
-      "duration_ms": 163937,
-      "name": "N\u00e3o Vou Negar",
-      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
     },
     {
       "added_at": "2023-06-23 16:17:39",
@@ -879,6 +859,38 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
+        "name": "Tudo Que Restou",
+        "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Natalh\u00e3o",
+          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        },
+        {
+          "name": "UGOTZ",
+          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
+        }
+      ],
+      "duration_ms": 198712,
+      "name": "Tudo Que Restou",
+      "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
         "name": "Tempo pra Perder",
         "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
@@ -919,38 +931,6 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
-        "name": "Tudo Que Restou",
-        "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
-      },
-      "artists": [
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Natalh\u00e3o",
-          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        },
-        {
-          "name": "UGOTZ",
-          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
-        }
-      ],
-      "duration_ms": 198712,
-      "name": "Tudo Que Restou",
-      "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
         "name": "\u00c1gua (Dj Nyack Remix)",
         "url": "https://open.spotify.com/album/0RqBQ7jwjFzVVLt0Tsrrpx"
       },
@@ -971,38 +951,6 @@
       "duration_ms": 233142,
       "name": "\u00c1gua - Dj Nyack Remix",
       "url": "https://open.spotify.com/track/4GPV2BdcXmOWArbqlwwAgX"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
-        "name": "N\u00e3o Quero Te Perder",
-        "url": "https://open.spotify.com/album/5ndAdf9telWSbdHoy8IYh0"
-      },
-      "artists": [
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "N\u00e3o Quero Te Perder",
-      "url": "https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
-      },
-      "artists": [
-        {
-          "name": "Feh",
-          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
     },
     {
       "added_at": "2023-06-23 16:17:39",
@@ -1035,6 +983,38 @@
       "duration_ms": 211524,
       "name": "Mergulhei",
       "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
+        "name": "N\u00e3o Quero Te Perder",
+        "url": "https://open.spotify.com/album/5ndAdf9telWSbdHoy8IYh0"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "N\u00e3o Quero Te Perder",
+      "url": "https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
     },
     {
       "added_at": "2023-06-23 16:17:39",
@@ -1123,30 +1103,6 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
-        "name": "Teu Sinal",
-        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
-      },
-      "artists": [
-        {
-          "name": "Nathy Veras",
-          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        },
-        {
-          "name": "Bubblegun Studios",
-          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Teu Sinal",
-      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
         "name": "O Que Eu Soul (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
@@ -1167,6 +1123,30 @@
       "duration_ms": 199625,
       "name": "O Que Eu Soul - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
+        "name": "Teu Sinal",
+        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
+      },
+      "artists": [
+        {
+          "name": "Nathy Veras",
+          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "Bubblegun Studios",
+          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Teu Sinal",
+      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
     },
     {
       "added_at": "2023-06-23 16:17:39",
@@ -1355,6 +1335,26 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
+        "name": "Incr\u00edvel",
+        "url": "https://open.spotify.com/album/1xS3qTC20EJQkCjjMnG7Rg"
+      },
+      "artists": [
+        {
+          "name": "Theus Costa",
+          "url": "https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP"
+        },
+        {
+          "name": "Qu\u00e9zia Lima",
+          "url": "https://open.spotify.com/artist/4ItRsVQGClDa3B2r5bgoeP"
+        }
+      ],
+      "duration_ms": 122120,
+      "name": "Incr\u00edvel",
+      "url": "https://open.spotify.com/track/21tUE1e9Z0St05vcAAD8zq"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
         "name": "Sensual",
         "url": "https://open.spotify.com/album/3P0v9NCQ7sp9mGjc44q42O"
       },
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
-        "name": "Incr\u00edvel",
-        "url": "https://open.spotify.com/album/1xS3qTC20EJQkCjjMnG7Rg"
-      },
-      "artists": [
-        {
-          "name": "Theus Costa",
-          "url": "https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP"
-        },
-        {
-          "name": "Qu\u00e9zia Lima",
-          "url": "https://open.spotify.com/artist/4ItRsVQGClDa3B2r5bgoeP"
-        }
-      ],
-      "duration_ms": 122120,
-      "name": "Incr\u00edvel",
-      "url": "https://open.spotify.com/track/21tUE1e9Z0St05vcAAD8zq"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
         "name": "Ponto de Equil\u00edbrio",
         "url": "https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH"
       },
@@ -1419,22 +1399,6 @@
       "duration_ms": 193014,
       "name": "Ponto de Equil\u00edbrio",
       "url": "https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV"
-    },
-    {
-      "added_at": "2023-06-23 16:17:39",
-      "album": {
-        "name": "intui\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2kZeL29Ega4qnw1XeXrlo9"
-      },
-      "artists": [
-        {
-          "name": "Luiza Nis",
-          "url": "https://open.spotify.com/artist/21qRf5gB503sjxsJWyEeBD"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "intui\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6US2Fx8OJoj0AViposgfwo"
     },
     {
       "added_at": "2023-06-23 16:17:39",
@@ -1479,6 +1443,22 @@
     {
       "added_at": "2023-06-23 16:17:39",
       "album": {
+        "name": "intui\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2kZeL29Ega4qnw1XeXrlo9"
+      },
+      "artists": [
+        {
+          "name": "Luiza Nis",
+          "url": "https://open.spotify.com/artist/21qRf5gB503sjxsJWyEeBD"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "intui\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6US2Fx8OJoj0AViposgfwo"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
         "name": "incenso",
         "url": "https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 148869,
       "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
       "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
+    },
+    {
+      "added_at": "2023-06-23 16:17:39",
+      "album": {
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
     }
   ],
   "unique_name": "R&B Brasil",

@@ -6125,20 +6125,24 @@
     },
     {
       "album": {
-        "name": "TQM",
+        "name": "TQM (feat. Grupo Doble G)",
         "url": "https://open.spotify.com/album/0sObnYlV4voPzH97IYq2hw"
       },
       "artists": [
         {
           "name": "Los De La 21",
           "url": "https://open.spotify.com/artist/1BGwlfPEZp2S4eBxOclgaE"
+        },
+        {
+          "name": "Grupo Doble G",
+          "url": "https://open.spotify.com/artist/6Op5dYF7fOO3KPigdZqac0"
         }
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162215,
-      "name": "TQM",
+      "name": "TQM (feat. Grupo Doble G)",
       "url": "https://open.spotify.com/track/7n2SBXYBxaWWrPXRCZQwVq"
     },
     {
